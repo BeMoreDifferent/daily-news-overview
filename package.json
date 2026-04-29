@@ -1,0 +1,24 @@
+{
+  "name": "rss_feed_fetcher",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js application for processing RSS feeds",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/app.js --ignore '*.json'",
+    "once": "RUN_ONCE=1 node src/app.js",
+    "info": "node src/info.js",
+    "dry-run": "node src/dryRun.js",
+    "topics": "node src/topics.js",
+    "test:smoke:live": "LIVE_FEED_SMOKE=1 RECENT_DAYS=30 node --test test/liveFeedSmoke.test.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@duckdb/node-api": "^1.5.2-r.1",
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}
