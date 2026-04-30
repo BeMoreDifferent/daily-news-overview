@@ -54,7 +54,3 @@ export function normalizeUrl(url) {
   }
 }
 
-export function areUrlsEquivalent(url1, url2) {
-  if (!url1 || !url2) return false;
-  return normalizeUrl(url1) === normalizeUrl(url2);
-}

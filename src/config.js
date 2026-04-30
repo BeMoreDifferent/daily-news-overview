@@ -3,10 +3,9 @@ import path from 'path';
 
 export const DEFAULT_RUN_INTERVAL_MINUTES = Number(process.env.RUN_INTERVAL_MINUTES || 60);
 export const DEFAULT_FEED_INTERVAL_MINUTES = Number(process.env.FEED_INTERVAL_MINUTES || 10);
-export const DEFAULT_FEED_CONCURRENCY = Number(process.env.FEED_CONCURRENCY || 50);
+export const DEFAULT_FEED_CONCURRENCY = Number(process.env.FEED_CONCURRENCY || 10);
 export const DEFAULT_FEED_TIMEOUT_MS = Number(process.env.FEED_TIMEOUT_MS || 5000);
 export const DEFAULT_MAX_ITEMS_PER_FEED = Number(process.env.MAX_ITEMS_PER_FEED || 50);
-export const DEFAULT_RECENT_DAYS = Number(process.env.RECENT_DAYS || 3);
 export const DEFAULT_DB_PATH = process.env.DUCKDB_PATH || path.join('data', 'rss.duckdb');
 
 const SOURCE_TYPES = new Map([

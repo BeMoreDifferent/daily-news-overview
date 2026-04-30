@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
-import { processFeed } from './services/feedProcessor.js';
+import { processFeed, destroyAgents } from './services/feedProcessor.js';
 import { feedCache } from './services/feedCacheService.js';
 import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
@@ -29,11 +29,12 @@ export async function runOnce(options = {}) {
     const configStartedAt = Date.now();
     const feeds = (await loadFeedConfigs()).filter(feed => feed.enabled);
     const maxFeeds = Number(options.maxFeeds || process.env.MAX_FEEDS_PER_RUN || 0);
-    const runFeeds = feeds.slice(0, maxFeeds > 0 ? maxFeeds : undefined);
+    const allFeeds = feeds.slice(0, maxFeeds > 0 ? maxFeeds : undefined);
+    const runFeeds = allFeeds.filter(feed => feedCache.shouldProcess(feed));
     timing.configMs = Date.now() - configStartedAt;
 
     if (!runFeeds.length) {
-      console.log(`No feeds enabled. Configured=${feeds.length} timing init=${timing.initMs}ms config=${timing.configMs}ms`);
+      console.log(`No feeds due. Configured=${feeds.length} skipped=${allFeeds.length - runFeeds.length} timing init=${timing.initMs}ms config=${timing.configMs}ms`);
       return;
     }
 
@@ -99,6 +100,7 @@ export async function runOnce(options = {}) {
     console.log([
       `RSS run completed in ${(timing.totalMs / 1000).toFixed(2)}s`,
       `configured=${feeds.length}`,
+      `skipped=${allFeeds.length - runFeeds.length}`,
       `fetched=${runFeeds.length}`,
       `concurrency=${DEFAULT_FEED_CONCURRENCY}`,
       `failed=${failed.length}`,
@@ -118,11 +120,13 @@ export async function runOnce(options = {}) {
       `topics_ms=${timing.topicsMs}ms`
     ].join(' '));
 
-    for (const failure of failed.slice(0, 10)) {
-      console.warn(`Feed failed: ${failure.feed.url} - ${failure.error.message}`);
+    for (const failure of failed) {
+      const err = failure.error;
+      const detail = [err.code, err.message].filter(Boolean).join(': ') || String(err);
+      console.warn(`Feed failed: ${failure.feed.url} - ${detail}`);
     }
 
-    printRunSummary({ insertResult, failed, runFeeds, topics });
+    printRunSummary({ insertResult, failed, runFeeds, skipped: allFeeds.length - runFeeds.length, topics });
 
     return {
       feeds,
@@ -140,7 +144,7 @@ export async function runOnce(options = {}) {
   }
 }
 
-function printRunSummary({ insertResult, failed, runFeeds, topics }) {
+function printRunSummary({ insertResult, failed, runFeeds, skipped, topics }) {
   const date = new Date().toISOString().slice(0, 10);
   const total = (insertResult.total ?? 0).toLocaleString();
   const added = insertResult.inserted;
@@ -151,7 +155,7 @@ function printRunSummary({ insertResult, failed, runFeeds, topics }) {
   console.log(` RSS Run Summary  ${date}`);
   console.log(bar);
   console.log(` Total articles   ${total.padStart(8)}  (${addedStr} new)`);
-  console.log(` Feeds fetched    ${String(runFeeds.length).padStart(8)}  (${failed.length} failed)`);
+  console.log(` Feeds fetched    ${String(runFeeds.length).padStart(8)}  (${failed.length} failed, ${skipped} skipped)`);
   console.log(` Topics detected  ${String(topics.length).padStart(8)}`);
 
   const topTopics = topics.slice(0, 10);
@@ -178,8 +182,9 @@ function start() {
 
 async function shutdown() {
   if (interval) clearInterval(interval);
-  await feedCache.save().catch(() => {});
-  await duckDBService.close();
+  setTimeout(() => process.exit(1), 10_000).unref();
+  destroyAgents();
+  await Promise.allSettled([feedCache.save(), duckDBService.close()]);
   process.exit(0);
 }
 

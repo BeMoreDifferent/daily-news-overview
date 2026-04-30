@@ -1,13 +1,19 @@
+import http from 'node:http';
+import https from 'node:https';
 import Parser from 'rss-parser';
-import { DEFAULT_FEED_TIMEOUT_MS, DEFAULT_RECENT_DAYS } from '../config.js';
+import { DEFAULT_FEED_TIMEOUT_MS } from '../config.js';
 import { hash64 } from '../utils/hash.js';
 import { normalizeUrl } from '../utils/urlNormalizer.js';
 
+const httpAgent  = new http.Agent({ maxSockets: 10 });
+const httpsAgent = new https.Agent({ maxSockets: 10 });
+
+export function destroyAgents() {
+  httpAgent.destroy();
+  httpsAgent.destroy();
+}
+
 const parser = new Parser({
-  timeout: DEFAULT_FEED_TIMEOUT_MS,
-  headers: {
-    'User-Agent': 'rss-feed-fetcher/2.0'
-  },
   customFields: {
     item: [
       ['content:encoded', 'content'],
@@ -28,16 +34,49 @@ const parser = new Parser({
   }
 });
 
+function fetchXml(url, redirectCount = 0) {
+  if (redirectCount > 5) {
+    return Promise.reject(Object.assign(new Error('Too many redirects'), { code: 'EREDIRECT' }));
+  }
+  const isHttps = url.startsWith('https:');
+  const lib = isHttps ? https : http;
+  const agent = isHttps ? httpsAgent : httpAgent;
+
+  return new Promise((resolve, reject) => {
+    const req = lib.get(url, { agent, headers: { 'User-Agent': 'rss-feed-fetcher/2.0' } }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.resume();
+        const redirectUrl = new URL(res.headers.location, url).href;
+        fetchXml(redirectUrl, redirectCount + 1).then(resolve, reject);
+        return;
+      }
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        res.resume();
+        reject(Object.assign(new Error(`HTTP ${res.statusCode}`), { code: `HTTP_${res.statusCode}` }));
+        return;
+      }
+      const chunks = [];
+      res.on('data', chunk => chunks.push(chunk));
+      res.on('end', () => resolve(Buffer.concat(chunks).toString()));
+      res.on('error', reject);
+    });
+    req.setTimeout(DEFAULT_FEED_TIMEOUT_MS, () => {
+      req.destroy(Object.assign(new Error('Request timed out'), { code: 'ETIMEDOUT' }));
+    });
+    req.on('error', reject);
+  });
+}
+
 export async function processFeed(feed, options = {}) {
   const startedAt = Date.now();
   const now = options.now || new Date();
   const fetchStartedAt = Date.now();
-  const feedData = await parser.parseURL(feed.url);
+  const xml = await fetchXml(feed.url);
+  const feedData = await parser.parseString(xml);
   const fetchParseMs = Date.now() - fetchStartedAt;
   const mapStartedAt = Date.now();
   const items = feedData.items.slice(0, feed.maxItems);
   const rows = items
-    .filter(item => isRecentItem(item, now, DEFAULT_RECENT_DAYS))
     .map(item => mapFeedItemToArticleRow(item, feed, feedData, now))
     .filter(Boolean);
   const mapMs = Date.now() - mapStartedAt;
@@ -90,7 +129,7 @@ export function mapFeedItemToArticleRow(item, feed, feedData = {}, now = new Dat
   };
 }
 
-export function isRecentItem(item, now = new Date(), recentDays = DEFAULT_RECENT_DAYS) {
+export function isRecentItem(item, now = new Date(), recentDays = 3) {
   const publishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
   if (!publishedAt) return true;
   const cutoff = new Date(now.getTime() - recentDays * 24 * 60 * 60 * 1000);
