@@ -11,7 +11,13 @@
     "dry-run": "node src/dryRun.js",
     "topics": "node src/topics.js",
     "test:smoke:live": "LIVE_FEED_SMOKE=1 RECENT_DAYS=30 node --test test/liveFeedSmoke.test.js",
-    "test": "node --test"
+    "test": "node --test",
+    "feeds:expand": "node scripts/expandFeeds.js",
+    "feeds:expand:dry": "node scripts/expandFeeds.js --dry-run",
+    "feeds:expand:validate": "node scripts/expandFeeds.js --only-validate"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "keywords": [],
   "author": "",

@@ -6,6 +6,7 @@ package-lock.json
 data/*.json
 data/*.duckdb
 data/*.duckdb.wal
+data/backups/
 !data/rss_feeds.json.example
 
 # Environment variables

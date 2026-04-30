@@ -122,6 +122,8 @@ export async function runOnce(options = {}) {
       console.warn(`Feed failed: ${failure.feed.url} - ${failure.error.message}`);
     }
 
+    printRunSummary({ insertResult, failed, runFeeds, topics });
+
     return {
       feeds,
       runFeeds,
@@ -136,6 +138,36 @@ export async function runOnce(options = {}) {
     await duckDBService.close().catch(() => {});
     isRunning = false;
   }
+}
+
+function printRunSummary({ insertResult, failed, runFeeds, topics }) {
+  const date = new Date().toISOString().slice(0, 10);
+  const total = (insertResult.total ?? 0).toLocaleString();
+  const added = insertResult.inserted;
+  const addedStr = added > 0 ? `+${added}` : String(added);
+  const bar = '─'.repeat(52);
+
+  console.log(`\n${bar}`);
+  console.log(` RSS Run Summary  ${date}`);
+  console.log(bar);
+  console.log(` Total articles   ${total.padStart(8)}  (${addedStr} new)`);
+  console.log(` Feeds fetched    ${String(runFeeds.length).padStart(8)}  (${failed.length} failed)`);
+  console.log(` Topics detected  ${String(topics.length).padStart(8)}`);
+
+  const topTopics = topics.slice(0, 10);
+  if (topTopics.length) {
+    console.log(bar);
+    console.log(' Top 10 Topics');
+    for (let i = 0; i < topTopics.length; i++) {
+      const t = topTopics[i];
+      const label = (t.labelKeywords || []).slice(0, 5).join(', ');
+      const score = typeof t.finalScore === 'number' ? t.finalScore.toFixed(2) : '—';
+      const n = String(i + 1).padStart(2);
+      console.log(`  ${n}. [${label}]  ${t.articleCount} arts  score=${score}`);
+    }
+  }
+
+  console.log(`${bar}\n`);
 }
 
 function start() {

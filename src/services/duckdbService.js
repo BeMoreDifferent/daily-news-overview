@@ -104,9 +104,11 @@ class DuckDBService {
   async insertArticles(rows) {
     const totalStartedAt = Date.now();
     if (!rows.length) {
+      const total = await this.countArticles();
       return {
         candidates: 0,
         inserted: 0,
+        total,
         timing: {
           totalMs: Date.now() - totalStartedAt,
           countBeforeMs: 0,
@@ -187,6 +189,7 @@ class DuckDBService {
     return {
       candidates: rows.length,
       inserted: after - before,
+      total: after,
       timing: {
         totalMs: Date.now() - totalStartedAt,
         countBeforeMs,
