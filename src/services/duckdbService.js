@@ -17,7 +17,7 @@ class DuckDBService {
     if (this.connection) return this.connection;
 
     await fs.mkdir(path.dirname(this.dbPath), { recursive: true });
-    this.instance = await DuckDBInstance.fromCache(this.dbPath, {
+    this.instance = await DuckDBInstance.create(this.dbPath, {
       threads: String(process.env.DUCKDB_THREADS || 4)
     });
     this.connection = await this.instance.connect();

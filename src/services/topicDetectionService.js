@@ -29,15 +29,23 @@ const DEFAULT_OPTIONS = {
 
 export async function detectTopicsForDate(duckDBService, date, options = {}) {
   const config = { ...DEFAULT_OPTIONS, ...options };
+
+  // Read phase — hold DB lock only for the two queries, then release
   const articles = await duckDBService.getArticlesForDate(date);
-  const currentTopics = detectTopicsFromArticles(articles, config);
   const historyStartDate = shiftDate(date, -config.historyDays);
   const historicalTopics = await duckDBService.getTopicsBetweenDates(historyStartDate, shiftDate(date, -1));
+  await duckDBService.close();
+
+  // Computation phase — no DB lock held
+  const currentTopics = detectTopicsFromArticles(articles, config);
   const scoredTopics = scoreTopics(currentTopics, historicalTopics, config)
     .sort(compareTopics)
     .map((topic, index) => ({ ...topic, rank: index + 1 }));
 
+  // Write phase — brief lock for the final insert
   await duckDBService.replaceTopicsForDate(date, scoredTopics);
+  await duckDBService.close();
+
   return scoredTopics;
 }
 

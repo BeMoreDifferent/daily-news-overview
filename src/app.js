@@ -7,8 +7,55 @@ import { detectTopicsForDate } from './services/topicDetectionService.js';
 
 dotenv.config();
 
+const FLUSH_INTERVAL_MS = 30_000;
+const FLUSH_SIZE_THRESHOLD = 500;
+
 let isRunning = false;
 let interval = null;
+
+function createFlusher(db) {
+  const pending = [];
+  let flushing = false;
+  let totalCandidates = 0;
+  let totalInserted = 0;
+  let lastTotal = 0;
+  let flushCount = 0;
+  let totalInsertMs = 0;
+
+  async function flush(label) {
+    if (flushing || !pending.length) return;
+    flushing = true;
+    const rows = pending.splice(0);
+    const t0 = Date.now();
+    try {
+      const result = await db.insertArticles(rows);
+      await db.close();
+      totalCandidates += result.candidates;
+      totalInserted += result.inserted;
+      lastTotal = result.total;
+      flushCount++;
+      totalInsertMs += Date.now() - t0;
+      console.log(`DB flush #${flushCount} [${label}]: ${rows.length} candidates, +${result.inserted} new, total=${result.total}`);
+    } finally {
+      flushing = false;
+    }
+  }
+
+  return {
+    push(rows) { pending.push(...rows); },
+    maybeFlush() { return pending.length >= FLUSH_SIZE_THRESHOLD ? flush('size') : Promise.resolve(); },
+    flush,
+    get summary() {
+      return {
+        candidates: totalCandidates,
+        inserted: totalInserted,
+        total: lastTotal,
+        flushCount,
+        timing: { totalMs: totalInsertMs }
+      };
+    }
+  };
+}
 
 export async function runOnce(options = {}) {
   if (isRunning) {
@@ -20,10 +67,12 @@ export async function runOnce(options = {}) {
   const startedAt = Date.now();
   const timing = {};
 
+  const flusher = createFlusher(duckDBService);
+  let flushTimer = null;
+
   try {
     const initStartedAt = Date.now();
     await feedCache.load();
-    await duckDBService.open();
     timing.initMs = Date.now() - initStartedAt;
 
     const configStartedAt = Date.now();
@@ -38,6 +87,8 @@ export async function runOnce(options = {}) {
       return;
     }
 
+    flushTimer = setInterval(() => flusher.flush('timer'), FLUSH_INTERVAL_MS);
+
     const feedStartedAt = Date.now();
     const results = await mapConcurrent(runFeeds, DEFAULT_FEED_CONCURRENCY, async feed => {
       try {
@@ -51,10 +102,9 @@ export async function runOnce(options = {}) {
           `map=${result.timing.mapMs}ms`,
           `total=${result.timing.totalMs}ms`
         ].join(' '));
-        feedCache.updateSuccess(feed, {
-          itemCount: result.itemCount,
-          insertedCount: 0
-        });
+        flusher.push(result.rows || []);
+        feedCache.updateSuccess(feed, { itemCount: result.itemCount, insertedCount: 0 });
+        await flusher.maybeFlush();
         return { success: true, feed, ...result };
       } catch (error) {
         feedCache.updateFailure(feed, error);
@@ -63,31 +113,17 @@ export async function runOnce(options = {}) {
     });
     timing.feedsMs = Date.now() - feedStartedAt;
 
-    const flattenStartedAt = Date.now();
-    const rows = results.flatMap(result => result.rows || []);
-    timing.flattenMs = Date.now() - flattenStartedAt;
+    clearInterval(flushTimer);
+    flushTimer = null;
 
     const insertStartedAt = Date.now();
-    const insertResult = await duckDBService.insertArticles(rows);
+    await flusher.flush('final');
+    const insertResult = flusher.summary;
     timing.insertMs = Date.now() - insertStartedAt;
 
     const cacheUpdateStartedAt = Date.now();
-    for (const result of results) {
-      if (result.success) {
-        const insertedForFeed = rows.length
-          ? Math.round(insertResult.inserted * ((result.rows?.length || 0) / rows.length))
-          : 0;
-        feedCache.updateSuccess(result.feed, {
-          itemCount: result.itemCount,
-          insertedCount: insertedForFeed
-        });
-      }
-    }
-    timing.cacheUpdateMs = Date.now() - cacheUpdateStartedAt;
-
-    const cacheSaveStartedAt = Date.now();
     await feedCache.save();
-    timing.cacheSaveMs = Date.now() - cacheSaveStartedAt;
+    timing.cacheUpdateMs = Date.now() - cacheUpdateStartedAt;
 
     const topicsStartedAt = Date.now();
     const today = new Date().toISOString().slice(0, 10);
@@ -106,16 +142,12 @@ export async function runOnce(options = {}) {
       `failed=${failed.length}`,
       `candidates=${insertResult.candidates}`,
       `inserted=${insertResult.inserted}`,
+      `flushes=${insertResult.flushCount}`,
       `timing init=${timing.initMs}ms`,
       `config=${timing.configMs}ms`,
       `feeds=${timing.feedsMs}ms`,
-      `flatten=${timing.flattenMs}ms`,
-      `insert=${timing.insertMs}ms`,
-      `cache_update=${timing.cacheUpdateMs}ms`,
-      `cache_save=${timing.cacheSaveMs}ms`,
-      `db_stage=${insertResult.timing.stageMs}ms`,
-      `db_insert=${insertResult.timing.insertMs}ms`,
-      `db_total=${insertResult.timing.totalMs}ms`,
+      `insert_total=${insertResult.timing.totalMs}ms`,
+      `cache=${timing.cacheUpdateMs}ms`,
       `topics=${topics.length}`,
       `topics_ms=${timing.topicsMs}ms`
     ].join(' '));
@@ -128,17 +160,12 @@ export async function runOnce(options = {}) {
 
     printRunSummary({ insertResult, failed, runFeeds, skipped: allFeeds.length - runFeeds.length, topics });
 
-    return {
-      feeds,
-      runFeeds,
-      results,
-      insertResult,
-      timing
-    };
+    return { feeds, runFeeds, results, insertResult, timing };
   } catch (error) {
     console.error(`RSS run failed: ${error.message}`);
     return { error };
   } finally {
+    if (flushTimer) clearInterval(flushTimer);
     await duckDBService.close().catch(() => {});
     isRunning = false;
   }
