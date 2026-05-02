@@ -15,6 +15,10 @@ node src/app.js             # Direct execution
 npm run info                 # Print feed cache stats and DB article count
 npm run dry-run              # Fetch and parse feeds without writing to DB
 npm run topics               # Run topic detection for today
+npm run news:export          # Export yesterday's topics to news/YYYY-MM-DD.json
+npm run news:backfill        # Export all historical dates missing a JSON file
+node scripts/exportDailyTopics.js --date 2026-05-01  # Export a specific date
+node scripts/exportDailyTopics.js --backfill --force # Overwrite all existing files
 ```
 
 ### Code Quality
@@ -101,6 +105,7 @@ launchctl bootout gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist  
 ```
 
 `KeepAlive: true` + `ThrottleInterval: 30` means launchd respawns within 30 s of any exit. Stdout/stderr go to `logs/rss_fetch.log`.
+
 
 ### Network Tuning (macOS)
 Run once with sudo to persist TCP settings across reboots (prevents port exhaustion with 2400+ feeds):

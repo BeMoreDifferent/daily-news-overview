@@ -290,6 +290,25 @@ class DuckDBService {
     return reader.getRowObjectsJS();
   }
 
+  async getArticlesForTopic(topicId, limit = 5) {
+    const connection = await this.open();
+    const reader = await connection.runAndReadAll(`
+      SELECT
+        a.title,
+        a.url,
+        a.feed_title,
+        a.published_at,
+        a.image_url
+      FROM topic_articles ta
+      JOIN articles a ON a.url_hash = ta.url_hash
+      WHERE ta.topic_id = '${escapeSql(topicId)}'
+        AND a.title IS NOT NULL
+      ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
+      LIMIT ${Number(limit)}
+    `);
+    return reader.getRowObjectsJS();
+  }
+
   async replaceTopicsForDate(date, topics) {
     const connection = await this.open();
     await connection.run('BEGIN TRANSACTION');

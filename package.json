@@ -13,7 +13,9 @@
     "test": "node --test",
     "feeds:expand": "node scripts/expandFeeds.js",
     "feeds:expand:dry": "node scripts/expandFeeds.js --dry-run",
-    "feeds:expand:validate": "node scripts/expandFeeds.js --only-validate"
+    "feeds:expand:validate": "node scripts/expandFeeds.js --only-validate",
+    "news:export": "node scripts/exportDailyTopics.js",
+    "news:backfill": "node scripts/exportDailyTopics.js --backfill"
   },
   "engines": {
     "node": ">=18"

@@ -25,6 +25,9 @@ npm-debug.log*
 .claude/scheduled_tasks.lock
 .claude/memory/
 
+# News exports
+news/
+
 # OS / editor
 .DS_Store
 Thumbs.db

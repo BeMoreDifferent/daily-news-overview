@@ -6,6 +6,7 @@ import { processFeed } from './services/feedProcessor.js';
 import { feedCache } from './services/feedCacheService.js';
 import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
+import { exportNewsForDate } from './services/newsExportService.js';
 
 dotenv.config();
 
@@ -34,6 +35,7 @@ const TRANSIENT_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ECONNREFUSED', 'EPI
 
 let isRunning = false;
 let lastPruneDate = null;
+let lastNewsExportDate = null;
 
 function createFlusher(db) {
   const pending = [];
@@ -159,6 +161,20 @@ export async function runOnce() {
       lastPruneDate = today;
     }
     timing.pruneMs = Date.now() - pruneStartedAt;
+
+    // Export yesterday's top topics to news/<date>.json once per calendar day.
+    if (!lastNewsExportDate || lastNewsExportDate !== today) {
+      const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
+      try {
+        const articleCount = await exportNewsForDate(duckDBService, yesterday);
+        if (articleCount !== null && articleCount > 0) {
+          console.log(`News export: wrote news/${yesterday}.json`);
+        }
+        lastNewsExportDate = today;
+      } catch (err) {
+        console.warn(`News export failed: ${err.message}`);
+      }
+    }
 
     // Checkpoint WAL into the main DB file so the WAL stays small between runs.
     await duckDBService.checkpoint();
