@@ -370,6 +370,37 @@ class DuckDBService {
       throw error;
     }
   }
+
+  // Prune topics (and their article links) older than `daysToKeep` days.
+  // Keeps the topics table from growing unboundedly; 30 days is enough for trend analysis.
+  async pruneOldTopics(daysToKeep = 30) {
+    const connection = await this.open();
+    await connection.run('BEGIN TRANSACTION');
+    try {
+      await connection.run(`
+        DELETE FROM topic_articles
+        WHERE topic_id IN (
+          SELECT id FROM topics
+          WHERE topic_date < CURRENT_DATE - INTERVAL '${Number(daysToKeep)} days'
+        )
+      `);
+      const result = await connection.runAndReadAll(`
+        DELETE FROM topics
+        WHERE topic_date < CURRENT_DATE - INTERVAL '${Number(daysToKeep)} days'
+        RETURNING id
+      `);
+      await connection.run('COMMIT');
+      return result.getRowsJS().length;
+    } catch (error) {
+      await connection.run('ROLLBACK');
+      throw error;
+    }
+  }
+
+  async checkpoint() {
+    const connection = await this.open();
+    await connection.run('CHECKPOINT');
+  }
 }
 
 function appendRow(appender, row) {

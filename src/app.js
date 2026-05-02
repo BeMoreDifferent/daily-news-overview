@@ -1,3 +1,5 @@
+import { createWriteStream, statSync, renameSync, mkdirSync } from 'node:fs';
+import { join } from 'node:path';
 import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
 import { processFeed } from './services/feedProcessor.js';
@@ -7,14 +9,21 @@ import { detectTopicsForDate } from './services/topicDetectionService.js';
 
 dotenv.config();
 
-// Prefix every log line with a timestamp — launchd captures stdout to the log file.
-(function setupTimestampLogger() {
+// Write timestamped logs directly to file with size-based rotation (5 MB → .1).
+// The app owns the log file; launchd plist has no StandardOutPath.
+(function setupFileLogger() {
+  const LOG_DIR = 'logs';
+  const LOG_FILE = join(LOG_DIR, 'rss_fetch.log');
+  try { mkdirSync(LOG_DIR, { recursive: true }); } catch {}
+  try {
+    if (statSync(LOG_FILE).size > 5 * 1024 * 1024) renameSync(LOG_FILE, `${LOG_FILE}.1`);
+  } catch {}
+  const stream = createWriteStream(LOG_FILE, { flags: 'a' });
   const ts = () => new Date().toISOString();
   const fmt = args => args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ');
-  const { log, warn, error } = console;
-  console.log   = (...a) => log(`${ts()} [LOG]  ${fmt(a)}`);
-  console.warn  = (...a) => warn(`${ts()} [WARN] ${fmt(a)}`);
-  console.error = (...a) => error(`${ts()} [ERR]  ${fmt(a)}`);
+  console.log   = (...a) => stream.write(`${ts()} [LOG]  ${fmt(a)}\n`);
+  console.warn  = (...a) => stream.write(`${ts()} [WARN] ${fmt(a)}\n`);
+  console.error = (...a) => stream.write(`${ts()} [ERR]  ${fmt(a)}\n`);
 })();
 
 const FLUSH_INTERVAL_MS = 30_000;
@@ -24,6 +33,7 @@ const FLUSH_SIZE_THRESHOLD = 500;
 const TRANSIENT_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ECONNREFUSED', 'EPIPE', 'ECONNABORTED', 'EREDIRECT']);
 
 let isRunning = false;
+let lastPruneDate = null;
 
 function createFlusher(db) {
   const pending = [];
@@ -141,6 +151,18 @@ export async function runOnce() {
 
     const total = await duckDBService.countArticles();
 
+    // Prune topics older than 30 days once per calendar day (first run of the day).
+    const pruneStartedAt = Date.now();
+    let prunedTopics = 0;
+    if (!lastPruneDate || lastPruneDate !== today) {
+      prunedTopics = await duckDBService.pruneOldTopics(30);
+      lastPruneDate = today;
+    }
+    timing.pruneMs = Date.now() - pruneStartedAt;
+
+    // Checkpoint WAL into the main DB file so the WAL stays small between runs.
+    await duckDBService.checkpoint();
+
     const failed = results.filter(result => !result.success);
     const transientFailed = failed.filter(r => TRANSIENT_CODES.has(r.error?.code));
     const hardFailed = failed.filter(r => !TRANSIENT_CODES.has(r.error?.code));
@@ -157,6 +179,7 @@ export async function runOnce() {
       `inserted=${insertResult.inserted}`,
       `total=${total}`,
       `flushes=${insertResult.flushCount}`,
+      `pruned_topics=${prunedTopics}`,
       `timing init=${timing.initMs}ms`,
       `config=${timing.configMs}ms`,
       `feeds=${timing.feedsMs}ms`,

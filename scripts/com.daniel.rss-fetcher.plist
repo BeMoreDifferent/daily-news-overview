@@ -36,10 +36,6 @@
   <key>RunAtLoad</key>
   <true/>
 
-  <!-- launchd captures stdout/stderr here; no manual file writing needed in the app -->
-  <key>StandardOutPath</key>
-  <string>/Users/daniel/Documents/rss_feed_fetcher/logs/rss_fetch.log</string>
-  <key>StandardErrorPath</key>
-  <string>/Users/daniel/Documents/rss_feed_fetcher/logs/rss_fetch.log</string>
+  <!-- App writes directly to logs/rss_fetch.log with 5 MB rotation; no launchd capture needed -->
 </dict>
 </plist>
