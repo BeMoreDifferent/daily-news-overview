@@ -28,23 +28,18 @@ const DEFAULT_OPTIONS = {
 };
 
 export async function detectTopicsForDate(duckDBService, date, options = {}) {
-  const config = { ...DEFAULT_OPTIONS, ...options };
+  const config = { maxArticles: 4000, ...DEFAULT_OPTIONS, ...options };
 
-  // Read phase — hold DB lock only for the two queries, then release
-  const articles = await duckDBService.getArticlesForDate(date);
+  const articles = await duckDBService.getArticlesForDate(date, config.maxArticles);
   const historyStartDate = shiftDate(date, -config.historyDays);
   const historicalTopics = await duckDBService.getTopicsBetweenDates(historyStartDate, shiftDate(date, -1));
-  await duckDBService.close();
 
-  // Computation phase — no DB lock held
   const currentTopics = detectTopicsFromArticles(articles, config);
   const scoredTopics = scoreTopics(currentTopics, historicalTopics, config)
     .sort(compareTopics)
     .map((topic, index) => ({ ...topic, rank: index + 1 }));
 
-  // Write phase — brief lock for the final insert
   await duckDBService.replaceTopicsForDate(date, scoredTopics);
-  await duckDBService.close();
 
   return scoredTopics;
 }
@@ -145,18 +140,35 @@ export function cosineSimilarity(vectorA, vectorB) {
 }
 
 export function clusterHeadlines(documents, threshold = DEFAULT_OPTIONS.headlineSimilarityThreshold) {
+  const n = documents.length;
   const parent = documents.map((_, index) => index);
 
-  for (let i = 0; i < documents.length; i += 1) {
-    for (let j = i + 1; j < documents.length; j += 1) {
-      if (cosineSimilarity(documents[i].vector, documents[j].vector) >= threshold) {
-        union(parent, i, j);
+  // Inverted index → only compare pairs that share ≥1 term (cosine of non-overlapping vectors = 0)
+  const termIndex = new Map();
+  for (let i = 0; i < n; i++) {
+    for (const term of documents[i].vector.keys()) {
+      if (!termIndex.has(term)) termIndex.set(term, []);
+      termIndex.get(term).push(i);
+    }
+  }
+
+  const checked = new Set();
+  for (const docList of termIndex.values()) {
+    for (let a = 0; a < docList.length; a++) {
+      for (let b = a + 1; b < docList.length; b++) {
+        const i = docList[a], j = docList[b];
+        const key = i * n + j;
+        if (checked.has(key)) continue;
+        checked.add(key);
+        if (cosineSimilarity(documents[i].vector, documents[j].vector) >= threshold) {
+          union(parent, i, j);
+        }
       }
     }
   }
 
   const groups = new Map();
-  for (let index = 0; index < documents.length; index += 1) {
+  for (let index = 0; index < n; index++) {
     const root = find(parent, index);
     if (!groups.has(root)) groups.set(root, []);
     groups.get(root).push(documents[index]);
