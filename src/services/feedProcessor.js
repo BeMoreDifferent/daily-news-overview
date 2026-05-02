@@ -1,7 +1,7 @@
 import http from 'node:http';
 import https from 'node:https';
 import Parser from 'rss-parser';
-import { DEFAULT_FEED_TIMEOUT_MS } from '../config.js';
+import { DEFAULT_FEED_TIMEOUT_MS, DEFAULT_FEED_DEADLINE_MS } from '../config.js';
 import { hash64 } from '../utils/hash.js';
 import { normalizeUrl } from '../utils/urlNormalizer.js';
 
@@ -43,27 +43,57 @@ function fetchXml(url, redirectCount = 0) {
   const agent = isHttps ? httpsAgent : httpAgent;
 
   return new Promise((resolve, reject) => {
-    const req = lib.get(url, { agent, headers: { 'User-Agent': 'rss-feed-fetcher/2.0' } }, (res) => {
+    let settled = false;
+    let req;
+
+    const settle = (err, value) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(deadlineTimer);
+      if (err) {
+        if (req && !req.destroyed) req.destroy();
+        reject(err);
+      } else {
+        resolve(value);
+      }
+    };
+
+    // Wall-clock deadline covers queue wait + connect + headers + body.
+    const deadlineTimer = setTimeout(() => {
+      settle(Object.assign(new Error('Request timed out'), { code: 'ETIMEDOUT' }));
+    }, DEFAULT_FEED_TIMEOUT_MS);
+
+    req = lib.get(url, { agent, headers: { 'User-Agent': 'rss-feed-fetcher/2.0' } }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         res.resume();
         const redirectUrl = new URL(res.headers.location, url).href;
-        fetchXml(redirectUrl, redirectCount + 1).then(resolve, reject);
+        fetchXml(redirectUrl, redirectCount + 1).then(v => settle(null, v), e => settle(e));
         return;
       }
       if (res.statusCode < 200 || res.statusCode >= 300) {
         res.resume();
-        reject(Object.assign(new Error(`HTTP ${res.statusCode}`), { code: `HTTP_${res.statusCode}` }));
+        settle(Object.assign(new Error(`HTTP ${res.statusCode}`), { code: `HTTP_${res.statusCode}` }));
         return;
       }
       const chunks = [];
-      res.on('data', chunk => chunks.push(chunk));
-      res.on('end', () => resolve(Buffer.concat(chunks).toString()));
-      res.on('error', reject);
+      let received = 0;
+      const MAX_BYTES = 5 * 1024 * 1024;
+      res.on('data', chunk => {
+        received += chunk.length;
+        if (received > MAX_BYTES) {
+          settle(Object.assign(new Error('Response too large'), { code: 'EFBIG' }));
+          return;
+        }
+        chunks.push(chunk);
+      });
+      res.on('end', () => settle(null, Buffer.concat(chunks).toString()));
+      res.on('error', err => settle(err));
+      // 'aborted' fires on req.destroy() after headers; 'close' fires after 'end' or 'aborted'.
+      res.on('aborted', () => settle(Object.assign(new Error('Response aborted'), { code: 'ECONNRESET' })));
+      res.on('close', () => settle(Object.assign(new Error('Response closed before end'), { code: 'ECONNRESET' })));
     });
-    req.setTimeout(DEFAULT_FEED_TIMEOUT_MS, () => {
-      req.destroy(Object.assign(new Error('Request timed out'), { code: 'ETIMEDOUT' }));
-    });
-    req.on('error', reject);
+    req.on('error', err => settle(err));
+    req.on('close', () => settle(Object.assign(new Error('Request closed unexpectedly'), { code: 'ECONNRESET' })));
   });
 }
 
@@ -71,8 +101,20 @@ export async function processFeed(feed, options = {}) {
   const startedAt = Date.now();
   const now = options.now || new Date();
   const fetchStartedAt = Date.now();
-  const xml = await fetchXml(feed.url);
-  const feedData = await parser.parseString(xml);
+  let deadlineTimer;
+  const deadline = new Promise((_, reject) => {
+    deadlineTimer = setTimeout(
+      () => reject(Object.assign(new Error('Feed deadline exceeded'), { code: 'ETIMEDOUT' })),
+      DEFAULT_FEED_DEADLINE_MS
+    );
+  });
+  let xml, feedData;
+  try {
+    xml = await Promise.race([fetchXml(feed.url), deadline]);
+    feedData = await Promise.race([parser.parseString(xml), deadline]);
+  } finally {
+    clearTimeout(deadlineTimer);
+  }
   const fetchParseMs = Date.now() - fetchStartedAt;
   const mapStartedAt = Date.now();
   const items = feedData.items.slice(0, feed.maxItems);
@@ -108,7 +150,7 @@ export function mapFeedItemToArticleRow(item, feed, feedData = {}, now = new Dat
     || item.mediaDescription
     || item.mediaGroup?.['media:description']?.[0]
     || item.content
-  );
+  )?.slice(0, 500) ?? null;
   const publishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
   const tags = extractTags(item);
 

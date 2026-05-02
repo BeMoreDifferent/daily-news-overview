@@ -1,6 +1,8 @@
 import assert from 'node:assert/strict';
+import { createServer } from 'node:http';
 import test from 'node:test';
-import { mapFeedItemToArticleRow, isRecentItem } from '../src/services/feedProcessor.js';
+import { mapFeedItemToArticleRow, isRecentItem, processFeed } from '../src/services/feedProcessor.js';
+import { DEFAULT_FEED_DEADLINE_MS } from '../src/config.js';
 
 const feed = {
   url: 'https://example.com/feed.xml',
@@ -51,4 +53,24 @@ test('maps youtube media group thumbnail and description', () => {
   assert.equal(row.url, 'https://www.youtube.com/watch?v=abc123');
   assert.equal(row.summary, 'Video description');
   assert.equal(row.image_url, 'https://i.ytimg.com/vi/abc123/hqdefault.jpg');
+});
+
+test('processFeed rejects when server sends headers but never a body', async (t) => {
+  const server = createServer((req, res) => {
+    res.writeHead(200, { 'Content-Type': 'application/xml' });
+    // intentionally never calls res.end() — simulates a hung feed
+  });
+  await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
+  const { port } = server.address();
+  const url = `http://127.0.0.1:${port}/feed.xml`;
+
+  const start = Date.now();
+  await assert.rejects(
+    () => processFeed({ url, enabled: true, intervalMinutes: 60, maxItems: 10, sourceType: 1 }),
+    err => err.code === 'ETIMEDOUT' || err.code === 'ECONNRESET'
+  );
+  const elapsed = Date.now() - start;
+  assert.ok(elapsed < DEFAULT_FEED_DEADLINE_MS + 500, `should reject within deadline, took ${elapsed}ms`);
+
+  await new Promise(resolve => server.close(resolve));
 });
