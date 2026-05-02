@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T10:29:55.513Z",
+  "generated_at": "2026-05-02T14:19:13.712Z",
   "topics": [
     {
       "id": "topic_6370ff26ed764dac",
@@ -21,7 +21,7 @@
         "Saturday",
         "May"
       ],
-      "article_count": 8,
+      "article_count": 11,
       "source_count": 8,
       "articles": [
         {
@@ -193,7 +193,7 @@
         "EU",
         "Estados Unidos"
       ],
-      "article_count": 9,
+      "article_count": 13,
       "source_count": 5,
       "articles": [
         {
@@ -480,6 +480,362 @@
           "source": "Times of India",
           "published_at": "2026-05-02T04:12:30.000Z",
           "image": "https://static.toiimg.com/photo/msid-130709789,imgsize-4510403.cms"
+        }
+      ]
+    },
+    {
+      "id": "topic_e75b01db995ba2d1",
+      "label": [
+        "hitt",
+        "facility",
+        "russia",
+        "blunt",
+        "ukraine hitt",
+        "hitt oil"
+      ],
+      "category": "new",
+      "theme": "theme_7138b33c99278bee",
+      "entities": [
+        "Ukraine",
+        "Russia",
+        "Soaring"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Ukraine is hitting oil facilities deep inside Russia; soaring fuel prices could blunt the impact",
+          "url": "https://www.thehindu.com/news/international/ukraine-is-hitting-oil-facilities-deep-inside-russia-soaring-fuel-prices-could-blunt-the-impact/article70930926.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-02T08:29:36.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/bmgqxz/article70930930.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_Oil_Attacks_826_5.jpg"
+        },
+        {
+          "title": "Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact",
+          "url": "https://www.thestar.com/news/world/europe/ukraine-is-hitting-oil-facilities-deep-inside-russia-soaring-fuel-prices-could-blunt-the-impact/image_2df1e465-103f-5aa3-b701-877a8f48e11a.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-05-02T06:55:29.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/df/2df1e465-103f-5aa3-b701-877a8f48e11a/69f5a0f3e65cd.image.jpg?resize=300%2C169"
+        },
+        {
+          "title": "Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact",
+          "url": "https://www.yahoo.com/news/articles/ukraine-hitting-oil-facilities-deep-050620600.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-02T05:06:20.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/fae2d78b6f47ba744678dcdb0ad32c79"
+        }
+      ]
+    },
+    {
+      "id": "topic_f11d39f2e79d266e",
+      "label": [
+        "evacuat",
+        "kay",
+        "peter kay",
+        "peter",
+        "hoax",
+        "bomb hoax"
+      ],
+      "category": "new",
+      "theme": "theme_be42c08d7ed99465",
+      "entities": [
+        "Man",
+        "Peter Kay",
+        "Birmingham",
+        "British",
+        "Bomb"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Man, 19, arrested on suspicion of bomb hoax after Peter Kay gig evacuated in Birmingham",
+          "url": "https://www.independent.co.uk/news/uk/crime/peter-kay-gig-birmingham-bomb-hoax-police-b2969362.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-02T08:43:17.000Z",
+          "image": "https://static.independent.co.uk/2025/09/16/7/03/peter-kay.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "British comedian Peter Kay show evacuated mid-performance as ‘suspicious bag’ prompts Birmingham arena alert",
+          "url": "https://timesofindia.indiatimes.com/world/uk/british-comedian-peter-kay-show-evacuated-mid-performance-as-suspicious-bag-prompts-birmingham-arena-alert/articleshow/130712643.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-05-02T08:12:09.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130712764,imgsize-525947.cms"
+        },
+        {
+          "title": "Bomb hoax arrest after Peter Kay show evacuated",
+          "url": "https://www.bbc.com/news/articles/c4g4xkw87p5o",
+          "source": "BBC News",
+          "published_at": "2026-05-02T08:11:35.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f155/live/3ce84e50-459f-11f1-ac78-2112837ce2aa.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_954be45cb92cee7d",
+      "label": [
+        "dechambeau",
+        "pga",
+        "dechambeau deny",
+        "deny",
+        "talk",
+        "completely"
+      ],
+      "category": "new",
+      "theme": "theme_66daa5b132f16cf4",
+      "entities": [
+        "DeChambeau",
+        "PGA",
+        "Bryson DeChambeau",
+        "PGA Tour"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "DeChambeau denies 'completely untrue' PGA talks",
+          "url": "https://sports.yahoo.com/articles/dechambeau-denies-completely-untrue-pga-082525420.html",
+          "published_at": "2026-05-02T08:25:25.000Z"
+        },
+        {
+          "title": "DeChambeau denies 'completely untrue' PGA talks",
+          "url": "https://www.bbc.com/news/articles/c7074n81eyzo",
+          "source": "BBC Sport",
+          "published_at": "2026-05-02T08:25:20.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32f/live/ea9a5740-45fa-11f1-a5b5-93c2713a2739.jpg"
+        },
+        {
+          "title": "Bryson DeChambeau denies having talks with PGA Tour",
+          "url": "https://www.japantimes.co.jp/sports/2026/05/02/more-sports/bryson-dechambeau-pga-liv-talks",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-05-02T08:19:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538430.JPG"
+        }
+      ]
+    },
+    {
+      "id": "topic_649efc1bc3956446",
+      "label": [
+        "50",
+        "40",
+        "3389",
+        "1216",
+        "3389 40",
+        "40 1216"
+      ],
+      "category": "new",
+      "theme": "theme_84166c91433c7133",
+      "entities": [
+        "Get",
+        "AdGuard VPN"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "فعالیت مرکز توانبخشی دختران معلول تبریزی پس از جنگ 40 روزه/ اینجا \"نمی‌توانم\" دفن شده است",
+          "url": "https://www.khabaronline.ir/news/2213239/%d9%81%d8%b9%d8%a7%d9%84%db%8c%d8%aa-%d9%85%d8%b1%da%a9%d8%b2-%d8%aa%d9%88%d8%a7%d9%86%d8%a8%d8%ae%d8%b4%db%8c-%d8%af%d8%ae%d8%aa%d8%b1%d8%a7%d9%86-%d9%85%d8%b9%d9%84%d9%88%d9%84-%d8%aa%d8%a8%d8%b1%db%8c%d8%b2%db%8c-%d9%be%d8%b3-%d8%a7%d8%b2-%d8%ac%d9%86%da%af-40-%d8%b1%d9%88%d8%b2%d9%87-%d8%a7%db%8c%d9%86%d8%ac%d8%a7",
+          "source": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
+          "published_at": "2026-05-02T08:30:34.000Z",
+          "image": "https://media.khabaronline.ir/d/2026/05/02/4/6404967.jpg"
+        },
+        {
+          "title": "Get 5 years of AdGuard VPN for just $40",
+          "url": "https://www.pcworld.com/article/3126983/get-5-years-of-adguard-vpn-for-just-40.html",
+          "source": "PCWorld",
+          "published_at": "2026-05-02T08:00:00.000Z",
+          "image": "https://www.pcworld.com/wp-content/uploads/2026/05/AdGuard-VPN.jpg?quality=50&strip=all"
+        },
+        {
+          "title": "ٹیکنو موبائلز کاپاکستان میں کیمن 50الٹرا فائیو جی سمارٹ فون لانچ",
+          "url": "https://urdupoint.com/n/4796266",
+          "source": "UrduPoint.com All Urdu News",
+          "published_at": "2026-05-02T07:39:01.000Z"
+        },
+        {
+          "title": "આ અઠવાડિયે સોના-ચાંદીમાં ઘટાડો રહ્યો:ચાંદીની કિંમત ₹3389 ઘટીને ₹2.40 લાખ પ્રતિ કિલો થઈ, સોનું ₹1216 સસ્તું થઈને ₹1.50 લાખ થયું",
+          "url": "https://www.divyabhaskar.co.in/business/news/gold-silver-rates-fall-this-week-india-2026-137836926.html",
+          "source": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+          "published_at": "2026-05-02T07:33:21.000Z",
+          "image": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2026/05/02/2-2_1777697850.gif"
+        },
+        {
+          "title": "کراچی میں گرم ترین دن، محسوس کیا جانیوالا درجہ حرارت 50 ڈگری تک جانے کا امکان",
+          "url": "https://www.express.pk/story/2811117/hottest-day-in-karachi-felt-temperature-likely-to-reach-50-degrees-2811117",
+          "source": "The Express News",
+          "published_at": "2026-05-02T00:14:18.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_45ae1b9ddbe117e",
+      "label": [
+        "golfo",
+        "golfo de",
+        "de xico",
+        "xico",
+        "sheinbaum",
+        "imita"
+      ],
+      "category": "new",
+      "theme": "theme_93a2144d2d21074f",
+      "entities": [
+        "Trump",
+        "Sheinbaum",
+        "Golfo",
+        "VIDEO"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Trump imita a Sheinbaum y revive la polémica sobre el Golfo de México",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/trump-imita-a-sheinbaum-y-revive-la-polemica-sobre-el-golfo-de-mexico.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-05-02T04:43:18.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2006784.jpeg"
+        },
+        {
+          "title": "Trump insiste en cambiar el nombre del Golfo de México tras diálogo con Sheinbaum: ‘Sí voy a hacerlo’",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/01/trump-insiste-en-cambiar-el-nombre-del-golfo-de-mexico-tras-dialogo-con-sheinbaum-si-voy-a-hacerlo-le-respondi",
+          "source": "El Financiero",
+          "published_at": "2026-05-02T03:33:22.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/c2TpF3D3rvnRdCaZWWmu0s9CC9I=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/N2DCD26NM5DMDMP2QEX5DBU6ZI.jpg"
+        },
+        {
+          "title": "Trump imita a Sheinbaum y reaviva polémica por el nombre del Golfo de México (VIDEO)",
+          "url": "https://www.informador.mx/internacional/trump-imita-a-sheinbaum-y-reaviva-polemica-por-el-nombre-del-golfo-de-mexico-video-20260501-0193.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-02T02:58:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_fa9d0555a9ca041c",
+      "label": [
+        "ismg",
+        "editor",
+        "korea",
+        "fake",
+        "meeting",
+        "ismg editor"
+      ],
+      "category": "new",
+      "theme": "theme_8acb2de050361a9b",
+      "entities": [
+        "ISMG Editors",
+        "North Korea",
+        "Fake Meetings Fuel Crypto",
+        "Heists"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "ISMG Editors: North Korea's Fake Meetings Fuel Crypto Heists",
+          "url": "https://www.govinfosecurity.com/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-a-31577",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-image_small-2-a-31577.jpg"
+        },
+        {
+          "title": "ISMG Editors: North Korea's Fake Meetings Fuel Crypto Heists",
+          "url": "https://www.databreachtoday.co.uk/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-a-31577",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-image_small-2-a-31577.jpg"
+        },
+        {
+          "title": "ISMG Editors: North Korea's Fake Meetings Fuel Crypto Heists",
+          "url": "https://www.bankinfosecurity.com/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-a-31577",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/ismg-editors-north-koreas-fake-meetings-fuel-crypto-heists-image_small-2-a-31577.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_123efe2ba2ba3a54",
+      "label": [
+        "nrl highlight",
+        "highlight titan",
+        "titan raider",
+        "raider round",
+        "raider",
+        "titan"
+      ],
+      "category": "new",
+      "theme": "theme_5ef06c0b18a793e6",
+      "entities": [
+        "NRL Highlights",
+        "Titans",
+        "Raiders",
+        "Round"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "NRL Highlights: Titans v Raiders - Round 9",
+          "url": "https://www.brisbanetimes.com.au/sport/nrl/nrl-highlights-titans-v-raiders-round-9-20260502-p5zt5g.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-02T07:52:08.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5cac65cd8cdda4ae54db788fc3f41dc64826b54d"
+        },
+        {
+          "title": "NRL Highlights: Titans v Raiders - Round 9",
+          "url": "https://www.smh.com.au/sport/nrl/nrl-highlights-titans-v-raiders-round-9-20260502-p5zt5g.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-02T07:52:08.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5cac65cd8cdda4ae54db788fc3f41dc64826b54d"
+        },
+        {
+          "title": "NRL Highlights: Titans v Raiders - Round 9",
+          "url": "https://www.theage.com.au/sport/nrl/nrl-highlights-titans-v-raiders-round-9-20260502-p5zt5g.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-02T07:52:08.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5cac65cd8cdda4ae54db788fc3f41dc64826b54d"
+        }
+      ]
+    },
+    {
+      "id": "topic_8f0949c22b67462d",
+      "label": [
+        "prov",
+        "lucky",
+        "charm",
+        "doyle",
+        "mare",
+        "hawkesbury"
+      ],
+      "category": "new",
+      "theme": "theme_adb782e923d3a790",
+      "entities": [
+        "Owner",
+        "Choice",
+        "Doyle",
+        "Hawkesbury Cup"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Owner’s Choice proves lucky charm for Doyle mare in Hawkesbury Cup",
+          "url": "https://www.smh.com.au/sport/racing/owner-s-choice-proves-lucky-charm-for-doyle-mare-in-hawkesbury-cup-20260502-p5zt3o.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-02T07:30:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3364%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_57/t_crop_custom/q_86%2Cf_auto/7032420efadc5a677a3d7b2e354da140d801ee1d"
+        },
+        {
+          "title": "Owner’s Choice proves lucky charm for Doyle mare in Hawkesbury Cup",
+          "url": "https://www.brisbanetimes.com.au/sport/racing/owner-s-choice-proves-lucky-charm-for-doyle-mare-in-hawkesbury-cup-20260502-p5zt3o.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-02T07:30:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3364%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_57/t_crop_custom/q_86%2Cf_auto/7032420efadc5a677a3d7b2e354da140d801ee1d"
+        },
+        {
+          "title": "Owner’s Choice proves lucky charm for Doyle mare in Hawkesbury Cup",
+          "url": "https://www.theage.com.au/sport/racing/owner-s-choice-proves-lucky-charm-for-doyle-mare-in-hawkesbury-cup-20260502-p5zt3o.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-02T07:30:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3364%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_57/t_crop_custom/q_86%2Cf_auto/7032420efadc5a677a3d7b2e354da140d801ee1d"
         }
       ]
     }

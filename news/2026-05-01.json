@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T10:29:55.500Z",
+  "generated_at": "2026-05-02T14:19:13.694Z",
   "topics": [
     {
       "id": "topic_a1ffb0afa8d63ca4",
@@ -474,6 +474,418 @@
           "source": "Sydney Morning Herald - Latest News",
           "published_at": "2026-05-01T07:48:30.000Z",
           "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/583b4b35245fbe4f07020938b567c76ba6692c0d"
+        }
+      ]
+    },
+    {
+      "id": "topic_de01d38ecb5267a",
+      "label": [
+        "guerre",
+        "au",
+        "trump pr",
+        "congr",
+        "direct guerre au",
+        "moyen"
+      ],
+      "category": "new",
+      "theme": "theme_97f2d119d1e7a18b",
+      "entities": [
+        "DIRECT",
+        "Guerre",
+        "Moyen",
+        "Orient",
+        "Trump"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "EN DIRECT. Guerre au Moyen-Orient : au 60e jour de conflit, l’administration Trump prête à continuer sans l’autorisation du Congrès",
+          "url": "https://www.sudouest.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-60e-jour-de-conflit-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres-28893190.php",
+          "source": "L'essentiel",
+          "published_at": "2026-05-01T08:12:16.000Z"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : soixante jours après le début du conflit en Iran, l’administration Trump prête à continuer sans l’autorisation du Congrès",
+          "url": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-soixante-jours-apres-le-debut-du-conflit-en-iran-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres_6684072_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-05-01T07:53:01.000Z",
+          "image": "https://img.lemde.fr/2026/05/01/172/0/5500/2750/644/322/60/0/2049b17_ftp-1-vdmhsjexzzjo-2026-05-01t054721z-787512985-rc210la80xnj-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
+        },
+        {
+          "title": "DIRECT – Guerre au Moyen-Orient: Trump prêt à ignorer le Congrès pour poursuivre la guerre",
+          "url": "https://www.dhnet.be/actu/monde/2026/05/01/direct-guerre-au-moyen-orient-trump-pret-a-ignorer-le-congres-pour-poursuivre-la-guerre-p73ltvgti5avvekghalx4l3yfu",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-05-01T06:23:56.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/NA3ZTZJ3ZRCV3AOU4X4SING3PI.jpg?auth=f9618ddc0c4682a35dbb34d5c520730e15ef9d0c717a813980d7b9bb9183d063&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    {
+      "id": "topic_da8088ff6c7339b9",
+      "label": [
+        "nrl",
+        "bulldog",
+        "cowboy",
+        "nrl live",
+        "live updat",
+        "updat galvin"
+      ],
+      "category": "new",
+      "theme": "theme_33cab6a234d95618",
+      "entities": [
+        "NRL LIVE",
+        "Galvin",
+        "Bulldogs",
+        "Cowboys",
+        "Friday"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
+          "url": "https://www.smh.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-01T08:11:37.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
+        },
+        {
+          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
+          "url": "https://www.theage.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-01T08:11:37.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
+        },
+        {
+          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
+          "url": "https://www.brisbanetimes.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T08:11:37.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
+        }
+      ]
+    },
+    {
+      "id": "topic_30353b9b88b19e47",
+      "label": [
+        "asx",
+        "anz",
+        "col",
+        "asx ends",
+        "ends los",
+        "streak anz"
+      ],
+      "category": "new",
+      "theme": "theme_5f6dfcbb86125d09",
+      "entities": [
+        "ASX",
+        "ANZ",
+        "Coles"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
+          "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T07:29:02.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
+        },
+        {
+          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
+          "url": "https://www.smh.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-01T07:29:02.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
+        },
+        {
+          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
+          "url": "https://www.theage.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-01T07:29:02.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
+        }
+      ]
+    },
+    {
+      "id": "topic_f8e7f9194554f528",
+      "label": [
+        "buys",
+        "annex",
+        "visibility",
+        "socket buys",
+        "buys secure",
+        "secure annex"
+      ],
+      "category": "new",
+      "theme": "theme_6733f05b462f1953",
+      "entities": [
+        "Socket Buys Secure Annex",
+        "Expand Supply",
+        "Chain Visibility"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
+          "url": "https://www.govinfosecurity.com/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
+        },
+        {
+          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
+          "url": "https://www.databreachtoday.co.uk/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
+        },
+        {
+          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
+          "url": "https://www.bankinfosecurity.com/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_471b08e5ec00214d",
+      "label": [
+        "cyber",
+        "command",
+        "breach roundup",
+        "roundup us",
+        "us cyber",
+        "cyber command"
+      ],
+      "category": "new",
+      "theme": "theme_8eafcdac3c382134",
+      "entities": [
+        "Breach Roundup",
+        "US Cyber Command Flags",
+        "Election Threats"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
+          "url": "https://www.govinfosecurity.com/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
+        },
+        {
+          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
+          "url": "https://www.databreachtoday.co.uk/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
+        },
+        {
+          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
+          "url": "https://www.bankinfosecurity.com/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_f5273a256035e4ca",
+      "label": [
+        "rowell",
+        "afl",
+        "coast lose",
+        "lose rowell",
+        "rowell injury",
+        "injury afl"
+      ],
+      "category": "new",
+      "theme": "theme_c43516cc41aab02a",
+      "entities": [
+        "Gold Coast",
+        "Rowell",
+        "AFL"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
+          "url": "https://www.theage.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-01T08:04:48.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
+        },
+        {
+          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
+          "url": "https://www.brisbanetimes.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T08:04:48.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
+        },
+        {
+          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
+          "url": "https://www.smh.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-01T08:04:48.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
+        }
+      ]
+    },
+    {
+      "id": "topic_817ad15589c80a1f",
+      "label": [
+        "state ciso",
+        "ciso los",
+        "los confidence",
+        "confidence ai",
+        "ai threat",
+        "threat surge"
+      ],
+      "category": "new",
+      "theme": "theme_bf9bbd7305cc840e",
+      "entities": [
+        "State CISOs Are Losing",
+        "Confidence",
+        "AI Threats Surge"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
+          "url": "https://www.govinfosecurity.com/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
+        },
+        {
+          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
+          "url": "https://www.databreachtoday.co.uk/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
+        },
+        {
+          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
+          "url": "https://www.bankinfosecurity.com/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_91908eab363f1dfd",
+      "label": [
+        "tendulkar",
+        "flash",
+        "pan",
+        "tendulkar t20",
+        "t20 15",
+        "old ipl"
+      ],
+      "category": "new",
+      "theme": "theme_44b72a75684f52b0",
+      "entities": [
+        "Tendulkar",
+        "T20",
+        "IPL"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
+          "url": "https://www.theage.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-01T07:57:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
+        },
+        {
+          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
+          "url": "https://www.smh.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-01T07:57:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
+        },
+        {
+          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
+          "url": "https://www.brisbanetimes.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T07:57:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
+        }
+      ]
+    },
+    {
+      "id": "topic_bca7d1bf286e8d05",
+      "label": [
+        "fiery",
+        "let finish",
+        "finish top",
+        "top prosecutor",
+        "prosecutor fiery",
+        "fiery appearance"
+      ],
+      "category": "new",
+      "theme": "theme_df7ffb52a5926e8b",
+      "entities": [
+        "Let",
+        "Top"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
+          "url": "https://www.brisbanetimes.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T07:17:31.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
+        },
+        {
+          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
+          "url": "https://www.theage.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-05-01T07:17:31.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
+        },
+        {
+          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
+          "url": "https://www.smh.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-01T07:17:31.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
+        }
+      ]
+    },
+    {
+      "id": "topic_9f82558b8dba69d2",
+      "label": [
+        "60"
+      ],
+      "category": "new",
+      "theme": "theme_bd5d68109a87e321",
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Мужчина вернул плитки из средневекового монастыря, которые прихватил в детстве 60 лет назад",
+          "url": "https://www.unian.net/tourism/news/puteshestviya-po-anglii-spustya-60-let-britanec-vernul-pohishchennye-v-detstve-srednevekovye-plitki-13367895.html",
+          "source": "Информационное агентство УНИАН",
+          "published_at": "2026-05-01T06:35:36.000Z",
+          "image": "https://images.unian.net/photos/2026_05/1777616974-1345.jpg"
+        },
+        {
+          "title": "Глава Пентагону заявив, що 60-денний відлік у війні з Іраном \"призупинився\"",
+          "url": "https://www.pravda.com.ua/news/2026/05/01/8032638",
+          "source": "Українська правда",
+          "published_at": "2026-05-01T06:30:00.000Z"
+        },
+        {
+          "title": "پاک ایران فضائی سفر 60 دن بعد بحال",
+          "url": "https://jang.com.pk/news/1579215",
+          "source": "قومی خبریں",
+          "published_at": "2026-05-01T03:05:16.000Z",
+          "image": "https://jang.com.pk/assets/uploads/updates/2026-05-01/b_1579215_085151_updates.jpg"
         }
       ]
     }

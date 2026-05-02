@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-05-02T10:29:55.402Z",
+  "generated_at": "2026-05-02T14:19:13.591Z",
   "topics": [
     {
       "id": "topic_9504a11b1793bc9c",
@@ -353,6 +353,348 @@
         },
         {
           "title": "Kim Jong Un memorializes troops killed fighting for Russia"
+        }
+      ]
+    },
+    {
+      "id": "topic_258bf03fd4eebc2c",
+      "label": [
+        "says israeli",
+        "israeli strik",
+        "says israeli strik",
+        "israeli strik kill",
+        "strik kill",
+        "strik kill 14"
+      ],
+      "category": "new",
+      "entities": [
+        "Lebanon",
+        "Israeli",
+        "Hezbollah Vows",
+        "Keep Its Weapons",
+        "Lebanon Says Israeli Strikes"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began"
+        },
+        {
+          "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14 - The New York Times"
+        },
+        {
+          "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14"
+        }
+      ]
+    },
+    {
+      "id": "topic_270f6ab86663b0a3",
+      "label": [
+        "shell buy",
+        "16 billion",
+        "arc resourc",
+        "resourc",
+        "output",
+        "shell"
+      ],
+      "category": "new",
+      "entities": [
+        "Oil",
+        "Shell",
+        "Canada",
+        "ARC Resources",
+        "Buy ARC Resources"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Oil giant Shell to buy Canada’s ARC Resources for $16.4 billion in push to boost output"
+        },
+        {
+          "title": "Shell to buy Canada’s ARC Resources in output-boosting $16.4 billion deal"
+        },
+        {
+          "title": "Shell to Buy ARC Resources in $16.4 Billion Deal to Expand Canada Output"
+        }
+      ]
+    },
+    {
+      "id": "topic_afdbf902bb3a737e",
+      "label": [
+        "styl",
+        "zo",
+        "kravitz",
+        "harry styl",
+        "zo kravitz",
+        "harry"
+      ],
+      "category": "new",
+      "entities": [
+        "Harry Styles",
+        "Zo",
+        "Kravitz",
+        "Report",
+        "Entertainment Weekly"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Harry Styles y Zoë Kravitz se han comprometido"
+        },
+        {
+          "title": "Zoë Kravitz and Harry Styles are engaged after 8 months together: Report - Entertainment Weekly"
+        },
+        {
+          "title": "Harry Styles and Zoë Kravitz Are Engaged"
+        }
+      ]
+    },
+    {
+      "id": "topic_b8af66654948b946",
+      "label": [
+        "super mario galaxy",
+        "super mario",
+        "mario galaxy",
+        "mario",
+        "galaxy",
+        "super"
+      ],
+      "category": "new",
+      "entities": [
+        "Super Mario Galaxy Movie",
+        "Finally Dethroned At The",
+        "Box Office",
+        "Super Mario Galaxy",
+        "Filme"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Super Mario Galaxy Movie could arrive on digital platforms early next month"
+        },
+        {
+          "title": "Super Mario Galaxy Movie Finally Dethroned At The Box Office"
+        },
+        {
+          "title": "Super Mario Galaxy - O Filme"
+        }
+      ]
+    },
+    {
+      "id": "topic_9da4b91603503e7",
+      "label": [
+        "tech qb",
+        "qb brendan",
+        "texa tech qb",
+        "tech qb brendan",
+        "qb brendan sorsby",
+        "texa tech"
+      ],
+      "category": "new",
+      "entities": [
+        "Report",
+        "Texas Tech QB Brendan",
+        "Sorsby",
+        "NBC Sports",
+        "NCAA"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Report: Texas Tech QB Brendan Sorsby will check into treatment center for gambling addiction - NBC Sports"
+        },
+        {
+          "title": "Texas Tech QB Brendan Sorsby entering treatment for gambling addiction amid NCAA investigation"
+        },
+        {
+          "title": "Texas Tech QB Brendan Sorsby under NCAA investigation for gambling, to enter treatment program"
+        }
+      ]
+    },
+    {
+      "id": "topic_d6aca6b3d1386cb8",
+      "label": [
+        "charg",
+        "attempt",
+        "charg attempt",
+        "dinner",
+        "shoot",
+        "correspondent dinner"
+      ],
+      "category": "new",
+      "entities": [
+        "Know About King Charles",
+        "Queen Camilla",
+        "State Visit Hosted",
+        "Trump",
+        "World"
+      ],
+      "article_count": 43,
+      "source_count": 35,
+      "articles": [
+        {
+          "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump"
+        },
+        {
+          "title": "World leaders express shock, support after White House Correspondents' Dinner shooting"
+        },
+        {
+          "title": "‘I’m not a rapist’: Trump lashes out at shooting suspect’s manifesto in testy 60 Minutes interview"
+        },
+        {
+          "title": "What we know about the Correspondents’ Dinner shooting suspect"
+        },
+        {
+          "title": "Police training for rapid response after White House Correspondents Dinner shooting"
+        }
+      ]
+    },
+    {
+      "id": "topic_22632620823f8c55",
+      "label": [
+        "singapore",
+        "french teen",
+        "machine straw",
+        "vend machine straw",
+        "lick",
+        "vend"
+      ],
+      "category": "new",
+      "entities": [
+        "French",
+        "Singapore",
+        "BBCNews"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "French teen who licked vending machine straw faces jail in Singapore"
+        },
+        {
+          "title": "French teen in Singapore faces jail for licking and returning vending machine straw"
+        },
+        {
+          "title": "French teen who licked vending machine straw faces jail in Singapore. #Singapore #BBCNews"
+        }
+      ]
+    },
+    {
+      "id": "topic_5b3548fdb3db434f",
+      "label": [
+        "rapport",
+        "audiovisuel public",
+        "audiovisuel",
+        "public",
+        "alloncle",
+        "du"
+      ],
+      "category": "new",
+      "entities": [
+        "La",
+        "Le",
+        "Alloncle",
+        "Audiovisuel",
+        "Charles Alloncle"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "La publication du rapport de la commission d'enquête sur l'audiovisuel public tranchée lundi"
+        },
+        {
+          "title": "Le « rapport Alloncle » sur l’audiovisuel public adopté par les députés"
+        },
+        {
+          "title": "Audiovisuel public : les députés votent pour la publication du rapport Alloncle"
+        },
+        {
+          "title": "Audiovisuel public : le rapport du député Charles Alloncle est adopté par les députés après plus de quatre heures de débat"
+        },
+        {
+          "title": "Le rapport rédigé par Charles Alloncle voté en commission d’enquête"
+        }
+      ]
+    },
+    {
+      "id": "topic_c381a10b6adf493c",
+      "label": [
+        "assassinat",
+        "pour tentative",
+        "tentative assassinat",
+        "pour tentative assassinat",
+        "tentative",
+        "assassinat sur"
+      ],
+      "category": "new",
+      "entities": [
+        "Tirs",
+        "Donald Trump",
+        "Cole Allen",
+        "Trump",
+        "Washington"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Tirs au gala de la presse avec Donald Trump : le suspect Cole Allen mis en accusation par un tribunal pour \"tentative d’assassinat\""
+        },
+        {
+          "title": "L’assaillant du gala de la presse mis en accusation pour « tentative d’assassinat » sur Trump"
+        },
+        {
+          "title": "Tirs au dîner des correspondants : le suspect a été mis en accusation par un tribunal pour tentative d'assassinat sur Donald Trump"
+        },
+        {
+          "title": "Tirs au gala de la presse : le suspect mis en accusation par un tribunal pour tentative d’assassinat sur Donald Trump"
+        },
+        {
+          "title": "Washington : le suspect inculpé pour tentative d’assassinat sur Donald Trump"
+        }
+      ]
+    },
+    {
+      "id": "topic_3d216fe727bbf5e3",
+      "label": [
+        "plane crash",
+        "south sudan",
+        "sudan",
+        "plane",
+        "south",
+        "crash"
+      ],
+      "category": "new",
+      "entities": [
+        "Plane",
+        "South Sudan",
+        "Juba",
+        "Bodies Charred Beyond Recognition",
+        "Killed In South Sudan"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Plane crash in South Sudan kills 14"
+        },
+        {
+          "title": "Plane crashes near South Sudan’s Juba, killing all 14 on board"
+        },
+        {
+          "title": "Plane crash in South Sudan kills all 15 on board"
+        },
+        {
+          "title": "\"Bodies Charred Beyond Recognition\": 14 Killed In South Sudan Plane Crash"
+        },
+        {
+          "title": "Plane crash kills all 14 onboard in South Sudan after aircraft plunges to ground and erupts into flames"
         }
       ]
     }

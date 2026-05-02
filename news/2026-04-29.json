@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-05-02T10:29:55.448Z",
+  "generated_at": "2026-05-02T14:19:13.634Z",
   "topics": [
     {
       "id": "topic_e663bcca61a8b038",
@@ -187,8 +187,8 @@
         "King Charles",
         "Queen Camilla"
       ],
-      "article_count": 13,
-      "source_count": 9,
+      "article_count": 38,
+      "source_count": 13,
       "articles": [
         {
           "title": "King Charles, Queen Camilla pay their respects at 9/11 Memorial during U.S. tour",
@@ -305,7 +305,7 @@
         "Live",
         "Trump"
       ],
-      "article_count": 5,
+      "article_count": 9,
       "source_count": 5,
       "articles": [
         {
@@ -506,6 +506,249 @@
           "source": "The Guardian",
           "published_at": "2026-04-29T18:00:49.000Z",
           "image": "https://i.guim.co.uk/img/media/fa3e022968c728a5567f9f4e35774b8f90aa4c8e/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4c058063ece7bff8fe851a916e0207c5"
+        }
+      ]
+    },
+    {
+      "id": "topic_417ed5de483f64de",
+      "label": [
+        "iran",
+        "get smart",
+        "trump",
+        "smart",
+        "get",
+        "smart soon"
+      ],
+      "category": "new",
+      "theme": "theme_87f04d1fe29628b",
+      "entities": [
+        "Trump",
+        "Iran",
+        "AI",
+        "Mr Nice Guy",
+        "Better"
+      ],
+      "article_count": 23,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Trump urges Iran to 'get smart soon' and sign a deal | BBC News",
+          "url": "https://www.youtube.com/watch?v=uAVXqLA2bUk",
+          "source": "BBC News",
+          "published_at": "2026-04-29T19:47:34.000Z",
+          "image": "https://i2.ytimg.com/vi/uAVXqLA2bUk/hqdefault.jpg"
+        },
+        {
+          "title": "Trump urges Iran to sign deal, mulls longer blockade",
+          "url": "https://www.perthnow.com.au/news/conflict/trump-urges-iran-to-sign-deal-mulls-longer-blockade-c-22212451",
+          "source": "PerthNow",
+          "published_at": "2026-04-29T19:26:59.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22212451/7e574276b8e77e90907d0cbf62221ff8be8e33ac-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Trump Says Iran ‘Better Get Smart Soon’",
+          "url": "https://www.youtube.com/watch?v=47A-mXTzyWc",
+          "source": "Bloomberg Television",
+          "published_at": "2026-04-29T17:19:38.000Z",
+          "image": "https://i1.ytimg.com/vi/47A-mXTzyWc/hqdefault.jpg"
+        },
+        {
+          "title": "Trump says US blockade could last for months, warns Iran to ‘get smart soon’",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3351904/trump-says-us-blockade-could-last-months-warns-iran-get-smart-soon",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-04-29T16:59:59.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/30/862ac66a-89bf-4452-b0f4-aa777066fc74_8f6383ac.jpg?itok=HtxdW-FK&v=1777481992"
+        },
+        {
+          "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
+          "url": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-04-29T16:39:28.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/enztcy/article70921876.ece/alternates/LANDSCAPE_1200/2026-04-29T115533Z_1242181967_RC2RWKAXU6AQ_RTRMADP_3_USA-TRUMP-MEDIA-LITIGATION.JPG"
+        }
+      ]
+    },
+    {
+      "id": "topic_f64a38e3e288b4dd",
+      "label": [
+        "30 2026",
+        "april 30 2026",
+        "april 30",
+        "best cartoon",
+        "cartoon april",
+        "best cartoon april"
+      ],
+      "category": "new",
+      "theme": "theme_22aee75f2bf44fcd",
+      "entities": [
+        "Best",
+        "April",
+        "Letters",
+        "The Editor"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Letters to The Editor — April 30, 2026",
+          "url": "https://www.thehindu.com/opinion/letters/letters-to-the-editor-april-30-2026/article70921772.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-04-29T17:46:20.000Z"
+        },
+        {
+          "title": "Best of cartoons, April 30, 2026",
+          "url": "https://www.brisbanetimes.com.au/politics/federal/best-of-cartoons-april-30-2026-20260429-p5zsbu.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-04-29T11:38:17.000Z",
+          "image": "https://static.ffx.io/images/$zoom_2.5763888888888884%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_2518%2C$y_2311/t_crop_custom/q_86%2Cf_auto/fca69bc5275760e6f680015ce541addb147d0534"
+        },
+        {
+          "title": "Best of cartoons, April 30, 2026",
+          "url": "https://www.smh.com.au/politics/federal/best-of-cartoons-april-30-2026-20260429-p5zsbu.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-04-29T11:38:17.000Z",
+          "image": "https://static.ffx.io/images/$zoom_2.5763888888888884%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_2518%2C$y_2311/t_crop_custom/q_86%2Cf_auto/fca69bc5275760e6f680015ce541addb147d0534"
+        },
+        {
+          "title": "Best of cartoons, April 30, 2026",
+          "url": "https://www.theage.com.au/politics/federal/best-of-cartoons-april-30-2026-20260429-p5zsbu.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-04-29T11:38:17.000Z",
+          "image": "https://static.ffx.io/images/$zoom_2.5763888888888884%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_2518%2C$y_2311/t_crop_custom/q_86%2Cf_auto/fca69bc5275760e6f680015ce541addb147d0534"
+        }
+      ]
+    },
+    {
+      "id": "topic_bdaeb5509a21ca61",
+      "label": [
+        "cadillac",
+        "cadillac championship",
+        "championship",
+        "championship best",
+        "cadillac championship best",
+        "bet cadillac"
+      ],
+      "category": "new",
+      "theme": "theme_bfe5186ff8aa8a0",
+      "entities": [
+        "Cadillac Championship",
+        "Best",
+        "PGA TOUR",
+        "Trump National Doral",
+        "Cadillac Championship TV"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "2026 Cadillac Championship TV schedule, coverage: Where to watch PGA Tour's return to the Blue Monster",
+          "url": "https://www.cbssports.com/golf/news/cadillac-championship-2026-where-to-watch-tv-schedule-live-stream-coverage",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-04-29T20:39:53.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/04/29/d17e0b40-ff48-4132-9add-8fbe21d9065d/cadillac-champ.jpg"
+        },
+        {
+          "title": "2026 Cadillac Championship: Best bets for the PGA TOUR's return to Trump National Doral",
+          "url": "https://www.foxnews.com/outkick-sports/2026-cadillac-championship-best-bets-pga-tours-return-trump-national-doral",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-04-29T18:08:55.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/collin-morikawa-cadillac-fox-news.jpeg?ve=1&tl=1"
+        },
+        {
+          "title": "How to bet the Cadillac Championship: Best ways to...",
+          "url": "https://www.espn.com/betting/golf/story/_/id/48619669/golf-pga-tour-betting-cadillac-championship",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-04-29T12:39:58.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_cf5d005f89dcfc86",
+      "label": [
+        "champion league semi",
+        "league semi",
+        "league semi final",
+        "semi final",
+        "semi",
+        "champion league"
+      ],
+      "category": "new",
+      "theme": "theme_29aaf262a659a987",
+      "entities": [
+        "Atl",
+        "Madrid",
+        "Arsenal",
+        "Champions League",
+        "Penalty"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Arsenal, Atletico Madrid share draw after penalty drama in Champions League semi-final",
+          "url": "https://www.france24.com/en/sport/20260429-arsenal-atletico-madrid-penalty-drama-champions-league-semi-final-draw",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-04-29T21:55:37.000Z",
+          "image": "https://s.france24.com/media/display/f69f4068-440c-11f1-ac15-005056a97e36/w:1024/p:16x9/000-A9DP7EG.jpg"
+        },
+        {
+          "title": "Penalty drama leaves Arsenal and Atletico level after Champions League semi-final",
+          "url": "https://www.thejournal.ie/arsenal-atletico-2-7027444-apr2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-04-29T21:10:46.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/04/madrid-spain-29th-apr-2026-eberechi-eze-of-arsenal-fc-and-julian-alvarez-of-atletico-de-madrid-during-the-uefa-champions-league-match-semi-finals-firstd-leg-between-atletico-de-madrid-and-arsen-c8b2ed9f-055b-4d77-900e-acb58d133e4f-630x420.jpg"
+        },
+        {
+          "title": "Atlético Madrid v Arsenal: Champions League semi-final, first leg – live",
+          "url": "https://www.theguardian.com/football/live/2026/apr/29/atletico-madrid-v-arsenal-champions-league-semi-final-first-leg-live",
+          "source": "The Guardian",
+          "published_at": "2026-04-29T17:34:45.000Z",
+          "image": "https://i.guim.co.uk/img/media/dfb29b1fc47ae4511a30cdc298399517515fb9af/759_0_6543_5235/master/6543.jpg?width=140&quality=85&auto=format&fit=max&s=ae09ececdbe326fc1601f5b10ae2170b"
+        }
+      ]
+    },
+    {
+      "id": "topic_5f3e1cdf9c87ef81",
+      "label": [
+        "de",
+        "de la",
+        "la",
+        "viuda",
+        "la viuda",
+        "viuda de"
+      ],
+      "category": "new",
+      "theme": "theme_770640c2c455b980",
+      "entities": [
+        "Hallado",
+        "Jes",
+        "Tavira",
+        "CAM",
+        "Alicante"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Hallan en Alicante el cadáver del empresario relacionado con el caso de la viuda de la CAM",
+          "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-04-29/cadaver-empresario-alicante-asesinato-1tna-1tps_4347162",
+          "source": "España",
+          "published_at": "2026-04-29T13:02:00.000Z",
+          "image": "https://images.ecestaticos.com/KIpyXsQtPbXc9x56ekOtQPYjkuc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff04%2Fda0%2F171%2Ff04da01719226b6e5186fbad245b34b9.jpg"
+        },
+        {
+          "title": "Detienen a tres personas por el asesinato y entierro del cuerpo de un empresario testigo en la causa de la viuda de la CAM",
+          "url": "https://www.eldiario.es/comunitat-valenciana/alicante/detienen-tres-personas-asesinato-entierro-cuerpo-empresario-testigo-causa-viuda-cam_1_13180820.html",
+          "source": "elDiario.es - elDiario.es",
+          "published_at": "2026-04-29T07:16:57.000Z",
+          "image": "https://static.eldiario.es/clip/f25b2642-7230-4a3b-9045-2dd1864bfeb3_16-9-discover-aspect-ratio_default_0.jpg"
+        },
+        {
+          "title": "Hallado el cuerpo de Jesús Tavira, testigo del caso de la viuda de la CAM, en casa de uno de sus trabajadores en Alicante",
+          "url": "https://elpais.com/espana/2026-04-29/hallado-el-cuerpo-del-empresario-jesus-tavira-testigo-del-caso-de-la-viuda-de-la-cam-en-casa-de-uno-de-sus-trabajadores-en-alicante.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-04-29T06:46:55.000Z",
+          "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260429/1165416_113244_video_1800.mp4"
         }
       ]
     }
