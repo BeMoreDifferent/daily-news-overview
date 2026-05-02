@@ -1,5 +1,9 @@
 import { createWriteStream, statSync, renameSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { execFile as execFileCb } from 'node:child_process';
+import { promisify } from 'node:util';
+
+const execFile = promisify(execFileCb);
 import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
 import { processFeed } from './services/feedProcessor.js';
@@ -162,13 +166,14 @@ export async function runOnce() {
     }
     timing.pruneMs = Date.now() - pruneStartedAt;
 
-    // Export yesterday's top topics to news/<date>.json once per calendar day.
+    // Export yesterday's top topics to news/<date>.json once per calendar day, then commit+push.
     if (!lastNewsExportDate || lastNewsExportDate !== today) {
       const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
       try {
         const articleCount = await exportNewsForDate(duckDBService, yesterday);
         if (articleCount !== null && articleCount > 0) {
           console.log(`News export: wrote news/${yesterday}.json`);
+          await gitCommitAndPush(`news/${yesterday}.json`, yesterday);
         }
         lastNewsExportDate = today;
       } catch (err) {
@@ -267,6 +272,17 @@ async function mapConcurrent(items, concurrency, mapper) {
   const workers = Array.from({ length: Math.min(concurrency, items.length) }, worker);
   await Promise.all(workers);
   return results;
+}
+
+async function gitCommitAndPush(filePath, date) {
+  try {
+    await execFile('git', ['add', filePath]);
+    await execFile('git', ['commit', '-m', `news: add ${date} daily topics export`]);
+    await execFile('git', ['push']);
+    console.log(`News export: committed and pushed ${filePath}`);
+  } catch (err) {
+    console.warn(`News export git push failed: ${err.stderr || err.message}`);
+  }
 }
 
 async function shutdown() {
