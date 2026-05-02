@@ -1,0 +1,520 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-05-02T10:29:55.477Z",
+  "topics": [
+    {
+      "id": "topic_46bae17ab8f25b2f",
+      "label": [
+        "aid",
+        "gaza",
+        "israel",
+        "gaza aid",
+        "aid flotilla",
+        "intercept gaza"
+      ],
+      "category": "new",
+      "theme": "theme_c20fdb37879f11df",
+      "entities": [
+        "Israel",
+        "Gaza",
+        "Activists",
+        "Crete",
+        "Greece"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Israel stops Gaza-bound aid flotilla in international waters",
+          "url": "https://www.dw.com/en/israel-stops-gaza-bound-aid-flotilla-in-international-waters/a-76990054",
+          "source": "Deutsche Welle",
+          "published_at": "2026-04-30T08:26:00.000Z"
+        },
+        {
+          "title": "Israel intercepts Gaza aid flotilla in international waters off Greece, detaining dozens",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3351997/israel-intercepts-gaza-aid-flotilla-international-waters-greece-detaining-dozens",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-04-30T08:19:37.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/30/a4502c69-a58a-42dd-a8f8-775703f1c843_29454597.jpg?itok=GYYvZhLL&v=1777537176"
+        },
+        {
+          "title": "Activists say Israel has intercepted their Gaza aid flotilla near Crete",
+          "url": "https://www.npr.org/2026/04/30/g-s1-119486/israel-intercept-gaza-aid-flotilla",
+          "source": "NPR Topics: World",
+          "published_at": "2026-04-30T07:59:37.000Z"
+        },
+        {
+          "title": "Activists say Israel has intercepted their Gaza aid flotilla near Crete, detaining crews",
+          "url": "https://www.seattletimes.com/nation-world/world/activists-say-israel-has-intercepted-their-gaza-aid-flotilla-near-crete-detaining-crews",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-04-30T07:29:09.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/04/urnpublicidap.org74d9fa6d68f4809c3ed020d3aa507607Spain_Gaza_Flotilla_95733.jpg?d=1200x630"
+        },
+        {
+          "title": "Israel intercepts Gaza aid ships in international waters, organisers say",
+          "url": "https://www.irishexaminer.com/world/arid-41836640.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-04-30T06:57:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_92a515a5fe8f6522",
+      "label": [
+        "gewinn",
+        "um 28",
+        "28 prozent",
+        "um 28 prozent",
+        "prozent",
+        "28"
+      ],
+      "category": "new",
+      "theme": "theme_bbfd06fb42e8d546",
+      "entities": [
+        "Jahresauftakt",
+        "VW",
+        "Gewinn",
+        "Quartal",
+        "Prozent"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Gewinn von Volkswagen um 28 Prozent eingebrochen",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-gewinneinbruch-100.html",
+          "source": "tagesschau.de - Die Nachrichten der ARD",
+          "published_at": "2026-04-30T07:23:32.000Z"
+        },
+        {
+          "title": "VW-Gewinn bricht im ersten Quartal um 28 Prozent ein",
+          "url": "https://www.spiegel.de/wirtschaft/vw-gewinn-bricht-im-ersten-quartal-um-28-prozent-ein-a-979790f5-a867-49b4-ba4c-08caa4c191c4",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-04-30T06:47:00.000Z",
+          "image": "https://cdn.prod.www.spiegel.de/images/671b0350-8d42-40b7-a8b0-a6b106000a5b_w520_r2.08_fpx39.98_fpy49.99.jpg"
+        },
+        {
+          "title": "Milliardenlücke bei Volkswagen: Gewinn im ersten Quartal radikal eingebrochen",
+          "url": "https://www.morgenpost.de/wirtschaft/article411860206/milliardenluecke-bei-volkswagen-gewinn-im-ersten-quartal-radikal-eingebrochen.html",
+          "source": "Berliner Morgenpost",
+          "published_at": "2026-04-30T05:47:15.000Z",
+          "image": "https://img.sparknews.funkemedien.de/411860205/411860205_1777528038_v16_9_600.jpeg"
+        },
+        {
+          "title": "Business-Ticker: Gewinn von VW bricht um 28 Prozent ein",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-gewinn-von-vw-bricht-um-28-prozent-ein-faz-200452404.html",
+          "source": "Aktuell - FAZ.NET",
+          "published_at": "2026-04-30T05:43:42.000Z",
+          "image": "https://media0.faz.net/image/abd1c8045394/w3297h1855x0y172/202604/43601.0.2012321699/vw-mini-in-emden-warten-auf.webp"
+        },
+        {
+          "title": "Einsparungen \"reichen nicht\": VW-Gewinn im ersten Quartal um 28 Prozent eingebrochen",
+          "url": "https://www.n-tv.de/wirtschaft/vw-gewinn-im-ersten-quartal-um-28-prozent-eingebrochen-id30771041.html",
+          "source": "n-tv.de - Startseite",
+          "published_at": "2026-04-30T05:40:10.000Z",
+          "image": "https://www.n-tv.de/img/30771050/1777535617/Img_4_3/250/Volkswagen-VW-Autohaendler-voller-Neuwagen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_bfa5d0afe8bb6fc0",
+      "label": [
+        "vinesh",
+        "chandel",
+        "vinesh chandel",
+        "pac",
+        "bail",
+        "case"
+      ],
+      "category": "new",
+      "theme": "theme_8b0421244558dc52",
+      "entities": [
+        "PAC Co",
+        "Founder Vinesh Chandel Granted",
+        "Bail In Money Laundering",
+        "Case",
+        "Mamata Vs Suvendu"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "I-PAC Director Vinesh Chandel gets bail in West Bengal coal scam case",
+          "url": "https://scroll.in/latest/1092492/i-pac-director-vinesh-chandel-gets-bail-in-west-bengal-coal-scam-case",
+          "source": "Scroll.in",
+          "published_at": "2026-04-30T08:20:10.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213195-pftvtgbkov-1777534687.jpeg"
+        },
+        {
+          "title": "I-PAC director Vinesh Chandel gets bail in money laundering case",
+          "url": "https://www.thehindu.com/news/national/vinesh-chandel-ipac-gets-bail-in-money-laundering-case/article70923616.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-04-30T07:07:51.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/kpwpzv/article70923622.ece/alternates/LANDSCAPE_1200/20260414012L.jpg"
+        },
+        {
+          "title": "Delhi Court Grants Bail To I-PAC Co-Founder Vinesh Chandel In Money Laundering Case, ED Does Not Oppose, Cites Cooperation",
+          "url": "https://www.freepressjournal.in/india/delhi-court-grants-bail-to-i-pac-co-founder-vinesh-chandel-in-money-laundering-case-ed-does-not-oppose-cites-cooperation",
+          "source": "Free Press Journal",
+          "published_at": "2026-04-30T06:57:49.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-04-30/b5iqg3x2/Untitled-design-2026-04-30T122721.835.jpg"
+        },
+        {
+          "title": "Mamata Vs Suvendu: I-PAC Director Vinesh Chandel gets bail as ED doesn't oppose; AAP targets BJP, asks to 'introspect'",
+          "url": "https://www.dnaindia.com/india/report-mamata-vs-suvendu-i-pac-director-vinesh-chandel-gets-bail-as-ed-doesn-t-oppose-aap-targets-bjp-asks-to-introspect-west-bengal-election-3208373",
+          "source": "India News",
+          "published_at": "2026-04-30T06:19:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/04/30/2747509-phto-81.png"
+        },
+        {
+          "title": "I-PAC Co-Founder Vinesh Chandel Granted Bail In Money Laundering Case",
+          "url": "https://www.ndtv.com/india-news/i-pac-co-founder-vinesh-chandel-granted-bail-in-money-laundering-case-11429420",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-04-30T05:51:48.000Z",
+          "image": "https://c.ndtvimg.com/2026-04/9a6vs53o_vinesh-chandel_625x300_13_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+        }
+      ]
+    },
+    {
+      "id": "topic_9ca6fffc8b758343",
+      "label": [
+        "visit york",
+        "camilla",
+        "11 victim",
+        "victim visit",
+        "11 victim visit",
+        "victim visit york"
+      ],
+      "category": "new",
+      "theme": "theme_44748777fd7f263f",
+      "entities": [
+        "King Charles III",
+        "Queen Camilla",
+        "New York",
+        "AP News",
+        "Charles"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "King Charles III and Queen Camilla visit New York as part of trip to America. #BBCNews",
+          "url": "https://www.youtube.com/shorts/Iz40EssoA3A",
+          "source": "BBC News",
+          "published_at": "2026-04-30T07:07:39.000Z",
+          "image": "https://i2.ytimg.com/vi/Iz40EssoA3A/hqdefault.jpg"
+        },
+        {
+          "title": "Charles and Camilla honour 9/11 victims on visit to New York",
+          "url": "https://www.theage.com.au/world/north-america/charles-and-camilla-honour-9-11-victims-on-visit-to-new-york-20260430-p5zsmf.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-04-30T05:48:47.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f55c066faec4f87a9a3608d8735b98170b812bf8"
+        },
+        {
+          "title": "Charles and Camilla honour 9/11 victims on visit to New York",
+          "url": "https://www.brisbanetimes.com.au/world/north-america/charles-and-camilla-honour-9-11-victims-on-visit-to-new-york-20260430-p5zsmf.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-04-30T05:48:47.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f55c066faec4f87a9a3608d8735b98170b812bf8"
+        },
+        {
+          "title": "Charles and Camilla honour 9/11 victims on visit to New York",
+          "url": "https://www.smh.com.au/world/north-america/charles-and-camilla-honour-9-11-victims-on-visit-to-new-york-20260430-p5zsmf.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-04-30T05:48:47.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f55c066faec4f87a9a3608d8735b98170b812bf8"
+        },
+        {
+          "title": "King Charles III and Queen Camilla honor 9/11 victims on visit to New York - AP News",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxqa1jdctm3d0xgvtzwuw1rrulyetdeae0yz05zyk5qmwozs3lmt0yyvdz3zte2axlnbngtdm9dmfnjdl9my3dvcmtqqm9knflqu01hvujwoxvva3rqzlvwcmnwz3rzzupoefywd1v6qtvcwwiwvjnhyk1lmvdfzhfpyklommnfs2jytehsn2puvtlyvdvrcklqde91egnksefs",
+          "source": "Top stories - Google News",
+          "published_at": "2026-04-30T00:26:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_2512ce0ca9850e8d",
+      "label": [
+        "hospitalis",
+        "chlorine",
+        "defunct",
+        "chlorine gas",
+        "leak defunct",
+        "chlorine gas leak"
+      ],
+      "category": "new",
+      "theme": "theme_c601bae4cbd88661",
+      "entities": [
+        "Pune",
+        "Hospitalised After Chlorine Gas",
+        "Leak At Defunct Water",
+        "Plant In Pune",
+        "Chlorine"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "24 hospitalised in Pune after chlorine gas leaks from defunct water plant",
+          "url": "https://www.indiatoday.in/cities/pune/story/pune-chlorine-gas-leak-24-hospitalised-defunct-water-purification-storage-facility-2903633-2026-04-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-04-30T06:50:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/pune-304428201-16x9_0.jpg?VersionId=VDVszlXC5f_IgXO6tYavFycMftIkpxHc"
+        },
+        {
+          "title": "Chlorine gas leaks at defunct water purification plant in Pune; 24 persons hospitalised",
+          "url": "https://www.thehindu.com/news/national/maharashtra/chlorine-gas-leaks-at-defunct-water-purification-plant-in-pune/article70923340.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-04-30T05:45:39.000Z",
+          "image": "https://th-i.thgim.com/public/news/national/odisha/7v4ho4/article70923375.ece/alternates/LANDSCAPE_1200/iStock-461778719.jpg"
+        },
+        {
+          "title": "24 Hospitalised After Chlorine Gas Leak At Defunct Water Plant In Pune",
+          "url": "https://www.ndtv.com/india-news/pune-chlorine-gas-leak-24-hospitalised-after-chlorine-gas-leak-at-defunct-water-purification-plant-in-pune-11428959",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-04-30T04:56:30.000Z",
+          "image": "https://c.ndtvimg.com/2026-04/t5pumgvo_chlorine-gas-leakage_625x300_30_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
+        },
+        {
+          "title": "24 hospitalised after chlorine gas leak at defunct Pune water purification plant",
+          "url": "https://timesofindia.indiatimes.com/city/pune/chlorine-gas-leaks-at-defunct-water-purification-plant-in-pune-24-hospitalised/articleshow/130622421.cms",
+          "source": "Times of India",
+          "published_at": "2026-04-30T03:45:45.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130622448,imgsize-186554.cms"
+        }
+      ]
+    },
+    {
+      "id": "topic_8be323cf6c521622",
+      "label": [
+        "liv golf",
+        "golf",
+        "saudi",
+        "golf fund",
+        "liv golf fund",
+        "fund"
+      ],
+      "category": "new",
+      "theme": "theme_b5c4221f2b588053",
+      "entities": [
+        "Saudi Arabia",
+        "LIV Golf",
+        "Saudi",
+        "US"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Saudi Arabia to stop LIV Golf funding this year, according to US media reports",
+          "url": "https://www.thejournal.ie/saudi-liv-golf-funding-2-7027589-apr2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-04-30T07:33:47.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/04/liv-golf-sign-at-the-bolingbrook-golf-club-liv-golf-is-a-professional-mens-golf-tour-which-is-financed-by-public-investment-fund-45ce09d8-2162-46f1-a231-9c56ade20bd2-630x472.jpg"
+        },
+        {
+          "title": "Saudi Arabia to withdraw LIV Golf funding",
+          "url": "https://news.sky.com/story/saudi-arabias-public-investment-fund-to-withdraw-funding-for-liv-golf-after-1631bn-loss-13538285",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-04-30T06:56:00.000Z",
+          "image": "https://e3.365dm.com/26/04/1920x1080/skynews-jon-rahm-liv_7234836.jpg?20260430091731"
+        },
+        {
+          "title": "Saudi to stop LIV Golf funding this year: reports",
+          "url": "https://www.the42.ie/saudi-liv-golf-funding-7027516-apr2026",
+          "source": "The 42",
+          "published_at": "2026-04-30T06:43:53.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/04/liv-golf-sign-at-the-bolingbrook-golf-club-liv-golf-is-a-professional-mens-golf-tour-which-is-financed-by-public-investment-fund-45ce09d8-2162-46f1-a231-9c56ade20bd2-630x472.jpg"
+        },
+        {
+          "title": "Saudi Arabia to stop funding LIV Golf next season",
+          "url": "https://www.bbc.com/news/articles/cp3p9we4v0yo",
+          "source": "BBC Sport",
+          "published_at": "2026-04-30T05:36:58.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbab/live/ef029520-4412-11f1-a1ef-492c49f57c20.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_6d0379e45d11effe",
+      "label": [
+        "singapore",
+        "french teen",
+        "french",
+        "teen",
+        "straw",
+        "lick"
+      ],
+      "category": "new",
+      "theme": "theme_c6c7d39533eb15ed",
+      "entities": [
+        "French",
+        "Singapore",
+        "French Teen Faces Charges",
+        "Controversial Vending Machine Video"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "French Teen Faces Charges in Singapore for Controversial Vending Machine Video",
+          "url": "https://internewscast.com/news/us/french-teen-faces-charges-in-singapore-for-controversial-vending-machine-video",
+          "source": "Internewscast Journal",
+          "published_at": "2026-04-30T07:48:20.000Z"
+        },
+        {
+          "title": "French teen charged in Singapore over a vending machine straw-licking video",
+          "url": "https://www.nbcnews.com/world/asia/french-teen-charged-singapore-vending-machine-straw-licking-video-rcna342827",
+          "source": "NBC News World News",
+          "published_at": "2026-04-30T07:12:01.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260430-Didier-Gaspard-Owen-Maximilien-rs-77ed78.jpg"
+        },
+        {
+          "title": "French teen faces possible prison sentence for Singapore straw-licking video",
+          "url": "https://www.france24.com/en/asia-pacific/20260430-french-teen-faces-possible-prison-sentence-for-singapore-straw-licking-video",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-04-30T07:00:31.000Z",
+          "image": "https://s.france24.com/media/display/00a3ab64-4460-11f1-8415-005056bf30b7/w:1024/p:16x9/000-A9AT3MZ.jpg"
+        },
+        {
+          "title": "French teen facing jail over straw licking stunt allowed to leave Singapore",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3351928/french-teen-facing-jail-over-straw-licking-stunt-allowed-leave-singapore",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-04-30T02:10:08.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/30/d9a80406-1e6b-4b7c-ba33-355891f2d259_3abef10f.jpg?itok=hnUq6tEp&v=1777514018"
+        }
+      ]
+    },
+    {
+      "id": "topic_a251461b4d8791df",
+      "label": [
+        "crude hits wartime",
+        "crude hits",
+        "brent crude hits",
+        "hits wartime",
+        "wartime high",
+        "hits wartime high"
+      ],
+      "category": "new",
+      "theme": "theme_13c9769a29c25571",
+      "entities": [
+        "Brent",
+        "Trump",
+        "Iran",
+        "CNBC",
+        "Aussie"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Aussie shares slip as brent crude hits new wartime high",
+          "url": "https://www.businessnews.com.au/article/aussie-shares-slip-as-brent-crude-hits-new-wartime-high",
+          "source": "Business News - Latest Headlines",
+          "published_at": "2026-04-30T07:32:45.000Z",
+          "image": "https://www.businessnews.com.au/sites/default/files/aap_article_20220614001669459487.jpg"
+        },
+        {
+          "title": "Aussie shares slip as brent crude hits new wartime high",
+          "url": "https://michaelwest.com.au/aussie-shares-slip-as-brent-crude-hits-new-wartime-high",
+          "source": "Michael West",
+          "published_at": "2026-04-30T07:25:44.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/04/6bdf791e-c99d-4015-8edf-1181d01dc4fa.jpg"
+        },
+        {
+          "title": "Brent crude hits wartime high, soaring past $123, as U.S. military to reportedly brief Trump on action against Iran - CNBC",
+          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxqc3pub240vwdzu2pfxzndrvpfnglovkjab0m3rdh4anvcyzfzx01jzejsred5ry1ab0lboguxtuh6wkytmhbzullsq01pwhutzlbwcezdbdnxmw1fa0harupvltr5dgsxag1ymmhftjhkb0jzmdltmflbwxb3exnfdzu5b1bfbzbz0ggoaufvx3lxtfbxwjl6vxdoau83sdntm2pfrtzkmv9xeudjudq4ttfhcfy4t0dym0pvsze1qmjoqly0ogj1etutvwgtlxjrejjtz0hcb05xrflprzhwyulnunf1bdm2sutdvndwdhhkr2hirwhgnkp2exliu2vkb184sny5slcty2hmam10curfownyefj5wle",
+          "source": "Top stories - Google News",
+          "published_at": "2026-04-30T00:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_ab2abaadabfe879d",
+      "label": [
+        "flottille",
+        "lienne",
+        "la flottille",
+        "par arm",
+        "arm isra",
+        "isra lienne"
+      ],
+      "category": "new",
+      "theme": "theme_c148ce8a32e8b054",
+      "entities": [
+        "Gaza",
+        "Global Sumud Flotilla",
+        "La",
+        "Gr"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "La « flottille pour Gaza » interceptée au large de la Grèce par l’armée israélienne, 175 militants arrêtés",
+          "url": "https://www.sudouest.fr/international/moyen-orient/gaza/la-flottille-pour-gaza-interceptee-au-large-de-la-grece-par-l-armee-israelienne-175-militants-arretes-28880343.php",
+          "source": "L'essentiel",
+          "published_at": "2026-04-30T08:17:31.000Z"
+        },
+        {
+          "title": "La flottille pour Gaza encerclée par l’armée israélienne selon ses organisateurs",
+          "url": "https://www.ouest-france.fr/monde/gaza/la-flottille-pour-gaza-encerclee-par-larmee-israelienne-selon-ses-organisateurs-e56f8026-443b-11f1-8492-0dabd481308d",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-04-30T02:51:04.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA0OTdmYzUxMTU1ZDk0OWY0MDkwNmEwYjBmY2ZjYTIyMGE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4f35be25cb57dc301e201e35fd292ece47041d9ac3abe3f0912c5806770be60e"
+        },
+        {
+          "title": "Gaza : la flottille humanitaire Global Sumud Flotilla a été interceptée dans les eaux internationales par l’armée israélienne, affirment ses organisateurs",
+          "url": "https://www.lemonde.fr/international/article/2026/04/30/gaza-la-flottille-humanitaire-global-sumud-flotilla-a-ete-interceptee-dans-les-eaux-internationales-par-l-armee-israelienne-affirment-ses-organisateurs_6684464_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-04-30T02:00:10.000Z",
+          "image": "https://img.lemde.fr/2026/04/12/643/0/7154/3577/644/322/60/0/78e45ef_ftp-1-i6ndrjihs0cw-edcdbe7c5c9f472bb46a709ed3679fa8-0-9c3e65a984d94c4dbf6ad01fb31d8a3d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_b8102ec87e8af4eb",
+      "label": [
+        "la",
+        "plus bas",
+        "25 ans",
+        "libert",
+        "la libert",
+        "libert de"
+      ],
+      "category": "new",
+      "theme": "theme_8e583c739f6f50fe",
+      "entities": [
+        "La",
+        "Reporters",
+        "Les",
+        "RSF"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "La liberté de la presse a atteint son niveau le plus bas en 25 ans, constate Reporters sans frontières",
+          "url": "https://www.ouest-france.fr/medias/la-liberte-de-la-presse-a-atteint-son-niveau-le-plus-bas-en-25-ans-constate-reporters-sans-frontieres-f6d32e58-4477-11f1-8492-0dabd481308d",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-04-30T09:50:17.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA0YTA2Yjg0NGI1ODAzNDk1Yjg0NzI0ODY4ZWQzZWIwYTg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=1e0aea36a23ae2d7dbfa2be7f4f723658e845f825dd6c877b7d6641f7c521e36"
+        },
+        {
+          "title": "« Les attaques contre les journalistes se transforment » : la liberté de la presse au plus bas dans le monde depuis 25 ans, alerte RSF",
+          "url": "https://www.sudouest.fr/international/les-attaques-contre-les-journalistes-se-transforment-la-liberte-de-la-presse-au-plus-bas-dans-le-monde-depuis-25-ans-alerte-rsf-28879593.php",
+          "source": "L'essentiel",
+          "published_at": "2026-04-30T05:53:29.000Z"
+        },
+        {
+          "title": "La liberté de la presse au plus bas depuis 25 ans dans le monde, alerte Reporters sans frontières",
+          "url": "https://www.franceinfo.fr/economie/medias/la-liberte-de-la-presse-au-plus-bas-depuis-25-ans-dans-le-monde-alerte-reporters-sans-frontieres_7973831.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-04-30T05:30:32.000Z",
+          "image": "https://www.franceinfo.fr/pictures/2J8hIbWt0kuGqhxQXjoeJq_IzQk/0x0:1145x644/432x243/filters:format(jpg)/2026/04/30/69f2e32f8a6f5115827942.jpg"
+        }
+      ]
+    }
+  ]
+}
