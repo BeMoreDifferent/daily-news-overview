@@ -1,17 +1,13 @@
 import http from 'node:http';
 import https from 'node:https';
+import { StringDecoder } from 'node:string_decoder';
 import Parser from 'rss-parser';
 import { DEFAULT_FEED_TIMEOUT_MS, DEFAULT_FEED_DEADLINE_MS } from '../config.js';
 import { hash64 } from '../utils/hash.js';
 import { normalizeUrl } from '../utils/urlNormalizer.js';
 
-const httpAgent  = new http.Agent({ maxSockets: 10 });
-const httpsAgent = new https.Agent({ maxSockets: 10 });
-
-export function destroyAgents() {
-  httpAgent.destroy();
-  httpsAgent.destroy();
-}
+const httpAgent  = new http.Agent({ maxSockets: 10, keepAlive: false });
+const httpsAgent = new https.Agent({ maxSockets: 10, keepAlive: false });
 
 const parser = new Parser({
   customFields: {
@@ -34,7 +30,20 @@ const parser = new Parser({
   }
 });
 
-function fetchXml(url, redirectCount = 0) {
+// Retry once on transient network errors before failing a feed.
+async function fetchXml(url, redirectCount = 0) {
+  try {
+    return await fetchXmlOnce(url, redirectCount);
+  } catch (err) {
+    if (['ECONNRESET', 'ECONNREFUSED', 'EPIPE', 'ECONNABORTED'].includes(err.code)) {
+      await new Promise(r => setTimeout(r, 200 + Math.random() * 100));
+      return fetchXmlOnce(url, redirectCount);
+    }
+    throw err;
+  }
+}
+
+function fetchXmlOnce(url, redirectCount) {
   if (redirectCount > 5) {
     return Promise.reject(Object.assign(new Error('Too many redirects'), { code: 'EREDIRECT' }));
   }
@@ -44,7 +53,6 @@ function fetchXml(url, redirectCount = 0) {
 
   return new Promise((resolve, reject) => {
     let settled = false;
-    let req;
 
     const settle = (err, value) => {
       if (settled) return;
@@ -58,16 +66,18 @@ function fetchXml(url, redirectCount = 0) {
       }
     };
 
-    // Wall-clock deadline covers queue wait + connect + headers + body.
     const deadlineTimer = setTimeout(() => {
       settle(Object.assign(new Error('Request timed out'), { code: 'ETIMEDOUT' }));
     }, DEFAULT_FEED_TIMEOUT_MS);
 
-    req = lib.get(url, { agent, headers: { 'User-Agent': 'rss-feed-fetcher/2.0' } }, (res) => {
+    const req = lib.get(url, { agent, headers: { 'User-Agent': 'rss-feed-fetcher/2.0' } }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         res.resume();
+        // Mark settled before recursing so this socket's close/error cannot interfere.
+        settled = true;
+        clearTimeout(deadlineTimer);
         const redirectUrl = new URL(res.headers.location, url).href;
-        fetchXml(redirectUrl, redirectCount + 1).then(v => settle(null, v), e => settle(e));
+        fetchXml(redirectUrl, redirectCount + 1).then(resolve, reject);
         return;
       }
       if (res.statusCode < 200 || res.statusCode >= 300) {
@@ -75,7 +85,8 @@ function fetchXml(url, redirectCount = 0) {
         settle(Object.assign(new Error(`HTTP ${res.statusCode}`), { code: `HTTP_${res.statusCode}` }));
         return;
       }
-      const chunks = [];
+      const decoder = new StringDecoder('utf8');
+      const parts = [];
       let received = 0;
       const MAX_BYTES = 5 * 1024 * 1024;
       res.on('data', chunk => {
@@ -84,22 +95,18 @@ function fetchXml(url, redirectCount = 0) {
           settle(Object.assign(new Error('Response too large'), { code: 'EFBIG' }));
           return;
         }
-        chunks.push(chunk);
+        parts.push(decoder.write(chunk));
       });
-      res.on('end', () => settle(null, Buffer.concat(chunks).toString()));
+      res.on('end', () => settle(null, parts.join('') + decoder.end()));
       res.on('error', err => settle(err));
-      // 'aborted' fires on req.destroy() after headers; 'close' fires after 'end' or 'aborted'.
-      res.on('aborted', () => settle(Object.assign(new Error('Response aborted'), { code: 'ECONNRESET' })));
-      res.on('close', () => settle(Object.assign(new Error('Response closed before end'), { code: 'ECONNRESET' })));
     });
     req.on('error', err => settle(err));
-    req.on('close', () => settle(Object.assign(new Error('Request closed unexpectedly'), { code: 'ECONNRESET' })));
   });
 }
 
-export async function processFeed(feed, options = {}) {
+export async function processFeed(feed) {
   const startedAt = Date.now();
-  const now = options.now || new Date();
+  const now = new Date();
   const fetchStartedAt = Date.now();
   let deadlineTimer;
   const deadline = new Promise((_, reject) => {
@@ -144,13 +151,14 @@ export function mapFeedItemToArticleRow(item, feed, feedData = {}, now = new Dat
 
   const url = normalizeUrl(rawUrl);
   const title = cleanText(item.title);
-  const summary = cleanText(
-    item.contentSnippet
+  const rawSummary = item.contentSnippet
     || item.description
     || item.mediaDescription
     || item.mediaGroup?.['media:description']?.[0]
-    || item.content
-  )?.slice(0, 500) ?? null;
+    || item.content;
+  const summary = rawSummary
+    ? cleanText(String(rawSummary).slice(0, 2000))?.slice(0, 500) ?? null
+    : null;
   const publishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
   const tags = extractTags(item);
 
@@ -166,16 +174,8 @@ export function mapFeedItemToArticleRow(item, feed, feedData = {}, now = new Dat
     published_at: publishedAt,
     fetched_at: now,
     source_type: feed.sourceType,
-    tags,
-    raw_fingerprint: hash64(`${title}|${summary}|${publishedAt?.toISOString() || ''}`)
+    tags
   };
-}
-
-export function isRecentItem(item, now = new Date(), recentDays = 3) {
-  const publishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
-  if (!publishedAt) return true;
-  const cutoff = new Date(now.getTime() - recentDays * 24 * 60 * 60 * 1000);
-  return publishedAt >= cutoff;
 }
 
 function extractTags(item) {
@@ -199,26 +199,22 @@ function extractTagValue(value) {
 }
 
 function extractImageUrl(item) {
-  const candidates = [
-    item.mediaContent?.$?.url,
-    item.mediaContent?.url,
-    item.mediaThumbnail?.$?.url,
-    item.mediaThumbnail?.url,
-    item.mediaGroup?.['media:thumbnail']?.[0]?.$?.url,
-    item.mediaGroup?.['media:thumbnail']?.[0]?.url,
-    item.mediaGroup?.['media:content']?.[0]?.$?.url,
-    item.mediaGroup?.['media:content']?.[0]?.url,
-    item.enclosure?.$?.url,
-    item.enclosure?.url,
-    item.image?.$?.url,
-    item.image?.url,
-    item.ogImage?.$?.url,
-    item.ogImage?.url,
-    extractImageFromHtml(item.content),
-    extractImageFromHtml(item.description)
-  ];
-
-  return candidates.find(candidate => candidate && isValidUrl(candidate)) || null;
+  const quick = item.mediaContent?.$?.url
+    || item.mediaContent?.url
+    || item.mediaThumbnail?.$?.url
+    || item.mediaThumbnail?.url
+    || item.mediaGroup?.['media:thumbnail']?.[0]?.$?.url
+    || item.mediaGroup?.['media:thumbnail']?.[0]?.url
+    || item.mediaGroup?.['media:content']?.[0]?.$?.url
+    || item.mediaGroup?.['media:content']?.[0]?.url
+    || item.enclosure?.$?.url
+    || item.enclosure?.url
+    || item.image?.$?.url
+    || item.image?.url
+    || item.ogImage?.$?.url
+    || item.ogImage?.url;
+  if (quick && isValidUrl(quick)) return quick;
+  return extractImageFromHtml(item.content) || extractImageFromHtml(item.description) || null;
 }
 
 function extractImageFromHtml(html) {
@@ -228,18 +224,17 @@ function extractImageFromHtml(html) {
   return match?.[1] || null;
 }
 
+const ENTITY_RE = /&(?:nbsp|amp|quot|#39);|\s+/g;
+const ENTITY_MAP = { '&nbsp;': ' ', '&amp;': '&', '&quot;': '"', '&#39;': '\'' };
+
 function cleanText(value) {
   if (!value) return null;
-  return String(value)
-    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
-    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+  const s = String(value)
+    .replace(/<(?:script|style)[\s\S]*?<\/(?:script|style)>/gi, ' ')
     .replace(/<[^>]*>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, '\'')
-    .replace(/\s+/g, ' ')
-    .trim() || null;
+    .replace(ENTITY_RE, m => ENTITY_MAP[m] ?? ' ')
+    .trim();
+  return s || null;
 }
 
 function parseDate(value) {

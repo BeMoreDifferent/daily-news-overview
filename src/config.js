@@ -48,7 +48,14 @@ export function normalizeFeedConfig(entry, index = 0) {
   };
 }
 
+let _feedConfigsCache = null;
+
 export async function loadFeedConfigs(filePath = path.join('data', 'rss_feeds.json')) {
+  const { mtimeMs } = await fs.stat(filePath);
+  if (_feedConfigsCache && _feedConfigsCache.mtime === mtimeMs) {
+    return _feedConfigsCache.configs;
+  }
+
   const raw = await fs.readFile(filePath, 'utf8');
   const entries = JSON.parse(raw);
 
@@ -56,7 +63,9 @@ export async function loadFeedConfigs(filePath = path.join('data', 'rss_feeds.js
     throw new Error(`${filePath} must contain an array of feed URLs or feed config objects`);
   }
 
-  return entries.map(normalizeFeedConfig);
+  const configs = entries.map(normalizeFeedConfig);
+  _feedConfigsCache = { mtime: mtimeMs, configs };
+  return configs;
 }
 
 function positiveNumber(value, fallback) {

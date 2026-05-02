@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
 import test from 'node:test';
-import { mapFeedItemToArticleRow, isRecentItem, processFeed } from '../src/services/feedProcessor.js';
+import { mapFeedItemToArticleRow, processFeed } from '../src/services/feedProcessor.js';
 import { DEFAULT_FEED_DEADLINE_MS } from '../src/config.js';
 
 const feed = {
@@ -27,15 +27,8 @@ test('maps RSS item to lean article row', () => {
   assert.equal(row.image_url, 'https://example.com/image.jpg');
   assert.deepEqual(row.tags, ['tech', 'rss']);
   assert.equal(typeof row.url_hash, 'bigint');
+  assert.equal(row.raw_fingerprint, undefined);
   assert.equal(row.content_body, undefined);
-});
-
-test('filters old dated items but keeps undated items', () => {
-  const now = new Date('2026-04-27T00:00:00Z');
-
-  assert.equal(isRecentItem({ pubDate: '2026-04-26T00:00:00Z' }, now, 3), true);
-  assert.equal(isRecentItem({ pubDate: '2026-04-20T00:00:00Z' }, now, 3), false);
-  assert.equal(isRecentItem({}, now, 3), true);
 });
 
 test('maps youtube media group thumbnail and description', () => {

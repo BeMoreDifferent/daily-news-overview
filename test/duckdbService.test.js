@@ -6,11 +6,8 @@ import test from 'node:test';
 import { DuckDBService } from '../src/services/duckdbService.js';
 import { hash64 } from '../src/utils/hash.js';
 
-test('dedupes articles by url_hash', async () => {
-  const dir = await mkdtemp(path.join(os.tmpdir(), 'rss-duckdb-'));
-  const service = new DuckDBService(path.join(dir, 'rss.duckdb'));
-  const url = 'https://example.com/a';
-  const row = {
+function makeRow(url, overrides = {}) {
+  return {
     url_hash: hash64(url),
     url,
     feed_url: 'https://example.com/feed.xml',
@@ -23,8 +20,15 @@ test('dedupes articles by url_hash', async () => {
     fetched_at: new Date('2026-04-27T00:00:00Z'),
     source_type: 1,
     tags: [],
-    raw_fingerprint: hash64('A|Summary')
+    ...overrides
   };
+}
+
+test('dedupes articles by url_hash', async () => {
+  const dir = await mkdtemp(path.join(os.tmpdir(), 'rss-duckdb-'));
+  const service = new DuckDBService(path.join(dir, 'rss.duckdb'));
+  const url = 'https://example.com/a';
+  const row = makeRow(url);
 
   try {
     const first = await service.insertArticles([row, row]);
@@ -43,21 +47,7 @@ test('fills missing summary and image_url on duplicate article insert', async ()
   const dir = await mkdtemp(path.join(os.tmpdir(), 'rss-duckdb-'));
   const service = new DuckDBService(path.join(dir, 'rss.duckdb'));
   const url = 'https://example.com/video';
-  const baseRow = {
-    url_hash: hash64(url),
-    url,
-    feed_url: 'https://example.com/feed.xml',
-    feed_title: 'Example',
-    title: 'Video',
-    summary: null,
-    image_url: null,
-    author: null,
-    published_at: new Date('2026-04-26T00:00:00Z'),
-    fetched_at: new Date('2026-04-27T00:00:00Z'),
-    source_type: 2,
-    tags: [],
-    raw_fingerprint: hash64('Video')
-  };
+  const baseRow = makeRow(url, { title: 'Video', summary: null, image_url: null, source_type: 2 });
 
   try {
     await service.insertArticles([baseRow]);

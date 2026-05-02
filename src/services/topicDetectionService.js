@@ -76,7 +76,7 @@ export function detectTopicsFromArticles(articles, options = {}) {
 export function normalizeHeadline(headline) {
   return String(headline || '')
     .toLowerCase()
-    .replace(/['’]s\b/g, '')
+    .replace(/['']s\b/g, '')
     .replace(/[^a-z0-9\s-]/g, ' ')
     .replace(/-/g, ' ')
     .split(/\s+/)
@@ -89,7 +89,7 @@ export function normalizeHeadline(headline) {
 
 export function extractHeadlineTerms(headline) {
   const tokens = normalizeHeadline(headline);
-  return [...tokens, ...extractNgrams(tokens, 2), ...extractNgrams(tokens, 3)];
+  return [...tokens, ...extractNgrams(tokens, 2)];
 }
 
 export function buildTfidfVectors(termLists) {
@@ -179,11 +179,18 @@ export function clusterHeadlines(documents, threshold = DEFAULT_OPTIONS.headline
 
 export function scoreTopics(topics, historicalTopics = [], options = {}) {
   const config = { ...DEFAULT_OPTIONS, ...options };
+
+  // Parse historical centroid vectors once, not once per (current × historical) pair
+  const parsedHistorical = historicalTopics.map(h => ({
+    ...h,
+    _vector: vectorFromObject(h.centroidVector)
+  }));
+
   return topics.map(topic => {
-    const matches = historicalTopics
+    const matches = parsedHistorical
       .map(history => ({
         ...history,
-        similarity: cosineSimilarity(topic.centroidVector, vectorFromObject(history.centroidVector))
+        similarity: cosineSimilarity(topic.centroidVector, history._vector)
       }))
       .filter(history => history.similarity >= config.historicalSimilarityThreshold)
       .sort((a, b) => b.similarity - a.similarity);
@@ -241,8 +248,7 @@ function createHeadlineDocument(article) {
   const text = article.title || article.summary || '';
   return {
     article,
-    terms: extractHeadlineTerms(text),
-    entities: extractEntities(text)
+    terms: extractHeadlineTerms(text)
   };
 }
 
@@ -253,8 +259,8 @@ function createTopic(cluster, config) {
     .sort((a, b) => b[1] - a[1])
     .map(([term]) => term)
     .slice(0, config.labelKeywordCount);
-  const entities = unique(cluster.flatMap(document => document.entities)).slice(0, 12);
   const articles = cluster.map(document => document.article);
+  const entities = unique(articles.flatMap(a => extractEntities(a.title || a.summary || ''))).slice(0, 12);
   const articleHashes = articles.map(article => String(article.url_hash));
   const activeWindows = getActiveWindows(articles);
 

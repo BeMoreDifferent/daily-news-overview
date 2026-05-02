@@ -1,42 +1,35 @@
-import { createWriteStream, statSync, renameSync, mkdirSync } from 'node:fs';
-import { join } from 'node:path';
 import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
-import { processFeed, destroyAgents } from './services/feedProcessor.js';
+import { processFeed } from './services/feedProcessor.js';
 import { feedCache } from './services/feedCacheService.js';
 import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
 
 dotenv.config();
 
-(function setupFileLogger() {
-  const LOG_DIR = 'logs';
-  const LOG_FILE = join(LOG_DIR, 'rss_fetch.log');
-  try { mkdirSync(LOG_DIR, { recursive: true }); } catch {}
-  try {
-    if (statSync(LOG_FILE).size > 5 * 1024 * 1024) renameSync(LOG_FILE, `${LOG_FILE}.1`);
-  } catch {}
-  const stream = createWriteStream(LOG_FILE, { flags: 'a' });
+// Prefix every log line with a timestamp — launchd captures stdout to the log file.
+(function setupTimestampLogger() {
   const ts = () => new Date().toISOString();
   const fmt = args => args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ');
   const { log, warn, error } = console;
-  console.log   = (...a) => { log(...a);   stream.write(`${ts()} [LOG]  ${fmt(a)}\n`); };
-  console.warn  = (...a) => { warn(...a);  stream.write(`${ts()} [WARN] ${fmt(a)}\n`); };
-  console.error = (...a) => { error(...a); stream.write(`${ts()} [ERR]  ${fmt(a)}\n`); };
+  console.log   = (...a) => log(`${ts()} [LOG]  ${fmt(a)}`);
+  console.warn  = (...a) => warn(`${ts()} [WARN] ${fmt(a)}`);
+  console.error = (...a) => error(`${ts()} [ERR]  ${fmt(a)}`);
 })();
 
 const FLUSH_INTERVAL_MS = 30_000;
 const FLUSH_SIZE_THRESHOLD = 500;
 
+// Transient codes that are expected/noisy and get aggregated rather than per-feed warned.
+const TRANSIENT_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ECONNREFUSED', 'EPIPE', 'ECONNABORTED', 'EREDIRECT']);
+
 let isRunning = false;
-let interval = null;
 
 function createFlusher(db) {
   const pending = [];
   let flushing = false;
   let totalCandidates = 0;
   let totalInserted = 0;
-  let lastTotal = 0;
   let flushCount = 0;
   let totalInsertMs = 0;
 
@@ -49,10 +42,9 @@ function createFlusher(db) {
       const result = await db.insertArticles(rows);
       totalCandidates += result.candidates;
       totalInserted += result.inserted;
-      lastTotal = result.total;
       flushCount++;
       totalInsertMs += Date.now() - t0;
-      console.log(`DB flush #${flushCount} [${label}]: ${rows.length} candidates, +${result.inserted} new, total=${result.total}`);
+      console.log(`DB flush #${flushCount} [${label}]: ${rows.length} candidates, +${result.inserted} new`);
     } finally {
       flushing = false;
     }
@@ -66,7 +58,6 @@ function createFlusher(db) {
       return {
         candidates: totalCandidates,
         inserted: totalInserted,
-        total: lastTotal,
         flushCount,
         timing: { totalMs: totalInsertMs }
       };
@@ -74,7 +65,7 @@ function createFlusher(db) {
   };
 }
 
-export async function runOnce(options = {}) {
+export async function runOnce() {
   if (isRunning) {
     console.log('Previous run still active; skipping scheduled run.');
     return;
@@ -94,13 +85,11 @@ export async function runOnce(options = {}) {
 
     const configStartedAt = Date.now();
     const feeds = (await loadFeedConfigs()).filter(feed => feed.enabled);
-    const maxFeeds = Number(options.maxFeeds || process.env.MAX_FEEDS_PER_RUN || 0);
-    const allFeeds = feeds.slice(0, maxFeeds > 0 ? maxFeeds : undefined);
-    const runFeeds = allFeeds.filter(feed => feedCache.shouldProcess(feed));
+    const runFeeds = feeds.filter(feed => feedCache.shouldProcess(feed));
     timing.configMs = Date.now() - configStartedAt;
 
     if (!runFeeds.length) {
-      console.log(`No feeds due. Configured=${feeds.length} skipped=${allFeeds.length - runFeeds.length} timing init=${timing.initMs}ms config=${timing.configMs}ms`);
+      console.log(`No feeds due. Configured=${feeds.length} timing init=${timing.initMs}ms config=${timing.configMs}ms`);
       return;
     }
 
@@ -150,18 +139,23 @@ export async function runOnce(options = {}) {
     const topics = await detectTopicsForDate(duckDBService, today);
     timing.topicsMs = Date.now() - topicsStartedAt;
 
+    const total = await duckDBService.countArticles();
+
     const failed = results.filter(result => !result.success);
+    const transientFailed = failed.filter(r => TRANSIENT_CODES.has(r.error?.code));
+    const hardFailed = failed.filter(r => !TRANSIENT_CODES.has(r.error?.code));
     timing.totalMs = Date.now() - startedAt;
 
     console.log([
       `RSS run completed in ${(timing.totalMs / 1000).toFixed(2)}s`,
       `configured=${feeds.length}`,
-      `skipped=${allFeeds.length - runFeeds.length}`,
+      `skipped=${feeds.length - runFeeds.length}`,
       `fetched=${runFeeds.length}`,
       `concurrency=${DEFAULT_FEED_CONCURRENCY}`,
-      `failed=${failed.length}`,
+      `failed=${failed.length}(${transientFailed.length} transient)`,
       `candidates=${insertResult.candidates}`,
       `inserted=${insertResult.inserted}`,
+      `total=${total}`,
       `flushes=${insertResult.flushCount}`,
       `timing init=${timing.initMs}ms`,
       `config=${timing.configMs}ms`,
@@ -172,13 +166,13 @@ export async function runOnce(options = {}) {
       `topics_ms=${timing.topicsMs}ms`
     ].join(' '));
 
-    for (const failure of failed) {
+    for (const failure of hardFailed) {
       const err = failure.error;
       const detail = [err.code, err.message].filter(Boolean).join(': ') || String(err);
       console.warn(`Feed failed: ${failure.feed.url} - ${detail}`);
     }
 
-    printRunSummary({ insertResult, failed, runFeeds, skipped: allFeeds.length - runFeeds.length, topics });
+    printRunSummary({ total, insertResult, failed, runFeeds, skipped: feeds.length - runFeeds.length, topics });
 
     return { feeds, runFeeds, results, insertResult, timing };
   } catch (error) {
@@ -186,14 +180,13 @@ export async function runOnce(options = {}) {
     return { error };
   } finally {
     if (flushTimer) clearInterval(flushTimer);
-    await duckDBService.close().catch(() => {});
     isRunning = false;
   }
 }
 
-function printRunSummary({ insertResult, failed, runFeeds, skipped, topics }) {
+function printRunSummary({ total, insertResult, failed, runFeeds, skipped, topics }) {
   const date = new Date().toISOString().slice(0, 10);
-  const total = (insertResult.total ?? 0).toLocaleString();
+  const totalStr = (total ?? 0).toLocaleString();
   const added = insertResult.inserted;
   const addedStr = added > 0 ? `+${added}` : String(added);
   const bar = '─'.repeat(52);
@@ -201,7 +194,7 @@ function printRunSummary({ insertResult, failed, runFeeds, skipped, topics }) {
   console.log(`\n${bar}`);
   console.log(` RSS Run Summary  ${date}`);
   console.log(bar);
-  console.log(` Total articles   ${total.padStart(8)}  (${addedStr} new)`);
+  console.log(` Total articles   ${totalStr.padStart(8)}  (${addedStr} new)`);
   console.log(` Feeds fetched    ${String(runFeeds.length).padStart(8)}  (${failed.length} failed, ${skipped} skipped)`);
   console.log(` Topics detected  ${String(topics.length).padStart(8)}`);
 
@@ -221,20 +214,6 @@ function printRunSummary({ insertResult, failed, runFeeds, skipped, topics }) {
   console.log(`${bar}\n`);
 }
 
-function start() {
-  runOnce();
-  interval = setInterval(runOnce, DEFAULT_RUN_INTERVAL_MINUTES * 60 * 1000);
-  console.log(`RSS fetcher started. Interval=${DEFAULT_RUN_INTERVAL_MINUTES}m`);
-}
-
-async function shutdown() {
-  if (interval) clearInterval(interval);
-  setTimeout(() => process.exit(1), 10_000).unref();
-  destroyAgents();
-  await Promise.allSettled([feedCache.save(), duckDBService.close()]);
-  process.exit(0);
-}
-
 async function mapConcurrent(items, concurrency, mapper) {
   const results = new Array(items.length);
   let index = 0;
@@ -251,14 +230,31 @@ async function mapConcurrent(items, concurrency, mapper) {
   return results;
 }
 
+async function shutdown() {
+  console.log('Shutting down...');
+  clearInterval(interval);
+  setTimeout(() => process.exit(1), 10_000).unref();
+  await Promise.allSettled([feedCache.save(), duckDBService.close()]);
+  process.exit(0);
+}
+
 process.on('SIGINT', shutdown);
 process.on('SIGTERM', shutdown);
 process.on('SIGQUIT', shutdown);
 
-if (process.env.RUN_ONCE === '1') {
-  await runOnce();
-  await duckDBService.close();
-  process.exit(0);
-} else {
-  start();
-}
+// Exit non-zero on unhandled errors so launchd KeepAlive respawns the process.
+process.on('uncaughtException', err => {
+  console.error('Uncaught exception:', err.message, err.stack);
+  process.exit(1);
+});
+process.on('unhandledRejection', (reason) => {
+  console.error('Unhandled rejection:', reason instanceof Error ? reason.message : reason);
+  process.exit(1);
+});
+
+// Open DB once at startup; it stays open for the process lifetime.
+await duckDBService.open();
+
+const interval = setInterval(runOnce, DEFAULT_RUN_INTERVAL_MINUTES * 60 * 1000);
+console.log(`RSS fetcher started. Interval=${DEFAULT_RUN_INTERVAL_MINUTES}m`);
+runOnce();

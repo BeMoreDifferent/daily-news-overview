@@ -6,8 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### Running the Application
 ```bash
-npm run once                 # Single crawl run, then exit
-npm start                    # Continuous mode with nodemon (reruns every 60 min)
+npm start                    # Long-running daemon (reruns every 60 min)
 node src/app.js             # Direct execution
 ```
 
@@ -38,20 +37,20 @@ npm run feeds:expand:dry     # Dry-run expand (no writes)
 
 ## Architecture Overview
 
-Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primary key, and clusters articles into topics using TF-IDF. Runs as a one-shot process (`RUN_ONCE=1`) invoked hourly by cron.
+Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primary key, and clusters articles into topics using TF-IDF. Runs as a long-lived daemon managed by launchd; `isRunning` guard prevents overlapping hourly runs.
 
 ### Core Components
 
 **Entry Point**: `src/app.js`
-- Orchestrates a single crawl run: load cache → fetch feeds → insert articles → detect topics → print summary
-- Hardened shutdown: 10s watchdog + `destroyAgents()` ensures clean exit even mid-fetch
-- `isRunning` guard prevents overlapping runs within the same process
+- Opens DuckDB once at startup; keeps it open for the process lifetime.
+- `setInterval` triggers `runOnce()` every 60 min; launchd `KeepAlive: true` restarts on crash.
+- `isRunning` guard prevents overlapping runs. Graceful shutdown on SIGINT/SIGTERM/SIGQUIT.
 
 **Services**:
-- `feedProcessor.js` — RSS fetch + parse. Custom `fetchXml` with `req.destroy()` on timeout to prevent socket leaks. Module-scoped HTTP/HTTPS agents (`maxSockets: 10`). Export `destroyAgents()` for shutdown.
-- `duckdbService.js` — DuckDB storage. Articles deduplicated by `url_hash UBIGINT PRIMARY KEY` (`INSERT OR IGNORE`). Topics stored per-date and replaced on each run.
-- `feedCacheService.js` — TTL-based cache (`data/feed_cache.json`). `shouldProcess()` skips feeds fetched within their `intervalMinutes` window.
-- `topicDetectionService.js` — Two-tier TF-IDF clustering: cluster headlines by cosine similarity, then score and classify clusters into named topics.
+- `feedProcessor.js` — RSS fetch + parse. `fetchXml` retries once on transient network errors (ECONNRESET, EPIPE). Redirect race fixed (marks settled before recursing). Single-pass `cleanText`. Short-circuit `extractImageUrl`.
+- `duckdbService.js` — DuckDB storage. Persistent TEMP staging table (created once per connection). `INSERT OR IGNORE … RETURNING url_hash` gives insert count without full table scans. Topics stored per-date and replaced on each run.
+- `feedCacheService.js` — TTL-based cache (`data/feed_cache.json`). Dirty flag prevents disk write when nothing changed. `shouldProcess()` skips feeds fetched within their `intervalMinutes` window.
+- `topicDetectionService.js` — Two-tier TF-IDF clustering (unigrams + bigrams). Historical centroid vectors parsed once per run. Entity extraction deferred to cluster creation.
 
 **Utilities**:
 - `utils/hash.js` — `hash64(str)`: BigInt SHA-256 for url_hash and topic IDs
@@ -78,7 +77,6 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 # No required vars — DuckDB path and defaults are hardcoded with env overrides
 FEED_CONCURRENCY=10          # parallel feed fetches (default: 10)
 FEED_TIMEOUT_MS=5000         # per-feed HTTP timeout (default: 5000)
-MAX_FEEDS_PER_RUN=0          # 0 = all feeds
 DB_PATH=data/rss.duckdb      # DuckDB file path
 ```
 
@@ -87,11 +85,22 @@ DB_PATH=data/rss.duckdb      # DuckDB file path
 - `data/feed_cache.json` — TTL state per feed URL (auto-managed)
 - `data/rss.duckdb` — DuckDB database (articles + topics)
 
-### Cron Setup
-`scripts/cron-run.sh` wraps `npm run once` with a PID file guard to prevent concurrent invocations. Installed via `crontab -e`:
+### launchd Setup (macOS daemon, auto-restart on crash)
+
+Install once:
+```bash
+cp scripts/com.daniel.rss-fetcher.plist ~/Library/LaunchAgents/
+launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist
 ```
-0 * * * * /Users/daniel/Documents/rss_feed_fetcher/scripts/cron-run.sh >> /Users/daniel/Documents/rss_feed_fetcher/logs/rss_fetch.log 2>&1
+
+Manage:
+```bash
+launchctl print gui/$UID/com.daniel.rss-fetcher   # status
+launchctl kickstart -k gui/$UID/com.daniel.rss-fetcher  # restart now
+launchctl bootout gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist  # stop & unload
 ```
+
+`KeepAlive: true` + `ThrottleInterval: 30` means launchd respawns within 30 s of any exit. Stdout/stderr go to `logs/rss_fetch.log`.
 
 ### Network Tuning (macOS)
 Run once with sudo to persist TCP settings across reboots (prevents port exhaustion with 2400+ feeds):
@@ -104,5 +113,4 @@ Sets `net.inet.tcp.msl=2500` (TIME_WAIT 5s) and `net.inet.ip.portrange.first=100
 
 - ES modules (`"type": "module"` in package.json)
 - ESLint: 2-space indent, single quotes
-- Nodemon: 2.5s delay, watches `src/`
 - DuckDB file locked per process — only one `node src/app.js` at a time

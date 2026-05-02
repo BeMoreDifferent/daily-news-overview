@@ -39,11 +39,6 @@ class DuckDBService {
     }
   }
 
-  async checkpoint() {
-    const connection = await this.open();
-    await connection.run('CHECKPOINT');
-  }
-
   async initializeSchema() {
     const connection = await this.open();
     await connection.run(`
@@ -59,10 +54,12 @@ class DuckDBService {
         published_at TIMESTAMP,
         fetched_at TIMESTAMP NOT NULL,
         source_type UTINYINT NOT NULL,
-        tags VARCHAR[],
-        raw_fingerprint UBIGINT
+        tags VARCHAR[]
       )
     `);
+
+    // Drop legacy column from older schema versions
+    await connection.run('ALTER TABLE articles DROP COLUMN IF EXISTS raw_fingerprint');
 
     await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_published_at ON articles(published_at)');
     await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_feed_url ON articles(feed_url)');
@@ -107,55 +104,38 @@ class DuckDBService {
     await connection.run('CREATE INDEX IF NOT EXISTS idx_topic_articles_url_hash ON topic_articles(url_hash)');
     await connection.run('ALTER TABLE topics ADD COLUMN IF NOT EXISTS theme_id VARCHAR');
     await connection.run('ALTER TABLE topics ADD COLUMN IF NOT EXISTS theme_label VARCHAR[]');
+
+    // Persistent staging table — lives for the connection lifetime (cleared after each flush)
+    await connection.run(`
+      CREATE TEMP TABLE IF NOT EXISTS ${STAGE_TABLE} (
+        url_hash UBIGINT,
+        url VARCHAR,
+        feed_url VARCHAR,
+        feed_title VARCHAR,
+        title VARCHAR,
+        summary VARCHAR,
+        image_url VARCHAR,
+        author VARCHAR,
+        published_at TIMESTAMP,
+        fetched_at TIMESTAMP,
+        source_type UTINYINT,
+        tags VARCHAR[]
+      )
+    `);
   }
 
   async insertArticles(rows) {
     const totalStartedAt = Date.now();
     if (!rows.length) {
-      const total = await this.countArticles();
-      return {
-        candidates: 0,
-        inserted: 0,
-        total,
-        timing: {
-          totalMs: Date.now() - totalStartedAt,
-          countBeforeMs: 0,
-          stageMs: 0,
-          insertMs: 0,
-          countAfterMs: 0
-        }
-      };
+      return { candidates: 0, inserted: 0, timing: { totalMs: Date.now() - totalStartedAt } };
     }
 
     const connection = await this.open();
-    const countBeforeStartedAt = Date.now();
-    const before = await this.countArticles();
-    const countBeforeMs = Date.now() - countBeforeStartedAt;
-
     await connection.run('BEGIN TRANSACTION');
-    const stageStartedAt = Date.now();
     let stageMs = 0;
     let insertMs = 0;
     try {
-      await connection.run(`DROP TABLE IF EXISTS ${STAGE_TABLE}`);
-      await connection.run(`
-        CREATE TEMP TABLE ${STAGE_TABLE} (
-          url_hash UBIGINT,
-          url VARCHAR,
-          feed_url VARCHAR,
-          feed_title VARCHAR,
-          title VARCHAR,
-          summary VARCHAR,
-          image_url VARCHAR,
-          author VARCHAR,
-          published_at TIMESTAMP,
-          fetched_at TIMESTAMP,
-          source_type UTINYINT,
-          tags VARCHAR[],
-          raw_fingerprint UBIGINT
-        )
-      `);
-
+      const stageStartedAt = Date.now();
       const appender = await connection.createAppender(STAGE_TABLE);
       try {
         for (const row of rows) {
@@ -167,45 +147,48 @@ class DuckDBService {
       stageMs = Date.now() - stageStartedAt;
 
       const insertStartedAt = Date.now();
-      await connection.run(`
+      const insertReader = await connection.runAndReadAll(`
         INSERT OR IGNORE INTO articles
         SELECT
           url_hash, url, feed_url, feed_title, title, summary, image_url, author,
-          published_at, fetched_at, source_type, tags, raw_fingerprint
+          published_at, fetched_at, source_type, tags
         FROM ${STAGE_TABLE}
+        RETURNING url_hash
       `);
-      await connection.run(`
-        UPDATE articles
-        SET
-          title = COALESCE(NULLIF(articles.title, ''), ${STAGE_TABLE}.title),
-          summary = COALESCE(NULLIF(articles.summary, ''), ${STAGE_TABLE}.summary),
-          image_url = COALESCE(NULLIF(articles.image_url, ''), ${STAGE_TABLE}.image_url)
-        FROM ${STAGE_TABLE}
-        WHERE articles.url_hash = ${STAGE_TABLE}.url_hash
-      `);
+      const inserted = insertReader.getRowsJS().length;
+
+      // Only enrich existing rows when there are duplicates with potentially missing fields
+      if (inserted < rows.length) {
+        await connection.run(`
+          UPDATE articles
+          SET
+            title = COALESCE(NULLIF(articles.title, ''), ${STAGE_TABLE}.title),
+            summary = COALESCE(NULLIF(articles.summary, ''), ${STAGE_TABLE}.summary),
+            image_url = COALESCE(NULLIF(articles.image_url, ''), ${STAGE_TABLE}.image_url)
+          FROM ${STAGE_TABLE}
+          WHERE articles.url_hash = ${STAGE_TABLE}.url_hash
+            AND (
+              articles.title IS NULL OR articles.title = ''
+              OR articles.summary IS NULL OR articles.summary = ''
+              OR articles.image_url IS NULL OR articles.image_url = ''
+            )
+        `);
+      }
       insertMs = Date.now() - insertStartedAt;
-      await connection.run(`DROP TABLE IF EXISTS ${STAGE_TABLE}`);
+
+      await connection.run(`DELETE FROM ${STAGE_TABLE}`);
       await connection.run('COMMIT');
+
+      return {
+        candidates: rows.length,
+        inserted,
+        timing: { totalMs: Date.now() - totalStartedAt, stageMs, insertMs }
+      };
     } catch (error) {
       await connection.run('ROLLBACK');
+      await connection.run(`DELETE FROM ${STAGE_TABLE}`).catch(() => {});
       throw error;
     }
-
-    const countAfterStartedAt = Date.now();
-    const after = await this.countArticles();
-    const countAfterMs = Date.now() - countAfterStartedAt;
-    return {
-      candidates: rows.length,
-      inserted: after - before,
-      total: after,
-      timing: {
-        totalMs: Date.now() - totalStartedAt,
-        countBeforeMs,
-        stageMs,
-        insertMs,
-        countAfterMs
-      }
-    };
   }
 
   async countArticles() {
@@ -393,7 +376,6 @@ function appendRow(appender, row) {
   appendTimestamp(appender, row.fetched_at);
   appender.appendUTinyInt(row.source_type);
   appender.appendList(row.tags || [], LIST(VARCHAR));
-  appender.appendUBigInt(row.raw_fingerprint);
   appender.endRow();
 }
 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.daniel.rss-fetcher</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/node</string>
+    <string>/Users/daniel/Documents/rss_feed_fetcher/src/app.js</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/daniel/Documents/rss_feed_fetcher</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>NODE_OPTIONS</key>
+    <string>--max-old-space-size=512</string>
+    <key>DUCKDB_THREADS</key>
+    <string>2</string>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <!-- Restart automatically if the process exits for any reason -->
+  <key>KeepAlive</key>
+  <true/>
+
+  <!-- Minimum seconds between restarts (prevents tight crash loops) -->
+  <key>ThrottleInterval</key>
+  <integer>30</integer>
+
+  <!-- Start immediately when loaded -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- launchd captures stdout/stderr here; no manual file writing needed in the app -->
+  <key>StandardOutPath</key>
+  <string>/Users/daniel/Documents/rss_feed_fetcher/logs/rss_fetch.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/daniel/Documents/rss_feed_fetcher/logs/rss_fetch.log</string>
+</dict>
+</plist>

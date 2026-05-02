@@ -11,7 +11,6 @@ async function main() {
 
   const feeds = await loadFeedConfigs();
   const stats = await duckDBService.getStats();
-  const cacheStatus = feedCache.getStatus();
   const enabledCount = feeds.filter(feed => feed.enabled).length;
 
   console.log('RSS Feed Fetcher');
@@ -23,7 +22,7 @@ async function main() {
   console.log(`Stored feeds: ${stats.feeds}`);
   console.log(`Configured feeds: ${feeds.length}`);
   console.log(`Enabled feeds fetched each run: ${enabledCount}`);
-  console.log(`Cached feeds: ${Object.keys(cacheStatus).length}`);
+  console.log(`Cached feeds: ${feedCache.size}`);
 
   if (stats.latest.length) {
     console.log('\nLatest articles');

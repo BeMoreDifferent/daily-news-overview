@@ -24,7 +24,7 @@ test('normalizes headlines and extracts ngrams', () => {
 
   const terms = extractHeadlineTerms('OpenAI launches reasoning model in Europe');
   assert.equal(terms.includes('openai launch'), true);
-  assert.equal(terms.includes('reason model europe'), true);
+  assert.equal(terms.includes('reason model'), true);
 });
 
 test('calculates cosine similarity for sparse vectors', () => {
