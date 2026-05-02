@@ -2,26 +2,33 @@
 node_modules/
 package-lock.json
 
-# Data files
+# Data — runtime files (feeds config example is committed)
 data/*.json
 data/*.duckdb
 data/*.duckdb.wal
 data/backups/
+data/archive/
+data/feed_cache.json
 !data/rss_feeds.json.example
 
-# Environment variables
+# Environment
 .env
+.env.*
+!.env.example
 
 # Logs
+logs/
 *.log
 npm-debug.log*
 
-# IDE files
+# Claude Code
+.claude/scheduled_tasks.lock
+.claude/memory/
+
+# OS / editor
+.DS_Store
+Thumbs.db
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS files
-.DS_Store
-Thumbs.db 
