@@ -15,14 +15,17 @@ class DuckDBService {
 
   async open() {
     if (this.connection) return this.connection;
-
-    await fs.mkdir(path.dirname(this.dbPath), { recursive: true });
-    this.instance = await DuckDBInstance.create(this.dbPath, {
-      threads: String(process.env.DUCKDB_THREADS || 4)
-    });
-    this.connection = await this.instance.connect();
-    await this.initializeSchema();
-    return this.connection;
+    if (this._opening) return this._opening;
+    this._opening = (async () => {
+      await fs.mkdir(path.dirname(this.dbPath), { recursive: true });
+      this.instance = await DuckDBInstance.create(this.dbPath, {
+        threads: String(process.env.DUCKDB_THREADS || 2)
+      });
+      this.connection = await this.instance.connect();
+      await this.initializeSchema();
+      return this.connection;
+    })().finally(() => { this._opening = null; });
+    return this._opening;
   }
 
   async close() {
@@ -34,6 +37,11 @@ class DuckDBService {
       this.instance.closeSync();
       this.instance = null;
     }
+  }
+
+  async checkpoint() {
+    const connection = await this.open();
+    await connection.run('CHECKPOINT');
   }
 
   async initializeSchema() {
@@ -234,8 +242,9 @@ class DuckDBService {
     };
   }
 
-  async getArticlesForDate(date) {
+  async getArticlesForDate(date, limit = 0) {
     const connection = await this.open();
+    const limitClause = limit > 0 ? `LIMIT ${Number(limit)}` : '';
     const reader = await connection.runAndReadAll(`
       SELECT
         url_hash,
@@ -250,7 +259,8 @@ class DuckDBService {
         tags
       FROM articles
       WHERE COALESCE(CAST(published_at AS DATE), CAST(fetched_at AS DATE)) = DATE '${escapeSql(date)}'
-      ORDER BY COALESCE(published_at, fetched_at), feed_url, title
+      ORDER BY COALESCE(published_at, fetched_at) DESC, feed_url, title
+      ${limitClause}
     `);
     return reader.getRowObjectsJS();
   }
