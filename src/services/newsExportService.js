@@ -3,7 +3,7 @@ import path from 'path';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
-const MAX_TOPICS = 10;
+const MAX_TOPICS = 20;
 const MIN_TOPICS = 5;
 const SCORE_FLOOR_RATIO = 0.5;
 
