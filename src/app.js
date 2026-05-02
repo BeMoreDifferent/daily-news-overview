@@ -1,3 +1,5 @@
+import { createWriteStream, statSync, renameSync, mkdirSync } from 'node:fs';
+import { join } from 'node:path';
 import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
 import { processFeed, destroyAgents } from './services/feedProcessor.js';
@@ -6,6 +8,22 @@ import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
 
 dotenv.config();
+
+(function setupFileLogger() {
+  const LOG_DIR = 'logs';
+  const LOG_FILE = join(LOG_DIR, 'rss_fetch.log');
+  try { mkdirSync(LOG_DIR, { recursive: true }); } catch {}
+  try {
+    if (statSync(LOG_FILE).size > 5 * 1024 * 1024) renameSync(LOG_FILE, `${LOG_FILE}.1`);
+  } catch {}
+  const stream = createWriteStream(LOG_FILE, { flags: 'a' });
+  const ts = () => new Date().toISOString();
+  const fmt = args => args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ');
+  const { log, warn, error } = console;
+  console.log   = (...a) => { log(...a);   stream.write(`${ts()} [LOG]  ${fmt(a)}\n`); };
+  console.warn  = (...a) => { warn(...a);  stream.write(`${ts()} [WARN] ${fmt(a)}\n`); };
+  console.error = (...a) => { error(...a); stream.write(`${ts()} [ERR]  ${fmt(a)}\n`); };
+})();
 
 const FLUSH_INTERVAL_MS = 30_000;
 const FLUSH_SIZE_THRESHOLD = 500;
@@ -29,7 +47,6 @@ function createFlusher(db) {
     const t0 = Date.now();
     try {
       const result = await db.insertArticles(rows);
-      await db.close();
       totalCandidates += result.candidates;
       totalInserted += result.inserted;
       lastTotal = result.total;
@@ -87,7 +104,10 @@ export async function runOnce(options = {}) {
       return;
     }
 
-    flushTimer = setInterval(() => flusher.flush('timer'), FLUSH_INTERVAL_MS);
+    flushTimer = setInterval(
+      () => flusher.flush('timer').catch(err => console.error('flush timer failed', err.message)),
+      FLUSH_INTERVAL_MS
+    );
 
     const feedStartedAt = Date.now();
     const results = await mapConcurrent(runFeeds, DEFAULT_FEED_CONCURRENCY, async feed => {

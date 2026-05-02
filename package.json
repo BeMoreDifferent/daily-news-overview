@@ -5,8 +5,8 @@
   "main": "src/app.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon src/app.js --ignore '*.json'",
-    "once": "RUN_ONCE=1 node src/app.js",
+    "start": "NODE_OPTIONS='--max-old-space-size=512' DUCKDB_THREADS=2 nodemon src/app.js --ignore '*.json'",
+    "once": "NODE_OPTIONS='--max-old-space-size=512' DUCKDB_THREADS=2 RUN_ONCE=1 node src/app.js",
     "info": "node src/info.js",
     "dry-run": "node src/dryRun.js",
     "topics": "node src/topics.js",
@@ -14,7 +14,10 @@
     "test": "node --test",
     "feeds:expand": "node scripts/expandFeeds.js",
     "feeds:expand:dry": "node scripts/expandFeeds.js --dry-run",
-    "feeds:expand:validate": "node scripts/expandFeeds.js --only-validate"
+    "feeds:expand:validate": "node scripts/expandFeeds.js --only-validate",
+    "archive": "node scripts/archiveArticles.js",
+    "archive:dry": "node scripts/archiveArticles.js --dry-run",
+    "archive:repair": "node scripts/archiveArticles.js --repair"
   },
   "engines": {
     "node": ">=18"
