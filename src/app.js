@@ -38,7 +38,6 @@ const FLUSH_SIZE_THRESHOLD = 500;
 const TRANSIENT_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ECONNREFUSED', 'EPIPE', 'ECONNABORTED', 'EREDIRECT']);
 
 let isRunning = false;
-let lastPruneDate = null;
 let lastNewsExportDate = null;
 
 function createFlusher(db) {
@@ -157,15 +156,6 @@ export async function runOnce() {
 
     const total = await duckDBService.countArticles();
 
-    // Prune topics older than 30 days once per calendar day (first run of the day).
-    const pruneStartedAt = Date.now();
-    let prunedTopics = 0;
-    if (!lastPruneDate || lastPruneDate !== today) {
-      prunedTopics = await duckDBService.pruneOldTopics(30);
-      lastPruneDate = today;
-    }
-    timing.pruneMs = Date.now() - pruneStartedAt;
-
     // Export yesterday's top topics to news/<date>.json once per calendar day, then commit+push.
     if (!lastNewsExportDate || lastNewsExportDate !== today) {
       const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
@@ -200,7 +190,6 @@ export async function runOnce() {
       `inserted=${insertResult.inserted}`,
       `total=${total}`,
       `flushes=${insertResult.flushCount}`,
-      `pruned_topics=${prunedTopics}`,
       `timing init=${timing.initMs}ms`,
       `config=${timing.configMs}ms`,
       `feeds=${timing.feedsMs}ms`,

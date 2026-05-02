@@ -222,6 +222,60 @@ async function main() {
       if (exported === 0 && cnt > 0) throw new Error(`Parquet export was empty for ${month}`);
       await fs.rename(tmpPath, parquetPath);
 
+      // Archive topics and topic_articles for this month (belt-and-suspenders backup;
+      // topics are no longer pruned from hot DB, but Parquet ensures they survive any future deletion).
+      const topicsParquetPath = path.resolve(ARCHIVE_DIR, `topics-${month}.parquet`);
+      const topicsTmpPath = topicsParquetPath + '.tmp';
+      const topicsParquetExists = await fileExists(topicsParquetPath);
+      if (topicsParquetExists) {
+        await conn.run(`
+          COPY (
+            SELECT * FROM read_parquet('${topicsParquetPath}')
+            UNION ALL BY NAME
+            SELECT * FROM topics
+            WHERE strftime(CAST(topic_date AS TIMESTAMP), '%Y-%m') = '${month}'
+              AND id NOT IN (SELECT id FROM read_parquet('${topicsParquetPath}'))
+          ) TO '${topicsTmpPath}' (FORMAT PARQUET, COMPRESSION ZSTD, ROW_GROUP_SIZE 100000)
+        `);
+      } else {
+        await conn.run(`
+          COPY (
+            SELECT * FROM topics
+            WHERE strftime(CAST(topic_date AS TIMESTAMP), '%Y-%m') = '${month}'
+          ) TO '${topicsTmpPath}' (FORMAT PARQUET, COMPRESSION ZSTD, ROW_GROUP_SIZE 100000)
+        `);
+      }
+      const topicsVerify = await conn.runAndReadAll(`SELECT COUNT(*) FROM read_parquet('${topicsTmpPath}')`);
+      if (Number(topicsVerify.getRowsJS()[0][0]) > 0) await fs.rename(topicsTmpPath, topicsParquetPath);
+      else try { await fs.unlink(topicsTmpPath); } catch {}
+
+      const taParquetPath = path.resolve(ARCHIVE_DIR, `topic_articles-${month}.parquet`);
+      const taTmpPath = taParquetPath + '.tmp';
+      const taParquetExists = await fileExists(taParquetPath);
+      if (taParquetExists) {
+        await conn.run(`
+          COPY (
+            SELECT * FROM read_parquet('${taParquetPath}')
+            UNION ALL BY NAME
+            SELECT ta.* FROM topic_articles ta
+            JOIN topics t ON t.id = ta.topic_id
+            WHERE strftime(CAST(t.topic_date AS TIMESTAMP), '%Y-%m') = '${month}'
+              AND ta.topic_id NOT IN (SELECT topic_id FROM read_parquet('${taParquetPath}'))
+          ) TO '${taTmpPath}' (FORMAT PARQUET, COMPRESSION ZSTD, ROW_GROUP_SIZE 100000)
+        `);
+      } else {
+        await conn.run(`
+          COPY (
+            SELECT ta.* FROM topic_articles ta
+            JOIN topics t ON t.id = ta.topic_id
+            WHERE strftime(CAST(t.topic_date AS TIMESTAMP), '%Y-%m') = '${month}'
+          ) TO '${taTmpPath}' (FORMAT PARQUET, COMPRESSION ZSTD, ROW_GROUP_SIZE 100000)
+        `);
+      }
+      const taVerify = await conn.runAndReadAll(`SELECT COUNT(*) FROM read_parquet('${taTmpPath}')`);
+      if (Number(taVerify.getRowsJS()[0][0]) > 0) await fs.rename(taTmpPath, taParquetPath);
+      else try { await fs.unlink(taTmpPath); } catch {}
+
       // NULL-out heavy columns in hot DB — keeps url_hash for dedup
       await conn.run(`
         UPDATE articles

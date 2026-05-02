@@ -292,21 +292,54 @@ class DuckDBService {
 
   async getArticlesForTopic(topicId, limit = 5) {
     const connection = await this.open();
-    const reader = await connection.runAndReadAll(`
-      SELECT
-        a.title,
-        a.url,
-        a.feed_title,
-        a.published_at,
-        a.image_url
-      FROM topic_articles ta
-      JOIN articles a ON a.url_hash = ta.url_hash
-      WHERE ta.topic_id = '${escapeSql(topicId)}'
-        AND a.title IS NOT NULL
-      ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
-      LIMIT ${Number(limit)}
-    `);
+    const hasArchive = await this._checkHasArchive();
+    let sql;
+    if (hasArchive) {
+      sql = `
+        SELECT
+          a.title,
+          a.url,
+          COALESCE(a.feed_title,  arch.feed_title)  AS feed_title,
+          a.published_at,
+          COALESCE(a.image_url,   arch.image_url)   AS image_url
+        FROM topic_articles ta
+        JOIN articles a ON a.url_hash = ta.url_hash
+        LEFT JOIN read_parquet('data/archive/*.parquet', union_by_name=true) arch
+          ON arch.url_hash = ta.url_hash
+        WHERE ta.topic_id = '${escapeSql(topicId)}'
+          AND a.title IS NOT NULL
+        ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
+        LIMIT ${Number(limit)}
+      `;
+    } else {
+      sql = `
+        SELECT
+          a.title,
+          a.url,
+          a.feed_title,
+          a.published_at,
+          a.image_url
+        FROM topic_articles ta
+        JOIN articles a ON a.url_hash = ta.url_hash
+        WHERE ta.topic_id = '${escapeSql(topicId)}'
+          AND a.title IS NOT NULL
+        ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
+        LIMIT ${Number(limit)}
+      `;
+    }
+    const reader = await connection.runAndReadAll(sql);
     return reader.getRowObjectsJS();
+  }
+
+  async _checkHasArchive() {
+    if (this._hasArchive !== undefined) return this._hasArchive;
+    try {
+      const files = await fs.readdir('data/archive');
+      this._hasArchive = files.some(f => f.endsWith('.parquet'));
+    } catch {
+      this._hasArchive = false;
+    }
+    return this._hasArchive;
   }
 
   async replaceTopicsForDate(date, topics) {
