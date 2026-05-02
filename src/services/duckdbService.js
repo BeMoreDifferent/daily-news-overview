@@ -58,8 +58,17 @@ class DuckDBService {
       )
     `);
 
-    // Drop legacy column from older schema versions
-    await connection.run('ALTER TABLE articles DROP COLUMN IF EXISTS raw_fingerprint');
+    // One-time migration: drop raw_fingerprint from existing databases.
+    // Indexes must be dropped first because DuckDB blocks ALTER on indexed tables.
+    const colCheck = await connection.runAndReadAll(`
+      SELECT COUNT(*) FROM information_schema.columns
+      WHERE table_name = 'articles' AND column_name = 'raw_fingerprint'
+    `);
+    if (Number(colCheck.getRowsJS()[0][0]) > 0) {
+      await connection.run('DROP INDEX IF EXISTS idx_articles_published_at');
+      await connection.run('DROP INDEX IF EXISTS idx_articles_feed_url');
+      await connection.run('ALTER TABLE articles DROP COLUMN raw_fingerprint');
+    }
 
     await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_published_at ON articles(published_at)');
     await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_feed_url ON articles(feed_url)');
