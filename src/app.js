@@ -24,11 +24,14 @@ dotenv.config();
     if (statSync(LOG_FILE).size > 5 * 1024 * 1024) renameSync(LOG_FILE, `${LOG_FILE}.1`);
   } catch {}
   const stream = createWriteStream(LOG_FILE, { flags: 'a' });
+  // If the file stream errors (e.g. disk full), fall back to stderr so writes don't silently vanish.
+  stream.on('error', err => process.stderr.write(`[LOG STREAM ERROR] ${err.message}\n`));
   const ts = () => new Date().toISOString();
   const fmt = args => args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ');
-  console.log   = (...a) => stream.write(`${ts()} [LOG]  ${fmt(a)}\n`);
-  console.warn  = (...a) => stream.write(`${ts()} [WARN] ${fmt(a)}\n`);
-  console.error = (...a) => stream.write(`${ts()} [ERR]  ${fmt(a)}\n`);
+  const write = line => { if (!stream.write(line)) stream.once('drain', () => {}); };
+  console.log   = (...a) => write(`${ts()} [LOG]  ${fmt(a)}\n`);
+  console.warn  = (...a) => write(`${ts()} [WARN] ${fmt(a)}\n`);
+  console.error = (...a) => write(`${ts()} [ERR]  ${fmt(a)}\n`);
 })();
 
 const FLUSH_INTERVAL_MS = 30_000;
@@ -129,7 +132,10 @@ export async function runOnce() {
         flusher.push(result.rows || []);
         feedCache.updateSuccess(feed, { itemCount: result.itemCount, insertedCount: 0 });
         await flusher.maybeFlush();
-        return { success: true, feed, ...result };
+        // Don't spread result.rows into the return — keeping all article rows
+        // referenced in the results array would hold the entire run's articles in
+        // memory until the run completes, causing OOM with 2400+ feeds.
+        return { success: true, feed };
       } catch (error) {
         feedCache.updateFailure(feed, error);
         return { success: false, feed, error };
@@ -159,8 +165,14 @@ export async function runOnce() {
     // Export yesterday's top topics to news/<date>.json once per calendar day, then commit+push.
     if (!lastNewsExportDate || lastNewsExportDate !== today) {
       const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
+      const exportTimeout = new Promise((_, reject) =>
+        setTimeout(() => reject(new Error('news export timed out after 2 min')), 120_000)
+      );
       try {
-        const articleCount = await exportNewsForDate(duckDBService, yesterday);
+        const articleCount = await Promise.race([
+          exportNewsForDate(duckDBService, yesterday),
+          exportTimeout,
+        ]);
         if (articleCount !== null && articleCount > 0) {
           console.log(`News export: wrote news/${yesterday}.json`);
           await gitCommitAndPush(`news/${yesterday}.json`, yesterday);
@@ -168,6 +180,7 @@ export async function runOnce() {
         lastNewsExportDate = today;
       } catch (err) {
         console.warn(`News export failed: ${err.message}`);
+        lastNewsExportDate = today; // don't retry the same date on the next run
       }
     }
 
@@ -213,6 +226,10 @@ export async function runOnce() {
     return { error };
   } finally {
     if (flushTimer) clearInterval(flushTimer);
+    // Save cache on any exit path so partial run progress is preserved.
+    // Without this, a crash leaves the cache stale and the next run retries
+    // all 2400+ feeds, compounding the memory pressure.
+    await feedCache.save().catch(err => console.warn('Cache save failed in finally:', err.message));
     isRunning = false;
   }
 }
@@ -264,10 +281,11 @@ async function mapConcurrent(items, concurrency, mapper) {
 }
 
 async function gitCommitAndPush(filePath, date) {
+  const GIT_TIMEOUT_MS = 60_000;
   try {
-    await execFile('git', ['add', filePath]);
-    await execFile('git', ['commit', '-m', `news: add ${date} daily topics export`]);
-    await execFile('git', ['push']);
+    await execFile('git', ['add', filePath], { timeout: GIT_TIMEOUT_MS });
+    await execFile('git', ['commit', '-m', `news: add ${date} daily topics export`], { timeout: GIT_TIMEOUT_MS });
+    await execFile('git', ['push'], { timeout: GIT_TIMEOUT_MS });
     console.log(`News export: committed and pushed ${filePath}`);
   } catch (err) {
     console.warn(`News export git push failed: ${err.stderr || err.message}`);
