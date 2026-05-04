@@ -1,0 +1,909 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-04T00:15:13.587Z",
+  "topics": [
+    {
+      "id": "topic_d57ef15c85f5c8d",
+      "label": [
+        "dinner",
+        "secret service",
+        "officer",
+        "correspondent",
+        "correspondent dinner",
+        "white house"
+      ],
+      "category": "new",
+      "theme": "theme_e56cc7d694d42ae2",
+      "entities": [
+        "Secret Service",
+        "Trump",
+        "Pirro",
+        "White House",
+        "The Washington Post"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Secret Service agent hit by buckshot from Trump attacker: Pirro",
+          "url": "https://torontosun.com/news/world/secret-service-agent-hit-by-buckshot-by-trump-attacker-pirro",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-03T21:11:52.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/Cole-Allen.jpg?quality=100&strip=all"
+        },
+        {
+          "title": "Secret Service agent was struck by buckshot from alleged White House correspondents’ dinner shooter, not friendly fire, Pirro says",
+          "url": "https://fortune.com/2026/05/03/secret-service-agent-buckshot-white-house-correspondents-dinner-shooter-friendly-fire-pirro",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-05-03T18:56:26.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26117731205021-e1777834090374.jpg?w=2048"
+        },
+        {
+          "title": "Pirro says ballistic evidence shows correspondents’ dinner suspect shot officer - The Washington Post",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxowhdhbexjsxzlx0rutdjtav91ek16d3vczhe3v2tfz1luyv9nn3zsvvnacvjiwhh3oucxczm1awxycffbqvhjeff0d0xyulq5ttfra0s2uwtoyzljtxe3sva0mgxodgv6vm1jowhyr1lkrdzrn1zilxzvvtjknzg0mxz5n1jnmvpbv0zsbkxucflsz2h6mxdycuvmvm1ttmfswnh3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T18:05:23.000Z"
+        },
+        {
+          "title": "Officer shot during White House correspondents' dinner by suspect's gun --official",
+          "url": "https://www.gmanetwork.com/news/topstories/world/986271/officer-shot-during-white-house-correspondents-dinner-by-suspect-s-gun-official/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-03T17:26:13.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/04/2026-04-26T084420Z_1043644506_RC2WWKAOCCY0_RTRMADP_3_USA-TRUMP-DINNER_2026_04_26_20_30_18.JPG"
+        },
+        {
+          "title": "New Evidence Proves White House Dinner Shooter Shot Secret Service Officer",
+          "url": "https://www.ndtv.com/world-news/new-evidence-proves-white-house-dinner-shooter-shot-secret-service-officer-11443622",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-03T16:39:27.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/uvitmuao_trump-shooter_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+        }
+      ]
+    },
+    {
+      "id": "topic_60dcd345b0691989",
+      "label": [
+        "un",
+        "de croisi",
+        "croisi",
+        "croisi re",
+        "re",
+        "mort"
+      ],
+      "category": "new",
+      "theme": "theme_7d48de34d729f203",
+      "entities": [
+        "Sur",
+        "Un",
+        "Atlantique",
+        "OMS",
+        "Qu"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Sur un bateau de croisière, trois morts après la transmission d’un hantavirus par des rongeurs",
+          "url": "https://www.huffingtonpost.fr/international/article/sur-un-bateau-de-croisiere-trois-morts-et-une-hospitalisation-en-soins-intensifs-apres-la-transmission-d-un-hantavirus-par-des-rongeurs_263344.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-05-03T19:11:19.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/05/03/0/0/1100/734/0/0/60/0/9697d29_upload-1-8tn3fznnttzy-media67d942cee31a7248108362.jpg"
+        },
+        {
+          "title": "Un foyer de syndrome respiratoire aigu provoque trois morts sur un bateau de croisière dans l'Atlantique, selon l'OMS",
+          "url": "https://www.franceinfo.fr/sante/un-foyer-de-syndrome-respiratoire-aigu-provoque-deux-morts-sur-un-bateau-de-croisiere-dans-l-atlantique_7980767.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-05-03T18:08:41.000Z",
+          "image": "https://www.franceinfo.fr/pictures/OPafEAvGhKxbfr_7r0Gtuw9TAOI/0x53:1024x629/432x243/filters:format(jpg)/2026/05/03/69f786d367145827653217.jpg"
+        },
+        {
+          "title": "Qu'est-ce que le hantavirus, l'infection qui aurait causé trois morts sur un bateau de croisière dans l'Atlantique ?",
+          "url": "https://www.dhnet.be/actu/monde/2026/05/03/quest-ce-que-le-hantavirus-linfection-qui-aurait-cause-trois-morts-sur-un-bateau-de-croisiere-dans-latlantique-zfn635rmmvhprok23cwigcmccq",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-05-03T18:04:34.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/OANCB5Y3PJDQBF37E7UYBNOBEM.jpeg?auth=09ac0d256878ccd5d342f332ec8fde6705bb18a0f493a33b7cbd56f1f30c29ea&smart=true&width=1200&height=800"
+        },
+        {
+          "title": "Alerte sanitaire sur un navire de croisière : deux morts parmi les passagers et un troisième en soins intensifs, atteints par un \"syndrome respiratoire aigu sévère\"",
+          "url": "https://www.ladepeche.fr/2026/05/03/alerte-sanitaire-sur-un-navire-de-croisiere-deux-morts-parmi-les-passagers-et-un-troisieme-en-soins-intensifs-atteints-par-un-syndrome-respiratoire-13353897.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-05-03T17:18:36.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/69f783207fe1991a1009d4d0/standard/image.png?v=1"
+        },
+        {
+          "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », deux personnes sont mortes et une troisième est en soins intensifs",
+          "url": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-05-03T16:33:43.000Z",
+          "image": "https://img.lemde.fr/2026/05/03/85/0/1023/511/644/322/60/0/0943e07_upload-1-tgzwnxe57fi4-january-2020home-hondius-mvhondius-globetrotmatt.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_f8846435103898b3",
+      "label": [
+        "en 30",
+        "guerra en",
+        "guerra",
+        "30",
+        "ir",
+        "acabar"
+      ],
+      "category": "new",
+      "theme": "theme_d37f62f904a52fd1",
+      "entities": [
+        "Ir",
+        "Trump",
+        "Se",
+        "Afirman"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Irán plantea acabar con la guerra en 30 días, pero Trump recela del plan",
+          "url": "https://www.expansion.com/economia/2026/05/03/69f7acf9468aebbd4e8b457f.html",
+          "source": "Portada // expansion",
+          "published_at": "2026-05-03T21:28:30.000Z",
+          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/03/17778436132031.jpg"
+        },
+        {
+          "title": "Se la voltean a Trump: Irán presiona a Trump para terminar la guerra en 30 días",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/03/se-la-voltean-a-trump-iran-presiona-a-trump-para-terminar-la-guerra-en-30-dias",
+          "source": "El Financiero",
+          "published_at": "2026-05-03T17:50:19.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YvL6g-WIMqAhbCbPgUN4rUsW7xw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M65QO72WSVCF7OH27ERGDFZQQY.jpg"
+        },
+        {
+          "title": "Afirman que plan de Ir�n propone acabar guerra en 30 d�as",
+          "url": "https://www.elnorte.com/afirman-que-plan-de-iran-propone-acabar-guerra-en-30-dias/ar3197696",
+          "source": "ElNorte",
+          "published_at": "2026-05-03T16:48:47.000Z"
+        },
+        {
+          "title": "Afirman que plan de Ir�n propone acabar la guerra en 30 d�as",
+          "url": "https://www.reforma.com/afirman-que-plan-de-iran-propone-acabar-la-guerra-en-30-dias/ar3197695",
+          "source": "Reforma",
+          "published_at": "2026-05-03T16:48:27.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_6a0aba031c12c7c2",
+      "label": [
+        "kamala",
+        "kamala harri",
+        "harri",
+        "malibu",
+        "insanity",
+        "theory"
+      ],
+      "category": "new",
+      "theme": "theme_b3cf88329767e00b",
+      "entities": [
+        "What Kamala Harris",
+        "Malibu",
+        "The Insanity Theory",
+        "Kamala Harris",
+        "Daniel Miller"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "What Kamala Harris’s new luxurious Malibu mansion may signal about her political future",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/kamala-harris-malibu-home-political-future-b2969825.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-03T20:26:39.000Z",
+          "image": "https://static.independent.co.uk/2026/05/03/20/2273795896.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "The Insanity Theory of Kamala Harris",
+          "url": "https://www.realclearpolitics.com/2026/05/03/the_insanity_theory_of_kamala_harris_698642.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-05-03T19:41:27.000Z",
+          "image": "https://assets.realclear.com/images/71/716245_1_.jpeg"
+        },
+        {
+          "title": "Kamala Harris bought a Malibu home. Her neighbors think that means something. (Daniel Miller/Politico)",
+          "url": "https://www.memeorandum.com/260503/p33",
+          "source": "memeorandum",
+          "published_at": "2026-05-03T18:00:23.000Z",
+          "image": "http://www.memeorandum.com/260503/i33.jpg"
+        },
+        {
+          "title": "Kamala Harris Buys Home in Malibu",
+          "url": "https://politicalwire.com/2026/05/03/kamala-harris-buys-home-in-malibu",
+          "source": "Political Wire",
+          "published_at": "2026-05-03T17:29:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_58361508425d7701",
+      "label": [
+        "taken hospital",
+        "taken",
+        "alex ferguson",
+        "ferguson",
+        "alex",
+        "hospital"
+      ],
+      "category": "new",
+      "theme": "theme_60ae5a7077bc3a4c",
+      "entities": [
+        "Alex Ferguson",
+        "Man Utd",
+        "Manchester United",
+        "Liverpool",
+        "Unconscious Alex Ferguson"
+      ],
+      "article_count": 8,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Alex Ferguson recovering after being taken to hospital before Man Utd game",
+          "url": "https://www.breakingnews.ie/sport/alex-ferguson-recovering-after-being-taken-to-hospital-before-man-utd-game-1895220.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDMxNzE1MzNcXFwvMi44MDAzNjEyNi1lMTc3NzgyNDk3NjY2Ni5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiYTI4MjMwN2FlYzczZTZhYmQ2ODFjY2VlYmJmMzRhYTk2OGY4N2NhIn0=/2-80036126-e1777824976666.jpg"
+        },
+        {
+          "title": "Manchester United vs Liverpool: Unconscious Alex Ferguson taken to hospital",
+          "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-liverpool-alex-ferguson-health-update-premier-league-2906004-2026-05-03",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-03T16:47:27.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/alex-ferguson-03442920-16x9_0.jpg?VersionId=mfhaxt.c.nrhPCJC5mSYKfMyT07knTQl"
+        },
+        {
+          "title": "Alex Ferguson recovering after being taken to hospital before Man United game",
+          "url": "https://www.the42.ie/alex-ferguson-5-7030499-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-03T16:47:15.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/sir-alex-ferguson-on-day-four-of-the-2026-cheltenham-festival-at-cheltenham-racecourse-picture-date-friday-march-13-2026-15aaa2dd-48f5-4abd-888a-fb2f09304900-630x462.jpg"
+        },
+        {
+          "title": "Manchester United’s Sir Alex Ferguson taken to hospital after feeling unwell at Old Trafford",
+          "url": "https://www.thehindu.com/sport/football/manchester-uniteds-sir-alex-ferguson-taken-to-hospital-after-feeling-unwell-at-old-trafford/article70935914.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-03T16:34:19.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/2beijc/article70936028.ece/alternates/LANDSCAPE_1200/Man_United_Ferguson_Soccer_74495.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_48b6b16c03561f5",
+      "label": [
+        "tanker",
+        "ukraine hits",
+        "shadow fleet",
+        "fleet tanker",
+        "shadow",
+        "fleet"
+      ],
+      "category": "new",
+      "theme": "theme_f5128bb3dc37043d",
+      "entities": [
+        "Ukraine",
+        "Russia",
+        "Ukrainian",
+        "Russian",
+        "CBS News"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Ukraine hits Russia's oil port, shadow fleet tankers in new wave of drone strikes",
+          "url": "https://www.indiatoday.in/world/story/ukraine-drone-attacks-russia-primorsk-oil-port-shadow-fleet-tankers-warship-hit-2906019-2026-05-03",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-03T18:23:29.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/russia--ukraine-032126504-16x9_0.png?VersionId=At2_lN.Vc3yXhcJRi9Nwznr8c9fIn57_"
+        },
+        {
+          "title": "Ukraine hits Russian oil assets, including \"shadow fleet\" tankers",
+          "url": "https://www.yahoo.com/news/articles/ukraine-hits-russian-oil-assets-175003395.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-03T17:50:03.000Z",
+          "image": "https://media.zenfs.com/en/cbs_news_897/46948674e0fa0895794e1484ecdf4dc7"
+        },
+        {
+          "title": "Ukrainian strikes hit key Russian oil infrastructure, including \"shadow fleet\" tankers - CBS News",
+          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxqogjzdeituzb5nwhktdhrzhfmcg5vvvnlofjycul5uup0cvf4uxrndjq0r2fxwme3avrkz1u4vvdvwfizwl9xdlrgszlzwji2s1jjtxzatlrwswzdcjdgx0riukvfuze3uf9bx2k3vfbhc3lfdw43atryunruau9rcgf0rfnjowvnyjuzs2dvbtdnqdiblwfbvv95cuxpt1dhdgroyzvmvjnewenqb2s0qxzjzfneeduzqkhnvnjuevdsauxmx3c5awf5egt1rfjxmuhlrgfxa2xomdjcbhrgu1nennqzrun4efliwxzmzvlivff4rvnmx2hfaje2m2tnofpsmjvpbfh5c2vxb1ham1kxmhfznfk0zhfiwedcbk90q0fiu2tsug4ttgnj",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T17:50:03.000Z"
+        },
+        {
+          "title": "Ukraine hits Russian tankers as both countries fire hundreds of drones in deadly spree",
+          "url": "https://www.thejournal.ie/ukraine-and-russia-7030501-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-03T16:56:42.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/image-03-05-2026-at-17-51-ebbf7573-dbc3-4725-a036-083b2e5878bc-630x451.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5d199ab22c66d1db",
+      "label": [
+        "vs pbks",
+        "gt",
+        "pbks",
+        "gt vs",
+        "vs",
+        "sundar"
+      ],
+      "category": "new",
+      "theme": "theme_c51129db1f4ab2e2",
+      "entities": [
+        "Shubman Gill Explains Call",
+        "To Back Washington Sundar",
+        "In GT",
+        "Tense Chase",
+        "PBKS"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Shubman Gill Explains Call To Back Washington Sundar In GT's Tense Chase vs PBKS: 'Best Batter'",
+          "url": "https://sports.ndtv.com/cricket/shubman-gill-explains-call-to-back-washington-sundar-in-gts-tense-chase-vs-pbks-best-batter-11443961",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-03T18:58:40.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/kj7ou544_washington-sundar-gt-bcci_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+        },
+        {
+          "title": "GT vs PBKS : ગુજરાતને પંજાબને 4 વિકેટે હરાવ્યું, સુંદર અને હોલ્ડરની દમદાર મહેનતે અપાવી જીત",
+          "url": "https://www.gujaratsamachar.com/news/sports/gt-vs-pbks-gujarat-titans-defeat-punjab-kings-by-4-wickets-as-sundar-and-holder-shine-in-ipl-2026-97270888581.html",
+          "source": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
+          "published_at": "2026-05-03T18:26:15.000Z",
+          "image": "http://static.gujaratsamachar.com/articles/articles_thumbs/photo_1777832775197.jpeg"
+        },
+        {
+          "title": "IPL 2026 points table after SRH vs KKR and GT vs PBKS: Latest standings and net run rate after Kolkata, Gujarat beat Hyderabad, Punjab",
+          "url": "https://www.wisden.com/series/ipl-2026/cricket-news/ipl-2026-points-table-after-srh-vs-kkr-and-gt-vs-pbks-latest-standings-and-net-run-rate-after-kolkata-gujarat-beat-hyderabad-punjab",
+          "source": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
+          "published_at": "2026-05-03T18:20:00.000Z",
+          "image": "https://www.wisden.com/static-assets/waf-images/ed/24/26/0/XJ5vIJJMQY.jpg"
+        },
+        {
+          "title": "GT Vs PBKS: Sundar-Sudharshan Show Seals Final Over Thriller As Gujarat Bag 4-Wicket Win In Ahmedabad",
+          "url": "https://www.freepressjournal.in/sports/gt-vs-pbks-sundar-sudharshan-show-seals-final-over-thriller-as-gujarat-bag-4-wicket-win-in-ahmedabad",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-03T17:56:58.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-05-03/lziz51w0/Sudharsan-Sundar.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_31db95821ec5324f",
+      "label": [
+        "2000",
+        "harley",
+        "davidson",
+        "harley davidson",
+        "hog",
+        "davidson inc"
+      ],
+      "category": "new",
+      "theme": "theme_4facbaf58c3f5a0f",
+      "entities": [
+        "Is Harley",
+        "Davidson",
+        "Inc",
+        "HOG",
+        "Good Stock To Buy"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Римська чаша подолала 2000 км і стала унікальною знахідкою в Іспанії",
+          "url": "https://gazeta.ua/articles/travels/_rimska-chasha-podolala-2000-km-i-stala-unikalnoyu-znahidkoyu-v-ispaniyi/1249451",
+          "source": "Gazeta.ua",
+          "published_at": "2026-05-03T22:30:08.000Z",
+          "image": "https://static.gazeta.ua/img2/cache/preview/1249/1249451_w_800.jpg?v=0"
+        },
+        {
+          "title": "Is Harley-Davidson, Inc. (HOG) A Good Stock To Buy Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/harley-davidson-inc-hog-good-184231123.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-05-03T18:42:31.000Z",
+          "image": "https://media.zenfs.com/en/insidermonkey.com/b6c64f12278cec93ffe6581a8cc1c361"
+        },
+        {
+          "title": "2000 Harley-Davidson Road King Classic at No Reserve",
+          "url": "https://bringatrailer.com/listing/2000-harley-davidson-road-king-7",
+          "source": "The best vintage and classic cars for sale online | Bring a Trailer",
+          "published_at": "2026-05-03T17:40:15.000Z",
+          "image": "https://bringatrailer.com/wp-content/uploads/2026/03/2000_harley-davidson_road-king_2000_harley-davidson_road-king_1f514d99-c807-46a0-9188-9d86bd8051f6-bbh7tb-94742-40858.jpg?fit=940%2C626"
+        }
+      ]
+    },
+    {
+      "id": "topic_952692adc5c1faf2",
+      "label": [
+        "61",
+        "dies aged",
+        "aged 61",
+        "aged",
+        "actor",
+        "dies"
+      ],
+      "category": "new",
+      "theme": "theme_5e70a37a0980af63",
+      "entities": [
+        "Irish",
+        "Banshees",
+        "Inisherin",
+        "Renowned Irish",
+        "Gary Lydon"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Irish actor and Banshees of Inisherin star dies aged 61",
+          "url": "https://www.bbc.com/news/articles/cd9pxk5kp5jo",
+          "source": "BBC News",
+          "published_at": "2026-05-03T21:11:29.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23d/live/3846ffb0-4732-11f1-8b61-b5fb73673e40.jpg"
+        },
+        {
+          "title": "Renowned Irish actor Gary Lydon dies aged 61",
+          "url": "https://www.breakingnews.ie/ireland/renowned-irish-actor-gary-lydon-dies-aged-61-1895254.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC9sZWdhY3lzM1xcXC9tZWRpYVxcXC9pbWFnZXNcXFwvZ1xcXC9HYXJ5THlkb25GZWIyMDE1LmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijc5MDc0ZWUwMjk4YjNlZTJiMDhiYmM5Mzk0YzQ2OTA2N2VjYTA3MDgifQ==/garylydonfeb2015.jpg"
+        },
+        {
+          "title": "Gary Lydon dies aged 61: Tributes pour in for The Banshees of Inisherin and War Horse actor following his sudden passing",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15786683/gary-lydon-dies-tributes-banshees-inisherin-war-horse.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-03T16:42:58.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/03/17/108342621-0-image-a-6_1777825080593.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_84bffe042acffeb2",
+      "label": [
+        "buque",
+        "cerca",
+        "cerca de",
+        "reportan",
+        "ataque",
+        "reportan ataque"
+      ],
+      "category": "new",
+      "theme": "theme_c3bc973bea725543",
+      "entities": [
+        "Buque",
+        "Ormuz",
+        "Ir",
+        "EU",
+        "Reportan"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Buque de carga cerca de estrecho de Ormuz reporta ser atacado mientras Irán revisa respuesta de EU",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/buque-de-carga-cerca-de-estrecho-de-ormuz-reporta-ser-atacado-mientras-iran-revisa-respuesta-de-eu.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-05-03T20:59:07.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2007175.jpeg"
+        },
+        {
+          "title": "Reportan ataque a buque cerca de Ormuz",
+          "url": "https://www.elnorte.com/reportan-ataque-a-buque-cerca-de-ormuz/ar3197701",
+          "source": "ElNorte",
+          "published_at": "2026-05-03T16:59:29.000Z"
+        },
+        {
+          "title": "Reportan ataque a buque cerca de Ormuz",
+          "url": "https://www.reforma.com/reportan-ataque-a-buque-cerca-de-ormuz/ar3197700",
+          "source": "Reforma",
+          "published_at": "2026-05-03T16:58:56.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_e8b63d6bd5dc921b",
+      "label": [
+        "cherie",
+        "devaux",
+        "cherie devaux",
+        "kentucky derby",
+        "kentucky",
+        "derby"
+      ],
+      "category": "new",
+      "theme": "theme_a80222aebdce830c",
+      "entities": [
+        "Kentucky Derby Delivers Record",
+        "Audience",
+        "NBC",
+        "Peacock",
+        "Trainer Cherie DeVaux Makes"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Kentucky Derby Delivers Record Audience for NBC and Peacock as Trainer Cherie DeVaux Makes History",
+          "url": "https://variety.com/2026/tv/news/cherie-devaux-kentucky-derby-record-ratings-nbc-1236736441",
+          "source": "Variety",
+          "published_at": "2026-05-03T22:15:44.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2274221908-e1777846337340.jpg"
+        },
+        {
+          "title": "Cherie DeVaux And José Ortiz Make History Winning Kentucky Derby 152",
+          "url": "https://sports.yahoo.com/articles/cherie-devaux-jos-ortiz-history-170200618.html",
+          "published_at": "2026-05-03T17:02:00.000Z"
+        },
+        {
+          "title": "Cherie DeVaux And José Ortiz Make History Winning Kentucky Derby 152",
+          "url": "https://www.forbes.com/sites/dannybrewer/2026/05/03/cherie-devaux-and-jos-ortiz-make-history-winning-kentucky-derby-152",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-03T17:02:00.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69f77a1fc5e8df6715b3b0bf/0x0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_9aa81c86c484f44e",
+      "label": [
+        "daily",
+        "lotto",
+        "daily lotto",
+        "may 2026",
+        "may",
+        "gospel"
+      ],
+      "category": "new",
+      "theme": "theme_d7a06dece1b4c421",
+      "entities": [
+        "Daily Gospel",
+        "May",
+        "The Daily Lotto",
+        "Daily Lotto Plus",
+        "Sunday"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Daily Gospel, May 4, 2026",
+          "url": "https://cebudailynews.inquirer.net/723790/daily-gospel-may-4-2026",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-03T21:00:00.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2024/10/gospel2-2-2-620x349.png"
+        },
+        {
+          "title": "The Daily Lotto and Daily Lotto Plus results for Sunday, 3 May 2026",
+          "url": "https://www.thesouthafrican.com/lotto-results/daily-lotto/the-daily-lotto-and-daily-lotto-plus-results-for-sunday-3-may-2026",
+          "source": "The South African",
+          "published_at": "2026-05-03T18:32:43.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2025/04/Daily-Lotto.jpg.optimal.jpg"
+        },
+        {
+          "title": "Daily Lotto and Daily Lotto Plus results: Sunday, 03 May 2026",
+          "url": "https://www.citizen.co.za/lotto/daily-lotto-daily-lotto-plus-results-sunday-03-may-2026",
+          "source": "The Citizen",
+          "published_at": "2026-05-03T16:30:00.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/Daily-Lotto-results.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_b89182cf3c799af",
+      "label": [
+        "indictment",
+        "blanche",
+        "comey",
+        "blanche says",
+        "comey indictment",
+        "seashell"
+      ],
+      "category": "new",
+      "theme": "theme_2af5e633fae59d55",
+      "entities": [
+        "Todd Blanche",
+        "Comey",
+        "James Comey",
+        "Trump",
+        "Instagram"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Todd Blanche says Comey indictment is ‘not just about’ seashells photo",
+          "url": "https://www.ms.now/news/todd-blanche-james-comey-indictment-8647-seashells-photo",
+          "source": "MS NOW",
+          "published_at": "2026-05-03T20:04:13.000Z"
+        },
+        {
+          "title": "James Comey’s indictment for threats against Trump based on more than just ‘86 47′ Instagram post, acting AG Blanche says",
+          "url": "https://nypost.com/2026/05/03/us-news/comeys-indictment-for-threats-against-trump-based-on-more-than-86-47-post-blanche",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-03T18:53:06.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Facting-attorney-general-todd-blanche-126926418.jpg?w%3D1024"
+        },
+        {
+          "title": "Todd Blanche Unveils New Indictment Details: James Comey’s Case Extends Beyond Viral Seashell Photo",
+          "url": "https://internewscast.com/news/us/todd-blanche-unveils-new-indictment-details-james-comeys-case-extends-beyond-viral-seashell-photo",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-03T17:36:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_64208ec31a174672",
+      "label": [
+        "morocco",
+        "miss",
+        "exercis",
+        "miss african",
+        "military exercis",
+        "exercis morocco"
+      ],
+      "category": "new",
+      "theme": "theme_c6307d77b2ec3b41",
+      "entities": [
+        "US Army",
+        "African Lion",
+        "Morocco",
+        "Two US",
+        "Reuters"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "2 US Army soldiers missing after ‘African Lion’ military exercises in Morocco",
+          "url": "https://www.scmp.com/news/world/africa/article/3352296/2-us-army-soldiers-missing-after-african-lion-military-exercises-morocco",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-03T22:02:43.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/d57f9e30-1d0a-42b2-ae30-0125570ae6db_88df0fbc.jpg?itok=UGXeHlbJ&v=1777845678"
+        },
+        {
+          "title": "Two US troops missing during African Lion exercise in Morocco - Reuters",
+          "url": "https://news.google.com/rss/articles/cbmiwwfbvv95cuxocktjzmrrrlftnlazb3rrcvbprxpfwfl0mehjv1fyzmpqq1rmowdjadf4wmrmngfmohh1nw5prjvmwgxft3z0tmvrx1rsynoyr3fpd3v0agzbtnu1c3mwlxo3x3peemtkvzdiqm9pogdxshvfeupbwg40ttfsrs1ia0dveu1nannzmenfvzleagh1mlhzognxv0rkbldfv3nrbmtxcetzyxbxztcxakv3nkhvtnbwejhvsexzwtfmrnc1uxc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T16:43:19.000Z"
+        },
+        {
+          "title": "Two US service members missing after joint military exercises in Morocco",
+          "url": "https://www.france24.com/en/africa/20260503-two-us-service-members-missing-after-joint-military-exercises-in-morocco",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-03T16:24:30.000Z",
+          "image": "https://s.france24.com/media/display/ef065a1e-4707-11f1-919a-005056a90284/w:1024/p:16x9/000-46VY33R.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_bb23612082e2fa63",
+      "label": [
+        "open",
+        "madrid open",
+        "jannik sinner",
+        "jannik",
+        "sinner",
+        "madrid"
+      ],
+      "category": "new",
+      "theme": "theme_70194ad8f8600243",
+      "entities": [
+        "Alexander Zverev",
+        "Madrid Open",
+        "Jannik Sinner",
+        "French Open",
+        "Zverev"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Alexander Zverev’s Madrid Open rout ends in apology — Jannik Sinner seals a statement victory",
+          "url": "https://sports.yahoo.com/articles/alexander-zverev-madrid-open-rout-190500741.html",
+          "published_at": "2026-05-03T19:05:00.000Z"
+        },
+        {
+          "title": "Jannik Sinner boosts French Open hopes after historic Madrid Open title run",
+          "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-madrid-open-title-zverev-masters-record-2906001-2026-05-03",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-03T16:43:17.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jannik-sinner-034217771-16x9_0.jpg?VersionId=3LOJOGKxeNi7n4sfhz4uxQ3lqGnEyc8A"
+        },
+        {
+          "title": "Jannik Sinner makes history with victory in Madrid Open against Zverev",
+          "url": "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev",
+          "source": "The Guardian",
+          "published_at": "2026-05-03T16:38:56.000Z",
+          "image": "https://i.guim.co.uk/img/media/ffa1ef529b18ddf31d73bd65ad290f656ec65a85/190_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=5a086c97002b47097eb16f5fde891fb2"
+        }
+      ]
+    },
+    {
+      "id": "topic_66bbfc2869e08bab",
+      "label": [
+        "shapiro",
+        "retaliate",
+        "shapiro boost",
+        "boost republican",
+        "republican retaliate",
+        "republican"
+      ],
+      "category": "new",
+      "theme": "theme_8d27486d107bd278",
+      "entities": [
+        "Shapiro Boosted Republican",
+        "Retaliate Against Democrat",
+        "Scoop",
+        "Shapiro",
+        "Republican"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Shapiro Boosted Republican to Retaliate Against Democrat",
+          "url": "https://politicalwire.com/2026/05/03/shapiro-boosted-republican-to-retaliate-against-democrat",
+          "source": "Political Wire",
+          "published_at": "2026-05-03T19:55:54.000Z"
+        },
+        {
+          "title": "Scoop: Shapiro boosted Republican to retaliate against fellow Dem, ally says in recording (Axios)",
+          "url": "https://www.memeorandum.com/260503/p36",
+          "source": "memeorandum",
+          "published_at": "2026-05-03T18:45:00.000Z",
+          "image": "http://www.memeorandum.com/260503/i36.jpg"
+        },
+        {
+          "title": "Scoop: Shapiro boosted Republican to retaliate against fellow Dem, ally says in recording",
+          "url": "https://www.axios.com/2026/05/03/josh-shapiro-gop-candidate-2024",
+          "source": "Axios",
+          "published_at": "2026-05-03T17:11:22.000Z",
+          "image": "https://images.axios.com/mww1YzkQNPZWmu3E3YuOQxHbDII=/0x0:4932x2774/1366x768/2026/05/01/1777600966896.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_466693c90482ff75",
+      "label": [
+        "chancellor",
+        "german chancellor",
+        "chancellor downplay",
+        "downplay row",
+        "row trump",
+        "trump troop"
+      ],
+      "category": "new",
+      "theme": "theme_d9969fc7e49b29ba",
+      "entities": [
+        "German",
+        "Trump",
+        "German Chancellor"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "German chancellor downplays row with Trump after troop drawdown announced",
+          "url": "https://japantoday.com/category/world/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced",
+          "source": "Japan Today",
+          "published_at": "2026-05-03T21:10:31.000Z"
+        },
+        {
+          "title": "German Chancellor downplays row with Trump after troop drawdown announced",
+          "url": "https://www.scmp.com/news/world/europe/article/3352295/german-chancellor-downplays-row-trump-after-troop-drawdown-announced",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-03T20:45:42.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/a65e544d-3446-42c7-97f8-3987fd454ca7_1af48589.jpg?itok=PhWtsvdb&v=1777841057"
+        },
+        {
+          "title": "German chancellor downplays row with Trump after troop drawdown announced",
+          "url": "https://www.gmanetwork.com/news/topstories/world/986275/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-03T18:12:59.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/2026-04-30T122119Z_1114874644_RC24XJA447H0_RTRMADP_3_USA-TRUMP-GERMANY-MERZ_2026_05_04_02_11_55.JPG"
+        },
+        {
+          "title": "German chancellor downplays row with Trump after troop drawdown announced",
+          "url": "https://www.investing.com/news/world-news/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-4654895",
+          "source": "All News",
+          "published_at": "2026-05-03T16:18:34.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM420A8_L.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_843cb17e6ada4eec",
+      "label": [
+        "giv work",
+        "merz",
+        "giv",
+        "work",
+        "merz says",
+        "says giv"
+      ],
+      "category": "new",
+      "theme": "theme_36836f415f6f2982",
+      "entities": [
+        "Germany",
+        "Merz",
+        "Donald Trump",
+        "Trump",
+        "Iran"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Germany's Merz says not 'giving up on working with Donald Trump'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/03/germany-s-merz-says-not-giving-up-on-working-with-donald-trump_6753088_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-03T21:06:08.000Z",
+          "image": "https://img.lemde.fr/2026/05/03/92/0/2960/1480/644/322/60/0/3ab5cf6_ftp-1-pxritchkcsm9-2026-05-03t180631z-1051572267-rc24xjawav8i-rtrmadp-3-usa-trump-germany-withdrawal.JPG"
+        },
+        {
+          "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
+          "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-05-03T20:27:31.000Z",
+          "image": "https://i.guim.co.uk/img/media/b7d8a641c8879f7910beb1b5856acfd4f5458d58/343_0_3039_2433/master/3039.jpg?width=140&quality=85&auto=format&fit=max&s=f3cbb56ce8d448b314e0f7aeddc1d786"
+        },
+        {
+          "title": "Germany’s Merz says not ‘giving up on working with Donald Trump’",
+          "url": "https://www.digitaljournal.com/world/germanys-merz-says-not-giving-up-on-working-with-donald-trump/article",
+          "source": "Digital Journal",
+          "published_at": "2026-05-03T19:02:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_1bfe8407c859d947",
+      "label": [
+        "von",
+        "stra",
+        "hormu",
+        "stra von",
+        "von hormu",
+        "schiffe"
+      ],
+      "category": "new",
+      "theme": "theme_e784a32db1d942b0",
+      "entities": [
+        "Krieg",
+        "Iran",
+        "US",
+        "Marine",
+        "Tanker"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Krieg gegen den Iran: US-Marine soll Tanker aus Straße von Hormus geleiten",
+          "url": "https://www.zeit.de/politik/ausland/2026-05/strasse-von-hormus-usa-marina-tanker-ausfahrt",
+          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
+          "published_at": "2026-05-03T22:57:00.000Z",
+          "image": "https://img.zeit.de/politik/ausland/2026-05/trump-strasse-hormus/original__640x360"
+        },
+        {
+          "title": "\"Humanitäre Geste\" von Trump: US-Militär will festsitzende Schiffe aus Straße von Hormus geleiten",
+          "url": "https://www.n-tv.de/politik/us-militaer-will-festsitzende-schiffe-aus-strasse-von-hormus-geleiten-id30781595.html",
+          "source": "n-tv.de - Startseite",
+          "published_at": "2026-05-03T21:33:22.000Z",
+          "image": "https://www.n-tv.de/img/30779326/1777751522/Img_4_3/250/Tanker-ankern-in-der-Strasse-von-Hormuz-vor-der-Kueste-der-Insel-Qeschm.jpg"
+        },
+        {
+          "title": "Liveblog Irankrieg: USA wollen Schiffe in Straße von Hormus befreien",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-wollen-schiffe-in-strasse-von-hormus-befreien-faz-200583539.html",
+          "source": "Aktuell - FAZ.NET",
+          "published_at": "2026-05-03T21:11:05.000Z",
+          "image": "https://media0.faz.net/image/a1544cab59a2/w5221h2937x0y182/202605/43601.0.2041606433/us-praesident-donald-trump.webp"
+        }
+      ]
+    }
+  ]
+}
