@@ -1,0 +1,993 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-05T00:15:12.879Z",
+  "topics": [
+    {
+      "id": "topic_8ae4057c048a1895",
+      "label": [
+        "ukraine",
+        "russia",
+        "declare",
+        "day",
+        "ceasefire",
+        "ceasefire ukraine"
+      ],
+      "category": "new",
+      "theme": "theme_f996ed63e1203118",
+      "entities": [
+        "Putin",
+        "May",
+        "Ukraine",
+        "WWII",
+        "Defence Ministry"
+      ],
+      "article_count": 13,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Putin declares May 8-9 ceasefire with Ukraine to mark WWII anniversary, Defence Ministry says",
+          "url": "https://www.dailymaverick.co.za/article/2026-05-04-putin-declares-may-8-9-ceasefire-with-ukraine-to-mark-wwii-anniversary-defence-ministry-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-05-04T21:30:57.000Z",
+          "image": "https://cdn.dailymaverick.co.za/dailymaverick/wp-content/uploads/2024/05/2024-05-09T104702Z_1429791059_RC2VM7A6NGSQ_RTRMADP_3_WW2-ANNIVERSARY-RUSSIA-PARADE.jpg"
+        },
+        {
+          "title": "Ukraine and Russia declare separate truces",
+          "url": "https://japantoday.com/category/world/ukraine-and-russia-declare-separate-truces",
+          "source": "Japan Today",
+          "published_at": "2026-05-04T21:16:05.000Z"
+        },
+        {
+          "title": "Russia and Ukraine declare competing ceasefires to mark Victory Day",
+          "url": "https://www.indiatoday.in/world/story/russia-and-ukraine-declare-competing-ceasefires-to-mark-victory-day-2906710-2026-05-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-04T21:15:51.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/zelenskyy-and-putin-174944825-16x9.png?VersionId=S9_S3uY9VztAALcUbmP9AGqFbuhVV14y"
+        },
+        {
+          "title": "Putin announces 2-day ceasefire in Ukraine",
+          "url": "https://www.nbcnews.com/world/russia/putin-announces-2-day-ceasefire-ukraine-rcna343502",
+          "source": "NBC News World News",
+          "published_at": "2026-05-04T21:09:16.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260504-ukraine-odesa-mn-1400-8dca95.jpg"
+        },
+        {
+          "title": "Victory Day: Russia, Ukraine declare separate ceasefire",
+          "url": "https://dailypost.ng/2026/05/04/victory-day-russia-ukraine-declare-separate-ceasefire",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-04T21:04:41.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2022/07/Ukraine-Russia-scaled-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_bab109695ef3a18c",
+      "label": [
+        "germany",
+        "crowd",
+        "car",
+        "leipzig",
+        "crowd germany",
+        "plough"
+      ],
+      "category": "new",
+      "theme": "theme_adae847684d63a95",
+      "entities": [
+        "Driver",
+        "Leipzig",
+        "Germany",
+        "Two",
+        "Car"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Driver plows into crowd in Leipzig, Germany, killing 2 people",
+          "url": "https://cebudailynews.inquirer.net/724158/driver-plows-into-crowd-in-leipzig-germany-killing-2-people",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-04T22:29:18.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/05/AFP__20260504__A9RV23X__v1__HighRes__GermanyPoliceCrime-1-620x413.jpg"
+        },
+        {
+          "title": "Two dead as car plows into crowd in Germany's Leipzig",
+          "url": "https://japantoday.com/category/world/two-dead-as-car-ploughs-into-crowd-in-germany%27s-leipzig",
+          "source": "Japan Today",
+          "published_at": "2026-05-04T21:16:42.000Z"
+        },
+        {
+          "title": "Two dead after driver ploughs into people in shopping area in Germany",
+          "url": "https://www.breakingnews.ie/world/two-dead-after-driver-ploughs-into-people-in-shopping-area-in-germany-1895542.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDQxOTE4MzVcXFwvZTI2NzYwZTMtZGQ4OC00MjY5LWE4MmUtZmY5MWU0M2I2NGU1LTEuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTg2N2Q2NzcxZWU1YzA3MzM3ZTM1ZmNlYTU4YjYyMzc1MWZkN2UwMCJ9/e26760e3-dd88-4269-a82e-ff91e43b64e5-1.jpg"
+        },
+        {
+          "title": "Car drives through crowd in Germany",
+          "url": "https://www.youtube.com/shorts/4o3BN1lTUyo",
+          "source": "CNN",
+          "published_at": "2026-05-04T18:54:47.000Z",
+          "image": "https://i1.ytimg.com/vi/4o3BN1lTUyo/hqdefault.jpg"
+        },
+        {
+          "title": "Leipzig: 2 killed after car drives into crowd - DW.com",
+          "url": "https://news.google.com/rss/articles/cbmiigfbvv95cuxnrehjaxdaetnzrgnimllrtgnnaunywlpsr0jsm0dhset2ynftdjj0zkhtoxrwnuvhwfowu1k4mudpu2uwmlrltg5iq01xcxhaqnjpymnpb1nzsw9xvzfzstbindk5a1fmbjzqlu1cu3dvvnuxyv8zmwvnof9nsln2uemzs0rwmtrov0hsayobqvvfexfmtwiyofh1ae9jvfzkb3lqvlnvmjloulvhtwpfnmo5mnzlm1g0tkzqq0pvvfnqsk8wmdbiwwvwr2fvdxpoowgzlvlkbzjuvmfcluxrwjnntwu2ztdhbhdnx2ptbngtstf3qlfen01mnu80rklfzjv1ukpzbklnamnpcglkrnjntulnazhn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-04T18:51:56.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_9c594daf20a36884",
+      "label": [
+        "mandalorian",
+        "star wars",
+        "wars",
+        "grogu",
+        "wars day",
+        "star"
+      ],
+      "category": "new",
+      "theme": "theme_4f1e8c38a2cd5f30",
+      "entities": [
+        "Ravensburger Is Releasing New",
+        "Star Wars Puzzles",
+        "The Mandalorian",
+        "Grogu Movie",
+        "Fossil Celebrates"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Ravensburger Is Releasing New Star Wars Puzzles for The Mandalorian & Grogu Movie",
+          "url": "https://www.ign.com/articles/ravensburger-is-releasing-new-star-wars-puzzles-for-the-mandalorian-grogu-movie",
+          "source": "IGN Articles",
+          "published_at": "2026-05-04T21:13:35.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/05/04/ravensburger-puzzle-sale-1-1777925527544.png"
+        },
+        {
+          "title": "Fossil Celebrates ‘Star Wars’ Day With a New Grogu Watch That Giggles and Glows in the Dark",
+          "url": "https://www.rollingstone.com/product-recommendations/style/fossil-star-wars-the-mandalorian-watch-where-to-buy-online-1235557207",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-04T21:01:44.000Z"
+        },
+        {
+          "title": "The Mandalorian and Grogu: 3 New Previews In Honor Of Star Wars Day",
+          "url": "https://bleedingcool.com/movies/the-mandalorian-and-grogu-3-new-previews-in-honor-of-star-wars-day",
+          "source": "Movies",
+          "published_at": "2026-05-04T20:47:09.000Z"
+        },
+        {
+          "title": "White House Celebrates ‘Star Wars Day’ by Featuring Trump in Mandalorian Meme",
+          "url": "https://internewscast.com/news/us/white-house-celebrates-star-wars-day-by-featuring-trump-in-mandalorian-meme",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-04T20:05:45.000Z"
+        },
+        {
+          "title": "White House marks ‘Star Wars Day’ by sharing meme of Trump as the Mandalorian — with Baby Yoda by his side",
+          "url": "https://nypost.com/2026/05/04/us-news/white-house-marks-star-wars-day-with-trump-as-mandalorian-meme",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-04T20:00:55.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Famerica-stands-ready-way-4th-126977223.jpg?w%3D819"
+        }
+      ]
+    },
+    {
+      "id": "topic_c65ffbaa34bc8155",
+      "label": [
+        "spirit",
+        "spirit airlin",
+        "airlin",
+        "airlin shut",
+        "shut",
+        "budget traveler"
+      ],
+      "category": "new",
+      "theme": "theme_b483358df8516b14",
+      "entities": [
+        "Spirit Airlines Implosion Means",
+        "Your Vacation",
+        "Trump",
+        "Biden",
+        "Spirit Airlines"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "What the Spirit Airlines Implosion Means for Your Vacation",
+          "url": "https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation",
+          "source": "Feed: All Latest",
+          "published_at": "2026-05-04T23:00:55.000Z",
+          "image": "https://media.wired.com/photos/69f8eaab161caad6c9ecf4f6/master/pass/Whats-Going-On-With-Spirit-Airlines-Gear-2274151417.jpg"
+        },
+        {
+          "title": "Here’s why the Trump administration is blaming Biden for Spirit Airlines collapsing on its watch",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-blame-biden-spirit-airlines-collapse-b2970313.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-04T22:28:16.000Z",
+          "image": "https://static.independent.co.uk/2026/05/04/22/01/GettyImages-2273630068.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Spirit Airlines shut down: What to do now if youre a customer",
+          "url": "https://mashable.com/article/spirit-airlines-shut-down-ticket-refunds-book-rescue-fares-flights",
+          "source": "Mashable",
+          "published_at": "2026-05-04T21:44:23.000Z"
+        },
+        {
+          "title": "Spirit Airlines mourned by budget travelers",
+          "url": "https://www.axios.com/2026/05/04/spirit-airlines-travel-budget",
+          "source": "Axios",
+          "published_at": "2026-05-04T20:14:47.000Z",
+          "image": "https://images.axios.com/BbtN_5U5bYYLYhY-z3BPTJTsZxE=/0x0:1920x1080/1366x768/2020/03/20/1584707659045.jpg"
+        },
+        {
+          "title": "Spirit Airlines chaos could be big loss for budget travelers as they fight for answers",
+          "url": "https://www.foxnews.com/travel/spirit-airlines-chaos-could-big-loss-budget-travelers-fight-answers",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-04T19:08:16.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/spirit-passengers-scramble.jpg?ve=1&tl=1"
+        }
+      ]
+    },
+    {
+      "id": "topic_192a868f30c954c3",
+      "label": [
+        "twitter",
+        "elon",
+        "elon musk",
+        "musk",
+        "lawsuit",
+        "settl"
+      ],
+      "category": "new",
+      "theme": "theme_67a6d3066d0ce3ad",
+      "entities": [
+        "Elon Musk",
+        "SEC",
+        "Twitter",
+        "Reuters",
+        "Settles Lawsuit Against Elon"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Elon Musk settles SEC lawsuit over Twitter disclosures, $1.5 million fine imposed (Reuters)",
+          "url": "https://www.memeorandum.com/260504/p98",
+          "source": "memeorandum",
+          "published_at": "2026-05-04T23:00:01.000Z",
+          "image": "http://www.memeorandum.com/260504/i98.jpg"
+        },
+        {
+          "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+          "url": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-05-04T22:49:13.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/04/multimedia/MUSK-SEC-1-bljv/MUSK-SEC-1-bljv-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine",
+          "url": "https://www.theguardian.com/technology/2026/may/04/elon-musk-sec-twitter-x-lawsuit-fine",
+          "source": "The Guardian",
+          "published_at": "2026-05-04T22:22:45.000Z",
+          "image": "https://i.guim.co.uk/img/media/688ce5ba1138c8221ba4b1449a9b472b1639a2b9/622_59_2899_2320/master/2899.jpg?width=140&quality=85&auto=format&fit=max&s=18a192d2011709dfa94abf94e1e63a99"
+        },
+        {
+          "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+          "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+          "source": "The Verge",
+          "published_at": "2026-05-04T22:11:17.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090211/STK171_VRG_Illo_7_Normand_ElonMusk_07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "title": "Elon Musk settles with the SEC for $1.5 million after years-long dispute over his Twitter investment",
+          "url": "https://www.engadget.com/2164424/elon-musk-settles-with-the-sec-for-15-million-after-years-long-dispute-over-his-twitter-investment",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-04T21:50:07.000Z",
+          "image": "https://www.engadget.com/img/gallery/elon-musk-settles-with-the-sec-for-1-5-million-after-years-long-dispute-over-his-twitter-investment/l-intro-1777931365.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_62ac2f026eae8179",
+      "label": [
+        "chihuahua",
+        "en chihuahua",
+        "fgr",
+        "50",
+        "por caso",
+        "caso de"
+      ],
+      "category": "new",
+      "theme": "theme_26a3381e3cc23a7a",
+      "entities": [
+        "FGR",
+        "CIA",
+        "Chihuahua",
+        "La CIA",
+        "Cita FGR"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "FGR cita a 50 personas por caso de agentes de CIA en Chihuahua",
+          "url": "https://www.informador.mx/mexico/caso-cia-en-chihuahua-la-fgr-cita-a-declarar-a-50-personas-tras-polemico-operativo-20260504-0166.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-04T22:53:00.000Z"
+        },
+        {
+          "title": "La CIA en Chihuahua: FGR citará a declarar a 50 personas involucradas en el operativo",
+          "url": "https://www.elfinanciero.com.mx/nacional/2026/05/04/la-cia-en-chihuahua-fgr-citara-a-declarar-a-50-personas-involucradas-en-el-operativo",
+          "source": "El Financiero",
+          "published_at": "2026-05-04T21:56:01.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/7zM4TGsX_woRmZ1EoW_zXsLo0DI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NI35NQNUMRHIJGWCD3UGNBX73Q.png"
+        },
+        {
+          "title": "Cita FGR a declarar a 50 por caso de agentes en Chihuahua",
+          "url": "https://www.elnorte.com/cita-fgr-a-declarar-a-50-por-caso-de-agentes-en-chihuahua/ar3198325",
+          "source": "ElNorte",
+          "published_at": "2026-05-04T21:28:29.000Z"
+        },
+        {
+          "title": "Cita FGR a declarar a 50 por caso de agentes en Chihuahua",
+          "url": "https://www.reforma.com/cita-fgr-a-declarar-a-50-por-caso-de-agentes-en-chihuahua/ar3198319",
+          "source": "Reforma",
+          "published_at": "2026-05-04T21:27:47.000Z"
+        },
+        {
+          "title": "50 agentes serán interrogados por la FGR por caso de la CIA en Chihuahua",
+          "url": "https://vanguardia.com.mx/noticias/50-agentes-seran-interrogados-por-la-fgr-por-caso-de-la-cia-en-chihuahua-ja20466096",
+          "source": "Vanguardia",
+          "published_at": "2026-05-04T21:13:37.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/1080058-conferencia-fgr-investigacio_1-15300579_20260504214749.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_720807f6545e0191",
+      "label": [
+        "face earth",
+        "earth",
+        "trump threaten",
+        "iran",
+        "face",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_b66ff31e2eecf8f9",
+      "entities": [
+        "Ceasefire",
+        "Trump",
+        "Iran",
+        "US",
+        "BBC News"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Ceasefire on brink: Trump says Iran will be “blown off face of earth” it it hits US ships | BBC News",
+          "url": "https://www.youtube.com/watch?v=hzEwPhp9vwY",
+          "source": "BBC News",
+          "published_at": "2026-05-04T22:19:06.000Z",
+          "image": "https://i1.ytimg.com/vi/hzEwPhp9vwY/hqdefault.jpg"
+        },
+        {
+          "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
+          "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-04T21:08:35.000Z"
+        },
+        {
+          "title": "Trump threatens to blow Iran ‘off the face of the earth’ if it attacks US vessels",
+          "url": "https://www.theguardian.com/world/2026/may/04/trump-iran-threat-us-vessels",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-04T20:51:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/e9b4e4c60f9a62c7d85d5ca02f5f5802912c6e1a/450_0_4500_3601/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=179aaddef2db1463fda6d4144d2c191d"
+        },
+        {
+          "title": "Donald Trump threatens to 'blow Iran off the face of the Earth' in horror WW3 threat",
+          "url": "https://www.express.co.uk/news/world/2201719/donald-trump-threatens-blow-iran",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-05-04T19:02:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2201719_1.jpg"
+        },
+        {
+          "title": "Trump warns Iran will be ‘blown off the face of the earth’ if US vessels hit in Strait of Hormuz",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4551571/trump-warns-iran-striking-vessels",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-04T18:27:41.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26119781604732.jpg?w=696"
+        }
+      ]
+    },
+    {
+      "id": "topic_996c74b7db0a8b0b",
+      "label": [
+        "bid",
+        "ebay",
+        "gamestop",
+        "takeover bid",
+        "takeover",
+        "billion"
+      ],
+      "category": "new",
+      "theme": "theme_d580ae843408704c",
+      "entities": [
+        "GameStop",
+        "Billion Bid",
+        "Bloomberg Tech",
+        "How An Options Trade",
+        "Underpins GameStop"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "GameStop makes $56 billion takeover bid for eBay",
+          "url": "https://japantoday.com/category/business/gamestop-makes-56-billion-takeover-bid-for-ebay",
+          "source": "Japan Today",
+          "published_at": "2026-05-04T21:21:53.000Z"
+        },
+        {
+          "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
+          "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "published_at": "2026-05-04T20:16:04.000Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6b8b930143b2c3841a702edb24488a36b869083c-3934x2213.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        },
+        {
+          "title": "GameStop’s $56 Billion Bid for eBay | Bloomberg Tech 5/4/2026",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-04/bloomberg-tech-5-4-2026-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-04T20:14:16.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK9eDR5zcsFw/v3/1200x-1.jpg"
+        },
+        {
+          "title": "How An Options Trade Underpins GameStop’s EBay Takeover Bid",
+          "url": "https://www.forbes.com/sites/brandonkochkodin/2026/05/04/how-an-options-trade-underpins-gamestops-ebay-takeover-bid",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-04T18:14:39.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69f8e0b8be495cf9da3e6416/0x0.jpg?width=960"
+        }
+      ]
+    },
+    {
+      "id": "topic_a2305837fb56520f",
+      "label": [
+        "correspondent",
+        "correspondent dinner",
+        "dinner",
+        "house correspondent",
+        "judge",
+        "dinner shoot"
+      ],
+      "category": "new",
+      "theme": "theme_7b21147650383f27",
+      "entities": [
+        "Gavin Newsom",
+        "Trump",
+        "White House Correspondents",
+        "Dinner",
+        "Judge"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Gavin Newsom accuses Trump of exploiting White House Correspondents' Dinner shooting to attack enemies",
+          "url": "https://www.foxnews.com/media/gavin-newsom-accuses-trump-exploiting-white-house-correspondents-dinner-shooting-attack-enemies",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-04T21:47:45.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/donald-trump-gavin-newsom-split-image.jpg?ve=1&tl=1"
+        },
+        {
+          "title": "Judge apologizes to accused White House Correspondents’ Dinner shooter and makes Jan. 6 comparison",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/judge-apologize-trial-cole-allen-correspondents-dinner-b2970276.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-04T21:08:57.000Z",
+          "image": "https://static.independent.co.uk/2026/05/04/21/download.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Judge asks why White House correspondents’ dinner shooter was on suicide watch: ‘It could drive a person crazy to be in that situation’",
+          "url": "https://fortune.com/2026/05/04/judge-dc-jail-whcd-shooter-suicide-watch",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-05-04T19:38:03.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2272942181_3b939f-e1777923149995.jpg?w=2048"
+        },
+        {
+          "title": "Judge Questions Why Correspondents’ Dinner Shooting Suspect Was Placed on Suicide Watch",
+          "url": "https://www.nytimes.com/2026/05/04/us/politics/correspondents-dinner-shooting-suspect-suicide-watch.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-05-04T18:21:11.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/04/multimedia/04dc-shooter-kfcj/04dc-shooter-kfcj-mediumSquareAt3X.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_b08a6794d72d57b2",
+      "label": [
+        "edward",
+        "play game",
+        "edward play",
+        "play",
+        "anthony edward",
+        "anthony"
+      ],
+      "category": "new",
+      "theme": "theme_9e0e01859b2c2a5e",
+      "entities": [
+        "Timberwolves",
+        "NBA Playoffs",
+        "Anthony Edwards",
+        "Sources",
+        "Wolves"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Timberwolves’ NBA Playoffs hopes rise after major Anthony Edwards injury update",
+          "url": "https://sports.yahoo.com/articles/timberwolves-nba-playoffs-hopes-rise-204756923.html",
+          "published_at": "2026-05-04T20:47:56.000Z"
+        },
+        {
+          "title": "Sources: Wolves expect Edwards to play Game 1",
+          "url": "https://www.espn.com/nba/story/_/id/48678050/sources-timberwolves-expect-anthony-edwards-play-game-1",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-05-04T20:19:14.000Z"
+        },
+        {
+          "title": "Timberwolves' Anthony Edwards expected to play Game 1 vs. Spurs in stunning injury update, per report",
+          "url": "https://www.cbssports.com/nba/news/timberwolves-anthony-edwards-injury-game-1-spurs",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-04T19:41:01.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/04/858a7252-e330-4346-b28e-040593858ea0/edwards-getty.png"
+        },
+        {
+          "title": "Sources: Timberwolves expect Anthony Edwards to play in Game 1 - ESPN",
+          "url": "https://news.google.com/rss/articles/cbmiogfbvv95cuxnvhzyzhm3zu5snwtiqny5cwg4cmzmdtlduhk4a09rqzmwrxhpwwximjf1twhyzzltdgnwcxyyd1nlzelprvf4mfnyc1uwrhjybtzsc3k2dw5ummrelunzstfmew5xs0lkrdg1sk1vqu0yufjix25ot2iyvtffa3jlzgjpmfdinuljujvbbuhrakfmy1jbdkz4q21hzlbvatvsngc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-04T19:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_f6fbd8b6c773632d",
+      "label": [
+        "hits truck",
+        "newark",
+        "plane",
+        "truck",
+        "hits",
+        "unit airlin"
+      ],
+      "category": "new",
+      "theme": "theme_c4026b57b1f8ce22",
+      "entities": [
+        "United Airlines",
+        "Newark",
+        "One",
+        "NewJersey",
+        "Plane"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "United Airlines 767 hits truck and light pole on approach to Newark airport",
+          "url": "https://nationalpost.com/news/world/united-airlines-newark-landing-truck-pole",
+          "source": "National Post",
+          "published_at": "2026-05-04T22:07:29.000Z"
+        },
+        {
+          "title": "United Airlines plane hits truck while coming in to land at Newark airport",
+          "url": "https://globalnews.ca/news/11829515/united-airlines-hits-truck-and-pole-landing-newark-new-jersey",
+          "published_at": "2026-05-04T20:33:29.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/CP175270455.jpg?quality=65&strip=all"
+        },
+        {
+          "title": "One injured after plane hits truck while landing in Newark. #NewJersey #Plane #BBCNews",
+          "url": "https://www.youtube.com/shorts/HRoL3-JrzWI",
+          "source": "BBC News",
+          "published_at": "2026-05-04T20:30:05.000Z",
+          "image": "https://i1.ytimg.com/vi/HRoL3-JrzWI/hqdefault.jpg"
+        },
+        {
+          "title": "‘A major catastrophe was avoided by feet’: A United Airlines plane hits a truck and light pole while landing at Newark airport",
+          "url": "https://fortune.com/2026/05/04/united-airlines-plane-newark-airport-hits-truck-pole",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-05-04T19:55:07.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2267593721-e1777924058233.jpg?w=2048"
+        }
+      ]
+    },
+    {
+      "id": "topic_47752fcd7377b7c6",
+      "label": [
+        "ios 27",
+        "wallet",
+        "27",
+        "ios",
+        "pass",
+        "apple"
+      ],
+      "category": "new",
+      "theme": "theme_1db41814d54764b0",
+      "entities": [
+        "Might Let Users Create",
+        "Custom Passes",
+        "Apple Wallet App",
+        "Create",
+        "Pass"
+      ],
+      "article_count": 7,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "iOS 27 Might Let Users Create Custom Passes for Apple Wallet App",
+          "url": "https://www.cnet.com/tech/services-and-software/ios-27-might-let-users-create-custom-passes-via-the-wallet-app",
+          "source": "CNET",
+          "published_at": "2026-05-04T21:50:22.000Z",
+          "image": "https://www.cnet.com/a/img/resize/d8f6bdfb0594d11c814d0586fd6c07c1247d5432/hub/2026/05/04/04b524e8-1563-4460-b806-ca28c0f09c6a/apple-wallet-gettyimages-1065091160.jpg?auto=webp&fit=crop&height=614&width=1092"
+        },
+        {
+          "title": "iOS 27 tipped to get new ‘Create a Pass’ feature in Wallet",
+          "url": "https://www.macworld.com/article/3131182/ios-27-tipped-to-get-new-create-a-pass-feature-in-wallet.html",
+          "source": "Macworld",
+          "published_at": "2026-05-04T19:33:50.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/05/apple-wallet.jpg?quality=50&strip=all"
+        },
+        {
+          "title": "Apple could remove a key iPhone Wallet app limitation with iOS 27",
+          "url": "https://www.cultofmac.com/news/apple-wallet-app-passes-iphone-limitation-ios-27",
+          "source": "Cult of Mac",
+          "published_at": "2026-05-04T19:13:53.000Z",
+          "image": "https://www.cultofmac.com/wp-content/uploads/2026/05/Apple-Wallet-passes-custom.jpg.webp"
+        },
+        {
+          "title": "Apple Wallet will let you make your own passes in iOS 27",
+          "url": "https://appleinsider.com/articles/26/05/04/apple-wallet-will-let-you-make-your-own-passes-in-ios-27",
+          "source": "AppleInsider News",
+          "published_at": "2026-05-04T18:30:06.000Z",
+          "image": "https://photos5.appleinsider.com/gallery/67538-142270-67454-141967-Apple-Wallet-cards-xl-xl.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5780a98bc28ca982",
+      "label": [
+        "madeleine",
+        "mccann",
+        "madeleine mccann",
+        "trial",
+        "suspect",
+        "brueckner"
+      ],
+      "category": "new",
+      "theme": "theme_da815fefaa547b0e",
+      "entities": [
+        "Madeleine McCann",
+        "Christian Brueckner",
+        "Britain",
+        "Met Police",
+        "Calls Intensify"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Madeleine McCann suspect Christian Brueckner should face trial in Britain 'for her abduction and murder', Met Police say",
+          "url": "https://www.dailymail.com/news/article-15789585/madeleine-mccann-suspect-christian-brueckner-face-trial-britain-met-police-say.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-04T20:07:25.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/04/20/108366055-0-image-a-34_1777923862362.jpg"
+        },
+        {
+          "title": "Calls Intensify for Madeleine McCann Suspect Christian Brueckner to Stand Trial in UK",
+          "url": "https://internewscast.com/news/calls-intensify-for-madeleine-mccann-suspect-christian-brueckner-to-stand-trial-in-uk",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-04T20:01:30.000Z"
+        },
+        {
+          "title": "Madeleine McCann update as police 'seek trial' for suspect Christian Brueckner",
+          "url": "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-police-seek-37109908",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-05-04T19:58:07.000Z",
+          "image": "https://i2-prod.mirror.co.uk/news/uk-news/article36933152.ece/ALTERNATES/s615/1_Missing-Madeleine-McCann.jpg"
+        },
+        {
+          "title": "Bombshell Madeleine McCann update as police seek UK trial for major suspect",
+          "url": "https://www.express.co.uk/news/uk/2201724/madeleine-mccann-update-police",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-05-04T19:40:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2201724_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_ec74c86d39a51b73",
+      "label": [
+        "point title",
+        "title race",
+        "draw everton",
+        "race",
+        "point",
+        "city drop"
+      ],
+      "category": "new",
+      "theme": "theme_58f2bce22bbaaff",
+      "entities": [
+        "Defiant Guardiola",
+        "Man City",
+        "Everton",
+        "EPL"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Defiant Guardiola defends his Man City players and reacts to dropping points in title race with draw at Everton",
+          "url": "https://sports.yahoo.com/articles/defiant-guardiola-defends-man-city-220500940.html",
+          "published_at": "2026-05-04T22:05:00.000Z"
+        },
+        {
+          "title": "EPL: Man City drop points in title race after 3-3 draw with Everton",
+          "url": "https://dailypost.ng/2026/05/04/epl-man-city-drop-points-in-title-race-after-3-3-draw-with-everton",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-04T21:22:17.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/04/Man-City-2.jpg"
+        },
+        {
+          "title": "Man City drop points in title race as last-gasp leveller rescues draw at Everton",
+          "url": "https://www.thejournal.ie/manchester-city-everton-premier-league-2-2-7031053-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-04T21:15:27.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/evertons-jake-obrien-right-react-after-scoring-during-the-premier-league-soccer-match-between-manchester-city-and-everton-in-liverpool-england-monday-may-4-2026-ap-photodave-thompson-72131deb-f057-421b-8cf0-3a88d0492f5b-630x419.jpg"
+        },
+        {
+          "title": "Man City drop points in title race as last-gasp leveller rescues draw at Everton",
+          "url": "https://www.the42.ie/manchester-city-everton-premier-league-2-7031014-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-04T20:59:30.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/evertons-jake-obrien-right-react-after-scoring-during-the-premier-league-soccer-match-between-manchester-city-and-everton-in-liverpool-england-monday-may-4-2026-ap-photodave-thompson-72131deb-f057-421b-8cf0-3a88d0492f5b-630x419.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_7bbc44edc871a211",
+      "label": [
+        "steam controller",
+        "controller",
+        "steam",
+        "controller already",
+        "already sold",
+        "valve"
+      ],
+      "category": "new",
+      "theme": "theme_cf6892c3e93534dd",
+      "entities": [
+        "Valve",
+        "Steam Controller Sells Out",
+        "Instantly As Scalpers Try",
+        "To Flip Them For",
+        "Up To"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Valve’s New $100 Steam Controller Sells Out Instantly As Scalpers Try To Flip Them For Up To $300",
+          "url": "https://kotaku.com/valves-new-100-steam-controller-sells-out-instantly-as-scalpers-try-to-flip-them-for-up-to-300-2000693064",
+          "source": "Kotaku",
+          "published_at": "2026-05-04T22:12:20.000Z",
+          "image": "https://kotaku.com/app/uploads/2026/05/steam-controler-1280x731.jpg"
+        },
+        {
+          "title": "The Steam Controller Is Already Sold Out",
+          "url": "https://gizmodo.com/the-steam-controller-is-already-sold-out-2000754369",
+          "source": "Gizmodo",
+          "published_at": "2026-05-04T19:45:17.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/04/Steam-Controller-review-02-1280x853.jpg"
+        },
+        {
+          "title": "Valve's new Steam Controller sells out on launch day",
+          "url": "https://www.polygon.com/steam-controller-sold-out-valve-restock",
+          "source": "Polygon.com",
+          "published_at": "2026-05-04T19:31:22.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/hands-holding-steam-controller.jpg"
+        },
+        {
+          "title": "Don’t pay scalper prices for a Steam Controller",
+          "url": "https://www.pcworld.com/article/3131171/theres-no-reason-to-pay-a-scalper-for-a-steam-controller.html",
+          "source": "PCWorld",
+          "published_at": "2026-05-04T19:15:39.000Z",
+          "image": "https://www.pcworld.com/wp-content/uploads/2026/05/image_32f819.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_f4cbeb1a65769548",
+      "label": [
+        "yize",
+        "wu yize",
+        "wu",
+        "shaun",
+        "beat shaun",
+        "shaun murphy"
+      ],
+      "category": "new",
+      "theme": "theme_e50a7145d3920965",
+      "entities": [
+        "Wu Yize",
+        "Chinese",
+        "World Snooker Championship",
+        "Shaun Murphy",
+        "China"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Wu Yize&#8217;s mum breaks down in tears as Chinese star wins World Snooker Championship in nerve-wracking deciding frame",
+          "url": "https://talksport.com/sport/4232306/wu-yize-emotional-mother-world-snooker-championship-final",
+          "source": "talkSPORT",
+          "published_at": "2026-05-04T22:07:06.000Z"
+        },
+        {
+          "title": "Wu Yize beats Shaun Murphy in thrilling final frame to win World Snooker Championship",
+          "url": "https://www.theguardian.com/sport/2026/may/04/wu-yize-shaun-murphy-world-snooker-championship",
+          "source": "The Guardian",
+          "published_at": "2026-05-04T21:57:19.000Z",
+          "image": "https://i.guim.co.uk/img/media/15ea9f085c68f54e24e2cd6225c06139adb2dcad/467_0_4669_3734/master/4669.jpg?width=140&quality=85&auto=format&fit=max&s=f487cf3430ab3120d7524ead84f1ffd6"
+        },
+        {
+          "title": "China's Wu Yize, 22, becomes youngest world champion for 36 YEARS as he beats Shaun Murphy in final frame to edge Crucible epic",
+          "url": "https://www.dailymail.com/sport/snooker/article-15789855/wu-yize-triumphs-thrilling-world-championship-final.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-04T21:51:19.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/04/22/108368483-0-image-a-147_1777931462485.jpg"
+        },
+        {
+          "title": "Wu Yize beats Shaun Murphy in Crucible classic to become world champion",
+          "url": "https://www.thejournal.ie/world-snooker-final-2-2-7031072-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-04T21:47:00.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/05/wu-yize-celebrates-winning-the-halo-world-snooker-championship-2026-final-against-shaun-murphy-at-the-crucible-theatre-sheffield-picture-date-monday-may-4-2026-5def3729-4edf-47c8-a477-3a2de7c3a2aa-630x420.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5f9dc9b61552f3f6",
+      "label": [
+        "bengal election",
+        "bengal",
+        "election",
+        "ratna",
+        "debnath",
+        "rg"
+      ],
+      "category": "new",
+      "theme": "theme_9cb57b42dca63815",
+      "entities": [
+        "Bengal Election",
+        "West Bengal Elections Results",
+        "Rahul Gandhi",
+        "Mamata Banerjee",
+        "Ratna Debnath"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Bengal Election: 'बांचते चाईं बीजेपी ताई का दिया नारा', बंगाल में सुनील बंसल बने भाजपा के लिए साइलेंट गेमचेंजर",
+          "url": "https://www.amarujala.com/india-news/sunil-bansal-bjp-west-bengal-election-strategy-amit-shah-close-aide-political-success-story-2026-05-05",
+          "source": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+          "published_at": "2026-05-04T22:36:16.000Z"
+        },
+        {
+          "title": "West Bengal Elections Results 2026: Rahul Gandhi backs Mamata Banerjee's claims, says '100 seats were stolen'",
+          "url": "https://www.dnaindia.com/india/report-west-bengal-assembly-election-results-2026-live-news-updates-congress-rahul-gandhi-backs-mamata-banerjee-claims-says-more-than-100-seats-were-stolen-tmc-bjp-election-commission-vote-chori-3209067",
+          "source": "India News",
+          "published_at": "2026-05-04T20:25:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/05/05/2747955-rahul-gandhi.png"
+        },
+        {
+          "title": "Ratna Debnath, RG Kar victim's mother and BJP candidate, wins Bengal elections",
+          "url": "https://www.indiatoday.in/elections/assembly/story/rg-kar-victims-mother-ratna-debnath-wins-panihati-as-bjp-sweeps-bengal-2906677-2026-05-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-04T18:28:54.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/rg-kar-was-the-biggest-silent-factor-in-bengal-polls-032202966-16x9_1.jpg?VersionId=9xaOFtwdacauM4jUXWMo6NDiaSBVEpo."
+        }
+      ]
+    },
+    {
+      "id": "topic_b9aeca5a176193a7",
+      "label": [
+        "college basketball",
+        "college",
+        "basketball",
+        "top",
+        "top 25",
+        "25"
+      ],
+      "category": "new",
+      "theme": "theme_15885b56e82bc080",
+      "entities": [
+        "Tennessee Breaks Into Top",
+        "Early College Basketball Rankings",
+        "Following Juke Harris Signing",
+        "College",
+        "Top"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Tennessee Breaks Into Top 15 in Early College Basketball Rankings Following Juke Harris Signing",
+          "url": "https://internewscast.com/sport/tennessee-breaks-into-top-15-in-early-college-basketball-rankings-following-juke-harris-signing",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-04T22:47:35.000Z"
+        },
+        {
+          "title": "College basketball transfer portal: Top 25 overall players",
+          "url": "https://sports.yahoo.com/articles/college-basketball-transfer-portal-top-221703772.html",
+          "published_at": "2026-05-04T22:40:17.000Z"
+        },
+        {
+          "title": "College basketball rankings: Tennessee enters top 15 in way-too-early Top 25 And 1 after landing Juke Harris",
+          "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-top-25-1-tennessee-juke-harris",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-04T22:10:24.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/04/eac2a700-695f-48ad-a2f3-8df3b2b9b187/juke-harris-tennessee.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_cd65b8eaada77838",
+      "label": [
+        "costume",
+        "art",
+        "met costume",
+        "costume institute",
+        "institute",
+        "art history"
+      ],
+      "category": "new",
+      "theme": "theme_6127f1bfc515fb4",
+      "entities": [
+        "MET",
+        "The Met",
+        "Costume Institute Needs",
+        "Art History Lesson",
+        "The Met Costume Institute"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "take a first look at ‘costume art’ as fashion meets art history at the MET",
+          "url": "https://www.designboom.com/design/costume-art-fashion-art-history-metropolitan-museum-new-york",
+          "source": "design archives | designboom | architecture & design magazine",
+          "published_at": "2026-05-04T21:12:53.000Z",
+          "image": "https://www.designboom.com/wp-content/uploads/2026/05/costume-art-metropolitan-museum-art-designboom-700-500x400-22b08q85r962.jpg"
+        },
+        {
+          "title": "The Met’s Costume Institute Needs an Art History Lesson",
+          "url": "https://www.artnews.com/art-news/reviews/met-costume-art-review-1234783830",
+          "source": "ARTnews.com",
+          "published_at": "2026-05-04T21:02:42.000Z"
+        },
+        {
+          "title": "The Met Costume Institute Unveils Its New Condé M. Nast Galleries",
+          "url": "https://www.architecturaldigest.com/story/the-met-costume-institute-unveils-its-new-cond%c3%a9-m-nast-galleries",
+          "source": "Architectural Digest",
+          "published_at": "2026-05-04T20:20:32.000Z",
+          "image": "https://media.architecturaldigest.com/photos/69f8f67bbf3d1c0c7240d954/master/pass/Screenshot%202026-05-04%20at%203.41.10%E2%80%AFPM.png"
+        }
+      ]
+    }
+  ]
+}
