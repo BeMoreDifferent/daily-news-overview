@@ -1,0 +1,917 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-25T00:15:34.580Z",
+  "topics": [
+    {
+      "id": "topic_3b7840f758a19540",
+      "label": [
+        "tank",
+        "chemical tank",
+        "chemical",
+        "california",
+        "southern california",
+        "southern"
+      ],
+      "category": "new",
+      "theme": "theme_f8ebafcaa13b5d64",
+      "entities": [
+        "Dangers",
+        "California",
+        "Overheated",
+        "EPA",
+        "Orange County"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Dangers from damaged California chemical tank persist. Here what to know",
+          "url": "https://www.yahoo.com/news/weather-news/articles/dangers-damaged-california-chemical-tank-194042189.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-24T19:40:42.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/22f1b9b186e352f32c5e4d777decbcc6"
+        },
+        {
+          "title": "Overheated chemical tank in southern California ‘will fail’, EPA chief says",
+          "url": "https://www.theguardian.com/us-news/2026/may/24/chemical-tank-california-epa-lee-zeldin",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-24T19:36:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/ee8e15a50e6915c6017fba9f14b886e15f5dc8ba/833_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=b385ca441674796bcf68eb540041cd2c"
+        },
+        {
+          "title": "Orange County officials reveal ‘critical’ update on Garden Grove chemical tank threatening to explode",
+          "url": "https://nypost.com/2026/05/24/us-news/oc-officials-reveal-critical-update-on-chemical-tank-explosion-threat",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-24T18:38:16.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fpressurized-tank-filled-methyl-methacrylate-128657398_6e77f2.jpg?w%3D1024"
+        },
+        {
+          "title": "Firefighters Still Working to Cool Garden Grove Chemical Tank",
+          "url": "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-05-24T17:50:57.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24nat-chem-tank-update-cjbp/24nat-chem-tank-update-cjbp-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "40,000 people under evacuation orders for a chemical tank leak in Southern California",
+          "url": "https://www.manilatimes.net/2026/05/25/news/world/40000-people-under-evacuation-orders-for-a-chemical-tank-leak-in-southern-california/2350771",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-24T17:42:51.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/25/1070191.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5ca9b19c7b1539f0",
+      "label": [
+        "white house",
+        "bystander",
+        "white",
+        "house",
+        "shoot",
+        "condition"
+      ],
+      "category": "new",
+      "theme": "theme_577542db011d0c50",
+      "entities": [
+        "Bystander",
+        "White House",
+        "Tragic Incident Near White",
+        "House",
+        "Bystander Critically Injured"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Bystander shot near White House in serious condition",
+          "url": "https://www.perthnow.com.au/news/crime/bystander-shot-near-white-house-in-serious-condition-c-22330709",
+          "source": "PerthNow",
+          "published_at": "2026-05-24T22:21:04.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22330709/85bb812d34e848213d0f1737a3a747d67128e65c-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Tragic Incident Near White House: Bystander Critically Injured in Fatal Shooting at Security Checkpoint",
+          "url": "https://internewscast.com/local-news/tragic-incident-near-white-house-bystander-critically-injured-in-fatal-shooting-at-security-checkpoint",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-24T22:11:40.000Z"
+        },
+        {
+          "title": "Bystander wounded in shooting near White House remains in serious condition",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-shooting-bystander-nasire-best-trump-b2982891.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-24T21:23:44.000Z",
+          "image": "https://static.independent.co.uk/2026/05/24/21/49/GettyImages-2277454850.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Bystander in serious condition after fatal shooting near White House checkpoint",
+          "url": "https://japantoday.com/category/world/bystander-in-serious-condition-after-fatal-shooting-near-white-house-checkpoint",
+          "source": "Japan Today",
+          "published_at": "2026-05-24T21:13:29.000Z"
+        },
+        {
+          "title": "Bystander Wounded in Shooting Near White House Is in Stable Condition - The New York Times",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpquhqelb4ywi1rnd3clrzcfk5v2tmu0p1wjdvszlycmtwxzvqdng3vmfvtw9ywlpovw9qykzvm0ppnhpwm243devszmx1wetwaxowvwhltxjmnu1on0m4z0vsrzfat3htenpqxzq5ug9snwdyvfl5evjlzflvzdvawmvvbu9hcktwcvvfcwlrek5fd0lfunk3ukjxmk91zw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-24T18:35:01.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_ab6f00eeed171100",
+      "label": [
+        "china",
+        "space",
+        "china send",
+        "crew",
+        "mission",
+        "send"
+      ],
+      "category": "new",
+      "theme": "theme_923ddf9d36b3f303",
+      "entities": [
+        "China",
+        "Shenzhou",
+        "Mission",
+        "Pioneering Yearlong Space Expedition",
+        "Three Astronauts Aboard"
+      ],
+      "article_count": 11,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "China’s Shenzhou 23 Mission: Pioneering Yearlong Space Expedition with Three Astronauts Aboard",
+          "url": "https://internewscast.com/local-news/chinas-shenzhou-23-mission-pioneering-yearlong-space-expedition-with-three-astronauts-aboard",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-24T18:09:23.000Z"
+        },
+        {
+          "title": "China Launches 3-Crew Space Flight As Part Of Moon Ambitions",
+          "url": "https://www.ndtv.com/world-news/china-launches-3-crew-space-flight-as-part-of-moon-ambitions-11542107",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-24T18:02:45.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/ngmhfe8s_china_625x300_24_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+        },
+        {
+          "title": "China sending new crew to its space station",
+          "url": "https://www.yahoo.com/news/science/articles/china-sending-crew-space-station-165632646.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-24T16:56:32.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/71ed888c86d083a4ba742a71afd34860"
+        },
+        {
+          "title": "China sends 3-crew mission in Moon push",
+          "url": "https://tribune.com.pk/story/2609936/china-sends-3-crew-mission-in-moon-push",
+          "source": "express tribune",
+          "published_at": "2026-05-24T16:33:38.000Z"
+        },
+        {
+          "title": "China’s Shenzhou-23 astronauts blast off on space station mission",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-24T16:26:09.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_eb6866a68bf1fb21",
+      "label": [
+        "raducanu",
+        "first round",
+        "open first",
+        "round",
+        "french open",
+        "french"
+      ],
+      "category": "new",
+      "theme": "theme_5247f51e10de7f5a",
+      "entities": [
+        "Emma Raducanu",
+        "FIRST ROUND",
+        "French Open",
+        "Brit No",
+        "Raducanu"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Emma Raducanu is knocked out in the FIRST ROUND of the French Open: Brit No 1 embarrassed in 6-0, 7-6 defeat",
+          "url": "https://www.dailymail.com/sport/tennis/article-15844897/emma-raducanu-french-open-exit.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-24T19:42:45.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/24/18/108836937-0-image-a-78_1779644334101.jpg"
+        },
+        {
+          "title": "Raducanu dumped out of French Open in first round",
+          "url": "https://www.espn.com/tennis/story/_/id/48863192/emma-raducanu-dumped-french-open-first-round",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-05-24T19:29:56.000Z"
+        },
+        {
+          "title": "Emma Raducanu slumps to straight-sets defeat in French Open first round",
+          "url": "https://www.theguardian.com/sport/2026/may/24/emma-raducanu-slumps-to-straight-sets-defeat-in-french-open-first-round",
+          "source": "The Guardian",
+          "published_at": "2026-05-24T18:04:08.000Z",
+          "image": "https://i.guim.co.uk/img/media/dec7f12f2d96a34130a96842bcd40e3dabb7a6da/498_0_4981_3985/master/4981.jpg?width=140&quality=85&auto=format&fit=max&s=31b8dc89aac74cc605ccb5ccd67f13ac"
+        },
+        {
+          "title": "Raducanu beaten in French Open first round",
+          "url": "https://sports.yahoo.com/articles/raducanu-beaten-french-open-first-174045874.html",
+          "published_at": "2026-05-24T17:52:01.000Z"
+        },
+        {
+          "title": "Raducanu beaten in French Open first round",
+          "url": "https://www.bbc.com/news/articles/c626jj9yl03o",
+          "source": "BBC Sport",
+          "published_at": "2026-05-24T17:51:56.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f41/live/cc1accf0-5798-11f1-b682-cf91850925ea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5de77e13e1083ad8",
+      "label": [
+        "cialit",
+        "langue",
+        "gionale",
+        "sp cialit",
+        "langue gionale",
+        "sp"
+      ],
+      "category": "new",
+      "theme": "theme_59cef57a16072861",
+      "entities": [
+        "Le",
+        "Baccalaur",
+        "EXCLUSIF",
+        "Un"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Le ministre de l’Éducation nationale annonce que les lycéens pourront passer une épreuve de spécialité du bac en langue régionale",
+          "url": "https://www.huffingtonpost.fr/france/article/le-ministre-de-l-education-nationale-annonce-que-les-lyceens-pourront-passer-une-epreuve-de-specialite-du-bac-en-langue-regionale_264068.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-05-24T19:42:38.000Z",
+          "image": "https://focus.huffingtonpost.fr/2025/06/15/169/0/6720/3780/0/0/60/0/836f17f_upload-1-fhnpiznqp0to-000-pk5ba.jpg"
+        },
+        {
+          "title": "Baccalauréat : les lycéens pourront passer une épreuve de spécialité en langue régionale à partir de 2028, annonce le ministre de l’éducation nationale",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/24/baccalaureat-les-lyceens-pourront-passer-une-epreuve-de-specialite-en-langue-regionale-a-partir-de-2028-annonce-le-ministre-de-l-education-nationale_6693254_3224.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-05-24T17:42:20.000Z",
+          "image": "https://img.lemde.fr/2026/05/20/469/0/5621/2810/644/322/60/0/0686916_ftp-1-rhtguyl57ijf-5090265-01-06.jpg"
+        },
+        {
+          "title": "Baccalauréat : une épreuve de spécialité pourra être passée en langue régionale à partir de 2028",
+          "url": "https://www.sudouest.fr/politique/education/baccalaureat-une-epreuve-de-specialite-pourra-etre-passee-en-langue-regionale-a-partir-de-2028-29212531.php",
+          "source": "L'essentiel",
+          "published_at": "2026-05-24T17:06:29.000Z"
+        },
+        {
+          "title": "EXCLUSIF. « Un élève pourra passer une spécialité du bac dans une langue régionale », annonce le ministre de l’Éducation",
+          "url": "https://www.ouest-france.fr/education/enseignement/exclusif-un-eleve-pourra-passer-une-specialite-du-bac-dans-une-langue-regionale-annonce-le-ministre-de-leducation-e2bfa328-576f-11f1-a4a7-f780c203d7d6",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-05-24T16:00:43.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1ZGFhNDE3YjEzMzFmZWY0OWNlMjFlZDhjOGM1Y2EwY2E?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=841584f90c6bf537fbdb1833ce979cd7a10c43421afd0d310a1d877255c7677c"
+        }
+      ]
+    },
+    {
+      "id": "topic_e78b1e2fc51f057b",
+      "label": [
+        "count",
+        "india",
+        "india count",
+        "trump",
+        "count says",
+        "donald trump"
+      ],
+      "category": "new",
+      "theme": "theme_90cf1e7705a2ff71",
+      "entities": [
+        "India",
+        "Donald Trump",
+        "PM Modi",
+        "Trump",
+        "Delhi"
+      ],
+      "article_count": 7,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "India can always count on me: Donald Trump",
+          "url": "https://timesofindia.indiatimes.com/india/india-can-always-count-on-me-donald-trump/articleshow/131296720.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-24T21:22:54.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131296722,imgsize-61460.cms"
+        },
+        {
+          "title": "India can count on me, big fan of PM Modi: Trump joins Delhi event via call",
+          "url": "https://www.indiatoday.in/india/story/donald-trump-india-modi-ties-us-president-says-india-can-count-on-him-100-per-cent-2916436-2026-05-24",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-24T17:33:12.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/pm-modi--trump-24292537-16x9_0.png?VersionId=AgAVr48QaQlgz2h4hJBVxlp6CohxuArd"
+        },
+        {
+          "title": "'I Love India...Big Fan Of PM Modi': Donald Trump's Message At 250th US Independence Day Celebration In Delhi",
+          "url": "https://www.freepressjournal.in/india/i-love-indiabig-fan-of-pm-modi-donald-trumps-message-at-250th-us-independence-day-celebration-in-delhi",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-24T17:27:34.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-05-24/0pmw1imk/Meme4.jpg"
+        },
+        {
+          "title": "India can count on me, says Trump",
+          "url": "https://www.thehindubusinessline.com/economy/india-can-count-on-me-says-trump/article71018630.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-05-24T16:11:21.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/9cjm95/article71018650.ece/alternates/LANDSCAPE_1200/2026-05-22T201327Z_1336094865_RC2JELA0ML7R_RTRMADP_3_USA-TRUMP.JPG"
+        }
+      ]
+    },
+    {
+      "id": "topic_f4fde7977617197d",
+      "label": [
+        "ai model",
+        "bank",
+        "ecb",
+        "fix flaw",
+        "flaw expos",
+        "model"
+      ],
+      "category": "new",
+      "theme": "theme_3d2e12d00968efab",
+      "entities": [
+        "The ECB",
+        "Eurozone",
+        "Tuesday",
+        "AI",
+        "US"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons (Martin Arnold/Financial Times)",
+          "url": "https://www.techmeme.com/260524/p10",
+          "source": "Techmeme",
+          "published_at": "2026-05-24T18:45:02.000Z",
+          "image": "http://www.techmeme.com/260524/i10.jpg"
+        },
+        {
+          "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-24T18:32:23.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9S.RB9MGPsI/v1/1200x-1.jpg"
+        },
+        {
+          "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
+          "url": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
+          "source": "International homepage",
+          "published_at": "2026-05-24T17:00:09.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F62884580-06f6-4609-be6b-e9e4627c9032.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        }
+      ]
+    },
+    {
+      "id": "topic_f569679c398334d7",
+      "label": [
+        "beartooth",
+        "caleb",
+        "shomo",
+        "gay",
+        "caleb shomo",
+        "shomo com"
+      ],
+      "category": "new",
+      "theme": "theme_e9db1fce657cd1e2",
+      "entities": [
+        "Beartooth Singer Caleb Shomo",
+        "Comes Out",
+        "Proudly Gay Man",
+        "Emotional Message",
+        "Fans"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Beartooth Singer Caleb Shomo Comes Out as a ‘Proudly Gay Man’ in Emotional Message to Fans",
+          "url": "https://variety.com/2026/music/news/beartooth-singer-caleb-shomo-comes-out-gay-1236758007",
+          "source": "Variety",
+          "published_at": "2026-05-24T19:03:31.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/1437147890.jpg"
+        },
+        {
+          "title": "Beartooth’s Caleb Shomo Comes Out as Gay, Wife Responds After 14-Year Marriage",
+          "url": "https://www.billboard.com/culture/pride/beartooth-caleb-shomo-comes-out-as-gay-wife-reaction-1236255812",
+          "source": "Billboard",
+          "published_at": "2026-05-24T18:09:58.000Z"
+        },
+        {
+          "title": "Beartooth Singer Caleb Shomo Comes Out as ‘Proudly Gay Man’",
+          "url": "https://www.rollingstone.com/music/music-news/beartooth-singer-caleb-shomo-comes-out-proudly-gay-man-1235568057",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-24T17:23:35.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_49374b87da138e0f",
+      "label": [
+        "bid",
+        "uber",
+        "uber weigh",
+        "weigh higher",
+        "higher bid",
+        "delivery hero"
+      ],
+      "category": "new",
+      "theme": "theme_f1cdfa5d7e54a130",
+      "entities": [
+        "Sources",
+        "Uber",
+        "Delivery Hero",
+        "Financial Times",
+        "FT"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed (Financial Times)",
+          "url": "https://www.techmeme.com/260524/p11",
+          "source": "Techmeme",
+          "published_at": "2026-05-24T20:55:00.000Z",
+          "image": "http://www.techmeme.com/260524/i11.jpg"
+        },
+        {
+          "title": "Uber weighs higher bid for Delivery Hero after €11.5bn offer rebuffed",
+          "url": "https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b",
+          "source": "International homepage",
+          "published_at": "2026-05-24T19:29:04.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2b6e667-12f4-4ae7-a1ae-72ba388f37cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "title": "Uber weighs higher bid for Delivery Hero, FT reports",
+          "url": "https://www.investing.com/news/stock-market-news/uber-weighs-higher-bid-for-delivery-hero-ft-reports-4708228",
+          "source": "All News",
+          "published_at": "2026-05-24T17:48:31.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N0SM_L.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_715a5dd5b3796edb",
+      "label": [
+        "kayode",
+        "present",
+        "credence",
+        "present letter",
+        "letter credence",
+        "credence trump"
+      ],
+      "category": "new",
+      "theme": "theme_9e6859f73d3c476a",
+      "entities": [
+        "Kayode Aare",
+        "Trump",
+        "Nigeria",
+        "US",
+        "PHOTOS"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Kayode Aare presents letter of credence to Trump, assumes duty as Nigeria’s envoy to US",
+          "url": "https://www.premiumtimesng.com/foreign/world-foreign/882535-kayode-aare-presents-letter-of-credence-to-trump-assumes-duty-as-nigerias-envoy-to-us.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-05-24T21:48:31.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/5d5a6033-d55c-4cef-978a-b93fa5c06b77.jpeg?fit=1600%2C1066&amp;ssl=1"
+        },
+        {
+          "title": "PHOTOS: Kayode Are assumes office as ambassador to US, presents letter of credence to Trump",
+          "url": "https://www.nigerianeye.com/2026/05/photos-kayode-are-assumes-office-as.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-24T17:54:19.541Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0_BqGvPkGSqDHcGYEUniavHFBAganpdXyjeMB1pwbKI8QVp7P3H297Iev3UkFqDO1C-8M4WfhZTt3eOxP4DPH98sCL6jgMjqvXX6LcxpMKGIog7HmNaTRIKT5hfKVgV6zUMnkZSSQGIGV3QFAeswDdKdkktX7Yl9SqAGAxfeyxnw40B1gK7hXS63xy6R_/s72-w400-h266-c/kayode%20are,%20trump.jpeg"
+        },
+        {
+          "title": "Nigerian Ambassador-designate to US, Kayode Are presents letter of credence to Trump",
+          "url": "https://dailypost.ng/2026/05/24/nigerian-ambassador-designate-to-us-kayode-are-presents-letter-of-credence-to-trump",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-24T17:10:37.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/05/IMG_9508.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_dd45da348d11eea7",
+      "label": [
+        "se salva",
+        "salva",
+        "desciende",
+        "salva tottenham",
+        "tottenham desciende",
+        "desciende west"
+      ],
+      "category": "new",
+      "theme": "theme_c47b6bfbfedf5494",
+      "entities": [
+        "Se",
+        "Tottenham",
+        "West Ham",
+        "Premier League"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Se salva Tottenham; desciende West Ham",
+          "url": "https://www.reforma.com/se-salva-tottenham-desciende-west-ham/ar3209806",
+          "source": "Reforma",
+          "published_at": "2026-05-24T18:03:22.000Z"
+        },
+        {
+          "title": "Se salva Tottenham; desciende West Ham",
+          "url": "https://www.elnorte.com/se-salva-tottenham-desciende-west-ham/ar3209798",
+          "source": "ElNorte",
+          "published_at": "2026-05-24T17:58:35.000Z"
+        },
+        {
+          "title": "Premier League: Tottenham se salva del descenso; West Ham pierde la categoría",
+          "url": "https://www.informador.mx/deportes/premier-league-tottenham-se-salva-del-descenso-west-ham-pierde-la-categoria-20260524-0063.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-24T17:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_f1886de8e872b7b3",
+      "label": [
+        "turkish",
+        "turkish police",
+        "police storm",
+        "main opposition",
+        "opposition chp",
+        "chp party"
+      ],
+      "category": "new",
+      "theme": "theme_b3cc5ba109b07e8c",
+      "entities": [
+        "Turkish",
+        "CHP",
+        "AP News"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Turkish police storm offices of main opposition CHP party, firing tear gas and rubber bullets",
+          "url": "https://japantoday.com/category/world/turkey%e2%80%99s-main-opposition-party-in-standoff-over-court-ordered-leadership",
+          "source": "Japan Today",
+          "published_at": "2026-05-24T21:13:46.000Z"
+        },
+        {
+          "title": "Turkish police storm offices of main opposition CHP party, firing tear gas and rubber bullets - AP News",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxplw81wmxctg9intvnzljoztzqylpdsmreyvrqtdqzrjlum1n4dwtnalj0qlfzq2dpc2ffdkv5x0hybw5znfvnt0nrcglntuperwh0uy1umlppqjvpdk5nctu4unbpylvudf9nwvbzblffbhawz3ltrlg5mnhlskplqnnualowv0ltsezrmhzhrxg1bfnn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-24T17:47:00.000Z"
+        },
+        {
+          "title": "Turkish police storm main opposition CHP’s party headquarters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-24T16:28:19.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_dc7c03a13d67587e",
+      "label": [
+        "sift",
+        "dormitory",
+        "forensic expert",
+        "expert sift",
+        "forensic",
+        "expert"
+      ],
+      "category": "new",
+      "theme": "theme_adb795ad65ce766",
+      "entities": [
+        "Forensic",
+        "Russian",
+        "Luhansk"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Forensic experts sift through drone hit dormitory",
+          "url": "https://www.perthnow.com.au/news/conflict/forensic-experts-sift-through-drone-hit-dormitory-c-22330455",
+          "source": "PerthNow",
+          "published_at": "2026-05-24T19:24:33.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22330455/88042daa528e9e11fb31e6840ec9a141c519c894-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Forensic experts sift through drone hit dormitory",
+          "url": "https://michaelwest.com.au/forensic-experts-sift-through-drone-hit-dormitory",
+          "source": "Michael West",
+          "published_at": "2026-05-24T19:22:07.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/69112663-4fdc-4555-b202-37c780a360b9.jpg"
+        },
+        {
+          "title": "Forensic experts sift through ruined dormitory in Russian-held Luhansk region",
+          "url": "https://www.investing.com/news/world-news/forensic-experts-sift-through-ruined-dormitory-in-russianheld-luhansk-region-4708225",
+          "source": "All News",
+          "published_at": "2026-05-24T17:00:34.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N0RH_L.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_22f037b080df81fb",
+      "label": [
+        "star wars",
+        "wars",
+        "grogu",
+        "mandalorian grogu",
+        "mandalorian",
+        "star"
+      ],
+      "category": "new",
+      "theme": "theme_75c3b17e35c935ad",
+      "entities": [
+        "Star Wars",
+        "The Mandalorian",
+        "Grogu",
+        "Grogu Opened",
+        "Estimated"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Star Wars franchise in serious trouble as 'The Mandalorian and Grogu' disappoints in opening box office",
+          "url": "https://www.foxnews.com/outkick-analysis/star-wars-franchise-serious-trouble-mandalorian-grogu-disappoints-opening-box-office",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-24T22:54:07.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jon-favreau-star-wars-mandalorian-fox-news-001.jpeg?ve=1&tl=1"
+        },
+        {
+          "title": "Star Wars: The Mandalorian and Grogu Opened to an Estimated $165 Million at the Box Office",
+          "url": "https://www.ign.com/articles/star-wars-the-mandalorian-and-grogu-opened-to-an-estimated-165-million-at-the-box-office",
+          "source": "IGN Articles",
+          "published_at": "2026-05-24T19:08:54.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/05/24/mando-1779649684804.jpg"
+        },
+        {
+          "title": "Disney's 'Star Wars: The Mandalorian and Grogu' Opens to 'Mixed' Box Office Results",
+          "url": "https://entertainment.slashdot.org/story/26/05/24/1841202/disneys-star-wars-the-mandalorian-and-grogu-opens-to-mixed-box-office-results",
+          "source": "Slashdot",
+          "published_at": "2026-05-24T18:42:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+        },
+        {
+          "title": "‘Mandalorian and Grogu’ Tops Box Office as Disney Bets on ‘Star Wars’ Revival",
+          "url": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-24T17:33:34.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/22/multimedia/BIZ-BOXOFFICE-Mandalorian-01-lgbk/BIZ-BOXOFFICE-Mandalorian-01-lgbk-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "‘Mandalorian and Grogu’ Tops Box Office as Disney Bets on ‘Star Wars’ Revival - The New York Times",
+          "url": "https://news.google.com/rss/articles/cbmikafbvv95cuxqcldtsmfhauhos1p6sni0ykhwmhrrngdry1a4mkjtsji4t0xmx3n1ehhwvxz3z3dhnlbrc1h6cfvcafzuauliyjjfnmrycwfnwuhznvztznlfd2dir0ltsxn3ewpzafrnb2zjrxl4wgjdbzy3dknyn0wwagrir2jmmfztcv96u1fktkxmr1rinmy",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-24T17:33:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_1ab0ec8752a216a4",
+      "label": [
+        "defence",
+        "secretary",
+        "defence secretary",
+        "raf",
+        "raf jet",
+        "jet carry"
+      ],
+      "category": "new",
+      "theme": "theme_3666a1af2c1ef921",
+      "entities": [
+        "GPS",
+        "RAF",
+        "UK",
+        "Russian",
+        "Russia"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
+          "url": "https://www.theguardian.com/world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-05-24T22:40:17.000Z",
+          "image": "https://i.guim.co.uk/img/media/a7659f425778399c639789313699d289dea90807/363_0_6623_5299/master/6623.jpg?width=140&quality=85&auto=format&fit=max&s=8d2a5aaee3d871a7200253ab8eb329f9"
+        },
+        {
+          "title": "GPS signals of RAF jet carrying defence secretary ‘jammed by Russia’",
+          "url": "https://www.independent.co.uk/news/uk/politics/russia-john-healey-mod-raf-b2982901.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-24T22:38:45.000Z",
+          "image": "https://static.independent.co.uk/2026/05/24/22/2277572327..?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Russia ‘jams’ GPS signal of RAF jet carrying UK Defence Secretary in mid-air attack above the Black Sea",
+          "url": "https://www.thesun.co.uk/news/39210764/russia-jams-raf-jet-uk-defence-secretary-black-sea",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-05-24T22:22:14.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2F2026-members-uk-armed-forces-1082674992.jpg?quality%3D90%26strip%3Dall"
+        },
+        {
+          "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+          "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro",
+          "source": "BBC News",
+          "published_at": "2026-05-24T21:30:13.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6e/live/5649ddc0-57b3-11f1-96df-91543f9dfe88.jpg"
+        },
+        {
+          "title": "Russia 'jams signals of RAF jet carrying the defence secretary' - knocking out its GPS for entire three-hour flight in latest terrifying incident",
+          "url": "https://www.dailymail.com/news/article-15845179/russia-jams-signals-raf-jet-carrying-defence-secretary-knocking-gps-entire-three-hour-flight-latest-terrifying-incident.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-24T20:27:24.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/24/21/108838705-0-image-a-11_1779653376787.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_3ba484006c1d0a61",
+      "label": [
+        "javier",
+        "coello",
+        "trejo",
+        "javier coello",
+        "coello trejo",
+        "fallece"
+      ],
+      "category": "new",
+      "theme": "theme_c2e195d767c4eb4c",
+      "entities": [
+        "Fallece Javier Coello Trejo",
+        "Fiscal",
+        "Hierro",
+        "El Fiscal",
+        "Fallece"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Fallece Javier Coello Trejo, ‘Fiscal de Hierro’ exprocurador de México",
+          "url": "https://vanguardia.com.mx/noticias/fallece-javier-coello-trejo-fiscal-de-hierro-exprocurador-de-mexico-il20909414",
+          "source": "Vanguardia",
+          "published_at": "2026-05-24T19:38:52.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/988784-foro-coparmex-web_1-15531369_20260524194223.jpg"
+        },
+        {
+          "title": "Fallece Javier Coello Trejo, \"El Fiscal de Hierro\"",
+          "url": "https://www.informador.mx/mexico/fallece-javier-coello-trejo-el-fiscal-de-hierro-20260524-0067.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-24T19:12:00.000Z"
+        },
+        {
+          "title": "Fallece el abogado Javier Coello Trejo, representante de Emilio Lozoya y el exgobernador Cabeza de Vaca",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/fallece-el-abogado-javier-coello-trejo-representante-de-emilio-lozoya-y-el-exgobernador-cabeza-de-vaca.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-05-24T18:59:41.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2013961.jpeg"
+        },
+        {
+          "title": "Fallece el abogado Javier Coello Trejo",
+          "url": "https://www.elnorte.com/fallece-el-abogado-javier-coello-trejo/ar3209819",
+          "source": "ElNorte",
+          "published_at": "2026-05-24T18:30:56.000Z"
+        },
+        {
+          "title": "Falleci� el abogado Javier Coello Trejo",
+          "url": "https://www.reforma.com/fallecio-el-abogado-javier-coello-trejo/ar3209816",
+          "source": "Reforma",
+          "published_at": "2026-05-24T18:30:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_81cdf9db5d48d4a8",
+      "label": [
+        "un",
+        "autour",
+        "cou",
+        "autour du",
+        "du cou",
+        "du"
+      ],
+      "category": "new",
+      "theme": "theme_361410eb9125d7cf",
+      "entities": [
+        "Rennes",
+        "Vilaine",
+        "Macabre",
+        "France",
+        "Terrible"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "A Rennes, enquête ouverte après la découverte du corps d’un garçon de 12 ans avec une serviette nouée autour du cou",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/24/a-rennes-enquete-ouverte-apres-la-decouverte-du-corps-d-un-garcon-de-12-ans-avec-une-serviette-de-bain-nouee-autour-du-cou_6693260_3224.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-05-24T21:46:33.000Z",
+          "image": "https://img.lemde.fr/2026/05/24/519/0/3366/1683/644/322/60/0/28ace01_ftp-1-rbida65esmto-5134019-01-06.jpg"
+        },
+        {
+          "title": "Rennes : un jeune garçon de 12 ans retrouvé mort au bord de la Vilaine, une serviette autour du cou, enquête ouverte pour meurtre",
+          "url": "https://www.sudouest.fr/faits-divers/rennes-un-jeune-garcon-de-12-ans-retrouve-mort-au-bord-de-la-vilaine-une-serviette-autour-du-cou-enquete-ouverte-pour-meurtre-29214925.php",
+          "source": "L'essentiel",
+          "published_at": "2026-05-24T19:41:26.000Z"
+        },
+        {
+          "title": "Macabre découverte en France: un enfant retrouvé mort avec un linge autour du cou dans un buisson",
+          "url": "https://www.dhnet.be/actu/monde/2026/05/24/macabre-decouverte-en-france-un-enfant-retrouve-mort-avec-un-linge-autour-du-cou-dans-un-buisson-vw7eaakemrf3tnc5w3q5cowsc4",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-05-24T19:25:02.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/RELIUITVARDCZKSWW4JHDHFJIE.jpg?auth=b474df13b9176d24e960c91ac6e77b28a92dbf2d269aadb232f9dc54131b89af&smart=true&width=1200&height=800"
+        },
+        {
+          "title": "Terrible découverte à Rennes : un enfant de 12 ans retrouvé mort, une \"serviette de bain mouillée\" serrée autour du cou, une enquête pour \"meurtre\" ouverte",
+          "url": "https://www.ladepeche.fr/2026/05/24/terrible-decouverte-a-rennes-un-enfant-de-12-ans-retrouve-mort-une-serviette-de-bain-mouillee-serree-autour-du-cou-une-enquete-pour-meurtre-ouverte-13386654.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-05-24T19:23:37.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a134feeb95a86e3c20a2d3a/standard/image.jpg?v=2"
+        },
+        {
+          "title": "Un enfant de 12 ans retrouvé mort au pied d’un immeuble à Rennes, une serviette serrée autour du cou",
+          "url": "https://www.franceinfo.fr/france/bretagne/ille-et-vilaine/rennes/un-enfant-de-12-ans-retrouve-mort-au-pied-d-un-immeuble-a-rennes-une-serviette-serree-autour-du-cou_8025443.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-05-24T19:11:19.000Z",
+          "image": "https://www.franceinfo.fr/pictures/9bLDYBwiZUiPlXpeoLMk2CfF0oc/0x106:1024x682/432x243/filters:format(jpg)/2026/04/21/69e7a4c02afb5210457246.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_36278fa2c59e68a1",
+      "label": [
+        "champion league",
+        "champion",
+        "como qualify",
+        "qualify champion",
+        "league first",
+        "first time"
+      ],
+      "category": "new",
+      "theme": "theme_3732d65204f325c1",
+      "entities": [
+        "Como",
+        "Champions League",
+        "Serie",
+        "Shock",
+        "AC Milan"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Como qualify for Champions League for first time",
+          "url": "https://sports.yahoo.com/articles/como-qualify-champions-league-first-214824497.html",
+          "published_at": "2026-05-24T23:02:48.000Z"
+        },
+        {
+          "title": "Serie A Shock: AC Milan and Juventus Stumble Out of Champions League Race in Season Finale Catastrophe",
+          "url": "https://internewscast.com/sport/serie-a-shock-ac-milan-and-juventus-stumble-out-of-champions-league-race-in-season-finale-catastrophe",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-24T21:53:26.000Z"
+        },
+        {
+          "title": "Como qualify for Champions League for first time while AC Milan & Juventus miss out",
+          "url": "https://www.bbc.com/news/articles/ce8p4jj3d06o",
+          "source": "BBC Sport",
+          "published_at": "2026-05-24T21:48:17.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae2/live/242bd4c0-57b7-11f1-8b90-4f371746fc22.jpg"
+        },
+        {
+          "title": "Serie A: AC Milan, Juventus miss out on Champions League next season in disastrous final day of season",
+          "url": "https://www.cbssports.com/soccer/news/serie-a-ac-milan-juventus-miss-out-on-champions-league-2026",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-24T21:38:06.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/24/4ffc92de-6cee-4f73-b4d2-bdebdc2f6d89/pulisic-7.jpg"
+        }
+      ]
+    }
+  ]
+}
