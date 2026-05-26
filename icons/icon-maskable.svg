@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Blue background fills the entire canvas (works with any mask shape) -->
+  <rect width="512" height="512" fill="#0057d8"/>
+
+  <!-- Newspaper body — scaled to fit inside the maskable safe zone (center 80% = 408x408, offset 52,52) -->
+  <rect x="116" y="116" width="280" height="280" rx="16" fill="white"/>
+
+  <!-- Blue headline bar -->
+  <rect x="138" y="140" width="236" height="38" rx="6" fill="#0057d8"/>
+
+  <!-- Subheadline -->
+  <rect x="138" y="192" width="140" height="13" rx="4" fill="#b3cbef"/>
+
+  <!-- Article text lines -->
+  <rect x="138" y="218" width="236" height="10" rx="3" fill="#dce8f8"/>
+  <rect x="138" y="235" width="220" height="10" rx="3" fill="#dce8f8"/>
+  <rect x="138" y="252" width="236" height="10" rx="3" fill="#dce8f8"/>
+  <rect x="138" y="269" width="165" height="10" rx="3" fill="#dce8f8"/>
+
+  <!-- Horizontal rule -->
+  <rect x="138" y="293" width="236" height="2" fill="#d0dff4"/>
+
+  <!-- Second headline -->
+  <rect x="138" y="308" width="160" height="13" rx="4" fill="#b3cbef"/>
+
+  <!-- Second article text lines -->
+  <rect x="138" y="334" width="236" height="10" rx="3" fill="#dce8f8"/>
+  <rect x="138" y="351" width="200" height="10" rx="3" fill="#dce8f8"/>
+  <rect x="138" y="368" width="236" height="10" rx="3" fill="#dce8f8"/>
+
+  <!-- Dog-ear fold -->
+  <polygon points="288,116 396,116 396,168" fill="#c5d9f5"/>
+  <polygon points="288,116 288,168 396,168" fill="white" opacity="0.35"/>
+</svg>
