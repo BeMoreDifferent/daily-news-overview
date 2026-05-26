@@ -1,6 +1,5 @@
 import http from 'node:http';
 import https from 'node:https';
-import { StringDecoder } from 'node:string_decoder';
 import Parser from 'rss-parser';
 import { DEFAULT_FEED_TIMEOUT_MS, DEFAULT_FEED_DEADLINE_MS } from '../config.js';
 import { hash64 } from '../utils/hash.js';
@@ -85,8 +84,7 @@ function fetchXmlOnce(url, redirectCount) {
         settle(Object.assign(new Error(`HTTP ${res.statusCode}`), { code: `HTTP_${res.statusCode}` }));
         return;
       }
-      const decoder = new StringDecoder('utf8');
-      const parts = [];
+      const rawChunks = [];
       let received = 0;
       const MAX_BYTES = 5 * 1024 * 1024;
       res.on('data', chunk => {
@@ -95,9 +93,37 @@ function fetchXmlOnce(url, redirectCount) {
           settle(Object.assign(new Error('Response too large'), { code: 'EFBIG' }));
           return;
         }
-        parts.push(decoder.write(chunk));
+        rawChunks.push(chunk);
       });
-      res.on('end', () => settle(null, parts.join('') + decoder.end()));
+      res.on('end', () => {
+        const raw = Buffer.concat(rawChunks);
+        // Detect encoding: prefer XML declaration, fall back to Content-Type header.
+        // Sniff first 400 bytes as ASCII to read the <?xml ...?> prolog.
+        const prolog = raw.slice(0, 400).toString('ascii');
+        const xmlEncMatch = prolog.match(/encoding=["']([^"']+)["']/i);
+        let charset = 'utf-8';
+        if (xmlEncMatch) {
+          charset = xmlEncMatch[1].toLowerCase();
+        } else {
+          const ct = res.headers['content-type'] || '';
+          const ctMatch = ct.match(/charset=([^\s;]+)/i);
+          if (ctMatch) charset = ctMatch[1].toLowerCase();
+        }
+        // Normalise latin-1 alias — browsers/servers often declare iso-8859-1
+        // but serve windows-1252 (a superset). TextDecoder accepts both names.
+        let text;
+        try {
+          text = new TextDecoder(charset, { fatal: true }).decode(raw);
+        } catch {
+          // Fallback: re-decode as windows-1252 (covers latin-1 and most 8-bit feeds)
+          try {
+            text = new TextDecoder('windows-1252', { fatal: false }).decode(raw);
+          } catch {
+            text = raw.toString('utf8');
+          }
+        }
+        settle(null, text);
+      });
       res.on('error', err => settle(err));
     });
     req.on('error', err => settle(err));
