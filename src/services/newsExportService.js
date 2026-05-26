@@ -57,6 +57,7 @@ function buildArticleObj(row) {
       : new Date(row.published_at).toISOString();
   }
   if (row.image_url) obj.image = row.image_url;
+  if (row.summary) obj.description = row.summary;
   return obj;
 }
 

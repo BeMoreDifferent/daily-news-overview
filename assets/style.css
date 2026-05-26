@@ -9,6 +9,8 @@
   --font: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
   --mono: "SF Mono", "Fira Mono", "Menlo", monospace;
   --max-w: 720px;
+  --img-w: 240px;
+  --img-h: 160px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -129,7 +131,7 @@ main {
 /* ── Topic ── */
 
 .topic {
-  padding: 24px 0;
+  padding: 28px 0;
   border-bottom: 1px solid var(--border);
 }
 
@@ -138,22 +140,14 @@ main {
 }
 
 .topic-header {
-  margin-bottom: 10px;
-}
-
-.topic-label {
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--fg-muted);
-  font-weight: 600;
+  margin-bottom: 12px;
 }
 
 .topic-title {
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 700;
-  margin: 2px 0 4px;
   color: var(--fg);
+  margin-bottom: 3px;
 }
 
 .topic-meta {
@@ -165,24 +159,26 @@ main {
   content: " · ";
 }
 
-/* ── Article ── */
+/* ── Lead Article ── */
 
 .article {
   display: flex;
-  gap: 14px;
+  gap: 16px;
   align-items: flex-start;
+  margin-bottom: 16px;
 }
 
 .article-image {
   flex-shrink: 0;
-  width: 120px;
+  width: var(--img-w);
 }
 
 .article-image img {
   display: block;
-  width: 120px;
-  height: 80px;
+  width: var(--img-w);
+  height: var(--img-h);
   object-fit: cover;
+  border-radius: 4px;
 }
 
 .article-body {
@@ -191,7 +187,8 @@ main {
 }
 
 .article-title {
-  font-size: 0.95rem;
+  font-size: 1rem;
+  font-weight: 600;
   line-height: 1.45;
   margin-bottom: 5px;
 }
@@ -208,10 +205,75 @@ main {
 .article-source {
   font-size: 0.78rem;
   color: var(--fg-muted);
+  margin-bottom: 8px;
 }
 
 .article-source span + span::before {
   content: " · ";
+}
+
+.article-description {
+  font-size: 0.88rem;
+  color: var(--fg-muted);
+  line-height: 1.55;
+  /* Clamp to 3 lines to keep cards manageable */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Links list ── */
+
+.article-links {
+  list-style: none;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.article-link-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0;
+  min-width: 0;
+  font-size: 0.84rem;
+  line-height: 1.4;
+  overflow: hidden;
+}
+
+/* Source badge */
+.link-source {
+  flex-shrink: 0;
+  color: var(--fg-muted);
+  font-weight: 600;
+  white-space: nowrap;
+  margin-right: 6px;
+}
+
+.link-source::after {
+  content: " ·";
+  font-weight: 400;
+}
+
+/* Title — truncates dynamically to fill remaining line width */
+.link-title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.link-title a {
+  color: var(--fg);
+}
+
+.link-title a:hover {
+  color: var(--accent);
+  text-decoration: none;
 }
 
 /* ── Footer ── */
@@ -267,12 +329,32 @@ footer {
 
 /* ── Responsive ── */
 
-@media (max-width: 520px) {
-  .article-image {
-    width: 80px;
+/* Medium screens: shrink image slightly */
+@media (max-width: 600px) {
+  :root {
+    --img-w: 160px;
+    --img-h: 108px;
   }
+}
+
+/* Small screens: stack image above text */
+@media (max-width: 460px) {
+  :root {
+    --img-w: 100%;
+    --img-h: 180px;
+  }
+
+  .article {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .article-image {
+    width: 100%;
+  }
+
   .article-image img {
-    width: 80px;
-    height: 54px;
+    width: 100%;
+    height: var(--img-h);
   }
 }

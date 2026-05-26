@@ -60,7 +60,7 @@ function makeDbAdapter(conn) {
     async getArticlesForTopic(topicId, limit = 5) {
       const esc = v => String(v ?? '').replace(/'/g, '\'\'');
       const reader = await conn.runAndReadAll(`
-        SELECT a.title, a.url, a.feed_title, a.published_at, a.image_url
+        SELECT a.title, a.url, a.feed_title, a.published_at, a.image_url, a.summary
         FROM topic_articles ta
         JOIN articles a ON a.url_hash = ta.url_hash
         WHERE ta.topic_id = '${esc(topicId)}' AND a.title IS NOT NULL

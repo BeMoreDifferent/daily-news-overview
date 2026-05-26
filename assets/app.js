@@ -84,6 +84,23 @@ function capitalize(str) {
   return str ? str.charAt(0).toUpperCase() + str.slice(1) : str;
 }
 
+/** Shorten a source name that is overly verbose (e.g. full RSS feed title) */
+function shortSource(source) {
+  if (!source) return '';
+  // Split on common separators (em/en dash, pipe, colon, spaced hyphen)
+  const match = source.match(/^(.+?)\s*(?:\s[-–—|]\s|:\s*)\s*(.+)$/);
+  if (match) {
+    const left = match[1].trim();
+    const right = match[2].trim();
+    // Prefer whichever side looks like a real publication name (longer, not a generic word)
+    const candidate = left.length >= 5 ? left : right;
+    const result = candidate.length > 40 ? candidate.slice(0, 38) + '…' : candidate;
+    return result;
+  }
+  // No separator found — hard-truncate if needed
+  return source.length > 40 ? source.slice(0, 38) + '…' : source;
+}
+
 function renderTopics(data, content) {
   document.getElementById('footer-meta').textContent =
     `Generated ${new Date(data.generated_at).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' })} UTC`;
@@ -97,18 +114,16 @@ function renderTopics(data, content) {
 
   for (const topic of data.topics) {
     if (!topic.articles || topic.articles.length === 0) continue;
-    const article = topic.articles[0];
+
+    // Pick the best lead article: prefer one with an image
+    const lead = topic.articles.find(a => a.image) || topic.articles[0];
 
     const section = document.createElement('section');
     section.className = 'topic';
 
-    // Topic header
+    // ── Topic header ──────────────────────────────────
     const header = document.createElement('div');
     header.className = 'topic-header';
-
-    const labelEl = document.createElement('div');
-    labelEl.className = 'topic-label';
-    labelEl.textContent = (topic.label || []).join(', ');
 
     const titleEl = document.createElement('div');
     titleEl.className = 'topic-title';
@@ -117,27 +132,24 @@ function renderTopics(data, content) {
     const metaEl = document.createElement('div');
     metaEl.className = 'topic-meta';
 
-    const cat = document.createElement('span');
-    cat.textContent = topic.category || '';
-
     const sources = document.createElement('span');
     sources.textContent = `${topic.source_count} source${topic.source_count !== 1 ? 's' : ''}`;
 
     const count = document.createElement('span');
     count.textContent = `${topic.article_count} article${topic.article_count !== 1 ? 's' : ''}`;
 
-    metaEl.append(cat, sources, count);
-    header.append(labelEl, titleEl, metaEl);
+    metaEl.append(sources, count);
+    header.append(titleEl, metaEl);
 
-    // Article
+    // ── Lead article ──────────────────────────────────
     const articleEl = document.createElement('div');
     articleEl.className = 'article';
 
-    if (article.image) {
+    if (lead.image) {
       const imgWrap = document.createElement('div');
       imgWrap.className = 'article-image';
       const img = document.createElement('img');
-      img.src = article.image;
+      img.src = lead.image;
       img.alt = '';
       img.loading = 'lazy';
       imgWrap.appendChild(img);
@@ -147,30 +159,32 @@ function renderTopics(data, content) {
     const body = document.createElement('div');
     body.className = 'article-body';
 
+    // Title
     const titleWrap = document.createElement('div');
     titleWrap.className = 'article-title';
 
-    if (article.url) {
+    if (lead.url) {
       const link = document.createElement('a');
-      link.href = article.url;
+      link.href = lead.url;
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
-      link.textContent = article.title;
+      link.textContent = lead.title;
       titleWrap.appendChild(link);
     } else {
-      titleWrap.textContent = article.title;
+      titleWrap.textContent = lead.title;
     }
 
+    // Source + time
     const sourceEl = document.createElement('div');
     sourceEl.className = 'article-source';
 
-    if (article.source) {
+    if (lead.source) {
       const src = document.createElement('span');
-      src.textContent = article.source;
+      src.textContent = shortSource(lead.source);
       sourceEl.appendChild(src);
     }
 
-    const t = formatTime(article.published_at);
+    const t = formatTime(lead.published_at);
     if (t) {
       const time = document.createElement('span');
       time.textContent = t;
@@ -178,9 +192,51 @@ function renderTopics(data, content) {
     }
 
     body.append(titleWrap, sourceEl);
+
+    // Description (if available)
+    if (lead.description) {
+      const descEl = document.createElement('p');
+      descEl.className = 'article-description';
+      descEl.textContent = lead.description;
+      body.appendChild(descEl);
+    }
+
     articleEl.appendChild(body);
 
-    section.append(header, articleEl);
+    // ── Links list (all articles) ─────────────────────
+    const linksEl = document.createElement('ul');
+    linksEl.className = 'article-links';
+
+    for (const art of topic.articles) {
+      const li = document.createElement('li');
+      li.className = 'article-link-item';
+
+      if (art.source) {
+        const srcSpan = document.createElement('span');
+        srcSpan.className = 'link-source';
+        srcSpan.textContent = shortSource(art.source);
+        li.appendChild(srcSpan);
+      }
+
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'link-title';
+
+      if (art.url) {
+        const a = document.createElement('a');
+        a.href = art.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = art.title;
+        titleSpan.appendChild(a);
+      } else {
+        titleSpan.textContent = art.title;
+      }
+
+      li.appendChild(titleSpan);
+      linksEl.appendChild(li);
+    }
+
+    section.append(header, articleEl, linksEl);
     frag.appendChild(section);
   }
 
