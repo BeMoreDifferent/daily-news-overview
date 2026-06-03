@@ -1,0 +1,918 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-03T00:15:24.887Z",
+  "topics": [
+    {
+      "id": "topic_1db67514d9c20b1e",
+      "label": [
+        "reschedul",
+        "dinner",
+        "correspondent",
+        "correspondent dinner",
+        "white house",
+        "white"
+      ],
+      "category": "new",
+      "theme": "theme_effa6940924f2ed2",
+      "entities": [
+        "Trump",
+        "White House",
+        "Attend Rescheduled White House",
+        "Correspondents",
+        "Dinner"
+      ],
+      "article_count": 18,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Trump to speak at rescheduled White House correspondents' dinner",
+          "url": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-02T21:42:46.000Z",
+          "image": "https://s.france24.com/media/display/397aa5ae-441b-11f1-891d-005056bf30b7/w:1024/p:16x9/AP26116100136492.jpg"
+        },
+        {
+          "title": "Trump to Attend Rescheduled White House Correspondents’ Dinner",
+          "url": "https://www.dailysignal.com/2026/06/02/trump-white-house-correspondents",
+          "source": "The Daily Signal",
+          "published_at": "2026-06-02T21:40:00.000Z",
+          "image": "https://static.dailysignalmedia.org/260602-Donald_Melania_Trump_WHCD.jpg"
+        },
+        {
+          "title": "Trump to attend rescheduled White House correspondents' dinner on July 24",
+          "url": "https://www.indiatoday.in/world/story/donald-trump-white-house-correspondents-dinner-july-24-rescheduled-whca-event-2921129-2026-06-03",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-02T21:05:34.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/donald-trump-023100568-16x9_1.png?VersionId=IRJnRxOz4830U3RECippkGH1ueJBsxQN"
+        },
+        {
+          "title": "Trump to attend new White House press gala after shooting",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/02/trump-to-attend-new-white-house-press-gala-after-shooting_6754064_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-02T20:19:41.000Z",
+          "image": "https://img.lemde.fr/2026/06/02/344/0/7878/3939/644/322/60/0/530cb4a_ftp-1-m8i23lj9bjcp-5206400-01-06.jpg"
+        },
+        {
+          "title": "Trump to speak at the rescheduled White House Correspondents' Dinner (Megan Lebowitz/NBC News)",
+          "url": "https://www.memeorandum.com/260602/p78",
+          "source": "memeorandum",
+          "published_at": "2026-06-02T20:05:02.000Z",
+          "image": "http://www.memeorandum.com/260602/i78.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_dfe50cb3ef845d73",
+      "label": [
+        "police",
+        "bodycam",
+        "bodycam footage",
+        "footage",
+        "victim told",
+        "told police"
+      ],
+      "category": "new",
+      "theme": "theme_c6826c499573b649",
+      "entities": [
+        "Stabbing",
+        "Murder",
+        "Charlotte Coles",
+        "BBC",
+        "Protesters"
+      ],
+      "article_count": 13,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
+          "url": "https://www.brisbanetimes.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-02T22:21:32.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+        },
+        {
+          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
+          "url": "https://www.smh.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-02T22:21:32.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+        },
+        {
+          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
+          "url": "https://www.theage.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-02T22:21:32.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+        },
+        {
+          "title": "Murder victim told police 'I can't breathe' while handcuffed (Charlotte Coles/BBC)",
+          "url": "https://www.memeorandum.com/260602/p95",
+          "source": "memeorandum",
+          "published_at": "2026-06-02T21:45:00.000Z",
+          "image": "http://www.memeorandum.com/260602/i95.jpg"
+        },
+        {
+          "title": "Protesters clash with police in Southampton over Henry Nowak murder",
+          "url": "https://www.theguardian.com/uk-news/2026/jun/02/protesters-clash-with-police-in-southampton-over-henry-nowak",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-02T21:03:23.000Z",
+          "image": "https://i.guim.co.uk/img/media/a0e8830a3e4e91f1233e4bc0564e592957be3698/142_0_5426_4341/master/5426.jpg?width=140&quality=85&auto=format&fit=max&s=c30b951e02b668afb133ab4a2feed70c"
+        }
+      ]
+    },
+    {
+      "id": "topic_fca424b2a63b3bbf",
+      "label": [
+        "tomb",
+        "tomb raider",
+        "raider",
+        "atlanti",
+        "raider legacy",
+        "legacy atlanti"
+      ],
+      "category": "new",
+      "theme": "theme_c98474d366d0aae1",
+      "entities": [
+        "Tomb Raider",
+        "Legacy Of Atlantis Jumps",
+        "Onto Switch",
+        "Next Year",
+        "Legacy"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Tomb Raider: Legacy Of Atlantis Jumps Onto Switch 2 Next Year",
+          "url": "https://www.nintendolife.com/news/2026/06/tomb-raider-legacy-of-atlantis-jumps-onto-switch-2-next-year",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-06-02T23:00:00.000Z",
+          "image": "https://images.nintendolife.com/b9b35dcb37811/large.jpg"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis confirmed for Nintendo Switch 2",
+          "url": "https://mynintendonews.com/2026/06/02/tomb-raider-legacy-of-atlantis-confirmed-for-nintendo-switch-2",
+          "source": "My Nintendo News",
+          "published_at": "2026-06-02T22:12:15.000Z"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis delayed to February 2027",
+          "url": "https://www.polygon.com/tomb-raider-legacy-of-atlantis-release-date-delay",
+          "source": "Polygon.com",
+          "published_at": "2026-06-02T21:42:20.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-02-172315.png"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
+          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gets-new-trailer-featuring-lara-natla-and-larson-as-well-as-slight-a-delay",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-06-02T21:37:39.000Z",
+          "image": "https://assetsio.gnwcdn.com/Lara-Croft-holds-her-two-pistols-at-arms-length-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=690&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis launches Feb 12, 2027 on PS5",
+          "url": "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5",
+          "source": "PlayStation.Blog",
+          "published_at": "2026-06-02T21:24:56.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_aa608f4814b99d4d",
+      "label": [
+        "du psg",
+        "la seine",
+        "psg",
+        "deux",
+        "seine",
+        "dans la"
+      ],
+      "category": "new",
+      "theme": "theme_1935f66665cc84ac",
+      "entities": [
+        "Victoire",
+        "PSG",
+        "Ligue",
+        "Champions",
+        "Seine"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Victoire du PSG en Ligue des Champions : deux personnes sont mortes après des chutes dans la Seine",
+          "url": "https://www.ouest-france.fr/societe/faits-divers/victoire-du-psg-en-ligue-des-champions-deux-personnes-sont-mortes-apres-des-chutes-dans-la-seine-1cdfb1bc-8bba-456b-b694-16f4fe74a99d",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-02T20:37:13.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2MTVmNzUxZmNhMjI5MjJjMDJiZGQ3OTk3MDRlM2QxOTI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5141f9e4a54461e44723177b55fe1feaf0dfb4f446020fbd0356b044aec0000c"
+        },
+        {
+          "title": "Victoire du PSG en Ligue des champions : trois morts à Paris, dont deux dans la Seine",
+          "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/victoire-psg-en-ligue-des-champions-trois-morts-a-paris-dont-deux-dans-la-seine_8041916.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-06-02T20:05:55.000Z",
+          "image": "https://www.franceinfo.fr/pictures/pqfwP8y3Ffi0nzJHyYeP_w6_Pbk/0x106:1024x682/432x243/filters:format(jpg)/2026/06/02/6a1f368142dc0815634524.jpg"
+        },
+        {
+          "title": "Célébration du sacre du PSG : deux personnes mortes après des chutes dans la Seine, un troisième accident mortel sur le périphérique parisien",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/02/celebration-du-sacre-du-psg-deux-personnes-mortes-apres-des-chutes-dans-la-seine-un-troisieme-accident-mortel-sur-le-peripherique-parisien_6696447_3224.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-02T19:28:31.000Z",
+          "image": "https://img.lemde.fr/2026/05/30/91/0/7180/3590/644/322/60/0/45ef694_ftp-1-zabje0gy8p2b-6ccc76742ed441b89c567829af2fd4f2-0-4e34dfcb28b14b8f9576eba404b9bb71.jpg"
+        },
+        {
+          "title": "Débordements à Paris après le sacre du PSG en Ligue des champions: deux personnes sont mortes dans la Seine",
+          "url": "https://www.dhnet.be/actu/monde/2026/06/02/debordements-a-paris-apres-le-sacre-du-psg-en-ligue-des-champions-deux-personnes-sont-mortes-dans-la-seine-4wnt55y7jbesteobs2bwvysvpe",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-06-02T19:25:55.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/AWZV44GDAFB57CNVNPGFTFZ524.jpg?auth=3ed888f4d9ad122a4daf6235b29f13f3fd6863d4a2aaf6114b95ad609a750471&smart=true&width=1200&height=800"
+        },
+        {
+          "title": "Violences après la victoire du PSG : deux décès dans la Seine à Paris en marge des célébrations",
+          "url": "https://www.sudouest.fr/sport/football/paris-saint-germain/violences-apres-la-victoire-du-psg-deux-deces-dans-la-seine-a-paris-en-marge-des-celebrations-29327374.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-02T19:25:19.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_7e9df0d4cfd34f5e",
+      "label": [
+        "le",
+        "disparition",
+        "disparition de",
+        "de",
+        "lyhanna",
+        "de lyhanna"
+      ],
+      "category": "new",
+      "theme": "theme_cb57670d2f2e1bfb",
+      "entities": [
+        "Disparition",
+        "Lyhanna",
+        "Gers",
+        "Dans",
+        "Lyannah"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Disparition de Lyhanna dans le Gers : une enfant de 10 ans violée, le suspect jamais entendu... ce que l’on sait de la plainte qui vise Jérôme B.",
+          "url": "https://www.ladepeche.fr/2026/06/02/disparition-de-lyhanna-dans-le-gers-une-enfant-de-10-ans-violee-le-suspect-jamais-entendu-ce-que-lon-sait-de-la-plainte-qui-vise-jerome-b-13400097.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-06-02T20:33:17.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a1f37c1cad6fbf1ac0ad332/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Dans l’affaire de la disparition de Lyhanna dans le Gers, le suspect faisait déjà l’objet d’une enquête pour viols sur mineure",
+          "url": "https://www.huffingtonpost.fr/france/article/dans-l-affaire-de-la-disparition-de-lyhanna-dans-le-gers-le-suspect-faisait-deja-l-objet-d-une-enquete-pour-viols-sur-mineure_264372.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-06-02T20:02:10.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/06/02/1272/1092/2367/1331/0/0/60/0/f937cd1_upload-1-m6vshu3cwowt-afp-20260601-b4kp4fz-v8-highres-francepoliceinvestigation.jpg"
+        },
+        {
+          "title": "Disparition de Lyhanna, 11 ans: l'homme soupçonné de l'enlèvement était visé par une plainte pour viols sur mineure",
+          "url": "https://www.dhnet.be/actu/monde/2026/06/02/disparition-de-lyhanna-11-ans-lhomme-soupconne-de-lenlevement-etait-vise-par-une-plainte-pour-viols-sur-mineure-rgw2oc6b3vehrb2blbyeqeikoa",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-06-02T19:21:26.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/FQOTW77VJ5F2BHHF6343B3POGM.jpg?auth=ea3f107ef6657fb4de5b43542629425db7fabe67c53afe0ff9c7ef729ff26f28&smart=true&width=1200&height=800"
+        },
+        {
+          "title": "Disparition de Lyhanna dans le Gers : le passé trouble du principal suspect remonte à la surface",
+          "url": "https://www.sudouest.fr/gers/disparition-de-lyhanna-dans-le-gers-le-passe-trouble-du-principal-suspect-remonte-a-la-surface-29326560.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-02T19:14:51.000Z"
+        },
+        {
+          "title": "Disparition de Lyannah : le suspect était déjà visé par une plainte pour viols déposée par une amie de sa fille en août",
+          "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/disparition-de-lyannah-le-suspect-etait-deja-vise-par-une-plainte-pour-viols-deposee-par-une-amie-de-sa-fille-en-aout-105e20e6-3b79-484b-a614-03dd82e0cfe2",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-02T18:53:05.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2YzI4YTZhNGI1NzI4OWUxYzhmMjBlNGI3ZmRjMWU2Njk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0b063d7d34fa887521997280317d9874d05e0d68ebdc5e8dab414dad14c5dc3f"
+        }
+      ]
+    },
+    {
+      "id": "topic_d6cd40a5c4eac1a8",
+      "label": [
+        "mundial en",
+        "cnte",
+        "en",
+        "del mundial",
+        "reforma",
+        "mundial"
+      ],
+      "category": "new",
+      "theme": "theme_ba8dd32e5b287fdb",
+      "entities": [
+        "CNTE",
+        "VANDALIZA",
+        "Paseo",
+        "Reforma",
+        "FOTOS"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "CNTE derriba y VANDALIZA figuras de futbolistas en Paseo de la Reforma (FOTOS)",
+          "url": "https://www.informador.mx/mexico/fotos--cnte-derriba-y-vandaliza-figuras-de-futbolistas-en-paseo-de-la-reforma-en-plena-ola-de-manifestaciones-a-dias-del-mundial-2026-20260602-0163.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-06-02T22:17:00.000Z"
+        },
+        {
+          "title": "La CNTE desnuda a ‘Gigantes del Mundial’ en Paseo de la Reforma",
+          "url": "https://vanguardia.com.mx/noticias/la-cnte-desnuda-a-gigantes-del-mundial-en-paseo-de-la-reforma-dd21112221",
+          "source": "Vanguardia",
+          "published_at": "2026-06-02T22:13:12.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/1084759-estatuas-futbol-derribadas-c_1-15645562_20260602224347.jpg"
+        },
+        {
+          "title": "Tiran y 'desnudan' figuras de futbolistas en protesta de CNTE",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/tiran-y-desnudan-figuras-de-futbolistas-en-protesta-de-cnte.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-06-02T20:59:14.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2016692.jpeg"
+        },
+        {
+          "title": "Derriba y vandaliza CNTE estatuas del Mundial en CDMX",
+          "url": "https://www.elnorte.com/derriba-y-vandaliza-cnte-estatuas-del-mundial-en-cdmx/ar3215057",
+          "source": "ElNorte",
+          "published_at": "2026-06-02T19:20:50.000Z"
+        },
+        {
+          "title": "Derriban y vandalizan estatuas del Mundial en Reforma",
+          "url": "https://www.reforma.com/derriban-y-vandalizan-estatuas-del-mundial-en-reforma/ar3215052",
+          "source": "Reforma",
+          "published_at": "2026-06-02T19:19:54.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_137ec455a2b3f350",
+      "label": [
+        "quantum",
+        "chip",
+        "quantum chip",
+        "microsoft",
+        "2029",
+        "useful"
+      ],
+      "category": "new",
+      "theme": "theme_27000b9e27680756",
+      "entities": [
+        "Microsoft",
+        "Majorana",
+        "AI",
+        "Stephen Nellis",
+        "Reuters"
+      ],
+      "article_count": 8,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Microsoft unveils Majorana 2 quantum chip, which was developed with the help of AI, and says it will have commercially useful quantum machines by 2029 (Stephen Nellis/Reuters)",
+          "url": "https://www.techmeme.com/260602/p51",
+          "source": "Techmeme",
+          "published_at": "2026-06-02T18:35:01.000Z",
+          "image": "http://www.techmeme.com/260602/i51.jpg"
+        },
+        {
+          "title": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029",
+          "url": "https://finance.yahoo.com/news/microsoft-reveals-quantum-chip-made-181651197.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-02T18:21:06.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/0cdfb5ffc5348ecbe711d4edd436209a"
+        },
+        {
+          "title": "Microsoft’s New Quantum Chip Aiming for Useful Machine in 2029",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-02T18:18:20.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijHZoZsEV744/v1/1200x-1.jpg"
+        },
+        {
+          "title": "Microsoft’s upgraded Majorana quantum computing chip fizzles with physicists",
+          "url": "https://www.scientificamerican.com/article/microsofts-upgraded-majorana-quantum-computing-chip-fizzles-with-physicists",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-06-02T18:15:00.000Z"
+        },
+        {
+          "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+          "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
+          "source": "The Verge",
+          "published_at": "2026-06-02T18:15:00.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Majorana-2-full-size_6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      ]
+    },
+    {
+      "id": "topic_4b14e8c3de1259b6",
+      "label": [
+        "ai",
+        "heraclitu",
+        "sso",
+        "ttp",
+        "netlogon",
+        "pan"
+      ],
+      "category": "new",
+      "theme": "theme_8951a1e0ce77722f",
+      "entities": [
+        "Heraclitus",
+        "AI LLMs",
+        "SSO",
+        "TTP",
+        "NetLogon"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland - SWN #586",
+          "url": "https://www.youtube.com/watch?v=KTB4buAy8A4",
+          "source": "Security Weekly - A CRA Resource",
+          "published_at": "2026-06-02T21:00:20.000Z",
+          "image": "https://i4.ytimg.com/vi/KTB4buAy8A4/hqdefault.jpg"
+        },
+        {
+          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
+          "url": "https://hntvvideo.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
+          "source": "Security Weekly News (Video)",
+          "published_at": "2026-06-02T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--sd-converted--f91aee73-b8c2-4b41-9f3b-9f804ab6e10e.mp4?dest-id=376663"
+        },
+        {
+          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
+          "url": "https://sw-all.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
+          "source": "Security Weekly (Download Only)",
+          "published_at": "2026-06-02T21:00:00.000Z",
+          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--audio-converted--8d299a84-f3f8-48b4-9aae-ed3e142aaa17.mp3?dest-id=829103"
+        },
+        {
+          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
+          "url": "https://hntvaudio.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
+          "source": "Security Weekly News (Audio)",
+          "published_at": "2026-06-02T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--audio-converted--8d299a84-f3f8-48b4-9aae-ed3e142aaa17.mp3?dest-id=376644"
+        }
+      ]
+    },
+    {
+      "id": "topic_3b822c35a32b90e9",
+      "label": [
+        "dr congo",
+        "congo",
+        "ebola",
+        "cancel dr",
+        "dr",
+        "cancel"
+      ],
+      "category": "new",
+      "theme": "theme_37db41b6a8c9097",
+      "entities": [
+        "Mayor",
+        "DR Congo",
+        "Ebola",
+        "Spain",
+        "DR Congo World Cup"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Mayor cancels DR Congo friendly over Ebola concern",
+          "url": "https://sports.yahoo.com/articles/mayor-cancels-dr-congo-friendly-192919289.html",
+          "published_at": "2026-06-02T20:04:35.000Z"
+        },
+        {
+          "title": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
+          "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-02T19:34:10.000Z"
+        },
+        {
+          "title": "Mayor cancels DR Congo friendly over Ebola concern",
+          "url": "https://www.bbc.com/news/articles/cm2pd28jnyxo",
+          "source": "BBC News",
+          "published_at": "2026-06-02T19:28:55.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/20957d50-5eb7-11f1-9877-71c2729415b9.jpg"
+        },
+        {
+          "title": "Spanish authorities cancel DR Congo v Chile World Cup warm-up tie over Ebola fears",
+          "url": "https://www.theguardian.com/football/2026/jun/02/dr-congo-chile-world-cup-warm-up-cancelled-ebola",
+          "source": "The Guardian",
+          "published_at": "2026-06-02T18:39:10.000Z",
+          "image": "https://i.guim.co.uk/img/media/1762ada342e19a2a9d3934209d7bfd85c03871fb/377_0_4146_3318/master/4146.jpg?width=140&quality=85&auto=format&fit=max&s=37942ec4f39ff81bd6cd5767e3fdf2d6"
+        }
+      ]
+    },
+    {
+      "id": "topic_28dde920d4464e1d",
+      "label": [
+        "elli star",
+        "australia beat",
+        "beat pakistan",
+        "elli",
+        "pakistan",
+        "beat"
+      ],
+      "category": "new",
+      "theme": "theme_fb1e9781bfc1d1af",
+      "entities": [
+        "Nello",
+        "Ellis",
+        "Australia",
+        "Pakistan",
+        "Nathan Ellis"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
+          "url": "https://www.brisbanetimes.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-02T21:42:18.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+        },
+        {
+          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
+          "url": "https://www.theage.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-02T21:42:18.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+        },
+        {
+          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
+          "url": "https://www.smh.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-02T21:42:18.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+        },
+        {
+          "title": "Nathan Ellis stars with 4-33 as Australia beat Pakistan in second ODI",
+          "url": "https://www.theguardian.com/sport/2026/jun/02/nathan-ellis-stars-with-4-33-as-australia-beat-pakistan-in-second-odi",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-06-02T19:37:12.000Z",
+          "image": "https://i.guim.co.uk/img/media/7ff5fbb4ec1e011d7b000835657f6f80aebf1405/269_0_2663_2129/master/2663.jpg?width=140&quality=85&auto=format&fit=max&s=13f77781bef96387b6cc42ef4ff027a6"
+        }
+      ]
+    },
+    {
+      "id": "topic_2cd224eb855faf20",
+      "label": [
+        "magneto",
+        "carnage",
+        "goblin",
+        "fight soul",
+        "green goblin",
+        "soul"
+      ],
+      "category": "new",
+      "theme": "theme_2326e19253ed0de4",
+      "entities": [
+        "Marvel Tokon",
+        "Fighting Souls",
+        "Magneto",
+        "Carnage",
+        "Green Goblin"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Marvel Tokon: Fighting Souls reveals Magneto, Carnage, and Green Goblin",
+          "url": "https://www.polygon.com/marvel-tokon-fighting-souls-magneto-carnage-green-goblin-revealed",
+          "source": "Polygon.com",
+          "published_at": "2026-06-02T21:47:31.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-tokon-knights-of-doom-art.jpg"
+        },
+        {
+          "title": "Magneto, Green Goblin, And Carnage Join Marvel Tōkon: Fighting Souls",
+          "url": "https://gameinformer.com/state-of-play/2026/06/02/magneto-green-goblin-and-carnage-join-marvel-tokon-fighting-souls",
+          "source": "Game Informer",
+          "published_at": "2026-06-02T21:33:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/02/b2bc3c95/marvel_tokon_carnage.jpg.webp"
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls Adds Carnage, Green Goblin, and Magneto to the Roster",
+          "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-adds-carnage-green-goblin-and-magneto-to-the-roster",
+          "source": "IGN Articles",
+          "published_at": "2026-06-02T21:24:30.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/02/marvel-tokon-1780435216847.png"
+        },
+        {
+          "title": "Magneto, Green Goblin, and Carnage announced for Marvel Tokon Fighting Souls at Sony State of Play",
+          "url": "https://www.eurogamer.net/marvel-tokon-magneto-carnage-green-goblin-state-of-play",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-06-02T21:18:53.000Z",
+          "image": "https://assetsio.gnwcdn.com/marvel-tokon-green-goblin.jpg?width=690&quality=85&format=jpg&auto=webp"
+        }
+      ]
+    },
+    {
+      "id": "topic_aea20be8fd5e9e61",
+      "label": [
+        "mai think",
+        "mai",
+        "think",
+        "rtx",
+        "rtx spark",
+        "nvidia"
+      ],
+      "category": "new",
+      "theme": "theme_b8e3138c556fb579",
+      "entities": [
+        "Nvidia",
+        "RTX Spark",
+        "Microsoft Build",
+        "Autopilots",
+        "MAI"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Nvidia announces the RTX Spark",
+          "url": "https://www.youtube.com/shorts/hu8v3kSib7s",
+          "source": "The Verge",
+          "published_at": "2026-06-02T21:31:06.000Z",
+          "image": "https://i1.ytimg.com/vi/hu8v3kSib7s/hqdefault.jpg"
+        },
+        {
+          "title": "What we learned at Microsoft Build: Autopilots, MAI-Thinking-1, and Nvidia RTX Spark",
+          "url": "https://mashable.com/tech/microsoft-build-2026-keynote-everything-we-learned",
+          "source": "Mashable",
+          "published_at": "2026-06-02T19:35:57.000Z"
+        },
+        {
+          "title": "MAI-Thinking-1",
+          "url": "https://microsoft.ai/news/introducing-mai-thinking-1",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-06-02T18:39:34.000Z"
+        },
+        {
+          "title": "4 Nvidia RTX Spark laptops I'm most excited to try - including Microsoft's new Ultra",
+          "url": "https://www.zdnet.com/article/all-the-new-pcs-powered-by-nvidias-new-n1x-cpu",
+          "source": "Latest news",
+          "published_at": "2026-06-02T18:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_367293f5fdb2f60",
+      "label": [
+        "man brand",
+        "brand day",
+        "spider man",
+        "spider",
+        "brand",
+        "man"
+      ],
+      "category": "new",
+      "theme": "theme_89ee913529712cb9",
+      "entities": [
+        "Spider",
+        "Man",
+        "Brand New Day",
+        "Made Some Major Changes",
+        "Thanks"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "‘Spider-Man: Brand New Day’ Made Some Major Changes Thanks to ‘The Odyssey’",
+          "url": "https://gizmodo.com/spider-man-brand-new-day-made-some-major-changes-thanks-to-the-odyssey-2000766564",
+          "source": "Gizmodo",
+          "published_at": "2026-06-02T21:00:25.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/04/Spider-Man-Brand-New-Day-Poster-closeup-1280x853.jpg"
+        },
+        {
+          "title": "Spider-Man: Brand New Day Fans Can See the Movie Early Thanks to Amazon",
+          "url": "https://www.ign.com/articles/spider-man-brand-new-day-fans-can-see-the-movie-early-thanks-to-amazon",
+          "source": "IGN Articles",
+          "published_at": "2026-06-02T20:29:51.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/03/19/spider-man-brand-new-day-1773955154050.png"
+        },
+        {
+          "title": "How Christopher Nolan’s The Odyssey ‘Saved’ Spider-Man: Brand New Day MCU Movie",
+          "url": "https://www.comingsoon.net/movies/news/2141731-how-christopher-nolan-the-odyssey-saved-spider-man-brand-new-day-mcu-movie",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-06-02T18:18:56.000Z"
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' Early Screenings for Prime Members Are Coming",
+          "url": "https://www.cnet.com/tech/services-and-software/spider-man-brand-new-day-amazon-prime-early-screenings-in-theaters",
+          "source": "CNET",
+          "published_at": "2026-06-02T18:18:00.000Z",
+          "image": "https://www.cnet.com/a/img/resize/91d40f9388881ce89d4d441bf775c5b2f0b6a7b7/hub/2026/06/02/109ace14-b26f-49c8-827e-f2155e53afe2/screenshot-2026-06-02-at-11-56-07am.jpg?auto=webp&fit=crop&height=614&width=1092"
+        }
+      ]
+    },
+    {
+      "id": "topic_df17712286511a7e",
+      "label": [
+        "peabo",
+        "bryson",
+        "peabo bryson",
+        "75",
+        "dies",
+        "dies 75"
+      ],
+      "category": "new",
+      "theme": "theme_c17bc6299e12e05f",
+      "entities": [
+        "Peabo Bryson Dies",
+        "Singer Of",
+        "Aladdin",
+        "Whole New World",
+        "Beauty"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Peabo Bryson Dies: R&B Singer Of ‘Aladdin’s “A Whole New World” & “Beauty & The Beast” Was 75",
+          "url": "https://deadline.com/2026/06/peabo-bryson-dead-singer-aladdin-beauty-and-the-beast-1236939369",
+          "source": "Deadline",
+          "published_at": "2026-06-02T23:06:51.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/peabo-bryson.jpg"
+        },
+        {
+          "title": "Peabo Bryson, Velvety Voice Behind Disney Duets & More, Dies at 75",
+          "url": "https://www.billboard.com/music/music-news/peabo-bryson-death-singer-1236262804",
+          "source": "Billboard",
+          "published_at": "2026-06-02T23:05:46.000Z"
+        },
+        {
+          "title": "Peabo Bryson, Soul Singer Known as the Voice of Love, Dies at 75",
+          "url": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-06-02T22:47:35.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/02/multimedia/00Bryson-ADV-wbgh/00Bryson-ADV-wbgh-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "Peabo Bryson, Veteran R&B Singer of ‘Beauty and the Beast’ and ‘Whole New World,’ Dies at 75",
+          "url": "https://variety.com/2026/music/news/peabo-bryson-dead-beauty-and-the-beast-1236765354",
+          "source": "Variety",
+          "published_at": "2026-06-02T22:37:45.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/PEABO-BRYSON-2-e1780268272741.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_107a74ac2f550d47",
+      "label": [
+        "rioter",
+        "counterterrorism",
+        "pentagon",
+        "pentagon hir",
+        "hir",
+        "rioter counterterrorism"
+      ],
+      "category": "new",
+      "theme": "theme_64dfa495310ebee",
+      "entities": [
+        "Pentagon",
+        "January",
+        "Jan",
+        "Washington Post",
+        "Pentagon Hires Capitol Rioter"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Pentagon appoints convicted January 6 rioter to sensitive counterterrorism role",
+          "url": "https://www.theguardian.com/us-news/2026/jun/02/january-6-rioter-elias-irizarry-counterterrorism",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-02T22:43:52.000Z",
+          "image": "https://i.guim.co.uk/img/media/987492997055b5ca9d2a0004bbe3a67fcdb70b68/0_122_1230_983/master/1230.jpg?width=140&quality=85&auto=format&fit=max&s=48c2cc5ec6a7957b601bcf6d8289e10c"
+        },
+        {
+          "title": "Pentagon hires ‘qualified, patriotic’ Jan. 6 rioter for counterterrorism role",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4592219/pentagon-hires-jan-6-rioter-counterterrorism",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-02T22:32:28.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/12/iStock-529769841-e1776705057374.webp?w=696"
+        },
+        {
+          "title": "Pentagon hires convicted Jan. 6 rioter for sensitive counterterrorism job (Washington Post)",
+          "url": "https://www.memeorandum.com/260602/p83",
+          "source": "memeorandum",
+          "published_at": "2026-06-02T20:45:00.000Z",
+          "image": "http://www.memeorandum.com/260602/i83.jpg"
+        },
+        {
+          "title": "Pentagon Hires Capitol Rioter for Counterterrorism Job",
+          "url": "https://politicalwire.com/2026/06/02/pentagon-hires-capitol-rioter-for-counterterrorism-job",
+          "source": "Political Wire",
+          "published_at": "2026-06-02T20:35:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_3d5d10f2d01755cb",
+      "label": [
+        "semi",
+        "french",
+        "zverev",
+        "open semi",
+        "french open",
+        "andreeva"
+      ],
+      "category": "new",
+      "theme": "theme_6dcb2a5e579ea14c",
+      "entities": [
+        "Mensik",
+        "Fonseca",
+        "Zverev",
+        "French",
+        "Andreeva"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Mensik halts Fonseca, gets Zverev in French semis",
+          "url": "https://www.espn.com/tennis/story/_/id/48951123/mensik-halts-fonseca-gets-zverev-next-french-open-semifinals",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-06-02T23:27:22.000Z"
+        },
+        {
+          "title": "Andreeva, Kostyuk set up Russia-Ukraine clash in French Open semis",
+          "url": "https://sports.inquirer.net/679381/andreeva-kostyuk-set-up-russia-ukraine-clash-in-french-open-semis",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-02T23:04:43.000Z",
+          "image": "https://sports.inquirer.net/files/2026/06/AP26153338988226-620x413.jpg"
+        },
+        {
+          "title": "Mensik beats Fonseca to set up French Open semi with Zverev",
+          "url": "https://sports.yahoo.com/articles/mensik-beats-fonseca-set-french-215533007.html",
+          "published_at": "2026-06-02T21:55:33.000Z"
+        },
+        {
+          "title": "Zverev powers into French Open semis; Kostyuk to face Andreeva",
+          "url": "https://japantoday.com/category/sports/kostyuk-and-andreeva-to-clash-in-french-open-semis",
+          "source": "Japan Today",
+          "published_at": "2026-06-02T21:41:48.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_ac1b66210273ef08",
+      "label": [
+        "wind",
+        "stat",
+        "seven stat",
+        "stat sue",
+        "sue",
+        "offshore"
+      ],
+      "category": "new",
+      "theme": "theme_b07a98e1bed08d6f",
+      "entities": [
+        "Seven States Sue Trump",
+        "Cancelling New York Offshore",
+        "Wind Farm",
+        "The Trump",
+        "French"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Seven States Sue Trump for Cancelling New York Offshore Wind Farm",
+          "url": "https://gizmodo.com/seven-states-sue-trump-for-cancelling-new-york-offshore-wind-farm-2000766489",
+          "source": "Gizmodo",
+          "published_at": "2026-06-02T20:15:44.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/GettyImages-2278487848-1280x853.jpg"
+        },
+        {
+          "title": "The Trump admin paid a French company $1 billion to not build offshore wind farms. Blue states are suing",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-admin-paid-french-company-173329837.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-02T19:13:41.000Z",
+          "image": "https://media.zenfs.com/en/cnn_articles_875/edcdbfa10a350049134c01e2267e4809"
+        },
+        {
+          "title": "Seven states sue Trump administration over offshore wind project deal",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/offshore-wind-project-lawsuit-trump-b2988273.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-02T19:08:59.000Z",
+          "image": "https://static.independent.co.uk/2026/05/14/18/preview.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Seven states sue US for paying $1bn to make Total exit wind power",
+          "url": "https://www.ft.com/content/d4f25b34-ce45-4321-a4ee-cb5879f7a57a",
+          "source": "International homepage",
+          "published_at": "2026-06-02T18:23:57.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2a8751ff-759d-497d-814f-e1f5b6afb8ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        }
+      ]
+    }
+  ]
+}
