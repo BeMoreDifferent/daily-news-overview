@@ -1,0 +1,955 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-10T00:15:22.719Z",
+  "topics": [
+    {
+      "id": "topic_2318457fa95cd6af",
+      "label": [
+        "hormuz",
+        "strait hormuz",
+        "strait",
+        "us",
+        "helicopter",
+        "us helicopter"
+      ],
+      "category": "new",
+      "theme": "theme_7de23c018fe2bf7f",
+      "entities": [
+        "Know About",
+        "Sea Drone That Rescued",
+        "Downed Apache Crew",
+        "Trump",
+        "US"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "What to Know About the Sea Drone That Rescued Downed Apache Crew",
+          "url": "https://www.nytimes.com/2026/06/09/world/middleeast/sea-drone-apache-rescue.html",
+          "source": "NYT > World News",
+          "published_at": "2026-06-09T23:00:26.000Z"
+        },
+        {
+          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
+          "url": "https://www.smh.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-09T22:40:51.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
+        },
+        {
+          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
+          "url": "https://www.brisbanetimes.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-09T22:40:51.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
+        },
+        {
+          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
+          "url": "https://www.theage.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-09T22:40:51.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
+        },
+        {
+          "title": "US sea drone rescues crew from US Army helicopter that crashed near Hormuz",
+          "url": "https://www.dailymaverick.co.za/article/2026-06-09-us-sea-drone-rescues-crew-from-us-army-helicopter-that-crashed-near-hormuz",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-06-09T21:30:28.000Z",
+          "image": "https://cdn.dailymaverick.co.za/attachments/2993/14027604_415697.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_b7cb86ac3c3d79a0",
+      "label": [
+        "derribo",
+        "derribo de",
+        "helic",
+        "ptero",
+        "helic ptero",
+        "ir"
+      ],
+      "category": "new",
+      "theme": "theme_61dccaa4fc3d70fe",
+      "entities": [
+        "Trump",
+        "Ir",
+        "Lanza",
+        "EU",
+        "Lanza EU"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Trump se ‘la cumple’ a Irán: Lanza ataques en represalia por derribo de helicóptero con 2 soldados de EU",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/06/09/trump-se-la-cumple-a-iran-lanza-ataques-en-represalia-por-derribo-de-helicoptero-con-2-soldados-de-eu",
+          "source": "El Financiero",
+          "published_at": "2026-06-09T22:24:57.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/bl5MqJZLpGyD9b3vPfU6g9SUP5w=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BWPWGF6V45DPDNIAMGYXBYI5DM.jpg"
+        },
+        {
+          "title": "Lanza EU ataques a Ir�n tras derribo de helic�ptero",
+          "url": "https://www.elnorte.com/lanza-eu-ataques-a-iran-tras-derribo-de-helicoptero/ar3219371",
+          "source": "ElNorte",
+          "published_at": "2026-06-09T21:42:53.000Z"
+        },
+        {
+          "title": "Lanza EU ataques a Ir�n tras derribo de helic�ptero",
+          "url": "https://www.reforma.com/lanza-eu-ataques-a-iran-tras-derribo-de-helicoptero/ar3219370",
+          "source": "Reforma",
+          "published_at": "2026-06-09T21:42:17.000Z"
+        },
+        {
+          "title": "EEUU anuncia una oleada de ataques contra Irán tras el derribo de un helicóptero Apache que patrullaba el estrecho de Ormuz",
+          "url": "https://www.eldiario.es/internacional/eeuu-anuncia-oleada-ataques-iran-derribo-helicoptero-apache-sobrevolaba-ormuz_1_13289186.html",
+          "source": "elDiario.es - elDiario.es",
+          "published_at": "2026-06-09T21:40:42.000Z",
+          "image": "https://static.eldiario.es/clip/7d0d8d4b-a23d-4b95-a6e1-ab0a360bab0f_16-9-discover-aspect-ratio_default_0_x4986y658.jpg"
+        },
+        {
+          "title": "Trump amenaza a Irán con represalias tras el derribo de un helicóptero y siembra dudas sobre la tregua",
+          "url": "https://elpais.com/internacional/2026-06-09/trump-amenaza-a-iran-con-represalias-tras-el-derribo-de-un-helicoptero-y-siembra-dudas-sobre-la-tregua.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-06-09T19:21:29.000Z",
+          "image": "https://imagenes.elpais.com/resizer/v2/6DOESH7PYRKNLEUE3RSVEE3Y7E.jpg?auth=3489ac928d348b8cf26aebabf036924846dfe6614886ade7b90e0a399fca4b45"
+        }
+      ]
+    },
+    {
+      "id": "topic_9d840c7b867b6781",
+      "label": [
+        "70 billion",
+        "70",
+        "immigration",
+        "billion",
+        "billion immigration",
+        "immigration bill"
+      ],
+      "category": "new",
+      "theme": "theme_15f091a480970a28",
+      "entities": [
+        "US Congress",
+        "Trump",
+        "House Passes",
+        "Billion Immigration Bill",
+        "Catie Edmondson"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "US Congress approves $70 billion for Trump immigration crackdown",
+          "url": "https://globalnation.inquirer.net/326791/us-congress-approves-70-billion-for-trump-immigration-crackdown",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-09T22:30:46.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260604__B4ZX2CM__v1__HighRes__UsSenateWorksToPassBudgetReconciliationPackageT-620x413.jpg"
+        },
+        {
+          "title": "US Congress passes $70 billion bill to fund Trump's immigration crackdown",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/10/us-congress-passes-70-billion-bill-to-fund-trump-s-immigration-crackdown_6754293_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-09T22:30:24.000Z",
+          "image": "https://img.lemde.fr/2026/06/09/0/0/8192/4096/644/322/60/0/4c273a6_ftp-1-rkifabpafg9c-5266006-01-06.jpg"
+        },
+        {
+          "title": "House Passes G.O.P.'s $70 Billion Immigration Bill (Catie Edmondson/New York Times)",
+          "url": "https://www.memeorandum.com/260609/p107",
+          "source": "memeorandum",
+          "published_at": "2026-06-09T22:05:01.000Z",
+          "image": "http://www.memeorandum.com/260609/i107.jpg"
+        },
+        {
+          "title": "House Votes to Advance $70 Billion G.O.P. Immigration Bill",
+          "url": "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-09T18:45:03.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/09/multimedia/09dc-cong-photo-hbvc/09dc-cong-photo-hbvc-mediumSquareAt3X.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_575d734860e889a4",
+      "label": [
+        "geinbot",
+        "brave",
+        "unk",
+        "deaddrop",
+        "durabletask",
+        "insta"
+      ],
+      "category": "new",
+      "theme": "theme_6176f3cfb2191f65",
+      "entities": [
+        "Geinbot",
+        "SolarWinds",
+        "Brave",
+        "Insta",
+        "Aaran Leyland"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland - SWN #588",
+          "url": "https://www.youtube.com/watch?v=iFTOUldeAOY",
+          "source": "Security Weekly - A CRA Resource",
+          "published_at": "2026-06-09T21:00:15.000Z",
+          "image": "https://i2.ytimg.com/vi/iFTOUldeAOY/hqdefault.jpg"
+        },
+        {
+          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
+          "url": "https://sw-all.libsyn.com/geinbot-solarwinds-brave-unk-deaddrop-durabletask-insta-aaran-leyland-swn-588",
+          "source": "Security Weekly (Download Only)",
+          "published_at": "2026-06-09T21:00:00.000Z",
+          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--audio-converted--65fc9693-4584-4e7b-a5c6-384e5eb9a266.mp3?dest-id=829103"
+        },
+        {
+          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
+          "url": "https://hntvaudio.libsyn.com/geinbot-solarwinds-brave-unk_deaddrop-durabletask-insta-aaran-leyland-swn-588",
+          "source": "Security Weekly News (Audio)",
+          "published_at": "2026-06-09T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--audio-converted--65fc9693-4584-4e7b-a5c6-384e5eb9a266.mp3?dest-id=376644"
+        },
+        {
+          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
+          "url": "https://hntvvideo.libsyn.com/geinbot-solarwinds-brave-unk_deaddrop-durabletask-insta-aaran-leyland-swn-588",
+          "source": "Security Weekly News (Video)",
+          "published_at": "2026-06-09T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--sd-converted--4ac5257f-588c-4d62-9080-7cf300a9ae58.mp4?dest-id=376663"
+        }
+      ]
+    },
+    {
+      "id": "topic_df611b936ba8852",
+      "label": [
+        "iq",
+        "stephen",
+        "stephen smith",
+        "smith",
+        "loss",
+        "fir back"
+      ],
+      "category": "new",
+      "theme": "theme_8443ff1a400b96c0",
+      "entities": [
+        "Trump",
+        "Stephen",
+        "Smith",
+        "Knicks",
+        "NBA Finals"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Trump fires back at Stephen A. Smith over Knicks’ NBA Finals loss",
+          "url": "https://sports.yahoo.com/articles/trump-fires-back-stephen-smith-114154812.html",
+          "published_at": "2026-06-09T21:46:14.000Z"
+        },
+        {
+          "title": "Stephen A. Smith Taunts Trump Over Low IQ Diss, Knicks Loss & Falling Asleep At Game: “I’d Put My IQ Up Against Yours Any Day Of The Week”",
+          "url": "https://deadline.com/2026/06/stephen-a-smith-blasts-trump-knicks-loss-falling-asleep-1236951823",
+          "source": "Deadline",
+          "published_at": "2026-06-09T20:11:14.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/Stephen-A.-Smith-and-Donald-Trump.jpg"
+        },
+        {
+          "title": "Stephen A. Smith Taunts Trump Over IQ Insult, Knicks Loss, Falling Asleep - Deadline",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxnn0v5wmkwc3reqjlzyk9kz1fex2jmwfnmzhmydhlux2l0otr3egdpeldtzeftbxnjdgf5bfpscvlys0q0r3hzbgzjbdzyrhn2umzuzvf3utd6tjfxnkp6zlzrdwptylc0bmxywg02wdlouvv1rfnxtnhetf9abfjqevhuckvmz1mwrjbtofrvylj6dni2cmntmwj2bxu",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-09T20:11:00.000Z"
+        },
+        {
+          "title": "Stephen A. Smith fires back at Trump over ‘low IQ’ jab: ‘Put my IQ up against yours’",
+          "url": "https://www.washingtonexaminer.com/sports/4601141/stephen-a-smith-trump-low-iq-jab",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-09T19:31:46.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/stephen-a-smith-trump-iq-jab.jpg?w=696"
+        }
+      ]
+    },
+    {
+      "id": "topic_a87dacfe8fcdd70a",
+      "label": [
+        "un licopt",
+        "licopt",
+        "licopt re",
+        "re",
+        "contre",
+        "orient"
+      ],
+      "category": "new",
+      "theme": "theme_b9768a7649b254da",
+      "entities": [
+        "Guerre",
+        "Moyen",
+        "Orient",
+        "Etats",
+        "Unis"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent des frappes \"proportionnées\" contre l'Iran après l'attaque d'un hélicoptère américain",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-annoncent-des-frappes-proportionnees-contre-l-iran-apres-l-attaque-d-un-helicoptere-americain_8052917.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-06-09T22:26:35.000Z",
+          "image": "https://www.franceinfo.fr/pictures/479kXaZG-hU-mZzGc9r1c7clByE/0x188:3600x2213/432x243/filters:format(jpg)/2026/06/10/6a28930de28d1465956743.jpg"
+        },
+        {
+          "title": "Les États-Unis lancent des frappes contre l’Iran, une « réponse proportionnée » à la destruction d’un hélicoptère",
+          "url": "https://www.huffingtonpost.fr/international/video/les-etats-unis-lancent-des-frappes-contre-l-iran-une-reponse-proportionnee-a-la-destruction-d-un-helicoptere_264645.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-06-09T22:01:02.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/06/09/314/0/9000/5062/0/0/60/0/a0008bc_upload-1-y2b417jlvvnx-afp-20260508-b2ba88x-v1-highres-moroccousdefence.jpg"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : riposte américaine après une attaque contre un hélicoptère imputée à l’Iran",
+          "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-riposte-americaine-apres-une-attaque-contre-un-helicoptere-imputee-a-liran-c2219ddc-644a-11f1-bb6e-df703f58b398",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-09T21:53:35.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2OTM3NjdmOTUzZTM1OTMyYzBkMzM2ZGU0NzE4MzQxMzg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0ca04bd3da5f07327bd84aad516258a622d8776e45b2f341066b33bb00cfedd1"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet de « riposter » après que « les Iraniens ont abattu » un hélicoptère américain au-dessus du détroit d’Ormuz",
+          "url": "https://www.lemonde.fr/international/live/2026/06/09/en-direct-guerre-au-moyen-orient-donald-trump-promet-de-riposter-apres-que-les-iraniens-ont-abattu-un-helicoptere-americain-au-dessus-du-detroit-d-ormuz_6697888_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-09T18:43:37.000Z",
+          "image": "https://img.lemde.fr/2026/06/06/300/0/3600/1800/644/322/60/0/44f1383_ftp-1-n5fp1kkgqq5p-5238837-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_ca35b74215683422",
+      "label": [
+        "2032",
+        "social security",
+        "critical",
+        "social",
+        "expect",
+        "security"
+      ],
+      "category": "new",
+      "theme": "theme_d0a4b423c5efc09f",
+      "entities": [
+        "Social Security",
+        "The Washington Post",
+        "Washington Post",
+        "Critical Social Security Fund",
+        "Expected To Run Dry"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Social Security shortfall expected to accelerate, with funds at critical low in 2032 - The Washington Post",
+          "url": "https://news.google.com/rss/articles/cbmipgfbvv95cuxomvlszhrvetdvujvebvhmdhhztkprwnzum3bwvwzpm3dhq2pxb2lzrjmtqk9dv3vsnmjmblhqdtbrblvluxvswldsb09wmkrtatlfwufmnzkzeevjlxruuwjzv0dkvtjdoefoylhlswzsd2tev3bqy0stqxp6awz1vnlnu0zmmxrznmdnqwlqchdpzjvkr2q2nc1ienmxvge2eepkrlvb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-09T18:58:56.000Z"
+        },
+        {
+          "title": "Social Security shortfall expected to accelerate, with funds at critical low in 2032 (Washington Post)",
+          "url": "https://www.memeorandum.com/260609/p82",
+          "source": "memeorandum",
+          "published_at": "2026-06-09T18:55:02.000Z",
+          "image": "http://www.memeorandum.com/260609/i82.jpg"
+        },
+        {
+          "title": "Critical Social Security Fund Expected To Run Dry In 2032, New Report Says",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/09/critical-social-security-fund-expected-to-run-dry-in-2032-new-report-says",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-09T18:35:59.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a285cde58869a47ff351e31/0x0.jpg?width=960"
+        }
+      ]
+    },
+    {
+      "id": "topic_767eff29d826a918",
+      "label": [
+        "amnesty",
+        "firearm",
+        "supreme",
+        "supreme court",
+        "extend",
+        "court"
+      ],
+      "category": "new",
+      "theme": "theme_c0b2caadce80fb7f",
+      "entities": [
+        "Feds",
+        "Supreme Court",
+        "Ottawa",
+        "Carney"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Feds extend firearm amnesty amid Supreme Court challenge",
+          "url": "https://torontosun.com/news/national/feds-extend-firearm-amnesty-amid-supreme-court-challenge",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-06-09T22:07:19.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/06/0615-fo-bump.jpg?quality=100&strip=all"
+        },
+        {
+          "title": "Ottawa extends amnesty for banned firearms amid Supreme Court challenge",
+          "url": "https://globalnews.ca/news/11896825/canada-firearms-ban-amnesty-extended-supreme-court",
+          "published_at": "2026-06-09T20:37:23.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/5e89db70109b7d84370506adc276bcb6865f88c7ed9eb3e3638d49ac1f708235.jpg?quality=65&strip=all"
+        },
+        {
+          "title": "Carney government extends amnesty covering banned firearms until after Supreme Court ruling",
+          "url": "https://nationalpost.com/news/politics/carney-government-extends-amnesty-covering-banned-firearms-until-after-supreme-court-ruling",
+          "source": "National Post",
+          "published_at": "2026-06-09T20:30:27.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_934a8cb5d9ba6b6a",
+      "label": [
+        "apple watch",
+        "telegram",
+        "watch",
+        "apple",
+        "watch telegram",
+        "watch 11"
+      ],
+      "category": "new",
+      "theme": "theme_22fdce097520b683",
+      "entities": [
+        "Telegram",
+        "Apple Watch",
+        "GIFs",
+        "The Apple Watch",
+        "Supports Siri AI"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Telegram launches fully native Apple Watch app with messages, GIFs, video, and more",
+          "url": "https://9to5mac.com/2026/06/09/telegram-launches-fully-native-apple-watch-app-with-messages-gifs-video-and-more",
+          "source": "9to5Mac",
+          "published_at": "2026-06-09T22:11:24.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/telegram-apple-watch.jpg?quality=82&#038;strip=all&#038;w=1600"
+        },
+        {
+          "title": "The Apple Watch 11 Supports Siri AI, and It's $100 Off Right Now",
+          "url": "https://lifehacker.com/tech/apple-watch-series-11-early-prime-day-2026",
+          "source": "Lifehacker",
+          "published_at": "2026-06-09T21:30:00.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png"
+        },
+        {
+          "title": "На Apple Watch выпустили обновлённое приложение Telegram",
+          "url": "https://www.unian.net/techno/communications/na-apple-watch-vypustili-obnovlennoe-prilozhenie-telegram-13407372.html",
+          "source": "Информационное агентство УНИАН",
+          "published_at": "2026-06-09T20:21:00.000Z",
+          "image": "https://images.unian.net/photos/2026_06/thumb_files/1200_0_1781036308-2290.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_563fe2c2e578996c",
+      "label": [
+        "caitlyn",
+        "hik",
+        "caitlyn jenner",
+        "hik trail",
+        "jenner",
+        "trail"
+      ],
+      "category": "new",
+      "theme": "theme_fae2cca7e2d86a6e",
+      "entities": [
+        "Tragic Discovery",
+        "Caitlyn Jenner",
+        "Longtime Friend Found Deceased",
+        "Popular Hiking Trail",
+        "William Hasley"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Tragic Discovery: Caitlyn Jenner’s Longtime Friend Found Deceased at 78 on Popular Hiking Trail",
+          "url": "https://internewscast.com/news/tragic-discovery-caitlyn-jenners-longtime-friend-found-deceased-at-78-on-popular-hiking-trail",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-09T20:43:25.000Z"
+        },
+        {
+          "title": "William Hasley, Screenwriter Who Co-Wrote Book With Caitlyn Jenner, Dies on Hollywood Hiking Trail",
+          "url": "https://variety.com/2026/tv/news/william-hasley-dead-caitlyn-jenner-runyon-1236770670",
+          "source": "Variety",
+          "published_at": "2026-06-09T19:59:31.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-492870327.jpg"
+        },
+        {
+          "title": "Caitlyn Jenner biographer and Robin Riker's ex William Hasley found dead on hiking trail at 78",
+          "url": "https://www.dailymail.com/tvshowbiz/article-15886809/caitlyn-jenner-william-hasley-robin-riker-dead-la-runyon.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-06-09T19:11:34.000Z",
+          "image": "https://i.dailymail.com/1s/2026/06/09/19/109236387-0-image-a-38_1781031397279.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_e5dd5f43dd46fa11",
+      "label": [
+        "disclosure day",
+        "spielberg",
+        "disclosure",
+        "day",
+        "day classic",
+        "classic spielberg"
+      ],
+      "category": "new",
+      "theme": "theme_5a5981b4468c13cc",
+      "entities": [
+        "Disclosure Day",
+        "Steven Spielberg Movie Is",
+        "Best Enjoyed Knowing This",
+        "Beforehand",
+        "Spielberg"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Disclosure Day: Steven Spielberg Movie Is Best Enjoyed Knowing This Beforehand",
+          "url": "https://www.comingsoon.net/movies/features/2145426-disclosure-day-steven-spielberg-movie-is-best-enjoyed-knowing-this-beforehand",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-06-09T22:06:45.000Z"
+        },
+        {
+          "title": "‘Disclosure Day’ is classic Spielberg",
+          "url": "https://japantoday.com/category/entertainment/movie-review-%e2%80%98disclosure-day%e2%80%99-is-classic-spielberg",
+          "source": "Japan Today",
+          "published_at": "2026-06-09T21:42:05.000Z"
+        },
+        {
+          "title": "Disclosure Day, One of Spielberg's Finest, Is a Plea to Preserve All that Makes Us Human",
+          "url": "https://time.com/article/2026/06/09/disclosure-day-review",
+          "source": "TIME",
+          "published_at": "2026-06-09T21:40:24.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blte2930f694f34a45f/6a2884170a43d3ff812cc992/11.jpg?branch=production&format=jpg&width=1024"
+        }
+      ]
+    },
+    {
+      "id": "topic_34c71ca8dcbf2db",
+      "label": [
+        "education",
+        "summit",
+        "carroll",
+        "age school",
+        "school summit",
+        "summit live"
+      ],
+      "category": "new",
+      "theme": "theme_f94503ddbccbe741",
+      "entities": [
+        "The Age Schools Summit",
+        "LIVE",
+        "Minister",
+        "Education Ben Carroll"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
+          "url": "https://www.theage.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-09T22:30:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+        },
+        {
+          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
+          "url": "https://www.smh.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-09T22:30:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+        },
+        {
+          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
+          "url": "https://www.brisbanetimes.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-09T22:30:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+        }
+      ]
+    },
+    {
+      "id": "topic_7ee88ba7e343ff5b",
+      "label": [
+        "eu order",
+        "order meta",
+        "whatsapp rival",
+        "rival ai",
+        "whatsapp",
+        "rival"
+      ],
+      "category": "new",
+      "theme": "theme_c5a36179da3cd5ab",
+      "entities": [
+        "EU Orders Meta To",
+        "Open WhatsApp To Rival",
+        "AI Chatbots",
+        "EU",
+        "Meta"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "EU Orders Meta To Open WhatsApp To Rival AI Chatbots",
+          "url": "https://meta.slashdot.org/story/26/06/09/1958236/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots",
+          "source": "Slashdot",
+          "published_at": "2026-06-09T22:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+        },
+        {
+          "title": "EU orders Meta to open WhatsApp to rival AI chatbots for free",
+          "url": "https://japantoday.com/category/tech/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots-for-free",
+          "source": "Japan Today",
+          "published_at": "2026-06-09T21:29:54.000Z"
+        },
+        {
+          "title": "EU orders Meta to reopen WhatsApp to rival AI assistants",
+          "url": "https://www.france24.com/en/tv-shows/business/20260609-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-assistants",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-09T20:48:30.000Z",
+          "image": "https://s.france24.com/media/display/464275e8-6444-11f1-9a92-005056a90284/w:1024/p:16x9/capture-15294258886a287b9e129918-92146562.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_65e6e3979020bad6",
+      "label": [
+        "haley",
+        "pro israel",
+        "israel group",
+        "group push",
+        "push haley",
+        "haley steven"
+      ],
+      "category": "new",
+      "theme": "theme_2007e0314d4c5e8c",
+      "entities": [
+        "Pro",
+        "Israel Group Pushes",
+        "Haley Stevens",
+        "Michigan Senate Race",
+        "New York Times"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race",
+          "url": "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-09T20:56:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/09/multimedia/09midterms-aipac-michigan-senate-kwtz/09midterms-aipac-michigan-senate-kwtz-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race (New York Times)",
+          "url": "https://www.memeorandum.com/260609/p96",
+          "source": "memeorandum",
+          "published_at": "2026-06-09T20:45:01.000Z",
+          "image": "http://www.memeorandum.com/260609/i96.jpg"
+        },
+        {
+          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan",
+          "url": "https://politicalwire.com/2026/06/09/pro-israel-group-pushes-for-haley-stevens-in-michigan",
+          "source": "Political Wire",
+          "published_at": "2026-06-09T20:37:44.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_1fb4a1b747ecb33e",
+      "label": [
+        "ireland",
+        "defeat france",
+        "defeat",
+        "carla ward",
+        "carla",
+        "ward"
+      ],
+      "category": "new",
+      "theme": "theme_621cc2379557a66",
+      "entities": [
+        "Republic",
+        "Ireland",
+        "France",
+        "World Cup",
+        "Who Ireland"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Republic of Ireland fall to defeat against France who qualify for World Cup",
+          "url": "https://sports.yahoo.com/articles/french-win-one-biggest-stories-150910049.html",
+          "published_at": "2026-06-09T22:55:38.000Z"
+        },
+        {
+          "title": "Who Ireland can face in play-offs as Carla Ward makes World Cup declaration",
+          "url": "https://www.irishmirror.ie/sport/soccer/soccer-news/who-ireland-can-face-play-37272162",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-06-09T22:02:30.000Z",
+          "image": "https://i2-prod.irishmirror.ie/sport/soccer/article37272166.ece/ALTERNATES/s615/0_GettyImages-2280763346.jpg"
+        },
+        {
+          "title": "After defeat to France, what's next for Carla Ward's Ireland?",
+          "url": "https://www.irishexaminer.com/sport/soccer/arid-41859849.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-09T21:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_fb47ff0b503c93c5",
+      "label": [
+        "qualifikation",
+        "wm qualifikation",
+        "frauen",
+        "dfb frauen",
+        "slowenien",
+        "sieg"
+      ],
+      "category": "new",
+      "theme": "theme_d68663cd4b62b1df",
+      "entities": [
+        "Sieg",
+        "Slowenien",
+        "DFB",
+        "Frauen",
+        "WM"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Sieg gegen Slowenien: DFB-Frauen beenden WM-Qualifikation mit Erfolg",
+          "url": "https://www.faz.net/aktuell/sport/fussball/wm-qualifiaktion-sieg-der-dfb-frauen-in-slowenien-200914714.html",
+          "source": "Aktuell - FAZ.NET",
+          "published_at": "2026-06-09T20:34:23.000Z",
+          "image": "https://media0.faz.net/image/8e62c6cdf6dd/w3161h1778x0y330/202606/43601.0.2198891893/die-dfb-frauen-feiern-den.webp"
+        },
+        {
+          "title": "WM-Qualifikation: DFB-Frauen beenden WM-Qualifikation mit Sieg in Slowenien",
+          "url": "https://www.zeit.de/gesellschaft/2026-06/frauenfussball-wm-qualifikation-deutschland-slowenien",
+          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
+          "published_at": "2026-06-09T18:53:38.000Z",
+          "image": "https://img.zeit.de/sport/2026-06/frauenfussball-wm-qualifikation-slowenien-deutschland-bild/original__640x360"
+        },
+        {
+          "title": "DFB-Frauen beschenken Wück zum Geburtstag mit Sieg gegen Slowenien",
+          "url": "https://www.morgenpost.de/sport/article412236524/dfb-frauen-beschenken-wueck-zum-geburtstag-mit-sieg-gegen-slowenien.html",
+          "source": "Berliner Morgenpost",
+          "published_at": "2026-06-09T18:25:49.000Z",
+          "image": "https://img.sparknews.funkemedien.de/412236555/412236555_1781030487_v16_9_600.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_2d7b3df7e5018cf9",
+      "label": [
+        "robbie",
+        "sing",
+        "gabba",
+        "jos carrera",
+        "carrera robbie",
+        "robbie william"
+      ],
+      "category": "new",
+      "theme": "theme_4b95f8d2c9f4119",
+      "entities": [
+        "Jos",
+        "Carreras",
+        "Robbie Williams",
+        "Gabba"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
+          "url": "https://www.brisbanetimes.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-09T20:00:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
+        },
+        {
+          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
+          "url": "https://www.theage.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-09T20:00:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
+        },
+        {
+          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
+          "url": "https://www.smh.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-09T20:00:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
+        }
+      ]
+    },
+    {
+      "id": "topic_b3fd25a0fce6d5d1",
+      "label": [
+        "settler violence",
+        "settler",
+        "west bank",
+        "bank",
+        "sanction",
+        "west"
+      ],
+      "category": "new",
+      "theme": "theme_ad25a1e52c557aa5",
+      "entities": [
+        "UK",
+        "West Bank",
+        "Canada",
+        "France",
+        "Norway"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
+          "url": "https://www.yahoo.com/news/world/articles/uk-allies-sanction-networks-enabling-203901759.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-09T20:39:01.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/8a473c5733e18ad002b2c7d4ff8d8295"
+        },
+        {
+          "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
+          "url": "https://www.bbc.com/news/articles/cddl4dl9m3po",
+          "source": "BBC News",
+          "published_at": "2026-06-09T20:38:55.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2a/live/f8ece660-52a2-11f0-a2ff-17a82c2e8bc4.jpg"
+        },
+        {
+          "title": "UK, Canada, France and Norway announce coordinated sanctions over West Bank settler violence",
+          "url": "https://www.yahoo.com/news/articles/uk-sanctions-networks-enabling-settler-114852754.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-09T18:39:33.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/c4d75788894c0b2d511042d173e5ad59"
+        }
+      ]
+    },
+    {
+      "id": "topic_dbe57b53a4fba2ad",
+      "label": [
+        "voice",
+        "gemini live",
+        "live translate",
+        "gemini",
+        "translate",
+        "google"
+      ],
+      "category": "new",
+      "theme": "theme_dd37d1ba4e010ce4",
+      "entities": [
+        "Google",
+        "Gemini",
+        "Live Translate Is Built",
+        "Real",
+        "Life Conversations"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Google's Gemini 3.5 Live Translate Is Built for Real-Life Conversations",
+          "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation",
+          "source": "CNET",
+          "published_at": "2026-06-09T19:50:38.000Z",
+          "image": "https://www.cnet.com/a/img/resize/ada3a30958992f16850d52270793ea00284dc130/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=614&width=1092"
+        },
+        {
+          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+          "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-06-09T18:57:25.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
+        },
+        {
+          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation - Ars Technica",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxqmuh5bjbgalp5q0stwtlpeuzca1rqqm1mruxjr1dpcws3ck5zmwrvee9nbuxfslfzte5wqwlvru91nfzmvlflddaza0ryvhdsdvbrbufsyxy3tmzoymoxlxoywelktjf6x2vaoghwawnkrhetuznrz2tnohj4tnbnbxj1dme5z1zomwvwq0z1yulmbu1pemn0btveq1vatkd0nho1tmw2dy1owvhjcezsre1ftvzhltfi",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-09T18:57:25.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_7208093d7386d5bb",
+      "label": [
+        "artemi",
+        "artemi iii",
+        "iii",
+        "nasa",
+        "crew",
+        "iii crew"
+      ],
+      "category": "new",
+      "theme": "theme_9557d4665a046b2e",
+      "entities": [
+        "NASA",
+        "US",
+        "Italian",
+        "Artemis",
+        "Nasa"
+      ],
+      "article_count": 17,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "NASA taps US, Italian astronauts for Artemis mission",
+          "url": "https://www.perthnow.com.au/news/technology/nasa-taps-us-italian-astronauts-for-artemis-mission-c-22409069",
+          "source": "PerthNow",
+          "published_at": "2026-06-09T21:10:29.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22409069/2046df368ac831253f6079e6f7070783053315e1-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Italian astronaut to pilot Nasa's upcoming Artemis space mission",
+          "url": "https://www.thejournal.ie/nasa-italian-astronaut-artemis-3-7065734-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-09T21:04:47.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/june-9-2026-houston-texas-usa-the-artemis-iii-crew-poses-for-an-official-portrait-from-left-nasa-astronauts-andre-douglas-mission-specialist-randy-bresnik-commander-frank-rubio-mission-spe-67a5a980-5a7f-434e-87fb-90f389410b12-630x420.jpg"
+        },
+        {
+          "title": "NASA Reveals Astronauts For Artemis III — And One Is Italian",
+          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/06/09/nasa-reveals-astronauts-for-artemis-iii---and-one-is-italian",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-09T20:54:31.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a28792702ee4a2b24d792f4/0x0.jpg?width=960&precrop=2000%2C1124%2Cx0%2Cy29"
+        },
+        {
+          "title": "NASA Names Its Artemis III Crew for Crucial Moon Mission Testing",
+          "url": "https://www.cnet.com/science/space/nasa-artemis-iii-astronaut-crew-announcement",
+          "source": "CNET",
+          "published_at": "2026-06-09T20:39:02.000Z",
+          "image": "https://www.cnet.com/a/img/resize/3f8e821d1b05820b851c6871cd99910d23d14149/hub/2026/06/09/5f4d5af7-ac2b-41a4-9a6f-e28813d6444e/nasas-artemis-iii-announcement-46-51-screenshot.png?auto=webp&fit=crop&height=614&width=1092"
+        },
+        {
+          "title": "Who NASA Chose For Its Artemis III Crew and What Their Mission Is",
+          "url": "https://time.com/article/2026/06/09/nasa-artemis-iii-crew-announced",
+          "source": "TIME",
+          "published_at": "2026-06-09T20:11:11.000Z",
+          "image": "https://cdn.jwplayer.com/v2/media/3Jdcogwf/poster.jpg?width=720"
+        }
+      ]
+    }
+  ]
+}
