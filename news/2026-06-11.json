@@ -1,0 +1,652 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-12T00:15:24.972Z",
+  "topics": [
+    {
+      "id": "topic_e508a8e5e46468a2",
+      "label": [
+        "ipo",
+        "spacex",
+        "billion",
+        "spacex rais",
+        "rais 75",
+        "75 billion"
+      ],
+      "category": "new",
+      "theme": "theme_3819ddf6335f2542",
+      "entities": [
+        "SpaceX",
+        "IPO",
+        "Musk",
+        "US75",
+        "Elon Musk"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "SpaceX raises $75 billion in mega IPO as investors bet on space future",
+          "url": "https://www.thehindubusinessline.com/markets/spacex-raises-75-billion-in-mega-ipo-as-investors-bet-on-space-future/article71091181.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-11T22:40:41.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/ee5pb4/article71091186.ece/alternates/LANDSCAPE_1200/2026-06-11T184955Z_1873214498_RC2URLAUG7TF_RTRMADP_3_SPACEX-RESULTS.JPG"
+        },
+        {
+          "title": "SpaceX prices record IPO that could make Musk a trillionaire",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356821/spacex-prices-record-ipo-could-make-musk-trillionaire",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-11T22:13:48.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/12/c3d7195f-4e38-44c9-b798-d8559141621c_dd75b556.jpg?itok=nL-_gjac&v=1781216020"
+        },
+        {
+          "title": "Musk's SpaceX prices record $US75 billion IPO",
+          "url": "https://www.perthnow.com.au/news/business/musks-spacex-prices-record-us75-billion-ipo-c-22419871",
+          "source": "PerthNow",
+          "published_at": "2026-06-11T22:13:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22419871/152c8dd3369ea358203d8dc8df23ab1df46bd89a-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Musk’s SpaceX prices record $US75 billion IPO",
+          "url": "https://michaelwest.com.au/musks-spacex-prices-record-us75-billion-ipo",
+          "source": "Michael West",
+          "published_at": "2026-06-11T22:10:42.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/7c8259a6-b61d-44a6-9a15-6dc12b5dac58.jpg"
+        },
+        {
+          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever",
+          "source": "TechCrunch",
+          "published_at": "2026-06-11T20:33:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_e62ba2c9febe585c",
+      "label": [
+        "deal",
+        "peace",
+        "peace deal",
+        "iran",
+        "trump says",
+        "iran peace"
+      ],
+      "category": "new",
+      "theme": "theme_90057f4b5589b940",
+      "entities": [
+        "Oil Drops",
+        "Two",
+        "Month Low",
+        "Trump Says Deal With",
+        "Iran Is Close"
+      ],
+      "article_count": 25,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Oil Drops to Two-Month Low as Trump Says Deal With Iran Is Close",
+          "url": "https://financialpost.com/pmn/business-pmn/oil-drops-to-two-month-low-as-trump-says-deal-with-iran-is-close",
+          "source": "Financial Post",
+          "published_at": "2026-06-11T23:08:54.000Z"
+        },
+        {
+          "title": "What’s the deal? What we know about the US-Iran peace agreement to be signed as soon as this weekend",
+          "url": "https://nypost.com/2026/06/11/us-news/whats-the-deal-what-we-know-about-the-us-iran-peace-agreement-trump-announced",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-11T22:11:18.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fu-s-president-donald-trump-130605775.jpg?quality%3D90%26strip%3Dall"
+        },
+        {
+          "title": "Trump says Iran peace deal is near after threatening new strikes",
+          "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-11T21:47:25.000Z",
+          "image": "https://s.france24.com/media/display/00aad5c4-65d0-11f1-8536-005056bf30b7/w:1024/p:16x9/2026-06-11T193149Z-113917332-RC2VRLAXBHRS-RTRMADP-3-USA-TRUMP.jpg"
+        },
+        {
+          "title": "Trump says U.S., Iran could sign peace deal as soon as this weekend",
+          "url": "https://japantoday.com/category/world/trump-says-us-iran-could-sign-peace-deal-as-soon-as-this-weekend",
+          "source": "Japan Today",
+          "published_at": "2026-06-11T21:42:41.000Z"
+        },
+        {
+          "title": "Trump teases peace deal signing in Europe after calling off Iran strikes",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4605539/trump-iran-deal-europe-strikes",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-11T21:35:48.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26162725343623.jpg?w=696"
+        }
+      ]
+    },
+    {
+      "id": "topic_550d0e26c1a0566e",
+      "label": [
+        "mall",
+        "national mall",
+        "national",
+        "86 47",
+        "47",
+        "86"
+      ],
+      "category": "new",
+      "theme": "theme_52f59ca5c1ca157f",
+      "entities": [
+        "Authorities",
+        "National Mall",
+        "Giant",
+        "Huge",
+        "Etched Into Grass"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Authorities investigate ‘86 47’ marking on National Mall lawn",
+          "url": "https://www.ms.now/news/authorities-investigate-86-47-marking-on-national-mall-lawn",
+          "source": "MS NOW",
+          "published_at": "2026-06-11T22:11:03.000Z"
+        },
+        {
+          "title": "Giant '86 47' found marked in the grass on the National Mall",
+          "url": "https://abcnews.com/politics/giant-86-47-found-marked-grass-national-mall/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-11T21:17:47.000Z",
+          "image": "https://s.abcnews.com/images/Politics/dc-8647-1-rt-gmh-260611_1781209424805_hpMain_4x3t_384.jpg"
+        },
+        {
+          "title": "Huge ‘8647’ Etched Into Grass on the National Mall",
+          "url": "https://politicalwire.com/2026/06/11/huge-8647-etched-into-grass-on-the-national-mall",
+          "source": "Political Wire",
+          "published_at": "2026-06-11T19:44:47.000Z"
+        },
+        {
+          "title": "US authorities investigate huge etching of ‘8647’ on National Mall grounds",
+          "url": "https://www.theguardian.com/us-news/2026/jun/11/8647-national-mall-trump",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-11T19:16:24.000Z",
+          "image": "https://i.guim.co.uk/img/media/0854afba18c317d609a167f3a6c532c4281aa1e8/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1ce5fca12da511d14b82c3e2343b0a09"
+        },
+        {
+          "title": "US authorities investigate huge '8647' marking on grounds of National Mall in Washington (Nathan Howard/Reuters)",
+          "url": "https://www.memeorandum.com/260611/p90",
+          "source": "memeorandum",
+          "published_at": "2026-06-11T19:15:00.000Z",
+          "image": "http://www.memeorandum.com/260611/i90.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_5c5cb6cba9eb7990",
+      "label": [
+        "robin",
+        "hood",
+        "death robin",
+        "robin hood",
+        "hood review",
+        "death"
+      ],
+      "category": "new",
+      "theme": "theme_2af9e5b50fa7b35b",
+      "entities": [
+        "The Death",
+        "Robin Hood",
+        "Hugh Jackman",
+        "Robin Hood Review",
+        "The Death Of Robin"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "The Death of Robin Hood review: Hugh Jackman leads a bleak, brutal, and boring re-imagining of the outlaw",
+          "url": "https://mashable.com/entertainment/death-of-robin-hood-review",
+          "source": "Mashable",
+          "published_at": "2026-06-11T22:03:07.000Z"
+        },
+        {
+          "title": "The Death of Robin Hood Review",
+          "url": "https://www.ign.com/articles/the-death-of-robin-hood-review",
+          "source": "IGN Articles",
+          "published_at": "2026-06-11T21:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/04/thedeathofrobinhood-blogroll-01-1780593770819.jpg"
+        },
+        {
+          "title": "‘The Death of Robin Hood’ Review: Hugh Jackman and Michael Sarnoski Make a Grizzled, Anguished Antihero of the Valiant Outlaw",
+          "url": "https://variety.com/2026/film/reviews/the-death-of-robin-hood-review-hugh-jackman-jodie-comer-1236772346",
+          "source": "Variety",
+          "published_at": "2026-06-11T21:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/death-of-robin-hood.webp"
+        },
+        {
+          "title": "The Death Of Robin Hood Review: Hugh Jackman Leads An Ultra-Violent, Melancholy Myth Deconstruction",
+          "url": "https://www.slashfilm.com/2192179/the-death-of-robin-hood-review-hugh-jackman-2026-movie",
+          "source": "/Film",
+          "published_at": "2026-06-11T21:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/the-death-of-robin-hood-review-hugh-jackman-2026-movie/l-intro-1781189478.jpg"
+        },
+        {
+          "title": "‘The Death of Robin Hood’ Review: Hugh Jackman Terrorizes Nottingham in a Ferociously Grim Character Study About How Legends Are Forged",
+          "url": "https://www.indiewire.com/criticism/movies/the-death-of-robin-hood-movie-review-hugh-jackman-a24-1235199416",
+          "source": "IndieWire",
+          "published_at": "2026-06-11T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_bc54c73dcaa6995b",
+      "label": [
+        "oracle",
+        "peoplesoft",
+        "oracle peoplesoft",
+        "peoplesoft zero",
+        "shinyhunter",
+        "zero day"
+      ],
+      "category": "new",
+      "theme": "theme_1bae933b77e01836",
+      "entities": [
+        "ShinyHunters",
+        "Oracle PeopleSoft",
+        "ShinyHunters Exploits Oracle PeopleSoft",
+        "Zero",
+        "Day"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "ShinyHunters breached 100+ companies through an unpatched Oracle PeopleSoft zero-day",
+          "url": "https://thenextweb.com/news/oracle-peoplesoft-shinyhunters-zero-day-100-companies",
+          "source": "The Next Web",
+          "published_at": "2026-06-11T21:10:46.000Z",
+          "image": "https://media.thenextweb.com/2026/06/oracle-peoplesoft-shinyhunters-zero-day-100-companies.avif"
+        },
+        {
+          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+          "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+          "source": "The Hacker News",
+          "published_at": "2026-06-11T20:29:23.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg"
+        },
+        {
+          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+          "url": "https://vulners.com/thn/thn:752b90fa61064ecc5d562ea512ccec15",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-06-11T20:29:00.000Z",
+          "image": "http://vulners.com/static/img/thn.png"
+        },
+        {
+          "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+          "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies",
+          "source": "TechCrunch",
+          "published_at": "2026-06-11T20:27:25.000Z"
+        },
+        {
+          "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks",
+          "source": "BleepingComputer",
+          "published_at": "2026-06-11T19:39:53.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_6c5c25300496120b",
+      "label": [
+        "primer gol",
+        "qui",
+        "primer",
+        "qui ones",
+        "ones",
+        "gol"
+      ],
+      "category": "new",
+      "theme": "theme_f6e951eeb3472790",
+      "entities": [
+        "Hist",
+        "Juli",
+        "Qui",
+        "Mundial",
+        "Anota Qui"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "¡Histórico! Julián Quiñones anota el primer gol del Mundial 2026 y enciende a México",
+          "url": "https://vanguardia.com.mx/deportes/historico-julian-quinones-anota-el-primer-gol-del-mundial-2026-y-enciende-a-mexico-bb21315631",
+          "source": "Vanguardia",
+          "published_at": "2026-06-11T19:35:07.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/1086355-mundial-mexico-vs-sudafrica_1-15757817_20260611194825.jpg"
+        },
+        {
+          "title": "Julián Quiñones marca el primer gol del Mundial 2026",
+          "url": "https://www.informador.mx/deportes/julian-quinones-marca-el-primer-gol-del-mundial-2026-en-partido-mexico-vs-sudafrica-20260611-0118.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-06-11T19:33:00.000Z"
+        },
+        {
+          "title": "Anota Qui�ones primer gol de M�xico y del Mundial 2026",
+          "url": "https://www.reforma.com/anota-quinones-primer-gol-de-mexico-y-del-mundial-2026/ar3220922",
+          "source": "Reforma",
+          "published_at": "2026-06-11T19:28:36.000Z"
+        },
+        {
+          "title": "Anota Qui�ones primer gol de M�xico y del Mundial 2026",
+          "url": "https://www.elnorte.com/anota-quinones-primer-gol-de-mexico-y-del-mundial-2026/ar3220926",
+          "source": "ElNorte",
+          "published_at": "2026-06-11T19:27:09.000Z"
+        },
+        {
+          "title": "¿Quién es Julián Quiñones, el autor del primer gol del Mundial 2026? | Video",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/quien-es-julian-quinones-el-autor-del-primer-gol-del-mundial-2026.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-06-11T19:23:35.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2019459.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_cb275ac031fc17a3",
+      "label": [
+        "fbi",
+        "seize",
+        "doj fbi",
+        "fbi seize",
+        "seize 13",
+        "13 domain"
+      ],
+      "category": "new",
+      "theme": "theme_48fd29e0d451cdc4",
+      "entities": [
+        "DOJ",
+        "FBI Seize",
+        "Domains",
+        "Chinese Recruitment Op"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
+          "url": "https://www.govinfosecurity.com/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
+        },
+        {
+          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
+          "url": "https://www.databreachtoday.co.uk/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
+        },
+        {
+          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
+          "url": "https://www.bankinfosecurity.com/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_b2c3e95c9ebcdfcc",
+      "label": [
+        "indict",
+        "lee indict",
+        "murder charge",
+        "lee",
+        "charge",
+        "murder"
+      ],
+      "category": "new",
+      "theme": "theme_4ba75baa3a8d04dc",
+      "entities": [
+        "Former Super Bowl",
+        "Darron Lee",
+        "Ex",
+        "NFL",
+        "Lee"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Former Super Bowl champion Darron Lee indicted on murder charge in death of girlfriend",
+          "url": "https://www.theguardian.com/sport/2026/jun/11/darron-lee-indicted-murder-charge-nfl",
+          "source": "The Guardian",
+          "published_at": "2026-06-11T22:36:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/ae5ba803d033ed3fdbb74650755cba888bfe8e40/679_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a903d7c6007d1a835a843423e6aa61ae"
+        },
+        {
+          "title": "Ex-NFL linebacker Lee indicted on murder charge",
+          "url": "https://www.espn.com/nfl/story/_/id/49033300/ex-nfl-linebacker-darron-lee-indicted-murder-charge",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-06-11T22:31:01.000Z"
+        },
+        {
+          "title": "Former NFL first-round pick Darron Lee indicted on first-degree murder charge in girlfriend's death",
+          "url": "https://www.foxnews.com/sports/former-nfl-first-round-pick-darron-lee-indicted-first-degree-murder-charge-girlfriends-death",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-11T21:00:03.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/darron-lee-jets-mugshot-split.jpg?ve=1&tl=1"
+        }
+      ]
+    },
+    {
+      "id": "topic_3e2f1d8732424d31",
+      "label": [
+        "journaliste",
+        "le journaliste",
+        "va bien",
+        "alg",
+        "christophe",
+        "gleiz"
+      ],
+      "category": "new",
+      "theme": "theme_ed79931cf8db286a",
+      "entities": [
+        "Le",
+        "Alg",
+        "Christophe Gleizes",
+        "Jean",
+        "Barrot"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Le journaliste français détenu en Algérie Christophe Gleizes « va bien », assure le ministre Jean-Noël Barrot",
+          "url": "https://www.ouest-france.fr/monde/algerie/le-journaliste-francais-detenu-en-algerie-christophe-gleizes-va-bien-assure-le-ministre-jean-noel-barrot-29c65a36-65cc-11f1-bb6e-df703f58b398",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-11T19:53:01.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2ODliNTc0MDkzNjQ2NmEyMmY5NWQzYjQ0ZmMwYWQyZjk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9343c619d59db3d6485148f8feb80b9d413a2745752f59a2fb5c0cb98c974d2b"
+        },
+        {
+          "title": "Le journaliste Christophe Gleizes, emprisonné en Algérie, « va bien, malgré l’épreuve très douloureuse qu’il traverse », assure Jean-Noël Barrot",
+          "url": "https://www.lemonde.fr/international/article/2026/06/11/le-journaliste-christophe-gleizes-emprisonne-en-algerie-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-assure-jean-noel-barrot_6700798_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-11T19:35:02.000Z",
+          "image": "https://img.lemde.fr/2025/12/17/52/0/2536/1268/644/322/60/0/03c4ae4_ftp-1-tox1ziikn5v4-5703649-01-06.jpg"
+        },
+        {
+          "title": "Christophe Gleizes détenu en Algérie : le journaliste français « va bien, malgré l’épreuve très douloureuse qu’il traverse »",
+          "url": "https://www.sudouest.fr/politique/christophe-gleizes-detenu-en-algerie-le-journaliste-francais-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-29448447.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-11T19:32:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_a125a584d8480f61",
+      "label": [
+        "mon go",
+        "pok",
+        "mon",
+        "pok mon",
+        "go",
+        "drone"
+      ],
+      "category": "new",
+      "theme": "theme_47e4636562a9f5b3",
+      "entities": [
+        "Niantic Spatial Denies Pok",
+        "Go Data Is Being",
+        "Shared With",
+        "Drone Company",
+        "Have Pok"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Niantic Spatial Denies Pokémon Go Data Is Being Shared With A Drone Company",
+          "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
+          "source": "Kotaku",
+          "published_at": "2026-06-11T21:26:30.000Z",
+          "image": "https://kotaku.com/app/uploads/2023/04/0e360c870e6b0950a14426b6a080997a-1280x720.jpg"
+        },
+        {
+          "title": "Have Pokémon Go players been unwittingly helping military drones find their targets?",
+          "url": "https://www.androidauthority.com/pokemon-go-drone-training-3676895",
+          "source": "Android Authority",
+          "published_at": "2026-06-11T21:17:41.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/pokemon-go-on-a-smartphone-on-a-concrete-wall-scaled.jpg"
+        },
+        {
+          "title": "Pokémon Go Scans Trained Military Drone Navigation Tech",
+          "url": "https://dev.to/onsen/pokemon-go-scans-trained-military-drone-navigation-tech-1bla",
+          "source": "DEV Community",
+          "published_at": "2026-06-11T18:56:33.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_7c32a91c3fdc2f3a",
+      "label": [
+        "mourinho",
+        "madrid",
+        "real madrid",
+        "mourinho return",
+        "return real",
+        "real"
+      ],
+      "category": "new",
+      "theme": "theme_2adc777142e5d413",
+      "entities": [
+        "LaLiga",
+        "Real Madrid",
+        "Mourinho",
+        "Perez",
+        "Jose"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "LaLiga: Real Madrid confirm date Mourinho will officially join club",
+          "url": "https://dailypost.ng/2026/06/11/laliga-real-madrid-confirm-date-mourinho-will-officially-join-club",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-11T20:36:11.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/09/Mourinho.jpg"
+        },
+        {
+          "title": "Mourinho returns to Real Madrid as Perez retains presidency",
+          "url": "https://www.soccernews.com/mourinho-returns-to-real-madrid-as-perez-retains-presidency/400442",
+          "source": "SoccerNews",
+          "published_at": "2026-06-11T19:34:35.000Z"
+        },
+        {
+          "title": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+          "url": "https://news.sky.com/story/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants-13553162",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-06-11T18:55:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-football-laliga-real-madrid_7268260.jpg?20260608120507"
+        }
+      ]
+    },
+    {
+      "id": "topic_557c3bd9c1a19762",
+      "label": [
+        "oil company",
+        "sanction",
+        "oil",
+        "company",
+        "state oil",
+        "sanction cuba"
+      ],
+      "category": "new",
+      "theme": "theme_278cf10845dd82cc",
+      "entities": [
+        "Rubio",
+        "US",
+        "Cuban",
+        "Trump",
+        "Cuba"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Rubio announces US sanctions on Cuban state-owned oil company",
+          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4605793/rubio-us-sanctions-cuba-petroleo",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-11T22:57:16.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/Marco-Rubio-Cuba-Sanctions--e1781216851243.webp?w=696"
+        },
+        {
+          "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
+          "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-11T20:21:55.000Z"
+        },
+        {
+          "title": "US imposes sanctions on Cuba’s state oil company in latest pressure campaign",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/cuba-sanctions-us-cupet-marco-rubio-b2994307.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-11T20:14:44.000Z",
+          "image": "https://static.independent.co.uk/2026/06/11/21/2279389675..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        }
+      ]
+    },
+    {
+      "id": "topic_edfb368899628eb4",
+      "label": [
+        "plan deport",
+        "deport iranian",
+        "central african",
+        "deport",
+        "african",
+        "iranian"
+      ],
+      "category": "new",
+      "theme": "theme_c0c27fda85c3cd97",
+      "entities": [
+        "Trump",
+        "Iranians",
+        "African",
+        "Central African Republic",
+        "US"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Trump plans to deport Iranians to violence-plagued central African nation in new deal",
+          "url": "https://www.foxnews.com/us/trump-plans-deport-iranians-violence-plagued-central-african-nation-new-deal",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-11T22:59:58.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/central-african-region.jpeg?ve=1&tl=1"
+        },
+        {
+          "title": "U.S. plans to deport Iranians to Central African Republic, sources say",
+          "url": "https://japantoday.com/category/world/us-plans-to-deport-iranians-to-central-african-republic-sources-say3",
+          "source": "Japan Today",
+          "published_at": "2026-06-11T21:43:18.000Z"
+        },
+        {
+          "title": "US plans to deport Iranians to Central African Republic, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxqve94s1lvbk1wuy1dwkhodxpjzutymxrmqtdsuuzqz3prm0pwneq3ckjmb3rnz2swr2g5uehhtmler01kwv9enudxruzhaxjzylc4d3vmtm9rajbwy1nxbtjaehhxrm1nytrrcgnqbdktdk5hx0f4nthhrnl0uutjcldvn01pner4szlkmvdltkzvu0hkcgvhz1pfr2e1y05lmvktu2xyvk0yekpurkjb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-11T19:24:37.000Z"
+        }
+      ]
+    }
+  ]
+}
