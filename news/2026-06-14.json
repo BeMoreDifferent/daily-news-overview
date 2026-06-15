@@ -1,0 +1,789 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-15T00:15:22.052Z",
+  "topics": [
+    {
+      "id": "topic_4f73bdaa5e332624",
+      "label": [
+        "fight back",
+        "japan fight",
+        "back dutch",
+        "dutch thriller",
+        "back",
+        "fight"
+      ],
+      "category": "new",
+      "theme": "theme_3374e61138452c41",
+      "entities": [
+        "Japan",
+        "Netherland",
+        "Dutch",
+        "World Cup",
+        "Netherlands"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Japan fight back twice in late draw vs. Netherland...",
+          "url": "https://www.espn.com/soccer/story/_/id/49064974/japan-fight-back-twice-snatch-late-draw-vs-netherlands",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-06-14T23:52:41.000Z"
+        },
+        {
+          "title": "Japan fight back in 2-2 Dutch thriller at World Cup",
+          "url": "https://www.thejournal.ie/netherlands-v-japan-2-7070939-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-14T22:44:41.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/06/img_2318-5824b182-9cef-4ffc-be95-326b3995d0f8-630x414.jpeg"
+        },
+        {
+          "title": "Japan fight back in 2-2 Dutch thriller",
+          "url": "https://www.the42.ie/netherlands-v-japan-7070925-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-14T22:42:19.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/06/img_2318-5824b182-9cef-4ffc-be95-326b3995d0f8-630x414.jpeg"
+        },
+        {
+          "title": "Japan deny Netherlands by fighting back twice in World Cup opener",
+          "url": "https://www.aljazeera.com/sports/2026/6/14/japan-deny-netherlands-by-fighting-back-twice-in-world-cup-opener",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-14T22:16:14.000Z"
+        },
+        {
+          "title": "Japan fight back in 2-2 Dutch thriller at World Cup",
+          "url": "https://sports.yahoo.com/articles/japan-fight-back-2-2-220755452.html",
+          "published_at": "2026-06-14T22:07:55.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_e7ec0d490773a5f4",
+      "label": [
+        "let blow",
+        "blow trump",
+        "call restraint",
+        "restraint israel",
+        "restraint",
+        "trump call"
+      ],
+      "category": "new",
+      "theme": "theme_29b4bdb887719c7d",
+      "entities": [
+        "Let",
+        "Trump",
+        "Israel",
+        "Beirut",
+        "BBC News"
+      ],
+      "article_count": 15,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "‘Let’s not blow it’: Trump calls for restraint after Israel strikes Beirut",
+          "url": "https://www.smh.com.au/world/middle-east/let-s-not-blow-it-trump-calls-for-restraint-after-israel-strikes-beirut-20260615-p606qc.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-14T19:02:39.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/df2cffdb0447c9ff590620a63d7a3803eb3c05c4"
+        },
+        {
+          "title": "‘Let’s not blow it’: Trump calls for restraint after Israel strikes Beirut",
+          "url": "https://www.theage.com.au/world/middle-east/let-s-not-blow-it-trump-calls-for-restraint-after-israel-strikes-beirut-20260615-p606qc.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-14T19:02:39.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/df2cffdb0447c9ff590620a63d7a3803eb3c05c4"
+        },
+        {
+          "title": "‘Let’s not blow it’: Trump calls for restraint after Israel strikes Beirut",
+          "url": "https://www.brisbanetimes.com.au/world/middle-east/let-s-not-blow-it-trump-calls-for-restraint-after-israel-strikes-beirut-20260615-p606qc.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-14T19:02:39.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/df2cffdb0447c9ff590620a63d7a3803eb3c05c4"
+        },
+        {
+          "title": "'Let's not blow it!' Trump says after Israel strikes Beirut | BBC News",
+          "url": "https://www.youtube.com/watch?v=GdFwGT9v4cs",
+          "source": "BBC News",
+          "published_at": "2026-06-14T18:49:34.000Z",
+          "image": "https://i4.ytimg.com/vi/GdFwGT9v4cs/hqdefault.jpg"
+        },
+        {
+          "title": "Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
+          "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-06-14T16:22:48.000Z",
+          "image": "https://i.guim.co.uk/img/media/7417b2bd7db483cd37dd9f1f80678965d96790ae/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=f6e09451ec8747dc34a8da3a21fc1258"
+        }
+      ]
+    },
+    {
+      "id": "topic_b08004ec0540add8",
+      "label": [
+        "charlie",
+        "javice",
+        "pardon",
+        "charlie javice",
+        "javice reportedly",
+        "reportedly"
+      ],
+      "category": "new",
+      "theme": "theme_45948f6a4ee24394",
+      "entities": [
+        "Startup CEO Charlie Javice",
+        "Trump",
+        "Charlie Javice",
+        "Frank",
+        "WSJ"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+          "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon",
+          "source": "TechCrunch",
+          "published_at": "2026-06-14T21:55:34.000Z"
+        },
+        {
+          "title": "Charlie Javice reportedly seeking a pardon from Trump",
+          "url": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-06-14T20:29:12.000Z"
+        },
+        {
+          "title": "Frank founder Charlie Javice seeks Trump pardon after fraud conviction: WSJ",
+          "url": "https://seekingalpha.com/news/4603135-frank-founder-charlie-javice-seeks-trump-pardon-after-fraud-conviction-wsj",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-14T16:51:08.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_75711ad17a67fc46",
+      "label": [
+        "fans celebrate",
+        "celebrate",
+        "knick",
+        "title 53",
+        "53",
+        "53 year"
+      ],
+      "category": "new",
+      "theme": "theme_76a8549bd0cc8fe6",
+      "entities": [
+        "Fans Celebrate Knicks",
+        "First",
+        "Title",
+        "Years",
+        "Photos"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Fans Celebrate Knicks’ First N.B.A. Title in 53 Years",
+          "url": "https://www.nytimes.com/video/sports/basketball/100000010966601/knicks-nba-championship-new-york.html",
+          "source": "NYT > New York",
+          "published_at": "2026-06-14T18:34:18.000Z"
+        },
+        {
+          "title": "Photos: Knicks Fans Celebrate Their NBA Championship",
+          "url": "https://www.theatlantic.com/photography/2026/06/photos-knicks-fans-celebrate-their-nba-championship/687546",
+          "source": "The Atlantic",
+          "published_at": "2026-06-14T17:13:34.000Z",
+          "image": "https://cdn.theatlantic.com/thumbor/s2ryHHxsb7LYeIYWNZrvMLxe7Ac=/0x336:6291x3875/media/img/mt/2026/06/a01_G_2280850666/original.jpg"
+        },
+        {
+          "title": "Knicks beat Spurs to claim first NBA title in 53 years",
+          "url": "https://www.manilatimes.net/2026/06/15/news/world/knicks-beat-spurs-to-claim-first-nba-title-in-53-years/2364991",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-06-14T16:22:00.000Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/14/1098475.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_854ab6a817e9ddd6",
+      "label": [
+        "mark warner",
+        "warner",
+        "mark",
+        "dni",
+        "trump dni",
+        "warner says"
+      ],
+      "category": "new",
+      "theme": "theme_6ca47276012326d4",
+      "entities": [
+        "Mark Warner Eyes Senate",
+        "Vote This Week",
+        "Trump",
+        "DNI Nominee",
+        "Sen"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Mark Warner Eyes Senate Vote This Week on Trump’s DNI Nominee",
+          "url": "https://internewscast.com/news/us/mark-warner-eyes-senate-vote-this-week-on-trumps-dni-nominee",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-14T21:21:33.000Z"
+        },
+        {
+          "title": "Sen. Mark Warner says he hopes Senate can confirm Trump's DNI pick \"this week\"",
+          "url": "https://www.cbsnews.com/news/mark-warner-trump-dni-pick-jay-clayton-senate-confirmation-face-the-nation",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-06-14T19:26:02.000Z"
+        },
+        {
+          "title": "Sen. Mark Warner says intel community \"terrified of showing\" information to Bill Pulte",
+          "url": "https://www.cbsnews.com/video/sen-mark-warner-says-intel-community-terrified-of-showing-information-to-bill-pulte",
+          "source": "Face The Nation - CBSNews.com",
+          "published_at": "2026-06-14T16:22:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_b00e84370e5690ca",
+      "label": [
+        "sfc",
+        "ireland sfc",
+        "round",
+        "ireland",
+        "round draw",
+        "draw"
+      ],
+      "category": "new",
+      "theme": "theme_f6a3dac60ae0e63b",
+      "entities": [
+        "Ireland SFC",
+        "Monday",
+        "Round Three",
+        "Ireland SFC Round"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "All-Ireland SFC state of play and pots ahead of Monday's Round Three draw",
+          "url": "https://www.irishmirror.ie/sport/gaa/gaelic-football/ireland-sfc-state-play-pots-37294722",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-06-14T20:13:31.000Z",
+          "image": "https://i2-prod.irishmirror.ie/sport/gaa/gaelic-football/article37294710.ece/ALTERNATES/s615/94842_2964010.jpg"
+        },
+        {
+          "title": "All-Ireland SFC Round 3 draw: Who can face who after weekend games",
+          "url": "https://www.irishexaminer.com/sport/gaa/arid-41862537.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-14T16:24:00.000Z"
+        },
+        {
+          "title": "Here's the All-Ireland SFC state of play for round 3 draw",
+          "url": "https://www.the42.ie/all-ireland-sfc-round-3-draw-7070825-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-14T16:23:21.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/conor-early-celebrates-after-the-game-with-james-maguire-3489a871-ae6e-4077-ad96-cf73284e79ec-630x420.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_1c29d59655f5728a",
+      "label": [
+        "spider",
+        "yemen",
+        "crater",
+        "spider man",
+        "man yemen",
+        "volcanic crater"
+      ],
+      "category": "new",
+      "theme": "theme_e12dafd90c69a19d",
+      "entities": [
+        "Moment",
+        "Spider",
+        "Man",
+        "Yemen",
+        "Viral"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Moment ‘Spider-Man of Yemen’ climbs volcanic crater seconds before he loses grip and falls to his death",
+          "url": "https://www.thesun.co.uk/news/39410202/spider-man-yemen-climbs-volcanic-crater-falls-death",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-06-14T19:25:19.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F06%2Fnewspress-collage-wjxftq1rj-1781464692520.jpg?quality%3D90%26strip%3Dall%261781468308"
+        },
+        {
+          "title": "Viral ‘Spider-Man of Yemen’ dies after falling into volcanic crater",
+          "url": "https://www.independent.co.uk/news/world/middle-east/spider-man-yemen-volcano-fall-video-b2995473.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-14T16:57:18.000Z",
+          "image": "https://static.independent.co.uk/2026/06/14/17/download.-5.?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        },
+        {
+          "title": "'Spider-Man of Yemen' dies climbing volcanic crater",
+          "url": "https://news.sky.com/story/daredevil-adventurer-nicknamed-spider-man-of-yemen-dies-climbing-volcanic-crater-13554075",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-06-14T16:28:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-yemen-daredevil_7273381.jpg?20260614173450"
+        }
+      ]
+    },
+    {
+      "id": "topic_e8499e31367b4955",
+      "label": [
+        "rew",
+        "somerset",
+        "thoma rew",
+        "thoma",
+        "maiden ton",
+        "maiden"
+      ],
+      "category": "new",
+      "theme": "theme_fcabe5dd1aa55d7c",
+      "entities": [
+        "Thomas Rew",
+        "Somerset",
+        "Notts"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Thomas Rew scores maiden ton as Somerset close in",
+          "url": "https://www.espncricinfo.com/ci/content/story/1541184.html",
+          "source": "Cricket news from ESPN Cricinfo.com",
+          "published_at": "2026-06-14T18:27:31.000Z",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416587.jpg"
+        },
+        {
+          "title": "Thomas Rew hits maiden ton for dominant Somerset at Notts",
+          "url": "https://sports.yahoo.com/articles/thomas-rew-hits-maiden-ton-174826674.html",
+          "published_at": "2026-06-14T17:53:03.000Z"
+        },
+        {
+          "title": "Thomas Rew hits maiden ton for dominant Somerset at Notts",
+          "url": "https://www.bbc.com/news/articles/c0lyz6z0gl6o",
+          "source": "BBC Sport",
+          "published_at": "2026-06-14T17:48:21.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fbd/live/0e4cd000-680b-11f1-a177-65e13786d3a5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_69b059237a181c65",
+      "label": [
+        "g7",
+        "geneva",
+        "summit",
+        "protester",
+        "anti g7",
+        "g7 protester"
+      ],
+      "category": "new",
+      "theme": "theme_7246819867791fe4",
+      "entities": [
+        "Clashes",
+        "Geneva",
+        "G7",
+        "France",
+        "Violence"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Clashes as thousands protest in Geneva ahead of G7 summit in France",
+          "url": "https://japantoday.com/category/world/thousands-protest-in-geneva-ahead-of-g7-summit-in-france",
+          "source": "Japan Today",
+          "published_at": "2026-06-14T21:31:07.000Z"
+        },
+        {
+          "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-14T20:45:10.000Z"
+        },
+        {
+          "title": "Geneva police clash with anti-G7 protesters ahead of summit",
+          "url": "https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-06-14T20:00:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-geneva-g7-switzerland_7273542.jpg?20260614212413"
+        },
+        {
+          "title": "Watch: Protesters clash with police ahead of G7 summit in Geneva",
+          "url": "https://www.bbc.com/news/videos/crkvek3dnrgo",
+          "source": "BBC News",
+          "published_at": "2026-06-14T19:46:36.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e640/live/efdb6b60-6821-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Police fire teargas at protesters who set fire to a Tesla and smashed United Nations office's windows in Geneva ahead of G7 summit",
+          "url": "https://www.dailymail.com/news/article-15899175/police-fire-teargas-protesters-set-fire-tesla-smashed-united-nations-offices-windows-geneva-ahead-g7-summit.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-06-14T19:06:09.000Z",
+          "image": "https://i.dailymail.com/1s/2026/06/14/19/109346349-0-image-a-32_1781462969033.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_60cb6addd877be96",
+      "label": [
+        "acuerdo",
+        "ir",
+        "acuerdo de",
+        "paz",
+        "de paz",
+        "de"
+      ],
+      "category": "new",
+      "theme": "theme_b4c6588b8cccbf33",
+      "entities": [
+        "Estados Unidos",
+        "Ir",
+        "Ya",
+        "Trump",
+        "Ormuz"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Estados Unidos e Irán anuncian que han alcanzado un acuerdo para poner fin a la guerra",
+          "url": "https://elpais.com/internacional/2026-06-14/trump-anuncia-que-estados-unidos-e-iran-han-alcanzado-un-acuerdo-para-poner-fin-a-la-guerra.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-06-14T22:08:25.000Z",
+          "image": "https://imagenes.elpais.com/resizer/v2/7UU4BSTNLJKYPLDQDBVP2SHYAY.jpg?auth=05dd9e075768594d390b9a8766ca3a926c56bf063f11625c37c30ce317ff3e53"
+        },
+        {
+          "title": "Ya es oficial: Trump e Irán anuncian un acuerdo de paz que pone fin a la guerra y reabre el estrecho de Ormuz",
+          "url": "https://www.huffingtonpost.es/global/ya-oficial-trump-ean-anuncian-acuerdo-paz-pone-guerra-reabre-estrecho-ormuz-f202606.html",
+          "source": "HuffPost Spain for Athena2",
+          "published_at": "2026-06-14T22:07:08.000Z"
+        },
+        {
+          "title": "Trump y primer ministro de Pakistán anuncian acuerdo de paz con Irán, sin confirmación de la otra parte",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/trump-y-primer-ministro-de-pakistan-anuncian-acuerdo-de-paz-con-iran-autoridades-persas-no-lo-han-confirmado.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-06-14T21:55:52.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2020207.jpeg"
+        },
+        {
+          "title": "Pakistán y Trump anuncian acuerdo de paz entre Irán y Estados Unidos",
+          "url": "https://vanguardia.com.mx/noticias/pakistan-y-trump-anuncian-acuerdo-de-paz-entre-iran-y-estados-unidos-di21383550",
+          "source": "Vanguardia",
+          "published_at": "2026-06-14T21:46:36.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-06-14t16152_1-15788755_20260614221536.jpg"
+        },
+        {
+          "title": "Anuncia Trump acuerdo de paz con Ir�n; reabre Ormuz",
+          "url": "https://www.elnorte.com/anuncia-trump-acuerdo-de-paz-con-iran-reabre-ormuz/ar3222593",
+          "source": "ElNorte",
+          "published_at": "2026-06-14T21:46:33.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_60aa3ee4248ed3e4",
+      "label": [
+        "edo",
+        "nwfl",
+        "edo queen",
+        "queen",
+        "second nwfl",
+        "second"
+      ],
+      "category": "new",
+      "theme": "theme_f6e86a0e491b670e",
+      "entities": [
+        "Edo Queens Win",
+        "NWFL Title",
+        "Edo Queens",
+        "NWFL Premiership",
+        "NWFL"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Edo Queens Win 2025/26 NWFL Title",
+          "url": "https://www.informationng.com/2026/06/edo-queens-win-2025-26-nwfl-title.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-06-14T22:57:12.000Z"
+        },
+        {
+          "title": "Edo Queens clinch second NWFL Premiership title",
+          "url": "https://www.premiumtimesng.com/news/more-news/887621-edo-queens-clinch-second-nwfl-premiership-title.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-06-14T19:11:58.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/1003391817.jpg?fit=1080%2C940&amp;ssl=1"
+        },
+        {
+          "title": "Edo Queens claim second NWFL crown",
+          "url": "https://dailypost.ng/2026/06/14/edo-queens-claim-second-nwfl-crown",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-14T19:03:07.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/06/20260614_173443.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_f925fd996e406bf5",
+      "label": [
+        "dying",
+        "assist dying",
+        "assist",
+        "bill",
+        "return",
+        "bill set"
+      ],
+      "category": "new",
+      "theme": "theme_79d30016ae018020",
+      "entities": [
+        "Attempt",
+        "Labour",
+        "Major",
+        "Parliament",
+        "Assisted"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Attempt to reintroduce assisted dying bill sparks new Labour civil war",
+          "url": "https://www.independent.co.uk/news/uk/politics/assisted-dying-bill-labour-civil-war-b2995585.html",
+          "source": "The Independent UK",
+          "published_at": "2026-06-14T21:56:22.000Z",
+          "image": "https://static.independent.co.uk/2026/06/14/21/19/lauren-edwards.jpeg?width=1200&auto=webp&trim=0%2C94%2C0%2C93"
+        },
+        {
+          "title": "Major assisted dying update as bill set to return to Parliament",
+          "url": "https://www.express.co.uk/news/politics/2217284/assisted-dying-update-bill-return-parliament",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-06-14T21:47:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/139/590x/2217284_1.jpg"
+        },
+        {
+          "title": "Assisted dying bill set to return to the Commons",
+          "url": "https://www.theguardian.com/society/2026/jun/14/assisted-dying-bill-return-commons-lauren-edwards",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-14T20:54:36.000Z",
+          "image": "https://i.guim.co.uk/img/media/396b6f7938ccc67b1e240d0f68e88fc0487ca3fa/356_0_4868_3895/master/4868.jpg?width=140&quality=85&auto=format&fit=max&s=ae81b58ae780540791d9a3e8931f533f"
+        },
+        {
+          "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
+          "url": "https://www.bbc.com/news/articles/c4gyxgwkyxyo",
+          "source": "BBC News",
+          "published_at": "2026-06-14T20:05:21.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40e1/live/59cd9570-fcde-11f0-b7e1-afb6d0884c18.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_9be8d0c749cffe64",
+      "label": [
+        "fisa",
+        "fisa renewal",
+        "renewal",
+        "vot bill",
+        "vot",
+        "without save"
+      ],
+      "category": "new",
+      "theme": "theme_6e0caa3ad7352b5f",
+      "entities": [
+        "Trump",
+        "FISA",
+        "Andrew Pantazi",
+        "Axios",
+        "SAVE America Act"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Trump ties FISA renewal to his stalled voting bill (Andrew Pantazi/Axios)",
+          "url": "https://www.memeorandum.com/260614/p63",
+          "source": "memeorandum",
+          "published_at": "2026-06-14T23:00:00.000Z",
+          "image": "http://www.memeorandum.com/260614/i63.jpg"
+        },
+        {
+          "title": "Trump says he’ll refuse FISA spy power extension without SAVE America Act tacked on",
+          "url": "https://nypost.com/2026/06/14/us-news/trump-says-hell-refuse-fisa-extension-without-save-america-act-tacked-on",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-14T22:12:14.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fu-s-president-donald-trump-130605775_8f8dca.jpg?w%3D1024"
+        },
+        {
+          "title": "Trump won't back FISA renewal without his SAVE America Act voting bill - Axios",
+          "url": "https://news.google.com/rss/articles/cbmid0fvx3lxte40d1hytjzftnzcemzha0dqbkxnwnh4vvn3d3vfbfzaz2j0ohhvbkdstwsyvezumeg4efrav0fhs2fmakgzbwxry0vfqklzctjbri1vcgj5s2xrtupzbnrvr2h0y1ltq29suhfxwgl4bhi4t19nqw9r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-14T20:04:42.000Z"
+        },
+        {
+          "title": "Trump won't back FISA renewal without his SAVE America Act voting bill",
+          "url": "https://www.axios.com/2026/06/14/trump-fisa-renewal-save-america-act",
+          "source": "Axios",
+          "published_at": "2026-06-14T20:01:04.000Z",
+          "image": "https://images.axios.com/z2HrqBFOZhiJK3l3EHyr_dSx4Zw=/0x860:8256x5504/1366x768/2026/06/14/1781462190643.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_e3fa6bcea93d39a9",
+      "label": [
+        "fleet",
+        "shadow fleet",
+        "shadow",
+        "tanker",
+        "russian shadow",
+        "fleet tanker"
+      ],
+      "category": "new",
+      "theme": "theme_86118c6403beee1",
+      "entities": [
+        "British",
+        "Russian",
+        "Channel",
+        "Royal Marines",
+        "Putin"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "British forces intercept Russian shadow fleet tanker in the Channel",
+          "url": "https://japantoday.com/category/world/british-forces-intercept-russian-shadow-fleet-tanker-in-the-channel2",
+          "source": "Japan Today",
+          "published_at": "2026-06-14T21:31:27.000Z"
+        },
+        {
+          "title": "Royal Marines capture tanker from Putin's 'shadow fleet'... just in time for Starmer to boast about it at G7",
+          "url": "https://www.dailymail.com/news/article-15899465/royal-marines-capture-tanker-putins-shadow-fleet-just-time-starmer-boast-g7.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-06-14T21:31:07.000Z",
+          "image": "https://i.dailymail.com/1s/2026/06/14/22/109347639-0-image-a-40_1781472091543.jpg"
+        },
+        {
+          "title": "U.K. seizes Russian ‘shadow fleet’ tanker in first solo operation",
+          "url": "https://seekingalpha.com/news/4603143-u-k-seizes-russian-shadow-fleet-tanker-in-first-solo-operation",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-14T19:31:37.000Z"
+        },
+        {
+          "title": "Royal Marines Take Control Of Russian Shadow Fleet Tanker | BBC Newscast",
+          "url": "https://www.youtube.com/watch?v=shn42vhtnkg",
+          "source": "BBC News",
+          "published_at": "2026-06-14T19:00:30.000Z",
+          "image": "https://i4.ytimg.com/vi/shn42vhtnkg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_86290342d7944e8",
+      "label": [
+        "second test",
+        "robinson",
+        "test",
+        "second",
+        "robinson rul",
+        "rul"
+      ],
+      "category": "new",
+      "theme": "theme_cee07d5bdd68cf7c",
+      "entities": [
+        "England",
+        "Robinson",
+        "Test",
+        "New Zealand",
+        "Ollie Robinson"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "England bowler Robinson ruled out of second Test",
+          "url": "https://sports.yahoo.com/articles/england-bowler-robinson-ruled-second-194218384.html",
+          "published_at": "2026-06-14T19:42:18.000Z"
+        },
+        {
+          "title": "England bowler Robinson ruled out of second Test",
+          "url": "https://www.bbc.com/news/articles/crr8dlwvygno",
+          "source": "BBC Sport",
+          "published_at": "2026-06-14T19:42:13.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e7/live/a70cdcc0-6826-11f1-bbd5-b558f35f2fef.jpg"
+        },
+        {
+          "title": "Robinson ruled out of England's second Test against New Zealand",
+          "url": "https://news.sky.com/story/ollie-robinson-ruled-out-of-englands-second-test-against-new-zealand-with-knee-soreness-13554109",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-06-14T18:46:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-england-paceman-ollie-robinson_7272427.jpg?20260613145159"
+        },
+        {
+          "title": "Ollie Robinson out of second Test with knee injury",
+          "url": "https://www.espncricinfo.com/ci/content/story/1541219.html",
+          "source": "Cricket news from ESPN Cricinfo.com",
+          "published_at": "2026-06-14T18:00:03.000Z",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/417800/417882.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_98702802e8eaa13f",
+      "label": [
+        "un avion",
+        "avion",
+        "dans le",
+        "dans",
+        "le",
+        "douze"
+      ],
+      "category": "new",
+      "theme": "theme_53d8b37046d124f2",
+      "entities": [
+        "Le",
+        "Missouri",
+        "Etats",
+        "Unis",
+        "Un"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Le crash d’un avion de parachutisme dans le Missouri, aux Etats-Unis, fait 12 morts",
+          "url": "https://www.lemonde.fr/international/article/2026/06/14/le-crash-d-un-avion-de-parachutisme-dans-le-missouri-aux-etats-unis-fait-12-morts_6702959_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-14T19:41:15.000Z",
+          "image": "https://img.lemde.fr/2026/06/14/183/0/2200/1100/644/322/60/0/5da4a5a_ftp-1-ke7hkfkdedzp-2026-06-14t190923z-1040069435-rc2ntlatcyjc-rtrmadp-3-usa-missouri-crash.JPG"
+        },
+        {
+          "title": "Un avion de parachutistes amateurs s’écrase dans le Misouri, les douze passagers sont morts",
+          "url": "https://www.sudouest.fr/international/un-avion-de-parachutistes-amateurs-s-ecrase-dans-le-misouri-les-douze-passagers-sont-morts-29489646.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-14T19:27:40.000Z"
+        },
+        {
+          "title": "États-Unis : douze morts dans le crash d’un avion de parachutisme",
+          "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-douze-morts-dans-le-crash-dun-avion-de-parachutisme-8812409a-6820-11f1-8ae5-0c53cf467897",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-14T19:01:58.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2ZTE0NTFiMmFmZTcxN2UzNWFmZTI2NDkxODEyMTQzMzE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b6def516fdc60c09f79897b4d3d1f6d6dca12cbfba454552599b5c352807f5be"
+        },
+        {
+          "title": "Un avion s'écrase dans le centre des Etats-Unis, les douze personnes à bord décédées",
+          "url": "https://www.dhnet.be/actu/monde/2026/06/14/un-avion-secrase-dans-le-centre-des-etats-unis-les-douze-personnes-a-bord-decedees-glwwd2u2ffgcfn4xmpieyqwwei",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-06-14T18:35:19.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/MT6BMHLQTREGXHEVNUQYVVWUYQ.png?auth=49d3bf2e67f062a4da17cdfb210fe43d955002c202bd213e330a05ee8aaa3fd2&smart=true&width=1200&height=800"
+        }
+      ]
+    }
+  ]
+}
