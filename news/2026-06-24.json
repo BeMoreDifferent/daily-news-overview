@@ -1,0 +1,895 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-25T00:50:09.744Z",
+  "topics": [
+    {
+      "id": "topic_1d3d05f7a7cce84b",
+      "label": [
+        "independent",
+        "mps form",
+        "form political",
+        "political party",
+        "teal",
+        "mps"
+      ],
+      "category": "new",
+      "theme": "theme_53f5bf577a1d98d7",
+      "entities": [
+        "The Independent",
+        "Crossroads",
+        "Teal MPs",
+        "Teal",
+        "MPs"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "КНДР приняла на вооружение ВМС новый эсминец с ядерным вооружением, – The Independent",
+          "url": "https://www.unian.net/world/severnaya-koreya-kndr-vvela-v-stroy-esminec-chhve-hen-osnashchennyy-yadernym-oruzhiem-13422021.html",
+          "source": "Информационное агентство УНИАН",
+          "published_at": "2026-06-24T23:28:25.000Z",
+          "image": "https://images.unian.net/photos/2024_06/1718465527-5387.jpg"
+        },
+        {
+          "title": "'Crossroads': Teal MPs form new political party",
+          "url": "https://www.perthnow.com.au/news/politics/crossroads-teal-mps-form-new-political-party-c-22482429",
+          "source": "PerthNow",
+          "published_at": "2026-06-24T21:15:58.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22482429/6df0b0eb496da3764664ff35690f836049514baa-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "‘Crossroads’: Teal MPs form new political party",
+          "url": "https://michaelwest.com.au/crossroads-teal-mps-form-new-political-party",
+          "source": "Michael West",
+          "published_at": "2026-06-24T21:13:49.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/b0ca2fa5-d3ce-44f2-8127-6a6957a0c704.jpg"
+        },
+        {
+          "title": "Teal independent MPs to form new political party",
+          "url": "https://www.smh.com.au/national/teal-independent-mps-to-form-new-political-party-20260625-p609vv.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-24T20:21:58.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/58605a877e00433ad9d77137c1707a1ee717a770"
+        },
+        {
+          "title": "Teal independent MPs to form new political party",
+          "url": "https://www.theage.com.au/national/teal-independent-mps-to-form-new-political-party-20260625-p609vv.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-24T20:21:58.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/58605a877e00433ad9d77137c1707a1ee717a770"
+        }
+      ]
+    },
+    {
+      "id": "topic_d738866b8e0d76f4",
+      "label": [
+        "musk",
+        "trillionaire",
+        "spacex",
+        "elon musk",
+        "elon",
+        "statu"
+      ],
+      "category": "new",
+      "theme": "theme_a0ccdac9a40d7807",
+      "entities": [
+        "Musk",
+        "SpaceX",
+        "Elon Musk",
+        "Tesla",
+        "The Guardian"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Musk's trillionaire status slips as SpaceX shares swing",
+          "url": "https://www.perthnow.com.au/news/world/musks-trillionaire-status-slips-as-spacex-shares-swing-c-22482499",
+          "source": "PerthNow",
+          "published_at": "2026-06-24T21:37:29.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22482499/ad7c60dd255b443ca2d82255ec46238a50dff015-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Musk’s trillionaire status slips as SpaceX shares swing",
+          "url": "https://michaelwest.com.au/musks-trillionaire-status-slips-as-spacex-shares-swing",
+          "source": "Michael West",
+          "published_at": "2026-06-24T21:35:39.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/8477c6af-bfd2-475e-becc-14b5e5f7ee11.jpg"
+        },
+        {
+          "title": "Elon Musk a trillionaire no more as SpaceX stock tumbles",
+          "url": "https://mashable.com/tech/elon-musk-no-longer-a-trillionaire-spacex-stock-falls",
+          "source": "Mashable",
+          "published_at": "2026-06-24T20:51:38.000Z"
+        },
+        {
+          "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian",
+          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxqa1mzytc3dja3uunjohheejfzcezoqvplykflatvfandyqkdxcenfetb6wwnwdflvwenuagf4ngiymxhrmnvzzktvrdbzszhnc0t4c1pccfjxwvdntfgwdkfqtuxjnjhtblpaegftd2mybhhqs3i5dteyrgq5thawb3itnwnbqja",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T20:11:00.000Z"
+        },
+        {
+          "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
+          "url": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
+          "source": "The Guardian",
+          "published_at": "2026-06-24T20:02:33.000Z",
+          "image": "https://i.guim.co.uk/img/media/521f3b049ac5da2f48e391d41a57b861f897c558/2025_702_4753_3802/master/4753.jpg?width=140&quality=85&auto=format&fit=max&s=9a33fee9580f871cd9f8b67826de6786"
+        }
+      ]
+    },
+    {
+      "id": "topic_d2f5258c602e1fd3",
+      "label": [
+        "openai",
+        "chip",
+        "openai broadcom",
+        "broadcom",
+        "custom chip",
+        "custom"
+      ],
+      "category": "new",
+      "theme": "theme_57608c2887aba5b5",
+      "entities": [
+        "OpenAI",
+        "Broadcom",
+        "LLM",
+        "AI",
+        "Jalape"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-06-24T22:28:18.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp"
+        },
+        {
+          "title": "OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip",
+          "url": "https://thenewstack.io/openai-jalapeno-custom-chip",
+          "source": "The New Stack",
+          "published_at": "2026-06-24T20:55:13.000Z",
+          "image": "https://cdn.thenewstack.io/media/2026/06/b82c1e57-summerizze-q35cbyjazwi-unsplash-1024x819.jpg"
+        },
+        {
+          "title": "OpenAI’s first AI chip is called Jalapeño #Vergecast",
+          "url": "https://www.youtube.com/shorts/umouB2F_Vy0",
+          "source": "The Verge",
+          "published_at": "2026-06-24T20:51:56.000Z",
+          "image": "https://i2.ytimg.com/vi/umouB2F_Vy0/hqdefault.jpg"
+        },
+        {
+          "title": "Jalapeño is the first AI chip from OpenAI and Broadcom",
+          "url": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-24T20:10:40.000Z",
+          "image": "https://www.engadget.com/img/gallery/openai-unveils-its-chip-for-llms-made-with-broadcom/l-intro-1782331537.jpg"
+        },
+        {
+          "title": "OpenAI has revealed its first custom chip, and Nvidia should be worried",
+          "url": "https://www.howtogeek.com/openai-has-revealed-its-first-custom-chip-and-nvidia-should-be-worried",
+          "source": "How-To Geek",
+          "published_at": "2026-06-24T19:13:25.000Z",
+          "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "topic_eca1902e0729df83",
+      "label": [
+        "sanction",
+        "judg sue",
+        "sue trump",
+        "judg",
+        "sue",
+        "icc judg"
+      ],
+      "category": "new",
+      "theme": "theme_a440df320e9c8db2",
+      "entities": [
+        "ICC",
+        "Trump",
+        "US",
+        "World",
+        "Daphne Psaledakis"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "ICC judges sue Trump administration over US sanctions",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/25/icc-judges-sue-trump-administration-over-us-sanctions_6754846_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-24T23:32:06.000Z",
+          "image": "https://img.lemde.fr/2026/06/23/733/0/7949/3974/644/322/60/0/afe9ef7_ftp-1-d5eizmabognl-02d7dab0aeb04c4c8ad81fd79acecd03-0-7080896bef354cbaa1eaa686d1d5baf0.jpg"
+        },
+        {
+          "title": "ICC judges sue Trump over 'draconian' sanctions",
+          "url": "https://globalnation.inquirer.net/328630/icc-judges-sue-trump-over-draconian-sanctions",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-24T23:28:39.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260624__2282641685__v1__HighRes__PresidentTrumpMeetsWithNatoSecretaryGeneralM-620x413.jpg"
+        },
+        {
+          "title": "ICC judges sue Trump over ‘draconian’ sanctions",
+          "url": "https://www.digitaljournal.com/article/icc-judges-sue-trump-over-draconian-sanctions",
+          "source": "Digital Journal",
+          "published_at": "2026-06-24T23:20:11.000Z"
+        },
+        {
+          "title": "World court judges sue Trump administration over sanctions (Daphne Psaledakis/Reuters)",
+          "url": "https://www.memeorandum.com/260624/p111",
+          "source": "memeorandum",
+          "published_at": "2026-06-24T21:55:04.000Z",
+          "image": "http://www.memeorandum.com/260624/i111.jpg"
+        },
+        {
+          "title": "ICC judges sue Trump administration over sanctions",
+          "url": "https://www.gmanetwork.com/news/topstories/world/992618/icc-judges-sue-trump-administration-over-sanctions/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-24T20:49:27.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/DonaldTrump_2026_06_14_06_57_52.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_97ed009235b7c7c6",
+      "label": [
+        "grand theft",
+        "theft auto",
+        "grand",
+        "theft",
+        "auto",
+        "physical"
+      ],
+      "category": "new",
+      "theme": "theme_9a01bac16ebeb329",
+      "entities": [
+        "GTA",
+        "BBC",
+        "Preventa",
+        "Grand Theft Auto VI",
+        "The Grand Theft Auto"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "GTA 6 will cost $80 - and physical edition will not contain a disc - BBC",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte96rhjkzvfprzhryjvbswrpddy1nk9qz0flyzvetnrqekfmdmzqsmjomwvnuetnsuzism5nrlpbwwzlxzy3mg9pnlf1d1g4qzleul9oslpxouxnzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T23:20:12.000Z"
+        },
+        {
+          "title": "Preventa de ‘Grand Theft Auto VI’: ¿A qué hora inicia y cuánto costará?",
+          "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/06/24/preventa-de-grand-theft-auto-vi-a-que-hora-inicia-y-cuanto-costara",
+          "source": "El Financiero",
+          "published_at": "2026-06-24T23:14:01.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/nHLeWpImdijpk9sFvFVErXVARlA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C77IAZIXNJA7XIAKNANDL4PWG4.jpeg"
+        },
+        {
+          "title": "Grand Theft Auto VI will cost $80 without a physical disc",
+          "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc",
+          "source": "Gaming - Ars Technica",
+          "published_at": "2026-06-24T22:47:03.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg"
+        },
+        {
+          "title": "The Grand Theft Auto 6 physical edition is overpriced DRM in a box",
+          "url": "https://www.engadget.com/2201164/the-grand-theft-auto-6-physical-edition-is-overpriced-drm-in-a-box",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-24T22:26:57.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-grand-theft-auto-6-physical-edition-is-overpriced-drm-in-a-box/l-intro-1782339749.jpg"
+        },
+        {
+          "title": "Grand Theft Auto 6's graphics are blowing fans' minds",
+          "url": "https://www.polygon.com/gta-6-ps5-pro-enhancements-ray-tracing-thrillbilly-club",
+          "source": "Polygon.com",
+          "published_at": "2026-06-24T20:23:44.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/buggy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_ee02cd94a428b882",
+      "label": [
+        "semi",
+        "semi final",
+        "england",
+        "final",
+        "west indy",
+        "indy"
+      ],
+      "category": "new",
+      "theme": "theme_2dcff54d0ae71638",
+      "entities": [
+        "England",
+        "West Indies",
+        "Wyatt",
+        "Hodge",
+        "T20 World Cup"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "England beat West Indies to secure semi-final place",
+          "url": "https://sports.yahoo.com/articles/england-beat-west-indies-secure-210043058.html",
+          "published_at": "2026-06-24T21:32:09.000Z"
+        },
+        {
+          "title": "Wyatt-Hodge fires England into T20 World Cup semi-final after West Indies win",
+          "url": "https://www.theguardian.com/sport/2026/jun/24/wyatt-hodge-fires-england-into-t20-world-cup-semi-final-after-west-indies-win",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-06-24T21:31:40.000Z",
+          "image": "https://i.guim.co.uk/img/media/4639f0b76a9f503b44c117f69dd25c61840f5070/189_0_2377_1902/master/2377.jpg?width=140&quality=85&auto=format&fit=max&s=f2003ce8be464a03a9233f4a41a5df4a"
+        },
+        {
+          "title": "England beat West Indies to secure semi-final place",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cyv06ll3gv3o",
+          "source": "BBC Sport",
+          "published_at": "2026-06-24T21:23:08.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0d/live/9069c130-7015-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Wyatt-Hodge, Knight and bowlers power England into semi-final",
+          "url": "https://www.cricinfo.com/ci/content/story/1542792.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-06-24T21:22:57.000Z",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418857.jpg"
+        },
+        {
+          "title": "England reach T20 World Cup semi-finals after easing past West Indies",
+          "url": "https://news.sky.com/story/england-reach-womens-t20-world-cup-semi-finals-with-win-over-west-indies-their-fourth-straight-victory-in-tournament-13557398",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-06-24T20:55:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-danni-wyatt-hodge_7282061.jpg?20260624210926"
+        }
+      ]
+    },
+    {
+      "id": "topic_923b84b66f8b159a",
+      "label": [
+        "stealc",
+        "amadey",
+        "stealc amadey",
+        "disrupt",
+        "infostealer",
+        "infostealer stealc"
+      ],
+      "category": "new",
+      "theme": "theme_affe9859bd0d7513",
+      "entities": [
+        "Operation Endgame Disrupts StealC",
+        "Amadey",
+        "SocGholish Malware Networks",
+        "Infostealers StealC",
+        "Amadey Disrupted"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Operation Endgame Disrupts StealC, Amadey and SocGholish Malware Networks",
+          "url": "https://hackread.com/operation-endgame-stealc-amadey-socgholish-malware",
+          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
+          "published_at": "2026-06-24T20:42:27.000Z",
+          "image": "https://operation-endgame.com/videos/S03E04_STEALC.mp4"
+        },
+        {
+          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
+          "url": "https://www.govinfosecurity.com/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
+        },
+        {
+          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
+          "url": "https://www.databreachtoday.co.uk/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
+        },
+        {
+          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
+          "url": "https://www.bankinfosecurity.com/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
+          "source": "BankInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
+        },
+        {
+          "title": "Europol Disrupts StealC and Amadey Malware Infrastructure in Operation Endgame",
+          "url": "https://securityaffairs.com/194173/cyber-crime/europol-disrupts-stealc-and-amadey-malware-infrastructure-in-operation-endgame.html",
+          "source": "Security Affairs",
+          "published_at": "2026-06-24T18:43:16.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_693daab93e87bec3",
+      "label": [
+        "anthropic accus",
+        "accus alibaba",
+        "alibaba",
+        "anthropic",
+        "accus",
+        "illicitly"
+      ],
+      "category": "new",
+      "theme": "theme_3944b98a53234c1b",
+      "entities": [
+        "Anthropic",
+        "Alibaba",
+        "Claude",
+        "AI",
+        "Anthropic Accuses Alibaba"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude",
+          "url": "https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c",
+          "source": "International homepage",
+          "published_at": "2026-06-24T21:36:50.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6548cb47-0426-468a-bfc1-b6672e6ff501.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-06-24T21:18:44.000Z"
+        },
+        {
+          "title": "Anthropic accuses Alibaba of running the largest distillation campaign yet against Claude",
+          "url": "https://thenextweb.com/news/anthropic-accuses-alibaba-distillation-claude-qwen",
+          "source": "The Next Web",
+          "published_at": "2026-06-24T21:12:17.000Z",
+          "image": "https://media.thenextweb.com/2026/06/anthropic-accuses-alibaba-distillation-claude-qwen.avif"
+        },
+        {
+          "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-24T19:36:41.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuA9I8ntkV40/v0/1200x-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_c6c25373321b1bc9",
+      "label": [
+        "espriella",
+        "la espriella",
+        "de la",
+        "colombia",
+        "presidente",
+        "electo"
+      ],
+      "category": "new",
+      "theme": "theme_ab7c39faca5424d7",
+      "entities": [
+        "Abelardo De",
+        "Espriella",
+        "CNE",
+        "Declaran",
+        "De"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Abelardo De la Espriella ya es presidente electo: CNE lo declara ganador de la elección",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/06/24/abelardo-de-la-espriella-ya-es-presidente-electo-cne-lo-declara-ganador-de-la-eleccion",
+          "source": "El Financiero",
+          "published_at": "2026-06-24T22:29:21.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/asPnXpTdv7liGe98Alz5lPuA2yo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/V6T4KNPH4ZHORNC77O3C25WBUU.jpg"
+        },
+        {
+          "title": "Declaran a De la Espriella Presidente electo en Colombia",
+          "url": "https://www.elnorte.com/declaran-a-de-la-espriella-presidente-electo-en-colombia/ar3228573",
+          "source": "ElNorte",
+          "published_at": "2026-06-24T22:22:03.000Z"
+        },
+        {
+          "title": "Abelardo de la Espriella es declarado presidente electo de Colombia",
+          "url": "https://vanguardia.com.mx/noticias/abelardo-de-la-espriella-es-declarado-presidente-electo-de-colombia-ja21659752",
+          "source": "Vanguardia",
+          "published_at": "2026-06-24T22:15:59.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-06-24t16263_1-15918856_20260624224126.jpg"
+        },
+        {
+          "title": "Colombia election: Abelardo de la Espriella wins after Ivan Cepeda concedes",
+          "url": "https://www.indiatoday.in/world/story/colombia-election-results-abelardo-de-la-espriella-wins-after-ivan-cepeda-concedes-ptag-2933619-2026-06-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-24T21:28:32.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-3-original_92-sixteen_nine.png?VersionId=hqtbKMeaP1R4DmmwUee_fiYLtyf73czE"
+        }
+      ]
+    },
+    {
+      "id": "topic_9964a840e4efe74a",
+      "label": [
+        "europe",
+        "record break",
+        "record",
+        "europe swelter",
+        "swelter record",
+        "heat wave"
+      ],
+      "category": "new",
+      "theme": "theme_f6373c7810ddcc57",
+      "entities": [
+        "Europe",
+        "Record",
+        "Breaking Heat Wave Across",
+        "Europe Signals Harsh Future",
+        "Climate Change"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "More records fall as Europe’s deadly heat wave persists",
+          "url": "https://www.japantimes.co.jp/news/2026/06/25/world/europe-heat-wave-records",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-24T23:17:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/25/548013.jpg"
+        },
+        {
+          "title": "Europe swelters under record-breaking heatwave",
+          "url": "https://globalnation.inquirer.net/328615/europe-swelters-under-record-breaking-heatwave",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-24T22:25:00.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260624__B87Y6G3__v1__HighRes__FranceWeatherClimateHeat-620x413.jpg"
+        },
+        {
+          "title": "Europe swelters under record-breaking heat wave",
+          "url": "https://phys.org/news/2026-06-europe-swelters-1.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-06-24T21:40:01.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/food-delivery-drivers.jpg"
+        },
+        {
+          "title": "Record-Breaking Heat Wave Across Europe Signals Harsh Future of Climate Change",
+          "url": "https://truthout.org/articles/record-breaking-heat-wave-across-europe-signals-harsh-future-of-climate-change",
+          "source": "Truthout",
+          "published_at": "2026-06-24T20:11:30.000Z",
+          "image": "https://truthout.org/app/uploads/2026/06/2026_06_24-Simone_Padovani-1200x900.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_51636292b24b21c5",
+      "label": [
+        "ozekhome",
+        "mike ozekhome",
+        "mike",
+        "suspend",
+        "san",
+        "lppc suspend"
+      ],
+      "category": "new",
+      "theme": "theme_b744ac241662dd6b",
+      "entities": [
+        "LPPC Suspends Mike Ozekhome",
+        "SAN Rank",
+        "LPPC",
+        "Mike Ozekhome",
+        "SAN"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "LPPC Suspends Mike Ozekhome’s SAN Rank",
+          "url": "https://www.informationng.com/2026/06/lppc-suspends-mike-ozekhomes-san-rank.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-06-24T22:16:25.000Z"
+        },
+        {
+          "title": "LPPC suspends senior lawyer Mike Ozekhome from SAN rank",
+          "url": "https://www.premiumtimesng.com/news/headlines/890468-lppc-suspends-senior-lawyer-mike-ozekhome-from-san-rank.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-06-24T22:04:13.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/Mike-Ozekhome-copy.jpg?fit=1024%2C645&amp;ssl=1"
+        },
+        {
+          "title": "Breaking: Lawyers suspend Mike Ozekhome as senior advocate of Nigeria, SAN, see why",
+          "url": "https://www.legit.ng/nigeria/1716162-breaking-legal-practitioners-suspend-ozekhome-san-status",
+          "source": "Legit.ng",
+          "published_at": "2026-06-24T20:38:29.000Z",
+          "image": "https://cdn.legit.ng/images/1200x675/3dc1ffe7c17073de.jpeg?v=1"
+        },
+        {
+          "title": "BREAKING: LPPC suspends Mike Ozekhome’s SAN rank",
+          "url": "https://dailypost.ng/2026/06/24/lppc-suspends-mike-ozekhomes-san-rank",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-24T20:13:43.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/02/Mike-Ozekhome.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_c1c145a2fad32bec",
+      "label": [
+        "postmaster",
+        "ballot",
+        "plan",
+        "mail",
+        "plan hold",
+        "hold back"
+      ],
+      "category": "new",
+      "theme": "theme_cf8703a52a640164",
+      "entities": [
+        "Postmaster General Confirms Plan",
+        "Hold Back Mail Ballots",
+        "Under Proposed Rule",
+        "Adam Sella",
+        "New York Times"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Postmaster General Confirms Plan to Hold Back Mail Ballots Under Proposed Rule (Adam Sella/New York Times)",
+          "url": "https://www.memeorandum.com/260624/p121",
+          "source": "memeorandum",
+          "published_at": "2026-06-24T23:15:00.000Z",
+          "image": "http://www.memeorandum.com/260624/i121.jpg"
+        },
+        {
+          "title": "Postmaster Plans to Hold Back Mail Ballots",
+          "url": "https://politicalwire.com/2026/06/24/postmaster-plans-to-hold-back-mail-ballots",
+          "source": "Political Wire",
+          "published_at": "2026-06-24T23:03:00.000Z"
+        },
+        {
+          "title": "Postmaster General Confirms Plan to Hold Back Mail Ballots Under Proposed Rule",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/postmaster-mail-ballot-rule-trump-elections.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-24T20:30:47.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24trump-news-mail-ballots-lhqp/24trump-news-mail-ballots-lhqp-mediumSquareAt3X.jpg"
+        },
+        {
+          "title": "Postmaster general confirms plan to block ballots in states that balk at Trump’s demands",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-voter-rolls-postal-service-general-block-ballots-states",
+          "source": "MS NOW",
+          "published_at": "2026-06-24T19:46:52.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_bf0ad732f895fcd7",
+      "label": [
+        "stok apologis",
+        "apologis",
+        "ben stok",
+        "ben",
+        "stok",
+        "naive"
+      ],
+      "category": "new",
+      "theme": "theme_62f0a65dbf7aff79",
+      "entities": [
+        "Stupid",
+        "Ben Stokes",
+        "England",
+        "New Zealand"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
+          "url": "https://www.theage.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-24T21:39:19.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
+        },
+        {
+          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
+          "url": "https://www.smh.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-24T21:39:19.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
+        },
+        {
+          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
+          "url": "https://www.brisbanetimes.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-24T21:39:19.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
+        },
+        {
+          "title": "Ben Stokes apologises to England teammates, urges focus on New Zealand series decider",
+          "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-ben-stokes-apologise-england-teammates-nottingham-test-nightclub-incident-2933599-2026-06-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-24T18:48:05.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/ben-stokes-244557564-16x9_0.jpg?VersionId=xAXqoIkAe714oRabRpvmWejG_iNutDW2"
+        }
+      ]
+    },
+    {
+      "id": "topic_7e0a674358fe3256",
+      "label": [
+        "white house",
+        "house request",
+        "white",
+        "iran war",
+        "87",
+        "house"
+      ],
+      "category": "new",
+      "theme": "theme_a0fe05e805c5f9d",
+      "entities": [
+        "White House",
+        "Congress",
+        "Iran",
+        "Ebola",
+        "Trump White House"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "White House asks Congress for $87.6 billion for Iran war, aid to U.S. farmers, tackling Ebola crisis",
+          "url": "https://www.thehindu.com/news/international/white-house-asks-congress-for-876-billion-for-iran-war-aid-to-us-farmers-tackling-ebola-crisis/article71143693.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-24T23:31:37.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/vntfvl/article71143782.ece/alternates/LANDSCAPE_1200/2026-06-21T220538Z_511119789_RC2KYLAHZZ79_RTRMADP_3_USA-250.JPG"
+        },
+        {
+          "title": "Trump White House requests $87.6bn in spending, including for Iran war",
+          "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-24T23:25:01.000Z"
+        },
+        {
+          "title": "White House requests $67 billion in supplemental Pentagon funding after Iran war",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4624151/trump-supplemental-funding-pentagon-iran",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-24T22:32:33.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26169405315095.jpg?w=696"
+        },
+        {
+          "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+          "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-06-24T21:36:30.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_4912c5cc149b50c9",
+      "label": [
+        "53946",
+        "2026 53946",
+        "cve 2026",
+        "cve",
+        "2026",
+        "request"
+      ],
+      "category": "new",
+      "theme": "theme_c8d34beccda0225e",
+      "entities": [
+        "CVE",
+        "Cisco Unified Communications Manager",
+        "Server",
+        "Side Request Forgery Vulnerability",
+        "TryGhost"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "CVE-2026-20230 | Cisco Unified Communications Manager Server-Side Request Forgery Vulnerability",
+          "url": "https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20230",
+          "source": "Horizon3.ai",
+          "published_at": "2026-06-24T22:00:00.000Z"
+        },
+        {
+          "title": "CVE-2026-53946 | TryGhost up to 6.21.0 HTTP Request server-side request forgery (GHSA-g366-23fw-ggp6)",
+          "url": "https://vuldb.com/vuln/373512",
+          "source": "VulDB Recent Entries",
+          "published_at": "2026-06-24T19:27:41.000Z"
+        },
+        {
+          "title": "CVE-2026-53946",
+          "url": "https://vulners.com/nvd/nvd:cve-2026-53946",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-06-24T19:17:12.000Z",
+          "image": "http://vulners.com/static/img/nvd.png"
+        }
+      ]
+    },
+    {
+      "id": "topic_e7fff2fa1755bc1f",
+      "label": [
+        "ahmedabad airport",
+        "taxiway",
+        "ahmedabad",
+        "air india",
+        "airport",
+        "india"
+      ],
+      "category": "new",
+      "theme": "theme_d6a3379807838bb7",
+      "entities": [
+        "Wrong",
+        "Air India",
+        "Ahmedabad",
+        "IndiGo"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Wrong taxiway turn by Air India aircraft triggers ground incident at Ahmedabad airport",
+          "url": "https://www.thehindubusinessline.com/economy/logistics/wrong-taxiway-turn-by-air-india-aircraft-triggers-ground-incident-at-ahmedabad-airport/article71143339.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-24T23:11:46.000Z",
+          "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/b40ha2/article71026765.ece/alternates/LANDSCAPE_1200/Air-India-expanG6TG1G0PR.4.jpg.jpg"
+        },
+        {
+          "title": "Air India plane comes in front of IndiGo aircraft on same taxiway at Ahmedabad airport",
+          "url": "https://www.thehindu.com/news/national/air-india-plane-comes-in-front-of-indigo-aircraft-on-same-taxiway-at-ahmedabad-airport/article71143344.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-24T18:53:24.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/rv3783/article71143369.ece/alternates/LANDSCAPE_1200/_DSC0375.JPG"
+        },
+        {
+          "title": "'Wrong turn': Air India plane comes in front of IndiGo flight on same taxiway at Ahmedabad airport",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/wrong-turn-air-india-plane-comes-in-front-of-indigo-flight-on-same-taxiway-at-ahmedabad-airport/articleshow/131976273.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-24T18:51:28.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131977295,imgsize-105404.cms"
+        }
+      ]
+    },
+    {
+      "id": "topic_e7666d80bed27409",
+      "label": [
+        "como der",
+        "avanza",
+        "suiza",
+        "canad",
+        "grupo",
+        "der"
+      ],
+      "category": "new",
+      "theme": "theme_a3de4a13c178646a",
+      "entities": [
+        "Mundial",
+        "Suiza",
+        "Canad",
+        "Grupo",
+        "Bosnia"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Mundial 2026: Suiza derrota a Canadá y avanza como líder del Grupo B; Bosnia queda cerca de los Dieciseisavos",
+          "url": "https://vanguardia.com.mx/deportes/mundial-2026-suiza-derrota-a-canada-y-avanza-como-lider-del-grupo-b-bosnia-queda-cerca-de-los-dieciseisavos-da21650254",
+          "source": "Vanguardia",
+          "published_at": "2026-06-24T21:07:44.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/suiza-bosnia_1-15917675_20260624211531.png"
+        },
+        {
+          "title": "Avanza Suiza como líder de grupo tras vencer a Canadá",
+          "url": "https://www.elnorte.com/avanza-suiza-como-lider-de-grupo-tras-vencer-a-canada/ar3228530",
+          "source": "ElNorte",
+          "published_at": "2026-06-24T21:00:40.000Z"
+        },
+        {
+          "title": "Avanza Suiza como líder del Grupo B tras vencer a Canadá",
+          "url": "https://www.reforma.com/avanza-suiza-como-lider-del-grupo-b-tras-vencer-a-canada/ar3228522",
+          "source": "Reforma",
+          "published_at": "2026-06-24T20:57:09.000Z"
+        }
+      ]
+    }
+  ]
+}
