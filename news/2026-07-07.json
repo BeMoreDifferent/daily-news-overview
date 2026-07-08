@@ -1,0 +1,928 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-08T00:50:04.127Z",
+  "topics": [
+    {
+      "id": "topic_d8c87a8966ace4ea",
+      "label": [
+        "galaxy",
+        "july 22",
+        "july",
+        "22",
+        "galaxy unpack",
+        "unpack"
+      ],
+      "category": "new",
+      "theme": "theme_5385a6426ee24e7e",
+      "entities": [
+        "Samsung",
+        "Galaxy",
+        "Fold",
+        "Flip",
+        "July"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Samsung's Galaxy Z Fold 8 and Flip 8 arrive July 22, but it's the mystery new foldable that has my attention",
+          "url": "https://www.xda-developers.com/samsung-galaxy-z-fold-8-flip-8-arrive-july-22-mystery-new-foldable",
+          "source": "XDA",
+          "published_at": "2026-07-07T23:33:17.000Z",
+          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/galaxy-z-fold-7-1.jpg"
+        },
+        {
+          "title": "Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design (Chris Welch/Bloomberg)",
+          "url": "https://www.techmeme.com/260707/p38",
+          "source": "Techmeme",
+          "published_at": "2026-07-07T23:15:02.000Z",
+          "image": "http://www.techmeme.com/260707/i38.jpg"
+        },
+        {
+          "title": "Invitation: Galaxy Unpacked July 2026: A New Shape Unfolds",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/invitation-galaxy-unpacked-july-2026-a-new-shape-unfolds",
+          "source": "Financial Post",
+          "published_at": "2026-07-07T23:05:10.000Z"
+        },
+        {
+          "title": "[Invitation] Galaxy Unpacked July 2026: A New Shape Unfolds [July 22]",
+          "url": "https://www.reddit.com/r/android/comments/1uqb2fl/invitation_galaxy_unpacked_july_2026_a_new_shape",
+          "source": "Android",
+          "published_at": "2026-07-07T23:01:11.000Z",
+          "image": "https://external-preview.redd.it/Gq4PVfzWyKw-wARvFsSidNI1Hrey-BkQiS784DlcHDY.jpeg?width=640&crop=smart&auto=webp&s=ddf9c5f2c3d918a52f001065fdc25c318757857b"
+        },
+        {
+          "title": "Samsung’s Next Galaxy Foldables Will Be Announced on July 22",
+          "url": "https://gizmodo.com/samsungs-next-galaxy-foldables-will-be-announced-on-july-22-2000782651",
+          "source": "Gizmodo",
+          "published_at": "2026-07-07T23:00:15.000Z",
+          "image": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-52-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_89ca59a527d89c35",
+      "label": [
+        "olympic",
+        "lift",
+        "ioc",
+        "russian olympic",
+        "ban",
+        "ioc lift"
+      ],
+      "category": "new",
+      "theme": "theme_d4435b194ee0ace6",
+      "entities": [
+        "International Olympic Committee Lifts",
+        "Russia Ban",
+        "It Continues Bombing Ukraine",
+        "Olympics",
+        "IOC"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "International Olympic Committee Lifts Russia Ban as It Continues Bombing Ukraine",
+          "url": "https://truthout.org/articles/international-olympic-committee-lifts-russia-ban-as-it-continues-bombing-ukraine",
+          "source": "Truthout",
+          "published_at": "2026-07-07T20:59:35.000Z",
+          "image": "https://truthout.org/app/uploads/2026/07/2026_07-07-ioc-chief-1200x900.jpg"
+        },
+        {
+          "title": "Olympics | IOC lifts Russia suspension, athletes to return to international competitions",
+          "url": "https://www.thehindu.com/sport/other-sports/olympics-ioc-lifts-russia-suspension-athletes-to-return-to-international-competitions/article71195535.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-07T20:53:06.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/alsj6p/article71195536.ece/alternates/LANDSCAPE_1200/2026-07-07T192602Z_1004879471_RC2SR3AIUPON_RTRMADP_3_OLYMPICS-IOC.JPG"
+        },
+        {
+          "title": "IOC lifts Russian Olympic ban",
+          "url": "https://www.theage.com.au/national/ioc-lifts-russian-olympic-ban-20260708-p60dhh.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-07-07T20:37:49.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8de8b580041d4bf4efbdaf3216aecdf52903d315"
+        },
+        {
+          "title": "IOC lifts Russian Olympic ban",
+          "url": "https://www.smh.com.au/national/ioc-lifts-russian-olympic-ban-20260708-p60dhh.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-07-07T20:37:49.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8de8b580041d4bf4efbdaf3216aecdf52903d315"
+        },
+        {
+          "title": "IOC lifts Russian Olympic ban",
+          "url": "https://www.brisbanetimes.com.au/national/ioc-lifts-russian-olympic-ban-20260708-p60dhh.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-07-07T20:37:49.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8de8b580041d4bf4efbdaf3216aecdf52903d315"
+        }
+      ]
+    },
+    {
+      "id": "topic_8b37d943914b2166",
+      "label": [
+        "ir",
+        "ataqu",
+        "ataqu contra",
+        "contra ir",
+        "lanza",
+        "contra"
+      ],
+      "category": "new",
+      "theme": "theme_e333263e6420c017",
+      "entities": [
+        "EU",
+        "Ir",
+        "Ormuz",
+        "Peligra",
+        "Estados Unidos"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "EU lanza potentes ataques contra Irán tras acusarlo de agredir barcos comerciales en Ormuz",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/eu-lanza-potentes-ataques-contra-iran-tras-acusarlo-de-agredir-barcos-comerciales-en-ormuz.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-07-07T22:38:47.000Z",
+          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/07/2026819.jpeg"
+        },
+        {
+          "title": "¿Peligra el acuerdo de paz? EU lanza nuevos ataques contra Irán, tras incidente con buques en Ormuz",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/07/07/peligra-el-acuerdo-de-paz-eu-lanza-nuevos-ataques-contra-iran-tras-incidente-con-buques-en-ormuz",
+          "source": "El Financiero",
+          "published_at": "2026-07-07T22:34:49.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/UARAGQ4Rg-1801iRM6gVAuAzn6E=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IVLPYX35RNHFHOQGSPZDH3DBKQ.jpg"
+        },
+        {
+          "title": "Estados Unidos bombardea Irán por ataques a barcos en Ormuz",
+          "url": "https://www.informador.mx/internacional/estados-unidos-bombardea-iran-por-ataques-a-barcos-en-ormuz-20260707-0151.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-07-07T22:29:00.000Z"
+        },
+        {
+          "title": "EEUU vuelve a atacar Irán tras acusarlo de agredir barcos comerciales en el estrecho de Ormuz",
+          "url": "https://www.huffingtonpost.es/global/eeuu-vuelve-atacaran-acusarlo-agredir-barcos-comerciales-estrecho-ormuz-f202607.html",
+          "source": "HuffPost Spain for Athena2",
+          "published_at": "2026-07-07T22:23:24.000Z"
+        },
+        {
+          "title": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
+          "url": "https://elpais.com/internacional/2026-07-07/estados-unidos-vuelve-a-prohibir-la-exportacion-de-petroleo-de-iran.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-07-07T21:48:20.000Z",
+          "image": "https://imagenes.elpais.com/resizer/v2/CDGFWEGWVNIBRPJB6DW5V4VVQ4.jpg?auth=18722559c4c654924af619d4a9dab827a59062273b94f2c2d4b32c6900ce83a7"
+        }
+      ]
+    },
+    {
+      "id": "topic_10f88ecd6059308",
+      "label": [
+        "miss",
+        "plane",
+        "cargo",
+        "cargo plane",
+        "pakistan",
+        "search miss"
+      ],
+      "category": "new",
+      "theme": "theme_cc7d76b25fefadd7",
+      "entities": [
+        "Pakistan",
+        "Karachi",
+        "Search",
+        "Body",
+        "Pakistan Cargo Plane Carrying"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Pakistan-registered cargo plane missing off Karachi",
+          "url": "https://www.perthnow.com.au/news/aviation/pakistan-registered-cargo-plane-missing-off-karachi-c-22546894",
+          "source": "PerthNow",
+          "published_at": "2026-07-07T23:41:44.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22546894/4b6dc6cfcc53a6b9fd352f4d145f8ffbc639af24-16x9-x0y0w1280h720.jpg"
+        },
+        {
+          "title": "Search for missing cargo plane",
+          "url": "https://www.nbcnews.com/nightly-news/video/search-for-missing-cargo-plane-266336325606",
+          "source": "NBC News World News",
+          "published_at": "2026-07-07T23:26:17.000Z",
+          "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nn_tco_CargoPlane_260707/1/abs/index.m3u8"
+        },
+        {
+          "title": "Body found in search for missing teen",
+          "url": "https://www.youtube.com/shorts/qoVYAqAKcqY",
+          "source": "CNN",
+          "published_at": "2026-07-07T22:16:09.000Z",
+          "image": "https://i2.ytimg.com/vi/qoVYAqAKcqY/hqdefault.jpg"
+        },
+        {
+          "title": "Pakistan Cargo Plane Carrying 5 Goes Missing Over Arabian Sea",
+          "url": "https://www.ndtv.com/world-news/pakistan-cargo-plane-carrying-5-goes-missing-over-arabian-sea-11741359",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-07T21:15:20.000Z",
+          "image": "https://i.ndtvimg.com/i/2016-02/airplane-generic_650x400_71455936251.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+        },
+        {
+          "title": "Boeing 737 cargo plane goes missing off Pakistan as air traffic control loses contact",
+          "url": "https://www.irishmirror.ie/news/world-news/boeing-737-cargo-plane-goes-37401105",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-07-07T21:12:59.000Z",
+          "image": "https://i2-prod.irishmirror.ie/news/world-news/article37401104.ece/ALTERNATES/s615/1_Cargolux-cargo-jet-Boeing-747-on-final-approach.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_8d955ed2af6b1f2d",
+      "label": [
+        "pacific",
+        "pm host",
+        "pacific leader",
+        "pm",
+        "host pacific",
+        "leader origin"
+      ],
+      "category": "new",
+      "theme": "theme_ffa4a5a5e6b165a9",
+      "entities": [
+        "PM",
+        "Pacific",
+        "Origin",
+        "China",
+        "Australia"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "PM hosts Pacific leaders at Origin decider amid China concerns",
+          "url": "https://www.crikey.com.au/2026/07/08/pm-hosts-pacific-leaders-at-state-of-origin-decider-amid-china-concerns-albanese-farage-binface-china",
+          "source": "Crikey",
+          "published_at": "2026-07-07T21:10:03.000Z",
+          "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/07/20260707119979985547-original-1.jpg?quality=70&w=1024"
+        },
+        {
+          "title": "PM to host Pacific leaders at Origin game",
+          "url": "https://www.smh.com.au/national/pm-to-host-pacific-leaders-at-origin-game-20260708-p60dhg.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-07-07T20:37:04.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/66ba44e174ced1e063411bb641afc5466aeba0d3"
+        },
+        {
+          "title": "PM to host Pacific leaders at Origin game",
+          "url": "https://www.brisbanetimes.com.au/national/pm-to-host-pacific-leaders-at-origin-game-20260708-p60dhg.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-07-07T20:37:04.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/66ba44e174ced1e063411bb641afc5466aeba0d3"
+        },
+        {
+          "title": "PM to host Pacific leaders at Origin game",
+          "url": "https://www.theage.com.au/national/pm-to-host-pacific-leaders-at-origin-game-20260708-p60dhg.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-07-07T20:37:04.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/66ba44e174ced1e063411bb641afc5466aeba0d3"
+        },
+        {
+          "title": "Australia news live: PM to host three Pacific leaders in Brisbane, with all eyes on China after missile test",
+          "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-07T20:33:15.000Z",
+          "image": "https://i.guim.co.uk/img/media/231746794d28fff852cb6d177df1f2b453417267/793_0_5638_4512/master/5638.jpg?width=140&quality=85&auto=format&fit=max&s=6d1a9b6577a7dc499911b5aa5908810e"
+        }
+      ]
+    },
+    {
+      "id": "topic_3439cee7faf9acbc",
+      "label": [
+        "acl",
+        "onana",
+        "belgium",
+        "belgium midfielder",
+        "acl injury",
+        "midfielder"
+      ],
+      "category": "new",
+      "theme": "theme_fb9c73b2ef62df16",
+      "entities": [
+        "Belgium",
+        "Onana",
+        "World Cup",
+        "ACL",
+        "WC"
+      ],
+      "article_count": 8,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Belgium midfielder Onana sustains World Cup-ending ACL injury",
+          "url": "https://www.soccernews.com/belgium-midfielder-onana-sustains-world-cup-ending-acl-injury/401530",
+          "source": "SoccerNews",
+          "published_at": "2026-07-07T20:33:28.000Z"
+        },
+        {
+          "title": "Belgium's Onana out of WC with ACL injury",
+          "url": "https://www.espn.com/soccer/story/_/id/49298508/belgium-amadou-onana-world-cup-suffering-acl-injury",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-07-07T20:26:26.000Z"
+        },
+        {
+          "title": "Belgium midfielder Amadou Onana out for remainder of World Cup with torn ACL",
+          "url": "https://sports.yahoo.com/articles/belgium-midfielder-amadou-onana-remainder-202608179.html",
+          "published_at": "2026-07-07T20:26:08.000Z"
+        },
+        {
+          "title": "Villa and Belgium midfielder Onana ruptures ACL on World Cup duty",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo",
+          "source": "BBC Sport",
+          "published_at": "2026-07-07T18:51:59.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/d6a8e630-7a33-11f1-ab76-d75965dea4d1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_567651ed0a9a7c94",
+      "label": [
+        "dune",
+        "referenc",
+        "fat",
+        "zhipu",
+        "polinrider",
+        "rentabot"
+      ],
+      "category": "new",
+      "theme": "theme_5b03b3e4ca3b9eba",
+      "entities": [
+        "Dune References",
+        "FAT",
+        "Claude",
+        "ZhiPu",
+        "PolinRider"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Dune References, FAT, Claude, ZhiPu, PolinRider, RentaBot, Sony, Aaran Leyland & More - SWN #596",
+          "url": "https://www.youtube.com/watch?v=A8aIj0glV5c",
+          "source": "Security Weekly - A CRA Resource",
+          "published_at": "2026-07-07T21:00:08.000Z",
+          "image": "https://i2.ytimg.com/vi/A8aIj0glV5c/hqdefault.jpg"
+        },
+        {
+          "title": "Dune References, FAT, Claude, ZhiPu, PolinRider, RentaBot, Sony, Aaran Leyland & More - SWN #596",
+          "url": "https://hntvvideo.libsyn.com/dune-references-fat-claude-zhipu-polinrider-rentabot-sony-aaran-leyland-more-swn-596",
+          "source": "Security Weekly News (Video)",
+          "published_at": "2026-07-07T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_596_1--def3a72e-c076-4c97-993e-9a64c7141eda--sd-converted--af449eb6-e06b-4159-9b8d-53eb37053b9f.mp4?dest-id=376663"
+        },
+        {
+          "title": "Dune References, FAT, Claude, ZhiPu, PolinRider, RentaBot, Sony, Aaran Leyland & More - SWN #596",
+          "url": "https://hntvaudio.libsyn.com/dune-references-fat-claude-zhipu-polinrider-rentabot-sony-aaran-leyland-more-swn-596",
+          "source": "Security Weekly News (Audio)",
+          "published_at": "2026-07-07T21:00:00.000Z",
+          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_596_1--def3a72e-c076-4c97-993e-9a64c7141eda--audio-converted--0516c7e7-8bf4-4d1e-aada-47a362a382e9.mp3?dest-id=376644"
+        },
+        {
+          "title": "Dune References, FAT, Claude, ZhiPu, PolinRider, RentaBot, Sony, Aaran Leyland & More - SWN #596",
+          "url": "https://sw-all.libsyn.com/dune-references-fat-claude-zhipu-polinrider-rentabot-sony-aaran-leyland-more-swn-596",
+          "source": "Security Weekly (Download Only)",
+          "published_at": "2026-07-07T21:00:00.000Z",
+          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_596_1--def3a72e-c076-4c97-993e-9a64c7141eda--audio-converted--0516c7e7-8bf4-4d1e-aada-47a362a382e9.mp3?dest-id=829103"
+        }
+      ]
+    },
+    {
+      "id": "topic_116c39e55d145be0",
+      "label": [
+        "en houston",
+        "mexicano",
+        "houston",
+        "agente de",
+        "de ice",
+        "ice"
+      ],
+      "category": "new",
+      "theme": "theme_f2055ce3b657769",
+      "entities": [
+        "Una",
+        "ICE",
+        "Asesina",
+        "Lorenzo Salgado",
+        "Houston"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Una más del ICE: Asesina a Lorenzo Salgado, migrante mexicano en Houston, Texas",
+          "url": "https://www.elfinanciero.com.mx/mundo/2026/07/07/una-mas-del-ice-asesina-a-lorenzo-salgado-migrante-mexicano-en-houston-texas",
+          "source": "El Financiero",
+          "published_at": "2026-07-07T23:38:52.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/_kFnQJ9pk7xqiLMsHIlMVsxP0Rk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7MP3GYFO3VG3PPDF5GITA7J5EM.jpeg"
+        },
+        {
+          "title": "Agente de ICE ejecuta a mexicano indocumentado en Houston, Texas",
+          "url": "https://vanguardia.com.mx/noticias/agente-de-ice-ejecuta-a-mexicano-indocumentado-en-houston-texas-ec21981500",
+          "source": "Vanguardia",
+          "published_at": "2026-07-07T22:09:47.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-07-07t16213_1-16069468_20260707222146.jpg"
+        },
+        {
+          "title": "Abate agente de ICE a mexicano en Houston",
+          "url": "https://www.elnorte.com/abate-agente-de-ice-a-mexicano-en-houston/ar3236144",
+          "source": "ElNorte",
+          "published_at": "2026-07-07T21:31:02.000Z"
+        },
+        {
+          "title": "Abate agente de ICE a mexicano en Houston",
+          "url": "https://www.reforma.com/abate-agente-de-ice-a-mexicano-en-houston/ar3236139",
+          "source": "Reforma",
+          "published_at": "2026-07-07T21:30:28.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_d87f17606658e16d",
+      "label": [
+        "flynn",
+        "michael flynn",
+        "michael",
+        "justice department",
+        "department",
+        "justice"
+      ],
+      "category": "new",
+      "theme": "theme_fed5b5316d0eb257",
+      "entities": [
+        "Justice Department Settles Again",
+        "Michael Flynn",
+        "Justice Department",
+        "Trump",
+        "Trump Ally Michael Flynn"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Justice Department Settles Again with Michael Flynn",
+          "url": "https://politicalwire.com/2026/07/07/justice-department-settles-again-with-michael-flynn",
+          "source": "Political Wire",
+          "published_at": "2026-07-07T20:42:11.000Z"
+        },
+        {
+          "title": "Justice Department reaches another settlement with Trump adviser Michael Flynn",
+          "url": "https://www.yahoo.com/news/politics/articles/justice-department-reaches-another-settlement-201927569.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-07T20:19:27.000Z",
+          "image": "https://media.zenfs.com/en/cnn_articles_875/71e841f22cbec1cc15b7b9543a8f0f9b"
+        },
+        {
+          "title": "Trump Ally Michael Flynn Reached a Second Settlement With DOJ (Zoe Tillman/Bloomberg)",
+          "url": "https://www.memeorandum.com/260707/p96",
+          "source": "memeorandum",
+          "published_at": "2026-07-07T19:55:00.000Z",
+          "image": "http://www.memeorandum.com/260707/i96.jpg"
+        },
+        {
+          "title": "Trump’s Justice Department finalizes second settlement with Michael Flynn",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/justice-department-michael-flynn-settlement",
+          "source": "MS NOW",
+          "published_at": "2026-07-07T19:42:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_ee2a85cc67949a04",
+      "label": [
+        "id software",
+        "software reportedly",
+        "software",
+        "id",
+        "reportedly",
+        "doom"
+      ],
+      "category": "new",
+      "theme": "theme_d834ff7d2380a372",
+      "entities": [
+        "Doom Developer",
+        "Software Is Reportedly Losing",
+        "Half Its Staff",
+        "Software Reportedly Loses Roughly",
+        "Half Its Staff To"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Doom Developer id Software Is Reportedly Losing Half Its Staff",
+          "url": "https://games.slashdot.org/story/26/07/07/1938210/doom-developer-id-software-is-reportedly-losing-half-its-staff",
+          "source": "Slashdot",
+          "published_at": "2026-07-07T23:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+        },
+        {
+          "title": "Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs",
+          "url": "https://gameinformer.com/2026/07/07/doom-developer-id-software-reportedly-loses-roughly-half-its-staff-to-layoffs",
+          "source": "Game Informer",
+          "published_at": "2026-07-07T20:12:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2025/05/14/69706085/doomthedarkages_1.jpg.webp"
+        },
+        {
+          "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+          "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-07-07T19:52:59.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/keen-1152x524.jpg"
+        },
+        {
+          "title": "Doom developer id Software is reportedly losing half its staff",
+          "url": "https://www.engadget.com/2209928/doom-developer-id-software-is-reportedly-losing-half-its-staff",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-07-07T19:04:21.000Z",
+          "image": "https://www.engadget.com/img/gallery/doom-developer-id-software-is-reportedly-losing-half-its-staff/l-intro-1783450945.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_89ccf73fb1594648",
+      "label": [
+        "mitch",
+        "mitch mcconnell",
+        "mcconnell",
+        "going mitch",
+        "going",
+        "jenning"
+      ],
+      "category": "new",
+      "theme": "theme_5a8263ff71c5e8f7",
+      "entities": [
+        "Scott Jennings",
+        "Sen",
+        "Mitch McConnell",
+        "Prolonged",
+        "US Republican Mitch McConnell"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Scott Jennings on his call today with Sen. Mitch McConnell",
+          "url": "https://www.youtube.com/shorts/2T9eGblqQw4",
+          "source": "CNN",
+          "published_at": "2026-07-07T23:31:02.000Z",
+          "image": "https://i3.ytimg.com/vi/2T9eGblqQw4/hqdefault.jpg"
+        },
+        {
+          "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+          "url": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-07T20:26:16.000Z"
+        },
+        {
+          "title": "So … What’s Going on With Mitch McConnell?",
+          "url": "https://www.rollingstone.com/politics/politics-news/mitch-mcconnell-hospital-weeks-whats-going-on-1235590542",
+          "source": "Rolling Stone",
+          "published_at": "2026-07-07T20:20:00.000Z"
+        },
+        {
+          "title": "Mitch McConnell Health Update: What Scott Jennings Said After Speaking With Him",
+          "url": "https://internewscast.com/business/mitch-mcconnell-health-update-what-scott-jennings-said-after-speaking-with-him",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-07T19:35:08.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_cac1629db7c2c387",
+      "label": [
+        "prince harry",
+        "prince",
+        "harry",
+        "case",
+        "harry los",
+        "daily mail"
+      ],
+      "category": "new",
+      "theme": "theme_7b4924dd810deaa8",
+      "entities": [
+        "Prince Harry",
+        "UK",
+        "Daily Mail",
+        "BBC News"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Prince Harry loses privacy case against UK tabloid publisher",
+          "url": "https://www.youtube.com/shorts/C3an_CAgrK8",
+          "source": "CNN",
+          "published_at": "2026-07-07T20:52:08.000Z",
+          "image": "https://i4.ytimg.com/vi/C3an_CAgrK8/hqdefault.jpg"
+        },
+        {
+          "title": "Prince Harry loses case against the Daily Mail | BBC News",
+          "url": "https://www.youtube.com/watch?v=_yPg7qX9fm8",
+          "source": "BBC News",
+          "published_at": "2026-07-07T20:00:19.000Z",
+          "image": "https://i4.ytimg.com/vi/_yPg7qX9fm8/hqdefault.jpg"
+        },
+        {
+          "title": "Prince Harry faces huge bill after bombshell Daily Mail ruling",
+          "url": "https://www.express.co.uk/news/royal/2226545/prince-harry-faces-huge-bill",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-07-07T20:00:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2226545_1.jpg"
+        },
+        {
+          "title": "Prince Harry rages over 'obvious whitewashed' court decision in UK privacy case",
+          "url": "https://www.indiatoday.in/world/story/prince-harry-daily-mail-ruling-whitewash-uk-court-defeat-2942943-2026-07-08",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-07T19:26:30.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/prince-harry-072434149-16x9_0.jpg?VersionId=dW.z7AAsJFeoPxmbFMPOZRCK2_wXqC_d"
+        }
+      ]
+    },
+    {
+      "id": "topic_6c38326fd18ade8c",
+      "label": [
+        "wa",
+        "wa police",
+        "police issue",
+        "triple zero",
+        "warn telstra",
+        "zero"
+      ],
+      "category": "new",
+      "theme": "theme_d1c213bf908020fe",
+      "entities": [
+        "WA",
+        "LIVE",
+        "WA Police",
+        "Triple Zero",
+        "Telstra"
+      ],
+      "article_count": 7,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "WA news LIVE: WA Police issue Triple Zero warning over Telstra outage",
+          "url": "https://www.smh.com.au/national/western-australia/wa-news-live-wa-police-issue-triple-zero-warning-over-telstra-outage-20260708-p60diu.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-07-07T23:30:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3142%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/bc8976ad221c2b317b73ad943cfd09722ee50774"
+        },
+        {
+          "title": "WA news LIVE: WA Police issue Triple Zero warning over Telstra outage",
+          "url": "https://www.theage.com.au/national/western-australia/wa-news-live-wa-police-issue-triple-zero-warning-over-telstra-outage-20260708-p60diu.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-07-07T23:30:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3142%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/bc8976ad221c2b317b73ad943cfd09722ee50774"
+        },
+        {
+          "title": "WA news LIVE: WA Police issue Triple Zero warning over Telstra outage",
+          "url": "https://www.brisbanetimes.com.au/national/western-australia/wa-news-live-wa-police-issue-triple-zero-warning-over-telstra-outage-20260708-p60diu.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-07-07T23:30:23.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3142%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/bc8976ad221c2b317b73ad943cfd09722ee50774"
+        },
+        {
+          "title": "WA Police issue warning as Telstra outage disrupts calls to Triple Zero",
+          "url": "https://www.perthnow.com.au/news/australia/wa-police-issue-warning-as-telstra-outage-disrupts-calls-to-triple-zero--c-22546724",
+          "source": "PerthNow",
+          "published_at": "2026-07-07T22:39:13.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22546724/62793fbdbcbb94da78eeea3e34b17fc219634711-16x9-x0y192w2048h1152.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_457301b9f7b3f3b0",
+      "label": [
+        "woke law",
+        "woke",
+        "law",
+        "anti woke",
+        "court",
+        "desanti"
+      ],
+      "category": "new",
+      "theme": "theme_eac4a253ba39fad4",
+      "entities": [
+        "DeSantis",
+        "Stop WOKE",
+        "Supreme Court",
+        "Luke Fountain",
+        "CNBC"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight (Luke Fountain/CNBC)",
+          "url": "https://www.memeorandum.com/260707/p116",
+          "source": "memeorandum",
+          "published_at": "2026-07-07T21:10:01.000Z",
+          "image": "http://www.memeorandum.com/260707/i116.jpg"
+        },
+        {
+          "title": "Florida’s Anti-Woke Law Violates First Amendment",
+          "url": "https://politicalwire.com/2026/07/07/floridas-anti-woke-law-violates-first-amendment",
+          "source": "Political Wire",
+          "published_at": "2026-07-07T20:41:15.000Z"
+        },
+        {
+          "title": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
+          "url": "https://www.cnbc.com/2026/07/07/florida-stop-woke-act-desantis-professors-first-amendment-dei.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-07-07T20:21:09.000Z"
+        },
+        {
+          "title": "Florida appeals court strikes down DeSantis’s anti-woke law",
+          "url": "https://www.washingtonexaminer.com/news/justice/4639394/florida-appeals-court-desantis-woke-law",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-07T20:13:55.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP23088849508918.jpg?w=696"
+        }
+      ]
+    },
+    {
+      "id": "topic_14ededa7e7ddeed0",
+      "label": [
+        "55408",
+        "2026 55408",
+        "reader",
+        "koodo",
+        "koodo reader",
+        "cve 2026"
+      ],
+      "category": "new",
+      "theme": "theme_e87e22a7783e16e1",
+      "entities": [
+        "CVE",
+        "Koodo Reader",
+        "IPC",
+        "Remote",
+        "Reader"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "CVE-2026-55408",
+          "url": "https://vulners.com/nvd/nvd:cve-2026-55408",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-07-07T22:16:53.000Z",
+          "image": "http://vulners.com/static/img/nvd.png"
+        },
+        {
+          "title": "CVE-2026-55408 | koodo-reader Koodo Reader up to 2.3.0 IPC cross site scripting",
+          "url": "https://vuldb.com/vuln/376706",
+          "source": "VulDB Recent Entries",
+          "published_at": "2026-07-07T21:58:13.000Z"
+        },
+        {
+          "title": "Koodo Reader: Remote code execution via malicious epub fileKoodo Reader is an...",
+          "url": "https://cve.threatint.eu/cve/cve-2026-55408",
+          "source": "CVE: New",
+          "published_at": "2026-07-07T21:02:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "topic_c81f0297e9715c23",
+      "label": [
+        "air india",
+        "air",
+        "india",
+        "mumbai",
+        "face",
+        "expres"
+      ],
+      "category": "new",
+      "theme": "theme_189de2253e86d195",
+      "entities": [
+        "Air India",
+        "Air India Express",
+        "Mumbai",
+        "AI Express Flights Come",
+        "Face"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Air India, Air India Express planes face off on Mumbai airport runway",
+          "url": "https://www.indiatoday.in/india/story/air-india-mumbai-runway-incident-aborts-take-off-as-air-india-express-stays-on-runway-2942952-2026-07-08",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-07T20:11:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/air-india-070922595-16x9_0.png?VersionId=opQfWjqjBUxDiMtzy.B5jYNtodFvvLZD"
+        },
+        {
+          "title": "Air India, AI Express Flights Come Face-To-Face On Mumbai Runway",
+          "url": "https://www.ndtv.com/india-news/air-india-ai-express-flights-come-face-to-face-on-mumbai-runway-11741145",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-07T19:23:37.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/2otreb0s_mumbai-airport-runway_625x300_08_July_26.jpeg"
+        },
+        {
+          "title": "Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction",
+          "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-delhi-bound-flight-aborts-takeoff-at-mumbai-airport-after-atc-instruction/article71195407.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-07T19:14:06.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/szfx5j/article71143102.ece/alternates/LANDSCAPE_1200/PTI07_14_2023_000161A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_af21c4ca26db91a4",
+      "label": [
+        "august special",
+        "special session",
+        "redistrict",
+        "maryland",
+        "session",
+        "special"
+      ],
+      "category": "new",
+      "theme": "theme_c09187c9da177a91",
+      "entities": [
+        "Maryland",
+        "August",
+        "Gregory Svirnovskiy",
+        "Politico"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Maryland lawmakers to meet in August for special session on redistricting",
+          "url": "https://abcnews.com/politics/wirestory/maryland-lawmakers-meet-august-special-session-redistricting-134565498",
+          "source": "ABC News: Politics",
+          "published_at": "2026-07-07T22:33:57.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_1a28da3795e37f452b78e3c1fdab40e2_4x3_384.jpg"
+        },
+        {
+          "title": "Maryland to lay groundwork for 2028 redistricting in August special session",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4639817/maryland-general-assembly-2028-redistricting-special-session-text-not-released",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-07T22:23:25.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP24011709644156.jpg?w=696"
+        },
+        {
+          "title": "Maryland plans August special session to set up 2028 redistricting (Gregory Svirnovskiy/Politico)",
+          "url": "https://www.memeorandum.com/260707/p103",
+          "source": "memeorandum",
+          "published_at": "2026-07-07T20:05:01.000Z",
+          "image": "http://www.memeorandum.com/260707/i103.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_ee4939f4bb1d5f92",
+      "label": [
+        "cliff",
+        "charg",
+        "family",
+        "drove family",
+        "family cliff",
+        "drove"
+      ],
+      "category": "new",
+      "theme": "theme_89c98ea85ded5386",
+      "entities": [
+        "Charges",
+        "US",
+        "Judge",
+        "California",
+        "Judge Dismisses Attempted Murder"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Charges against US dad who drove family off cliff dropped after mental health treatment",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3359785/charges-against-us-dad-who-drove-family-cliff-dropped-after-mental-health-treatment",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-07T23:33:19.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/8a3f2443-5a63-4ae4-8d1f-7125488aa368_e2e620a3.jpg?itok=4N1jwkjz&v=1783467052"
+        },
+        {
+          "title": "Judge drops attempted murder charges against California radiologist who drove family off cliff",
+          "url": "https://www.independent.co.uk/news/world/americas/dharmesh-patel-california-pch-attempted-murder-b3010779.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-07T21:10:10.000Z",
+          "image": "https://static.independent.co.uk/2023/01/04/17/newFile-3.jpg?width=1200&auto=webp&crop=3%3A2"
+        },
+        {
+          "title": "Judge Dismisses Attempted Murder Charges Against California Father Accused of Driving Family Off 300-Foot Cliff",
+          "url": "https://internewscast.com/news/us/judge-dismisses-attempted-murder-charges-against-california-father-accused-of-driving-family-off-300-foot-cliff",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-07T18:55:57.000Z"
+        }
+      ]
+    }
+  ]
+}
