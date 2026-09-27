@@ -1,895 +1,787 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-25T00:50:09.744Z",
+  "generated_at": "2026-09-27T14:02:33.017Z",
   "topics": [
     {
-      "id": "topic_1d3d05f7a7cce84b",
+      "id": "topic_ea23ce402455ce1f",
+      "title": "France Confirms First Ebola Case in Returning Doctor",
+      "headline": "France confirms first Ebola case in doctor returning from DR Congo",
       "label": [
-        "independent",
-        "mps form",
-        "form political",
-        "political party",
-        "teal",
-        "mps"
+        "ebola",
+        "france",
+        "case",
+        "doctor",
+        "congo",
+        "first"
       ],
       "category": "new",
-      "theme": "theme_53f5bf577a1d98d7",
+      "theme": "theme_d2051110a4fc2e71",
       "entities": [
-        "The Independent",
-        "Crossroads",
-        "Teal MPs",
-        "Teal",
-        "MPs"
+        "France",
+        "Ebola",
+        "DR Congo",
+        "Congo",
+        "Al Jazeera"
       ],
-      "article_count": 9,
-      "source_count": 6,
+      "article_count": 21,
+      "source_count": 20,
       "articles": [
         {
-          "title": "КНДР приняла на вооружение ВМС новый эсминец с ядерным вооружением, – The Independent",
-          "url": "https://www.unian.net/world/severnaya-koreya-kndr-vvela-v-stroy-esminec-chhve-hen-osnashchennyy-yadernym-oruzhiem-13422021.html",
-          "source": "Информационное агентство УНИАН",
-          "published_at": "2026-06-24T23:28:25.000Z",
-          "image": "https://images.unian.net/photos/2024_06/1718465527-5387.jpg"
+          "title": "France confirms first Ebola case in doctor returning from DR Congo",
+          "url": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-24T10:19:57.000Z",
+          "description": "The patient is in isolation, following strict biosafety protocols to prevent risk of spread in France."
         },
         {
-          "title": "'Crossroads': Teal MPs form new political party",
-          "url": "https://www.perthnow.com.au/news/politics/crossroads-teal-mps-form-new-political-party-c-22482429",
-          "source": "PerthNow",
-          "published_at": "2026-06-24T21:15:58.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22482429/6df0b0eb496da3764664ff35690f836049514baa-16x9-x0y0w1280h720.jpg"
+          "title": "France reports first Ebola case in doctor returning from Congo",
+          "url": "https://www.independent.co.uk/news/world/europe/ebola-outbreak-france-case-congo-b3001992.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-24T14:04:56.000Z",
+          "image": "https://static.independent.co.uk/2026/06/24/10/2026-06-23T164821Z_1936817029_RC2SDLA2L7LX_RTRMADP_3_HEALTH-EBOLA-USA.JPG?width=1200&auto=webp&trim=0%2C136%2C0%2C136",
+          "description": "Congo said the number of confirmed cases of Ebola had risen to 1,094 by Tuesday"
         },
         {
-          "title": "‘Crossroads’: Teal MPs form new political party",
-          "url": "https://michaelwest.com.au/crossroads-teal-mps-form-new-political-party",
-          "source": "Michael West",
-          "published_at": "2026-06-24T21:13:49.000Z",
-          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/b0ca2fa5-d3ce-44f2-8127-6a6957a0c704.jpg"
-        },
-        {
-          "title": "Teal independent MPs to form new political party",
-          "url": "https://www.smh.com.au/national/teal-independent-mps-to-form-new-political-party-20260625-p609vv.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-24T20:21:58.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/58605a877e00433ad9d77137c1707a1ee717a770"
-        },
-        {
-          "title": "Teal independent MPs to form new political party",
-          "url": "https://www.theage.com.au/national/teal-independent-mps-to-form-new-political-party-20260625-p609vv.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-24T20:21:58.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/58605a877e00433ad9d77137c1707a1ee717a770"
-        }
-      ]
-    },
-    {
-      "id": "topic_d738866b8e0d76f4",
-      "label": [
-        "musk",
-        "trillionaire",
-        "spacex",
-        "elon musk",
-        "elon",
-        "statu"
-      ],
-      "category": "new",
-      "theme": "theme_a0ccdac9a40d7807",
-      "entities": [
-        "Musk",
-        "SpaceX",
-        "Elon Musk",
-        "Tesla",
-        "The Guardian"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Musk's trillionaire status slips as SpaceX shares swing",
-          "url": "https://www.perthnow.com.au/news/world/musks-trillionaire-status-slips-as-spacex-shares-swing-c-22482499",
-          "source": "PerthNow",
-          "published_at": "2026-06-24T21:37:29.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22482499/ad7c60dd255b443ca2d82255ec46238a50dff015-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Musk’s trillionaire status slips as SpaceX shares swing",
-          "url": "https://michaelwest.com.au/musks-trillionaire-status-slips-as-spacex-shares-swing",
-          "source": "Michael West",
-          "published_at": "2026-06-24T21:35:39.000Z",
-          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/8477c6af-bfd2-475e-becc-14b5e5f7ee11.jpg"
-        },
-        {
-          "title": "Elon Musk a trillionaire no more as SpaceX stock tumbles",
-          "url": "https://mashable.com/tech/elon-musk-no-longer-a-trillionaire-spacex-stock-falls",
-          "source": "Mashable",
-          "published_at": "2026-06-24T20:51:38.000Z"
-        },
-        {
-          "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxqa1mzytc3dja3uunjohheejfzcezoqvplykflatvfandyqkdxcenfetb6wwnwdflvwenuagf4ngiymxhrmnvzzktvrdbzszhnc0t4c1pccfjxwvdntfgwdkfqtuxjnjhtblpaegftd2mybhhqs3i5dteyrgq5thawb3itnwnbqja",
+          "title": "France confirms first Ebola case in doctor returning from DR Congo",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxozunmrk9rsxh1ofjzodbmav9tve1gx284slhfnnrfqzfirjvqwmpftuw3zhzfckfanhlceersn19wqxr4szvndzrcbne3dtzyqjrpms1dvlnpzkxlse1sss0zwkcty1h4r21wn210qjrwoeu3ltlhcwjwdze0mhz4bg41uw1owuh5egnwcuqwc2ppbmtncvhkejbzumdsdnl0u1hhyknbykfjvtjsababqvvfexfmueldm05ucep5rkhrddvsm3jwsl85x2jhdu5ltfdizw9cn2pzynlytfzmqk1nd1h1azmzduh3tzfbvkfgrjd3q2h3unyydxpjmtjurhuxa2k4sdnrwdbqr2nqznzzmmnhatbym2xsnvbbwdc3mzj1ajzozxjoa1nmsuu4rmqttw9pb1dqdfzos0xytfj6uwdhxzf0n0vqngvfzvdsdmr5vmjuruxdvwxewhg",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-24T20:11:00.000Z"
+          "published_at": "2026-06-24T19:41:15.000Z",
+          "description": "France confirms first Ebola case in doctor returning from DR Congo Al Jazeera France confirms first Ebola case BBC France confirms 1st Ebola case linked to DRC as UN warns outbreak is fastest-growing in Africa's history ABC News - Breaking News, Latest News and Videos France reports first Ebola pat…"
         },
         {
-          "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
-          "source": "The Guardian",
-          "published_at": "2026-06-24T20:02:33.000Z",
-          "image": "https://i.guim.co.uk/img/media/521f3b049ac5da2f48e391d41a57b861f897c558/2025_702_4753_3802/master/4753.jpg?width=140&quality=85&auto=format&fit=max&s=9a33fee9580f871cd9f8b67826de6786"
+          "title": "France confirms first-ever Ebola case after doctor’s return from DR Congo",
+          "url": "https://www.nigerianeye.com/2026/06/france-confirms-first-ever-ebola-case.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-06-24T14:48:42.688Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA_PGK0IKXxycOe3pfWzsTP4y1V_vArY9ERpjMRFpi4oD5M_BbVFPKXVJuEaZAqqmIxXCYXYYf0Lnaawet6_ONv5-0fLToY-OVh7YcoXmMShiAz0JPj-LNKY3gAgmWyXX9wQ4sTuq9dLt3Mu5us2-AONPvvCCAMSmPN6kUUhlBwkNp2sQotfxbPRXmty7W/s72-w400-h224-c/coronavirus2.PNG",
+          "description": "France has recorded its first confirmed case of Ebola virus disease, with health authorities tracing the infection to a doctor who recently returned from the Democratic Republic of Congo (DRC). The French health ministry announced the development on Tuesday, describing it as the first time the high…"
+        },
+        {
+          "title": "France reports Ebola case in doctor returning from Congo",
+          "url": "https://www.france24.com/en/video/20260624-france-reports-ebola-case-in-doctor-returning-from-congo",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-24T16:18:11.000Z",
+          "image": "https://s.france24.com/media/display/8f6e339a-6fe0-11f1-b67c-005056a97e36/w:1024/p:16x9/EN-20260624-161046-161216-CS.jpg",
+          "description": "A doctor who recently returned ​to France from a humanitarian mission in the Democratic Republic of Congo has tested positive for Ebola, marking the country's ​first confirmed ‌case linked to the current ⁠outbreak, the health ministry said on Wednesday."
         }
-      ]
+      ],
+      "summary": "France confirmed its first Ebola case in a doctor who recently returned from a humanitarian mission in the Democratic Republic of Congo. The patient is isolated and receiving care under strict biosafety protocols."
     },
     {
-      "id": "topic_d2f5258c602e1fd3",
+      "id": "topic_3af01906c89647c9",
+      "title": "Grand Theft Auto VI Preorders Set to Open",
+      "headline": "How to Prepare for Grand Theft Auto 6 Preorders",
       "label": [
-        "openai",
-        "chip",
-        "openai broadcom",
-        "broadcom",
-        "custom chip",
-        "custom"
-      ],
-      "category": "new",
-      "theme": "theme_57608c2887aba5b5",
-      "entities": [
-        "OpenAI",
-        "Broadcom",
-        "LLM",
-        "AI",
-        "Jalape"
-      ],
-      "article_count": 10,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-06-24T22:28:18.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp"
-        },
-        {
-          "title": "OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip",
-          "url": "https://thenewstack.io/openai-jalapeno-custom-chip",
-          "source": "The New Stack",
-          "published_at": "2026-06-24T20:55:13.000Z",
-          "image": "https://cdn.thenewstack.io/media/2026/06/b82c1e57-summerizze-q35cbyjazwi-unsplash-1024x819.jpg"
-        },
-        {
-          "title": "OpenAI’s first AI chip is called Jalapeño #Vergecast",
-          "url": "https://www.youtube.com/shorts/umouB2F_Vy0",
-          "source": "The Verge",
-          "published_at": "2026-06-24T20:51:56.000Z",
-          "image": "https://i2.ytimg.com/vi/umouB2F_Vy0/hqdefault.jpg"
-        },
-        {
-          "title": "Jalapeño is the first AI chip from OpenAI and Broadcom",
-          "url": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-24T20:10:40.000Z",
-          "image": "https://www.engadget.com/img/gallery/openai-unveils-its-chip-for-llms-made-with-broadcom/l-intro-1782331537.jpg"
-        },
-        {
-          "title": "OpenAI has revealed its first custom chip, and Nvidia should be worried",
-          "url": "https://www.howtogeek.com/openai-has-revealed-its-first-custom-chip-and-nvidia-should-be-worried",
-          "source": "How-To Geek",
-          "published_at": "2026-06-24T19:13:25.000Z",
-          "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_eca1902e0729df83",
-      "label": [
-        "sanction",
-        "judg sue",
-        "sue trump",
-        "judg",
-        "sue",
-        "icc judg"
-      ],
-      "category": "new",
-      "theme": "theme_a440df320e9c8db2",
-      "entities": [
-        "ICC",
-        "Trump",
-        "US",
-        "World",
-        "Daphne Psaledakis"
-      ],
-      "article_count": 9,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "ICC judges sue Trump administration over US sanctions",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/25/icc-judges-sue-trump-administration-over-us-sanctions_6754846_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-24T23:32:06.000Z",
-          "image": "https://img.lemde.fr/2026/06/23/733/0/7949/3974/644/322/60/0/afe9ef7_ftp-1-d5eizmabognl-02d7dab0aeb04c4c8ad81fd79acecd03-0-7080896bef354cbaa1eaa686d1d5baf0.jpg"
-        },
-        {
-          "title": "ICC judges sue Trump over 'draconian' sanctions",
-          "url": "https://globalnation.inquirer.net/328630/icc-judges-sue-trump-over-draconian-sanctions",
-          "source": "INQUIRER.net",
-          "published_at": "2026-06-24T23:28:39.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260624__2282641685__v1__HighRes__PresidentTrumpMeetsWithNatoSecretaryGeneralM-620x413.jpg"
-        },
-        {
-          "title": "ICC judges sue Trump over ‘draconian’ sanctions",
-          "url": "https://www.digitaljournal.com/article/icc-judges-sue-trump-over-draconian-sanctions",
-          "source": "Digital Journal",
-          "published_at": "2026-06-24T23:20:11.000Z"
-        },
-        {
-          "title": "World court judges sue Trump administration over sanctions (Daphne Psaledakis/Reuters)",
-          "url": "https://www.memeorandum.com/260624/p111",
-          "source": "memeorandum",
-          "published_at": "2026-06-24T21:55:04.000Z",
-          "image": "http://www.memeorandum.com/260624/i111.jpg"
-        },
-        {
-          "title": "ICC judges sue Trump administration over sanctions",
-          "url": "https://www.gmanetwork.com/news/topstories/world/992618/icc-judges-sue-trump-administration-over-sanctions/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-06-24T20:49:27.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/06/DonaldTrump_2026_06_14_06_57_52.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_97ed009235b7c7c6",
-      "label": [
-        "grand theft",
-        "theft auto",
-        "grand",
         "theft",
+        "grand",
         "auto",
+        "vi",
+        "disc",
         "physical"
       ],
       "category": "new",
-      "theme": "theme_9a01bac16ebeb329",
+      "theme": "theme_4c17bed5dc673a81",
       "entities": [
-        "GTA",
-        "BBC",
-        "Preventa",
+        "Prepare",
+        "Grand Theft Auto",
+        "Preorders",
         "Grand Theft Auto VI",
-        "The Grand Theft Auto"
+        "Feast Your Eyes On"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 19,
+      "source_count": 15,
       "articles": [
         {
-          "title": "GTA 6 will cost $80 - and physical edition will not contain a disc - BBC",
-          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte96rhjkzvfprzhryjvbswrpddy1nk9qz0flyzvetnrqekfmdmzqsmjomwvnuetnsuzism5nrlpbwwzlxzy3mg9pnlf1d1g4qzleul9oslpxouxnzw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-24T23:20:12.000Z"
+          "title": "How to Prepare for Grand Theft Auto 6 Preorders",
+          "url": "https://www.ign.com/articles/gta-6-preorder-tips-and-tricks",
+          "source": "IGN Articles",
+          "published_at": "2026-06-24T18:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/24/gta-6-preorders-top-tips-ign2-1782304926518.png"
         },
         {
-          "title": "Preventa de ‘Grand Theft Auto VI’: ¿A qué hora inicia y cuánto costará?",
-          "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/06/24/preventa-de-grand-theft-auto-vi-a-que-hora-inicia-y-cuanto-costara",
-          "source": "El Financiero",
-          "published_at": "2026-06-24T23:14:01.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/nHLeWpImdijpk9sFvFVErXVARlA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C77IAZIXNJA7XIAKNANDL4PWG4.jpeg"
+          "title": "Grand Theft Auto 6's $80 price settles the $100 question",
+          "url": "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settles-the-100-question",
+          "source": "gamedeveloper",
+          "published_at": "2026-06-24T14:34:37.000Z",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltea2b1d1586ab815b/6a3beaaa154dd39b483f2f70/vintagevicecitygtaviffeatured.jpg?width=720&quality=80&disable=upscale",
+          "description": "Pre-orders for the game open Thursday."
         },
         {
           "title": "Grand Theft Auto VI will cost $80 without a physical disc",
           "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc",
           "source": "Gaming - Ars Technica",
           "published_at": "2026-06-24T22:47:03.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg"
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg",
+          "description": "GTA6 might be an outlier, though—at least for now."
         },
         {
-          "title": "The Grand Theft Auto 6 physical edition is overpriced DRM in a box",
-          "url": "https://www.engadget.com/2201164/the-grand-theft-auto-6-physical-edition-is-overpriced-drm-in-a-box",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-24T22:26:57.000Z",
-          "image": "https://www.engadget.com/img/gallery/the-grand-theft-auto-6-physical-edition-is-overpriced-drm-in-a-box/l-intro-1782339749.jpg"
-        },
-        {
-          "title": "Grand Theft Auto 6's graphics are blowing fans' minds",
-          "url": "https://www.polygon.com/gta-6-ps5-pro-enhancements-ray-tracing-thrillbilly-club",
-          "source": "Polygon.com",
-          "published_at": "2026-06-24T20:23:44.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/buggy.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ee02cd94a428b882",
-      "label": [
-        "semi",
-        "semi final",
-        "england",
-        "final",
-        "west indy",
-        "indy"
-      ],
-      "category": "new",
-      "theme": "theme_2dcff54d0ae71638",
-      "entities": [
-        "England",
-        "West Indies",
-        "Wyatt",
-        "Hodge",
-        "T20 World Cup"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "England beat West Indies to secure semi-final place",
-          "url": "https://sports.yahoo.com/articles/england-beat-west-indies-secure-210043058.html",
-          "published_at": "2026-06-24T21:32:09.000Z"
-        },
-        {
-          "title": "Wyatt-Hodge fires England into T20 World Cup semi-final after West Indies win",
-          "url": "https://www.theguardian.com/sport/2026/jun/24/wyatt-hodge-fires-england-into-t20-world-cup-semi-final-after-west-indies-win",
-          "source": "Cricket | The Guardian",
-          "published_at": "2026-06-24T21:31:40.000Z",
-          "image": "https://i.guim.co.uk/img/media/4639f0b76a9f503b44c117f69dd25c61840f5070/189_0_2377_1902/master/2377.jpg?width=140&quality=85&auto=format&fit=max&s=f2003ce8be464a03a9233f4a41a5df4a"
-        },
-        {
-          "title": "England beat West Indies to secure semi-final place",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cyv06ll3gv3o",
-          "source": "BBC Sport",
-          "published_at": "2026-06-24T21:23:08.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0d/live/9069c130-7015-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Wyatt-Hodge, Knight and bowlers power England into semi-final",
-          "url": "https://www.cricinfo.com/ci/content/story/1542792.html",
-          "source": "Cricket news from Cricinfo.com",
-          "published_at": "2026-06-24T21:22:57.000Z",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/418800/418857.jpg"
-        },
-        {
-          "title": "England reach T20 World Cup semi-finals after easing past West Indies",
-          "url": "https://news.sky.com/story/england-reach-womens-t20-world-cup-semi-finals-with-win-over-west-indies-their-fourth-straight-victory-in-tournament-13557398",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-06-24T20:55:00.000Z",
-          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-danni-wyatt-hodge_7282061.jpg?20260624210926"
-        }
-      ]
-    },
-    {
-      "id": "topic_923b84b66f8b159a",
-      "label": [
-        "stealc",
-        "amadey",
-        "stealc amadey",
-        "disrupt",
-        "infostealer",
-        "infostealer stealc"
-      ],
-      "category": "new",
-      "theme": "theme_affe9859bd0d7513",
-      "entities": [
-        "Operation Endgame Disrupts StealC",
-        "Amadey",
-        "SocGholish Malware Networks",
-        "Infostealers StealC",
-        "Amadey Disrupted"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Operation Endgame Disrupts StealC, Amadey and SocGholish Malware Networks",
-          "url": "https://hackread.com/operation-endgame-stealc-amadey-socgholish-malware",
-          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
-          "published_at": "2026-06-24T20:42:27.000Z",
-          "image": "https://operation-endgame.com/videos/S03E04_STEALC.mp4"
-        },
-        {
-          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
-          "url": "https://www.govinfosecurity.com/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
-        },
-        {
-          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
-          "url": "https://www.databreachtoday.co.uk/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
-        },
-        {
-          "title": "Infostealers StealC and Amadey Disrupted in Police Crackdown",
-          "url": "https://www.bankinfosecurity.com/infostealers-stealc-amadey-disrupted-in-police-crackdown-a-32062",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/infostealers-stealc-amadey-disrupted-in-police-crackdown-image_small-7-a-32062.jpg"
-        },
-        {
-          "title": "Europol Disrupts StealC and Amadey Malware Infrastructure in Operation Endgame",
-          "url": "https://securityaffairs.com/194173/cyber-crime/europol-disrupts-stealc-and-amadey-malware-infrastructure-in-operation-endgame.html",
-          "source": "Security Affairs",
-          "published_at": "2026-06-24T18:43:16.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_693daab93e87bec3",
-      "label": [
-        "anthropic accus",
-        "accus alibaba",
-        "alibaba",
-        "anthropic",
-        "accus",
-        "illicitly"
-      ],
-      "category": "new",
-      "theme": "theme_3944b98a53234c1b",
-      "entities": [
-        "Anthropic",
-        "Alibaba",
-        "Claude",
-        "AI",
-        "Anthropic Accuses Alibaba"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude",
-          "url": "https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c",
-          "source": "International homepage",
-          "published_at": "2026-06-24T21:36:50.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6548cb47-0426-468a-bfc1-b6672e6ff501.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
-          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
-          "source": "International: Top News And Analysis",
-          "published_at": "2026-06-24T21:18:44.000Z"
-        },
-        {
-          "title": "Anthropic accuses Alibaba of running the largest distillation campaign yet against Claude",
-          "url": "https://thenextweb.com/news/anthropic-accuses-alibaba-distillation-claude-qwen",
-          "source": "The Next Web",
-          "published_at": "2026-06-24T21:12:17.000Z",
-          "image": "https://media.thenextweb.com/2026/06/anthropic-accuses-alibaba-distillation-claude-qwen.avif"
-        },
-        {
-          "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-24T19:36:41.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuA9I8ntkV40/v0/1200x-1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c6c25373321b1bc9",
-      "label": [
-        "espriella",
-        "la espriella",
-        "de la",
-        "colombia",
-        "presidente",
-        "electo"
-      ],
-      "category": "new",
-      "theme": "theme_ab7c39faca5424d7",
-      "entities": [
-        "Abelardo De",
-        "Espriella",
-        "CNE",
-        "Declaran",
-        "De"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Abelardo De la Espriella ya es presidente electo: CNE lo declara ganador de la elección",
-          "url": "https://www.elfinanciero.com.mx/mundo/2026/06/24/abelardo-de-la-espriella-ya-es-presidente-electo-cne-lo-declara-ganador-de-la-eleccion",
-          "source": "El Financiero",
-          "published_at": "2026-06-24T22:29:21.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/asPnXpTdv7liGe98Alz5lPuA2yo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/V6T4KNPH4ZHORNC77O3C25WBUU.jpg"
-        },
-        {
-          "title": "Declaran a De la Espriella Presidente electo en Colombia",
-          "url": "https://www.elnorte.com/declaran-a-de-la-espriella-presidente-electo-en-colombia/ar3228573",
-          "source": "ElNorte",
-          "published_at": "2026-06-24T22:22:03.000Z"
-        },
-        {
-          "title": "Abelardo de la Espriella es declarado presidente electo de Colombia",
-          "url": "https://vanguardia.com.mx/noticias/abelardo-de-la-espriella-es-declarado-presidente-electo-de-colombia-ja21659752",
-          "source": "Vanguardia",
-          "published_at": "2026-06-24T22:15:59.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-06-24t16263_1-15918856_20260624224126.jpg"
-        },
-        {
-          "title": "Colombia election: Abelardo de la Espriella wins after Ivan Cepeda concedes",
-          "url": "https://www.indiatoday.in/world/story/colombia-election-results-abelardo-de-la-espriella-wins-after-ivan-cepeda-concedes-ptag-2933619-2026-06-25",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-24T21:28:32.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-3-original_92-sixteen_nine.png?VersionId=hqtbKMeaP1R4DmmwUee_fiYLtyf73czE"
-        }
-      ]
-    },
-    {
-      "id": "topic_9964a840e4efe74a",
-      "label": [
-        "europe",
-        "record break",
-        "record",
-        "europe swelter",
-        "swelter record",
-        "heat wave"
-      ],
-      "category": "new",
-      "theme": "theme_f6373c7810ddcc57",
-      "entities": [
-        "Europe",
-        "Record",
-        "Breaking Heat Wave Across",
-        "Europe Signals Harsh Future",
-        "Climate Change"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "More records fall as Europe’s deadly heat wave persists",
-          "url": "https://www.japantimes.co.jp/news/2026/06/25/world/europe-heat-wave-records",
-          "source": "Latest articles - The Japan Times",
-          "published_at": "2026-06-24T23:17:00.000Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/25/548013.jpg"
-        },
-        {
-          "title": "Europe swelters under record-breaking heatwave",
-          "url": "https://globalnation.inquirer.net/328615/europe-swelters-under-record-breaking-heatwave",
-          "source": "INQUIRER.net",
-          "published_at": "2026-06-24T22:25:00.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260624__B87Y6G3__v1__HighRes__FranceWeatherClimateHeat-620x413.jpg"
-        },
-        {
-          "title": "Europe swelters under record-breaking heat wave",
-          "url": "https://phys.org/news/2026-06-europe-swelters-1.html",
-          "source": "Phys.org - latest science and technology news stories",
-          "published_at": "2026-06-24T21:40:01.000Z",
-          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/food-delivery-drivers.jpg"
-        },
-        {
-          "title": "Record-Breaking Heat Wave Across Europe Signals Harsh Future of Climate Change",
-          "url": "https://truthout.org/articles/record-breaking-heat-wave-across-europe-signals-harsh-future-of-climate-change",
-          "source": "Truthout",
-          "published_at": "2026-06-24T20:11:30.000Z",
-          "image": "https://truthout.org/app/uploads/2026/06/2026_06_24-Simone_Padovani-1200x900.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_51636292b24b21c5",
-      "label": [
-        "ozekhome",
-        "mike ozekhome",
-        "mike",
-        "suspend",
-        "san",
-        "lppc suspend"
-      ],
-      "category": "new",
-      "theme": "theme_b744ac241662dd6b",
-      "entities": [
-        "LPPC Suspends Mike Ozekhome",
-        "SAN Rank",
-        "LPPC",
-        "Mike Ozekhome",
-        "SAN"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "LPPC Suspends Mike Ozekhome’s SAN Rank",
-          "url": "https://www.informationng.com/2026/06/lppc-suspends-mike-ozekhomes-san-rank.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-06-24T22:16:25.000Z"
-        },
-        {
-          "title": "LPPC suspends senior lawyer Mike Ozekhome from SAN rank",
-          "url": "https://www.premiumtimesng.com/news/headlines/890468-lppc-suspends-senior-lawyer-mike-ozekhome-from-san-rank.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-06-24T22:04:13.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/Mike-Ozekhome-copy.jpg?fit=1024%2C645&amp;ssl=1"
-        },
-        {
-          "title": "Breaking: Lawyers suspend Mike Ozekhome as senior advocate of Nigeria, SAN, see why",
-          "url": "https://www.legit.ng/nigeria/1716162-breaking-legal-practitioners-suspend-ozekhome-san-status",
-          "source": "Legit.ng",
-          "published_at": "2026-06-24T20:38:29.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/3dc1ffe7c17073de.jpeg?v=1"
-        },
-        {
-          "title": "BREAKING: LPPC suspends Mike Ozekhome’s SAN rank",
-          "url": "https://dailypost.ng/2026/06/24/lppc-suspends-mike-ozekhomes-san-rank",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-06-24T20:13:43.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/02/Mike-Ozekhome.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c1c145a2fad32bec",
-      "label": [
-        "postmaster",
-        "ballot",
-        "plan",
-        "mail",
-        "plan hold",
-        "hold back"
-      ],
-      "category": "new",
-      "theme": "theme_cf8703a52a640164",
-      "entities": [
-        "Postmaster General Confirms Plan",
-        "Hold Back Mail Ballots",
-        "Under Proposed Rule",
-        "Adam Sella",
-        "New York Times"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Postmaster General Confirms Plan to Hold Back Mail Ballots Under Proposed Rule (Adam Sella/New York Times)",
-          "url": "https://www.memeorandum.com/260624/p121",
-          "source": "memeorandum",
-          "published_at": "2026-06-24T23:15:00.000Z",
-          "image": "http://www.memeorandum.com/260624/i121.jpg"
-        },
-        {
-          "title": "Postmaster Plans to Hold Back Mail Ballots",
-          "url": "https://politicalwire.com/2026/06/24/postmaster-plans-to-hold-back-mail-ballots",
-          "source": "Political Wire",
-          "published_at": "2026-06-24T23:03:00.000Z"
-        },
-        {
-          "title": "Postmaster General Confirms Plan to Hold Back Mail Ballots Under Proposed Rule",
-          "url": "https://www.nytimes.com/2026/06/24/us/politics/postmaster-mail-ballot-rule-trump-elections.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-06-24T20:30:47.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24trump-news-mail-ballots-lhqp/24trump-news-mail-ballots-lhqp-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Postmaster general confirms plan to block ballots in states that balk at Trump’s demands",
-          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-voter-rolls-postal-service-general-block-ballots-states",
-          "source": "MS NOW",
-          "published_at": "2026-06-24T19:46:52.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bf0ad732f895fcd7",
-      "label": [
-        "stok apologis",
-        "apologis",
-        "ben stok",
-        "ben",
-        "stok",
-        "naive"
-      ],
-      "category": "new",
-      "theme": "theme_62f0a65dbf7aff79",
-      "entities": [
-        "Stupid",
-        "Ben Stokes",
-        "England",
-        "New Zealand"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
-          "url": "https://www.theage.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-24T21:39:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
-        },
-        {
-          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
-          "url": "https://www.smh.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
+          "title": "Grand Theft Auto VI to launch at $130, no option to buy on disc",
+          "url": "https://www.smh.com.au/technology/video-games/grand-theft-auto-vi-to-launch-at-130-no-option-to-buy-on-disc-20260625-p609wb.html",
           "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-24T21:39:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
+          "published_at": "2026-06-24T23:47:21.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3057086226851852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_41%2C$y_334/t_crop_custom/q_86%2Cf_auto/5b36fc31282c443ad2fdd933dc87eb2915f0bc48d797c65d80ad8415b523afe4",
+          "description": "The wildly anticipated game is expected to be the biggest media launch in history, despite the high price."
         },
         {
-          "title": "‘Stupid and naive’: Ben Stokes apologises after nightclub scandal",
-          "url": "https://www.brisbanetimes.com.au/sport/cricket/stupid-and-naive-ben-stokes-apologises-after-nightclub-scandal-20260625-p609w8.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-24T21:39:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.14272237196765497%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4559cccb7d7c9b8fa1fb5ef2e4e8884ad239d8eb"
-        },
-        {
-          "title": "Ben Stokes apologises to England teammates, urges focus on New Zealand series decider",
-          "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-ben-stokes-apologise-england-teammates-nottingham-test-nightclub-incident-2933599-2026-06-25",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-24T18:48:05.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/ben-stokes-244557564-16x9_0.jpg?VersionId=xAXqoIkAe714oRabRpvmWejG_iNutDW2"
+          "title": "Feast Your Eyes On Over 60 New Grand Theft Auto 6 Screenshots",
+          "url": "https://kotaku.com/grand-theft-auto-6-gta6-screenshots-ultimate-edition-vice-2000709996",
+          "source": "Kotaku",
+          "published_at": "2026-06-24T13:40:37.000Z",
+          "image": "https://kotaku.com/app/uploads/2026/06/ULTIMATE_EDITION_VICE_CITY_STYLE_01-1-1280x720.jpg",
+          "description": "Rockstar is opening the floodgates ahead of pre-orders going live tomorrow"
         }
-      ]
+      ],
+      "summary": "Preorders for Grand Theft Auto VI are expected to open Thursday, with reports differing on the game’s price and whether a physical-disc version will be available. Rockstar has also released new screenshots ahead of the preorder launch."
     },
     {
-      "id": "topic_7e0a674358fe3256",
+      "id": "topic_2b106b203b015e68",
+      "title": "Mamdani-Backed Candidates Win New York Democratic Primaries",
+      "headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
       "label": [
-        "white house",
-        "house request",
-        "white",
-        "iran war",
-        "87",
-        "house"
+        "candidates",
+        "mamdani",
+        "primaries",
+        "york",
+        "backed",
+        "democratic"
       ],
       "category": "new",
-      "theme": "theme_a0fe05e805c5f9d",
+      "theme": "theme_5a4026bca589719d",
       "entities": [
-        "White House",
-        "Congress",
-        "Iran",
-        "Ebola",
-        "Trump White House"
+        "Clean",
+        "Mamdani",
+        "New York",
+        "Democratic",
+        "BBC"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 11,
       "articles": [
         {
-          "title": "White House asks Congress for $87.6 billion for Iran war, aid to U.S. farmers, tackling Ebola crisis",
-          "url": "https://www.thehindu.com/news/international/white-house-asks-congress-for-876-billion-for-iran-war-aid-to-us-farmers-tackling-ebola-crisis/article71143693.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-24T23:31:37.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/vntfvl/article71143782.ece/alternates/LANDSCAPE_1200/2026-06-21T220538Z_511119789_RC2KYLAHZZ79_RTRMADP_3_USA-250.JPG"
+          "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+          "url": "https://www.bbc.co.uk/news/articles/clye652m41po",
+          "source": "BBC News",
+          "published_at": "2026-06-24T13:03:35.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
+          "description": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war."
         },
         {
-          "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-          "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-24T23:25:01.000Z"
+          "title": "Mamdani-backed candidates win New York primaries",
+          "url": "https://www.france24.com/en/video/20260624-mamdani-backed-candidates-win-new-york-primaries",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-24T16:19:20.000Z",
+          "image": "https://s.france24.com/media/display/9a0193d6-6fe7-11f1-a97e-005056bf30b7/w:1024/p:16x9/EN-20260624-164328-164519-CS.jpg",
+          "description": "Three candidates backed by New York Mayor Zohran Mamdani won Democratic primary elections for seats in the US House of Representatives on Tuesday, according to US media projections, an outcome that showcased Mamdani's rising influence on the Democratic party."
         },
         {
-          "title": "White House requests $67 billion in supplemental Pentagon funding after Iran war",
-          "url": "https://www.washingtonexaminer.com/policy/defense/4624151/trump-supplemental-funding-pentagon-iran",
+          "title": "Mamdani-backed candidates sweep New York primaries",
+          "url": "https://www.ft.com/content/c2ae8dcf-ac18-4683-a206-707024514649",
+          "source": "International homepage",
+          "published_at": "2026-06-24T13:38:29.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3f8043f-80f9-4214-b8d1-1f91940a75ef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Democrat voters shift allegiance to new generation of leftwing politicians"
+        },
+        {
+          "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte5tmdrhbxnkefnkn1ptvmhrdlvzwu5daktwbi1mzgexcghovkzaq3zmu2zisjb6btzvr0vqm3z3aeput3zjtmvrujbvnndrt3jpm2e5ny1ceddeqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T13:03:35.000Z",
+          "description": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary BBC Mamdani-backed candidates sweep Democratic primaries in New York City The Guardian New York Primary Election results: Brad Lander, Claire Valdez, Darializa Avila Chevalier win Democratic primaries ABC7 New York \"Huge def…"
+        },
+        {
+          "title": "Mamdani-Backed Candidates Sweep in NYC Democratic Primaries",
+          "url": "https://www.nytimes.com/2026/06/24/nyregion/mamdani-politics-influence.html",
+          "source": "NYT > New York",
+          "published_at": "2026-06-24T11:30:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/23/multimedia/23met-primaries1-qmjb/23met-primaries1-qmjb-mediumSquareAt3X.jpg",
+          "description": "Mayor Zohran Mamdani shook the Democratic establishment by helping drive three progressive candidates to victory."
+        }
+      ],
+      "summary": "Three candidates backed by New York City Mayor Zohran Mamdani won Democratic congressional primaries, including Brad Lander’s defeat of incumbent Dan Goldman. The results highlighted divisions among city Democrats."
+    },
+    {
+      "id": "topic_7fe50706ecfc2058",
+      "title": "OpenAI and Broadcom Unveil Custom AI Inference Chip",
+      "headline": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+      "label": [
+        "openai",
+        "chip",
+        "broadcom",
+        "unveils",
+        "jalapeño",
+        "inference"
+      ],
+      "category": "new",
+      "theme": "theme_e7c91c4ae35793eb",
+      "entities": [
+        "OpenAI",
+        "Broadcom",
+        "Jalape",
+        "LLM",
+        "Broadcom Unveil Custom"
+      ],
+      "article_count": 15,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+          "url": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference",
+          "source": "The Decoder",
+          "published_at": "2026-06-24T13:50:56.000Z",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp",
+          "description": "OpenAI is adding custom hardware to its tech stack. The \"Jalapeño\" chip, developed with Broadcom, is tailored for large language model inference and is set to run at scale by late 2026. The article OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference appeared first on The De…"
+        },
+        {
+          "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+          "url": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
+          "source": "NYT > Technology",
+          "published_at": "2026-06-24T18:45:04.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/25/multimedia/25BIZ-OPENAI-CHIP-tvjc/25BIZ-OPENAI-CHIP-tvjc-mediumSquareAt3X.jpg",
+          "description": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households."
+        },
+        {
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "source": "OpenAI News",
+          "published_at": "2026-06-24T06:00:00.000Z",
+          "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+        },
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom",
+          "source": "TechCrunch",
+          "published_at": "2026-06-24T14:54:46.000Z",
+          "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+        },
+        {
+          "title": "Jalapeño is the first AI chip from OpenAI and Broadcom",
+          "url": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-24T20:10:40.000Z",
+          "image": "https://www.engadget.com/img/gallery/openai-unveils-its-chip-for-llms-made-with-broadcom/l-intro-1782331537.jpg",
+          "description": "It's a spicy start for the AI company's collaboration with the chip maker."
+        }
+      ],
+      "summary": "OpenAI and Broadcom unveiled a custom chip called Jalapeño, designed for large language model inference. OpenAI plans to deploy the chip at scale by late 2026."
+    },
+    {
+      "id": "topic_cfb60c14afdf940d",
+      "title": "Trump Delays Signing Bipartisan Housing Bill",
+      "headline": "Trump cancels signing of bipartisan housing bill until his SAVE America Act is passed",
+      "label": [
+        "housing",
+        "bill",
+        "signing",
+        "trump",
+        "cancels",
+        "bipartisan"
+      ],
+      "category": "trending",
+      "theme": "theme_d2a1db24ba08d5a5",
+      "entities": [
+        "Trump",
+        "SAVE America Act",
+        "Trump Refuses",
+        "Sign Housing Bill",
+        "Trump Cancels Plans"
+      ],
+      "article_count": 37,
+      "source_count": 25,
+      "articles": [
+        {
+          "title": "Trump cancels signing of bipartisan housing bill until his SAVE America Act is passed",
+          "url": "https://abcnews.com/politics/trump-cancels-signing-bipartisan-housing-bill-save-america/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-24T14:47:10.000Z",
+          "image": "https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-260623_1782226136444_hpMain_4x3t_384.jpg",
+          "description": "President Trump said he is putting off signing a bipartisan housing reform bill until Congress passes his SAVE America Act."
+        },
+        {
+          "title": "Trump Refuses to Sign Housing Bill",
+          "url": "https://politicalwire.com/2026/06/24/trump-refuses-to-sign-housing-bill",
+          "source": "Political Wire",
+          "published_at": "2026-06-24T15:14:59.000Z",
+          "description": "“President Trump abruptly canceled his plans to sign a bipartisan bill aimed at improving housing affordability, one that Democrats and Republicans alike had been eager to promote on the campaign trail as evidence they were working to try to bring down costs,” the New York Times reports. “Mr. Trump…"
+        },
+        {
+          "title": "Trump Cancels Plans to Sign a Bipartisan Housing Bill",
+          "url": "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-06-24T21:49:57.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24evening-nl-top-gqwk/24evening-nl-top-gqwk-mediumSquareAt3X.jpg",
+          "description": "Also, Western Europe is sweltering. Here’s the latest at the end of Wednesday."
+        },
+        {
+          "title": "Trump cancels signing of bipartisan US housing bill until Save America Act passed",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358249/trump-cancels-signing-bipartisan-us-housing-bill",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-24T15:16:20.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/fbf474df-3d25-4b11-addc-96992139af57_4238db1b.jpg?itok=G4KQKDQn&v=1782314178",
+          "description": "US President Donald Trump on ⁠Wednesday cancelled ⁠a planned signing of ⁠bipartisan legislation aimed at speeding up the construction and availability of more affordable housing in an effort to pressure fellow Republicans to pass a long-stalled package of voting restrictions that has shown the limi…"
+        },
+        {
+          "title": "Trump Cancels Housing Bill Signing, Pushes SAVE Act",
+          "url": "https://www.realclearpolitics.com/2026/06/24/trump_cancels_housing_bill_signing_pushes_save_act_703449.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-06-24T18:23:51.000Z"
+        }
+      ],
+      "summary": "President Donald Trump canceled a planned signing of bipartisan housing legislation and said he would wait until Congress passed his SAVE America Act. The bill aims to improve housing affordability and speed construction."
+    },
+    {
+      "id": "topic_69a4245729cc114a",
+      "title": "Trump Faces Calls to Provide Evidence of Reflecting Pool Sabotage",
+      "headline": "The Reflecting Pool Has Been a Problem For Decades",
+      "label": [
+        "pool",
+        "reflecting",
+        "trump",
+        "problem",
+        "vandals",
+        "sabotage"
+      ],
+      "category": "new",
+      "theme": "theme_57255769a8253b0f",
+      "entities": [
+        "Pool",
+        "Reflecting",
+        "The Reflecting Pool Has",
+        "Problem For Decades",
+        "The Reflecting Pool Water"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "The Reflecting Pool Has Been a Problem For Decades",
+          "url": "https://www.realclearpolitics.com/2026/06/24/the_reflecting_pool_has_been_a_problem_for_decades_703446.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-06-24T13:11:49.000Z",
+          "image": "https://assets.realclear.com/images/72/720425_1_.jpeg",
+          "description": "Let's talk reflecting￼ pool. Warren G. Harding built it on swampland and the structure beneath it would have been fine - if it had been built on stable ground. ￼The whole thing started sinking slowly.Presidents all the way up through Carter kept trying to prop it up with https://t.co/lWmX07Pqtf"
+        },
+        {
+          "title": "What the Pool’s Reflecting",
+          "url": "https://slate.com/podcasts/what-next/2026/06/algae-vandals-poolboys-the-reflecting-pool-saga",
+          "source": "Slate Magazine",
+          "published_at": "2026-06-24T09:20:00.000Z",
+          "image": "https://compote.slate.com/images/19160acf-87ea-4d09-bb46-f0a1ea436fb2.jpeg?crop=4500%2C3000%2Cx0%2Cy0",
+          "description": "The green ew deal."
+        },
+        {
+          "title": "The Reflecting Pool Water’s Fine",
+          "url": "https://politicalwire.com/2026/06/24/the-reflecting-pool-waters-fine",
+          "source": "Political Wire",
+          "published_at": "2026-06-24T21:25:00.000Z",
+          "description": "Jonathan Chait: “Never in my life have I rooted so hard for algae. In fact, I’ve never rooted for algae at all. Yet the sight of those tiny green organisms floating in the Reflecting Pool, absorbing sunlight, multiplying their little hearts out and living their best (presumably very short) lives, f…"
+        },
+        {
+          "title": "Trump under pressure to back up claim of sabotage at reflecting pool",
+          "url": "https://www.theguardian.com/us-news/2026/jun/24/trump-reflecting-pool-vandalism-evidence",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-24T18:39:22.000Z",
+          "image": "https://i.guim.co.uk/img/media/b1cb58672ddd0f0fc8509350aa915043938c47c6/374_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=30f25e14b5dca01ed4890d674717deb8",
+          "description": "President’s promise of photo and video evidence of vandalism at Washington landmark yet to be fulfilled Donald Trump and the Department of the Interior are facing growing pressure to release photo and video evidence substantiating their claims of sabotage at the Lincoln Memorial reflecting pool in…"
+        },
+        {
+          "title": "Trump under pressure to back up claim of sabotage at reflecting pool",
+          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxqywvobwj6ugpmnhbym0wwdhzkdwtpvndjqu9zd3zsbmlirnpqyvvsszdun05qd1bldw5etgfsqnk2rvzpn3rmsxe4dhjwt2pmbzlxnlphrlbqtxk3uxpulwdqaxq5wu94u2xis256zw9vzffgvuldohjlmwetaxdusdzpmlltnna4szhnqxuyqvzfuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T19:40:00.000Z",
+          "description": "Trump under pressure to back up claim of sabotage at reflecting pool The Guardian Man seen on video being detained at Reflecting Pool faces disorderly conduct and obscenity charges NBC News Company owned by Trump donor won $1.7 million no-bid Reflecting Pool cleaning contract CBS News Analysis | Wh…"
+        }
+      ],
+      "summary": "Donald Trump has faced pressure to release photo or video evidence supporting his claim that the Reflecting Pool was sabotaged. The pool has also drawn attention over its condition and long-running structural problems."
+    },
+    {
+      "id": "topic_ff9d7cb03f71d46d",
+      "title": "Trump Orders Probe of Oil Companies Over Gas Prices",
+      "headline": "Trump accuses oil companies of gas price ‘gouging,’ calls for DOJ probe",
+      "label": [
+        "gouging",
+        "price",
+        "gas",
+        "trump",
+        "probe",
+        "doj"
+      ],
+      "category": "new",
+      "theme": "theme_4506f39bd792db6",
+      "entities": [
+        "Trump",
+        "DOJ",
+        "NBC News",
+        "Trump Orders Gas Price",
+        "Gouging Probe"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump accuses oil companies of gas price ‘gouging,’ calls for DOJ probe",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522",
+          "source": "NBC News World News",
+          "published_at": "2026-06-24T08:50:44.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-gas-prices-mb-0900-127266.jpg",
+          "description": "President Donald Trump said Wednesday that he had instructed the Justice Department to immediately probe oil companies for not lowering gas prices at the pump in line with falling costs, accusing them of “gouging” consumers."
+        },
+        {
+          "title": "Trump accuses oil companies of gas price ‘gouging,’ calls for DOJ probe",
+          "url": "https://news.google.com/rss/articles/cbmipwfbvv95cuxqbtu5eufdzwzidmrhvwjzchvwdzizohhrsudisdhazlzkrzbkzxe0z3njtwt2qkdozdbgx1i0te5iszi0tkzovuv4r01py1rtdhvhmu1wnnrzu1rfs1peuvl3mlhftzf3twvttfrlml9tlvlqwffkt014twj3ogrrrjbsawk1lutzendqnhcwnf9nmhbzmmhdc29qvwp5tvlcqmlfz0flbw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T16:44:11.000Z",
+          "description": "Trump accuses oil companies of gas price ‘gouging,’ calls for DOJ probe NBC News Trump accuses oil companies of gouging drivers, orders DOJ to investigate Politico Trump Claims Gasoline Price 'Gouging,’ Calls for DOJ Probe Time Magazine Trump Calls for Probe Into U.S. Gasoline Prices After Oil Fall…"
+        },
+        {
+          "title": "Trump Orders Gas Price Gouging Probe",
+          "url": "https://finance.yahoo.com/energy/articles/trump-orders-gas-price-gouging-053000420.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-24T05:30:00.000Z",
+          "image": "https://media.zenfs.com/en/oilprice.com/3c466fba8608ab030b8c3192ab020288"
+        },
+        {
+          "title": "Trump says he’s ordered investigation into oil companies over alleged price gouging",
+          "url": "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging",
+          "source": "The Guardian",
+          "published_at": "2026-06-24T15:21:25.000Z",
+          "image": "https://i.guim.co.uk/img/media/76be3809948cd4b9dbfa80a9fa5bbd7733c5da35/280_261_4675_3739/master/4675.jpg?width=140&quality=85&auto=format&fit=max&s=3b86c24cbf883731c762897f0e90b9f8",
+          "description": "Trump says he instructed justice department to investigate oil firms over high gas prices amid Middle East conflict Donald Trump said Wednesday that he had instructed the US Department of Justice to investigate oil companies for alleged price gouging, accusing them of not lowering gas prices enough…"
+        },
+        {
+          "title": "Trump claims gas prices should be at $2.25, blames price gouging",
+          "url": "https://www.washingtonexaminer.com/policy/economy/4623965/trump-gas-prices-price-gouging",
           "source": "Washington Examiner",
-          "published_at": "2026-06-24T22:32:33.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26169405315095.jpg?w=696"
-        },
-        {
-          "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
-          "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-06-24T21:36:30.000Z"
+          "published_at": "2026-06-24T21:16:41.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26175754722021.jpg?w=696",
+          "description": "President Donald Trump excoriated several U.S. oil giants for not working to bring down gas prices fast enough in the wake of the memorandum of understanding with Iran, which he signed last week. “We should be, in my opinion, at $2.25 right now at the pump, and we’re higher than that,” he said whil…"
         }
-      ]
+      ],
+      "summary": "Trump said he instructed the Justice Department to investigate oil companies over alleged price gouging at the pump. He argued that gasoline prices had not fallen in line with lower costs."
     },
     {
-      "id": "topic_4912c5cc149b50c9",
+      "id": "topic_f7be83b2ba108eba",
+      "title": "Judge Blocks Trump Proof-of-Citizenship Voting Requirement",
+      "headline": "Judge Blocks Trump’s Proof of Citizenship to Vote",
       "label": [
-        "53946",
-        "2026 53946",
-        "cve 2026",
-        "cve",
-        "2026",
-        "request"
+        "judge",
+        "blocks",
+        "proof",
+        "citizenship",
+        "trump",
+        "federal"
       ],
       "category": "new",
-      "theme": "theme_c8d34beccda0225e",
+      "theme": "theme_554900d013eb56b8",
       "entities": [
-        "CVE",
-        "Cisco Unified Communications Manager",
-        "Server",
-        "Side Request Forgery Vulnerability",
-        "TryGhost"
+        "Judge Blocks Trump",
+        "Proof",
+        "Citizenship",
+        "Vote",
+        "Federal Judge Blocks Trump"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 8,
       "articles": [
         {
-          "title": "CVE-2026-20230 | Cisco Unified Communications Manager Server-Side Request Forgery Vulnerability",
-          "url": "https://horizon3.ai/attack-research/vulnerabilities/cve-2026-20230",
-          "source": "Horizon3.ai",
-          "published_at": "2026-06-24T22:00:00.000Z"
+          "title": "Judge Blocks Trump’s Proof of Citizenship to Vote",
+          "url": "https://politicalwire.com/2026/06/24/judge-blocks-trumps-proof-of-citizenship-to-vote",
+          "source": "Political Wire",
+          "published_at": "2026-06-24T16:49:45.000Z",
+          "description": "“A federal judge on Wednesday permanently barred President Donald Trump’s administration from implementing most of his first executive order on elections, part of which sought to require people to show documentary proof of citizenship when they register to vote,” the Associated Press reports."
         },
         {
-          "title": "CVE-2026-53946 | TryGhost up to 6.21.0 HTTP Request server-side request forgery (GHSA-g366-23fw-ggp6)",
-          "url": "https://vuldb.com/vuln/373512",
-          "source": "VulDB Recent Entries",
-          "published_at": "2026-06-24T19:27:41.000Z"
+          "title": "Federal Judge Blocks Trump Proof-of-Citizenship Requirement for Voting",
+          "url": "https://internewscast.com/news/us/federal-judge-blocks-trump-proof-of-citizenship-requirement-for-voting",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-24T17:31:27.000Z",
+          "description": "Internewscast Journal Internewscast A federal judge on Wednesday permanently blocked President Donald Trump’s administration from… This Post: Federal Judge Blocks Trump Proof-of-Citizenship Requirement for Voting first appeared on Internewscast Journal"
         },
         {
-          "title": "CVE-2026-53946",
-          "url": "https://vulners.com/nvd/nvd:cve-2026-53946",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-06-24T19:17:12.000Z",
-          "image": "http://vulners.com/static/img/nvd.png"
+          "title": "Federal judge blocks Trump from requiring proof of citizenship for voter registration",
+          "url": "https://nypost.com/2026/06/24/us-news/federal-judge-blocks-trump-from-requiring-proof-of-citizenship-for-voter-registration",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-24T17:11:30.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fcrop-39779738_39ac55.jpg?w%3D1024",
+          "description": "A federal judge on Wednesday permanently barred President Donald Trump’s administration from implementing most of his first executive order on elections."
+        },
+        {
+          "title": "Federal judge blocks Trump effort to make voters show proof of citizenship",
+          "url": "https://www.theguardian.com/us-news/2026/jun/24/trump-proof-citizenship-requirement-voting",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-24T18:40:01.000Z",
+          "image": "https://i.guim.co.uk/img/media/5fbc9e3e14c03f11557557fa21deec2b949710f8/718_495_1882_1505/master/1882.jpg?width=140&quality=85&auto=format&fit=max&s=c40f1b7f908f42c2976182175b505af9",
+          "description": "Ruling is win for democracy advocates who have fought back against Trump’s push to take power over voting A US federal court blocked Donald Trump’s attempt to regulate elections via executive order, a win for democracy advocates who have fought back against the US president’s push to take power ove…"
+        },
+        {
+          "title": "Judge permanently blocks Trump EO requiring proof of citizenship to vote",
+          "url": "https://abcnews.com/politics/judge-permanently-blocks-trump-eo-requiring-proof-citizenship/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-24T17:46:19.000Z",
+          "image": "https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-260624._1782312259509_hpMain_4x3t_384.jpg",
+          "description": "Judge Denise Casper ruled that the president lacks the authority to oversee elections."
         }
-      ]
+      ],
+      "summary": "A federal judge permanently blocked most of Trump’s executive order on elections, including its effort to require proof of citizenship for voter registration. The judge ruled that the president lacked authority to oversee elections."
     },
     {
-      "id": "topic_e7fff2fa1755bc1f",
+      "id": "topic_142ca63fb56316b",
+      "title": "Star Fox Reviewers Assess Switch 2 Remake",
+      "headline": "Round Up: The Reviews For Star Fox On Switch 2 Are In",
       "label": [
-        "ahmedabad airport",
-        "taxiway",
-        "ahmedabad",
-        "air india",
-        "airport",
-        "india"
+        "fox",
+        "star",
+        "review",
+        "switch",
+        "beginning",
+        "undermines"
       ],
       "category": "new",
-      "theme": "theme_d6a3379807838bb7",
+      "theme": "theme_8e77e07a7e2a4757",
       "entities": [
-        "Wrong",
-        "Air India",
-        "Ahmedabad",
-        "IndiGo"
+        "Star Fox Review",
+        "Review",
+        "Star Fox",
+        "Round Up",
+        "The Reviews For Star"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 15,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Wrong taxiway turn by Air India aircraft triggers ground incident at Ahmedabad airport",
-          "url": "https://www.thehindubusinessline.com/economy/logistics/wrong-taxiway-turn-by-air-india-aircraft-triggers-ground-incident-at-ahmedabad-airport/article71143339.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-06-24T23:11:46.000Z",
-          "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/b40ha2/article71026765.ece/alternates/LANDSCAPE_1200/Air-India-expanG6TG1G0PR.4.jpg.jpg"
+          "title": "Round Up: The Reviews For Star Fox On Switch 2 Are In",
+          "url": "https://www.nintendolife.com/news/2026/06/round-up-the-reviews-for-star-fox-on-switch-2-are-in",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-06-24T12:45:00.000Z",
+          "image": "https://images.nintendolife.com/dace0b559dbde/large.jpg",
+          "description": "Slippy Turd? Remember a mere two months ago when we didn't even know about Star Fox? Hahaha, good times. Well it's almost here now, and to say we're excited would be an understatement. The remake launches on 25th June 2026 (that's tomorrow!) and a whole bunch of reviews have gone live, giving us a…"
         },
         {
-          "title": "Air India plane comes in front of IndiGo aircraft on same taxiway at Ahmedabad airport",
-          "url": "https://www.thehindu.com/news/national/air-india-plane-comes-in-front-of-indigo-aircraft-on-same-taxiway-at-ahmedabad-airport/article71143344.ece",
+          "title": "Star Fox Review",
+          "url": "https://www.ign.com/articles/star-fox-review",
+          "source": "IGN Articles",
+          "published_at": "2026-06-24T12:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/23/starfox-review-blogroll-1782256362189.jpg",
+          "description": "This remake of Star Fox 64 proves the Arwing isn’t out of style quite yet."
+        },
+        {
+          "title": "Review: Star Fox",
+          "url": "https://mynintendonews.com/2026/06/24/review-star-fox",
+          "source": "My Nintendo News",
+          "published_at": "2026-06-24T12:00:00.000Z",
+          "description": "After Fox McCloud’s cameo in the Super Mario Galaxy Movie, fans of the Lylat System’s greatest mercenary squad were ready to see Arwings take to the skies once again. Nintendo answered the call with a surprise Nintendo Direct and a brand new title in the series, the first entry in over a decade. St…"
+        },
+        {
+          "title": "Star Fox Is A New Beginning That Undermines Itself",
+          "url": "https://www.gamespot.com/reviews/star-fox-review-switch-2",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-06-24T12:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/NintendoSwitch2_StarFox_scrn_20_608a75.jpg?w=300",
+          "description": "There's a reason Nintendo keeps remaking Star Fox 64. The N64 iteration of the rail shooter--at the time, the second Star Fox release--remains the apex of the franchise: a genuinely fantastic game that still holds up and stands the test of time. Subsequent sequels that have attempted to recapture t…"
+        },
+        {
+          "title": "Star Fox (2026) Review - Mission Complete",
+          "url": "https://gameinformer.com/review/star-fox-2026/mission-complete",
+          "source": "Game Informer",
+          "published_at": "2026-06-24T12:00:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/18/22e4787c/starfoxheader.jpg.webp",
+          "description": "Reviewed on: Switch 2 Platform: Publisher: Nintendo Developer: Velan Studios Release: June 25, 2026 Rating: Everyone 10+ Nearly 30 years and now two whole remakes later, Star Fox 64 is still the “animals in airplanes” franchise’s crowning achievement. Not even Shigeru Miyamoto’s efforts with 2016’s…"
+        }
+      ],
+      "summary": "Reviews of the Star Fox remake for Switch 2 say it revisits Star Fox 64, a title some reviewers describe as the franchise’s high point. The game is scheduled to launch June 25, 2026."
+    },
+    {
+      "id": "topic_b1815c0f272d1686",
+      "title": "Camp Mystic Files for Bankruptcy After Deadly Texas Flood",
+      "headline": "Camp Mystic, Where 28 Died in Texas Floods, Files for Bankruptcy",
+      "label": [
+        "mystic",
+        "bankruptcy",
+        "camp",
+        "files",
+        "floods",
+        "texas"
+      ],
+      "category": "new",
+      "theme": "theme_7f63bf619faaf443",
+      "entities": [
+        "Camp Mystic",
+        "Died",
+        "Texas Floods",
+        "Files",
+        "Bankruptcy"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Camp Mystic, Where 28 Died in Texas Floods, Files for Bankruptcy",
+          "url": "https://www.nytimes.com/2026/06/24/us/camp-mystic-texas-flood-bankruptcy.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-06-24T15:10:50.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24xp-camp-mystic-1-pqwf/24xp-camp-mystic-1-pqwf-mediumSquareAt3X.jpg",
+          "description": "Catastrophic floods that swept the Texas Hill Country last July killed 25 campers, two counselors and the camp’s executive director."
+        },
+        {
+          "title": "Camp Mystic, site of Texas floods that killed 28, files for bankruptcy",
+          "url": "https://globalnews.ca/news/11937045/camp-mystic-bankruptcy-texas-floods",
+          "published_at": "2026-06-24T20:11:48.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2025/07/GettyImages-2223011364.jpg?quality=65&strip=all",
+          "description": "The camp listed its debt at more than $10 million, according to an official filing made in federal bankruptcy court in Houston, Texas."
+        },
+        {
+          "title": "Camp Mystic, site of deadly Texas flooding, files for bankruptcy",
+          "url": "https://abcnews.com/us/camp-mystic-site-deadly-texas-flooding-files-bankruptcy/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-24T13:09:53.000Z",
+          "image": "https://s.abcnews.com/images/US/camp-mystic-ap-gmh-260624_1782306279086_hpMain_4x3t_384.jpg",
+          "description": "Twenty-seven people died in the July 2025 flood at the all-girls camp."
+        },
+        {
+          "title": "Camp Mystic, Where 28 Died in Texas Floods, Files for Bankruptcy",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxpnxpobdjzr3dmzmd4wudtzg56rwtjt3nruei2bfizx1rsmdnmouzodwtpwmtseuzmzvvndepdbhlvrtbjb1cxvkllafbjbdjtexbvbddavnu3emjvatjwuhfjaehyd0ptnhzesnbyteiywlfyodhirehlbffgq1y4weu5sq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T20:17:05.000Z",
+          "description": "Camp Mystic, Where 28 Died in Texas Floods, Files for Bankruptcy The New York Times Camp Mystic, following deadly flooding incident, files for bankruptcy ABC News - Breaking News, Latest News and Videos Camp Mystic files for bankruptcy almost a year after catastrophic Texas floods NPR Camp Mystic f…"
+        },
+        {
+          "title": "Camp Mystic, Where 25 Girls Died, Files for Bankruptcy",
+          "url": "https://internewscast.com/news/camp-mystic-where-25-girls-died-files-for-bankruptcy",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-24T14:20:48.000Z",
+          "description": "Internewscast Journal Internewscast A Texas summer camp where 25 young girls were killed in a… This Post: Camp Mystic, Where 25 Girls Died, Files for Bankruptcy first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Camp Mystic, where floods in July 2025 killed campers and staff, filed for bankruptcy in federal court in Houston. One report said the camp listed more than $10 million in debt."
+    },
+    {
+      "id": "topic_79b219c13a10355d",
+      "title": "Earthquakes Reported in Venezuela, Japan and California",
+      "headline": "Magnitude 7.1 earthquake strikes Venezuela",
+      "label": [
+        "earthquake",
+        "magnitude",
+        "strikes",
+        "venezuela",
+        "northern",
+        "powerful"
+      ],
+      "category": "new",
+      "theme": "theme_cb865bc0c332eb0c",
+      "entities": [
+        "Magnitude",
+        "Venezuela",
+        "Powerful",
+        "Japan",
+        "California"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Magnitude 7.1 earthquake strikes Venezuela",
+          "url": "https://www.thehindu.com/news/international/venezuela-earthquake-toll-damage-updates-june-25-2026/article71143760.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-24T18:53:24.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/rv3783/article71143369.ece/alternates/LANDSCAPE_1200/_DSC0375.JPG"
+          "published_at": "2026-06-24T23:03:15.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/twu1nh/article71144505.ece/alternates/LANDSCAPE_1200/Venezuela_Earthquake_325_1.jpg",
+          "description": "People evacuated swaying buildings in Caracas, but there were no official reports damages or injuries or so far"
         },
         {
-          "title": "'Wrong turn': Air India plane comes in front of IndiGo flight on same taxiway at Ahmedabad airport",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/wrong-turn-air-india-plane-comes-in-front-of-indigo-flight-on-same-taxiway-at-ahmedabad-airport/articleshow/131976273.cms",
-          "source": "Times of India",
-          "published_at": "2026-06-24T18:51:28.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131977295,imgsize-105404.cms"
+          "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning",
+          "url": "https://www.seattletimes.com/nation-world/powerful-6-9-magnitude-earthquake-strikes-off-northern-japan-meteorological-agency-says",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-06-24T22:56:24.000Z",
+          "image": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png",
+          "description": "A powerful earthquake has struck off Japan’s northern coast but there was no danger of a tsunami, the country’s meteorological agency said."
+        },
+        {
+          "title": "Magnitude 5.6 earthquake strikes northern California region, USGS says",
+          "url": "https://www.gmanetwork.com/news/topstories/world/992604/magnitude-5-6-earthquake-snorthern-california-usgs/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-24T17:13:49.000Z",
+          "image": "https://images.gmanews.tv/v3/webpics/v3/2014/06/2014_06_24_11_01_39.jpg",
+          "description": "A magnitude 5.6 earthquake struck Mendocino County in northern California on Wednesday, according to the U.S. Geological Survey."
+        },
+        {
+          "title": "7.1-magnitude earthquake strikes Venezuela, shaking buildings in the capital of Caracas",
+          "url": "https://www.dw.com/en/7-1-magnitude-earthquake-strikes-venezuela-shaking-buildings-in-the-capital-of-caracas/a-77698995",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-24T23:21:00.000Z",
+          "description": "A magnitude 7.1 earthquake struck Venezuela on Wednesday afternoon, with residents reporting tremors in Colombia too."
+        },
+        {
+          "title": "Powerful 6.9 Magnitude Earthquake Strikes Japan, No Tsunami Warning Issued",
+          "url": "https://www.ndtv.com/world-news/powerful-6-9-magnitude-earthquake-strikes-japan-no-tsunami-warning-issued-11683638",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-24T23:19:23.000Z",
+          "image": "https://c.ndtvimg.com/2025-03/9p4mj938_earthquake-generic_625x300_18_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "A magnitude 6.9 earthquake struck northern Japan on Thursday, the country's weather agency said, adding that there was no tsunami warning."
         }
-      ]
+      ],
+      "summary": "A magnitude 7.1 earthquake struck Venezuela, shaking buildings in Caracas, while separate earthquakes were reported off northern Japan and in northern California. Japan’s authorities issued no tsunami warning; the headlines reported no confirmed injuries or damage in Venezuela."
     },
     {
-      "id": "topic_e7666d80bed27409",
+      "id": "topic_99e05f92135ea1dc",
+      "title": "Hackers Leak Madison Square Garden Data",
+      "headline": "How Hackers Broke into Madison Square Garden",
       "label": [
-        "como der",
-        "avanza",
-        "suiza",
-        "canad",
-        "grupo",
-        "der"
+        "madison",
+        "garden",
+        "square",
+        "travis",
+        "kelce",
+        "swift"
       ],
       "category": "new",
-      "theme": "theme_a3de4a13c178646a",
+      "theme": "theme_e79bbe59e3ed086b",
       "entities": [
-        "Mundial",
-        "Suiza",
-        "Canad",
-        "Grupo",
-        "Bosnia"
+        "How Hackers Broke",
+        "Madison Square Garden",
+        "Madison Square Garden Sports",
+        "Taylor Swift And Travis",
+        "Kelce Likely Will Wed"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Mundial 2026: Suiza derrota a Canadá y avanza como líder del Grupo B; Bosnia queda cerca de los Dieciseisavos",
-          "url": "https://vanguardia.com.mx/deportes/mundial-2026-suiza-derrota-a-canada-y-avanza-como-lider-del-grupo-b-bosnia-queda-cerca-de-los-dieciseisavos-da21650254",
-          "source": "Vanguardia",
-          "published_at": "2026-06-24T21:07:44.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/suiza-bosnia_1-15917675_20260624211531.png"
+          "title": "How Hackers Broke into Madison Square Garden",
+          "url": "https://malware.news/t/how-hackers-broke-into-madison-square-garden/108188",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-06-24T14:40:44.000Z",
+          "image": "https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F24%2Fhow-hackers-broke-into-madison-square-garden%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dhow-hackers-broke-into-madison-square-garden&amp;action_name=How%20Hackers%20Broke%20into%20Madison%20Square%20Garden&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F",
+          "description": "Joseph Cox reports: The hackers that stole a large cache of data from Madison Square Garden called a low level employee and tricked them into letting the hackers into MSG’s systems, according to the hackers and 404 Media’s review of the stolen data. … 404 Media downloaded the full 45GB data dump an…"
         },
         {
-          "title": "Avanza Suiza como líder de grupo tras vencer a Canadá",
-          "url": "https://www.elnorte.com/avanza-suiza-como-lider-de-grupo-tras-vencer-a-canada/ar3228530",
-          "source": "ElNorte",
-          "published_at": "2026-06-24T21:00:40.000Z"
+          "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
+          "url": "https://haveibeenpwned.com/breach/madisonsquaregardensports",
+          "source": "Have I Been Pwned latest breaches",
+          "published_at": "2026-06-24T13:02:33.000Z",
+          "description": "In June 2026, the sports and entertainment company Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group later published the alleged data, which included almost 10M unique email addresses spanning staff and customers, along with extensive personal…"
         },
         {
-          "title": "Avanza Suiza como líder del Grupo B tras vencer a Canadá",
-          "url": "https://www.reforma.com/avanza-suiza-como-lider-del-grupo-b-tras-vencer-a-canada/ar3228522",
-          "source": "Reforma",
-          "published_at": "2026-06-24T20:57:09.000Z"
+          "title": "Taylor Swift And Travis Kelce Likely Will Wed At Madison Square Garden, Report Says",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/24/taylor-swift-and-travis-kelce-likely-will-wed-at-madison-square-garden-report-says",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-24T17:06:00.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3c0d7cade4791c4c5a0fbc/0x0.jpg?width=960",
+          "description": "A mix of permit filings and hotel accommodations suggest Taylor Swift and Travis Kelce will soon host their wedding at Madison Square Garden, The New York Times reported."
+        },
+        {
+          "title": "Taylor Swift & Travis Kelce Wedding Eyed For Madison Square Garden In July",
+          "url": "https://news.google.com/rss/articles/cbmiiwfbvv95cuxonkllww1qvnztazhpcgfeehfzqtdtavvxrxdrdtz2v3rjyviztvlxnuxwrfrrm015q3bkdvozae5ln1k5ewjusw1eulj6nnroumxgy3h5ctjnzdvbwetqvxlnwuvvywvjmvfvu0pudhzxvutpvtg5ohbrcg5sedrcqnlwug1qevbqngpj",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-24T23:07:00.000Z",
+          "description": "Taylor Swift & Travis Kelce Wedding Eyed For Madison Square Garden In July Deadline New Clues Point to Taylor Swift Wedding Event at M.S.G. The New York Times New York permit, other clues point to Taylor Swift wedding next week, NYT says Yahoo Event permit request fuels speculation of possible Tayl…"
+        },
+        {
+          "title": "Madison Square Garden Hack Exposes 26 Million Visitor Records",
+          "url": "https://www.techrepublic.com/article/news-madison-square-garden-hack-26m-records",
+          "source": "Security Archives - TechRepublic",
+          "published_at": "2026-06-24T15:00:42.000Z",
+          "description": "Madison Square Garden faces a 26M-record hack tied to visitor data, facial recognition, and security records from its venue operations, with fallout from the leak. The post Madison Square Garden Hack Exposes 26 Million Visitor Records appeared first on TechRepublic."
         }
-      ]
+      ],
+      "summary": "Madison Square Garden Sports was targeted in a data breach and extortion campaign, with reports saying hackers published alleged company data. The leaked records reportedly included visitor information and security-related data."
     }
   ]
 }

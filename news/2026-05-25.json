@@ -1,880 +1,963 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-26T00:15:44.372Z",
+  "generated_at": "2026-09-27T13:57:04.451Z",
   "topics": [
     {
-      "id": "topic_853ebef5a327c2f4",
+      "id": "topic_a83a0329ad5dd160",
+      "title": "Trump Seeks Abraham Accords Sign-Ups as Part of Iran Deal",
+      "headline": "Trump links Abraham Accords to any Iran deal",
       "label": [
-        "internet acces",
-        "president order",
-        "order",
-        "internet",
-        "president",
-        "acces"
+        "abraham",
+        "accords",
+        "trump",
+        "deal",
+        "iran",
+        "nations"
       ],
       "category": "new",
-      "theme": "theme_4028ebc594f5be5e",
+      "theme": "theme_7d3aca8e39238dcc",
       "entities": [
-        "Iranian",
-        "President Masoud Pezeshkian",
-        "Reuters",
+        "Trump",
+        "Abraham Accords",
         "Iran",
-        "Iranian President Orders Reopening"
+        "Reuters",
+        "Trump Urges Arab Nations"
       ],
-      "article_count": 9,
-      "source_count": 9,
+      "article_count": 27,
+      "source_count": 21,
       "articles": [
         {
-          "title": "Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout (Reuters)",
-          "url": "https://www.techmeme.com/260525/p19",
-          "source": "Techmeme",
-          "published_at": "2026-05-25T20:35:22.000Z",
-          "image": "http://www.techmeme.com/260525/i19.jpg"
+          "title": "Trump links Abraham Accords to any Iran deal",
+          "url": "https://www.japantimes.co.jp/news/2026/05/26/world/politics/trump-abraham-accords-iran",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-05-25T22:13:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/26/542403.JPG",
+          "description": "Public mistrust of ‌Israel ‌in Muslim nations remains high over the scale of its military offensive in Gaza."
         },
+        {
+          "title": "Trump links Iran deal to Abraham Accords",
+          "url": "https://tribune.com.pk/story/2610006/trump-links-iran-deal-to-abraham-accords",
+          "source": "express tribune",
+          "published_at": "2026-05-25T08:54:02.000Z",
+          "description": "Says it should be mandatory for Pakistan, Saudi Arabia, Qatar and Türkiye to join Abraham Accords as part of Iran deal"
+        },
+        {
+          "title": "Trump links Abraham Accords to any Iran deal",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxqa3nkc094dzjiauhty0n6cwpqrnk4x2swmgf3b1rhsnppovhyzwt1bdbcq00tbwv6qwdtmkuycexfrfhxdxpove16xzbia0hitnbmvmq5tgd6og5otupzylbsejb1svpyeg8wtxrvszv5t081vuptnm1qz0ixnvdps0hiawjln2mxsi1ooutnquhwd0vky3c",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T18:46:37.000Z",
+          "description": "Trump links Abraham Accords to any Iran deal Reuters Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal The Guardian Trump Urges More Countries to Normalize Relations With Israel as Part of Iran Deal The New York Times As new Ir…"
+        },
+        {
+          "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
+          "url": "https://www.thehindu.com/news/international/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal/article71021478.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-25T13:58:59.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/yg2qhr/article71021555.ece/alternates/LANDSCAPE_1200/Israel_UAE_Explainer_42463.jpg",
+          "description": "“After all the work done by the United States to try and pull this very complex puzzle together, it should be mandatory that all of these Countries, at a minimum, simultaneously, sign onto the Abraham Accords”"
+        },
+        {
+          "title": "Trump Urges Arab Nations to Join Abraham Accords Once Iran Deal Is Sealed",
+          "url": "https://www.dailysignal.com/2026/05/25/trump-arab-nations-abraham-acccords",
+          "source": "The Daily Signal",
+          "published_at": "2026-05-25T13:35:38.000Z",
+          "image": "https://static.dailysignalmedia.org/269525_Abraham_Accords.jpg",
+          "description": "WASHINGTON, May 25 (Reuters) – U.S. President Donald Trump said on Monday it should be mandatory for countries including Qatar, Pakistan, Egypt, Jordan and Turkey to join the Abraham Accords en masse as part of an effort to reach a deal with Iran. Trump said he spoke on Saturday to leaders of those…"
+        }
+      ],
+      "summary": "Donald Trump said countries including Pakistan, Saudi Arabia, Qatar and Türkiye should join the Abraham Accords as part of any Iran deal. He also cited Egypt and Jordan among countries he wants to sign on."
+    },
+    {
+      "id": "topic_312c8f6b426ed049",
+      "title": "Pope Leo Warns of AI Risks and Calls for Safeguards",
+      "headline": "Pope Leo Warns of Risks From AI",
+      "label": [
+        "leo",
+        "pope",
+        "warns",
+        "ai",
+        "risks",
+        "encyclical"
+      ],
+      "category": "new",
+      "theme": "theme_e3ae7334ca6db1c0",
+      "entities": [
+        "Pope Leo Warns",
+        "Risks From AI",
+        "Risks From",
+        "Word Encyclical",
+        "Pope Leo"
+      ],
+      "article_count": 18,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Pope Leo Warns of Risks From AI",
+          "url": "https://politicalwire.com/2026/05/25/pope-leo-warns-of-risks-from-ai",
+          "source": "Political Wire",
+          "published_at": "2026-05-25T11:00:00.000Z",
+          "description": "“Pope Leo XIV on Monday set out a sweeping vision for corporate executives, politicians and individuals who will shape and be shaped by the future of artificial intelligence, warning leaders to safeguard humanity from A.I.’s most disruptive effects,” the New York Times reports."
+        },
+        {
+          "title": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
+          "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-05-25T10:08:21.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg",
+          "description": "The document marks a powerful foray by the leader of the Roman Catholic church into the debate about the misuse or overuse of artificial intelligence."
+        },
+        {
+          "title": "Pope Leo warns about dangers of AI",
+          "url": "https://www.smh.com.au/world/pope-leo-warns-about-dangers-of-ai-20260526-p600m3.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-25T20:34:50.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ae6e292c00d6eec403e56026d9a6efcd4e545745",
+          "description": "Pope Leo calls for Artificial Intelligence to be 'disarmed' in his first major teaching document."
+        },
+        {
+          "title": "Pope Leo warns of AI risks, urges global regulation",
+          "url": "https://www.premiumtimesng.com/foreign/882695-pope-leo-warns-of-ai-risks-urges-global-regulation.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-05-25T15:27:04.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/666309533_122158624658962474_134578246466746053_n-e1776066225561.jpg?fit=853%2C593&amp;ssl=1",
+          "description": "He pointed out that significant control over digital systems, infrastructure, and data increasingly rests with major economic and technological actors rather than with states. The post Pope Leo warns of AI risks, urges global regulation appeared first on Premium Times Nigeria."
+        },
+        {
+          "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-25T09:31:04.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8hQsg3ennkE/v1/1200x-1.jpg",
+          "description": "Pope Leo XIV said artificial intelligence should be “disarmed” to protect humanity from its dangers, adding his voice to a heated debate over the extent to which governments should regulate a technology that is reshaping the world."
+        }
+      ],
+      "summary": "In a major teaching document on artificial intelligence, Pope Leo XIV warned that AI should not dominate humanity and called for it to be disarmed. He urged safeguards and global regulation as control of digital systems and data grows concentrated among large companies."
+    },
+    {
+      "id": "topic_dedca1d63119f068",
+      "title": "Mexico Agrees to Host Iran’s World Cup Team",
+      "headline": "Mexico to host Iran's World Cup team after US refusal, president says",
+      "label": [
+        "mexico",
+        "host",
+        "cup",
+        "world",
+        "iran",
+        "team"
+      ],
+      "category": "new",
+      "theme": "theme_de4f36f54b308d4d",
+      "entities": [
+        "Mexico",
+        "Iran",
+        "World Cup",
+        "US",
+        "Mexican"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Mexico to host Iran's World Cup team after US refusal, president says",
+          "url": "https://tribune.com.pk/story/2610033/mexico-to-host-irans-world-cup-team-after-us-refusal-president-says",
+          "source": "express tribune",
+          "published_at": "2026-05-25T13:32:29.000Z",
+          "description": "Iran opens Group G against New Zealand on June 15, then Belgium and Egypt on June 21 and 26"
+        },
+        {
+          "title": "Mexico to host Iran’s World Cup team after U.S. refusal, president says",
+          "url": "https://www.nbcnews.com/world/iran/mexico-host-irans-world-cup-team-us-refusal-president-says-rcna346803",
+          "source": "NBC News World News",
+          "published_at": "2026-05-25T16:06:11.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260506-iran-football-rs-83ce6a.jpg",
+          "description": "Mexican President Claudia Sheinbaum said on Monday her government agreed to allow the Iranian national football team to stay in Mexico during the World Cup."
+        },
+        {
+          "title": "Mexico steps in to host Iran’s World Cup team after US refusal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-25T17:31:01.000Z",
+          "description": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay."
+        },
+        {
+          "title": "Mexican president says country will host Iran’s World Cup team",
+          "url": "https://www.washingtonexaminer.com/sports/4581335/mexico-host-iran-world-cup-team",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-25T22:51:53.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26120594899659.jpg?w=696",
+          "description": "Mexican President Claudia ​Sheinbaum said the country would host Iran’s soccer team for the FIFA World Cup, claiming U.S. officials did not want to host Iran’s national team during next month’s tournament amid the tensions between the two countries. Sheinbaum said Iran’s team would be hosted by Mex…"
+        },
+        {
+          "title": "Mexico agrees to host Iran at World Cup instead of US",
+          "url": "https://sports.yahoo.com/articles/mexico-agrees-host-iran-world-174614144.html",
+          "published_at": "2026-05-25T17:48:45.000Z",
+          "description": "Mexico's President Claudia Sheinbaum agrees to allow Iran to stay in the country during the World Cup, with the United States unwilling to host them."
+        }
+      ],
+      "summary": "Mexican President Claudia Sheinbaum said Mexico would host Iran’s national team during the World Cup after the United States declined to host the squad. Iran is scheduled to play New Zealand, Belgium and Egypt in Group G."
+    },
+    {
+      "id": "topic_c27598be2205715d",
+      "title": "Messi Leaves Inter Miami Match Amid Fitness Concerns",
+      "headline": "Lionel Messi exits MLS game in injury scare ahead of World Cup",
+      "label": [
+        "messi",
+        "injury",
+        "lionel",
+        "miami",
+        "inter",
+        "cup"
+      ],
+      "category": "new",
+      "theme": "theme_8a729a48167e40b5",
+      "entities": [
+        "Lionel Messi",
+        "MLS",
+        "World Cup",
+        "Inter Miami",
+        "Messi"
+      ],
+      "article_count": 15,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Lionel Messi exits MLS game in injury scare ahead of World Cup",
+          "url": "https://www.thehindu.com/sport/football/lionel-messi-exits-mls-game-in-injury-scare-ahead-of-world-cup/article71019713.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-25T02:46:58.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/b85oo7/article71019715.ece/alternates/LANDSCAPE_1200/MLS_Union_Inter_Miami_Soccer_69381.jpg",
+          "description": "Lionel Messi was substituted in the 73rd minute; there was no immediate word from Inter Miami on the exact reason for Messi’s substitution"
+        },
+        {
+          "title": "Lionel Messi injury: Inter Miami provides positive update ahead of World Cup",
+          "url": "https://sports.yahoo.com/articles/lionel-messi-injury-soccer-star-232510489.html",
+          "published_at": "2026-05-25T23:25:10.000Z",
+          "description": "Lionel Messi asked for a substitution in the last Inter Miami match ahead of the World Cup with apparent muscle fatigue."
+        },
+        {
+          "title": "Messi at the World Cup: Inter Miami injury update, substitution",
+          "url": "https://www.aljazeera.com/sports/2026/5/25/messi-at-the-world-cup-inter-miami-injury-update-substitution",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-25T09:14:05.000Z",
+          "description": "Messi asks for a substitution and walks off, feeling his hamstring weeks ahead of Argentina's World Cup title defence."
+        },
+        {
+          "title": "Fatigue Or Injury? Lionel Messi Sparks Fitness Concerns After Inter Miami Win Ahead Of FIFA World Cup 2026 | Video",
+          "url": "https://www.freepressjournal.in/sports/fatigue-or-injury-lionel-messi-sparks-fitness-concerns-after-inter-miami-win-ahead-of-fifa-world-cup-2026-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-25T07:50:19.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-05-25/1yvzlqjv/Untitled-design-2026-05-25T131128.112.jpg"
+        },
+        {
+          "title": "'Tired' Messi exits MLS game in injury scare",
+          "url": "https://tribune.com.pk/story/2609999/tired-messi-exits-mls-game-in-injury-scare",
+          "source": "express tribune",
+          "published_at": "2026-05-25T07:31:51.000Z",
+          "description": "The 38-year-old icon appeared to be walking normally"
+        }
+      ],
+      "summary": "Lionel Messi asked to be substituted in the 73rd minute of an Inter Miami match ahead of the World Cup. Reports described apparent muscle fatigue, but the club had not immediately given an exact reason for his exit."
+    },
+    {
+      "id": "topic_4c3382f85a9b4e3b",
+      "title": "Carney Calls Alberta Separatism Referendum a “Dangerous Bluff”",
+      "headline": "‘A dangerous bluff’: Carney likens Alberta referendum to Brexit",
+      "label": [
+        "carney",
+        "alberta",
+        "bluff",
+        "dangerous",
+        "brexit",
+        "warns"
+      ],
+      "category": "new",
+      "theme": "theme_68d6681786c1d1ef",
+      "entities": [
+        "Carney",
+        "Alberta",
+        "Brexit",
+        "BBC",
+        "Mark Carney"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "‘A dangerous bluff’: Carney likens Alberta referendum to Brexit",
+          "url": "https://www.seattletimes.com/nation-world/a-dangerous-bluff-carney-likens-alberta-referendum-to-brexit",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-25T22:18:55.000Z",
+          "image": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png",
+          "description": "Canada's prime minister was governor of the Bank of England during the vote by Britain to leave the European Union in 2016."
+        },
+        {
+          "title": "Carney warns that Alberta separatism referendum question a ‘very dangerous bluff’",
+          "url": "https://nationalpost.com/news/politics/carney-warns-that-alberta-separatism-referendum-question-a-very-dangerous-bluff",
+          "source": "National Post",
+          "published_at": "2026-05-25T16:08:54.000Z",
+          "description": "Carney confirmed that he would be 'certainly' be campaigning for Alberta to remain in Canada"
+        },
+        {
+          "title": "Carney says Alberta referendum 'dangerous bluff' and likens to Brexit",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte5gmvbowdvfclb4megysdcxcfhonuxsq1lhtglhy09mt3lkumprs0t3n0p1zdl4efrqwg9wownoy2xjz0juegtmuhv5aw01exuydgnhu3domtnruq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T20:41:50.000Z",
+          "description": "Carney says Alberta referendum 'dangerous bluff' and likens to Brexit BBC Carney Says Alberta Is ‘Essential’ to Canada After Separation Vote Announcement Time Magazine Mark Carney warns Alberta separatists of Brexit-style regret Financial Times Carney Warns of ‘Dangerous Bluff’ in Alberta Vote, Cit…"
+        },
+        {
+          "title": "Mark Carney warns of ‘dangerous bluff’ in Alberta vote, citing Brexit",
+          "url": "https://financialpost.com/news/carney-warns-dangerous-bluff-alberta-vote",
+          "source": "Financial Post",
+          "published_at": "2026-05-25T16:18:04.000Z",
+          "description": "'Is it the democratic will of Albertans? Did they vote for this in the last provincial election? No, they didn’t,' Carney said"
+        },
+        {
+          "title": "Separatism promises a ‘dangerous bluff,’ Carney says on Alberta referendum",
+          "url": "https://globalnews.ca/news/11862970/alberta-separatism-mark-carney-brexit",
+          "published_at": "2026-05-25T15:56:31.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/Carney-Alberta-separatism.jpg?quality=65&strip=all",
+          "description": "Prime Minister Mark Carney, who was the governor of the Bank of England during the 2016 Brexit referendum in the U.K., said he saw 'first-hand' how separatism campaigns play out."
+        }
+      ],
+      "summary": "Canadian Prime Minister Mark Carney called the Alberta separatism referendum question a “dangerous bluff” and compared the campaign to Brexit. He said he would campaign for Alberta to remain in Canada."
+    },
+    {
+      "id": "topic_55eaa90e1280d2a3",
+      "title": "Iran’s President Orders Restoration of International Internet Access",
+      "headline": "Iran's president orders reopening of international internet access, state media reports",
+      "label": [
+        "internet",
+        "president",
+        "orders",
+        "access",
+        "reopening",
+        "international"
+      ],
+      "category": "new",
+      "theme": "theme_607a2c1bab285d1f",
+      "entities": [
+        "Iran",
+        "Reuters",
+        "Iranian President Orders Reopening",
+        "Of International Internet Access",
+        "Report"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
         {
           "title": "Iran's president orders reopening of international internet access, state media reports",
           "url": "https://www.thehindu.com/news/international/irans-president-orders-reopening-of-international-internet-access-state-media-reports/article71022650.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-25T20:20:44.000Z"
+          "published_at": "2026-05-25T20:20:44.000Z",
+          "description": "Authorities ⁠initially imposed an internet blackout from January 8 in response to nationwide ‌anti-government protests before a new blackout was initiated following the start of U.S. and Israeli strikes against Iran on ‌February 28"
+        },
+        {
+          "title": "Iran's president orders reopening of international internet access, state media reports",
+          "url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxpag1oowpiu3awq2fpzjnfmzjiou9qsunhdgnwcngtnkhxtdrtrufxsw1fwdzztktozk44owzlegvqnu9ztkpcqmhjnux4vjlzcehsrvzltvfjtl9lsk9cqkvnzwfvngf2yvk4vu9paeflymtbn1nrzhe5ww5rrmvibfhdrurroug1nms1vg9wbzjpq2s4yklndy1zmhrkadktvkcxzkrxrmf6a2xsqm1dc25xy0zlq0dutm1ytha4ckzzqmnvwmpz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T18:23:10.000Z",
+          "description": "Iran's president orders reopening of international internet access, state media reports Reuters Live Updates Iran Set to Restore Internet After Wartime Blackout, Report Says Haaretz The Longest Internet Blackout in History Is Crippling Iran’s Economy WSJ Iran Is Aiming To Use Chinese Technology To…"
+        },
+        {
+          "title": "Iranian President Orders Reopening Of International Internet Access: Report",
+          "url": "https://www.ndtv.com/world-news/iranian-president-orders-reopening-of-international-internet-access-report-11546671",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-25T17:57:38.000Z",
+          "image": "https://c.ndtvimg.com/2024-07/kn9v3e4g_no-internet-generic_625x300_21_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "Iran's President Masoud Pezeshkian has issued an order to reopen international internet access, Iranian state media reported on Monday, citing an official."
         },
         {
           "title": "Iran's president orders restoration of internet access",
           "url": "https://www.perthnow.com.au/news/conflict/irans-president-orders-restoration-of-internet-access-c-22336079",
           "source": "PerthNow",
           "published_at": "2026-05-25T19:45:57.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22336079/4e2acc9b848cedc6dbb7c33b5493848f4b504efc-16x9-x0y0w1280h720.jpg"
+          "image": "https://images.perthnow.com.au/publication/C-22336079/4e2acc9b848cedc6dbb7c33b5493848f4b504efc-16x9-x0y0w1280h720.jpg",
+          "description": "Iranian President Masoud ‌Pezeshkian has ordered access ‌to international websites and platforms to be restored, media reports say."
         },
         {
-          "title": "Iranian president orders to restore internet access — agency",
-          "url": "https://tass.com/world/2136359",
-          "source": "TASS",
-          "published_at": "2026-05-25T19:41:08.000Z"
-        },
-        {
-          "title": "Iran’s president orders reopening of international internet access, state media reports",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3354813/irans-president-orders-reopening-international-internet-access-state-media-reports",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-25T19:18:14.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/26/273dc261-2f9b-48ba-b67f-44a39f9c2e0b_0afe6d1e.jpg?itok=hmagtP3_&v=1779736566"
+          "title": "Iran President orders restoration of internet access after 87-day blackout",
+          "url": "https://www.indiatoday.in/world/story/irans-president-orders-restoration-of-international-internet-access-after-87-day-blackout-report-2916998-2026-05-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-25T17:51:35.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/iran--masoud-pezeshkian-255722330-16x9_0.jpg?VersionId=9R59USozWbo7gjsfFpFChSvViJD_pUvW",
+          "description": "Iran President orders restoration of internet access after day blackout"
         }
-      ]
+      ],
+      "summary": "Iranian President Masoud Pezeshkian ordered international internet access to be restored, according to Iranian state media. The country had imposed internet blackouts, including one after the start of U.S. and Israeli strikes, reports said."
     },
     {
-      "id": "topic_661d0e8ade97aae9",
+      "id": "topic_b7c72c3983d38d4f",
+      "title": "Russia Threatens More Strikes on Kyiv and Urges Foreigners to Leave",
+      "headline": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
       "label": [
-        "russia threaten",
         "kyiv",
         "russia",
-        "threaten",
-        "strik",
-        "strik kyiv"
+        "threatens",
+        "strikes",
+        "leave",
+        "foreigners"
       ],
       "category": "new",
-      "theme": "theme_365cb95d8035de9",
+      "theme": "theme_e0376a3b03023daa",
       "entities": [
         "Russia",
-        "US",
         "Kyiv",
-        "America",
+        "BBC",
         "Ukraine"
       ],
-      "article_count": 8,
-      "source_count": 8,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Russia informs US of upcoming strikes on Kyiv and urges America to pull diplomats",
-          "url": "https://www.washingtonexaminer.com/news/world/4581322/russia-strikes-kyiv-withdraw",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-25T22:10:31.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/Kyiv.jpg?w=696"
-        },
-        {
-          "title": "Russia threatens strikes on Kyiv defense sites, urges foreigners to leave",
-          "url": "https://japantoday.com/category/world/russia-threatens-strikes-on-kyiv-defence-sites-urges-foreigners-to-leave1",
-          "source": "Japan Today",
-          "published_at": "2026-05-25T21:26:41.000Z"
-        },
-        {
-          "title": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
-          "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-25T19:43:15.000Z",
-          "image": "https://s.france24.com/media/display/3ebe2a8a-5871-11f1-a107-005056a90284/w:1024/p:16x9/000-B3WD4T3.jpg"
-        },
-        {
-          "title": "Russia threatens Kyiv with fresh wave of strikes and tells foreign visitors and diplomats to leave Ukraine's capital 'as soon as possible'",
-          "url": "https://www.dailymail.com/news/article-15847365/russia-threatens-kyiv-fresh-wave-strikes-tells-foreign-visitors-diplomats-leave-ukraines-capital-soon-possible.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-25T19:36:51.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/25/20/108857945-0-image-a-28_1779737628720.jpg"
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+          "source": "BBC News",
+          "published_at": "2026-05-25T17:11:50.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
+          "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
         },
         {
           "title": "Russia threatens more strikes on Kyiv",
           "url": "https://www.lemonde.fr/en/international/article/2026/05/25/russia-threatens-more-strikes-on-kyiv_6753811_4.html",
           "source": "World : Latest news on Le Monde.fr.",
           "published_at": "2026-05-25T19:30:36.000Z",
-          "image": "https://img.lemde.fr/2026/05/25/568/0/6810/3405/644/322/60/0/9d721b2_ftp-1-jrjr5tfbtssc-5140364-01-06.jpg"
+          "image": "https://img.lemde.fr/2026/05/25/568/0/6810/3405/644/322/60/0/9d721b2_ftp-1-jrjr5tfbtssc-5140364-01-06.jpg",
+          "description": "Moscow said Monday it planned to target the city's 'decision-making centers' and repeated a call for foreign citizens and diplomats to leave the city. Western diplomatic missions in the city have rebuffed the warning."
+        },
+        {
+          "title": "Russia threatens more strikes on Kyiv, urges foreigners to leave city",
+          "url": "https://www.thehindu.com/news/international/russia-threatens-more-strikes-on-kyiv-urges-foreigners-to-leave-city/article71022516.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-25T17:10:37.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/qc1r6h/article71022526.ece/alternates/LANDSCAPE_1200/2026-05-25T130543Z_557858079_RC26GLAP5PI9_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-AFTERMATH.JPG",
+          "description": "Russia launched scores of drones and missiles at Ukraine over the weekend, killing four people, wounding dozens and causing damage across the Ukrainian capital"
+        },
+        {
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxtfa4mhbzb25fbhbba1qznei4t2tjaddiyvzjwujib3hunhbybgxibldjnjlwwe5ca3dtq3jjnmxqtviwdjnxvfmxzwrfwmnvsexoz1rdztdftfb4zw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T17:42:26.000Z",
+          "description": "Russia threatens more Kyiv strikes and tells foreign nationals to leave BBC Russian Offensive Campaign Assessment, May 24, 2026 Institute for the Study of War Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ Al Jazeera Russia’s overnight barrage on Ukraine includes use of p…"
+        },
+        {
+          "title": "Russia threatens strikes on Kyiv defense sites, urges foreigners to leave",
+          "url": "https://www.gmanetwork.com/news/topstories/world/988963/russia-threatens-strikes-on-kyiv-defense-sites-urges-foreigners-to-leave/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-25T23:21:22.000Z",
+          "image": "https://images.gmanews.tv/webpics/2025/09/kyiv_2025_09_29_09_47_17.jpg",
+          "description": "Russia said on Monday that it intended to launch \"systematic strikes\" on targets in Kyiv linked to the Ukrainian military as well as decision-making centers, and urged foreigners to leave, a day after one of its heaviest bombardments of the city since the start of the war."
         }
-      ]
+      ],
+      "summary": "Russia said it planned further strikes on Kyiv, including targets it linked to Ukraine’s military and decision-making centers, and urged foreign nationals and diplomats to leave. The warning followed a major Russian aerial assault on the capital."
     },
     {
-      "id": "topic_6b651df57cde2641",
+      "id": "topic_221f888c38601a9d",
+      "title": "Atiku Votes in ADC Presidential Primary",
+      "headline": "Atiku votes in ADC presidential primary",
       "label": [
-        "explosion",
-        "official",
-        "official say",
-        "chemical",
-        "threat",
-        "california"
+        "adc",
+        "presidential",
+        "primary",
+        "atiku",
+        "votes",
+        "amaechi"
       ],
       "category": "new",
-      "theme": "theme_c690aa24be3da76a",
+      "theme": "theme_d750bb3bd35c948a",
       "entities": [
-        "Overheating",
-        "California",
-        "Orange County",
-        "Live Updates",
-        "Tank"
+        "Atiku",
+        "ADC",
+        "Viral",
+        "Atiku Abubakar Casts Vote",
+        "ADC Presidential Primary"
+      ],
+      "article_count": 15,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Atiku votes in ADC presidential primary",
+          "url": "https://dailypost.ng/2026/05/25/atiku-votes-in-adc-presidential-primary",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-25T14:35:50.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/03/Atiku-Abubukar.jpg",
+          "description": "Former Vice President Atiku Abubakar has voted in the presidential primary election of the African Democratic Congress (ADC), saying the exercise demonstrates the party’s commitment to rebuilding Nigeria. Atiku cast his vote at the Ajiya Ward Polling Unit in Jimeta, Yola, Adamawa State, alongside o…"
+        },
+        {
+          "title": "Breaking: Viral video shows Atiku voting during the ADC presidential primary",
+          "url": "https://www.legit.ng/politics/1711604-breaking-viral-video-shows-atiku-voting-adc-presidential-primaty",
+          "source": "Legit.ng",
+          "published_at": "2026-05-25T15:23:13.000Z",
+          "image": "https://cdn.legit.ng/images/1200x675/66ae6171d3dd6183.jpeg?v=1",
+          "description": "Ex-Vice President Atiku Abubakar votes in the ADC presidential primary in Adamawa, highlighting democracy in action and the party's vision for the 2027 elections."
+        },
+        {
+          "title": "Atiku Abubakar Casts Vote in ADC Presidential Primary",
+          "url": "https://www.nigerianeye.com/2026/05/atiku-abubakar-casts-vote-in-adc.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-25T14:00:16.733Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYShopDFYcBp8yvAUcSTug1VqnO7xpgyF6BKsr9BjCN1aXMUeKD7NfZsNVEfE7pDU5B0W6qvLnlTFYZQcpdQIRWcUaQwwfOOM2OOHzQKALzmBXlGfN49mQI39jfz-7Bwbf0XTHv7xvtR4B0KPcys1dXSmdnx4cdJdA48NrJMw-5N9Yd00oih9bJWJP1BM/s72-w400-h233-c/1001941103.jpg",
+          "description": "Former Vice President Atiku Abubakar on Monday participated in the African Democratic Congress (ADC) presidential primary, casting his vote at the Ajiya Ward Polling Unit in Jimeta, Yola, Adamawa State. In a statement after voting, Atiku described the process as a shining example of democracy in ac…"
+        },
+        {
+          "title": "BREAKING: Atiku, Amaechi Cast Votes As Ex-Vice President, Former River Gov Battle For ADC Presidential Ticket",
+          "url": "https://saharareporters.com/2026/05/25/breaking-atiku-amaechi-cast-votes-ex-vice-president-former-river-gov-battle-adc",
+          "source": "Articles",
+          "published_at": "2026-05-25T13:38:29.000Z",
+          "description": "Atiku announced via his X account that he had cast his vote at the Ajiya Ward Polling Unit in Jimeta, Yola, Adamawa State, describing the exercise as “democracy at work.”"
+        },
+        {
+          "title": "Presidential Primary: ADC calls for unity as Atiku, Amaechi, Hayatu-Deen battle for party’s ticket",
+          "url": "https://www.premiumtimesng.com/news/top-news/882586-presidential-primary-adc-calls-for-unity-as-atiku-amaechi-hayatu-deen-battle-for-partys-ticket.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-05-25T04:47:16.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/662366067_1255612806750743_1048970536074005785_n.jpg?fit=1280%2C853&amp;ssl=1",
+          "description": "PREMIUM TIMES reported that former Vice President Atiku Abubakar, former Minister of Transportation Rotimi Amaechi and an economist, Mohammed Hayatu-Deen, were cleared to contest the primary election. The post Presidential Primary: ADC calls for unity as Atiku, Amaechi, Hayatu-Deen battle for party…"
+        }
+      ],
+      "summary": "Former Nigerian Vice President Atiku Abubakar voted in the African Democratic Congress presidential primary in Adamawa State. He and other candidates, including Rotimi Amaechi and Mohammed Hayatu-Deen, are competing for the party’s nomination."
+    },
+    {
+      "id": "topic_1d4532b8efdd131d",
+      "title": "Francis Tolentino Named Acting Philippine Labor Secretary",
+      "headline": "Francis Tolentino named as new acting labor secretary",
+      "label": [
+        "tolentino",
+        "francis",
+        "named",
+        "labor",
+        "secretary",
+        "acting"
+      ],
+      "category": "new",
+      "theme": "theme_8d8abf461e988dca",
+      "entities": [
+        "Francis Tolentino",
+        "Ex",
+        "DOLE",
+        "Laguesma",
+        "Tolentino"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Francis Tolentino named as new acting labor secretary",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/988859/francis-tolentino-named-as-new-acting-labor-secretary/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-25T05:54:46.000Z",
+          "image": "https://images.gmanews.tv/webpics/2025/02/francis_tolentino_2025_02_12_17_33_00.jpg",
+          "description": "President Ferdinand Marcos Jr. has appointed former senator Francis Tolentino as acting secretary of the Department of Labor and Employment (DOLE), Malacañang announced Monday."
+        },
+        {
+          "title": "Ex-senator Francis Tolentino named as new labor secretary",
+          "url": "https://www.sunstar.com.ph/manila/ex-senator-francis-tolentino-named-as-new-labor-secretary",
+          "source": "sunstar",
+          "published_at": "2026-05-25T07:38:50.542Z"
+        },
+        {
+          "title": "Francis Tolentino named acting DOLE chief after Laguesma quits",
+          "url": "https://www.philstar.com/headlines/2026/05/25/2530426/francis-tolentino-named-acting-dole-chief-after-laguesma-quits",
+          "source": "philstar.com - RSS Headlines",
+          "published_at": "2026-05-25T05:27:00.000Z",
+          "description": "Former senator Francis Tolentino is the new acting DOLE secretary."
+        },
+        {
+          "title": "Tolentino named Labor chief",
+          "url": "https://www.bworldonline.com/the-nation/2026/05/25/752016/tolentino-named-labor-chief",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-05-25T12:55:22.000Z",
+          "image": "https://www.bworldonline.com/wp-content/uploads/2026/05/PBBM-Marcos-Tolentino-300x200.jpg",
+          "description": "PRESIDENT Ferdinand R. Marcos, Jr. appointed former Senator Francis N. Tolentino as the new Labor secretary, replacing Bienvenido E. Laguesma. Palace Press Officer Clarissa A. Castro said the President is confident in Mr. Tolentino’s capacity to lead the Department of Labor and Employment due to hi…"
+        },
+        {
+          "title": "Ex-Sen. Tolentino named acting DOLE chief",
+          "url": "https://newsinfo.inquirer.net/2234001/ex-sen-tolentino-named-acting-dole-chief",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-25T05:27:00.000Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/Ex-Sen.-Tolentino-named-acting-DOLE-chief-25May2026-620x315.png",
+          "description": ". MANILA, Philippines — Former Senator Francis Tolentino has been named as the acting secretary of the Department of Labor and Employment (DOLE), replacing Bienvenido Laguesma, Palace Press Officer Claire Castro announced on Monday. Tolentino will take his oath of office before President Ferdinand…"
+        }
+      ],
+      "summary": "Philippine President Ferdinand Marcos Jr. appointed former senator Francis Tolentino as acting secretary of the Department of Labor and Employment, replacing Bienvenido Laguesma."
+    },
+    {
+      "id": "topic_2279087a77cbb4e",
+      "title": "Huawei Claims New Chipmaking Pathway Could Narrow Gap With TSMC",
+      "headline": "Huawei Touts Chipmaking Breakthrough to Shorten Gap With TSMC",
+      "label": [
+        "touts",
+        "huawei",
+        "chipmaking",
+        "sidestep",
+        "tsmc",
+        "restrictions"
+      ],
+      "category": "new",
+      "theme": "theme_f95616d326c48217",
+      "entities": [
+        "Huawei Touts Chipmaking Breakthrough",
+        "Shorten Gap With TSMC",
+        "Huawei",
+        "US",
+        "TSMC"
       ],
       "article_count": 6,
       "source_count": 6,
       "articles": [
         {
-          "title": "Overheating chemical tank in California no longer at risk of exploding, fire officials say",
-          "url": "https://www.gmanetwork.com/news/topstories/world/988958/overheating-chemical-tank-california-no-risk-of-exploding-fire-officials-say/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-25T22:00:00.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/californiachemicaltank_2026_05_24_06_33_07.jpg"
+          "title": "Huawei Touts Chipmaking Breakthrough to Shorten Gap With TSMC",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-25T01:30:00.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isw93s8nEwhg/v0/1200x-1.jpg",
+          "description": "Huawei Technologies Co. said it has come up with a new pathway to shorten its gap with industry leader Taiwan Semiconductor Manufacturing Co., potentially achieving a breakthrough in making advanced semiconductors without cutting-edge equipment."
         },
         {
-          "title": "California officials say threat of catastrophic chemical explosion in Orange County eliminated",
-          "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4581251/california-threat-catastrophic-chemical-explosion-eliminated",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-25T19:18:00.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26144719260387.jpg?w=696"
+          "title": "Huawei touts new chipmaking technology to sidestep U.S. restrictions",
+          "url": "https://japantoday.com/category/tech/huawei-touts-new-chipmaking-technology-to-sidestep-us-restrictions",
+          "source": "Japan Today",
+          "published_at": "2026-05-25T21:30:31.000Z",
+          "description": "Chinese tech giant Huawei said on Monday it had developed a new way of making semiconductors that could get around its U.S.-enforced lack of access to the most…"
         },
         {
-          "title": "Live Updates: Tank explosion threat \"eliminated\" for California chemical leak in Orange County, officials say - CBS News",
-          "url": "https://news.google.com/rss/articles/cbmitwfbvv95cuxnouvsn1hlredzdkzvsdh0ddfpuvfrmzriejnhb2phvwdqbjq2rknibtrtdlpxmhjrtg5uskjsvmi1azzjs1mzlwf5qku2swd5eflxdvvkquljm3zkzvy2cndfekphaja0oxg0dwpsmhvzczhxrfltdxjvelbeufnnyzj0bhbkdza5rfcxbxdkve9vz01mrevxtlp2qzjqzelneljsttbrvfdlbgn2v19tvgnlcvzloda",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-25T17:33:00.000Z"
+          "title": "Huawei touts new chipmaking technology to sidestep US restrictions",
+          "url": "https://www.manilatimes.net/2026/05/25/news/huawei-touts-new-chipmaking-technology-to-sidestep-us-restrictions/2351161",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-25T15:51:39.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/25/1071127.jpg",
+          "description": "SHANGHAI, China—Chinese tech giant Huawei said on Monday it had developed a new way of making semiconductors that could get around its US-enforced lack of access to the most advanced chipmaking equipment. Huawei has been at the centre of a geopolitical standoff in recent years after Washington warn…"
         },
         {
-          "title": "Threat of Toxic Explosion in Orange County, Calif., Eliminated, Officials Say",
-          "url": "https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html",
-          "source": "NYT > Science",
-          "published_at": "2026-05-25T17:30:18.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25nat-oc-tank-NEW-mvbp/25nat-oc-tank-NEW-mvbp-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "California chemical tank no longer under threat of catastrophic explosion: Officials",
-          "url": "https://abcnews.com/us/chemical-tank-southern-california-longer-threat-explosion-officials/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-05-25T17:19:33.000Z",
-          "image": "https://s.abcnews.com/images/US/garden-grove-2-ht-gmh-260525._1779729089251_hpMain_4x3t_384.jpg"
+          "title": "Huawei touts chip breakthrough to shorten gap with TSMC",
+          "url": "https://financialpost.com/technology/tech-news/huawei-touts-chip-breakthrough",
+          "source": "Financial Post",
+          "published_at": "2026-05-25T14:25:45.000Z",
+          "description": "Last year, Huawei announced a three-year roadmap to roll out a series of AI chips to fill in the vacuum left by Nvidia"
         }
-      ]
+      ],
+      "summary": "Huawei said it developed a new approach to making advanced semiconductors that could help narrow its technology gap with Taiwan Semiconductor Manufacturing Co. The company said the approach could also help it work around U.S. restrictions on chipmaking equipment."
     },
     {
-      "id": "topic_2f5bfeb18dfe11d7",
+      "id": "topic_a79a6315f38c9c57",
+      "title": "Former SNP Chief Peter Murrell Pleads Guilty to Embezzlement",
+      "headline": "Former Scottish National Party chief pleads guilty to embezzling $540,000",
       "label": [
-        "israel part",
-        "part",
-        "israel",
-        "deal",
-        "part iran",
-        "trump"
-      ],
-      "category": "new",
-      "theme": "theme_fea69185771f0cab",
-      "entities": [
-        "Trump Pushes Saudis",
-        "Recognize Israel",
-        "Part",
-        "Iran Deal",
-        "Bloomberg"
-      ],
-      "article_count": 7,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Trump Pushes Saudis to Recognize Israel as Part of Iran Deal (Bloomberg)",
-          "url": "https://www.memeorandum.com/260525/p37",
-          "source": "memeorandum",
-          "published_at": "2026-05-25T18:25:00.000Z",
-          "image": "http://www.memeorandum.com/260525/i37.jpg"
-        },
-        {
-          "title": "Trump Pushes Saudis to Recognize Israel as Part of Deal",
-          "url": "https://politicalwire.com/2026/05/25/trump-pushes-saudis-to-recognize-israel-as-part-of-deal",
-          "source": "Political Wire",
-          "published_at": "2026-05-25T18:05:31.000Z"
-        },
-        {
-          "title": "Trump demands multiple countries sign diplomatic deal with Israel as part of any Iran peace plan",
-          "url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-abraham-accords-israel-b2983164.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-25T17:57:34.000Z",
-          "image": "https://static.independent.co.uk/2026/05/25/12/2026-05-25T101307Z_194946531_RC2KQIA2JPPH_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU.JPG?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Trump Urges More Countries to Normalize Relations With Israel as Part of Iran Deal",
-          "url": "https://www.nytimes.com/2026/05/25/us/politics/trump-israel-iran-abraham-accords.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-05-25T17:57:08.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25DC-TRUMP-1-mqwz/25DC-TRUMP-1-mqwz-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_272821e327c757a9",
-      "label": [
-        "world record",
-        "record",
-        "world",
-        "enhanc gam",
-        "enhanc",
-        "swimmer broke"
-      ],
-      "category": "new",
-      "theme": "theme_f5c3a2687761307b",
-      "entities": [
-        "Enhanced Games",
-        "Watch",
-        "Swimmer Broke",
-        "World Record",
-        "Steroid Olympics"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Enhanced Games rejects mistaken world record timing claims as ‘internet drivel’",
-          "url": "https://www.theguardian.com/sport/2026/may/25/enhanced-games-world-record-drugs-in-sport-kristian-gkolomeev",
-          "source": "The Guardian",
-          "published_at": "2026-05-25T20:58:56.000Z",
-          "image": "https://i.guim.co.uk/img/media/c2928d7600806a39eadd9f6706abe769ad210924/361_0_3613_2890/master/3613.jpg?width=140&quality=85&auto=format&fit=max&s=b62c928e59a50f878679bbfe2f21a65a"
-        },
-        {
-          "title": "Watch: Only world record broken at Enhanced Games won't be recognised",
-          "url": "https://www.bbc.com/news/videos/cm2ppx7d0k7o",
-          "source": "BBC News",
-          "published_at": "2026-05-25T18:14:00.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27dc/live/0331cd60-5866-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "A Swimmer Broke a World Record at the Enhanced Games",
-          "url": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games",
-          "source": "Feed: All Latest",
-          "published_at": "2026-05-25T17:32:55.000Z",
-          "image": "https://media.wired.com/photos/6a148361663a6251fd7bf24b/master/pass/Enhanced-Games-Kristian-Gkolomeev-Culture-2278066458.jpg"
-        },
-        {
-          "title": "A Swimmer Broke a World Record at the ‘Steroid Olympics’ - WIRED",
-          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxpz2xot2vwr05pdmm0x21gtgvgakzmunzvyvd0vmvhsuraeuhdohnsluxmsgu5ykzzn3k0z2szazvou1zkdmw1rmtddk9rcxo0zxjuehjkb3pncezmbwfsa2lzsfb0shdxbudrdtb6czj6ylpkehloy0x2sgffbgy1n2xfltfibxv0",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-25T17:32:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_afc4899a35409572",
-      "label": [
-        "ac milan",
-        "failure",
-        "ac",
-        "allegri",
-        "milan sack",
-        "milan"
-      ],
-      "category": "new",
-      "theme": "theme_942e11afd3284e1f",
-      "entities": [
-        "AC Milan",
-        "Allegri",
-        "CEO Furlani",
-        "Champions League"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "AC Milan fires Allegri and CEO Furlani for 'unequivocal failure' of a season",
-          "url": "https://sports.yahoo.com/articles/ac-milan-fires-allegri-ceo-190453190.html",
-          "published_at": "2026-05-25T19:04:53.000Z"
-        },
-        {
-          "title": "AC Milan sack Allegri after season of 'unequivocal failure'",
-          "url": "https://www.bbc.com/news/articles/cpqpp7ln1jeo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-25T17:25:33.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d02a/live/9bb9f680-585b-11f1-9a33-c313bd26e03f.jpg"
-        },
-        {
-          "title": "AC Milan sack coach Allegri after Champions League failure",
-          "url": "https://www.the42.ie/allegri-milan-sacked-7051255-may2026",
-          "source": "The 42",
-          "published_at": "2026-05-25T17:25:08.000Z",
-          "image": "https://c0.thejournal.ie/media/2026/05/ac-milans-head-coach-massimiliano-allegri-during-the-serie-a-soccer-match-between-ac-milan-and-udinese-at-the-san-siro-stadium-in-milan-north-italy-saturday-april-11-2026-sport-soccer-4d167a8a-2605-46ac-a237-1cbe7ff05a5c-630x419.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_151ce267f2e43a87",
-      "label": [
-        "gaza",
-        "israeli",
-        "israeli strike",
-        "kill",
-        "strike",
-        "medic"
-      ],
-      "category": "new",
-      "theme": "theme_3fc325173bf70e4e",
-      "entities": [
-        "Father",
-        "Israeli",
-        "Gaza",
-        "Gaza Strip"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Father mourns daughter killed in Israeli strike on Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-25T19:12:58.000Z"
-        },
-        {
-          "title": "Israeli strike kills girl, woman in Gaza Strip: medics",
-          "url": "https://www.perthnow.com.au/news/conflict/israeli-strike-kills-girl-woman-in-gaza-strip-medics-c-22335962",
-          "source": "PerthNow",
-          "published_at": "2026-05-25T17:52:24.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22335962/849613d2cff0d64634646ffdba5f7f52acce4946-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Israeli fire kills six-year-old girl and a woman in Gaza, medics say",
-          "url": "https://www.thehindu.com/news/international/israeli-fire-kills-six-year-old-girl-and-a-woman-in-gaza-medics-say/article71022541.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-25T17:30:03.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/2zoma9/article71022556.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza__7478.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_6d7a86912864bb55",
-      "label": [
-        "issu ebola",
-        "airlin",
-        "issu",
-        "ebola",
-        "dgca",
-        "sop"
-      ],
-      "category": "new",
-      "theme": "theme_1388fb86213eaa0a",
-      "entities": [
-        "DGCA",
-        "Ebola SOP",
-        "Indian",
-        "Aviation Body Issues Ebola",
-        "Precaution Guidelines For Uganda"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "DGCA issues Ebola SOP for airlines, tightens screening at Indian airports",
-          "url": "https://www.indiatoday.in/india/story/dgca-ebola-sop-airlines-self-declaration-forms-airport-screening-india-2917024-2026-05-26",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-25T19:37:56.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/india-alert-on-on-ebola-outbreak-231951299-16x9_1.png?VersionId=2knuuOgbPXGRIFqrzc4UDXVMIkZf6Zwl"
-        },
-        {
-          "title": "Aviation Body Issues Ebola Precaution Guidelines For Uganda, Congo Airlines",
-          "url": "https://www.ndtv.com/india-news/aviation-body-issues-ebola-precaution-guidelines-for-uganda-congo-airlines-11546754",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-25T18:26:31.000Z",
-          "image": "https://c.ndtvimg.com/2021-12/u5ff2vj8_delhi-airport-ndtv_625x300_05_December_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
-        },
-        {
-          "title": "DGCA issues Ebola preparedness SOP for airlines operating flights linked to Uganda, Congo",
-          "url": "https://timesofindia.indiatimes.com/india/dgca-issues-ebola-preparedness-sop-for-airlines-operating-flights-linked-to-uganda-congo/articleshow/131313861.cms",
-          "source": "Times of India",
-          "published_at": "2026-05-25T17:10:03.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131314167,imgsize-22150.cms"
-        }
-      ]
-    },
-    {
-      "id": "topic_ffd3e87442164ccb",
-      "label": [
-        "megalodon",
-        "repo",
-        "backdoor",
-        "automat megalodon",
-        "megalodon campaign",
-        "campaign spread"
-      ],
-      "category": "new",
-      "theme": "theme_e9846f593e6b6536",
-      "entities": [
-        "Automated",
-        "Megalodon",
-        "Campaign Spreads GitHub Repo",
-        "Backdoors"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Automated 'Megalodon' Campaign Spreads GitHub Repo Backdoors",
-          "url": "https://www.govinfosecurity.com/automated-megalodon-campaign-spreads-github-repo-backdoors-a-31772",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/automated-megalodon-campaign-spreads-github-repo-backdoors-image_small-9-a-31772.jpg"
-        },
-        {
-          "title": "Automated 'Megalodon' Campaign Spreads GitHub Repo Backdoors",
-          "url": "https://www.databreachtoday.co.uk/automated-megalodon-campaign-spreads-github-repo-backdoors-a-31772",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/automated-megalodon-campaign-spreads-github-repo-backdoors-image_small-9-a-31772.jpg"
-        },
-        {
-          "title": "Automated 'Megalodon' Campaign Spreads GitHub Repo Backdoors",
-          "url": "https://www.bankinfosecurity.com/automated-megalodon-campaign-spreads-github-repo-backdoors-a-31772",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/automated-megalodon-campaign-spreads-github-repo-backdoors-image_small-9-a-31772.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_4f1cda64e555693c",
-      "label": [
-        "pez",
-        "beltr",
-        "pez beltr",
-        "morena",
-        "beltr deja",
-        "deja"
-      ],
-      "category": "new",
-      "theme": "theme_7cdb778172f3948a",
-      "entities": [
-        "Andy",
-        "Beltr",
-        "Tras",
-        "Organizaci",
-        "Morena"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Andy López Beltrán: Tras la renuncia del secretario de Organización de Morena, Ariadna Montiel le envía mensaje",
-          "url": "https://www.informador.mx/mexico/andy-lopez-beltran-tras-la-renuncia-del-secretario-de-organizacion-de-morena-ariadna-montiel-le-envia-mensaje-20260525-0081.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-25T18:34:00.000Z"
-        },
-        {
-          "title": "“Andy” López Beltrán deja Secretaría de Organización de Morena",
-          "url": "https://8columnas.com.mx/nacional/andy-lopez-beltran-deja-secretaria-de-organizacion-de-morena",
-          "source": "8 Columnas",
-          "published_at": "2026-05-25T18:01:11.000Z"
-        },
-        {
-          "title": "Andrés López Beltrán deja cargo en Morena para buscar diputación federal por Tabasco",
-          "url": "https://vanguardia.com.mx/noticias/andres-lopez-beltran-deja-cargo-en-morena-para-buscar-diputacion-federal-por-tabasco-hj20926256",
-          "source": "Vanguardia",
-          "published_at": "2026-05-25T17:13:54.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1030646-consejo-nacional-morena-impr_1-15539019_20260525172620.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_3d5a63beb3dfa6fc",
-      "label": [
-        "scottish",
-        "plead",
-        "plead guilty",
+        "embezzling",
+        "pleads",
         "guilty",
-        "party",
-        "former scottish"
+        "snp",
+        "scottish",
+        "murrell"
       ],
       "category": "new",
-      "theme": "theme_b779a4e49dbf68ac",
+      "theme": "theme_2f2420c82b894362",
       "entities": [
         "Former Scottish National Party",
-        "Ex",
-        "Scottish National Party",
-        "Estranged",
-        "Scottish"
+        "Peter Murrell",
+        "SNP",
+        "Reuters",
+        "Nicola Sturgeon"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 7,
       "articles": [
         {
           "title": "Former Scottish National Party chief pleads guilty to embezzling $540,000",
           "url": "https://japantoday.com/category/world/former-scottish-national-party-chief-pleads-guilty-to-embezzling-540-000",
           "source": "Japan Today",
-          "published_at": "2026-05-25T21:27:31.000Z"
+          "published_at": "2026-05-25T21:27:31.000Z",
+          "description": "Former Scottish National Party chief executive Peter Murrell pleaded guilty on Monday to embezzling ‌more than £400,000 ($540,000), admitting diverting funds from the party to buy items such…"
+        },
+        {
+          "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+          "url": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-05-25T09:53:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/d34706910fb97d228c7d2f0dc204972d1b3036f5/231_0_881_705/master/881.jpg?width=140&quality=85&auto=format&fit=max&s=1008a3ffa0650ad19bc8395e3fb8d032",
+          "description": "Ex-husband of Nicola Sturgeon admits reduced charges in court after deal with prosecutors Peter Murrell, the former chief executive of the Scottish National party, has pleaded guilty to charges of embezzling £400,310.65 from the party after agreeing a deal with prosecutors. Murrell, the ex-husband…"
+        },
+        {
+          "title": "Former Scottish National Party chief pleads guilty to embezzling $540,000",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxoyld0qlhfetjbwlnyum1pb1docdhncdfkwwpzttllthpvrxzlchbiulhxewdvtnhkdjvbcgy2ukjpni0za3bnbuptv3hsagpht1rxughhtlndylrmsnhtatfun2podww0z2jkqzn5yny3lu5lbvbbtmngrddbni1fykexnw45zvdomuw0z0fstdlpek92c2y0m2jzwghevvzhdvvsug94z2j4que",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T13:42:06.000Z",
+          "description": "Former Scottish National Party chief pleads guilty to embezzling $540,000 Reuters Coffee machines, fountain pens and Grand Theft Auto: How Murrell spent the money BBC Peter Murrell pleads guilty to embezzling £400,000 from SNP The Guardian Husband of former Scottish leader pleads guilty to embezzle…"
+        },
+        {
+          "title": "Nicola Sturgeon’s estranged husband pleads guilty to embezzling £400,000 from the SNP",
+          "url": "https://www.independent.co.uk/news/uk/crime/peter-murrell-snp-court-nicola-sturgeon-b2983061.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-25T10:00:11.000Z",
+          "image": "https://static.independent.co.uk/2026/05/25/10/ff341f073fff3e86d56d20ca7daa0d9dY29udGVudHNlYXJjaGFwaSwxNzc5Nzg1MDk2-2.84740558.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Murrell pleaded guilty to the charges when he appeared in court on Monday morning"
         },
         {
           "title": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
           "url": "https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-25T20:07:52.000Z"
-        },
-        {
-          "title": "Estranged husband of former Scottish leader pleads guilty to embezzlement from party",
-          "url": "https://www.scmp.com/news/world/europe/article/3354810/estranged-husband-former-scottish-leader-pleads-guilty-embezzlement-party",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-25T17:13:24.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/26/ac6a9c96-aa28-4904-b91b-7c00965a757d_62afa22f.jpg?itok=Mlk-Xkup&v=1779728780"
+          "published_at": "2026-05-25T20:07:52.000Z",
+          "description": "Peter Murrell admitted the offences at the High Court in Edinburgh after an investigation into the party's finances."
         }
-      ]
+      ],
+      "summary": "Peter Murrell, the Scottish National Party’s former chief executive, pleaded guilty to embezzling more than £400,000 from the party. He entered the plea at the High Court in Edinburgh after an investigation into the party’s finances."
     },
     {
-      "id": "topic_7d88bdc8c3568929",
+      "id": "topic_f05a435e5f82efc4",
+      "title": "Bruno Fernandes Accuses Roy Keane of Misrepresenting His Comments",
+      "headline": "Bruno Fernandes hits back at Roy Keane: 'He put words in my mouth'",
       "label": [
-        "hezbollah",
-        "intensify",
-        "israel",
-        "israel intensify",
-        "strik hezbollah",
-        "lebanon"
+        "roy",
+        "keane",
+        "fernandes",
+        "bruno",
+        "hits",
+        "back"
       ],
       "category": "new",
-      "theme": "theme_d2aed4072cabc29f",
+      "theme": "theme_7b55a28eff99b6d9",
+      "entities": [
+        "Bruno Fernandes",
+        "Roy Keane",
+        "United",
+        "Man United",
+        "LIAR"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Bruno Fernandes hits back at Roy Keane: 'He put words in my mouth'",
+          "url": "https://www.irishexaminer.com/sport/soccer/arid-41851341.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-05-25T17:59:00.000Z",
+          "description": "The Manchester United captain contacted former United manager Ole Gunnar Solskjaer to ask for Roy Keane’s phone number so he can address the issue."
+        },
+        {
+          "title": "‘I don’t like when people lie about me’ – Bruno Fernandes hits back at Roy Keane",
+          "url": "https://www.breakingnews.ie/sport/i-dont-like-when-people-lie-about-me-bruno-fernandes-hits-back-at-roy-keane-1905004.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMjUyMTE2NTRcXFwvMi44NDY0OTAyMS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1MmExM2NkNGQwMmI4YzQ2ZmQwN2ViM2M3ZmI3MTUxMGRlODI5MDQ1In0=/2-84649021.jpg",
+          "description": "Former Manchester United captain Keane appeared to have misinterpreted Fernandes’ comments – but had a response ready and waiting on Monday."
+        },
+        {
+          "title": "‘I don’t like when people lie. He put words in my mouth’ – Bruno Fernandes hits back at Roy Keane",
+          "url": "https://www.the42.ie/bruno-fernandes-roy-keane-7051379-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-25T19:14:22.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/05/manchester-united-v-nottingham-forest-premier-league-old-trafford-1e6eb2d6-cdde-4ab7-bbf6-e5dbec5fce9f-630x437.jpg",
+          "description": "Former Manchester United and Ireland captain Keane appeared to have misinterpreted Fernandes’ comments."
+        },
+        {
+          "title": "Bruno Fernandes hits back at Roy Keane over assist record comments",
+          "url": "https://sports.yahoo.com/articles/bruno-fernandes-hits-back-roy-085000201.html",
+          "published_at": "2026-05-25T08:50:00.000Z",
+          "description": "Bruno Fernandes has hit back at criticism from former Manchester United captain Roy Keane after breaking the Premier League assist record.Fernandes set up Patrick Dorgu’s opener as the Red Devils be..."
+        },
+        {
+          "title": "Bruno Fernandes slams Roy Keane's criticism as a 'lie' as he responds to United legend's comments",
+          "url": "https://www.irishmirror.ie/sport/soccer/bruno-fernandes-slams-roy-keanes-37202042",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-05-25T11:07:12.000Z",
+          "image": "https://i2-prod.irishmirror.ie/sport/soccer/article37202041.ece/ALTERNATES/s615/0_Brighton-Hove-Albion-v-Manchester-United-Premier-League.jpg",
+          "description": "Bruno Fernandes has hit back at Roy Keane, claiming the former Manchester United midfielder 'lied' about him following the Premier League assist record controversy"
+        }
+      ],
+      "summary": "Manchester United captain Bruno Fernandes pushed back against criticism from former United captain Roy Keane, saying Keane had put words in his mouth. The dispute followed discussion of Fernandes’ Premier League assist record."
+    },
+    {
+      "id": "topic_bd40878fc1147b1a",
+      "title": "Memorial Day Honors U.S. Military Personnel Who Died in Service",
+      "headline": "A Poem for Memorial Day",
+      "label": [
+        "memorial",
+        "day",
+        "poem",
+        "best",
+        "reads",
+        "tribute"
+      ],
+      "category": "trending",
+      "theme": "theme_d84a454212a0b00f",
+      "entities": [
+        "Memorial Day",
+        "Memorial Day Reads",
+        "Poem",
+        "Best Movies To Watch",
+        "On Memorial Day"
+      ],
+      "article_count": 20,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "A Poem for Memorial Day",
+          "url": "https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-05-25T10:43:25.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25themorning-nl-memorial-day-top/25themorning-nl-memorial-day-top-mediumSquareAt3X.jpg",
+          "description": "We remember those who gave their lives in service to the United States."
+        },
+        {
+          "title": "Memorial Day 2026",
+          "url": "https://tagn.wordpress.com/2026/05/25/memorial-day-2026",
+          "source": "The Ancient Gaming Noob",
+          "published_at": "2026-05-25T13:15:52.000Z",
+          "image": "https://2.gravatar.com/avatar/26266f9ffc00f111bd9254692a590193ebfab64d766b15a666dfae33fef5d871?s=96&d=wavatar&r=PG",
+          "description": "Calmly sleeps the youthful soldier, Life's rough march with him is o-er. He has crossed the deep, dark river, Crossed it to return no more. He has fought the last great battle, With that unrelenting foe, From whose grasp there's no receding, To whose bidding all must go. That though in that fierce…"
+        },
+        {
+          "title": "10 Memorial Day Reads",
+          "url": "https://ritholtz.com/2026/05/10-monday-am-reads-477",
+          "source": "The Big Picture",
+          "published_at": "2026-05-25T10:30:49.000Z",
+          "description": "My day of remembrance for those who have been lost reads: • Memorial Day. Eric Paliwoda was a big dude. Probably six-foot-six. Those big, meaty hands that would swallow your own in a tight handshake. His jaw stuck out, exaggerated by a lip full of dip. He was raised in Connecticut, but seemingly em…"
+        },
+        {
+          "title": "5 Best Movies To Watch On Memorial Day",
+          "url": "https://www.slashfilm.com/2178519/best-movies-watch-memorial-day",
+          "source": "/Film",
+          "published_at": "2026-05-25T14:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/5-best-movies-to-watch-on-memorial-day/l-intro-1779375804.jpg",
+          "description": "Memorial Day, devoted to mourning U.S. military personnel and serving as the unofficial kick-off of summer, is here. Why not watch some movies?"
+        },
+        {
+          "title": "Memorial Day Texas Rangers Update",
+          "url": "https://sports.yahoo.com/articles/memorial-day-texas-rangers-130000722.html",
+          "published_at": "2026-05-25T13:00:00.000Z",
+          "description": "The latest on the once and future World Series champion Texas Rangers"
+        }
+      ],
+      "summary": "Memorial Day is observed to remember U.S. military personnel who died in service. The headlines include a commemorative poem and suggestions for remembrance and viewing on the holiday."
+    },
+    {
+      "id": "topic_4c98aa4f044cca3b",
+      "title": "New Tiny Blue Octopus Species Identified Near the Galápagos",
+      "headline": "New Species of Tiny Blue Octopus Discovered in the Galápagos",
+      "label": [
+        "octopus",
+        "tiny",
+        "blue",
+        "galápagos",
+        "species",
+        "discovered"
+      ],
+      "category": "new",
+      "theme": "theme_dc94ac7dcab60a48",
+      "entities": [
+        "New Species",
+        "Tiny Blue Octopus Discovered",
+        "Gal",
+        "Tiny Blue Octopus Unlike",
+        "Any We Know"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "New Species of Tiny Blue Octopus Discovered in the Galápagos",
+          "url": "https://time.com/article/2026/05/24/new-species-blue-octopus",
+          "source": "TIME",
+          "published_at": "2026-05-25T01:00:02.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt7c107533340c75f3/6a108068f78d6bf9d7e811cc/Screen_Shot_2026-05-08_at_2.47.35_PM.png?branch=production&format=jpg&width=1024",
+          "description": "A rare find in the Galápagos has marine biologists excited."
+        },
+        {
+          "title": "Tiny Blue Octopus Unlike Any We Know of Discovered Near The Galapagos",
+          "url": "https://www.sciencealert.com/tiny-blue-octopus-unlike-any-we-know-of-discovered-near-the-galapagos",
+          "source": "ScienceAlert",
+          "published_at": "2026-05-25T18:00:46.000Z",
+          "image": "https://www.sciencealert.com/images/2026/05/TinyBlueOctopusMicroeledoneGalapagensis.jpg",
+          "description": "Its rare hue is only one of its distinguishing features. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here."
+        },
+        {
+          "title": "Adorable tiny blue octopus found nearly 6,000 feet beneath the Galápagos",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000446.htm",
+          "source": "Latest Science News -- ScienceDaily",
+          "published_at": "2026-05-25T06:17:15.000Z",
+          "description": "A mysterious little blue octopus discovered nearly 6,000 feet beneath the waters of the Galápagos Islands has officially been identified as a brand-new species. About the size of a golf ball, the tiny creature stunned researchers during a deep-sea expedition when it suddenly appeared on camera, cra…"
+        },
+        {
+          "title": "This tiny blue octopus from the Galápagos could curl up in your hand and shows how much deep ocean remains unexplored",
+          "url": "https://phys.org/news/2026-05-tiny-blue-octopus-galpagos-deep.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-05-25T01:00:01.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-newly-discovered.jpg",
+          "description": "The Galápagos Islands off the coast of Ecuador are home to more than a thousand plant and animal species found nowhere else on Earth—things like marine iguanas and giant tortoises. In a new paper in the journal Zootaxa, scientists have announced the discovery of the newest animal found in the Galáp…"
+        },
+        {
+          "title": "Tiny, blue, golf ball-sized octopus confirmed as new deep-sea species",
+          "url": "https://www.thejournal.ie/tiny-blue-golf-ball-sized-octopus-confirmed-as-new-deep-sea-species-7051064-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-25T14:49:25.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/1779215358-blue_octopus_cdf-9c484ebc-7c99-49d9-beb3-95c93a591496-630x449.jpeg",
+          "description": "The tiny octopus was discovered in the Galápagos Islands off the coast of Ecuador."
+        }
+      ],
+      "summary": "Researchers identified a tiny blue octopus found in deep water near the Galápagos Islands as a new species. Reports describe it as roughly golf-ball sized and discovered nearly 6,000 feet below the surface."
+    },
+    {
+      "id": "topic_dac40722e54a3725",
+      "title": "Netanyahu Says Israel Will Intensify Strikes Against Hezbollah",
+      "headline": "Israel to intensify strikes against Hezbollah in Lebanon — Netanyahu",
+      "label": [
+        "hezbollah",
+        "netanyahu",
+        "israel",
+        "intensify",
+        "lebanon",
+        "strikes"
+      ],
+      "category": "new",
+      "theme": "theme_25e316521060a709",
       "entities": [
         "Israel",
         "Hezbollah",
-        "US",
-        "Iran",
-        "Lebanon"
+        "Lebanon",
+        "Netanyahu",
+        "Netanyahu Says Israel Plans"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 9,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Israel intensifies strikes on Hezbollah as US-Iran diplomacy may force Lebanon ceasefire",
-          "url": "https://www.washingtonexaminer.com/news/world/4581376/israel-hezbollah-lebanon-iran-ceasefire",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-25T22:20:31.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26133722594072.jpg?w=696"
-        },
-        {
-          "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
-          "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
-          "source": "NYT > World News",
-          "published_at": "2026-05-25T21:52:30.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Israel will escalate strikes against Hezbollah in Lebanon, Netanyahu says",
-          "url": "https://japantoday.com/category/world/israel-will-escalate-strikes-against-hezbollah-in-lebanon-netanyahu-says",
-          "source": "Japan Today",
-          "published_at": "2026-05-25T21:26:53.000Z"
-        },
-        {
-          "title": "Israel to intensify Lebanon offensive in bid to ‘crush’ Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-25T20:49:28.000Z"
+          "title": "Israel to intensify strikes against Hezbollah in Lebanon — Netanyahu",
+          "url": "https://tass.com/world/2136353",
+          "source": "TASS",
+          "published_at": "2026-05-25T19:35:35.000Z",
+          "description": "According to the Israeli prime minister, more than 600 Shiite radicals have been eliminated in recent weeks"
         },
         {
           "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
           "url": "https://www.bbc.com/news/articles/cewppdk1187o",
           "source": "BBC News",
           "published_at": "2026-05-25T19:46:54.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05aa/live/288ac730-5869-11f1-be4e-d7a885f34348.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05aa/live/288ac730-5869-11f1-be4e-d7a885f34348.jpg",
+          "description": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes."
+        },
+        {
+          "title": "Netanyahu says Israel is 'at war with Hezbollah'",
+          "url": "https://www.yahoo.com/news/world/articles/netanyahu-says-israel-war-hezbollah-232709916.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-25T23:27:09.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/603e3ab394dc7f9824014a2d0d3a9a51"
+        },
+        {
+          "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+          "url": "https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html",
+          "source": "NYT > World News",
+          "published_at": "2026-05-25T21:52:30.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-mediumSquareAt3X.jpg",
+          "description": "After the prime minister made the announcement, the Israeli military said it had struck more than 70 Hezbollah sites in the past day."
+        },
+        {
+          "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxouejsoxnpajbizlppdnjfcnbqzy1edw5immzvz192bhhuve9qmwsxyuq4yxbfqxf6t2p0ekzqd0kwvetfmmvloexlnwvcbwh2stvhrgphc1y4efdlzvp0aehoajd1vxlsrnjbdghaulo5mjbmbujqnklvltvkvxnpudbwevfsvjzwcgd6utfjn3vksgz1nle",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-25T21:52:30.000Z",
+          "description": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Israel to intensify Lebanon offensive to ‘crush’ Hezbollah Al Jazeera Benjamin Netanyahu orders Israeli military to ste…"
         }
-      ]
-    },
-    {
-      "id": "topic_6e97d8737e3c05c3",
-      "label": [
-        "digit",
-        "high triple",
-        "triple digit",
-        "digit million",
-        "million euro",
-        "triple"
       ],
-      "category": "new",
-      "theme": "theme_35529767448e46f8",
-      "entities": [
-        "EU",
-        "Google",
-        "Handelsblatt",
-        "Report",
-        "Reuters"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "EU plans to fine Google high triple-digit million euro sum, Handelsblatt reports",
-          "url": "https://www.dailymaverick.co.za/article/2026-05-25-eu-plans-to-fine-google-high-triple-digit-million-euro-sum-handelsblatt-reports",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-05-25T20:58:59.000Z",
-          "image": "https://cdn.dailymaverick.co.za/attachments/2992/13993475_641045.jpg"
-        },
-        {
-          "title": "Google is facing a high triple-digit million euro fine",
-          "url": "https://www.itnews.com.au/news/google-is-facing-a-high-triple-digit-million-euro-fine-626126",
-          "source": "iTnews",
-          "published_at": "2026-05-25T20:10:00.000Z"
-        },
-        {
-          "title": "Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results (Reuters)",
-          "url": "https://mediagazer.com/260525/p6",
-          "source": "Mediagazer",
-          "published_at": "2026-05-25T18:40:00.000Z",
-          "image": "http://mediagazer.com/260525/i6.jpg"
-        },
-        {
-          "title": "Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results (Reuters)",
-          "url": "https://www.techmeme.com/260525/p18",
-          "source": "Techmeme",
-          "published_at": "2026-05-25T18:25:00.000Z",
-          "image": "http://www.techmeme.com/260525/i18.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1d53a8c6270c3313",
-      "label": [
-        "quarantaine",
-        "positif",
-        "hantaviru un",
-        "en quarantaine",
-        "hantaviru",
-        "quarantaine madrid"
-      ],
-      "category": "new",
-      "theme": "theme_d1c5684a4ee4199e",
-      "entities": [
-        "Hantavirus",
-        "Espagnols",
-        "Madrid",
-        "Sant",
-        "Hondius"
-      ],
-      "article_count": 8,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Hantavirus : l’un des Espagnols en quarantaine à Madrid déclaré positif, annonce le ministère de la santé",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/25/hantavirus-l-un-des-espagnols-en-quarantaine-a-madrid-declare-positif-annonce-le-ministere-de-la-sante_6693691_3244.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-25T19:00:34.000Z",
-          "image": "https://img.lemde.fr/2026/05/25/327/0/3923/1961/644/322/60/0/6ac4afb_ftp-1-krdvioejysj9-5141776-01-06.jpg"
-        },
-        {
-          "title": "Hantavirus : un passager espagnol du navire placé en quarantaine a été testé positif, annonce le ministère de la Santé",
-          "url": "https://www.ouest-france.fr/sante/virus/hantavirus/hantavirus-un-passager-espagnol-du-navire-place-en-quarantaine-a-ete-teste-positif-annonce-le-ministere-de-la-sante-2786e616-5869-11f1-a4a7-f780c203d7d6",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-25T18:59:50.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1Yzk3NDkwZjk4OTJmMGVkNzJkZTdjNmRjZDU2MDRiMWQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=95119cbbc817423e51205bef93606d86ed6b68dc7b70b9044e53476ad2d45891"
-        },
-        {
-          "title": "Hantavirus : un cas positif détecté parmi les passagers du navire Hondius en quarantaine à Madrid",
-          "url": "https://www.sudouest.fr/sante/hantavirus/hantavirus-un-cas-positif-detecte-parmi-les-passagers-du-navire-hondius-en-quarantaine-a-madrid-29225906.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-25T18:40:05.000Z"
-        },
-        {
-          "title": "Hantavirus : l'un des Espagnols en quarantaine à Madrid testé positif",
-          "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-l-un-des-espagnols-en-quarantaine-a-madrid-teste-positif_8027450.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-25T18:37:36.000Z",
-          "image": "https://www.franceinfo.fr/pictures/FJ-zECAZW8uJgJBG-b9pfcxOIb8/0x0:4278x2406/432x243/filters:format(jpg)/2026/05/25/6a1490b9d958e383014768.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b9965e74964d239d",
-      "label": [
-        "senegal",
-        "economist",
-        "nam economist",
-        "nam",
-        "senegal president",
-        "president nam"
-      ],
-      "category": "new",
-      "theme": "theme_4dea7234fd1358c4",
-      "entities": [
-        "Senegal",
-        "Lo",
-        "PM",
-        "Sonko"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Senegal names economist Lo as new PM after Sonko ouster",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/26/senegal-names-economist-lo-as-new-pm-after-sonko-ouster_6753814_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-25T23:02:10.000Z",
-          "image": "https://img.lemde.fr/2026/05/25/674/0/8088/4044/644/322/60/0/4360359_ftp-1-xlwkn7kzul7i-f479ea48e6ec422ab7f3b362dea6058f-0-8f26de16e87a48cb979a4bddbe47f0fe.jpg"
-        },
-        {
-          "title": "Senegal's president names economist as prime minister",
-          "url": "https://www.perthnow.com.au/news/politics/senegals-president-names-economist-as-prime-minister-c-22336410",
-          "source": "PerthNow",
-          "published_at": "2026-05-25T21:51:38.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22336410/3f93601bb0e964a9be0f952b6f76a29cc3870ba4-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Senegal president names economist Lo as prime minister after Sonko ouster",
-          "url": "https://www.france24.com/en/africa/20260525-senegal-president-names-economist-lo-as-prime-minister-after-sonko-ouster",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-25T20:28:45.000Z",
-          "image": "https://s.france24.com/media/display/c4526048-5877-11f1-9e6f-005056bfb2b6/w:1024/p:16x9/Al-Aminou-Lo-Senegal.jpg"
-        },
-        {
-          "title": "Senegal president names economist Lo as prime minister",
-          "url": "https://www.investing.com/news/economy-news/senegal-president-names-economist-lo-as-prime-minister-4708640",
-          "source": "All News",
-          "published_at": "2026-05-25T18:36:30.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O1OI_L.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_acf44a1969fba3ff",
-      "label": [
-        "abe",
-        "giant manager",
-        "abe arrest",
-        "assault daughter",
-        "giant",
-        "assault"
-      ],
-      "category": "new",
-      "theme": "theme_75d7cfa01d6b3938",
-      "entities": [
-        "Yomiuri Giants",
-        "Abe",
-        "Giants",
-        "Shinnosuke Abe",
-        "Giants Manager Shinnosuke Abe"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Yomiuri Giants' manager Abe arrested for allegedly assaulting daughter",
-          "url": "https://japantoday.com/category/crime/update1-japan-pro-baseball-yomiuri-giants%27-manager-abe-arrested-for-assault",
-          "source": "Japan Today",
-          "published_at": "2026-05-25T21:35:59.000Z"
-        },
-        {
-          "title": "Giants manager Shinnosuke Abe arrested for allegedly assaulting daughter",
-          "url": "https://www.japantimes.co.jp/sports/2026/05/26/baseball/japanese-baseball/giants-shinnosuke-abe-arrested",
-          "source": "Latest articles - The Japan Times",
-          "published_at": "2026-05-25T19:21:00.000Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/26/542399.jpg"
-        },
-        {
-          "title": "Giants Manager Shinnosuke Abe Arrested on Suspicion of Assaulting Daughter, Later Released",
-          "url": "https://newsonjapan.com/article/149373.php",
-          "source": "News On Japan",
-          "published_at": "2026-05-25T19:04:17.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_4ed1abc958625e7b",
-      "label": [
-        "cohort",
-        "brid",
-        "antisemitism",
-        "australia live",
-        "live labor",
-        "labor attempt"
-      ],
-      "category": "new",
-      "theme": "theme_b6069b7551cd5c8c",
-      "entities": [
-        "Australia",
-        "LIVE",
-        "Labor",
-        "Thursday",
-        "Second"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Australia news LIVE: Labor will attempt to pass tax reforms on Thursday; Second cohort of IS-linked brides to return home today; Antisemitism royal commission continues, security services probed",
-          "url": "https://www.theage.com.au/national/australia-news-live-labor-will-attempt-to-pass-tax-reforms-on-thursday-second-cohort-of-is-linked-brides-to-return-home-today-antisemitism-royal-commission-continues-security-services-probed-20260526-p600lr.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-25T20:45:33.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/q_86%2Cf_auto/f8164b0353341e495f2803515434efbe8e5a1287"
-        },
-        {
-          "title": "Australia news LIVE: Labor will attempt to pass tax reforms on Thursday; Second cohort of IS-linked brides to return home today; Antisemitism royal commission continues, security services probed",
-          "url": "https://www.smh.com.au/national/australia-news-live-labor-will-attempt-to-pass-tax-reforms-on-thursday-second-cohort-of-is-linked-brides-to-return-home-today-antisemitism-royal-commission-continues-security-services-probed-20260526-p600lr.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-25T20:45:33.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/q_86%2Cf_auto/f8164b0353341e495f2803515434efbe8e5a1287"
-        },
-        {
-          "title": "Australia news LIVE: Labor will attempt to pass tax reforms on Thursday; Second cohort of IS-linked brides to return home today; Antisemitism royal commission continues, security services probed",
-          "url": "https://www.brisbanetimes.com.au/national/australia-news-live-labor-will-attempt-to-pass-tax-reforms-on-thursday-second-cohort-of-is-linked-brides-to-return-home-today-antisemitism-royal-commission-continues-security-services-probed-20260526-p600lr.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-25T20:45:33.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/q_86%2Cf_auto/f8164b0353341e495f2803515434efbe8e5a1287"
-        }
-      ]
-    },
-    {
-      "id": "topic_30cd0dbbc8fc38fb",
-      "label": [
-        "declar",
-        "holiday",
-        "fg declar",
-        "fg",
-        "wednesday",
-        "declar wednesday"
-      ],
-      "category": "new",
-      "theme": "theme_f763abd9fb9d5f1c",
-      "entities": [
-        "FG Declares Wednesday",
-        "Thursday Public Holidays",
-        "Eid",
-        "Adha",
-        "Nigerian"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "FG Declares Wednesday, Thursday Public Holidays",
-          "url": "https://www.informationng.com/2026/05/fg-declares-wednesday-thursday-public-holidays.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-05-25T21:48:24.000Z"
-        },
-        {
-          "title": "Eid-ul-Adha: Nigerian govt declares Wednesday, Thursday public holidays",
-          "url": "https://www.premiumtimesng.com/news/top-news/882740-eid-ul-adha-nigerian-govt-declares-wednesday-thursday-public-holidays.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-05-25T18:14:27.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/04/486719373_1464727397996429_8248740703085538238_n.jpg?fit=2048%2C1751&amp;ssl=1"
-        },
-        {
-          "title": "Find out more banks to close branches nationwide as FG declares holiday",
-          "url": "https://www.legit.ng/business-economy/money/1711649-nigerian-banks-close-branches-wednesday-thursday",
-          "source": "Legit.ng",
-          "published_at": "2026-05-25T18:04:05.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/deab926100e683e1.jpeg?v=1"
-        }
-      ]
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said Israel would intensify attacks on Hezbollah in Lebanon. The Israeli military reported striking more than 70 Hezbollah sites in a day, including targets in eastern Lebanon."
     }
   ]
 }

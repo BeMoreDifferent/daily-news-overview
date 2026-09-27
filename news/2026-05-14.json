@@ -1,917 +1,979 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-15T00:15:16.287Z",
+  "generated_at": "2026-09-27T13:54:25.384Z",
   "topics": [
     {
-      "id": "topic_f0016e5db47bee8d",
+      "id": "topic_d35079337c6fe00b",
+      "title": "Madonna, Shakira and BTS to Headline World Cup Final Halftime Show",
+      "headline": "Madonna, Shakira & BTS to Headline 2026 World Cup Final Halftime Show",
       "label": [
-        "cia",
-        "director",
-        "cia director",
-        "havana",
-        "cuba",
-        "official havana"
+        "madonna",
+        "shakira",
+        "bts",
+        "halftime",
+        "cup",
+        "world"
       ],
       "category": "new",
-      "theme": "theme_d298ac59682a5b73",
+      "theme": "theme_7b75713fb4364950",
       "entities": [
-        "CIA Director John Ratcliffe",
-        "Cuban",
-        "Havana",
-        "CIA Director Ratcliffe",
-        "Cuba"
+        "Madonna",
+        "Shakira",
+        "BTS",
+        "Headline",
+        "World Cup Final Halftime"
       ],
-      "article_count": 14,
-      "source_count": 11,
+      "article_count": 44,
+      "source_count": 35,
       "articles": [
         {
-          "title": "CIA Director John Ratcliffe meets with Cuban officials in Havana",
-          "url": "https://www.nbcnews.com/world/cuba/cia-director-ratcliffe-meets-cuban-officials-havana-rcna345214",
-          "source": "NBC News World News",
-          "published_at": "2026-05-14T23:07:13.000Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260514-John-Ratcliffe-vsb-1814-12afd3.jpg"
+          "title": "Madonna, Shakira & BTS to Headline 2026 World Cup Final Halftime Show",
+          "url": "https://www.billboard.com/music/music-news/world-cup-halftime-bts-madonna-shakira-1236247959",
+          "source": "Billboard",
+          "published_at": "2026-05-14T04:05:54.000Z",
+          "description": "The Sunday, July 19, match at MetLife Stadium will mark the first time the FIFA World Cup final has ever featured a halftime show."
         },
         {
-          "title": "CIA Director John Ratcliffe holds rare talks with Cuban officials in Havana",
-          "url": "https://www.independent.co.uk/news/world/americas/john-ratcliffe-cia-cuba-visit-b2976978.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-14T23:00:00.000Z",
-          "image": "https://static.independent.co.uk/2026/04/17/10/2270100481.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "Madonna, Shakira, BTS to headline FIFA World Cup Final halftime show",
+          "url": "https://sports.yahoo.com/articles/madonna-shakira-bts-headline-fifa-170028630.html",
+          "published_at": "2026-05-14T17:00:28.000Z",
+          "description": "For the first time ever, FIFA is putting on a Super Bowl-style halftime show for the World Cup Final. On Thursday, we learned which global icons would star in the performance. The show, curated by Coldplay frontman Chris Martin, will be headlined by the Queen of Pop, Madonna, Shakira, who recently…"
         },
         {
-          "title": "CIA Director Ratcliffe visits Havana to discuss ‘current scenario,’ Cuba says",
-          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4569649/cia-director-john-ratcliffe-cuba-visit",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-14T22:48:59.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26134772650160.jpg?w=696"
-        },
-        {
-          "title": "Cuban officials meet with CIA director after country says fuel has run out",
-          "url": "https://globalnews.ca/news/11850389/cuba-fuel-blockade-cia-meeting",
-          "published_at": "2026-05-14T22:37:12.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/05/cuba-blackout-may-14-e1778798093835.jpg?quality=65&strip=all"
-        },
-        {
-          "title": "CIA director has met officials in Havana for talks, Cuba claims",
-          "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
-          "source": "Americas | The Guardian",
-          "published_at": "2026-05-14T22:17:22.000Z",
-          "image": "https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=07b0544f0dd6ad0fa9268ddb3ecaf46f"
-        }
-      ]
-    },
-    {
-      "id": "topic_79916a9baf95add1",
-      "label": [
-        "pearl",
-        "harbor",
-        "vip snorkel",
-        "pearl harbor",
-        "vip",
-        "snorkel"
-      ],
-      "category": "new",
-      "theme": "theme_4ee45a88baf81b35",
-      "entities": [
-        "Kash Patel Went",
-        "VIP Snorkel",
-        "Pearl Harbor",
-        "Emails",
-        "FBI Director Kash Patel"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Kash Patel Went on ‘VIP Snorkel’ at Pearl Harbor",
-          "url": "https://politicalwire.com/2026/05/14/kash-patel-went-on-vip-snorkel-at-pearl-harbor",
-          "source": "Political Wire",
-          "published_at": "2026-05-14T21:53:27.000Z"
-        },
-        {
-          "title": "Emails show FBI Director Kash Patel's Hawaii trip included 'VIP snorkel' at a Pearl Harbor memorial",
-          "url": "https://japantoday.com/category/world/emails-show-fbi-director-kash-patel%27s-hawaii-trip-included-%27vip-snorkel%27-at-a-pearl-harbor-memorial",
-          "source": "Japan Today",
-          "published_at": "2026-05-14T21:41:51.000Z"
-        },
-        {
-          "title": "Kash Patel Went on ‘VIP Snorkel’ Adventure Around Pearl Harbor Wreckage: Report",
-          "url": "https://www.rollingstone.com/politics/politics-news/kash-patel-vip-snorkel-pearl-harbor-1235562966",
+          "title": "Shakira, Madonna, and BTS to Headline World Cup Final Halftime Show",
+          "url": "https://www.rollingstone.com/music/music-news/world-cup-final-halftime-show-shakira-madonna-bts-1235562522",
           "source": "Rolling Stone",
-          "published_at": "2026-05-14T21:09:23.000Z"
+          "published_at": "2026-05-14T05:37:02.000Z",
+          "description": "This year's match will take place at New Jersey's MetLife Stadium on July 19"
         },
         {
-          "title": "Kash Patel Took ‘VIP Snorkel’ Around Pearl Harbor, Report Says",
-          "url": "https://www.forbes.com/sites/saradorn/2026/05/14/kash-patel-took-vip-snorkel-around-pearl-harbor-report-says",
+          "title": "BTS, Shakira, And Madonna To Headline World Cup Final Halftime Show",
+          "url": "https://www.forbes.com/sites/laurasirikul/2026/05/14/bts-shakira-and-madonna-to-headline-world-cup-final-halftime-show",
           "source": "Forbes - Business",
-          "published_at": "2026-05-14T20:45:43.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a06339d41bd7a8f32829d52/0x0.jpg"
+          "published_at": "2026-05-14T07:23:23.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69ddff58f485369d22fb5fb7/0x0.jpg?width=960",
+          "description": "Global Citizen, Coldplay's Chris Martin, and Sesame Street's Elmo announced the first-ever World Cup Halftime Show will feature BTS, Shakira, and Madonna as headliners."
         },
         {
-          "title": "Patel went on ‘VIP snorkel’ at Pearl Harbor memorial, emails show",
-          "url": "https://www.washingtonexaminer.com/news/justice/4569500/kash-patel-vip-snorkel-pearl-harbor-memorial",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-14T20:32:12.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26132756510625.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_f5a5706e10548705",
-      "label": [
-        "codex",
-        "openai",
-        "mobile",
-        "codex chatgpt",
-        "app",
-        "chatgpt"
-      ],
-      "category": "new",
-      "theme": "theme_f99f337435355592",
-      "entities": [
-        "OpenAI",
-        "Codex",
-        "ChatGPT",
-        "Zac Hall",
-        "Android"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone (Zac Hall/9to5Mac)",
-          "url": "https://www.techmeme.com/260514/p35",
-          "source": "Techmeme",
-          "published_at": "2026-05-14T21:15:02.000Z",
-          "image": "http://www.techmeme.com/260514/i35.jpg"
-        },
-        {
-          "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features",
-          "url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android",
-          "source": "9to5Mac",
-          "published_at": "2026-05-14T20:14:43.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600"
-        },
-        {
-          "title": "OpenAI brings Codex to the ChatGPT mobile app",
-          "url": "https://thenewstack.io/openai-codex-chatgpt-mobile",
-          "source": "The New Stack",
-          "published_at": "2026-05-14T20:13:05.000Z",
-          "image": "https://cdn.thenewstack.io/media/2026/05/594aba32-app-view-1024x576.png"
-        },
-        {
-          "title": "OpenAI brings its Codex coding app to mobile",
-          "url": "https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-14T20:00:00.000Z",
-          "image": "https://www.engadget.com/img/gallery/openai-brings-its-codex-coding-app-to-mobile/l-intro-1778787760.jpg"
-        },
-        {
-          "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-          "source": "The Verge",
-          "published_at": "2026-05-14T20:00:00.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        }
-      ]
-    },
-    {
-      "id": "topic_4beb4a7610f1c488",
-      "label": [
-        "controller",
-        "xbox",
-        "controller leak",
-        "leak",
-        "xbox elite",
-        "elite controller"
-      ],
-      "category": "new",
-      "theme": "theme_d8b6f2edd6ed3d4a",
-      "entities": [
-        "Xbox",
-        "Cloud Gaming Controller Leaks",
-        "Pretty Small",
-        "Xbox Elite Controller",
-        "Brazilian"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Xbox's Cloud Gaming Controller Leaks and It's Pretty Small",
-          "url": "https://www.ign.com/articles/xboxs-cloud-gaming-controller-leaks-and-its-pretty-small",
-          "source": "IGN Articles",
-          "published_at": "2026-05-14T22:42:53.000Z",
-          "image": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg"
-        },
-        {
-          "title": "Xbox Elite Controller 3 leaked by Brazilian regulator",
-          "url": "https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-14T21:55:48.000Z",
-          "image": "https://www.engadget.com/img/gallery/xbox-elite-controller-3-leaked-by-brazilian-regulator/l-intro-1778795675.jpg"
-        },
-        {
-          "title": "Two New, Very Different Xbox Controllers Have Leaked Online",
-          "url": "https://kotaku.com/two-new-very-different-xbox-controllers-have-leaked-online-2000696180",
-          "source": "Kotaku",
-          "published_at": "2026-05-14T21:50:12.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/05/controllers-1280x720.jpg"
-        },
-        {
-          "title": "Xbox Elite Controller 3 Leaked, Includes Removable Battery And Extra Buttons",
-          "url": "https://www.gamespot.com/articles/xbox-elite-controller-3-leaked-includes-removable-battery-and-extra-buttons/1100-6539970",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-05-14T20:57:00.000Z",
-          "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4695937-8065811174-37560.jpg"
-        },
-        {
-          "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
-          "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-          "source": "The Verge",
-          "published_at": "2026-05-14T20:52:19.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        }
-      ]
-    },
-    {
-      "id": "topic_926e27184710ed63",
-      "label": [
-        "jardinero",
-        "el jardinero",
-        "contra el",
-        "eu",
-        "cargo",
-        "contra"
-      ],
-      "category": "new",
-      "theme": "theme_4e88394a718e44ea",
-      "entities": [
-        "El Jardinero",
-        "EU",
-        "Qu",
-        "CJNG",
-        "Ampl"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "‘El Jardinero’ enfrenta nuevos cargos en EU ¿Qué delitos le sumaron al líder del CJNG?",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/05/14/el-jardinero-enfrenta-nuevos-cargos-en-eu-que-delitos-le-sumaron-al-lider-del-cjng",
-          "source": "El Financiero",
-          "published_at": "2026-05-14T22:14:37.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/k9t-lPQ5h70rFmg3XIv5DL5z1Kk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Z3UW5Z6QFRGPXIGM3OBFGMQWBA.png"
-        },
-        {
-          "title": "EU endurece proceso contra 'El Jardinero' presunto líder del CJNG",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/eu-endurece-proceso-contra-el-jardinero-presunto-lider-del-cjng.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-05-14T22:13:57.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2010951.jpeg"
-        },
-        {
-          "title": "Amplía justicia de EU cargos contra ‘El Jardinero’",
-          "url": "https://vanguardia.com.mx/noticias/amplia-justicia-de-eu-cargos-contra-el-jardinero-jn20698111",
-          "source": "Vanguardia",
-          "published_at": "2026-05-14T20:41:09.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1079460-traslado-de-el-jardinero-det_1-15421029_20260514205122.jpg"
-        },
-        {
-          "title": "Ampl�a EU cargos contra 'El Jardinero'",
-          "url": "https://www.elnorte.com/amplia-eu-cargos-contra-el-jardinero/ar3204321",
-          "source": "ElNorte",
-          "published_at": "2026-05-14T18:52:29.000Z"
-        },
-        {
-          "title": "Ampl�a EU cargos contra 'El Jardinero'",
-          "url": "https://www.reforma.com/amplia-eu-cargos-contra-el-jardinero/ar3204313",
-          "source": "Reforma",
-          "published_at": "2026-05-14T18:52:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_fbdc44ac9c3116d2",
-      "label": [
-        "leave",
-        "mccabe",
-        "mccabe leave",
-        "leave arsenal",
-        "arsenal",
-        "katie mccabe"
-      ],
-      "category": "new",
-      "theme": "theme_cd0e2d8e08614e9",
-      "entities": [
-        "Katie McCabe",
-        "Arsenal",
-        "Striker Kerr",
-        "Chelsea",
-        "Club"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Katie McCabe to leave Arsenal at the end of the season",
-          "url": "https://www.breakingnews.ie/sport/katie-mccabe-to-leave-arsenal-at-the-end-of-the-season-1900060.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTQyMTA3NTNcXFwvUEEtODMyOTA0NDYtZTE3Nzg3ODkyODg2NDEuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZDMzYjY0ODVkNDkzZTRlMzczOGUwNzY3ZDg4MzliZmNkNTQ2ZDhiMCJ9/pa-83290446-e1778789288641.jpg"
-        },
-        {
-          "title": "Striker Kerr to leave Chelsea at end of season",
-          "url": "https://www.espn.com/soccer/story/_/id/48770687/sam-kerr-leave-chelsea-end-season-six-years",
-          "source": "www.espn.com - SOCCER",
-          "published_at": "2026-05-14T20:03:32.000Z"
-        },
-        {
-          "title": "'Club legend': Katie McCabe to leave Arsenal",
-          "url": "https://www.thejournal.ie/katie-mccabe-arsenal-6-2-7040253-may2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-05-14T19:54:46.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/crawley-england-may-06-katie-mccabe-of-arsenal-after-the-barclays-womens-super-league-match-between-brighton-hove-albion-and-arsenal-at-broadfield-stadium-on-may-06-2026-in-crawley-england-c0eccf09-7d34-40dd-967a-ce95261bf592-630x420.jpg"
-        },
-        {
-          "title": "'Club legend': Katie McCabe to leave Arsenal",
-          "url": "https://www.the42.ie/katie-mccabe-arsenal-6-7040212-may2026",
-          "source": "The 42",
-          "published_at": "2026-05-14T19:15:13.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/crawley-england-may-06-katie-mccabe-of-arsenal-after-the-barclays-womens-super-league-match-between-brighton-hove-albion-and-arsenal-at-broadfield-stadium-on-may-06-2026-in-crawley-england-c0eccf09-7d34-40dd-967a-ce95261bf592-630x420.jpg"
-        },
-        {
-          "title": "McCabe to leave Arsenal in the summer",
-          "url": "https://www.bbc.com/news/articles/c0m2le0k7xyo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-14T19:14:24.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23e/live/a6528610-4fbf-11f1-b8fb-4972aa80fee8.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_49f591fec73d42a1",
-      "label": [
-        "spy iran",
-        "air force",
-        "force",
-        "spy",
-        "fbi",
-        "air"
-      ],
-      "category": "new",
-      "theme": "theme_b0de2c2370e00a87",
-      "entities": [
-        "FBI",
-        "Air Force",
-        "Iran",
-        "Kaanita Iyer",
-        "Scripps News"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "FBI offers $200K reward for ex-Air Force intelligence agent accused of spying for Iran",
-          "url": "https://nypost.com/2026/05/14/us-news/fbi-offers-200k-reward-for-ex-air-force-intelligence-agent-accused-of-spying-for-iran",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-14T22:40:18.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2F200k-reward-former-air-force-127787638.jpg?w%3D706"
-        },
-        {
-          "title": "FBI offers $20K for information on ex-Air Force intelligence specialist charged with spying for Iran (Kaanita Iyer/Scripps News)",
-          "url": "https://www.memeorandum.com/260514/p129",
-          "source": "memeorandum",
-          "published_at": "2026-05-14T22:25:01.000Z",
-          "image": "http://www.memeorandum.com/img/pml.png"
-        },
-        {
-          "title": "FBI offers reward for info on Air Force officer charged with spying for Iran",
-          "url": "https://www.cbsnews.com/news/fbi-offers-reward-air-force-officer-charged-spying-iran",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-05-14T21:20:00.000Z"
-        },
-        {
-          "title": "FBI Announces $200K Reward for Ex-Air Force Intelligence Officer Allegedly Spying for Iran",
-          "url": "https://internewscast.com/news/us/fbi-announces-200k-reward-for-ex-air-force-intelligence-officer-allegedly-spying-for-iran",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-14T19:56:03.000Z"
-        },
-        {
-          "title": "FBI offers $200K reward for former Air Force intelligence agent accused of spying for Iran",
-          "url": "https://www.foxnews.com/us/fbi-offers-200k-reward-former-air-force-intelligence-agent-accused-spying-iran",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-14T19:10:12.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Monica-Witt-split.png?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_50ab05750f6f8838",
-      "label": [
-        "attempt murder",
-        "attempt",
-        "murder",
-        "charg attempt",
-        "chud",
-        "chud builder"
-      ],
-      "category": "new",
-      "theme": "theme_b3ae50b84ec52e36",
-      "entities": [
-        "Streamer ChudTheBuilder",
-        "Tennessee",
-        "Chud",
-        "Builder",
-        "Black"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Streamer ChudTheBuilder charged with attempted murder after Tennessee courthouse shooting",
-          "url": "https://timesofindia.indiatimes.com/world/us-streamers/streamer-chudthebuilder-charged-with-attempted-murder-after-tennessee-courthouse-shooting/articleshow/131102727.cms",
-          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-          "published_at": "2026-05-14T19:57:55.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131102731,imgsize-815035.cms"
-        },
-        {
-          "title": "Tennessee man 'Chud the Builder', who films racial slurs to provoke Black people, accused of attempted murder",
-          "url": "https://torontosun.com/news/world/tennessee-man-chud-the-builder-films-racial-slurs-provoke-black-people-attempted-murder",
-          "source": "Toronto Sun - RSS Feed",
-          "published_at": "2026-05-14T18:56:27.000Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/Dalton-Eatherly-X-May14.jpg?quality=100&strip=all"
-        },
-        {
-          "title": "Chud the Builder, Known for Racist Confrontations, Charged With Attempted Murder",
-          "url": "https://www.nytimes.com/2026/05/14/us/chud-the-builder-shooting-tennessee-dalton-eatherly.html",
-          "source": "NYT > Top Stories",
-          "published_at": "2026-05-14T18:37:27.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14xp-chud-gkbw/14xp-chud-gkbw-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Chud the Builder, Known for Racist Confrontations, Charged With Attempted Murder - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxnb2pzagqtzvjobeznbg93qu5fae0xse13b0drczlhqnoxczqwdgtyyufvclpsmtzkvgjstkdnbmjwelawcldptjf6x2n0uwxvdfnhrvh2ctlzuelfc2s3szfgvgs5afrtctnlunzxnjhrvwxnci1myjdunzbtsxjzoxm4s3jnb1rrz2utvg42zutaotjwudrnrvr3",
+          "title": "Madonna, Shakira & BTS to Headline 2026 World Cup Final Halftime Show",
+          "url": "https://news.google.com/rss/articles/cbmimafbvv95cuxor2xkmhppb01nrxazqwvbau81nvrmadnnnedjme5abzvdewrnrzdjtlffdnrju1viatrltkh0yuffy3ozb2dmzwjwx1fvoxv0q29zttzumwv6mwq3v0vim2nuu3zpaejjoe5wvgzemvayb1v5runmbly3vuvswnlttvrbefq1nfpcnlvccgxfeetkcfhzohloeg",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-14T18:23:26.000Z"
+          "published_at": "2026-05-14T04:06:11.000Z",
+          "description": "Madonna, Shakira & BTS to Headline 2026 World Cup Final Halftime Show Billboard Shakira, Madonna and BTS to headline 2026 World Cup Final halftime show CNN FIFA announces Super Bowl-style World Cup final halftime show featuring Madonna, Shakira and BTS The Hill BTS to headline World Cup Final halft…"
         }
-      ]
+      ],
+      "summary": "Madonna, Shakira and BTS are set to headline the first halftime show at a FIFA World Cup final, scheduled for July 19 at MetLife Stadium in New Jersey."
     },
     {
-      "id": "topic_472512fd4c108d4",
+      "id": "topic_b9a9f71d87c86244",
+      "title": "Xi Warns Trump Taiwan Dispute Could Lead to Conflict",
+      "headline": "Xi Warns Trump About Taiwan",
       "label": [
-        "capital",
-        "100 million",
-        "100",
-        "invest",
-        "thrive",
-        "thrive capital"
-      ],
-      "category": "new",
-      "theme": "theme_43ef0e54c4d6a300",
-      "entities": [
-        "Gemini",
-        "Winklevoss Capital Fund",
-        "Thrive Capital",
-        "Shopify",
-        "AI"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Gemini surges after Winklevoss Capital Fund invests $100 million in the crypto exchange",
-          "url": "https://www.cnbc.com/2026/05/14/gemini-surges-after-winklevoss-capital-invests-100-million-in-the-crypto-exchange.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-05-14T22:23:40.000Z"
-        },
-        {
-          "title": "Thrive Capital bets $100 million on Shopify, because sometimes the best AI trade is a beaten-down stock",
-          "url": "https://thenextweb.com/news/thrive-capital-shopify-public-market-ai-commerce",
-          "source": "The Next Web",
-          "published_at": "2026-05-14T20:53:36.000Z",
-          "image": "https://media.thenextweb.com/2026/05/thrive-capital-shopify-public-market-ai-commerce.avif"
-        },
-        {
-          "title": "Sources: Joshua Kushner's Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce (Natasha Mascarenhas/Bloomberg)",
-          "url": "https://www.techmeme.com/260514/p33",
-          "source": "Techmeme",
-          "published_at": "2026-05-14T20:15:02.000Z",
-          "image": "http://www.techmeme.com/260514/i33.jpg"
-        },
-        {
-          "title": "Joshua Kushner’s Thrive Capital Invests $100 Million in Shopify",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-14/joshua-kushner-s-thrive-capital-invests-100-million-in-shopify",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-05-14T19:54:11.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP.h5rd30JOE/v1/1200x-1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c08f755394242fb6",
-      "label": [
-        "israel",
-        "israel talk",
-        "lebanon israel",
-        "lebanon",
-        "talk",
-        "talk kick"
-      ],
-      "category": "new",
-      "theme": "theme_3b0e7d990191a34e",
-      "entities": [
-        "Lebanon",
-        "Israel",
-        "Hezbollah",
-        "US"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues",
-          "url": "https://japantoday.com/category/world/israeli-officials-say-hezbollah-drone-wounds-3-civilians",
-          "source": "Japan Today",
-          "published_at": "2026-05-14T21:41:07.000Z"
-        },
-        {
-          "title": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues",
-          "url": "https://www.manilatimes.net/2026/05/15/news/world/new-round-of-lebanon-israel-talks-kicks-off-as-fighting-between-israel-and-hezbollah-continues/2344392",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-05-14T20:18:49.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/15/1057966.jpg"
-        },
-        {
-          "title": "What does the US hope to achieve from Lebanon-Israel talks?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-14T19:00:50.000Z"
-        },
-        {
-          "title": "Lebanon-Israel talks kick off as fighting continues",
-          "url": "https://www.perthnow.com.au/news/conflict/lebanon-israel-talks-kick-off-as-fighting-continues-c-22286502",
-          "source": "PerthNow",
-          "published_at": "2026-05-14T18:40:03.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22286502/740e367b861092b8b1f104801b1f055dc8e61ad3-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_cf9729eeaf670011",
-      "label": [
-        "xi warn",
-        "warn",
-        "xi",
         "taiwan",
-        "trump taiwan",
-        "warn trump"
+        "warns",
+        "xi",
+        "trump",
+        "conflict",
+        "china"
       ],
       "category": "new",
-      "theme": "theme_1671ecadeebd372e",
+      "theme": "theme_528cf039735562d2",
       "entities": [
-        "Live",
-        "Xi",
-        "US",
+        "Xi Warns Trump About",
+        "Taiwan",
         "China",
-        "Trump"
+        "Xi Warns Trump",
+        "Xi"
       ],
-      "article_count": 7,
-      "source_count": 4,
+      "article_count": 37,
+      "source_count": 33,
       "articles": [
-        {
-          "title": "Live updates: Xi hails US-China relations as world’s most consequential, but warns Trump on Taiwan - CNN",
-          "url": "https://news.google.com/rss/articles/cbmie0fvx3lxtfa0lxnsdghvuulfvzrrzkwysudwv3e3z19zr0q0ukveslrjyjd3qxfhdwnrduhcbdzku0teu3rdyji0b2zbtl9ssdv1bkjtmk9ymjlhx0nqdg9ack8zodq2m0hqv2lruze4n1nasvvpafawuljomtneam9ruq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-14T22:56:00.000Z"
-        },
-        {
-          "title": "Xi warned of the ‘Thucydides Trap.’ What is it?",
-          "url": "https://www.seattletimes.com/nation-world/xi-warned-of-the-thucydides-trap-what-is-it",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-05-14T19:26:53.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05142026_TrumpXi_tzr_121654.jpg?d=1200x630"
-        },
-        {
-          "title": "Xi Warns Support for Taiwan Could Lead to Conflict Between China and US",
-          "url": "https://truthout.org/video/xi-warns-support-for-taiwan-could-lead-to-conflict-between-china-and-us",
-          "source": "Truthout",
-          "published_at": "2026-05-14T19:07:51.000Z",
-          "image": "https://truthout.org/app/uploads/2026/05/SEG1-Trump-Xi-Split-1200x900.jpg"
-        },
         {
           "title": "Xi Warns Trump About Taiwan",
           "url": "https://www.bloomberg.com/news/videos/2026-05-14/xi-warns-trump-about-taiwan-video",
           "source": "Bloomberg Technology",
           "published_at": "2026-05-14T18:26:17.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5VQVZxf7yyE/v3/1200x-1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_327ba8a312101517",
-      "label": [
-        "york tim",
-        "israel sue",
-        "sue york",
-        "netanyahu",
-        "york",
-        "tim"
-      ],
-      "category": "new",
-      "theme": "theme_1588220e69b2599e",
-      "entities": [
-        "Netanyahu",
-        "New York Times",
-        "Israeli",
-        "Israel",
-        "The New York Times"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Netanyahu threatens lawsuit over New York Times column on Israeli rape allegations",
-          "url": "https://www.ms.now/news/netanyahu-threatens-lawsuit-over-new-york-times-column-on-israeli-rape-allegations",
-          "source": "MS NOW",
-          "published_at": "2026-05-14T21:20:42.000Z"
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5VQVZxf7yyE/v3/1200x-1.jpg",
+          "description": "Xi Jinping warned Donald Trump that Taiwan could lead to \"clashes\" between the superpowers, calling it a \"highly dangerous situation\" for the world's biggest economies. Michelle Giuda, CEO of the Krach Institute for Tech Diplomacy at Purdue, joins Ed Ludlow on \"Bloomberg Tech\" to discuss what this…"
         },
         {
-          "title": "Netanyahu says Israel will sue The New York Times",
-          "url": "https://www.cbsnews.com/news/netanyahu-says-israel-will-sue-the-new-york-times",
+          "title": "China’s Xi Warns Trump on Taiwan",
+          "url": "https://politicalwire.com/2026/05/14/chinas-xi-warns-trump-on-taiwan",
+          "source": "Political Wire",
+          "published_at": "2026-05-14T09:51:55.000Z",
+          "description": "China’s leader, Xi Jinping, delivered a warning on Taiwan to President Trump as the two leaders began their summit in Beijing on Thursday, saying that the issue, if handled poorly, could lead to conflict and “an extremely dangerous situation,” the New York Times reports. Wall Street Journal: “Xi’s…"
+        },
+        {
+          "title": "Xi warns Trump on Taiwan at Beijing summit",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/14/xi-warns-trump-on-taiwan-at-beijing-summit_6753439_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-14T07:16:13.000Z",
+          "image": "https://img.lemde.fr/2026/05/14/133/0/5000/2500/644/322/60/0/e994d5c_ftp-1-b7kpfi4tgluo-13218136fc174423b1487f4dc0815946-2-a395140735f2430db7f222207e51ec8b.jpg",
+          "description": "Beyond the pomp as the Chinese leader welcomed his American counterpart, Xi in less effusive tones said the two sides 'should be partners and not rivals,' while highlighting the issue of self-ruled democratic Taiwan, which Beijing claims as its territory."
+        },
+        {
+          "title": "China’s Xi warns Trump about Taiwan at Beijing summit",
+          "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-14T12:34:39.000Z",
+          "description": "The Chinese leader cautions the US president that disagreement over Taiwan could send relations down a dangerous path."
+        },
+        {
+          "title": "Xi warns Trump of 'conflict' over Taiwan",
+          "url": "https://tribune.com.pk/story/2608233/xi-warns-trump-of-conflict-over-taiwan",
+          "source": "express tribune",
+          "published_at": "2026-05-14T17:09:47.000Z",
+          "description": "Trump seeks economic wins, help on Iran war Xi hails 'positive outcome' of trade talks China to buy 200 Boeing"
+        }
+      ],
+      "summary": "At a summit in Beijing, Chinese leader Xi Jinping warned President Donald Trump that mishandling the Taiwan issue could lead to clashes or put bilateral relations on a dangerous path."
+    },
+    {
+      "id": "topic_3eaaa7f4046a9172",
+      "title": "U.S. Border Patrol Chief Michael Banks Resigns",
+      "headline": "U.S. Border Patrol Chief Mike Banks resigns",
+      "label": [
+        "patrol",
+        "border",
+        "chief",
+        "resigns",
+        "banks",
+        "michael"
+      ],
+      "category": "new",
+      "theme": "theme_972fc0256fec1968",
+      "entities": [
+        "Border Patrol Chief Mike",
+        "Banks",
+        "Trump",
+        "Border Patrol",
+        "Mike Banks"
+      ],
+      "article_count": 24,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "U.S. Border Patrol Chief Mike Banks resigns",
+          "url": "https://www.cnbc.com/2026/05/14/border-patrol-mike-banks-resigns-cbp-immigration.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-05-14T17:24:56.000Z",
+          "description": "Controversy over enforcement actions by Border Patrol and ICE led to a partial shutdown of DHS from February to late April."
+        },
+        {
+          "title": "Trump’s Border Patrol chief Mike Banks resigns abruptly",
+          "url": "https://www.ms.now/news/trumps-border-patrol-chief-mike-banks-resigns-abruptly",
+          "source": "MS NOW",
+          "published_at": "2026-05-14T21:18:47.000Z",
+          "description": "Mike Banks stepped down weeks after misconduct allegations came to light. He is the latest in a string of President Donald Trump’s top immigration officials to resign amid controversy. The post Trump’s Border Patrol chief Mike Banks resigns abruptly appeared first on MS NOW."
+        },
+        {
+          "title": "Border Patrol chief Michael Banks is stepping down",
+          "url": "https://abcnews.com/politics/border-patrol-chief-michael-banks-stepping/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-14T18:50:11.000Z",
+          "image": "https://s.abcnews.com/images/Politics/michael-banks-ap-jef-260514_1778784401633_hpMain_4x3t_384.jpg",
+          "description": "Michael Banks, the head of U.S. Border Patrol, is stepping down."
+        },
+        {
+          "title": "U.S. Border Patrol chief resigns in latest immigration shakeup",
+          "url": "https://www.cbsnews.com/news/mike-banks-border-patrol-chief-resigns",
           "source": "Politics - CBSNews.com",
-          "published_at": "2026-05-14T20:43:10.000Z"
+          "published_at": "2026-05-14T16:45:07.000Z",
+          "description": "U.S. Border Patrol Chief Michael Banks, who was appointed to the role last year, told staff on Thursday that he is stepping down."
+        },
+        {
+          "title": "U.S. Border Patrol chief Michael Banks is resigning, in latest DHS leadership change",
+          "url": "https://japantoday.com/category/world/us-border-patrol-chief-announces-his-resignation-in-a-fox-news-interview",
+          "source": "Japan Today",
+          "published_at": "2026-05-14T21:41:19.000Z",
+          "description": "The head of U.S. Border Patrol, the agency tasked with securing the nation's frontiers and increasingly tapped by the Trump administration for immigration operations in American cities, announced…"
+        }
+      ],
+      "summary": "Michael Banks is stepping down as chief of the U.S. Border Patrol. His departure follows controversy and misconduct allegations, according to reports."
+    },
+    {
+      "id": "topic_fa33e8e82ba4e84",
+      "title": "Angela Rayner Says She Has Been Cleared Over Tax Affairs",
+      "headline": "Angela Rayner says she has been cleared over tax affairs",
+      "label": [
+        "rayner",
+        "angela",
+        "tax",
+        "cleared",
+        "affairs",
+        "hmrc"
+      ],
+      "category": "new",
+      "theme": "theme_58aa88f3e1e4d2bc",
+      "entities": [
+        "Angela Rayner",
+        "Labour",
+        "UK",
+        "HMRC",
+        "Why Rayner"
+      ],
+      "article_count": 19,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Angela Rayner says she has been cleared over tax affairs",
+          "url": "https://www.ft.com/content/e8383d83-abb0-4879-b421-92ed7c4a70e7",
+          "source": "International homepage",
+          "published_at": "2026-05-14T05:55:55.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febd5afe4-ed6b-4b85-a60a-aafddb41eaf0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "News opens way for her to potentially enter a contest to topple Sir Keir Starmer"
+        },
+        {
+          "title": "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
+          "url": "https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-14T11:31:30.000Z",
+          "description": "Rayner says she has been cleared by HMRC, paving the way for a potential Labour leadership challenge."
+        },
+        {
+          "title": "Angela Rayner cleared by HMRC over tax affairs as leadership bid heats up",
+          "url": "https://www.independent.co.uk/news/uk/politics/angela-rayner-tax-hmrc-labour-leader-b2976309.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-14T05:52:43.000Z",
+          "image": "https://static.independent.co.uk/2026/05/10/15/51/6647213-library.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The MP for Ashton-under-Lyne said the investigation into her underpayment of stamp duty had ‘clipped her wings’"
+        },
+        {
+          "title": "Watch: Angela Rayner settles tax affairs - what now?",
+          "url": "https://www.bbc.com/news/videos/c5yepj79n04o",
+          "source": "BBC News",
+          "published_at": "2026-05-14T07:31:11.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a214/live/02a41e30-4f64-11f1-bd52-e755d604ece4.jpg",
+          "description": "BBC chief political correspondent Henry Zeffman explains what this could mean for a potential Labour leadership contest."
+        },
+        {
+          "title": "What was HMRC’s investigation into Angela Rayner’s tax affairs all about?",
+          "url": "https://www.theguardian.com/politics/2026/may/14/hmrc-investigation-into-angela-rayner-tax-affairs-stamp-duty-explainer",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-05-14T08:11:01.000Z",
+          "image": "https://i.guim.co.uk/img/media/8f12bf72f629b9cb12a9e6d4099dcab03742282f/1032_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=282fd0779e9ce07cb1dad12cedfa32eb",
+          "description": "Findings of inquiry into stamp duty paid on Hove flat crucial to any leadership bid UK politics live – latest updates Angela Rayner has been cleared by HMRC of deliberate wrongdoing or carelessness over her tax affairs, the Guardian reported, paving the way for a potential leadership bid as Keir St…"
+        }
+      ],
+      "summary": "Labour MP Angela Rayner said HMRC cleared her of deliberate wrongdoing or carelessness in an inquiry into stamp duty on a property. The decision could affect a potential bid for the party leadership."
+    },
+    {
+      "id": "topic_a3fb4e173d89395e",
+      "title": "Tourist Arrested Over Rock Thrown at Hawaiian Monk Seal",
+      "headline": "US agents arrest tourist after video shows a rock hurled at an endangered Hawaiian monk seal's head",
+      "label": [
+        "endangered",
+        "seal",
+        "rock",
+        "tourist",
+        "monk",
+        "hawaiian"
+      ],
+      "category": "new",
+      "theme": "theme_65bde458560a11b8",
+      "entities": [
+        "US",
+        "Hawaiian",
+        "AP News",
+        "Man",
+        "Tourist"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "US agents arrest tourist after video shows a rock hurled at an endangered Hawaiian monk seal's head",
+          "url": "https://www.yahoo.com/news/articles/us-agents-arrest-tourist-video-175928191.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-14T17:59:28.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/e799c116c611f16d8d47eaa4bfeb5fa6"
+        },
+        {
+          "title": "US agents arrest tourist after video shows a rock hurled at an endangered Hawaiian monk seal's head",
+          "url": "https://news.google.com/rss/articles/cbmiqgfbvv95cuxobeztszzjajlrdghmrmetx2jqcgzpakzhsthknta4u2nmv0cwumfvenzwy1zmv05ywednutv0d29qx3fjrevndl95wdhkrta2wvoxag1pblbhbhpushbbcgy2cxjnehfruw5isxdsazbxd0lrlwdtdlfvczzvouryyuw3ohlfm2m0nlpvunl6v1vjetjhymzza0hkztk2me1qbnlvwflsn3o2zw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-14T03:22:00.000Z",
+          "description": "US agents arrest tourist after video shows a rock hurled at an endangered Hawaiian monk seal's head AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Man arrested after video shows rock hurled at endangered Hawaiian monk seal",
+          "url": "https://torontosun.com/news/world/man-arrested-video-rock-hurled-hawaiian-monk-seal",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-14T22:15:20.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/monk-seal.jpg?quality=100&strip=all",
+          "description": "When confronted by witnesses, he allegedly told them he was 'rich enough to pay the fines'"
+        },
+        {
+          "title": "Tourist arrested, accused of throwing rock at endangered Hawaiian monk seal",
+          "url": "https://globalnews.ca/news/11849309/tourist-arrested-rock-endangered-monk-seal-hawaii",
+          "published_at": "2026-05-14T15:54:52.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/man-charged-harassing-endangered-monk-seal-hawaii.jpg?quality=65&strip=all",
+          "description": "The man was charged with 'harassing and attempting to harass an endangered Hawaiian monk seal by throwing a large rock at the seal's head,' according to the U.S. Attorney's Office."
+        },
+        {
+          "title": "Tourist charged after rock hurled at endangered Hawaiian monk seal in viral video",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/hawaii-seal-lani-igor-lytvynchuk-b2976534.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-14T15:40:30.000Z",
+          "image": "https://static.independent.co.uk/2026/05/14/11/16/Screenshot-2026-05-14-at-12-23-36.png?width=1200&auto=webp&trim=0%2C0%2C13%2C0",
+          "description": "​Igor Mykhaylovych Lytvynchuk faces prison and substantial fines if convicted of harassing a protected animal"
+        }
+      ],
+      "summary": "A tourist was arrested and charged after a video appeared to show a rock being thrown at an endangered Hawaiian monk seal. The charges concern alleged harassment of a protected animal."
+    },
+    {
+      "id": "topic_ac93570d3a24c486",
+      "title": "Congress Names VD Satheesan Kerala Chief Minister",
+      "headline": "Congress names VD Satheesan as Kerala Chief Minister after 10 days of suspense",
+      "label": [
+        "satheesan",
+        "kerala",
+        "vd",
+        "chief",
+        "minister",
+        "congress"
+      ],
+      "category": "new",
+      "theme": "theme_19294cafa9892907",
+      "entities": [
+        "Congress",
+        "VD Satheesan",
+        "Kerala Chief Minister",
+        "VD Satheesan To Be",
+        "Sworn In As Kerala"
+      ],
+      "article_count": 23,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Congress names VD Satheesan as Kerala Chief Minister after 10 days of suspense",
+          "url": "https://www.indiatoday.in/elections/assembly/story/six-time-congress-mla-vd-satheesan-likely-to-be-named-kerala-chief-minister-after-10-days-of-suspense-2911548-2026-05-14",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-14T06:25:47.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/vd-satheesan-040512639-16x9.jpeg?VersionId=L0t_f49FLMe2wLhCzuKtgH__R2MMs51o",
+          "description": "Congress names VD Satheesan as Kerala Chief Minister after days of suspense"
+        },
+        {
+          "title": "VD Satheesan To Be Sworn In As Kerala Chief Minister On May 18",
+          "url": "https://www.ndtv.com/india-news/vd-satheesan-to-be-sworn-in-as-kerala-chief-minister-on-may-18-11497238",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-14T18:28:18.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/7ss846g8_satheesan-pti_625x300_13_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+          "description": "The national leadership will invite leaders from other states for the ceremony, Satheesan told reporters after visiting the house of former Chief Minister late Oommen Chandy here on Thursday."
+        },
+        {
+          "title": "VD Satheesan named next Kerala chief minister as Congress ends suspense",
+          "url": "https://timesofindia.indiatimes.com/india/vd-satheesan-named-next-kerala-chief-minister-as-congress-ends-suspense/articleshow/131084735.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-14T06:38:17.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131085081,imgsize-832972.cms",
+          "description": "After days of intense consultations, the Congress has chosen VD Satheesan as the next Chief Minister of Kerala. The announcement follows the Congress-led UDF's decisive victory in the state elections, ending the Left Democratic Front's second consecutive term. Satheesan emerged as the preferred can…"
+        },
+        {
+          "title": "Congress announces VD Satheesan as Kerala's next Chief Minister",
+          "url": "https://www.dnaindia.com/india/report-congress-announces-vd-satheesan-as-kerala-s-next-chief-minister-3210245",
+          "source": "India News",
+          "published_at": "2026-05-14T06:43:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/05/14/2748869-untitled-design-2026-05-14t121050.081.jpg",
+          "description": "Congress picks VD Satheesan as Kerala Chief Minister, ending 10 days of suspense"
+        },
+        {
+          "title": "Congress ends suspense, picks VD Satheesan as Kerala Chief Minister after days of intense lobbying",
+          "url": "https://www.thehindubusinessline.com/news/national/congress-ends-suspense-picks-vd-satheesan-as-kerala-chief-minister-after-days-of-intense-lobbying/article70979259.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-05-14T14:13:30.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/l5wkzh/article70979314.ece/alternates/LANDSCAPE_1200/NH14VDsatheesan08.JPG",
+          "description": "The decision came after Rahul and Priyanka Gandhi prevailed on KC Venugopal to back down from the race"
+        }
+      ],
+      "summary": "India’s Congress party selected VD Satheesan as Kerala’s next chief minister after days of consultations. He is due to be sworn in on May 18."
+    },
+    {
+      "id": "topic_a2a568816e99be40",
+      "title": "Cuba Says It Has Run Out of Diesel and Fuel Oil",
+      "headline": "Cuba has run out of diesel and fuel oil amid U.S. oil blockade",
+      "label": [
+        "oil",
+        "cuba",
+        "run",
+        "diesel",
+        "fuel",
+        "blockade"
+      ],
+      "category": "new",
+      "theme": "theme_ba035e7110e50307",
+      "entities": [
+        "Cuba",
+        "US",
+        "Cuba Says It Has",
+        "Run Out",
+        "Oil"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Cuba has run out of diesel and fuel oil amid U.S. oil blockade",
+          "url": "https://www.thehindu.com/news/international/cuba-has-run-out-of-diesel-and-fuel-oil-amid-us-oil-blockade/article70976858.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-14T03:57:34.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/cuib1/article70977140.ece/alternates/LANDSCAPE_1200/2026-05-12T215511Z_1808071772_RC2V7LAKTOD9_RTRMADP_3_CUBA-CRISIS-FUEL.JPG",
+          "description": "The ​country’s top energy official said Cuba continued negotiations to import fuel despite the blockade"
+        },
+        {
+          "title": "Cuba has run out of diesel and fuel oil amid US oil blockade",
+          "url": "https://www.dailymaverick.co.za/article/2026-05-14-cuba-has-run-out-of-diesel-and-fuel-oil-amid-us-oil-blockade",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-05-14T04:51:24.000Z",
+          "image": "https://cdn.dailymaverick.co.za/dailymaverick/wp-content/uploads/2022/06/Cafe-Havana-Cartagena-49811777391_32bd0008e9_k.jpeg",
+          "description": "HAVANA, May 13 (Reuters) - Cuba has completely run out of diesel and fuel oil, the country's energy and mines minister said on Wednesday, as the capital Havana faces its worst rolling blackouts in decades amid a U.S. blockade that has strangled the island of fuel."
+        },
+        {
+          "title": "Cuba Says It Has Run Out of Oil",
+          "url": "https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-05-14T20:52:13.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-cuba-fuel01-photo-pwvm/14int-cuba-fuel01-photo-pwvm-mediumSquareAt3X.jpg",
+          "description": "A long-running energy crisis in the island nation reached a breaking point this week, when government officials said they had run out of reserves."
+        },
+        {
+          "title": "Cuba has run out of diesel and fuel oil, energy minister says, as US blockade pushes island to brink",
+          "url": "https://www.theguardian.com/world/2026/may/14/cuba-us-energy-blockade-oil-fuel-petrol-runs-out",
+          "source": "The Guardian",
+          "published_at": "2026-05-14T02:15:48.000Z",
+          "image": "https://i.guim.co.uk/img/media/13dcfba175caa03c1f4df39236f1a02640deac3c/685_234_4708_3766/master/4708.jpg?width=140&quality=85&auto=format&fit=max&s=eb75e00535e9ec77dce2a3a5e1cae8f4",
+          "description": "Minister Vicente de la O Levy says ‘Cuba is open to anyone that wants to sell us fuel’ as rolling power blackouts increase Cuba has completely run out of diesel and fuel oil, the country’s energy minister said on Wednesday, as Havana faces its worst rolling blackouts in decades amid a US blockade t…"
+        },
+        {
+          "title": "Cuba has run out of diesel and oil, energy minister says",
+          "url": "https://www.yahoo.com/news/articles/cuba-run-diesel-oil-energy-043146019.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-14T04:31:46.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/8b227c2f66181d528836608614bed82c"
+        }
+      ],
+      "summary": "Cuba’s energy minister said the country has run out of diesel and fuel oil amid a U.S. oil blockade. The government says it is negotiating to import fuel as rolling blackouts worsen."
+    },
+    {
+      "id": "topic_bbf9e7f6d38cceda",
+      "title": "Israel Says It Will Sue The New York Times Over Article",
+      "headline": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+      "label": [
+        "sue",
+        "israel",
+        "palestinian",
+        "york",
+        "times",
+        "abuse"
+      ],
+      "category": "new",
+      "theme": "theme_9a6c120cb3eb392c",
+      "entities": [
+        "Israel",
+        "New York Times",
+        "Palestinian",
+        "The Guardian",
+        "Netanyahu"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+          "url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-14T17:43:04.000Z",
+          "image": "https://i.guim.co.uk/img/media/4310caea88cdbf16a94dc6abc9c5722a77bd2bc8/466_0_4644_3717/master/4644.jpg?width=140&quality=85&auto=format&fit=max&s=3022405ba410cfa3d42bc94ad0d1d6c3",
+          "description": "Media law experts cast doubt on viability of a defamation lawsuit promised by Netanyahu over Nicholas Kristof essay Israel’s prime minister, Benjamin Nethanyahu, and foreign minister, Gideon Sa’ar, have threatened to sue the New York Times for defamation over the publication of an essay by Nicholas…"
+        },
+        {
+          "title": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+          "url": "https://news.google.com/rss/articles/cbmiqgfbvv95cuxpeur3uffqy284dhrta0pqwjktytbvcfnkou1cuk0zy1jjd1zqzxe2b3lyq3nprgvwztrldzrscjrjalr5ql9cs05tbeytseq0whnvtgluehkxvkdyn1p4d1pnsc11qlh2uhf2dta5uufjtndyuetisluyx2zsqxfkt05wqxayaxb3ck9zshrfbunkrevtr29osjbiadvvs3jtumo4tnk3r2syuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-14T17:44:00.000Z",
+          "description": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners The Guardian Opinion | The Silence That Meets the Rape of Palestinians The New York Times Israel’s Netanyahu says suing New York Times over Palestinian rape article Al Jazeera Israel to sue New York Times o…"
+        },
+        {
+          "title": "Israel to sue New York Times over report on sexual abuse of Palestinian inmates",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/14/israel-to-sue-nyt-over-report-on-sexual-abuse-of-palestinian-inmates_6753458_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-14T14:38:10.000Z",
+          "image": "https://img.lemde.fr/2026/05/06/514/0/5400/2700/644/322/60/0/dc80c4c_ftp-1-mp0igpaeztmc-dcdbf4530a424894b88309061dc64ac1-0-68730087efa242d4b85df4802ca27380.jpg",
+          "description": "Israeli authorities said they will sue the American paper after it published an article describing 'a pattern of widespread Israeli sexual violence' on the same day as an independent Israeli report on Hamas sexual abuse on October 7, 2023."
         },
         {
           "title": "Netanyahu says Israel will sue The New York Times over Palestinian prisoner rape allegations",
           "url": "https://www.independent.co.uk/news/world/middle-east/israel-sue-new-york-times-nyt-defamation-idf-b2976917.html",
           "source": "The Independent World",
           "published_at": "2026-05-14T20:14:51.000Z",
-          "image": "https://static.independent.co.uk/2026/05/11/10/2026-05-11T004852Z_1182016822_RC2MTKAAGNAB_RTRMADP_3_USA-ISRAEL-NETANYAHU.jpg?width=1200&auto=webp&crop=3%3A2"
+          "image": "https://static.independent.co.uk/2026/05/11/10/2026-05-11T004852Z_1182016822_RC2MTKAAGNAB_RTRMADP_3_USA-ISRAEL-NETANYAHU.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Netanyahu instructed his legal advisers ‘to consider the harshest legal action’ against the paper"
         },
         {
-          "title": "Israel to sue New York Times over Palestinian prisoner rape allegations (Ryan Mancini/The Hill)",
-          "url": "https://www.memeorandum.com/260514/p88",
-          "source": "memeorandum",
-          "published_at": "2026-05-14T19:00:01.000Z",
-          "image": "http://www.memeorandum.com/260514/i88.jpg"
+          "title": "Netanyahu says Israel will sue The New York Times",
+          "url": "https://www.cbsnews.com/news/netanyahu-says-israel-will-sue-the-new-york-times",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-05-14T20:43:10.000Z",
+          "description": "Israeli Prime Minister Benjamin Netanyahu's government plans to file a defamation lawsuit against The New York Times."
         }
-      ]
+      ],
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said his government plans to sue The New York Times over an article about allegations of sexual abuse of Palestinian prisoners. Netanyahu instructed legal advisers to consider legal action."
     },
     {
-      "id": "topic_4fcd61ad535d7f28",
+      "id": "topic_e5969ee2fb8f1b94",
+      "title": "Denise Powell Wins Democratic Primary in Nebraska’s Second District",
+      "headline": "Denise Powell Wins Democratic Primary in Key Nebraska House Race",
       "label": [
-        "andy burnham",
-        "andy",
-        "burnham",
-        "burnham mak",
-        "mak move",
-        "move"
+        "denise",
+        "nebraska",
+        "powell",
+        "democratic",
+        "primary",
+        "wins"
       ],
       "category": "new",
-      "theme": "theme_4e5c7482733fe36d",
+      "theme": "theme_1f59a0e5fc90be2",
       "entities": [
-        "Andy Burnham",
-        "Keir Starmer",
-        "BBC Newscast",
-        "Is Andy Burnham",
-        "Westminster"
+        "Denise Powell Wins Democratic",
+        "Primary",
+        "Key Nebraska House Race",
+        "Denise Powell",
+        "Democratic"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Andy Burnham makes his move but what does it mean for Keir Starmer?| BBC Newscast",
-          "url": "https://www.youtube.com/watch?v=sUX-g7ItmQg",
-          "source": "BBC News",
-          "published_at": "2026-05-14T21:30:17.000Z",
-          "image": "https://i4.ytimg.com/vi/sUX-g7ItmQg/hqdefault.jpg"
+          "title": "Denise Powell Wins Democratic Primary in Key Nebraska House Race",
+          "url": "https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-05-14T00:14:15.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/13/multimedia/13pol-powell-hfo-blhc/13pol-powell-hfo-blhc-mediumSquareAt3X.jpg",
+          "description": "Denise Powell prevailed in a close primary race for an Omaha-based seat, currently held by a retiring Republican, that could help determine control of the House."
         },
         {
-          "title": "Is Andy Burnham about to return to Westminster? - podcast",
-          "url": "https://www.theguardian.com/politics/audio/2026/may/14/is-andy-burnham-about-to-return-to-westminster-podcast",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-05-14T20:16:31.000Z",
-          "image": "https://i.guim.co.uk/img/media/b51d6af855a3c92a071c5ab7eac875ba26d542d7/188_15_1642_1314/master/1642.jpg?width=140&quality=85&auto=format&fit=max&s=3d35943237c65ae85d179e6fa538666a"
+          "title": "Denise Powell wins Democratic primary for Nebraska's 2nd congressional district",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxnnwn0zmnzzdnjrkhtnvflsfk1betbnwroaw1cd2vjathpu3fxchhhejg5dezitzlidw1vwkrhtkr2thzjd01iqlbomehwnwvhz0fwm01vx3hrmuzzz3e2yvjorl9sr25pvva5x3qwwjrzvwiyn09vs3lwqu9nnlpwcug2ym9yrgpjvghyovq3wjvncki2qku0x3ljalr2z2xgeng2curprej4cy10znc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-14T00:59:31.000Z",
+          "description": "Denise Powell wins Democratic primary for Nebraska's 2nd congressional district NPR Election 2026: Nebraska Congressional Dist. 2 Democratic race called for Denise Powell WOWT Political Organizer Wins Democratic Primary in Key Nebraska House Race The New York Times Takeaways from Nebraska Democrati…"
         },
         {
-          "title": "Andy Burnham makes his move",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nkrkk0",
-          "source": "BBC News",
-          "published_at": "2026-05-14T19:28:00.000Z",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_da9f4efbc764ed12",
-      "label": [
-        "appeal court",
-        "law firm",
-        "appeal",
-        "firm",
-        "law",
-        "order target"
-      ],
-      "category": "new",
-      "theme": "theme_5a2f5786c494f1b8",
-      "entities": [
-        "Appeals",
-        "Trump",
-        "Appeals Court Appears Skeptical",
-        "Trump Orders Targeting Law",
-        "Firms"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
+          "title": "Denise Powell wins Democratic primary in Nebraska’s ‘blue dot’ 2nd District",
+          "url": "https://abcnews.com/politics/wirestory/denise-powell-wins-democratic-primary-nebraskas-blue-dot-132941618",
+          "source": "ABC News: Politics",
+          "published_at": "2026-05-14T11:58:36.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_7df6ec05acc59dc6a1a834b35b3a1e67_4x3_384.jpg",
+          "description": "Denise Powell has won the Democratic primary in Nebraska’s 2nd Congressional District in a contest focused on the state’s “blue dot” status in presidential elections"
+        },
         {
-          "title": "Appeals court weighs Trump crackdown on law firms and security clearance revocations",
-          "url": "https://www.washingtonexaminer.com/news/justice/4569336/appeals-court-weighs-trump-crackdown-law-firms-clearance-revocations",
+          "title": "Denise Powell projected to win Democratic primary in key Nebraska district",
+          "url": "https://www.cbsnews.com/news/nebraska-district-2-results-denise-powell",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-05-14T00:29:44.000Z",
+          "description": "The state's electoral system was a key issue in the 2nd Congressional District primary to replace GOP Rep. Don Bacon."
+        },
+        {
+          "title": "Denise Powell wins Nebraska Democratic primary in race to fill Bacon’s House seat",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4565332/nebraska-house-democratic-primary-results",
           "source": "Washington Examiner",
-          "published_at": "2026-05-14T21:10:30.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/03/perkins-coie.webp?w=594"
-        },
-        {
-          "title": "Appeals Court Appears Skeptical of Trump Orders Targeting Law Firms (Zach Montague/New York Times)",
-          "url": "https://www.memeorandum.com/260514/p85",
-          "source": "memeorandum",
-          "published_at": "2026-05-14T18:45:00.000Z",
-          "image": "http://www.memeorandum.com/260514/i85.jpg"
-        },
-        {
-          "title": "Appeals Court Skeptical of Orders Targeting Law Firms",
-          "url": "https://politicalwire.com/2026/05/14/appeals-court-skeptical-of-orders-targeting-law-firms",
-          "source": "Political Wire",
-          "published_at": "2026-05-14T18:18:37.000Z"
+          "published_at": "2026-05-14T00:26:25.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26133188333373.jpg?w=696",
+          "description": "Political organizer Denise Powell defeated state Sen. John Cavanaugh on Tuesday night in Nebraska‘s high-profile Democratic primary in the race to replace retiring Rep. Don Bacon (R-NE). With roughly 90% of votes counted, Powell narrowly bested Cavanaugh with about 40% of the vote to Cavanaugh’s ro…"
         }
-      ]
+      ],
+      "summary": "Political organizer Denise Powell won the Democratic primary for Nebraska’s 2nd Congressional District, defeating state Senator John Cavanaugh. The race is to replace retiring Republican Representative Don Bacon."
     },
     {
-      "id": "topic_ec7a6cf9c7634f9a",
+      "id": "topic_d049c82f0bd81242",
+      "title": "Beyoncé and Taylor Swift Recordings Join National Recording Registry",
+      "headline": "Beyoncé and Taylor Swift Join National Recording Registry",
       "label": [
-        "blood",
-        "afl",
-        "sydney swan",
-        "swan blood",
-        "blood bring",
-        "bring list"
+        "beyoncé",
+        "swift",
+        "registry",
+        "taylor",
+        "national",
+        "recording"
       ],
       "category": "new",
-      "theme": "theme_aa9856339a236d48",
+      "theme": "theme_ac8549863ecaa3b2",
       "entities": [
-        "Sydney",
-        "Swans",
-        "How Bloods",
-        "AFL"
+        "Beyonc",
+        "Taylor Swift Join National",
+        "Recording Registry",
+        "Taylor Swift",
+        "Weezer Records Added"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Sydney’s Swans: How Bloods are bringing the A-list to the AFL",
-          "url": "https://www.brisbanetimes.com.au/sport/afl/sydney-s-swans-how-bloods-are-bringing-the-a-list-to-the-afl-20260508-p5zv2p.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-14T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.2946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_432/t_crop_custom/q_86%2Cf_auto/e2689d0ef724824029acc961ea5408fb30d63425"
+          "title": "Beyoncé and Taylor Swift Join National Recording Registry",
+          "url": "https://www.nytimes.com/2026/05/14/arts/music/national-recording-registry-beyonce-taylor-swift.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-14T09:05:11.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/13/multimedia/13cul-recording-registry-vmtp/13cul-recording-registry-vmtp-mediumSquareAt3X.jpg",
+          "description": "The collection at the Library of Congress also added works by Weezer and Vince Gill, and a radio broadcast of a fight between Muhammad Ali and Joe Frazier."
         },
         {
-          "title": "Sydney’s Swans: How Bloods are bringing the A-list to the AFL",
-          "url": "https://www.smh.com.au/sport/afl/sydney-s-swans-how-bloods-are-bringing-the-a-list-to-the-afl-20260508-p5zv2p.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-14T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.2946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_432/t_crop_custom/q_86%2Cf_auto/e2689d0ef724824029acc961ea5408fb30d63425"
+          "title": "Beyoncé, Taylor Swift, and Weezer Records Added to National Recording Registry",
+          "url": "https://pitchfork.com/news/beyonce-taylor-swift-and-weezer-records-added-to-national-recording-registry",
+          "source": "RSS: News",
+          "published_at": "2026-05-14T13:21:53.000Z",
+          "image": "https://media.pitchfork.com/photos/6a05d156e3f6efc518636e59/master/pass/16UMGIM52971.rgb.jpg",
+          "description": "The Library of Congress also inducted music by the Go-Go’s, Chaka Khan, and Jamie Principle and Frankie Knuckles"
         },
         {
-          "title": "Sydney’s Swans: How Bloods are bringing the A-list to the AFL",
-          "url": "https://www.theage.com.au/sport/afl/sydney-s-swans-how-bloods-are-bringing-the-a-list-to-the-afl-20260508-p5zv2p.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-14T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.2946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_432/t_crop_custom/q_86%2Cf_auto/e2689d0ef724824029acc961ea5408fb30d63425"
+          "title": "Beyonce, Taylor Swift, Weezer Recordings Enter Library of Congress’ National Registry",
+          "url": "https://www.rollingstone.com/music/music-news/beyonce-taylor-swift-weezer-national-recording-registry-1235562555",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-14T14:06:29.000Z",
+          "description": "The Go-Go's, Stevie Ray Vaughan, Chaka Khan, \"Mambo No. 5,\" and the soundtrack for the video game Doom also added as part of 2026 class"
+        },
+        {
+          "title": "Taylor Swift’s 1989 and Beyoncé’s Single Ladies among 25 recordings inducted into Library of Congress National Recording Registry",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swifts-1989-and-beyonces-single-ladies-among-25-recordings-inducted-into-library-of-congress-national-recording-registry",
+          "source": "Music Business Worldwide",
+          "published_at": "2026-05-14T16:50:17.000Z",
+          "description": "Other inductees include The Go-Go's' debut album Beauty and the Beat, Weezer's self-titled Blue Album, Chaka Khan's I Feel for You and others Source"
+        },
+        {
+          "title": "Taylor Swift, Beyoncé, and Weezer Among Recordings Added to Library of Congress’ National Registry",
+          "url": "https://consequence.net/2026/05/national-recording-registry-2026-taylor-swift-beyonce-weezer",
+          "source": "Consequence",
+          "published_at": "2026-05-14T14:14:49.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/national-recording-registry-2026-taylor-beyonce-weezer.jpeg?quality=80",
+          "description": "Recordings by The Go-Go's, Rosanne Cash, Chaka Khan, Ray Charles, and José Feliciano were also archived by the Library of Congress. Taylor Swift, Beyoncé, and Weezer Among Recordings Added to Library of Congress’ National Registry Eddie Fu"
         }
-      ]
+      ],
+      "summary": "The Library of Congress added recordings by Beyoncé, Taylor Swift and Weezer to its National Recording Registry. Other inductees include works by the Go-Go’s, Chaka Khan and additional artists."
     },
     {
-      "id": "topic_42865a79ac4af551",
+      "id": "topic_827919a6630694d6",
+      "title": "Medical Emergency Interrupts CBS Evening News Broadcast",
+      "headline": "CBS Evening News cameraman collapses in apparent ‘medical emergency’ during live broadcast",
       "label": [
-        "boost",
-        "2035",
-        "minda",
-        "vision 2035",
-        "2035 boost",
-        "boost minda"
+        "cbs",
+        "evening",
+        "emergency",
+        "medical",
+        "broadcast",
+        "cameraman"
       ],
       "category": "new",
-      "theme": "theme_6f05df4025ec597d",
+      "theme": "theme_f56b76061f7aa9f",
       "entities": [
-        "Vision",
-        "Minda",
-        "Arkansas",
-        "Boost"
+        "CBS Evening News",
+        "Alarm",
+        "OFF AIR",
+        "Taiwan",
+        "CBS News Says Cameraman"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Vision 2035 boosts Minda",
-          "url": "https://www.sunstar.com.ph/davao/business/vision-2035-boosts-minda",
-          "source": "sunstar",
-          "published_at": "2026-05-14T21:10:25.076Z"
+          "title": "CBS Evening News cameraman collapses in apparent ‘medical emergency’ during live broadcast",
+          "url": "https://nypost.com/2026/05/13/us-news/cbs-evening-news-cameraman-collapses-in-apparent-medical-emergency-during-live-broadcast",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-14T03:17:15.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Ftony-dokoupil-1.jpg?w%3D1024",
+          "description": "\"You will hear a lot about the rise of a powerful new China -- is he okay?\" Dokoupil asked halfway through his introduction while the rest of the stunned crew stayed silent."
         },
         {
-          "title": "Arkansas reinstates tennis with boost in funding",
-          "url": "https://www.espn.com/tennis/story/_/id/48771214/arkansas-reinstates-tennis-programs-short-term-funding",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-05-14T20:50:41.000Z"
+          "title": "5/14: CBS Evening News",
+          "url": "https://www.cbsnews.com/video/051426-cbs-evening-news",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-05-14T22:30:00.000Z",
+          "description": "Trump and Xi Jinping finish their first day of the high-stakes Beijing summit; Russia launches a massive aerial attack on Kyiv."
         },
         {
-          "title": "[Boost]",
-          "url": "https://dev.to/adarshgoyal/-295o",
-          "source": "DEV Community",
-          "published_at": "2026-05-14T18:46:32.000Z",
-          "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F251582%2F443f776f-8a81-4a3b-b8dc-1381d83eb1c5.jpg"
+          "title": "Alarm as CBS Evening News is forced OFF AIR during live broadcast from Taiwan after 'medical emergency'",
+          "url": "https://www.dailymail.com/media/article-15815425/cbs-news-taiwan-trump-china.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-14T02:02:29.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/13/23/108591919-0-image-a-10_1778711915208.jpg",
+          "description": "The network was forced to cut away from its news flagship program tonight as President Trump prepares for talks in Beijing with China's President Xi."
+        },
+        {
+          "title": "CBS News Says Cameraman “Okay And Recovering” After Medical Emergency Interrupts Live ‘Evening News’ Broadcast From Taiwan",
+          "url": "https://deadline.com/2026/05/cbs-evening-news-cameraman-medical-emergency-1236902142",
+          "source": "Deadline",
+          "published_at": "2026-05-14T00:11:36.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-7.40.57 PM.jpeg",
+          "description": "CBS News said that a cameraman is “okay and recovering” after he suffered a media emergency during a live broadcast of CBS Evening News from Taiwan. Anchor Tony Dokoupil was toward the end of the broadcast when he stopped and said, “Is he OK? We’re going to take a quick break. We have a medical […]"
+        },
+        {
+          "title": "Breaking News: CBS Cameraman’s Sudden Medical Emergency Shocks Viewers",
+          "url": "https://internewscast.com/news/breaking-news-cbs-cameramans-sudden-medical-emergency-shocks-viewers",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-14T01:50:23.000Z",
+          "description": "Internewscast Journal Internewscast A CBS News camera operator experienced a medical emergency on-air, which disrupted… This Post: Breaking News: CBS Cameraman’s Sudden Medical Emergency Shocks Viewers first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "A CBS News cameraman experienced a medical emergency during a live Evening News broadcast from Taiwan, prompting the program to cut away. CBS said he was recovering."
     },
     {
-      "id": "topic_9ed92de37aae75ea",
+      "id": "topic_b98330730524737",
+      "title": "Storms Kill Dozens in India’s Uttar Pradesh",
+      "headline": "Over 100 killed as storm hits India's Uttar Pradesh state",
       "label": [
-        "da",
-        "igualdade",
-        "da igualdade",
-        "igualdade salarial",
-        "lei",
-        "salarial"
+        "uttar",
+        "pradesh",
+        "storm",
+        "killed",
+        "rain",
+        "heavy"
       ],
       "category": "new",
-      "theme": "theme_7eb0bf10dcccecda",
+      "theme": "theme_a163eb3622f46140",
       "entities": [
-        "STF",
-        "Lei",
-        "Igualdade Salarial",
-        "Moraes"
+        "India",
+        "Uttar Pradesh",
+        "Killed As Heavy Rain",
+        "Storm Hit Uttar Pradesh",
+        "Dead In Prayagraj"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Lei da Igualdade Salarial é constitucional e empresa deve publicar relatório com salários; vota Moraes no STF",
-          "url": "https://jornaldebrasilia.com.br/noticias/economia/lei-da-igualdade-salarial-e-constitucional-e-empresa-deve-publicar-relatorio-com-salarios-vota-moraes-no-stf",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-05-14T19:42:11.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/09/02120710/alexandre-de-moraes-scaled.jpg"
+          "title": "Over 100 killed as storm hits India's Uttar Pradesh state",
+          "url": "https://news.sky.com/story/over-100-killed-as-storm-hits-indias-uttar-pradesh-state-13543835",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-14T06:27:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-prayagraj-dust-india_7248287.jpg?20260514073700",
+          "description": "Over 100 people have been killed in a violent storm in Uttar Pradesh, India's most populous state."
         },
         {
-          "title": "Lei da Igualdade Salarial � constitucional e empresa deve publicar relat�rio com sal�rios; vota Moraes no STF",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/lei-da-igualdade-salarial-e-constitucional-e-empresa-deve-publicar-relatorio-com-salarios-vota-moraes-no-stf.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-05-14T19:03:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_f70b28c062671a50",
-      "label": [
-        "dharmendra",
-        "pradhan",
-        "dharmendra pradhan",
-        "pradhan chair",
-        "neet",
-        "exam"
-      ],
-      "category": "new",
-      "theme": "theme_b59abc85412b2f0f",
-      "entities": [
-        "Amid NEET Paper Leak",
-        "Row",
-        "Dharmendra Pradhan Chairs",
-        "Meeting On Re",
-        "Exam"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
+          "title": "89 killed in heavy rain-related incidents in Uttar Pradesh",
+          "url": "https://scroll.in/latest/1092861/89-killed-in-heavy-rain-related-incidents-in-uttar-pradesh",
+          "source": "Scroll.in",
+          "published_at": "2026-05-14T09:41:17.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/32563-ujltbyatfw-1583495485.jpg",
+          "description": "More than 50 persons were injured and 87 hours were damaged on Wednesday."
+        },
         {
-          "title": "Amid NEET Paper Leak Row, Dharmendra Pradhan Chairs 1st Meeting On Re-Exam",
-          "url": "https://www.ndtv.com/india-news/amid-neet-paper-leak-row-dharmendra-pradhan-chairs-1st-meeting-on-re-exam-11497390",
+          "title": "100 Killed As Heavy Rain, Storm Hit Uttar Pradesh; 21 Dead In Prayagraj",
+          "url": "https://www.ndtv.com/india-news/up-weather-up-rain-news-up-storm-100-killed-as-heavy-rain-storm-hit-uttar-pradesh-21-dead-in-prayagraj-11494594",
           "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-14T19:41:45.000Z",
-          "image": "https://c.ndtvimg.com/2026-01/rpom978s_dharmendra-pradhan_625x300_27_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+          "published_at": "2026-05-14T10:50:53.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/2cc5ecp_prayagraj-storm_625x300_14_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "The weather changed suddenly last evening, with clouds of dust covering large parts of Uttar Pradesh."
         },
         {
-          "title": "Union Education Minister Dharmendra Pradhan Chairs High-Level Review Meeting On Fresh NEET UG Exam Conduct Amid Paper Leak Row",
-          "url": "https://www.freepressjournal.in/education/union-education-minister-dharmendra-pradhan-chairs-high-level-review-meeting-on-fresh-neet-ug-exam-conduct-amid-paper-leak-row",
-          "source": "Free Press Journal",
-          "published_at": "2026-05-14T18:35:51.000Z",
-          "image": "https://media.assettype.com/freepressjournal/2026-05-14/6n6u9j3x/HINFHA-bQAALKLp.jfif"
+          "title": "Over 100 People Killed in India’s Uttar Pradesh as Storms Wreak Destruction",
+          "url": "https://www.nytimes.com/2026/05/14/world/asia/india-storms-deaths-uttar-pradesh.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-05-14T12:47:05.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14INT-INDIA-STORM-zthk/14INT-INDIA-STORM-zthk-mediumSquareAt3X.jpg",
+          "description": "The deaths were scattered across a swath of India’s most populous state, Uttar Pradesh, where many homes were destroyed."
         },
         {
-          "title": "NEET-UG row: Dharmendra Pradhan chairs key meeting on re-exam, paper leak",
-          "url": "https://www.indiatoday.in/education-today/story/high-level-meet-at-education-minister-dharmendra-pradhans-home-to-review-neet-retest-plan-2911991-2026-05-15",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-14T18:30:54.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/neet-ug-exam-cancelled-due-to-paper-leak-allegations-132411115-16x9_1.png?VersionId=6yGqNIFBb1.asa5ZmkT9WhKFkpWCfmZl"
+          "title": "89 killed as fierce storm and heavy rain batter multiple districts in Uttar Pradesh",
+          "url": "https://timesofindia.indiatimes.com/india/89-killed-as-thunderstorm-batters-uttar-pradesh/articleshow/131083131.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-14T05:12:26.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131083112,imgsize-1914842.cms",
+          "description": "Powerful thunderstorms, lightning, and strong winds have claimed at least 89 lives across Uttar Pradesh. The devastating storms, which lasted for hours, also injured 53 people and killed 114 animals. Widespread destruction of homes and property was reported, with collapsing walls and falling trees…"
         }
-      ]
+      ],
+      "summary": "Severe storms and heavy rain struck multiple districts in Uttar Pradesh, killing at least 89 people according to some reports and more than 100 according to others. Reports also described injuries and damage to homes."
+    },
+    {
+      "id": "topic_dc10aa829e32ba52",
+      "title": "Cisco Warns of Active Exploitation of SD-WAN Vulnerability",
+      "headline": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
+      "label": [
+        "catalyst",
+        "cisco",
+        "wan",
+        "sd",
+        "manager",
+        "controller"
+      ],
+      "category": "new",
+      "theme": "theme_e29fe1aaa4ddda6b",
+      "entities": [
+        "Ongoing",
+        "Cisco Catalyst SD",
+        "WAN",
+        "WAN Controller Authentication Bypass",
+        "VulnerabilityMay"
+      ],
+      "article_count": 16,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
+          "url": "https://malware.news/t/ongoing-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities/107016",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-05-14T17:16:03.000Z",
+          "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/05/threat-advisory.jpg",
+          "description": "Cisco Talos is tracking the active exploitation of CVE-2026-20182, an authentication bypass vulnerability in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage. Successful exploitation of CVE-2026-20182 allows an unauthenticated, rem…"
+        },
+        {
+          "title": "Cisco Catalyst SD-WAN Controller Authentication Bypass VulnerabilityMay 2026:...",
+          "url": "https://cve.threatint.eu/cve/cve-2026-20182",
+          "source": "CVE: New",
+          "published_at": "2026-05-14T16:08:25.000Z",
+          "description": "May 2026: This security advisory provides the details and fix information for a vulnerability that was discovered and fixed after the was disclosed in February 2026. This new advisory is for a new ..."
+        },
+        {
+          "title": "CVE-2026-20182: Critical authentication bypass in Cisco Catalyst SD-WAN Controller (FIXED)",
+          "url": "https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed",
+          "source": "Rapid7 Cybersecurity Blog",
+          "published_at": "2026-05-14T16:00:00.000Z",
+          "image": "https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt65a432ba319f4043/6846abddaf18306debe6cf4d/ETR.webp",
+          "description": "Overview While researching a critical authentication bypass vulnerability, CVE-2026-20127, which was exploited in-the-wild, Rapid7 Labs discovered a new authentication bypass vulnerability affecting Cisco Catalyst SD-WAN Controller (formerly known as vSmart), CVE-2026-20182. This new authentication…"
+        },
+        {
+          "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+          "url": "https://buaq.net/go-416715.html",
+          "source": "unSafe.sh - 不安全",
+          "published_at": "2026-05-14T23:05:46.000Z",
+          "description": "Multiple critical authentication bypass vulnerabilities in Cisco Catalyst SD-WAN Controller and Mana"
+        },
+        {
+          "title": "CVE-2026-20182 | Cisco Catalyst SD-WAN Manager up to 20.3.2 improper authentication (cisco-sa-sdwan-rpa2-v69WY2SW)",
+          "url": "https://vuldb.com/vuln/363906",
+          "source": "VulDB Recent Entries",
+          "published_at": "2026-05-14T17:24:53.000Z",
+          "description": "A vulnerability has been found in Cisco Catalyst SD-WAN Manager and classified as critical. This vulnerability affects unknown code. The manipulation leads to improper authentication. This vulnerability is referenced as CVE-2026-20182. Remote exploitation of the attack is possible. No exploit is av…"
+        }
+      ],
+      "summary": "Security researchers and Cisco are tracking active exploitation of CVE-2026-20182, a critical authentication-bypass vulnerability affecting Cisco Catalyst SD-WAN products. Cisco has issued a security advisory with fix information."
+    },
+    {
+      "id": "topic_8bb8491fccca4ff5",
+      "title": "Australian Court Rules Coles Misled Shoppers With Discounts",
+      "headline": "Court rules Coles misled shoppers",
+      "label": [
+        "misled",
+        "coles",
+        "shoppers",
+        "court",
+        "discounts",
+        "rules"
+      ],
+      "category": "new",
+      "theme": "theme_5854155efc67c37",
+      "entities": [
+        "Court",
+        "Coles",
+        "Down Down",
+        "Australian",
+        "Major Aussie"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Court rules Coles misled shoppers",
+          "url": "https://www.brisbanetimes.com.au/national/court-rules-coles-misled-shoppers-20260514-p5zwta.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-14T01:41:44.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c17ddfb474dce2273361c6c22e43f3bbde86a216",
+          "description": "The Federal Court has found Coles' discounts were fake and misled customers."
+        },
+        {
+          "title": "Court rules Coles misled shoppers with its ‘Down Down’ discount campaign",
+          "url": "https://www.theguardian.com/australia-news/2026/may/14/accc-v-coles-down-down-federal-court-case",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-14T01:00:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/3bb19c9072f7d60400df0fa239a57b728e187906/1117_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=e3022a9808888df8c324d7c3dd0f017b",
+          "description": "Landmark finding against supermarket giant comes after competition watchdog argued that markdowns did not represent genuine savings Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Coles misled Australian shoppers by promoting fake “…"
+        },
+        {
+          "title": "Australian court finds grocery giant Coles misled shoppers over discounts",
+          "url": "https://www.investing.com/news/stock-market-news/australian-court-finds-grocery-chain-coles-misled-shoppers-in-discount-lawsuit-4686975",
+          "source": "All News",
+          "published_at": "2026-05-14T00:49:00.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D00G_L.jpg"
+        },
+        {
+          "title": "Australian giant Coles misled shoppers with fake discounts, court rules",
+          "url": "https://www.bbc.com/news/articles/c202159x6x3o",
+          "source": "BBC News",
+          "published_at": "2026-05-14T03:09:20.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f350/live/bf883490-4f3d-11f1-b010-590460292038.jpg",
+          "description": "The decision, which comes amid similar case against Woolworths, could mean significant penalties."
+        },
+        {
+          "title": "Coles 'illusory' discounts misled shoppers, court rules",
+          "url": "https://www.businessnews.com.au/article/coles-illusory-discounts-misled-shoppers-court-rules",
+          "source": "Business News - Latest Headlines",
+          "published_at": "2026-05-14T00:26:33.000Z",
+          "image": "https://www.businessnews.com.au/sites/default/files/2026-05/IMG_8491.jpeg",
+          "description": "Coles misled shoppers with illusory discounts, a court has ruled after a landmark case brought by the consumer watchdog."
+        }
+      ],
+      "summary": "Australia’s Federal Court found supermarket chain Coles misled shoppers with discounts in its “Down Down” campaign, ruling that the advertised markdowns did not represent genuine savings."
+    },
+    {
+      "id": "topic_713f1683bfc3e6ef",
+      "title": "Philippine Senator Wanted by ICC Flees Senate",
+      "headline": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+      "label": [
+        "flees",
+        "philippine",
+        "wanted",
+        "senate",
+        "senator",
+        "criminal"
+      ],
+      "category": "new",
+      "theme": "theme_fbaf8ee2e9daca90",
+      "entities": [
+        "Philippine",
+        "International Criminal Court",
+        "Senate",
+        "AP News",
+        "NBC News"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+          "url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
+          "source": "NPR Topics: World",
+          "published_at": "2026-05-14T13:29:47.000Z",
+          "description": "A police investigation is underway in the Philippines, with suspicions that the incident was staged to help Sen. Ronald dela Rosa escape."
+        },
+        {
+          "title": "Philippine senator wanted by the International Criminal Court flees from Senate",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxpampybhlwowjoc0k0a0xpmeeyetbvse8wz3notffkrfnyznrzzgxuufdswvj1dw1hnkcytmjeywvdrkzoqm92v09sutaxmnp6u0vbq1purc1butjwvny3ndboofninlrsbkvfwletstvrrllod016twpotvhrx3hibxfpb1owsg9mlvzdc2yzb3bbuufnm0poawnicu5ju1luamfz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-14T23:53:00.000Z",
+          "description": "Philippine senator wanted by the International Criminal Court flees from Senate AP News Philippine politician wanted by ICC flees senate after days holed up in building The Guardian Arrest Warrant for Philippine Senator Sparks Dramatic Cat-and-Mouse Game WSJ Chaos in Philippines Senate as Duterte A…"
+        },
+        {
+          "title": "Philippines senator wanted by the International Criminal Court flees from Senate",
+          "url": "https://www.thehindu.com/news/international/philippines-senator-wanted-by-the-international-criminal-court-flees-from-senate/article70978023.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-14T13:00:16.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/sfqhbj/article70978231.ece/alternates/LANDSCAPE_1200/AFP_B2TW3WF.jpg",
+          "description": "A Philippines senator wanted by the International Criminal Court (ICC) reportedly fled from Senate, sparking political controversy"
+        },
+        {
+          "title": "Philippine senator wanted by ICC flees from Senate",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353591/philippine-senator-wanted-icc-flees-senate",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-14T12:09:50.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/14/6c9e6f70-5023-49c3-824d-e8885becff24_ccaf0402.jpg?itok=dcdQGx7c&v=1778760589",
+          "description": "A Philippine senator wanted by the International Criminal Court for an alleged crime against humanity has fled from the Senate, where he sought refuge to evade arrest, officials said on Thursday. Senator Ronald dela Rosa’s exit from the heavily guarded Senate came after volleys of gunshots were fir…"
+        },
+        {
+          "title": "Philippine politician wanted by ICC flees Senate",
+          "url": "https://www.aljazeera.com/news/2026/5/14/philippine-politician-wanted-by-icc-flees-senate",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-14T08:05:51.000Z",
+          "description": "Senate president says Senator Ronald 'Bato' dela Rosa 'no longer in the building' where he had taken refuge."
+        }
+      ],
+      "summary": "Senator Ronald “Bato” dela Rosa, who is wanted by the International Criminal Court, reportedly left the Philippine Senate, where he had taken refuge. The circumstances of his departure are under investigation."
     }
   ]
 }

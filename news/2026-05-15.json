@@ -1,760 +1,912 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-16T00:15:18.955Z",
+  "generated_at": "2026-09-27T13:54:39.699Z",
   "topics": [
     {
-      "id": "topic_1845c5d6831f5d2d",
+      "id": "topic_cce65fb0847ea2dd",
+      "title": "Weinstein Rape Retrial Ends in Mistrial After Jury Deadlock",
+      "headline": "Judge declares mistrial in Harvey Weinstein's rape retrial after jury deadlocked",
       "label": [
-        "sans verdict",
-        "proc",
-        "verdict",
-        "nouveau",
-        "sans",
-        "nouveau proc"
+        "mistrial",
+        "weinstein",
+        "harvey",
+        "rape",
+        "jury",
+        "declares"
       ],
       "category": "new",
-      "theme": "theme_4c5a7933db1c84d9",
+      "theme": "theme_b1ede2c9315606f8",
       "entities": [
-        "Affaire Harvey Weinstein",
-        "New York",
-        "Un",
-        "Harvey Weinstein"
+        "Judge",
+        "Harvey Weinstein",
+        "AP News",
+        "Harvey Weinstein Rape Case",
+        "Ends"
       ],
-      "article_count": 25,
-      "source_count": 14,
+      "article_count": 33,
+      "source_count": 31,
       "articles": [
         {
-          "title": "Affaire Harvey Weinstein : un nouveau procès pour viol s'achève sans verdict à New York",
-          "url": "https://www.franceinfo.fr/culture/cinema/affaire-harvey-weinstein/affaire-harvey-weinstein-un-nouveau-proces-pour-viol-s-acheve-sans-verdict-a-new-york_8006531.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-15T20:50:38.000Z",
-          "image": "https://www.franceinfo.fr/pictures/vYqazoHOBJeL3o3am8Q1DQGxgho/0x29:1024x605/432x243/filters:format(jpg)/2026/05/15/6a07870755800423649779.jpg"
+          "title": "Judge declares mistrial in Harvey Weinstein's rape retrial after jury deadlocked",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-05-15/harvey-weinsteins-rape-retrial-has-been-declared-mistrial-by-judge",
+          "source": "World & Nation",
+          "published_at": "2026-05-15T20:09:34.000Z",
+          "description": "A New York judge declared a mistrial in disgraced movie mogul Harvey Weinstein's rape case in its third trial, after a jury said \"no one is going to change where they stand.\""
         },
         {
-          "title": "Un nouveau procès pour viol contre le producteur américain Harvey Weinstein se termine sans verdict",
-          "url": "https://www.ouest-france.fr/cinema/affaire-harvey-weinstein/un-nouveau-proces-pour-viol-contre-le-producteur-americain-harvey-weinstein-se-termine-sans-verdict-3b849476-5092-11f1-bdc7-d41f8cb55a03",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-15T19:25:20.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1MDFiOWFjZWE5NjUzMDdhMmFhOTE0MDQyYTNjODI0MDY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b90054eefb39153d1baeda28a1f990b0f94d8433212409cef59234d8a349ce44"
-        },
-        {
-          "title": "Harvey Weinstein: un nouveau procès pour viol se conclut sans verdict à New York",
-          "url": "https://www.dhnet.be/actu/monde/2026/05/15/harvey-weinstein-un-nouveau-proces-pour-viol-se-conclut-sans-verdict-a-new-york-hswp3mkn2vbjzffcodpeiddf3a",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-05-15T19:14:29.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/DJPQMHWSPJHRJNDBFNV6MC2E4A.jpg?auth=836d4e26c4103027ba7d9732cc3715830ea68c948e319a2e564ce7ed0e23f10d&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Harvey Weinstein : un nouveau procès pour viol se conclut sans verdict à New York",
-          "url": "https://www.sudouest.fr/justice/harvey-weinstein-un-nouveau-proces-pour-viol-se-conclut-sans-verdict-a-new-york-29082417.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-15T18:46:10.000Z"
-        },
-        {
-          "title": "Harvey Weinstein à nouveau devant la justice : un procès à New York se conclut sans verdict",
-          "url": "https://www.rtbf.be/article/harvey-weinstein-a-nouveau-devant-la-justice-un-proces-a-new-york-se-conclut-sans-verdict-11724742",
-          "source": "- Info",
-          "published_at": "2026-05-15T17:54:36.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/8/a/b/c64e0285bad307bf47d8701f87455bce.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_eeb647c363409c5d",
-      "label": [
-        "texa",
-        "detransition",
-        "clinic",
-        "detransition clinic",
-        "children",
-        "hospital"
-      ],
-      "category": "new",
-      "theme": "theme_ce8e9eb080967b1",
-      "entities": [
-        "Media Statement",
-        "Texas Children",
-        "Texas",
-        "Hospital",
-        "Texas Hospital"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Media Statement — Texas Children's mission is to create a healthier future for women and children across Texas and the world. (Texas Children's)",
-          "url": "https://www.memeorandum.com/260515/p102",
-          "source": "memeorandum",
-          "published_at": "2026-05-15T22:40:01.000Z",
-          "image": "http://www.memeorandum.com/img/pml.png"
-        },
-        {
-          "title": "Texas Children’s Hospital to launch ‘detransition clinic’ as part of settlement",
-          "url": "https://www.ms.now/news/texas-childrens-hospital-to-launch-detransition-clinic-as-part-of-settlement",
-          "source": "MS NOW",
-          "published_at": "2026-05-15T20:09:12.000Z"
-        },
-        {
-          "title": "Texas Hospital to Open Nation’s First ‘Detransition Clinic’ After Settlement for Transgender Treatment",
-          "url": "https://www.rollingstone.com/culture/culture-news/texas-hospital-detransition-clinic-settlement-transgender-1235563632",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-15T18:56:12.000Z"
-        },
-        {
-          "title": "Texas hospital to launch youth ’detransition clinic,’ fire doctors to settle probe",
-          "url": "https://www.investing.com/news/world-news/texas-hospital-to-launch-youth-detransition-clinic-fire-doctors-to-settle-state-probe-4693036",
-          "source": "All News",
-          "published_at": "2026-05-15T17:54:28.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E162_L.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ca3f60792d66cfba",
-      "label": [
-        "honneur",
-        "palme honneur",
-        "palme",
-        "festival de",
-        "de cann",
-        "travolta"
-      ],
-      "category": "new",
-      "theme": "theme_de78f5d32763775b",
-      "entities": [
-        "Au Festival",
-        "Cannes",
-        "John Travolta",
-        "Palme",
-        "Festival"
-      ],
-      "article_count": 7,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Au Festival de Cannes 2026, John Travolta était tout étonné de recevoir une Palme d’Or d’honneur",
-          "url": "https://www.huffingtonpost.fr/culture/video/au-festival-de-cannes-2026-john-travolta-etait-tout-etonne-de-recevoir-une-palme-d-or-d-honneur_263764.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-05-15T19:36:18.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/05/15/0/0/1920/1080/0/0/60/0/2a4cf25_upload-1-zyp49ln90ffd-travolta.jpg"
-        },
-        {
-          "title": "Festival de Cannes : Palme d’or d’honneur surprise pour un très ému John Travolta, icône du cool hollywoodien",
-          "url": "https://www.rtbf.be/article/festival-de-cannes-palme-d-or-d-honneur-surprise-pour-un-tres-emu-john-travolta-icone-du-cool-hollywoodien-11724764",
-          "source": "- Info",
-          "published_at": "2026-05-15T19:04:52.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/c/3/3/ddee3384ea3e73818fe7b7f75bea49e1.jpg"
-        },
-        {
-          "title": "Festival de Cannes. Palme d'or d'honneur surprise à Travolta, Farhadi condamne les bombardements, Cotillard et Canet sur le tapis rouge... Résumé du 15 mai",
-          "url": "https://www.franceinfo.fr/france/provence-alpes-cote-d-azur/festival-de-cannes-palme-d-or-d-honneur-surprise-a-travolta-farhadi-condamne-les-bombardements-cotillard-et-canet-sur-le-tapis-rouge-resume-du-15-mai_8006417.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-15T17:55:08.000Z",
-          "image": "https://www.franceinfo.fr/pictures/F_zBLwxCltaZDrkvAJrDRwGe3zo/0x48:930x572/432x243/filters:format(jpg)/2026/05/15/6a075dfb9a2d3212613330.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_79400c856ad03a57",
-      "label": [
-        "salarial",
-        "salarial del",
-        "sep",
-        "maestro",
-        "anuncia sep",
-        "sep aumento"
-      ],
-      "category": "new",
-      "theme": "theme_1a8aab04b7dddb35",
-      "entities": [
-        "Anuncia SEP",
-        "Maestros",
-        "SEP",
-        "Sheinbaum",
-        "Mario Delgado"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Anuncia SEP aumento salarial del 9% a maestros",
-          "url": "https://www.elnorte.com/anuncia-sep-aumento-salarial-del-9-a-maestros/ar3205013",
-          "source": "ElNorte",
-          "published_at": "2026-05-15T18:24:15.000Z"
-        },
-        {
-          "title": "Anuncia SEP aumento salarial del 9 por ciento a maestros",
-          "url": "https://www.reforma.com/anuncia-sep-aumento-salarial-del-9-por-ciento-a-maestros/ar3205003",
-          "source": "Reforma",
-          "published_at": "2026-05-15T18:23:43.000Z"
-        },
-        {
-          "title": "Maestros de la SEP recibirán incremento salarial del 9%, anuncian Sheinbaum y Mario Delgado",
-          "url": "https://vanguardia.com.mx/noticias/maestros-de-la-sep-recibiran-incremento-salarial-del-9-anuncian-sheinbaum-y-mario-delgado-ke20719245",
-          "source": "Vanguardia",
-          "published_at": "2026-05-15T17:57:50.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/maestros-incremento-salario_1-15432045_20260515175526.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_9b952aefcf8a6db8",
-      "label": [
-        "tren",
-        "aragua",
-        "tren de",
-        "de aragua",
-        "terrorism charg",
-        "terrorism"
-      ],
-      "category": "new",
-      "theme": "theme_ff8d72a3e438887a",
-      "entities": [
-        "Tren",
-        "Aragua Member Faces Historic",
-        "Terrorism Charges",
-        "Houston Court After US",
-        "Extradition"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Tren de Aragua Member Faces Historic Terrorism Charges in Houston Court After US Extradition",
-          "url": "https://internewscast.com/news/us/tren-de-aragua-member-faces-historic-terrorism-charges-in-houston-court-after-us-extradition",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-15T19:21:32.000Z"
-        },
-        {
-          "title": "First Tren de Aragua gang member extradited to US on historic terrorism charges appears before Houston judge",
-          "url": "https://www.foxnews.com/us/first-tren-de-aragua-gang-member-extradited-us-historic-terrorism-charges-appears-houston-judge",
+          "title": "Harvey Weinstein rape trial ends in mistrial after jury deadlocked",
+          "url": "https://www.foxnews.com/entertainment/harvey-weinstein-rape-trial-ends-mistrial-after-jury-deadlocked",
           "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-15T18:43:42.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/kash-patel.png?ve=1&tl=1"
+          "published_at": "2026-05-15T17:33:16.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/harvey-weinstein.jpg?ve=1&tl=1",
+          "description": "A jury was unable to reach a verdict in Harvey Weinstein's rape retrial, leading the judge to declare a mistrial Friday. The case was concerning the alleged 2013 rape of Jessica Mann."
         },
         {
-          "title": "In first known transfer Tren de Aragua member from Colombia, DOJ brings suspected leader to US on terrorism charges",
-          "url": "https://www.washingtonexaminer.com/news/justice/4570222/tren-de-aragua-leader-terrorism-charges",
+          "title": "Judge declares a mistrial in Harvey Weinstein’s rape retrial",
+          "url": "https://globalnation.inquirer.net/323258/judge-declares-a-mistrial-in-harvey-weinsteins-rape-retrial",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-15T22:12:57.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/05/AP26135595806774-620x413.jpg",
+          "description": "NEW YORK — Jurors deadlocked in Harvey Weinstein ’s rape retrial Friday, forcing another mistrial in a #MeToo-era case that has gone to trial three times so far. While the former Hollywood mogul has been convicted of other sex crimes on two U.S. coasts and remains behind bars, the mistrial leaves t…"
+        },
+        {
+          "title": "Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury says it is deadlocked",
+          "url": "https://news.google.com/rss/articles/cbmitafbvv95cuxqmxq1ejb1dknoawtemkdnmmx3ekxtnk5ryxbhc1vynndrrupravlvbnjmefvivkfawdlvownxdhhwd3r3s0o0uufzmelodefysf9ot0yxnvjjc2vtrxzoss02cgwzehizcwjzchnkvxlhugv6umjizkhseepidmductgzyunvyjjewuxoafffny03zlhns0f4tkzdeflawutfnwpsdxrhn3nnvtldsjnzbhnznng",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-15T17:30:00.000Z",
+          "description": "Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury says it is deadlocked AP News Judge Declares Mistrial in Weinstein Rape Trial The New York Times Harvey Weinstein’s New York retrial ends in mistrial with jury deadlocked The Guardian Judge declares mistrial in Harvey Weinstein…"
+        },
+        {
+          "title": "Harvey Weinstein’s rape retrial ends in mistrial after jury deadlock",
+          "url": "https://www.washingtonexaminer.com/news/justice/4570785/harvey-weinstein-rape-retrial-end-mistrial-jury-deadlock",
           "source": "Washington Examiner",
-          "published_at": "2026-05-15T17:57:19.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26117737667322.jpg?w=696"
+          "published_at": "2026-05-15T19:00:13.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26135582916930.jpg?w=696",
+          "description": "The rape retrial of former Hollywood powerhouse Harvey Weinstein ended Friday in a mistrial after jurors told the court they were unable to reach a unanimous decision. It is the second time a jury has failed to resolve the specific allegation that Weinstein raped Jessica Mann, an aspiring actress.…"
         }
-      ]
+      ],
+      "summary": "A New York judge declared a mistrial after jurors could not reach a unanimous verdict in Harvey Weinstein’s rape retrial, concerning an alleged 2013 rape."
     },
     {
-      "id": "topic_5583c50398afe3d1",
-      "label": [
-        "nfl schedule",
-        "2026 nfl",
-        "nfl",
-        "schedule",
-        "lion",
-        "schedule benefit"
-      ],
-      "category": "new",
-      "theme": "theme_240096984b947e18",
-      "entities": [
-        "NFL",
-        "Sunday Night Football",
-        "Lions"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "The 2026 NFL schedule features these must-see Sunday Night Football games",
-          "url": "https://sports.yahoo.com/articles/2026-nfl-schedule-features-must-200051155.html",
-          "published_at": "2026-05-15T20:00:51.000Z"
-        },
-        {
-          "title": "2026 NFL schedule reality or overreaction: 49ers doomed by tough matchups, travel? Lions primed to rebound?",
-          "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-reality-or-overreaction",
-          "source": "CBS Sports Headlines",
-          "published_at": "2026-05-15T18:31:31.000Z",
-          "image": "https://sportshub.cbsistatic.com/i/2026/05/15/573d0098-e6fd-49d8-b431-ee2b6896fdca/jahmyr-gibbs-lions.jpg"
-        },
-        {
-          "title": "Why the 2026 NFL schedule benefits the Lions and E...",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/48755471/fantasy-football-2026-nfl-schedule-strength",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-05-15T17:53:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_73fa970c4cc38d16",
-      "label": [
-        "lebanon",
-        "ceasefire",
-        "israel",
-        "extend",
-        "israel lebanon",
-        "45 days"
-      ],
-      "category": "new",
-      "theme": "theme_128cfd2250055b0c",
-      "entities": [
-        "Crossed",
-        "Rubicon",
-        "Israel",
-        "Lebanon",
-        "US"
-      ],
-      "article_count": 18,
-      "source_count": 18,
-      "articles": [
-        {
-          "title": "‘Crossed a Rubicon’: Israel and Lebanon agree to extend ceasefire by 45 days",
-          "url": "https://www.ms.now/news/israel-lebanon-ceasefire-extended-45-days-hezbollah",
-          "source": "MS NOW",
-          "published_at": "2026-05-15T22:03:17.000Z"
-        },
-        {
-          "title": "US-brokered Israel-Lebanon talks lead to 45-day ceasefire extension",
-          "url": "https://www.indiatoday.in/world/story/israel-lebanon-extend-ceasefire-by-45-days-after-washington-talks-2912568-2026-05-16",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-15T21:03:26.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/israel-strike--beirut--lebanon-061525916-16x9_1.png?VersionId=J9ZJ1GnbzbgUh0mNkVqPKBRYOCwv34zU"
-        },
-        {
-          "title": "Oil near $109 as US-China peace talks stall; Lebanon ceasefire extended",
-          "url": "https://www.investing.com/news/economy-news/oil-near-109-as-uschina-peace-talks-stall-lebanon-ceasefire-extended-4694243",
-          "source": "All News",
-          "published_at": "2026-05-15T21:00:19.000Z",
-          "image": "https://i-invdn-com.investing.com/news/LYNXNPEE1R1IN_M.jpg"
-        },
-        {
-          "title": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude",
-          "url": "https://japantoday.com/category/world/israel-lebanon-extend-ceasefire-by-45-days-as-washington-talks-conclude",
-          "source": "Japan Today",
-          "published_at": "2026-05-15T20:49:47.000Z"
-        },
-        {
-          "title": "Israel and Lebanon Extend Ceasefire for 45 Days, Confirms U.S.",
-          "url": "https://internewscast.com/news/asia/israel-and-lebanon-extend-ceasefire-for-45-days-confirms-u-s",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-15T20:44:07.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_8401c767bcda298e",
+      "id": "topic_2f43ea6bcb58dc5f",
+      "title": "Ebola Outbreak in DR Congo Has Killed at Least 65",
+      "headline": "New Ebola outbreak hits DR Congo",
       "label": [
         "congo",
         "ebola",
-        "ebola outbreak",
         "outbreak",
-        "dr congo",
-        "dr"
+        "dr",
+        "confirmed",
+        "deaths"
       ],
       "category": "new",
-      "theme": "theme_e349e0111e8423ee",
+      "theme": "theme_451c68f9941b0c74",
       "entities": [
-        "Uganda",
-        "Ebola",
-        "Congo",
         "New Ebola",
-        "DR Congo"
+        "DR Congo",
+        "Ebola",
+        "African",
+        "Congo"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 25,
+      "source_count": 21,
       "articles": [
-        {
-          "title": "Uganda confirms Ebola outbreak as disease claims scores in Congo",
-          "url": "https://dailypost.ng/2026/05/15/uganda-confirms-ebola-outbreak-as-disease-claims-scores-in-congo",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-15T21:10:28.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/01/TELEMMGLPICT000313454604_17382517342800_trans_NvBQzQNjv4BqOLSIyYLmkFq7W-G_CKMXcbwbciLn0dlNSWIexE0d2P0.webp"
-        },
         {
           "title": "New Ebola outbreak hits DR Congo",
           "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260515-new-ebola-outbreak-hits-dr-congo",
           "source": "France 24 - International breaking news, top stories and headlines",
           "published_at": "2026-05-15T20:48:30.000Z",
-          "image": "https://s.france24.com/media/display/9e88352e-509b-11f1-9ee7-005056bf30b7/w:1024/p:16x9/DN194504-A-01-20260504-01.jpg"
+          "image": "https://s.france24.com/media/display/9e88352e-509b-11f1-9ee7-005056bf30b7/w:1024/p:16x9/DN194504-A-01-20260504-01.jpg",
+          "description": "First, the Ebola outbreak tears through eastern DR Congo, killing at least 65 people and triggering fears of wider regional spread. Also, final stretch in Cape Verde ahead of the legislative elections scheduled for Sunday. And, Ethiopia’s coffee sector is under pressure as global prices plunge. But…"
         },
         {
-          "title": "US monitoring Ebola outbreak in DR Congo and Uganda",
-          "url": "https://www.perthnow.com.au/news/coronavirus/us-monitoring-ebola-outbreak-in-dr-congo-and-uganda-c-22292148",
+          "title": "Ebola outbreak confirmed in DR Congo: African health agency",
+          "url": "https://www.dw.com/en/ebola-outbreak-confirmed-in-dr-congo-african-health-agency/a-77166606",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-15T08:12:00.000Z",
+          "description": "A new outbreak of the highly contagious Ebola virus has killed dozens of people in a remote part of Congo, according to health authorities. It comes as the country battles several armed groups."
+        },
+        {
+          "title": "New Ebola outbreak in Congo kills more than 60",
+          "url": "https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-15T15:05:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo_7249654.jpg?20260515163150",
+          "description": "A new Ebola outbreak has been confirmed in the Democratic Republic of Congo, with 65 deaths recorded so far, according to Africa's top public health body."
+        },
+        {
+          "title": "New Ebola outbreak confirmed in remote Congo province",
+          "url": "https://www.perthnow.com.au/news/coronavirus/new-ebola-outbreak-confirmed-in-remote-congo-province-c-22290694",
           "source": "PerthNow",
-          "published_at": "2026-05-15T19:45:14.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22292148/6cbbe2f0360158cb55223323e97c941e51a7bd03-16x9-x0y0w1280h720.jpg"
+          "published_at": "2026-05-15T07:29:07.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22290694/a0918dfe9da0679ea9ebaa85b970ca7f6345ed4c-16x9-x0y0w1280h720.jpg",
+          "description": "An Ebola outbreak has struck Democratic Republic of Congo, with 65 deaths recorded, Africa's top public health body says."
         },
         {
-          "title": "Africa CDC confirms 65 deaths from Ebola in DR Congo",
-          "url": "https://www.premiumtimesng.com/health/health-news/879854-africa-cdc-confirms-65-deaths-from-ebola-in-dr-congo.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-05-15T19:09:23.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/08/41225-Africa-CDC-Logo-EN.png?fit=1509%2C847&amp;ssl=1"
-        },
-        {
-          "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
-          "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-05-15T18:51:43.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg"
+          "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+          "url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
+          "source": "BBC News",
+          "published_at": "2026-05-15T07:58:44.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58d/live/7526cce0-5032-11f1-aa9d-211c1f694e0f.jpg",
+          "description": "Africa's top health agency says around 246 cases have been reported."
         }
-      ]
+      ],
+      "summary": "Health authorities confirmed a new Ebola outbreak in the Democratic Republic of Congo, reporting at least 65 deaths and around 246 cases."
     },
     {
-      "id": "topic_b79c9b5b5c48da4b",
+      "id": "topic_42bfec41162c7de7",
+      "title": "US Plans to Indict Former Cuban Leader Raúl Castro",
+      "headline": "U.S. plans to indict Cuba’s Raul Castro, U.S. DOJ official says",
       "label": [
-        "sue",
-        "eric trump",
-        "eric",
-        "jen",
-        "psaki",
-        "sue jen"
+        "indict",
+        "raúl",
+        "castro",
+        "cuba",
+        "doj",
+        "plans"
       ],
       "category": "new",
-      "theme": "theme_1c8f5b975107a45a",
+      "theme": "theme_c0b2e7628cc69862",
       "entities": [
-        "Eric Trump",
-        "MS NOW",
+        "Cuba",
+        "Raul Castro",
+        "DOJ",
+        "US",
+        "US DOJ"
+      ],
+      "article_count": 17,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "U.S. plans to indict Cuba’s Raul Castro, U.S. DOJ official says",
+          "url": "https://www.thehindu.com/news/international/us-plans-to-indict-cubas-raul-castro-us-doj-official-says/article70984678.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-15T17:44:59.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/1obej1/article70984741.ece/alternates/LANDSCAPE_1200/2026-05-15T003856Z_1690189656_RC2Y8EAK9NXO_RTRMADP_3_USA-CUBA-INDICTMENT-CASTRO.JPG",
+          "description": "The potential indictment of the ⁠94-year-old former President of Cuba and brother of Fidel Castro is expected to focus on ​the downing of ‌aircraft"
+        },
+        {
+          "title": "US plans to indict Cuba’s Raul Castro, DOJ official says",
+          "url": "https://www.investing.com/news/commodities-news/us-plans-to-indict-cubas-raul-castro-doj-official-says-4691052",
+          "source": "All News",
+          "published_at": "2026-05-15T00:18:51.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E01K_L.jpg"
+        },
+        {
+          "title": "U.S. seeks to indict Cuba’s Raul Castro",
+          "url": "https://www.nbcnews.com/nightly-news/video/u-s-seeks-to-indict-cuba-s-raul-castro-263417413503",
+          "source": "NBC News World News",
+          "published_at": "2026-05-15T22:54:12.000Z",
+          "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nn_ggu_us_seeks_to_indict_cuba_raul_castro_260515/1/abs/index.m3u8",
+          "description": "NBC News has learned the Justice Department is seeking to indict Cuba’s powerful former leader Raul Castro, according to two U.S. officials familiar with the matter. NBC News’ Gabe Gutierrez reports."
+        },
+        {
+          "title": "US plans to indict Cuba's Raul Castro, US DOJ official says",
+          "url": "https://www.dailymaverick.co.za/article/2026-05-15-us-plans-to-indict-cubas-raul-castro-us-doj-official-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-05-15T04:53:16.000Z",
+          "image": "https://cdn.dailymaverick.co.za/dailymaverick/wp-content/uploads/de71afc7a766d300aabbefc20278684f.jpg",
+          "description": "May 14 (Reuters) - The United States plans to indict Cuba's Raul Castro, a U.S. Department of Justice official said late on Thursday."
+        },
+        {
+          "title": "US plans to indict Cuba's Raul Castro, US DOJ official says",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxpsevnvvb2aefunug2t2tcees2nndttfm2zvc1odl3t2c0cllknjjdbhbzdw9ln3lgnkxlb21cwnrps045exmtzehwuldfb0i0dmlwwlcwwk9xcmdbqi00t05btxdvr0fqsjhnvgzvyjhgu0v5emf6a3i4ehv6a1bqwm4zm0kzumnpanbvu29udxktadi4ss04bdhwmnp1vwtimjkxuuvwm0u3yja",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-15T01:03:00.000Z",
+          "description": "US plans to indict Cuba's Raul Castro, US DOJ official says Reuters U.S. moving to indict Cuba's Raúl Castro, sources say CBS News US takes steps to indict former Cuban leader Raúl Castro USA Today US moving to indict former Cuban leader Raúl Castro: source Fox News US plans to indict Cuba's Raul C…"
+        }
+      ],
+      "summary": "A US Justice Department official said the United States plans to indict former Cuban leader Raúl Castro. The case is expected to focus on the downing of aircraft."
+    },
+    {
+      "id": "topic_66c041b262385f8d",
+      "title": "Colorado Governor Cuts Tina Peters’s Prison Sentence in Half",
+      "headline": "Colorado governor commutes sentence of election denier Tina Peters",
+      "label": [
+        "tina",
+        "colorado",
+        "peters",
+        "governor",
+        "election",
+        "denier"
+      ],
+      "category": "new",
+      "theme": "theme_5a5a14fd9d5749a",
+      "entities": [
+        "Colorado",
+        "Tina Peters",
+        "Colorado Governor Grants Clemency",
+        "Trump",
+        "Colorado Election Denier"
+      ],
+      "article_count": 18,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Colorado governor commutes sentence of election denier Tina Peters",
+          "url": "https://www.theguardian.com/us-news/2026/may/15/colorado-governor-tina-peters",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-15T21:03:27.000Z",
+          "image": "https://i.guim.co.uk/img/media/10855449adefbd5f0b98903672c656446b013ac5/300_447_2442_1953/master/2442.jpg?width=140&quality=85&auto=format&fit=max&s=ac54196577ddfa5b17bb7ab51ce7e447",
+          "description": "Former election clerk who allowed unauthorized access to voting systems was convicted and sentenced to nine years The Colorado governor, Jared Polis, commuted the nearly nine-year prison sentence of a former Colorado clerk who allowed unauthorized people to access her county’s voting systems in a c…"
+        },
+        {
+          "title": "Colorado governor commutes prison sentence for election denier Tina Peters",
+          "url": "https://cyberscoop.com/colorado-election-denier-tina-peters-sentence-commuted-governor-jared-polis",
+          "source": "CyberScoop",
+          "published_at": "2026-05-15T22:58:12.000Z",
+          "description": "Peters was sentenced to nine years for stealing voting data and has been publicly unrepentant. But Colorado Governor Jared Polis has been hinting at the decision for months. The post Colorado governor commutes prison sentence for election denier Tina Peters appeared first on CyberScoop."
+        },
+        {
+          "title": "Colorado governor grants clemency to election denier Tina Peters",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/tina-peters-colorado-commutation-trump-b2977717.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-15T23:37:47.000Z",
+          "image": "https://static.independent.co.uk/2026/05/16/00/2026-05-15T215647Z_1537736867_RC2D1V9BRU5Z_RTRMADP_3_USA-TRUMP-COLORADO-TINA-PETERS.JPG?width=1200&auto=webp&crop=3%3A2",
+          "description": "Peters was sentenced to nine years for a scheme to illegally copy her county’s election computer system"
+        },
+        {
+          "title": "Colorado election denier Tina Peters to be freed from prison",
+          "url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency",
+          "source": "Axios",
+          "published_at": "2026-05-15T21:35:43.000Z",
+          "image": "https://images.axios.com/HPRnm7eiJrzVQDeNE1e---N97x0=/0x266:6960x4181/1366x768/2026/05/15/1778878670613.jpeg",
+          "description": "Colorado Gov. Jared Polis on Friday announced he's cutting disgraced election denier and former Mesa County clerk Tina Peters' sentence by half, making her eligible for release next month. Why it matters: The move comes after repeated calls from the Trump administration for Peters to be freed. Pres…"
+        },
+        {
+          "title": "Colorado Governor Grants Clemency to Tina Peters",
+          "url": "https://politicalwire.com/2026/05/15/colorado-governor-grants-clemency-to-tina-peters",
+          "source": "Political Wire",
+          "published_at": "2026-05-15T20:52:54.000Z",
+          "description": "Colorado Gov. Jared Polis (D) “will reduce Tina Peters’ sentence by half, he confirmed Friday, appearing to bend to demands from President Donald Trump — while ignoring the pleas of many other Colorado elected officials and the prosecutor who won the former county clerk’s conviction in an election…"
+        }
+      ],
+      "summary": "Colorado Governor Jared Polis commuted former county clerk Tina Peters’s nearly nine-year sentence by half. Peters was convicted in a scheme involving unauthorized access to election systems and copying voting data."
+    },
+    {
+      "id": "topic_c69048d590151dd4",
+      "title": "Trump Claims Trade Deals After Summit With Xi",
+      "headline": "US-China summit: Trump says made ‘fantastic trade deals’ with Xi",
+      "label": [
+        "fantastic",
+        "trade",
+        "deals",
+        "china",
+        "trump",
+        "made"
+      ],
+      "category": "new",
+      "theme": "theme_fa5fde28885f2fbe",
+      "entities": [
+        "US",
         "China",
-        "Jen Psaki",
-        "MS Now"
+        "Trump",
+        "Xi",
+        "Trump Touts"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "US-China summit: Trump says made ‘fantastic trade deals’ with Xi",
+          "url": "https://hongkongfp.com/2026/05/15/us-china-summit-trump-says-made-fantastic-trade-deals-with-xi",
+          "source": "Hong Kong Free Press HKFP",
+          "published_at": "2026-05-15T06:07:36.000Z",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/05/RENAME-before-upload-Article-Basic-Full-logo-2026-05-15T140639.869-1024x576.jpg",
+          "description": "President Donald Trump said he had made “fantastic trade deals” with China’s Xi Jinping, as the pair met on Friday at final talks of a superpower summit that according to the US leader has also reaped a Chinese offer to help open the Strait of Hormuz. Trump had arrived in Beijing seeking to seal de…"
+        },
+        {
+          "title": "Trump says made 'fantastic trade deals' with Xi, but details scarce",
+          "url": "http://hongkongnews.net/news/279053449/trump-says-made-fantastic-trade-deals-with-xi-but-details-scarce",
+          "source": "hongkongnews.net latest rss headlines",
+          "published_at": "2026-05-15T10:50:48.000Z",
+          "description": "BEIJING (AFP) - U.S. President Donald Trump said he had made \"fantastic trade deals\" and settled \"a lot of different problems\" in his meetings with China's Xi Jinping this week, but hours after the summit ended on Friday details on exact agreements remained scarce. Trump had arrived in Beijing seek…"
+        },
+        {
+          "title": "Trump says he made 'fantastic trade deals' with Xi as he wraps up China visit",
+          "url": "https://www.thejournal.ie/trump-says-he-made-fantastic-trade-deals-with-xi-as-he-wraps-up-china-visit-7040368-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-15T05:55:00.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/u-s-president-donald-trump-right-gestures-as-he-speaks-next-to-chinese-president-xi-jinping-during-a-visit-to-the-zhongnanhai-garden-in-beijing-friday-may-15-2026-evan-vuccipool-photo-via-ap-9e5708c0-085e-4776-9c17-2eddeefc5bcc-630x462.jpg",
+          "description": "‘We’ve settled a lot of different problems that other people wouldn’t have been able to solve,’ Trump said, without providing details."
+        },
+        {
+          "title": "Trump proclaims 'fantastic trade deals' with China",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/15/trump-proclaims-fantastic-trade-deals-with-china_6753482_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-15T09:08:29.000Z",
+          "image": "https://img.lemde.fr/2026/05/15/273/0/3281/1640/644/322/60/0/5d9eaba_ftp-1-lt8yepgel4ax-9057cfc547aa479d986cd3aaad74d271-0-beb19720c3ee486d9a3250164f80553c.jpg",
+          "description": "The US president did not spell out the trade agreements that he said had been sealed with China. But in a Fox interview, he said one big business deal struck involved Xi agreeing to purchase '200 big' Boeing jets."
+        },
+        {
+          "title": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
+          "url": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-05-15T09:51:59.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/15/multimedia/15DC-Trump-Trade-fkpb/15DC-Trump-Trade-fkpb-mediumSquareAt3X.jpg",
+          "description": "The president left Beijing following a summit with China, during which the two countries sought to stabilize their economic and political relations."
+        }
+      ],
+      "summary": "After meeting Chinese President Xi Jinping in Beijing, Donald Trump said the two had made “fantastic trade deals” and resolved several problems, but gave few details about the agreements."
+    },
+    {
+      "id": "topic_782429a0608d66e",
+      "title": "Maldives Suspends Recovery Search for Italian Divers",
+      "headline": "Maldives suspends search for bodies of Italian divers",
+      "label": [
+        "divers",
+        "italian",
+        "maldives",
+        "search",
+        "suspended",
+        "cave"
+      ],
+      "category": "new",
+      "theme": "theme_59d1c1ce9d20a222",
+      "entities": [
+        "Maldives",
+        "Italian",
+        "Search",
+        "AP News",
+        "Search For Italian Divers"
       ],
       "article_count": 9,
-      "source_count": 5,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Eric Trump plans to sue MS NOW over report blasting his presence in China: ‘A loving son who adores my father’",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/eric-trump-ms-now-china-trip-b2977685.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-15T22:54:50.000Z",
-          "image": "https://static.independent.co.uk/2026/05/15/22/06/GettyImages-2275434012.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "Maldives suspends search for bodies of Italian divers",
+          "url": "https://news.sky.com/story/maldives-suspends-search-for-bodies-of-italian-divers-who-had-been-exploring-underwater-caves-13544212",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-15T06:03:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-maldives-diver-death_7250234.jpg?20260516142513",
+          "description": "The search for the bodies of four Italian divers believed to be deep inside an underwater cave in the Maldives has been suspended, after a military diver died trying to reach them."
         },
         {
-          "title": "Eric Trump says he plans to sue Jen Psaki over MS Now monologue",
-          "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4571165/eric-trump-plan-sue-jen-psaki-msnow-monologue",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-15T21:58:00.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/ericlara.jpg?w=696"
+          "title": "Search for Italian divers' bodies in Maldives suspended",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/search-for-italian-divers-bodies-in-maldives-suspended-c-22292196",
+          "source": "PerthNow",
+          "published_at": "2026-05-15T20:57:27.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22292196/3167151b65f404831275efb5e381717f9b5bedc4-16x9-x0y0w1280h720.jpg",
+          "description": "Maldivian authorities have suspended a difficult operation to recover the bodies of four Italian divers believed trapped inside a deep underwater cave."
         },
         {
-          "title": "Eric Trump plans to sue Jen Psaki, MS NOW for alleged 'blatant lies' about him joining father's China trip",
-          "url": "https://www.foxnews.com/media/eric-trump-plans-sue-jen-psaki-ms-now-alleged-blatant-lies-about-him-joining-fathers-china-trip",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-15T21:41:03.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/eric-trump-jen-psaki.jpg?ve=1&tl=1"
+          "title": "Search for bodies of Italian divers in Maldives cave suspended due to bad weather",
+          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxosvhqrhvoehrldhprodb4qkjpcxcyalvsr1dvynjkqjjrcznvnhnivkruvhnste5kre5ma2pactbvmlcyrjhmekjxcfpft01abuxtcmpeekswylvdrkjsntdznetjthj2sfq4wkk2ttfer21yufr2qjjzq1f3djjfeujos1btownynjrxztf5twdlofzwvmzfm1m2nzruvwv6wmhosq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-15T17:32:00.000Z",
+          "description": "Search for bodies of Italian divers in Maldives cave suspended due to bad weather AP News Five Italians die during cave scuba dive in Maldives BBC 5 Italian tourists dead after exploring underwater caves in Maldives Global News 5 Italian tourists killed in Maldives cave diving accident as authoriti…"
         },
         {
-          "title": "Eric Trump says he'll sue Jen Psaki, MS NOW over report on China trip (Ryan Mancini/The Hill)",
-          "url": "https://www.memeorandum.com/260515/p85",
-          "source": "memeorandum",
-          "published_at": "2026-05-15T20:00:05.000Z",
-          "image": "http://www.memeorandum.com/260515/i85.jpg"
+          "title": "Maldives rescuers search for five drowned Italian divers",
+          "url": "https://www.manilatimes.net/2026/05/15/news/world/maldives-rescuers-search-for-five-drowned-italian-divers/2345159",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-15T15:18:09.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/15/1059247.jpg",
+          "description": "MALDIVES — Rescue teams in the Indian Ocean archipelago of the Maldives searched for a second day on Friday for the bodies of four missing Italians following the country's deadliest diving accident, officials said. Italy's foreign ministry said on Thursday night that five citizens had died while di…"
         },
         {
-          "title": "Eric Trump to Sue Jen Psaki Over China Trip Claims",
-          "url": "https://politicalwire.com/2026/05/15/eric-trump-to-sue-jen-psaki-over-china-trip-claims",
-          "source": "Political Wire",
-          "published_at": "2026-05-15T19:40:48.000Z"
+          "title": "Search For Italian Divers Killed In Maldives Cave Dive Suspended Due To Bad Weather",
+          "url": "https://www.huffpost.com/entry/high-risk-search-underway-for-4-italian-divers-killed-in-maldives-cave-dive_n_6a071405e4b098065be960e4",
+          "source": "World News",
+          "published_at": "2026-05-15T12:48:20.000Z",
+          "description": "Italy’s Foreign Ministry said the five divers “apparently died while attempting to explore caves at a depth of 50 meters (164 feet)” in the Vaavu Atoll on Thursday."
         }
-      ]
+      ],
+      "summary": "Authorities in the Maldives suspended the search for four Italian divers believed trapped in an underwater cave. A military diver died during the recovery effort, and bad weather was also cited."
     },
     {
-      "id": "topic_8aa7892bd03d7c19",
+      "id": "topic_d766df2f5686977d",
+      "title": "Patriots-Seahawks Super Bowl Rematch to Open 2026 NFL Season",
+      "headline": "Super Bowl rematch to open 2026 NFL season",
       "label": [
-        "ap",
-        "indictment",
-        "administration",
-        "trump administration",
-        "sourc",
-        "castro"
+        "bowl",
+        "super",
+        "rematch",
+        "seahawks",
+        "nfl",
+        "season"
       ],
       "category": "new",
-      "theme": "theme_4c40d5be0719e7a1",
+      "theme": "theme_eb15e7a7d5ddbb28",
       "entities": [
-        "Trump",
-        "Ra",
-        "Castro",
-        "Cuba",
-        "AP"
+        "Super Bowl",
+        "NFL",
+        "Super Bowls",
+        "Seahawks",
+        "Patriots"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Super Bowl rematch to open 2026 NFL season",
+          "url": "https://www.bbc.com/news/articles/cx219e029veo",
+          "source": "BBC Sport",
+          "published_at": "2026-05-15T07:34:37.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7a1/live/4d6aae60-5032-11f1-aa9d-211c1f694e0f.jpg",
+          "description": "BBC Sport's Ask Me Anything team highlights the key fixtures in the 2026 NFL season."
+        },
+        {
+          "title": "78 Super Bowls",
+          "url": "https://www.theatlantic.com/national-security/2026/05/world-cup-soccer-security-dhs/687170",
+          "source": "The Atlantic",
+          "published_at": "2026-05-15T10:00:00.000Z",
+          "image": "https://cdn.theatlantic.com/thumbor/7S4gnSEiRXCIohG3Fl3_L_JXEa4=/media/img/mt/2026/05/2026_05_14_Basically_78_Super_Bowls_in_1_Cities/original.jpg",
+          "description": "On Saturday, Markwayne Mullin, the Department of Homeland Security secretary, used a speech at Kansas City International Airport to deliver an unusual message. Customs and Border Protection officers stood around him as a backdrop, and in his right hand, Mullin held the squishy pink ball he carries…"
+        },
+        {
+          "title": "Seahawks face Patriots in Super Bowl rematch to open NFL season",
+          "url": "https://www.the42.ie/seahawks-patriots-super-bowl-rematch-nfl-7040414-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-15T06:57:26.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/seattle-seahawks-quarterback-sam-darnold-14-throws-a-pass-against-the-new-england-patriots-during-the-nfl-super-bowl-60-football-game-sunday-february-8-2026-in-santa-clara-calif-adam-hungera-89687596-92b5-4871-81ef-cc21ff93f6dd-630x419.jpg",
+          "description": "The league is expanding its Thanksgiving week offerings this season."
+        },
+        {
+          "title": "The NFL's 2026 season will kick off with a Patriots-Seahawks Super Bowl rematch in Seattle",
+          "url": "https://sports.yahoo.com/articles/nfls-2026-season-kick-off-000019526.html",
+          "published_at": "2026-05-15T00:00:19.000Z"
+        },
+        {
+          "title": "NFL schedule release: Patriots-Seahawks Super Bowl rematch will kick off 2026 season",
+          "url": "https://www.theguardian.com/sport/2026/may/14/nfl-schedule-release-2026-football",
+          "source": "The Guardian",
+          "published_at": "2026-05-15T00:59:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/0136685d2f6785b6d43840bba7b8703868de7906/302_0_3513_2813/master/3513.jpg?width=140&quality=85&auto=format&fit=max&s=bbc43523807275e88e7bb115177a25b2",
+          "description": "New season will kick off on 9 September League arranges record nine international games The 2026 NFL season will kick off with a Super Bowl rematch. Mike Macdonald, Sam Darnold and the Seattle Seahawks will face off against Mike Vrabel, Drake Maye and the New England Patriots after raising their ch…"
+        }
+      ],
+      "summary": "The 2026 NFL season will open September 9 with the Seattle Seahawks hosting the New England Patriots in a rematch of the Super Bowl. The league is also scheduling a record nine international games."
+    },
+    {
+      "id": "topic_4b5ffb7ed70f1632",
+      "title": "Madhya Pradesh High Court Declares Bhojshala Site a Temple",
+      "headline": "BIG NEWS! Madhya Pradesh High Court Declares Disputed Bhojshala In Dhar As Temple",
+      "label": [
+        "bhojshala",
+        "temple",
+        "declares",
+        "disputed",
+        "court",
+        "high"
+      ],
+      "category": "new",
+      "theme": "theme_445c04091ada4480",
+      "entities": [
+        "BIG NEWS",
+        "Madhya Pradesh High Court",
+        "Declares Disputed Bhojshala In",
+        "Dhar As Temple",
+        "Declares Disputed Bhojshala Complex"
+      ],
+      "article_count": 11,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "BIG NEWS! Madhya Pradesh High Court Declares Disputed Bhojshala In Dhar As Temple",
+          "url": "https://www.freepressjournal.in/indore/big-news-madhya-pradesh-high-court-declares-disputed-bhojshala-in-dhar-as-temple",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-15T09:35:05.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2025-02-02/v0xtx9hi/2-Feb-Dhar-celebration.jpg"
+        },
+        {
+          "title": "Madhya Pradesh High Court Declares Disputed Bhojshala Complex As Temple Dedicated To Goddess Saraswati",
+          "url": "https://swarajyamag.com/politics/madhya-pradesh-high-court-declares-disputed-bhojshala-complex-as-temple-dedicated-to-goddess-saraswati",
+          "source": "Swarajya",
+          "published_at": "2026-05-15T10:09:34.064Z"
+        },
+        {
+          "title": "MP High Court declares disputed Bhojshala site as temple of goddess Saraswati",
+          "url": "https://www.indiatoday.in/india/law-news/story/big-ruling-on-bhojshala-dispute-case-mp-high-court-says-site-was-sanskrit-learning-centre-2912244-2026-05-15",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-15T09:21:48.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/bhojshala-152858925-16x9_0.jpeg?VersionId=qLd_y3m8Tr2wxEUXc5AwBZWFf8ov_RAe"
+        },
+        {
+          "title": "Bhojshala Complex's Disputed Area Declared Temple By Madhya Pradesh High Court",
+          "url": "https://www.ndtv.com/india-news/bhojshala-complexs-disputed-area-declared-temple-by-madhya-pradesh-high-court-11499534",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-15T09:56:24.000Z",
+          "image": "https://c.ndtvimg.com/2026-01/90f449r4_bhojshala-security_625x300_22_January_26.jpeg"
+        },
+        {
+          "title": "Disputed Bhojshala-Kamal Maula mosque complex is a temple, says Madhya Pradesh HC",
+          "url": "https://scroll.in/latest/1092888/disputed-bhojshala-kamal-maula-mosque-complex-is-a-temple-says-madhya-pradesh-hc",
+          "source": "Scroll.in",
+          "published_at": "2026-05-15T10:32:13.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/15791-ksnwyjpknd-1710219853.jpeg",
+          "description": "The bench quashed an order by the Archaeological Survey of India, which allowed Hindu prayers on the premises on Tuesdays and Muslim prayers on Fridays."
+        }
+      ],
+      "summary": "The Madhya Pradesh High Court ruled that the disputed Bhojshala complex is a temple dedicated to the goddess Saraswati. The court quashed an Archaeological Survey of India order permitting Hindu prayers on Tuesdays and Muslim prayers on Fridays."
+    },
+    {
+      "id": "topic_add51d80392bd4ff",
+      "title": "Drake Releases Three Albums: Iceman, Habibti and Maid of Honour",
+      "headline": "Drake Releases Three New Albums: Iceman, Habibti, and Maid of Honour",
+      "label": [
+        "habibti",
+        "maid",
+        "honour",
+        "iceman",
+        "albums",
+        "drake"
+      ],
+      "category": "new",
+      "theme": "theme_78c56c72a6e15837",
+      "entities": [
+        "Drake Releases Three New",
+        "Albums",
+        "Iceman",
+        "Habibti",
+        "Maid"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Drake Releases Three New Albums: Iceman, Habibti, and Maid of Honour",
+          "url": "https://consequence.net/2026/05/drake-three-new-albums-iceman-habibti-maid-of-honour",
+          "source": "Consequence",
+          "published_at": "2026-05-15T03:40:39.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/Drake.jpeg?quality=80",
+          "description": "All three projects are now streaming. Drake Releases Three New Albums: Iceman, Habibti, and Maid of Honour Travis Bland"
+        },
+        {
+          "title": "Drake Drops 3 Albums: ‘Iceman,’ ‘Habibti’ and ‘Maid of Honour’",
+          "url": "https://www.nytimes.com/2026/05/15/arts/music/drake-new-albums-iceman-habibti-maid-of-honour.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-15T14:02:58.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/15/multimedia/15cul-drake-wtk-lfgj/15cul-drake-wtk-lfgj-mediumSquareAt3X.jpg",
+          "description": "The chart-topping Canadian rapper released an anticipated new album, “Iceman,” on Friday and two previously unannounced LPs, “Habibti” and “Maid of Honour.”"
+        },
+        {
+          "title": "Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’",
+          "url": "https://variety.com/2026/music/news/drake-releases-iceman-habibti-maid-of-honour-albums-1236749401",
+          "source": "Variety",
+          "published_at": "2026-05-15T04:02:17.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/10/20251024CD_37122691_21d114.jpg",
+          "description": "Drake dropped not just one, but three new albums on Friday, releasing “Iceman” as expected at midnight ET, along with “Maid of Honour” and “Habibti.” Rumors started circulating earlier on Thursday that Drake would release “Iceman” followed by “Maid of Honour” about an hour later, according to DJ He…"
+        },
+        {
+          "title": "Drake releases ‘Iceman’ and 2 surprise albums ‘Habibti,’ ‘Maid of Honour’",
+          "url": "https://globalnews.ca/news/11851091/drake-releases-iceman-habibti-maid-of-honour",
+          "published_at": "2026-05-15T13:38:23.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/drake-drops-three-albums-iceman.jpg?quality=65&strip=all",
+          "description": "Drake's three albums have a total of 43 songs and feature artists like PartyNextDoor, Central Cee, Future, 21 Savage, Sexyy Red and more."
+        },
+        {
+          "title": "Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxnyux4sxr5q3ldbwtzwwl3vlnrdtdncg1saghedzzvzvf5a01ob2llzv9jatdfbdv4sy15zdfatlazlxp4afz1zvlgdkfjbgsyu0pjds1oddfqz01nbzv3wmvjruhfms1tqvlivkvwrldid0nkvtr1t2yzmlrdetlba0dxog15qle1zkxcqwrjr3rmauxyckhlxzrnbeprm0zd",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-15T04:02:00.000Z",
+          "description": "Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’ Variety Drake ‘freezes’ CN Tower for release of ‘Iceman’ and two other albums CP24 Drake Finally Unveils ‘Iceman’ — and Surprise Drops 2 More Albums Rolling Stone 'Iceman': Can Drake come back after th…"
+        }
+      ],
+      "summary": "Drake released three albums: Iceman, Habibti and Maid of Honour. The releases include 43 songs, with guest appearances by several artists."
+    },
+    {
+      "id": "topic_72ec0ec1201509ff",
+      "title": "Google Tests 5GB Storage Limit for Some New Gmail Accounts",
+      "headline": "Google explains why some new Gmail accounts only get 5GB storage",
+      "label": [
+        "5gb",
+        "gmail",
+        "storage",
+        "accounts",
+        "google",
+        "get"
+      ],
+      "category": "new",
+      "theme": "theme_89954da33abb0d10",
+      "entities": [
+        "Google",
+        "Gmail",
+        "Android Authority",
+        "Only Giving Some New",
+        "Gmail Accounts"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Google explains why some new Gmail accounts only get 5GB storage",
+          "url": "https://www.androidauthority.com/google-free-15gb-gmail-storage-ending-explanation-3667360",
+          "source": "Android Authority",
+          "published_at": "2026-05-15T07:08:11.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-and-tablet-stock-photo-7.jpg",
+          "description": "The company says it's experimenting with a new storage policy for some accounts."
+        },
+        {
+          "title": "Google explains why some new Gmail accounts only get 5GB storage",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxncwnoogdpvnfwq3fznzvlse1xnlyxdwxjn3hjwwnqluw5vktccuktvjhluu1watnjehnhzgu5vlffturhlupzvgixx2putvnpegrxmtljekdcamfhdvhwcmrxvmproxo5n2w3nuq2mkzozkxhz0fymc1ludbjnwximjgzc2pjz2thczffbgzvstqwyjlubve",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-15T07:43:36.000Z",
+          "description": "Google explains why some new Gmail accounts only get 5GB storage Android Authority Only 5GB default free storage for new Gmail accounts with no linked phone number? PiunikaWeb The era of 15GB free Gmail storage is ending (Update: Google responds) Android Authority It looks like Google is going to m…"
+        },
+        {
+          "title": "Google's Only Giving Some New Gmail Accounts 5GB Of Storage - Here's How To Get More",
+          "url": "https://www.slashgear.com/2173920/google-gmail-5bg-storage-test-overview-have-to-add-phone-number-for-more-data",
+          "source": "SlashGear - Tech, Cars, Gaming, Science, & Reviews",
+          "published_at": "2026-05-15T18:28:32.000Z",
+          "image": "https://www.slashgear.com/img/gallery/google-gmail-5bg-storage-test-overview-have-to-add-phone-number-for-more-data/l-intro-1778869843.jpg",
+          "description": "Google is limiting new accounts to just 5GB of storage (down from 15GB) in certain regions, but there is still a way to get the full amount."
+        },
+        {
+          "title": "New Gmail accounts might only get 5GB of storage, but there’s a way around it",
+          "url": "https://mashable.com/article/google-gmail-5gb-free-storage-phone-number",
+          "source": "Mashable",
+          "published_at": "2026-05-15T16:18:45.000Z",
+          "description": "Google is testing a change that will limit new Gmail accounts to just 5GB of free cloud storage, but there's a fix."
+        },
+        {
+          "title": "Google Could Limit New Gmail Accounts to Only 5GB of Free Storage",
+          "url": "https://www.cnet.com/tech/services-and-software/gmail-less-than-15gb-storage",
+          "source": "CNET",
+          "published_at": "2026-05-15T20:55:13.000Z",
+          "image": "https://www.cnet.com/a/img/resize/053666f420650200aa20fc16e0c5d6d43b364097/hub/2024/05/15/c2b06394-ebf2-491f-a7c5-54289d50d8d7/google-gmail-email-2136.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "A report suggests that Google's 15GB free tier is at risk as the company tests a lower 5GB cap for new sign-ups."
+        }
+      ],
+      "summary": "Google is experimenting with a policy that gives some new Gmail accounts 5GB of storage instead of the usual 15GB. The change reportedly applies in certain regions, and linking a phone number may allow users to get more storage."
+    },
+    {
+      "id": "topic_d2f53a9061a3163e",
+      "title": "David Beckham Becomes Britain’s First Billionaire Sportsman",
+      "headline": "David Beckham becomes first British billionaire sportsman",
+      "label": [
+        "sportsman",
+        "beckham",
+        "billionaire",
+        "first",
+        "becomes",
+        "british"
+      ],
+      "category": "new",
+      "theme": "theme_da9251d046ec8f46",
+      "entities": [
+        "David Beckham",
+        "British",
+        "UK",
+        "Beckham",
+        "Britain"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "David Beckham becomes first British billionaire sportsman",
+          "url": "https://www.aljazeera.com/sports/2026/5/15/david-beckham-becomes-first-british-billionaire-sportsman",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-15T12:11:30.000Z",
+          "description": "Beckham and his wife Victoria's collective wealth reached the milestone this year, according to Sunday Times Rich List."
+        },
+        {
+          "title": "David Beckham becomes UK’s first billionaire sportsman",
+          "url": "https://www.nigerianeye.com/2026/05/david-beckham-becomes-uks-first.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-15T19:04:25.809Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnFognp1LA6Jv49eKNtNSfZfTuRsTB0qfUGqhE9nieP8V5rTMzElHqKxvwMV3N8JyTsZcQf6rJb2QFSXzhnlUl_a2u9RyFiCXcbxtVllhHuDGmP5T_DUarR8lLS5yuvA6sdPZRfw7ejVL9-uxg3Tm0K7y3a2x78co_J9bgr80Jdzke6VsNNCG0vXyejuS8/s72-w400-h300-c/David%20beckham.jpeg",
+          "description": "David Beckham, the former England midfielder, has become the UK’s first billionaire sportsman. According to the 2026 Sunday Times Rich List, Beckham, who retired from playing in 2013, is a co-owner of Inter Miami, which is estimated to be Major League Soccer’s most valuable club at £1.07 billion. T…"
+        },
+        {
+          "title": "Beckham becomes first British billionaire sportsman",
+          "url": "https://tribune.com.pk/story/2608307/beckham-becomes-first-british-billionaire-sportsman",
+          "source": "express tribune",
+          "published_at": "2026-05-15T08:39:23.000Z",
+          "description": "The former footballer and his wife's collective wealth reached an estimated £1.185 billion"
+        },
+        {
+          "title": "Beckham becomes UK's first billionaire sportsman",
+          "url": "https://www.bbc.com/news/articles/clypx829gwyo",
+          "source": "BBC Sport",
+          "published_at": "2026-05-15T09:10:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6216/live/c228dcf0-5036-11f1-948b-c3db1a508f68.jpg",
+          "description": "Former England captain Sir David Beckham becomes the UK's first billionaire sportsman in the 2026 Sunday Times Rich List."
+        },
+        {
+          "title": "Beckham is first British billionaire sportsman",
+          "url": "https://www.espn.com/soccer/story/_/id/48775436/sir-david-beckham-first-britain-billionaire-sportsman",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-05-15T13:19:50.000Z",
+          "description": "Sir David Beckham has become Britain's first billionaire sportsman in the 2026 Sunday Times Rich List -- but the club's co-owner Sir Jim Ratcliffe's wealth has decreased."
+        }
+      ],
+      "summary": "The 2026 Sunday Times Rich List estimates David Beckham and his wife Victoria have a combined fortune of £1.185 billion, making him Britain’s first billionaire sportsman."
+    },
+    {
+      "id": "topic_2507de854bb2375c",
+      "title": "Israel and Lebanon Extend Ceasefire by 45 Days",
+      "headline": "Israel and Lebanon agree to extend ceasefire by 45 days",
+      "label": [
+        "lebanon",
+        "ceasefire",
+        "israel",
+        "extend",
+        "days",
+        "agree"
+      ],
+      "category": "trending",
+      "theme": "theme_2c5177990cebb7fc",
+      "entities": [
+        "Israel",
+        "Lebanon",
+        "US Department",
+        "State",
+        "US State Dept"
+      ],
+      "article_count": 19,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Israel and Lebanon agree to extend ceasefire by 45 days",
+          "url": "https://www.perthnow.com.au/news/conflict/israel-and-lebanon-agree-to-extend-ceasefire-by-45-days-c-22292109",
+          "source": "PerthNow",
+          "published_at": "2026-05-15T18:42:02.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22292109/c39ad9c950d824573b65fb8eef3633654bc19b6e-16x9-x0y0w1280h720.jpg",
+          "description": "A ceasefire between Israel and Lebanon will be extended by 45 days after another round of talks, the US State Department says."
+        },
+        {
+          "title": "Israel, Lebanon agree to extend ceasefire for 45 days — US Department of State",
+          "url": "https://tass.com/world/2131683",
+          "source": "TASS",
+          "published_at": "2026-05-15T20:35:42.000Z",
+          "description": "Spokesperson Tommy Pigott says the State Department will reconvene the political track of negotiations, and a security track will be launched at the Pentagon with military delegations from both countries"
+        },
+        {
+          "title": "Israel and Lebanon agree to extend ceasefire by 45 days, US State Dept says",
+          "url": "https://tribune.com.pk/story/2608350/israel-and-lebanon-agree-to-extend-ceasefire-by-45-days-us-state-dept-says",
+          "source": "express tribune",
+          "published_at": "2026-05-15T13:24:43.000Z",
+          "description": "Describes Israel-Lebanon talks held in Washington on Thursday and Friday as 'highly productive'"
+        },
+        {
+          "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o",
+          "source": "BBC News",
+          "published_at": "2026-05-15T19:01:38.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg",
+          "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then."
+        },
+        {
+          "title": "‘Crossed a Rubicon’: Israel and Lebanon agree to extend ceasefire by 45 days",
+          "url": "https://www.ms.now/news/israel-lebanon-ceasefire-extended-45-days-hezbollah",
+          "source": "MS NOW",
+          "published_at": "2026-05-15T22:03:17.000Z",
+          "description": "The momentum of the Israel-Lebanon peace negotiations stands in stark contrast to the stalled U.S.-Iran talks led by Steve Witkoff and Jared Kushner. The post ‘Crossed a Rubicon’: Israel and Lebanon agree to extend ceasefire by 45 days appeared first on MS NOW."
+        }
+      ],
+      "summary": "Israel and Lebanon agreed to extend their ceasefire by 45 days after talks in Washington, according to the US State Department. Further political and security negotiations are planned."
+    },
+    {
+      "id": "topic_b2d82e491d6ceddc",
+      "title": "Russian Strike on Kyiv Apartment Building Kills 24",
+      "headline": "Death toll in attack on Kyiv apartment building now stands at 24",
+      "label": [
+        "apartment",
+        "kyiv",
+        "toll",
+        "attack",
+        "building",
+        "death"
+      ],
+      "category": "new",
+      "theme": "theme_6af5d60786f8356d",
+      "entities": [
+        "Death",
+        "Kyiv",
+        "AP News",
+        "NPR",
+        "Russian Missile Attack On"
       ],
       "article_count": 8,
-      "source_count": 4,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Trump administration prepares to seek Raúl Castro indictment as it pressures Cuba, AP sources say",
-          "url": "https://www.independent.co.uk/news/world/americas/cuba-donald-trump-miami-justice-department-nicolas-maduro-b2977672.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-15T21:04:28.000Z",
-          "image": "https://static.independent.co.uk/2026/05/15/22/Justice_Department_Cuba_39_53.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "Death toll in attack on Kyiv apartment building now stands at 24",
+          "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
+          "source": "NPR Topics: World",
+          "published_at": "2026-05-15T09:28:02.000Z",
+          "description": "Ukrainian President Volodymyr Zelenskyy said Friday that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children."
         },
         {
-          "title": "US eyes indictment against Raúl Castro, AP sources say, as Trump administration pressures Cuba (Associated Press)",
-          "url": "https://www.memeorandum.com/260515/p68",
-          "source": "memeorandum",
-          "published_at": "2026-05-15T18:45:00.000Z",
-          "image": "http://www.memeorandum.com/260515/i68.jpg"
-        },
-        {
-          "title": "U.S. eyes indictment against Raul Castro amid pressure by Trump administration, sources tell AP",
-          "url": "https://www.seattletimes.com/nation-world/nation/u-s-eyes-indictment-against-raul-castro-amid-pressure-by-trump-administration-sources-tell-ap",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-05-15T18:05:17.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05152026_RaulCastro_tzr_111044.jpg?d=1200x630"
-        },
-        {
-          "title": "U.S. eyes indictment against Raul Castro amid pressure by Trump administration, sources tell AP - AP News",
-          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxnt0dndzlzawrpd05is0zeatqyu3huaerlbfb2t254sudszu9kowk0mhpvcwnns2j1yjhiz0luru1nuzdocu1yevdtynfjugfqoho1cevjmncztvjpduv0sxz1evfrbkstawzndzq1nzrwrxf6ou9jovitswl1rllttmjlrhu4re9tynnwujjly29pzdj1mhndndgynelzqq",
+          "title": "Death toll in attack on Kyiv apartment building now stands at 24",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxprdfpemtizgryv1f1swxryxdzqtrfstjcwu9moexnoww0u2dkueoxowvaejm3sk9hqxfnu3gwdln4dhbjqupvewvxngf4t1nmwwdktmwtmjl5tvbiamtev19tr0hqvnlhbng4efbcsgfcdfm1v0rqtms4akfnsxf4outyaevnt2xktg9pntg2x1cwywr4",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-15T18:04:00.000Z"
+          "published_at": "2026-05-15T07:45:00.000Z",
+          "description": "Death toll in attack on Kyiv apartment building now stands at 24 AP News Russia hammers Ukraine in biggest prolonged drone attack since war began CNN Zelenskiy rages at Russia after strike on Kyiv housing block kills 24 Reuters At least 24 killed in Kyiv in one of deadliest Russian attacks since st…"
+        },
+        {
+          "title": "Death toll in attack on Kyiv apartment building rises to 24",
+          "url": "https://www.thehindu.com/news/international/death-toll-in-attack-on-kyiv-apartment-building-rises-may-15-2026/article70984671.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-15T17:33:40.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/k6fvd5/article70984704.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_76689.jpg",
+          "description": "The cruise missile hit the nine-story corner block during what the Ukrainian air force said was Russia's biggest barrage of the country since its all-out invasion"
+        },
+        {
+          "title": "Death toll rises after attack on Kyiv apartment building",
+          "url": "https://www.breakingnews.ie/world/death-toll-rises-after-attack-on-kyiv-apartment-building-1900191.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTUwOTIxMzJcXFwvOTYzZGI0ZDI5ZjA2NDEzY2JlMDU0MjNlODViMGI4MTcuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNDMxMDJhYWFkODk4NzdmNmQ4NzIxNTlhYWMxM2FlMzQ0ZGJiZDQ3ZSJ9/963db4d29f06413cbe05423e85b0b817.jpg",
+          "description": "At least 24 people have died in the strike in the Ukrainian capital."
+        },
+        {
+          "title": "Russian Missile Attack On Kyiv Apartment Building Kills 24",
+          "url": "https://www.ndtv.com/world-news/russian-missile-attack-on-kyiv-apartment-building-kills-24-11500843",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-15T13:00:57.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/o9g5ed4_ukraine-attack_625x300_15_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "The cruise missile hit the nine-story corner block during what the Ukrainian air force said was Russia's biggest barrage of the country since 2023."
         }
-      ]
+      ],
+      "summary": "Ukrainian President Volodymyr Zelenskyy said a Russian missile strike on a Kyiv apartment building killed 24 people, including three children. The strike took place during a large Russian barrage."
     },
     {
-      "id": "topic_6d256e88bc6fb5fc",
+      "id": "topic_d28423e69878456a",
+      "title": "Australia Bans Neo-Nazi National Socialist Network",
+      "headline": "Neo-Nazi group outlawed under anti-hate legislation",
       "label": [
-        "canva",
-        "backdoor",
-        "gpt",
-        "swn",
-        "581",
-        "cisco canva"
+        "nazi",
+        "neo",
+        "hate",
+        "group",
+        "outlaw",
+        "criminalised"
       ],
       "category": "new",
-      "theme": "theme_848252e63f0affa1",
+      "theme": "theme_3e005e9aab37fbba",
       "entities": [
-        "Cisco",
-        "Canvas",
-        "Microsoft",
-        "Exchange",
-        "Days"
+        "Neo",
+        "Nazi",
+        "Australia",
+        "Burke",
+        "Bondi"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Cisco, Canvas, Microsoft, Exchange 0-Days, NPM Backdoors, GPT-5.5 and more... - SWN #581",
-          "url": "https://www.youtube.com/watch?v=1dWaxs_KBSo",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-05-15T21:00:02.000Z",
-          "image": "https://i2.ytimg.com/vi/1dWaxs_KBSo/hqdefault.jpg"
+          "title": "Neo-Nazi group outlawed under anti-hate legislation",
+          "url": "https://www.perthnow.com.au/news/politics/neo-nazi-group-outlawed-under-anti-hate-legislation-c-22289096",
+          "source": "PerthNow",
+          "published_at": "2026-05-15T04:39:08.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22289096/806649ec371c518e5e142c8f7a4cf05d1b54cd61-16x9-x0y0w1280h720.jpg",
+          "description": "A group that advocates for a white Australia has been listed as a prohibited hate group after advice from the nation's domestic spy agency."
         },
         {
-          "title": "Cisco, Canvas, Microsoft, Exchange 0-Days, NPM Backdoors, GPT-5.5 and more... - SWN #581",
-          "url": "https://hntvaudio.libsyn.com/cisco-canvas-microsoft-exchange-0-days-npm-backdoors-gpt-55-and-more-swn-581",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-05-15T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_581_1--454331ba-8d76-4df6-8fbe-458c9dd9a9e8--audio-converted--bba8d109-84c8-418e-a28a-044010d4b844.mp3?dest-id=376644"
+          "title": "Australia bans neo-Nazi network under new law that criminalises hate groups",
+          "url": "https://www.thehindu.com/news/international/australia-bans-neo-nazi-network-under-new-law-that-criminalises-hate-groups/article70982105.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-15T09:48:05.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/h0gsiz/article70982247.ece/alternates/LANDSCAPE_1200/2026-04-30T020904Z_1265677146_RC2EZKAEV1VF_RTRMADP_3_AUSTRALIA-CRIME-BONDI-COMMISSION.JPG",
+          "description": "The National Socialist Network, also known as White Australia, said it would disband after the government in January passed the law allowing certain organisations to be banned"
         },
         {
-          "title": "Cisco, Canvas, Microsoft, Exchange 0-Days, NPM Backdoors, GPT-5.5 and more... - SWN #581",
-          "url": "https://sw-all.libsyn.com/cisco-canvas-microsoft-exchange-0-days-npm-backdoors-gpt-5-5-and-more-swn-581",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-05-15T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_581_1--454331ba-8d76-4df6-8fbe-458c9dd9a9e8--audio-converted--bba8d109-84c8-418e-a28a-044010d4b844.mp3?dest-id=829103"
-        },
-        {
-          "title": "Cisco, Canvas, Microsoft, Exchange 0-Days, NPM Backdoors, GPT-5.5 and more... - SWN #581",
-          "url": "https://hntvvideo.libsyn.com/cisco-canvas-microsoft-exchange-0-days-npm-backdoors-gpt-55-and-more-swn-581",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-05-15T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_581_1--454331ba-8d76-4df6-8fbe-458c9dd9a9e8--sd-converted--6da39aeb-5431-4ad8-82b0-fc5f5696e52c.mp4?dest-id=376663"
-        }
-      ]
-    },
-    {
-      "id": "topic_3c752188774e1cac",
-      "label": [
-        "embassy",
-        "israeli embassy",
-        "death penalty",
-        "penalty",
-        "israeli",
-        "kill"
-      ],
-      "category": "new",
-      "theme": "theme_e6d14029d949eb42",
-      "entities": [
-        "Justice Department",
-        "Israeli Embassy",
-        "DOJ",
-        "Suspect",
-        "Israeli"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Justice Department to seek death penalty for man charged with killing 2 Israeli Embassy staffers",
-          "url": "https://www.manilatimes.net/2026/05/16/news/world/justice-department-to-seek-death-penalty-for-man-charged-with-killing-2-israeli-embassy-staffers/2345243",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-05-15T18:44:35.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/16/1059360.jpg"
-        },
-        {
-          "title": "DOJ seeks death penalty for man accused of killing two Israeli Embassy workers",
-          "url": "https://www.washingtonexaminer.com/news/justice/4570660/doj-death-penalty-suspect-israeli-embassy-shooting",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-15T18:37:48.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP25338728636359-1.jpg?w=696"
-        },
-        {
-          "title": "DOJ to seek death penalty against man accused of killing Israeli Embassy staffers",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/elias-rodriguez-death-penalty-israeli-embassy-staffers-b2977593.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-15T18:20:14.000Z",
-          "image": "https://static.independent.co.uk/2025/05/23/06/22-d874e9d510684ad5862c7e0d35dcb660.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Suspect in killing of Israeli embassy staff members to face death penalty",
-          "url": "https://www.bbc.com/news/articles/cgep2273d5go",
-          "source": "BBC News",
-          "published_at": "2026-05-15T18:03:57.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd8/live/2926d4d0-5081-11f1-b637-39d6d94b351f.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c929ad550d6a6dc4",
-      "label": [
-        "evacue",
-        "begin three",
-        "three week",
-        "week quarantine",
-        "quarantine",
-        "begin"
-      ],
-      "category": "new",
-      "theme": "theme_ce88aa4ff00e5c56",
-      "entities": [
-        "Hantavirus",
-        "Australian Evacuees",
-        "Hantavirus Outbreak Begin Three",
-        "Week Quarantine Period"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Hantavirus evacuees begin three-week quarantine",
-          "url": "https://www.theage.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
+          "title": "Burke uses Bondi powers to outlaw neo-Nazi hate group",
+          "url": "https://www.theage.com.au/politics/federal/government-lists-neo-nazi-group-as-hate-organisation-20260515-p5zxde.html",
           "source": "The Age - Latest News",
-          "published_at": "2026-05-15T21:36:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ac8885f48de87b35fb6d6759050e639205ad582f"
+          "published_at": "2026-05-15T04:54:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2798%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_188%2C$y_0/t_crop_custom/q_86%2Cf_auto/4f28b4f0221bc7eaf8479ee1626360b58f6b5233",
+          "description": "Joining or provide support to far-right group White Australia, previously known as the National Socialist Network, will be punishable by up to 15 years in jail."
         },
         {
-          "title": "Hantavirus evacuees begin three-week quarantine",
-          "url": "https://www.smh.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-15T21:36:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ac8885f48de87b35fb6d6759050e639205ad582f"
-        },
-        {
-          "title": "Hantavirus evacuees begin three-week quarantine",
-          "url": "https://www.brisbanetimes.com.au/national/hantavirus-evacuees-begin-three-week-quarantine-20260516-p5zxoc.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-15T21:36:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ac8885f48de87b35fb6d6759050e639205ad582f"
-        },
-        {
-          "title": "Australian Evacuees from Hantavirus Outbreak Begin Three-Week Quarantine Period",
-          "url": "https://internewscast.com/news/au/australian-evacuees-from-hantavirus-outbreak-begin-three-week-quarantine-period",
+          "title": "Breaking: ‘White Australia’ Neo-Nazi Group Officially Designated as Banned Hate Organization",
+          "url": "https://internewscast.com/news/au/breaking-white-australia-neo-nazi-group-officially-designated-as-banned-hate-organization",
           "source": "Internewscast Journal",
-          "published_at": "2026-05-15T18:28:07.000Z"
+          "published_at": "2026-05-15T06:26:05.000Z",
+          "description": "Internewscast Journal Internewscast A group known as White Australia, harboring neo-Nazi ideologies, has recently been… This Post: Breaking: ‘White Australia’ Neo-Nazi Group Officially Designated as Banned Hate Organization first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Neo-Nazi group National Socialist Network criminalised under hate laws passed after Bondi terror attack",
+          "url": "https://www.theguardian.com/australia-news/2026/may/15/neo-nazi-group-national-socialist-network-criminalised-under-hate-laws-passed-after-bondi-terror-attack-ntwnfb",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-15T06:12:55.000Z",
+          "image": "https://i.guim.co.uk/img/media/78a14f4a4dcc0e8f01f2d7a776a387ae3add5bdd/677_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=6dc157bbb321e8db5cf58e4a913151db",
+          "description": "Home affairs minister Tony Burke says listing will stop group from organising and meeting, and may prevent more ‘horrific bigoted rallies’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The government has banned neo-Nazi group the…"
         }
-      ]
-    },
-    {
-      "id": "topic_39202778a216078b",
-      "label": [
-        "fa cup",
-        "chelsea",
-        "fa",
-        "city",
-        "cup",
-        "manchester city"
       ],
-      "category": "new",
-      "theme": "theme_a3c3fcb51ad23f07",
-      "entities": [
-        "Chelsea",
-        "Manchester City Bet Builder",
-        "Tips",
-        "FA Cup Final Special",
-        "Analysis"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Chelsea vs Manchester City Bet Builder Tips – 5/1 FA Cup Final Special, Analysis & Predictions",
-          "url": "https://www.soccernews.com/chelsea-vs-manchester-city-bet-builder-tips-5-1-fa-cup-final-special-analysis-predictions/399907",
-          "source": "Soccer News",
-          "published_at": "2026-05-15T22:00:07.000Z"
-        },
-        {
-          "title": "Chelsea vs. Manchester City, FA Cup: Preview, team news, how to watch",
-          "url": "https://sports.yahoo.com/articles/chelsea-vs-manchester-city-fa-205455613.html",
-          "published_at": "2026-05-15T20:54:55.000Z"
-        },
-        {
-          "title": "Chelsea vs Man City FA Cup Super Boost: Citizens to win NOW 5/6 on talkSPORT BET",
-          "url": "https://talksport.com/football/4255441/chelsea-man-city-fa-cup-super-boost-talksport-bet",
-          "source": "talkSPORT",
-          "published_at": "2026-05-15T20:00:00.000Z"
-        },
-        {
-          "title": "Chelsea y Manchester City definen la FA Cup en Wembley",
-          "url": "https://www.informador.mx/deportes/chelsea-y-manchester-city-definen-la-fa-cup-en-wembley-20260515-0133.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-15T19:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7caf4f8b6231a8cd",
-      "label": [
-        "resume",
-        "trump fac",
-        "fac decision",
-        "decision whether",
-        "whether resume",
-        "whether"
-      ],
-      "category": "new",
-      "theme": "theme_ac2006743b17f20",
-      "entities": [
-        "Back From China",
-        "Trump Faces Decision",
-        "Whether",
-        "Resume Strikes",
-        "Iran"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran (New York Times)",
-          "url": "https://www.memeorandum.com/260515/p70",
-          "source": "memeorandum",
-          "published_at": "2026-05-15T18:50:00.000Z",
-          "image": "http://www.memeorandum.com/260515/i70.jpg"
-        },
-        {
-          "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
-          "url": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-05-15T18:27:54.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/15/multimedia/15dc-military-iran-ktmg/15dc-military-iran-ktmg-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Trump Faces Decision on Whether to Resume Iran Strikes",
-          "url": "https://politicalwire.com/2026/05/15/trump-faces-decision-on-whether-to-resume-iran-strikes",
-          "source": "Political Wire",
-          "published_at": "2026-05-15T18:27:36.000Z"
-        },
-        {
-          "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmib0fvx3lxtfbzrmtdckntcwfyter5rmvxwud4tfdxlvbllu00nnyyzfbyntgwcgvccjffs2zsrdbor2tpefbpm2ljaultdgtnnnmzre4xshfzdjbrbggttdzktzfuowrfaepkynkzdxrwzjfkry1zma",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-15T18:15:36.000Z"
-        }
-      ]
+      "summary": "Australia designated the National Socialist Network, also known as White Australia, a prohibited hate group under new legislation. Supporting or joining the group can carry a prison sentence of up to 15 years."
     }
   ]
 }

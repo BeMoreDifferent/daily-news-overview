@@ -1,937 +1,974 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-09T00:15:14.660Z",
+  "generated_at": "2026-09-27T13:52:55.593Z",
   "topics": [
     {
-      "id": "topic_4904aa8ee7ed0e4a",
+      "id": "topic_d1b84e8ee12158d9",
+      "title": "Russia and Ukraine Announce Three-Day Ceasefire and Prisoner Swap",
+      "headline": "Trump announces three-day ceasefire in Russia-Ukraine war",
       "label": [
-        "intel",
-        "chip",
-        "apple",
-        "reach preliminary",
-        "intel make",
-        "make chip"
+        "ceasefire",
+        "ukraine",
+        "russia",
+        "day",
+        "trump",
+        "announces"
       ],
       "category": "new",
-      "theme": "theme_23cf9228de18ae7d",
+      "theme": "theme_ed65441397f44965",
       "entities": [
-        "Report",
+        "Trump",
+        "Russia",
+        "Ukraine",
+        "Al Jazeera",
+        "Three"
+      ],
+      "article_count": 44,
+      "source_count": 38,
+      "articles": [
+        {
+          "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+          "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-08T18:15:46.000Z",
+          "description": "Truce will also include swap of 1,000 prisoners of war from each country, US president says."
+        },
+        {
+          "title": "Trump announces 3-day ceasefire between Russia and Ukraine",
+          "url": "https://www.scmp.com/news/world/europe/article/3352962/trump-announces-three-day-ceasefire-between-russia-and-ukraine",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-08T20:24:39.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/09/652b1455-4bc3-47f4-938b-9bc97d84def1_0713e78b.jpg?itok=7t91F5GS&v=1778271867",
+          "description": "US President Donald Trump announced on Friday that Russia and Ukraine had agreed to a three-day ceasefire and a prisoner exchange following US-mediated talks, saying negotiations to end the war were continuing and “we are getting closer and closer every day”. “I am pleased to announce that there wi…"
+        },
+        {
+          "title": "Trump announces three-day ceasefire between Ukraine and Russia",
+          "url": "https://www.gmanetwork.com/news/topstories/world/986991/trump-announces-three-day-ceasefire-between-ukraine-and-russia/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-08T18:54:19.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/02/2026-02-22T060106Z_475132920_RC2TQJA30JDN_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV_2026_02_22_18_52_38.JPG",
+          "description": "WASHINGTON - US President Donald Trump on Friday announced on social media that there would be a three-day ceasefire in the war between Russia and Ukraine from May 9 until May 11 to mark the end of World War Two for the Russians."
+        },
+        {
+          "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxnythyu2s5tjrvlwdtu2yxyjvsenbis05tnfbrbdbytu5howyzmzhwuldpqkhltxjnskn1etbpbwj6nvpfbznfofrymmnnltrvt0l5z1puvuxywjvtwufkd3zwsupivmm0u0h5d0d2ogc2bhpxalzjwxozugo0nxfon195ahhyumnpb216evpybdlleezcewn0dg9wahpgzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T18:26:21.000Z",
+          "description": "Trump announces three-day ceasefire in Russia-Ukraine war Al Jazeera Trump announces Russia-Ukraine three-day ceasefire from 9 May The Guardian Trump announces Russia-Ukraine prisoner swap as part of 3-day ceasefire CBS News Ukraine's Zelenskiy Confirms US Announcement of Ceasefire, Prisoner Exchan…"
+        },
+        {
+          "title": "Three-day ceasefire between Russia and Ukraine announced",
+          "url": "https://news.sky.com/story/three-day-ceasefire-between-russia-and-ukraine-announced-13541685",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-08T18:57:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-russia-ukraine-war_7243146.jpg?20260508230215",
+          "description": "A three-day ceasefire has been agreed by the leaders of Russia and Ukraine, as well as an exchange of prisoners, following a request from Donald Trump."
+        }
+      ],
+      "summary": "Donald Trump announced a three-day ceasefire from May 9 to May 11 and a planned exchange of 1,000 prisoners from each country, following US-mediated talks."
+    },
+    {
+      "id": "topic_b84cb58d4e95ff62",
+      "title": "Pentagon Releases Collection of Declassified UFO Files",
+      "headline": "Pentagon releases UFO files on new website",
+      "label": [
+        "releases",
+        "ufo",
+        "files",
+        "pentagon",
+        "classified",
+        "government"
+      ],
+      "category": "new",
+      "theme": "theme_ac7c3f0d9f6041ca",
+      "entities": [
+        "Pentagon",
+        "UFO",
+        "The Pentagon Releases New",
+        "Trove",
+        "Declassified UFO Files"
+      ],
+      "article_count": 29,
+      "source_count": 27,
+      "articles": [
+        {
+          "title": "Pentagon releases UFO files on new website",
+          "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website",
+          "source": "TechCrunch",
+          "published_at": "2026-05-08T15:56:36.000Z",
+          "description": "The Defense Department has released a collection of UFO files with images, videos, and documents on war.gov/ufo."
+        },
+        {
+          "title": "Pentagon releases swath of UFO files",
+          "url": "https://www.politico.com/news/2026/05/08/pentagon-ufo-files-released-00911352",
+          "source": "POLITICO",
+          "published_at": "2026-05-08T14:39:08.000Z",
+          "description": "The government gave no analysis of the files, suggesting it is up to Americans to draw their own conclusions."
+        },
+        {
+          "title": "The Pentagon Releases New Trove of Declassified UFO Files",
+          "url": "https://www.wired.com/story/pentagon-drops-new-ufo-files",
+          "source": "Science Latest",
+          "published_at": "2026-05-08T18:18:24.000Z",
+          "image": "https://media.wired.com/photos/69fdf4151d0ebeb1bdd41655/master/pass/2024-04-30-Composite-Sketch.jpg",
+          "description": "The Defense Department has released a new trove of declassified documents about government UFO sightings."
+        },
+        {
+          "title": "Pentagon Releases Files on U.F.O.s",
+          "url": "https://politicalwire.com/2026/05/08/pentagon-releases-files-on-u-f-o-s",
+          "source": "Political Wire",
+          "published_at": "2026-05-08T15:19:15.000Z",
+          "description": "The Pentagon released what it called “new, never-before-seen” files on U.F.O.s on Friday, hailing the step as an example of the commitment of the department, which kicked out reporters earlier this year, to transparency, the New York Times reports."
+        },
+        {
+          "title": "Pentagon releases swath of UFO files",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxomvjrexltbdywufatunb0dktoberoclbwytzlzutpz0rougw0bmsyn1jkzddtbvpfdg1xnlhtanvnazn5zk1ssnpqr0txeunpdwzdzluzckf0ogrdylnxshe4ywzgmmvxagpswnjsafjwyxziwhozm1zjsfftx1cxdvnxdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T14:04:43.000Z",
+          "description": "Pentagon releases swath of UFO files Politico Did Apollo 17 astronauts witness UFO on moon? What's in disclosure files USA Today Pentagon Releases Files on U.F.O.s The New York Times Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) U.S. Department of War (.gov) Pentagon Relea…"
+        }
+      ],
+      "summary": "The Defense Department published documents, images and videos about UFO sightings on a new website. The files were released without government analysis."
+    },
+    {
+      "id": "topic_65fd1f822253e1ff",
+      "title": "Dirty Frag Linux Kernel Flaw Could Enable Privilege Escalation",
+      "headline": "Linux Kernel Privilege Escalation Vulnerability (Dirty Frag) Alert",
+      "label": [
+        "dirty",
+        "frag",
+        "linux",
+        "vulnerability",
+        "distros",
+        "内核提权"
+      ],
+      "category": "new",
+      "theme": "theme_cd2ae78496a8e34e",
+      "entities": [
+        "Linux",
+        "Dirty Frag",
+        "Linux Kernel Privilege Escalation",
+        "Vulnerability",
+        "Alert"
+      ],
+      "article_count": 16,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Linux Kernel Privilege Escalation Vulnerability (Dirty Frag) Alert",
+          "url": "https://securityboulevard.com/2026/05/linux-kernel-privilege-escalation-vulnerability-dirty-frag-alert",
+          "source": "Security Boulevard",
+          "published_at": "2026-05-08T07:34:24.000Z",
+          "description": "Overview Recently, NSFOCUS CERT has detected a Linux kernel privilege escalation vulnerability (Dirty Frag) disclosed online. Attackers use the logical defects of splice system calls in conjunction with xfrm-ESP or RxRPC protocol stacks to tamper with the page cache of any read-only file without ra…"
+        },
+        {
+          "title": "Linux 内核提权 Dirty Frag",
+          "url": "http://www.seebug.org/vuldb/ssvid-99969",
+          "source": "Seebug 最新漏洞",
+          "description": "Linux Kernel 是当前服务器与云主机最广泛使用的开源操作系统内核，承载企业核心业务、容器底座、虚拟化平台等关键负载。其优势在于开源透明、社区维护活跃、生态完善，被绝大多数 Linux 发行版（Ubuntu、Red Hat Enterprise Linux、CentOS、Fedora、openSUSE 等）采用作为底层内核。 近期，Linux Kernel 中被披露存在一个名为 \"Dirty Frag\" 的本地权限提升漏洞。 该漏洞由内核中两个独立的页缓存写入漏洞组合而成： xfrm-ESP（esp4 / esp6）模块漏洞：影响范围自 2017 年起的内核版本（commit cac…"
+        },
+        {
+          "title": "Dirty Frag: Universal Linux LPE",
+          "url": "https://github.com/v4bel/dirtyfrag",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-05-08T20:36:51.000Z",
+          "description": "Article URL: https://github.com/V4bel/dirtyfrag Comments URL: https://news.ycombinator.com/item?id=48068475 Points: 8 # Comments: 1"
+        },
+        {
+          "title": "'Dirty Frag' Gives Root on Linux Distros",
+          "url": "https://www.govinfosecurity.com/dirty-frag-gives-root-on-linux-distros-a-31641",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/dirty-frag-gives-root-on-linux-distros-image_small-10-a-31641.jpg",
+          "description": "No Patches Yet Available, After Third Party Published Vulnerability Details Security researchers have discovered a new, critical flaw in the Linux kernel that attackers can exploit to gain root access. No patches are yet available to fix \"Dirty Frag,\" the second new local privilege escalation flaw…"
+        },
+        {
+          "title": "Dirty Frag and other issues in Amazon Linux kernels",
+          "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-027-aws",
+          "source": "Latest Bulletins",
+          "published_at": "2026-05-08T02:58:20.000Z",
+          "description": "Bulletin ID: 2026-027-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 2026/05/07 19:45 PM PDT Description: Amazon is aware of a class of issues in the Linux kernel related to the original issue (CVE-2026-31431). The issues commonly referred to as \"DirtyFrag\" are presen…"
+        }
+      ],
+      "summary": "Security reports describe a Linux kernel vulnerability called Dirty Frag that could let attackers gain elevated privileges. Amazon also issued a bulletin about related issues in its Linux kernels."
+    },
+    {
+      "id": "topic_7bfb3ed28d44a012",
+      "title": "Mount Dukono Eruption Kills Three Hikers; Ten Missing",
+      "headline": "3 hikers dead after volcano eruption in Indonesia at Mount Dukono",
+      "label": [
+        "volcano",
+        "indonesia",
+        "hikers",
+        "erupts",
+        "eruption",
+        "dead"
+      ],
+      "category": "new",
+      "theme": "theme_507ad4f2dbcd36ab",
+      "entities": [
+        "Indonesia",
+        "Mount Dukono",
+        "Three",
+        "Hikers Dead",
+        "Several Missing After Volcano"
+      ],
+      "article_count": 18,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "3 hikers dead after volcano eruption in Indonesia at Mount Dukono",
+          "url": "https://globalnews.ca/news/11840270/indonesia-mount-dukono-hikers-dead-volcano-eruption",
+          "source": ": World",
+          "published_at": "2026-05-08T16:15:49.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/volcano-mount-dukono-indonesia.jpg?quality=65&strip=all",
+          "description": "The hikers became stranded when Mount Dukono erupted at 7:41 a.m. local time, causing a large booming sound and sending a thick ash column that rose 10 kilometres above the summit."
+        },
+        {
+          "title": "Three hikers dead and 10 missing after Indonesia’s Mount Dukono volcano erupts",
+          "url": "https://www.theguardian.com/world/2026/may/08/hikers-dead-missing-eruption-indonesia-mount-dukono-volcano",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-05-08T07:38:29.000Z",
+          "image": "https://i.guim.co.uk/img/media/27377afeef3e0ca451489c43eef9d6e6f0ea09ba/0_314_1070_855/master/1070.jpg?width=140&quality=85&auto=format&fit=max&s=ea98c8b89b51f6d3a8f7154e248f6e4f",
+          "description": "Two foreigners among the dead, say authorities, after early morning eruption that spewed ash miles into the air Three hikers have died and 10 are missing after an eruption at Mount Dukono on Indonesia’s eastern Halmahera island spewed an ash cloud about 10km (6 miles) into the air, local police hav…"
+        },
+        {
+          "title": "Watch: Indonesia's Mount Dukono volcano erupts, three hikers dead",
+          "url": "https://www.indiatoday.in/science/story/mount-dukono-volcano-eruption-indonesia-hikers-dead-missing-2026-2908711-2026-05-08",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-08T10:34:21.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/a-massive-ash-plume-rises-from-mount-dukonos-malupang-warirang-crater-on-may-8--2026--sending-smoke-082728901-16x9_0.jpg?VersionId=OS70FJp0zY9pqc_Q9JvNxVIz26D3ZrQA",
+          "description": "Watch Indonesias Mount Dukono volcano erupts three hikers dead"
+        },
+        {
+          "title": "3 hikers dead, 10 missing in Indonesia volcano eruption",
+          "url": "https://cebudailynews.inquirer.net/725939/3-hikers-dead-10-missing-in-indonesia-volcano-eruption",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-08T10:47:30.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/05/indonesia.png-620x349.jpg",
+          "description": "JAKARTA — Three hikers, two foreigners and a resident, were killed and 10 were missing after a volcano on Indonesia’s eastern Halmahera island erupted Friday, spewing an ash cloud into the air, a local police chief reported. READ: Mayon Volcano ashfall: Closest towns need drinking water, masks “The…"
+        },
+        {
+          "title": "3 Hikers Dead and Several Missing After Volcano Erupts in Indonesia",
+          "url": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-05-08T06:57:26.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/08/multimedia/08xp-volcano-new-btzv/08xp-volcano-new-btzv-mediumSquareAt3X.jpg",
+          "description": "The Indonesian authorities reported the deaths after Mount Dukono erupted on Friday morning. Rescue workers are trying to evacuate climbers."
+        }
+      ],
+      "summary": "An eruption at Mount Dukono in Indonesia killed three hikers and left 10 missing. Authorities and rescue workers were working to evacuate climbers after the volcano sent ash high into the air."
+    },
+    {
+      "id": "topic_665b682d1ea807c1",
+      "title": "Nintendo Raises Switch 2 Prices and Forecasts Lower Sales",
+      "headline": "Nintendo is raising Switch 2 prices",
+      "label": [
+        "nintendo",
+        "raising",
+        "switch",
+        "prices",
+        "price",
+        "bites"
+      ],
+      "category": "new",
+      "theme": "theme_2c6b9aba5de45026",
+      "entities": [
+        "Nintendo",
+        "Switch",
+        "Nintendo Is Raising",
+        "Price",
+        "Nintendo Switch"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Nintendo is raising Switch 2 prices",
+          "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
+          "source": "The Verge",
+          "published_at": "2026-05-08T08:33:24.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.99 in the US, up from its current $449.99 price. At the same time, prices will a…"
+        },
+        {
+          "title": "Nintendo is raising Switch 2 prices around the world",
+          "url": "https://www.gamedeveloper.com/business/nintendo-is-raising-switch-2-prices-around-the-world",
+          "source": "gamedeveloper",
+          "published_at": "2026-05-08T10:04:39.000Z",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte6cde6a72aa4347d/69fdb7f421efbc80a9ce6056/Switch_2_Header.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "description": "Price hikes will be implemented in May in Japan and in September across other regions."
+        },
+        {
+          "title": "Nintendo is raising Switch 2 prices as chip crisis bites",
+          "url": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-08T08:59:32.000Z",
+          "image": "https://www.engadget.com/img/gallery/nintendo-is-raising-switch-2-prices-as-chip-crisis-bites/l-intro-1778230660.jpg",
+          "description": "It sold 19.86 million Switch 2s last year but forecasts a drop in sales next year."
+        },
+        {
+          "title": "Nintendo Is Raising the Price of the Nintendo Switch 2",
+          "url": "https://lifehacker.com/tech/nintendo-just-raised-the-price-of-the-nintendo-switch-2",
+          "source": "Lifehacker",
+          "published_at": "2026-05-08T14:01:19.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01KR3XJFHWPZX3RZHVAWDYNSG3/hero-image.jpg",
+          "description": "You might need to act fast if you want the console at its original price."
+        },
+        {
+          "title": "Nintendo raises Switch price, forecasts lower profits",
+          "url": "https://japantoday.com/category/business/japanese-video-game-maker-nintendo-raises-switch-price-forecasts-lower-profits",
+          "source": "Japan Today",
+          "published_at": "2026-05-08T21:01:11.000Z",
+          "description": "Nintendo’s annual profit surged 52% in the last fiscal year, lifted by solid sales of its Switch 2 machines and software. The Japanese video-game company behind the Super…"
+        }
+      ],
+      "summary": "Nintendo plans price increases for the Switch 2 in Japan from May and in other regions from September. The company also forecast lower sales for the coming year."
+    },
+    {
+      "id": "topic_ecaa7acb6809f621",
+      "title": "US and Iran Exchange Fire as Trump Says Ceasefire Holds",
+      "headline": "US and Iran exchange fire, but Trump says ceasefire still in effect",
+      "label": [
+        "still",
+        "ceasefire",
+        "iran",
+        "trump",
+        "effect",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_fa188015a8a6a949",
+      "entities": [
+        "US",
+        "Iran",
+        "Trump",
+        "Hormuz",
+        "Strait"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "US and Iran exchange fire, but Trump says ceasefire still in effect",
+          "url": "https://www.gmanetwork.com/news/topstories/world/986872/us-and-iran-exchange-fire-but-trump-says-ceasefire-still-in-effect/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-08T01:41:48.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/2026-05-08T013417Z_1460245495_RC2P4LAKESIV_RTRMADP_3_IRAN-CRISIS_2026_05_08_09_40_11.JPG",
+          "description": "WASHINGTON/DUBAI -- The United States and Iran exchanged fire on Thursday in the most serious test yet of their month-long ceasefire, but Iran said the situation returned to normal while the U.S. said it did not want to escalate."
+        },
+        {
+          "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-08T00:00:00.000Z",
+          "description": "Iran accused the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas."
+        },
+        {
+          "title": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
+          "url": "https://www.france24.com/en/iran-and-the-us-trade-fire-over-hormuz-trump-says-ceasefire-still-in-effect",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-08T09:45:52.000Z",
+          "image": "https://s.france24.com/media/display/2d00857a-4ac2-11f1-ae13-005056a97e36/w:1024/p:16x9/EN-20260508-111619-111746-CS.jpg",
+          "description": "A new exchange of fire between Iran and the US occurred late Thursday night in the Strait of Hormuz, with both countries accusing each other of firing first. The latest by Simon Moritz."
+        },
+        {
+          "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "url": "https://www.bbc.com/news/articles/c626zyywxjno",
+          "source": "BBC News",
+          "published_at": "2026-05-08T02:07:54.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/27fe0690-4a7e-11f1-b55d-0f258dce1735.jpg",
+          "description": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas."
+        },
+        {
+          "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxtfa1d1fycdvjn0txdmdasnjjsvpic0i5zgdqbf9zcg5qu1nnu3fqmxzvvmn4n3niqujiofzlskdkqng5luk3bveywm9rtnnhz0r3yktzvezcdddozw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T02:07:54.000Z",
+          "description": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz BBC Trump Calls Hormuz Strikes Exchange 'Love Tap', Iran's \"Lion\" Warning NDTV Iran accuses US of violating ceasefire, US says it carried out retaliatory strikes - as it happened Reuters Iran says it attacked US…"
+        }
+      ],
+      "summary": "The United States and Iran exchanged fire near the Strait of Hormuz, with both sides accusing the other of firing first. Trump said the ceasefire remained in effect; Iran said the situation had returned to normal."
+    },
+    {
+      "id": "topic_960bfe5df44bc860",
+      "title": "UAE Reports Missile and Drone Attack Amid Iran Ceasefire Strain",
+      "headline": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+      "label": [
+        "missile",
+        "drone",
+        "reports",
+        "uae",
+        "attack",
+        "iran"
+      ],
+      "category": "new",
+      "theme": "theme_bb34d76562cab054",
+      "entities": [
+        "UAE",
+        "Iran",
+        "IRAN WAR",
+        "NewsUAE",
+        "US"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+          "url": "https://www.npr.org/2026/05/08/g-s1-121061/uae-reports-drone-and-missile-attack",
+          "source": "NPR Topics: World",
+          "published_at": "2026-05-08T10:44:36.000Z",
+          "description": "The Iran war's shaky ceasefire was further strained on Friday as the United Arab Emirates responded to a missile and drone strikes."
+        },
+        {
+          "title": "IRAN WAR: UAE reports drone, missile attack as Iran war ceasefire is challenged",
+          "url": "https://torontosun.com/news/world/iran-war-latest-may-8",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-08T11:28:37.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/iran-war-strait-of-hormuz_303000921-e1778238620385.jpg?quality=100&strip=all",
+          "description": "Here's the latest on the Iran war on Friday"
+        },
+        {
+          "title": "NewsUAE reports drone and missile attack as Iran war ceasefire is challenged",
+          "url": "https://www.ms.now/news/newsuae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged",
+          "source": "MS NOW",
+          "published_at": "2026-05-08T04:39:12.000Z",
+          "description": "The United Arab Emirates’ responded to a missile and drone attack hours after the U.S. said it thwarted attacks on three Navy ships in the Strait of Hormuz. The post NewsUAE reports drone and missile attack as Iran war ceasefire is challenged appeared first on MS NOW."
+        },
+        {
+          "title": "UAE reports drone, missile attack; US trades fire with Iran",
+          "url": "https://cebudailynews.inquirer.net/726017/uae-reports-drone-missile-attack-us-trades-fire-with-iran",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-08T12:55:47.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/05/download-35-1-620x413.jpg",
+          "description": "The United Arab Emirates said it responded to another Iranian missile barrage on Friday.... Keep on reading: UAE reports drone, missile attack; US trades fire with Iran"
+        },
+        {
+          "title": "UAE reports drone and missile attack after US says it traded fire with Iran (Associated Press)",
+          "url": "https://www.memeorandum.com/260508/p33",
+          "source": "memeorandum",
+          "published_at": "2026-05-08T13:55:01.000Z",
+          "image": "http://www.memeorandum.com/260508/i33.jpg",
+          "description": "Associated Press: UAE reports drone and missile attack after US says it traded fire with Iran — The United Arab Emirates said it responded to another Iranian missile barrage on Friday, hours after the U.S. said it traded fire with Iranian forces in the Strait of Hormuz, in the latest blows to a sha…"
+        }
+      ],
+      "summary": "The United Arab Emirates said it responded to a missile and drone attack on Friday, hours after the United States reported thwarting attacks on Navy ships in the Strait of Hormuz."
+    },
+    {
+      "id": "topic_3d2c3a181d50f46f",
+      "title": "Trump Reportedly Plans to Remove FDA Commissioner Marty Makary",
+      "headline": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
+      "label": [
+        "makary",
+        "marty",
+        "fda",
+        "commissioner",
+        "fire",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_51949635cd95ac55",
+      "entities": [
+        "Trump",
+        "FDA Commissioner Marty Makary",
+        "Trump Is Planning",
+        "Fire FDA Commissioner Marty",
+        "Makary"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
+          "url": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-05-08T22:10:58.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216571317-1152x648-1778084381.jpg",
+          "description": "The plan isn't final and could change, but his ouster would be no surprise."
+        },
+        {
+          "title": "Trump Is Planning to Fire FDA Commissioner Marty Makary",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxobu1xme9tcfrndufwvtkwcvpuvdfhmlh4z0htwwhcnkzntwleendbalhrnelyrzr1alruzdlqyue1q2toofludm9ysklkdzbtthy4b1lvofv5ctjdzdm3cly4mdewbnp4y0dlzgzzcnjxs0txn1njcc1xx2m1txjkd256qwzux2rdqxdomlf3lvhvv1vhyvpyzvbcmfnzcklp",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T21:34:00.000Z",
+          "description": "Trump Is Planning to Fire FDA Commissioner Marty Makary WSJ Trump has signed off on ousting FDA chief, senior official says CNN Trump Live Updates: Marty Makary Firing, UFO Files Released and More News The New York Times Trump’s MAHA Goon Faces Axe Over Vaping Blow Up The Daily Beast White House pr…"
+        },
+        {
+          "title": "Trump Plans to Fire F.D.A. Commissioner Marty Makary",
+          "url": "https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-05-08T20:40:05.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/08/multimedia/08dc-makary-photo-glqt/08dc-makary-photo-glqt-mediumSquareAt3X.jpg",
+          "description": "Dr. Makary has been a supporter of the Make American Healthy Again Movement but made some enemies in the administration over vaping, the abortion pill and rejections of new drugs."
+        },
+        {
+          "title": "Trump reportedly plans to fire FDA Commissioner Makary",
+          "url": "https://www.statnews.com/2026/05/08/fda-commissioner-marty-makary-exit-controversial-tenure",
+          "source": "STAT",
+          "published_at": "2026-05-08T18:57:50.000Z",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/05/GettyImages-2215773024-1024x576.jpg",
+          "description": "Makary's ouster would create another high-profile vacancy atop RFK Jr.'s health department."
+        },
+        {
+          "title": "Trump Plans to Fire F.D.A. Commissioner Marty Makary (New York Times)",
+          "url": "https://www.memeorandum.com/260508/p90",
+          "source": "memeorandum",
+          "published_at": "2026-05-08T21:30:01.000Z",
+          "image": "http://www.memeorandum.com/260508/i90.jpg",
+          "description": "New York Times: Trump Plans to Fire F.D.A. Commissioner Marty Makary — Dr. Makary has been a supporter of the Make American Healthy Again Movement but made some enemies in the administration over vaping, the abortion pill and rejections of new drugs. — President Trump has signed off on a plan to fi…"
+        }
+      ],
+      "summary": "Reports say Trump plans to fire FDA Commissioner Marty Makary, though the plan is not final and could change. Makary has clashed with administration figures over issues including vaping, abortion medication and drug approvals."
+    },
+    {
+      "id": "topic_141cafefee82a772",
+      "title": "David Attenborough Celebrates His 100th Birthday",
+      "headline": "David Attenborough celebrates his 100th birthday",
+      "label": [
+        "attenborough",
+        "david",
+        "birthday",
+        "100th",
+        "sir",
+        "celebrates"
+      ],
+      "category": "trending",
+      "theme": "theme_cd1d9e4322bf5e8f",
+      "entities": [
+        "David Attenborough",
+        "Celebrating David Attenborough",
+        "South",
+        "NPR",
+        "Sir David Attenborough"
+      ],
+      "article_count": 37,
+      "source_count": 29,
+      "articles": [
+        {
+          "title": "David Attenborough celebrates his 100th birthday",
+          "url": "https://www.scientificamerican.com/article/david-attenborough-celebrates-his-100th-birthday",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-05-08T09:00:00.000Z",
+          "description": "David Attenborough once directed programming at the BBC and has hosted numerous award-winning nature documentaries, but he’s always stayed down-to-earth, colleagues say"
+        },
+        {
+          "title": "Celebrating David Attenborough's 100th birthday in the South",
+          "url": "https://www.bbc.com/news/articles/cgjp5zqxv36o",
+          "source": "BBC News",
+          "published_at": "2026-05-08T04:56:40.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f95/live/6d9a1860-4a15-11f1-a7ce-b934bcb15ff4.jpg",
+          "description": "As Sir David Attenborough turns 100 years old, here is how he helped nature in Hampshire and Dorset."
+        },
+        {
+          "title": "David Attenborough celebrates his 100th birthday",
+          "url": "https://news.google.com/rss/articles/cbmimafbvv95cuxqvk1ot1nftwfdbhlxzxdlukroutbtz1rane11vnvutnpmavrwv2vivmezelvkdkrym0nslvpsvvz6q3k1wunjbu9xwfzpewzpctlzoufsml9cbmxds1zzahdst2xmxzu4mvv5cgpetmjvltlvr1ncul9ldk8ycwi3wwfkwv9tdhzkwknwtjjsbzlnc3fmbuzyeg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T09:00:00.000Z",
+          "description": "David Attenborough celebrates his 100th birthday NPR David Attenborough at 100: Key moments from an extraordinary life CNN Prince William and Robert Irwin Lead 100th Birthday Wishes to TV Icon David Attenborough: ‘You Inspire Me’ Yahoo Happy centenary, David! Attenborough’s 100 most spectacular TV…"
+        },
+        {
+          "title": "WATCH: Sir David Attenborough turns 100",
+          "url": "https://abcnews.com/video/132772900",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-08T10:25:55.000Z",
+          "image": "https://s.abcnews.com/images/Entertainment/260508_gmafl_attenborough_hpMain_4x3_384.jpg",
+          "description": "ABC News' Danny New celebrates the career of the legendary conservationist and broadcaster."
+        },
+        {
+          "title": "The World Is Celebrating David Attenborough's 100th Birthday With Butterflies and Concerts",
+          "url": "https://time.com/article/2026/05/08/david-attenborough-turns-100",
+          "source": "TIME",
+          "published_at": "2026-05-08T10:00:02.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt24abc253174f2f0f/69fc9f86d2b670258e8af01b/attenborough.jpg?branch=production&format=jpg&width=1024",
+          "description": "The world is celebrating Attenborough's centennial with butterflies and concerts."
+        }
+      ],
+      "summary": "Broadcaster and conservationist David Attenborough turned 100. Celebrations included tributes, concerts and events highlighting his career and conservation work."
+    },
+    {
+      "id": "topic_b49abeff02f30929",
+      "title": "South Africa Court Reinstates Ramaphosa Impeachment Inquiry",
+      "headline": "South Africa Constitutional Court orders Parliament to revisit Ramaphosa impeachment proceedings",
+      "label": [
+        "impeachment",
+        "court",
+        "ramaphosa",
+        "africa",
+        "south",
+        "ruling"
+      ],
+      "category": "new",
+      "theme": "theme_753f723f345f6095",
+      "entities": [
+        "South Africa Constitutional Court",
+        "Parliament",
+        "Ramaphosa",
+        "South Africa",
+        "Historic"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "South Africa Constitutional Court orders Parliament to revisit Ramaphosa impeachment proceedings",
+          "url": "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-08T08:42:00.000Z",
+          "description": "Cyril Ramaphosa's presidency is on the line, as lawmakers will now have to reconsider whether there are grounds to impeach him over the scandal dubbed \"Farmgate.\""
+        },
+        {
+          "title": "South Africa court rules impeachment proceedings against president should not have been blocked",
+          "url": "https://www.yahoo.com/news/articles/south-africa-court-rules-impeachment-091457886.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-08T09:42:05.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/ec3734c58da54684e23e6b647e65d605"
+        },
+        {
+          "title": "South Africa president faces call to resign after court ruling",
+          "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
+          "source": "BBC News",
+          "published_at": "2026-05-08T10:33:12.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34d2/live/739e82a0-4ab5-11f1-bd52-e755d604ece4.jpg",
+          "description": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa."
+        },
+        {
+          "title": "Historic ruling: Ramaphosa's impeachment inquiry reinstated by Constitutional Court",
+          "url": "https://www.iol.co.za/news/crime-and-courts/historic-ruling-ramaphosas-impeachment-inquiry-reinstated-by-constitutional-court-a922c126-9e03-4f4b-8dbe-94c79295cf67",
+          "source": "IOL section feed for News",
+          "published_at": "2026-05-08T11:19:34.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/f4a41b329fca395506204961b8e5121545a59bd9/1120&operation=CROP&offset=0x45&resize=1120x630"
+        },
+        {
+          "title": "Court Decision Leaves South Africa’s President Facing Impeachment Inquiry",
+          "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+          "source": "NYT > World News",
+          "published_at": "2026-05-08T09:46:53.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/08/multimedia/08int-safrica-impeachment-qvhm/08int-safrica-impeachment-qvhm-mediumSquareAt3X.jpg",
+          "description": "Judges ruled that an impeachment hearing should be held over a case involving money stolen from a couch at President Cyril Ramaphosa’s farm six years ago."
+        }
+      ],
+      "summary": "South Africa’s Constitutional Court ruled that lawmakers were wrong to block impeachment proceedings against President Cyril Ramaphosa. Parliament must reconsider whether there are grounds for an inquiry related to the Farmgate scandal."
+    },
+    {
+      "id": "topic_d602dac6baf7885a",
+      "title": "Myanmar Reports Discovery of 11,000-Carat Ruby",
+      "headline": "Massive 11,000-carat ruby unearthed in Myanmar",
+      "label": [
+        "carat",
+        "ruby",
+        "myanmar",
+        "massive",
+        "unearthed",
+        "discovered"
+      ],
+      "category": "new",
+      "theme": "theme_eb79552f22e21b6",
+      "entities": [
+        "Massive",
+        "Myanmar",
+        "Carat Ruby Discovered In",
+        "War",
+        "Scarred Gemstone Heartland"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Massive 11,000-carat ruby unearthed in Myanmar",
+          "url": "https://michaelwest.com.au/massive-11000-carat-ruby-unearthed-in-myanmar",
+          "source": "Michael West",
+          "published_at": "2026-05-08T17:55:00.000Z",
+          "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/3fbe05b4-deaf-4207-b267-21a0690e6b3f.jpg",
+          "description": "Miners in Myanmar have discovered a massive ruby, considered to be the second-largest by weight ever found in the country."
+        },
+        {
+          "title": "Myanmar says massive 11,000-carat ruby discovered",
+          "url": "https://globalnation.inquirer.net/322018/myanmar-says-massive-11000-carat-ruby-discovered",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-08T11:08:21.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/05/Myanmar-says-massive-11000-carat-ruby-discovered-620x413.jpg",
+          "description": "YANGON — A huge 11,000-carat ruby has been discovered in Myanmar, state media reported Friday, one of the largest ever found in the country renowned for its precious gemstones. Coup leader turned president Min Aung Hlaing was pictured on the front page of the state-run Global New Light of Myanmar n…"
+        },
+        {
+          "title": "A massive 11,000-carat ruby has been unearthed in Myanmar’s war-scarred gemstone heartland",
+          "url": "https://www.seattletimes.com/nation-world/a-massive-11000-carat-ruby-has-been-unearthed-in-myanmars-war-scarred-gemstone-heartland",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-08T13:12:07.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05082026_ruby_tzr_064132.jpg?d=1200x630",
+          "description": "Miners in Myanmar have discovered a massive ruby, considered to be the second-largest by weight ever found in the country."
+        },
+        {
+          "title": "Massive 11,000-Carat Ruby Discovered In Myanmar’s War-Scarred Gemstone Heartland",
+          "url": "https://www.huffpost.com/entry/ap-as-myanmar-ruby_n_69fdfdc5e4b0cb033e51704a",
+          "source": "World News",
+          "published_at": "2026-05-08T15:26:10.000Z",
+          "description": "The massive jewel is considered to be the second-largest by weight ever found in the country."
+        },
+        {
+          "title": "Massive 11,000-carat ruby unearthed by miners, Myanmar says",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxqcuplykhrqul4uegzmnjmowvjagf5qw1jdjm4tlhoqtzwvdzmltrtmtdpbdbzdxblazrvuc1xefvfm0m0slp6bmhxtmvfmtluc3bnns0zbtjavk43slv3zl9fb3lxznmyodvvywj4bvhzehpgqxbxlufylvztmxjstdnnm3tsayobqvvfexfmuhn2cfrzbgpun3necxp6cfa0udryevvoetf1mvzxqnpxwg1vbmdrcdy1dkhbelm3wg9yd1q3d2fqeu84uxvus1lteulwu21rlxytm1b2b1z5wm9hu3p4tgnhue52runqamrnrddtnhpotnc1vufelxaxqulyxzfmrulctvyxdxnwalvb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T14:17:00.000Z",
+          "description": "Massive 11,000-carat ruby unearthed by miners, Myanmar says CBS NewsSee more headlines & perspectives on Google News"
+        }
+      ],
+      "summary": "Miners in Myanmar discovered an 11,000-carat ruby, which authorities and reports described as one of the largest ever found in the country."
+    },
+    {
+      "id": "topic_2bbdcd11e8f90542",
+      "title": "PredatorSense V3 Flaw Could Allow Local Privilege Escalation",
+      "headline": "CVE-2026-8069 PredatorSense V3: Local Privilege Escalation (LPE) vulnerability",
+      "label": [
+        "privilege",
+        "escalation",
+        "local",
+        "lpe",
+        "vulnerability",
+        "predatorsense"
+      ],
+      "category": "new",
+      "theme": "theme_7eedbe631b96ec06",
+      "entities": [
+        "CVE",
+        "PredatorSense V3",
+        "Local Privilege Escalation",
+        "LPE",
+        "Guardicore Local Privilege Escalation"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "CVE-2026-8069 PredatorSense V3: Local Privilege Escalation (LPE) vulnerability",
+          "url": "https://vulners.com/cvelist/cvelist:cve-2026-8069",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-05-08T05:57:22.000Z",
+          "image": "http://vulners.com/static/img/cvelist.png",
+          "description": "PredatorSense version 3.00.3136 to 3.00.3196 contain Local Privilege Escalation LPE vulnerability.The program exposes a Windows Named Pipe that uses a custom protocol to invoke internal functions. However, this Named Pipe is misconfigured, allowing any authenticated local user to execute arbitrary…"
+        },
+        {
+          "title": "PredatorSense V3: Local Privilege Escalation (LPE) vulnerabilityPredatorSense...",
+          "url": "https://cve.threatint.eu/cve/cve-2026-8069",
+          "source": "CVE: New",
+          "published_at": "2026-05-08T05:57:22.000Z",
+          "description": "PredatorSense version 3.00.3136 to 3.00.3196 contain Local Privilege Escalation (LPE) vulnerability.The program exposes a Windows Named Pipe that uses a custom protocol to invoke internal functions..."
+        },
+        {
+          "title": "CVE-2026-34354: Guardicore Local Privilege Escalation Vulnerability",
+          "url": "https://www.akamai.com/blog/security-advisory/2026/may/advisory-cve-2026-34354-guardicore-local-privilege-escalation",
+          "source": "Blog",
+          "published_at": "2026-05-08T12:00:00.000Z",
+          "description": "Read the technical details of a security vulnerability (CVE-2026-34354) in Akamai Guardicore Platform Agent for Windows — and get clear guidance on mitigation."
+        },
+        {
+          "title": "Another Universal Linux Local Privilege Escalation (LPE) Vulnerability: Dirty Frag, (Fri, May 8th)",
+          "url": "https://malware.news/t/another-universal-linux-local-privilege-escalation-lpe-vulnerability-dirty-frag-fri-may-8th/106800",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-05-08T07:55:40.000Z",
+          "description": "Less than two weeks after the public disclosure of the Copy Fail vulnerability (CVE-2026-31431), another local privilege escalation (LPE) vulnerability in the Linux kernel has been revealed. Referred to as “Dirty Frag,” this vulnerability was discovered and reported by Hyunwoo Kim (@v4bel) [1]. In…"
+        },
+        {
+          "title": "VU#260001: Linux kernel contains local privilege escalation vulnerability (Copy Fail)",
+          "url": "https://kb.cert.org/vuls/id/260001",
+          "source": "CERT Recently Published Vulnerability Notes",
+          "published_at": "2026-05-08T19:23:16.014Z",
+          "description": "Overview A privilege escalation vulnerability has been discovered in Linux kernel versions version 4.17 (released 2017) and later. Many popular distributions and Linux-based containers are affected. This vulnerability was publicly disclosed on April 29, 2026, has been assigned CVE ID CVE-2026-31431…"
+        }
+      ],
+      "summary": "A vulnerability affects PredatorSense versions 3.00.3136 through 3.00.3196, according to the reports. The software’s Windows named pipe can be used to invoke internal functions through a custom protocol."
+    },
+    {
+      "id": "topic_1f196a22d021393",
+      "title": "Prince Yadav Says Kohli’s Advice Helped Him Dismiss the Batter",
+      "headline": "Prince Yadav: Virat Kohli's advice helped me dismiss him",
+      "label": [
+        "kohli",
+        "yadav",
+        "prince",
+        "virat",
+        "dismiss",
+        "advice"
+      ],
+      "category": "new",
+      "theme": "theme_3b8e75ef4974cdb6",
+      "entities": [
+        "Prince Yadav",
+        "Virat Kohli",
+        "First",
+        "RCB",
+        "Advice"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Prince Yadav: Virat Kohli's advice helped me dismiss him",
+          "url": "https://www.wisden.com/series/ipl-2026/cricket-news/prince-yadav-virat-kohlis-advice-helped-me-dismiss-him",
+          "source": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
+          "published_at": "2026-05-08T05:07:00.000Z",
+          "image": "https://www.wisden.com/static-assets/waf-images/41/f3/ff/0/ZmA1HawRXR.jpg",
+          "description": "Prince Yadav revealed how Virat Kohli’s advice helped him dismiss the Royal Challengers Bengaluru batter."
+        },
+        {
+          "title": "Prince Yadav to Virat Kohli, and 'the ball of the tournament'",
+          "url": "https://www.espncricinfo.com/ci/content/story/1535794.html",
+          "source": "Cricket news from ESPN Cricinfo.com",
+          "published_at": "2026-05-08T02:08:05.000Z",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/416600/416686.jpg",
+          "description": "\"A lot of bowlers bowl one or two good balls in an over. This guy bowls about four to five. That's his strength,\" Ambati Rayudu says after Prince Yadav's latest match-winning show at IPL 2026"
+        },
+        {
+          "title": "First time in 1110 days! Virat Kohli falls for duck as Prince Yadav stuns RCB",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/first-time-in-1110-days-virat-kohli-falls-for-duck-as-prince-yadavs-dream-delivery-stuns-rcb/articleshow/130941659.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-08T02:13:04.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130941962,imgsize-50308.cms",
+          "description": "Prince Yadav's stunning 140.4 kph nip-backer, inspired by Virat Kohli's own advice, shattered the RCB star's stumps, marking Kohli's first IPL duck in over three years. This pivotal moment, coupled with Mitchell Marsh's century, propelled Lucknow Super Giants to a nine-run DLS victory over Royal Ch…"
+        },
+        {
+          "title": "First time in 1110 days! Virat Kohli falls for duck as Prince Yadav’s dream delivery stuns RCB",
+          "url": "https://sports.yahoo.com/articles/first-time-1110-days-virat-074300181.html",
+          "published_at": "2026-05-08T07:43:00.000Z",
+          "description": "Prince Yadav's stunning 140.4 kph nip-backer, inspired by Virat Kohli's own advice, shattered the RCB star's stumps, marking Kohli's first IPL duck in over three years. This pivotal moment, coupled with Mitchell Marsh's century, propelled Lucknow Super Giants to a nine-run DLS victory over Royal Ch…"
+        },
+        {
+          "title": "Virat Kohli's 'Advice' Led To His Own Downfall Against LSG, Prince Yadav Reveals How",
+          "url": "https://sports.ndtv.com/cricket/virat-kohlis-advice-led-to-his-own-downfall-vs-lsg-with-1st-0-in-ipl-since-2023-prince-yadav-reveals-how-11464590",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-08T00:59:28.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/7qsr1fqc_virat-kohli-out-for-duck-against-lsg-bcci_625x300_08_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+          "description": "Lucknow lived to fight another day in IPL 2026. Mitchell Marsh smashed a blistering century while Prince Yadav dazzled with the ball as Lucknow Super Giants kept themselves alive in the IPL playoff race."
+        }
+      ],
+      "summary": "Prince Yadav said advice from Virat Kohli helped him dismiss the batter in an IPL match. Kohli was out for a duck, his first in the IPL in more than three years, as Lucknow Super Giants kept their playoff hopes alive."
+    },
+    {
+      "id": "topic_db3550f7294ade0",
+      "title": "Apple and Intel Reach Preliminary Chip-Making Agreement",
+      "headline": "Apple, Intel have reached preliminary chip-making deal",
+      "label": [
+        "intel",
+        "apple",
+        "chip",
+        "reached",
+        "preliminary",
+        "agreement"
+      ],
+      "category": "new",
+      "theme": "theme_5be3fa1a3a9cf415",
+      "entities": [
         "Apple",
         "Intel",
         "Intel Have Reached Preliminary",
-        "Chip"
+        "Chip",
+        "Making Agreement"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Report: Apple has reached a preliminary deal with Intel to make chips in the U.S.",
-          "url": "https://www.macworld.com/article/3135129/report-apple-has-reached-a-preliminary-deal-with-intel-to-make-chips-in-the-u-s.html",
-          "source": "Macworld",
-          "published_at": "2026-05-08T19:23:16.000Z",
-          "image": "https://www.macworld.com/wp-content/uploads/2026/05/apple-intel-commercial-1.jpg?quality=50&strip=all"
+          "title": "Apple, Intel have reached preliminary chip-making deal",
+          "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-05-08T17:25:21.000Z",
+          "description": "Article URL: https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/ Comments URL: https://news.ycombinator.com/item?id=48066169 Points: 45 # Comments: 6"
         },
         {
           "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement",
           "url": "https://hardware.slashdot.org/story/26/05/08/174203/apple-intel-have-reached-preliminary-chip-making-agreement",
           "source": "Slashdot",
           "published_at": "2026-05-08T18:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "Apple and Intel have reportedly reached a preliminary agreement (paywalled; alternative source) for Intel to manufacture some chips used in Apple devices, after more than a year of talks and pressure from the Trump administration. It's still unclear which Apple products would use Intel-made chips,…"
         },
         {
-          "title": "Intel will make chips for Apple—what does that mean for Windows PCs?",
-          "url": "https://www.howtogeek.com/intel-apple-manufacturing-agreement",
-          "source": "How-To Geek",
-          "published_at": "2026-05-08T17:56:54.000Z",
-          "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/03/m4-macbook-air-in-sky-blue-from-an-angle-on-concrete-bench.jpg"
+          "title": "Apple, Intel have reached preliminary chip-making deal: report",
+          "url": "https://tribune.com.pk/story/2607056/apple-intel-have-reached-preliminary-chip-making-deal-report",
+          "source": "express tribune",
+          "published_at": "2026-05-08T12:47:20.000Z",
+          "description": "The two companies held talks for over a year and finalised a formal deal in recent months"
+        },
+        {
+          "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement",
+          "url": "https://news.google.com/rss/articles/cbmilwfbvv95cuxonerwwvvrzznzrlric2gtnxjhr3rez0sxngpjswd1bhbxtl9bawlxrdfvbw9md2fpskzfedzyyk5ezuutzurhtfmxnjbpum1hzjqxrw9wvxdetlhlnunkwhgyr01mn2l2dgxieulswkpnqvhoywvytvvtzktmalb1nhz1uc1fsl8ynmjznfyxwgptndkyretv",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T16:48:00.000Z",
+          "description": "Apple, Intel Have Reached Preliminary Chip-Making Agreement WSJ Intel’s stock could achieve a never-before-seen feat as Apple enthusiasm builds MarketWatch Apple reportedly has a deal to use Intel-made chips again The Verge Intel stock hits fourth straight record high as Apple report fuels chip ral…"
+        },
+        {
+          "title": "Report: Apple has reached a preliminary deal with Intel to make chips in the U.S.",
+          "url": "https://www.macworld.com/article/3135129/report-apple-has-reached-a-preliminary-deal-with-intel-to-make-chips-in-the-u-s.html",
+          "source": "Macworld",
+          "published_at": "2026-05-08T19:23:16.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/05/apple-intel-commercial-1.jpg?quality=50&strip=all",
+          "description": "Macworld According to the Wall Street Journal, Apple and Intel have reached a preliminary deal to manufacture some of Apple’s chips. The WSJ and Bloomberg reported earlier this week that Apple had been in talks with both Intel and Samsung to diversify its suppliers for advanced chips, which current…"
         }
-      ]
+      ],
+      "summary": "Apple and Intel have reportedly reached a preliminary agreement for Intel to manufacture some chips used in Apple devices. The companies had discussed a deal for more than a year."
     },
     {
-      "id": "topic_78dc92ff94a93b78",
+      "id": "topic_3db444bd9bceac63",
+      "title": "North Korea Plans New Artillery Deployment Near South Korea",
+      "headline": "North Korea to deploy new artillery guns targeting Seoul",
       "label": [
-        "price right",
-        "single",
-        "price",
-        "right",
-        "game",
-        "prize"
+        "artillery",
+        "korea",
+        "north",
+        "deploy",
+        "seoul",
+        "guns"
       ],
       "category": "new",
-      "theme": "theme_d47cbb566ee56ce2",
+      "theme": "theme_31b8fa7c1294159b",
       "entities": [
-        "Watch",
-        "Price Is Right",
-        "Contestant Break The Bank",
-        "With Record Win For",
-        "Single Pricing Game"
+        "North Korea",
+        "Seoul",
+        "NBC News",
+        "South"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Watch A ‘Price Is Right’ Contestant Break The Bank With Record Win For Single Pricing Game",
-          "url": "https://deadline.com/2026/05/price-is-right-contestant-wins-record-prize-watch-video-1236887028",
-          "source": "Deadline",
-          "published_at": "2026-05-08T18:00:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/The-Price-Is-Right-record-setter-FEATURED.jpg"
+          "title": "North Korea to deploy new artillery guns targeting Seoul",
+          "url": "https://www.thehindu.com/news/international/north-korea-to-deploy-new-artillery-guns-targeting-seoul/article70956630.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-08T16:01:47.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/doodiq/article70956643.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_18212.jpg",
+          "description": "North Korea's artillery systems draw less outside attention than its ballistic missiles, whose launches are banned under UN Security Council resolutions"
         },
         {
-          "title": "‘The Price is Right’ Contestant Wins Largest Single Pricing Game Prize in CBS Daytime Show’s 54-Year History",
-          "url": "https://variety.com/2026/tv/news/the-price-is-right-largest-prize-contestant-history-1236740936",
-          "source": "Variety",
-          "published_at": "2026-05-08T18:00:00.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/TPIR-LIONS-SHARE_1-e1778184412845.jpg"
+          "title": "North Korea will deploy new artillery guns targeting Seoul and commission its 1st destroyer",
+          "url": "https://www.seattletimes.com/nation-world/north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-08T02:29:04.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05072026_nkorea-tzr_tzr_201138.jpg?d=1200x630",
+          "description": "North Korea says it’ll deploy new long-range artillery systems capable of striking the capital region of rival South Korea this year and commission its first naval destroyer in coming weeks."
         },
         {
-          "title": "The Price Is Right Just Set A New Daytime Record For The Biggest Single-Game Prize Of All Time",
-          "url": "https://www.tvline.com/2168054/the-price-is-right-new-record-biggest-prize-amount",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-05-08T17:59:00.000Z",
-          "image": "https://www.tvline.com/img/gallery/the-price-is-right/l-intro-1778260468.jpg"
+          "title": "North Korea says it will deploy new artillery guns targeting Seoul and commission its 1st destroyer",
+          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxorwjzz1bozfrbd2sxnndzdhhfuurzb0w5v2jjaznnrgl2quhhrhnizv9pae81mdndvfvtoudittd2mnq0nzhpz1rmmnfhzuxyogs0z3hfd3dredvedjj5mi1uclvgsnrxwkp3x2nlcwjzumxobv9bmwxrmvfiohdiwxftzk5ymvbaz2npqkvqr0virnm4t0lnewk3bwv1aewxsk5kulrlt0g2c0l4ql85qmxmckdmeetuykv2skdpogc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-08T04:39:00.000Z",
+          "description": "North Korea says it will deploy new artillery guns targeting Seoul and commission its 1st destroyer NBC News North Korea says it will deploy new artillery guns targeting Seoul NPR North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S. WSJ North Korea leader Kim inspects a…"
+        },
+        {
+          "title": "North Korea will deploy new artillery targeting South",
+          "url": "https://www.perthnow.com.au/news/conflict/north-korea-will-deploy-new-artillery-targeting-south-c-22254133",
+          "source": "PerthNow",
+          "published_at": "2026-05-08T02:51:22.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22254133/3cfd6bf0124515107d578c003ca81aa86eb8246c-16x9-x0y0w1280h720.jpg",
+          "description": "North Korea's latest military moves reflect leader Kim Jong-un's increasingly hard-line stance toward South Korea."
+        },
+        {
+          "title": "North Korea to deploy new artillery along border with South",
+          "url": "https://www.digitaljournal.com/world/north-korea-to-deploy-new-artillery-along-border-with-south/article",
+          "source": "Digital Journal",
+          "published_at": "2026-05-08T02:12:20.000Z",
+          "description": "North Korea plans to deploy a new type of artillery along its southern border, state media said Friday, potentially putting Seoul within striking range as Pyongyang deepens its hostility towards South Korea. Despite peace overtures from the South Korean government, the North has repeatedly cast Seo…"
         }
-      ]
-    },
-    {
-      "id": "topic_422b6486806acb14",
-      "label": [
-        "pms",
-        "retainer",
-        "keep ex",
-        "ex pms",
-        "pms retainer",
-        "retainer party"
       ],
-      "category": "new",
-      "theme": "theme_4a42ad3e452c55f0",
-      "entities": [
-        "PMs",
-        "Trump",
-        "King Charles",
-        "Anthony Pratt"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "He keeps ex-PMs on retainer, parties with Trump and dines with King Charles: this is Anthony Pratt",
-          "url": "https://www.brisbanetimes.com.au/national/he-keeps-ex-pms-on-retainer-parties-with-trump-and-dines-with-king-charles-this-is-anthony-pratt-20260505-p5ztve.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/q_86%2Cf_auto/df8a7286242a3fddfb4214392c9f6da9fccd9be2"
-        },
-        {
-          "title": "He keeps ex-PMs on retainer, parties with Trump and dines with King Charles: this is Anthony Pratt",
-          "url": "https://www.theage.com.au/national/he-keeps-ex-pms-on-retainer-parties-with-trump-and-dines-with-king-charles-this-is-anthony-pratt-20260505-p5ztve.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/q_86%2Cf_auto/df8a7286242a3fddfb4214392c9f6da9fccd9be2"
-        },
-        {
-          "title": "He keeps ex-PMs on retainer, parties with Trump and dines with King Charles: this is Anthony Pratt",
-          "url": "https://www.smh.com.au/national/he-keeps-ex-pms-on-retainer-parties-with-trump-and-dines-with-king-charles-this-is-anthony-pratt-20260505-p5ztve.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/q_86%2Cf_auto/df8a7286242a3fddfb4214392c9f6da9fccd9be2"
-        }
-      ]
-    },
-    {
-      "id": "topic_3d74e2478da72124",
-      "label": [
-        "wga",
-        "wga west",
-        "staff",
-        "union",
-        "reach",
-        "west"
-      ],
-      "category": "new",
-      "theme": "theme_fa177d78bc0a570d",
-      "entities": [
-        "WGA West Staff Reaches",
-        "Tentative Agreement",
-        "New Contract",
-        "Its Own Union After",
-        "Months"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "WGA West Staff Reaches Tentative Agreement on New Contract with Its Own Union After 3 Months on Strike",
-          "url": "https://www.indiewire.com/news/breaking-news/wga-west-staff-tentative-agreement-strike-1235192890",
-          "source": "IndieWire",
-          "published_at": "2026-05-08T18:57:28.000Z"
-        },
-        {
-          "title": "WGA West Reaches a Deal to End Staff Union Strike",
-          "url": "https://variety.com/2026/film/news/wga-west-deal-strike-wgsu-1236675282",
-          "source": "Variety",
-          "published_at": "2026-05-08T18:50:07.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/02/BUC_0053.jpg"
-        },
-        {
-          "title": "WGA West Staff Union Says Tentative Deal Reached After Nearly 3 Months On Strike",
-          "url": "https://deadline.com/2026/05/wga-west-staff-union-first-contract-deal-strike-end-1236888327",
-          "source": "Deadline",
-          "published_at": "2026-05-08T18:47:52.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/03/scabby-wga-staff-strike-getty-2026.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1d1ad4532d6879d3",
-      "label": [
-        "doge",
-        "rul",
-        "unconstitutional",
-        "humanity grant",
-        "humanity",
-        "grant"
-      ],
-      "category": "new",
-      "theme": "theme_c5a0e194ada7b2cf",
-      "entities": [
-        "Doge",
-        "Judge",
-        "DOGE",
-        "Termination",
-        "Humanities Grants Is Ruled"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Doge slashing of humanities grants in 2025 ruled biased and unconstitutional",
-          "url": "https://www.theguardian.com/us-news/2026/may/08/doge-humanities-grants-unconstitutional",
-          "source": "The Guardian",
-          "published_at": "2026-05-08T22:32:10.000Z",
-          "image": "https://i.guim.co.uk/img/media/63ea0238588856f02ee6eb9c01d9cff32fba4bec/234_0_6828_5464/master/6828.jpg?width=140&quality=85&auto=format&fit=max&s=18b9e65de33ae3a8942f6d477b3de163"
-        },
-        {
-          "title": "Judge rules DOGE cancellation of humanities grants was unconstitutional",
-          "url": "https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-05-08T22:06:19.000Z"
-        },
-        {
-          "title": "Judge rules DOGE cuts to humanities grants unconstitutional, discriminatory",
-          "url": "https://www.ms.now/news/news-analysis/judge-rules-doge-cuts-to-humanities-grants-unconstitutional-discriminatory",
-          "source": "MS NOW",
-          "published_at": "2026-05-08T18:50:15.000Z"
-        },
-        {
-          "title": "DOGE's Termination of Humanities Grants Is Ruled Unconstitutional (Jennifer Schuessler/New York Times)",
-          "url": "https://www.memeorandum.com/260508/p65",
-          "source": "memeorandum",
-          "published_at": "2026-05-08T18:05:01.000Z",
-          "image": "http://www.memeorandum.com/260508/i65.jpg"
-        },
-        {
-          "title": "Judge rules DOGE used ChatGPT in a way that was both dumb and illegal",
-          "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-          "source": "The Verge",
-          "published_at": "2026-05-08T18:02:44.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKS486_DOGE_DEPARTMENT_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        }
-      ]
-    },
-    {
-      "id": "topic_cb1f351c0f885248",
-      "label": [
-        "video",
-        "prime video",
-        "prime",
-        "feed",
-        "add",
-        "vertical"
-      ],
-      "category": "new",
-      "theme": "theme_3c51940c0409bfb9",
-      "entities": [
-        "Amazon",
-        "Clips",
-        "TikTok",
-        "Prime Video",
-        "US"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Amazon adds Clips, a feed of TikTok-like vertical short-form videos, to Prime Video's mobile home page for select US customers on iOS, Android, and Fire devices (Will Shanklin/Engadget)",
-          "url": "https://mediagazer.com/260508/p14",
-          "source": "Mediagazer",
-          "published_at": "2026-05-08T21:50:01.000Z",
-          "image": "http://mediagazer.com/260508/i14.jpg"
-        },
-        {
-          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-          "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app",
-          "source": "TechCrunch",
-          "published_at": "2026-05-08T20:50:03.000Z"
-        },
-        {
-          "title": "Amazon is adding a vertical video feed to Prime Video",
-          "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
-          "source": "The Verge",
-          "published_at": "2026-05-08T20:19:57.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/clips-prime-video.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "Prime Video is adding a TikTok-like feed",
-          "url": "https://www.engadget.com/2168176/prime-video-is-adding-a-tiktok-like-feed",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-08T19:18:22.000Z",
-          "image": "https://www.engadget.com/img/gallery/prime-video-is-adding-a-tiktok-like-feed/l-intro-1778267829.jpg"
-        },
-        {
-          "title": "Prime Video just launched vertical video inside its iPhone app",
-          "url": "https://9to5mac.com/2026/05/08/prime-video-just-launched-vertical-video-inside-its-iphone-app",
-          "source": "9to5Mac",
-          "published_at": "2026-05-08T18:15:04.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/amazon-prime-video-iphone-app-boys.jpg?quality=82&#038;strip=all&#038;w=1600"
-        }
-      ]
-    },
-    {
-      "id": "topic_55fdc6e6175a98d2",
-      "label": [
-        "ai",
-        "ai power",
-        "power",
-        "ndr",
-        "power attack",
-        "attack ai"
-      ],
-      "category": "new",
-      "theme": "theme_a762a5e7fa8fb642",
-      "entities": [
-        "AI",
-        "Powered Attacks Are Here",
-        "But So Is AI",
-        "Powered NDR",
-        "Stop Them"
-      ],
-      "article_count": 7,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "AI 반도체, 이제 시작이다… “7년 더 간다” ㅣ김장열 유니스토리자산운용 본부장, 이세철 씨티그룹 리서치부문 전무 [칩썰]",
-          "url": "https://www.youtube.com/watch?v=EXQDSkuZVKM",
-          "source": "삼프로TV 3PROTV",
-          "published_at": "2026-05-08T22:00:13.000Z",
-          "image": "https://i2.ytimg.com/vi/EXQDSkuZVKM/hqdefault.jpg"
-        },
-        {
-          "title": "AI-Powered Attacks Are Here, But So Is AI-Powered NDR to Stop Them",
-          "url": "https://securityboulevard.com/2026/05/ai-powered-attacks-are-here-but-so-is-ai-powered-ndr-to-stop-them",
-          "source": "Security Boulevard",
-          "published_at": "2026-05-08T20:50:05.000Z",
-          "image": "https://securityboulevard.com/wp-content/uploads/2026/05/AIpoweredNDR-Large-1024x438.jpeg"
-        },
-        {
-          "title": "TTEC pauses 401(k) match for AI spending #AI #TechNews #FutureOfWork",
-          "url": "https://www.youtube.com/shorts/v_m3PAm37Vo",
-          "source": "Business Insider",
-          "published_at": "2026-05-08T20:47:21.000Z",
-          "image": "https://i3.ytimg.com/vi/v_m3PAm37Vo/hqdefault.jpg"
-        },
-        {
-          "title": "Impressions of China's AI ecosystem after visiting many leading AI labs there, and the similarities and differences in working on LLMs in China and the West (Nathan Lambert/Interconnects AI)",
-          "url": "https://www.techmeme.com/260508/p31",
-          "source": "Techmeme",
-          "published_at": "2026-05-08T20:45:01.000Z",
-          "image": "http://www.techmeme.com/260508/i31.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_433cf326004b60ea",
-      "label": [
-        "asza",
-        "rozejm",
-        "trump og",
-        "og asza",
-        "og",
-        "ukrain"
-      ],
-      "category": "new",
-      "theme": "theme_946bad7d26218d81",
-      "entities": [
-        "Trump",
-        "Rosj",
-        "Ukrain",
-        "Rosji",
-        "Jest"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Trump ogłasza trzydniowy rozejm między Rosją i Ukrainą",
-          "url": "https://wpolityce.pl/swiat/759864-trump-oglasza-trzydniowy-rozejm-miedzy-rosja-i-ukraina",
-          "source": "Najnowsze na wPolityce.pl",
-          "published_at": "2026-05-08T18:48:08.000Z",
-          "image": "https://media.wplm.pl/thumbs/a99/OTYwL3VfMS9jY184ZDg4MS9wLzIwMjYvMDUvMDgvMTIwMC83NjAvZDlkNWQ4MDM4MDcyNGU4NmIyOTY4YTAxYzNmMWM4NjkuanBlZw==.jpeg"
-        },
-        {
-          "title": "Trump zapowiada zawieszenie działań wojennych i wymianę więźniów między Rosją a Ukrainą",
-          "url": "https://www.gazetaprawna.pl/wiadomosci/swiat/artykuly/11244601,trump-zawieszenie-broni-rosja-ukraina.html",
-          "source": "gazetaprawna.pl",
-          "published_at": "2026-05-08T18:30:18.000Z",
-          "image": "https://webp-konwerter.incdn.pl/eyJmIjoiaHR0cHM6Ly9pbmZvci13ZWItc3RhdGljLmluY2RuLnBsL2RncHN0Y/XRpYy9kb2N1bWVudHMvRk9CMDAwMDAwMDAwMDAwNzU3NzA4My9maWxlcy90cn/VtcC16YXNrb2N6b255LWNlbmFtaS1iaWxldG93LW5hLW11bmRpYWwtbmllLXp/hcGxhY2lsYnltLXRha2llai1zdW15LTM5MTM4MTgzLmpwZyIsInciOjM4NDB9"
-        },
-        {
-          "title": "Trump ogłasza rozejm w wojnie Rosji z Ukrainą. Jest reakcja Zełenskiego",
-          "url": "https://www.rp.pl/konflikty-zbrojne/art44341491-trump-oglasza-rozejm-w-wojnie-rosji-z-ukraina-jest-reakcja-zelenskiego",
-          "source": "www.rp.pl",
-          "published_at": "2026-05-08T18:18:00.000Z",
-          "image": "https://i.gremicdn.pl/image/free/5ab47540d9270610816f008b8bed850d/?t=crop:1920:839:nowe:0:292,resize:fill:600:300,enlarge:1"
-        },
-        {
-          "title": "Trump ogłasza trzydniowy rozejm. Zełenski reaguje",
-          "url": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-trump-oglasza-trzydniowy-rozejm-zelenski-reaguje,nid,8081043",
-          "source": "RMF24.pl",
-          "published_at": "2026-05-08T18:10:35.000Z",
-          "image": "https://interia-s.pluscdn.pl/trump-oglasza-trzydniowy-rozejm-zelenski-reaguje/000MRDJ4B879PU7C-C307.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1f676f1a06c99982",
-      "label": [
-        "hulud",
-        "quasarrat",
-        "0day",
-        "aaran",
-        "leyland",
-        "swn"
-      ],
-      "category": "new",
-      "theme": "theme_4bf1b23af9258a10",
-      "entities": [
-        "Canvas",
-        "Shai",
-        "Hulud",
-        "QuasarRat",
-        "Anthropic"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Canvas, Shai-Hulud, QuasarRat, 0Days, Anthropic, Aaran Leyland, and EU Compliance! - SWN #579",
-          "url": "https://www.youtube.com/watch?v=nBXNFuj_M0Q",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-05-08T21:01:01.000Z",
-          "image": "https://i3.ytimg.com/vi/nBXNFuj_M0Q/hqdefault.jpg"
-        },
-        {
-          "title": "Canvas, Shai-Hulud, QuasarRat, 0Days, Anthropic, Aaran Leyland, and EU Compliance! - SWN #579",
-          "url": "https://sw-all.libsyn.com/canvas-shai-hulud-quasarrat-0days-anthropic-aaran-leyland-and-eu-compliance-swn-579",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-05-08T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_579_1--71f8e57f-141a-4b57-99bf-4769e6a90011--audio-converted--c91cc214-4daa-43aa-a9e0-bd8acc00aa74.mp3?dest-id=829103"
-        },
-        {
-          "title": "Canvas, Shai-Hulud, QuasarRat, 0Days, Anthropic, Aaran Leyland, and EU Compliance! - SWN #579",
-          "url": "https://hntvaudio.libsyn.com/canvas-shai-hulud-quasarrat-0days-anthropic-aaran-leyland-and-eu-compliance-swn-579",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-05-08T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_579_1--71f8e57f-141a-4b57-99bf-4769e6a90011--audio-converted--c91cc214-4daa-43aa-a9e0-bd8acc00aa74.mp3?dest-id=376644"
-        },
-        {
-          "title": "Canvas, Shai-Hulud, QuasarRat, 0Days, Anthropic, Aaran Leyland, and EU Compliance! - SWN #579",
-          "url": "https://hntvvideo.libsyn.com/canvas-shai-hulud-quasarrat-0days-anthropic-aaran-leyland-and-eu-compliance-swn-579",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-05-08T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_579_1--71f8e57f-141a-4b57-99bf-4769e6a90011--sd-converted--87ed4eb5-6d06-45e9-941b-fa4bb9c17864.mp4?dest-id=376663"
-        }
-      ]
-    },
-    {
-      "id": "topic_eb8ade94e2b31cde",
-      "label": [
-        "mayor",
-        "entire police",
-        "entire",
-        "georgia",
-        "police",
-        "georgia mayor"
-      ],
-      "category": "new",
-      "theme": "theme_83b06c16634973c2",
-      "entities": [
-        "Georgia Mayor Takes Drastic",
-        "Action",
-        "Entire Police Force Dismissed",
-        "Amid Controversy Involving Mayor",
-        "Wife"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Georgia Mayor Takes Drastic Action: Entire Police Force Dismissed Amid Controversy Involving Mayor’s Wife",
-          "url": "https://internewscast.com/news/us/georgia-mayor-takes-drastic-action-entire-police-force-dismissed-amid-controversy-involving-mayors-wife",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-08T23:07:48.000Z"
-        },
-        {
-          "title": "Georgia mayor fires town’s entire police force after they upset his wife",
-          "url": "https://www.independent.co.uk/news/world/americas/georgia-mayor-fires-police-department-wife-dispute-b2973338.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-08T21:23:53.000Z",
-          "image": "https://static.independent.co.uk/2026/05/08/21/06/Mayor.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Georgia mayor fires entire police department after officers complain about his wife in dispute",
-          "url": "https://www.foxnews.com/us/georgia-mayor-fires-entire-police-department-officers-complain-wife-dispute",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-08T21:05:05.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Mayor-Ron-Shinnick-police-officers.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "Small Georgia town’s mayor doesn’t know what happens next after firing entire police department",
-          "url": "https://www.theguardian.com/us-news/2026/may/08/cohutta-georgia-mayor-fires-police-department",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-08T19:47:42.000Z",
-          "image": "https://i.guim.co.uk/img/media/74f2d5e5dec75307d3111097523d2942379f9d09/0_0_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=aeadc229e076dfdbc72e5e530c8ba4b9"
-        }
-      ]
-    },
-    {
-      "id": "topic_be8b0bbf3160f6a3",
-      "label": [
-        "pentagon begin",
-        "begin releas",
-        "fil ufos",
-        "ufos",
-        "begin",
-        "pentagon"
-      ],
-      "category": "new",
-      "theme": "theme_bf5ca3d1a104da44",
-      "entities": [
-        "Pentagon",
-        "UFOs",
-        "Pentagon Begins Releasing New",
-        "Files On UFOs"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Pentagon begins releasing decades of files on UFOs, unexplained phenomena",
-          "url": "https://www.smh.com.au/world/north-america/pentagon-begins-releasing-decades-of-files-on-ufos-unexplained-phenomena-20260509-p5zv8k.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-08T20:00:25.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/d08d6dead4704253b28eb49579124b973df836eef9b00ccc2f2f7f892923ec1e"
-        },
-        {
-          "title": "Pentagon begins releasing decades of files on UFOs, unexplained phenomena",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/pentagon-begins-releasing-decades-of-files-on-ufos-unexplained-phenomena-20260509-p5zv8k.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-08T20:00:25.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/d08d6dead4704253b28eb49579124b973df836eef9b00ccc2f2f7f892923ec1e"
-        },
-        {
-          "title": "Pentagon begins releasing decades of files on UFOs, unexplained phenomena",
-          "url": "https://www.theage.com.au/world/north-america/pentagon-begins-releasing-decades-of-files-on-ufos-unexplained-phenomena-20260509-p5zv8k.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-08T20:00:25.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/d08d6dead4704253b28eb49579124b973df836eef9b00ccc2f2f7f892923ec1e"
-        },
-        {
-          "title": "Pentagon Begins Releasing New Files On UFOs",
-          "url": "https://entertainment.slashdot.org/story/26/05/08/167218/pentagon-begins-releasing-new-files-on-ufos",
-          "source": "Slashdot",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_8694d2c99a553a5a",
-      "label": [
-        "rusia",
-        "rusia ucrania",
-        "ucrania",
-        "entre rusia",
-        "fuego",
-        "alto el"
-      ],
-      "category": "new",
-      "theme": "theme_a9ef233c9ae906c6",
-      "entities": [
-        "Rusia",
-        "Ucrania",
-        "Trump",
-        "La",
-        "Segunda Guerra Mundial"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Rusia y Ucrania acuerdan alto el fuego temporal, asegura Trump",
-          "url": "https://www.informador.mx/internacional/rusia-y-ucrania-acuerdan-alto-el-fuego-temporal-asegura-trump-20260508-0119.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-08T19:50:00.000Z"
-        },
-        {
-          "title": "Trump anuncia tregua entre Rusia y Ucrania… pero solo por 3 días: ‘La solicitud la hice directamente yo’",
-          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/08/trump-anuncia-tregua-entre-rusia-y-ucrania-pero-solo-por-3-dias-la-solicitud-la-hice-directamente-yo",
-          "source": "El Financiero",
-          "published_at": "2026-05-08T19:15:47.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/-IeKCBlUaOCYUlaCD_rNa6TpIUQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UXHI3DIQYZADVFC577M3TBA4SU.jpg"
-        },
-        {
-          "title": "Trump anuncia un alto el fuego de tres días entre Rusia y Ucrania",
-          "url": "https://elpais.com/internacional/2026-05-08/trump-anuncia-un-alto-el-fuego-de-tres-dias-entre-rusia-y-ucrania.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-05-08T19:10:49.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/IAYD54H6SZLMFDJDCPVDMVCU5I.jpg?auth=80a04aefc91322e590a92df5f2392959ea9defaa9ddbe11c8a0e3cd060310375"
-        },
-        {
-          "title": "Trump anuncia una tregua de tres días entre Rusia y Ucrania por el día de la victoria de la Segunda Guerra Mundial",
-          "url": "https://www.eldiario.es/internacional/trump-anuncia-tregua-tres-dias-rusia-ucrania-dia-victoria-segunda-guerra-mundial_1_13207567.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-05-08T18:09:21.000Z",
-          "image": "https://static.eldiario.es/clip/11beadd4-3e38-4c43-a708-3dfac639ae45_16-9-discover-aspect-ratio_default_0.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_a7fb83b8b59b6127",
-      "label": [
-        "sspc",
-        "elemento",
-        "agresor",
-        "elemento de",
-        "culiac",
-        "en culiac"
-      ],
-      "category": "new",
-      "theme": "theme_233709f0a1100096",
-      "entities": [
-        "Elementos",
-        "SSPC",
-        "Culiac",
-        "Harfuch",
-        "Atacan"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Elementos de la SSPC son atacados en Culiacán, mueren dos agresores y un detenido: Harfuch",
-          "url": "https://vanguardia.com.mx/noticias/elementos-de-la-sspc-son-atacados-en-culiacan-mueren-dos-agresores-y-un-detenido-harfuch-eb20569863",
-          "source": "Vanguardia",
-          "published_at": "2026-05-08T22:14:14.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/hh0nni8xkaafjsu_1-15353495_20260508214342.jpg"
-        },
-        {
-          "title": "Atacan a elementos de SSPC en Culiac�n; abaten a 2 agresores",
-          "url": "https://www.elnorte.com/atacan-a-elementos-de-sspc-en-culiacan-abaten-a-2-agresores/ar3200994",
-          "source": "ElNorte",
-          "published_at": "2026-05-08T21:09:28.000Z"
-        },
-        {
-          "title": "Atacan a elementos de SSPC en Culiac�n; abaten a 2 agresores",
-          "url": "https://www.reforma.com/atacan-a-elementos-de-sspc-en-culiacan-abaten-a-2-agresores/ar3200985",
-          "source": "Reforma",
-          "published_at": "2026-05-08T21:08:38.000Z"
-        },
-        {
-          "title": "Atacan a balazos a elementos de la SSPC en Culiacán; reportan dos agresores muertos",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/atacan-a-balazos-a-elementos-de-la-sspc-en-culiacan-reportan-dos-agresores-muertos.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-05-08T19:55:00.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2008927.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_9311cbd7cc1ea1ab",
-      "label": [
-        "venice biennale",
-        "venice",
-        "biennale",
-        "unseen",
-        "biennale art",
-        "art unseen"
-      ],
-      "category": "new",
-      "theme": "theme_8adec4939d24ee19",
-      "entities": [
-        "Best",
-        "Show",
-        "Standouts",
-        "Venice Biennale",
-        "The Art"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Best in Show: 6 Standouts at the 2026 Venice Biennale",
-          "url": "https://news.artnet.com/art-world/venice-biennale-picks-2026-2771280",
-          "source": "Artnet News",
-          "published_at": "2026-05-08T20:56:32.000Z"
-        },
-        {
-          "title": "Venice Biennale: The Art of the Unseen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/venice-biennale-the-art-of-the-unseen",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-08T19:56:15.000Z"
-        },
-        {
-          "title": "Thousands protest Israel's participation in Venice Biennale",
-          "url": "https://www.yahoo.com/news/articles/thousands-protest-israels-participation-venice-193836814.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-08T19:38:36.000Z",
-          "image": "https://media.zenfs.com/en/dpa_international_526/50dff4e62dfb4cdaeba61c409299e5fd"
-        },
-        {
-          "title": "Toilets stole the show at the Venice Biennale",
-          "url": "https://www.youtube.com/shorts/no_FHANBPT4",
-          "source": "CNN",
-          "published_at": "2026-05-08T18:42:00.000Z",
-          "image": "https://i3.ytimg.com/vi/no_FHANBPT4/hqdefault.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c488c0446d1d7771",
-      "label": [
-        "bane",
-        "deathstroke",
-        "movie",
-        "deathstroke bane",
-        "bane movie",
-        "mottola"
-      ],
-      "category": "new",
-      "theme": "theme_31fdaa5169960b78",
-      "entities": [
-        "DC Studios Reportedly Eyes",
-        "Superbad",
-        "Greg Mottola",
-        "Bane",
-        "Deathstroke Movie"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "DC Studios Reportedly Eyes Superbad’s Greg Mottola for Bane and Deathstroke Movie",
-          "url": "https://www.ign.com/articles/greg-mottola-dc-bane-deathstroke-movie",
-          "source": "IGN Articles",
-          "published_at": "2026-05-08T20:55:01.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/05/08/bane-1778272304134.png"
-        },
-        {
-          "title": "DCU’s Deathstroke and Bane Movie May Have Found Its Director",
-          "url": "https://www.comingsoon.net/movies/news/2130726-dcus-deathstroke-and-bane-movie-may-have-found-its-director",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-08T20:08:55.000Z"
-        },
-        {
-          "title": "Greg Mottola High On The List For DC’s Deathstroke & Bane Movie – The Dish",
-          "url": "https://deadline.com/2026/05/deathstroke-and-bane-greg-mottola-1236888282",
-          "source": "Deadline",
-          "published_at": "2026-05-08T19:14:50.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Greg-Mottola-Bane-and-Deathstroke.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_aa3889a395e2abaa",
-      "label": [
-        "bs",
-        "ts",
-        "five bs",
-        "bs three",
-        "three ts",
-        "ts heart"
-      ],
-      "category": "new",
-      "theme": "theme_3645fa22f9accd15",
-      "entities": [
-        "Bs",
-        "Ts",
-        "Trump",
-        "Xi"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "The five ‘Bs’ and three ‘Ts’ at the heart of the Trump-Xi meeting",
-          "url": "https://www.smh.com.au/world/north-america/the-five-bs-and-three-ts-at-the-heart-of-the-trump-xi-meeting-20260507-p5zuhq.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/87cac17f662a8f865024a3f38351708d5269f3c5fe2e052adadc7bf7a48100c7"
-        },
-        {
-          "title": "The five ‘Bs’ and three ‘Ts’ at the heart of the Trump-Xi meeting",
-          "url": "https://www.theage.com.au/world/north-america/the-five-bs-and-three-ts-at-the-heart-of-the-trump-xi-meeting-20260507-p5zuhq.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/87cac17f662a8f865024a3f38351708d5269f3c5fe2e052adadc7bf7a48100c7"
-        },
-        {
-          "title": "The five ‘Bs’ and three ‘Ts’ at the heart of the Trump-Xi meeting",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/the-five-bs-and-three-ts-at-the-heart-of-the-trump-xi-meeting-20260507-p5zuhq.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-08T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4903%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/87cac17f662a8f865024a3f38351708d5269f3c5fe2e052adadc7bf7a48100c7"
-        }
-      ]
-    },
-    {
-      "id": "topic_b74932fbc7d873ef",
-      "label": [
-        "dirty",
-        "frag",
-        "dirty frag",
-        "linux",
-        "distro",
-        "giv root"
-      ],
-      "category": "new",
-      "theme": "theme_ac2247dfa9fa3c5c",
-      "entities": [
-        "New Linux",
-        "Dirty Frag",
-        "Zero",
-        "Day Gives Root On",
-        "All Major Distros"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "New Linux 'Dirty Frag' Zero-Day Gives Root On All Major Distros",
-          "url": "https://linux.slashdot.org/story/26/05/08/1913238/new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros",
-          "source": "Slashdot",
-          "published_at": "2026-05-08T21:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        },
-        {
-          "title": "Dirty Frag: Universal Linux LPE",
-          "url": "https://github.com/v4bel/dirtyfrag",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-05-08T20:36:51.000Z"
-        },
-        {
-          "title": "'Dirty Frag' Gives Root on Linux Distros",
-          "url": "https://www.govinfosecurity.com/dirty-frag-gives-root-on-linux-distros-a-31641",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/dirty-frag-gives-root-on-linux-distros-image_small-10-a-31641.jpg"
-        },
-        {
-          "title": "'Dirty Frag' Gives Root on Linux Distros",
-          "url": "https://www.databreachtoday.co.uk/dirty-frag-gives-root-on-linux-distros-a-31641",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/dirty-frag-gives-root-on-linux-distros-image_small-10-a-31641.jpg"
-        },
-        {
-          "title": "'Dirty Frag' Gives Root on Linux Distros",
-          "url": "https://www.bankinfosecurity.com/dirty-frag-gives-root-on-linux-distros-a-31641",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/dirty-frag-gives-root-on-linux-distros-image_small-10-a-31641.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1a6df7c07062498e",
-      "label": [
-        "efl",
-        "middlesbrough",
-        "charg efl",
-        "spy",
-        "charg",
-        "saint charg"
-      ],
-      "category": "new",
-      "theme": "theme_72f123c634f34063",
-      "entities": [
-        "Saints",
-        "EFL",
-        "Middlesbrough",
-        "Southampton"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Saints charged by EFL with spying on Middlesbrough",
-          "url": "https://sports.yahoo.com/articles/saints-charged-efl-spying-middlesbrough-213110437.html",
-          "published_at": "2026-05-08T22:05:29.000Z"
-        },
-        {
-          "title": "Saints charged by EFL with spying on Middlesbrough",
-          "url": "https://www.bbc.com/news/articles/cy92vn803lno",
-          "source": "BBC Sport",
-          "published_at": "2026-05-08T22:02:44.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c75/live/93d72dc0-4b22-11f1-be9e-ad2f8d891a76.jpg"
-        },
-        {
-          "title": "Southampton charged by EFL after Middlesbrough spying allegation",
-          "url": "https://news.sky.com/story/middlesbrough-vs-southampton-efl-charges-saints-after-member-of-staff-was-alleged-to-have-spied-on-boro-training-13541724",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-05-08T21:00:00.000Z",
-          "image": "https://e3.365dm.com/26/05/1920x1080/skysports-southampton-badge_7243058.jpg?20260508212740"
-        }
-      ]
-    },
-    {
-      "id": "topic_7e7426e0903cae48",
-      "label": [
-        "fcc probe",
-        "probe view",
-        "fcc",
-        "probe",
-        "abc",
-        "view"
-      ],
-      "category": "new",
-      "theme": "theme_f4710cae01b4aecc",
-      "entities": [
-        "ABC",
-        "FCC",
-        "The View",
-        "Trump",
-        "First Amendment"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "ABC is officially fed up with the FCC’s probe of ‘The View’",
-          "url": "https://www.ms.now/opinion/abc-fcc-probe-the-view",
-          "source": "MS NOW",
-          "published_at": "2026-05-08T21:13:27.000Z"
-        },
-        {
-          "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
-          "url": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-05-08T21:08:42.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg"
-        },
-        {
-          "title": "ABC fires back at FCC probe of 'The View,' calls out agency's 'chilling effect on First Amendment'",
-          "url": "https://www.foxnews.com/media/abc-fires-back-fcc-probe-the-view-calls-out-agencys-chilling-effect-first-amendment",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-08T18:22:11.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/the-view-hosts.jpg?ve=1&tl=1"
-        }
-      ]
+      "summary": "North Korea says it will deploy new long-range artillery systems capable of reaching Seoul’s capital region this year. It also plans to commission its first naval destroyer in the coming weeks."
     }
   ]
 }

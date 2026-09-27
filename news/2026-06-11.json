@@ -1,652 +1,916 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-12T00:15:24.972Z",
+  "generated_at": "2026-09-27T14:01:17.894Z",
   "topics": [
     {
-      "id": "topic_e508a8e5e46468a2",
+      "id": "topic_a979497e96329d07",
+      "title": "John Healey Resigns as UK Defence Secretary Over Spending",
+      "headline": "UK Defence Secretary John Healey resigns over military spending dispute",
       "label": [
-        "ipo",
-        "spacex",
-        "billion",
-        "spacex rais",
-        "rais 75",
-        "75 billion"
+        "defence",
+        "healey",
+        "spending",
+        "secretary",
+        "john",
+        "military"
       ],
       "category": "new",
-      "theme": "theme_3819ddf6335f2542",
+      "theme": "theme_63c051460f911c09",
       "entities": [
-        "SpaceX",
-        "IPO",
-        "Musk",
-        "US75",
-        "Elon Musk"
+        "UK Defence Secretary John",
+        "Healey",
+        "John Healey",
+        "UK",
+        "Starmer"
+      ],
+      "article_count": 20,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "UK Defence Secretary John Healey resigns over military spending dispute",
+          "url": "https://dailypost.ng/2026/06/11/uk-defence-secretary-john-healey-resigns-over-military-spending-dispute",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-11T11:46:28.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/03/UK-Defence-Minister-John-Healey.jpeg",
+          "description": "John Healey has stepped down as the United Kingdom’s Defence Secretary, citing concerns that the government’s defence spending plans are insufficient to meet growing security challenges. His unexpected resignation follows increasing disagreements within Prime Minister Keir Starmer’s administration…"
+        },
+        {
+          "title": "​John Healey resigns as defence secretary over military spending",
+          "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resigns-defence-secretary-military-spending",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-11T11:41:44.000Z",
+          "image": "https://i.guim.co.uk/img/media/9f06be8f1fac660caccda7dc8f0385c85d10cac8/453_0_4594_3674/master/4594.jpg?width=140&quality=85&auto=format&fit=max&s=5efa5b15efbe34757e20a54ef7b1a1fb",
+          "description": "Minister accuses Starmer of being ‘unable to commit the resources to defend the country at this time of rising threats’ • UK politics live – latest updates The defence secretary, John Healey, has resigned over the government’s defence spending plans. The long-awaited defence investment plan (DIP) w…"
+        },
+        {
+          "title": "UK defence secretary John Healey quits after clash with Starmer over military funding",
+          "url": "https://timesofindia.indiatimes.com/world/uk/well-short-of-what-is-required-uk-defence-secretary-john-healey-quits-starmer-govt-over-military-funding-row/articleshow/131660852.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-06-11T13:51:41.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131661283,imgsize-84716.cms"
+        },
+        {
+          "title": "UK: Defense Secretary John Healey quits in military spending dispute",
+          "url": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-11T14:13:00.000Z",
+          "description": "Britain's defense minister has abruptly quit his post, saying the government's plans to bolster defense spending in the coming years are inadequate. This could prove a further source of pressure for PM Keir Starmer."
+        },
+        {
+          "title": "Healey quits as defence secretary in row over military spending",
+          "url": "https://www.bbc.com/news/articles/c9w2lkd29l8o",
+          "source": "BBC News",
+          "published_at": "2026-06-11T18:46:07.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6fb/live/ff786170-65a3-11f1-b0b4-ff7d574215ed.jpg",
+          "description": "He says a defence funding plan \"falls well short\", as Sir Keir Starmer insists he will keep the UK safe."
+        }
+      ],
+      "summary": "John Healey resigned as UK defence secretary, saying the government’s defence spending plans fall short of what is needed amid rising threats. He cited a dispute with Prime Minister Keir Starmer over military funding."
+    },
+    {
+      "id": "topic_852904929ee8679a",
+      "title": "Trump Cancels Planned Strikes on Iran",
+      "headline": "Trump cancels planned strikes on Iran",
+      "label": [
+        "cancels",
+        "iran",
+        "trump",
+        "strikes",
+        "planned",
+        "deal"
+      ],
+      "category": "new",
+      "theme": "theme_2eca5faa9a34f579",
+      "entities": [
+        "Trump",
+        "Iran",
+        "Trump Cancels Planned Iran",
+        "Strikes",
+        "Latest Reversal"
+      ],
+      "article_count": 22,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Trump cancels planned strikes on Iran",
+          "url": "https://www.scmp.com/news/us/article/3356810/trump-cancels-planned-strikes-iran",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-11T17:52:39.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/12/87318821-2b34-4643-9ec2-969300209fa8_f6429a31.jpg?itok=dtBoNWFM&v=1781200796",
+          "description": "US President Donald Trump said on Thursday he had cancelled planned military strikes against Iran after negotiations with Tehran reached what he described as the highest levels of the Iranian leadership and received approval from all parties involved. “Based on the fact that discussions with the Is…"
+        },
+        {
+          "title": "Trump Cancels Planned Iran Strikes in Latest Reversal",
+          "url": "https://financialpost.com/pmn/business-pmn/trump-cancels-planned-iran-strikes-in-latest-reversal",
+          "source": "Financial Post",
+          "published_at": "2026-06-11T18:48:58.000Z",
+          "description": "President Donald Trump pulled back threatened military strikes against Iran, a stark reversal that came just hours after he vowed to hit the Islamic Republic “VERY HARD” and threatened to seize its oil infrastructure."
+        },
+        {
+          "title": "Trump cancels planned strike on Iran",
+          "url": "https://www.premiumtimesng.com/foreign/887013-trump-cancels-planned-strike-on-iran.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-06-11T21:25:09.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/image-from-rawpixel-id-26240579-original-scaled-e1778915681652.jpg?fit=2560%2C1600&amp;ssl=1",
+          "description": "Mr Trump, in a post on Truth Social, said he called off the strike because negotiations with Iran had been taken to the “highest level of Iranian leadership and approved.” The post Trump cancels planned strike on Iran appeared first on Premium Times Nigeria."
+        },
+        {
+          "title": "Trump cancels planned strikes, bombings on Iran",
+          "url": "https://dailypost.ng/2026/06/11/trump-cancels-planned-strikes-bombings-on-iran",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-11T18:45:56.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/08/Donald-trump.jpg",
+          "description": "United States President Donald Trump has announced the cancellation of planned military strikes and bombings against Iran. Trump cited progress in high-level discussions involving the Iranian leadership and several regional stakeholders. In a statement posted on Truth Social on Thursday, Trump said…"
+        },
+        {
+          "title": "Trump cancels Iran strikes as mediators claim deal close",
+          "url": "https://www.axios.com/2026/06/11/trump-cancel-iran-strikes-deal-strait",
+          "source": "Axios",
+          "published_at": "2026-06-11T17:46:49.000Z",
+          "image": "https://images.axios.com/79ktgP9bYdcCfRjqgYcAMngsHaQ=/0x0:8256x4644/1366x768/2026/06/11/1781199726400.jpeg",
+          "description": "President Trump announced that he canceled planned strikes against Iran on Thursday and claimed Iran's leadership \"approved\" a draft agreement that would extend the ceasefire, reopen the Strait of Hormuz and launch 60 days of negotiations on Iran's nuclear program. Why it matters: Trump has claimed…"
+        }
+      ],
+      "summary": "Donald Trump said he cancelled planned US strikes on Iran after negotiations reached senior Iranian leaders. He said Iran had approved a draft agreement to extend the ceasefire and reopen the Strait of Hormuz."
+    },
+    {
+      "id": "topic_5324e9a6b75052c8",
+      "title": "Hazardous Materials Incident Prompts Pentagon Lockdown",
+      "headline": "Hazardous materials incident prompts Pentagon lockdown",
+      "label": [
+        "hazardous",
+        "materials",
+        "pentagon",
+        "incident",
+        "lockdown",
+        "partial"
+      ],
+      "category": "new",
+      "theme": "theme_aadf2982ec019a45",
+      "entities": [
+        "Hazardous",
+        "Pentagon",
+        "Partial",
+        "US Pentagon",
+        "Firefighters"
+      ],
+      "article_count": 18,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Hazardous materials incident prompts Pentagon lockdown",
+          "url": "https://tribune.com.pk/story/2612752/hazardous-materials-incident-prompts-pentagon-lockdown",
+          "source": "express tribune",
+          "published_at": "2026-06-11T17:11:12.000Z",
+          "description": "."
+        },
+        {
+          "title": "Pentagon floors on lockdown after 'hazardous materials' incident",
+          "url": "https://www.bbc.com/news/articles/c74y55dezxlo",
+          "source": "BBC News",
+          "published_at": "2026-06-11T15:53:24.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b274/live/501319e0-65ae-11f1-9fd1-0b44a7e33c3f.jpg",
+          "description": "The building's systems detected an \"air quality issue\", a Pentagon spokesperson said, prompting a response from hazmat teams."
+        },
+        {
+          "title": "Hazardous materials incident prompts Pentagon lockdown, officials say",
+          "url": "https://www.gmanetwork.com/news/topstories/world/991169/hazardous-materials-incident-prompts-pentagon-lockdown-officials-say/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-11T15:42:25.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/2026-06-11T152220Z_740059042_RC27VS9VOZNP_RTRMADP_3_USA-PENTAGON-HAZARD_2026_06_11_23_40_16.JPG",
+          "description": "A hazardous materials incident put the Pentagon on lockdown on Thursday as fire officials investigated the air quality issue, US defense and fire officials said."
+        },
+        {
+          "title": "Partial lockdown at Pentagon after 'hazardous materials incident' reported",
+          "url": "https://abcnews.com/us/authorities-respond-hazardous-materials-incident-pentagon-fire-officials/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-11T16:00:44.000Z",
+          "image": "https://s.abcnews.com/images/US/pentagon-1-ap-gmh-260611_1781191290718_hpMain_4x3t_384.jpg",
+          "description": "The Arlington County Fire Department said it is currently operating at the Pentagon."
+        },
+        {
+          "title": "Pentagon under partial lockdown due to 'hazardous materials incident'",
+          "url": "https://www.thejournal.ie/pentagon-lockdown-hazardous-material-7068230-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-11T16:00:08.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/aerial-the-pentagon-headquarters-of-united-states-department-defense-usa-the-pentagon-pentagon-aerial-dod-aerial-7b72e539-94d5-4819-b7cf-a0fc905c3604-630x449.jpg",
+          "description": "Pentagon spokesman Sean Parnell said a “shelter-in-place order” had been issued."
+        }
+      ],
+      "summary": "The Pentagon issued a shelter-in-place order and partial lockdown after an air-quality issue prompted a hazardous-materials response. Fire officials investigated the incident."
+    },
+    {
+      "id": "topic_3ab4b57839c8de33",
+      "title": "South Korea Fines Coupang Record $409 Million Over Data Breach",
+      "headline": "South Korea fines Coupang record $409 million for data breach",
+      "label": [
+        "korea",
+        "coupang",
+        "breach",
+        "data",
+        "south",
+        "million"
+      ],
+      "category": "new",
+      "theme": "theme_f1767ef000867bbc",
+      "entities": [
+        "South Korea",
+        "Coupang",
+        "South Korea Fines Coupang",
+        "Record",
+        "Million"
       ],
       "article_count": 13,
-      "source_count": 10,
+      "source_count": 13,
       "articles": [
         {
-          "title": "SpaceX raises $75 billion in mega IPO as investors bet on space future",
-          "url": "https://www.thehindubusinessline.com/markets/spacex-raises-75-billion-in-mega-ipo-as-investors-bet-on-space-future/article71091181.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-06-11T22:40:41.000Z",
-          "image": "https://bl-i.thgim.com/public/incoming/ee5pb4/article71091186.ece/alternates/LANDSCAPE_1200/2026-06-11T184955Z_1873214498_RC2URLAUG7TF_RTRMADP_3_SPACEX-RESULTS.JPG"
+          "title": "South Korea fines Coupang record $409 million for data breach",
+          "url": "https://fortune.com/2026/06/11/south-korea-fines-coupang-record-409-million-for-data-breach",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-06-11T07:14:37.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2251577419-e1781161602641.jpg?w=2048",
+          "description": "Coupang has been under fire after regulators discovered a former employee improperly accessed personal information from nearly 34 million accounts."
         },
         {
-          "title": "SpaceX prices record IPO that could make Musk a trillionaire",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356821/spacex-prices-record-ipo-could-make-musk-trillionaire",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-11T22:13:48.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/12/c3d7195f-4e38-44c9-b798-d8559141621c_dd75b556.jpg?itok=nL-_gjac&v=1781216020"
+          "title": "South Korea Fines Coupang Record $409 Million for Data Leak",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-11/south-korea-fines-coupang-409-million-for-large-scale-data-leak",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-11T02:07:43.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK6FnEkvZiwM/v0/1200x-1.jpg",
+          "description": "A South Korean regulator fined the country’s largest e-commerce platform, owned by US-listed Coupang Inc., a record 624.7 billion won ($409 million) for a wide-ranging cyber-intrusion that escalated into a diplomatic tiff with the US."
         },
         {
-          "title": "Musk's SpaceX prices record $US75 billion IPO",
-          "url": "https://www.perthnow.com.au/news/business/musks-spacex-prices-record-us75-billion-ipo-c-22419871",
-          "source": "PerthNow",
-          "published_at": "2026-06-11T22:13:18.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22419871/152c8dd3369ea358203d8dc8df23ab1df46bd89a-16x9-x0y0w1280h720.jpg"
+          "title": "South Korea hits Coupang with record $409 million fine over massive data breach",
+          "url": "https://thenextweb.com/news/coupang-409-million-data-breach-fine-south-korea",
+          "source": "The Next Web",
+          "published_at": "2026-06-11T09:33:03.000Z",
+          "image": "https://media.thenextweb.com/2026/06/coupang-409-million-data-breach-fine-south-korea.avif",
+          "description": "South Korea’s privacy watchdog has slapped e-commerce giant Coupang with a record-breaking 624.7 billion won ($409 million) fine, the largest data breach penalty in the country’s history. The ruling, handed down today by the Personal Information Protection Commission (PIPC), dwarfs the previous rec…"
         },
         {
-          "title": "Musk’s SpaceX prices record $US75 billion IPO",
-          "url": "https://michaelwest.com.au/musks-spacex-prices-record-us75-billion-ipo",
-          "source": "Michael West",
-          "published_at": "2026-06-11T22:10:42.000Z",
-          "image": "https://michaelwest.com.au/wp-content/uploads/2026/06/7c8259a6-b61d-44a6-9a15-6dc12b5dac58.jpg"
+          "title": "‘South Korea’s Amazon’ hit with record fine over data breach",
+          "url": "https://www.ft.com/content/e7c503cd-4cc8-48c8-be91-99abf0bd2f9a",
+          "source": "International homepage",
+          "published_at": "2026-06-11T02:49:56.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f343e55-a06d-4720-aa3f-66f29d115af0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Coupang fined $409mn for hack that exposed personal information of nearly two-thirds of country’s population"
         },
         {
-          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever",
+          "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+          "url": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions",
           "source": "TechCrunch",
-          "published_at": "2026-06-11T20:33:10.000Z"
+          "published_at": "2026-06-11T13:18:51.000Z",
+          "description": "South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers."
         }
-      ]
+      ],
+      "summary": "South Korea fined e-commerce company Coupang 624.7 billion won, about $409 million, over a data breach involving personal information from more than 30 million accounts. Regulators said a former employee improperly accessed the information."
     },
     {
-      "id": "topic_e62ba2c9febe585c",
+      "id": "topic_e1aac47382561e44",
+      "title": "Toronto Police Officer Fatally Shot During Consulate Attack Investigation",
+      "headline": "Toronto police officer shot while investigating US consulate attack",
       "label": [
-        "deal",
-        "peace",
-        "peace deal",
-        "iran",
-        "trump says",
-        "iran peace"
+        "officer",
+        "consulate",
+        "toronto",
+        "police",
+        "shot",
+        "attack"
       ],
       "category": "new",
-      "theme": "theme_90057f4b5589b940",
+      "theme": "theme_41c6e871cca0d273",
       "entities": [
-        "Oil Drops",
-        "Two",
-        "Month Low",
-        "Trump Says Deal With",
-        "Iran Is Close"
-      ],
-      "article_count": 25,
-      "source_count": 9,
-      "articles": [
-        {
-          "title": "Oil Drops to Two-Month Low as Trump Says Deal With Iran Is Close",
-          "url": "https://financialpost.com/pmn/business-pmn/oil-drops-to-two-month-low-as-trump-says-deal-with-iran-is-close",
-          "source": "Financial Post",
-          "published_at": "2026-06-11T23:08:54.000Z"
-        },
-        {
-          "title": "What’s the deal? What we know about the US-Iran peace agreement to be signed as soon as this weekend",
-          "url": "https://nypost.com/2026/06/11/us-news/whats-the-deal-what-we-know-about-the-us-iran-peace-agreement-trump-announced",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-11T22:11:18.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fu-s-president-donald-trump-130605775.jpg?quality%3D90%26strip%3Dall"
-        },
-        {
-          "title": "Trump says Iran peace deal is near after threatening new strikes",
-          "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-11T21:47:25.000Z",
-          "image": "https://s.france24.com/media/display/00aad5c4-65d0-11f1-8536-005056bf30b7/w:1024/p:16x9/2026-06-11T193149Z-113917332-RC2VRLAXBHRS-RTRMADP-3-USA-TRUMP.jpg"
-        },
-        {
-          "title": "Trump says U.S., Iran could sign peace deal as soon as this weekend",
-          "url": "https://japantoday.com/category/world/trump-says-us-iran-could-sign-peace-deal-as-soon-as-this-weekend",
-          "source": "Japan Today",
-          "published_at": "2026-06-11T21:42:41.000Z"
-        },
-        {
-          "title": "Trump teases peace deal signing in Europe after calling off Iran strikes",
-          "url": "https://www.washingtonexaminer.com/news/white-house/4605539/trump-iran-deal-europe-strikes",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-11T21:35:48.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26162725343623.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_550d0e26c1a0566e",
-      "label": [
-        "mall",
-        "national mall",
-        "national",
-        "86 47",
-        "47",
-        "86"
-      ],
-      "category": "new",
-      "theme": "theme_52f59ca5c1ca157f",
-      "entities": [
-        "Authorities",
-        "National Mall",
-        "Giant",
-        "Huge",
-        "Etched Into Grass"
+        "Toronto",
+        "US",
+        "Police",
+        "US Consulate",
+        "Toronto Police Officer Fatally"
       ],
       "article_count": 11,
-      "source_count": 8,
+      "source_count": 11,
       "articles": [
         {
-          "title": "Authorities investigate ‘86 47’ marking on National Mall lawn",
-          "url": "https://www.ms.now/news/authorities-investigate-86-47-marking-on-national-mall-lawn",
-          "source": "MS NOW",
-          "published_at": "2026-06-11T22:11:03.000Z"
+          "title": "Toronto police officer shot while investigating US consulate attack",
+          "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-06-11T13:49:06.000Z",
+          "image": "https://i.guim.co.uk/img/media/b2ab210f539403714b84225a987c4baceb13819d/788_906_6070_4854/master/6070.jpg?width=140&quality=85&auto=format&fit=max&s=cf2589fd7f0724f1c4aba1b5e1ec29bd",
+          "description": "Officer shot before 6am on Thursday while searching an apartment allegedly linked to March shooting in Toronto A Toronto police officer has been shot as police raided an apartment allegedly linked to the March attack on the US consulate. Toronto police confirmed an officer was shot before 6am while…"
         },
         {
-          "title": "Giant '86 47' found marked in the grass on the National Mall",
-          "url": "https://abcnews.com/politics/giant-86-47-found-marked-grass-national-mall/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-06-11T21:17:47.000Z",
-          "image": "https://s.abcnews.com/images/Politics/dc-8647-1-rt-gmh-260611_1781209424805_hpMain_4x3t_384.jpg"
+          "title": "Toronto police officer shot while investigating attack on US consulate",
+          "url": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-11T18:35:22.000Z",
+          "description": "Police say one suspect still at large after constable fatally shot during search warrant linked to consulate attack."
         },
         {
-          "title": "Huge ‘8647’ Etched Into Grass on the National Mall",
-          "url": "https://politicalwire.com/2026/06/11/huge-8647-etched-into-grass-on-the-national-mall",
-          "source": "Political Wire",
-          "published_at": "2026-06-11T19:44:47.000Z"
+          "title": "Police officer in Toronto killed in shooting linked to investigation of a US Consulate attack",
+          "url": "https://www.seattletimes.com/nation-world/police-officer-in-toronto-killed-in-shooting-linked-to-investigation-of-a-us-consulate-attack",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-06-11T14:49:15.000Z",
+          "image": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png",
+          "description": "A Toronto police officer has been shot and killed by a suspect linked to an attack on the U.S. Consulate in March."
         },
         {
-          "title": "US authorities investigate huge etching of ‘8647’ on National Mall grounds",
-          "url": "https://www.theguardian.com/us-news/2026/jun/11/8647-national-mall-trump",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-11T19:16:24.000Z",
-          "image": "https://i.guim.co.uk/img/media/0854afba18c317d609a167f3a6c532c4281aa1e8/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1ce5fca12da511d14b82c3e2343b0a09"
+          "title": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
+          "url": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-06-11T14:46:43.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/11/multimedia/11int-canada-shooting-vjpc/11int-canada-shooting-vjpc-mediumSquareAt3X.jpg",
+          "description": "The incident happened early Thursday during an investigation into a March shooting at the U.S. consulate in Toronto, the police chief said."
         },
         {
-          "title": "US authorities investigate huge '8647' marking on grounds of National Mall in Washington (Nathan Howard/Reuters)",
-          "url": "https://www.memeorandum.com/260611/p90",
-          "source": "memeorandum",
-          "published_at": "2026-06-11T19:15:00.000Z",
-          "image": "http://www.memeorandum.com/260611/i90.jpg"
+          "title": "Officer shot and killed in Toronto while investigating US Consulate attack, police say",
+          "url": "https://www.independent.co.uk/news/world/americas/toronto-shooting-officer-killed-us-consulate-attack-police-b2994088.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-11T15:09:42.000Z",
+          "image": "https://static.independent.co.uk/2026/06/11/15/58/GettyImages-2265298081.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The officer’s death comes months after the attack at the consulate"
         }
-      ]
+      ],
+      "summary": "A Toronto police officer was fatally shot while searching an apartment linked to a March shooting at the US consulate. Police said a suspect remained at large."
     },
     {
-      "id": "topic_5c5cb6cba9eb7990",
+      "id": "topic_f332b9cbc7b27533",
+      "title": "Trump Says US Will Seize Iran’s Kharg Island Oil Hub",
+      "headline": "Trump Says U.S. Will Seize Iran’s Kharg Island",
       "label": [
-        "robin",
-        "hood",
-        "death robin",
-        "robin hood",
-        "hood review",
-        "death"
+        "kharg",
+        "island",
+        "iran",
+        "seize",
+        "trump",
+        "threatens"
       ],
       "category": "new",
-      "theme": "theme_2af9e5b50fa7b35b",
+      "theme": "theme_c9750279dd6f1902",
       "entities": [
-        "The Death",
-        "Robin Hood",
-        "Hugh Jackman",
-        "Robin Hood Review",
-        "The Death Of Robin"
+        "Trump Says",
+        "Will Seize Iran",
+        "Kharg Island",
+        "Trump",
+        "Iran"
       ],
-      "article_count": 7,
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Trump Says U.S. Will Seize Iran’s Kharg Island",
+          "url": "https://politicalwire.com/2026/06/11/trump-says-u-s-will-seize-irans-kharg-island",
+          "source": "Political Wire",
+          "published_at": "2026-06-11T12:40:33.000Z",
+          "description": "President Trump said the U.S. military will attack Iran “VERY HARD TONIGHT,” and will soon take over the country’s “oil infrastructure points,” CNBC reports. He said an operation to “assume total control” of Iran’s oil and gas markets and infrastructure, including taking Kharg Island, will occur “a…"
+        },
+        {
+          "title": "Trump says U.S. will seize Iran's Kharg Island and other 'oil infrastructure points'",
+          "url": "https://www.cnbc.com/2026/06/11/trump-says-us-will-seize-kharg-island-and-other-oil-infrastructure-points.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-06-11T12:49:35.000Z",
+          "description": "Trump said the forthcoming operations to take over Iran's oil infrastructure, and its oil and gas markets, would be similar to U.S. actions in Venezuela."
+        },
+        {
+          "title": "What to know about Iran's Kharg Island as Trump threatens to seize it",
+          "url": "https://www.yahoo.com/news/articles/know-kharg-island-iranian-oil-153000700.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-11T13:52:00.000Z",
+          "image": "https://media.zenfs.com/en/cbs_news_897/e53882efea25dd28710f03689837b353"
+        },
+        {
+          "title": "Trump says U.S. will seize Iran's Kharg Island and other 'oil infrastructure points'",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxodxv0qlppru0xm0jua1vncmwtzjd5sld1rtrtawfixzfjrlvyrwn0zfc0smprykjewlewdff3bmtdudq0vdfwwuxpx1llmgtibjdptfbhmgfmd0cxog1cb1y0y1etutdovljmy1blrxc4n3zcvm1zberlogc0mfhabwy4zxbmu0xkv1lxatz4zkfptdhrvtfrdgl1yutmdjnesvvuvjbfzvbvsxdlag5j0gg0aufvx3lxte1qaxrfyjvnektnegrcv0wzmm9ldffidgjun0qytgv4eejrqvbsmzlrui10dg5myje4wi1zyvn5nmjomjlpvtd4egzxmldovwjtukppag9zag12q0fyrtfkdemwstbmr0trd1jvmfrlb2jvnddqakreqnbkwnb0bujisuzvtfpoavbgejnanfruohzns2tczknhc2jnrv9mvjvialzfedlkuk1rtnzhrjbnmhk2eg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-11T12:26:29.000Z",
+          "description": "Trump says U.S. will seize Iran's Kharg Island and other 'oil infrastructure points' CNBC Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase The New York Times Trump vows to intensify Iran strikes, but backs off threat to hit power plants, bridges The Times of Israel Why a frustrated…"
+        },
+        {
+          "title": "Trump says he wants to 'take' Iran's Kharg Island oil hub",
+          "url": "https://www.gmanetwork.com/news/topstories/world/991158/trump-says-he-wants-to-take-iran-s-kharg-island-oil-hub/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-11T14:44:11.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/2026-06-11T132035Z_890074880_RC261KAG62U3_RTRMADP_3_IRAN-CRISIS_2026_06_11_21_41_45.JPG",
+          "description": "US President Donald Trump said on Thursday he wants to take over Iran's oil infrastructure hub Kharg Island but he was not sure Americans have the stomach for a major escalation in the war."
+        }
+      ],
+      "summary": "Donald Trump said the United States would take control of Iran’s Kharg Island and other oil infrastructure. He also threatened attacks on Iran and said he was unsure whether Americans would support a major escalation."
+    },
+    {
+      "id": "topic_13b96fe78f956902",
+      "title": "Vendée Globe Winner Charlie Dalin Dies at 42",
+      "headline": "Le navigateur Charlie Dalin, vainqueur du Vendée Globe en 2025, est mort à l’âge de 42 ans",
+      "label": [
+        "vendée",
+        "globe",
+        "dalin",
+        "charlie",
+        "vainqueur",
+        "ans"
+      ],
+      "category": "new",
+      "theme": "theme_2061d04c9df70ccc",
+      "entities": [
+        "Charlie Dalin",
+        "Vend",
+        "Globe",
+        "Vainqueur",
+        "Dernier"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Le navigateur Charlie Dalin, vainqueur du Vendée Globe en 2025, est mort à l’âge de 42 ans",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/06/11/le-navigateur-charlie-dalin-vainqueur-du-vendee-globe-en-2025-est-mort-a-l-age-de-42-ans_6700706_3382.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-11T09:45:40.000Z",
+          "image": "https://img.lemde.fr/2026/05/22/1552/0/4725/2362/644/322/60/0/9f529e8_upload-1-n8zbbm5nixkx-jmh8503.jpg",
+          "description": "Il avait remporté la course autour du monde en solitaire, sans escale et sans assistance, avec plus de neuf jours et huit heures d’avance sur le précédent record de l’épreuve, alors qu’il se battait depuis deux ans contre un cancer. Sa famille a annoncé son décès jeudi 11 juin."
+        },
+        {
+          "title": "Le navigateur Charlie Dalin, vainqueur du dernier Vendée Globe, est mort à l'âge de 42 ans",
+          "url": "https://www.franceinfo.fr/sports/voile/charlie-dalin/le-navigateur-charlie-dalin-vainqueur-du-dernier-vendee-globe-est-mort-a-l-age-de-42-ans_8055524.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-06-11T09:39:57.000Z",
+          "image": "https://www.franceinfo.fr/pictures/Y10pCS8bkyXp_d_nTBXOCAdQJDA/0x182:3500x2151/432x243/filters:format(jpg)/2026/06/11/6a2a825c278d0330987555.jpg",
+          "description": "Charlie Dalin luttait depuis un peu plus de deux ans et demi contre une tumeur stromale gastro-intestinale."
+        },
+        {
+          "title": "Vainqueur du Vendée Globe 2024, Charlie Dalin est mort à l’âge de 42 ans",
+          "url": "https://www.ouest-france.fr/sport/voile/charlie-dalin/voile-vainqueur-du-vendee-globe-2024-charlie-dalin-est-mort-a-lage-de-42-ans-6775a868-6578-11f1-bb6e-df703f58b398",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-11T09:55:35.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2NzAwOGE4YzRiYTEwYTljYTI4ODhjYTcxYmMzYTQ3ODg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=1ff4fa33ddc3b523177a5e14700727562e6ed5bf0297f80b264996f8846642b0",
+          "description": "Le skipper Charlie Dalin, vainqueur du dernier Vendée Globe en 2024, est décédé dans la nuit de mercredi à jeudi a annoncé sa famille."
+        },
+        {
+          "title": "Charlie Dalin, vainqueur du dernier Vendée Globe, est mort de son cancer à 42 ans",
+          "url": "https://www.ladepeche.fr/2026/06/11/charlie-dalin-vainqueur-du-dernier-vendee-globe-est-mort-de-son-cancer-a-42-ans-13414365.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-06-11T09:43:17.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a2a82b4f91e3f0a9908f52e/standard/image.jpg?v=1",
+          "description": "Le skipper Charlie Dalin, vainqueur de l'édition 2024-2025 du Vendée Globe, est mort dans la nuit du mercredi 10 au jeudi 11 juin du cancer gastro-intestinal contre lequel il luttait depuis octobre 2023."
+        },
+        {
+          "title": "Décès du navigateur français Charlie Dalin, vainqueur du Vendée Globe 2024-2025, à l’âge de 42 ans",
+          "url": "https://www.rtbf.be/article/deces-du-navigateur-francais-charlie-dalin-vainqueur-du-vendee-globe-2024-2025-a-l-age-de-42-ans-11738806",
+          "source": "- Info",
+          "published_at": "2026-06-11T09:37:02.000Z",
+          "image": "https://static-content.rtbf.be/article/image/770x433/3/1/f/61816f54f1f4f6a106818de2a65aa4e1.jpg",
+          "description": "\"C’est avec une profonde tristesse que notre famille et moi-même annonçons le décès de mon mari Charlie Dalin, des..."
+        }
+      ],
+      "summary": "French sailor Charlie Dalin, who won the 2024–25 Vendée Globe, has died at age 42. He had been receiving treatment for a gastrointestinal stromal tumour."
+    },
+    {
+      "id": "topic_654b72cfa15832b5",
+      "title": "South Korea and Czechia Open World Cup Campaigns",
+      "headline": "South Korea vs Czechia – Predicted lineup and team news",
+      "label": [
+        "korea",
+        "czechia",
+        "vs",
+        "south",
+        "republic",
+        "cup"
+      ],
+      "category": "new",
+      "theme": "theme_f52c1d08a782120b",
+      "entities": [
+        "South Korea",
+        "Czechia",
+        "Predicted",
+        "Watch South Korea",
+        "Czechia Free"
+      ],
+      "article_count": 16,
       "source_count": 7,
       "articles": [
         {
-          "title": "The Death of Robin Hood review: Hugh Jackman leads a bleak, brutal, and boring re-imagining of the outlaw",
-          "url": "https://mashable.com/entertainment/death-of-robin-hood-review",
+          "title": "South Korea vs Czechia – Predicted lineup and team news",
+          "url": "https://sports.yahoo.com/articles/south-korea-vs-czechia-predicted-060500548.html",
+          "published_at": "2026-06-11T06:05:00.000Z",
+          "description": "South Korea and Czechia begin their FIFA World Cup campaigns with a clash in Guadalajara on Friday, both aiming to make a strong and confident start to the tournament.South Korea managed to recover af..."
+        },
+        {
+          "title": "How to watch South Korea vs. Czechia online for free",
+          "url": "https://mashable.com/entertainment/south-korea-czechia-fifa-world-cup-2026-live-stream-for-free",
           "source": "Mashable",
-          "published_at": "2026-06-11T22:03:07.000Z"
+          "published_at": "2026-06-11T04:00:00.000Z",
+          "description": "How to watch World Cup for free. Live stream South Korea vs. Czechia in the 2026 FIFA World Cup for free."
         },
         {
-          "title": "The Death of Robin Hood Review",
-          "url": "https://www.ign.com/articles/the-death-of-robin-hood-review",
-          "source": "IGN Articles",
-          "published_at": "2026-06-11T21:00:00.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/04/thedeathofrobinhood-blogroll-01-1780593770819.jpg"
+          "title": "How to Watch South Korea vs Czechia Free ? 2026 World Cup Live Stream",
+          "url": "https://gizmodo.com/how-to-watch-south-korea-vs-czechia-free-2026-world-cup-live-stream-2000770608",
+          "source": "Gizmodo",
+          "published_at": "2026-06-11T23:02:31.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/South-Korea-vs-Czechia-gizmodo-1280x853.jpg",
+          "description": "South Korea vs Czechia closes opening day in Group A tonight, and the free live stream sits on a UK channel. Here is the quickest way to watch from anywhere."
         },
         {
-          "title": "‘The Death of Robin Hood’ Review: Hugh Jackman and Michael Sarnoski Make a Grizzled, Anguished Antihero of the Valiant Outlaw",
-          "url": "https://variety.com/2026/film/reviews/the-death-of-robin-hood-review-hugh-jackman-jodie-comer-1236772346",
-          "source": "Variety",
-          "published_at": "2026-06-11T21:00:00.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/death-of-robin-hood.webp"
-        },
-        {
-          "title": "The Death Of Robin Hood Review: Hugh Jackman Leads An Ultra-Violent, Melancholy Myth Deconstruction",
-          "url": "https://www.slashfilm.com/2192179/the-death-of-robin-hood-review-hugh-jackman-2026-movie",
-          "source": "/Film",
-          "published_at": "2026-06-11T21:00:00.000Z",
-          "image": "https://www.slashfilm.com/img/gallery/the-death-of-robin-hood-review-hugh-jackman-2026-movie/l-intro-1781189478.jpg"
-        },
-        {
-          "title": "‘The Death of Robin Hood’ Review: Hugh Jackman Terrorizes Nottingham in a Ferociously Grim Character Study About How Legends Are Forged",
-          "url": "https://www.indiewire.com/criticism/movies/the-death-of-robin-hood-movie-review-hugh-jackman-a24-1235199416",
-          "source": "IndieWire",
-          "published_at": "2026-06-11T21:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bc54c73dcaa6995b",
-      "label": [
-        "oracle",
-        "peoplesoft",
-        "oracle peoplesoft",
-        "peoplesoft zero",
-        "shinyhunter",
-        "zero day"
-      ],
-      "category": "new",
-      "theme": "theme_1bae933b77e01836",
-      "entities": [
-        "ShinyHunters",
-        "Oracle PeopleSoft",
-        "ShinyHunters Exploits Oracle PeopleSoft",
-        "Zero",
-        "Day"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "ShinyHunters breached 100+ companies through an unpatched Oracle PeopleSoft zero-day",
-          "url": "https://thenextweb.com/news/oracle-peoplesoft-shinyhunters-zero-day-100-companies",
-          "source": "The Next Web",
-          "published_at": "2026-06-11T21:10:46.000Z",
-          "image": "https://media.thenextweb.com/2026/06/oracle-peoplesoft-shinyhunters-zero-day-100-companies.avif"
-        },
-        {
-          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-          "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-          "source": "The Hacker News",
-          "published_at": "2026-06-11T20:29:23.000Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg"
-        },
-        {
-          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-          "url": "https://vulners.com/thn/thn:752b90fa61064ecc5d562ea512ccec15",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-06-11T20:29:00.000Z",
-          "image": "http://vulners.com/static/img/thn.png"
-        },
-        {
-          "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-          "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies",
-          "source": "TechCrunch",
-          "published_at": "2026-06-11T20:27:25.000Z"
-        },
-        {
-          "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-          "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks",
-          "source": "BleepingComputer",
-          "published_at": "2026-06-11T19:39:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_6c5c25300496120b",
-      "label": [
-        "primer gol",
-        "qui",
-        "primer",
-        "qui ones",
-        "ones",
-        "gol"
-      ],
-      "category": "new",
-      "theme": "theme_f6e951eeb3472790",
-      "entities": [
-        "Hist",
-        "Juli",
-        "Qui",
-        "Mundial",
-        "Anota Qui"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "¡Histórico! Julián Quiñones anota el primer gol del Mundial 2026 y enciende a México",
-          "url": "https://vanguardia.com.mx/deportes/historico-julian-quinones-anota-el-primer-gol-del-mundial-2026-y-enciende-a-mexico-bb21315631",
-          "source": "Vanguardia",
-          "published_at": "2026-06-11T19:35:07.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1086355-mundial-mexico-vs-sudafrica_1-15757817_20260611194825.jpg"
-        },
-        {
-          "title": "Julián Quiñones marca el primer gol del Mundial 2026",
-          "url": "https://www.informador.mx/deportes/julian-quinones-marca-el-primer-gol-del-mundial-2026-en-partido-mexico-vs-sudafrica-20260611-0118.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-11T19:33:00.000Z"
-        },
-        {
-          "title": "Anota Qui�ones primer gol de M�xico y del Mundial 2026",
-          "url": "https://www.reforma.com/anota-quinones-primer-gol-de-mexico-y-del-mundial-2026/ar3220922",
-          "source": "Reforma",
-          "published_at": "2026-06-11T19:28:36.000Z"
-        },
-        {
-          "title": "Anota Qui�ones primer gol de M�xico y del Mundial 2026",
-          "url": "https://www.elnorte.com/anota-quinones-primer-gol-de-mexico-y-del-mundial-2026/ar3220926",
-          "source": "ElNorte",
-          "published_at": "2026-06-11T19:27:09.000Z"
-        },
-        {
-          "title": "¿Quién es Julián Quiñones, el autor del primer gol del Mundial 2026? | Video",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/quien-es-julian-quinones-el-autor-del-primer-gol-del-mundial-2026.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-06-11T19:23:35.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2019459.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_cb275ac031fc17a3",
-      "label": [
-        "fbi",
-        "seize",
-        "doj fbi",
-        "fbi seize",
-        "seize 13",
-        "13 domain"
-      ],
-      "category": "new",
-      "theme": "theme_48fd29e0d451cdc4",
-      "entities": [
-        "DOJ",
-        "FBI Seize",
-        "Domains",
-        "Chinese Recruitment Op"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
-          "url": "https://www.govinfosecurity.com/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
-        },
-        {
-          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
-          "url": "https://www.databreachtoday.co.uk/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
-        },
-        {
-          "title": "DOJ, FBI Seize 13 Domains in Chinese Recruitment Op",
-          "url": "https://www.bankinfosecurity.com/doj-fbi-seize-13-domains-in-chinese-recruitment-op-a-31952",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/doj-fbi-seize-13-domains-in-chinese-recruitment-op-image_small-3-a-31952.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b2c3e95c9ebcdfcc",
-      "label": [
-        "indict",
-        "lee indict",
-        "murder charge",
-        "lee",
-        "charge",
-        "murder"
-      ],
-      "category": "new",
-      "theme": "theme_4ba75baa3a8d04dc",
-      "entities": [
-        "Former Super Bowl",
-        "Darron Lee",
-        "Ex",
-        "NFL",
-        "Lee"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Former Super Bowl champion Darron Lee indicted on murder charge in death of girlfriend",
-          "url": "https://www.theguardian.com/sport/2026/jun/11/darron-lee-indicted-murder-charge-nfl",
-          "source": "The Guardian",
-          "published_at": "2026-06-11T22:36:21.000Z",
-          "image": "https://i.guim.co.uk/img/media/ae5ba803d033ed3fdbb74650755cba888bfe8e40/679_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a903d7c6007d1a835a843423e6aa61ae"
-        },
-        {
-          "title": "Ex-NFL linebacker Lee indicted on murder charge",
-          "url": "https://www.espn.com/nfl/story/_/id/49033300/ex-nfl-linebacker-darron-lee-indicted-murder-charge",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-06-11T22:31:01.000Z"
-        },
-        {
-          "title": "Former NFL first-round pick Darron Lee indicted on first-degree murder charge in girlfriend's death",
-          "url": "https://www.foxnews.com/sports/former-nfl-first-round-pick-darron-lee-indicted-first-degree-murder-charge-girlfriends-death",
+          "title": "World Cup 2026 kicks off with Mexico vs South Africa and South Korea vs Czechia",
+          "url": "https://www.foxnews.com/sports/fifa-world-cup-2026-schedule-results",
           "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-11T21:00:03.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/darron-lee-jets-mugshot-split.jpg?ve=1&tl=1"
+          "published_at": "2026-06-11T11:17:55.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/usa-fans-soldier-field-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "The 2026 World Cup kicks off June 11 with 48 nations competing across the U.S., Mexico and Canada, with the final at MetLife Stadium on July 19."
+        },
+        {
+          "title": "Get a 100% bonus up to £50 with 247Bet ahead of South Korea vs Czechia",
+          "url": "https://talksport.com/betting/4317938/world-cup-2026-247bet-free-bets-south-korea-vs-czechia",
+          "source": "talkSPORT",
+          "published_at": "2026-06-11T16:00:00.000Z"
         }
-      ]
+      ],
+      "summary": "South Korea and Czechia are set to begin their 2026 FIFA World Cup campaigns against each other in Guadalajara. The match is part of Group A’s opening day."
     },
     {
-      "id": "topic_3e2f1d8732424d31",
+      "id": "topic_29993759b75d3e4a",
+      "title": "2026 World Cup Opens in Mexico Amid Ceremony and Protests",
+      "headline": "World Cup kicks off in Mexico City",
       "label": [
-        "journaliste",
-        "le journaliste",
-        "va bien",
-        "alg",
-        "christophe",
-        "gleiz"
+        "kicks",
+        "mexico",
+        "cup",
+        "world",
+        "shakira",
+        "vibrant"
       ],
       "category": "new",
-      "theme": "theme_ed79931cf8db286a",
+      "theme": "theme_c668f5d80d93baf4",
       "entities": [
-        "Le",
-        "Alg",
-        "Christophe Gleizes",
-        "Jean",
-        "Barrot"
+        "World Cup",
+        "Mexico City",
+        "Mexico",
+        "Shakira",
+        "BBC"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 12,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Le journaliste français détenu en Algérie Christophe Gleizes « va bien », assure le ministre Jean-Noël Barrot",
-          "url": "https://www.ouest-france.fr/monde/algerie/le-journaliste-francais-detenu-en-algerie-christophe-gleizes-va-bien-assure-le-ministre-jean-noel-barrot-29c65a36-65cc-11f1-bb6e-df703f58b398",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-11T19:53:01.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2ODliNTc0MDkzNjQ2NmEyMmY5NWQzYjQ0ZmMwYWQyZjk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9343c619d59db3d6485148f8feb80b9d413a2745752f59a2fb5c0cb98c974d2b"
+          "title": "World Cup kicks off in Mexico City",
+          "url": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-11T18:25:00.000Z",
+          "description": "Co-hosts Mexico and South Africa kick off the largest World Cup ever in Mexico City. The opening ceremony is underway in the renowned Estadio Azteca. It marks the start of 39 days of action across three countries."
         },
         {
-          "title": "Le journaliste Christophe Gleizes, emprisonné en Algérie, « va bien, malgré l’épreuve très douloureuse qu’il traverse », assure Jean-Noël Barrot",
-          "url": "https://www.lemonde.fr/international/article/2026/06/11/le-journaliste-christophe-gleizes-emprisonne-en-algerie-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-assure-jean-noel-barrot_6700798_3210.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-11T19:35:02.000Z",
-          "image": "https://img.lemde.fr/2025/12/17/52/0/2536/1268/644/322/60/0/03c4ae4_ftp-1-tox1ziikn5v4-5703649-01-06.jpg"
+          "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
+          "url": "https://www.bbc.com/news/articles/c2ly928xz8go",
+          "source": "BBC Sport",
+          "published_at": "2026-06-11T19:13:45.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/8f0db940-65c5-11f1-8546-8f19e4fe30f4.jpg",
+          "description": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack."
         },
         {
-          "title": "Christophe Gleizes détenu en Algérie : le journaliste français « va bien, malgré l’épreuve très douloureuse qu’il traverse »",
-          "url": "https://www.sudouest.fr/politique/christophe-gleizes-detenu-en-algerie-le-journaliste-francais-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-29448447.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-11T19:32:29.000Z"
+          "title": "World Cup kicks off in Mexico with Shakira, vibrant fans, and protests",
+          "url": "https://sports.yahoo.com/articles/world-cup-kicks-off-mexico-191351255.html",
+          "published_at": "2026-06-11T23:08:36.000Z",
+          "description": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters at points around the Azteca stadium."
+        },
+        {
+          "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte1yohbualngvnc2rwryn05gdjc5wuzqvghurndmannht1rzmwvbqjrcmzdfcjmyqkixrew4bkpqafpnwuhfculbtvvtbnfkbnbhowvyrdzftfiwqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-11T19:13:45.000Z",
+          "description": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans BBC WORLD CUP 2026 Reuters FIFA World Cup 2026 Live Updates: Shakira, Tyla and Alejandro Fernández Perform, Mexico Scores First Goal Against South Africa TODAY.com Shakira kicks off 2026 FIFA World Cup with epic opening c…"
+        },
+        {
+          "title": "Anti-Austerity Protests Rock World Cup Kick-Off in Mexico",
+          "url": "https://truthout.org/video/anti-austerity-protests-rock-world-cup-kick-off-in-mexico",
+          "source": "Truthout",
+          "published_at": "2026-06-11T20:35:26.000Z",
+          "image": "https://truthout.org/app/uploads/2026/06/SEG2-guest-split-Jose-Luis-1200x900.jpg",
+          "description": "The mothers of disappeared people have also been protesting, trying to reach the stadium, says José Luis Granados Ceja."
         }
-      ]
+      ],
+      "summary": "The 2026 FIFA World Cup opened in Mexico City with a ceremony featuring Shakira and other performers. Protests took place near the Azteca stadium, with reports of sporadic clashes with police."
     },
     {
-      "id": "topic_a125a584d8480f61",
+      "id": "topic_a751757333849410",
+      "title": "Apple TV Renews ‘Widow’s Bay’ for Season Two",
+      "headline": "‘Widow’s Bay’ Renewed For Season 2 As Creator Katie Dippold Inks Overall Deal With Apple TV",
       "label": [
-        "mon go",
-        "pok",
-        "mon",
-        "pok mon",
-        "go",
-        "drone"
+        "widow",
+        "bay",
+        "season",
+        "renewed",
+        "apple",
+        "tv"
       ],
       "category": "new",
-      "theme": "theme_47e4636562a9f5b3",
+      "theme": "theme_c1f5f5b63671ac1c",
       "entities": [
-        "Niantic Spatial Denies Pok",
-        "Go Data Is Being",
-        "Shared With",
-        "Drone Company",
-        "Have Pok"
+        "Widow",
+        "Bay",
+        "Renewed For Season",
+        "As Creator Katie Dippold",
+        "Inks Overall Deal With"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 11,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Niantic Spatial Denies Pokémon Go Data Is Being Shared With A Drone Company",
-          "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
-          "source": "Kotaku",
-          "published_at": "2026-06-11T21:26:30.000Z",
-          "image": "https://kotaku.com/app/uploads/2023/04/0e360c870e6b0950a14426b6a080997a-1280x720.jpg"
+          "title": "‘Widow’s Bay’ Renewed For Season 2 As Creator Katie Dippold Inks Overall Deal With Apple TV",
+          "url": "https://deadline.com/2026/06/widows-bay-renewed-season-2-katie-dippold-deal-apple-tv-1236954233",
+          "source": "Deadline",
+          "published_at": "2026-06-11T21:30:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/Widows-bay.jpg",
+          "description": "Just ahead of next week’s Season 1 finale, Apple TV has announced a Season 2 renewal for its hit horror-comedy series Widow’s Bay, starring and executive produced by Emmy winner Matthew Rhys. Additionally, the streamer clearly wants to stay in business with series creator Katie Dippold, signing her…"
         },
         {
-          "title": "Have Pokémon Go players been unwittingly helping military drones find their targets?",
-          "url": "https://www.androidauthority.com/pokemon-go-drone-training-3676895",
-          "source": "Android Authority",
-          "published_at": "2026-06-11T21:17:41.000Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/pokemon-go-on-a-smartphone-on-a-concrete-wall-scaled.jpg"
+          "title": "Widow's Bay Renewed For Season 2",
+          "url": "https://www.tvline.com/2192703/widows-bay-renewed-season-2-apple-tv",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-06-11T21:29:59.000Z",
+          "image": "https://www.tvline.com/img/gallery/widows-bay-renewed-season-2-apple-tv/l-intro-1781214308.jpg",
+          "description": "Katie Dippold's horror-comedy Widow's Bay is officially returning for Season 2 - get renewal details."
         },
         {
-          "title": "Pokémon Go Scans Trained Military Drone Navigation Tech",
-          "url": "https://dev.to/onsen/pokemon-go-scans-trained-military-drone-navigation-tech-1bla",
-          "source": "DEV Community",
-          "published_at": "2026-06-11T18:56:33.000Z"
+          "title": "‘Widow’s Bay’ Renewed For Season 2 As Creator Katie Dippold Inks Overall Deal With Apple TV",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxovkduq1jvndhszfhny3zaovvjs0zlc1rjee1auzlkwnrpwwvhuzn5sfzpdlrrtkjjrxf6unzszm5pt0hfcnjsnk54ufg3bnzgdgronwdmz3ftm0jfnudccmo0zffeqwffzjbus2l4mldltxjibmvfctznt3fhcznfbuizmwi2szrsexfzdlcydxfjtkzeunnfvhfhn2q",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-11T21:30:00.000Z",
+          "description": "‘Widow’s Bay’ Renewed For Season 2 As Creator Katie Dippold Inks Overall Deal With Apple TV Deadline In ‘Widow’s Bay,’ History Is Hard to Kill The New York Times ‘Widow’s Bay’ Renewed, Creator Katie Dippold Inks Overall Deal With Apple TV The Hollywood Reporter Is ‘Widow’s Bay’ Returning for Season…"
+        },
+        {
+          "title": "‘Widow’s Bay’ Renewed for Season 2, Creator Katie Dippold Inks Apple TV Overall Deal",
+          "url": "https://variety.com/2026/tv/news/widows-bay-renewed-season-2-katie-dippold-apple-tv-overall-1236779068",
+          "source": "Variety",
+          "published_at": "2026-06-11T21:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/Widows_Bay_Photo_010803.jpg",
+          "description": "Apple TV has renewed “Widow’s Bay” for Season 2, Variety has learned. In addition, series creator, executive producer and showrunner Katie Dippold has signed a multi-year overall deal with Apple TV. The news comes ahead of the Season 1 finale, which will bow on June 17. “Widow’s Bay” originally deb…"
+        },
+        {
+          "title": "Widow's Bay season 2 confirmed by Apple TV",
+          "url": "https://www.polygon.com/widows-bay-season-2-announced-apple-tv",
+          "source": "Polygon.com",
+          "published_at": "2026-06-11T21:14:26.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/widows-bay.jpg",
+          "description": "Apple TV's horror-comedy Widow's Bay just got greenlit for a second season, a win for one of the best television shows of 2026"
         }
-      ]
+      ],
+      "summary": "Apple TV renewed the horror-comedy series “Widow’s Bay” for a second season. Creator and showrunner Katie Dippold also signed a multi-year overall deal with the service."
     },
     {
-      "id": "topic_7c32a91c3fdc2f3a",
+      "id": "topic_91cf8f3d5380131c",
+      "title": "UK Watchdog Investigates Ryanair’s Family Seating Charges",
+      "headline": "Ryanair investigated over charging parents to sit with their children on flights",
       "label": [
-        "mourinho",
-        "madrid",
-        "real madrid",
-        "mourinho return",
-        "return real",
-        "real"
+        "ryanair",
+        "sit",
+        "parents",
+        "investigated",
+        "charging",
+        "children"
       ],
       "category": "new",
-      "theme": "theme_2adc777142e5d413",
+      "theme": "theme_ccf21edd2aafba9e",
       "entities": [
-        "LaLiga",
-        "Real Madrid",
-        "Mourinho",
-        "Perez",
-        "Jose"
+        "Ryanair",
+        "UK",
+        "Ryanair Is Being Investigated",
+        "Charging Parents",
+        "Sit Next"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "LaLiga: Real Madrid confirm date Mourinho will officially join club",
-          "url": "https://dailypost.ng/2026/06/11/laliga-real-madrid-confirm-date-mourinho-will-officially-join-club",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-06-11T20:36:11.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/09/Mourinho.jpg"
+          "title": "Ryanair investigated over charging parents to sit with their children on flights",
+          "url": "https://www.breakingnews.ie/world/ryanair-investigated-over-charging-parents-to-sit-with-their-children-on-flights-1912134.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMTEwNzM1MzNcXFwvNDgxMWY2YTEtYzQ0Ny00NDFkLWI4ZGMtODI3YTYxZTk1Y2YzLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImM0YTUzMDRmYTUwOTQ3NDZlZDRmYjk2YWNmOTQzZmYyYjhiMWVlMDkifQ==/4811f6a1-c447-441d-b8dc-827a61e95cf3.jpg",
+          "description": "Watchdog the Competition and Markets Authority said it will determine whether the practice is ‘in line with consumer law’."
         },
         {
-          "title": "Mourinho returns to Real Madrid as Perez retains presidency",
-          "url": "https://www.soccernews.com/mourinho-returns-to-real-madrid-as-perez-retains-presidency/400442",
-          "source": "SoccerNews",
-          "published_at": "2026-06-11T19:34:35.000Z"
+          "title": "Ryanair investigated over charging parents to sit with children",
+          "url": "https://www.bbc.com/news/articles/czj87rvx349o",
+          "source": "BBC News",
+          "published_at": "2026-06-11T07:10:58.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af40/live/608cfde0-655e-11f1-a1f9-afd6f3de9cfa.jpg",
+          "description": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child."
         },
         {
-          "title": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
-          "url": "https://news.sky.com/story/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants-13553162",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-06-11T18:55:00.000Z",
-          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-football-laliga-real-madrid_7268260.jpg?20260608120507"
+          "title": "Ryanair being investigated by watchdog for charging parents to sit with their children on flights",
+          "url": "https://www.independent.co.uk/travel/news-and-advice/ryanair-charges-children-parents-investigation-cma-watchdog-b2993755.html",
+          "source": "The Independent UK",
+          "published_at": "2026-06-11T06:38:25.000Z",
+          "image": "https://static.independent.co.uk/2026/06/11/07/2026-06-11T060814Z_1575420412_RC2H4LAFRFFU_RTRMADP_3_BRITAIN-RYANAIR.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The fee is typically about £8 each way"
+        },
+        {
+          "title": "Ryanair investigated in UK over charging parents to sit with their children on flights",
+          "url": "https://www.irishexaminer.com/world/arid-41860590.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-11T07:13:00.000Z",
+          "description": "Ryanair requires at least one parent to sit with their children aged between two and 11, according to the watchdog."
+        },
+        {
+          "title": "Ryanair investigated by UK watchdog over charging parents to sit with their children on flights",
+          "url": "https://www.thejournal.ie/ryanair-being-investigated-over-charging-parents-to-sit-with-their-children-7067390-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-11T09:53:29.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/edinburgh-airport-stock-pics-6d14a1e8-d45f-4684-a8cc-7491d483c423-630x419.jpg",
+          "description": "The investigation relates to whether Ryanair’s contract term is “unfair” under UK consumer law."
         }
-      ]
+      ],
+      "summary": "The UK Competition and Markets Authority is investigating Ryanair’s charges for parents who want to sit with their children. The regulator will assess whether the airline’s terms comply with consumer law."
     },
     {
-      "id": "topic_557c3bd9c1a19762",
+      "id": "topic_91c456563dc53db3",
+      "title": "India Waives Excise Duty on Petrol With Higher Ethanol Blends",
+      "headline": "Higher ethanol blended petrol between 22-30% exempted from central excise duty",
       "label": [
-        "oil company",
-        "sanction",
-        "oil",
-        "company",
-        "state oil",
-        "sanction cuba"
+        "duty",
+        "excise",
+        "ethanol",
+        "petrol",
+        "blended",
+        "higher"
       ],
       "category": "new",
-      "theme": "theme_278cf10845dd82cc",
+      "theme": "theme_a3da3b7181bea71",
       "entities": [
-        "Rubio",
-        "US",
-        "Cuban",
-        "Trump",
-        "Cuba"
+        "Higher",
+        "Petrol",
+        "India",
+        "Government",
+        "Key"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Rubio announces US sanctions on Cuban state-owned oil company",
-          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4605793/rubio-us-sanctions-cuba-petroleo",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-11T22:57:16.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/Marco-Rubio-Cuba-Sanctions--e1781216851243.webp?w=696"
+          "title": "Higher ethanol blended petrol between 22-30% exempted from central excise duty",
+          "url": "https://www.thehindu.com/business/economy/higher-ethanol-blended-petrol-between-22-30-exempted-from-central-excise-duty/article71087550.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-11T03:14:32.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/91cg8f/article71087552.ece/alternates/LANDSCAPE_1200/20260605316L.jpg",
+          "description": "In other words, petrol blended with ethanol, at 22%, 25%, 27% and 30% would be exempt from central excise duties"
         },
         {
-          "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-          "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-11T20:21:55.000Z"
+          "title": "Petrol with 22%-30% ethanol blend exempted from central excise duty",
+          "url": "https://scroll.in/latest/1093487/petrol-with-22-30-ethanol-blend-exempted-from-central-excise-duty",
+          "source": "Scroll.in",
+          "published_at": "2026-06-11T05:50:01.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/206717-eztwimryvo-1744295843.jpg",
+          "description": "The Bureau of Indian Standards had in May notified norms for fuel containing 22%, 25%, 27% and 30% ethyl alcohol by volume."
         },
         {
-          "title": "US imposes sanctions on Cuba’s state oil company in latest pressure campaign",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/cuba-sanctions-us-cupet-marco-rubio-b2994307.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-11T20:14:44.000Z",
-          "image": "https://static.independent.co.uk/2026/06/11/21/2279389675..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+          "title": "India scraps excise duty on petrol with 22% to 30% ethanol blend",
+          "url": "https://www.indiatoday.in/business/story/india-waives-excise-duty-on-petrol-with-22-to-30-ethanol-2924908-2026-06-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-11T02:27:29.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/ethanol-blended-petrol-15481497-original-sixteen-to-nine.jpg?VersionId=uyGVL1MQedcFSYiT93ZXZwANsCllbLqR",
+          "description": "India scraps excise duty on petrol with to ethanol blend"
+        },
+        {
+          "title": "Government waives excise duty on petrol with higher ethanol",
+          "url": "https://www.thehindubusinessline.com/news/government-waives-excise-duty-on-petrol-with-higher-ethanol/article71087519.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-11T02:59:35.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/ubpzsq/article71038700.ece/alternates/LANDSCAPE_1200/20260525096L.jpg",
+          "description": "Government notifies nil duty for higher ethanol blends as 20 per cent target achieved in December 2025"
+        },
+        {
+          "title": "India slashes excise duty on ethanol-blended petrol: Key details",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-slashes-excise-duty-on-ethanol-blended-petrol-key-details/articleshow/131647242.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-11T02:38:47.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131647417,imgsize-1148764.cms",
+          "description": "India has waived excise duty on blended petrol containing 22-30% ethanol as part of a push to increase ethanol usage. This move coincides with rising fuel prices due to the Middle East crisis, prompting plans for discounted E85 fuel and continued availability of E20 petrol nationwide."
         }
-      ]
+      ],
+      "summary": "India exempted petrol blended with 22% to 30% ethanol from central excise duty. The measure follows standards being notified for those fuel blends."
     },
     {
-      "id": "topic_edfb368899628eb4",
+      "id": "topic_8d0935b5726fe873",
+      "title": "Brad Pitt Stars in ‘Heart of the Beast’ Survival Thriller Trailer",
+      "headline": "Brad Pitt + Dog in Survival Thriller 'Heart of the Beast' Official Trailer",
       "label": [
-        "plan deport",
-        "deport iranian",
-        "central african",
-        "deport",
-        "african",
-        "iranian"
+        "beast",
+        "heart",
+        "pitt",
+        "brad",
+        "trailer",
+        "survival"
       ],
       "category": "new",
-      "theme": "theme_c0c27fda85c3cd97",
+      "theme": "theme_c675dd0f1d9cf69e",
       "entities": [
-        "Trump",
-        "Iranians",
-        "African",
-        "Central African Republic",
+        "Brad Pitt",
+        "Dog",
+        "Survival Thriller",
+        "Heart",
+        "Beast"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Brad Pitt + Dog in Survival Thriller 'Heart of the Beast' Official Trailer",
+          "url": "https://www.firstshowing.net/2026/brad-pitt-dog-in-survival-thriller-heart-of-the-beast-official-trailer",
+          "source": "FirstShowing.net",
+          "published_at": "2026-06-11T13:48:26.000Z",
+          "description": "\"One last mission... We're not going to die out here!\" \"We've been through worse...\" 🐕 Paramount Pictures has launched the first official trailer for Heart of the Beast, a new wilderness survival thriller from action filmmaker David Ayer (of Fury, Suicide Squad, Bright, The Tax Collector, The Beek…"
+        },
+        {
+          "title": "Heart of the Beast Trailer Review: Brad Pitt Survival Movie Is His The Revenant",
+          "url": "https://www.comingsoon.net/movies/features/2147192-heart-of-the-beast-trailer-review-brad-pitt-survival-movie-is-his-revenant",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-06-11T20:38:36.000Z",
+          "description": "The full Heart of the Beast trailer is now finally out. Academy Award winner Brad Pitt‘s latest collaboration with director David Ayer is surprisingly reminiscent of Leonardo DiCaprio’s acclaimed 2015 film The Revenant. “After a harrowing plane crash, Special Forces officer James Belmont and his co…"
+        },
+        {
+          "title": "‘Heart Of The Beast’ Trailer: Brad Pitt Journeys Through The Wilderness With A Canine Companion In Survival Thriller",
+          "url": "https://deadline.com/2026/06/heart-of-the-beast-trailer-brad-pitt-paramount-1236953638",
+          "source": "Deadline",
+          "published_at": "2026-06-11T13:22:22.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/HOTB_01370R.jpg",
+          "description": "Paramount has dropped the first trailer for Heart of the Beast, its new survival thriller film directed by David Ayer, starring Brad Pitt, J.K. Simmons and Anna Lambe. Heart of the Beast centers on a former Army Special Forces soldier (Pitt) and his retired combat dog who battle for survival after…"
+        },
+        {
+          "title": "Brad Pitt and David Ayer reunite for some real dude stuff in Heart Of The Beast trailer",
+          "url": "https://www.avclub.com/brad-pitt-heart-of-the-beast-trailer",
+          "source": "AV Club",
+          "published_at": "2026-06-11T10:41:33.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/06/11103932/MixCollage-11-Jun-2026-10-35-AM-6265.jpg",
+          "description": "Pitt plays a military veteran in peril with his dog."
+        },
+        {
+          "title": "‘Heart of the Beast’ Trailer: Brad Pitt and a German Shepherd Struggle to Survive the Alaskan Wilderness",
+          "url": "https://variety.com/2026/film/news/heart-of-the-beast-trailer-brad-pitt-1236771782",
+          "source": "Variety",
+          "published_at": "2026-06-11T13:01:01.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/HOTB_01370R.jpg",
+          "description": "Paramount Pictures has released the trailer for “Heart of the Beast,” a new survival thriller film starring Brad Pitt. Pitt plays James Belmont, a former Army Special Forces soldier who must find a way to return to civilization after his small plane crashes deep in the Alaskan wilderness. Joined by…"
+        }
+      ],
+      "summary": "Paramount released a trailer for “Heart of the Beast,” a survival thriller starring Brad Pitt as a former Army Special Forces soldier stranded in the Alaskan wilderness with his dog. The film is directed by David Ayer."
+    },
+    {
+      "id": "topic_89cd3de415ac355c",
+      "title": "Three Indian Sailors Killed in US Strike on Tanker Off Oman",
+      "headline": "3 Indian Sailors Killed In US Attack On Ship Off Oman Coast",
+      "label": [
+        "sailors",
+        "indian",
+        "oman",
+        "killed",
+        "us",
+        "strike"
+      ],
+      "category": "trending",
+      "theme": "theme_21daebd5ff95ad3e",
+      "entities": [
+        "Indian Sailors Killed In",
+        "US Attack On Ship",
+        "Off Oman Coast",
+        "Three Indian",
         "US"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 23,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Trump plans to deport Iranians to violence-plagued central African nation in new deal",
-          "url": "https://www.foxnews.com/us/trump-plans-deport-iranians-violence-plagued-central-african-nation-new-deal",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-11T22:59:58.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/central-african-region.jpeg?ve=1&tl=1"
+          "title": "3 Indian Sailors Killed In US Attack On Ship Off Oman Coast",
+          "url": "https://www.ndtv.com/india-news/3-indian-sailors-killed-in-us-attack-on-ship-off-oman-coast-union-minister-sarbananda-sonowal-11621288",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-11T06:53:10.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/cen8hq1_settebello_625x300_10_June_26.jpg",
+          "description": "3 Indian Sailors Killed In US Attack On Ship Off Oman Coast: Union Minister Sarbananda Sonowal"
         },
         {
-          "title": "U.S. plans to deport Iranians to Central African Republic, sources say",
-          "url": "https://japantoday.com/category/world/us-plans-to-deport-iranians-to-central-african-republic-sources-say3",
-          "source": "Japan Today",
-          "published_at": "2026-06-11T21:43:18.000Z"
+          "title": "Three Indian sailors killed in US strike on oil tanker",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-11T10:02:03.000Z",
+          "description": "A US strike on an oil tanker accused of transporting Iranian oil has killed three Indian sailors."
         },
         {
-          "title": "US plans to deport Iranians to Central African Republic, sources say - Reuters",
-          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxqve94s1lvbk1wuy1dwkhodxpjzutymxrmqtdsuuzqz3prm0pwneq3ckjmb3rnz2swr2g5uehhtmler01kwv9enudxruzhaxjzylc4d3vmtm9rajbwy1nxbtjaehhxrm1nytrrcgnqbdktdk5hx0f4nthhrnl0uutjcldvn01pner4szlkmvdltkzvu0hkcgvhz1pfr2e1y05lmvktu2xyvk0yekpurkjb",
+          "title": "Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxtfbxqnv1shf4zfvyug9sdwhwzgtxvnroqmltuvl3qzzvognwsffpyu1ueknvbnvtrtrjdmt5mwtxsmtyzkzicvbkvhy5q2x6nm1ocuhonufwnwluzw",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-11T19:24:37.000Z"
+          "published_at": "2026-06-11T12:31:26.000Z",
+          "description": "Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman BBC Three Indian sailors confirmed dead in US strike off Oman, separate incident reported Reuters India says US hit another ship off Oman, confirms 3 dead in separate attack Al Jazeera India voices \"strong protest\" over…"
+        },
+        {
+          "title": "Three Indian Sailors Killed In US Strike On Tanker Off Oman, India Lodges Diplomatic Protest",
+          "url": "https://swarajyamag.com/world/three-indian-sailors-killed-in-us-strike-on-tanker-off-oman-india-lodges-diplomatic-protest",
+          "source": "Swarajya",
+          "published_at": "2026-06-11T09:45:02.315Z"
+        },
+        {
+          "title": "3 Indian sailors missing after US strike on tanker off Oman confirmed dead",
+          "url": "https://www.indiatoday.in/india/story/three-indian-sailors-who-went-missing-after-us-strike-on-tanker-off-oman-have-died-indian-shipping-minister-2925003-2026-06-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-11T06:31:12.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/us-strikes-tanker-carrying-24-indians-near-oman-113437101-16x9_0.jpg?VersionId=FPsvek2z23NTT7D9gfz4ptRMjUkE9OxU",
+          "description": "Indian sailors missing after US strike on tanker off Oman confirmed dead"
         }
-      ]
+      ],
+      "summary": "Three Indian sailors died in a US strike on an oil tanker off Oman, according to Indian officials. India lodged a diplomatic protest over the attack."
     }
   ]
 }

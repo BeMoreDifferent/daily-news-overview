@@ -1,1024 +1,979 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-30T00:50:05.021Z",
+  "generated_at": "2026-09-27T14:03:40.070Z",
   "topics": [
     {
-      "id": "topic_1038c6ed8865f3f2",
+      "id": "topic_9bf1312ecf9019a7",
+      "title": "Supreme Court Rejects Trump Appeal in E. Jean Carroll Case",
+      "headline": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
       "label": [
-        "jetblue",
-        "drone",
-        "airport",
-        "pilot",
-        "jetblue pilot",
-        "report"
+        "carroll",
+        "jean",
+        "supreme",
+        "court",
+        "trump",
+        "appeal"
       ],
       "category": "new",
-      "theme": "theme_e3788dbe65b488e7",
+      "theme": "theme_7382624366347350",
       "entities": [
-        "JetBlue",
-        "JFK",
-        "Monday",
-        "Drone Strikes JetBlue Flight",
-        "Landing"
+        "US Supreme Court",
+        "Trump",
+        "Jean Carroll",
+        "BBC",
+        "Supreme Court Rejects Trump"
       ],
-      "article_count": 9,
-      "source_count": 9,
+      "article_count": 40,
+      "source_count": 32,
       "articles": [
         {
-          "title": "JetBlue pilot reports hitting drone as plane approached JFK airport to land Monday morning",
-          "url": "https://japantoday.com/category/world/jetblue-pilot-reports-hitting-drone-as-plane-approached-jfk-airport-to-land-monday-morning",
-          "source": "Japan Today",
-          "published_at": "2026-06-29T21:34:38.000Z"
+          "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+          "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o",
+          "source": "BBC News",
+          "published_at": "2026-06-29T14:45:44.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b79/live/b1279970-73c5-11f1-a785-7f6fcfc76fe8.jpg",
+          "description": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she'd been awarded."
         },
         {
-          "title": "Drone Strikes JetBlue Flight Landing at Kennedy Airport, Pilot Says",
-          "url": "https://www.nytimes.com/2026/06/29/nyregion/drone-jetblue-kennedy-airport.html",
-          "source": "NYT > New York",
-          "published_at": "2026-06-29T20:55:22.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29met-jfk-drone-01-fqtb/29met-jfk-drone-01-fqtb-mediumSquareAt3X.jpg"
+          "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte1rdehzmlnhte5nvgd3duvrrjvsnmh5s0v5s3d3vujjtljiugpwvnhowwjxd0nhwlffaw4zaxdfvnpzb2ljvmy1b25pujrpvl9moei5oux2vdd0zw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-29T15:30:35.000Z",
+          "description": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case BBC Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand The New York Times Lisa Cook and E. Jean Carroll win against Trump at the Supreme Court Fortune Supreme Court rejects Trump effort to overturn E. Jea…"
         },
         {
-          "title": "JetBlue pilot reports hitting a drone as he was landing in New York City",
-          "url": "https://www.independent.co.uk/news/world/americas/jetblue-flight-hits-drone-new-york-city-b3005360.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-29T20:54:15.000Z",
-          "image": "https://static.independent.co.uk/2026/05/25/20/2192334220..?width=1200&auto=webp&crop=3%3A2"
+          "title": "Supreme Court Rejects Trump’s Appeal Of E. Jean Carroll Defamation Verdict",
+          "url": "https://deadline.com/2026/06/supreme-court-trump-e-jean-carroll-sexual-abuse-1236969739",
+          "source": "Deadline",
+          "published_at": "2026-06-29T14:07:59.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2023/05/trump-1-.jpg",
+          "description": "The Supreme Court on Monday declined to take up Donald Trump’s appeal of a $5 million jury judgment against him in writer E. Jean Carroll’s claim that he sexually abused and defamed her. The case was one of two brought by Carroll. Another jury verdict, still under appeal, awarded her around $83 mil…"
         },
         {
-          "title": "JetBlue flight hit drone while approaching JFK airport: FAA",
-          "url": "https://www.thehindu.com/news/international/jetblue-flight-hit-drone-while-approaching-jfk-airport-faa/article71163149.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-29T20:28:50.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/fqmex2/article71163154.ece/alternates/LANDSCAPE_1200/JetBlue_Emirates.JPEG-01443.jpg"
+          "title": "Supreme Court rejects Trump's appeal of 2022 E. Jean Carroll defamation case",
+          "url": "https://abcnews.com/us/supreme-court-rejects-trumps-appeal-2022-jean-carroll/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-29T14:10:39.000Z",
+          "image": "https://s.abcnews.com/images/US/USA-COURT-TRUMP-CARROLL_1782740705502_hpMain_4x3t_384.jpg",
+          "description": "The Supreme Court has denied President Trump's appeal of the $5 million jury finding in the 2022 defamation case brought against him by the writer E. Jean Carroll."
         },
         {
-          "title": "FAA investigating JetBlue pilot complaint about drone collision",
-          "url": "https://www.washingtonexaminer.com/travel/4628952/faa-jetblue-pilot-complaint-drone-collision",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-29T19:43:20.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP21215556241817.jpg?w=696"
+          "title": "US Supreme Court rebuffs Trump's appeal in E. Jean Carroll sexual abuse case",
+          "url": "https://www.gmanetwork.com/news/topstories/world/993134/us-supreme-court-rebuffs-trump-s-appeal-in-e-jean-carroll-sexual-abuse-case/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-29T16:53:11.000Z",
+          "image": "https://images.gmanews.tv/webpics/2023/04/2023-04-25T222641Z_1152869658_RC2YL0ASFZCN_RTRMADP_3_USA-TRUMP-DEFAMATION-LAWSUIT_2023_04_26_22_30_59.JPG",
+          "description": "The US Supreme Court declined to Trump's bid to overturn a $5-million verdict in favor of E. Jean Carroll in a case in which a jury found him liable for sexually abusing and then defaming her."
         }
-      ]
+      ],
+      "summary": "The Supreme Court declined to hear Donald Trump’s appeal of a $5 million jury judgment in E. Jean Carroll’s case, leaving the verdict in place."
     },
     {
-      "id": "topic_62e7ab827dec445f",
+      "id": "topic_d2d1032540e4d5a3",
+      "title": "Five Killed in Shooting in Northern Germany",
+      "headline": "Five people killed in shooting in northern Germany",
       "label": [
-        "deport",
-        "venezuelan",
-        "100 venezuelan",
-        "venezuelan deport",
-        "deport us",
-        "miss"
+        "shooting",
+        "germany",
+        "killed",
+        "northern",
+        "stade",
+        "five"
       ],
       "category": "new",
-      "theme": "theme_bc18b6c4470dffed",
+      "theme": "theme_79322977375df218",
       "entities": [
-        "Venezuelans",
-        "US",
-        "Survivors",
-        "Venezuela",
-        "Gisela Salomon"
+        "Five",
+        "Germany",
+        "Stade",
+        "Killed",
+        "Shooting"
       ],
-      "article_count": 8,
-      "source_count": 8,
+      "article_count": 23,
+      "source_count": 21,
       "articles": [
         {
-          "title": "Over 100 Venezuelans who were deported from U.S. hours before earthquakes are missing",
-          "url": "https://www.thehindu.com/news/international/venezuelans-deported-from-us-hours-before-earthquakes-are-missing/article71163394.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-29T23:35:30.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/37w2m7/article71163424.ece/alternates/LANDSCAPE_1200/2026-06-29T215542Z_1327016083_RC2X3MA9S4PG_RTRMADP_3_VENEZUELA-EARTHQUAKE-AFTERMATH.JPG"
-        },
-        {
-          "title": "Venezuelans newly deported from US missing after hotel collapse",
-          "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-          "source": "Americas | The Guardian",
-          "published_at": "2026-06-29T23:10:15.000Z",
-          "image": "https://i.guim.co.uk/img/media/1e55ec14b3d1572d5285202a019cf6d0cd28b5ca/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=5a7648b80dc14b712f7555ed7c210266"
-        },
-        {
-          "title": "Over 100 Venezuelans deported from US hours before quakes missing in hotel collapse",
-          "url": "https://www.washingtonexaminer.com/news/world/4629765/venezuela-146-deportees-missing-hotel-collapse-traumatized",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-29T23:02:10.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26175859797047.jpg?w=696"
-        },
-        {
-          "title": "Over 100 Venezuelans deported from the US hours before the earthquakes are missing",
-          "url": "https://www.scmp.com/news/world/americas/article/3358816/over-100-venezuelans-deported-us-hours-earthquakes-are-missing",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-29T22:02:53.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/30/08da8cbc-8494-490b-a4d8-dcef88a23b87_8f8a81fa.jpg?itok=v277Uxvs&v=1782770402"
-        },
-        {
-          "title": "Survivors decry slow aid after deadly Venezuela quakes",
-          "url": "https://www.investing.com/news/world-news/anger-mounts-over-uneven-government-response-after-venezuela-quakes-4766546",
-          "source": "All News",
-          "published_at": "2026-06-29T21:36:48.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5S1E5_L.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ab08462f4b835158",
-      "label": [
-        "bles dont",
-        "dont deux",
-        "dont",
-        "bles",
-        "deux",
-        "troi bles"
-      ],
-      "category": "new",
-      "theme": "theme_e4fb2fa5b13ffe00",
-      "entities": [
-        "Une",
-        "Monaco",
-        "Trois",
-        "Explosion",
-        "Probable"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Une explosion fait trois blessés dont deux graves dans un \"probable attentat\" à Monaco, le suspect toujours en fuite",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/29/une-explosion-fait-trois-blesses-dont-deux-graves-dans-un-probable-attentat-a-monaco-le-suspect-toujours-en-fuite-oj6sxcrggzdt7dxvfxx32gzr54",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-29T21:27:07.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/46BJXBYEUFA7VMEZZLB32DJSOU.jpg?auth=9ebb3c4e3748952c154ef14f6bec0a44f1443948bcd27e05a14764c8906ded48&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Trois blessés dont deux graves dans une explosion volontaire à Monaco",
-          "url": "https://www.rtbf.be/article/trois-blesses-dont-deux-graves-dans-une-explosion-volontaire-a-monaco-11749832",
-          "source": "- Info",
-          "published_at": "2026-06-29T21:07:45.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/2/6/7/623cb416fe7f810d9c5cc8bedfea9711.jpg"
-        },
-        {
-          "title": "Explosion volontaire à Monaco : un homme filmé en train d’abandonner un sac à dos avant une importante déflagration, plusieurs blessés dont deux graves",
-          "url": "https://www.ladepeche.fr/2026/06/29/explosion-a-monaco-un-homme-filme-en-train-dabandonner-un-sac-a-dos-avant-une-importante-deflagration-trois-blesses-dont-deux-graves-13443750.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-06-29T20:43:18.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a42d313aa188e2c1e038550/standard/image.jpg?v=1"
-        },
-        {
-          "title": "Monaco : trois blessés dont deux graves dans une explosion volontaire",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/29/monaco-trois-blesses-dont-deux-graves-dans-une-explosion-volontaire_6716980_3224.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-29T20:42:45.000Z",
-          "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/f3c8336_ftp-1-hoceee9vle3c-5486000-01-06.jpg"
-        },
-        {
-          "title": "Probable attentat à Monaco : trois blessés dont deux grièvement, un suspect toujours en fuite",
-          "url": "https://www.sudouest.fr/faits-divers/une-explosion-volontaire-eclate-a-monaco-trois-blesses-dont-deux-graves-29722103.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-29T20:41:32.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e16727f73520d80c",
-      "label": [
-        "location",
-        "location data",
-        "data",
-        "cellphone location",
-        "cellphone",
-        "protect"
-      ],
-      "category": "new",
-      "theme": "theme_c7337542db72aaeb",
-      "entities": [
-        "Supreme Court Supports Privacy",
-        "Protections",
-        "Cellphone Location Data",
-        "Supreme Court",
-        "Google"
-      ],
-      "article_count": 15,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Supreme Court Supports Privacy Protections for Cellphone Location Data",
-          "url": "https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy",
-          "source": "CNET",
-          "published_at": "2026-06-29T22:59:07.000Z",
-          "image": "https://www.cnet.com/a/img/resize/091d0f7550deb83fca560b3f3afd596dd98c1ae4/hub/2026/06/29/61a30526-f079-4b66-b4b2-bab6539ccf2a/gettyimages-2249581878.jpg?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "Supreme Court protects your cell phone location data after Google’s role in a conviction",
-          "url": "https://www.androidpolice.com/supreme-court-protects-your-cell-phone-location-data-after-googles-role-in-a-conviction",
-          "source": "Android Police",
-          "published_at": "2026-06-29T22:37:58.000Z",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/pixel-10-pro-in-hand-green-grass.jpg"
-        },
-        {
-          "title": "SCOTUS says detailed cellphone location data is protected by the Fourth Amendment",
-          "url": "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment",
-          "source": "9to5Mac",
-          "published_at": "2026-06-29T22:29:28.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/08/Apple-Find-My-sound-alert-iOS-16.jpg?quality=82&#038;strip=all&#038;w=1600"
-        },
-        {
-          "title": "User location data that Google & Apple have is protected by Fourth Amendment, says SCOTUS",
-          "url": "https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus",
-          "source": "AppleInsider News",
-          "published_at": "2026-06-29T21:41:47.000Z",
-          "image": "https://photos5.appleinsider.com/gallery/68111-143566-IMG_4734-xl.jpg"
-        },
-        {
-          "title": "The Supreme Court just made your phone’s location data much harder for police to get",
-          "url": "https://www.androidauthority.com/supreme-court-location-data-ruling-3682568",
-          "source": "Android Authority",
-          "published_at": "2026-06-29T21:14:14.000Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-2-scaled.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_588ef6ef652e7d1e",
-      "label": [
-        "death",
-        "700",
-        "toll",
-        "death toll",
-        "venezuela",
-        "ris"
-      ],
-      "category": "new",
-      "theme": "theme_b79059c146e03ed9",
-      "entities": [
-        "US",
-        "Venezuela",
-        "CNN",
-        "Death",
-        "Venezuelan"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "US reopens Venezuela port as quake deaths top 1,700",
-          "url": "https://globalnation.inquirer.net/329235/us-reopens-venezuela-port-as-quake-deaths-top-1700",
-          "source": "INQUIRER.net",
-          "published_at": "2026-06-29T22:30:23.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260629__B8Q688N__v1__HighRes__VenezuelaEarthquakeAftermath-620x413.jpg"
-        },
-        {
-          "title": "Venezuela's earthquake death toll exceeds 1,700",
-          "url": "https://tass.com/emergencies/2153279",
-          "source": "TASS",
-          "published_at": "2026-06-29T21:30:57.000Z"
-        },
-        {
-          "title": "CNN visits Venezuela rescue site as death toll tops 1,700",
-          "url": "https://www.youtube.com/watch?v=DBTMo6nkqn8",
-          "source": "CNN",
-          "published_at": "2026-06-29T20:50:02.000Z",
-          "image": "https://i1.ytimg.com/vi/DBTMo6nkqn8/hqdefault.jpg"
-        },
-        {
-          "title": "Death toll rises after Venezuela quakes as anger mounts",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/death-toll-rises-after-venezuela-quakes-as-anger-mounts-c-22505253",
+          "title": "Five people killed in shooting in northern Germany",
+          "url": "https://www.perthnow.com.au/news/crime/five-people-killed-in-shooting-in-northern-germany-c-22504516",
           "source": "PerthNow",
-          "published_at": "2026-06-29T20:32:39.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22505253/6ceba0d55cf6951e4b4a7689ea1f62da274f6a7e-16x9-x0y0w1280h720.jpg"
+          "published_at": "2026-06-29T12:12:42.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22504516/98bf1e6d644e16c79e56b281c698edc2676e131d-16x9-x0y0w1280h720.jpg",
+          "description": "A suspect has been arrested after five people were shot dead in a town in northern Germany."
         },
         {
-          "title": "Death toll from Venezuelan earthquakes rises to more than 1,700",
-          "url": "https://www.yahoo.com/news/world/articles/death-toll-venezuelan-earthquakes-rises-195723225.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-29T19:57:23.000Z",
-          "image": "https://media.zenfs.com/en/dpa_international_526/53ccc01535266c74dbfe5af8077bbcaa"
+          "title": "At least five killed in shooting in Stade in northern Germany, police say",
+          "url": "https://www.france24.com/en/europe/20260629-several-people-killed-shooting-in-northern-germany-police-say",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-29T12:08:07.000Z",
+          "image": "https://s.france24.com/media/display/ed736e18-73b1-11f1-aa74-005056bf30b7/w:1024/p:16x9/AP26128462398179.jpg",
+          "description": "At least five people have been killed in a shooting in the northern German city of Stade, police said Monday. A male suspect has been detained. ⁠"
+        },
+        {
+          "title": "Germany: At least 5 killed in shooting in Stade",
+          "url": "https://www.dw.com/en/germany-at-least-5-killed-in-shooting-in-stade/a-77754951",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-29T11:54:00.000Z",
+          "description": "A large police operation is underway in the northern German city after several shots were fired. Several people are reported dead and authorities have arrested two suspects."
+        },
+        {
+          "title": "5 Killed in Shooting at Youth Center in Northern Germany, Police Say",
+          "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-06-29T13:30:26.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29germany-shooting-kblm/29germany-shooting-kblm-mediumSquareAt3X.jpg",
+          "description": "The shooter’s motive was unclear, but the authorities said it was not believed to be related to terrorism."
+        },
+        {
+          "title": "5 people killed in shooting in northern Germany, two suspects detained",
+          "url": "https://tribune.com.pk/story/2615593/5-people-killed-in-shooting-in-northern-germany-two-suspects-detained",
+          "source": "express tribune",
+          "published_at": "2026-06-29T09:25:57.000Z",
+          "description": "Incident occurred at a ​youth welfare facility in Stade, a town of nearly 50,000 people to the west of Hamburg"
         }
-      ]
+      ],
+      "summary": "At least five people were killed in a shooting at a youth welfare facility in Stade, northern Germany. Authorities detained suspects; the motive was not reported."
     },
     {
-      "id": "topic_bf670883228d14b0",
+      "id": "topic_9a65d6cd93e651a9",
+      "title": "Comcast to Spin Off NBCUniversal and Sky",
+      "headline": "Comcast to spin off NBCUniversal and Sky",
       "label": [
-        "luigi",
-        "mangione",
-        "luigi mangione",
-        "federal trial",
-        "federal",
-        "trial"
+        "nbcuniversal",
+        "comcast",
+        "sky",
+        "spin",
+        "split",
+        "companies"
       ],
       "category": "new",
-      "theme": "theme_da6a1ef4820523a4",
+      "theme": "theme_760078b1a167a93f",
       "entities": [
-        "Luigi Mangione",
-        "January",
-        "New York City",
-        "NBC News"
+        "Comcast",
+        "NBCUniversal",
+        "Sky",
+        "NBC News",
+        "Comcast Plans"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 24,
+      "source_count": 16,
       "articles": [
         {
-          "title": "Luigi Mangione gets stuck in an elevator as judge delays his federal trial until January",
-          "url": "https://japantoday.com/category/world/luigi-mangione%e2%80%99s-federal-trial-in-unitedhealthcare-ceo%27s-killing-postponed-until-january",
-          "source": "Japan Today",
-          "published_at": "2026-06-29T21:34:44.000Z"
+          "title": "Comcast to spin off NBCUniversal and Sky",
+          "url": "https://www.ft.com/content/a0a56613-b9ac-478d-9e38-f28dbd5097e6",
+          "source": "International homepage",
+          "published_at": "2026-06-29T10:24:42.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4a6c3f89-cedd-4d6e-86c1-37b5c5c50687.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Studio and broadcast business to become separate public companies"
         },
         {
-          "title": "Luigi Mangione was stuck in an elevator ahead of a hearing at a federal courthouse in New York City - NBC News",
-          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpmulrdfi0ajzjs1jfenvutxlewxbavgl0yy0yd0q2r3psnmdqzu1jtjfvwkpbadnswewzc0fbukzltg5vnnr3rwlcu3zkylpvrxfxb2fcoxlzamd5wlfpluv3dvkyujnszjz4v0jpme1rv2nmr1dumtjkvkdnewvqrkrluk9rvxrxumvvtnbrohhjuhfhekxzrej4y192mu82d2dwzenxq0tqzgxtc0d2vwnuchzudnnsmmc",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-29T19:42:01.000Z"
+          "title": "Comcast to spin off NBCUniversal and Sky into separate media business",
+          "url": "https://www.theguardian.com/media/2026/jun/29/comcast-spin-off-nbcuniversal-sky-media-mobile-cable-broadband",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-29T11:24:50.000Z",
+          "image": "https://i.guim.co.uk/img/media/611edbdf3a0a84b8f45231df9a8489b9dced8e59/242_0_2516_2014/master/2516.jpg?width=140&quality=85&auto=format&fit=max&s=995275d771ccf36e5abc99efdf6122b9",
+          "description": "Entertainment arm split from mobile and broadband in move that raises questions over future of Sky News Business live – latest updates Comcast is to spin off its media operation, which includes the Hollywood film studio, TV and theme park business NBCUniversal and Sky, into a separately publicly li…"
         },
         {
-          "title": "Luigi Mangione gets stuck in elevator at courthouse - then sees his federal trial postponed",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/luigi-mangione-stuck-elevator-trial-delayed-hearing-b3005332.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-29T19:38:55.000Z",
-          "image": "https://static.independent.co.uk/2026/06/29/20/2281437560..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Luigi Mangione federal trial pushed back to January",
-          "url": "https://www.washingtonexaminer.com/news/justice/4629000/luigi-mangione-federal-trial-january-2027",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-29T19:18:05.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26180493569108.jpg?w=696"
-        },
-        {
-          "title": "Luigi Mangione’s federal trial delayed until January",
-          "url": "https://globalnews.ca/news/11943196/luigi-mangione-federal-trial-delayed",
-          "published_at": "2026-06-29T18:57:14.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/06/luigi-mangione-federal-trial-delayed.jpg?quality=65&strip=all"
-        }
-      ]
-    },
-    {
-      "id": "topic_6ead342603c4d399",
-      "label": [
-        "music",
-        "generat music",
-        "generat",
-        "ai generat",
-        "ai",
-        "tidal"
-      ],
-      "category": "new",
-      "theme": "theme_18abf4b1a8de9312",
-      "entities": [
-        "Tidal",
-        "Label AI",
-        "Generated Music",
-        "Remove Fraudulent Material",
-        "AI"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Tidal to Label AI-Generated Music and Remove Fraudulent Material",
-          "url": "https://www.cnet.com/tech/services-and-software/tidal-will-label-ai-generated-music-and-remove-fraudulent-material",
-          "source": "CNET",
-          "published_at": "2026-06-29T22:46:08.000Z",
-          "image": "https://www.cnet.com/a/img/resize/8c81299b627651c5c654f8909a73c3e39131fa4f/hub/2026/02/23/26837045-bcc4-452c-babb-ea159b7f78af/og-image-onlylogo-2.jpg?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists (Murray Stassen/Music Business Worldwide)",
-          "url": "https://www.techmeme.com/260629/p39",
-          "source": "Techmeme",
-          "published_at": "2026-06-29T21:20:02.000Z",
-          "image": "http://www.techmeme.com/260629/i39.jpg"
-        },
-        {
-          "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-          "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-          "source": "The Verge",
-          "published_at": "2026-06-29T19:47:35.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "Tidal Says It Won’t Pay Royalties for AI-Generated Music",
-          "url": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music",
-          "source": "404 Media",
-          "published_at": "2026-06-29T19:33:49.000Z",
-          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/pexels-adanvdo-42038771-8852269.jpg"
-        },
-        {
-          "title": "Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists (Murray Stassen/Music Business Worldwide)",
-          "url": "https://mediagazer.com/260629/p14",
-          "source": "Mediagazer",
-          "published_at": "2026-06-29T18:55:00.000Z",
-          "image": "http://mediagazer.com/260629/i14.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d25e3fcdcb5e7388",
-      "label": [
-        "campaign",
-        "gallego",
-        "campaign spend",
-        "spend",
-        "investigation campaign",
-        "investigation"
-      ],
-      "category": "new",
-      "theme": "theme_456871cb5fbda7ce",
-      "entities": [
-        "Scoop",
-        "Gallego",
-        "Axios",
-        "Ruben Gallego",
-        "DOJ"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Scoop: Gallego faces federal probe over campaign spending - Axios",
-          "url": "https://news.google.com/rss/articles/cbmigafbvv95cuxnsjfqqtjzqw1lvlbenwgyy1ntrdjiqk1dbgq1cdnamgswbxffxzk2q25qm19yvhp2mwthbwhlv3piv3zklthaa05qclhfytztzk51anjnavbix3azzgswrudpnfnvegzlohfyswdesjjiazywyugyclfybmf1vznpyq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-29T21:55:34.000Z"
-        },
-        {
-          "title": "Scoop: Gallego faces federal probe over campaign spending (Axios)",
-          "url": "https://www.memeorandum.com/260629/p105",
+          "title": "Comcast to spin off NBCUniversal and Sky into separate company (NBC News)",
+          "url": "https://www.memeorandum.com/260629/p49",
           "source": "memeorandum",
-          "published_at": "2026-06-29T20:55:00.000Z",
-          "image": "http://www.memeorandum.com/260629/i105.jpg"
+          "published_at": "2026-06-29T14:40:00.000Z",
+          "image": "http://www.memeorandum.com/260629/i49.jpg",
+          "description": "NBC News: Comcast to spin off NBCUniversal and Sky into separate company — The move announced Monday will separate Comcast's media and entertainment assets from its broadband and wireless business. … Comcast said Monday that it plans to spin off NBCUniversal into a separate publicly traded company …"
         },
         {
-          "title": "Ruben Gallego hit with DOJ investigation for campaign finance violations",
-          "url": "https://www.washingtonexaminer.com/news/senate/4629264/ruben-gallego-campaign-finance-violations-doj-investigation",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-29T20:52:13.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP25093626757892.jpg?w=696"
+          "title": "Comcast Plans to Spin Off NBCUniversal and Sky Into Media Unit",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-plans-to-spin-off-nbcuniversal-and-sky-into-media-unit",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-29T10:23:13.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA6wSlVDP02o/v0/1200x-1.jpg",
+          "description": "Comcast Corp. said it plans to split its media and technology businesses, spinning off NBCUniversal and Sky into a separate publicly traded company."
         },
         {
-          "title": "Gallego Under Investigation for Campaign Spending",
-          "url": "https://politicalwire.com/2026/06/29/gallego-under-investigation-for-campaign-spending",
-          "source": "Political Wire",
-          "published_at": "2026-06-29T19:22:15.000Z"
-        },
-        {
-          "title": "Scoop: Gallego under federal investigation over campaign spending",
-          "url": "https://www.axios.com/2026/06/29/gallego-doj-investigation-campaign-finance",
-          "source": "Axios",
-          "published_at": "2026-06-29T18:46:35.000Z",
-          "image": "https://images.axios.com/LDJrCliuDcCt5cGgLzptM4oDGHI=/0x0:6000x3375/1366x768/2026/06/29/1782756823391.jpeg"
+          "title": "Comcast is spinning off NBCUniversal and Sky",
+          "url": "https://www.gsmarena.com/comcast_is_spinning_off_nbcuniversal_and_sky-news-73496.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-06-29T21:59:02.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/comcast-nbcuniversal-split/-184x111/gsmarena_000.jpg",
+          "description": "Comcast is spinning off NBCUniversal and Sky into a new company. The split will leave Comcast with the cable, wireless, and business services, while the new company will handle the Universal theme parks, film and TV studios, NBC, Peacock, and Sky. This move practically undoes the 2011 acquisition o…"
         }
-      ]
+      ],
+      "summary": "Comcast plans to separate NBCUniversal and Sky into a publicly traded company, apart from its broadband, wireless and other technology businesses."
     },
     {
-      "id": "topic_56a8015028532f1a",
+      "id": "topic_eb3afa92cfa94df4",
+      "title": "Actor Penelope Keith Dies at 86",
+      "headline": "‘The Good Life’ star Dame Penelope Keith dies aged 86",
       "label": [
-        "carolina",
-        "north carolina",
-        "north",
-        "inmat",
-        "inmat take",
-        "take"
-      ],
-      "category": "new",
-      "theme": "theme_c344e4a9db842462",
-      "entities": [
-        "Two Corrections Officers Held",
-        "Hostage",
-        "Inmates Take Over Parts",
-        "North Carolina Detention Center",
-        "New GOP Auditor Takes"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Two Corrections Officers Held Hostage as Inmates Take Over Parts of North Carolina Detention Center",
-          "url": "https://internewscast.com/news/us/two-corrections-officers-held-hostage-as-inmates-take-over-parts-of-north-carolina-detention-center",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-29T20:56:35.000Z"
-        },
-        {
-          "title": "New GOP Auditor Takes Control of North Carolina Elections",
-          "url": "https://politicalwire.com/2026/06/29/new-gop-auditor-takes-control-of-north-carolina-elections",
-          "source": "Political Wire",
-          "published_at": "2026-06-29T20:31:49.000Z"
-        },
-        {
-          "title": "Inmates take over North Carolina jail and hold guards hostage: Authorities",
-          "url": "https://www.washingtonexaminer.com/news/crime/4628943/north-carolina-jail-take-over-guards-hostage",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-29T19:11:20.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP24143572747081.jpg?w=696"
-        },
-        {
-          "title": "Two corrections officers held hostage after inmates take over portions of North Carolina detention center",
-          "url": "https://www.foxnews.com/us/two-corrections-officers-held-hostage-after-inmates-take-over-portions-north-carolina-detention-center",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-29T18:51:57.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/north-carolina-jail-hostage-001.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "Inmates take control of a North Carolina jail after overpowering correctional staff",
-          "url": "https://nypost.com/2026/06/29/us-news/inmates-take-control-of-a-north-carolina-jail-after-overpowering-correctional-staff",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-29T18:30:32.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fbertie-county-sheriff-tyrone-ruffin-132723995.jpg?w%3D1024"
-        }
-      ]
-    },
-    {
-      "id": "topic_1e1f91edbfeaa074",
-      "label": [
-        "good life",
         "penelope",
-        "penelope keith",
         "keith",
-        "86",
-        "good"
+        "life",
+        "good",
+        "dies",
+        "aged"
       ],
       "category": "new",
-      "theme": "theme_982f31904abb9d1e",
+      "theme": "theme_914c03821a5befdd",
       "entities": [
-        "Penelope Keith",
-        "British",
         "The Good Life",
+        "Dame Penelope Keith",
         "To The Manor Born",
-        "Dame Penelope Keith"
+        "Penelope Keith",
+        "Manor Born"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 17,
+      "source_count": 16,
       "articles": [
         {
-          "title": "Penelope Keith, star of classic British sitcom 'The Good Life,' dies at 86",
-          "url": "https://japantoday.com/category/entertainment/penelope-keith-star-of-classic-british-sitcom-%27the-good-life-%27-dies-at-86",
-          "source": "Japan Today",
-          "published_at": "2026-06-29T21:37:32.000Z"
+          "title": "‘The Good Life’ star Dame Penelope Keith dies aged 86",
+          "url": "https://euroweeklynews.com/2026/06/29/the-good-life-star-dame-penelope-keith-dies-aged-86",
+          "source": "Euro Weekly News",
+          "published_at": "2026-06-29T12:23:35.000Z",
+          "image": "https://euroweeklynews.com/wp-content/uploads/2026/06/Penelope_Keith_34688820200-1024x866.jpg?type=local",
+          "description": "Famed actress Dame Penelope Keith has died at the age of 86, according to a statement released by her family […]"
         },
         {
-          "title": "To The Manor Born and The Good Life star Penelope Keith dies aged 86",
-          "url": "https://www.smh.com.au/culture/tv-and-radio/to-the-manor-born-and-the-good-life-star-penelope-keith-dies-aged-86-20260630-p60b5l.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-29T21:36:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3569%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4ad8ea8fc34edaa79f60ef493ebaa65597eb3328"
+          "title": "The Good Life and To The Manor Born star Penelope Keith dies aged 86",
+          "url": "https://www.breakingnews.ie/entertainment/the-good-life-and-to-the-manor-born-star-penelope-keith-dies-aged-86-1919954.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjkxMTMwNTVcXFwvMi4yMjAxOTAwNi5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwM2Q1NmZmNjZhNDI1Y2FhZGNlODUzMWExMmU2MzJkNGU5MTQxYjU4In0=/2-22019006.jpg",
+          "description": "She was also known for her role in To The Manor Born."
+        },
+        {
+          "title": "The Good Life actress Dame Penelope Keith dies aged 86",
+          "url": "https://www.bbc.co.uk/news/articles/c2ey1pjx0z9o",
+          "source": "BBC News",
+          "published_at": "2026-06-29T10:42:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d9/live/fb8f7670-73a4-11f1-a8fc-c51d60fec73b.jpg",
+          "description": "The beloved actress starred in classic British sitcoms The Good Life and To The Manor Born."
+        },
+        {
+          "title": "Penelope Keith, star of The Good Life and To the Manor Born, dies aged 86",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jun/29/penelope-keith-star-of-the-good-life-and-to-the-manor-born-dies-aged-86",
+          "source": "Stage | The Guardian",
+          "published_at": "2026-06-29T10:21:10.000Z",
+          "image": "https://i.guim.co.uk/img/media/c9dfc2dc24d50c13b957daed712f20929a4afc05/0_82_2951_1770/master/2951.jpg?width=140&quality=85&auto=format&fit=max&s=c6dc554eb88b162a7eef0cf1f6515a37",
+          "description": "A familiar face on TV and the stage, Keith was made a dame in 2014 for her services to the arts and charities Penelope Keith, best known for starring in sitcoms The Good Life and To the Manor Born, has died aged 86. A statement on behalf of her family said: “We are deeply saddened to announce that…"
         },
         {
           "title": "To The Manor Born and The Good Life star Penelope Keith dies aged 86",
           "url": "https://www.brisbanetimes.com.au/culture/tv-and-radio/to-the-manor-born-and-the-good-life-star-penelope-keith-dies-aged-86-20260630-p60b5l.html",
           "source": "Brisbane Times - Latest News",
           "published_at": "2026-06-29T21:36:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3569%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4ad8ea8fc34edaa79f60ef493ebaa65597eb3328"
-        },
-        {
-          "title": "To The Manor Born and The Good Life star Penelope Keith dies aged 86",
-          "url": "https://www.theage.com.au/culture/tv-and-radio/to-the-manor-born-and-the-good-life-star-penelope-keith-dies-aged-86-20260630-p60b5l.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-29T21:36:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3569%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4ad8ea8fc34edaa79f60ef493ebaa65597eb3328"
-        },
-        {
-          "title": "Dame Penelope Keith of The Good Life Fame Dies at 86",
-          "url": "https://www.comingsoon.net/tv/news/2155127-penelope-keith-dame-death-dies-age-86-the-good-life",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-29T18:47:28.000Z"
+          "image": "https://static.ffx.io/images/$zoom_0.3569%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/4ad8ea8fc34edaa79f60ef493ebaa65597eb3328",
+          "description": "West End theatres will dim their lights for two minutes to pay tribute to one of Britain’s best-loved actors."
         }
-      ]
+      ],
+      "summary": "British actor Dame Penelope Keith, known for the sitcoms “The Good Life” and “To the Manor Born,” has died aged 86."
     },
     {
-      "id": "topic_cf86746c1e4c018b",
+      "id": "topic_100244c8431afe2f",
+      "title": "Father and Son Rescued After Four Days in Venezuela Earthquake Rubble",
+      "headline": "Father and son rescued after four days buried under Venezuela earthquake rubble",
       "label": [
-        "iphone 18",
-        "18 pro",
-        "pro",
-        "iphone",
-        "18",
-        "dark web"
+        "days",
+        "father",
+        "son",
+        "rubble",
+        "four",
+        "rescued"
       ],
       "category": "new",
-      "theme": "theme_27641f8a50e4adce",
+      "theme": "theme_8e321d0be011f3e4",
       "entities": [
-        "Alleged",
-        "Pro Photos Leak",
-        "Surface",
-        "Dark Web",
-        "Dark"
+        "Father",
+        "Venezuela",
+        "Rescuers",
+        "Young Son Rescued Alive",
+        "Four Days After Earthquake"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 12,
+      "source_count": 11,
       "articles": [
         {
-          "title": "Alleged iPhone 18 Pro Photos Leak and Surface on the Dark Web",
-          "url": "https://internewscast.com/tech/alleged-iphone-18-pro-photos-leak-and-surface-on-the-dark-web",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-29T20:35:20.000Z"
-        },
-        {
-          "title": "Dark web leak exposes Apple's iPhone 18 Pro supply chain and test photos",
-          "url": "https://www.indiatoday.in/technology/story/dark-web-leak-exposes-apples-iphone-18-pro-supply-chain-test-photos-2937048-2026-06-30",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-29T20:20:17.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/apple-price-hike-261716543-16x9_0.jpg?VersionId=rOpc1cFNNugcl38EJAKh.u0eAEX.HNQF"
-        },
-        {
-          "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-          "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-          "source": "The Verge",
-          "published_at": "2026-06-29T20:18:26.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak",
-          "url": "https://www.macworld.com/article/3180152/iphone-18-pro-drop-test-images-parts-list-included-in-ransomware-leak.html",
-          "source": "Macworld",
-          "published_at": "2026-06-29T20:10:17.000Z",
-          "image": "https://www.macworld.com/wp-content/uploads/2026/06/iPhone-17-Pro-Max-back.jpg?quality=50&strip=all"
-        },
-        {
-          "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
-          "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web",
-          "source": "9to5Mac",
-          "published_at": "2026-06-29T18:46:39.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors.jpg?quality=82&#038;strip=all&#038;w=1600"
-        }
-      ]
-    },
-    {
-      "id": "topic_a61675a2f908d832",
-      "label": [
-        "naomi",
-        "naomi osaka",
-        "kimono",
-        "osaka",
-        "inspir",
-        "wimbledon"
-      ],
-      "category": "new",
-      "theme": "theme_fff321ba981776c3",
-      "entities": [
-        "Naomi Osaka",
-        "Wimbledon",
-        "Quentin Tarantino",
-        "Lucy Liu",
-        "Kill Bill"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Naomi Osaka enters Wimbledon in kimono gown inspired by Quentin Tarantino",
-          "url": "https://www.smh.com.au/sport/naomi-osaka-enters-wimbledon-in-kimono-gown-inspired-by-quentin-tarantino-20260630-p60b5u.html",
+          "title": "Father and son rescued after four days buried under Venezuela earthquake rubble",
+          "url": "https://www.smh.com.au/world/north-america/father-and-son-rescued-after-four-days-buried-under-venezuela-earthquake-rubble-20260629-p60b0b.html",
           "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-29T21:53:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ec5f47cb8b85fea0b868129f15e5d56d74926fa7"
+          "published_at": "2026-06-29T05:52:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.36202111111111107%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_510%2C$y_629/t_crop_custom/q_86%2Cf_auto/028e453593ac9bc30dfe5e8c8fe66000faaecedc",
+          "description": "A miracle rescue days after two powerful earthquakes shattered swaths of Venezuela gives hope to rescuers, who warn time is running out to find more survivors."
         },
         {
-          "title": "Naomi Osaka enters Wimbledon in kimono gown inspired by Quentin Tarantino",
-          "url": "https://www.theage.com.au/sport/naomi-osaka-enters-wimbledon-in-kimono-gown-inspired-by-quentin-tarantino-20260630-p60b5u.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-29T21:53:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ec5f47cb8b85fea0b868129f15e5d56d74926fa7"
-        },
-        {
-          "title": "Naomi Osaka enters Wimbledon in kimono gown inspired by Quentin Tarantino",
-          "url": "https://www.brisbanetimes.com.au/sport/naomi-osaka-enters-wimbledon-in-kimono-gown-inspired-by-quentin-tarantino-20260630-p60b5u.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-29T21:53:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ec5f47cb8b85fea0b868129f15e5d56d74926fa7"
-        },
-        {
-          "title": "Naomi Osaka wows Wimbledon crowd with kimono inspired by Lucy Liu’s character in ‘Kill Bill'",
-          "url": "https://japantoday.com/category/sports/naomi-osaka-wows-wimbledon-crowd-with-latest-fashion-creation-a-japanese-inspired-robe",
-          "source": "Japan Today",
-          "published_at": "2026-06-29T21:35:22.000Z"
-        },
-        {
-          "title": "Naomi Osaka wows Wimbledon crowd with kimono-inspired outfit",
-          "url": "https://www.theguardian.com/sport/2026/jun/29/naomi-osaka-wimbledon-day-one-crowd-kimono-inspired-outfit",
-          "source": "Fashion | The Guardian",
-          "published_at": "2026-06-29T18:55:48.000Z",
-          "image": "https://i.guim.co.uk/img/media/1101ddb411a74c41bb6bc78a27eaca4b12582442/0_0_3869_3097/master/3869.jpg?width=140&quality=85&auto=format&fit=max&s=5248d272da7928fea8f9f098e71a72d4"
-        }
-      ]
-    },
-    {
-      "id": "topic_b433b6a94bfa227e",
-      "label": [
-        "taiwan",
-        "smuggl",
-        "chip smuggl",
-        "raid",
-        "chip",
-        "office"
-      ],
-      "category": "new",
-      "theme": "theme_63e97ddd745e316a",
-      "entities": [
-        "Source",
-        "Taiwanese",
-        "Super Micro",
-        "Taiwan",
-        "Nvidia"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Source: Taiwanese authorities raided Super Micro's Taiwan office as part of a probe into the alleged smuggling of Nvidia chips to China; SMCI closed down 8.1% (Debby Wu/Bloomberg)",
-          "url": "https://www.techmeme.com/260629/p37",
-          "source": "Techmeme",
-          "published_at": "2026-06-29T20:40:16.000Z",
-          "image": "http://www.techmeme.com/260629/i37.jpg"
-        },
-        {
-          "title": "Supermicro Taiwan offices raided in chip smuggling probe",
-          "url": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23",
-          "source": "International homepage",
-          "published_at": "2026-06-29T20:17:17.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F146c33c2-db85-4f9b-9be9-f73c0fae9af7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "title": "Super Micro office raided as Taiwan expands chip smuggling probe",
-          "url": "https://financialpost.com/technology/tech-news/super-micro-office-raided-chip-smuggling-probe",
-          "source": "Financial Post",
-          "published_at": "2026-06-29T19:26:21.000Z"
-        },
-        {
-          "title": "Taiwan raids Super Micro’s office as Nvidia chip smuggling investigation widens",
-          "url": "https://thenextweb.com/news/super-micro-taiwan-raid-nvidia-chip-smuggling-probe",
-          "source": "The Next Web",
-          "published_at": "2026-06-29T19:18:48.000Z",
-          "image": "https://media.thenextweb.com/2026/06/super-micro-taiwan-raid-nvidia-chip-smuggling-probe.avif"
-        },
-        {
-          "title": "Supermicro shares fall as Taiwan office raided due to chip smuggling investigation: report",
-          "url": "https://seekingalpha.com/news/4608204-supermicro-shares-falls-as-taiwan-office-raided-due-to-chip-smuggling-investigation-report",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-06-29T18:32:10.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_2011aeb3d277b7c7",
-      "label": [
-        "trump says",
-        "says iran",
-        "meet",
-        "iran",
-        "iran meet",
-        "meet take"
-      ],
-      "category": "new",
-      "theme": "theme_b684f26849ac968f",
-      "entities": [
-        "Trump",
-        "Iran",
-        "Doha",
-        "Tehran",
-        "US"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
-          "url": "https://www.france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-29T23:46:13.000Z",
-          "image": "https://s.france24.com/media/display/599ae99a-73f8-11f1-8341-005056a90284/w:1024/p:16x9/01d7d56829d4a4b87d04e643984a32cfd5ae3ebf.jpg"
-        },
-        {
-          "title": "Trump says Doha talks with Iran are on, Tehran denies any meeting is scheduled",
-          "url": "https://www.indiatoday.in/world/story/trump-says-iran-talks-will-happen-in-doha-tehran-says-no-meeting-is-planned-2937056-2026-06-30",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-29T22:30:22.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/donald-trump--mojtaba-khamenei-294651541-original-sixteen-to-nine.png?VersionId=gTO0WtyZROLad_GskPoWEXY4IGJMc5kC"
-        },
-        {
-          "title": "Trump says Iran meeting to take place in Qatar",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/30/trump-says-iran-meeting-to-take-place-in-qatar_6754991_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-29T22:07:55.000Z",
-          "image": "https://img.lemde.fr/2026/06/24/470/0/5644/2822/644/322/60/0/cff8b39_ftp-1-erfr7cw5afk4-4ab2cc60ae6d46528b42afebf4496f70-0-cbf94dccf4424ec0945db1acc4d30036.jpg"
-        },
-        {
-          "title": "Trump says Iran meeting to take place in Qatar",
-          "url": "https://www.gmanetwork.com/news/topstories/world/993149/trump-iran-meeting-qatar/story",
+          "title": "Father and son rescued after four days in rubble of Venezuela's earthquakes",
+          "url": "https://www.gmanetwork.com/news/topstories/world/993024/father-son-rubble-venezuela-earthquakes/story",
           "source": "GMA News Online / News",
-          "published_at": "2026-06-29T21:43:00.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/04/2026-04-16T180423Z_901654477_RC2HQKAME91T_RTRMADP_3_USA-TRUMP_2026_04_17_02_17_03.JPG"
+          "published_at": "2026-06-29T01:05:43.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/venezuela_2026_06_28_06_38_01.jpg",
+          "description": "LA GUAIRA, Venezuela -- A father and his son were pulled out alive from the rubble of a collapsed building on Sunday, four days after the devastating earthquakes that struck Venezuela."
         },
         {
-          "title": "Trump says U.S.-Iran meeting to take place in Qatar as Tehran denies any sit-down in coming days",
-          "url": "https://www.thehindu.com/news/international/trump-says-meeting-with-iran-to-take-place-in-qatar/article71163181.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-29T21:28:27.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/g2xapz/article71163192.ece/alternates/LANDSCAPE_1200/2026-06-29T195620Z_2012608847_RC2V3MAR8L98_RTRMADP_3_USA-TRUMP.JPG"
+          "title": "Father and son pulled out alive four days after Venezuela earthquake",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/father-and-son-pulled-out-alive-four-days-after-venezuela-earthquake",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-29T00:41:32.000Z",
+          "description": "ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building."
+        },
+        {
+          "title": "Father and son rescued after 4 days buried under rubble of Venezuela’s quakes",
+          "url": "https://www.japantimes.co.jp/news/2026/06/29/world/father-son-four-days-venezuela-earthquakes",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-29T02:20:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548707.JPG",
+          "description": "Their discovery gives hope to rescue workers racing against the ‌clock to find ‌more survivors."
+        },
+        {
+          "title": "Rescuers pull father and son alive from Venezuela quake rubble after four days",
+          "url": "https://www.indiatoday.in/world/story/venezuela-earthquakes-father-and-son-rescued-alive-in-la-guaira-after-96-hours-2936288-2026-06-29",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-29T01:08:28.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/father--son-pulled-alive-from-venezuela-quake-rubble-after-four-days-290557570-16x9_0.jpg?VersionId=H.CDcsK07cKgoXdTj151Pr5I19nBJed0"
         }
-      ]
+      ],
+      "summary": "Rescuers pulled a father and his son alive from the rubble of a collapsed building in Venezuela, four days after powerful earthquakes struck the country."
     },
     {
-      "id": "topic_fad512deb1a9bb5d",
+      "id": "topic_d4c014c8b1b32272",
+      "title": "Viktor Hovland Beats Scottie Scheffler in Travelers Championship Playoff",
+      "headline": "Travelers Championship heads to Monday playoff between Scottie Scheffler and Viktor Hovland",
       "label": [
-        "uber",
-        "waymo",
-        "phoenix",
-        "waymo uber",
-        "robotaxi",
-        "uber quietly"
+        "hovland",
+        "travelers",
+        "scheffler",
+        "playoff",
+        "viktor",
+        "scottie"
       ],
       "category": "new",
-      "theme": "theme_6d263929593278ba",
+      "theme": "theme_381cd3e8458c146e",
       "entities": [
-        "Waymo",
-        "Uber",
-        "Phoenix",
-        "May",
-        "Sean"
+        "Travelers Championship",
+        "Monday",
+        "Scottie Scheffler",
+        "Viktor Hovland",
+        "Travelers"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 38,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Waymo and Uber end robotaxi pilot in Phoenix",
-          "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
-          "source": "International: Top News And Analysis",
-          "published_at": "2026-06-29T23:24:59.000Z"
+          "title": "Travelers Championship heads to Monday playoff between Scottie Scheffler and Viktor Hovland",
+          "url": "https://sports.yahoo.com/articles/travelers-championship-heads-monday-playoff-005816338.html",
+          "published_at": "2026-06-29T00:58:16.000Z",
+          "description": "Scottie Scheffler and Viktor Hovland will decide their white-knuckle duel in a playoff at 9 a.m. ET on Peacock and NBCSN."
         },
         {
-          "title": "Waymo and Uber quietly part ways in Phoenix after nearly three years of robotaxi collaboration",
-          "url": "https://thenextweb.com/news/waymo-uber-phoenix-partnership-ends-robotaxi",
-          "source": "The Next Web",
-          "published_at": "2026-06-29T19:02:36.000Z",
-          "image": "https://media.thenextweb.com/2026/06/waymo-uber-phoenix-partnership-ends-robotaxi.avif"
+          "title": "Scottie Scheffler forces Monday playoff against Viktor Hovland at Travelers Championship",
+          "url": "https://news.google.com/rss/articles/cbmi4wfbvv95cuxpsxzowjc3sdjzm2xpeejknkhzyjdcmnb3vlczudk1welzcuf4mgtkcho2u3zeyk5zbvazbfvzdklgc01zwmjrwkmxcxritjhgofj4r09jellgvgl2vg1zdvnxcklnnmjywul5axr5wkk2tlhnb2izmjg2slhjbwqwujvhvtrmqvpymuj2turmm0nzu3jhv3qzbzd2mwg5dmfnwuk2vmtowvz5t19wntf2dmpvsnpvqtfwexzruvzwyufcx3kwqxn6cezkdlvtexvtbmdiu2tneu1lwgswwnncuxrkvq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-29T03:58:41.000Z",
+          "description": "Scottie Scheffler forces Monday playoff against Viktor Hovland at Travelers Championship PGA Tour Scottie Scheffler, Viktor Hovland head to Monday playoff to decide Travelers Championship after weather delay PGA Tour Scheffler makes clutch putt to force Monday playoff against Hovland in Travelers C…"
         },
         {
-          "title": "Waymo and Uber quietly ended their partnership in Phoenix in May; Uber says it is readying the launch of a separate autonomous vehicle partnership in the city (Sean O'Kane/TechCrunch)",
-          "url": "https://www.techmeme.com/260629/p35",
-          "source": "Techmeme",
-          "published_at": "2026-06-29T19:00:01.000Z",
-          "image": "http://www.techmeme.com/260629/i35.jpg"
+          "title": "Viktor Hovland stuns Scottie Scheffler with playoff birdie to win the Travelers Championship",
+          "url": "https://www.foxnews.com/sports/viktor-hovland-stuns-scottie-scheffler-playoff-birdie-win-travelers-championship",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-29T14:13:12.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/scheffler-hovland-travelers-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "Viktor Hovland defeated Scottie Scheffler in a sudden-death playoff at the Travelers Championship after Scheffler missed a short birdie putt Monday."
         },
         {
-          "title": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-29T18:54:59.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iThVpXQIcv8Y/v1/1200x-1.jpg"
+          "title": "Hovland beats Scheffler in quick Travelers playoff...",
+          "url": "https://www.espn.com/golf/story/_/id/49215312/viktor-hovland-makes-birdie-beat-scottie-scheffler-travelers-playoff",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-06-29T15:21:02.000Z",
+          "description": "Viktor Hovland made birdie on the par-4 18th hole Monday morning to win the Travelers Championship in a playoff over world No. 1 Scottie Scheffler."
         },
         {
-          "title": "Waymo and Uber quietly part ways in Phoenix",
-          "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix",
-          "source": "TechCrunch",
-          "published_at": "2026-06-29T18:45:12.000Z"
+          "title": "Hovland wins Travelers play-off after Scheffler miss",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/ckg0l30gp33o",
+          "source": "BBC Sport",
+          "published_at": "2026-06-29T14:42:35.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933e/live/55078b80-73c7-11f1-aaa1-3f07d3ad2c35.jpg",
+          "description": "Norway's Viktor Hovland is roared on by World Cup fans as he wins a play-off to beat world number one Scottie Scheffler."
         }
-      ]
+      ],
+      "summary": "Viktor Hovland defeated Scottie Scheffler in a sudden-death playoff to win the Travelers Championship, making a birdie on the 18th hole."
     },
     {
-      "id": "topic_92b7d503f2a2d424",
+      "id": "topic_9adfde005ef06fe6",
+      "title": "Brazil Faces Japan in World Cup Round of 32",
+      "headline": "Brazil vs Japan LIVE: FIFA World Cup 2026",
       "label": [
-        "android",
-        "openclaw app",
-        "app ios",
-        "ios android",
-        "android phon",
-        "bluetooth"
+        "brazil",
+        "japan",
+        "vs",
+        "cup",
+        "world",
+        "prediction"
       ],
       "category": "new",
-      "theme": "theme_f7f618ec79a104ff",
+      "theme": "theme_603d0755c8c1d521",
       "entities": [
-        "OpenClaw",
-        "Android",
-        "Reverse",
-        "Bluetooth"
+        "Brazil",
+        "Japan LIVE",
+        "FIFA World Cup",
+        "Japan",
+        "World Cup Round"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 19,
+      "source_count": 10,
       "articles": [
         {
-          "title": "There's now an OpenClaw app for iOS and Android phones",
-          "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones",
+          "title": "Brazil vs Japan LIVE: FIFA World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/29/brazil-vs-japan-live-fifa-world-cup-2026",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-29T14:10:00.000Z",
+          "description": "Follow updates as Brazil face Japan in the last 32, as we bring you the build-up, analysis and text commentary."
+        },
+        {
+          "title": "How to watch Brazil vs. Japan online for free",
+          "url": "https://mashable.com/entertainment/brazil-japan-fifa-world-cup-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-06-29T09:00:00.000Z",
+          "description": "How to watch World Cup for free. Live stream Brazil vs. Japan in the 2026 FIFA World Cup for free from anywhere in the world."
+        },
+        {
+          "title": "Brazil vs. Japan odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 31-13 run",
+          "url": "https://www.cbssports.com/soccer/news/brazil-japan-odds-prediction-line-time-2026-world-cup-round-32-picks-best-bets",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-06-29T15:45:24.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/06/19/0b539d73-7fbe-441f-86c5-bebd8cfb1d6a/vinicius-junior-brazil-imagn-images.jpg",
+          "description": "SportsLine's Jon Eimer reveals his Japan vs. Brazil best bets for their World Cup 2026 knockout stage match on Monday"
+        },
+        {
+          "title": "Where to watch Brazil vs. Japan live stream, TV channel, start time for World Cup Round of 32 match",
+          "url": "https://sports.yahoo.com/articles/where-watch-brazil-vs-japan-100002914.html",
+          "published_at": "2026-06-29T10:30:02.000Z",
+          "description": "Here's everything you need to know to watch the Brazil vs. Japan World Cup match, including where to watch on TV or live stream, what time the game starts and more."
+        },
+        {
+          "title": "Brazil vs Japan LIVE: World Cup Last-32 Score, Updates and Highlights",
+          "url": "https://internewscast.com/news/brazil-vs-japan-live-world-cup-last-32-score-updates-and-highlights",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-29T16:23:36.000Z",
+          "description": "Internewscast Journal Internewscast I still cannot quite decide what to make of this Brazil side.… This Post: Brazil vs Japan LIVE: World Cup Last-32 Score, Updates and Highlights first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Brazil and Japan meet in a 2026 FIFA World Cup knockout-stage match. Coverage includes live updates and information on how to watch."
+    },
+    {
+      "id": "topic_847ba26434108b5a",
+      "title": "British American Tobacco to Cut or Move 9,000 Jobs",
+      "headline": "British American Tobacco to cut 9,000 jobs",
+      "label": [
+        "tobacco",
+        "british",
+        "american",
+        "jobs",
+        "cut",
+        "slashes"
+      ],
+      "category": "new",
+      "theme": "theme_84e74e6e1b656819",
+      "entities": [
+        "British American Tobacco",
+        "AI",
+        "British American Tobacco To",
+        "Cut",
+        "Jobs Globally As Shift"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "British American Tobacco to cut 9,000 jobs",
+          "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno",
+          "source": "BBC News",
+          "published_at": "2026-06-29T10:09:36.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a28/live/96128100-73a1-11f1-8e1d-bbbb1017d210.jpg",
+          "description": "The tobacco industry is grappling with declining demand for traditional cigarettes."
+        },
+        {
+          "title": "British American Tobacco to cut 9,000 jobs as it turns to AI",
+          "url": "https://www.dailymail.com/money/markets/article-15937839/british-american-tobacco-cut-9-000-jobs-turns-ai.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-06-29T10:00:26.000Z",
+          "image": "https://i.dailymail.com/1s/2026/06/29/10/109665895-0-image-a-6_1782725558098.jpg",
+          "description": "BAT is making sweeping job cuts as it looks to slash costs and increase the use of artificial intelligence across its business."
+        },
+        {
+          "title": "British American Tobacco slashes 9,000 jobs",
+          "url": "https://www.ft.com/content/f457d335-eb92-4e1e-8d33-04e5ed2fca8f",
+          "source": "International homepage",
+          "published_at": "2026-06-29T08:13:56.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F22d5a6a6-7398-475a-80fe-91df623b5ba6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Maker of Dunhill cigarettes says cuts and outsourcing will affect about one in five jobs"
+        },
+        {
+          "title": "British American Tobacco to slash 9,000 jobs as it turns to AI",
+          "url": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-29T08:53:22.000Z",
+          "image": "https://i.guim.co.uk/img/media/556e1ae055c3c7116659801bbdcad6f69dbc9531/324_0_2077_1661/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=424418d7d8f222ca694c9c6031a7187c",
+          "description": "Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’ Business live – latest updates British American Tobacco (BAT) will cut about a fifth of its 47,000-strong workforce this year, as the cigarette-maker looks for ways to push down costs and be…"
+        },
+        {
+          "title": "British American Tobacco to cut 5,500 jobs globally in restructuring push",
+          "url": "https://www.thehindubusinessline.com/companies/british-american-tobacco-to-cut-5500-jobs-globally-in-restructuring-push/article71160479.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-29T08:25:44.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/sruser/article70362941.ece/alternates/LANDSCAPE_1200/2023-12-06T073445Z_456719100_RC2IR4ARI206_RTRMADP_3_BRIT-AM-TOBACCO-OUTLOOK.JPG",
+          "description": "The company will move a further 3,500 roles to third-party ​firms, including Accenture, ‌impacting a total of 9,000 employees"
+        }
+      ],
+      "summary": "British American Tobacco plans to cut 5,500 jobs and transfer 3,500 roles to third-party firms as part of a restructuring aimed at reducing costs and increasing technology use."
+    },
+    {
+      "id": "topic_53c4ca659b817861",
+      "title": "Rocket Lab to Acquire Iridium in $8 Billion Deal",
+      "headline": "Rocket Lab acquires Iridium in $8 billion satellite deal",
+      "label": [
+        "lab",
+        "rocket",
+        "iridium",
+        "satellite",
+        "billion",
+        "spacex"
+      ],
+      "category": "new",
+      "theme": "theme_ea8b92a2b4042520",
+      "entities": [
+        "Rocket Lab",
+        "Iridium",
+        "SpaceX",
+        "Rocket Lab Stock Soars",
+        "After Acquiring Satellite Company"
+      ],
+      "article_count": 20,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Rocket Lab acquires Iridium in $8 billion satellite deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-acquires-iridium-8-123239082.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-29T12:32:39.000Z",
+          "image": "https://media.zenfs.com/en/quartz_855/c13dcf25f1066fcbb5900c328d945d93"
+        },
+        {
+          "title": "In a bold move, Rocket Lab acquires Iridium Communications",
+          "url": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-06-29T15:33:54.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2180886117-1024x648.jpg",
+          "description": "\"We believe this will be one of the most transformative deals in the space industry.\""
+        },
+        {
+          "title": "'The start of a new era': Rocket Lab buying satellite-communications company Iridium for $8 billion",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion",
+          "source": "Latest from Space.com",
+          "published_at": "2026-06-29T22:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/uvTNKncShn67s3p4jbzhwn-1280-80.jpg",
+          "description": "California-based launch company Rocket Lab has inked a landmark $8 billion deal to acquire long-time satellite communications giant Iridium."
+        },
+        {
+          "title": "Rocket Lab is buying Iridium&#8217;s satellite network for $8 billion to take on SpaceX",
+          "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
+          "source": "The Verge",
+          "published_at": "2026-06-29T13:51:24.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/rocketlab-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Rocket Lab’s Electron launch vehicle lifting off from its launch complex in New Zealand. | Image: RocketLab Rocket Lab, the space company best known for its small satellite launcher Electron, has announced plans to acquire Iridium Communications for $8 billion. The deal will combine Rocket Lab's la…"
+        },
+        {
+          "title": "Rocket Lab buys satellite company Iridium to go up against Starlink and Amazon's Leo",
+          "url": "https://www.engadget.com/2203612/rocket-lab-buys-satellite-company-iridium",
           "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-29T22:07:14.000Z",
-          "image": "https://www.engadget.com/img/gallery/theres-now-an-openclaw-app-for-ios-and-android-phones/l-intro-1782770668.jpg"
-        },
-        {
-          "title": "На экранах Android-смартфонах начали появляться синие точки – что это значит",
-          "url": "https://www.unian.net/techno/gadgets/pochemu-gorit-sinyaya-tochka-na-ekrane-telefona-eto-ne-bag-a-skrytaya-funkciya-13426308.html",
-          "source": "Информационное агентство УНИАН",
-          "published_at": "2026-06-29T19:15:00.000Z",
-          "image": "https://images.unian.net/photos/2026_06/thumb_files/1200_0_1782745341-9109.jpg"
-        },
-        {
-          "title": "Reverse engineering the Bluetooth protocol on Android",
-          "url": "https://proandroiddev.com/reverse-engineering-the-bluetooth-protocol-on-android-680275f129e0",
-          "source": "ProAndroidDev - Medium",
-          "published_at": "2026-06-29T19:07:42.000Z",
-          "image": "https://cdn-images-1.medium.com/max/1024/1*5NimUAFePNbC38bpOmT3QA.png"
-        },
-        {
-          "title": "I pin my Android screen before handing it over to strangers, and you should too",
-          "url": "https://www.makeuseof.com/i-pin-android-screen-before-handing-over-to-strangers-you-should-too",
-          "source": "MakeUseOf",
-          "published_at": "2026-06-29T19:00:18.000Z",
-          "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/09/pixel-featured-4.JPG"
+          "published_at": "2026-06-29T12:00:32.000Z",
+          "image": "https://www.engadget.com/img/gallery/rocket-lab-buys-satellite-company-iridium-to-go-up-against-starlink-and-amazons-leo/l-intro-1782734345.jpg",
+          "description": "Rocket Lab will own satellites connecting the most remote corners of the Earth."
         }
-      ]
+      ],
+      "summary": "Rocket Lab agreed to acquire satellite communications company Iridium in a deal valued at $8 billion, combining the companies’ space and satellite businesses."
     },
     {
-      "id": "topic_ad33e8e8c10305dd",
+      "id": "topic_d55d53ac7f30bbfc",
+      "title": "JetBlue Pilot Reports Drone Strike Near JFK Airport",
+      "headline": "JetBlue pilot reports striking a drone while landing at JFK airport",
       "label": [
-        "peru",
-        "presidential",
-        "fujimori",
-        "peru presidential",
-        "keiko fujimori",
-        "keiko"
+        "jetblue",
+        "drone",
+        "jfk",
+        "airport",
+        "flight",
+        "landing"
       ],
       "category": "new",
-      "theme": "theme_8afb7cc48db4b41",
+      "theme": "theme_7b30dffa7749b5cf",
       "entities": [
-        "In Peru",
-        "Presidential Election",
-        "Keiko Fujimori Gives",
-        "Right",
-        "Latin America Another Win"
+        "JetBlue",
+        "JFK",
+        "JFK Airport",
+        "FAA",
+        "BBC"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 15,
+      "source_count": 13,
       "articles": [
         {
-          "title": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
-          "url": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html",
-          "source": "NYT > World > Americas",
-          "published_at": "2026-06-29T21:45:22.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-peru-election-01-qkvm/29int-peru-election-01-qkvm-mediumSquareAt3X.jpg"
+          "title": "JetBlue pilot reports striking a drone while landing at JFK airport",
+          "url": "https://www.bbc.co.uk/news/articles/c7vy098qjyvo",
+          "source": "BBC News",
+          "published_at": "2026-06-29T18:36:18.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880c/live/650bb5c0-73e4-11f1-8998-ab75a76cbbd4.jpg",
+          "description": "Aviation authorities say the aircraft landed safely and a post-flight inspection found no damage."
         },
         {
-          "title": "Keiko Fujimori narrowly wins Peru's presidential runoff",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/29/keiko-fujimori-narrowly-wins-peru-s-presidential-runoff_6754990_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-29T21:40:19.000Z",
-          "image": "https://img.lemde.fr/2026/06/29/171/0/2045/1022/644/322/60/0/d1414f9_ftp-1-axdadehmrcks-5485464-01-06.jpg"
+          "title": "JetBlue flight 'hit drone while approaching JFK Airport'",
+          "url": "https://www.express.co.uk/news/world/2223226/jetblue-flight-drone-approaching-jfk-airport",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-06-29T16:56:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2223226_1.jpg",
+          "description": "The incident reportedly happened at approximately 3000ft in the sky."
         },
         {
-          "title": "Keiko Fujimori leads Peru's presidential race after official count concludes",
-          "url": "https://japantoday.com/category/world/keiko-fujimori-leads-peru%27s-presidential-race-after-official-count-concludes1",
-          "source": "Japan Today",
-          "published_at": "2026-06-29T21:34:27.000Z"
+          "title": "JetBlue flight hit drone while approaching JFK airport: FAA",
+          "url": "https://www.thehindu.com/news/international/jetblue-flight-hit-drone-while-approaching-jfk-airport-faa/article71163149.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-29T20:28:50.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/fqmex2/article71163154.ece/alternates/LANDSCAPE_1200/JetBlue_Emirates.JPEG-01443.jpg",
+          "description": "The pilot of the Airbus A321, which had departed from Las Vegas, ‌reported the strike at approximately 3,000 feet altitude while on final ‌approach, the FAA said"
         },
         {
-          "title": "Peru: Fujimori declared winner of presidential election",
-          "url": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522",
-          "source": "Deutsche Welle",
-          "published_at": "2026-06-29T20:33:00.000Z"
+          "title": "JetBlue pilot reports striking a drone while landing at JFK airport",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte53tzk5yvu2awlmqm9uqkrhr2nxamtbqmzsq0dtu0jsyjluzut4utlwyi1udhozshbptlz2enj6twzpwgttseu3uc1xog9oowrhng14ewrwdutrzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-29T18:36:18.000Z",
+          "description": "JetBlue pilot reports striking a drone while landing at JFK airport BBC JetBlue pilot reports hitting drone as flight approached landing at JFK Airport in NYC ABC7 New York JetBlue plane collides with drone in New York City NBC News JetBlue Jet Hit Drone At New York’s JFK Airport Forbes Possible dr…"
+        },
+        {
+          "title": "JetBlue flight hits drone while landing at JFK: Officials",
+          "url": "https://abcnews.com/us/jetblue-flight-hits-drone-landing-jfk-officials/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-29T16:41:39.000Z",
+          "image": "https://s.abcnews.com/images/US/jet-blue-gty-jef-260629_1782749777329_hpMain_4x3t_384.jpg",
+          "description": "A JetBlue Airways pilot reported hitting a drone as the flight was on approach for landing at JFK Airport on Monday morning, the Federal Aviation Administration said. The plane landed safely and the FAA said no damage was found during inspections. The agency will investigate the incident, it noted…"
         }
-      ]
+      ],
+      "summary": "A JetBlue pilot reported striking a drone while approaching JFK Airport at about 3,000 feet. The plane landed safely, and an inspection found no damage."
     },
     {
-      "id": "topic_cd806a55763f35d1",
+      "id": "topic_35d62a1f062f9e35",
+      "title": "Bill Maher Receives Kennedy Center’s Mark Twain Prize",
+      "headline": "Bill Maher Hailed for Courage and Being the ‘Ultimate Contrarian’ as He Receives Kennedy Center’s Mark Twain Prize",
       "label": [
-        "show stream",
-        "stream july",
-        "tv show",
-        "stream",
-        "tv",
-        "best tv"
+        "twain",
+        "prize",
+        "kennedy",
+        "mark",
+        "maher",
+        "center"
       ],
       "category": "new",
-      "theme": "theme_e7fd01f381e91255",
+      "theme": "theme_d3badcb7eef8a78a",
       "entities": [
-        "Most Anticipated TV Shows",
-        "Stream",
-        "July",
+        "Bill Maher Hailed",
+        "Courage",
+        "Ultimate Contrarian",
+        "He Receives Kennedy Center",
+        "Mark Twain Prize"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Bill Maher Hailed for Courage and Being the ‘Ultimate Contrarian’ as He Receives Kennedy Center’s Mark Twain Prize",
+          "url": "https://variety.com/2026/tv/news/bill-maher-mark-twain-prize-kennedy-center-small-crowd-1236798774",
+          "source": "Variety",
+          "published_at": "2026-06-29T19:52:29.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2283771169-e1782761406655.jpg",
+          "description": "WASHINGTON, D.C. — Bill Maher was awarded the Kennedy Center’s Mark Train Prize for American Humor on Sunday in a casual and candid affair that blended accolades, insights and light-hearted roasting from an assemblage of colleagues and entertainers. The event, now in its 27th year and held at the K…"
+        },
+        {
+          "title": "Bill Maher Hailed for Courage and Being the ‘Ultimate Contrarian’ as He Receives Kennedy Center’s Mark Twain Prize",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxns1bfnnfomwq3r2uyohjiq2x6a0g1v2pinhjbdzbpq2zsshv6wdvfzu5qy2foow1zy21iewvzmux6mezcew1yt1hpd0ntzkzfotlesvfmmtgtazbpekpdovj4mjftww9zywfnodnjszrfnzfnag5ny05scs1qdfywy2viugzcrvrbng9ytmjmreo2egxlu3baajhhu1zhtuix",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-29T19:52:00.000Z",
+          "description": "Bill Maher Hailed for Courage and Being the ‘Ultimate Contrarian’ as He Receives Kennedy Center’s Mark Twain Prize Variety At the Kennedy Center, a prize for Bill Maher — and a lot of Trump jokes The Washington Post Trump Gets Roasted on Bill Maher’s Night The Atlantic Bill Maher Defies White House…"
+        },
+        {
+          "title": "Comedians dig at Trump as Bill Maher accepts Mark Twain prize at Kennedy Center",
+          "url": "https://www.foxnews.com/media/comedians-dig-trump-bill-maher-accepts-mark-twain-prize-kennedy-center",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-29T14:46:20.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/MAHER-MARK-TWAIN-PRIZE.jpg?ve=1&tl=1",
+          "description": "Bill Maher accepted the Mark Twain Prize at the Kennedy Center as comedians took multiple digs at President Donald Trump throughout the night."
+        },
+        {
+          "title": "Tarp Covered Kennedy Center Hosts Mark Twain Prize Event As Comedians Poke Fun At Trump",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/06/29/tarp-covered-kennedy-center-hosts-mark-twain-prize-event-as-comedians-poke-fun-at-trump",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-29T09:26:17.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4239d77eb4bcfc019beb09/0x0.jpg?width=960",
+          "description": "Several comedians, including Mark Twain Prize awardee Bill Maher, mocked the president and cracked jokes about the tarp covering the Kennedy Center front signage."
+        },
+        {
+          "title": "Trump steals the spotlight at Bill Maher’s Mark Twain Prize ceremony",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/bill-maher-mark-twain-award-trump-b3004743.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-29T06:47:36.000Z",
+          "image": "https://static.independent.co.uk/2026/06/29/07/2026-06-29T020834Z_136873214_RC263MA2C5PB_RTRMADP_3_PEOPLE-BILLMAHER.JPG?width=1200&auto=webp&trim=0%2C35%2C0%2C35",
+          "description": "Comedian Bill Maher is set to receive the Mark Twain Prize for American Humor at the Kennedy Center"
+        }
+      ],
+      "summary": "Bill Maher received the Kennedy Center’s Mark Twain Prize for American Humor. Comedians at the ceremony praised and roasted him, with several making jokes about President Trump."
+    },
+    {
+      "id": "topic_a4b9a78f2b4cbedb",
+      "title": "Enzo Maresca Named Manchester City Manager",
+      "headline": "Why Maresca? What Man City fans can expect from Guardiola's successor",
+      "label": [
+        "maresca",
+        "guardiola",
+        "city",
+        "successor",
+        "man",
+        "pep"
+      ],
+      "category": "new",
+      "theme": "theme_9aed99f951c31259",
+      "entities": [
+        "Why Maresca",
+        "What Man City",
+        "Guardiola",
+        "Enzo Maresca",
+        "Man City"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Why Maresca? What Man City fans can expect from Guardiola's successor",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o",
+          "source": "BBC Sport",
+          "published_at": "2026-06-29T16:20:19.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4701/live/b4a12840-73a3-11f1-b782-afe3aa90acc2.jpg",
+          "description": "Pep Guardiola passes the baton on to Enzo Maresca, but why have Manchester City chosen the Italian as the Spaniard's replacement?"
+        },
+        {
+          "title": "Enzo Maresca finally appointed Man City manager as Pep Guardiola successor",
+          "url": "https://sports.yahoo.com/articles/enzo-maresca-appointed-manchester-city-130511399.html",
+          "published_at": "2026-06-29T13:34:49.000Z",
+          "description": "The former Chelsea manager returns to the club where he spent time as an assistant, on a three-year contract"
+        },
+        {
+          "title": "Maresca in as Guardiola's Man City successor",
+          "url": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-06-29T14:06:06.000Z",
+          "description": "Enzo Maresca has been appointed as Pep Guardiola's successor after Manchester City agreed a compensation package with Chelsea."
+        },
+        {
+          "title": "Man City announce Maresca as Guardiola’s successor on three-year deal",
+          "url": "https://www.soccernews.com/man-city-announce-maresca-as-guardiolas-successor-on-three-year-deal/401213",
+          "source": "SoccerNews",
+          "published_at": "2026-06-29T14:33:21.000Z",
+          "description": "After abruptly leaving Chelsea in December 2025, Enzo Maresca has now officially been named as the new Manchester City manager. The post Man City announce Maresca as Guardiola’s successor on three-year deal appeared first on SoccerNews."
+        },
+        {
+          "title": "Man City appoint Maresca as new manager",
+          "url": "https://news.sky.com/story/enzo-maresca-man-city-appoint-former-chelsea-head-coach-as-pep-guardiolas-successor-at-etihad-stadium-13548773",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-06-29T13:00:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285698.jpg?20260629135607",
+          "description": "Manchester City have appointed Enzo Maresca as their new manager."
+        }
+      ],
+      "summary": "Manchester City appointed Enzo Maresca as manager on a three-year contract, making him Pep Guardiola’s successor."
+    },
+    {
+      "id": "topic_adc3ca01ca840f48",
+      "title": "WhatsApp Begins Rolling Out Usernames",
+      "headline": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "label": [
+        "usernames",
+        "whatsapp",
+        "numbers",
+        "phone",
+        "finally",
+        "users"
+      ],
+      "category": "new",
+      "theme": "theme_68551de6d20e2d81",
+      "entities": [
+        "WhatsApp",
+        "Finally Getting Usernames",
+        "Help Keep Phone Numbers",
+        "Private",
+        "The Hacker News"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+          "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+          "source": "The Hacker News",
+          "published_at": "2026-06-29T16:09:21.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg",
+          "description": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to di…"
+        },
+        {
+          "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxorhe0dk90ofgwlty2mmjtq3e1rfvxv1hvmuvmugdrn3c5cufubmhwmgpszljuyjfiqxptymz6aljdu014rk5xs05uuvlvlxh2bnrdtmjxvgrmwgpfcvayc0lvm1fhwmzqcfoyaxdwbe1wddy3mmfpvwszwmtqyjvqtwrr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-29T16:09:00.000Z",
+          "description": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private The Hacker News WhatsApp to let people chat without swapping phone numbers BBC WhatsApp will allow users to go by usernames instead of phone numbers for added privacy NBC4 Washington It’s Time to Reserve Your WhatsApp Username…"
+        },
+        {
+          "title": "WhatsApp Is Replacing Phone Numbers With Usernames",
+          "url": "https://lifehacker.com/tech/whatsapp-username-update",
+          "source": "Lifehacker",
+          "published_at": "2026-06-29T18:43:42.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01KWA42KARN6SHR8REFY61HN4B/hero-image.png",
+          "description": "Here's how to reserve your new WhatsApp username once the update starts rolling out."
+        },
+        {
+          "title": "WhatsApp is finally adding usernames",
+          "url": "https://www.androidauthority.com/whatsapp-usernames-3682471",
+          "source": "Android Authority",
+          "published_at": "2026-06-29T17:22:04.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2023/12/WhatsApp-icon-scaled.jpg",
+          "description": "Some users are able to reserve their usernames right now."
+        },
+        {
+          "title": "WhatsApp rolls out usernames to help users hide their phone number",
+          "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number",
+          "source": "BleepingComputer",
+          "published_at": "2026-06-29T17:48:28.000Z",
+          "description": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]"
+        }
+      ],
+      "summary": "WhatsApp announced that users can reserve usernames, an optional feature intended to let them communicate without sharing their phone numbers."
+    },
+    {
+      "id": "topic_510b2dd373ae729",
+      "title": "Germany Meets Paraguay in World Cup Round of 32",
+      "headline": "How to watch Germany vs. Paraguay online for free",
+      "label": [
+        "paraguay",
+        "germany",
+        "vs",
+        "cup",
+        "world",
+        "prediction"
+      ],
+      "category": "new",
+      "theme": "theme_6da926380c10b45",
+      "entities": [
+        "Prediction",
+        "Germany",
+        "Paraguay",
+        "FIFA World Cup",
         "TV"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 20,
+      "source_count": 8,
       "articles": [
         {
-          "title": "The 10 Most Anticipated TV Shows to Stream in July",
-          "url": "https://www.ign.com/articles/most-anticipated-tv-shows-to-stream-in-july-2026",
-          "source": "IGN Articles",
-          "published_at": "2026-06-29T21:34:24.000Z",
-          "image": "https://assets-prd.ignimgs.com/2025/07/26/pike-puppet-thumb-1753552911340.jpg"
+          "title": "How to watch Germany vs. Paraguay online for free",
+          "url": "https://mashable.com/entertainment/germany-paraguay-fifa-world-cup-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-06-29T09:00:00.000Z",
+          "description": "How to watch World Cup for free. Live stream Germany vs. Paraguay in the 2026 FIFA World Cup for free from anywhere in the world."
         },
         {
-          "title": "The best new TV shows to stream in July",
-          "url": "https://www.smh.com.au/culture/tv-and-radio/the-best-new-tv-shows-to-stream-in-july-20260623-p609co.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-29T19:30:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_363%2C$y_0/t_crop_custom/q_86%2Cf_auto/b53d06f9fa86f73ffd66cfa1d29177070556939c"
+          "title": "Prediction: Germany vs Paraguay",
+          "url": "https://www.soccernews.com/prediction-germany-vs-paraguay/401195",
+          "source": "SoccerNews",
+          "published_at": "2026-06-29T08:55:55.000Z",
+          "description": "Germany and Paraguay will meet at Gillette Stadium on Monday afternoon, as both nations compete for a place in the last 16 of the 2026 World Cup. Germany topped Group E despite losing its final group match to Ecuador, while Paraguay reached the knockout stage as one of the best third-place teams af…"
         },
         {
-          "title": "The best new TV shows to stream in July",
-          "url": "https://www.brisbanetimes.com.au/culture/tv-and-radio/the-best-new-tv-shows-to-stream-in-july-20260623-p609co.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-29T19:30:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_363%2C$y_0/t_crop_custom/q_86%2Cf_auto/b53d06f9fa86f73ffd66cfa1d29177070556939c"
+          "title": "Germany vs. Paraguay live stream: How to watch FIFA World Cup online, start time, lineup, odds",
+          "url": "https://www.cbssports.com/soccer/news/germany-paraguay-live-stream-fifa-world-cup-lineup-odds",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-06-29T19:03:31.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/06/29/2659ca87-0646-4c31-905d-d5e0c3a2e2d2/untitled-design-2026-06-29t145651-710.png",
+          "description": "Can Germany live up to the immense pressure and secure a spot in the quarterfinals, or will Paraguay pull off a massive World Cup upset?"
         },
         {
-          "title": "The best new TV shows to stream in July",
-          "url": "https://www.theage.com.au/culture/tv-and-radio/the-best-new-tv-shows-to-stream-in-july-20260623-p609co.html",
-          "source": "The Age - Latest News",
+          "title": "How to watch Germany vs Paraguay: Live stream, TV channel & start time for FIFA World Cup 2026 Round of 32",
+          "url": "https://sports.yahoo.com/articles/watch-germany-vs-paraguay-live-193000997.html",
           "published_at": "2026-06-29T19:30:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_363%2C$y_0/t_crop_custom/q_86%2Cf_auto/b53d06f9fa86f73ffd66cfa1d29177070556939c"
+          "description": "Germany hopes to rebound against Paraguay on Monday as the World Cup 2026 knockout stages gather pace. MORE: 2026 FIFA World Cup Round of 32 TV schedule, full list of games How to Watch Germany vs Paraguay Four-time World Cup…"
+        },
+        {
+          "title": "Germany vs Paraguay &#8211; Bet Builder tips",
+          "url": "https://talksport.com/betting/4375106/germany-vs-paraguay-bet-builder-tips",
+          "source": "talkSPORT",
+          "published_at": "2026-06-29T14:01:19.000Z"
         }
-      ]
+      ],
+      "summary": "Germany and Paraguay meet in a 2026 FIFA World Cup knockout-stage match, with coverage focused on the game and how to watch."
+    },
+    {
+      "id": "topic_4ec379406d14f55a",
+      "title": "Events and Coins Mark America’s 250th Birthday",
+      "headline": "How to celebrate America’s 250th birthday on July 4 in NYC",
+      "label": [
+        "250th",
+        "birthday",
+        "america",
+        "celebrate",
+        "bench",
+        "nyc"
+      ],
+      "category": "new",
+      "theme": "theme_86e3ef83cc4f93fe",
+      "entities": [
+        "America",
+        "July",
+        "NYC",
+        "NYC July",
+        "Guide"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "How to celebrate America’s 250th birthday on July 4 in NYC",
+          "url": "https://nypost.com/2026/06/29/us-news/how-to-celebrate-americas-250th-birthday-on-july-4-in-nyc",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-29T10:00:00.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fspecial-sections-sail-4th-new-131937079.jpg?w%3D1024",
+          "description": "Local parties ranging from the largest naval parade ever to a spectacular performance by the Blue Angels are slated for America's big bash, with countless other events scheduled across all five boroughs, too."
+        },
+        {
+          "title": "250th birthday minutes on the bench",
+          "url": "https://www.scotusblog.com/2026/06/250th-birthday-minutes-on-the-bench",
+          "source": "SCOTUSblog",
+          "published_at": "2026-06-29T20:00:00.000Z",
+          "image": "https://cdn.sanity.io/images/pito4za5/production/a72a28b50a3494ff0941e158c841345c1cd289fb-2560x1707.jpg?w=1200&fit=max"
+        },
+        {
+          "title": "NYC July 4 Guide: Best Ways to Celebrate America’s 250th Birthday",
+          "url": "https://internewscast.com/news/nyc-july-4-guide-best-ways-to-celebrate-americas-250th-birthday",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-29T11:17:30.000Z",
+          "description": "Internewscast Journal Internewscast Happy birthday, America! The United States marks its 250th birthday this week,… This Post: NYC July 4 Guide: Best Ways to Celebrate America’s 250th Birthday first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Uncirculated set of coins to be released days before America’s 250th birthday",
+          "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4629142/uncirculated-coins-america-250-independence-day-us-mint",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-29T20:56:49.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP23296692274768-e1782759289899.jpg?w=696",
+          "description": "To commemorate America’s 250th birthday, the U.S. Mint is releasing a limited-edition uncirculated set of coins right before Independence Day. The uncirculated coin set will be available for sale starting on Tuesday, June 30, at noon Eastern Time. Separately, last week the U.S. Mint announced the r…"
+        },
+        {
+          "title": "How America’s 250th Birthday Party Split Into 2 Rival Events—and Only One With Trump",
+          "url": "https://time.com/article/2026/06/29/america-250th-birthday-fourth-of-july-donald-trump-freedom-250",
+          "source": "TIME",
+          "published_at": "2026-06-29T11:00:00.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltabd8b1d11f87ad62/6a3ece67589a227389c0b3b4/GettyImages-2282650841.jpg?branch=production",
+          "description": "The two events celebrating America's 250th birthday are as different tonally as they are geographically."
+        }
+      ],
+      "summary": "Plans for the United States’ 250th birthday include July 4 events in New York City, such as a naval parade and a Blue Angels performance. The U.S. Mint is also set to release a commemorative uncirculated coin set."
     }
   ]
 }

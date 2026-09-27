@@ -1,999 +1,971 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-22T00:15:20.331Z",
+  "generated_at": "2026-09-27T13:56:09.052Z",
   "topics": [
     {
-      "id": "topic_f2870131184131de",
+      "id": "topic_b8f43cfe72c186c1",
+      "title": "Air France Flight Diverts to Canada Over Ebola Travel Restrictions",
+      "headline": "Air France flight diverted to Montreal over U.S. Ebola restrictions: 'SHOULD NOT HAVE BOARDED'",
       "label": [
-        "saudi",
-        "ronaldo",
-        "nassr",
-        "al nassr",
-        "title",
-        "league"
+        "diverted",
+        "ebola",
+        "flight",
+        "bound",
+        "canada",
+        "restrictions"
       ],
       "category": "new",
-      "theme": "theme_5dda5e9fed81babb",
+      "theme": "theme_8c7a86dd9904972c",
       "entities": [
-        "Cristiano Ronaldo FINALLY",
-        "Saudi Pro League",
-        "Al",
-        "Nassr",
-        "Cristiano Ronaldo"
+        "Air France",
+        "Montreal",
+        "Ebola",
+        "SHOULD NOT HAVE BOARDED",
+        "US"
       ],
-      "article_count": 8,
-      "source_count": 8,
+      "article_count": 21,
+      "source_count": 16,
       "articles": [
         {
-          "title": "Cristiano Ronaldo FINALLY wins the Saudi Pro League as family join Al-Nassr star on the pitch to celebrate long-awaited title",
-          "url": "https://www.dailymail.com/sport/football/article-15838533/cristiano-ronaldo-wins-saudi-pro-league-family-al-nassr-star-celebrations.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-21T21:38:20.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/21/22/108788593-0-image-a-64_1779398789803.jpg"
+          "title": "Air France flight diverted to Montreal over U.S. Ebola restrictions: 'SHOULD NOT HAVE BOARDED'",
+          "url": "https://torontosun.com/news/national/air-france-flight-diverted-montreal-ebola-restrictions",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-21T13:50:33.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/GettyImages-2274092237-e1779370547638.jpg?quality=100&strip=all",
+          "description": "The passenger 'was assessed by a quarantine officer, and flew back to Paris'"
         },
         {
-          "title": "Cristiano Ronaldo shines as Al Nassr claims 1st Saudi Pro League title in seven years",
-          "url": "https://www.legit.ng/sports/football/1711150-football-icon-cristiano-ronaldo-scores-brace-al-nassr-win-saudi-pro-league",
-          "source": "Legit.ng",
-          "published_at": "2026-05-21T21:31:30.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/d59c4e21875b830a.jpeg?v=1"
+          "title": "US-bound flight diverted to Canada after person from Ebola-hit region boarded plane",
+          "url": "https://www.indiatoday.in/world/story/us-bound-flight-diverted-canada-after-passenger-from-ebola-hit-region-boarded-plane-2915225-2026-05-22",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-21T19:52:35.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/air-france-214409924-16x9_0.jpg?VersionId=ZS..85lEeCvBsusR47EQtrKZvbrAQX4f",
+          "description": "USbound flight diverted to Canada after person from Ebolahit region boarded plane"
         },
         {
-          "title": "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
-          "url": "https://www.bbc.com/news/articles/c232g9lpdpgo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-21T21:25:04.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f9/live/e3510710-5557-11f1-b427-e5f9d829c03e.jpg"
-        },
-        {
-          "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-          "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-21T21:02:16.000Z"
-        },
-        {
-          "title": "Ronaldo wins first Saudi title as Al Nassr clinch",
-          "url": "https://www.espn.com/soccer/story/_/id/48635460/cristiano-ronaldo-first-saudi-title-al-nassr-clinch-league",
-          "source": "www.espn.com - SOCCER",
-          "published_at": "2026-05-21T20:58:17.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_76cb5161795815f1",
-      "label": [
-        "vene",
-        "hinrichtung",
-        "abgebrochen",
-        "vene nicht",
-        "nicht gefunden",
-        "gefunden"
-      ],
-      "category": "new",
-      "theme": "theme_f81bec0d04f3f585",
-      "entities": [
-        "US",
-        "Bundesstaat Tennessee",
-        "Vene",
-        "Hinrichtung",
-        "Sekunde"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "US-Bundesstaat Tennessee: Vene nicht gefunden – Hinrichtung in letzter Sekunde abgebrochen",
-          "url": "https://www.spiegel.de/panorama/justiz/us-bundesstaat-tennessee-vene-nicht-gefunden-hinrichtung-in-letzter-sekunde-abgebrochen-a-48e2c354-e14f-48a5-88a3-63f659013be9",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-05-21T22:24:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/37c20d57-bb9a-4b56-bb39-987dbc070ce2_w520_r2.08_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "Todesstrafe in den USA: Hinrichtung in Tennessee abgebrochen – Vene nicht gefunden",
-          "url": "https://www.morgenpost.de/panorama/article412065554/todesstrafe-in-den-usa-hinrichtung-in-tennessee-abgebrochen-das-war-der-grund.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-05-21T20:17:24.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412065553/412065553_1779394647_v16_9_600.jpeg"
-        },
-        {
-          "title": "Todesstrafe: Vene nicht gefunden: Hinrichtung in Tennessee abgebrochen",
-          "url": "https://www.zeit.de/news/2026-05/21/vene-nicht-gefunden-hinrichtung-in-tennessee-abgebrochen",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-05-21T20:05:15.000Z",
-          "image": "https://img.zeit.de/news/2026-05/21/vene-nicht-gefunden-hinrichtung-in-tennessee-abgebrochen-image-group/original__640x360"
-        }
-      ]
-    },
-    {
-      "id": "topic_5e4ab5ec7bbfda02",
-      "label": [
-        "meta settl",
-        "settl",
-        "meta",
-        "social media",
-        "school",
-        "social"
-      ],
-      "category": "new",
-      "theme": "theme_c397c279f83dac3c",
-      "entities": [
-        "Meta",
-        "The Guardian",
-        "Meta Settles Lawsuit That",
-        "Claimed Social Media Addiction",
-        "Screwed Up Schools"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Meta settles major social media addiction lawsuit with school district",
-          "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
-          "source": "The Guardian",
-          "published_at": "2026-05-21T21:43:13.000Z",
-          "image": "https://i.guim.co.uk/img/media/129e1ad16a1cd295e6d6c7f8993344d30cbfd2f2/3_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c766667ad69294ae27b6d7a417720370"
-        },
-        {
-          "title": "Meta settles major social media addiction lawsuit with school district - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqtenzsuzhyxgwuhnocgjav1atwwhuyty0ze5meu1hem1ntdzun0fnmvd2shzmnwdhswjhadf5n3p2c1zouvlfcepnqvhyu1pitfdpcg1tzwfhemfon2t6umrmbdlflvhnq0jgd1pnqlvcmvd1rjvdveq3xy15zxmxdmhnsmtgrezkmgxbunywunh0ac1csnfpuhplna",
+          "title": "U.S.-Bound Flight Diverted to Canada Because of Ebola Restrictions",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxnnmxsq1pzrc1ebktmmuznb0zqme5msfc4yjvfrwtvnwn6nnbqati4ymdybgi4dhjyv18tutfstgi4rlg5agnzaddkz29kwnh4z1bunfzmamjjtexmak1elwj2anc5dutzcupzrnniogtwteridgi5uxyyz1vfc3p0u3pb",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-21T21:43:00.000Z"
+          "published_at": "2026-05-21T11:58:08.000Z",
+          "description": "U.S.-Bound Flight Diverted to Canada Because of Ebola Restrictions The New York Times Air France flight bound for Detroit diverted to Canada over passenger from Congo, officials say CBS News Morning 4: Flight to Detroit diverted to Canada due to Ebola concerns -- and more news ClickOnDetroit | WDIV…"
         },
         {
-          "title": "Meta Settles Lawsuit That Claimed Social Media Addiction Screwed Up Schools",
-          "url": "https://gizmodo.com/meta-settles-lawsuit-that-claimed-social-media-addiction-screwed-up-schools-2000762184",
-          "source": "Gizmodo",
-          "published_at": "2026-05-21T21:35:16.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/GettyImages-2267933314-1280x853.jpg"
-        },
-        {
-          "title": "Meta settles social media addiction case with US school district",
-          "url": "https://www.bbc.com/news/articles/cgepze483pqo",
-          "source": "BBC News",
-          "published_at": "2026-05-21T20:34:59.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dae/live/cf277fa0-5546-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Meta Settles a School District’s Social Media Addiction Lawsuit",
-          "url": "https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html",
-          "source": "NYT > Technology",
-          "published_at": "2026-05-21T20:21:01.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/21/multimedia/HFO-SOCIALMEDIA-SETTLEMENT-1-tflw/HFO-SOCIALMEDIA-SETTLEMENT-1-tflw-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1627c93b13ee0da9",
-      "label": [
-        "executive order",
-        "executive",
-        "ai executive",
-        "order",
-        "ai",
-        "trump"
-      ],
-      "category": "new",
-      "theme": "theme_6dbc475587113d59",
-      "entities": [
-        "Why Trump",
-        "AI",
-        "Trump Calls Off AI",
-        "Executive Order Over Concern",
-        "It Could Weaken US"
-      ],
-      "article_count": 10,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Why Trump's AI executive order was pulled",
-          "url": "https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why",
-          "source": "Axios",
-          "published_at": "2026-05-21T23:13:50.000Z",
-          "image": "https://images.axios.com/fEUlc5SZWMqIxxWq2XUQa-pUIUQ=/0x0:1920x1080/1366x768/2026/03/20/1774033685539.jpeg"
-        },
-        {
-          "title": "Trump Calls Off AI Executive Order Over Concern It Could Weaken US Tech Edge",
-          "url": "https://yro.slashdot.org/story/26/05/21/2034246/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge",
-          "source": "Slashdot",
-          "published_at": "2026-05-21T21:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        },
-        {
-          "title": "Trump scraps signing AI executive order to keep ‘lead’ over China in industry",
-          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3354431/trump-scraps-signing-ai-executive-order-keep-lead-over-china-industry",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-21T19:47:03.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/22/626f88be-bdcd-45d4-a89a-8a34b79025be_519d81fd.jpg?itok=bHzUwf8V&v=1779393280"
-        },
-        {
-          "title": "Californias Gavin Newsom tries to save workers from AI with executive order",
-          "url": "https://mashable.com/tech/newsom-ai-jobs-executive-order",
-          "source": "Mashable",
-          "published_at": "2026-05-21T19:13:34.000Z"
-        },
-        {
-          "title": "Trump postpones executive order focused on AI security",
-          "url": "https://cyberscoop.com/trump-postpones-executive-order-focused-on-ai-security",
-          "source": "CyberScoop",
-          "published_at": "2026-05-21T18:37:01.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_189521436ef32353",
-      "label": [
-        "odyssey",
-        "cast",
-        "respond",
-        "lupita",
-        "nyong",
-        "lupita nyong"
-      ],
-      "category": "new",
-      "theme": "theme_87cdb470bfcfead2",
-      "entities": [
-        "Lupita Nyong",
-        "Says She",
-        "Not Spending My Time",
-        "Dignifying",
-        "The Odyssey"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Lupita Nyong’o Says She’s “Not Spending My Time” Dignifying ‘The Odyssey’ Racist Casting Criticisms",
-          "url": "https://deadline.com/2026/05/lupita-nyongo-not-spending-time-odyssey-racist-criticisms-1236918402",
-          "source": "Deadline",
-          "published_at": "2026-05-21T22:17:10.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2249412756.jpg"
-        },
-        {
-          "title": "‘This Is a Mythological Story’: The Odyssey Star Responds to Casting Backlash",
-          "url": "https://www.comingsoon.net/movies/news/2136949-this-is-a-mythological-story-the-odyssey-star-responds-to-casting-backlash",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-21T20:15:57.000Z"
-        },
-        {
-          "title": "‘The Odyssey’ Star Lupita Nyong’o Responds to Racist Casting Backlash: ‘This Is a Mythological Story’",
-          "url": "https://variety.com/2026/film/news/odyssey-lupita-nyongo-racist-casting-backlash-1236756272",
-          "source": "Variety",
-          "published_at": "2026-05-21T20:08:08.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2246451289.jpg"
-        },
-        {
-          "title": "Lupita Nyong’o Responds to Backlash Over Helen of Troy Casting in The Odyssey",
-          "url": "https://www.ign.com/articles/lupita-nyongo-responds-odyssey-casting-backlash",
-          "source": "IGN Articles",
-          "published_at": "2026-05-21T20:07:36.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/05/12/lupita-bp2-thumb2-1778616230511.jpg"
-        },
-        {
-          "title": "Lupita Nyong’o responds to rightwing criticism of The Odyssey: ‘Our cast is representative of the world’ - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxquhzwbk0zdndzx3brt25uae04r0o2ti1yx3zvsk5uc2lytzh1rzv4mhpuuzzib1jnvuh6d0ltrc1yme5lwg55rupvtmdqr2dkukfvcgfvndgxvhm1wfhyeethqu8zz2tovjrsnznunhjlwtnqcge3werwwg1oeg5gsxdcrdhctm15wnpdlvfpugtwvjdndu0wuk1hzw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-21T19:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_a15c7cbba0df3b4b",
-      "label": [
-        "world cup",
-        "50 world",
-        "world",
-        "cup",
-        "ticket",
-        "cup ticket"
-      ],
-      "category": "new",
-      "theme": "theme_7fc00ef594b9fe69",
-      "entities": [
-        "NYC",
-        "World Cup",
-        "Mamdani",
-        "Score Big",
-        "Mamdani Offers New Yorkers"
-      ],
-      "article_count": 11,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "NYC launches lottery for $50 World Cup football tickets",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-21T20:40:14.000Z"
-        },
-        {
-          "title": "Mamdani’s campaign for cheap World Cup tickets delivers 1,000 for city of 8 million",
-          "url": "https://fortune.com/2026/05/21/mamdanis-campaign-for-cheap-world-cup-tickets-delivers-1000-for-city-of-8-million",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-05-21T19:18:48.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26141573572759-e1779391117961.jpg?w=2048"
-        },
-        {
-          "title": "Score Big: Mamdani Offers New Yorkers Exclusive $50 World Cup Tickets",
-          "url": "https://internewscast.com/news/us/score-big-mamdani-offers-new-yorkers-exclusive-50-world-cup-tickets",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-21T18:43:32.000Z"
-        },
-        {
-          "title": "$50 World Cup tickets will be available for NYC residents through lottery - CBS News",
-          "url": "https://news.google.com/rss/articles/cbmiiwfbvv95cuxqnzi5emdssjjlaunonzc5ohhir1fzq3pzqtnir2dotefpb0dnt2rpmllplxj2ugkzogjwdxg2bgvaohpnandsc3qxam1rtkvudtniltzpn29mrmfoowzezwvjtxn5wwngeuvfwfktd1huckzsegnztgswmeytrkltzs1vvfq0yvvrs2ow",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-21T18:38:04.000Z"
-        },
-        {
-          "title": "Mamdani announces 1,000 $50 World Cup tickets for New Yorkers",
-          "url": "https://nypost.com/2026/05/21/us-news/mamdani-announces-1000-50-world-cup-tickets-for-new-yorkers",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-21T18:36:36.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fcomp-screenshot_2026-05-21_at_11.33.48___am.jpg?quality%3D90%26strip%3Dall"
-        }
-      ]
-    },
-    {
-      "id": "topic_a92635e137c03b85",
-      "label": [
-        "activist",
-        "arrive turkey",
-        "arrive",
-        "turkey",
-        "gaza flotilla",
-        "israel"
-      ],
-      "category": "new",
-      "theme": "theme_fe11fffbc4801594",
-      "entities": [
-        "Aussie",
-        "Israel",
-        "Turkey",
-        "First Gaza",
-        "Gaza"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Aussie activists detained by Israel arrive in Turkey",
-          "url": "https://www.perthnow.com.au/news/politics/aussie-activists-detained-by-israel-arrive-in-turkey-c-22321082",
-          "source": "PerthNow",
-          "published_at": "2026-05-21T23:04:22.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22321082/1be4d90e06211942f8567e0eeeec52eea4a02fb0-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Aussie activists detained by Israel arrive in Turkey",
-          "url": "https://michaelwest.com.au/aussie-activists-detained-by-israel-arrive-in-turkey",
-          "source": "Michael West",
-          "published_at": "2026-05-21T23:03:02.000Z",
-          "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/b1fe60ee-aac1-486f-9863-dc2f33f33697.jpg"
-        },
-        {
-          "title": "First Gaza flotilla activists arrive in Turkey after Israel deportation",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3354436/first-gaza-flotilla-activists-arrive-turkey-after-israel-deportation",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-21T22:30:01.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/22/b86218a9-c10b-4df7-bfda-5e1b4d21118e_51a32a54.jpg?itok=QOR3-oIH&v=1779402180"
-        },
-        {
-          "title": "Gaza flotilla activists allege abuse in Israeli detention",
-          "url": "https://www.nbcnews.com/video/gaza-flotilla-activists-allege-abuse-in-israeli-detention-263751749766",
+          "title": "U.S.-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak",
+          "url": "https://www.nbcnews.com/news/us-news/detroit-bound-flight-diverted-canada-passenger-congo-error-ebola-rcna346245",
           "source": "NBC News World News",
-          "published_at": "2026-05-21T22:22:50.000Z",
-          "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/f_tov_lon_activistsallegations_260521/1/abs/index.m3u8"
+          "published_at": "2026-05-21T04:40:10.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260520-air-france-airplane-ebola-vsb-2345-4ce907.jpg",
+          "description": "An Air France flight bound for Detroit was redirected to Canada after a passenger from Congo boarded “in error” amid the Ebola outbreak in central Africa, officials said."
         },
         {
-          "title": "Treatment of Gaza flotilla activists 'outrageous', says UN spokesperson. #BBCNews",
-          "url": "https://www.youtube.com/shorts/zs1H8XAw67M",
+          "title": "US-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'",
+          "url": "https://www.bbc.com/news/articles/c0m2k79mv2ko",
           "source": "BBC News",
-          "published_at": "2026-05-21T19:00:12.000Z",
-          "image": "https://i3.ytimg.com/vi/zs1H8XAw67M/hqdefault.jpg"
+          "published_at": "2026-05-21T13:44:54.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda4/live/a9f48630-5508-11f1-b61b-7bb15f916dcd.jpg",
+          "description": "Officials did not specify if the passenger, who was coming from the Democratic Republic of Congo, was showing symptoms of the virus."
         }
-      ]
+      ],
+      "summary": "An Air France flight bound for Detroit diverted to Montreal after a passenger from the Democratic Republic of Congo boarded in error amid Ebola-related restrictions. Officials said the passenger was assessed by a quarantine officer and later flew back to Paris."
     },
     {
-      "id": "topic_f2d8e74926f9a800",
+      "id": "topic_ebdbb0993ac531d1",
+      "title": "Two-Time NASCAR Champion Kyle Busch Dies at 41",
+      "headline": "Nascar champion Kyle Busch dies aged 41",
       "label": [
-        "andrew",
-        "become trade",
-        "trade envoy",
-        "become",
-        "envoy",
-        "ex prince"
+        "busch",
+        "nascar",
+        "kyle",
+        "dies",
+        "champion",
+        "illness"
       ],
       "category": "new",
-      "theme": "theme_6f96dc4767dc207f",
+      "theme": "theme_36605106a75a5384",
       "entities": [
-        "Andrew",
-        "Queen",
-        "Documents Uncover Queen",
-        "Involvement",
-        "Ex"
+        "Nascar",
+        "Kyle Busch",
+        "NASCAR",
+        "NASCAR Cup Series",
+        "Two"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 52,
+      "source_count": 21,
       "articles": [
         {
-          "title": "No evidence Andrew vetted to become trade envoy: files",
-          "url": "https://www.perthnow.com.au/news/human-interest/no-evidence-andrew-vetted-to-become-trade-envoy-files-c-22320875",
+          "title": "Nascar champion Kyle Busch dies aged 41",
+          "url": "https://sports.yahoo.com/articles/nascar-champion-kyle-busch-dies-225454663.html",
+          "published_at": "2026-05-21T22:54:54.000Z",
+          "description": "Busch's representatives had said earlier on Thursday that he had been sent to hospital with a severe illness."
+        },
+        {
+          "title": "Kyle Busch, two-time Nascar champion, dies aged 41",
+          "url": "https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-21T22:17:34.000Z",
+          "image": "https://i.guim.co.uk/img/media/6a7120838158f8791e312fce00471991b17e0a4d/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=b52271329bfca7dddb31eb8a1176027c",
+          "description": "Nascar says it is ‘heartbroken’ to share news of Busch’s death after he was hospitalized with a severe illness Two-time Nascar Cup Series champion Kyle Busch has died at 41 after being hospitalized with a severe illness, Nascar said in a Thursday statement. “We are saddened and heartbroken to share…"
+        },
+        {
+          "title": "NASCAR legend Kyle Busch dead at 41... just hours after he was hospitalized with 'serious illness'",
+          "url": "https://www.dailymail.com/sport/othersports/article-15839221/kyle-busch-nascar-death.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-21T23:54:25.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/21/23/108789243-0-image-a-21_1779401761595.jpg",
+          "description": "The Las Vegas native, who competed in more than 760 races during a storied 24-year career, is survived by his wife, Samantha, and their two children, Brexton, 11, and Lennix, four."
+        },
+        {
+          "title": "Kyle Busch cause of death: New details emerge after NASCAR legend’s tragic passing",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/kyle-busch-cause-of-death-new-details-emerge-after-nascar-legends-tragic-passing/articleshow/131254303.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-21T23:46:44.000Z",
+          "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+          "description": "Kyle Busch died at age 41 after suffering what his team described as a severe illness. The NASCAR star had withdrawn from the Coca-Cola 600 weekend earlier in the day due to hospitalization. NASCAR called Busch “a once-in-a-generation talent” while honoring his impact on the sport and fans. Busch w…"
+        },
+        {
+          "title": "NASCAR Mourns the Loss of Two-Time Champion Kyle Busch at 41 After Illness",
+          "url": "https://internewscast.com/news/us/nascar-mourns-the-loss-of-two-time-champion-kyle-busch-at-41-after-illness",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-21T23:04:14.000Z",
+          "description": "Internewscast Journal Internewscast Kyle Busch, the celebrated double champion of the NASCAR Cup Series, passed… This Post: NASCAR Mourns the Loss of Two-Time Champion Kyle Busch at 41 After Illness first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Kyle Busch, a two-time NASCAR Cup Series champion, has died at 41 after being hospitalized with a severe illness. He had withdrawn from a race weekend earlier that day."
+    },
+    {
+      "id": "topic_4c36960b68d612fd",
+      "title": "Air France and Airbus Found Guilty Over 2009 Crash",
+      "headline": "Airbus, Air France guilty of manslaughter in 2009 crash",
+      "label": [
+        "guilty",
+        "airbus",
+        "air",
+        "france",
+        "crash",
+        "manslaughter"
+      ],
+      "category": "new",
+      "theme": "theme_78f8e1c112a034c7",
+      "entities": [
+        "Airbus",
+        "Air France",
+        "Airbus Found Guilty Of",
+        "Manslaughter In",
+        "Crash That Killed"
+      ],
+      "article_count": 24,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "Airbus, Air France guilty of manslaughter in 2009 crash",
+          "url": "https://www.perthnow.com.au/news/crime/airbus-air-france-guilty-of-manslaughter-in-2009-crash-c-22320116",
           "source": "PerthNow",
-          "published_at": "2026-05-21T21:59:58.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22320875/edfc1f5da1b0ff54d8af9431ba796cae49bff74e-16x9-x0y0w1280h720.jpg"
+          "published_at": "2026-05-21T14:58:42.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22320116/60256f6382d361bf741582348d02d990e9b5d034-16x9-x0y0w1280h720.jpg",
+          "description": "Air France and manufacturer Airbus have been found guilty of manslaughter in an appeal case regarding the 2009 crash of a Rio de Janeiro to Paris flight."
+        },
+        {
+          "title": "Air France, Airbus Found Guilty Of Manslaughter In 2009 Crash That Killed 228",
+          "url": "https://www.ndtv.com/world-news/air-france-airbus-found-guilty-of-manslaughter-in-2009-crash-that-killed-228-11528551",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-21T12:54:19.000Z",
+          "image": "https://i.ndtvimg.com/i/2016-04/air-france_650x400_61460913732.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "The Paris Court of Appeal ruled that the French flag carrier and Europe's leading aerospace manufacturer were \"solely and entirely responsible,\" ordering each to pay 225,000 euros ($261,000)."
+        },
+        {
+          "title": "French court finds Airbus, Air France guilty of manslaughter in 2009 crash",
+          "url": "https://www.aljazeera.com/news/2026/5/21/french-court-finds-airbus-air-france-guilty-of-manslaughter-in-2009-crash",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-21T15:01:57.000Z",
+          "description": "Airbus says it plans to appeal the ruling, which overturned 2023 acquittal of both companies."
+        },
+        {
+          "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+          "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+          "source": "BBC News",
+          "published_at": "2026-05-21T13:07:02.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
+          "description": "The companies were found guilty by a French court over an air disaster which killed 228 people."
+        },
+        {
+          "title": "French court finds Air France, Airbus guilty of manslaughter over 2009 plane crash",
+          "url": "https://www.indiatoday.in/world/story/french-court-finds-air-france-airbus-guilty-of-manslaughter-over-2009-plane-crash-2915116-2026-05-21",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-21T13:09:39.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/2009-rio-paris-crash-210855129-16x9_0.png?VersionId=J_nnpcVtljtnWkpr0Kqn9QjAoGvL0HJp",
+          "description": "French court finds Air France Airbus guilty of manslaughter over plane crash"
+        }
+      ],
+      "summary": "A French appeals court found Air France and Airbus guilty of manslaughter over the 2009 crash that killed 228 people. The ruling overturned their 2023 acquittals; Airbus said it plans to appeal."
+    },
+    {
+      "id": "topic_73e9afc049af8396",
+      "title": "Documents Show Queen Elizabeth Backed Andrew as Trade Envoy",
+      "headline": "Queen was 'very keen' for Andrew to become trade envoy",
+      "label": [
+        "envoy",
+        "andrew",
+        "queen",
+        "trade",
+        "become",
+        "keen"
+      ],
+      "category": "new",
+      "theme": "theme_e96df18eae48d0d1",
+      "entities": [
+        "Queen",
+        "Andrew",
+        "Documents Show Queen Elizabeth",
+        "Very Keen",
+        "For Ex"
+      ],
+      "article_count": 15,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Queen was 'very keen' for Andrew to become trade envoy",
+          "url": "https://www.perthnow.com.au/news/crime/queen-was-very-keen-for-andrew-to-become-trade-envoy-c-22319851",
+          "source": "PerthNow",
+          "published_at": "2026-05-21T11:03:06.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22319851/5c5ee096f90bca3db22ccf26903812d93051ab32-16x9-x0y0w1280h720.jpg",
+          "description": "The UK government has released documents on ‌the hiring of former prince Andrew as a trade envoy, saying ‌it found no evidence of proper vetting for the role."
+        },
+        {
+          "title": "Documents Show Queen Elizabeth Was 'Very Keen' For Ex-Prince Andrew To Become Trade Envoy",
+          "url": "https://www.huffpost.com/entry/queen-elizabeth-prince-andrew-trade-envoy_n_6a0efc31e4b0bb04cec3bbc3",
+          "source": "World News",
+          "published_at": "2026-05-21T13:08:16.000Z",
+          "description": "Mountbatten-Windsor was stripped of his royal title last year."
+        },
+        {
+          "title": "Documents show Queen Elizabeth was eager for ex-Prince Andrew to become trade envoy",
+          "url": "https://www.seattletimes.com/entertainment/documents-show-queen-elizabeth-was-eager-for-ex-prince-andrew-to-become-trade-envoy",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-21T10:19:04.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org467d4aeecfeb36e65ee5f0db16645b6aBritain_Andrew_164_6.jpg?d=1200x630",
+          "description": "Documents reveal Queen Elizabeth II was eager for then-Prince Andrew to become the U.K. trade envoy."
         },
         {
           "title": "Queen was eager for ex-prince Andrew to become trade envoy",
           "url": "https://www.brisbanetimes.com.au/world/queen-was-eager-for-ex-prince-andrew-to-become-trade-envoy-20260522-p5zzo1.html",
           "source": "Brisbane Times - Latest News",
           "published_at": "2026-05-21T19:56:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/118d0a48585d118de8278796a10e2fb7fc873165"
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/118d0a48585d118de8278796a10e2fb7fc873165",
+          "description": "The late Queen Elizabeth II was \"very keen\" for former prince Andrew to be named Britain's trade envoy in 2001, according to newly-released documents."
         },
         {
-          "title": "Queen was eager for ex-prince Andrew to become trade envoy",
-          "url": "https://www.theage.com.au/world/queen-was-eager-for-ex-prince-andrew-to-become-trade-envoy-20260522-p5zzo1.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-21T19:56:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/118d0a48585d118de8278796a10e2fb7fc873165"
-        },
-        {
-          "title": "Queen was eager for ex-prince Andrew to become trade envoy",
-          "url": "https://www.smh.com.au/world/queen-was-eager-for-ex-prince-andrew-to-become-trade-envoy-20260522-p5zzo1.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-21T19:56:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/118d0a48585d118de8278796a10e2fb7fc873165"
-        },
-        {
-          "title": "Documents Uncover Queen’s Involvement in Ex-Prince Andrew’s Controversial Role",
-          "url": "https://internewscast.com/news/au/documents-uncover-queens-involvement-in-ex-prince-andrews-controversial-role",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-21T19:11:31.000Z"
+          "title": "Late Queen was 'very keen' for Andrew to be given trade envoy role",
+          "url": "https://www.bbc.com/news/articles/cm2pjg397l2o",
+          "source": "BBC News",
+          "published_at": "2026-05-21T13:47:10.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0460/live/5aa362c0-5514-11f1-9e5e-fb37d8c40e64.jpg",
+          "description": "Newly released documents show that Queen Elizabeth had a \"wish\" for her son Andrew Mountbatten-Windsor to take on a \"prominent role\"."
         }
-      ]
+      ],
+      "summary": "Newly released UK government documents say Queen Elizabeth was keen for her son Andrew to become a trade envoy in 2001. The government found no evidence of proper vetting for the role."
     },
     {
-      "id": "topic_bba7355806cfc08a",
+      "id": "topic_f8f3f330d470e8e6",
+      "title": "Iran Says Enriched Uranium Must Remain in the Country",
+      "headline": "Where is Iran’s supreme leader?",
       "label": [
-        "charg murder",
-        "balcony",
-        "murder",
-        "charg",
-        "three people",
-        "people charg"
-      ],
-      "category": "new",
-      "theme": "theme_5003a3ae80229808",
-      "entities": [
-        "Castle Hill",
-        "Trio",
-        "Three",
-        "Sydney"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Castle Hill: Trio charged with murder after man plunged 15 metres from a fourth-storey balcony",
-          "url": "https://www.dailymail.com/news/article-15839157/trio-murder-castle-hill-balcony.html",
-          "source": "News | Mail Online",
-          "published_at": "2026-05-21T23:05:21.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/21/23/108789121-0-image-a-28_1779401195375.jpg"
-        },
-        {
-          "title": "Three charged with murder after man plunges to death from balcony in Sydney",
-          "url": "https://www.perthnow.com.au/news/three-charged-with-murder-after-man-plunges-to-death-from-balcony-in-sydney-c-22320655",
-          "source": "PerthNow",
-          "published_at": "2026-05-21T21:29:49.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22320655/213e8862357b4ca69053f54c6f238d407505ba44-16x9-x0y296w768h432.jpg"
-        },
-        {
-          "title": "Three people charged with murder over fatal balcony fall",
-          "url": "https://www.smh.com.au/national/three-people-charged-with-murder-over-fatal-balcony-fall-20260522-p5zzny.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-21T19:51:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0f86922cff03755a8a6efdeeef0fdca289fde465"
-        },
-        {
-          "title": "Three people charged with murder over fatal balcony fall",
-          "url": "https://www.brisbanetimes.com.au/national/three-people-charged-with-murder-over-fatal-balcony-fall-20260522-p5zzny.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-21T19:51:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0f86922cff03755a8a6efdeeef0fdca289fde465"
-        },
-        {
-          "title": "Three people charged with murder over fatal balcony fall",
-          "url": "https://www.theage.com.au/national/three-people-charged-with-murder-over-fatal-balcony-fall-20260522-p5zzny.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-21T19:51:09.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0f86922cff03755a8a6efdeeef0fdca289fde465"
-        }
-      ]
-    },
-    {
-      "id": "topic_57e93f7c48961ed2",
-      "label": [
-        "destiny",
-        "development",
-        "bungie",
-        "active development",
-        "active",
-        "end"
-      ],
-      "category": "new",
-      "theme": "theme_7f48341dfe7906e7",
-      "entities": [
-        "Destiny",
-        "Fans React",
-        "Bungie Ending Support",
-        "Game",
-        "June"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Destiny 2 Fans React to Bungie Ending Support for the Game",
-          "url": "https://www.ign.com/articles/destiny-2-fans-react-to-bungie-ending-support-for-the-game",
-          "source": "IGN Articles",
-          "published_at": "2026-05-21T22:39:38.000Z",
-          "image": "https://assets-prd.ignimgs.com/2024/04/10/destiny2-thefinalshape-blogroll-1712728763933.jpg"
-        },
-        {
-          "title": "Destiny 2's active development will end in June",
-          "url": "https://www.gamedeveloper.com/business/destiny-2-s-active-development-will-end-in-june",
-          "source": "gamedeveloper",
-          "published_at": "2026-05-21T19:43:45.000Z",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd4851d123606041b/6a0f61751eb2e131f9dcb4a4/MOT_Key_Art_1920x1080.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-        },
-        {
-          "title": "Bungie will end active development of Destiny 2 on June 9",
-          "url": "https://www.engadget.com/2178883/bungie-will-end-active-development-of-destiny-2-on-june-9",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-21T19:21:38.000Z",
-          "image": "https://www.engadget.com/img/gallery/destiny-2-is-ending-active-development-on-june-9/l-intro-1779391188.jpg"
-        },
-        {
-          "title": "Destiny 2 to get final live-service update as Bungie ends development",
-          "url": "https://www.polygon.com/destiny-2-ending-live-service",
-          "source": "Polygon.com",
-          "published_at": "2026-05-21T18:30:00.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/destiny-2-forsaken.avif"
-        },
-        {
-          "title": "Destiny 2 Is Getting Its Final Content Update Next Month As Bungie Ends Active Development",
-          "url": "https://gameinformer.com/2026/05/21/destiny-2-is-getting-its-final-content-update-next-month-as-bungie-ends-active",
-          "source": "Game Informer",
-          "published_at": "2026-05-21T18:19:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/05/21/a234bb7b/Destiny%202_MOT_Key_Art.jpg.webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_1f9e14110b4f9cb0",
-      "label": [
-        "seguridad",
-        "sheinbaum",
-        "de seguridad",
-        "de",
-        "seguridad de",
-        "se re"
-      ],
-      "category": "new",
-      "theme": "theme_c07ebedbd51afb7c",
-      "entities": [
-        "Sheinbaum",
-        "Seguridad",
-        "EUA",
-        "EU",
-        "Markwayne Mullin"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Sheinbaum recibe a funcionario de Seguridad de EUA",
-          "url": "https://8columnas.com.mx/nacional/sheinbaum-recibe-a-funcionario-de-seguridad-de-eua",
-          "source": "8 Columnas",
-          "published_at": "2026-05-21T22:13:42.000Z"
-        },
-        {
-          "title": "Sheinbaum se reúne con el secretario de Seguridad de EU; reforzarán coordinación bilateral",
-          "url": "https://www.informador.mx/mexico/sheinbaum-se-reune-con-el-secretario-de-seguridad-de-eu-markwayne-mullin-en-palacio-nacional-abordan-seguridad-migracion-y-cooperacion-bilateral-20260521-0140.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-21T22:08:00.000Z"
-        },
-        {
-          "title": "Sheinbaum se reúne con Markwayne Mullin y acuerdan colaboración en seguridad ‘con respeto’",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/05/21/sheinbaum-se-reune-con-markwayne-mullin-y-acuerdan-colaboracion-en-seguridad-con-respeto",
-          "source": "El Financiero",
-          "published_at": "2026-05-21T21:46:27.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/HTFbJoeSAUHTvIxO2BqkBFaFud4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/22WL2OT5QVD3DGH64TIR7LWJBM.jpg"
-        },
-        {
-          "title": "Sheinbaum se reúne en México con Markwyane Mullin, secretario de Seguridad Nacional de EU",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/sheinbaum-se-reune-en-mexico-con-markwyane-mullin-secretario-de-seguridad-nacional-de-eu.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-05-21T21:04:02.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2013080.jpeg"
-        },
-        {
-          "title": "Se reúne Sheinbaum con Secretario de Seguridad de Estados Unidos",
-          "url": "https://vanguardia.com.mx/noticias/se-reune-sheinbaum-con-secretario-de-seguridad-de-estados-unidos-op20852509",
-          "source": "Vanguardia",
-          "published_at": "2026-05-21T19:31:29.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1082903-sheinbaum-conferencia-matuti_1-15502277_20260521193121.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b7acbdd6de5f6328",
-      "label": [
-        "treatment centre",
-        "centre",
-        "treatment",
-        "ebola treatment",
-        "ebola",
-        "centre burn"
-      ],
-      "category": "new",
-      "theme": "theme_d340bbba24e2c9d2",
-      "entities": [
-        "Ebola",
-        "DR Congo",
-        "African",
-        "Ituri"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Ebola treatment centre in DR Congo burnt down as anger grows",
-          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260521-ebola-treatment-centre-in-dr-congo-burnt-down-as-anger-grows",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-21T20:52:46.000Z",
-          "image": "https://s.france24.com/media/display/a556fdf2-5552-11f1-b370-005056bfb2b6/w:1024/p:16x9/DN194648-A-01-20260511-01.jpg"
-        },
-        {
-          "title": "Ebola treatment centre burned down in African nation",
-          "url": "https://www.brisbanetimes.com.au/world/ebola-treatment-centre-burned-down-in-african-nation-20260522-p5zzo0.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-21T19:55:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1feaba5edc6807ef9a720ced7070fdfb100360d7"
-        },
-        {
-          "title": "Ebola treatment centre burned down in African nation",
-          "url": "https://www.smh.com.au/world/ebola-treatment-centre-burned-down-in-african-nation-20260522-p5zzo0.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-21T19:55:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1feaba5edc6807ef9a720ced7070fdfb100360d7"
-        },
-        {
-          "title": "Ebola treatment centre burned down in African nation",
-          "url": "https://www.theage.com.au/world/ebola-treatment-centre-burned-down-in-african-nation-20260522-p5zzo0.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-21T19:55:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1feaba5edc6807ef9a720ced7070fdfb100360d7"
-        },
-        {
-          "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
-          "url": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-21T19:46:37.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_1431abdd046a0e7f",
-      "label": [
-        "court review",
-        "epic",
-        "supreme court",
         "supreme",
-        "apple",
-        "review"
+        "leader",
+        "iran",
+        "uranium",
+        "enriched",
+        "must"
       ],
       "category": "new",
-      "theme": "theme_348d89883382b586",
+      "theme": "theme_cdfbb38a500037d9",
       "entities": [
-        "Apple",
-        "Supreme Court",
-        "Epic Games",
-        "Epic",
-        "US Supreme Court"
+        "Iran",
+        "Oil Prices Jump",
+        "Statement",
+        "Supreme Leader",
+        "Supreme Leader Says Enriched"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case",
-          "url": "https://www.reddit.com/r/apple/comments/1tjzbrk/apple_seeks_supreme_court_review_of_contempt",
-          "source": "r/Apple: Unofficial Apple Community",
-          "published_at": "2026-05-21T21:58:25.000Z",
-          "image": "https://external-preview.redd.it/RpOVLzYXtmc5YA1_zaoXLkPUbEeb7bTx7B1XS3nsCz8.jpeg?width=640&crop=smart&auto=webp&s=531f7ff2a63846bebd1ad074470730a19da445d2"
+          "title": "Where is Iran’s supreme leader?",
+          "url": "https://www.ft.com/content/4dfd947d-2c53-47a2-a7bd-78b5be493189",
+          "source": "International homepage",
+          "published_at": "2026-05-21T04:00:33.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc46cf67f-06bf-4bcc-8147-56d8b3b6a943.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Months into Mojtaba Khamenei’s absence, officials in the Islamic republic are crafting a narrative that he is well and in charge"
         },
         {
-          "title": "After failed delays, Apple files formal request with Supreme Court to review Epic case",
-          "url": "https://appleinsider.com/articles/26/05/21/after-failed-delays-apple-files-formal-request-with-supreme-court-to-review-epic-case",
-          "source": "AppleInsider News",
-          "published_at": "2026-05-21T21:56:46.000Z",
-          "image": "https://photos5.appleinsider.com/gallery/67709-142718-Apple-Park-night-xl.jpg"
+          "title": "Oil Prices Jump on Statement by Iran’s Supreme Leader",
+          "url": "https://politicalwire.com/2026/05/21/oil-prices-jump-after-statement-by-irans-supreme-leader",
+          "source": "Political Wire",
+          "published_at": "2026-05-21T13:20:26.000Z",
+          "description": "“Oil prices jumped Thursday on a report that Iran’s supreme leader will not allow the country’s enriched uranium to be shipped abroad, a position that will likely complicate peace talks with the U.S.,” CNBC reports."
         },
         {
-          "title": "Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case",
-          "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case",
-          "source": "9to5Mac",
-          "published_at": "2026-05-21T21:35:14.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600"
+          "title": "Supreme Leader Says Enriched Uranium Must Stay In Iran, Iranian Sources Say",
+          "url": "https://www.huffpost.com/entry/iran-enriched-uranium-stays-supreme-leader_n_6a0f28f7e4b0f1ba1f62d822",
+          "source": "World News",
+          "published_at": "2026-05-21T16:10:32.000Z",
+          "description": "Tehran is hardening its stance on one of the main U.S. demands."
         },
         {
-          "title": "Apple asks US Supreme Court to review contempt order in Epic Games lawsuit",
-          "url": "https://www.investing.com/news/stock-market-news/apple-asks-us-supreme-court-to-review-contempt-order-in-epic-games-lawsuit-4705473",
-          "source": "All News",
-          "published_at": "2026-05-21T21:07:01.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1TI_L.jpg"
+          "title": "Oil prices jump more than 2% after Iran supreme leader says uranium must remain in country",
+          "url": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-05-21T13:08:40.000Z",
+          "description": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S."
+        },
+        {
+          "title": "Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say (Reuters)",
+          "url": "https://www.memeorandum.com/260521/p112",
+          "source": "memeorandum",
+          "published_at": "2026-05-21T20:10:00.000Z",
+          "image": "http://www.memeorandum.com/260521/i112.jpg",
+          "description": "Reuters: Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say — Iran's Supreme Leader has issued a directive that the country's near-weapons-grade uranium should not be sent abroad, two senior Iranian sources said, hardening Tehran's stance on one of the main U.S.…"
         }
-      ]
+      ],
+      "summary": "Iran’s supreme leader has directed that the country’s enriched uranium remain in Iran, according to Iranian sources. The position is likely to complicate peace talks with the United States, and oil prices rose after the report."
     },
     {
-      "id": "topic_7967bb627cf9ce5d",
+      "id": "topic_4efd44c0f54f8e72",
+      "title": "US Plans $2 Billion Investment in Quantum Computing Firms",
+      "headline": "US to invest $2 billion in IBM, other quantum computing firms",
       "label": [
-        "airbu",
-        "air france",
-        "france",
-        "air",
-        "228",
-        "airbu air"
+        "quantum",
+        "computing",
+        "firms",
+        "invest",
+        "billion",
+        "ibm"
       ],
       "category": "new",
-      "theme": "theme_384c07ea15be86c7",
+      "theme": "theme_1ca76727adb76a66",
       "entities": [
-        "Airbus",
-        "Air France",
-        "Flugzeugabsturz",
-        "Atlantic"
+        "US",
+        "IBM",
+        "Reuters",
+        "Award Quantum Computing Firms",
+        "Billion"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 13,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Airbus, Air France found guilty of manslaughter over crash that killed 228 people",
-          "url": "https://www.theage.com.au/business/companies/airbus-air-france-found-guilty-of-manslaughter-over-crash-that-killed-228-people-20260522-p5zznn.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-21T20:15:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30222602739726023%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_jpg/9581206d9cd19717bdf70acf218a2dda9bf20b3b"
+          "title": "US to invest $2 billion in IBM, other quantum computing firms",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/us-award-2-billion-quantum-102758753.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-05-21T10:27:58.000Z",
+          "image": "https://media.zenfs.com/en/reuters-finance.com/0fddc0abd6bdbd8046072d37a408a1b3"
         },
         {
-          "title": "Airbus, Air France found guilty of manslaughter over crash that killed 228 people",
-          "url": "https://www.brisbanetimes.com.au/business/companies/airbus-air-france-found-guilty-of-manslaughter-over-crash-that-killed-228-people-20260522-p5zznn.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-21T20:15:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30222602739726023%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_jpg/9581206d9cd19717bdf70acf218a2dda9bf20b3b"
+          "title": "US to invest in IBM, other quantum computing firms",
+          "url": "https://www.itnews.com.au/news/us-to-invest-in-ibm-other-quantum-computing-firms-626057",
+          "source": "iTnews",
+          "published_at": "2026-05-21T20:15:00.000Z",
+          "description": "Looks for leadership in the emerging technology."
         },
         {
-          "title": "Airbus, Air France found guilty of manslaughter over crash that killed 228 people",
-          "url": "https://www.smh.com.au/business/companies/airbus-air-france-found-guilty-of-manslaughter-over-crash-that-killed-228-people-20260522-p5zznn.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-21T20:15:19.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30222602739726023%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_jpg/9581206d9cd19717bdf70acf218a2dda9bf20b3b"
+          "title": "US to invest $2 billion in IBM, other quantum computing firms",
+          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpovhyclhiyl9qu3vlmel5zjlmtvr3b2dbsedry1brs1nszfo4c3n0rxftshexr0fza1qycddbwhvtzdz3egdbzxf0zvpydkrxvfk5n2fzuzfhs2m0bndveuc3mgd5zwdytfuxqvpis2vpdnpsyk94vnq1mxvnmlk1aljvzfvpnm9veupmbnfgn3lwtm1nbzjvswp4mffstke0mlroowj3wxdhqw9cnk9ybdvvytvqowzvnee",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-21T13:36:08.000Z",
+          "description": "US to invest $2 billion in IBM, other quantum computing firms Reuters Exclusive | U.S. to Award Quantum-Computing Firms $2 Billion and Take Equity Stakes WSJ US awards IBM and other firms $2 billion to give America the edge in quantum computing CNN Quantum stocks soar as U.S. reportedly plans $2 bi…"
         },
         {
-          "title": "Airbus и Air France признали виновными в непредумышленном убийстве за авиакатастрофу 2009 года. В результате крушения самолета тогда погибли 228 человек",
-          "url": "https://meduza.io/news/2026/05/21/airbus-i-air-france-priznali-vinovnymi-v-nepredumyshlennom-ubiystve-za-aviakatastrofu-2009-goda-v-rezultate-krusheniya-samoleta-togda-pogibli-228-chelovek",
-          "source": "Meduza.io",
-          "published_at": "2026-05-21T19:48:17.000Z",
-          "image": "https://meduza.io/imgly/share/1779393603/news/2026/05/21/airbus-i-air-france-priznali-vinovnymi-v-nepredumyshlennom-ubiystve-za-aviakatastrofu-2009-goda-v-rezultate-krusheniya-samoleta-togda-pogibli-228-chelovek"
+          "title": "U.S. to Award Quantum Computing Firms $2 Billion",
+          "url": "https://politicalwire.com/2026/05/21/u-s-to-award-quantum-computing-firms-2-billion",
+          "source": "Political Wire",
+          "published_at": "2026-05-21T11:10:35.000Z",
+          "description": "“The Trump administration is awarding $2 billion in grants to nine quantum-computing companies in deals that include U.S. government equity stakes,” the Wall Street Journal reports. “The move accelerates the administration’s plans to boost the nascent industry, which has attracted a wave of investm…"
         },
         {
-          "title": "Airbus & Air France guilty of corporate manslaughter after pilots slept before 228 people died in crash disaster",
-          "url": "https://www.thesun.co.uk/news/39181449/airbus-air-france-guilty-corporate-manslaughter-pilots-slept-crash",
-          "source": "World News - Latest International & World News Today | The Sun",
-          "published_at": "2026-05-21T19:05:04.000Z",
-          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2Fnewspress-collage-o268z68rc-1779390085832.jpg?quality%3D90%26strip%3Dall%261779393719"
+          "title": "U.S. Will Invest $2 Billion In Quantum Computing Firms And Take Equity, Report Says",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/21/us-will-invest-2-billion-in-quantum-computing-firms-and-take-equity-report-says",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-21T13:03:13.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0f00ff26074521c250c77f/0x0.jpg?width=960&precrop=4032%2C2268%2Cx0%2Cy285",
+          "description": "The grants include a massive $1 billion grant for IBM."
         }
-      ]
+      ],
+      "summary": "The United States plans to award $2 billion to nine quantum-computing companies, including IBM, in deals that include government equity stakes, according to reports."
     },
     {
-      "id": "topic_165964976271ecc3",
+      "id": "topic_70750766a2e590e8",
+      "title": "India Withholds Viral Cockroach Janta Party Account on X",
+      "headline": "Viral Cockroach Janta Party's X account withheld in India",
       "label": [
-        "inmate",
-        "death row",
-        "row inmate",
-        "row",
-        "tennessee",
-        "tennessee death"
+        "cockroach",
+        "janta",
+        "party",
+        "account",
+        "trademark",
+        "viral"
       ],
       "category": "new",
-      "theme": "theme_cef63b8a4499832b",
+      "theme": "theme_28a3e2c71cc50a49",
       "entities": [
-        "Botched",
-        "Tennessee",
-        "Death",
-        "Tony Carruthers",
-        "IV"
+        "Viral Cockroach Janta Party",
+        "India",
+        "Cockroach Janta Party",
+        "As Cockroach Janta Party",
+        "Social Media Frenzy Or"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 14,
+      "source_count": 9,
       "articles": [
         {
-          "title": "‘Botched’ lethal injection earns Tennessee death row inmate reprieve",
-          "url": "https://www.washingtonexaminer.com/news/justice/4578744/botched-lethal-injection-tennessee-death-row",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-21T21:13:24.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/tony-carruthers-bill-lee-collage-e1779397920421.jpg?1779381207&w=696"
+          "title": "Viral Cockroach Janta Party's X account withheld in India",
+          "url": "https://timesofindia.indiatimes.com/india/viral-cockroach-janta-partys-x-account-withheld-in-india/articleshow/131244762.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-21T10:06:19.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131244736,imgsize-522214.cms"
         },
         {
-          "title": "Tennessee death row inmate spared execution after medics fail to find vein for lethal injection — gets one-year reprieve",
-          "url": "https://nypost.com/2026/05/21/us-news/tennessee-death-row-inmate-tony-carruthers-spared-execution-after-medics-fail-to-find-vein-for-lethal-injection",
+          "title": "Can the Cockroach Janta Party get a cockroach poll symbol?",
+          "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-eci-rules-cockroach-poll-symbol-india-instagram-followers-2914899-2026-05-21",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-21T08:41:45.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/cockroach-janta-party-184157809-16x9.png?VersionId=qotWWtJ8PFeKFRzFS1DR9KQNu.xpfACH",
+          "description": "Can the Cockroach Janta Party get a cockroach poll symbol"
+        },
+        {
+          "title": "Cockroach Janta Party’s X account blocked, founder calls it an ‘own goal’ by the government",
+          "url": "https://scroll.in/latest/1092997/cockroach-janta-partys-x-account-blocked-founder-calls-it-own-goal",
+          "source": "Scroll.in",
+          "published_at": "2026-05-21T09:22:45.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213538-dxiygjtcec-1779354000.jpeg",
+          "description": "The satirical political campaign began on Saturday in response to remarks by the chief justice comparing some unemployed youngsters to ‘cockroaches’."
+        },
+        {
+          "title": "'Cockroach Janta Party': Social Media Frenzy Or Just Hype?",
+          "url": "https://www.ndtv.com/india-news/cockroach-janta-party-social-media-frenzy-or-just-hype-11528958",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-21T14:07:04.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/j8b0iv8_cjp_625x300_21_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "description": "The massive influx of followers for 'Cockroach Janta Party' has triggered scrutiny, with many pointing to potential bot activity from abroad."
+        },
+        {
+          "title": "Trademark Applications Filed For ‘Cockroach Janta Party’ After Viral CJI Remarks",
+          "url": "https://www.freepressjournal.in/india/trademark-applications-filed-for-cockroach-janta-party-after-viral-cji-remarks",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-21T13:53:18.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-05-21/yor4evxo/HI1NfPYXEAAFDk.jpg"
+        }
+      ],
+      "summary": "The Cockroach Janta Party’s X account was withheld in India after the satirical campaign went viral. The group began in response to remarks by the chief justice, and its founder called the blocking an “own goal.”"
+    },
+    {
+      "id": "topic_684513ccc81b9a7f",
+      "title": "New York City Mayor Mamdani Launches Twitch Q&A Series",
+      "headline": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+      "label": [
+        "twitch",
+        "mamdani",
+        "mayor",
+        "zohran",
+        "nyc",
+        "series"
+      ],
+      "category": "new",
+      "theme": "theme_4a9a82666029c832",
+      "entities": [
+        "NYC Mayor Zohran Mamdani",
+        "Twitch",
+        "New York City Mayor",
+        "Zohran Mamdani",
+        "NYC"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+          "url": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
+          "source": "The Verge",
+          "published_at": "2026-05-21T12:22:26.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273496370.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "“Hey chat, are billionaires cooked?” | Photo by kena betancur / AFP via Getty Images New York City Mayor Zohran Mamdani is launching a streaming series on Twitch, in which he'll respond to questions the public have submitted via the chat, Polygon reports. The series is aptly titled \"Talk with the P…"
+        },
+        {
+          "title": "New York City Mayor Zohran Mamdani is launching a Twitch show",
+          "url": "https://www.engadget.com/2178441/new-york-city-mayor-zohran-mamdani-is-launching-a-twitch-show",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-21T13:36:05.000Z",
+          "image": "https://www.engadget.com/img/gallery/new-york-mayor-mamdani-is-launching-a-twitch-show/l-intro-1779370413.jpg",
+          "description": "We're sure Twitch chat will be entirely normal about this."
+        },
+        {
+          "title": "NYC's Mayor Mamdani is going live on Twitch in new series",
+          "url": "https://www.polygon.com/mayor-zohran-mamdani-twitch-stream-talk-with-the-people",
+          "source": "Polygon.com",
+          "published_at": "2026-05-21T11:00:19.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/zohran-mamdani.jpg",
+          "description": "Zohran Mamdani is making history as the first elected official to host a recurring cross-platform stream."
+        },
+        {
+          "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+          "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers",
+          "source": "TechCrunch",
+          "published_at": "2026-05-21T15:02:57.000Z",
+          "description": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET."
+        },
+        {
+          "title": "NYC Mayor Mamdani launches Twitch show to answer New Yorkers' questions",
+          "url": "https://www.cnbc.com/2026/05/21/mamdani-twitch-stream-new-york-fdr-fireside-chat-laguardia.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-05-21T20:25:52.000Z",
+          "description": "The livestream series will let New Yorkers question Mamdani in real time on Twitch, expanding beyond the early echoes of FDR's fireside chats."
+        }
+      ],
+      "summary": "Mayor Zohran Mamdani is launching a Twitch series where New Yorkers can ask him questions in real time. The recurring livestream is part of a broader effort to communicate with residents."
+    },
+    {
+      "id": "topic_3de8546110324711",
+      "title": "Mamdani Announces Lottery for $50 World Cup Tickets",
+      "headline": "Mamdani announces 1,000 $50 World Cup tickets for New Yorkers",
+      "label": [
+        "tickets",
+        "cup",
+        "world",
+        "mamdani",
+        "yorkers",
+        "residents"
+      ],
+      "category": "new",
+      "theme": "theme_7fae53850c5b7ca0",
+      "entities": [
+        "Mamdani",
+        "World Cup",
+        "New Yorkers",
+        "Zohran Mamdani",
+        "New York City"
+      ],
+      "article_count": 17,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Mamdani announces 1,000 $50 World Cup tickets for New Yorkers",
+          "url": "https://nypost.com/2026/05/21/us-news/mamdani-announces-1000-50-world-cup-tickets-for-new-yorkers",
           "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-21T21:09:04.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Ftennessee-department-correction-photo-shows-128429750.jpg"
+          "published_at": "2026-05-21T18:36:36.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fcomp-screenshot_2026-05-21_at_11.33.48___am.jpg?quality%3D90%26strip%3Dall",
+          "description": "Mayor Mamdani announced Thursday that the city will hold a lottery for 1,000 World Cup tickets that will only come at a cost of $50 for those lucky enough to be selected."
         },
         {
-          "title": "Death row inmate Tony Carruthers won't face execution for at least a year after IV line failure in Tennessee",
-          "url": "https://www.foxnews.com/us/death-row-inmate-tony-carruthers-wont-face-execution-least-year-after-iv-line-failure-tennessee",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-21T19:37:09.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Tony-Carruthers-execution-002.jpeg?ve=1&tl=1"
+          "title": "Zohran Mamdani announces $50 World Cup tickets for New Yorkers",
+          "url": "https://www.washingtonexaminer.com/sports/4578182/mayor-mamdani-announces-world-cup-tickets",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-21T17:12:32.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/worldcup1.jpg?w=696",
+          "description": "New York City Mayor Zohran Mamdani announced a lottery for $50 World Cup tickets to 1,000 New Yorkers on X Thursday. “What can $50 get you in New York City?” the mayor asked in the video. “Twenty-five cups of street cart coffee. Ten months of hard-hitting journalism,” Mamdani wrote. “Infinite rides…"
         },
         {
-          "title": "Tennessee death row inmate Tony Carruthers avoids execution after officials fail to find vein",
-          "url": "https://www.independent.co.uk/news/world/americas/tony-carruthers-tennessee-execution-stopped-b2981453.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-21T18:29:43.000Z",
-          "image": "https://static.independent.co.uk/2026/05/20/21/Execution_Tennessee_42687.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "Mamdani announces $50 World Cup ticket lottery for New York City residents",
+          "url": "https://www.nbcnews.com/news/us-news/mamdani-announces-50-world-cup-ticket-lottery-new-york-city-residents-rcna346339",
+          "source": "NBC News World News",
+          "published_at": "2026-05-21T18:08:17.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260521-mamdani-ch-1319-750e05.jpg",
+          "description": "New York City Mayor Zohran Mamdani said Thursday that the city will use a lottery system to distribute 1,000 World Cup tickets at $50 apiece to residents of the five boroughs"
+        },
+        {
+          "title": "Zohran Mamdani to announce $50 World Cup ticket lottery for New York City residents",
+          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqtvlgr25zwfpwaenwd3zgn3gxd0lxbfrzzlbmueppvufvy0tiew1huupwwhexsjdlvs0wtfbreupjcvfqczc3q3jws3dqn1zfnjrkq3pvqnqxuzjvthnga2sxx1m1zxa3uxbdou50rjbxzgdxowvyt1jnq1nyvhvytkjsx1hrcw5gvkh4b2ytb0tflunpunutamjdwq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-21T13:38:00.000Z",
+          "description": "Zohran Mamdani to announce $50 World Cup ticket lottery for New York City residents The Guardian Mayor Mamdani secures $50 World Cup tickets for New Yorkers after negotiations with Infantino The New York Times Mamdani Gets 1,000 Cheap World Cup Tickets After FIFA Talks Front Office Sports NYC resid…"
+        },
+        {
+          "title": "Score Big: Mamdani Offers New Yorkers Exclusive $50 World Cup Tickets",
+          "url": "https://internewscast.com/news/us/score-big-mamdani-offers-new-yorkers-exclusive-50-world-cup-tickets",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-21T18:43:32.000Z",
+          "description": "Internewscast Journal Internewscast On Thursday, Mayor Zohran Mamdani revealed plans for a lottery that will… This Post: Score Big: Mamdani Offers New Yorkers Exclusive $50 World Cup Tickets first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "New York City will hold a lottery offering 1,000 World Cup tickets to residents for $50 each, Mayor Zohran Mamdani announced. The lottery is open to residents of the city’s five boroughs."
     },
     {
-      "id": "topic_6865d570e4a786d8",
+      "id": "topic_9062016d63300617",
+      "title": "Record 274 Climbers Summit Everest in One Day",
+      "headline": "A record 274 climbers scale Mount Everest in a single day",
       "label": [
-        "lauder",
-        "puig",
-        "est lauder",
-        "est",
-        "puig end",
+        "climbers",
+        "everest",
+        "single",
+        "record",
+        "mount",
+        "day"
+      ],
+      "category": "new",
+      "theme": "theme_90629adc627f044f",
+      "entities": [
+        "Mount Everest",
+        "Record",
+        "Nepali",
+        "Reuters",
+        "Everest"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "A record 274 climbers scale Mount Everest in a single day",
+          "url": "https://www.seattletimes.com/nation-world/a-record-274-climbers-scale-mount-everest-in-a-single-day",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-21T08:39:06.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org336d127f2b726ed430314dc9e1b6ca86Nepal_Everest_Photo_Gallery_14537.jpg?d=1200x630",
+          "description": "Officials say hundreds of climbers scaled Mount Everest in a single day, setting a new record with 274 successful ascents."
+        },
+        {
+          "title": "Record 274 climbers scale Mount Everest in a single day from Nepali side",
+          "url": "https://www.dailymaverick.co.za/article/2026-05-21-record-274-climbers-scale-mount-everest-in-a-single-day-from-nepali-side",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-05-21T12:39:14.000Z",
+          "image": "https://cdn.dailymaverick.co.za/attachments/2992/130886082_546065.jpg"
+        },
+        {
+          "title": "Record 274 climbers scale Mount Everest in a single day from Nepali side",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxqukzjn0q5mefxawg5bxvywevqdhhezhm1rgnsnlzibvpvdwjwzgvgm3lyzjd4be90yutxagzsczlschdtytvuve5zbdzbtkx0wldfnevwvw53qujtwxbod00wtfjay0palwx5n1f5a0cxzgnueurxt0ttqud3mv9uq2fvcgfdskhiclnqq0noc1jisfa1afnmmfdjztnkukdrvm0yzldxudnjcktuc2xxmhpmvgrmd3fw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-21T08:51:39.000Z",
+          "description": "Record 274 climbers scale Mount Everest in a single day from Nepali side Reuters Record 274 climbers summit Everest from Nepalese side in single day The Guardian Mount Everest record set as 274 climb Nepal's side of world's highest peak in single day CBS News A record 274 climbers scale Mount Evere…"
+        },
+        {
+          "title": "Record 274 climbers summit Everest from Nepalese side in single day",
+          "url": "https://www.theguardian.com/world/2026/may/21/record-climbers-summit-everest-from-nepalese-side-in-single-day",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-21T11:06:25.000Z",
+          "image": "https://i.guim.co.uk/img/media/d1b68fee83c43f1a7acc0235ca58024d60aa30dc/123_0_4849_3880/master/4849.jpg?width=140&quality=85&auto=format&fit=max&s=3dc5f746abc772c218e80e75c806ea30",
+          "description": "Climbers take advantage of clear weather after threat of ice fall on normal route delayed start of spring season A record 274 climbers have reached the summit of Mount Everest from the Nepalese side in a single day after a spring season that started late because of the threat of ice fall on the nor…"
+        },
+        {
+          "title": "Everest: Record 274 climbers summit from Nepal in single day",
+          "url": "https://www.dw.com/en/everest-record-274-climbers-summit-from-nepal-in-single-day/a-77252231",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-21T16:35:00.000Z",
+          "description": "A record number of climbers have scaled Mount Everest from the Nepali side in a single day. Despite increasing congestion at the peak, Nepali authorities have sold a record number of climbing permits."
+        }
+      ],
+      "summary": "A record 274 climbers reached Mount Everest’s summit from the Nepalese side in a single day. Climbers took advantage of clear weather after an ice-fall threat delayed the spring season’s start."
+    },
+    {
+      "id": "topic_61b62a794dd01a46",
+      "title": "Trump Says US Will Send 5,000 More Troops to Poland",
+      "headline": "Trump says U.S. will send 5,000 more troops to Poland",
+      "label": [
+        "poland",
+        "troops",
+        "sending",
+        "trump",
+        "us",
+        "additional"
+      ],
+      "category": "new",
+      "theme": "theme_3eeb39eab7644144",
+      "entities": [
+        "Trump",
+        "Poland",
+        "Trump Says Sending",
+        "US Troops To Poland",
+        "Axios"
+      ],
+      "article_count": 17,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Trump says U.S. will send 5,000 more troops to Poland",
+          "url": "https://www.axios.com/2026/05/21/trump-us-send-troops-poland-5000",
+          "source": "Axios",
+          "published_at": "2026-05-21T21:27:44.000Z",
+          "image": "https://images.axios.com/ScNocGqIEFsWKJILDyQhrMtkfmU=/0x485:7976x4972/1366x768/2026/05/21/1779396355078.jpeg",
+          "description": "The U.S. will send an additional 5,000 troops ​to Poland, President Trump said Thursday. Why it matters: Trump's surprise announcement came a week after the Pentagon abruptly canceled a planned deployment of 4,000 troops to Poland. The Trump administration had previously said 5,000 troops would be…"
+        },
+        {
+          "title": "Trump says U.S. will send additional 5,000 troops to Poland",
+          "url": "https://japantoday.com/category/world/trump-says-us-will-send-additional-5-000-troops-to-poland1",
+          "source": "Japan Today",
+          "published_at": "2026-05-21T21:45:38.000Z",
+          "description": "The United States will be sending an additional 5,000 troops to ‌Poland, U.S. President Donald Trump said on Thursday. Trump, in a Truth Social post, cited his relationship…"
+        },
+        {
+          "title": "Trump Says Sending 5,000 US Troops To Poland",
+          "url": "https://www.ndtv.com/world-news/trump-says-us-sending-5-000-us-troops-to-poland-11530598",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-21T22:23:04.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/k48mk7m_donald-trump_625x300_19_May_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "Trump said the move was based on his relationship with Poland's president Karol Nawrocki, a nationalist ally whom he said he was \"proud to endorse\" in elections that Nawrocki won last year."
+        },
+        {
+          "title": "Trump says U.S. will send 5,000 more troops to Poland",
+          "url": "https://news.google.com/rss/articles/cbmic0fvx3lxte5kzfbmve00ujb3bvl5zhfmbtc5mxdlakflykjuzktot2jmmfntb2trbxbxafr1ahf3ulzgmufidmhwsvzwdvnpwe5fyjn0wg9bounjvkzjetrsckhlzwz6mhrotkroz2hmoxfjvdz0tlnonfu",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-21T23:58:37.000Z",
+          "description": "Trump says U.S. will send 5,000 more troops to Poland Axios Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon The New York Times Statement Attributable to Assistant to the Secretary of War for Public Affairs (ATSW(PA)) U.S. Department of War (.gov) In apparent reversal, Trump says he'…"
+        },
+        {
+          "title": "US to send 5,000 additional troops to Poland – Trump",
+          "url": "https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-21T21:46:00.000Z",
+          "description": "In comments which appear to contradict recent Pentagon announcements, US President Donald Trump says 5,000 additional American troops are to be deployed to NATO ally Poland."
+        }
+      ],
+      "summary": "President Donald Trump said the United States would send an additional 5,000 troops to Poland. He cited his relationship with Poland’s president, while the announcement appeared to contradict recent Pentagon statements."
+    },
+    {
+      "id": "topic_ea530c041724902a",
+      "title": "Microsoft Defender Vulnerabilities Actively Exploited",
+      "headline": "Microsoft Defender vulnerabilities are being exploited in the wild",
+      "label": [
+        "defender",
+        "exploited",
+        "microsoft",
+        "actively",
+        "wild",
+        "vulnerabilities"
+      ],
+      "category": "new",
+      "theme": "theme_964a3472a039cac1",
+      "entities": [
+        "Microsoft Defender",
+        "New Microsoft Defender",
+        "Days Actively Exploited",
+        "Wild",
+        "Microsoft Warns"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Microsoft Defender vulnerabilities are being exploited in the wild",
+          "url": "https://malware.news/t/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild/107212",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-05-21T18:05:40.000Z",
+          "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/05/version_number.png",
+          "description": "Two Microsoft Defender vulnerabilities are being actively exploited in the wild. Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills? Get 10% off using coupon code: MWNEWS10 for any flavor. Enroll Now and Save 10%: Coupon Code MWNEWS10 Note: Affiliate link – your enr…"
+        },
+        {
+          "title": "New Microsoft Defender 0‑Days Actively Exploited in the Wild",
+          "url": "https://cybersecuritynews.com/microsoft-defender-0-days-exploited",
+          "source": "Cyber Security News",
+          "published_at": "2026-05-21T09:50:51.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/05/Microsoft-Defender-0‑Days-Exploited.webp",
+          "description": "Two newly disclosed Microsoft Defender vulnerabilities are being actively exploited in the wild, enabling local attackers to elevate privileges to SYSTEM and potentially disrupt endpoint protection across Windows environments. The bugs, tracked as CVE‑2026‑41091 (Elevation of Privilege) and CVE‑202…"
+        },
+        {
+          "title": "New Microsoft Defender exploits discovered. How to protect yourself",
+          "url": "https://mashable.com/tech/microsoft-defender-exploit-discovered-how-to-protect-yourself",
+          "source": "Mashable",
+          "published_at": "2026-05-21T14:55:20.000Z",
+          "description": "Microsoft has identified a couple of exploits that could put your machine at risk, but there's an easy fix."
+        },
+        {
+          "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+          "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+          "source": "The Hacker News",
+          "published_at": "2026-05-21T10:55:57.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg",
+          "description": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM pri…"
+        }
+      ],
+      "summary": "Microsoft disclosed two actively exploited vulnerabilities in Defender: one that can allow privilege escalation and another that can cause a denial of service. Microsoft has identified fixes for the flaws."
+    },
+    {
+      "id": "topic_25bdefc4a3db70e6",
+      "title": "Stephen Colbert Hosts Final Episode of The Late Show",
+      "headline": "What we’re losing as “The Late Show with Stephen Colbert” ends",
+      "label": [
+        "stephen",
+        "colbert",
+        "late",
+        "show",
+        "final",
         "end"
       ],
-      "category": "new",
-      "theme": "theme_b841091961b4548",
+      "category": "trending",
+      "theme": "theme_8ac4998257e58e65",
       "entities": [
-        "Est",
-        "Lauder",
-        "Puig",
-        "Lauder Companies",
-        "Puig End"
+        "The Late Show",
+        "Stephen Colbert",
+        "Great Stephen Colbert",
+        "Late Show",
+        "Interviews"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 27,
+      "source_count": 19,
       "articles": [
         {
-          "title": "Estée Lauder and Puig end merger talks over creating beauty powerhouse",
-          "url": "https://www.ft.com/content/1c9439e7-3b4f-48b2-824a-62ff2bbd9f51",
-          "source": "International homepage",
-          "published_at": "2026-05-21T20:40:14.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1087f4c6-9b41-49cd-ba30-657c7e5ee7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+          "title": "What we’re losing as “The Late Show with Stephen Colbert” ends",
+          "url": "https://www.salon.com/2026/05/21/what-were-losing-as-the-late-show-with-stephen-colbert-ends",
+          "source": "Salon.com",
+          "published_at": "2026-05-21T16:00:17.000Z",
+          "image": "https://www.salon.com/app/uploads/2026/05/the-late-show-cbs-05.jpg",
+          "description": "We'll see Stephen Colbert again, but his broadcast exit closes out David Letterman's absurdist TV legacy"
         },
         {
-          "title": "Estée Lauder Companies and Puig End M&A Talks",
-          "url": "https://www.businessoffashion.com/articles/beauty/estee-lauder-companies-and-puig-end-ma-talks",
-          "source": "The Business of Fashion",
-          "published_at": "2026-05-21T20:33:26.000Z",
-          "image": "https://img.businessoffashion.com/resizer/v2//3DAATG3HN5GTZLPOR3KTJDY2DY.png?auth=36806e62d7066abc8da77c9e8bafab45ca179e1d5bfabb23b6c6769fe3b43413&smart=true&width=1800&height=1013"
+          "title": "Watch 10 Great Stephen Colbert ‘Late Show’ Interviews",
+          "url": "https://www.forbes.com/sites/tonifitzgerald/2026/05/20/watch-10-great-stephen-colbert--late-show-interviews",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-21T02:11:21.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/66e1df7881ce95ff3945c293/0x0.jpg",
+          "description": "From riffing with Jon Stewart to discussing grief with Vice President Biden to cracking up with Tiffany Haddish, Stephen Colbert always entertained."
         },
         {
-          "title": "Puig y Estée Lauder cancelan su fusión",
-          "url": "https://www.expansion.com/empresas/distribucion/2026/05/21/6a0f6663468aebdb5d8b4580.html",
-          "source": "Portada // expansion",
-          "published_at": "2026-05-21T20:10:57.000Z",
-          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/21/17793952964444.jpg"
+          "title": "Die letzte \"Late Show\" mit Stephen Colbert",
+          "url": "https://www.tagesschau.de/ausland/amerika/abschied-colbert-latenightshow-100.html",
+          "source": "tagesschau.de - Die Nachrichten der ARD",
+          "published_at": "2026-05-21T08:14:07.000Z",
+          "description": "Mehr als zehn Jahre lang begrüßte Stephen Colbert Gäste und Publikum der berühmten \"Late Show\" im US-Fernsehen - heute Abend allerdings zum letzten Mal. Nicht nur der Trump-Kritiker selbst vermutet hinter dem Abschied politische Gründe. Von G. Ucar."
         },
         {
-          "title": "The Estée Lauder Companies & Puig End Discussions Regarding a Potential Business Combination",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-estee-lauder-companies-puig-end-discussions-regarding-a-potential-business-combination",
-          "source": "Financial Post",
-          "published_at": "2026-05-21T20:07:49.000Z"
+          "title": "Here’s Where to Watch the Final Episode of ‘The Late Show With Stephen Colbert’ Online",
+          "url": "https://www.billboard.com/culture/product-recommendations/late-show-with-stephen-colbert-final-episode-watch-online-free-1236252538",
+          "source": "Billboard",
+          "published_at": "2026-05-21T19:49:59.000Z",
+          "description": "The last episode broadcasts on May 21."
+        },
+        {
+          "title": "'Late Show' host Stephen Colbert bows out after show cancelled",
+          "url": "https://www.france24.com/en/video/20260521-late-show-host-stephen-colbert-bows-out-after-show-cancelled",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-21T13:11:23.000Z",
+          "image": "https://s.france24.com/media/display/26e138ba-5512-11f1-b88c-005056a90284/w:1024/p:16x9/EN-20260521-132002-132146-CS-01.jpg",
+          "description": "Stephen Colbert’s long goodbye to late-night TV ends Thursday night when the host of “The Late Show” appears behind his CBS desk for the final time. CBS announced last summer that Colbert’s show would end, citing economic reasons after 11 seasons. But many — including Colbert — have expressed skept…"
         }
-      ]
+      ],
+      "summary": "Stephen Colbert hosted the final episode of The Late Show after CBS canceled the program. The host’s departure ends a run of more than a decade on the show."
     },
     {
-      "id": "topic_2a7379526bcf60c6",
+      "id": "topic_43cb1f2d819dfe5",
+      "title": "Apple TV to Stream MLS Match Shot Entirely on iPhone",
+      "headline": "Apple TV to air first major live sporting event shot entirely on iPhone 17 Pro",
       "label": [
-        "nigeria",
-        "sharia",
-        "presidency",
-        "abolish",
-        "abolish sharia",
-        "tinubu"
+        "pro",
+        "shot",
+        "iphone",
+        "apple",
+        "entirely",
+        "sports"
       ],
       "category": "new",
-      "theme": "theme_7eff245579e0f218",
+      "theme": "theme_df4adc0153032236",
       "entities": [
-        "Tinubu Is Not Planning",
-        "To Rename Nigeria Or",
-        "Abolish Sharia Law In",
-        "North",
-        "Presidency"
+        "Apple TV",
+        "Pro",
+        "Apple",
+        "Saturday",
+        "An Upcoming MLS Match"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 9,
+      "source_count": 9,
       "articles": [
         {
-          "title": "“Tinubu Is Not Planning To Rename Nigeria Or Abolish Sharia Law In North” – Presidency",
-          "url": "https://www.informationng.com/2026/05/tinubu-is-not-planning-to-rename-nigeria-or-abolish-sharia-law-in-north-presidency.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-05-21T20:20:06.000Z"
+          "title": "Apple TV to air first major live sporting event shot entirely on iPhone 17 Pro",
+          "url": "https://9to5mac.com/2026/05/21/apple-tv-to-air-major-live-sporting-event-shot-entirely-on-iphone-17-pro",
+          "source": "9to5Mac",
+          "published_at": "2026-05-21T14:22:13.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-cameras.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "Apple TV is home to Major League Soccer, Formula 1, and Friday Night Baseball. And this weekend, the streamer just announced it will broadcast the first major professional live sporting event shot entirely on iPhone 17 Pro. more…"
         },
         {
-          "title": "Breaking: Presidency reacts to report claiming Tinubu plans to change Nigeria's name, abolish Sharia law",
-          "url": "https://www.legit.ng/nigeria/1711142-presidency-debunks-report-claiming-tinubu-plans-change-nigerias-abolish-sharia-law",
-          "source": "Legit.ng",
-          "published_at": "2026-05-21T19:52:28.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/b3d4fc6ed2cc5585.jpeg?v=1"
+          "title": "Apple TV to air first major live pro sports event shot on iPhone 17 Pro",
+          "url": "https://www.reddit.com/r/apple/comments/1tjmfff/apple_tv_to_air_first_major_live_pro_sports_event",
+          "source": "r/Apple: Unofficial Apple Community",
+          "published_at": "2026-05-21T14:35:11.000Z",
+          "image": "https://external-preview.redd.it/Hflm6ebLmTDvCHNFFSHHj9Gl7U7mmBRYoLbttArD8NI.jpeg?width=640&crop=smart&auto=webp&s=028a3148403c87da882712630c44d5b8e4f9a292",
+          "description": "submitted by /u/HelloitsWojan [link] [comments]"
         },
         {
-          "title": "Presidency reacts to report of alleged move to change name of Nigeria, dump sharia law",
-          "url": "https://dailypost.ng/2026/05/21/presidency-reacts-to-report-of-alleged-move-to-change-name-of-nigeria-dump-sharia-law",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-21T19:50:33.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2024/01/Bayo.jpg"
+          "title": "Apple TV to air first major live pro sports event shot on iPhone 17 Pro",
+          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxoa0hudvrfbnvztw1zzlv4exv1bwpssvfzbnvwny1urdrmdnpodxk4vunqzunjnkzpnvzyrmzibmd5mfpauudyunpkc0puskq5vmxoofzpt1jyekfdq1dxcglzs3a3t2p1nej3ckd0u1zkq1zjcdcyae13akpmnldkouhjem1sqjlhy2etanu3nuvkafrmrwhqq1lqsfr2med4bupwvutathpxaljytgxxtq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-21T14:18:28.000Z",
+          "description": "Apple TV to air first major live pro sports event shot on iPhone 17 Pro Apple Apple to broadcast MLS game shot on iPhone in TV first: More about promotion than the end product? The New York Times Apple TV to air first major live sporting event shot entirely on iPhone 17 Pro 9to5Mac Apple Will Broad…"
         },
         {
-          "title": "Tinubu has no plan to change Nigeria’s name, abolish Sharia in northern Nigeria – Presidency",
-          "url": "https://www.premiumtimesng.com/news/top-news/881682-tinubu-has-no-plan-to-change-nigerias-name-abolish-sharia-in-northern-nigeria-presidency.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-05-21T19:26:34.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/HIbArE9X0AEAIUq-e1778917333313.jpg?fit=1278%2C800&amp;ssl=1"
+          "title": "Apple TV streams first major live pro sports event shot only on iPhone",
+          "url": "https://www.cultofmac.com/news/major-league-soccer-match-captured-entirely-on-iphone-17-pro",
+          "source": "Cult of Mac",
+          "published_at": "2026-05-21T15:49:43.000Z",
+          "image": "https://www.cultofmac.com/wp-content/uploads/2026/05/Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_2x.jpg.webp",
+          "description": "Apple TV makes history Saturday with a full MLS match captured entirely on iPhone 17 Pro -- a whole bunch of them, in fact. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)"
+        },
+        {
+          "title": "The first live pro sporting event shot entirely on iPhone airs this Saturday",
+          "url": "https://www.macworld.com/article/3146173/the-first-live-pro-sporting-event-shot-entirely-on-iphone-airs-this-saturday.html",
+          "source": "Macworld",
+          "published_at": "2026-05-21T20:55:17.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/05/appletv-mls.jpg?quality=50&strip=all",
+          "description": "Macworld Apple announced that this Saturday’s Major League Soccer match between the LA Galaxy and Houston Dynamo FC will be captured entirely using the iPhone 17 Pro. The phone will be used to shoot the match live, as well as during the pre-game warmup and player introductions, in-net goal views, a…"
         }
-      ]
+      ],
+      "summary": "Apple TV will broadcast an LA Galaxy–Houston Dynamo FC match captured entirely using iPhone 17 Pro devices. It is described as the first major professional live sporting event filmed this way."
     },
     {
-      "id": "topic_724cf96e884c2eea",
+      "id": "topic_7ab3649ec0e1849c",
+      "title": "Cisco Patches Critical Secure Workload Vulnerability",
+      "headline": "Critical vulnerability in Cisco Secure Workload rated at maximum severity",
       "label": [
-        "radio silence",
-        "radio",
-        "silence",
-        "movie",
-        "adventure",
-        "choose adventure"
+        "workload",
+        "cisco",
+        "secure",
+        "critical",
+        "severity",
+        "vulnerability"
       ],
       "category": "new",
-      "theme": "theme_f0a2b7b922b560a9",
+      "theme": "theme_72cd35d739492c11",
       "entities": [
-        "Radio Silence",
-        "New Horror Movie Has",
-        "Unique Twist",
-        "Radio Silence Is Making",
-        "Choose Your Own Adventure"
+        "Critical",
+        "Cisco Secure Workload",
+        "Cisco Patches Critical Vulnerability",
+        "Secure Workload",
+        "Critical Cisco Secure Workload"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 6,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Radio Silence’s New Horror Movie Has a Unique Twist",
-          "url": "https://www.comingsoon.net/movies/news/2136981-radio-silence-new-horror-movie-unique-twist",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-21T21:51:08.000Z"
+          "title": "Critical vulnerability in Cisco Secure Workload rated at maximum severity",
+          "url": "https://www.csoonline.com/article/4175913/critical-vulnerability-in-cisco-secure-workload-rated-at-maximum-severity.html",
+          "source": "Critical vulnerability in Cisco Secure Workload rated at maximum severity | CSO Online",
+          "published_at": "2026-05-21T22:39:20.000Z",
+          "image": "https://www.csoonline.com/wp-content/uploads/2026/05/4175913-0-08902200-1779403171-shutterstock_180216653.jpg?quality=50&strip=all",
+          "description": "A critical vulnerability in the on-premises version of the Cisco Secure Workload security platform could allow a threat actor to obtain the privileges of a site admin, enabling them to compromise endpoints and read or modify configuration data. “CSOs need to drop what they are doing and patch this…"
         },
         {
-          "title": "Radio Silence Is Making a ‘Choose Your Own Adventure’ Movie",
-          "url": "https://gizmodo.com/radio-silence-choose-your-own-adventure-movie-directors-2000762194",
-          "source": "Gizmodo",
-          "published_at": "2026-05-21T21:00:27.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/caveoftime-2-1280x853.jpg"
+          "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+          "url": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload",
+          "source": "SecurityWeek",
+          "published_at": "2026-05-21T12:04:13.000Z",
+          "description": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges. The post Cisco Patches Critical Vulnerability in Secure Workload appeared first on SecurityWeek."
         },
         {
-          "title": "‘Choose Your Own Adventure’ Movie in the Works From ‘Ready or Not’ Directors Radio Silence",
-          "url": "https://variety.com/2026/film/news/choose-your-own-adventure-movie-ready-or-not-directors-radio-silence-1236756248",
-          "source": "Variety",
-          "published_at": "2026-05-21T19:27:28.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/03/MCDREOR_H4011.jpg"
+          "title": "Critical Cisco Secure Workload Vulnerability Enables Unauthorized API Access",
+          "url": "https://cybersecuritynews.com/cisco-secure-workload-vulnerability",
+          "source": "Cyber Security News",
+          "published_at": "2026-05-21T09:20:51.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/05/Critical-Cisco-Secure-Workload-Vulnerability-Enables-Unauthorized-API-Access.webp",
+          "description": "Cisco has disclosed a critical security vulnerability in its Secure Workload platform that could allow unauthenticated attackers to gain unauthorized access to sensitive resources via internal APIs. The flaw, tracked as CVE-2026-20223, carries a maximum CVSS score of 10.0 and is categorized under C…"
         },
         {
-          "title": "Radio Silence To Direct Feature Adaptation Of ‘Choose Your Own Adventure’ Book Series For 20th",
-          "url": "https://deadline.com/2026/05/radio-silence-directing-choose-your-own-adventure-20th-1236918094",
-          "source": "Deadline",
-          "published_at": "2026-05-21T19:00:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2265855561.jpg"
+          "title": "Cisco fixed maximum severity flaw CVE-2026-20223 in Secure Workload",
+          "url": "https://securityaffairs.com/192473/security/cisco-fixed-maximum-severity-flaw-cve-2026-20223-in-secure-workload.html",
+          "source": "Security Affairs",
+          "published_at": "2026-05-21T13:22:17.000Z",
+          "description": "Cisco fixed a critical Secure Workload flaw (CVE-2026-20223) that could let attackers gain Site Admin privileges through crafted API requests. Cisco released patches for a critical vulnerability, tracked as CVE-2026-20223 (CVSS score of 10.0), in Secure Workload. The flaw stems from insufficient va…"
+        },
+        {
+          "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+          "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges",
+          "source": "BleepingComputer",
+          "published_at": "2026-05-21T13:58:33.000Z",
+          "description": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]"
         }
-      ]
+      ],
+      "summary": "Cisco released updates for a maximum-severity vulnerability in its Secure Workload platform. The flaw could let unauthenticated attackers use crafted API requests to gain Site Admin privileges."
     }
   ]
 }

@@ -1,950 +1,961 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-10T00:15:18.667Z",
+  "generated_at": "2026-09-27T13:53:08.964Z",
   "topics": [
     {
-      "id": "topic_cc1fdb06a0bae7e",
+      "id": "topic_eedcdec914df99b2",
+      "title": "Person Dies After Being Struck by Frontier Jet at Denver Airport",
+      "headline": "Frontier Airlines plane hits person on runway during takeoff at Denver airport",
       "label": [
-        "ship",
-        "passenger",
-        "hit ship",
-        "hit",
-        "hantaviru",
-        "isolate"
+        "frontier",
+        "plane",
+        "denver",
+        "airport",
+        "airlines",
+        "runway"
       ],
       "category": "new",
-      "theme": "theme_7761a75bf193b45e",
+      "theme": "theme_c16992d5e8db7a04",
       "entities": [
-        "Plans",
-        "Irish",
-        "UK",
-        "Tenerife",
-        "Hantavirus"
+        "Frontier Airlines",
+        "Denver",
+        "Pedestrian",
+        "Person",
+        "The Guardian"
       ],
-      "article_count": 10,
-      "source_count": 7,
+      "article_count": 37,
+      "source_count": 28,
       "articles": [
         {
-          "title": "Plans in place to bring Irish passengers on virus-hit ship home, say officials",
-          "url": "https://www.breakingnews.ie/ireland/plans-in-place-to-bring-irish-passengers-on-virus-hit-ship-home-say-officials-1897715.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDkxOTM2MDdcXFwvNWIyMmYxNDAzMGE2NGUwOTk4Nzc4YWY2NTE3YTFlNjQuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNWQxZWFiMTUxYmI5ZTZhYTJjNzNmODUwMzIxYjg2YzMwOWIzZDE1YiJ9/5b22f14030a64e0998778af6517a1e64.jpg"
-        },
-        {
-          "title": "Plans in place to bring Irish passengers on virus-hit ship home, say officials",
-          "url": "https://www.irishmirror.ie/news/irish-news/plans-place-bring-irish-passengers-37134678",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-05-09T20:06:43.000Z",
-          "image": "https://i2-prod.irishmirror.ie/news/world-news/article37134084.ece/ALTERNATES/s615/0_TOPSHOT-CAPE-VERDE-HEALTH-TOURISM.jpg"
-        },
-        {
-          "title": "Plans in place to bring Irish passengers on hantavirus-hit ship ship home, officials say",
-          "url": "https://www.irishexaminer.com/news/arid-41842146.html",
-          "source": "IrishExaminer.com",
-          "published_at": "2026-05-09T19:23:00.000Z"
-        },
-        {
-          "title": "UK passengers on hantavirus-hit ship will fly home after Tenerife screening",
-          "url": "https://www.theguardian.com/world/2026/may/09/hantavirus-ship-hondius-tenerife",
+          "title": "Frontier Airlines plane hits person on runway during takeoff at Denver airport",
+          "url": "https://www.theguardian.com/us-news/2026/may/09/frontier-airlines-plane-hits-pedestrian-denver",
           "source": "The Guardian",
-          "published_at": "2026-05-09T17:56:30.000Z",
-          "image": "https://i.guim.co.uk/img/media/0420505aa0a5291ae0a65e64fb3e3e9a3d6b82b1/226_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=2ea61f72a2cc4cc7254cc59d616eb075"
+          "published_at": "2026-05-09T13:10:55.000Z",
+          "image": "https://i.guim.co.uk/img/media/51c2a0b4246d647dff78f7703087fbe02266ec9c/505_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=32b5dba2b9c65fb8b7af0a6ad1172560",
+          "description": "Passengers were evacuated safely after the plane struck a person and an engine then caught on fire A Frontier Airlines plane hit a person on the runway of Denver’s international airport during takeoff, sparking an engine fire and forcing passengers to evacuate, authorities said. The plane, headed t…"
         },
         {
-          "title": "Hantavirus outbreak: UK to isolate cruise ship passengers in ex-Covid hospital",
-          "url": "https://www.scmp.com/news/world/europe/article/3353018/hantavirus-outbreak-uk-isolate-cruise-ship-passengers-ex-covid-hospital",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-09T17:15:25.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/10/d9a131c1-6c36-4d8b-9c2a-0875037fec23_47c33a74.jpg?itok=coDTjz9R&v=1778346916"
+          "title": "Pedestrian dies after being hit by Frontier Airlines plane that was taking off at Denver airport",
+          "url": "https://globalnews.ca/news/11841907/pedestrian-dies-denver-airport",
+          "published_at": "2026-05-09T14:15:42.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/Screenshot-2026-05-09-101435.png",
+          "description": "A Frontier Airlines plane struck and killed a pedestrian on a Denver airport runway, sparking an engine fire and forcing passengers to evacuate."
+        },
+        {
+          "title": "Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport",
+          "url": "https://www.ms.now/news/person-dies-after-being-hit-by-frontier-airlines-plane-that-was-taking-off-at-denver-airport",
+          "source": "MS NOW",
+          "published_at": "2026-05-09T20:49:31.000Z",
+          "description": "“We’re stopping on the runway,” the pilot tells the control tower according to the site ATC.com. “We just hit somebody. We have an engine fire.” The post Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport appeared first on MS NOW."
+        },
+        {
+          "title": "Frontier Airlines plane hits person on runway during takeoff at Denver airport",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxobdzovg90z0jqrfbtnwxkcnzjdlu5rnuxaex0tm5davbsugtyoddmtkjlcmfysmv6mljobg40egvbbmtpvepqbdh1ymxxdg1mb1jome4zevpvnwzfovctnlj4ckzhz05iedhwuezyzddydhfpexvhtvvsdm5iqi1er0lomufqttnvqjhlujfwbmtfqxbywfbob3hb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T13:13:00.000Z",
+          "description": "Frontier Airlines plane hits person on runway during takeoff at Denver airport The Guardian Frontier Airlines jet bound for LAX strikes, kills person on runway during takeoff at Denver International Airport ABC7 Los Angeles Pedestrian dies after being hit by Frontier Airlines plane that was taking…"
+        },
+        {
+          "title": "Frontier Airlines plane strikes, kills person on Denver Airport runway: report",
+          "url": "https://nypost.com/2026/05/09/us-news/frontier-airlines-plane-strikes-kills-pedestrian-on-denver-airport-runway-report",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-09T11:19:17.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Ffrontier-airlines-jetliner-waits-runway-30053641.jpg?w%3D1024",
+          "description": "\"Tower, Frontier 4345, we're stopping on the runway. Uh, we just hit somebody.\""
         }
-      ]
+      ],
+      "summary": "A Frontier Airlines plane struck a person on the runway while taking off at Denver International Airport. An engine caught fire, and passengers evacuated safely."
     },
     {
-      "id": "topic_436a644255ffa4ea",
+      "id": "topic_32b4e2a4ac0e030c",
+      "title": "Péter Magyar Sworn In as Hungary’s Prime Minister",
+      "headline": "Peter Magyar sworn in as Hungary&#8217;s prime minister",
       "label": [
-        "day parade",
-        "victory day",
-        "parade",
-        "victory",
-        "day",
-        "parade moscow"
-      ],
-      "category": "new",
-      "theme": "theme_96815366075b2864",
-      "entities": [
-        "Putin",
-        "Victory Day",
-        "Ukrainian",
-        "BBC News",
-        "Putin Leads Scaled"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Putin leads muted Victory Day parade under threat of Ukrainian attack | BBC News",
-          "url": "https://www.youtube.com/watch?v=x4mSqTSkgcY",
-          "source": "BBC News",
-          "published_at": "2026-05-09T22:06:14.000Z",
-          "image": "https://i1.ytimg.com/vi/x4mSqTSkgcY/hqdefault.jpg"
-        },
-        {
-          "title": "Putin Leads Scaled-Back Victory Day Parade in Moscow: What It Means for Russia’s Military Display",
-          "url": "https://internewscast.com/news/us/putin-leads-scaled-back-victory-day-parade-in-moscow-what-it-means-for-russias-military-display",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-09T17:59:54.000Z"
-        },
-        {
-          "title": "'Russia's scaled-down Victory Day parade felt more like a display of weakness for Vladimir Putin'",
-          "url": "https://news.sky.com/story/russias-scaled-down-victory-day-parade-felt-more-like-a-display-of-weakness-for-vladimir-putin-13542067",
-          "source": "World News - Breaking international news and headlines | Sky News",
-          "published_at": "2026-05-09T17:59:00.000Z",
-          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-victory-day-moscow_7243305.jpg?20260509104955"
-        },
-        {
-          "title": "Putin hosts sober Victory Day parade in Moscow amid security concerns",
-          "url": "https://www.youtube.com/shorts/BkQhugSVA5A",
-          "source": "CNN",
-          "published_at": "2026-05-09T17:39:54.000Z",
-          "image": "https://i3.ytimg.com/vi/BkQhugSVA5A/hqdefault.jpg"
-        },
-        {
-          "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
-          "url": "https://www.bbc.com/news/articles/cj9pem481rwo",
-          "source": "BBC News",
-          "published_at": "2026-05-09T17:25:53.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aa6/live/d1834720-4bc8-11f1-8bbe-110a0d5a715a.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_21790d54a0a4db65",
-      "label": [
-        "mp",
-        "labour mp",
-        "starmer",
-        "labour",
-        "challenge",
-        "monday labour"
-      ],
-      "category": "new",
-      "theme": "theme_9d9ce27b3ce09887",
-      "entities": [
-        "Challenge Starmer",
-        "Monday",
-        "Labour MP",
-        "Tory MP",
-        "Starmer"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Challenge Starmer by Monday or I will, Labour MP tells cabinet",
-          "url": "https://www.bbc.com/news/articles/cx210w87l4do",
-          "source": "BBC News",
-          "published_at": "2026-05-09T19:50:03.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f45/live/06f413e0-4be1-11f1-ac78-2112837ce2aa.png"
-        },
-        {
-          "title": "How a Tory MP 37 years ago has inspired a Labour MP’s ‘stalking horse’ leadership challenge to Starmer",
-          "url": "https://www.independent.co.uk/news/uk/politics/catherine-west-starmer-labour-leadership-challenge-b2973615.html",
-          "source": "The Independent UK",
-          "published_at": "2026-05-09T17:17:02.000Z",
-          "image": "https://static.independent.co.uk/2026/05/09/16/57/Catherine-West-MP.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Starmer faces leadership challenge on MONDAY as Labour MP issues bombshell ultimatum to Cabinet",
-          "url": "https://www.dailymail.com/news/article-15804259/labour-mp-fires-starting-gun-labour-leadership-election-issues-bombshell-ultimatum-cabinet-announce-successor-monday.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-09T16:52:41.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/09/17/108493349-0-image-a-3_1778345057510.jpg"
-        },
-        {
-          "title": "'Get rid of Keir Starmer or I will!' Labour MP issues brutal warning to ministers",
-          "url": "https://www.express.co.uk/news/politics/2203710/keir-starmer-could-face-leadership",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-05-09T16:51:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/139/590x/2203710_1.jpg"
-        },
-        {
-          "title": "Challenge Keir Starmer by Monday or I will, Labour MP tells cabinet ministers. #BBCNews",
-          "url": "https://www.youtube.com/shorts/GQ_-glBiN4Q",
-          "source": "BBC News",
-          "published_at": "2026-05-09T16:45:01.000Z",
-          "image": "https://i4.ytimg.com/vi/GQ_-glBiN4Q/hqdefault.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d617f59bdadd88bf",
-      "label": [
+        "hungary",
         "magyar",
-        "magyar sworn",
-        "sworn hungary",
-        "hungary prime",
-        "prime minister",
-        "sworn"
+        "prime",
+        "sworn",
+        "minister",
+        "péter"
       ],
       "category": "new",
-      "theme": "theme_b628d872140fe95",
+      "theme": "theme_9cb6fbef36f35177",
       "entities": [
-        "Magyar",
+        "Peter Magyar",
         "Hungary",
-        "Magyar Takes Office",
-        "Marking",
-        "Official End"
+        "Magyar",
+        "Orb",
+        "Magyar Sworn In As"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 20,
+      "source_count": 18,
       "articles": [
         {
-          "title": "Magyar sworn in as Hungary's prime minister on promises of change",
-          "url": "https://japantoday.com/category/world/magyar-sworn-in-as-hungary%27s-prime-minister-on-promises-of-change",
-          "source": "Japan Today",
-          "published_at": "2026-05-09T20:40:24.000Z"
+          "title": "Peter Magyar sworn in as Hungary&#8217;s prime minister",
+          "url": "https://news.sky.com/story/peter-magyar-sworn-in-as-hungary8217s-prime-minister-13541907",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-09T14:02:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-hungary-magyar_7243524.jpg?20260509152315",
+          "description": "Centre-right leader Peter Magyar has been sworn in as Hungary’s new prime minister."
         },
         {
-          "title": "Magyar sworn in as Hungary's prime minister on promises of change",
-          "url": "https://www.gmanetwork.com/news/topstories/world/987060/magyar-sworn-in-as-hungary-s-prime-minister-on-promises-of-change/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-09T17:06:00.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/hungary_peter_magyar_PM_2026_05_10_01_03_16.JPG"
+          "title": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
+          "url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-05-09T12:42:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/64861c017b1e92af5021e9080ef54bb2f629d384/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=350aef7b85d8be98ac7adc20b08cb543",
+          "description": "Jubilation in Budapest as Péter Magyar becomes leader and invites people to ‘step through gate of regime change’ • Europe live – latest updates The pro-European centre-right leader Péter Magyar has been sworn in as prime minister of Hungary, marking the official end to Viktor Orbán’s 16 years in po…"
         },
         {
-          "title": "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/peter-magyar-takes-office-marking-the-official-end-of-the-orban-era-2",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-09T16:49:21.000Z"
+          "title": "Hungary’s Péter Magyar Sworn In As Prime Minister, Ending Viktor Orbán’s 16-Year Rule",
+          "url": "https://www.huffpost.com/entry/hungarys-p%c3%a9ter-magyar-sworn-prime-minister-ending-viktor-orb%c3%a1ns-16-year-rule_n_69ff5135e4b065a1677e5a00",
+          "source": "World News",
+          "published_at": "2026-05-09T15:30:22.000Z",
+          "description": "Magyar’s center-right Tisza party defeated Orbán’s nationalist-populist Fidesz in a stunning blow last month."
         },
         {
-          "title": "Péter Magyar sworn in as Hungary's prime minister to end 16-year Orbán era (The Guardian)",
-          "url": "https://www.memeorandum.com/260509/p27",
-          "source": "memeorandum",
-          "published_at": "2026-05-09T16:35:00.000Z",
-          "image": "http://www.memeorandum.com/260509/i27.jpg"
+          "title": "Péter Magyar to be sworn in as Hungary prime minister as Viktor Orbán’s 16-year rule ends",
+          "url": "https://www.independent.co.uk/news/world/europe/peter-magyar-viktor-orban-hungary-prime-minister-b2973493.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-09T09:51:11.000Z",
+          "image": "https://static.independent.co.uk/2026/05/09/10/2275282534.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Péter Magyar will be sworn in as the new Hungarian prime minister after winning last month’s election"
         },
         {
-          "title": "Pro-EU Péter Magyar sworn in as Hungary's new prime minister",
-          "url": "https://www.thejournal.ie/hungary-orban-peter-magyar-7035232-may2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-05-09T16:21:43.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/05/hungarian-prime-minister-peter-magyar-delivers-his-speech-in-front-of-the-hungarian-parliament-after-taking-his-oath-of-office-in-budapest-hungary-saturday-may-9-2026-ap-photodenes-erdos-b55aa504-c882-4390-9137-805d07e24495-630x420.jpg"
+          "title": "Hungary: Peter Magyar sworn in as prime minister",
+          "url": "https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-09T13:07:00.000Z",
+          "description": "Peter Magyar vowed to implement wide-ranging reforms after winning a landslide election last month, ending Viktor Orban's 16 years in power."
         }
-      ]
+      ],
+      "summary": "Péter Magyar has been sworn in as Hungary’s prime minister after his party won last month’s election, ending Viktor Orbán’s 16 years in power. Magyar has pledged wide-ranging reforms."
     },
     {
-      "id": "topic_839edfe7cce93f44",
+      "id": "topic_d674f442e81d8359",
+      "title": "FIFA Plans World Cup Opening Ceremonies in Three Host Countries",
+      "headline": "Tyla to perform at FIFA World Cup opening ceremony",
       "label": [
-        "world cup",
-        "cup",
-        "world",
-        "open ceremony",
         "ceremony",
-        "cup open"
+        "cup",
+        "opening",
+        "world",
+        "fifa",
+        "studded"
       ],
       "category": "new",
-      "theme": "theme_b1d60eb930980a2b",
+      "theme": "theme_14b7b0732a22b88c",
       "entities": [
-        "Katy Perry",
-        "FIFA World Cup Opening",
-        "Ceremony",
-        "World Cup",
-        "Tyla"
+        "Tyla",
+        "FIFA World Cup",
+        "Nora Fatehi",
+        "Canada",
+        "Los Angeles"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
-        {
-          "title": "Katy Perry to headline 2026 FIFA World Cup Opening Ceremony as fans debate whether she's the right pick",
-          "url": "https://www.foxnews.com/entertainment/katy-perry-headline-2026-fifa-world-cup-opening-ceremony-fans-debate-whether-shes-right-pick",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-09T22:04:21.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/katy-perry-met-gala-white.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "World Cup to hold trio of star-studded opening ceremonies",
-          "url": "https://japantoday.com/category/2026-fifa-world-cup/world-cup-to-hold-trio-of-star-studded-opening-ceremonies",
-          "source": "Japan Today",
-          "published_at": "2026-05-09T20:36:27.000Z"
-        },
         {
           "title": "Tyla to perform at FIFA World Cup opening ceremony",
           "url": "https://www.thesouthafrican.com/lifestyle/tyla-to-perform-at-fifa-world-cup-opening-ceremony",
           "source": "The South African",
           "published_at": "2026-05-09T19:20:48.000Z",
-          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/05/Tyla-to-perform-at-the-FIFA-World-Cup-opening-ceremony.jpg.optimal.jpg"
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/05/Tyla-to-perform-at-the-FIFA-World-Cup-opening-ceremony.jpg.optimal.jpg",
+          "description": "Mzansi to Mexico: South African superstar Tyla will perform at the FIFA World Cup opening ceremony ahead of Bafana Bafana's first match."
         },
         {
-          "title": "Perry & Buble among performers at three World Cup opening ceremonies",
-          "url": "https://www.bbc.com/news/articles/cpvpr90vn01o",
-          "source": "BBC Sport",
-          "published_at": "2026-05-09T17:30:16.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7aa/live/afe45d30-4bc7-11f1-ac78-2112837ce2aa.png"
+          "title": "Nora Fatehi to perform at FIFA World Cup 2026 opening ceremony in Canada",
+          "url": "https://www.indiatoday.in/movies/celebrities/story/nora-fatehi-to-perform-at-fifa-world-cup-2026-opening-ceremony-in-canada-2909183-2026-05-09",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-09T10:17:15.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/nora-fatehi-090450637-16x9_0.jpg?VersionId=.L1bos6C_NMRbAVYLy7gviopbeiGP86J",
+          "description": "Nora Fatehi to perform at FIFA World Cup opening ceremony in Canada"
         },
         {
-          "title": "Rema to headline 2026 World Cup",
-          "url": "https://dailypost.ng/2026/05/09/rema-to-headline-2026-world-cup",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-09T16:10:58.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/02/Rema.jpg"
+          "title": "Los Angeles to host star-studded FIFA World Cup 2026 Opening Ceremony",
+          "url": "https://sports.yahoo.com/articles/los-angeles-host-star-studded-045937539.html",
+          "published_at": "2026-05-09T04:59:37.000Z",
+          "description": "LOS ANGELES — The United States will officially kick off the FIFA World Cup 2026 with a star-studded opening ceremony in Los Angeles on June 12, as FIFA announced an entertainment-driven celebration designed to blend soccer, music and culture on a global stage."
+        },
+        {
+          "title": "FIFA World Cup 2026 Opening Ceremony To Feature Nora Fatehi In Star-Studded Global Lineup",
+          "url": "https://www.freepressjournal.in/sports/fifa-world-cup-2026-opening-ceremony-to-feature-nora-fatehi-in-star-studded-global-lineup",
+          "source": "Free Press Journal",
+          "published_at": "2026-05-09T09:29:40.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2022-12/15646014-b471-4858-96f6-db0d6152dae0/317489714_449250514033423_8510811139338999590_n.jpg"
+        },
+        {
+          "title": "FIFA to stage separate World Cup opening ceremonies in Mexico, Canada and U.S.",
+          "url": "https://www.thehindu.com/sport/football/fifa-to-stage-separate-world-cup-opening-ceremonies-in-mexico-canada-and-us/article70958013.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-09T02:39:05.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/8nkykl/article70958018.ece/alternates/LANDSCAPE_1200/2026-05-08T230750Z_1344745318_RC245LAP6K2W_RTRMADP_3_SOCCER-WORLDCUP-USA-HOUSTON.JPG",
+          "description": "The ‌biggest World Cup in history kicks off on June ‌11 in Mexico City, where ‌Grammy ⁠Award-winning Mexican pop band Mana ⁠will be performing as part of a lineup that also includes Alejandro Fernandez and ​Belinda"
         }
-      ]
+      ],
+      "summary": "FIFA plans separate opening ceremonies in Mexico, Canada and the United States for the 2026 World Cup. Performers announced for the events include Tyla, Nora Fatehi and Maná."
     },
     {
-      "id": "topic_3679f364a036bdf4",
+      "id": "topic_18b8f8ad95772b88",
+      "title": "Russia Holds Scaled-Back Victory Day Parade in Moscow",
+      "headline": "Scaled-back Victory Day parade held in Moscow",
       "label": [
-        "broderick convict",
-        "betty",
-        "broderick",
-        "betty broderick",
-        "convict",
-        "husband"
+        "parade",
+        "victory",
+        "day",
+        "moscow",
+        "scaled",
+        "russia"
       ],
-      "category": "new",
-      "theme": "theme_4304384973596c13",
+      "category": "trending",
+      "theme": "theme_ec58af0bc3c6984b",
       "entities": [
-        "Betty Broderick",
-        "SoCal",
-        "Notorious Socialite Betty Broderick",
-        "Convicted",
-        "Killing Ex"
+        "Scaled",
+        "Victory Day",
+        "Moscow",
+        "Russia",
+        "Red Square"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 39,
+      "source_count": 26,
       "articles": [
         {
-          "title": "Betty Broderick, convicted in 1989 killings of ex-husband and his new wife, dies aged 78",
-          "url": "https://www.theguardian.com/us-news/2026/may/09/betty-broderick-convicted-double-murder-ex-husband-wife-dead",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-09T22:07:09.000Z",
-          "image": "https://i.guim.co.uk/img/media/dec01ec5944b3ab69841b53bf086f2c8675d324c/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=28d7d0ba6f479c08e5b0b56e8c09d05d"
+          "title": "Scaled-back Victory Day parade held in Moscow",
+          "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-09T10:04:45.000Z",
+          "description": "Russia marks downsized Victory Day parade as Putin pledges victory in Ukraine 'special military operation'."
         },
         {
-          "title": "Betty Broderick, convicted in infamous SoCal double murder, has died",
-          "url": "https://www.yahoo.com/news/articles/betty-broderick-convicted-infamous-socal-174529121.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-09T17:45:29.000Z",
-          "image": "https://media.zenfs.com/en/usa_today_news_641/4918d676ebb34349154296dba8707549"
+          "title": "Russia holds Victory Day parade on Moscow’s Red Square",
+          "url": "https://tass.com/society/2128807",
+          "source": "TASS",
+          "published_at": "2026-05-09T07:09:39.000Z",
+          "description": "The parade began with a march of the banner group of the Preobrazhensky Regiment Honor Guard’s unit carrying the Russian national flag and the legendary Victory Banner across Red Square"
         },
         {
-          "title": "Notorious Socialite Betty Broderick, Convicted of Killing Ex-Husband, Passes Away",
-          "url": "https://internewscast.com/news/notorious-socialite-betty-broderick-convicted-of-killing-ex-husband-passes-away",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-09T17:13:35.000Z"
+          "title": "Russia marks Victory Day with parade in Moscow under tight security",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3352987/russia-marks-victory-day-parade-moscow-under-tight-security",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-09T08:42:58.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/09/27cf6236-e0fa-4ad5-a50e-cb7eecab194c_f1627df8.jpg?itok=XXb5skpo&v=1778317041",
+          "description": "Russian President Vladimir Putin on Saturday oversaw a military parade commemorating the defeat of Nazi Germany in World War II on Red Square. Security was tight in Moscow as Putin spoke at the parade, even as a US-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to dis…"
         },
         {
-          "title": "Betty Broderick, convicted in infamous killing of husband and his new young wife, dies at 78",
-          "url": "https://nypost.com/2026/05/09/us-news/betty-broderick-convicted-in-infamous-killing-of-husband-and-his-new-young-wife-dies-at-78",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-09T16:34:07.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Freacts-differently-news-elisabeth-anne-127317944.jpg?w%3D1024"
+          "title": "Putin oversees scaled-back Victory Day parade on Red Square",
+          "url": "https://www.dw.com/en/putin-oversees-scaled-back-victory-day-parade-on-red-square/a-77103146",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-09T09:15:00.000Z",
+          "description": "Vladimir Putin has praised Russian troops fighting in Ukraine in a speech at Moscow's May 9 parade. The threat of Ukrainian attacks means tanks, missiles and other heavy weapons are absent from this year's event."
+        },
+        {
+          "title": "Russia holds scaled-down Victory Day parade under tight security",
+          "url": "https://www.thehindu.com/videos/russia-holds-scaled-down-victory-day-parade-under-tight-security/article70960163.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-09T16:36:38.000Z",
+          "image": "https://th-i.thgim.com/public/videos/gx7vnv/article70960153.ece/alternates/LANDSCAPE_1200/moscow%20.jpg",
+          "description": "Russia marked the 81st anniversary of the Soviet Union’s victory over Nazi Germany with a scaled-down Victory Day parade at Moscow’s Red Square, as tight security measures were enforced amid concerns linked to the ongoing war in Ukraine."
         }
-      ]
+      ],
+      "summary": "Vladimir Putin oversaw a Victory Day parade on Moscow’s Red Square under tight security. The event was scaled back, with tanks, missiles and other heavy weapons absent."
     },
     {
-      "id": "topic_6375136ba09c92fe",
+      "id": "topic_cbdaaabe206f3891",
+      "title": "McIlroy Says LIV Golf Players Returning Would Benefit PGA Tour",
+      "headline": "'Good business' for PGA Tour if LIV players return - McIlroy",
       "label": [
-        "es",
-        "esto es",
-        "esto",
-        "de hantaviru",
-        "oms",
-        "covid"
-      ],
-      "category": "new",
-      "theme": "theme_4995761ac127d9ed",
-      "entities": [
-        "Esto",
-        "Covid",
-        "OMS",
-        "COVID"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Esto no es otra Covid’: director de la OMS sobre brote de hantavirus",
-          "url": "https://vanguardia.com.mx/noticias/esto-no-es-otra-covid-director-de-la-oms-sobre-brote-de-hantavirus-bp20586214",
-          "source": "Vanguardia",
-          "published_at": "2026-05-09T21:03:12.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-05-09t15161_1-15361726_20260509211659.jpg"
-        },
-        {
-          "title": "‘Esto no es el COVID’: OMS busca calmar temor por brote de hantavirus en crucero",
-          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/09/esto-no-es-el-covid-oms-busca-calmar-temor-por-brote-de-hantavirus-en-crucero",
-          "source": "El Financiero",
-          "published_at": "2026-05-09T17:43:18.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/3E4kzemqndSITCZ6y6pcKtDh1Mk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PLXC6OA45JBRFJ7TF5JXG4JH4U.jpg"
-        },
-        {
-          "title": "Esto no es otro Covid, riesgo de hantavirus es bajo.- OMS",
-          "url": "https://www.elnorte.com/esto-no-es-otro-covid-riesgo-de-hantavirus-es-bajo-oms/ar3201347",
-          "source": "ElNorte",
-          "published_at": "2026-05-09T17:14:35.000Z"
-        },
-        {
-          "title": "Esto no es otro Covid, riesgo de hantavirus es bajo.- OMS",
-          "url": "https://www.reforma.com/esto-no-es-otro-covid-riesgo-de-hantavirus-es-bajo-oms/ar3201346",
-          "source": "Reforma",
-          "published_at": "2026-05-09T17:13:57.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_2325a1f86591cb1c",
-      "label": [
-        "grammy",
-        "janet",
-        "jackson",
-        "grammy hall",
-        "janet jackson",
-        "fame"
-      ],
-      "category": "new",
-      "theme": "theme_a4fc2985c06141ea",
-      "entities": [
-        "Highlights From",
-        "Grammy Hall",
-        "Fame Gala",
-        "Janet Jackson",
-        "Heart"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "8 Highlights From 2026 Grammy Hall of Fame Gala: Janet Jackson, Heart, Lucinda Williams & More",
-          "url": "https://www.billboard.com/lists/grammy-hall-of-fame-gala-2026-highlights-janet-jackson",
-          "source": "Billboard",
-          "published_at": "2026-05-09T18:01:34.000Z"
-        },
-        {
-          "title": "Janet Jackson Calls for Peace, George Clinton Performs With Erykah Badu at Grammy Hall of Fame Gala",
-          "url": "https://variety.com/2026/music/news/janet-jackson-george-clinton-grammy-hall-of-fame-gala-1236742358",
-          "source": "Variety",
-          "published_at": "2026-05-09T17:34:15.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/RS1_1331_IXV1pP3s.jpeg"
-        },
-        {
-          "title": "Janet Jackson Calls For ‘Peace The World Over’ During Rare Appearance At 2026 Grammy Hall Of Fame",
-          "url": "https://www.forbes.com/sites/cathyolson/2026/05/09/janet-jackson-calls-for-peace-the-world-over-during-rare-appearance-at-2026-grammy-hall-of-fame",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-09T16:34:25.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69fed9ef7fe3bb6ac193bc03/0x0.jpg?width=960&precrop=3697%2C2523%2Cx106%2Cy189"
-        },
-        {
-          "title": "Janet Jackson’s ‘Rhythm Nation’ Inducted Into Grammy Hall of Fame: It ‘Fights Bigotry and Promotes Understanding’",
-          "url": "https://www.rollingstone.com/music/music-news/janet-jackson-grammy-hall-fame-rhythm-nation-performances-1235560217",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-09T16:24:03.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bc138cb33a526453",
-      "label": [
-        "ok",
-        "return pga",
-        "mcilroy",
         "pga",
+        "mcilroy",
         "liv",
-        "liv player"
+        "tour",
+        "rory",
+        "players"
       ],
       "category": "new",
-      "theme": "theme_79bb96386a020697",
+      "theme": "theme_5c905b529d568709",
       "entities": [
-        "OK",
-        "McIlroy",
-        "LIV",
+        "Good",
         "PGA Tour",
-        "Rory McIlroy"
+        "LIV",
+        "McIlroy",
+        "OK"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 7,
       "articles": [
         {
-          "title": "公共図書館に求められる役割とは？ 先進の北欧は「おしゃべり」OK",
-          "url": "http://www.asahi.com/articles/asv512pksv51uhbi00jm.html",
-          "source": "朝日新聞",
-          "published_at": "2026-05-09T23:00:00.000Z"
+          "title": "'Good business' for PGA Tour if LIV players return - McIlroy",
+          "url": "https://sports.yahoo.com/articles/good-business-pga-tour-liv-065455524.html",
+          "published_at": "2026-05-09T06:54:55.000Z",
+          "description": "Rory McIlroy says bringing back LIV Golf defectors would be \"good business\" for the PGA Tour amid doubts over the future of the breakaway series."
         },
         {
           "title": "McIlroy says OK to LIV players returning to PGA Tour",
           "url": "https://sports.inquirer.net/675853/mcilroy-says-ok-to-liv-players-returning-to-pga-tour",
           "source": "INQUIRER.net",
           "published_at": "2026-05-09T21:15:02.000Z",
-          "image": "https://sports.inquirer.net/files/2026/05/Sports1221967-620x413.jpg"
+          "image": "https://sports.inquirer.net/files/2026/05/Sports1221967-620x413.jpg",
+          "description": "CHARLOTTE—Rory McIlroy is no longer opposed to LIV Golf players returning to the PGA Tour, but he said on Friday that “it’s a question of if they do want to come back.” McIlroy said the answer will likely depend on what happens with LIV’s financial situation in the coming months. Last month, Saudi…"
         },
         {
-          "title": "Rory McIlroy has blunt message for LIV players who wouldn't want to return to PGA Tour",
-          "url": "https://sports.yahoo.com/articles/rory-mcilroy-blunt-message-liv-204229104.html",
-          "published_at": "2026-05-09T20:42:29.000Z"
+          "title": "'Good business' for PGA Tour if LIV players return - McIlroy",
+          "url": "https://news.google.com/rss/articles/cbmiykfvx3lxte9ucfj0exvfm1dmvefkcw9crzi2zkc3dk91tlo2cvlsefq4ewvxbfjjuve5qkjba1pxnulbquror19snc1sdwnszzrsrxfwrc15skfvtf9yx0uybnb0s0vsoepr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T06:54:50.000Z",
+          "description": "'Good business' for PGA Tour if LIV players return - McIlroy BBC McIlroy not against LIV golfers' return: 'Just good business' ESPN Rory McIlroy takes veiled shot at Bryson DeChambeau, other LIV golfers The New York Times Rory McIlroy speaks out on LIV Golf losing funding; DeChambeau and Rahm's pos…"
         },
         {
-          "title": "Rory McIlroy says LIV golfers returning to PGA is 'good business,' but still takes one more shot at them",
-          "url": "https://www.foxnews.com/sports/rory-mcilroy-says-liv-golfers-returning-pga-good-business-still-takes-one-shot",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-09T17:44:19.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/bryson-dechambeau-rory-mcilroy.jpg?ve=1&tl=1"
+          "title": "Rory McIlroy: if LIV golfers don’t want to rejoin PGA Tour, ‘that says something about you’",
+          "url": "https://www.theguardian.com/sport/2026/may/09/rory-mcilroy-pga-tour-liv-golf-bryson-dechambeau",
+          "source": "The Guardian",
+          "published_at": "2026-05-09T12:20:05.000Z",
+          "image": "https://i.guim.co.uk/img/media/0d733cf94b09930b60db3b5766f2ee643938d4ba/263_0_2617_2095/master/2617.jpg?width=140&quality=85&auto=format&fit=max&s=c773ea9d5ef8de32713bc88d5adec69b",
+          "description": "World No 2 is not against return: ‘Just good business’ Circuit’s future is uncertain after Saudi withdrawal DeChambeau has denied claims of PGA Tour talks Rory McIlroy is no longer opposed to LIV Golf players returning to the PGA Tour, but he said Friday that “it’s a question of if they do want to…"
+        },
+        {
+          "title": "Rory McIlroy makes dig at LIV finances but open to players returning to PGA Tour",
+          "url": "https://www.the42.ie/rory-mcilroy-liv-3-7035024-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-09T09:27:29.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/featureimage-ac8d4f70-9557-45f0-a618-477ceffb2f91-630x420.jpg",
+          "description": "The Northern Irishman shot a four-under 67 which moved him into contention at the Truist Championship."
         }
-      ]
+      ],
+      "summary": "Rory McIlroy said he is no longer opposed to LIV Golf players returning to the PGA Tour, calling their return good business. He said it remains a question of whether they want to come back."
     },
     {
-      "id": "topic_6a356d84e588155c",
+      "id": "topic_511fc9dc1c7a6b05",
+      "title": "US and Iran Remain Far From Ending War as Gulf Clashes Flare",
+      "headline": "US, Iran no closer to ending war as Gulf clashes flare",
       "label": [
-        "sebasti",
-        "garc",
-        "oro",
-        "sebasti garc",
-        "arco",
-        "oro en"
+        "closer",
+        "ending",
+        "war",
+        "iran",
+        "us",
+        "flare"
       ],
       "category": "new",
-      "theme": "theme_d586fd3cfdd20901",
+      "theme": "theme_232fc013e23dcd65",
       "entities": [
-        "Shangh",
-        "Sebasti",
-        "Garc",
-        "Copa Mundial",
-        "Tiro"
+        "US",
+        "Iran",
+        "Gulf",
+        "Reuters",
+        "Qatari"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 7,
       "articles": [
         {
-          "title": "¡México conquista Shanghái!: Sebastián García se lleva el oro en la Copa Mundial de Tiro con Arco",
-          "url": "https://www.elfinanciero.com.mx/deportes/2026/05/09/sebastian-garcia-se-lleva-el-oro-en-la-copa-mundial-de-tiro-con-arco-2026",
-          "source": "El Financiero",
-          "published_at": "2026-05-09T18:59:41.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/j9TWzKOyP7vv6CsaF12avSEWaoc=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G3ATY3LRHRGO5FBEVWFLISUB6M.jpg"
-        },
-        {
-          "title": "Sebasti�n Garc�a logra medalla de oro en arco compuesto",
-          "url": "https://www.elnorte.com/sebastian-garcia-logra-medalla-de-oro-en-arco-compuesto/ar3201338",
-          "source": "ElNorte",
-          "published_at": "2026-05-09T17:13:19.000Z"
-        },
-        {
-          "title": "Sebastián García le da un oro a México",
-          "url": "https://www.informador.mx/deportes/sebastian-garcia-consigue-oro-para-mexico-en-la-copa-del-mundo-de-tiro-con-arco-shanghai-20260509-0049.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-09T16:43:00.000Z"
-        },
-        {
-          "title": "Sebasti�n Garc�a logra medalla de oro en arco compuesto",
-          "url": "https://www.reforma.com/sebastian-garcia-logra-medalla-de-oro-en-arco-compuesto/ar3201335",
-          "source": "Reforma",
-          "published_at": "2026-05-09T16:33:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5df5e603e7f787b2",
-      "label": [
-        "900",
-        "1986",
-        "saab",
-        "spg",
-        "1986 saab",
-        "saab 900"
-      ],
-      "category": "new",
-      "theme": "theme_5ec0875a5d0c9f25",
-      "entities": [
-        "Saab",
-        "Turbo SPG",
-        "No Reserve",
-        "Crude"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "पाक ने गुजरात से कश्मीर तक 900 ड्रोन दागे थे:ऑपरेशन सिंदूर में सब तबाह; पाक-चीन-तुर्किये तिकड़ी के 4 मंसूबे चौपट",
-          "url": "https://www.bhaskar.com/national/news/operation-sindur-pak-china-turkiye-drone-attack-foiled-137897734.html",
-          "source": "देश | दैनिक भास्कर",
-          "published_at": "2026-05-09T21:32:05.000Z",
-          "image": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2026/05/10/cover291778154644_1778362289.gif"
-        },
-        {
-          "title": "1986 Saab 900 Turbo SPG at No Reserve",
-          "url": "https://bringatrailer.com/listing/1986-saab-900-22",
-          "source": "The best vintage and classic cars for sale online | Bring a Trailer",
-          "published_at": "2026-05-09T18:10:12.000Z",
-          "image": "https://bringatrailer.com/wp-content/uploads/2026/03/1986_saab_900_1986_saab_900_9283b387-3ec3-4c12-b9ff-615a622fbd76-y3kbKJ-32251-32252-scaled.jpg?fit=940%2C627"
-        },
-        {
-          "title": "Crude oil and the 900-million barrel question",
-          "url": "https://www.thehindubusinessline.com/portfolio/big-story/crude-oil-and-the-900-million-barrel-question/article70956570.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-05-09T16:14:50.000Z",
-          "image": "https://bl-i.thgim.com/public/incoming/311w50/article70959955.ece/alternates/LANDSCAPE_1200/PO10_BS_Strait_Hormuz_oil_barrel.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7a8b8f6d947a1948",
-      "label": [
-        "niger",
-        "niger suspend",
-        "french media",
-        "french",
-        "suspend",
-        "media"
-      ],
-      "category": "new",
-      "theme": "theme_43072bf0cf9d1c54",
-      "entities": [
-        "Press",
-        "Niger",
-        "French",
-        "Watchdog"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Press freedom alarm as Niger suspends 9 French media outlets over ‘national security’",
-          "url": "https://www.seattletimes.com/nation-world/press-freedom-alarm-as-niger-suspends-9-french-media-outlets-over-national-security",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-05-09T18:23:03.000Z",
-          "image": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"
-        },
-        {
-          "title": "Press freedom alarm as Niger suspends 9 French media outlets over 'national security'",
-          "url": "https://www.yahoo.com/news/articles/press-freedom-alarm-niger-suspends-182215064.html",
+          "title": "US, Iran no closer to ending war as Gulf clashes flare",
+          "url": "https://www.yahoo.com/news/articles/us-iran-no-closer-ending-065843259.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-09T18:22:15.000Z"
+          "published_at": "2026-05-09T06:58:43.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/414f299f25d6a33dda4eb9f20271da7a"
         },
         {
-          "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
-          "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-09T15:53:27.000Z"
+          "title": "US, Iran no closer to ending war",
+          "url": "https://tribune.com.pk/story/2607294/us-iran-no-closer-to-ending-war",
+          "source": "express tribune",
+          "published_at": "2026-05-09T20:36:45.000Z",
+          "description": "Strait of Hormuz calm after days of sporadic attacks"
+        },
+        {
+          "title": "US, Iran no closer to ending war as Gulf clashes flare",
+          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqvlnjcvliswzxdenyovi2zu50rs1kcnn2eey0m25rnti0etdjtzfdsmlnsgrfx19rcmrsz1doylllzg81z0hdzgjmmvbhb0ctdvjcb3ffudjyx1lynm1fvxd5vfjgdk1en2h3tepyd1byyvj6tez0axzjsllxr1cytutprddvzmitzg44ekjhqupbani5rncxlvroqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T06:58:00.000Z",
+          "description": "US, Iran no closer to ending war as Gulf clashes flare Reuters Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal CBS News Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks The New York Times US fires on and disabl…"
+        },
+        {
+          "title": "US, Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz",
+          "url": "https://www.gmanetwork.com/news/topstories/world/987065/us-iran-no-closer-to-ending-war-as-qatari-tanker-sails-toward-strait-of-hormuz/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-09T22:31:13.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/2026-05-01T054721Z_787512985_RC210LA80XNJ_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ_2026_05_01_17_59_34.JPG",
+          "description": "A state of relative calm prevailed around the Strait of Hormuz on Saturday, after days of sporadic flare-ups, as the United States waited for Iran's response to its latest proposals to end more than two months of fighting and begin peace talks."
+        },
+        {
+          "title": "US-Iran war no closer to ending as Gulf clashes flare",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3353007/us-iran-war-no-closer-ending-gulf-clashes-flare",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-09T12:56:28.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/09/b61cbf06-d12e-499f-9993-be7eb0c6e69c_2bb27d65.jpg?itok=q5iasft9&v=1778331378",
+          "description": "⁠The US and Iran appeared no closer on Saturday to finding an end to their war after the two sides traded fire in the Gulf amid a tenuous ceasefire, while a US intelligence analysis concluded Tehran could withstand a naval blockade for months. Recent days have seen the biggest flare-ups in fighting…"
         }
-      ]
+      ],
+      "summary": "The United States and Iran appeared no closer to ending their war after trading fire in the Gulf amid a tenuous ceasefire. Relative calm prevailed around the Strait of Hormuz after days of sporadic clashes."
     },
     {
-      "id": "topic_e157989650adfaeb",
+      "id": "topic_e68badbbce9c150",
+      "title": "Countries Arrange Return Plans for Passengers on Hantavirus-Hit Ship",
+      "headline": "Plans in place to bring Irish passengers on hantavirus-hit ship ship home, officials say",
       "label": [
-        "un bateau",
-        "bateau de",
-        "bateau",
-        "sur un",
-        "de croisi",
-        "croisi re"
+        "ship",
+        "hit",
+        "hantavirus",
+        "passengers",
+        "home",
+        "plans"
       ],
       "category": "new",
-      "theme": "theme_46373af44a4459f2",
+      "theme": "theme_3bab0f4c90cc66b5",
       "entities": [
-        "Hantavirus",
-        "Belges",
-        "Eindhoven",
-        "Dans"
+        "Plans",
+        "Irish",
+        "Two Indians",
+        "UK",
+        "Tenerife"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Hantavirus sur un bateau de croisière : 29 passagers, parmi lesquels deux Belges, s’envoleront de Ténériffe pour Eindhoven",
-          "url": "https://www.rtbf.be/article/hantavirus-sur-un-bateau-de-croisiere-29-passagers-parmi-lesquels-deux-belges-s-envoleront-de-teneriffe-pour-eindhoven-11721725",
-          "source": "- Info",
-          "published_at": "2026-05-09T18:35:06.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/8/b/f/2a5c71f1bc29855bc56f9b097b000b4d.jpg"
+          "title": "Plans in place to bring Irish passengers on hantavirus-hit ship ship home, officials say",
+          "url": "https://www.irishexaminer.com/news/arid-41842146.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-05-09T19:23:00.000Z",
+          "description": "Depending on their health when they disembark the cruise ship MV Hondius, the two Irish passengers will be transferred 'directly' to Ireland"
         },
         {
-          "title": "Hantavirus sur un bateau de croisière : deux Belges rapatriés dimanche",
-          "url": "https://www.lesoir.be/745704/article/2026-05-09/hantavirus-sur-un-bateau-de-croisiere-deux-belges-rapatries-dimanche",
-          "source": "Actualité - Le Soir",
-          "published_at": "2026-05-09T18:33:42.000Z",
-          "image": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/05/09/node_745704/33460552/public/2026/05/09/78643050.jpeg?itok=uBmWsawJ1778351743"
-        },
-        {
-          "title": "Hantavirus sur un bateau de croisière : examens, isolement, quarantaine… Dans quelles conditions les passagers du navire seront-ils rapatriés dans leur pays d'origine ?",
-          "url": "https://www.ladepeche.fr/2026/05/09/hantavirus-sur-un-bateau-de-croisiere-examens-isolement-quarantaine-dans-quelles-conditions-les-passagers-du-navire-seront-ils-rapatries-dans-leur-13363301.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-05-09T16:01:34.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/69ff0a243d3650c73b05af3c/standard/image.jpg?v=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_f728f83a2c42bcf6",
-      "label": [
-        "sabalenka",
-        "sabalenka suffer",
-        "suffer",
-        "defeat",
-        "cirstea",
-        "cirstea italian"
-      ],
-      "category": "new",
-      "theme": "theme_804c266ab3714c7e",
-      "entities": [
-        "Sabalenka",
-        "Cirstea",
-        "Italian Open"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Sabalenka suffers surprise defeat to Cirstea at Italian Open",
-          "url": "https://japantoday.com/category/sports/sabalenka-suffers-surprise-defeat-to-cirstea-at-italian-open",
-          "source": "Japan Today",
-          "published_at": "2026-05-09T20:41:07.000Z"
-        },
-        {
-          "title": "Sabalenka stunned by Cirstea at Italian Open",
-          "url": "https://www.espn.com/tennis/story/_/id/48722343/sabalenka-suffers-surprise-defeat-cirstea-italian-open",
-          "source": "www.espn.com - TENNIS",
-          "published_at": "2026-05-09T18:51:37.000Z"
-        },
-        {
-          "title": "Sabalenka suffers second defeat in three matches",
-          "url": "https://sports.yahoo.com/articles/sabalenka-suffers-second-defeat-three-172246798.html",
-          "published_at": "2026-05-09T17:59:34.000Z"
-        },
-        {
-          "title": "Sabalenka suffers second defeat in three matches",
-          "url": "https://www.bbc.com/news/articles/c3e2vl202weo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-09T17:59:30.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b622/live/e118d410-4bc4-11f1-b55d-0f258dce1735.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_5281d410bddb63bd",
-      "label": [
-        "becom fastest",
-        "sooryavanshi",
-        "becom",
-        "fastest",
-        "vaibhav sooryavanshi",
-        "vaibhav"
-      ],
-      "category": "new",
-      "theme": "theme_ef416e735b187710",
-      "entities": [
-        "IPL",
-        "Vaibhav Sooryavanshi",
-        "T20"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "IPL 2026: Vaibhav Sooryavanshi scripts history, becomes fastest ever to...",
-          "url": "https://sports.yahoo.com/articles/ipl-2026-vaibhav-sooryavanshi-scripts-215300060.html",
-          "published_at": "2026-05-09T21:53:00.000Z"
-        },
-        {
-          "title": "Vaibhav Sooryavanshi keeps haunting bowlers, becomes fastest to 100 T20 sixes",
-          "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-fastest-100-t20-sixes-ipl-2026-gujarat-titans-2909356-2026-05-10",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-09T18:42:47.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/vaibhav-sooryavanshi-09412846-16x9_0.jpg?VersionId=GjyI75CBDLw4moyRjvNxRc.6r4fgV.MR"
-        },
-        {
-          "title": "Vaibhav Sooryavanshi scripts history, becomes fastest ever to...",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-vaibhav-sooryavanshi-scripts-history-becomes-fastest-ever-to-100-t20-sixes/articleshow/130980777.cms",
+          "title": "Two Indians in crew of hantavirus-hit ship",
+          "url": "https://timesofindia.indiatimes.com/india/two-indians-in-crew-of-hantavirus-hit-ship/articleshow/130969369.cms",
           "source": "Times of India",
-          "published_at": "2026-05-09T16:23:18.000Z",
-          "image": "https://static.toiimg.com/photo/msid-130980764,imgsize-149422.cms"
+          "published_at": "2026-05-09T01:54:17.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130969437,imgsize-35802.cms",
+          "description": "A rare hantavirus outbreak on a cruise ship with two Indian crew members has sparked international attention. Experts assure no immediate concern for India, citing previous sporadic cases. The Andes strain, linked to limited human-to-human spread, requires close exposure, unlike COVID-19. India's h…"
+        },
+        {
+          "title": "WHO head reassures island as hantavirus-hit ship nears",
+          "url": "https://www.perthnow.com.au/news/coronavirus/who-head-reassures-island-as-hantavirus-hit-ship-nears-c-22260972",
+          "source": "PerthNow",
+          "published_at": "2026-05-09T16:43:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22260972/a35524dae6aa1ad608f1eae4c94e01268e23894f-16x9-x0y0w1280h720.jpg",
+          "description": "World Health Organisation head Tedros Adhanom Ghebreyesus has assured the people of the Canary Islands that the risk from hantavirus is low."
+        },
+        {
+          "title": "Plans in place to bring Irish passengers on virus-hit ship home, say officials",
+          "url": "https://www.breakingnews.ie/ireland/plans-in-place-to-bring-irish-passengers-on-virus-hit-ship-home-say-officials-1897715.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDkxOTM2MDdcXFwvNWIyMmYxNDAzMGE2NGUwOTk4Nzc4YWY2NTE3YTFlNjQuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNWQxZWFiMTUxYmI5ZTZhYTJjNzNmODUwMzIxYjg2YzMwOWIzZDE1YiJ9/5b22f14030a64e0998778af6517a1e64.jpg",
+          "description": "The two Irish passengers are said to be ‘well’ but will have to quarantine when they return to Ireland."
+        },
+        {
+          "title": "UK passengers on hantavirus-hit ship will fly home after Tenerife screening",
+          "url": "https://www.theguardian.com/world/2026/may/09/hantavirus-ship-hondius-tenerife",
+          "source": "The Guardian",
+          "published_at": "2026-05-09T17:56:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/0420505aa0a5291ae0a65e64fb3e3e9a3d6b82b1/226_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=2ea61f72a2cc4cc7254cc59d616eb075",
+          "description": "The MV Hondius is heading for the Canary Islands where Britons on board will be transferred to Merseyside hospital Passengers from the UK who are on board the hantavirus-afflicted cruise ship heading for Tenerife will be flown to Merseyside on Sunday for hospital quarantine. The 19 British passenge…"
         }
-      ]
+      ],
+      "summary": "Officials are arranging the return of passengers from the hantavirus-hit cruise ship MV Hondius. Irish passengers are expected to quarantine after returning, while UK passengers are to be screened in Tenerife before flying home; the WHO said the risk to the Canary Islands is low."
     },
     {
-      "id": "topic_d04f7a4aab47694a",
+      "id": "topic_fc89bb5bd1c75224",
+      "title": "Hall of Fame Braves Manager Bobby Cox Dies at 84",
+      "headline": "Bobby Cox, longtime Braves manager and World Series champ, dies - ESPN",
       "label": [
-        "kill seven",
-        "israeli strike",
-        "seven",
-        "strike",
-        "lebanon",
-        "israeli"
+        "cox",
+        "bobby",
+        "manager",
+        "braves",
+        "dies",
+        "baseball"
       ],
       "category": "new",
-      "theme": "theme_147d64c4b5734fc6",
+      "theme": "theme_2707e54df5e1cb03",
       "entities": [
-        "Israeli",
-        "Lebanon",
-        "Lebanese"
+        "Bobby Cox",
+        "Braves",
+        "World Series",
+        "ESPN",
+        "Atlanta Braves"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 12,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Israeli strike kills seven in south Lebanon; Lebanese health ministry says",
-          "url": "https://japantoday.com/category/world/israeli-strike-kills-seven-in-south-lebanon-lebanese-health-ministry-says",
-          "source": "Japan Today",
-          "published_at": "2026-05-09T20:40:10.000Z"
+          "title": "Bobby Cox, longtime Braves manager and World Series champ, dies",
+          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxpognnczzzz2nfmjhgaxr5r2dztfhkafjtegk0uei5rtntqul6n3etndk3vmrialqzq2dwudbcx2zsufdndmj6cjhmt3fktw9kzznjmngwnjdumxdwamzszjdithjetgn2cjdhmznndvnzqkxvawdivnhkn0jldzy4dldnzzrvbnazzezowvrfalbrmdrwtjlhz050sm1rngm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T17:59:00.000Z",
+          "description": "Bobby Cox, longtime Braves manager and World Series champ, dies ESPN Bobby Cox, legendary Atlanta Braves manager who led 1995 World Series champions, dead at 84 Fox News Bobby Cox, legendary Braves manager, dies at 84 Yahoo Sports Look back at Bobby Cox's incredible career: World Series, ejections,…"
         },
         {
-          "title": "Lebanon says Israeli strike on south kills seven including child",
-          "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
-          "source": "BBC News",
-          "published_at": "2026-05-09T16:43:27.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg"
+          "title": "Bobby Cox, legendary Atlanta Braves manager who led 1995 World Series champions, dead at 84",
+          "url": "https://www.foxnews.com/sports/bobby-cox-legendary-atlanta-braves-manager-led-1995-world-series-champions-dead-84",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-09T18:25:27.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/bobby-cox-atlanta-braves-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "Bobby Cox, who led the Atlanta Braves to 14 division titles and the 1995 World Series championship, has died at age 84, the team announced Saturday."
         },
         {
-          "title": "Israeli strike kills seven in south Lebanon, Lebanese health ministry says",
-          "url": "https://www.investing.com/news/world-news/israeli-strike-kills-seven-in-south-lebanon-lebanese-health-ministry-says-4674671",
-          "source": "All News",
-          "published_at": "2026-05-09T16:30:28.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM480BE_L.jpg"
+          "title": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
+          "url": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
+          "source": "NYT > Obituaries",
+          "published_at": "2026-05-09T20:07:45.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/09/multimedia/09cox_bobby-wave-wcqm/09cox_bobby-wave-wcqm-mediumSquareAt3X.jpg",
+          "description": "He led the Atlanta Braves to victory in the 1990s and was later inducted into the Baseball Hall of Fame for his leadership."
+        },
+        {
+          "title": "Atlanta Braves Hall of Fame manager Bobby Cox has died at 84",
+          "url": "https://abcnews.com/sports/wirestory/bobby-cox-manager-braves-teams-ruled-national-league-132815453",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-09T19:13:22.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_7e157b3ea0b711eda78c3c219cee77e8_4x3_384.jpg",
+          "description": "Cox managed Braves' teams that ruled National League and won 1995 World Series."
+        },
+        {
+          "title": "Remembering Bobby Cox: Legendary Braves Manager and World Series Champion Passes Away at 84",
+          "url": "https://internewscast.com/news/us/remembering-bobby-cox-legendary-braves-manager-and-world-series-champion-passes-away-at-84",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-09T20:25:36.000Z",
+          "description": "Internewscast Journal Internewscast Bobby Cox, the iconic manager who steered the Atlanta Braves to dominance… This Post: Remembering Bobby Cox: Legendary Braves Manager and World Series Champion Passes Away at 84 first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "Bobby Cox, the longtime Atlanta Braves manager, has died at 84, the team announced. He led the Braves to 14 division titles and the 1995 World Series championship."
     },
     {
-      "id": "topic_93ee8eb808a196dd",
+      "id": "topic_32273197fedf9089",
+      "title": "Norovirus Outbreak Sickens 115 Aboard Caribbean Princess",
+      "headline": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise",
       "label": [
-        "sussex",
-        "hugh century",
-        "hugh",
-        "century",
-        "leicestershire",
-        "century giv"
+        "norovirus",
+        "cruise",
+        "outbreak",
+        "princess",
+        "ship",
+        "caribbean"
       ],
       "category": "new",
-      "theme": "theme_88c830020d33efb6",
+      "theme": "theme_a8e51a9b5e0396fd",
       "entities": [
-        "Hughes",
-        "Sussex",
-        "Leicestershire"
+        "Caribbean Princess",
+        "NBC News",
+        "Florida",
+        "CDC",
+        "Yahoo"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Hughes century puts Sussex into dominant position",
-          "url": "https://www.espncricinfo.com/ci/content/story/1536042.html",
-          "source": "Cricket news from ESPN Cricinfo.com",
-          "published_at": "2026-05-09T18:41:26.000Z",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/399100/399159.jpg"
+          "title": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise",
+          "url": "https://www.nbcnews.com/world/caribbean/norovirus-outbreak-princess-cruise-caribbean-rcna344359",
+          "source": "NBC News World News",
+          "published_at": "2026-05-09T19:00:53.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260509-Caribbean-Princess-ch-1448-8e67d8.jpg",
+          "description": "Even after more than 100 passengers and crewmembers fell sick during a norovirus outbreak aboard the Caribbean Princess cruise ship, passenger Jan van Milligen said life on board still felt surprisingly normal.“The normal atmosphere is still here,” van Milligen, who has spent the last 21 days aboar…"
         },
         {
-          "title": "Hughes century gives Sussex lead over Leicestershire",
-          "url": "https://sports.yahoo.com/articles/hughes-century-gives-sussex-lead-175121560.html",
-          "published_at": "2026-05-09T17:51:21.000Z"
+          "title": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise",
+          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqqlgzbudrzdhdnhizy0lrchp5tjlrr09fuku5cuutmzrdbkhub2exynb0dmt4smzpczfuexbnemtvzfbqngrjzjbzlxdwde40dl8wruhmrwvunfe0zvflugjfwkldefnuetqyakvsskrjy3bldvn3uwfuqko3xzvvz2xute1qoxpkewtmwtvpdgzvvng0dy05whiyna",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T19:00:53.000Z",
+          "description": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise NBC News More than 100 cruise ship passengers struck down with norovirus during Caribbean voyage The Independent 115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says NBC 6 South Florida Sick…"
         },
         {
-          "title": "Hughes century gives Sussex lead over Leicestershire",
-          "url": "https://www.bbc.com/news/articles/c142xerg54lo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-09T17:51:16.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/420f/live/7dc52410-4bbd-11f1-9fc1-69bab7136531.jpg"
+          "title": "115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says",
+          "url": "https://www.yahoo.com/news/articles/115-sick-norovirus-outbreak-florida-163157481.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-09T16:31:57.000Z",
+          "image": "https://media.zenfs.com/en/the_hill_articles_341/34e7431f715fa0092ee862446232dc8f"
+        },
+        {
+          "title": "Norovirus outbreak on Florida-bound cruise ship sickens 115 passengers and crew",
+          "url": "https://www.independent.co.uk/news/world/americas/princess-cruise-ship-norovirus-outbreak-florida-b2973585.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-09T16:34:56.000Z",
+          "image": "https://static.independent.co.uk/2026/05/09/15/16/900x600-(3).png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The ship is scheduled to arrive at Port Canaveral, Florida Monday"
+        },
+        {
+          "title": "More than 100 passengers struck down by vomiting bug amid norovirus outbreak on Caribbean Princess cruise ship",
+          "url": "https://www.thesun.co.uk/news/39056504/norovirus-outbreak-hits-caribbean-princess-cruise",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-05-09T07:21:52.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2Fb4tadr-caribbean-princess-cruise-ship-279118104.jpg?quality%3D90%26strip%3Dall",
+          "description": "A NOROVIRUS outbreak on a cruise ship has left more than 100 passengers struggling with gruelling symptoms. Around 102 passengers and 13 crew members on board the Caribbean Princess were taken ill with the highly contagious stomach bug. The ship, run by Princess Cruises, set off on April 28 and is…"
         }
-      ]
+      ],
+      "summary": "A norovirus outbreak aboard the Caribbean Princess sickened 102 passengers and 13 crew members, according to reports citing the CDC. The Florida-bound ship is scheduled to arrive at Port Canaveral on Monday."
     },
     {
-      "id": "topic_be34c270eba60292",
+      "id": "topic_62ec843ba070d3f3",
+      "title": "Dallas Wings Beat Indiana Fever in WNBA Season Opener",
+      "headline": "Caitlin Clark, Fever face Paige Bueckers, Wings: How to watch season opener",
       "label": [
-        "frontier",
-        "plane",
-        "pedestrian",
-        "airport",
-        "denver",
-        "frontier airlin"
+        "fever",
+        "caitlin",
+        "clark",
+        "wings",
+        "indiana",
+        "wnba"
       ],
       "category": "new",
-      "theme": "theme_5e907a40b6462de5",
+      "theme": "theme_655bbf256da0b5b3",
       "entities": [
-        "Denver Airport",
-        "Passengers",
-        "Frontier Airlines",
-        "Pedestrian",
-        "US"
+        "Caitlin Clark",
+        "Fever",
+        "Paige Bueckers",
+        "Wings",
+        "Indiana Fever"
+      ],
+      "article_count": 19,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Caitlin Clark, Fever face Paige Bueckers, Wings: How to watch season opener",
+          "url": "https://sports.yahoo.com/articles/caitlin-clark-fever-face-paige-100416467.html",
+          "published_at": "2026-05-09T10:04:16.000Z",
+          "description": "Saturday's star-studded WNBA matchup between the Indiana Fever and the Dallas Wings will feature the last four No. 1 overall draft picks."
+        },
+        {
+          "title": "Best bet for Caitlin Clark's points prop in Dallas Wings at Indiana Fever 2026 WNBA season opener",
+          "url": "https://www.foxnews.com/outkick-sports/best-bet-caitlin-clarks-points-prop-dallas-wings-indiana-fever-2026-wnba-season-opener",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-09T13:13:38.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/caitlin-clark-paige-bueckers-fox-news.jpeg?ve=1&tl=1",
+          "description": "The WNBA 2026 season features Caitlin Clark and the Indiana Fever hosting Paige Bueckers and the Dallas Wings in a star-studded Saturday matchup."
+        },
+        {
+          "title": "Caitlin Clark battles injury issues as Fever drop WNBA season opener in narrow loss to Wings",
+          "url": "https://talksport.com/basketball/4244716/caitlin-clark-injury-fever-wings-stats-paige-bueckers",
+          "source": "talkSPORT",
+          "published_at": "2026-05-09T19:26:44.000Z"
+        },
+        {
+          "title": "How to watch Caitlin Clark, Indiana Fever vs Dallas in WNBA today, time, TV channel",
+          "url": "https://news.google.com/rss/articles/cbmikajbvv95cuxneux0ajhyrkn3axvlt1c4zlv0c2jwohdnwhl3tgotczlqdi1vvmdzqwddujdhaunusjc0z00wrgrzbu9obzjovgxrnhndz291mjjpvxlvmldzrmtrmjllx0dzdy1yre9kmxpqrfzqmvg4q2xgzllyt3fkcgfwa0jvb0ytqkc0afvsmdjtrglez0tsrmq2wvi0wfheyjzwx3kzzm41uzlzmmtnajz0cmlebxblqufralvhcefkoghrd29hdzb2tezumg5kcxlrdexfsujdchzfsg93otvmd1f5b2d6dk9nqldhnw54wdhyzzatyjrgtlawc3hcnlvwttjztxplexbloxv6cke1smrrtg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T16:23:00.000Z",
+          "description": "How to watch Caitlin Clark, Indiana Fever vs Dallas in WNBA today, time, TV channel Hawk Central Indiana Fever vs. Dallas Wings: How to watch Caitlin Clark's season opener today, time, channel and more Yahoo Sports Paige. Azzi. Arike. The Wings are betting this trio can change everything USA Today…"
+        },
+        {
+          "title": "Dallas Wings vs. Indiana Fever: Previewing Caitlin Clark's return, Azzi Fudd's debut on WNBA opening weekend",
+          "url": "https://www.cbssports.com/wnba/news/wnba-opening-weekend-where-to-watch-wings-fever-clark-fudd-bueckers-boston",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-09T13:48:30.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/09/d5292b4b-0167-4c4e-993f-76e51f61bc7d/wings-fever-wnba-opener-preview-clark-bueckers.png",
+          "description": "The last four No. 1 overall draft picks will be on the court in Indianapolis on Saturday"
+        }
+      ],
+      "summary": "The Dallas Wings defeated the Indiana Fever in the WNBA season opener. Caitlin Clark played for Indiana while dealing with injury issues, and Paige Bueckers featured for Dallas."
+    },
+    {
+      "id": "topic_ca00e94940484b21",
+      "title": "Punjab Minister Sanjeev Arora Arrested in Money-Laundering Probe",
+      "headline": "ED raids Punjab minister Sanjeev Arora's home in money laundering case",
+      "label": [
+        "punjab",
+        "raids",
+        "arora",
+        "sanjeev",
+        "ed",
+        "minister"
+      ],
+      "category": "new",
+      "theme": "theme_21280e4f5005a780",
+      "entities": [
+        "ED",
+        "Punjab",
+        "Sanjeev Arora",
+        "Punjab Minister Sanjeev Arora",
+        "Arrested By Probe Agency"
       ],
       "article_count": 11,
-      "source_count": 10,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Denver Airport: Passengers describe horror as pedestrian dies after being hit by Frontier Airlines plane",
-          "url": "https://www.perthnow.com.au/news/world/denver-airport-passengers-describe-horror-as-pedestrian-dies-after-being-hit-by-frontier-airlines-plane--c-22261557",
-          "source": "PerthNow",
-          "published_at": "2026-05-09T23:03:10.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22261557/6f30de105e72767fd22a66b6433297e107346b4b-16x9-x1y0w2446h1376.jpg"
+          "title": "ED raids Punjab minister Sanjeev Arora's home in money laundering case",
+          "url": "https://timesofindia.indiatimes.com/city/chandigarh/ed-raids-punjab-minister-sanjeev-aroras-home-in-money-laundering-case/articleshow/130970380.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-09T03:54:52.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130970487,imgsize-27266.cms",
+          "description": "The Enforcement Directorate (ED) conducted fresh searches on Saturday against Punjab Industries Minister Sanjeev Arora and associates as part of a money laundering probe. Raids targeted Arora's official residence in Chandigarh and a Gurugram real estate firm. This follows previous actions under FEM…"
         },
         {
-          "title": "Pedestrian dies after being hit by US plane on runway",
-          "url": "https://michaelwest.com.au/pedestrian-dies-after-being-hit-by-us-plane-on-runway",
-          "source": "Michael West",
-          "published_at": "2026-05-09T21:53:04.000Z",
-          "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/8afcbb6f-6d6b-4513-b179-1cc79d1c24ee.jpg"
+          "title": "ED raids Punjab Minister Sanjeev Arora, linked persons again",
+          "url": "https://www.thehindu.com/news/national/punjab/enforcement-directorate-sanjeev-arora-punjab-minister-searches/article70958089.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-09T04:03:30.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/8iowg0/article70958095.ece/alternates/LANDSCAPE_1200/20250625085L.jpg",
+          "description": "The action was taken under the criminal sections of the Prevention of Money Laundering Act (PMLA), the officials said"
         },
         {
-          "title": "Person dies after being hit by Frontier Airlines plane that was taking off at Denver airport",
-          "url": "https://www.ms.now/news/person-dies-after-being-hit-by-frontier-airlines-plane-that-was-taking-off-at-denver-airport",
-          "source": "MS NOW",
-          "published_at": "2026-05-09T20:49:31.000Z"
+          "title": "Punjab Minister Sanjeev Arora Arrested By Probe Agency ED After Raids",
+          "url": "https://www.ndtv.com/india-news/punjab-minister-sanjeev-arora-arrested-by-probe-agency-ed-after-raids-11471323",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-09T11:53:59.000Z",
+          "image": "https://c.ndtvimg.com/2026-04/0hn0giqs_sanjeev-arora-ani_625x300_17_April_26.jpeg"
         },
         {
-          "title": "Pedestrian dead after being hit by Frontier plane taking off at airport",
-          "url": "https://globalnation.inquirer.net/322398/pedestrian-dead-after-being-hit-by-frontier-plane-taking-off-at-airport",
-          "source": "INQUIRER.net",
-          "published_at": "2026-05-09T18:28:21.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/05/AP26129467049080-620x413.jpg"
+          "title": "Who is Sanjeev Arora? Punjab minister arrested by ED after raids in money laundering case",
+          "url": "https://www.dnaindia.com/india/report-who-is-sanjeev-arora-punjab-power-minister-arrested-by-enforcement-directorate-after-raids-in-money-laundering-case-ed-chandigarh-delhi-gurugram-pmla-arvind-kejriwal-bhagwant-mann-aap-news-3209680",
+          "source": "India News",
+          "published_at": "2026-05-09T11:11:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/05/09/2748464-sanjeev-arora.png",
+          "description": "Earlier in the day, the ED had carried out a search at Arora's official residence in Chandigarh's Sector 2 area. Around 20 ED officials had reached his residence in the early hours of Saturday for the raid. Searches in the case were also carried out at premises in Delhi and Gurugram."
         },
         {
-          "title": "Audio captures moment Frontier plane fatally struck pedestrian",
-          "url": "https://www.yahoo.com/news/articles/audio-captures-moment-frontier-plane-121149309.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-09T18:11:42.000Z",
-          "image": "https://media.zenfs.com/en/cbs_news_897/beed2a6e75143d1c3d4c62f3023a94ce"
+          "title": "Punjab minister Sanjeev Arora arrested by ED after raids; Kejriwal targets BJP",
+          "url": "https://www.indiatoday.in/india/story/ed-raids-punjab-minister-sanjeev-arora-second-time-within-a-month-aap-bhagwant-mann-arvind-kejriwal-hit-out-bjp-2909142-2026-05-09",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-09T08:22:46.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/this-is-the-second-ed-action-against-sanjeev-arora-within-a-month-screen-grab-092709577-16x9_0.jpg?VersionId=kupk3SpfkjZWgf97EQAbm9LP4N_bgI_H",
+          "description": "Punjab minister Sanjeev Arora arrested by ED after raids Kejriwal targets BJP"
         }
-      ]
+      ],
+      "summary": "India’s Enforcement Directorate arrested Punjab Industries Minister Sanjeev Arora after conducting searches at his residence and other locations. The action is part of a money-laundering investigation under the Prevention of Money Laundering Act."
     },
     {
-      "id": "topic_dce1ca3722f875e5",
+      "id": "topic_3c47ffbb9a42e7b8",
+      "title": "UK Sends Warship to Middle East for Possible Hormuz Mission",
+      "headline": "UK deploys warship to Middle East with eye on potential Hormuz mission",
       "label": [
-        "one nation",
-        "nation",
-        "nation want",
-        "want election",
-        "election succes",
-        "election"
+        "warship",
+        "middle",
+        "east",
+        "uk",
+        "hormuz",
+        "deploys"
       ],
       "category": "new",
-      "theme": "theme_be8b1747ad85bf6d",
+      "theme": "theme_f648185121f8736d",
       "entities": [
-        "One Nation",
-        "Historic"
+        "UK",
+        "Middle East",
+        "Hormuz",
+        "Reuters"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 7,
+      "source_count": 6,
       "articles": [
         {
-          "title": "One Nation want more after by-election success",
-          "url": "https://www.smh.com.au/national/one-nation-want-more-after-by-election-success-20260510-p5zvd6.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-09T21:31:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/2e3d31b8afeef4cdef700366c5e763d2ba59c183"
+          "title": "UK deploys warship to Middle East with eye on potential Hormuz mission",
+          "url": "https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-182208090.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-09T18:22:08.000Z",
+          "image": "https://media.zenfs.com/en/jerusalem_post_articles_818/68a01d116afa9848b3a7f346ea2bfb96"
         },
         {
-          "title": "One Nation want more after by-election success",
-          "url": "https://www.theage.com.au/national/one-nation-want-more-after-by-election-success-20260510-p5zvd6.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-09T21:31:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/2e3d31b8afeef4cdef700366c5e763d2ba59c183"
+          "title": "UK deploys warship to Middle East with eye on potential Hormuz mission",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxqr1b6swfua241sljcblbfdznczhzlwvk3zvkxav9qs3rivwnhyjc5eevpcvrctuvwnknhlxlqvxq0u0z0u2htum1im0rhn1pfqkfvvhblt201q1nnvuz0dzdorwdit0dmcmzzmm00bjbkoxhpzgdmmi1vmwr6ehzmeuh3ugjfqtjvs2tlvxp1z2xiadhsamngrdq0x2pmes14x2vuvfp6dzhot3i1dve",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T20:23:30.000Z",
+          "description": "UK deploys warship to Middle East with eye on potential Hormuz mission Reuters HMS Dragon heads to Middle East for potential Strait of Hormuz mission BBC French Carrier Strike Group Now Operating in the Middle East USNI News Macron says ‘all parties must lift the blockades’ – as it happened The Gua…"
         },
         {
-          "title": "One Nation want more after by-election success",
-          "url": "https://www.brisbanetimes.com.au/national/one-nation-want-more-after-by-election-success-20260510-p5zvd6.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-09T21:31:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/2e3d31b8afeef4cdef700366c5e763d2ba59c183"
+          "title": "UK moves warship to Middle East for potential Hormuz mission",
+          "url": "https://fortune.com/2026/05/09/uk-hms-dragon-warship-middle-east-deployment-strait-of-hormuz-escort",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-05-09T23:13:51.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265302436-e1778368130537.jpg?w=2048",
+          "description": "HMS Dragon, a Type-45 warship capable of destroying guided missiles, is likely to form part of the UK’s offer for the defensive naval mission."
         },
         {
-          "title": "Historic win for One Nation in regional by-election",
-          "url": "https://www.perthnow.com.au/news/politics/historic-win-for-one-nation-in-regional-by-election-c-22261076",
-          "source": "PerthNow",
-          "published_at": "2026-05-09T17:37:41.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22261076/3c546fa8681515c37762c573c1eceaac34e01266-16x9-x0y0w1280h720.jpg"
+          "title": "UK deploys warship to Middle East for possible Hormuz operation",
+          "url": "https://www.investing.com/news/economy-news/uk-deploys-warship-to-middle-east-for-possible-hormuz-operation-4674634",
+          "source": "All News",
+          "published_at": "2026-05-09T10:43:35.000Z"
+        },
+        {
+          "title": "UK sends warship to Middle East",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/09/uk-sends-warship-to-middle-east_6753287_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-09T13:15:56.000Z",
+          "image": "https://img.lemde.fr/2026/03/10/183/0/4176/2088/644/322/60/0/744285c_ftp-1-jkgkg5zcdx9t-2026-03-10t174406z-66689763-news-rtrmadp-3-iran-crisis-britain.JPG",
+          "description": "HMS Dragon will be dispatched ahead of an international mission to protect shipping in the Strait of Hormuz, Britain's Ministry of Denfense said."
         }
-      ]
+      ],
+      "summary": "The UK is deploying the warship HMS Dragon to the Middle East ahead of a possible mission to protect shipping in the Strait of Hormuz. The Type 45 destroyer is equipped to counter guided missiles."
+    },
+    {
+      "id": "topic_43890e92b09aa929",
+      "title": "China’s April Exports Rise 14.1% Ahead of Xi-Trump Summit",
+      "headline": "China’s exports jump 14% ahead of Xi-Trump summit",
+      "label": [
+        "china",
+        "xi",
+        "jump",
+        "exports",
+        "ahead",
+        "summit"
+      ],
+      "category": "new",
+      "theme": "theme_d6d45c11eb2aa3a9",
+      "entities": [
+        "China",
+        "Xi",
+        "Trump",
+        "Exports",
+        "April"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "China’s exports jump 14% ahead of Xi-Trump summit",
+          "url": "https://www.ft.com/content/c1a18633-09d4-4875-878a-8a06c157a8ab",
+          "source": "International homepage",
+          "published_at": "2026-05-09T03:53:42.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff81533f2-ad3a-4284-b1cc-e9603aac8060.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Robust trade surplus shows US tariffs have done little to dent the country’s manufacturing prowess"
+        },
+        {
+          "title": "China'a trade figures: Exports jump 14.1% in April, ahead of Trump-Xi visit",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/chinaa-trade-figures-exports-jump-14-1-in-april-ahead-of-trump-xi-visit/articleshow/130970793.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-09T04:42:04.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130970792,imgsize-31466.cms",
+          "description": "China's exports surged 14.1% in April, significantly exceeding expectations and bolstering the nation's economy despite global uncertainties. This strong performance precedes a crucial meeting between US and Chinese leaders, where trade tensions and other disputes are expected to be discussed. Anal…"
+        },
+        {
+          "title": "China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit",
+          "url": "https://news.google.com/rss/articles/cbmilwfbvv95cuxncmrrehvisjbfdjrululqbknwqkhptezytl9tbvdmwmrjcjb6eetwskjtvvowlvzzykt0uhzfbdl6zy10zgznd3rqlvbqz2prbhrezlbpt3lwaendslzhu3bfoef0ds1cznmxyzn3odfbati0yzlqckvxvzlbzjv0u2hpmjvdt2jva3r3uvrqwwvid011yjrj",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T05:35:00.000Z",
+          "description": "China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit AP News China’s Exports and Imports Set Records in April Amid High Energy Costs The New York Times Chinese Export Growth Rebounds as War Fails to Curb Trade Bloomberg.com China April exports rebound strongly after sluggish…"
+        },
+        {
+          "title": "‘Not decoupling’: what US-China trade data signals ahead of Xi-Trump summit",
+          "url": "https://www.scmp.com/economy/global-economy/article/3352992/not-decoupling-what-us-china-trade-data-signals-ahead-xi-trump-summit",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-09T11:00:05.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/09/8ef200ec-1789-4d8a-a46e-6c1a495805ce_6172d62c.jpg?itok=GIAgZQnQ&v=1778318014",
+          "description": "China’s trade with the United States has declined this year, official data shows, as US President Donald Trump heads to Beijing next week for a high-stakes visit that could determine the future of economic relations between the two superpowers. China’s merchandise exports to the US fell 10.2 per ce…"
+        },
+        {
+          "title": "US escalates trade row with China over Iran war ahead of Trump-Xi summit",
+          "url": "https://www.politico.com/news/2026/05/09/state-escalates-trade-row-with-china-over-iran-war-ahead-of-trump-xi-summit-00913421",
+          "source": "POLITICO",
+          "published_at": "2026-05-09T17:48:32.000Z",
+          "description": "Trump will depart for Beijing in just under a week, alongside a delegation of American CEOs primed to stake out deals with the country’s geopolitical rival."
+        }
+      ],
+      "summary": "China said its exports rose 14.1% in April from a year earlier, exceeding expectations ahead of a planned summit between Xi Jinping and Donald Trump. Official data also shows China’s trade with the United States has declined this year."
+    },
+    {
+      "id": "topic_53f69ea97a1f2ec0",
+      "title": "US Strikes Iranian Oil Tankers as It Awaits Tehran’s Peace Response",
+      "headline": "US strikes Iranian oil tankers while awaiting Tehran response on peace plan",
+      "label": [
+        "iranian",
+        "tankers",
+        "oil",
+        "strikes",
+        "us",
+        "tehran"
+      ],
+      "category": "new",
+      "theme": "theme_5840e9dbc1e22e75",
+      "entities": [
+        "US",
+        "Iranian",
+        "Tehran",
+        "Leonie Cater",
+        "Politico"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "US strikes Iranian oil tankers while awaiting Tehran response on peace plan",
+          "url": "https://www.politico.eu/article/us-forces-strike-iran-oil-tankers-while-waiting-tehran-peace-proposal",
+          "source": "POLITICO",
+          "published_at": "2026-05-09T11:42:37.000Z",
+          "description": "The attacks on the ships near the Strait of Hormuz cast more doubt on a tenuous ceasefire that the Trump administration insists is still holding."
+        },
+        {
+          "title": "US strikes Iranian oil tankers while awaiting Tehran response on peace plan",
+          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxomffluvntn01cswm4cfo1t1vmaufmrextzgnzzvbtclgzskgtr0r5d3dzdxhwugpvdfyws2swy3fhenhcz2u3tzhuwk5lvkflctfolwqydefmn3pscww5d3vxrwq5x0xuzthfwgpesc1ibfjuywpxau9muuitndfmwi1nbzv6mnvub0u5yvjxyxdkczbrdtfmmddjq2x1vmnkqjrnrg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T12:42:00.000Z",
+          "description": "US strikes Iranian oil tankers while awaiting Tehran response on peace plan politico.eu Live Updates: U.S. awaits Iran's response on peace deal as month-long ceasefire holds CBS News U.S. and Iran are no closer to ending war; Tehran's response awaited CNBC U.S. strikes two Iranian-flagged tankers a…"
+        },
+        {
+          "title": "US strikes Iranian oil tankers while awaiting Tehran response on peace plan (Leonie Cater/Politico)",
+          "url": "https://www.memeorandum.com/260509/p21",
+          "source": "memeorandum",
+          "published_at": "2026-05-09T14:55:00.000Z",
+          "image": "http://www.memeorandum.com/260509/i21.jpg",
+          "description": "Leonie Cater / Politico: US strikes Iranian oil tankers while awaiting Tehran response on peace plan — The attacks on the ships near the Strait of Hormuz cast more doubt on a tenuous ceasefire that the Trump administration insists is still holding. — The U.S. military on Friday said its forces stru…"
+        },
+        {
+          "title": "US posts video of strikes on Iranian oil tankers",
+          "url": "https://www.brisbanetimes.com.au/world/us-posts-video-of-strikes-on-iranian-oil-tankers-20260509-p5zv9u.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-09T02:00:00.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e2d21f6606dadca590e8567c0d712f0041976fbc",
+          "description": "The US military has posted video of strikes on two Iranian oil tankers."
+        }
+      ],
+      "summary": "The US military struck two Iranian oil tankers near the Strait of Hormuz while Washington awaited Tehran’s response to a peace proposal. The attacks added uncertainty around the fragile ceasefire."
+    },
+    {
+      "id": "topic_33535a5bc7164900",
+      "title": "Putin Says Ukraine Conflict May Be Nearing an End",
+      "headline": "Putin says he thinks Ukraine conflict coming to an end",
+      "label": [
+        "end",
+        "thinks",
+        "coming",
+        "ukraine",
+        "putin",
+        "conflict"
+      ],
+      "category": "new",
+      "theme": "theme_a13632deaf820cc5",
+      "entities": [
+        "Putin",
+        "Ukraine",
+        "CNBC",
+        "Putin Says He Thinks",
+        "Russia"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Putin says he thinks Ukraine conflict coming to an end",
+          "url": "https://www.perthnow.com.au/news/conflict/putin-says-he-thinks-ukraine-conflict-coming-to-an-end-c-22261196",
+          "source": "PerthNow",
+          "published_at": "2026-05-09T20:00:39.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22261196/4b2b51823deef1537b7efd1ca2cd3513997cc2b7-16x9-x0y0w1280h720.jpg",
+          "description": "The ‌Ukraine ‌conflict ⁠is likely coming to an ​end soon, Russian President Vladimir Putin says."
+        },
+        {
+          "title": "Putin says he thinks the Ukraine conflict is coming to an end",
+          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxpvki4bdztnhhmtucxnwrqeeo0wvbrzm9notfhu1p6nw1yc0jmcktmejlodjyzvzh6bwzswv9zskzstnzmmfczoevvy19tnkdoz0tfedntrwrontrmvy1ltuuwcdhaqvfry0tqm0v5wujlltvoslnttmtna3dqwg81uelqvdhaovvpugowalfkctbrs0dzvgx1x0hpqjhwdtdsaaqbqvvfexfmtjleuuvet2pqmkxletz2cdvsd0ddm0z1twdzmwldog5oyzvarhdczmtznmristzwowldmfc0dlfrnwlkcv9zouxma1hfbgs2r1vdsnfreklebmdxdhr5emdbb1z3vjjhnlvpnefmnmsybdrabwdpotfioe5fnvlwbg9woxyxz1a5sdu4yze1s0hxewvyc0pszkrfzkdtahzlnlq5ous",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-09T19:03:02.000Z",
+          "description": "Putin says he thinks the Ukraine conflict is coming to an end CNBC Putin says he thinks Russia-Ukraine war is coming to an end Reuters Putin says he believes Ukrainian conflict nearing end amid scaled-down Victory Day celebrations CBS News \"Coming To An End\": Vladimir Putin On Russia's War With Ukr…"
+        },
+        {
+          "title": "Putin says he thinks Ukraine war 'coming to an end'",
+          "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-09T19:16:00.000Z",
+          "description": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict."
+        },
+        {
+          "title": "Putin Says He Thinks Russia-Ukraine War Is Coming To An End",
+          "url": "https://www.huffpost.com/entry/putin-russia-ukraine-war_n_69ffa5efe4b06e786e3e9dec",
+          "source": "World News",
+          "published_at": "2026-05-09T21:29:44.000Z",
+          "description": "The remarks came just hours after he had vowed victory in Ukraine at Moscow's most scaled-back Victory Day parade in years."
+        },
+        {
+          "title": "'Russia grateful to US for talks': Putin says Ukraine conflict ‘coming to an end’",
+          "url": "https://timesofindia.indiatimes.com/world/europe/russia-grateful-to-us-for-talks-ukraine-conflict-coming-to-an-end-vladimir-putin-awaits-kyiv-response-on-pow-swap/articleshow/130982369.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-09T18:47:05.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130982380,imgsize-16748.cms"
+        }
+      ],
+      "summary": "Russian President Vladimir Putin said he believes the conflict in Ukraine is likely coming to an end soon. His remarks came as Russia and Ukraine observed a three-day ceasefire."
     }
   ]
 }

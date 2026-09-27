@@ -1,686 +1,457 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-05-02T14:30:20.879Z",
+  "generated_at": "2026-09-27T13:50:29.845Z",
   "topics": [
     {
-      "id": "topic_9504a11b1793bc9c",
+      "id": "topic_eb3a1a43eccd5470",
+      "title": "King Charles Begins Four-Day U.S. State Visit",
+      "headline": "What King Charles will say to Trump",
       "label": [
-        "block meta",
-        "china block meta",
-        "china block",
-        "manu",
-        "block",
-        "meta"
+        "king",
+        "charles",
+        "trump",
+        "visit",
+        "state",
+        "iii"
       ],
       "category": "new",
+      "theme": "theme_6d9047217aeb97db",
       "entities": [
-        "China",
-        "Meta",
-        "Manus",
-        "AI"
+        "What King Charles",
+        "Trump",
+        "The Most Memorable Photos",
+        "King Charles",
+        "State Visit"
       ],
-      "article_count": 6,
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "What King Charles will say to Trump",
+          "url": "https://www.politico.com/newsletters/playbook/2026/04/27/what-king-charles-will-say-to-trump-00892653",
+          "source": "Playbook",
+          "published_at": "2026-04-27T10:29:31.000Z"
+        },
+        {
+          "title": "The Most Memorable Photos of King Charles' State Visit to the U.S",
+          "url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos",
+          "source": "TIME",
+          "published_at": "2026-04-27T20:56:59.000Z",
+          "description": "The trip is set to “celebrate the historic connections and the modern bilateral relationship” between the U.K. and U.S., but it comes as the alliance is under great strain."
+        },
+        {
+          "title": "King Charles III meets Trump for U.S. state visit amid British tensions",
+          "url": "https://globalnews.ca/news/11819271/king-charles-us-state-visit-trump",
+          "source": ": World",
+          "published_at": "2026-04-27T21:15:53.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/04/d7f0e34784a567664f246a3db7e1f8925e0ce0d5b9c32b8963fc53d5bba3103d.jpg?quality=65&strip=all",
+          "description": "The four-day visit, intended to mark the United States’ 250th anniversary and the U.S.-U.K. 'special relationship,' was overshadowed by Saturday's shooting at a White House event."
+        },
+        {
+          "title": "King Charles visits Trump: what are the potential pitfalls for the monarch?",
+          "url": "https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-04-27T04:00:35.000Z",
+          "image": "https://i.guim.co.uk/img/media/5e28f4fc7c95ba7d8f83a747e6f0163d840e07be/217_0_3612_2889/master/3612.jpg?width=140&quality=85&auto=format&fit=max&s=19f0c1a9ee01e99aaee467147ba876c0",
+          "description": "The king faces possibly his most important ever speech and a thin-skinned president, in the shadow of the Sussexes and the Epstein scandal. What could go wrong? On his high-stakes four-day state visit to the US, King Charles will have to walk a diplomatic tightrope as the guest of an erratic Donald…"
+        },
+        {
+          "title": "Can King Charles III Still Hold Sway With Trump?",
+          "url": "https://www.nytimes.com/2026/04/27/opinion/king-charles-trump-visit.html",
+          "source": "NYT > Opinion",
+          "published_at": "2026-04-27T23:57:34.000Z",
+          "description": "Courtesy can be tactical as well as virtuous."
+        }
+      ],
+      "summary": "King Charles III is making a four-day state visit to the United States, intended to mark the country’s 250th anniversary and the U.K.-U.S. relationship. The trip comes amid tensions between the allies and was overshadowed by a shooting at a White House event."
+    },
+    {
+      "id": "topic_2c3b186c2b0d55e2",
+      "title": "Correspondents’ Dinner Suspect Charged With Attempted Trump Assassination",
+      "headline": "What Trump wants out of the Correspondents’ Dinner shooting",
+      "label": [
+        "correspondents",
+        "dinner",
+        "shooting",
+        "white",
+        "house",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_be4e53a8c8af7364",
+      "entities": [
+        "What Trump",
+        "Correspondents",
+        "Dinner",
+        "Bruce Springsteen",
+        "White House Correspondents"
+      ],
+      "article_count": 7,
       "source_count": 6,
       "articles": [
         {
+          "title": "What Trump wants out of the Correspondents’ Dinner shooting",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/487110/trump-ballroom-jimmy-kimmel-correspondents-dinner-shooting",
+          "source": "Vox",
+          "published_at": "2026-04-27T21:50:00.000Z",
+          "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/04/gettyimages-2272799220.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Donald Trump speaks during a press conference at the White House on April 25, 2026, in Washington, DC. | Al Drago/Getty Images This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscr…"
+        },
+        {
+          "title": "Bruce Springsteen condemns White House Correspondents’ Dinner shooting",
+          "url": "https://www.avclub.com/bruce-springsteen-condemns-white-house-correspondents-dinner-shooting",
+          "source": "AV Club",
+          "published_at": "2026-04-27T15:00:28.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/uploads/2026/04/27145523/42B75AF1-A8A0-463D-8A51-E04B5676D045-scaled.jpeg",
+          "description": "“There is no place in any way, shape, or form for political violence of any kind in our beloved United States,” The Boss told a Texas crowd Saturday night."
+        },
+        {
+          "title": "Obama’s Telling Phrase After the Correspondents’ Dinner Shooting",
+          "url": "https://www.dailysignal.com/2026/04/27/obamas-telling-phrase-after-the-correspondents-dinner-shooting",
+          "source": "The Daily Signal",
+          "published_at": "2026-04-27T21:25:38.000Z",
+          "image": "https://static.dailysignalmedia.org/GettyImages-2271694147.jpg",
+          "description": "Former President Barack Obama posted on X in response to the attempted shooting of President Donald Trump at the White House Correspondents’ Dinner. The post began with a familiar formula: “Although we don’t yet have all the details about the motives behind last night’s shooting…” And yet—almost in…"
+        },
+        {
+          "title": "White House Correspondents' dinner suspect charged with attempting to assassinate Trump",
+          "url": "https://torontosun.com/news/world/trump-assassination-suspect-due-in-court",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-04-27T16:41:29.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/04/Cole-Allen.jpg?quality=100&strip=all",
+          "description": "Cole Allen wrote a sprawling manifesto for allegedly attempting to kill the president"
+        },
+        {
+          "title": "Trump Uses Correspondents Dinner Shooting to Push for Ballroom Construction",
+          "url": "https://truthout.org/articles/trump-uses-correspondents-dinner-shooting-to-push-for-ballroom-construction",
+          "source": "Truthout",
+          "published_at": "2026-04-27T18:44:31.000Z",
+          "image": "https://truthout.org/app/uploads/2026/04/2026-0427-whcd-trump-1200x900.jpg",
+          "description": "The White House Correspondents' Dinner traditionally takes place outside of the White House."
+        }
+      ],
+      "summary": "Cole Allen has been charged with attempting to assassinate President Donald Trump in a shooting at the White House Correspondents’ Dinner. The incident drew responses from Barack Obama and Bruce Springsteen, while Trump used it to advocate for ballroom construction."
+    },
+    {
+      "id": "topic_df83a04a96efbafe",
+      "title": "Elon Musk and Sam Altman Head to Trial Over OpenAI",
+      "headline": "Why Elon Musk and Sam Altman are fighting over OpenAI",
+      "label": [
+        "elon",
+        "sam",
+        "musk",
+        "altman",
+        "openai",
+        "trial"
+      ],
+      "category": "new",
+      "theme": "theme_32ee25067ea616a0",
+      "entities": [
+        "Why Elon Musk",
+        "Sam Altman",
+        "OpenAI",
+        "Elon Musk",
+        "Sam Altman Bring OpenAI"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
+          "url": "https://www.bbc.com/news/videos/ckger3y52k2o",
+          "source": "BBC News",
+          "published_at": "2026-04-27T14:12:09.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ec/live/902b8fc0-403e-11f1-b55d-0f258dce1735.jpg",
+          "description": "Musk, who co-founded the company that created ChatGPT with Altman, wants more than $130bn in damages."
+        },
+        {
+          "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future",
+          "source": "MIT Technology Review",
+          "published_at": "2026-04-27T22:52:57.000Z",
+          "description": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpri…"
+        },
+        {
+          "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
+          "url": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-04-27T16:34:17.000Z",
+          "image": "https://static01.nyt.com/images/2026/04/28/multimedia/OAKLAND-COURT-1-02-mjtl/OAKLAND-COURT-1-02-mjtl-mediumSquareAt3X.jpg",
+          "description": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry."
+        },
+        {
+          "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+          "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x",
+          "source": "WIRED",
+          "published_at": "2026-04-27T20:08:51.000Z",
+          "image": "https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg",
+          "description": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland."
+        }
+      ],
+      "summary": "Elon Musk’s lawsuit against OpenAI and its CEO, Sam Altman, is going to trial in federal court in Oakland. Musk, an OpenAI co-founder, is seeking more than $130 billion in damages, and the case concerns the company’s future."
+    },
+    {
+      "id": "topic_c5c1e39cf82405ec",
+      "title": "China Blocks Meta’s Acquisition of AI Startup Manus",
+      "headline": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "label": [
+        "manus",
+        "meta",
+        "china",
+        "acquisition",
+        "blocks",
+        "ai"
+      ],
+      "category": "new",
+      "theme": "theme_d0c46b77dd57620e",
+      "entities": [
+        "China",
+        "Meta",
+        "AI",
+        "Manus",
+        "China Will Require Meta"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+          "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o",
+          "source": "BBC News",
+          "published_at": "2026-04-27T12:21:42.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e98b/live/33358e40-422f-11f1-8502-4993a1291976.jpg",
+          "description": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner."
+        },
+        {
           "title": "China blocks Meta’s acquisition of AI startup Manus",
           "url": "https://hongkongfp.com/2026/04/27/china-blocks-metas-acquisition-of-ai-startup-manus",
+          "source": "Hong Kong Free Press HKFP",
           "published_at": "2026-04-27T10:02:53.000Z",
-          "image": "https://hongkongfp.com/wp-content/uploads/2026/04/RENAME-before-upload-Article-Basic-Full-logo-2026-04-27T175832.286-1024x576.jpg"
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/04/RENAME-before-upload-Article-Basic-Full-logo-2026-04-27T175832.286-1024x576.jpg",
+          "description": "China has blocked Meta’s acquisition of AI startup Manus, the top economic planning body said Monday, after a regulatory review that reportedly also saw Beijing restrict two co-founders from leaving the country. Facebook owner Meta had agreed to acquire Manus, an artificial intelligence agent creat…"
+        },
+        {
+          "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+          "url": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+          "source": "NYT > World News",
+          "published_at": "2026-04-27T14:08:53.000Z",
+          "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27biz-china-manus-kpvq/27biz-china-manus-kpvq-mediumSquareAt3X.jpg",
+          "description": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies."
+        },
+        {
+          "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
+          "url": "https://www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-04-27T14:35:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/c2c71daeaf767d71e44badec6d592401e7b702ce/509_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=a07bc38b2048d87d9dbf4aa0d08afdbb",
+          "description": "Beijing says domestic tech companies must seek explicit government approval for accepting US investment Business live – latest updates China has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down on US investments in domestic tech companies. Mark Zuckerberg’s Meta, the owne…"
         }
-      ]
+      ],
+      "summary": "China has blocked Meta’s planned $2 billion acquisition of AI startup Manus following a regulatory review. The ruling could affect the deal’s future and signal limits on Chinese technology companies accepting foreign investment."
     },
     {
-      "id": "topic_7cb6eec459e66da5",
+      "id": "topic_6a358b9991578395",
+      "title": "Nedra Talley Ross, Last Surviving Ronette, Dies at 80",
+      "headline": "R.I.P. Nedra Talley Ross: Last surviving Ronettes member dead at 80",
       "label": [
-        "microsoft openai",
-        "partnership",
-        "microsoft",
-        "openai",
-        "openai loosen",
-        "loosen partnership"
+        "nedra",
+        "talley",
+        "ross",
+        "ronettes",
+        "member",
+        "surviving"
       ],
       "category": "new",
+      "theme": "theme_bfd3bc734ae77b96",
       "entities": [
-        "Microsoft OpenAI",
-        "Microsoft",
-        "OpenAI Loosen Their Partnership",
-        "ASX",
-        "Wall Street"
+        "Nedra Talley Ross",
+        "Last",
+        "Ronettes",
+        "Last Surviving Founding Ronettes",
+        "Member"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 3,
+      "source_count": 3,
       "articles": [
         {
-          "title": "Microsoft and OpenAI Loosen Their Partnership",
-          "url": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
-          "published_at": "2026-04-28T01:50:52.000Z",
-          "image": "https://static01.nyt.com/images/2025/09/11/multimedia/27BIZ-MICROSOFT-OPENAI/11BIZ-OPENAI-1-qwbf-mediumSquareAt3X.jpg"
+          "title": "R.I.P. Nedra Talley Ross: Last surviving Ronettes member dead at 80",
+          "url": "https://www.avclub.com/rip-nedra-talley-ross-last-surviving-ronettes-member-dead-at-80",
+          "source": "AV Club",
+          "published_at": "2026-04-27T16:52:04.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/uploads/2026/04/27164754/93F70281-4B91-43A8-B201-021E65B3899C-scaled.jpeg",
+          "description": "Ross, who died on Sunday, had been a member of the 1960s girl group alongside her two cousins, Ronnie Spector and Estelle Bennett."
         },
         {
-          "title": "The next phase of the Microsoft OpenAI partnership",
-          "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-          "published_at": "2026-04-27T06:00:00.000Z"
+          "title": "Nedra Talley Ross, Last Surviving Founding Ronettes Member, Dies at 80",
+          "url": "https://pitchfork.com/news/nedra-talley-ross-last-surviving-founding-ronettes-member-dies-at-80",
+          "source": "RSS: News",
+          "published_at": "2026-04-27T05:03:36.000Z",
+          "image": "https://media.pitchfork.com/photos/69ef64052e37e2b27b140a66/master/pass/ronettes-nedra-talley-ross.jpg",
+          "description": "With her cousins Estelle Bennett and Ronnie Spector, Ross sang hits like “Be My Baby,” “Baby I Love You,” and “Walking in the Rain”"
+        },
+        {
+          "title": "Nedra Talley Ross helped make the Ronettes the platonic ideal of a girl group",
+          "url": "https://www.theguardian.com/music/2026/apr/27/nedra-talley-ross-helped-make-the-ronettes-the-platonic-ideal-of-a-girl-group",
+          "source": "Music | The Guardian",
+          "published_at": "2026-04-27T09:28:43.000Z",
+          "image": "https://i.guim.co.uk/img/media/053dca383b82bdc79904f8a00ee59f02c47cf270/568_356_1266_1012/master/1266.jpg?width=140&quality=85&auto=format&fit=max&s=5cf020303e50ea2123c9e49b66a94523",
+          "description": "Even though she was unwell, the last surviving Ronette was full of poignant memories and saucy asides when I met her last year. And she had a rich life after pop success • Nedra Talley Ross dies aged 80 – news Nedra Talley Ross wasn’t a household name any longer, but she had been once upon a time.…"
         }
-      ]
+      ],
+      "summary": "Nedra Talley Ross, the last surviving founding member of the Ronettes, has died at 80. She sang with her cousins Ronnie Spector and Estelle Bennett on hits including “Be My Baby” and “Walking in the Rain.”"
     },
     {
-      "id": "topic_b8b7f994bf159fcf",
+      "id": "topic_300ebb71d2909ac6",
+      "title": "PowerWash Simulator 2 Announces Star Wars DLC for Summer",
+      "headline": "PowerWash Simulator 2 Gets Star Wars DLC This Summer",
       "label": [
-        "archaeologist",
-        "pompeii",
-        "victim",
-        "use",
-        "use ai",
-        "archaeologist pompeii"
+        "dlc",
+        "powerwash",
+        "simulator",
+        "wars",
+        "star",
+        "summer"
       ],
       "category": "new",
+      "theme": "theme_e61ad28cbca6bbbd",
       "entities": [
-        "Archaeologists",
-        "Pompeii",
-        "AP News",
-        "AI",
-        "Mount Vesuvius"
+        "PowerWash Simulator",
+        "Gets Star Wars DLC",
+        "This Summer",
+        "Star Wars Needs",
+        "Clean"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 3,
+      "source_count": 3,
       "articles": [
         {
-          "title": "Archaeologists at Pompeii use artificial intelligence to reveal the face of one of the victims - AP News"
+          "title": "PowerWash Simulator 2 Gets Star Wars DLC This Summer",
+          "url": "https://gameinformer.com/2026/04/27/powerwash-simulator-2-gets-star-wars-dlc-this-summer",
+          "source": "Game Informer",
+          "published_at": "2026-04-27T17:10:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/04/27/ebd23624/ss_c5d63ecab60c23838407c0c7110544b8120eaeac.1920x1080.jpg.webp",
+          "description": "PowerWash Simulator is no stranger to crossing over with major franchises. From Final Fantasy and Warhammer 40K to Shrek and SpongeBob, there are few corners of pop culture the series has yet to touch. Today, developer FuturLab announced the series is adding one more crossover to its wheelhouse, th…"
         },
         {
-          "title": "Archaeologists at Pompeii use AI to reconstruct the face of one of the victims of volcano’s eruption"
+          "title": "Star Wars Needs a Clean in PowerWash Simulator 2's Next DLC Pack on PS5",
+          "url": "https://www.pushsquare.com/news/2026/04/star-wars-needs-a-clean-in-powerwash-simulator-2s-next-dlc-pack-on-ps5",
+          "source": "Push Square | Latest Updates",
+          "published_at": "2026-04-27T21:00:00.000Z",
+          "image": "https://images.pushsquare.com/8bbc02a30e19f/large.jpg",
+          "description": "The water pressure is strong with this one. Developer FuturLab has announced the next premium DLC for its popular cleaning sim, PowerWash Simulator 2, and it's a big one. As revealed in the trailer below, Star Wars is the next stop in your digital power washing career: Read the full article on push…"
         },
         {
-          "title": "Archaeologists at Pompeii use AI to reveal the face of one of the victims"
-        },
-        {
-          "title": "Archaeologists use AI to reconstruct Pompeii victim’s attempted escape"
-        },
-        {
-          "title": "Archaeologists at Pompeii use AI to reveal the face of a victim trying to flee the Mount Vesuvius eruption"
+          "title": "The droids you're looking for are busy polishing X-Wings in PowerWash Simulator 2's Star Wars DLC, due out this summer",
+          "url": "https://www.rockpapershotgun.com/the-droids-youre-looking-for-are-busy-polishing-x-wings-in-powerwash-simulator-2s-star-wars-dlc-due-out-this-summer",
+          "source": "Rock Paper Shotgun Latest Articles Feed",
+          "published_at": "2026-04-27T15:44:56.000Z",
+          "image": "https://assetsio.gnwcdn.com/powerwash-sim-2-star-wars-dlc-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "Right, could you two at least wipe your dusty boots before you come aboard the ship for your big lightsaber fight? Solo, your ship's engines might work if they weren't clogged with asteroid dust! Yes, I'm the guy who follows Jabba the Hutt around with a big mop to suck up the slime. These are all t…"
         }
-      ]
+      ],
+      "summary": "PowerWash Simulator 2 will add a Star Wars-themed downloadable content pack this summer. The announced expansion features cleaning tasks involving items and settings from the franchise."
     },
     {
-      "id": "topic_50aefbb98591d60",
+      "id": "topic_f9f7e7d957c786e9",
+      "title": "M5 MacBook Air Discounts Reach $150",
+      "headline": "The New M5 MacBook Air Is on Sale for $950 Right Now",
       "label": [
-        "free trade",
-        "zealand",
-        "trade",
-        "zealand sign",
-        "india zealand sign",
-        "india zealand"
+        "m5",
+        "air",
+        "macbook",
+        "sale",
+        "cheaper",
+        "never"
       ],
       "category": "new",
+      "theme": "theme_e18e5e5c23e6596c",
       "entities": [
-        "India",
-        "New Zealand",
-        "Strategic Priority",
-        "New Zealand Minister To",
-        "NDTV On Free Trade"
+        "The New M5 MacBook",
+        "Air Is",
+        "Sale",
+        "Right Now",
+        "The M5 MacBook Air"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 3,
+      "source_count": 3,
       "articles": [
         {
-          "title": "India and New Zealand sign a free trade agreement"
+          "title": "The New M5 MacBook Air Is on Sale for $950 Right Now",
+          "url": "https://lifehacker.com/tech/m5-macbook-air-deal-april-2026",
+          "source": "Lifehacker",
+          "published_at": "2026-04-27T17:30:00.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01KNHXW090TGXDQ96AQW67PM69/hero-image.png",
+          "description": "The 13-inch and 15-inch M5 MacBook Airs are both $150 off."
         },
         {
-          "title": "India and New Zealand sign a free trade agreement"
+          "title": "The M5 MacBook Air Has Never Been Cheaper",
+          "url": "https://www.wired.com/story/m5-macbook-air-never-been-cheaper",
+          "source": "WIRED",
+          "published_at": "2026-04-27T20:27:01.000Z",
+          "image": "https://media.wired.com/photos/69efb9ef92ae3f4f1e6069d9/master/pass/The-M5-MacBook-Air-Returns-to-Its-Lowest-Price-Since-Being-Launched.jpg",
+          "description": "Despite launching less than two months ago, the M5 MacBook Air has dropped back down to its lowest price since launching."
         },
         {
-          "title": "India, New Zealand sign historic free trade agreement: Here are key points from the deal"
-        },
-        {
-          "title": "India, New Zealand sign ‘once-in-a-generation’ free-trade deal"
-        },
-        {
-          "title": "\"Strategic Priority\": New Zealand Minister To NDTV On Free Trade Deal"
+          "title": "Major sale drops M5 MacBook Air back to lowest-ever price",
+          "url": "https://www.cultofmac.com/deals/macbook-air-deal",
+          "source": "Cult of Mac",
+          "published_at": "2026-04-27T16:40:11.000Z",
+          "image": "https://www.cultofmac.com/wp-content/uploads/2026/03/Apple-MacBook-Air-lifestyle-02-260303_big.jpg.large_2x.jpg",
+          "description": "The M5 MacBook Air is Apple’s best notebook for most people. It’s already affordable, but a MacBook Air deal knocks $150 off. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)"
         }
-      ]
+      ],
+      "summary": "Apple’s 13-inch and 15-inch M5 MacBook Air models are available for $150 off. The discount brings the laptops to their lowest prices since launch, according to the headlines."
     },
     {
-      "id": "topic_33d0a97c8d5da1af",
+      "id": "topic_f044ad14be87ef71",
+      "title": "Iran Offers to Reopen Strait of Hormuz Under Conditions",
+      "headline": "Iran Offers to Reopen the Strait of Hormuz",
       "label": [
-        "sovereign wealth",
-        "sovereign wealth fund",
-        "wealth",
-        "wealth fund",
-        "sovereign",
-        "fund"
-      ],
-      "category": "new",
-      "entities": [
-        "Canada",
-        "Carney",
-        "Canada Setting Up Sovereign",
-        "Wealth Fund",
-        "Alberta"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Canada launches sovereign wealth fund"
-        },
-        {
-          "title": "Canada’s Carney announces a sovereign wealth fund"
-        },
-        {
-          "title": "Canada Setting Up Sovereign Wealth Fund"
-        },
-        {
-          "title": "Canada's Carney launches a sovereign wealth fund. What is it?"
-        },
-        {
-          "title": "Alberta’s fund a cautionary tale for Carney’s national sovereign wealth fund"
-        }
-      ]
-    },
-    {
-      "id": "topic_a9e1f03ab33a7954",
-      "label": [
-        "humiliat iran",
-        "us humiliat iran",
-        "us humiliat",
-        "humiliat",
+        "reopen",
+        "offers",
+        "strait",
+        "hormuz",
         "iran",
-        "merz"
+        "us"
       ],
       "category": "new",
+      "theme": "theme_725aca200d7f6f7e",
       "entities": [
-        "Iran",
-        "US",
-        "German",
-        "Germany",
-        "Merz"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Iran live updates: US being 'humiliated' by Iran, German chancellor says"
-        },
-        {
-          "title": "US being ‘humiliated’ by Iran, says Germany’s Merz"
-        },
-        {
-          "title": "US being ‘humiliated’ by Iran, says German Chancellor Friedrich Merz"
-        },
-        {
-          "title": "US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz"
-        }
-      ]
-    },
-    {
-      "id": "topic_887f8990a731e985",
-      "label": [
-        "mps vote",
-        "vote whether",
-        "mps vote whether",
-        "mps",
-        "whether",
-        "mandelson"
-      ],
-      "category": "new",
-      "entities": [
-        "British MPs",
-        "PM Starmer",
-        "Mandelson",
-        "MPs",
-        "Starmer"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "British MPs vote on whether to probe PM Starmer over Mandelson hire"
-        },
-        {
-          "title": "MPs to vote on whether to hold inquiry into Starmer over Mandelson"
-        },
-        {
-          "title": "MPs to vote on whether Starmer should be investigated over Mandelson scandal"
-        },
-        {
-          "title": "British MPs vote on whether to probe PM Starmer over Mandelson hire"
-        }
-      ]
-    },
-    {
-      "id": "topic_df7d632937b01696",
-      "label": [
-        "car bomb",
-        "outside",
-        "station",
-        "bomb",
-        "car",
-        "ira"
-      ],
-      "category": "new",
-      "entities": [
-        "New IRA",
-        "Northern Ireland",
-        "PSNI",
-        "Belfast"
+        "Iran Offers",
+        "Reopen",
+        "Strait",
+        "Hormuz",
+        "Iran"
       ],
       "article_count": 3,
       "source_count": 3,
       "articles": [
         {
-          "title": "New IRA are chief suspects in car bomb attack outside PSNI station",
-          "url": "https://www.irishcentral.com/news/new-ira-car-bomb",
-          "published_at": "2026-04-27T09:54:44.000Z",
-          "image": "http://www.irishcentral.com/uploads/article-v2/2026/4/169671/cropped_PSNI_traffic_police_via_Lottolads_CC__1_.jpeg?t=1777283684"
+          "title": "Iran Offers to Reopen the Strait of Hormuz",
+          "url": "https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade",
+          "source": "Foreign Policy",
+          "published_at": "2026-04-27T20:50:27.000Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/IranUSPakistan-GettyImages-2272383913.jpg",
+          "description": "But only if the United States postpones nuclear talks and lifts its own naval blockade."
+        },
+        {
+          "title": "Iran offers US deal to reopen Strait of Hormuz",
+          "url": "https://www.nation.com.pk/28-apr-2026/iran-offers-us-deal-reopen-strait-hormuz",
+          "source": "The Nation - Top Stories",
+          "published_at": "2026-04-27T19:00:00.000Z",
+          "image": "https://www.nation.com.pk/print_images/small/2026-04-28/iran-offers-us-deal-reopen-strait-hormuz-1777357550-5267.jpg",
+          "description": "Tehran demands Trump to lift US blockade, end war and put off nuclear talks Trump has discussed new Iran proposal with aides, says White House Rubio says a purported Iranian offer on the Strait of Hormuz is not acceptable Iran FM blames US for failure of talks as he meets Putin in."
+        },
+        {
+          "title": "Iran offers to reopen Strait of Hormuz if US lifts blockade, officials say",
+          "url": "https://www.thejournal.ie/iran-offers-reopen-strait-of-hormuz-if-us-lifts-blokade-7025648-apr2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-04-27T20:21:18.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/04/featureimage-778077ce-b4d8-4b84-9b9c-26f86a4c290c-630x420.jpg",
+          "description": "The US is unlikely to support the proposal, which does not address Tehran’s nuclear programme."
         }
-      ]
-    },
-    {
-      "id": "topic_17e757f97d3ef229",
-      "label": [
-        "exclusive ai",
-        "ai pact",
-        "exclusive ai pact",
-        "exclusive",
-        "pact",
-        "microsoft"
       ],
-      "category": "new",
-      "entities": [
-        "OpenAI Breaks Free From",
-        "Exclusive AI Pact With",
-        "Microsoft",
-        "OpenAI Sever Their Exclusive",
-        "AI Pact"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "OpenAI Breaks Free From Exclusive AI Pact With Microsoft"
-        },
-        {
-          "title": "Microsoft, OpenAI Sever Their Exclusive AI Pact"
-        },
-        {
-          "title": "OpenAI breaks free from exclusive AI pact with Microsoft"
-        }
-      ]
-    },
-    {
-      "id": "topic_9de085a2d539db51",
-      "label": [
-        "jong",
-        "kim jong",
-        "jong un",
-        "kim jong un",
-        "kim",
-        "kill fight"
-      ],
-      "category": "new",
-      "entities": [
-        "Kim Jong Un",
-        "Korean",
-        "Ukraine",
-        "North Korean",
-        "Russia"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war"
-        },
-        {
-          "title": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia"
-        },
-        {
-          "title": "Kim Jong Un memorializes troops killed fighting for Russia"
-        }
-      ]
-    },
-    {
-      "id": "topic_258bf03fd4eebc2c",
-      "label": [
-        "says israeli",
-        "israeli strik",
-        "says israeli strik",
-        "israeli strik kill",
-        "strik kill",
-        "strik kill 14"
-      ],
-      "category": "new",
-      "entities": [
-        "Lebanon",
-        "Israeli",
-        "Hezbollah Vows",
-        "Keep Its Weapons",
-        "Lebanon Says Israeli Strikes"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began"
-        },
-        {
-          "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14 - The New York Times"
-        },
-        {
-          "title": "Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14"
-        }
-      ]
-    },
-    {
-      "id": "topic_270f6ab86663b0a3",
-      "label": [
-        "shell buy",
-        "16 billion",
-        "arc resourc",
-        "resourc",
-        "output",
-        "shell"
-      ],
-      "category": "new",
-      "entities": [
-        "Oil",
-        "Shell",
-        "Canada",
-        "ARC Resources",
-        "Buy ARC Resources"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Oil giant Shell to buy Canada’s ARC Resources for $16.4 billion in push to boost output"
-        },
-        {
-          "title": "Shell to buy Canada’s ARC Resources in output-boosting $16.4 billion deal"
-        },
-        {
-          "title": "Shell to Buy ARC Resources in $16.4 Billion Deal to Expand Canada Output"
-        }
-      ]
-    },
-    {
-      "id": "topic_afdbf902bb3a737e",
-      "label": [
-        "styl",
-        "zo",
-        "kravitz",
-        "harry styl",
-        "zo kravitz",
-        "harry"
-      ],
-      "category": "new",
-      "entities": [
-        "Harry Styles",
-        "Zo",
-        "Kravitz",
-        "Report",
-        "Entertainment Weekly"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Harry Styles y Zoë Kravitz se han comprometido"
-        },
-        {
-          "title": "Zoë Kravitz and Harry Styles are engaged after 8 months together: Report - Entertainment Weekly"
-        },
-        {
-          "title": "Harry Styles and Zoë Kravitz Are Engaged"
-        }
-      ]
-    },
-    {
-      "id": "topic_b8af66654948b946",
-      "label": [
-        "super mario galaxy",
-        "super mario",
-        "mario galaxy",
-        "mario",
-        "galaxy",
-        "super"
-      ],
-      "category": "new",
-      "entities": [
-        "Super Mario Galaxy Movie",
-        "Finally Dethroned At The",
-        "Box Office",
-        "Super Mario Galaxy",
-        "Filme"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Super Mario Galaxy Movie could arrive on digital platforms early next month"
-        },
-        {
-          "title": "Super Mario Galaxy Movie Finally Dethroned At The Box Office"
-        },
-        {
-          "title": "Super Mario Galaxy - O Filme"
-        }
-      ]
-    },
-    {
-      "id": "topic_9da4b91603503e7",
-      "label": [
-        "tech qb",
-        "qb brendan",
-        "texa tech qb",
-        "tech qb brendan",
-        "qb brendan sorsby",
-        "texa tech"
-      ],
-      "category": "new",
-      "entities": [
-        "Report",
-        "Texas Tech QB Brendan",
-        "Sorsby",
-        "NBC Sports",
-        "NCAA"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Report: Texas Tech QB Brendan Sorsby will check into treatment center for gambling addiction - NBC Sports"
-        },
-        {
-          "title": "Texas Tech QB Brendan Sorsby entering treatment for gambling addiction amid NCAA investigation"
-        },
-        {
-          "title": "Texas Tech QB Brendan Sorsby under NCAA investigation for gambling, to enter treatment program"
-        }
-      ]
-    },
-    {
-      "id": "topic_d6aca6b3d1386cb8",
-      "label": [
-        "charg",
-        "attempt",
-        "charg attempt",
-        "dinner",
-        "shoot",
-        "correspondent dinner"
-      ],
-      "category": "new",
-      "entities": [
-        "Know About King Charles",
-        "Queen Camilla",
-        "State Visit Hosted",
-        "Trump",
-        "World"
-      ],
-      "article_count": 43,
-      "source_count": 35,
-      "articles": [
-        {
-          "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump"
-        },
-        {
-          "title": "World leaders express shock, support after White House Correspondents' Dinner shooting"
-        },
-        {
-          "title": "‘I’m not a rapist’: Trump lashes out at shooting suspect’s manifesto in testy 60 Minutes interview"
-        },
-        {
-          "title": "What we know about the Correspondents’ Dinner shooting suspect"
-        },
-        {
-          "title": "Police training for rapid response after White House Correspondents Dinner shooting"
-        }
-      ]
-    },
-    {
-      "id": "topic_22632620823f8c55",
-      "label": [
-        "singapore",
-        "french teen",
-        "machine straw",
-        "vend machine straw",
-        "lick",
-        "vend"
-      ],
-      "category": "new",
-      "entities": [
-        "French",
-        "Singapore",
-        "BBCNews"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "French teen who licked vending machine straw faces jail in Singapore"
-        },
-        {
-          "title": "French teen in Singapore faces jail for licking and returning vending machine straw"
-        },
-        {
-          "title": "French teen who licked vending machine straw faces jail in Singapore. #Singapore #BBCNews"
-        }
-      ]
-    },
-    {
-      "id": "topic_5b3548fdb3db434f",
-      "label": [
-        "rapport",
-        "audiovisuel public",
-        "audiovisuel",
-        "public",
-        "alloncle",
-        "du"
-      ],
-      "category": "new",
-      "entities": [
-        "La",
-        "Le",
-        "Alloncle",
-        "Audiovisuel",
-        "Charles Alloncle"
-      ],
-      "article_count": 10,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "La publication du rapport de la commission d'enquête sur l'audiovisuel public tranchée lundi"
-        },
-        {
-          "title": "Le « rapport Alloncle » sur l’audiovisuel public adopté par les députés"
-        },
-        {
-          "title": "Audiovisuel public : les députés votent pour la publication du rapport Alloncle"
-        },
-        {
-          "title": "Audiovisuel public : le rapport du député Charles Alloncle est adopté par les députés après plus de quatre heures de débat"
-        },
-        {
-          "title": "Le rapport rédigé par Charles Alloncle voté en commission d’enquête"
-        }
-      ]
-    },
-    {
-      "id": "topic_c381a10b6adf493c",
-      "label": [
-        "assassinat",
-        "pour tentative",
-        "tentative assassinat",
-        "pour tentative assassinat",
-        "tentative",
-        "assassinat sur"
-      ],
-      "category": "new",
-      "entities": [
-        "Tirs",
-        "Donald Trump",
-        "Cole Allen",
-        "Trump",
-        "Washington"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Tirs au gala de la presse avec Donald Trump : le suspect Cole Allen mis en accusation par un tribunal pour \"tentative d’assassinat\""
-        },
-        {
-          "title": "L’assaillant du gala de la presse mis en accusation pour « tentative d’assassinat » sur Trump"
-        },
-        {
-          "title": "Tirs au dîner des correspondants : le suspect a été mis en accusation par un tribunal pour tentative d'assassinat sur Donald Trump"
-        },
-        {
-          "title": "Tirs au gala de la presse : le suspect mis en accusation par un tribunal pour tentative d’assassinat sur Donald Trump"
-        },
-        {
-          "title": "Washington : le suspect inculpé pour tentative d’assassinat sur Donald Trump"
-        }
-      ]
-    },
-    {
-      "id": "topic_3d216fe727bbf5e3",
-      "label": [
-        "plane crash",
-        "south sudan",
-        "sudan",
-        "plane",
-        "south",
-        "crash"
-      ],
-      "category": "new",
-      "entities": [
-        "Plane",
-        "South Sudan",
-        "Juba",
-        "Bodies Charred Beyond Recognition",
-        "Killed In South Sudan"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Plane crash in South Sudan kills 14"
-        },
-        {
-          "title": "Plane crashes near South Sudan’s Juba, killing all 14 on board"
-        },
-        {
-          "title": "Plane crash in South Sudan kills all 15 on board"
-        },
-        {
-          "title": "\"Bodies Charred Beyond Recognition\": 14 Killed In South Sudan Plane Crash"
-        },
-        {
-          "title": "Plane crash kills all 14 onboard in South Sudan after aircraft plunges to ground and erupts into flames"
-        }
-      ]
+      "summary": "Iran has offered to reopen the Strait of Hormuz if the United States lifts its naval blockade and postpones nuclear talks. The proposal does not address Iran’s nuclear program, and the United States is unlikely to accept it, according to officials cited in the headlines."
     }
   ]
 }

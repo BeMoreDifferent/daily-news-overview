@@ -1,801 +1,916 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-11T00:50:04.692Z",
+  "generated_at": "2026-09-27T14:06:51.311Z",
   "topics": [
     {
-      "id": "topic_cf07c1d092dd5827",
+      "id": "topic_99fc0a123757e0bb",
+      "title": "Passenger Partially Pulled Through Window on Ryanair Flight",
+      "headline": "Passenger 'partially sucked out of window' on Ryanair flight",
       "label": [
-        "arrest",
-        "man arrest",
-        "man",
-        "ann widdecombe",
-        "ann",
-        "widdecombe"
+        "sucked",
+        "window",
+        "passenger",
+        "ryanair",
+        "flight",
+        "partially"
       ],
       "category": "new",
-      "theme": "theme_caa6a9b01acffa36",
+      "theme": "theme_a97300be35b79fb4",
       "entities": [
+        "Passenger",
+        "Ryanair",
+        "Greece",
         "Man",
-        "British MP",
-        "British",
-        "Ann Widdecombe",
-        "Police"
+        "Panic"
       ],
-      "article_count": 13,
-      "source_count": 13,
+      "article_count": 39,
+      "source_count": 34,
       "articles": [
         {
-          "title": "Man arrested after former British MP found dead",
-          "url": "https://www.brisbanetimes.com.au/national/man-arrested-after-former-british-mp-found-dead-20260711-p60eh9.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-10T21:53:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a5b2e04375123f7a0fc589906c4e68a1e372a341"
+          "title": "Passenger 'partially sucked out of window' on Ryanair flight",
+          "url": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-07-10T12:06:00.000Z",
+          "image": "https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328",
+          "description": "A Ryanair flight was forced to make a emergency landing after a passenger was reportedly partially sucked out of a window."
         },
         {
-          "title": "Man arrested after former British MP found dead",
-          "url": "https://www.smh.com.au/national/man-arrested-after-former-british-mp-found-dead-20260711-p60eh9.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-10T21:53:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a5b2e04375123f7a0fc589906c4e68a1e372a341"
+          "title": "Ryanair passenger partially sucked out of window on flight from Greece",
+          "url": "https://www.gmanetwork.com/news/topstories/world/994486/ryanair-passenger-partially-sucked-out-flight-greece/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-07-10T16:03:37.000Z",
+          "image": "https://images.gmanews.tv/webpics/2018/07/Ryanair_2018_07_19_01_09_16.JPG",
+          "description": "A passenger was partially sucked through a dislodged window on a Ryanair flight shortly after takeoff from Thessaloniki in Greece on Friday, two airport sources said, forcing the aircraft to make an emergency landing."
         },
         {
-          "title": "Man arrested after former British MP found dead",
-          "url": "https://www.theage.com.au/national/man-arrested-after-former-british-mp-found-dead-20260711-p60eh9.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-07-10T21:53:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a5b2e04375123f7a0fc589906c4e68a1e372a341"
+          "title": "Passenger nearly 'sucked out' of 'detached' window on Ryanair flight",
+          "url": "https://www.breakingnews.ie/world/update-1-ryanair-jet-window-dislodged-during-flight-forcing-emergency-landing-in-greece-1925054.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMTEwNzM1MzNcXFwvNDgxMWY2YTEtYzQ0Ny00NDFkLWI4ZGMtODI3YTYxZTk1Y2YzLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImM0YTUzMDRmYTUwOTQ3NDZlZDRmYjk2YWNmOTQzZmYyYjhiMWVlMDkifQ==/4811f6a1-c447-441d-b8dc-827a61e95cf3.jpg",
+          "description": "Ryanair jet window 'dislodged' during flight forcing emergency landing in Greece"
         },
         {
-          "title": "Man arrested on suspicion of murdering British politician Ann Widdecombe",
-          "url": "https://www.washingtonexaminer.com/news/world/4644662/conservative-mp-ann-widdecombe-found-dead-in-suspected-murder",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-10T21:53:13.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP20031325170004.jpg?w=696"
-        },
-        {
-          "title": "Police in UK arrest a suspect in killing of former Parliament member Ann Widdecombe",
-          "url": "https://japantoday.com/category/world/murder-probe-launched-into-suspicious-death-of-former-british-minister",
-          "source": "Japan Today",
-          "published_at": "2026-07-10T21:20:31.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5e28a4ca58ee67c1",
-      "label": [
-        "une",
-        "bruel",
-        "plainte",
-        "patrick bruel",
-        "par une",
-        "une nouvelle"
-      ],
-      "category": "new",
-      "theme": "theme_a0d74bb5941de3cb",
-      "entities": [
-        "Patrick Bruel",
-        "Affaire Patrick Bruel",
-        "Des",
-        "Une"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Patrick Bruel visé par une nouvelle plainte pour viol",
-          "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_8103368.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-07-10T20:46:41.000Z",
-          "image": "https://www.franceinfo.fr/pictures/bobpCC4gKAqGdnS05GSd0RO9Rq0/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/10/6a51598968531744304520.jpg"
-        },
-        {
-          "title": "Patrick Bruel visé par une nouvelle plainte pour viol sur une victime mineure",
-          "url": "https://www.huffingtonpost.fr/france/article/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol-sur-une-victime-mineure_286706.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-07-10T20:25:01.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/04/24/244/0/6016/3384/0/0/60/0/daccdd6_upload-1-94tfvdxx4xka-afp-20241008-hl-mcohen-2536363-v1-highres-francecriftribute7october.jpg"
-        },
-        {
-          "title": "Patrick Bruel visé par une nouvelle plainte pour viol",
-          "url": "https://www.sudouest.fr/justice/affaire-patrick-bruel/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol-29886886.php",
-          "source": "L'essentiel",
-          "published_at": "2026-07-10T19:21:16.000Z"
-        },
-        {
-          "title": "Affaire Patrick Bruel : \"Des faits particulièrement graves...\" Une nouvelle plainte pour viol déposée par une ancienne mannequin âgée de 16 ans au moment des faits",
-          "url": "https://www.ladepeche.fr/2026/07/10/affaire-patrick-bruel-des-faits-particulierement-graves-une-nouvelle-plainte-pour-viol-deposee-par-une-ancienne-mannequin-agee-de-16-ans-au-moment-des-13463888.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-07-10T19:03:47.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a5141ae363e26942f0917b1/standard/image.jpg?v=1"
-        },
-        {
-          "title": "Patrick Bruel visé par une nouvelle plainte pour viol sur une mannequin de 16 ans",
-          "url": "https://www.nouvelobs.com/justice/20260710.obs116574/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol-sur-une-mannequin-de-16-ans.html",
-          "source": "Le Nouvel Obs",
-          "published_at": "2026-07-10T18:52:16.000Z",
-          "image": "https://focus.nouvelobs.com/2026/07/10/0/0/4251/2834/0/0/60/0/5283d4b_upload-1-vp9sc1s3xnzz-000-36q322x.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_511b40ae3c7f8684",
-      "label": [
-        "wedd",
-        "swift",
-        "taylor swift",
-        "taylor",
-        "paid",
-        "swift paid"
-      ],
-      "category": "new",
-      "theme": "theme_5f14d304dcbb9f4a",
-      "entities": [
-        "Taylor Swift Paid",
-        "Obtain NYC Permit",
-        "MSG Wedding",
-        "Says Zohran Mamdani",
-        "Taylor Swift"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Taylor Swift Paid ‘Over $160,000’ to Obtain NYC Permit for MSG Wedding, Says Zohran Mamdani",
-          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-nyc-permit-cost-msg-wedding-zohran-mamdani-1235592197",
-          "source": "Rolling Stone",
-          "published_at": "2026-07-10T21:37:28.000Z"
-        },
-        {
-          "title": "Taylor Swift paid $160K in fees for NYC wedding, Zohran Mamdani says - USA Today",
-          "url": "https://news.google.com/rss/articles/cbmi0wfbvv95cuxootg1ne1mdhbielbxv0dtlu12a0lrr1jfmudhwxy2bkxzvnrzchyyx21lsdnrym44z3j2rgrnvuxysvc2m0tvzwrrx20wmzvoei1vt1i0emvuynvsyldlchlcbm5bnedux1zroepjx3nqeg52q1boczntdvnndy1jnulku0rpcgl1zvzutgjqazdasxcychrmqy1gnlhoslhixznwvej5z3ltbgluwwjubhv0tu1mthhfzme4dmzjdktsuutmzgp3bjzcuvhemfv0agfr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-10T21:18:00.000Z"
-        },
-        {
-          "title": "Taylor Swift paid $160K for MSG wedding ‘permit fees’ — but may not have to cover NYPD overtime",
-          "url": "https://nypost.com/2026/07/10/us-news/taylor-swift-paid-160k-for-msg-wedding-permit-fees-but-may-not-have-to-cover-nypd-overtime",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-10T19:48:54.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Ftaylor-swift-travis-kelce-seen-130811762.jpg?w%3D813"
-        },
-        {
-          "title": "Taylor Swift paid New York City more than $160,000 to cover the costs tied to her wedding, Mayor Zohran Mamdani confirmed",
-          "url": "https://fortune.com/2026/07/10/taylor-swift-paid-new-york-city-mayor-zohran-mamdani-160000-permits-police-overtime",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-07-10T19:24:36.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281115859-e1783711230474.jpg?w=2048"
-        },
-        {
-          "title": "Zohran Mamdani defends Taylor Swift wedding amid $160K security row",
-          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/zohran-mamdani-defends-taylor-swifts-wedding-as-republicans-question-160k-nypd-security-costs/articleshow/132319823.cms",
-          "source": "Times of India",
-          "published_at": "2026-07-10T19:07:05.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132319799,imgsize-947059.cms"
-        }
-      ]
-    },
-    {
-      "id": "topic_5c0179bf09c2da9",
-      "label": [
-        "laufey",
-        "god war",
-        "war laufey",
-        "god",
-        "disc",
-        "war"
-      ],
-      "category": "new",
-      "theme": "theme_8c84bf5cf30e6f54",
-      "entities": [
-        "Don",
-        "Worry",
-        "Get",
-        "Own God",
-        "War Laufey"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Don't Worry, You'll Get to Own God of War Laufey on a PS5 Disc",
-          "url": "https://www.pushsquare.com/news/2026/07/dont-worry-youll-get-to-own-god-of-war-laufey-on-a-ps5-disc",
-          "source": "Push Square | Latest Updates",
-          "published_at": "2026-07-10T23:00:00.000Z",
-          "image": "https://images.pushsquare.com/75039d940793c/large.jpg"
-        },
-        {
-          "title": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
-          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxnz015be1gznbmwg40uvjyvnjmvwtgadr6zezua1lrejz1snzrmy1hakvoywdybupzrhlxrhprymhhwnv3enu0uujrngforkd5ajb2tjhsckw3uksxvziysgx2nfr0yzzkzhf6q2dkwgy4zjlod2hkvwy0ru9aegfhltm2x0kyvvo3rf9vrxnlnmvyatdsy3vvc1z6bxvmodlru3bv",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-10T20:33:42.000Z"
-        },
-        {
-          "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku",
-          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxnntnnnhk4rm93bktoyxryoxzovuvvmxg2b19nr1zwaeuyrmfjvtgtdlcwcxp6skzwumdwqwrxntjgsjnpcmpimjveb2hnakh0wu1hsuzirk9znjexdes3se51zhzxnxlsmxh2svq3owvqvknvbm5tynvycnh5sevqtm1hegxpeljuwgx5mkjnq29jnhq5m1mxc1iyq3hfczljwklkr3p3m29paznla1e",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-10T20:29:38.000Z"
-        },
-        {
-          "title": "God Of War Laufey Promises Physical Disc Version, All But Confirming 2027 Launch",
-          "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
-          "source": "Kotaku",
-          "published_at": "2026-07-10T20:29:38.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg"
-        },
-        {
-          "title": "God of War Laufey Physical Disc Release Confirmed, Suggesting 2027 Launch",
-          "url": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
-          "source": "IGN Articles",
-          "published_at": "2026-07-10T20:28:23.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/04/god-of-war-laufey-gameplay-reveal-trailer-ps5-games-00-17-04-1780590660569.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_906f16f471d258f7",
-      "label": [
-        "sanction",
-        "russia",
-        "russia sanction",
-        "senator",
-        "sanction bill",
-        "us senator"
-      ],
-      "category": "new",
-      "theme": "theme_ab108fe9a34e7dc5",
-      "entities": [
-        "US Senators Announce Trump",
-        "Deal On Russia Sanctions",
-        "Bill",
-        "Senators Say They Have",
-        "Deal With Trump"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "US Senators Announce Trump Deal On Russia Sanctions Bill",
-          "url": "https://www.ndtv.com/world-news/us-senators-announce-trump-deal-on-russia-sanctions-bill-11755981",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-10T19:37:56.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/ntt64v28_donald-trump_625x300_07_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-        },
-        {
-          "title": "Senators Say They Have Deal With Trump on Russia Sanctions Bill",
-          "url": "https://financialpost.com/pmn/business-pmn/senators-say-they-have-deal-with-trump-on-russia-sanctions-bill",
-          "source": "Financial Post",
-          "published_at": "2026-07-10T19:03:26.000Z"
-        },
-        {
-          "title": "US Congress agrees with White House to tighten sanctions against Russia",
-          "url": "https://tass.com/world/2158875",
-          "source": "TASS",
-          "published_at": "2026-07-10T18:56:33.000Z"
-        },
-        {
-          "title": "US senators strike deal with White House to tighten Russia sanctions",
-          "url": "https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23",
-          "source": "International homepage",
-          "published_at": "2026-07-10T18:30:33.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61d264c9-8a4c-4455-b50a-cc481c78cffb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "title": "US senators say agreement reached with Trump on Russia sanctions bill",
-          "url": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
+          "title": "Man partially sucked out of plane window during flight, passenger says",
+          "url": "https://www.yahoo.com/news/world/articles/man-partially-sucked-plane-window-121536620.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-10T18:20:40.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03"
+          "published_at": "2026-07-10T13:22:31.000Z",
+          "image": "https://media.zenfs.com/en/cbs_news_897/5d58988c59b809b04923427e5dc6c53e"
+        },
+        {
+          "title": "Panic on Ryanair flight as passenger 'sucked out of window up to his shoulders'",
+          "url": "https://www.express.co.uk/news/world/2227662/ryanair-flight-window-passenger-thessaloniki-germany",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-07-10T10:13:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2227662_1.jpg",
+          "description": "Four people were taken to hospital after the incident."
         }
-      ]
+      ],
+      "summary": "A passenger was reportedly partially pulled through a dislodged window on a Ryanair flight shortly after takeoff from Thessaloniki, Greece. The aircraft made an emergency landing, and four people were taken to hospital."
     },
     {
-      "id": "topic_d42a977e1230d3ee",
+      "id": "topic_b060e55a1f186c12",
+      "title": "EU Demands Meta Change Facebook and Instagram Design Features",
+      "headline": "EU tells Meta to change Facebook, Instagram’s ‘addictive design’",
       "label": [
-        "american horror",
-        "horror story",
-        "ariana",
-        "ariana grande",
-        "grande",
-        "story"
+        "addictive",
+        "facebook",
+        "instagram",
+        "eu",
+        "design",
+        "meta"
       ],
       "category": "new",
-      "theme": "theme_29ec579acf253c17",
+      "theme": "theme_9ac00c01b3fb2d66",
       "entities": [
-        "Ariana Grande Drops Out",
-        "American Horror Story",
-        "Season",
-        "Due",
-        "Touring"
+        "EU",
+        "Meta",
+        "Facebook",
+        "Instagram",
+        "Commission"
+      ],
+      "article_count": 25,
+      "source_count": 25,
+      "articles": [
+        {
+          "title": "EU tells Meta to change Facebook, Instagram’s ‘addictive design’",
+          "url": "https://www.digitaljournal.com/article/eu-tells-meta-to-change-facebook-instagrams-addictive-design",
+          "source": "Digital Journal",
+          "published_at": "2026-07-10T10:30:37.000Z",
+          "description": "Brussels accused the US tech giant of failing to limit the risks the platforms posed to users, especially children and vulnerable adults, because of features designed to keep them on Facebook and Instagram. The post EU tells Meta to change Facebook, Instagram’s ‘addictive design’ appeared first on…"
+        },
+        {
+          "title": "EU tells Meta to change ‘addictive’ design features on Facebook, Instagram",
+          "url": "https://globalnews.ca/news/11960909/eu-meta-facebook-instagram-addictive-features",
+          "source": ": World",
+          "published_at": "2026-07-10T12:24:52.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/Meta-EU-Instagram-Facebook.jpg-e1783686078170.jpg?quality=65&strip=all",
+          "description": "The European Union accused Meta on Friday of breaching its social media law by designing Facebook and Instagram to get users hooked, and demanded changes."
+        },
+        {
+          "title": "EU says Facebook and Instagram's 'addictive' design is illegal",
+          "url": "https://www.engadget.com/2212152/meta-facebook-instagram-eu-addictive-design-finding",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-07-10T11:53:04.000Z",
+          "image": "https://www.engadget.com/img/gallery/metas-addictive-design-for-instagram-and-facebook-violates-laws-eu-finds/l-intro-1783684222.jpg",
+          "description": "The European Commission says Facebook's and Instagram's addictive designs violate the Digital Services Act."
+        },
+        {
+          "title": "EU demands Facebook, Instagram dismantle ‘addictive’ design features",
+          "url": "https://www.thehindubusinessline.com/info-tech/social-media/eu-demands-facebook-instagram-dismantle-addictive-design-features/article71206274.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-10T11:08:24.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/8xd57e/article71206285.ece/alternates/LANDSCAPE_1200/2025-09-11T201154Z_17432635_RC2WPGAYNDJH_RTRMADP_3_META-RESULTS.JPG",
+          "description": "Meta “needs to implement design changes” to Instagram and Facebook, such as disabling “key addictive features” like autoplay, infinite scroll so they're not turned on by default, the European Commission has said"
+        },
+        {
+          "title": "EU tells Meta to dismantle Facebook and Instagram’s ‘addictive’ design or face a fine",
+          "url": "https://thenextweb.com/news/eu-orders-meta-addictive-design-changes",
+          "source": "The Next Web",
+          "published_at": "2026-07-10T11:26:52.000Z",
+          "image": "https://media.thenextweb.com/2026/06/European-Parliament.avif",
+          "description": "Brussels has decided that infinite scroll is not a feature but a hazard. On Friday, the European Commission told Meta to dismantle the design tricks that keep people glued to Facebook and Instagram, or risk a fine that could run into billions, in a fresh set of charges under the EU’s Digital Servic…"
+        }
+      ],
+      "summary": "The European Commission said Facebook and Instagram’s design features, including infinite scroll and autoplay, breach the Digital Services Act by encouraging prolonged use. It called on Meta to make changes, including disabling some features by default."
+    },
+    {
+      "id": "topic_d45f126f2784a060",
+      "title": "Apple Sues OpenAI Over Alleged Trade Secret Theft",
+      "headline": "Apple Sues OpenAI for Trade Secret Theft",
+      "label": [
+        "apple",
+        "secrets",
+        "openai",
+        "sues",
+        "trade",
+        "theft"
+      ],
+      "category": "new",
+      "theme": "theme_4f7dd3f4a92c91a6",
+      "entities": [
+        "Apple Sues OpenAI",
+        "Trade Secret Theft",
+        "Apple",
+        "OpenAI",
+        "Alleging It Stole Trade"
+      ],
+      "article_count": 43,
+      "source_count": 34,
+      "articles": [
+        {
+          "title": "Apple Sues OpenAI for Trade Secret Theft",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-07-10T21:04:13.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5N7JPLeVakg/v3/1200x-1.jpg",
+          "description": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products. Apple alleges that OpenAI encouraged Apple employees to share information, components, drawings and other…"
+        },
+        {
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+          "source": "TechCrunch",
+          "published_at": "2026-07-10T20:32:00.000Z",
+          "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+        },
+        {
+          "title": "Apple sues OpenAI for stealing trade secrets",
+          "url": "https://www.thehindu.com/sci-tech/technology/apple-sues-openai-for-stealing-trade-secrets/article71208364.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-10T23:02:09.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ryyyma/article71208365.ece/alternates/LANDSCAPE_1200/2025-05-02T185601Z_1219494412_RC2N3EAP37SJ_RTRMADP_3_APPLE-ANTHROPIC-AI.JPG",
+          "description": "The suit will significantly complicate OpenAI's plans for a hotly anticipated initial public offering."
+        },
+        {
+          "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets",
+          "url": "https://www.wsj.com/tech/apple-openai-lawsuit-f86bd58c",
+          "source": "Yahoo Finance",
+          "published_at": "2026-07-10T23:09:00.000Z",
+          "image": "https://media.zenfs.com/en/wsj.com/65b4e9f9119ca774fcad686f2ba513fb"
+        },
+        {
+          "title": "Apple sues OpenAI for trade secret theft in blockbuster case",
+          "url": "https://www.smh.com.au/business/companies/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case-20260711-p60ehf.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-07-10T23:00:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.49929278642149927%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/0d2d00284f495528dc5d56a41b81d8f0c1cbf06d",
+          "description": "The iPhone maker has accused the AI startup behind ChatGPT and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products."
+        }
+      ],
+      "summary": "Apple sued OpenAI and its hardware chief, alleging a coordinated effort to steal information about upcoming products. Apple also alleges that senior OpenAI leaders directed the misconduct."
+    },
+    {
+      "id": "topic_6912c2f1fe0a5a18",
+      "title": "Wildfire in Southern Spain Kills 12",
+      "headline": "12 Dead In Wildfire In Southern Spain",
+      "label": [
+        "southern",
+        "spain",
+        "wildfire",
+        "kills",
+        "least",
+        "wildfires"
+      ],
+      "category": "new",
+      "theme": "theme_4553aa259ed7b3d8",
+      "entities": [
+        "Dead In Wildfire In",
+        "Southern Spain",
+        "Wildfire",
+        "Spain",
+        "Twelve"
+      ],
+      "article_count": 22,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "12 Dead In Wildfire In Southern Spain",
+          "url": "https://www.ndtv.com/world-news/12-dead-in-wildfire-in-southern-spain-11751680",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-10T01:11:18.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/pn06a6lc_spain-wildfire_625x300_10_July_26.jpeg",
+          "description": "The death toll from a wildfire in Almeria in southern Spain rose to 12 after six more victims were found, authorities said Friday."
+        },
+        {
+          "title": "Wildfire kills at least 12 in southern Spain",
+          "url": "https://www.yahoo.com/news/world/articles/wildfire-kills-least-12-southern-064845633.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-10T06:48:45.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/376b5d4ab10593345b1954591cca24fc"
+        },
+        {
+          "title": "Twelve dead in wildfire in southern Spain",
+          "url": "https://www.thelocal.es/20260710/twelve-dead-in-wildfire-in-southern-spain",
+          "source": "The Local Spain",
+          "published_at": "2026-07-10T05:00:20.000Z",
+          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/AFP__20250825__72F64YE__v1__MidRes__SpainWildfireWeatherClimate.jpg@webp",
+          "description": "A wildfire that ripped through a hamlet in southern Spain killed 12 people, authorities said Friday, as a heatwave stifled swathes of the country."
+        },
+        {
+          "title": "Wildfires in southern Spain kill at least 12",
+          "url": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-10T07:43:19.000Z",
+          "description": "Andalusia's deadliest fire comes as heatwaves across Europe have left swaths of the continent highly vulnerable."
+        },
+        {
+          "title": "12 People Die in Southern Spain Wildfire",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-07-10T04:23:42.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10spain-wildfire-02-gvtc/10spain-wildfire-02-gvtc-mediumSquareAt3X.jpg",
+          "description": "The blaze broke out in Almería province in Andalusia and prompted a major operation to contain it. Heat waves across Europe this summer have raised the risk of wildfires, forecasters say."
+        }
+      ],
+      "summary": "A wildfire in Almería province in southern Spain killed 12 people, authorities said. The blaze prompted a major operation to contain it."
+    },
+    {
+      "id": "topic_3446faf1cc87d400",
+      "title": "Israel Shares Intelligence on Alleged Iranian Plot to Kill Trump",
+      "headline": "Israel warns US of fresh Iranian plot to assassinate Trump",
+      "label": [
+        "plot",
+        "iranian",
+        "assassinate",
+        "israel",
+        "trump",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_d03c06866639a8bf",
+      "entities": [
+        "Israel",
+        "US",
+        "Iranian",
+        "Trump",
+        "Reports"
+      ],
+      "article_count": 20,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Israel warns US of fresh Iranian plot to assassinate Trump",
+          "url": "https://dailypost.ng/2026/07/10/israel-warns-us-of-fresh-iranian-plot-to-assassinate-trump",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-07-10T07:42:37.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/06/Trump-1.jpg",
+          "description": "Israel has reportedly shared intelligence with the United States regarding what it described as a new and specific Iranian plot to assassinate US President Donald Trump, according to American media reports published on Thursday. The development comes amid renewed military exchanges between Washingt…"
+        },
+        {
+          "title": "Reports of Iranian plot to assassinate Trump",
+          "url": "https://www.theage.com.au/world/reports-of-iranian-plot-to-assassinate-trump-20260710-p60ean.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-07-10T02:19:48.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/4fd0fe30e859cd18bcdbd5137c85b48bf7b00a30",
+          "description": "Israel has shared intelligence with the US over an alleged Iranian plot to kill Donald Trump."
+        },
+        {
+          "title": "Israeli intelligence warns US of alleged Iranian plot to assassinate Trump: Report",
+          "url": "https://www.thehindubusinessline.com/news/world/israeli-intelligence-warns-us-of-alleged-iranian-plot-to-assassinate-trump-report/article71205260.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-10T04:56:51.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/lx8f5u/article71197301.ece/alternates/LANDSCAPE_1200/2026-07-08T083335Z_1905516553_RC2K9MAMKHJO_RTRMADP_3_NATO-SUMMIT.JPG",
+          "description": "According to reports, the warning was delivered this week and referred to a specific alleged plot"
+        },
+        {
+          "title": "Israel shared intelligence on alleged Iranian plot to assassinate Trump with US — WSJ",
+          "url": "https://tass.com/world/2158489",
+          "source": "TASS",
+          "published_at": "2026-07-10T07:29:30.000Z",
+          "description": "According to the newspaper, the intelligence could prompt the United States to take a tougher stance and further escalate the conflict with Iran"
+        },
+        {
+          "title": "Israel shares intelligence with US on alleged Iranian plot to kill Trump: report",
+          "url": "https://tribune.com.pk/story/2617482/israel-shares-intelligence-with-us-on-alleged-iranian-plot-to-kill-trump-report",
+          "source": "express tribune",
+          "published_at": "2026-07-10T01:09:17.000Z",
+          "description": "Report says the new intelligence could further escalate the conflict between Washington and Tehran"
+        }
+      ],
+      "summary": "Israel reportedly shared intelligence with the United States about an alleged Iranian plot to assassinate President Donald Trump. Reports said the warning described a specific plot."
+    },
+    {
+      "id": "topic_5c54e2c80fc46244",
+      "title": "Police Investigate Ann Widdecombe’s Death as Murder",
+      "headline": "Police launch murder investigation into death of Ann Widdecombe",
+      "label": [
+        "widdecombe",
+        "death",
+        "ann",
+        "murder",
+        "police",
+        "investigation"
+      ],
+      "category": "new",
+      "theme": "theme_ddbef536a8ec5254",
+      "entities": [
+        "Police",
+        "Ann Widdecombe",
+        "BBC",
+        "UK",
+        "Police Open Murder Investigation"
+      ],
+      "article_count": 29,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Police launch murder investigation into death of Ann Widdecombe",
+          "url": "https://www.theguardian.com/politics/2026/jul/10/police-investigating-death-of-ann-widdecombe",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-07-10T15:22:28.000Z",
+          "image": "https://i.guim.co.uk/img/media/f29032914a7c484140372a28c978745073f41e9f/1616_504_4290_3433/master/4290.jpg?width=140&quality=85&auto=format&fit=max&s=5c7f5d2af29adfb0b56d9a141f6c388b",
+          "description": "Body of former MP, 78, found with serious injuries at her Dartmoor home on Thursday morning A murder investigation has been launched after the suspicious death of the former MP Ann Widdecombe at her home on Dartmoor, in Devon, police have said. Widdecombe’s body was found with “serious injuries” by…"
+        },
+        {
+          "title": "Ann Widdecombe death latest: Police launch murder investigation",
+          "url": "https://news.google.com/rss/articles/cbmivefvx3lxtfb6rdvcwxn2qmk2twplv0zqzu9hlvowsev1vkkxtk1gmmlkq2lsslncoxyzevprnf9qtdbuwdfxdndgd2s1s0r3nnm4yvbmrhvizmjqbw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-10T17:35:51.000Z",
+          "description": "Ann Widdecombe death latest: Police launch murder investigation BBC Police arrest man on suspicion of Ann Widdecombe’s murder The Guardian UK Police Arrest Man on Suspicion of Murdering Former Minister Bloomberg.com Murder probe launched into suspicious death of prominent British ex-politician Ann…"
+        },
+        {
+          "title": "Ann Widdecombe's death 'under investigation by police'",
+          "url": "https://www.express.co.uk/news/uk/2227813/ann-widdecombe-death-police",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-07-10T14:26:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2227813_1.jpg",
+          "description": "The former Tory minister has died, it was revealed on Thursday."
+        },
+        {
+          "title": "Ann Widdecombe death shocks UK as police launch murder hunt",
+          "url": "https://www.indiatoday.in/world/story/ann-widdecombe-death-keir-starmer-reacts-devon-murder-investigation-ptag-2945261-2026-07-10",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-10T16:22:32.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_88-sixteen_nine.png?VersionId=sM0s2cgtsONrqZjzCiEyV1K8.oQowBVg"
+        },
+        {
+          "title": "Watch live: Police give update after death of Ann Widdecombe as murder investigation launched",
+          "url": "https://www.independent.co.uk/news/uk/home-news/ann-widdecombe-death-police-press-conference-watch-live-b3012798.html",
+          "source": "The Independent UK",
+          "published_at": "2026-07-10T15:40:29.000Z",
+          "image": "https://static.independent.co.uk/2026/07/10/14/27/GettyImages-2198565852.jpeg?width=1200&auto=webp&trim=0%2C2952%2C1968%2C0",
+          "description": "Watch live as police hold a press conference on Friday (10 July) after the death of former MP Ann Widdecombe ."
+        }
+      ],
+      "summary": "Police launched a murder investigation after former MP Ann Widdecombe was found dead with serious injuries at her home in Dartmoor. Reports also said a man was arrested on suspicion of murder."
+    },
+    {
+      "id": "topic_72cada4126a2a635",
+      "title": "Trump Removes Election Assistance Commission Members",
+      "headline": "Trump Fires Election Assistance Commission Members Ahead of Midterms",
+      "label": [
+        "assistance",
+        "commission",
+        "election",
+        "trump",
+        "members",
+        "midterms"
+      ],
+      "category": "new",
+      "theme": "theme_71aac438d5144998",
+      "entities": [
+        "Trump Fires Election Assistance",
+        "Commission Members Ahead",
+        "Midterms",
+        "Trump Purges Election Assistance",
+        "Commission"
       ],
       "article_count": 19,
-      "source_count": 4,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Ariana Grande Drops Out of ‘American Horror Story’ Season 13 Due to Touring",
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/ariana-grande-drops-american-horror-story-season-13-tour-1235592182",
-          "source": "Rolling Stone",
-          "published_at": "2026-07-10T20:41:31.000Z"
+          "title": "Trump Fires Election Assistance Commission Members Ahead of Midterms",
+          "url": "https://www.dailysignal.com/2026/07/10/trump-lection-assistance-commission",
+          "source": "The Daily Signal",
+          "published_at": "2026-07-10T16:55:00.000Z",
+          "image": "https://static.dailysignalmedia.org/260710_Donald_Trump_Nato.jpg",
+          "description": "WASHINGTON, July 9 (Reuters)—U.S. President Donald Trump on Thursday terminated the last three members of the Election Assistance Commission, the ‌independent federal commission that assists election administration officials nationwide, the White House confirmed. The remaining three commissioners o…"
         },
         {
-          "title": "Ariana Grande abandona ‘American Horror Story’ antes del estreno de la temporada 13",
-          "url": "https://vanguardia.com.mx/show/ariana-grande-abandona-american-horror-story-antes-del-estreno-de-la-temporada-13-dg22060131",
-          "source": "Vanguardia",
-          "published_at": "2026-07-10T19:09:02.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/ariana-grande-abandona-american-ho_1-16107497_20260710201104.jpg"
+          "title": "Trump Purges Election Assistance Commission",
+          "url": "https://politicalwire.com/2026/07/09/trump-purges-election-assistance-commission",
+          "source": "Political Wire",
+          "published_at": "2026-07-10T02:14:33.000Z",
+          "description": "“The White House fired two Democratic Election Assistance Commission members Thursday afternoon, completely vacating the federal agency in charge of election management guidelines after the remaining Republican member resigned,” NOTUS reports. “President Donald Trump’s move comes after a recent Sup…"
         },
         {
-          "title": "Ariana Grande Exits American Horror Story Season 13",
-          "url": "https://www.tvline.com/2212589/ariana-grande-leaving-american-horror-story-season-13-reason-explained",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-07-10T18:55:21.000Z",
-          "image": "https://www.tvline.com/img/gallery/ariana-grande-ahs/l-intro-1783708858.jpg"
-        },
-        {
-          "title": "Ariana Grande Drops Out of ‘American Horror Story’ Season 13 Amid Concert Tour",
-          "url": "https://variety.com/2026/music/news/ariana-grande-exits-american-horror-story-13-tour-1236806759",
-          "source": "Variety",
-          "published_at": "2026-07-10T18:17:15.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/MixCollage-10-Jul-2026-01-06-PM-7018.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_caaecb6ff52fc8",
-      "label": [
-        "borg",
-        "gitlost",
-        "coldfusion",
-        "goddamn",
-        "ghostapproval",
-        "epaphroditu"
-      ],
-      "category": "new",
-      "theme": "theme_97fbfece4179c5b7",
-      "entities": [
-        "Borg",
-        "GitLost",
-        "ColdFusion",
-        "GodDamn",
-        "GhostApproval"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Borg, GitLost, ColdFusion, GodDamn, GhostApproval, OWA, Epaphroditus, Josh Marpet & More - SWN #597",
-          "url": "https://www.youtube.com/watch?v=pVHZOTUnrXc",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-07-10T21:00:39.000Z",
-          "image": "https://i1.ytimg.com/vi/pVHZOTUnrXc/hqdefault.jpg"
-        },
-        {
-          "title": "Borg, GitLost, ColdFusion, GodDamn, GhostApproval, OWA, Epaphroditus, Josh Marpet,.. - SWN #597",
-          "url": "https://sw-all.libsyn.com/borg-gitlost-coldfusion-goddamn-ghostapproval-owa-epaphroditus-josh-marpet-swn-597",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-07-10T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_597_1--7f8cd7dc-8a02-4a3e-b661-48df290c43f8--audio-converted--71078647-84b3-4bcc-9c48-19e0777eb0c0.mp3?dest-id=829103"
-        },
-        {
-          "title": "Borg, GitLost, ColdFusion, GodDamn, GhostApproval, OWA, Epaphroditus, Josh Marpet,.. - SWN #597",
-          "url": "https://hntvaudio.libsyn.com/borg-gitlost-coldfusion-goddamn-ghostapproval-owa-epaphroditus-josh-marpet-swn-597",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-07-10T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_597_1--7f8cd7dc-8a02-4a3e-b661-48df290c43f8--audio-converted--71078647-84b3-4bcc-9c48-19e0777eb0c0.mp3?dest-id=376644"
-        },
-        {
-          "title": "Borg, GitLost, ColdFusion, GodDamn, GhostApproval, OWA, Epaphroditus, Josh Marpet,.. - SWN #597",
-          "url": "https://hntvvideo.libsyn.com/borg-gitlost-coldfusion-goddamn-ghostapproval-owa-epaphroditus-josh-marpet-swn-597",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-07-10T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_597_1--7f8cd7dc-8a02-4a3e-b661-48df290c43f8--sd-converted--4085bc03-29ec-402b-a3ab-a41617d3fd5a.mp4?dest-id=376663"
-        }
-      ]
-    },
-    {
-      "id": "topic_383c0a48a6fdeac9",
-      "label": [
-        "bridge",
-        "open",
-        "bridge open",
-        "us canada",
-        "howe bridge",
-        "gordie"
-      ],
-      "category": "new",
-      "theme": "theme_f09780d443569c3e",
-      "entities": [
-        "Gordie Howe Bridge",
-        "July",
-        "US",
-        "Canada",
-        "Gordie Howe"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Gordie Howe Bridge to open by end of July after US and Canada settle issues",
-          "url": "https://www.washingtonexaminer.com/policy/infrastructure/4644549/gordie-howe-bridge-open-end-july",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-10T20:56:21.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26146712443141.jpg?w=696"
-        },
-        {
-          "title": "Gordie Howe bridge set to open by late July after delay: sources",
-          "url": "https://globalnews.ca/news/11961622/gordie-howe-bridge-open-late-july",
-          "published_at": "2026-07-10T19:51:30.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/gordie-howe-opening-e1783713063506.jpg?quality=65&strip=all"
-        },
-        {
-          "title": "New US, Canada bridge to open soon, Michigan Republican says",
-          "url": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
-          "source": "All News",
-          "published_at": "2026-07-10T19:37:11.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6917N_L.jpg"
-        },
-        {
-          "title": "US-Canadian bridge set to open by late July after delay due to issues between countries, sources say",
-          "url": "https://www.independent.co.uk/news/world/americas/detroit-donald-trump-mike-rogers-windsor-work-b3012931.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-10T19:33:29.000Z",
-          "image": "https://static.independent.co.uk/2026/07/10/20/US_Canada_Detroit_Bridge_23556.jpg?width=1200&auto=webp&crop=3%3A2"
-        }
-      ]
-    },
-    {
-      "id": "topic_31bc733865fccbc8",
-      "label": [
-        "cyclist",
-        "40s",
-        "kildare",
-        "cyclist 40s",
-        "hit run",
-        "hit"
-      ],
-      "category": "new",
-      "theme": "theme_6b0057ff9f3dc86d",
-      "entities": [
-        "Cyclist",
-        "Kildare",
-        "Co Kildare",
-        "Garda"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Cyclist (40s) killed in Kildare hit-and-run",
-          "url": "https://www.breakingnews.ie/ireland/cyclist-40s-killed-in-kildare-hit-and-run-1925281.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMTFcXFwvMjQxNzU2NDVcXFwvMi40OTQwNTM0Mi02LWUxNzY0MDA3MDg2MzY3LmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjUwYmE5OTgzOGQwMzQyYzg5MDgwY2E4ZDllZTllMGIyYjU0NGQwNmIifQ==/2-49405342-6-e1764007086367.jpg"
-        },
-        {
-          "title": "Cyclist, 40s, dies following hit-and-run in Kildare",
-          "url": "https://www.irishexaminer.com/news/arid-41877728.html",
-          "source": "IrishExaminer.com",
-          "published_at": "2026-07-10T19:14:00.000Z"
-        },
-        {
-          "title": "Cyclist in his 40s killed in hit-and-run in Co Kildare",
-          "url": "https://www.thejournal.ie/cyclist-hit-and-run-kildare-7098266-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-10T19:12:43.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/07/garda-road-closure-at-a-crime-scene-in-west-cork-ireland-9cef2027-656e-4126-bcb8-22ddfcaf0245-630x419.jpg"
-        },
-        {
-          "title": "Gardaí appeal for witnesses after cyclist, 40s, killed following hit-and-run in Kildare",
-          "url": "https://www.irishmirror.ie/news/irish-news/gardai-appeal-witnesses-after-cyclist-37416673",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-07-10T19:10:23.000Z",
-          "image": "https://i2-prod.irishmirror.ie/incoming/article36769415.ece/ALTERNATES/s615/7_garda-car-lights-stock.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_a4bb21cac72c41c8",
-      "label": [
-        "endanger specy",
-        "endanger",
-        "specy",
-        "protection endanger",
-        "cuts",
-        "protection"
-      ],
-      "category": "new",
-      "theme": "theme_e269b722b6cc6788",
-      "entities": [
-        "EPA",
-        "Trump Administration Sharply Cuts",
-        "Protections",
-        "Endangered Species",
-        "New York Times"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "EPA to open habitats of endangered species to logging and mining",
-          "url": "https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining",
-          "source": "World news | The Guardian",
-          "published_at": "2026-07-10T20:37:45.000Z",
-          "image": "https://i.guim.co.uk/img/media/0ef9be4b76669b7a3a1d192912a93f8abd610d3d/488_0_5363_4290/master/5363.jpg?width=140&quality=85&auto=format&fit=max&s=a71640ea1d1a953a81f10fa6c61f6353"
-        },
-        {
-          "title": "Trump Administration Sharply Cuts Protections for Endangered Species (New York Times)",
-          "url": "https://www.memeorandum.com/260710/p85",
-          "source": "memeorandum",
-          "published_at": "2026-07-10T19:35:00.000Z",
-          "image": "http://www.memeorandum.com/260710/i85.jpg"
-        },
-        {
-          "title": "Trump Cuts Habitat Protections for Endangered Species",
-          "url": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
-          "source": "NYT > Science",
-          "published_at": "2026-07-10T18:40:42.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29cli-harm-01-glch/29cli-harm-01-glch-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Trump Administration Sharply Cuts Protections for Endangered Species - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmigafbvv95cuxpyvo1vjn2v0tuugvcr0dvc0txbfpuzfnyzjnvztf2dvlxc3nhvlruvgvwu1jivnjnwnlrt1hdy3buehrsujhlyli2bwtgngplbtvurgfaaddts0dhwxzqskd1bllmwmhbtu9as0wwzkznbmlooe5yyvhmd3drn0ftbg",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-10T18:35:46.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_408f7479d91416b7",
-      "label": [
-        "nig",
-        "nig charl",
-        "und",
-        "harry",
-        "charl",
-        "empf"
-      ],
-      "category": "new",
-      "theme": "theme_c599f8023f6e9952",
-      "entities": [
-        "Royals",
-        "Charles",
-        "Prinz Harry",
-        "Familie",
-        "Rahmen"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Royals: König Charles empfängt Prinz Harry und seine Familie in privatem Rahmen",
-          "url": "https://www.spiegel.de/panorama/leute/royals-koenig-charles-empfaengt-prinz-harry-und-seine-familie-in-privatem-rahmen-a-45911913-2ad1-4cd6-b70a-8dad4d637dbb",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-07-10T19:44:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/012869a6-ca6c-4994-8def-76cf4314dc45_w520_r2.08_fpx59.31_fpy55.jpg"
-        },
-        {
-          "title": "Erstes Familientreffen seit 2022: Harry und Meghan besuchen mit ihren Kindern König Charles",
-          "url": "https://www.n-tv.de/leute/harry-und-meghan-besuchen-mit-ihren-kindern-koenig-charles-id31073840.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-07-10T19:01:54.000Z",
-          "image": "https://www.n-tv.de/img/31073843/1783715748/Img_4_3/250/JUNE-29th-2023-Prince-Harry-The-Duke-of-Sussex-and-Meghan-Markle-The-Duchess-of-Sussex-have-officially-vacated-Frogmore-Cottage-their-former-royal-residence-home-in-Windsor-UK-MARCH-1st-2023-Prince-Harry-The-Duke-of-Sussex-and-Meghan-Markle-The-Duchess-of-Sussex-have-reportedly-been-evicted-from-Frogmore-Cottage-their-home-in-Windsor-UK-According-to-published-reports-King-Charles-III-plans-to-offer-the-property-to-Prince-Andrew-The-Duke-of-York-who-may-be-forced-to-give-up-Royal-Lodge-his-current-estate-in-Windsor-SEPTEMBER-8th-2020-Prince-Harry-and-Meghan-Markle-have-repaid-3-2-million-2-4-million-pounds-in-British-taxpayers-money-that-was-used-to-renovate-Frogmore-Cottage-their-home-in-the-United-Kingdom-The-repayment-was-agreed-to-in-the-terms-of-the-relinquishing-of-their-roles-as-senior-members-of-the-royal-family-earlier-in-2020-File-Photo-by-zz-NDZ-STAR-MAX-IPx-2021-9-23-21-Prince-Harry-The-Duke-of-Sussex-and-Meghan-Markle-The-Duchess-of-Sussex-visit-One-World-Observatory-on-September-23-2021-in-New-York-City.jpg"
-        },
-        {
-          "title": "Prinz Harry im Königreich: König Charles empfängt Harry, Meghan und die Kinder",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/koenig-charles-empfaengt-harry-meghan-und-die-kinder-201018398.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-07-10T18:44:01.000Z",
-          "image": "https://media0.faz.net/image/f369444a0528/w4786h2692x0y0/202606/43601.0.2269526120/harry-und-meghan-mit-sohn.webp"
-        },
-        {
-          "title": "Erstmals seit 2022: König Charles empfängt Prinz Harry und Familie",
-          "url": "https://www.morgenpost.de/panorama/article412544777/erstmals-seit-2022-koenig-charles-empfaengt-prinz-harry-und-familie.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-07-10T18:39:18.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412544793/412544793_1783708757_v16_9_600.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_972ba728ed8a6c72",
-      "label": [
-        "pitbull",
-        "world record",
-        "record",
-        "bald",
-        "guinnes",
-        "guinnes world"
-      ],
-      "category": "new",
-      "theme": "theme_9facc5692d687183",
-      "entities": [
-        "Mr World Record",
-        "Pitbull",
-        "Pitbull Sets Guinness World",
-        "Record",
-        "Bald Caps"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Mr World Record: Pitbull recognised for largest gathering of people in bald caps",
-          "url": "https://www.breakingnews.ie/entertainment/mr-world-record-pitbull-recognised-for-largest-gathering-of-people-in-bald-caps-1925289.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTAyMDU1MzdcXFwvMi44NTI2MTY4MS0xLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAwMTFlNGQ3MmI4ZGQ5Yjg3NzRlOTIxODUxZmZiYmZiNDhjNjE4MTIifQ==/2-85261681-1.jpg"
-        },
-        {
-          "title": "Pitbull Sets Guinness World Record for Most ‘Bald Caps’ at London Festival",
-          "url": "https://www.rollingstone.com/music/music-news/pitbull-sets-guinness-world-record-most-bald-caps-bst-fest-1235592245",
-          "source": "Rolling Stone",
-          "published_at": "2026-07-10T22:08:57.000Z"
-        },
-        {
-          "title": "Rapper Pitbull and fans set ‘bald cap’ Guinness World Record at Hyde Park show",
-          "url": "https://www.theguardian.com/world/2026/jul/10/rapper-pitbull-fans-bald-caps-guinness-world-record-hyde-park",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-07-10T20:44:37.000Z",
-          "image": "https://i.guim.co.uk/img/media/61eb9f25dfc1843ebea8b28402204d14d75c9f4e/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2dc4c058d4427863f74ebc4ebb771e07"
-        },
-        {
-          "title": "Pitbull fans set Guinness World Record at BST Hyde Park show",
-          "url": "https://www.bbc.co.uk/news/articles/cp8leyy42nvo",
-          "source": "BBC News",
-          "published_at": "2026-07-10T20:35:05.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54aa/live/fcfd54d0-7c98-11f1-9b18-bb5b415621a9.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c2fc55e3c2fbce6d",
-      "label": [
-        "pool",
-        "reflect pool",
-        "reflect",
-        "drain",
-        "lincoln memorial",
-        "lincoln"
-      ],
-      "category": "new",
-      "theme": "theme_5449bc3e10843f6e",
-      "entities": [
-        "Reflecting Pool",
-        "Still Green",
-        "Drained For",
-        "Third Time As Renovation",
-        "Drags On"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Reflecting Pool—Still Green—Drained For A Third Time As Renovation Drags On",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/reflecting-pool-still-green-drained-for-a-third-time-as-renovation-drags-on",
-          "source": "Forbes - Business",
-          "published_at": "2026-07-10T22:01:54.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5169cfe32179b6bb277b06/0x0.jpg?width=960"
-        },
-        {
-          "title": "Lincoln Memorial Reflecting Pool drained again as Trump project hits snags",
-          "url": "https://www.ms.now/news/lincoln-memorial-pool-drained-again-trump-revamp",
-          "source": "MS NOW",
-          "published_at": "2026-07-10T21:27:43.000Z"
-        },
-        {
-          "title": "Trump’s Reflecting Pool is being drained again as troubled revamp drags on",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/lincoln-memorial-reflecting-pool-drained-again-trump-b3012937.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-10T20:19:19.000Z",
-          "image": "https://static.independent.co.uk/2026/07/10/20/20/AP26191534401288.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Reflecting Pool am Lincoln Memorial: Wasserbecken am Lincoln Memorial wird ausgepumpt",
-          "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/reflecting-pool-lincoln-memorial-renovierung-donald-trump",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-07-10T18:42:52.000Z",
-          "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-07/reflecting-pool-lincoln-memorial-renovierung-donald-trump-foto-1/original__640x360"
-        }
-      ]
-    },
-    {
-      "id": "topic_6f5b859506215828",
-      "label": [
-        "social media",
-        "media",
-        "social",
-        "fix house",
-        "house social",
-        "media social"
-      ],
-      "category": "new",
-      "theme": "theme_3f11919d9ac97a54",
-      "entities": [
-        "Get",
-        "Fix",
-        "Study",
-        "This App Locks You",
-        "Your Social Media Accounts"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Get good at organic social media creative and social media ad spend … it’s the way to grow .. period",
-          "url": "https://www.youtube.com/shorts/fCJCtmNa2vU",
-          "source": "GaryVee",
-          "published_at": "2026-07-10T23:14:44.000Z",
-          "image": "https://i3.ytimg.com/vi/fCJCtmNa2vU/hqdefault.jpg"
-        },
-        {
-          "title": "Fix the house: On social media, social media access",
-          "url": "https://www.thehindu.com/opinion/editorial/fix-the-house-on-social-media-social-media-access/article71206737.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-10T19:32:42.000Z"
-        },
-        {
-          "title": "What is 'social media'? Study highlights public confusion about the term",
-          "url": "https://phys.org/news/2026-07-social-media-highlights-term.html",
-          "source": "Phys.org - latest science and technology news stories",
-          "published_at": "2026-07-10T18:40:04.000Z",
-          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/on-social-media.jpg"
-        },
-        {
-          "title": "This App Locks You Out of Your Social Media Accounts Until You Hit Your Step Count",
-          "url": "https://www.cnet.com/health/fitness/venus-williams-backed-app-will-lock-you-out-of-your-apps-until-you-hit-your-step-count",
-          "source": "CNET",
-          "published_at": "2026-07-10T18:35:59.000Z",
-          "image": "https://www.cnet.com/a/img/resize/94b45711fefe0e752e3179b721c670b4ad1e4173/hub/2026/07/10/1ca7716c-2a6f-4b3f-b6b2-1d3c59199d63/img-0387.jpg?auto=webp&fit=crop&height=614&width=1092"
-        }
-      ]
-    },
-    {
-      "id": "topic_f7d8d97608d53f33",
-      "label": [
-        "ukraine creat",
-        "command step",
-        "step strik",
-        "strik russia",
-        "command",
-        "ukraine"
-      ],
-      "category": "new",
-      "theme": "theme_1a6c210416c7debd",
-      "entities": [
-        "Ukraine",
-        "Russia",
-        "Ukraine Creates",
-        "Long",
-        "Range"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Ukraine creates 'long-range' command to step up strikes on Russia",
-          "url": "https://japantoday.com/category/world/ukraine-creates-%27long-range%27-command-to-step-up-strikes-on-russia",
-          "source": "Japan Today",
-          "published_at": "2026-07-10T21:19:43.000Z"
-        },
-        {
-          "title": "Ukraine creates command to step up strikes on Russia",
-          "url": "https://www.perthnow.com.au/news/conflict/ukraine-creates-command-to-step-up-strikes-on-russia-c-22562567",
-          "source": "PerthNow",
-          "published_at": "2026-07-10T20:41:55.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22562567/ca8344e9cff3c36cfbc475bdac9b6cbe7587ef65-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Ukraine Creates \"Long-Range\" Command To Step Up Strikes On Russia",
-          "url": "https://www.ndtv.com/world-news/ukraine-creates-long-range-command-to-step-up-strikes-on-russia-11756032",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-10T20:16:14.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/khjargmc_ukraine-war_625x300_11_July_26.jpeg"
-        },
-        {
-          "title": "Ukraine creates 'long-range' command to step up strikes on Russia",
-          "url": "https://www.yahoo.com/news/articles/ukraine-creates-long-range-command-192152178.html",
+          "title": "Trump terminates Election Assistance Commission members",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-terminates-election-assistance-commission-003921769.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-10T19:21:52.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/3c2658f61bc2ccd1f2f913499efb3119"
+          "published_at": "2026-07-10T00:50:44.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/142948a5a58dc07355feae5ff47ccf96"
+        },
+        {
+          "title": "Trump fires remaining members of Election Assistance Commission",
+          "url": "https://www.ms.now/news/trump-fires-election-assistance-commission",
+          "source": "MS NOW",
+          "published_at": "2026-07-10T02:20:07.000Z",
+          "description": "The ousting removes all commissioners from the bipartisan federal election agency, leaving it unable to act as President Trump pushes election changes before the midterms. The post Trump fires remaining members of Election Assistance Commission appeared first on MS NOW."
+        },
+        {
+          "title": "Trump fires Election Assistance Commission members ahead of midterms (Reuters)",
+          "url": "https://www.memeorandum.com/260710/p2",
+          "source": "memeorandum",
+          "published_at": "2026-07-10T05:50:00.000Z",
+          "image": "http://www.memeorandum.com/260710/i2.jpg",
+          "description": "Reuters: Trump fires Election Assistance Commission members ahead of midterms — U.S. President Donald Trump on Thursday terminated the last three members of the Election Assistance Commission, the independent, federal commission that assists election administration officials nationwide, the White H…"
         }
-      ]
+      ],
+      "summary": "President Donald Trump terminated the remaining members of the Election Assistance Commission, leaving the bipartisan federal agency without commissioners. The commission assists with election management guidelines."
+    },
+    {
+      "id": "topic_6af948dd42ca439e",
+      "title": "Bayeux Tapestry Arrives at British Museum After Secret Journey",
+      "headline": "Bayeux Tapestry Arrives at British Museum After Secret Journey From France",
+      "label": [
+        "tapestry",
+        "bayeux",
+        "arrives",
+        "british",
+        "museum",
+        "journey"
+      ],
+      "category": "new",
+      "theme": "theme_7b5ddada7e258fa4",
+      "entities": [
+        "Bayeux Tapestry Arrives",
+        "British Museum After Secret",
+        "Journey From France",
+        "Bayeux Tapestry",
+        "British Museum"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Bayeux Tapestry Arrives at British Museum After Secret Journey From France",
+          "url": "https://internewscast.com/local-news/bayeux-tapestry-arrives-at-british-museum-after-secret-journey-from-france",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-10T05:19:55.000Z",
+          "description": "Internewscast Journal Internewscast LONDON – Nearly a millennium later, the Bayeux Tapestry has returned to… This Post: Bayeux Tapestry Arrives at British Museum After Secret Journey From France first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Bayeux Tapestry arrives in British Museum for historic exhibition",
+          "url": "https://www.dw.com/en/bayeux-tapestry-arrives-in-british-museum-for-historic-exhibition/a-77899496",
+          "source": "Deutsche Welle",
+          "published_at": "2026-07-10T06:27:00.000Z",
+          "description": "After nearly 1,000 years, the medieval masterpiece is back on British soil. The Bayeux Tapestry was transferred from France to London in a highly secretive operation and will be on display in September."
+        },
+        {
+          "title": "Bayeux Tapestry arrives at British Museum in dead of night after top-secret journey from France",
+          "url": "https://www.independent.co.uk/news/uk/home-news/bayeux-tapestry-british-museum-b3012406.html",
+          "source": "The Independent UK",
+          "published_at": "2026-07-10T06:36:16.000Z",
+          "image": "https://static.independent.co.uk/2026/07/10/07/2284818665..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The 1,000-year-old artwork was spirited across the Channel Tunnel in a police-guarded truck"
+        },
+        {
+          "title": "Bayeux Tapestry is at the British Museum after a secret journey from France",
+          "url": "https://www.thehindu.com/entertainment/art/the-bayeux-tapestry-is-at-the-british-museum-after-a-secret-journey-from-france/article71205551.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-10T11:03:39.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ubbzvb/article71205567.ece/alternates/LANDSCAPE_1200/Britain_Bayeux_Tapestry_572_7.jpg",
+          "description": "The tapestry's arrival in London has been widely anticipated, but due to security concerns, all details of when and how it would arrive have been kept under wraps"
+        },
+        {
+          "title": "Medieval masterpiece Bayeux Tapestry arrives in London",
+          "url": "https://www.france24.com/en/medieval-masterpiece-bayeux-tapestry-arrives-in-london",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-10T12:05:47.000Z",
+          "image": "https://s.france24.com/media/display/4d8fb018-7c54-11f1-9014-005056bf30b7/w:1024/p:16x9/EN-20260710-130110-130546-CS.jpg",
+          "description": "The Bayeux Tapestry has arrived in London for the first time in more than 900 years after a highly secure and complex journey from France to the British Museum, as FRANCE 24's Rochelle Ferguson-Bouyahi explains. The 11th-century masterpiece depicting the Battle of Hastings will be displayed from Se…"
+        }
+      ],
+      "summary": "The Bayeux Tapestry arrived at the British Museum in London after a highly secure journey from France. It is set to go on display in September."
+    },
+    {
+      "id": "topic_a3d74874d3165db7",
+      "title": "Eight Indicted in Alleged Plot to Attack White House UFC Event",
+      "headline": "8 Indicted For Plotting Drone, Sniper Attack On White House UFC Event",
+      "label": [
+        "indicted",
+        "ufc",
+        "white",
+        "house",
+        "attack",
+        "event"
+      ],
+      "category": "new",
+      "theme": "theme_dde104180d83394a",
+      "entities": [
+        "Indicted For Plotting Drone",
+        "Sniper Attack On White",
+        "House UFC Event",
+        "White House UFC",
+        "DOJ"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "8 Indicted For Plotting Drone, Sniper Attack On White House UFC Event",
+          "url": "https://www.ndtv.com/world-news/8-indicted-for-plotting-drone-sniper-attack-on-white-house-ufc-event-11751700",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-10T01:25:16.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/eai4j2so_white-house-ufc-event_625x300_10_July_26.jpeg",
+          "description": "According to the new indictment, the plot began in May, when the group began amassing money, firearms, ammunition, body armor, explosives, drones, medical equipment, communications equipment and other items."
+        },
+        {
+          "title": "8 indicted in planned sniper attack at White House UFC 250 event, DOJ says",
+          "url": "https://www.foxnews.com/us/8-indicted-planned-sniper-attack-white-house-ufc-250-event-doj-says",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-10T12:19:01.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/donald-trump-dana-white-ufc-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "Eight suspects face terrorism charges after allegedly amassing explosives, firearms, and drones while coordinating on Signal, Discord and TikTok."
+        },
+        {
+          "title": "Total of 8 suspects now indicted in alleged plot to attack White House UFC event",
+          "url": "https://abcnews.com/us/total-8-suspects-now-indicted-alleged-plot-attack/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-07-10T03:51:52.000Z",
+          "image": "https://s.abcnews.com/images/US/GettyImages-2281056489_1783652779365_hpMain_4x3t_384.jpg",
+          "description": "A total of eight men have been indicted for their alleged roles in the plot to attack a UFC event on the grounds of the White House last month, according to prosecutors."
+        },
+        {
+          "title": "Eight charged over alleged conspiracy to attack White House UFC event",
+          "url": "https://www.bbc.co.uk/news/articles/cwy091zzgpdo",
+          "source": "BBC News",
+          "published_at": "2026-07-10T19:27:32.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/db9eac60-7c90-11f1-926f-c90d1bcfbc84.jpg",
+          "description": "Thousands of people attended the event last month, including President Trump and Vice-President JD Vance."
+        },
+        {
+          "title": "DOJ: Eight Indicted in Alleged Sniper Plot Targeting White House UFC 250 Event",
+          "url": "https://internewscast.com/news/us/doj-eight-indicted-in-alleged-sniper-plot-targeting-white-house-ufc-250-event",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-10T13:35:13.000Z",
+          "description": "Internewscast Journal Internewscast Eight individuals are now facing terrorism-related charges in connection with an alleged… This Post: DOJ: Eight Indicted in Alleged Sniper Plot Targeting White House UFC 250 Event first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Eight men were indicted over an alleged plot to attack a UFC event held on the grounds of the White House. Prosecutors said the group amassed weapons, explosives and drones, among other equipment."
+    },
+    {
+      "id": "topic_46d246c7302f479",
+      "title": "Mexican Man Killed by ICE Was Not Intended Target, Officials Say",
+      "headline": "Mexican Immigrant Killed In ICE Shooting Was Not The Target: US",
+      "label": [
+        "ice",
+        "target",
+        "killed",
+        "mexican",
+        "immigrant",
+        "shooting"
+      ],
+      "category": "new",
+      "theme": "theme_6a782575878db7de",
+      "entities": [
+        "Mexican Immigrant Killed In",
+        "ICE Shooting Was Not",
+        "The Target",
+        "US",
+        "Mexican"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Mexican Immigrant Killed In ICE Shooting Was Not The Target: US",
+          "url": "https://www.ndtv.com/world-news/investigation-underway-after-ice-agent-kills-unarmed-man-salgado-araujo-not-targeted-in-houston-11752237",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-10T06:34:12.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/8td3vin_lorenzo-salgado-araujo-memorial_625x300_10_July_26.jpeg",
+          "description": "Lorenzo Salgado Araujo was a homebuilder who had lived in the US for more than 35 years, had no criminal record and was close to finishing the process of obtaining legal status."
+        },
+        {
+          "title": "Mexican man killed in ICE shooting was 'not the target'",
+          "url": "https://www.perthnow.com.au/news/crime/mexican-man-killed-in-ice-shooting-was-not-the-target-c-22559746",
+          "source": "PerthNow",
+          "published_at": "2026-07-10T04:37:48.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22559746/a7fecacb19e5f5719f7df34b4521abcf9d7adda4-16x9-x0y0w1280h720.jpg",
+          "description": "Questions surround the fatal shooting of a Mexican man by ICE agents, after claims he had not been the target of immigration raids."
+        },
+        {
+          "title": "Mexican immigrant killed by ICE was not target, Democratic lawmaker says",
+          "url": "https://www.ms.now/news/lorenzo-salgado-araujo-texas-ice-not-target",
+          "source": "MS NOW",
+          "published_at": "2026-07-10T15:47:28.000Z",
+          "description": "Lorenzo Salgado Araujo was shot and killed during a traffic stop in Houston on Tuesday. Multiple witnesses have disputed DHS’ assertion that he “weaponized his vehicle” against an ICE officer. The post Mexican immigrant killed by ICE was not target, Democratic lawmaker says appeared first on MS NOW."
+        },
+        {
+          "title": "DHS: Mexican Immigrant Killed by ICE in Texas Was Not the Agent’s Target",
+          "url": "https://internewscast.com/news/us/dhs-mexican-immigrant-killed-by-ice-in-texas-was-not-the-agents-target",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-10T21:10:52.000Z",
+          "description": "Internewscast Journal Internewscast Federal officials acknowledged Thursday that the migrant fatally shot by an ICE… This Post: DHS: Mexican Immigrant Killed by ICE in Texas Was Not the Agent’s Target first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Man killed by ICE agents not intended target of immigration arrest, DHS says",
+          "url": "https://www.theguardian.com/us-news/2026/jul/09/houston-man-killed-ice-agents",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-10T01:59:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/a2bdac32bfebba74e2d7d547253f28b75d95c533/1528_0_7890_6310/master/7890.jpg?width=140&quality=85&auto=format&fit=max&s=662a76b4e6de52aeb4e1728684381249",
+          "description": "Agents seeking different person when they killed Lorenzo Salgado Araujo, Mexican who had lived in US for 35 years Lorenzo Salgado Araujo, a man killed by federal immigration agents during a traffic stop in Houston this week, was not the intended target of the “enforcement operation”, the Department…"
+        }
+      ],
+      "summary": "Federal officials said Lorenzo Salgado Araujo, a Mexican man fatally shot by ICE agents in Houston, was not the target of the immigration arrest. Witnesses disputed the Department of Homeland Security’s account that he used his vehicle against an officer."
+    },
+    {
+      "id": "topic_52be8f8da83749fd",
+      "title": "Sheikh Hasina Says She Plans to Return to Bangladesh in December",
+      "headline": "Sheikh Hasina plans December return to Bangladesh to surrender",
+      "label": [
+        "hasina",
+        "bangladesh",
+        "december",
+        "return",
+        "surrender",
+        "sheikh"
+      ],
+      "category": "new",
+      "theme": "theme_b0970bc94dd67c02",
+      "entities": [
+        "Sheikh Hasina",
+        "December",
+        "Bangladesh",
+        "Sheikh Hasina To Return",
+        "To Bangladesh By December"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Sheikh Hasina plans December return to Bangladesh to surrender",
+          "url": "https://www.thehindubusinessline.com/news/world/sheikh-hasina-plans-december-return-to-bangladesh-to-surrender/article71205721.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-10T07:56:14.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/n0wiy7/article71205730.ece/alternates/LANDSCAPE_1200/2026-07-10T073718Z_892674917_RC2MD5AK6PLE_RTRMADP_3_BANGLADESH-HASINA.JPG",
+          "description": "“They may arrest me on my return, they may even kill me,” Hasina, 78, said she and senior Awami League leaders plan to return from exile in India despite facing a death sentence"
+        },
+        {
+          "title": "Sheikh Hasina To Return To Bangladesh By December, Surrender With Colleagues",
+          "url": "https://www.ndtv.com/world-news/sheikh-hasina-to-return-to-bangladesh-by-december-surrender-with-colleagues-11752841",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-10T08:25:08.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/aa9lgnrs_sheikh-hasina-afp_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Sheikh Hasina fled Bangladesh in 2024 after protests ended her 20 years as prime minister across multiple terms."
+        },
+        {
+          "title": "Sheikh Hasina to Return to Bangladesh in December, Plans to Surrender to Court with Party Leaders",
+          "url": "https://www.bd24live.com/sheikh-hasina-to-return-to-bangladesh-in-december-plans-to-surrender-to-court-with-party-leaders",
+          "source": "Bangla Online News Portal",
+          "published_at": "2026-07-10T09:20:09.000Z",
+          "description": "Former Prime Minister of Bangladesh Sheikh Hasina, currently residing in Delhi, India, has announced her plan to return to Bangladesh in December with senior leaders of the Awami League and… The post Sheikh Hasina to Return to Bangladesh in December, Plans to Surrender to Court with Party Leaders a…"
+        },
+        {
+          "title": "Sheikh Hasina says she plans to return to Bangladesh in December, reports ‘Reuters’",
+          "url": "https://scroll.in/latest/1094186/sheikh-hasina-says-she-plans-to-return-to-bangladesh-in-december-reports-reuters",
+          "source": "Scroll.in",
+          "published_at": "2026-07-10T10:01:24.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/210190-pglnedafib-1783676367.jpg",
+          "description": "The ousted prime minister, who fled to Delhi in August 2024, said that she and senior leaders of her party will surrender to a court."
+        },
+        {
+          "title": "Bangladesh's Hasina plans December return with party colleagues to surrender",
+          "url": "https://tribune.com.pk/story/2617506/bangladeshs-hasina-plans-december-return-with-party-colleagues-to-surrender",
+          "source": "express tribune",
+          "published_at": "2026-07-10T05:09:26.000Z",
+          "description": "Exiled ex-premier, sentenced to death in absentia, says she will face death on own soil"
+        }
+      ],
+      "summary": "Bangladesh’s former prime minister Sheikh Hasina said she plans to return from India in December with senior Awami League leaders and surrender to a court. She was sentenced to death in absentia after leaving Bangladesh in 2024."
+    },
+    {
+      "id": "topic_3c1f95141d161a7a",
+      "title": "China Recovers Reusable Rocket Booster After Launch",
+      "headline": "Watch China land a reusable rocket for the first time, a new challenge for Elon Musk's SpaceX",
+      "label": [
+        "reusable",
+        "rocket",
+        "china",
+        "successfully",
+        "lands",
+        "first"
+      ],
+      "category": "new",
+      "theme": "theme_d229f433bc2ea7e8",
+      "entities": [
+        "Watch China",
+        "Elon Musk",
+        "SpaceX",
+        "China",
+        "China Successfully Lands Reusable"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Watch China land a reusable rocket for the first time, a new challenge for Elon Musk's SpaceX",
+          "url": "https://tech.yahoo.com/science/articles/watch-china-land-reusable-rocket-112357142.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-10T11:23:57.000Z",
+          "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e2f69643f40206711a595a87ee7a9c8a"
+        },
+        {
+          "title": "China lands reusable rocket for first time, state media says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo",
+          "source": "BBC News",
+          "published_at": "2026-07-10T06:44:21.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8f/live/aa804310-7c26-11f1-b3bb-a3d4161295ad.png",
+          "description": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin."
+        },
+        {
+          "title": "China is catching up to Elon Musk’s reusable rockets",
+          "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets",
+          "source": "TechCrunch",
+          "published_at": "2026-07-10T16:51:07.000Z",
+          "description": "China's state-owned space company recovered its first orbital rocket booster after launch."
+        },
+        {
+          "title": "China tests reusable rocket technology successfully",
+          "url": "https://www.thehindu.com/shorts/china-tests-reusable-rocket-technology-successfully/article71207827.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-10T16:44:54.000Z"
+        },
+        {
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-07-10T21:41:43.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/lm10bcatch2-872x648.jpg",
+          "description": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\""
+        }
+      ],
+      "summary": "China recovered an orbital rocket booster after launch, marking its first successful recovery of a reusable rocket, according to state media. The test follows similar booster landings by US companies SpaceX and Blue Origin."
+    },
+    {
+      "id": "topic_131374ddd9a0ade1",
+      "title": "Tamil Nadu Chief Minister Offers Jobs to Karur Stampede Victims’ Families",
+      "headline": "Tamil Nadu CM Vijay to offer govt jobs to Karur stampede victims' families",
+      "label": [
+        "stampede",
+        "karur",
+        "vijay",
+        "families",
+        "victims",
+        "cm"
+      ],
+      "category": "new",
+      "theme": "theme_e1c6078139308338",
+      "entities": [
+        "Tamil Nadu CM Vijay",
+        "Karur",
+        "Tamil Nadu",
+        "CM Vijay",
+        "Vijay"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Tamil Nadu CM Vijay to offer govt jobs to Karur stampede victims' families",
+          "url": "https://www.dnaindia.com/india/report-tamil-nadu-cm-vijay-to-offer-govt-jobs-to-karur-stampede-victims-families-3215749",
+          "source": "India News",
+          "published_at": "2026-07-10T04:36:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/10/2753803-fotojet-2026-07-10t104848.982.jpg",
+          "description": "Tamil Nadu Chief Minister C Joseph Vijay will visit Karur on Friday to distribute compassionate government job appointment orders to the families of those who died in the 2025 Karur stampede."
+        },
+        {
+          "title": "Tamil Nadu: CM Vijay says police could have alerted him ahead of Karur stampede",
+          "url": "https://scroll.in/latest/1094184/tamil-nadu-cm-vijay-says-police-could-have-alerted-him-ahead-of-karur-stampede",
+          "source": "Scroll.in",
+          "published_at": "2026-07-10T10:08:14.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213330-cnjlvnqdtz-1778046884.jpg",
+          "description": "The chief minister said that his party will construct a memorial for the 41 persons who died in the incident in September."
+        },
+        {
+          "title": "'He became very emotional': Vijay meets Karur stampede victims' families",
+          "url": "https://timesofindia.indiatimes.com/india/he-became-very-emotional-tn-cm-vijay-meets-karur-stampede-victims-families-hands-over-government-jobs/articleshow/132311631.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-10T12:18:32.000Z",
+          "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+          "description": "In a heartfelt gesture, Tamil Nadu Chief Minister C. Joseph Vijay visited families affected by the Karur stampede disaster. He distributed job appointment orders to eligible dependants as part of rehabilitation efforts, visibly moved by their immense sorrow. This visit coincided with the High Court…"
+        },
+        {
+          "title": "\"Unhealed Wound\": Vijay On Karur Stampede, Hands Over Jobs To Families",
+          "url": "https://www.ndtv.com/india-news/unhealed-wound-vijay-on-karur-stampede-hands-over-jobs-to-families-11753830",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-10T11:16:13.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/6d6gr058_vijay_625x300_10_July_26.jpeg",
+          "description": "Forty-one people were killed in the incident. A Central Bureau of Investigation (CBI) probe into the tragedy is currently underway."
+        },
+        {
+          "title": "Watch: Karur stampede: T.N. CM Vijay faults police, targets DMK | Above the Fold | 10.07.2026",
+          "url": "https://www.thehindu.com/videos/watch-karur-stampede-tn-cm-vijay-faults-police-targets-dmk-above-the-fold-10072026/article71207501.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-10T15:56:56.000Z",
+          "image": "https://th-i.thgim.com/public/news/national/14bio1/article71207494.ece/alternates/LANDSCAPE_1200/JULY%2010%20THUMB%202.png",
+          "description": "From TVK chief and TN CM Vijay’s Karur visit to renewed tensions in West Asia, this episode brings you the day’s biggest stories. We also track PM Modi’s New Zealand visit, the political buzz around Sharad Pawar’s meeting at Eknath Shinde’s office, WhatsApp’s reply to the Centre over its ‘username’…"
+        }
+      ],
+      "summary": "Tamil Nadu Chief Minister C. Joseph Vijay distributed government job appointment orders to eligible dependants of people killed in the 2025 Karur stampede, which claimed 41 lives. He also said his party would build a memorial; a CBI probe is underway."
+    },
+    {
+      "id": "topic_c3b3886f90f932be",
+      "title": "Former Ransomware Negotiator Sentenced for Helping BlackCat Gang",
+      "headline": "Florida Ransomware Negotiator Sentenced for Betraying Victims to BlackCat",
+      "label": [
+        "ransomware",
+        "negotiator",
+        "blackcat",
+        "sentenced",
+        "victims",
+        "florida"
+      ],
+      "category": "new",
+      "theme": "theme_aaf4fe536573d098",
+      "entities": [
+        "Florida Ransomware Negotiator Sentenced",
+        "Betraying Victims",
+        "BlackCat",
+        "Ransomware Negotiator Sentenced",
+        "BlackCat Ransomware Operators"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Florida Ransomware Negotiator Sentenced for Betraying Victims to BlackCat",
+          "url": "https://securityonline.info/ransomware-negotiator-sentenced",
+          "source": "Daily CyberSecurity",
+          "published_at": "2026-07-10T03:02:12.000Z",
+          "description": "At a Glance Actor Angelo Martino, 41, former ransomware negotiator; worked with BlackCat/ALPHV affiliates Activity type Insider betrayal The post Florida Ransomware Negotiator Sentenced for Betraying Victims to BlackCat appeared first on Daily CyberSecurity."
+        },
+        {
+          "title": "Ransomware Negotiator Sentenced for BlackCat Ransomware Operators to Attack Victims",
+          "url": "https://cybersecuritynews.com/ransomware-negotiator-sentenced",
+          "source": "Cyber Security News",
+          "published_at": "2026-07-10T08:59:04.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/07/Ransomware-Negotiator-Sentenced-For-BlackCat-ransomware-Operators-to-Attack-Victims-1.webp",
+          "description": "A former Florida ransomware negotiator has been sentenced to 70 months in federal prison after conspiring with BlackCat/ALPHV ransomware operators and helping attack multiple U.S. victims. Angelo Martino, of Land O’Lakes, Florida, worked for a U.S.-based cyber incident response company. His role wa…"
+        },
+        {
+          "title": "Former Ransomware Negotiator Sentenced to 70 Months in Prison for Secretly Helping BlackCat Gang",
+          "url": "https://securityaffairs.com/195081/cyber-crime/former-ransomware-negotiator-sentenced-to-70-months-in-prison-for-secretly-helping-blackcat-gang.html",
+          "source": "Security Affairs",
+          "published_at": "2026-07-10T09:21:29.000Z",
+          "description": "A former ransomware negotiator was sentenced to nearly six years for secretly helping BlackCat extort victims while betraying his clients. A U.S. court sentenced former ransomware negotiator Angelo Martino, 41, to 70 months in prison for conspiring with the BlackCat ransomware gang. While negotiati…"
+        },
+        {
+          "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+          "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies",
+          "source": "TechCrunch",
+          "published_at": "2026-07-10T14:11:03.000Z",
+          "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers."
+        },
+        {
+          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+          "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-07-10T19:40:11.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+          "description": "Six years in prison for man who \"sold out the very victims he was hired to represent.\""
+        }
+      ],
+      "summary": "Angelo Martino, a former Florida ransomware negotiator, was sentenced to 70 months in prison for secretly helping BlackCat/ALPHV operators attack and extort US victims. He had been hired to represent victims."
     }
   ]
 }

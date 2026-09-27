@@ -1,985 +1,973 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-07-01T00:50:16.513Z",
+  "generated_at": "2026-09-27T14:03:54.197Z",
   "topics": [
     {
-      "id": "topic_27ae5fce451d025",
+      "id": "topic_cd757d0bdc3c2f8e",
+      "title": "Supreme Court Rejects Trump Order Restricting Birthright Citizenship",
+      "headline": "Supreme Court Upholds Birthright Citizenship",
       "label": [
-        "convention",
-        "midterm",
-        "midterm convention",
-        "republican",
-        "dalla",
-        "trump announc"
+        "citizenship",
+        "birthright",
+        "supreme",
+        "court",
+        "trump",
+        "rejects"
       ],
       "category": "new",
-      "theme": "theme_f21a5e177c495176",
+      "theme": "theme_155fef7d9388a3ec",
       "entities": [
-        "Historic Event",
+        "Supreme Court Upholds Birthright",
+        "Citizenship",
+        "Supreme Court",
         "Trump",
-        "Republican",
-        "Republican Party",
-        "Dallas"
+        "Decision"
       ],
-      "article_count": 10,
+      "article_count": 115,
+      "source_count": 68,
+      "articles": [
+        {
+          "title": "Supreme Court Upholds Birthright Citizenship",
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-30T15:36:34.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30scotus-birthright-citizenship-pin-vcgt/30scotus-birthright-citizenship-pin-vcgt-mediumSquareAt3X.jpg",
+          "description": "The justices rejected President Trump’s executive order that tried to end the practice of automatically granting citizenship to the children of undocumented immigrants and some temporary foreign visitors."
+        },
+        {
+          "title": "U.S. Supreme Court upholds birthright citizenship, rejecting Trump order",
+          "url": "https://globalnews.ca/news/11944511/birthright-citizenship-ruling-us-supreme-court",
+          "published_at": "2026-06-30T15:50:17.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/birthright-citizenship-us-supreme-court-e1782833958212.jpg?quality=65&strip=all",
+          "description": "The justices relied on a long-settled understanding of the 14th Amendment and federal law in ruling that anyone born in the U.S., with very limited exceptions, is a citizen."
+        },
+        {
+          "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+          "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-30T21:30:43.000Z",
+          "description": "Nation's highest court strikes down executive order that would have restricted right established in US Constitution."
+        },
+        {
+          "title": "Supreme Court Upholds Birthright Citizenship in 6-3 Decision",
+          "url": "https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698",
+          "source": "Daring Fireball",
+          "published_at": "2026-06-30T19:40:38.000Z",
+          "description": "Josh Marshall, writing at TPM (gift link): As you’ve seen, the Supreme Court upheld the constitutionality of birthright citizenship by a 6 — or perhaps 5½ — vote margin. See Kate Riga’s report on the majority decision and Josh Kovensky’s piece on the dissenters’ goal of doing away with birthright c…"
+        },
+        {
+          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/30/us-supreme-court-rejects-trump-bid-to-end-birthright-citizenship_6755017_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-30T15:26:09.000Z",
+          "image": "https://img.lemde.fr/2026/06/29/447/0/5372/2686/644/322/60/0/118e2c2_ftp-1-1t8tsyhiafw3-20013c15d952470b879d73777b1049fa-0-f5e060b48f434724949a8d76b82fe595.jpg",
+          "description": "The US president had signed an executive order last year on the first day of his second term in the White House decreeing that children born to parents in the United States illegally or on temporary visas would not automatically become US citizens."
+        }
+      ],
+      "summary": "The Supreme Court rejected President Trump’s executive order seeking to restrict birthright citizenship. The ruling relies on the long-standing interpretation of the 14th Amendment and federal law."
+    },
+    {
+      "id": "topic_b554bf66d7f6a4ee",
+      "title": "Tom Kean Jr. Says Depression Caused His Congressional Absence",
+      "headline": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+      "label": [
+        "kean",
+        "tom",
+        "absence",
+        "congress",
+        "depression",
+        "rep"
+      ],
+      "category": "new",
+      "theme": "theme_3def2fb0d5c92a91",
+      "entities": [
+        "Republican Tom Kean Jr",
+        "Congress",
+        "AP News",
+        "GOP Rep",
+        "Tom Kean"
+      ],
+      "article_count": 28,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+          "url": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress",
+          "source": "STAT",
+          "published_at": "2026-06-30T19:40:01.000Z",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP26181659823884-1024x576.jpg",
+          "description": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”"
+        },
+        {
+          "title": "Republican Tom Kean Jr. reveals depression diagnosis after four-month absence from Congress",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxntgtdlvvtdknrtup4m2hrtfhobluwaws2wne1v0otzwi1wmwxunrtvg1syufuyvjccflstfdeaufuclrrlwxxd1bobm1zaznhdu9sndb0x1ptmthtewppovlsb3lsb3zmyl9rv2rvx2nlzex6zdetvtnrvlb1vwvgazlirfpxodfkzda5duzfbwppnec2x2c",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-30T16:24:00.000Z",
+          "description": "Republican Tom Kean Jr. reveals depression diagnosis after four-month absence from Congress AP News GOP Rep. Tom Kean returns to Congress, disclosing he was diagnosed with depression CBS News Rep. Tom Kean reveals depression diagnosis. Here's what he didn't say USA Today Missing US congressman expl…"
+        },
+        {
+          "title": "GOP Rep. Tom Kean says depression diagnosis caused months-long absence from Congress",
+          "url": "https://www.cnbc.com/2026/06/30/tom-kean-depression-congress-absence.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-06-30T15:34:37.000Z",
+          "description": "New Jersey Rep. Tom Kean said he was diagnosed with depression, explaining a months-long absence from Congress in a competitive district in the midterm elections."
+        },
+        {
+          "title": "GOP Rep. Tom Kean Jr. Explains Nearly Four-Month Absence as He Returns to Congress",
+          "url": "https://internewscast.com/news/gop-rep-tom-kean-jr-explains-nearly-four-month-absence-as-he-returns-to-congress",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-30T15:35:23.000Z",
+          "description": "Internewscast Journal Internewscast New Jersey Rep. Tom Kean Jr. has publicly disclosed that he has… This Post: GOP Rep. Tom Kean Jr. Explains Nearly Four-Month Absence as He Returns to Congress first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Republican Tom Kean Jr. reveals depression diagnosis after four-month absence from Congress (Associated Press)",
+          "url": "https://www.memeorandum.com/260630/p66",
+          "source": "memeorandum",
+          "published_at": "2026-06-30T17:10:00.000Z",
+          "image": "http://www.memeorandum.com/260630/i66.jpg",
+          "description": "Associated Press: Republican Tom Kean Jr. reveals depression diagnosis after four-month absence from Congress — New Jersey Republican Rep. Tom Kean Jr. disclosed Tuesday that he was being treated for depression during his unexplained four-month absence from the House, suggesting in a brief floor sp…"
+        }
+      ],
+      "summary": "New Jersey Republican Rep. Tom Kean Jr. disclosed that he was diagnosed with depression and said it led to his nearly four-month absence from Congress. He has returned to work."
+    },
+    {
+      "id": "topic_cd8b8de010351016",
+      "title": "Guo Wengui Sentenced to 30 Years for Fraud",
+      "headline": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
+      "label": [
+        "chinese",
+        "fraud",
+        "billionaire",
+        "years",
+        "wengui",
+        "guo"
+      ],
+      "category": "new",
+      "theme": "theme_584c25111d85a1f9",
+      "entities": [
+        "Chinese",
+        "Guo Wengui",
+        "US",
+        "Al Jazeera",
+        "The Guardian"
+      ],
+      "article_count": 20,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
+          "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-30T05:07:01.000Z",
+          "description": "A federal judge said Guo's fraud cost more than 1,000 people worldwide hundreds of millions of dollars."
+        },
+        {
+          "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+          "url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-06-30T04:22:07.000Z",
+          "image": "https://i.guim.co.uk/img/media/f5f90f5bcbe9e5f984816e15175fd926b63386cd/565_0_4038_3231/master/4038.jpg?width=140&quality=85&auto=format&fit=max&s=d7a9f9a199e3f6cac8ce19e438cd03e3",
+          "description": "Guo Wengui, who gained fans for criticising China’s Communist party, was found guilty in 2024 on nine charges including money laundering A US federal court has sentenced exiled Chinese tycoon Guo Wengui to 30 years in prison, after he was convicted of defrauding thousands of people out of more than…"
+        },
+        {
+          "title": "Chinese billionaire Guo Wengui sentenced to 30 years for fraud",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/guo-wengui-sentencing-fraud-billionaire-b3005453.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-30T00:00:33.000Z",
+          "image": "https://static.independent.co.uk/2026/06/30/00/1063852466..?width=1200&auto=webp&trim=72%2C0%2C72%2C0",
+          "description": "The judge said Guo ‘preyed on those seeking to bring Democracy to China,’ taking their money so he could live lavishly"
+        },
+        {
+          "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+          "url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+          "source": "NPR Topics: World",
+          "published_at": "2026-06-30T01:43:29.000Z",
+          "description": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly."
+        },
+        {
+          "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
+          "url": "https://news.google.com/rss/articles/cbmiswfbvv95cuxptgz6zja1uglvnxj0ejnqdtiyqs1zzdbwyjvozw4tztlutznfnlpstffpc2rbvdblx3lkvkw5t3jkmvhfudzuu2f0a2zzctvftkp1uwzsz25nelrzzufitjzsn0yzc0fertryd3vgzna0wem0avfns0rzzxzavhbum191rgrnbvpqnkllntm0zu5yehnzzzy0ajjrmldsykz3bgy1rwjtt2rewhn4ejzctvzxa9ibuafbvv95cuxpwkfqntvmdgzkqjnvyxlnxzy3ewhzrmozstnwzjhnwjnhx0nwznnhuu9dy3lqb2lzwetvewfosnl5y1jhv0g4tdrqzzayenm0yuhncdh2vnbqrwf4x2jptm96ckrwqwtnntrrmmluamppmdrfduvwznhpc1fsnl90elfbnlzlsnbtrw5stlnwbulmvjcwbnvemnlvazdsvwzswnhovdb3axvfluvyvnrax0xkrhm4anns",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-30T05:20:14.000Z",
+          "description": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud Al Jazeera Self-exiled Chinese billionaire gets 30 years in US jail for ‘astonishing’ fraud CNN US: Chinese billionaire sentenced to 30 years in prison DW.com Guo Wengui, China Critic and Tycoon, Sentenced to 30 Years for Frau…"
+        }
+      ],
+      "summary": "A U.S. federal judge sentenced Chinese billionaire Guo Wengui to 30 years in prison for fraud. The judge said his scheme cost more than 1,000 people hundreds of millions of dollars."
+    },
+    {
+      "id": "topic_88e84bba27699fcb",
+      "title": "Parcel Bomb in Monaco Injures Ukrainian Oligarch and Two Others",
+      "headline": "Ukrainian Oligarch Reportedly Injured in Monaco Bomb Attack",
+      "label": [
+        "ukrainian",
+        "monaco",
+        "oligarch",
+        "injured",
+        "bomb",
+        "blast"
+      ],
+      "category": "new",
+      "theme": "theme_2aed197ff2cf30",
+      "entities": [
+        "Ukrainian Oligarch Reportedly Injured",
+        "Monaco Bomb Attack",
+        "Ukrainian",
+        "Monaco",
+        "Parcel Bomb Blast In"
+      ],
+      "article_count": 16,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Ukrainian Oligarch Reportedly Injured in Monaco Bomb Attack",
+          "url": "https://internewscast.com/news/ukrainian-oligarch-reportedly-injured-in-monaco-bomb-attack",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-30T00:10:52.000Z",
+          "description": "Internewscast Journal Internewscast At least three Ukrainian citizens, among them a billionaire oligarch who had… This Post: Ukrainian Oligarch Reportedly Injured in Monaco Bomb Attack first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Ukrainian oligarch reportedly injured in Monaco blast",
+          "url": "https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-30T02:24:00.000Z",
+          "description": "Vadym Yermolaiev was sanctioned by Ukraine for allegedly doing business in Russian-occupied Crimea. Two other people were also injured, including a 13-year-old."
+        },
+        {
+          "title": "Parcel Bomb Blast In Monaco Injures Ukrainian Oligarch, 2 Others",
+          "url": "https://www.ndtv.com/world-news/parcel-bomb-blast-in-monaco-injures-ukrainian-oligarch-2-others-11706042",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-30T07:54:10.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/s17fa5rk_monaco-france-explosion_625x300_30_June_26.jpeg",
+          "description": "A parcel bomb in Monaco critically wounded sanctioned Ukrainian oligarch Vadym Yermolaiev and his partner, triggering a major cross-border investigation."
+        },
+        {
+          "title": "Ukrainian tycoon injured in Monaco bomb attack",
+          "url": "https://www.ft.com/content/7455e85b-7389-49dd-b7c8-f145f79e7f0b",
+          "source": "International homepage",
+          "published_at": "2026-06-30T07:29:34.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97c3aad2-f0af-4eb8-b9d5-38f41ecfc6f2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Police hunt suspected bomber believed to have fled wealthy Mediterranean principality"
+        },
+        {
+          "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+          "url": "https://www.yahoo.com/news/world/articles/three-people-injured-explosion-monaco-220002350.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-30T13:22:20.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/c23e8bfb941b74059f2fbbb21e7f8823"
+        }
+      ],
+      "summary": "A parcel bomb blast in Monaco injured Ukrainian oligarch Vadym Yermolaiev and two other people, including a 13-year-old. Police are searching for a suspected bomber."
+    },
+    {
+      "id": "topic_a4b0337a3c871fe7",
+      "title": "Japanese Yen Falls to a 40-Year Low Against the Dollar",
+      "headline": "Japanese Yen Hits New 40-Year Low Against Dollar",
+      "label": [
+        "yen",
+        "low",
+        "year",
+        "hits",
+        "dollar",
+        "japanese"
+      ],
+      "category": "new",
+      "theme": "theme_238c681367c813c9",
+      "entities": [
+        "Japanese Yen Hits New",
+        "Year Low Against Dollar",
+        "Bitcoin",
+        "Japanese",
+        "Yen"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Japanese Yen Hits New 40-Year Low Against Dollar",
+          "url": "https://www.wsj.com/finance/currencies/yen-intervention-risks-elevated-as-it-hits-162-versus-dollar-86b63e5c",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-30T14:22:00.000Z",
+          "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8"
+        },
+        {
+          "title": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+          "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "published_at": "2026-06-30T04:15:44.000Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3c36f86c5d814d9ec493dae6d7fde7687526f38-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+          "description": "BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board."
+        },
+        {
+          "title": "Yen hits 40-year low in historic slide that rattles Japan",
+          "url": "https://www.thehindubusinessline.com/markets/yen-hits-four-decade-low-in-historic-slide-thats-rattled-japan/article71164127.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-30T02:01:22.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/ylhsbq/article71164176.ece/alternates/LANDSCAPE_1200/2026-06-24T034726Z_769822102_RC230MA4WRPP_RTRMADP_3_JAPAN-YEN-BUDGET.JPG",
+          "description": "The currency depreciated 0.2% to touch 161.98 versus the greenback in New York trading, breaching the 161.95 mark touched in July 2024 during an earlier campaign by Japan to shore up the exchange rate."
+        },
+        {
+          "title": "Japan says ready to act as yen hits 40-year low",
+          "url": "https://www.thehindu.com/business/markets/japan-says-ready-to-act-as-yen-hits-40-year-low/article71164302.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-30T03:53:43.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/nm896w/article71164340.ece/alternates/LANDSCAPE_1200/2026-06-24T034726Z_769822102_RC230MA4WRPP_RTRMADP_3_JAPAN-YEN-BUDGET.JPG",
+          "description": "The yen sank past 161.96 per dollar in London trade on Monday (June 29, 2026) for the first time since 1986"
+        },
+        {
+          "title": "Yen weakens to 40-year low",
+          "url": "https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510",
+          "source": "International homepage",
+          "published_at": "2026-06-30T01:51:12.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f6c8bba-92ab-42da-b0d6-95f959faee2c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Japanese currency slides past ¥162 a dollar as Federal Reserve’s hawkish shift piles on pressure"
+        }
+      ],
+      "summary": "The yen fell past 162 per dollar, reaching its lowest level in 40 years. Japanese officials said they were ready to act as the currency weakened."
+    },
+    {
+      "id": "topic_9b28cbeeea1bd4fd",
+      "title": "Australia Beats West Indies to Reach Women’s T20 World Cup Final",
+      "headline": "Australia v West Indies: Women’s T20 World Cup semi-final – live",
+      "label": [
+        "t20",
+        "final",
+        "australia",
+        "cup",
+        "world",
+        "indies"
+      ],
+      "category": "new",
+      "theme": "theme_d2ee61b537fce4c2",
+      "entities": [
+        "Australia",
+        "West Indies",
+        "Women",
+        "T20 World Cup",
+        "TV"
+      ],
+      "article_count": 18,
       "source_count": 10,
       "articles": [
         {
-          "title": "‘Historic Event’: Trump announces Republican midterm convention",
-          "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-republican-convention-midterms-dallas",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-30T23:39:21.000Z",
-          "image": "https://i.guim.co.uk/img/media/a2cc468f880e085bb6555746571b1ada0bb2964a/300_0_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=68107c08740a8fcae2598b7fe79d1549"
+          "title": "Australia v West Indies: Women’s T20 World Cup semi-final – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jun/30/australia-v-west-indies-womens-t20-world-cup-semi-final-live",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-06-30T12:46:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/9656b4c9fc75bc64ba20dfb6d8c4197441855eca/900_0_5596_4476/master/5596.jpg?width=140&quality=85&auto=format&fit=max&s=4257f8a8f474d7ff9644f573b5e3acab",
+          "description": "Updates from the Oval, 2.30pm BST/11.30pm AEST Match preview | Email Cameron with your thoughts Want to read a preview of the semi-final by Raf Nicholson? Go on then. She caught up with Windies skipper Hayley Matthews ahead of the crunch semi-final. “There is an added fire to us when people think w…"
         },
         {
-          "title": "Republican Party to host historic midterm convention in Dallas, Trump announces on Truth Social",
-          "url": "https://www.foxnews.com/politics/republican-party-host-historic-midterm-convention-dallas-trump-announces-truth-social",
-          "source": "Latest Political News on Fox News",
-          "published_at": "2026-06-30T23:23:26.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/dallas-texas-skyline-gop-rally-trump.jpg?ve=1&tl=1"
+          "title": "Where to watch Australia vs. West Indies: TV channel, live stream for Women's T20 World Cup semi-final",
+          "url": "https://sports.yahoo.com/articles/where-watch-australia-vs-west-030954275.html",
+          "published_at": "2026-06-30T03:09:54.000Z",
+          "description": "Six-time Women's T20 World Cup winner Australia will be aiming to claim back their title in the semi-final against West Indies on Tuesday night (AEST)."
         },
         {
-          "title": "Trump announces first-ever Republican midterm convention in Dallas",
-          "url": "https://www.cbsnews.com/news/trump-midterm-convention-republicans-dallas-september",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-06-30T22:31:00.000Z"
+          "title": "Beth Mooney, Gardner power Australia into eighth Women's T20 World Cup final",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/beth-mooney-ashleigh-gardner-power-australia-into-eighth-womens-t20-world-cup-final/articleshow/132097694.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-30T16:55:22.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132097698,imgsize-60557.cms",
+          "description": "Australia stormed into the ICC Women's T20 World Cup 2026 final, defeating West Indies by eight wickets in a dominant semi-final performance. After restricting the opposition to 125/7, Beth Mooney's unbeaten 61 and Ashleigh Gardner's quickfire 35 guided Australia to victory with ease. This marks th…"
         },
         {
-          "title": "Trump Announces Republican Midterm Convention in Dallas in September (Shane Goldmacher/New York Times)",
-          "url": "https://www.memeorandum.com/260630/p122",
-          "source": "memeorandum",
-          "published_at": "2026-06-30T22:15:02.000Z",
-          "image": "http://www.memeorandum.com/260630/i122.jpg"
+          "title": "Australia Women vs West Indies Women Live Score Updates, Women's T20 World Cup 2026 1st Semi-Final",
+          "url": "https://sports.ndtv.com/cricket/australia-women-vs-west-indies-women-live-updates-womens-world-cup-1st-semi-final-aus-vs-wi-live-score-11707963",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-30T12:57:59.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/vlmce7sg_australia-afp_625x300_30_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+          "description": "Australia vs West Indies Live Score, Women's World Cup 2026 1st Semi-Final: Unbeaten Australia take on West Indies."
         },
         {
-          "title": "Trump announces midterm convention for Republicans in Dallas in September",
-          "url": "https://abcnews.com/politics/wirestory/trump-announces-midterm-convention-republicans-dallas-september-134357469",
-          "source": "ABC News: Politics",
-          "published_at": "2026-06-30T22:13:14.000Z",
-          "image": "https://s.abcnews.com/images/US/wirestory_fb02b785fb38362f99d7991a97e969d2_4x3_384.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_8cd7b5af6033eb8d",
-      "label": [
-        "xbox",
-        "xbox pull",
-        "io interactive",
-        "io",
-        "interactive",
-        "kojima od"
-      ],
-      "category": "new",
-      "theme": "theme_e929d12fa1501c28",
-      "entities": [
-        "Xbox Pulls Out",
-        "Project Fantasy",
-        "Video Game From IO",
-        "Interactive",
-        "Hideo Kojima"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Xbox Pulls Out of ‘Project Fantasy’ Video Game From IO Interactive; Hideo Kojima’s ‘OD’ Still in the Works",
-          "url": "https://variety.com/2026/digital/news/xbox-cancels-io-interactive-game-hideo-kojimas-od-continues-1236799621",
-          "source": "Variety",
-          "published_at": "2026-06-30T21:03:14.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/04/Xbox.png"
-        },
-        {
-          "title": "Hideo Kojima’s OD Is Reportedly Safe From Upcoming Xbox Cuts",
-          "url": "https://www.gamespot.com/articles/hideo-kojimas-od-is-reportedly-safe-from-upcoming-xbox-cuts",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-06-30T19:30:50.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/OD-Not-Canceled.jpg?w=300"
-        },
-        {
-          "title": "Xbox pulls out of partnership with Hitman developer IO Interactive",
-          "url": "https://www.polygon.com/io-interactive-potential-layoffs-xbox",
-          "source": "Polygon.com",
-          "published_at": "2026-06-30T18:49:55.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24467130/io_fantasy.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_3ed001072d7c165a",
-      "label": [
-        "neon",
-        "artificial",
-        "movie",
-        "amazon",
-        "altman",
-        "sam altman"
-      ],
-      "category": "new",
-      "theme": "theme_abb49302538ecd5a",
-      "entities": [
-        "Neon Rescues Sam Altman",
-        "Movie After Amazon Drops",
-        "After Amazon",
-        "OpenAI",
-        "Artificial"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Neon Rescues Sam Altman Movie After Amazon Drops It",
-          "url": "https://gizmodo.com/neon-rescues-sam-altman-movie-after-amazon-drops-it-2000779859",
-          "source": "Gizmodo",
-          "published_at": "2026-06-30T23:40:15.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/06/neon-1280x708.jpg"
-        },
-        {
-          "title": "After Amazon drops OpenAI movie 'Artificial,' film finds new home at Neon",
-          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-06-30/after-amazon-drops-openai-movie-artificial-film-finds-new-home-at-neon",
-          "source": "L.A. Times - Movie Reviews",
-          "published_at": "2026-06-30T23:08:49.000Z"
-        },
-        {
-          "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
-          "url": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
-          "source": "NYT > Business",
-          "published_at": "2026-06-30T21:48:29.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Luca Guadagnino’s OpenAI Artificial Movie Finds New Home After Amazon Exit",
-          "url": "https://www.comingsoon.net/movies/news/2156176-luca-guadagnino-openai-artificial-movie-finds-new-home-after-amazon-exit",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-30T21:08:45.000Z"
-        },
-        {
-          "title": "Luca Guadagnino’s Sam Altman Movie ‘Artificial’ Circled by Neon After Being Dropped by Amazon MGM — Report",
-          "url": "https://www.indiewire.com/news/breaking-news/luca-guadagnino-sam-altman-movie-artificial-neon-1235201776",
-          "source": "IndieWire",
-          "published_at": "2026-06-30T19:00:56.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_b9ca15f4fd94ab2a",
-      "label": [
-        "baldoni",
-        "lively",
-        "justin",
-        "justin baldoni",
-        "blake",
-        "blake lively"
-      ],
-      "category": "new",
-      "theme": "theme_d1362d9e7ffa396a",
-      "entities": [
-        "Rechtsstreit",
-        "Lively",
-        "Baldoni Millionensumme",
-        "Anwaltskosten",
-        "Blake Lively"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Rechtsstreit: Lively fordert von Baldoni Millionensumme für Anwaltskosten",
-          "url": "https://www.zeit.de/news/2026-07/01/lively-fordert-von-baldoni-millionensumme-fuer-anwaltskosten",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-06-30T22:05:06.000Z",
-          "image": "https://img.zeit.de/news/2026-07/01/lively-fordert-von-baldoni-millionensumme-fuer-anwaltskosten-image-group/original__640x360"
-        },
-        {
-          "title": "Blake Lively wants $8 million in legal fees from Justin Baldoni after 'It Ends With Us' dispute",
-          "url": "https://japantoday.com/category/entertainment/blake-lively-wants-8-million-in-legal-fees-from-justin-baldoni-after-%27it-ends-with-us%27-dispute",
-          "source": "Japan Today",
-          "published_at": "2026-06-30T21:45:10.000Z"
-        },
-        {
-          "title": "Blake Lively wants US$8 million from Justin Baldoni over It Ends With Us dispute",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358950/blake-lively-wants-us8-million-justin-baldoni-over-it-ends-us-dispute",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-30T19:59:13.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/01/58a3ae18-eee6-4584-aa76-95222955fe7f_ea785792.jpg?itok=lIu_q9xh&v=1782848696"
-        },
-        {
-          "title": "Immense Anwaltskosten: Blake Lively fordert acht Millionen Dollar von Justin Baldoni",
-          "url": "https://www.n-tv.de/leute/blake-lively-fordert-acht-millionen-dollar-von-justin-baldoni-id31032806.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-06-30T19:46:17.000Z",
-          "image": "https://www.n-tv.de/img/31032805/1782846781/Img_4_3/250/Blake-Lively-departs-U-S-District-Court-in-Manhattan-after-a-settlement-conference-to-get-to-a-resolution-ahead-of-the-May-18-trial-against-Justin-Baldoni-on-Wednesday-February-11-2026-in-New-York-City-Both-Baldoni-and-Lively-have-filed-lawsuits-against-one-another-following-the-production-of-the-2024-movie-It-Ends-With-Us.jpg"
-        },
-        {
-          "title": "Blake Lively seeks over $8M in legal fees from Justin Baldoni, his studio",
-          "url": "https://globalnews.ca/news/11944912/blake-lively-requests-legal-fees-justin-baldoni-wayfarer-studios",
-          "published_at": "2026-06-30T19:41:28.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/06/blake-lively-seeks-lawyer-fees-justin-baldoni.jpg?quality=65&strip=all"
-        }
-      ]
-    },
-    {
-      "id": "topic_7d34cc94f9453a9a",
-      "label": [
-        "michael byrne",
-        "byrne",
-        "michael",
-        "potter",
-        "harry potter",
-        "harry"
-      ],
-      "category": "new",
-      "theme": "theme_987b35c4d2269077",
-      "entities": [
-        "Filmb",
-        "Augen",
-        "Indiana Jones",
-        "Star Michael Byrne",
-        "Harry Potter Star Michael"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Filmbösewicht mit blauen Augen: \"Indiana Jones\"-Star Michael Byrne gestorben",
-          "url": "https://www.n-tv.de/leute/indiana-jones-star-michael-byrne-gestorben-id31033202.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-06-30T21:43:59.000Z",
-          "image": "https://www.n-tv.de/img/31033203/1782862732/Img_4_3/250/Michael-Byrne-Alison-Doody-Characters-Vogel-Dr.jpg"
-        },
-        {
-          "title": "Indiana Jones & Harry Potter Star Michael Byrne Passes Away",
-          "url": "https://www.comingsoon.net/movies/news/2156167-indiana-jones-harry-potter-star-michael-byrne-passes-away",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-30T21:27:07.000Z"
-        },
-        {
-          "title": "Michael Byrne Dies: ‘Harry Potter’, ‘Braveheart’, ‘Indiana Jones’ Actor Was 82",
-          "url": "https://deadline.com/2026/06/michael-byrne-dead-1236971542",
-          "source": "Deadline",
-          "published_at": "2026-06-30T20:51:49.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/M8DMETO_EC002.jpg"
-        },
-        {
-          "title": "Morre Michael Byrne, ator de '007', 'Indiana Jones' e 'Harry Potter', aos 82 anos",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/morre-michael-byrne-ator-de-007-indiana-jones-e-harry-potter-aos-82-anos.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-06-30T20:06:00.000Z"
-        },
-        {
-          "title": "Michael Byrne, ‘Harry Potter’ and ‘Braveheart’ Actor, Dies at 82",
-          "url": "https://variety.com/2026/film/news/michael-byrne-dead-harry-potter-1236799475",
-          "source": "Variety",
-          "published_at": "2026-06-30T18:44:39.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/M8DMETO_EC002.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ffac1ba6661e1ee1",
-      "label": [
-        "suecia",
-        "octavo",
-        "francia",
-        "octavo de",
-        "de final",
-        "de"
-      ],
-      "category": "new",
-      "theme": "theme_61e738079545a202",
-      "entities": [
-        "Mbapp",
-        "Francia",
-        "Suecia",
-        "Paraguay",
-        "Octavos"
-      ],
-      "article_count": 9,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Mbappé firma doblete y Francia elimina a Suecia; enfrentarán a Paraguay en Octavos",
-          "url": "https://vanguardia.com.mx/deportes/mbappe-firma-doblete-y-francia-elimina-a-suecia-enfrentaran-a-paraguay-en-octavos-il21801988",
-          "source": "Vanguardia",
-          "published_at": "2026-06-30T23:07:18.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/ap26181815258748_1-15988350_20260630230523.jpg"
-        },
-        {
-          "title": "Con doblete de Mbappé, Francia elimina a Suecia y avanza a Octavos de Final",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/con-doblete-de-mbappe-francia-elimina-a-suecia-y-avanza-a-octavos-de-final.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-06-30T22:57:56.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2024696.jpeg"
-        },
-        {
-          "title": "Da Francia golpe de autoridad: golea a Suecia y va a Octavos",
-          "url": "https://www.elnorte.com/da-francia-golpe-de-autoridad-golea-a-suecia-y-va-a-octavos/ar3232210",
-          "source": "ElNorte",
-          "published_at": "2026-06-30T22:57:05.000Z"
-        },
-        {
-          "title": "Francia golea a Suecia y avanza con autoridad a Octavos de Final",
-          "url": "https://www.informador.mx/deportes/mundial-2026-francia-golea-a-suecia-y-avanza-con-autoridad-a-octavos-de-final-20260630-0153.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-30T22:55:00.000Z"
-        },
-        {
-          "title": "Francia se mete a Octavos de Final tras golear a Suecia",
-          "url": "https://www.reforma.com/francia-se-mete-a-octavos-de-final-tras-golear-a-suecia/ar3232196",
-          "source": "Reforma",
-          "published_at": "2026-06-30T22:54:12.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_96c327213ce964d7",
-      "label": [
-        "cocaine",
-        "cisco",
-        "aaran",
-        "leyland",
-        "swn",
-        "594"
-      ],
-      "category": "new",
-      "theme": "theme_199ba72f181d059d",
-      "entities": [
-        "AI Cocaine Recipes",
-        "Russian Hack",
-        "Scattered Spider",
-        "Cisco",
-        "Amazon"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "AI Cocaine Recipes, Russian Hack, Scattered Spider, Cisco, Amazon Q – Aaran Leyland - SWN #594",
-          "url": "https://www.youtube.com/watch?v=e5xLSFvtCYg",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-06-30T21:00:10.000Z",
-          "image": "https://i2.ytimg.com/vi/e5xLSFvtCYg/hqdefault.jpg"
-        },
-        {
-          "title": "AI Cocaine Recipes, Russian Hack, Scattered Spider, Cisco, Amazon Q – Aaran Leyland - SWN #594",
-          "url": "https://sw-all.libsyn.com/ai-cocaine-recipes-russian-hack-scattered-spider-cisco-amazon-q-aaran-leyland-swn-594",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-06-30T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_594_1--91b39c54-be0b-478e-8804-00be0d7ca9cc--audio-converted--c3fe6525-c2c5-4dcf-867f-1aa1f07d8dc4.mp3?dest-id=829103"
-        },
-        {
-          "title": "AI Cocaine Recipes, Russian Hack, Scattered Spider, Cisco, Amazon Q – Aaran Leyland - SWN #594",
-          "url": "https://hntvvideo.libsyn.com/ai-cocaine-recipes-russian-hack-scattered-spider-cisco-amazon-q-aaran-leyland-swn-594",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-06-30T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_594_1--91b39c54-be0b-478e-8804-00be0d7ca9cc--sd-converted--2abf3edd-c73c-4eb8-9c5e-c1dc70d9d2dc.mp4?dest-id=376663"
-        },
-        {
-          "title": "AI Cocaine Recipes, Russian Hack, Scattered Spider, Cisco, Amazon Q – Aaran Leyland - SWN #594",
-          "url": "https://hntvaudio.libsyn.com/ai-cocaine-recipes-russian-hack-scattered-spider-cisco-amazon-q-aaran-leyland-swn-594",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-06-30T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_594_1--91b39c54-be0b-478e-8804-00be0d7ca9cc--audio-converted--c3fe6525-c2c5-4dcf-867f-1aa1f07d8dc4.mp3?dest-id=376644"
-        }
-      ]
-    },
-    {
-      "id": "topic_63e225b0103e2f48",
-      "label": [
-        "denuncia",
-        "21 denuncia",
-        "por da",
-        "asf",
-        "presenta",
-        "21"
-      ],
-      "category": "new",
-      "theme": "theme_3d243d4e1973ca1e",
-      "entities": [
-        "ASF",
-        "Aureliano Hern",
-        "Auditor",
-        "Denuncia",
-        "FGR"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "ASF presenta 21 denuncias por daños al erario de más de 600mdp",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/asf-presenta-21-denuncias-por-danos-al-erario-de-mas-de-600mdp.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-06-30T23:08:49.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2024697.jpeg"
-        },
-        {
-          "title": "Aureliano Hernández se ‘estrena’ en la Auditoría: Denuncia ante la FGR daño a Hacienda por 600 mdp",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/06/30/aureliano-hernandez-se-estrena-en-la-auditoria-denuncia-ante-la-fgr-dano-a-hacienda-por-600-mdp",
-          "source": "El Financiero",
-          "published_at": "2026-06-30T22:41:21.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/jagWWlEtU4tKp8pNPSi2vYCesHM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2SHCNOUFZJEZPNARXFMJSPPV7M.jpg"
-        },
-        {
-          "title": "Presenta ASF 21 denuncias ante FGR por daño de 600 mdp",
-          "url": "https://www.elnorte.com/presenta-asf-21-denuncias-ante-fgr-por-dano-de-600-mdp/ar3232148",
-          "source": "ElNorte",
-          "published_at": "2026-06-30T21:03:54.000Z"
-        },
-        {
-          "title": "Presenta ASF 21 denuncias ante FGR por daño de 600 mdp",
-          "url": "https://www.reforma.com/presenta-asf-21-denuncias-ante-fgr-por-dano-de-600-mdp/ar3232069",
-          "source": "Reforma",
-          "published_at": "2026-06-30T21:03:29.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_ecbc93da8573fdff",
-      "label": [
-        "fable",
-        "lift",
-        "anthropic",
-        "anthropic fable",
-        "trump administration",
-        "administration"
-      ],
-      "category": "new",
-      "theme": "theme_b6b5950a35dcb560",
-      "entities": [
-        "Trump",
-        "Anthropic",
-        "Fable",
-        "Sources",
-        "Tuesday"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Trump administration to lift restrictions on Anthropic's Fable 5",
-          "url": "https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions",
-          "source": "Axios",
-          "published_at": "2026-06-30T23:44:21.000Z",
-          "image": "https://images.axios.com/AIwD0KmVmRoIqpCFRXZsg8AbBuQ=/0x0:1920x1080/1366x768/2019/01/11/1547166725357.jpg"
-        },
-        {
-          "title": "Sources: the Trump administration plans to lift export restrictions on Anthropic's Fable 5 as early as Tuesday evening, making it available to all general users (Politico)",
-          "url": "https://www.techmeme.com/260630/p38",
-          "source": "Techmeme",
-          "published_at": "2026-06-30T23:30:01.000Z",
-          "image": "http://www.techmeme.com/260630/i38.jpg"
-        },
-        {
-          "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models",
-          "source": "Feed: All Latest",
-          "published_at": "2026-06-30T23:23:04.000Z",
-          "image": "https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg"
-        },
-        {
-          "title": "Trump to lift export controls on Anthropic’s Fable model soon- Politico",
-          "url": "https://www.investing.com/news/stock-market-news/trump-to-lift-export-controls-on-anthropics-fable-model-soon-politico-4769249",
-          "source": "All News",
-          "published_at": "2026-06-30T21:34:02.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_adcb5fa3ed03e72a",
-      "label": [
-        "fg",
-        "jss",
-        "sss",
-        "separation",
-        "jss sss",
-        "sss separation"
-      ],
-      "category": "new",
-      "theme": "theme_8650d3713bda45d",
-      "entities": [
-        "FG",
-        "JSS",
-        "SSS",
-        "FG Moves To Scrap",
-        "SSS Separation Policy Over"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "FG proposes ending JSS-SSS separation to improve school retention",
-          "url": "https://www.premiumtimesng.com/news/headlines/891985-fg-proposes-ending-jss-sss-separation-to-improve-school-retention.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-06-30T21:24:43.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/01/G_m3WjuWEAAp_vD-e1769500893264.jpg?fit=2048%2C1154&amp;ssl=1"
-        },
-        {
-          "title": "FG Moves To Scrap JSS–SSS Separation Policy Over Rising Student Dropouts",
-          "url": "https://www.informationng.com/2026/06/fg-moves-to-scrap-jss-sss-separation-policy-over-rising-student-dropouts.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-06-30T19:51:34.000Z"
-        },
-        {
-          "title": "FG to scrap JSS–SSS separation policy",
-          "url": "https://www.nigerianeye.com/2026/06/fg-to-scrap-jsssss-separation-policy.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-06-30T19:11:45.262Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2i-TKu8y1-UFBUzorgAvIIs5wo2SPOENSWej8eWeqyx3iqqiYhPjE2vvDn8YfzK4_4iqqwbzBAVUSmSA8WtSWYrvdhSZ4DEfi_Pp4t1QShnrJXJht4Lrk6k4lNcQ50wx8d0pR16xpp1caZA3hMFGyxshXK5vvGmt0pOsZjHiPfCMAY3mDvsaR6aw2kI4N/s72-w400-h293-c/Tunji%20Alausa.jpeg"
-        },
-        {
-          "title": "FG plans to scrap JSS–SSS separation policy",
-          "url": "https://dailypost.ng/2026/06/30/fg-plans-to-scrap-jss-sss-separation-policy",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-06-30T18:55:12.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/10/Tunji-Alausa.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_77e4cf4b0795e240",
-      "label": [
-        "hardy",
-        "mobland",
-        "tom hardy",
-        "tom",
-        "mobland season",
-        "season"
-      ],
-      "category": "new",
-      "theme": "theme_ab5fe3e56bb249b",
-      "entities": [
-        "Tom Hardy",
-        "Mobland Future Seems Brighter",
-        "After Initial Season",
-        "Shakeup",
-        "MobLand Season"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Tom Hardy's Mobland Future Seems Brighter After Initial Season 3 Shakeup",
-          "url": "https://www.slashfilm.com/2205401/tom-hardy-mobland-season-3-return",
-          "source": "/Film",
-          "published_at": "2026-06-30T20:21:03.000Z",
-          "image": "https://www.slashfilm.com/img/gallery/tom-hardys-mobland-future-seems-brighter-after-initial-season-3-shakeup/l-intro-1782850491.jpg"
-        },
-        {
-          "title": "MobLand Season 3 Casting Update Is Great News Following Tom Hardy Drama",
-          "url": "https://www.comingsoon.net/tv/news/2156143-mobland-season-3-casting-update-is-great-news-following-tom-hardy-drama",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-30T20:15:53.000Z"
-        },
-        {
-          "title": "Tom Hardy To Return To MobLand Season 3 After All",
-          "url": "https://www.tvline.com/2205339/tom-hardy-mobland-season-3-return-confirmed",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-06-30T19:26:07.000Z",
-          "image": "https://www.tvline.com/img/gallery/tom-hardy-to-return-to-mobland-season-3-after-all/l-intro-1782847382.jpg"
-        },
-        {
-          "title": "Tom Hardy Returning for ‘MobLand’ Season 3 Following Spat With Producers",
-          "url": "https://variety.com/2026/tv/news/tom-hardy-returning-mobland-season-3-1236799510",
-          "source": "Variety",
-          "published_at": "2026-06-30T19:08:32.000Z",
-          "image": "https://variety.com/wp-content/uploads/2025/03/mobland-e1741102937863.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_8d46dbdec8aa7c88",
-      "label": [
-        "intercept",
-        "queensland",
-        "seeker boat",
-        "boat intercept",
-        "boat",
-        "asylum"
-      ],
-      "category": "new",
-      "theme": "theme_88351e7cd45818cd",
-      "entities": [
-        "Chinese",
-        "Queensland",
-        "Australia",
-        "Asylum",
-        "Far North Queensland"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Chinese asylum seeker boat intercepted off Queensland coast sparks questions over Australia's border security",
-          "url": "https://www.dailymail.com/news/article-15943021/chinese-asylum-seekers-weipa-fnq.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-06-30T23:39:36.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/01/00/109706593-0-image-a-46_1782861480634.jpg"
-        },
-        {
-          "title": "Asylum seeker boat intercepted with Chinese nationals on board in Far North Queensland",
-          "url": "https://www.smh.com.au/national/queensland/asylum-seeker-boat-intercepted-with-chinese-nationals-on-board-in-far-north-queensland-20260630-p60bgo.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-30T22:56:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/3b54c82b50df4e291db4f3b904b8829f50985e21"
-        },
-        {
-          "title": "Asylum seeker boat intercepted with Chinese nationals on board in Far North Queensland",
-          "url": "https://www.theage.com.au/national/queensland/asylum-seeker-boat-intercepted-with-chinese-nationals-on-board-in-far-north-queensland-20260630-p60bgo.html",
+          "title": "Aussies reach T20 World Cup final",
+          "url": "https://www.theage.com.au/national/aussies-reach-t20-world-cup-final-20260701-p60bic.html",
           "source": "The Age - Latest News",
-          "published_at": "2026-06-30T22:56:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/3b54c82b50df4e291db4f3b904b8829f50985e21"
-        },
-        {
-          "title": "Asylum seeker boat intercepted with Chinese nationals on board in Far North Queensland",
-          "url": "https://www.brisbanetimes.com.au/national/queensland/asylum-seeker-boat-intercepted-with-chinese-nationals-on-board-in-far-north-queensland-20260630-p60bgo.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-30T22:56:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/3b54c82b50df4e291db4f3b904b8829f50985e21"
+          "published_at": "2026-06-30T20:06:17.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d9d545f58de43675321bd3287107044c108eeec3",
+          "description": "Australia progresses through to the T20 World Cup final after defeating the West Indies."
         }
-      ]
+      ],
+      "summary": "Australia defeated the West Indies by eight wickets in the Women’s T20 World Cup semi-final, advancing to the final. Australia restricted the West Indies to 125 for seven before Beth Mooney and Ashleigh Gardner helped secure the win."
     },
     {
-      "id": "topic_85510c22343d663c",
+      "id": "topic_9b57e27c829f890f",
+      "title": "Warren Buffett Pauses Gates Foundation Donations Pending Review",
+      "headline": "Warren Buffett skips donation to Gates Foundation amid Epstein review, WSJ reports",
+      "label": [
+        "gates",
+        "buffett",
+        "foundation",
+        "epstein",
+        "donation",
+        "warren"
+      ],
+      "category": "new",
+      "theme": "theme_c813853550598a21",
+      "entities": [
+        "Warren Buffett",
+        "Gates Foundation",
+        "Epstein",
+        "WSJ",
+        "Warren Buffett Pauses Gates"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Warren Buffett skips donation to Gates Foundation amid Epstein review, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/warren-buffett-skips-donation-to-gates-foundation-amid-epstein-review-wsj-reports-4766827",
+          "source": "All News",
+          "published_at": "2026-06-30T00:30:27.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5T05C_L.jpg"
+        },
+        {
+          "title": "Warren Buffett Pauses Gates Foundation Donations Over Jeffrey Epstein Review",
+          "url": "https://www.ndtv.com/world-news/warren-buffett-pauses-gates-foundation-donations-over-jeffrey-epstein-review-11705697",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-30T06:06:35.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/fme1t7ao_warren-buffett-and-the-gates-foundation_625x300_30_June_26.jpeg",
+          "description": "Warren Buffett has paused donations to the Gates Foundation pending an external review regarding the organization's ties to Jeffrey Epstein."
+        },
+        {
+          "title": "Exclusive | Warren Buffett Skips Midyear Donation to Gates Foundation Amid Epstein Review",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxotlzmanzwztlod3lvunlnmff2elfeqkqxlwdzr2i3eudny1hqt21hnzdhakvxrk5lu01usfg4wevpqkewyzjpnkizwgfwselzq1zhbuf4djd3ew5nddj6vvrpdepwndvvadvzmhq4tmzwxznzq00xr0q5zk5on2rdnudwvgjjeufwumdynwttakduv2tkc0mtsmkwbhfwx3cxb0fqumjewkprogtcu1hjyvdnvuyzuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-30T01:08:00.000Z",
+          "description": "Exclusive | Warren Buffett Skips Midyear Donation to Gates Foundation Amid Epstein Review WSJ Warren Buffett Skips Donation to Gates Foundation Amid Epstein Review, WSJ Reports U.S. News & World Report Warren Buffett pauses Gates Foundation donation over Epstein ties, awaits review India Today Warr…"
+        },
+        {
+          "title": "Warren Buffett pauses Gates Foundation donation over Epstein ties, awaits review",
+          "url": "https://www.indiatoday.in/world/us-news/story/warren-buffett-pauses-gates-foundation-donation-amid-jeffrey-epstein-links-review-2937083-2026-06-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-30T02:14:20.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/warren-buffet-bill-gates-301239606-16x9_0.jpg?VersionId=X8VX6L5LsYPkKcmTBULdh.C8PJiN8XRE",
+          "description": "Warren Buffett pauses Gates Foundation donation over Epstein ties awaits review"
+        },
+        {
+          "title": "Warren Buffett freezes Gates Foundation donation as Epstein questions resurface: report",
+          "url": "https://www.independent.co.uk/news/world/americas/warren-buffett-bill-gates-foundation-donation-epstein-b3005700.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-30T09:46:11.000Z",
+          "image": "https://static.independent.co.uk/2024/10/28/16/newFile-1.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Warren Buffett is skipping his usual mid-year multibillion-dollar donation to the Gates Foundation as he waits ​to see the findings of a review by the ‌foundation of its ties to late sex offender Jeffrey Epstein"
+        }
+      ],
+      "summary": "Warren Buffett skipped his usual midyear donation to the Gates Foundation while awaiting an external review of the foundation’s ties to Jeffrey Epstein."
+    },
+    {
+      "id": "topic_b6f21b3df6f2e35e",
+      "title": "Anthropic Launches Claude Science Research Workbench",
+      "headline": "Anthropic launches Claude Science, an AI workbench for the lab",
       "label": [
         "claude",
-        "claude sonnet",
-        "sonnet",
+        "science",
         "anthropic",
-        "launch claude",
-        "benchmark"
+        "launches",
+        "workbench",
+        "releases"
       ],
       "category": "new",
-      "theme": "theme_3ae90529a30c0baf",
+      "theme": "theme_7727ed006e694e03",
       "entities": [
-        "Claude Sonnet",
+        "Claude Science",
         "Anthropic",
         "AI",
-        "Claude Science",
-        "Opus"
+        "Claude Sonnet",
+        "Mac"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 15,
+      "source_count": 15,
       "articles": [
         {
-          "title": "What's new in Claude Sonnet 5",
-          "url": "https://simonwillison.net/2026/jun/30/claude-sonnet-5",
-          "source": "Simon Willison's Weblog",
-          "published_at": "2026-06-30T21:23:02.000Z"
+          "title": "Anthropic launches Claude Science, an AI workbench for the lab",
+          "url": "https://thenextweb.com/news/anthropic-claude-science-ai-workbench-scientists",
+          "source": "The Next Web",
+          "published_at": "2026-06-30T18:03:06.000Z",
+          "image": "https://media.thenextweb.com/2026/06/TNW-Article-Banner.avif",
+          "description": "Anthropic has launched Claude Science, an app that pulls a researcher’s scattered tools into one place and lets AI agents run large parts of the work. It is the company’s biggest push yet into the lab. Anthropic said on June 30, 2026 that Claude Science is now available in beta. The company calls i…"
         },
         {
-          "title": "Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do",
-          "url": "https://thenewstack.io/ai-agent-infrastructure-reliability",
+          "title": "Claude Science",
+          "url": "https://www.producthunt.com/products/claude-for-desktop",
+          "source": "Product Hunt — The best new products, every day",
+          "published_at": "2026-06-30T18:19:10.000Z",
+          "description": "Discussion | Link"
+        },
+        {
+          "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+          "url": "https://thenewstack.io/anthropic-claude-science-workbench",
           "source": "The New Stack",
-          "published_at": "2026-06-30T20:37:01.000Z",
-          "image": "https://cdn.thenewstack.io/media/2026/06/3d2e3592-egor-komarov-68-gvj8rmba-unsplash-1024x556.jpg"
+          "published_at": "2026-06-30T17:00:00.000Z",
+          "image": "https://cdn.thenewstack.io/media/2026/03/2777d715-img_2911-1024x768.jpg",
+          "description": "On Tuesday, Anthropic launched Claude Science, a new application for scientists that can run locally on macOS and Linux, or The post Anthropic launches Claude Science, an AI workbench for scientific research appeared first on The New Stack."
         },
         {
-          "title": "Claude Sonnet 5 – benchmark results",
-          "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
-          "source": "Hacker News",
-          "published_at": "2026-06-30T20:09:25.000Z"
-        },
-        {
-          "title": "Anthropic finally, officially launches Claude Sonnet 5",
-          "url": "https://mashable.com/tech/anthropic-releases-claude-sonnet-5",
-          "source": "Mashable",
-          "published_at": "2026-06-30T19:39:08.000Z"
+          "title": "Anthropic introduces Claude Sonnet 5, Claude Science",
+          "url": "https://seekingalpha.com/news/4608607-anthropic-introduces-claude-sonnet-5-claude-science",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-30T18:29:43.000Z"
         },
         {
           "title": "Anthropic launches Claude Science in push for pharma revenue",
           "url": "https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505",
           "source": "International homepage",
           "published_at": "2026-06-30T18:49:56.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0eac711-53c4-4243-9102-61816be56424.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0eac711-53c4-4243-9102-61816be56424.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "New AI product has use cases in rendering 3D protein structures and drug discovery"
         }
-      ]
+      ],
+      "summary": "Anthropic launched Claude Science, an AI workbench for scientific research. The product is designed to bring research tools together and assist with tasks including protein modeling and drug discovery."
     },
     {
-      "id": "topic_a6dbc7f6034daca6",
+      "id": "topic_4544133ae49a8202",
+      "title": "Nissan Reports Employee Data Breach Linked to Oracle Exploit",
+      "headline": "Nissan employee data exposed in Oracle PeopleSoft zero-day attacks",
       "label": [
-        "patient test",
-        "ebola",
-        "patient",
-        "test",
-        "hospital",
-        "glasgow"
+        "nissan",
+        "peoplesoft",
+        "breach",
+        "oracle",
+        "data",
+        "zero"
       ],
       "category": "new",
-      "theme": "theme_61bdb8dc3ef18835",
+      "theme": "theme_54c7783d583f742a",
       "entities": [
-        "UK",
-        "Ebola",
-        "Africa",
-        "Patient",
-        "Glasgow"
+        "Nissan",
+        "Oracle PeopleSoft",
+        "Nissan Employee Data Breached",
+        "Oracle PeopleSoft Hack",
+        "Nissan Confirms Data Breach"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "UK patient tested for possible Ebola as cases rise in Africa",
-          "url": "https://www.scmp.com/news/world/europe/article/3358955/uk-patient-tested-possible-ebola-cases-rise-africa",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-30T22:05:49.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/01/7fdad80e-a622-40f1-b608-d6d0008d49c4_8808c1aa.jpg?itok=cLhim6jC&v=1782857119"
+          "title": "Nissan employee data exposed in Oracle PeopleSoft zero-day attacks",
+          "url": "https://www.itpro.com/security/data-breaches/nissan-employee-data-exposed-in-oracle-peoplesoft-zero-day-attacks",
+          "source": "Latest from ITPro in Security",
+          "published_at": "2026-06-30T16:18:56.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/CDWcH6YZibWtKGZ2YxnLPY-1280-80.jpg",
+          "description": "The car manufacturer has urged current and former employees to change banking passwords and remain vigilant for phishing emails"
         },
         {
-          "title": "Patient tests negative after Ebola alert at Glasgow hospital",
-          "url": "https://www.bbc.co.uk/news/articles/cly7z8ey088o",
+          "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+          "url": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack",
+          "source": "SecurityWeek",
+          "published_at": "2026-06-30T09:25:50.000Z",
+          "description": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek."
+        },
+        {
+          "title": "Nissan Confirms Data Breach Following Oracle PeopleSoft 0-Day Attacks",
+          "url": "https://cybersecuritynews.com/nissan-confirms-data-breach",
+          "source": "Cyber Security News",
+          "published_at": "2026-06-30T03:39:15.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/Nissan-Confirms-Data-Breach.webp",
+          "description": "Nissan Americas has officially confirmed a data breach affecting current and former employees across four countries after threat actors exploited a critical zero-day vulnerability in Oracle PeopleSoft software, a campaign attributed to the ShinyHunters extortion group. The attack stems from CVE-202…"
+        },
+        {
+          "title": "Nissan Traces Data Breach to PeopleSoft Zero-Day Exploit",
+          "url": "https://www.govinfosecurity.com/nissan-traces-data-breach-to-peoplesoft-zero-day-exploit-a-32113",
+          "source": "GovInfoSecurity.com RSS Syndication",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/nissan-traces-data-breach-to-peoplesoft-zero-day-exploit-image_small-10-a-32113.jpg",
+          "description": "Extortionists Add National Association of Insurance Commissioners to Breach List Japanese automotive giant Nissan and the U.S. National Association of Insurance Commissioners are the latest organizations to confirm they fell victim to cyber extortionists who recently wielded a zero-day exploit agai…"
+        },
+        {
+          "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
+          "url": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day",
+          "published_at": "2026-06-30T16:00:00.000Z",
+          "description": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign"
+        }
+      ],
+      "summary": "Nissan said current and former employees’ data was exposed in attacks exploiting a zero-day vulnerability in Oracle PeopleSoft. The company urged affected people to change banking passwords and watch for phishing attempts."
+    },
+    {
+      "id": "topic_9da29a87e7235fc6",
+      "title": "France Faces Sweden in World Cup Round of 32",
+      "headline": "France vs Sweden LIVE: FIFA World Cup 2026",
+      "label": [
+        "sweden",
+        "vs",
+        "france",
+        "cup",
+        "world",
+        "bet"
+      ],
+      "category": "new",
+      "theme": "theme_9433dfe0748fe1bb",
+      "entities": [
+        "France",
+        "Sweden LIVE",
+        "FIFA World Cup",
+        "Sweden",
+        "World Cup Round"
+      ],
+      "article_count": 16,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "France vs Sweden LIVE: FIFA World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/30/france-vs-sweden-live-fifa-world-cup-2026",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-30T17:31:58.000Z",
+          "description": "All our updates, live build-up, team news coverage and full text commentary stream as Mbappe's France eye last-16."
+        },
+        {
+          "title": "How to watch France vs. Sweden online for free",
+          "url": "https://mashable.com/entertainment/france-sweden-fifa-world-cup-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-06-30T08:55:39.000Z",
+          "description": "How to watch World Cup for free. Live stream France vs. Sweden in the 2026 FIFA World Cup for free from anywhere in the world."
+        },
+        {
+          "title": "France vs Sweden &#8211; Bet Builder Tips",
+          "url": "https://talksport.com/betting/4378289/france-vs-sweden-bet-builder-tips",
+          "source": "talkSPORT",
+          "published_at": "2026-06-30T14:42:58.000Z"
+        },
+        {
+          "title": "France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups",
+          "url": "https://news.google.com/rss/articles/cbmixafbvv95cuxnmwhmqtbyvlhayi1abw9mmvdgu01pn2jroefrmlljzkfkrzldttflc0o0mw41vfd1vetwtxlab3z6ry04mu9qzho1z0tplujlbtditmk4y3lnn05rvwptzmluwvjzbfroahhwnfbatvpfv2hfajuzx3l6ympoahdzn0pudgvlckhkaze4bmpza3llajltmxa5yndxdmpcbljvmznttxrfr0txn0dyeg9pwgzirxznadjiwefswmrobdltagfj0ghkaufvx3lxte5ou2gybzjua3rocepnmxrwaggtvzy5bnq4tmszmdk5v3n6r2vpnuq2v3v6njfzthfqvxdceutqdglut3jcntjzufg0axzbtge1u3zjc2ixb0ntdljor2dlevy4a1e5x0znvxzgwurlsdvnwfzld0zyclzvz0rxn3lhqs1jmw9lvdrqdupkcwpvsuljqnl4tl9unxptanh5vwjlzlftmlvms2e1vzrsv2szamxsyna0mfljwxnzdzd2yzblwetxyi03awc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-30T12:49:48.000Z",
+          "description": "France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups Al Jazeera France vs. Sweden (Jun 30, 2026) Live Score ESPN How to Watch France vs. Sweden on TV, Live Stream—World Cup Sports Illustrated France v Sweden live: FIFA World Cup updates, fan reaction, analysis, stats & head-to…"
+        },
+        {
+          "title": "France vs Sweden LIVE: World Cup Last-32 Score, Updates and Highlights",
+          "url": "https://internewscast.com/news/france-vs-sweden-live-world-cup-last-32-score-updates-and-highlights",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-30T20:29:28.000Z",
+          "description": "Internewscast Journal Internewscast This is exactly the kind of matchup that gets the pulse racing.… This Post: France vs Sweden LIVE: World Cup Last-32 Score, Updates and Highlights first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "France and Sweden are scheduled to meet in the 2026 FIFA World Cup Round of 32. Coverage includes live updates, team news and match commentary."
+    },
+    {
+      "id": "topic_7be3ea6bd184d08",
+      "title": "Blake Lively Seeks More Than $8 Million in Legal Fees",
+      "headline": "Blake Lively Seeks $8 Million in Legal Fees From Justin Baldoni",
+      "label": [
+        "baldoni",
+        "blake",
+        "lively",
+        "justin",
+        "fees",
+        "legal"
+      ],
+      "category": "new",
+      "theme": "theme_bdb1338a0325aad9",
+      "entities": [
+        "Blake Lively Seeks",
+        "Million",
+        "Legal Fees From Justin",
+        "Baldoni",
+        "Blake Lively"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Blake Lively Seeks $8 Million in Legal Fees From Justin Baldoni",
+          "url": "https://internewscast.com/news/blake-lively-seeks-8-million-in-legal-fees-from-justin-baldoni",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-30T17:04:53.000Z",
+          "description": "Internewscast Journal Internewscast Blake Lively is seeking more than $8 million in legal fees tied… This Post: Blake Lively Seeks $8 Million in Legal Fees From Justin Baldoni first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Blake Lively seeks $8 million in legal fees in Justin Baldoni dispute",
+          "url": "https://news.google.com/rss/articles/cbmixafbvv95cuxnrdvwmku4d0xnavbgckjlag1otdnlr184tvrkrkm4c0nubdmtzxzquhhjwvnor3frmuvinepmcmgwahb0bwxfb2sxehdocuhnajv1uwp1cnnbufbsvufhy1jnogxtoxhuttfuwdbvmutxvjj0cu91zi1pqnuwszlnz0u3ri13adytaunqtfm2c3hotwizzho0wjhis1itbjzfqufus3bhm3d5mkc5elpjqwyyt3rqqjdma3iyy0cyek9vqkxq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-30T18:20:46.000Z",
+          "description": "Blake Lively seeks $8 million in legal fees in Justin Baldoni dispute NBC News Blake Lively wants $8M US in legal costs from Justin Baldoni in It Ends With Us aftermath CBC Blake Lively Wants $8M In Legal Fees From Justin Baldoni Deadline Blake Lively Seeks $8 Million in Legal Fees from Justin Bald…"
+        },
+        {
+          "title": "Blake Lively seeks over $8M in legal fees from Justin Baldoni, his studio",
+          "url": "https://globalnews.ca/news/11944912/blake-lively-requests-legal-fees-justin-baldoni-wayfarer-studios",
+          "published_at": "2026-06-30T19:41:28.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/blake-lively-seeks-lawyer-fees-justin-baldoni.jpg?quality=65&strip=all",
+          "description": "Blake Lively and Justin Baldoni's legal saga began in December 2024, when Lively accused Baldoni of sexual harassment and retaliation, first in a complaint."
+        },
+        {
+          "title": "Blake Lively Seeks $8 Million in Legal Bills in Dispute With Justin Baldoni",
+          "url": "https://www.nytimes.com/2026/06/30/movies/blake-lively-justin-baldoni-legal-fees.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-06-30T15:23:56.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/09/multimedia/30cul-Lively/06cul-lively-jkpc-mediumSquareAt3X.jpg",
+          "description": "After the actress settled her retaliation claims, a judge granted her fees for one part of the sprawling Hollywood case."
+        },
+        {
+          "title": "Blake Lively Seeks $8 Million in Attorney Fees From Justin Baldoni and Wayfarer Studios",
+          "url": "https://variety.com/2026/film/news/blake-lively-8-million-attorney-fees-justin-baldoni-1236799206",
+          "source": "Variety",
+          "published_at": "2026-06-30T14:47:54.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/05/GettyImages-2199442082.jpg",
+          "description": "Blake Lively has asked a judge to award her $8 million in attorneys’ fees and costs for having to defend against Justin Baldoni’s defamation suit against her. Lively accused Baldoni, her co-star and director, of sexually harassing her on the set of “It Ends With Us,” and of launching an online whis…"
+        }
+      ],
+      "summary": "Blake Lively has asked a judge to award her more than $8 million in legal fees and costs from Justin Baldoni and Wayfarer Studios. The request is tied to the legal dispute following Baldoni’s defamation suit against her."
+    },
+    {
+      "id": "topic_9c14ca879237314a",
+      "title": "Roof Collapse at Lahore Tutoring Centre Kills 14 Children",
+      "headline": "At least 14 children killed in Pakistan’s Lahore when tutoring centre roof collapses",
+      "label": [
+        "roof",
+        "centre",
+        "children",
+        "killed",
+        "pakistan",
+        "collapse"
+      ],
+      "category": "new",
+      "theme": "theme_e8db2a1a2997ebc3",
+      "entities": [
+        "Pakistan",
+        "Lahore",
+        "Roof",
+        "Al Jazeera",
+        "Fourteen"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "At least 14 children killed in Pakistan’s Lahore when tutoring centre roof collapses",
+          "url": "https://www.thehindu.com/news/international/pakistan-lahore-tutoring-centre-roof-collapse-death-toll-updates/article71167499.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-30T20:35:51.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/3shsmv/article71167501.ece/alternates/LANDSCAPE_1200/2026-06-30T153657Z_269685469_RC2F4MAU4RR2_RTRMADP_3_PAKISTAN-ACCIDENT.JPG",
+          "description": "Preliminary reports showed the tutoring centre was unregistered and operating inside a privately owned ‌residential building under a dilapidated ​roof"
+        },
+        {
+          "title": "Pakistan roof collapse kills 14 children at tutoring centre",
+          "url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-06-30T23:34:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/4b3bc650958431fee07f42040ceac540f8f4a24c/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=1b2ff9240202e223dabf5646cfa371fc",
+          "description": "Local officials said preliminary reports showed the centre was unregistered and operating inside a privately owned residential building Fourteen children died after ⁠the roof of a tutoring centre collapsed in Pakistan’s eastern city of ⁠Lahore on Tuesday, ⁠rescue ​officials have said, as authoritie…"
+        },
+        {
+          "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+          "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo",
           "source": "BBC News",
-          "published_at": "2026-06-30T21:35:30.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f897/live/4d53d9c0-74cb-11f1-b1db-af71d47507d6.jpg"
+          "published_at": "2026-06-30T17:21:09.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b45/live/03a1b7d0-74a2-11f1-b1a9-bd204fe03b95.jpg",
+          "description": "Two people are taken into custody after the incident in the Kahna suburb of Lahore."
         },
         {
-          "title": "Ebola scare at UK hospital as patient tested for disease",
-          "url": "https://www.independent.co.uk/news/uk/home-news/ebola-hospital-glasgow-test-b3006222.html",
-          "source": "The Independent UK",
-          "published_at": "2026-06-30T21:34:51.000Z",
-          "image": "https://static.independent.co.uk/2026/03/23/17/2008b55dc3eba2a0828aff2ce64695d6Y29udGVudHNlYXJjaGFwaSwxNzc0MzcwNjY3-2.74559806.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "At least 14 children killed after roof collapse of tutoring centre",
+          "url": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-06-30T16:04:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-pakistan-school-collapse_7286780.jpg?20260630173613",
+          "description": "At least 14 children have been killed after the roof of an under-construction tutoring centre collapsed in Pakistan."
         },
         {
-          "title": "Patient being tested for suspected Ebola virus at Glasgow hospital",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/30/patient-being-tested-for-suspected-ebola-virus-at-glasgow-hospital",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-06-30T20:08:05.000Z",
-          "image": "https://i.guim.co.uk/img/media/6da345b4b6b0e4bae6607e935a482e8b2cffcdf8/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fabb0b12a729b9bf76dd4c8cc8c715bb"
+          "title": "Roof collapse kills 14 children at tutoring centre in Pakistan’s Lahore, officials say",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3358945/roof-collapse-kills-14-children-tutoring-centre-pakistans-lahore-officials-say",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-30T16:33:54.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/01/88ad6932-02b6-4b8d-94ef-6dece78ed639_a3a4d7e4.jpg?itok=pUC9vwYg&v=1782836845",
+          "description": "A roof collapse at a tutoring centre under construction in Pakistan’s eastern city of Lahore on Tuesday killed at least 14 schoolchildren, police and rescue officials said. Eight other children were also injured and were being treated at a hospital, senior police official Faisal Kamran said, adding…"
         }
-      ]
+      ],
+      "summary": "At least 14 children died when a roof collapsed at a tutoring centre in Lahore, Pakistan. Preliminary reports said the centre was unregistered and operating in a residential building; two people were taken into custody."
     },
     {
-      "id": "topic_574199d4b99b5472",
+      "id": "topic_5a1153dec10d0795",
+      "title": "UK Considers Intervention in Paramount-Warner Bros. Deal",
+      "headline": "UK May Intervene In $110 Billion Paramount-Warner Bros Discovery Deal",
       "label": [
-        "policy",
-        "pentagon",
-        "escort",
-        "pres escort",
-        "judge",
-        "pres"
+        "warner",
+        "paramount",
+        "bros",
+        "intervene",
+        "uk",
+        "discovery"
       ],
       "category": "new",
-      "theme": "theme_a99c97179bd2ccfc",
+      "theme": "theme_21cfb74ef3566aa3",
       "entities": [
-        "Judge",
-        "Pentagon",
-        "Gregory Svirnovskiy",
-        "Politico",
-        "Judge Sidelines Pete Hegseth"
+        "UK May Intervene In",
+        "Billion Paramount",
+        "Warner Bros Discovery Deal",
+        "UK",
+        "Paramount"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Judge blocks Pentagon's press escort policy (Gregory Svirnovskiy/Politico)",
-          "url": "https://www.memeorandum.com/260630/p105",
-          "source": "memeorandum",
-          "published_at": "2026-06-30T21:00:29.000Z",
-          "image": "http://www.memeorandum.com/260630/i105.jpg"
+          "title": "UK May Intervene In $110 Billion Paramount-Warner Bros Discovery Deal",
+          "url": "https://www.huffpost.com/entry/uk-intervention-warner-bros-paramount-deal_n_6a43c7d3e4b0d6c25f53a8ae",
+          "source": "Business",
+          "published_at": "2026-06-30T13:49:27.000Z",
+          "description": "Britain's possible intervention comes as the global deal has already been cleared by the U.S., China, Australia, Germany, France and Saudi Arabia."
         },
         {
-          "title": "Judge Sidelines Pete Hegseth Policy Requiring Press Escorts In Visits To Pentagon",
-          "url": "https://deadline.com/2026/06/pentagon-press-escort-judge-pete-hegseth-1236971550",
-          "source": "Deadline",
-          "published_at": "2026-06-30T20:44:44.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2264387895.jpg"
+          "title": "UK says it's minded to intervene in $110-billion Paramount-Warner Bros merger",
+          "url": "https://www.indiatoday.in/business/story/uk-may-intervene-in-110-billion-paramount-warner-bros-discovery-deal-over-concerns-of-maintaining-plurality-2937647-2026-06-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-30T13:24:37.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/paramount-302720265-16x9_0.jpg?VersionId=dCE5yZALN1WGXzVwiTU5nU3t0t1EUMuR",
+          "description": "UK says its minded to intervene in billion ParamountWarner Bros merger"
         },
         {
-          "title": "Federal judge blocks Hegseth’s Pentagon press escort policy",
-          "url": "https://www.ms.now/news/federal-judge-blocks-hegseths-pentagon-press-escort-policy",
-          "source": "MS NOW",
-          "published_at": "2026-06-30T20:38:24.000Z"
+          "title": "UK ‘minded’ to intervene in Paramount’s $110bn takeover of Warner Bros Discovery",
+          "url": "https://www.theguardian.com/business/2026/jun/30/uk-intervene-paramount-takeover-warner-bros-discovery",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-30T12:53:06.000Z",
+          "image": "https://i.guim.co.uk/img/media/d09b79432d57003a9533bdbc4432382d132676b9/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0df6acd5754917714c82bd73b71384e7",
+          "description": "Lisa Nandy to ask regulators to assess mega-merger involving Channel 5, CNN and TNT Sports on grounds of media plurality and competition The UK culture secretary, Lisa Nandy, intends to ask Britain’s media and competition watchdogs to examine Paramount’s $110bn (£85bn) acquisition of Warner Bros Di…"
         },
         {
-          "title": "A federal judge blocks a DOD policy requiring staff escorts for credentialed reporters inside the Pentagon building, after NYT challenged the policy (Bloomberg Law)",
-          "url": "https://mediagazer.com/260630/p13",
-          "source": "Mediagazer",
-          "published_at": "2026-06-30T19:32:54.000Z",
-          "image": "http://mediagazer.com/260630/i13.jpg"
+          "title": "UK may intervene in Paramount’s US$110 billion takeover of Warner Bros Discovery",
+          "url": "https://www.scmp.com/news/world/europe/article/3358947/uk-may-intervene-paramounts-us110-billion-takeover-warner-bros-discovery",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-30T17:35:53.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/01/10507ae6-af45-4819-bb38-a90adb9172f1_dcb0890b.jpg?itok=7H4n6iof&v=1782840781",
+          "description": "Britain said on Tuesday it could intervene in Paramount Skydance’s proposed takeover of Warner Bros Discovery, potentially holding up the US$110 billion deal after the US and China gave it the green light. The move could see the deal referred to the UK’s antitrust regulator, which made headlines in…"
+        },
+        {
+          "title": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
+          "url": "https://www.france24.com/en/tv-shows/business/20260630-uk-government-likely-to-challenge-paramount-takeover-of-warner-bros-discovery",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-30T19:53:51.000Z",
+          "image": "https://s.france24.com/media/display/aaab1f02-74bc-11f1-9dbc-005056bf30b7/w:1024/p:16x9/capture-2754559626a441d8caf0ec4-88488512.jpg",
+          "description": "The British government says it could step in to challenge Paramount Skydance's $110 billion takeover of Warner Bros Discovery. French inflation slowed to just 1.8% in June year on year, down from 2.4% in May. And, more than a million undocumented people in Spain apply to obtain legal status as part…"
         }
-      ]
+      ],
+      "summary": "The UK government said it is minded to intervene in Paramount Skydance’s proposed $110 billion takeover of Warner Bros. Discovery. The culture secretary plans to ask regulators to assess media plurality and competition concerns."
     },
     {
-      "id": "topic_52c1e54af2fdbc8",
+      "id": "topic_4be7e7f7f431545",
+      "title": "Netflix Uses AI-Generated Gene Wilder Voice in Willy Wonka Show",
+      "headline": "Netflix Is Doing a Willy Wonka Reality Show, With an AI Gene Wilder Voice",
       "label": [
         "wilder",
-        "gene wilder",
         "gene",
+        "wonka",
+        "willy",
         "voice",
-        "netflix",
-        "wonka"
+        "netflix"
       ],
       "category": "new",
-      "theme": "theme_a5a2e607f7e1c171",
+      "theme": "theme_d00857d4c9c43398",
       "entities": [
+        "Netflix Is Doing",
+        "Willy Wonka Reality Show",
+        "AI Gene Wilder Voice",
         "Netflix",
-        "Eureka Productions",
-        "ElevenLabs",
-        "Gene Wilder",
-        "Willy Wonka"
+        "AI"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Netflix and Eureka Productions worked with ElevenLabs to re-create Gene Wilder's voice as Willy Wonka for a new unscripted series, Wonka's The Golden Ticket (Rick Porter/The Hollywood Reporter)",
-          "url": "https://mediagazer.com/260630/p15",
-          "source": "Mediagazer",
-          "published_at": "2026-06-30T21:25:01.000Z",
-          "image": "http://mediagazer.com/260630/i15.jpg"
+          "title": "Netflix Is Doing a Willy Wonka Reality Show, With an AI Gene Wilder Voice",
+          "url": "https://gizmodo.com/netflix-is-doing-a-willy-wonka-reality-show-with-an-ai-gene-wilder-voice-2000779551",
+          "source": "Gizmodo",
+          "published_at": "2026-06-30T20:00:16.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/Wonka-The-Golden-Ticket-factory-1280x853.jpg",
+          "description": "'Wonka’s The Golden Ticket' will debut on the streamer September 23 and the first trailer is here."
+        },
+        {
+          "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+          "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+          "source": "The Verge",
+          "published_at": "2026-06-30T17:19:15.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI…"
+        },
+        {
+          "title": "Netflix Using AI to Resurrect Gene Wilder's Voice for Willy Wonka Reality Series The Golden Ticket",
+          "url": "https://www.ign.com/articles/netflix-using-ai-to-resurrect-gene-wilders-voice-for-willy-wonka-reality-series-the-golden-ticket",
+          "source": "IGN Articles",
+          "published_at": "2026-06-30T17:19:23.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/30/gettyimages-697201131-1782838439002.jpg",
+          "description": "Netflix has used AI technology to revive the voice of Gene Wilder for its new Willy Wonka reality show, Wonka's The Golden Ticket."
+        },
+        {
+          "title": "Netflix downloads the late Gene Wilder's voice for a Willy Wonka game show",
+          "url": "https://www.avclub.com/willy-wonka-game-show-ai-gene-wilder",
+          "source": "AV Club",
+          "published_at": "2026-06-30T16:11:43.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/06/30160530/wonka-golden-ticket-feature.jpg",
+          "description": "Netflix has announced another \"high-stakes social experiment\" called Wonka's Golden Ticket, a game show hosted by an AI recreation of Gene Wilder's voice."
         },
         {
           "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
           "url": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show",
           "source": "Engadget - Technology News & Expert Reviews",
           "published_at": "2026-06-30T20:24:49.000Z",
-          "image": "https://www.engadget.com/img/gallery/netflix-used-ai-to-put-gene-wilders-voice-into-a-new-reality-show/l-intro-1782850909.jpg"
-        },
-        {
-          "title": "Netflix Is Doing a Willy Wonka Reality Show, With an AI Gene Wilder Voice",
-          "url": "https://gizmodo.com/netflix-is-doing-a-willy-wonka-reality-show-with-an-ai-gene-wilder-voice-2000779551",
-          "source": "Gizmodo",
-          "published_at": "2026-06-30T20:00:16.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/06/Wonka-The-Golden-Ticket-factory-1280x853.jpg"
-        },
-        {
-          "title": "Netflix Turns Dead Gene Wilder Into AI Willy Wonka Voice For New Reality TV Show",
-          "url": "https://kotaku.com/netflix-turns-dead-gene-wilder-into-ai-willy-wonka-voice-for-new-reality-tv-show-2000711757",
-          "source": "Kotaku",
-          "published_at": "2026-06-30T18:47:42.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/06/wonka-gene-1280x720.jpg"
+          "image": "https://www.engadget.com/img/gallery/netflix-used-ai-to-put-gene-wilders-voice-into-a-new-reality-show/l-intro-1782850909.jpg",
+          "description": "So much for magic."
         }
-      ]
+      ],
+      "summary": "Netflix’s reality competition Wonka’s The Golden Ticket will use an AI-generated recreation of Gene Wilder’s voice. The show is scheduled to premiere September 23."
     },
     {
-      "id": "topic_b9712784c69cf2c1",
+      "id": "topic_5f8c710a4e7554ee",
+      "title": "Woman Dies After Alligator Attack in Florida",
+      "headline": "Woman dies after alligator bites off her arm in Florida",
       "label": [
-        "aluminium",
-        "wa live",
-        "live alcoa",
-        "alcoa buys",
-        "buys south32",
-        "south32 aluminium"
+        "alligator",
+        "arm",
+        "woman",
+        "bites",
+        "dies",
+        "horror"
       ],
       "category": "new",
-      "theme": "theme_3c4433de8bdb3b41",
+      "theme": "theme_4b50173b01fb95a6",
       "entities": [
-        "WA",
-        "LIVE",
-        "Alcoa",
-        "South32"
+        "Woman",
+        "Florida",
+        "Horror"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 7,
+      "source_count": 7,
       "articles": [
         {
-          "title": "WA news LIVE: Alcoa buys South32’s aluminium assets for $8 billion",
-          "url": "https://www.brisbanetimes.com.au/national/western-australia/wa-news-live-alcoa-buys-south32-s-aluminium-assets-for-4-1-billion-20260701-p60bjs.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-30T23:30:24.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4077%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/3c39978e4158e3524ef3e6d171e4ab58444e0dba"
+          "title": "Woman dies after alligator bites off her arm in Florida",
+          "url": "https://news.sky.com/story/florida-woman-dies-after-alligator-bites-off-her-arm-13559081",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-06-30T03:59:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-alligator-attack_7286208.jpg?20260630054110",
+          "description": "A woman has died after an alligator bit off one of her arms in Florida."
         },
         {
-          "title": "WA news LIVE: Alcoa buys South32’s aluminium assets for $8 billion",
-          "url": "https://www.smh.com.au/national/western-australia/wa-news-live-alcoa-buys-south32-s-aluminium-assets-for-4-1-billion-20260701-p60bjs.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-30T23:30:24.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4077%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/3c39978e4158e3524ef3e6d171e4ab58444e0dba"
+          "title": "Woman dies after alligator bites off her arm in Florida river",
+          "url": "https://www.yahoo.com/news/videos/woman-dies-alligator-bites-off-215748794.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-30T21:57:48.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/5621abf2ccf9ff1fde09c2ecdba5d5d8"
         },
         {
-          "title": "WA news LIVE: Alcoa buys South32’s aluminium assets for $8 billion",
-          "url": "https://www.theage.com.au/national/western-australia/wa-news-live-alcoa-buys-south32-s-aluminium-assets-for-4-1-billion-20260701-p60bjs.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-30T23:30:24.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.4077%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/3c39978e4158e3524ef3e6d171e4ab58444e0dba"
+          "title": "Horror as woman dies in front of terrified boyfriend after alligator bites off arm",
+          "url": "https://www.express.co.uk/news/uk/2223776/woman-dies-alligator-attack-front",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-06-30T20:08:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2223776_1.jpg",
+          "description": "GRAPHIC CONTENT WARNING: The attack becomes the next of several that have occurred in the past week alone."
+        },
+        {
+          "title": "Woman dead after alligator bites off her arm in Florida river",
+          "url": "https://globalnews.ca/news/11944614/woman-dead-after-alligator-attack-florida-river",
+          "published_at": "2026-06-30T18:17:50.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/alligator-attack-florida.jpg?quality=65&strip=all",
+          "description": "The Florida Fish and Wildlife Conservation Commission said the woman was bitten on both of her arms and her boyfriend was the one who made the phone call to police."
+        },
+        {
+          "title": "Woman, 31, dies after alligator bites off arm while hiking with boyfriend in third horror attack within days",
+          "url": "https://www.thesun.co.uk/news/39591840/alligator-kills-woman-hiking-boyfriend-florida",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-06-30T06:23:02.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F06%2Fnewspress-collage-z7wmpfcam-1782800700180.jpg?quality%3D90%26strip%3Dall%261782804312",
+          "description": "A WOMAN has died after an alligator bit off one of her arms in Florida, as a string of horror attacks grips the Sunshine State. The 31-year-old was hiking with her boyfriend and friend near Orlando when the beast struck. They had stopped to swim in the Econlockhatchee River and were kneeling in 3ft…"
         }
-      ]
-    },
-    {
-      "id": "topic_5b5d6e039e618bd8",
-      "label": [
-        "apple",
-        "epic gam",
-        "epic",
-        "gam",
-        "supreme court",
-        "apple epic"
       ],
-      "category": "new",
-      "theme": "theme_6510e56317161e5a",
-      "entities": [
-        "Apple",
-        "Beef With Fortnite Maker",
-        "Epic Games Is Heading",
-        "Supreme Court",
-        "The Supreme Court"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Apple’s Beef With Fortnite Maker Epic Games Is Heading to the Supreme Court",
-          "url": "https://gizmodo.com/apples-beef-with-fortnite-maker-epic-games-is-heading-to-the-supreme-court-2000779791",
-          "source": "Gizmodo",
-          "published_at": "2026-06-30T21:15:21.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/04/shutterstock_2442151057-1280x619.jpg"
-        },
-        {
-          "title": "The Supreme Court will hear an appeal in the long-running case between Apple and Epic Games",
-          "url": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-30T20:16:43.000Z",
-          "image": "https://www.engadget.com/img/gallery/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games/l-intro-1782850375.jpg"
-        },
-        {
-          "title": "Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’",
-          "url": "https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf",
-          "source": "Daring Fireball",
-          "published_at": "2026-06-30T20:12:08.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e74151ce6bd01913",
-      "label": [
-        "close",
-        "surpas",
-        "earning surpas",
-        "surpas expectation",
-        "expectation",
-        "earning"
-      ],
-      "category": "new",
-      "theme": "theme_ea9718b278f181d7",
-      "entities": [
-        "Nike Earnings Surpass Expectations",
-        "Q2 Comes",
-        "Close",
-        "The Close",
-        "Nike Posts Earnings That"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Nike Earnings Surpass Expectations as Q2 Comes to a Close | The Close 6/30/2026",
-          "url": "https://www.youtube.com/watch?v=mL_DB6vF7Ms",
-          "source": "Bloomberg Television",
-          "published_at": "2026-06-30T22:38:13.000Z",
-          "image": "https://i2.ytimg.com/vi/mL_DB6vF7Ms/hqdefault.jpg"
-        },
-        {
-          "title": "Nike Earnings Surpass Expectations as Q2 Comes to a Close | The Close 6/30/2026",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-30/the-close-6-30-2026-video",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-30T22:32:24.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGutsg2QyHww/v3/1200x-1.jpg"
-        },
-        {
-          "title": "Nike Posts Earnings That Surpass Expectations in Latest Quarter - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/cbmitafbvv95cuxqbfnwde5yb081tettmnf5wdh3ohl4wkfnzexzd05qde5wofgyunyzc0huymnjou9cq3dtvfyzwm5edmy1d0drzfm3bzntyutvevpite0wrm92ehj2emdqnwxubg5uwdm0tkhvctz3elzitfvsmtzpdjf0a2o2egjwmfywy09kmdzirfrxoesztxnjb1fkrkzobtjwynzjmtv1r1hnz3dut2tlbljwq1hmvvu3d2g",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-30T20:16:55.000Z"
-        }
-      ]
+      "summary": "A woman died after an alligator attacked her in a Florida river, biting off one of her arms. Her boyfriend called police, according to the Florida Fish and Wildlife Conservation Commission."
     }
   ]
 }

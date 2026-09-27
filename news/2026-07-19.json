@@ -1,901 +1,903 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-20T00:50:11.127Z",
+  "generated_at": "2026-09-27T14:09:10.282Z",
   "topics": [
     {
-      "id": "topic_682b30c8dd0ee299",
+      "id": "topic_818627c03c741a6f",
+      "title": "Russia Launches Major Ballistic Missile Barrage on Kyiv",
+      "headline": "Russia launches major ballistic missile attack on Kyiv",
       "label": [
-        "camera",
-        "stop",
-        "wear",
-        "body camera",
-        "vehicle stop",
-        "ice"
+        "missile",
+        "russia",
+        "ballistic",
+        "attack",
+        "kyiv",
+        "launches"
       ],
       "category": "new",
-      "theme": "theme_3c708c7cece67a35",
+      "theme": "theme_c325c71830aca686",
       "entities": [
-        "ICE",
-        "Trump",
+        "Russia",
+        "Kyiv",
+        "Kiev",
+        "Al Jazeera",
+        "Ukraine"
+      ],
+      "article_count": 14,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Russia launches major ballistic missile attack on Kyiv",
+          "url": "https://www.yahoo.com/news/world/articles/russia-launches-major-ballistic-missile-083753025.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-19T09:01:09.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/22075de0b003a2ddd89d1aa75dd0078f"
+        },
+        {
+          "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+          "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-19T07:28:08.000Z",
+          "description": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions."
+        },
+        {
+          "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+          "url": "https://news.google.com/rss/articles/cbmitwfbvv95cuxpvf9xu0zaeg9edkttng1zbfrqbvk5ztvimfyzbdjhbg5juhnrculzcwnmoxbbamnowdlsb3i1mji4ufbdm3jhz0hcswrtaeluzy1fdedone1od1lqruvkyu5paldcdlpyqzituxnwttjrtwzzzujbm0jtakvwahfsy2rpd2tnz0jhdkhjquyznw5iznnsss15nkvslwt2tkdzywfvctitrwjkek93aw9ulvvmsmdjm0e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-19T15:20:19.000Z",
+          "description": "Russia launches largest ballistic missile attack on Kyiv since start of war Al Jazeera Russian Offensive Campaign Assessment, July 19, 2026 Institute for the Study of War Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics CNBC Russia unleashes one of bigg…"
+        },
+        {
+          "title": "Russia pounds Kyiv in major ballistic missile attack",
+          "url": "https://japantoday.com/category/world/russia-pounds-kyiv-in-major-ballistic-missile-attack3",
+          "source": "Japan Today",
+          "published_at": "2026-07-19T22:08:17.000Z",
+          "description": "Russia battered Ukraine's capital Kyiv on Saturday night with one of its biggest ballistic missile barrages of the war, killing at least ‌one person and wounding 16 others,…"
+        },
+        {
+          "title": "Russia unleashes biggest ballistic missile attack on Ukraine - 6 dead and dozens injured",
+          "url": "https://www.express.co.uk/news/world/2230810/russia-unleashes-biggest-ballistic-missile",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-07-19T20:01:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2230810_1.jpg",
+          "description": "Russia launched a hellish multi-hour barrage of ballistic missiles on Ukraine - the largest since the war began."
+        }
+      ],
+      "summary": "Russia launched one of its largest ballistic missile attacks of the war on Kyiv. Reports said at least one person was killed and 16 injured, amid concerns about Ukraine’s shortage of air-defense munitions."
+    },
+    {
+      "id": "topic_5f1bcc86591ab6ee",
+      "title": "Andrew and Tristan Tate Arrested in Miami",
+      "headline": "Andrew and Tristan Tate Arrested in Miami",
+      "label": [
+        "tate",
+        "arrested",
+        "andrew",
+        "tristan",
+        "miami",
+        "brothers"
+      ],
+      "category": "trending",
+      "theme": "theme_f6b464a5fbd3236f",
+      "entities": [
+        "Andrew",
+        "Tristan Tate Arrested",
+        "Miami",
+        "Tristan Tate",
+        "Marshals Say"
+      ],
+      "article_count": 77,
+      "source_count": 55,
+      "articles": [
+        {
+          "title": "Andrew and Tristan Tate Arrested in Miami",
+          "url": "https://politicalwire.com/2026/07/18/andrew-and-tristan-tate-arrested-in-miami",
+          "source": "Political Wire",
+          "published_at": "2026-07-19T01:30:07.000Z",
+          "description": "“Influencer brothers Andrew and Tristan Tate, whose social media empire promoting wealth, male dominance and misogyny has made them among the world’s most polarizing internet personalities, were arrested Saturday in Miami as British authorities sought their extradition on rape and sex trafficking c…"
+        },
+        {
+          "title": "Andrew, Tristan Tate arrested in Miami on U.K. rape, trafficking charges",
+          "url": "https://cebudailynews.inquirer.net/748775/andrew-tristan-tate-arrested-in-miami-on-uk-rape-trafficking-charges",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-19T04:25:00.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/07/download-39-620x414.jpg",
+          "description": "Controversial influencer brothers Andrew and Tristan Tate have been detained in Miami on a sealed warrant. Widely known for their highly divisive online empire promoting hypermasculinity and wealth, the duo now faces extradition to the United Kingdom on severe allegations of rape and sex traffickin…"
+        },
+        {
+          "title": "Andrew and Tristan Tate Arrested in Miami, Marshals Say",
+          "url": "https://internewscast.com/local-news/andrew-and-tristan-tate-arrested-in-miami-marshals-say",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-19T00:54:28.000Z",
+          "description": "Internewscast Journal Internewscast MIAMI – Andrew and Tristan Tate, the influencer brothers whose online brand… This Post: Andrew and Tristan Tate Arrested in Miami, Marshals Say first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Influencers Andrew and Tristan Tate arrested in US",
+          "url": "https://www.perthnow.com.au/news/crime/influencers-andrew-and-tristan-tate-arrested-in-us-c-22596861",
+          "source": "PerthNow",
+          "published_at": "2026-07-19T00:05:28.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22596861/d32ad8d350f087789dab477a944fab37fcda6f01-16x9-x0y0w1280h720.jpg",
+          "description": "Social media influencers Andrew and Tristan Tate have been arrested in the US after Britain requested their extradition on rape and sex trafficking charges."
+        },
+        {
+          "title": "Social media influencers Andrew, Tristan Tate arrested in Miami",
+          "url": "https://www.thehindu.com/news/international/social-media-influencers-andrew-tristan-tate-arrested-in-miami/article71240651.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-19T04:48:48.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/d6ydpd/article71240665.ece/alternates/LANDSCAPE_1200/2026-07-19T021624Z_595475904_RC20IDA580PQ_RTRMADP_3_USA-TATE-ARRESTS.JPG",
+          "description": "Andrew Tate has amassed over 10 million followers on X but has been banned from platforms like YouTube, TikTok and Instagram for violating hate speech guidelines"
+        }
+      ],
+      "summary": "The influencer brothers were arrested in Miami after Britain requested their extradition on rape and sex-trafficking charges, according to reports."
+    },
+    {
+      "id": "topic_be8e1178e64a0f9c",
+      "title": "US Strikes Iran’s Revolutionary Guard After Attack on Troops in Jordan",
+      "headline": "US strikes Iran's Revolutionary Guard over attack that killed troops in Jordan",
+      "label": [
+        "guard",
+        "troops",
+        "revolutionary",
+        "jordan",
+        "strikes",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_9c5201d8f6b19e32",
+      "entities": [
         "US",
-        "Fatal Shootings",
-        "US Immigration Officers Wear"
+        "Iran",
+        "Revolutionary Guard",
+        "Jordan",
+        "Associated Press"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "US strikes Iran's Revolutionary Guard over attack that killed troops in Jordan",
+          "url": "https://www.yahoo.com/news/politics/articles/us-strikes-irans-revolutionary-guard-035202329.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-19T03:52:02.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/39230aa658970e478a691ccd6ab29f85"
+        },
+        {
+          "title": "U.S. strikes Iran's Revolutionary Guard after attack kills U.S. troops in Jordan",
+          "url": "https://seekingalpha.com/news/4615110-u-s-strikes-irans-revolutionary-guard-after-attack-kills-u-s-troops-in-jordan",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-07-19T09:29:20.000Z"
+        },
+        {
+          "title": "US strikes Iran's Revolutionary Guard over an attack that killed troops in Jordan (Associated Press)",
+          "url": "https://www.memeorandum.com/260719/p33",
+          "source": "memeorandum",
+          "published_at": "2026-07-19T20:15:00.000Z",
+          "image": "http://www.memeorandum.com/260719/i33.jpg",
+          "description": "Associated Press: US strikes Iran's Revolutionary Guard over an attack that killed troops in Jordan — The United States announced another death of a service member as it launched more airstrikes at Iran on Sunday in response to the killing of U.S. troops, and Iran fired missiles toward Jordan that…"
+        },
+        {
+          "title": "US retaliates against Iran’s Revolutionary Guard over killing of American troops",
+          "url": "https://www.scmp.com/news/us/politics/article/3361082/us-retaliates-against-irans-revolutionary-guard-over-killing-american-troops",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-19T05:51:36.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/36a3b9d8-deea-45b7-a6f9-4bc198e76c37_8e3c91ee.jpg?itok=qiYDxojQ&v=1784440292",
+          "description": "The US military launched air strikes on Sunday targeting Iran’s paramilitary Revolutionary Guard to retaliate for the killing of American troops in Jordan, further widening the crossfire between the nations as they fight over the Strait of Hormuz. The strikes, now part of a weeklong campaign that h…"
+        },
+        {
+          "title": "US strikes Iran near Strait of Hormuz after deadly attack on troops in Jordan",
+          "url": "https://www.indiatoday.in/world/story/us-airstrikes-iran-jordan-attack-strait-of-hormuz-tensions-ptag-2951081-2026-07-19",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-19T00:30:46.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-3-original_189-sixteen_nine.png?VersionId=yLeom8d_pXev9CuKVZ4jzdErxU7qBZRZ"
+        }
+      ],
+      "summary": "The United States launched airstrikes targeting Iran’s Revolutionary Guard in retaliation for an attack in Jordan that killed U.S. troops."
+    },
+    {
+      "id": "topic_75933d713615e86b",
+      "title": "Earthquakes in Peru Kill at Least Five and Injure 21",
+      "headline": "At least five dead and 21 injured after 2 earthquakes in Peru",
+      "label": [
+        "peru",
+        "least",
+        "earthquakes",
+        "dead",
+        "injured",
+        "five"
+      ],
+      "category": "new",
+      "theme": "theme_bbced5785573ab08",
+      "entities": [
+        "Peru",
+        "Earthquake",
+        "The Guardian",
+        "Twin",
+        "Magnitude"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "At least five dead and 21 injured after 2 earthquakes in Peru",
+          "url": "https://www.gmanetwork.com/news/topstories/world/995425/at-least-five-dead-and-21-injured-after-2-earthquakes-in-peru/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-07-19T16:52:25.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/07/2026-07-19T162551Z_1543928861_RC2CWLAB2Z0G_RTRMADP_3_PERU-QUAKE_2026_07_20_00_41_08.JPG",
+          "description": "At least five people were killed and 21 injured after two earthquakes struck a mountainous region of Peru, the country's civil defense chief said on Sunday."
+        },
+        {
+          "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
+          "url": "https://japantoday.com/category/world/at-least-six-dead-and-21-injured-after-2-earthquakes-in-peru",
+          "source": "Japan Today",
+          "published_at": "2026-07-19T22:08:34.000Z",
+          "description": "At least six people were killed and ‌21 injured after two earthquakes struck a mountainous region of Peru, the country's civil defense chief ‌said on Sunday. The quakes,…"
+        },
+        {
+          "title": "At least 6 dead, 21 injured after 2 earthquakes hit Peru",
+          "url": "https://www.scmp.com/news/world/americas/article/3361124/least-6-dead-21-injured-after-2-earthquakes-hit-peru",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-19T17:18:18.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/8d71f4db-7927-46f7-b146-4c2e40834b64_e19d07f3.jpg?itok=p81vovGr&v=1784481413",
+          "description": "At least six people were killed and 21 injured after two earthquakes struck a mountainous region of Peru, the country’s civil defence chief said ‌on Sunday. The earthquakes, measuring magnitudes 5.1 and 3.7, hit on Saturday night in Chupaca province in the Junin region, about 300km (186 miles) east…"
+        },
+        {
+          "title": "5.5 magnitude earthquake in Peru leaves at least five dead and dozens injured",
+          "url": "https://www.independent.co.uk/news/world/americas/peru-earthquake-sicaya-andes-deaths-damage-b3017716.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-19T16:37:58.000Z",
+          "image": "https://static.independent.co.uk/2026/07/19/16/32/AP26200582193077.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Several buildings have collapsed or suffered structural damage, including the local church and convent"
+        },
+        {
+          "title": "Earthquake in Peru leaves at least six dead",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpcethcffzrgzfq05ydujgdjbzdgdjelo4auvxrjrjoehwwnbwmwvmzmpryunhnkhfaelttnfscf85nehwuml1x1rgx2xtm09texdxc2q3whiyudbsvjjqwvhwadq5wwlnbxvlvzjyc0vkm0dirw4zwgzmek9qzxl4ztrlt3mtek9prenvmmv5axpxwv9ewjiwymptzu91cjbpwhfpa2qwd1faqu80cdzscjjvr2c1b3bavmlga1z3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-19T19:09:00.000Z",
+          "description": "Earthquake in Peru leaves at least six dead The Guardian Earthquake in Peru Kills 6 and Displaces Hundreds The New York Times At least six dead and 21 injured after 2 earthquakes in Peru Reuters 5.5 magnitude earthquake hits Peru's Andes region, killing at least 5 people ABC News - Breaking News, L…"
+        }
+      ],
+      "summary": "Two earthquakes struck a mountainous region of Peru, killing at least five people and injuring 21, according to the country’s civil defense chief. Some reports put the death toll at six."
+    },
+    {
+      "id": "topic_a597b9177330dccb",
+      "title": "Boxer Hannah Rapp Dies After Being Hit by Car While Cycling",
+      "headline": "Boxing-American boxer Hannah Rapp dies at 26 after being hit by car while cycling",
+      "label": [
+        "rapp",
+        "hannah",
+        "boxer",
+        "cycling",
+        "car",
+        "dies"
+      ],
+      "category": "new",
+      "theme": "theme_a94fac243cbab553",
+      "entities": [
+        "Boxing",
+        "American",
+        "Hannah Rapp",
+        "Rapp",
+        "US"
       ],
       "article_count": 8,
       "source_count": 8,
       "articles": [
         {
-          "title": "ICE officers to wear body cameras during vehicle stops, border czar says",
-          "url": "https://japantoday.com/category/world/ice-officers-to-wear-body-cameras-during-vehicle-stops-border-czar-says",
-          "source": "Japan Today",
-          "published_at": "2026-07-19T22:08:28.000Z"
+          "title": "Boxing-American boxer Hannah Rapp dies at 26 after being hit by car while cycling",
+          "url": "https://www.investing.com/news/world-news/boxingamerican-boxer-hannah-rapp-dies-at-26-after-being-hit-by-car-while-cycling-4799714",
+          "source": "All News",
+          "published_at": "2026-07-19T08:24:10.000Z",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
         },
         {
-          "title": "ICE now required to wear body cameras for most traffic stops after fatal shootings, Trump’s border czar says",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/ice-body-cameras-requirement-b3017763.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-19T19:02:33.000Z",
-          "image": "https://static.independent.co.uk/2026/07/19/19/2264771930..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+          "title": "Rapp, 26, dies after being hit by car while cycling",
+          "url": "https://sports.yahoo.com/articles/rapp-26-dies-being-hit-084056212.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-19T08:40:56.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7"
         },
         {
-          "title": "ICE agents will be required to wear body cameras to ‘exonerate’ them in vehicle stops",
-          "url": "https://nypost.com/2026/07/19/us-news/ice-agents-will-be-required-to-wear-body-cameras-to-exonerate-them-in-vehicle-stops",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-19T18:12:55.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fu-s-president-donald-trumps-134391398.jpg?w%3D1024"
+          "title": "US boxer Hannah Rapp dies after being struck by car while cycling in Texas",
+          "url": "https://www.theguardian.com/us-news/2026/jul/19/boxer-hannah-rapp-dies-struck-by-car",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-19T14:15:36.000Z",
+          "image": "https://i.guim.co.uk/img/media/0d9ba8e41a889434270c07397e1410ff2e9b7641/264_0_3832_3067/master/3832.jpg?width=140&quality=85&auto=format&fit=max&s=95a2e25b740f548491cdaea4af6a4aa2",
+          "description": "Investigators arrest 31-year-old man identified as Charles Medina in connection with death of Rapp who was 26 US boxer Hannah Rapp, who in June fought for the World Boxing Council women’s featherweight championship, was killed on Saturday while she bicycled in Texas after a motorist struck her with…"
         },
         {
-          "title": "ICE officers in US to wear cameras during vehicle stops",
-          "url": "https://www.perthnow.com.au/news/politics/ice-officers-in-us-to-wear-cameras-during-vehicle-stops-c-22598495",
-          "source": "PerthNow",
-          "published_at": "2026-07-19T17:56:05.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22598495/e14da38ae910a909b2594fc522ac3fb7b98b05aa-16x9-x0y0w1280h720.jpg"
+          "title": "Boxer Hannah Rapp Dies at 26 After Being Hit by Car While Riding Bicycle: ‘Painful Loss of Our Beloved Champion’",
+          "url": "https://sports.yahoo.com/articles/boxer-hannah-rapp-dies-26-111221172.html",
+          "published_at": "2026-07-19T11:12:21.000Z",
+          "description": "Driver Charles Medina was arrested and charged with manslaughter following the fatal collision on Saturday, July 18"
         },
         {
-          "title": "ICE officers to use body cameras during vehicle stops, Trump ‘border czar’ says",
-          "url": "https://www.theguardian.com/us-news/2026/jul/19/ice-record-vehicle-stops-body-camera-mandate-homan",
-          "source": "The Guardian",
-          "published_at": "2026-07-19T17:54:50.000Z",
-          "image": "https://i.guim.co.uk/img/media/2ff220a2111a351994d90e3b4c7e1763759aff0f/581_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=db2df753644c1e59e0e87b4ab4fd0253"
+          "title": "Boxer Hannah Rapp tragically dies after being hit by car as Jake Paul leads tributes",
+          "url": "https://talksport.com/boxing/4441118/boxer-hannah-rapp-dies-car-jake-paul-tributes-mvp",
+          "source": "talkSPORT",
+          "published_at": "2026-07-19T14:38:54.000Z"
         }
-      ]
+      ],
+      "summary": "U.S. boxer Hannah Rapp, 26, died after being struck by a car while cycling in Texas. Reports said a man was arrested in connection with the collision and charged with manslaughter."
     },
     {
-      "id": "topic_90ca734fff08c7ae",
+      "id": "topic_703e9a30d88fdf6e",
+      "title": "Jennifer Hudson Performs National Anthem at World Cup Final",
+      "headline": "Why Jennifer Hudson is singing U.S. national anthem at 2026 World Cup final",
       "label": [
-        "odyssey",
-        "nolan",
-        "christopher",
-        "christopher nolan",
-        "million",
-        "nolan odyssey"
+        "anthem",
+        "national",
+        "hudson",
+        "singing",
+        "jennifer",
+        "cup"
       ],
       "category": "new",
-      "theme": "theme_e23d664cad6ade64",
+      "theme": "theme_2d55487a73383e54",
       "entities": [
-        "The Odyssey",
-        "Christopher Nolan",
-        "Explained",
-        "Becomes Christopher Nolan",
-        "Biggest Global Debut"
+        "Why Jennifer Hudson",
+        "World Cup",
+        "Jennifer Hudson",
+        "National Anthem",
+        "World Cup Final Ends"
       ],
       "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Why Jennifer Hudson is singing U.S. national anthem at 2026 World Cup final",
+          "url": "https://sports.yahoo.com/articles/why-jennifer-hudson-singing-u-043001527.html",
+          "published_at": "2026-07-19T04:30:01.000Z",
+          "description": "Here's the rundown on who Hudson is and why she was chosen to sing the U.S. national anthem."
+        },
+        {
+          "title": "Jennifer Hudson’s National Anthem at World Cup Final Ends with Anticlimactic Flyover",
+          "url": "https://consequence.net/2026/07/jennifer-hudson-world-cup-national-anthem-military-flyover",
+          "source": "Consequence",
+          "published_at": "2026-07-19T19:53:31.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/07/Jennifer-Hudson-at-World-Cup.jpeg?quality=80",
+          "description": "The flyover was 30 seconds late and unnoticed by most people in the stadium. Jennifer Hudson’s National Anthem at World Cup Final Ends with Anticlimactic Flyover Alex Young"
+        },
+        {
+          "title": "What is Spain&#8217;s national anthem and why are their players not singing?",
+          "url": "https://talksport.com/football/world-cup/1237277/spain-national-anthem-players-not-singing-world-cup-final-argentina",
+          "source": "talkSPORT",
+          "published_at": "2026-07-19T11:32:58.000Z"
+        },
+        {
+          "title": "Jennifer Hudson Sings National Anthem, Robbie Williams & More Lead 2026 World Cup Closing Ceremony",
+          "url": "https://www.billboard.com/music/music-news/jennifer-hudson-national-anthem-2026-world-cup-final-1236297611",
+          "source": "Billboard",
+          "published_at": "2026-07-19T19:56:01.000Z",
+          "description": "Williams, Nicole Scherzinger and Laura Pausini teamed up to perform FIFA's official anthem, \"Desire.\""
+        },
+        {
+          "title": "Trump takes in Jennifer Hudson's incredible national anthem performance before World Cup final",
+          "url": "https://www.foxnews.com/sports/trump-takes-jennifer-hudson-incredible-national-anthem-performance-world-cup-final",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-19T19:15:03.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Donald-Trump-Trophy.jpg?ve=1&tl=1",
+          "description": "President Donald Trump stood between Melania Trump and Gianni Infantino as Jennifer Hudson sang the anthem before the sold-out World Cup Final in New Jersey."
+        }
+      ],
+      "summary": "Jennifer Hudson sang the U.S. national anthem before the 2026 World Cup final. The closing ceremony also featured performances by Robbie Williams, Nicole Scherzinger and Laura Pausini."
+    },
+    {
+      "id": "topic_946397b94a45d57f",
+      "title": "Opposition Walks Out Over Invitation to Rebel Trinamool Faction",
+      "headline": "Opposition Walks Out Of All-Party Meeting Over Invitation To Rebel TMC MPs",
+      "label": [
+        "rebels",
+        "party",
+        "meeting",
+        "opposition",
+        "walks",
+        "tmc"
+      ],
+      "category": "new",
+      "theme": "theme_bdd7c2447ec2bf10",
+      "entities": [
+        "Opposition Walks Out Of",
+        "Party Meeting Over Invitation",
+        "To Rebel TMC MPs",
+        "Why Trinamool Rebels Invited",
+        "Party Meet"
+      ],
+      "article_count": 9,
       "source_count": 7,
       "articles": [
         {
-          "title": "'The Odyssey' storms box office with $264.1 million global debut",
-          "url": "https://japantoday.com/category/entertainment/nolan%e2%80%99s-%27the-odyssey%27-storms-the-box-office-with-a-264.1-million-global-debut",
-          "source": "Japan Today",
-          "published_at": "2026-07-19T22:11:56.000Z"
+          "title": "Opposition Walks Out Of All-Party Meeting Over Invitation To Rebel TMC MPs",
+          "url": "https://www.freepressjournal.in/india/opposition-walks-out-of-all-party-meeting-over-invitation-to-rebel-tmc-mps",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-19T06:58:29.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-19/ilwswrfw/all-party-meeting.JPG"
         },
         {
-          "title": "Christopher Nolan’s ‘The Odyssey,’ Explained",
-          "url": "https://www.forbes.com/sites/danidiplacido/2026/07/19/christopher-nolans-the-odyssey-explained",
-          "source": "Forbes - Business",
-          "published_at": "2026-07-19T20:20:12.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d2d1a66e069f0e1daa6ea/0x0.jpg?width=960&precrop=994%2C559%2Cx0%2Cy5"
-        },
-        {
-          "title": "‘The Odyssey’ Becomes Christopher Nolan’s Biggest Global Debut of All Time With $264 Million",
-          "url": "https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-global-debut-1236815981",
-          "source": "Variety",
-          "published_at": "2026-07-19T17:47:17.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV008_1ac039.jpg"
-        },
-        {
-          "title": "‘The Odyssey’ Becomes Christopher Nolan’s Biggest Global Debut of All Time With $264 Million - Variety",
-          "url": "https://news.google.com/rss/articles/cbmipgfbvv95cuxos3jhunnumjhgnlnzzf9fwud3be0tbxvxa1lkc0dxqm1ortjirwzxszvftnnkmkhmbg5yn19tzjcwrlq2ddhsnnhuz0o2rtvqoddeqwtjyuljzfdzcmnuvxzrsxlxuuhnqjdznkk4eev5t3k3efvnanbecmtvnlfquwg3ahljnw5orxllu01vcmxezlr2auu4agtyltvuveprtzfvx1rr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-19T17:47:00.000Z"
-        },
-        {
-          "title": "The Odyssey's massive $124 million weekend is another win for Christopher Nolan",
-          "url": "https://www.polygon.com/the-odyssey-opening-weekend-box-office",
-          "source": "Polygon.com",
-          "published_at": "2026-07-19T17:46:00.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-odyssey-_-official-trailer-0-35-screenshot.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_50a77e9ffd42f5a1",
-      "label": [
-        "dies",
-        "wexford",
-        "girl dies",
-        "girl",
-        "dies wexford",
-        "wexford crash"
-      ],
-      "category": "new",
-      "theme": "theme_f457f6dcba7ababf",
-      "entities": [
-        "Saskatchewan Roughriders",
-        "Jayden Dalke",
-        "Teenage",
-        "Wexford",
-        "Girl"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Saskatchewan Roughriders’ captain Jayden Dalke dies in car crash",
-          "url": "https://globalnews.ca/news/11971877/saskatchewan-roughriders-jayden-dalke-death",
-          "published_at": "2026-07-19T21:15:46.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/jayden-dalke-death.jpg?quality=65&strip=all"
-        },
-        {
-          "title": "Teenage girl dies after Wexford crash",
-          "url": "https://www.breakingnews.ie/ireland/teenage-girl-dies-after-wexford-crash-1929141.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTkxOTQ5MjVcXFwvMi40MDY1OTUxOS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxNjUwOGYwZThlNzA5MmU5ZWVlMWM3N2ZhMzEzMGM4OGYxZThlMDBiIn0=/2-40659519.jpg"
-        },
-        {
-          "title": "Saskatchewan Roughriders linebacker Jayden Dalke dies in car accident",
-          "url": "https://www.thestar.com/sports/football/saskatchewan-roughriders-linebacker-jayden-dalke-dies-in-car-accident/image_cd5fe354-d764-5167-b049-afb3169e0e90.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-07-19T20:36:44.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d5/cd5fe354-d764-5167-b049-afb3169e0e90/6a5d3635b1c97.image.jpg?resize=300%2C200"
-        },
-        {
-          "title": "Girl dies after car accident in Co Wexford",
-          "url": "https://www.thejournal.ie/teenage-girl-dies-road-traffic-accident-7107301-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-19T17:34:43.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/07/garda-sergeant-on-duty-in-bantry-west-cork-ireland-c5aa2def-c8a1-4975-b5bf-fe03b451e772-630x419.jpg"
-        },
-        {
-          "title": "Teenage girl dies after Wexford crash",
-          "url": "https://www.irishexaminer.com/news/arid-41882341.html",
-          "source": "IrishExaminer.com",
-          "published_at": "2026-07-19T17:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_f05444ef5f57133e",
-      "label": [
-        "ferry",
-        "guyana",
-        "miss",
-        "miss passenger",
-        "passenger",
-        "66"
-      ],
-      "category": "new",
-      "theme": "theme_6ea3d53e2b18d184",
-      "entities": [
-        "Ferry",
-        "Guyana",
-        "Dozens",
-        "Missing After",
-        "Year"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Ferry capsizes off Guyana, authorities searching for 66 missing passengers",
-          "url": "https://www.scmp.com/news/world/americas/article/3361132/ferry-capsizes-guyana-authorities-searching-66-missing-passengers",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-07-19T23:17:21.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/0f2b127b-63ae-4cc1-8c5b-dee599d40b6e_471c73fd.jpg?itok=e97FDhP6&v=1784502992"
-        },
-        {
-          "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-          "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-          "source": "Americas | The Guardian",
-          "published_at": "2026-07-19T19:39:58.000Z",
-          "image": "https://i.guim.co.uk/img/media/fc1cf8802bb8a428bae7dd2c2ca5dc1a17ab6030/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d1113ffbf37c8307c41ccfae538185d1"
-        },
-        {
-          "title": "Ferry capsizes off Guyana leaving 66 people missing",
-          "url": "https://www.thejournal.ie/ferry-capsizes-guyana-people-missing-7107396-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-19T18:38:03.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/07/georgetown-guyana-with-industrial-activity-along-the-waterfront-of-the-demerara-river-and-a-cargo-ship-in-the-background-b9d7c2da-7b5b-43a9-8c50-7e055de43827-630x407.jpg"
-        },
-        {
-          "title": "66 Missing After 86-Year-Old Ferry Overturns In Guyana",
-          "url": "https://www.ndtv.com/world-news/66-missing-after-86-year-old-ferry-overturns-in-guyana-11793122",
+          "title": "'Why Trinamool Rebels Invited?' Opposition Walks Out Of All-Party Meet",
+          "url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-opposition-boycotts-all-party-meet-over-invitation-to-trinamool-rebels-11790930",
           "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-19T17:41:18.000Z",
-          "image": "https://c.ndtvimg.com/2020-12/omh8aca_indian-ocean-generic-650_625x300_31_December_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+          "published_at": "2026-07-19T07:03:11.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/ii129ms4_opposition-boycott_625x300_19_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "The opposition questioned how the NCPI could be part of the all-party meeting, stressing that their merger has not been approved."
         },
         {
-          "title": "Dozens missing after passenger ferry sinks off Guyana",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/dozens-missing-after-passenger-ferry-sinks-off-guyana-c-22598384",
-          "source": "PerthNow",
-          "published_at": "2026-07-19T17:12:19.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22598384/dce708ecef915f0a6d47377c52785ee538fe4258-16x9-x0y0w1280h720.jpg"
+          "title": "Opposition walks out of all-party meet after Centre invites TMC rebel faction",
+          "url": "https://scroll.in/latest/1094384/opposition-walks-out-of-all-party-meet-after-centre-invites-tmc-rebel-faction",
+          "source": "Scroll.in",
+          "published_at": "2026-07-19T09:07:56.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/212999-pxuozwsykr-1776351193.jpeg",
+          "description": "TMC MP Mahua Moitra noted that the petitions submitted by the party for the disqualification of the 20 MPs are still pending."
+        },
+        {
+          "title": "Opposition walks out of all-party meeting over presence of rebel Trinamool faction",
+          "url": "https://www.thehindu.com/news/national/opposition-walks-out-of-all-party-meeting-parliament-monsoon-session/article71240813.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-19T07:10:43.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/z2dfwh/article71240874.ece/alternates/LANDSCAPE_1200/All%20party%20meeting.png",
+          "description": "The breakaway TMC faction claims to have joined the Nationalist Citizens Party of India; the government is expected to outline its legislative agenda during the meeting"
+        },
+        {
+          "title": "Opposition protests invite to TMC rebels to all-party meeting",
+          "url": "https://timesofindia.indiatimes.com/india/opposition-protests-invite-to-tmc-rebels-to-all-party-meeting/articleshow/132501470.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-19T21:11:28.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132501471,imgsize-142839.cms",
+          "description": "Opposition parties staged a walkout from an all-party meeting on Sunday. They protested the government's decision to invite a breakaway faction of the Trinamool Congress. The government defended its invitation, stating it must include all groups. Both warring factions of the Trinamool Congress exch…"
         }
-      ]
+      ],
+      "summary": "Opposition parties walked out of an all-party meeting to protest the government’s invitation to a breakaway Trinamool Congress faction. The faction claims to have joined the Nationalist Citizens Party of India, while disqualification petitions remain pending."
     },
     {
-      "id": "topic_6f18cdfdc0355bfc",
-      "label": [
-        "brother arrest",
-        "tate brother",
-        "miami",
-        "brother",
-        "tate",
-        "arrest miami"
-      ],
-      "category": "new",
-      "theme": "theme_eae44a1e30a41962",
-      "entities": [
-        "The Tate",
-        "US Marshals",
-        "Miami",
-        "UK",
-        "Tate"
-      ],
-      "article_count": 8,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "The Tate brothers arrested by US Marshals in Miami on UK extradition request over rape and sex trafficking charges",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/tate-brothers-arrested-miami-source-235350123.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-19T22:19:56.000Z",
-          "image": "https://media.zenfs.com/en/cnn_articles_875/eb2df26a7b102c95a626633ae0c825a0"
-        },
-        {
-          "title": "What to know about the Tate brothers arrested in Miami as UK seeks extradition",
-          "url": "https://www.washingtonexaminer.com/news/justice/4654714/what-to-know-tate-brothers-arrested",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-19T21:26:58.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26199846673323.jpg?w=696"
-        },
-        {
-          "title": "Radical ‘manosphere’ influencer Andrew Tate and brother arrested in Miami",
-          "url": "https://nationalpost.com/news/radical-manosphere-influencer-andrew-tate-and-brother-arrested-in-miami",
-          "source": "National Post",
-          "published_at": "2026-07-19T19:58:59.000Z"
-        },
-        {
-          "title": "Tate brothers arrested in Miami as U.K. seeks extradition: U.S. Marshals Service",
-          "url": "https://globalnews.ca/news/11971732/andrew-tate-tristan-tate-arrested-miami",
-          "published_at": "2026-07-19T17:24:56.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/c75ab6bc56b93281a12154f32a88c16563fd7fa2071e3879653b928970e2d400.jpg?quality=65&strip=all"
-        }
-      ]
-    },
-    {
-      "id": "topic_4e6fcdc7c4597aee",
-      "label": [
-        "investigate",
-        "investigate ice",
-        "ice",
-        "fbi",
-        "confrontation",
-        "longer investigate"
-      ],
-      "category": "new",
-      "theme": "theme_b932d2d9e47b5877",
-      "entities": [
-        "FBI",
-        "ICE",
-        "The New York Times",
-        "CNBC",
-        "The FBI"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "FBI will no longer investigate ICE confrontations, The New York Times reports - CNBC",
-          "url": "https://news.google.com/rss/articles/cbmia0fvx3lxte9ttkcxcw52sfhhoehur2lvyw1ytfotsjlkqlrhrzhezhkzvhdmywvjdzrkwvm2nzhryzv5d2pwew10mzzhsg40rtfywkpvudnad1dsdmzouxfnnxloz0fsbktszurpckzmauvn0gfwqvvfexfmtnhcsmjhr0zmalnqv3jacm0xmulmcjzbqi1vymttmm5jqkpwa2vym3e0uvp6wi1rnwliamftq3d1qtvpmlljv0lnq3fqrtlsr09magnkt0tnemnfzxqtt2doa053bjjtrgrhmglhvlzodg",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-19T18:36:23.000Z"
-        },
-        {
-          "title": "FBI will no longer investigate ICE confrontations, The New York Times reports",
-          "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-07-19T18:36:23.000Z"
-        },
-        {
-          "title": "The FBI reportedly won’t investigate ICE anymore",
-          "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-          "source": "The Verge",
-          "published_at": "2026-07-19T16:42:10.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "Federal Agents Were Told F.B.I. Will No Longer Investigate ICE Confrontations (New York Times)",
-          "url": "https://www.memeorandum.com/260719/p21",
-          "source": "memeorandum",
-          "published_at": "2026-07-19T16:40:00.000Z",
-          "image": "http://www.memeorandum.com/260719/i21.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_18d60ac17d245482",
-      "label": [
-        "latest",
-        "strik latest",
-        "latest development",
-        "iran strik",
-        "us iran",
-        "development"
-      ],
-      "category": "new",
-      "theme": "theme_e5240aef0f510775",
-      "entities": [
-        "Embarrassing Argentina",
-        "Spain",
-        "World Cup",
-        "Rodri",
-        "Golden Ball"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Embarrassing Argentina in another classless act as Spain lift World Cup trophy and Rodri claims Golden Ball",
-          "url": "https://talksport.com/football/world-cup/4442229/argentina-classless-act-spain-rodri-golden-ball",
-          "source": "talkSPORT",
-          "published_at": "2026-07-19T23:21:51.000Z"
-        },
-        {
-          "title": "US-Iran strikes: latest developments",
-          "url": "https://globalnation.inquirer.net/331513/us-iran-strikes-latest-developments-2",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-19T22:41:56.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260718__C2JR9DV__v1__HighRes__IranUsIsraelWar-620x413.jpg"
-        },
-        {
-          "title": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/heres-the-latest",
-          "source": "NYT > Arts",
-          "published_at": "2026-07-19T19:37:56.000Z"
-        },
-        {
-          "title": "The Latest: Argentina and Spain will face off to lift the World Cup trophy",
-          "url": "https://www.thestar.com/sports/soccer/the-latest-argentina-and-spain-will-face-off-to-lift-the-world-cup-trophy/article_c7962919-a524-5435-b27b-2da6a09818bc.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-07-19T17:09:23.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7ddb245df19be37a",
+      "id": "topic_f0f451f949c67986",
+      "title": "Mamdani Reviews Whether New York Can Arrest Netanyahu",
+      "headline": "He's a war criminal: What Zohran Mamdani said on arresting Netanyahu in NYC",
       "label": [
         "mamdani",
+        "netanyahu",
+        "arrest",
         "zohran",
-        "zohran mamdani",
-        "conversation zohran",
-        "conversation",
-        "fetterman"
+        "nyc",
+        "criminal"
       ],
       "category": "new",
-      "theme": "theme_63b22efdaaa3c5db",
+      "theme": "theme_37c9ad21a9f1e04e",
       "entities": [
-        "Conversation",
-        "Zohran Mamdani",
-        "Fetterman Blasts Mamdani",
-        "Push",
-        "Arrest Netanyahu"
+        "What Zohran Mamdani",
+        "Netanyahu",
+        "NYC",
+        "Fetterman",
+        "Zohran Mamdani"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 7,
       "articles": [
         {
-          "title": "A Conversation with Zohran Mamdani",
-          "url": "https://www.nytimes.com/2026/07/19/world/zohran-mamdani-interview-world-cup-final.html",
-          "source": "NYT > World News",
-          "published_at": "2026-07-19T21:37:03.000Z",
-          "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20int-theworld-asia-nl-top-zwgv/20int-theworld-asia-nl-top-zwgv-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Fetterman Blasts Mamdani’s Push to Arrest Netanyahu in New York City",
-          "url": "https://internewscast.com/news/us/fetterman-blasts-mamdanis-push-to-arrest-netanyahu-in-new-york-city",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-19T19:04:23.000Z"
-        },
-        {
-          "title": "Fetterman torches Mamdani as a ‘clown’ for push to arrest Netanyahu in NYC: ‘Such a tough guy’",
-          "url": "https://nypost.com/2026/07/19/us-news/fetterman-torches-mamdani-as-a-clown-for-push-to-arrest-netanyahu-in-nyc",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-19T18:42:44.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fsen-john-fetterman-d-pa-134601828.jpg?w%3D1024"
+          "title": "He's a war criminal: What Zohran Mamdani said on arresting Netanyahu in NYC",
+          "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-weighing-israel-pm-benjamin-netanyahu-arrest-in-new-york-city-2951139-2026-07-19",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-19T05:50:03.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/mamdani-19561196-16x9_0.jpg?VersionId=vbE5jwqluflFHAoPct3JBDZnq1UN_pik",
+          "description": "Hes a war criminal What Zohran Mamdani said on arresting Netanyahu in NYC"
         },
         {
           "title": "Fetterman calls Zohran Mamdani a 'clown' over push to arrest Netanyahu in New York City",
           "url": "https://www.foxnews.com/media/fetterman-calls-zohran-mamdani-clown-over-push-arrest-netanyahu-new-york-city",
           "source": "Latest & Breaking News on Fox News",
           "published_at": "2026-07-19T16:51:16.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/john-fetterman-zohran-mamdani-split-1.jpg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_d009c2cd0750360",
-      "label": [
-        "13 year",
-        "13",
-        "year old",
-        "found",
-        "old",
-        "year"
-      ],
-      "category": "new",
-      "theme": "theme_86b318266ae17b54",
-      "entities": [
-        "Memphis Mother Charged With",
-        "Murder After Killing Man",
-        "Found Under",
-        "Year",
-        "Old Daughter"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/john-fetterman-zohran-mamdani-split-1.jpg?ve=1&tl=1",
+          "description": "John Fetterman called Zohran Mamdani a \"clown\" for vowing to arrest Benjamin Netanyahu over the ICC warrant, saying America is not part of that court."
+        },
         {
-          "title": "Memphis Mother Charged With Murder After Killing Man Found Under 13-Year-Old Daughter’s Bed",
-          "url": "https://internewscast.com/news/us/memphis-mother-charged-with-murder-after-killing-man-found-under-13-year-old-daughters-bed",
+          "title": "\"He's War Criminal\": Zohran Mamdani Wants To Arrest Netanyahu During New York Trip",
+          "url": "https://www.ndtv.com/world-news/zohran-mamdani-wants-to-get-benjamin-netanyahu-arrested-israeli-pm-says-he-hates-america-11790595",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-19T04:13:19.000Z",
+          "image": "https://c.ndtvimg.com/2025-09/4qft7ecc_mamdani-netanyahu_625x300_13_September_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Zohran Mamdani said he is not sure if he has the power to order the arrest of a foreign leader and that he is consulting the city's legal advisers regarding the issue."
+        },
+        {
+          "title": "Fetterman Blasts Mamdani’s Push to Arrest Netanyahu in New York City",
+          "url": "https://internewscast.com/news/us/fetterman-blasts-mamdanis-push-to-arrest-netanyahu-in-new-york-city",
           "source": "Internewscast Journal",
-          "published_at": "2026-07-19T18:09:38.000Z"
+          "published_at": "2026-07-19T19:04:23.000Z",
+          "description": "Internewscast Journal Internewscast WASHINGTON — Sen. John Fetterman sharply criticized Mayor Zohran Mamdani over his… This Post: Fetterman Blasts Mamdani’s Push to Arrest Netanyahu in New York City first appeared on Internewscast Journal"
         },
         {
-          "title": "13-year-old found dead in Kasaragod",
-          "url": "https://www.thehindu.com/news/national/kerala/13-year-old-found-dead-in-kasaragod/article71241931.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-19T17:52:42.000Z"
-        },
-        {
-          "title": "Memphis mom killed a man she found under 13-year-old daughter’s bed — now she’s charged with murder",
-          "url": "https://nypost.com/2026/07/19/us-news/memphis-mom-killed-a-man-she-found-under-13-year-old-daughters-bed-now-shes-charged-with-murder",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-19T17:41:46.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fkendra-scott-36-charged-first-134879717.jpg?w%3D819"
+          "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
+          "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-07-19T15:38:11.000Z",
+          "image": "https://i.guim.co.uk/img/media/fa9e414052a22976cb2ca434fa958cfc8e34e291/863_0_10000_8000/master/10000.jpg?width=140&quality=85&auto=format&fit=max&s=d07459716cdd2abc463490a56709ab02",
+          "description": "NYC mayor says in Times interview that’s he’s in ‘active conversation’ with city’s law department about the matter New York City mayor Zohran Mamdani has said he was reviewing whether his administration could arrest Benjamin Netanyahu if as expected the Israeli prime minister visits the city for th…"
         }
-      ]
+      ],
+      "summary": "New York City Mayor Zohran Mamdani said he is consulting the city’s legal advisers about whether the city could arrest Israeli Prime Minister Benjamin Netanyahu if he visits. Senator John Fetterman criticized the proposal."
     },
     {
-      "id": "topic_6ebe39e517785a85",
+      "id": "topic_5071f7129800fdb8",
+      "title": "Tulsi Gabbard’s Brother Charged in Hawaii Child-Luring Case",
+      "headline": "Tulsi Gabbard’s brother accused of trying to lure children to Hawaii hotel room: police",
       "label": [
-        "evenepoel wins",
-        "evenepoel",
-        "vingegaard",
-        "spectator",
-        "vingegaard tour",
-        "tour spectator"
+        "tulsi",
+        "gabbard",
+        "brother",
+        "hotel",
+        "hawaii",
+        "lure"
       ],
       "category": "new",
-      "theme": "theme_f9d708a3cfa857a2",
+      "theme": "theme_8bb81cd1ecae96f0",
       "entities": [
-        "Evenepoel",
-        "Tour",
-        "Pogacar",
-        "Vingegaard"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Evenepoel wins 15th stage of Tour and Pogacar retains big lead as Vingegaard crashes out of race",
-          "url": "https://japantoday.com/category/sports/evenepoel-wins-15th-stage-of-the-tour-and-pogacar-retains-big-lead-as-vingegaard-crashes-out-of-race",
-          "source": "Japan Today",
-          "published_at": "2026-07-19T22:09:17.000Z"
-        },
-        {
-          "title": "Vingegaard out of Tour after spectator crash as Evenepoel wins",
-          "url": "https://www.bbc.co.uk/sport/cycling/articles/c0jl84wp50wo",
-          "source": "BBC Sport",
-          "published_at": "2026-07-19T17:42:36.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4771/live/a1054610-8391-11f1-a4c3-dfd0ee4be073.jpg"
-        },
-        {
-          "title": "Vingegaard out of Tour after spectator crash as Evenepoel wins",
-          "url": "https://sports.yahoo.com/articles/vingegaard-tour-spectator-crash-evenepoel-173634609.html",
-          "published_at": "2026-07-19T17:36:34.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_3b3fcdcf400ca33a",
-      "label": [
-        "maher",
-        "bill maher",
-        "bill",
-        "vance",
-        "vance 2028",
-        "2028"
-      ],
-      "category": "new",
-      "theme": "theme_e11f656fb68168bc",
-      "entities": [
-        "Bill Maher",
-        "JD Vance",
-        "Vance",
-        "Democrats"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Bill Maher torches the left with three-word riposte and says he might vote for JD Vance in 2028",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/bill-maher-2028-democrats-vance-b3017749.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-19T18:12:40.000Z",
-          "image": "https://static.independent.co.uk/2026/06/29/07/2026-06-29T020834Z_136873214_RC263MA2C5PB_RTRMADP_3_PEOPLE-BILLMAHER.JPG?width=1200&auto=webp&trim=0%2C35%2C0%2C35"
-        },
-        {
-          "title": "Bill Maher says ‘yes’ he could see himself voting for Vance in 2028",
-          "url": "https://www.washingtonexaminer.com/news/entertainment/4654805/bill-maher-vance-vote-2028-president",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-19T18:04:41.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/image-collage-3efn1x09k-1784482425805-e1784484203617.jpg?1784469805&w=696"
-        },
-        {
-          "title": "Bill Maher admits he could vote for JD Vance, warns 'cowardly' Democrats face socialist takeover",
-          "url": "https://www.foxnews.com/media/bill-maher-admits-could-vote-jd-vance-warns-cowardly-democrats-face-socialist-takeover",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-07-19T17:44:05.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/bill-maher-jd-vance-split.jpeg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_f0a568c0c104fbf6",
-      "label": [
-        "nomination",
-        "democratic",
-        "troy",
-        "troy jackson",
-        "jackson",
-        "maine"
-      ],
-      "category": "new",
-      "theme": "theme_f036a104b1af385d",
-      "entities": [
-        "Troy Jackson",
-        "Maine Democratic Senate",
-        "Maine Senate Democratic",
-        "Politico"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Troy Jackson emerges as front-runner for Maine Democratic Senate nomination",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4654871/troy-jackson-front-runner-maine-democratic-senate-nomination",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-19T22:08:33.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26156835372874-2.jpg?w=696"
-        },
-        {
-          "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination (Politico)",
-          "url": "https://www.memeorandum.com/260719/p26",
-          "source": "memeorandum",
-          "published_at": "2026-07-19T18:05:00.000Z",
-          "image": "http://www.memeorandum.com/260719/i26.jpg"
-        },
-        {
-          "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination - Politico",
-          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxnd1lpnklmcfbpn2rwlxrpznfrutzod1hmsg1ub1nju3jjnfrysxbqytzicjrxvvjyykzzsul2anzretlfa1fvy0xkrddsddjlshv1smzfr184m0zbu1bsqkvfbujrymo4qutnodixbxphuulrqlbrtthlzdc4u1zjwvlvzlv3bkzjt0mzym42uus2tvhzvgziunf4sefba0e",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-19T17:58:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_6e934268368cca80",
-      "label": [
-        "trasladan",
-        "trasladan ernesto",
-        "ruffo",
-        "ernesto ruffo",
-        "ernesto",
-        "penal"
-      ],
-      "category": "new",
-      "theme": "theme_4cacddea36179f0c",
-      "entities": [
-        "Trasladan",
-        "Ernesto Ruffo Appel",
-        "CEFERESO",
-        "Ernesto Ruffo",
-        "Penal"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Trasladan a Ernesto Ruffo Appel al CEFERESO Núm. 1, junto con demás imputados",
-          "url": "https://vanguardia.com.mx/noticias/trasladan-a-ernesto-ruffo-appel-al-cefereso-num-1-junto-con-demas-imputados-ff22274634",
-          "source": "Vanguardia",
-          "published_at": "2026-07-19T20:00:19.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1091247-detencion-ernesto-rulfo-appe_1-16252139_20260719201606.jpg"
-        },
-        {
-          "title": "Trasladan a Ernesto Ruffo al Penal del Altiplano",
-          "url": "https://www.elnorte.com/trasladan-a-ernesto-ruffo-al-penal-del-altiplano/ar3243135",
-          "source": "ElNorte",
-          "published_at": "2026-07-19T17:36:07.000Z"
-        },
-        {
-          "title": "Trasladan a Ernesto Ruffo al Penal del Altiplano",
-          "url": "https://www.reforma.com/trasladan-a-ernesto-ruffo-al-penal-del-altiplano/ar3243133",
-          "source": "Reforma",
-          "published_at": "2026-07-19T17:35:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_3e4587a8146d684e",
-      "label": [
-        "iraq",
-        "service member",
-        "member",
-        "kill",
-        "service",
-        "member kill"
-      ],
-      "category": "new",
-      "theme": "theme_71d60bd021b052b",
-      "entities": [
-        "US Command",
-        "Jordan",
-        "Another US",
-        "Iranian",
-        "US Troop Killed"
-      ],
-      "article_count": 22,
-      "source_count": 21,
-      "articles": [
-        {
-          "title": "US Command recovers unidentified remains at Jordan; identification underway",
-          "url": "https://www.indiatoday.in/world/story/centcom-jordan-attack-recovered-remains-missing-us-service-member-2951632-2026-07-20",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-07-19T23:42:02.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/iran-missile-strike-192621702-16x9_0.jpg?VersionId=rxCCKECZ4qlUFJMVXQEChWpJavJ2_gRG"
-        },
-        {
-          "title": "Another US service member killed during Iranian drone detonation",
-          "url": "https://timesofindia.indiatimes.com/world/us/us-service-member-killed-during-iranian-drone-detonation-as-us-launches-fresh-strikes-on-iran/articleshow/132503484.cms",
-          "source": "Times of India",
-          "published_at": "2026-07-19T23:13:56.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132503487,imgsize-137493.cms"
-        },
-        {
-          "title": "US Troop Killed in Iraq; Unidentified Remains Found in Jordan",
-          "url": "https://internewscast.com/news/us/us-troop-killed-in-iraq-unidentified-remains-found-in-jordan",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-19T22:15:27.000Z"
-        },
-        {
-          "title": "US military reports another soldier killed in northern Iraq",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3361130/us-military-reports-another-soldier-killed-northern-iraq",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-07-19T22:07:58.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/d45fa596-9830-4460-b925-e0ac8526efc4_d9a78e98.jpg?itok=_nAuh_GR&v=1784498694"
-        },
-        {
-          "title": "U.S. Servicemember Killed in Iraq",
-          "url": "https://politicalwire.com/2026/07/19/u-s-servicemember-killed-in-iraq",
-          "source": "Political Wire",
-          "published_at": "2026-07-19T21:53:11.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_33608e5a9e824f3a",
-      "label": [
-        "peru",
-        "least",
-        "earthquake",
-        "kill",
-        "kill least",
-        "earthquak"
-      ],
-      "category": "new",
-      "theme": "theme_37cd667149ace882",
-      "entities": [
-        "Peru",
-        "Magnitude",
-        "Andes",
-        "Twin",
-        "Deadly Earthquake Strikes Peru"
-      ],
-      "article_count": 16,
-      "source_count": 15,
-      "articles": [
-        {
-          "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
-          "url": "https://japantoday.com/category/world/at-least-six-dead-and-21-injured-after-2-earthquakes-in-peru",
-          "source": "Japan Today",
-          "published_at": "2026-07-19T22:08:34.000Z"
-        },
-        {
-          "title": "Magnitude 5.5 quake kills six in Peru's Andes region",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/magnitude-55-quake-kills-six-in-perus-andes-region-c-22598716",
-          "source": "PerthNow",
-          "published_at": "2026-07-19T20:52:44.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22598716/1d2e3b848e8173d066c2bd9b1d101ac92e1544da-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Twin earthquakes strike Peru killing at least five",
-          "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-19T20:11:51.000Z"
-        },
-        {
-          "title": "Deadly Earthquake Strikes Peru’s Andes, Killing at Least 5",
-          "url": "https://internewscast.com/news/deadly-earthquake-strikes-perus-andes-killing-at-least-5",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-19T20:09:25.000Z"
-        },
-        {
-          "title": "Six die in earthquake in Peru",
-          "url": "https://tass.com/emergencies/2162265",
-          "source": "TASS",
-          "published_at": "2026-07-19T19:38:11.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bac35e4922b1eeb4",
-      "label": [
-        "bali",
-        "thailand",
-        "vietnam",
-        "ignore",
-        "australian love",
-        "love bali"
-      ],
-      "category": "new",
-      "theme": "theme_28c62eaf6b9da205",
-      "entities": [
-        "Australians",
-        "Bali",
-        "Thailand",
-        "Vietnam"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Australians love Bali, Thailand and Vietnam. Why do we ignore this gem?",
-          "url": "https://www.brisbanetimes.com.au/traveller/inspiration/australians-love-bali-thailand-and-vietnam-why-do-we-ignore-this-gem-20260420-p5zphv.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-19T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1498090253218277%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/e4fe60f4b921968cb7b4658f20fb11b4658086b9"
-        },
-        {
-          "title": "Australians love Bali, Thailand and Vietnam. Why do we ignore this gem?",
-          "url": "https://www.smh.com.au/traveller/inspiration/australians-love-bali-thailand-and-vietnam-why-do-we-ignore-this-gem-20260420-p5zphv.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-19T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1498090253218277%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/e4fe60f4b921968cb7b4658f20fb11b4658086b9"
-        },
-        {
-          "title": "Australians love Bali, Thailand and Vietnam. Why do we ignore this gem?",
-          "url": "https://www.theage.com.au/traveller/inspiration/australians-love-bali-thailand-and-vietnam-why-do-we-ignore-this-gem-20260420-p5zphv.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-07-19T19:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1498090253218277%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/e4fe60f4b921968cb7b4658f20fb11b4658086b9"
-        }
-      ]
-    },
-    {
-      "id": "topic_42c4baad071d18e",
-      "label": [
-        "navire",
-        "russ",
-        "un navire",
-        "des",
-        "marchand",
-        "navire marchand"
-      ],
-      "category": "new",
-      "theme": "theme_4c4132db8daa05ab",
-      "entities": [
-        "Guerre",
-        "Ukraine",
-        "Kiev",
-        "Cinq",
-        "Turquie"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Guerre en Ukraine : un navire marchand turc visé par des missiles russes, six morts selon Kiev",
-          "url": "https://www.rtbf.be/article/guerre-en-ukraine-un-navire-marchand-turc-vise-par-des-missiles-russes-six-morts-selon-kiev-11760278",
-          "source": "- Info",
-          "published_at": "2026-07-19T19:30:28.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/4/1/3/84aad63ab4a6d95c162207efc9ba1d11.jpg"
-        },
-        {
-          "title": "Cinq marins meurent après des frappes russes sur un navire marchand appartenant à la Turquie",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/cinq-marins-meurent-apres-des-frappes-russes-sur-un-navire-marchand-appartenant-a-la-turquie_8114357.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-07-19T18:47:55.000Z",
-          "image": "https://www.franceinfo.fr/pictures/E0glkSvkJXTxPocBg4Tb4ddt2Xc/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5d199971ce8842060745.jpg"
-        },
-        {
-          "title": "CARTE. Guerre en Ukraine : cinq morts dans des frappes russes sur un navire turc, Kiev bombardée… Le point du jour",
-          "url": "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-un-mort-dans-les-frappes-russes-sur-kiev-trois-petroliers-russes-touches-le-point-du-jour-656b646e-8395-11f1-ae6f-a09f3d00f0f8",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-07-19T18:16:31.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3ZDkzODBjMzQzY2NkMWY1ODZkZGQ1YzY5MzNjYjIyNTA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9a7bbfc75956469ad6dc382c860dffa3c4f47f81fd7659ff70c561988c4edae7"
-        }
-      ]
-    },
-    {
-      "id": "topic_fa50762bf74a80ff",
-      "label": [
-        "bask",
-        "trump seek",
-        "seek bask",
-        "bask another",
-        "another sport",
-        "sport championship"
-      ],
-      "category": "new",
-      "theme": "theme_a4b5da9bebc73f05",
-      "entities": [
-        "At World Cup Final",
-        "Trump Seeks",
-        "Bask",
-        "Another Sports Championship",
-        "New York Times"
+        "Tulsi Gabbard",
+        "Hawaii",
+        "Waik",
+        "Brother Accused",
+        "Hawaii Hotel Child"
       ],
       "article_count": 8,
-      "source_count": 4,
+      "source_count": 7,
       "articles": [
         {
-          "title": "At World Cup Final, Trump Seeks to Bask in Another Sports Championship (New York Times)",
-          "url": "https://www.memeorandum.com/260719/p39",
-          "source": "memeorandum",
-          "published_at": "2026-07-19T22:20:00.000Z",
-          "image": "http://www.memeorandum.com/260719/i39.jpg"
+          "title": "Tulsi Gabbard’s brother accused of trying to lure children to Hawaii hotel room: police",
+          "url": "https://nypost.com/2026/07/18/us-news/tulsi-gabbards-brother-batarti-gabbard-accused-of-trying-to-lure-children-to-hawaii-hotel-room",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-07-19T03:51:31.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fbatarti-gabbard-suspect-identified-sunday-134838941.jpg?w%3D1024",
+          "description": "Tulsi Gabbard's older brother was charged with second-degree custodial interference after the July 12 \"stranger danger\" incident at a Waikīkī hotel pool, according to police."
         },
         {
-          "title": "Trump Seeks to Bask in Another Sports Championship",
-          "url": "https://politicalwire.com/2026/07/19/trump-seeks-to-bask-in-another-sports-championship",
-          "source": "Political Wire",
-          "published_at": "2026-07-19T21:59:52.000Z"
+          "title": "Tulsi Gabbard's brother charged with trying to lure children to his hotel room",
+          "url": "https://www.indiatoday.in/world/story/batarti-gabbard-charged-tulsi-gabbard-attempt-lure-children-waikiki-hotel-honolulu-2951195-2026-07-19",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-19T07:29:16.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/us-director-of-national-intelligence-dni-tulsi-gabbard-image-reuters-221221934-16x9.jpg?VersionId=Yomv8hFZ86aZDXJLGUlu6aYKvMZ2gkV1",
+          "description": "Tulsi Gabbards brother charged with trying to lure children to his hotel room"
         },
         {
-          "title": "At World Cup Final, Trump Seeks to Bask in Another Sports Championship - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmifkfvx3lxte1tdursd2rzz0t5tdjkuxnqlte0vwrsng5nouprmm4yu09kdmhtvlljnmkyajbualptz21svxb0zvvnquzdwgpmzljlcktnrvppoxm3t2xyvjlwdlzfm1lzuthac2w2zdd0albusmvxrwkxdwvewxhbnelzuk9mdw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-19T21:18:04.000Z"
+          "title": "Tulsi Gabbard’s brother accused of trying to lure children to his Hawaii hotel room with cash and gum: police",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/tulsi-gabbard-brother-batarti-charged-b3017705.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-19T15:17:32.000Z",
+          "image": "https://static.independent.co.uk/2026/07/19/15/2268831922..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Batarti Gabbard was identified nearly a week after being arrested and accused of luring children as young as 9 to a hotel room"
         },
         {
-          "title": "At World Cup Final, Trump Seeks to Bask in Another Sports Championship",
-          "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-world-cup-final.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-07-19T21:18:04.000Z",
-          "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19world-cup-trump-pbhm/19world-cup-trump-pbhm-mediumSquareAt3X.jpg"
+          "title": "Tulsi Gabbard's brother charged after allegedly trying to lure children to Waikīkī hotel room: police",
+          "url": "https://www.yahoo.com/news/us/articles/tulsi-gabbards-brother-charged-allegedly-032100459.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-19T03:21:00.000Z",
+          "image": "https://media.zenfs.com/en/fox_news_text_979/c74a4e8a4ad3263f1b6b9ed341fa9065"
+        },
+        {
+          "title": "Tulsi Gabbard’s Brother Accused in Hawaii Hotel Child-Luring Case",
+          "url": "https://internewscast.com/news/us/tulsi-gabbards-brother-accused-in-hawaii-hotel-child-luring-case",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-19T11:18:23.000Z",
+          "description": "Internewscast Journal Internewscast Tulsi Gabbard’s older brother is accused of trying to entice several young… This Post: Tulsi Gabbard’s Brother Accused in Hawaii Hotel Child-Luring Case first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "Police accused Batarti Gabbard, brother of Tulsi Gabbard, of trying to lure children to a Waikīkī hotel room. He was charged with second-degree custodial interference, according to reports."
+    },
+    {
+      "id": "topic_78014cd08050b545",
+      "title": "Ferry Carrying More Than 100 People Capsizes Off Guyana",
+      "headline": "Ferry capsizes off Guyana, 53 rescued so far",
+      "label": [
+        "guyana",
+        "capsizes",
+        "ferry",
+        "people",
+        "rescued",
+        "board"
+      ],
+      "category": "new",
+      "theme": "theme_16143c96a3683442",
+      "entities": [
+        "Ferry",
+        "Guyana"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Ferry capsizes off Guyana, 53 rescued so far",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/ferry-capsizes-off-guyana-53-rescued-so-far-c-22598209",
+          "source": "PerthNow",
+          "published_at": "2026-07-19T12:14:26.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22598209/5fce7c9f02039f1e1039f819964c231701d4b265-16x9-x0y0w1280h720.jpg",
+          "description": "Authorities in Guyana say a ferry carrying 116 passengers and crew has capsized with 53 people rescued by state and private boats."
+        },
+        {
+          "title": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
+          "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-19T11:18:17.000Z",
+          "description": "Rescue operations for remaining passengers and crew ongoing, authorities say."
+        },
+        {
+          "title": "Ferry with 116 people on board capsizes off coast of Guyana",
+          "url": "https://tass.com/emergencies/2162137",
+          "source": "TASS",
+          "published_at": "2026-07-19T09:41:20.000Z",
+          "description": "Guyana's Minister of Public Works Juan Edghill noted that eight people have been rescued from the vessel so far"
+        },
+        {
+          "title": "Ferry capsizes off Guyana leaving 66 people missing",
+          "url": "https://www.thejournal.ie/ferry-capsizes-guyana-people-missing-7107396-jul2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-07-19T18:38:03.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/07/georgetown-guyana-with-industrial-activity-along-the-waterfront-of-the-demerara-river-and-a-cargo-ship-in-the-background-b9d7c2da-7b5b-43a9-8c50-7e055de43827-630x407.jpg",
+          "description": "The ferry MV Barima left on Saturday afternoon from the capital, Georgetown, with 133 people aboard."
+        },
+        {
+          "title": "A ferry carrying 116 people capsizes off Guyana, with 67 rescued as search continues",
+          "url": "https://www.seattletimes.com/nation-world/world/a-ferry-carrying-116-people-capsizes-off-guyana-with-67-rescued-as-search-continues",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-07-19T16:03:26.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org67594b02f0468f93ce787ff75c5327c1Guyana_Capsized_Ferry_437_9.jpg?d=1200x630",
+          "description": "Authorities in Guyana say a ferry carrying 116 passengers and crew has capsized."
+        }
+      ],
+      "summary": "A ferry carrying passengers and crew capsized off Guyana. Authorities reported that dozens had been rescued and that search operations for others were continuing."
+    },
+    {
+      "id": "topic_f8cf81a174d2e084",
+      "title": "ICE Officers to Use Body Cameras During Vehicle Stops",
+      "headline": "ICE officers to wear body cameras during vehicle stops, border czar says",
+      "label": [
+        "cameras",
+        "wear",
+        "stops",
+        "vehicle",
+        "ice",
+        "body"
+      ],
+      "category": "new",
+      "theme": "theme_b16e98fc9125a581",
+      "entities": [
+        "ICE",
+        "Diana Novak Jones",
+        "Reuters",
+        "Trump",
+        "US"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "ICE officers to wear body cameras during vehicle stops, border czar says",
+          "url": "https://japantoday.com/category/world/ice-officers-to-wear-body-cameras-during-vehicle-stops-border-czar-says",
+          "source": "Japan Today",
+          "published_at": "2026-07-19T22:08:28.000Z",
+          "description": "In the wake of multiple fatal shootings involving U.S. Immigration and Customs Enforcement officers, the agency will ‌require its officers to record vehicle stops with at least one…"
+        },
+        {
+          "title": "ICE officers to wear body cameras during vehicle stops, border czar says (Diana Novak Jones/Reuters)",
+          "url": "https://www.memeorandum.com/260719/p23",
+          "source": "memeorandum",
+          "published_at": "2026-07-19T16:55:00.000Z",
+          "image": "http://www.memeorandum.com/260719/i23.jpg",
+          "description": "Diana Novak Jones / Reuters: ICE officers to wear body cameras during vehicle stops, border czar says — In the wake of multiple fatal shootings involving U.S. Immigration and Customs Enforcement officers, the agency will require its officers to record vehicle stops with at least one body camera, Tr…"
+        },
+        {
+          "title": "ICE officers to use body cameras during vehicle stops, Trump ‘border czar’ says",
+          "url": "https://www.theguardian.com/us-news/2026/jul/19/ice-record-vehicle-stops-body-camera-mandate-homan",
+          "source": "The Guardian",
+          "published_at": "2026-07-19T17:54:50.000Z",
+          "image": "https://i.guim.co.uk/img/media/2ff220a2111a351994d90e3b4c7e1763759aff0f/581_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=db2df753644c1e59e0e87b4ab4fd0253",
+          "description": "Tom Homan’s comments come amid scrutiny over federal immigration agents’ fatal shooting of two men in six days US Immigration and Customs Enforcement (ICE) will require its officers to record vehicle stops with at least one body camera, said Tom Homan, the Trump administration “border czar”, on Sun…"
+        },
+        {
+          "title": "ICE officers in US to wear cameras during vehicle stops",
+          "url": "https://www.perthnow.com.au/news/politics/ice-officers-in-us-to-wear-cameras-during-vehicle-stops-c-22598495",
+          "source": "PerthNow",
+          "published_at": "2026-07-19T17:56:05.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22598495/e14da38ae910a909b2594fc522ac3fb7b98b05aa-16x9-x0y0w1280h720.jpg",
+          "description": "The US Immigration and Customs Enforcement says its officers will have to turn on body cameras while conducting vehicle stops."
+        },
+        {
+          "title": "ICE agents will be required to wear body cameras to ‘exonerate’ them in vehicle stops",
+          "url": "https://nypost.com/2026/07/19/us-news/ice-agents-will-be-required-to-wear-body-cameras-to-exonerate-them-in-vehicle-stops",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-07-19T18:12:55.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fu-s-president-donald-trumps-134391398.jpg?w%3D1024",
+          "description": "Tom Homan's comments follow federal immigration agents fatally shooting two men six days ​apart during traffic stops in July."
+        }
+      ],
+      "summary": "U.S. Immigration and Customs Enforcement officers will be required to record vehicle stops with body cameras, according to border czar Tom Homan. The announcement comes amid scrutiny following fatal shootings by federal immigration agents."
+    },
+    {
+      "id": "topic_81e751203963b442",
+      "title": "Marcos Trust Rating Falls to 34%, Survey Says",
+      "headline": "Marcos trust rating slips to 34%; Duterte steady at 57%",
+      "label": [
+        "trust",
+        "marcos",
+        "rating",
+        "duterte",
+        "steady",
+        "sws"
+      ],
+      "category": "new",
+      "theme": "theme_d61de763428f8410",
+      "entities": [
+        "Marcos",
+        "Duterte",
+        "Sara Duterte",
+        "SWS June",
+        "SONA"
+      ],
+      "article_count": 8,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Marcos trust rating slips to 34%; Duterte steady at 57%",
+          "url": "https://www.manilatimes.net/2026/07/20/news/national/marcos-trust-rating-slips-to-34-duterte-steady-at-57/2387201",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-07-19T16:12:00.000Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/19/1142671.jpg",
+          "description": "PRESIDENT Ferdinand Marcos Jr.'s trust rating dropped slightly in the second quarter of 2026, while Vice President Sara Duterte maintained a significantly higher trust rating, according to a Social Weather Stations (SWS) survey commissioned by the Stratbase Group. In the survey conducted in June, 3…"
+        },
+        {
+          "title": "Marcos trust rating drops to record-low 34%; Duterte steady at 57%",
+          "url": "https://newsinfo.inquirer.net/2266163/marcos-trust-rating-falls-to-record-low-34-duterte-steady-at-57",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-19T02:29:46.000Z",
+          "image": "https://newsinfo.inquirer.net/files/2025/12/Sara-Duterte-President-Marcos-30December2025-620x349.jpg",
+          "description": "MANILA, Philippines — Ahead of his fifth State of the Nation Address (Sona) next week, President Ferdinand Marcos Jr.’s trust rating continued to decline, reaching a new record low in the second quarter of 2026, according to a Social Weather Stations (SWS) survey commissioned by think tank Stratbas…"
+        },
+        {
+          "title": "Marcos’ trust rating down to 34% ahead of 5th SONA",
+          "url": "https://www.philstar.com/headlines/2026/07/19/2543196/marcos-trust-rating-down-34-ahead-5th-sona",
+          "source": "philstar.com - RSS Headlines",
+          "published_at": "2026-07-19T05:24:00.000Z",
+          "description": "Ahead of his fifth State of the Nation Address (SONA), President Ferdinand Marcos Jr. is seeing a lower public trust rating, according to a survey."
+        },
+        {
+          "title": "Marcos trust rating dropped to 34%; VP Sara stable at 57% -- SWS survey",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/995387/bongbong-marcos-sara-duterte-sws-survey-trust-rating/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-07-19T06:57:49.000Z",
+          "image": "https://images.gmanews.tv/webpics/2024/07/Copy_of_Untitled_Design_2024_07_19_13_24_24.jpg",
+          "description": "The trust rating of President Ferdinand \"Bongbong\" Marcos Jr. has declined to 34% while Vice President Sara Duterte\"s trust rating was stable at 57%, according to the latest survey of the Social Weather Stations (SWS)."
+        },
+        {
+          "title": "SWS: Marcos trust fell to fresh low",
+          "url": "https://bworldonline.com/the-nation/2026/07/19/764435/sws-marcos-trust-fell-to-fresh-low",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-07-19T11:52:24.000Z",
+          "image": "https://bworldonline.com/wp-content/uploads/2022/06/Marcos-BBM-1-300x200.jpg",
+          "description": "PUBLIC TRUST in President Ferdinand R. Marcos, Jr. fell to a record in the second quarter, while Vice-President Sara Duterte-Carpio kept a stable rating ahead of the President’s fifth State of the Nation Address (SONA), according to a Social Weather Stations (SWS) survey commissioned by the Stratba…"
+        }
+      ],
+      "summary": "A Social Weather Stations survey found President Ferdinand Marcos Jr.’s trust rating fell to 34% in the second quarter of 2026, a record low. Vice President Sara Duterte’s rating remained at 57%."
+    },
+    {
+      "id": "topic_7612638d1a6817b7",
+      "title": "Cuban Dissident Artist Luis Manuel Otero Alcántara Arrives in US",
+      "headline": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "label": [
+        "cuban",
+        "artist",
+        "arrives",
+        "dissident",
+        "exiled",
+        "prison"
+      ],
+      "category": "new",
+      "theme": "theme_644be3bc934014bc",
+      "entities": [
+        "Cuban",
+        "US",
+        "NPR",
+        "Exiled Cuban",
+        "Otero Alcantara"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+          "source": "NPR Topics: World",
+          "published_at": "2026-07-19T07:27:59.000Z",
+          "description": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country."
+        },
+        {
+          "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+          "url": "https://news.google.com/rss/articles/cbmidefvx3lxte4zzhrrsw5cd3h5sdnfz3vjngvut3jpn0dhwxftow0tvmlewhbsdff4cdqwewzmdw1wd3v4mghfukzxrm81cetir0dvqjy4cfhwt1dsovlxdujoz0lhsvf1rlr4bjy4etnnrgtsmm5rdgr6c2zt",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-19T07:27:59.000Z",
+          "description": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US NPR Cuban dissident Luis Manuel Otero Alcántara goes into exile in US BBC Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms Al Jazeera Cuba will release artist and political prisoner Otero Alcán…"
+        },
+        {
+          "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in U.S.",
+          "url": "https://www.thestar.com/news/world/americas/cuban-artist-and-dissident-exiled-from-country-after-5-years-in-prison-arrives-in-u/video_37d2850f-2a29-4b99-8dc1-f850eb6ef766.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-07-19T21:30:00.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/7d/37d2850f-2a29-4b99-8dc1-f850eb6ef766/6a5d4227c1867.image.jpg?resize=300%2C169",
+          "description": "Famous Cuban dissident artist, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country. Alcántara, 38, was granted parole into the U.S. last week. (July…"
+        },
+        {
+          "title": "Cuban dissident artist arrives in US after 5-years in prison",
+          "url": "https://www.france24.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-19T13:45:45.000Z",
+          "image": "https://s.france24.com/media/display/5370815a-8376-11f1-a439-005056a97e36/w:1024/p:16x9/EN-20260719-150711-151213-CS.jpg",
+          "description": "A hero's welcome for Luis Manuel Otero Alcántara as he arrived in Miami following his release from prison in Cuba. The dissident artist accepted exile after the United States granted him humanitarian parole. Otero Alcántara co-founded the San Isidro Movement, a collective of Havana-based artists, w…"
+        },
+        {
+          "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
+          "url": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-19T00:52:18.000Z",
+          "description": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression."
+        }
+      ],
+      "summary": "Artist and dissident Luis Manuel Otero Alcántara arrived in Miami after being released from a five-year prison sentence on the condition that he leave Cuba. He is associated with the San Isidro Movement."
+    },
+    {
+      "id": "topic_c72b4307291907ee",
+      "title": "Ryan Fox Wins The Open Championship With Final-Hole Birdie",
+      "headline": "New Zealand's Ryan Fox birdies final hole to win The Open Championship",
+      "label": [
+        "fox",
+        "ryan",
+        "open",
+        "hole",
+        "birdie",
+        "birdies"
+      ],
+      "category": "new",
+      "theme": "theme_f46c3a14efa455d0",
+      "entities": [
+        "New Zealand",
+        "Ryan Fox",
+        "The Open Championship",
+        "British Open",
+        "AP News"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "New Zealand's Ryan Fox birdies final hole to win The Open Championship",
+          "url": "https://www.the42.ie/ryan-fox-wins-the-open-7107311-jul2026",
+          "source": "The 42",
+          "published_at": "2026-07-19T17:35:25.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/07/ryan-fox-of-new-zealand-reacts-after-a-birdie-putt-on-the-16th-green-during-the-final-day-of-the-british-open-golf-championships-at-royal-birkdale-golf-club-in-southport-england-sunday-july-19-20-d0b1118f-ee2d-41cd-8f39-be1aa7519fb2-630x419.jpg",
+          "description": "Fox won by a shot from Cameron Young."
+        },
+        {
+          "title": "New Zealand's Ryan Fox birdies to win 2026 British Open",
+          "url": "https://sports.yahoo.com/articles/zealands-ryan-fox-birdies-win-193850857.html",
+          "published_at": "2026-07-19T19:38:50.000Z",
+          "description": "New Zealander Ryan Fox holed a 12-foot, walk-off birdie putt on No. 18 to win the 2026 British Open on Sunday, clinching his first major title."
+        },
+        {
+          "title": "Ryan Fox wins the British Open with birdie on the final hole",
+          "url": "https://news.google.com/rss/articles/cbmipwfbvv95cuxnmuvncgxdqmt1amhorwmzwwtvd09la2jhyxjqzuzsotvwm1exzmj5s1nzb29us0rqvzvfs2c0wmdtrdzbvu15szm5rc01cwpiskpfshdzqk9obzj4y28ztfz4mgdxyupdaux6su1qry01zzbislvjbjltelhrrjetwmzsrgpiue5hoxlgludrmmlzb0fru3zjmvh1tfzyti1twdcxagzpma",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-19T18:44:00.000Z",
+          "description": "Ryan Fox wins the British Open with birdie on the final hole AP News Ryan Fox birdies 72nd hole to capture Open Championship ESPN The Open 2026 leaderboard: Latest golf scores from Royal Birkdale and weather, tee times for final men's major of the year Sky Sports Ryan Fox: The Kiwi Who Surged From…"
+        },
+        {
+          "title": "Ryan Fox Claims Open Championship With Clutch Birdie At 18",
+          "url": "https://www.forbes.com/sites/break80/2026/07/19/ryan-fox-claims-open-championship-with-clutch-birdie-at-18",
+          "source": "Forbes - Business",
+          "published_at": "2026-07-19T17:53:56.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d0e165a6080915fbfb233/0x0.jpg",
+          "description": "Ryan Fox birdied the 18th hole to win the 2026 Open Championship at Royal Birkdale, outlasting Cameron Young, Scottie Scheffler, Sam Burns and a brutal final-round test."
+        },
+        {
+          "title": "Ryan Fox Wins The Open With Clutch Final-Hole Birdie in Dramatic Finish",
+          "url": "https://internewscast.com/news/ryan-fox-wins-the-open-with-clutch-final-hole-birdie-in-dramatic-finish",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-19T19:00:29.000Z",
+          "description": "Internewscast Journal Internewscast Like father, like son — and with ice in his veins. Thirty-nine… This Post: Ryan Fox Wins The Open With Clutch Final-Hole Birdie in Dramatic Finish first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "New Zealand’s Ryan Fox won the 2026 Open Championship by one shot after making a birdie on the final hole. It was his first major title."
     }
   ]
 }

@@ -1,208 +1,674 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-29T00:50:05.824Z",
+  "generated_at": "2026-09-27T14:03:27.070Z",
   "topics": [
     {
-      "id": "topic_1b837a58f9dc8796",
+      "id": "topic_7b09ab3982e98890",
+      "title": "France Reports About 1,000 Excess Deaths During Heatwave",
+      "headline": "France records 1,000 excess deaths during record-breaking heatwave",
       "label": [
-        "russian",
-        "refinery",
-        "drone",
-        "putin",
-        "ignit",
-        "ukraine drone"
+        "records",
+        "heatwave",
+        "excess",
+        "deaths",
+        "france",
+        "europe"
       ],
       "category": "new",
-      "theme": "theme_b8b361e25bc7d9e8",
+      "theme": "theme_c1f24f4aea5666ec",
       "entities": [
-        "Putin",
-        "Ukrainian",
-        "Russian",
-        "Ukraine",
-        "Russia"
+        "France",
+        "Reuters",
+        "NBC News",
+        "Europe",
+        "France Records"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 35,
+      "source_count": 24,
       "articles": [
         {
-          "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
-          "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-          "source": "Europe | The Guardian",
-          "published_at": "2026-06-28T21:52:52.000Z",
-          "image": "https://i.guim.co.uk/img/media/99448878dab687094829c3770d6642a14d262c4e/499_322_4162_3328/master/4162.jpg?width=140&quality=85&auto=format&fit=max&s=26d9b28d76a2c4a76d07fea50fd67f2f"
+          "title": "France records 1,000 excess deaths during record-breaking heatwave",
+          "url": "https://www.nation.com.pk/29-jun-2026/france-records-1-000-excess-deaths-record-breaking-heatwave",
+          "source": "The Nation - Top Stories",
+          "published_at": "2026-06-28T20:32:00.000Z",
+          "description": "BERLIN/MILAN/COPENHAGEN - France has recorded 1,000 excess deaths during the blistering heatwave sweeping Europe, the public health agency said on Sunday, warning that the true figure was likely to be higher."
         },
         {
-          "title": "Ukraine's drone assault ignites major Russian oil refinery, as Putin acknowledges 'difficult period'",
-          "url": "https://japantoday.com/category/world/ukrainian-strike-sets-fire-to-an-oil-refinery-in-southern-russia",
-          "source": "Japan Today",
-          "published_at": "2026-06-28T21:18:56.000Z"
-        },
-        {
-          "title": "Ukraine drone strikes hit Russian refineries as Putin admits fuel deficit",
-          "url": "https://www.indiatoday.in/world/story/ukraine-drone-attacks-russian-oil-refineries-putin-fuel-deficit-ptag-2936280-2026-06-29",
+          "title": "France records around 1,000 excess deaths during record heatwave",
+          "url": "https://www.indiatoday.in/world/story/france-heatwave-1000-excess-deaths-record-temperatures-2935995-2026-06-28",
           "source": "India Today | Latest Stories",
-          "published_at": "2026-06-28T21:16:37.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-1-original_115-sixteen_nine.png?VersionId=golmA_BcnxtYlof.ezhfPAVbZ7aYPZJo"
+          "published_at": "2026-06-28T09:32:21.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/weather-france-paris-heatwave-282704441-16x9_0.jpg?VersionId=y1ALEskfoHsZpI0sjJrmMaHDixIZzeqk",
+          "description": "France records around excess deaths during record heatwave"
         },
         {
-          "title": "Ukraine drone assault ignites Russian oil refinery as Putin recognises ‘difficult period’",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3358675/ukraine-drone-assault-ignites-russian-oil-refinery-putin-recognises-difficult-period",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-28T18:16:11.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/29/433501ea-b4e9-4149-8b55-3924b328971f_63e84884.jpg?itok=7twb7vjZ&v=1782670415"
-        },
-        {
-          "title": "Ukraine's drone assault ignites major oil refinery in Russia",
-          "url": "https://www.thehindu.com/news/international/ukraines-drone-assault-ignites-major-oil-refinery-in-russia/article71158775.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-28T18:14:55.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/o00hd0/article71158935.ece/alternates/LANDSCAPE_1200/2026-06-24T095421Z_1505061077_RC27WLA3AB30_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-MOSCOW.JPG"
-        }
-      ]
-    },
-    {
-      "id": "topic_c5c973c711118f09",
-      "label": [
-        "pool full",
-        "full use",
-        "reflect",
-        "pool",
-        "reflect pool",
-        "use"
-      ],
-      "category": "new",
-      "theme": "theme_472e088f3b392f23",
-      "entities": [
-        "Reflecting Pool In",
-        "Full Use",
-        "Trump Says In Long",
-        "Truth Social Rant",
-        "Forbes"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Reflecting Pool In ‘Full Use,’ Trump Says In Long Truth Social Rant - Forbes",
-          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpu1lkskpuwexlq3rmetjonxj0v3pwztz5wtnpewjjlxlicmn3zkxwrujuqxhrnfb3vlnsaznzwhrnrwnzstg2sfpibwf4cnnfchpkekvzdfzomjazauturefonm9fyzhkstbhswg4zw9qlxvwsepdwl80vut6sy1ulvuwwujorvn6dkxinmv0a1d5dm5otfh1ou5nawvyuq",
+          "title": "France records 1,000 excess deaths during record-breaking heatwave",
+          "url": "https://news.google.com/rss/articles/cbmivwfbvv95cuxqzdvebtvfu2p5wkvgd1pqnno1snhqzjvizhr2mmdvumlrzliwrfqyblpoc3dqstnpckhatfmtuxboqwfka3dewdlxlwvyr1nnr3jymfrxbc1iudy4q1fny21pdvu3oxc1y04twln0ae15dkttagtrymd6swdibdj2repkrm9qatntmwxjs3bzb1uxbgn0zlhhtufeqzlax09rd3a2zdz5nxrlauy3wc1luv9cos1dshruwwr1v1rloa",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-28T21:07:31.000Z"
+          "published_at": "2026-06-28T10:32:51.000Z",
+          "description": "France records 1,000 excess deaths during record-breaking heatwave Reuters Temperature records tumble across Europe as heatwave moves east The Guardian Scenes from the Paris Heat Wave newyorker.com Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades World Weather At…"
         },
         {
-          "title": "Trump Claims Reflecting Pool Now In ‘Full Use’",
-          "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/28/trump-claims-reflecting-pool-now-in-full-use",
-          "source": "Forbes - Business",
-          "published_at": "2026-06-28T20:05:19.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a417e267fa2661d42d3ae2e/0x0.jpg?width=960"
+          "title": "France records around 1,000 excess deaths during heatwave",
+          "url": "https://www.france24.com/en/europe/20260628-france-records-around-1-000-excess-deaths-during-heatwave",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-28T09:45:03.000Z",
+          "image": "https://s.france24.com/media/display/d9ee3318-72bd-11f1-af48-005056a90284/w:1024/p:16x9/000-B8F23R2.jpg",
+          "description": "The Public Health France agency said Sunday that around 1,000 more deaths than expected occurred during a record-breaking heatwave that baked much of western Europe for days, adding that 85 percent of the casualties were people aged 65 and over. The agency stressed that the figures were preliminary…"
         },
         {
-          "title": "Trump says reflecting pool \"in full use,\" public golf course building will begin",
-          "url": "https://www.thehindu.com/news/international/trump-says-reflecting-pool-in-full-use-public-golf-course-building-will-begin/article71159009.ece",
+          "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
+          "url": "https://www.thehindu.com/news/international/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who/article71158768.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-28T19:54:24.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/h1w7ea/article71159012.ece/alternates/LANDSCAPE_1200/Trump_23447.jpg"
-        },
-        {
-          "title": "Trump rejoices that the ‘reflecting pool is now in full use’ as he goes on walkabout of DC projects",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-reflecting-pool-truth-social-b3004606.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-28T19:31:07.000Z",
-          "image": "https://static.independent.co.uk/2026/06/28/20/2283215860..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Trump says reflecting pool \"in full use,\" public golf course building will begin",
-          "url": "https://www.investing.com/news/politics-news/trump-says-reflecting-pool-in-full-use-public-golf-course-building-will-begin-4764160",
-          "source": "All News",
-          "published_at": "2026-06-28T17:00:29.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5R0LS_L.jpg"
+          "published_at": "2026-06-28T18:16:27.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/z1url7/article71158940.ece/alternates/LANDSCAPE_1200/2026-06-28T145038Z_73066879_RC213MAJA5Q7_RTRMADP_3_EUROPE-WEATHER-POLAND.JPG",
+          "description": "At least 191 million people are forecast to endure temperatures of at least 35℃ on June 28, in Europe, with the heat particularly intense in Germany, the Czech Republic, Hungary and Poland, according to AFP estimates"
         }
-      ]
+      ],
+      "summary": "Public Health France reported around 1,000 more deaths than expected during a record-breaking heatwave. The agency said most of the excess deaths were among people aged 75 and older."
     },
     {
-      "id": "topic_97af052eeb207815",
+      "id": "topic_11469c7b5da6f49e",
+      "title": "Helicopter Crash in Saudi Arabia Kills 14",
+      "headline": "Saudi Aramco helicopter crash kills 14",
       "label": [
-        "rescue effort",
-        "effort",
-        "rescue",
-        "venezuela earthquak",
-        "venezuela",
-        "earthquak"
+        "helicopter",
+        "saudi",
+        "crash",
+        "aramco",
+        "kills",
+        "arabia"
       ],
       "category": "new",
-      "theme": "theme_d2b64739a96f04e8",
+      "theme": "theme_16ce56c7879f28a6",
       "entities": [
-        "Rescue",
-        "Venezuela",
-        "Several",
-        "Drone"
+        "Saudi Aramco",
+        "Aramco",
+        "Saudi Arabia",
+        "Killed As Saudi Aramco",
+        "Helicopter Crashes At Ras"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 25,
+      "source_count": 22,
       "articles": [
         {
-          "title": "Rescue efforts continue for the almost 70,000 people reported missing after Venezuela earthquakes",
-          "url": "https://www.brisbanetimes.com.au/world/rescue-efforts-continue-for-the-almost-70-000-people-reported-missing-after-venezuela-earthquakes-20260629-p60atm.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-28T22:39:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7fd151c64cc10d92f5ace9a5d26939ba7ba6b0e6"
+          "title": "Saudi Aramco helicopter crash kills 14",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3358664/saudi-aramco-helicopter-crash-kills-14",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-28T12:19:25.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/6df1954d-9f02-4b28-b2e5-f38b1e0ac8e7_7973257d.jpg?itok=TNTbwRRL&v=1782649155",
+          "description": "A ⁠helicopter belonging ⁠to Saudi ⁠oil giant Aramco crashed on Sunday in Ras Tanura on Saudi Arabia’s eastern coast west ‌of the Strait of Hormuz, killing 14 nationals, the state news agency reported, adding that the cause was unknown. Aramco had resumed crude ⁠oil loadings on Friday at its ‌Ras Ta…"
         },
         {
-          "title": "Rescue efforts continue for the almost 70,000 people reported missing after Venezuela earthquakes",
-          "url": "https://www.smh.com.au/world/rescue-efforts-continue-for-the-almost-70-000-people-reported-missing-after-venezuela-earthquakes-20260629-p60atm.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-28T22:39:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7fd151c64cc10d92f5ace9a5d26939ba7ba6b0e6"
+          "title": "Saudi Aramco helicopter crash kills 14 people",
+          "url": "https://tass.com/emergencies/2152621",
+          "source": "TASS",
+          "published_at": "2026-06-28T12:12:00.000Z",
+          "description": "An investigation has been launched to determine the cause of the crash"
         },
         {
-          "title": "Rescue efforts continue for the almost 70,000 people reported missing after Venezuela earthquakes",
-          "url": "https://www.theage.com.au/world/rescue-efforts-continue-for-the-almost-70-000-people-reported-missing-after-venezuela-earthquakes-20260629-p60atm.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-28T22:39:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7fd151c64cc10d92f5ace9a5d26939ba7ba6b0e6"
+          "title": "Aramco helicopter crash kills 14 in Saudi Arabia",
+          "url": "https://tribune.com.pk/story/2615516/aramco-helicopter-crash-kills-14-in-saudi-arabia",
+          "source": "express tribune",
+          "published_at": "2026-06-28T16:04:28.000Z",
+          "description": "."
         },
         {
-          "title": "Several countries pitch in with rescue efforts in Venezuela",
-          "url": "https://www.youtube.com/shorts/ku2k0eYwozE",
-          "source": "CNN",
-          "published_at": "2026-06-28T22:38:53.000Z",
-          "image": "https://i4.ytimg.com/vi/ku2k0eYwozE/hqdefault.jpg"
+          "title": "Saudi Aramco helicopter crash kills 14: officials",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/saudi-aramco-helicopter-crash-kills-14-officials-c-22498946",
+          "source": "PerthNow",
+          "published_at": "2026-06-28T14:41:46.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22498946/5aa74896f141f80ff50edad4fda111d77210befd-16x9-x0y0w1280h720.jpg",
+          "description": "A helicopter crash in Saudi Arabia has killed all 14 people on board, officials at the Saudi Ministry of Energy say."
         },
         {
-          "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes",
+          "title": "14 Killed As Saudi Aramco Helicopter Crashes At Ras Tanura",
+          "url": "https://www.freepressjournal.in/world/14-killed-as-saudi-aramco-helicopter-crashes-at-ras-tanura",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-28T14:32:54.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-06-28/i4eznsbe/HL6DLPWWsAAVL1Y.jpg"
+        }
+      ],
+      "summary": "A helicopter belonging to Saudi oil company Aramco crashed in Ras Tanura, killing all 14 people on board, officials said. An investigation into the cause was launched."
+    },
+    {
+      "id": "topic_51beba6e1b99d798",
+      "title": "Canada Beats South Africa to Reach World Cup Last 16",
+      "headline": "South Africa vs Canada LIVE: FIFA World Cup 2026",
+      "label": [
+        "africa",
+        "south",
+        "canada",
+        "cup",
+        "world",
+        "vs"
+      ],
+      "category": "new",
+      "theme": "theme_2e54fc61b5d44a56",
+      "entities": [
+        "South Africa",
+        "Canada LIVE",
+        "FIFA World Cup",
+        "FIFA World Cup Round",
+        "Canada"
+      ],
+      "article_count": 31,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-28T16:38:04.000Z"
+          "published_at": "2026-06-28T15:51:20.000Z",
+          "description": "Live updates, analyses and text commentary as South Africa face cohosts Canada in first knockout match in Los Angeles."
+        },
+        {
+          "title": "LIVE | FIFA World Cup Round of 32: South Africa vs Canada",
+          "url": "https://www.thesouthafrican.com/sport/soccer/soccer-world-cup/live-fifa-world-cup-round-of-32-south-africa-vs-canada-date-time-result-score-prediction",
+          "source": "The South African",
+          "published_at": "2026-06-28T11:41:40.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/06/Hugo-Broos-4.jpg",
+          "description": "Canada and South Africa will both make World Cup history when they meet in the opening game of the knockout round on Sunday, 28 June."
+        },
+        {
+          "title": "South Africa v Canada: World Cup 2026 last 32 – live",
+          "url": "https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live",
+          "source": "The Guardian",
+          "published_at": "2026-06-28T17:00:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/3aa6857aea5fca96ee96203b95eaa670fd1b2313/425_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=006463a443269cf2d5da0895e125dbcd",
+          "description": "⚽️ Kick-off: 8pm BST/3pm EDT/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Being a footballer is the greatest thing in the world, right? We all spend our lives doing something, and how wonderful it must be for that something to be something we love, surfing extremes of emotion…"
+        },
+        {
+          "title": "Men’s World Cup Round of 32 — South Africa vs. Canada",
+          "url": "https://sports.yahoo.com/articles/men-world-cup-round-32-163000713.html",
+          "published_at": "2026-06-28T16:30:00.000Z",
+          "description": "Will FC Bayern star Alphonso Davies finally take the field for the Canadian MNT?"
+        },
+        {
+          "title": "World Cup 2026 Canada Beat South Africa to Reach Last 16",
+          "url": "https://www.riotimesonline.com/world-cup-2026-canada-south-africa-1-0",
+          "source": "The Rio Times",
+          "published_at": "2026-06-28T22:04:24.000Z",
+          "description": "CANADA · WORLD CUP Key Facts —World Cup 2026 Canada: Canada beat South Africa one-nil at Los Angeles Stadium to open the round of thirty-two. —Late winner: Stephen Eustaquio struck in the second minute of stoppage time in front of a crowd of 69,237. —History made: The co-hosts reach a World Cup las…"
         }
-      ]
+      ],
+      "summary": "Canada defeated South Africa 1-0 in the World Cup’s opening knockout-round match in Los Angeles. Stephen Eustaquio scored the late winner."
     },
     {
-      "id": "topic_f44f0908b46bbd3",
+      "id": "topic_28471a266a9c379e",
+      "title": "Ben Stokes Announces Retirement from International Cricket",
+      "headline": "England captain Ben Stokes to retire from international cricket",
       "label": [
-        "shelter",
-        "california kill",
-        "kill shelter",
-        "dogs",
-        "dead dogs",
-        "horrific"
+        "stokes",
+        "ben",
+        "cricket",
+        "captain",
+        "international",
+        "retirement"
       ],
       "category": "new",
-      "theme": "theme_ac1e0ad6d8b6b099",
+      "theme": "theme_3dffdc52c3fb7eee",
       "entities": [
-        "Remains",
-        "California",
-        "CNN",
-        "Horrific"
+        "England",
+        "Ben Stokes",
+        "England Test",
+        "Shocking",
+        "Ben Stokes Announces Retirement"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 21,
+      "source_count": 18,
       "articles": [
         {
-          "title": "Remains of at least 117 dogs found at California 'no-kill' shelter as investigators uncover suspected burial site and 600 collars",
-          "url": "https://www.dailymail.com/news/article-15937001/remains-117-dogs-california-no-kill-shelter-investigators-uncover-suspected-burial-site-600-collars.html",
-          "source": "News | Mail Online",
-          "published_at": "2026-06-28T23:46:20.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/29/00/109660025-0-image-a-11_1782688289700.jpg"
+          "title": "England captain Ben Stokes to retire from international cricket",
+          "url": "https://www.the42.ie/england-captain-ben-stokes-to-retire-from-international-cricket-7084207-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-28T15:33:22.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/06/englands-ben-stokes-leaves-the-field-for-tea-on-day-four-of-the-third-rothesay-test-at-trent-bridge-cricket-ground-nottingham-ben-stokes-will-retire-as-england-test-captain-and-from-international-c-8d8da389-3fd5-47f3-bade-4f49534276c4-630x419.jpg",
+          "description": "As news spread of the 35-year-old all-rounder’s decision, he received a standing ovation from the crowd at Trent Bridge."
         },
+        {
+          "title": "England captain Ben Stokes announces shock retirement from international cricket",
+          "url": "https://sports.yahoo.com/articles/england-captain-ben-stokes-announces-142441417.html",
+          "published_at": "2026-06-28T14:24:41.000Z",
+          "description": "Stokes will walk away from international duty after the current Test match with New Zealand at Trent Bridge, bringing to an end one of the great England careers"
+        },
+        {
+          "title": "England captain Ben Stokes announces retirement",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cq51yee3p2go",
+          "source": "BBC Sport",
+          "published_at": "2026-06-28T14:43:15.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dba/live/83158000-72fe-11f1-8b3a-1977d6dee6ef.jpg",
+          "description": "England captain Ben Stokes announces his retirement from international cricket during the ongoing third Test against New Zealand."
+        },
+        {
+          "title": "Ben Stokes announces retirement from international cricket",
+          "url": "https://www.wisden.com/cricket-news/ben-stokes-retirement-international-cricket",
+          "source": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
+          "published_at": "2026-06-28T14:58:00.000Z",
+          "image": "https://www.wisden.com/static-assets/waf-images/ae/98/bc/0/dFxkJh2We2.png",
+          "description": "Ben Stokes has announced his retirement from international cricket at the end of England's third Test against New Zealand at Trent Bridge."
+        },
+        {
+          "title": "England Test captain Ben Stokes announces international retirement",
+          "url": "https://www.theguardian.com/sport/2026/jun/28/england-test-captain-ben-stokes-announces-international-retirement-cricket",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-06-28T14:37:34.000Z",
+          "image": "https://i.guim.co.uk/img/media/1b2474c965d224e719072750193398d54fed8756/173_0_2905_2324/master/2905.jpg?width=140&quality=85&auto=format&fit=max&s=087043e9f9a5c125ce333e639375d7f6",
+          "description": "All-rounder takes wicket just after news breaks Trent Bridge crowd gives captain standing ovation The England Test captain, Ben Stokes, has announced his retirement from international cricket. Stokes issued a statement shortly before tea on day four of the decisive third Test against New Zealand, h…"
+        }
+      ],
+      "summary": "England captain Ben Stokes announced he will retire from international cricket after the ongoing Test against New Zealand at Trent Bridge. The crowd gave him a standing ovation."
+    },
+    {
+      "id": "topic_ff8d2be2a83022ad",
+      "title": "Three Firefighters Killed in Colorado-Utah Border Wildfires",
+      "headline": "Three firefighters killed tackling wildfires on Colorado-Utah border",
+      "label": [
+        "firefighters",
+        "utah",
+        "colorado",
+        "wildfires",
+        "border",
+        "killed"
+      ],
+      "category": "new",
+      "theme": "theme_2bb8a02f24232764",
+      "entities": [
+        "Three",
+        "Colorado",
+        "Utah",
+        "US",
+        "AP News"
+      ],
+      "article_count": 19,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Three firefighters killed tackling wildfires on Colorado-Utah border",
+          "url": "https://www.breakingnews.ie/world/three-firefighters-killed-tackling-wildfires-on-colorado-utah-border-1919624.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjgxOTU3MjJcXFwvOThiODUxOTZlNTQzNDMwN2JmOTE2ODk4YzhlNDQ0ZDAtMS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNDg3ZWMwM2QzYjA0ODZiNWM1Y2FmMDA3YTg0ZTMzZjdhOWU5MDE2In0=/98b85196e5434307bf916898c8e444d0-1.jpg",
+          "description": "Wildfire activity has intensified across the western United States."
+        },
+        {
+          "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
+          "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-28T15:16:10.000Z",
+          "description": "The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes."
+        },
+        {
+          "title": "Three firefighters killed while tackling major wildfires along Colorado-Utah border",
+          "url": "https://www.independent.co.uk/news/world/americas/colorado-utah-wildfires-cottonwood-ouray-b3004560.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-28T15:43:10.000Z",
+          "image": "https://static.independent.co.uk/2026/06/28/04/Western_Wildfires_2_896.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Governor Spencer Cox thanked crews for what he called ‘several miraculous stops and saves’"
+        },
+        {
+          "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxnwe1lmnb3a0fpeutod0p3b0vnyvnhwgg3zxl3rvp1atjvcvzadufhzfrzwf9fwnpnanduyvz6oes2cve2t05ar2pnrjlpv0fdenlpwhpllumwns1ma3rfudlqdvlmcmtpulownkg5zkz2nmktufvtmdjvx0ntr2ptumhzoudmsut1u2j3tmn2su5zy3pnqjczbwfr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-28T09:23:00.000Z",
+          "description": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border AP News Governor declares disaster emergency for fast-growing western Colorado wildfire KUSA.com Two wildfires break out near Utah-Colorado border, more across the Western Slope CBS News 3 firefighters killed, 2 i…"
+        },
+        {
+          "title": "Three firefighters killed, 2 injured in Snyder wildfire on Utah-Colorado border",
+          "url": "https://www.investing.com/news/world-news/three-firefighters-killed-2-injured-in-snyder-wildfire-on-utahcolorado-border-4764086",
+          "source": "All News",
+          "published_at": "2026-06-28T08:42:07.000Z",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg"
+        }
+      ],
+      "summary": "Three firefighters were killed and two injured while tackling wildfires near the Colorado-Utah border. The blazes have intensified across the western United States."
+    },
+    {
+      "id": "topic_7425dbbfafe04006",
+      "title": "Iran Strikes Bahrain and Kuwait After US Attacks",
+      "headline": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks",
+      "label": [
+        "bahrain",
+        "kuwait",
+        "strikes",
+        "iran",
+        "attacks",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_cb585420482545d6",
+      "entities": [
+        "Iran",
+        "Bahrain",
+        "Kuwait",
+        "US",
+        "AP News"
+      ],
+      "article_count": 17,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks",
+          "url": "https://www.breakingnews.ie/world/iran-attacks-bahrain-and-kuwait-following-us-strikes-and-threatens-to-halt-talks-1919592.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjgxNjE5MDBcXFwvYWE0M2E1MTc2MzI4NGU2Yjk4OGRmNWRhY2IwNTkyMmQtNC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNjEwZDI3MTc2NWRhYjRjNzVhNTkwYTRhNDFmNjMyODhiYjFiNTJlIn0=/aa43a51763284e6b988df5dacb05922d-4.jpg",
+          "description": "The Kuwaiti military said air defences intercepted incoming Iranian drones and missiles on Sunday morning, just after the US strikes"
+        },
+        {
+          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxqcdbtqkfebzlzv3fguxhbeks0wm5cv2riu0j4afcwtl9jrfrnehrnbkxzvezna3znstcws1fdzm5pm3rdbvjumfc0bwrwr1hhslzfvglmskdvoc1gcnlluwpubjq0aflmywn3x0gtdvbuwhzyshnkr3bkeljtduz1dupntwvubu1bowowd1n3ae1kcke1uklya1hun25iluxym2q5n0jtcvy",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-28T07:30:00.000Z",
+          "description": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war AP News Live updates: Gulf nations under fire again as US-Iran exchanges escalate CNN U.S. military says it hit multiple Iran targets on Trump’s orders after ship attack 13wham.com U.S. crude oil falls b…"
+        },
+        {
+          "title": "Iran attacks Bahrain and Kuwait following US strikes, threatens to end talks to end the war",
+          "url": "https://www.yahoo.com/news/world/articles/ml--iran-us-043209922.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-28T04:32:09.000Z",
+          "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-06/dcd197d0-72b0-11f1-b57e-6e17c4609509"
+        },
+        {
+          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war (Associated Press)",
+          "url": "https://www.memeorandum.com/260628/p7",
+          "source": "memeorandum",
+          "published_at": "2026-06-28T12:05:00.000Z",
+          "image": "http://www.memeorandum.com/260628/i7.jpg",
+          "description": "Associated Press: Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war — Iran launched drone and missile attacks Sunday targeting Bahrain and Kuwait in response to U.S. airstrikes that hit the Islamic Republic, and threatened a “complete halt” in negotiati…"
+        },
+        {
+          "title": "Iran hits Bahrain, Kuwait after US strikes, threatens ceasefire talks",
+          "url": "https://www.indiatoday.in/world/story/iran-bahrain-kuwait-attacks-us-strikes-strait-of-hormuz-tensions-ptag-2935941-2026-06-28",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-28T07:52:32.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-2-original_114-sixteen_nine.png?VersionId=WiCBy2oQ065r3XZImVplhtFGeq3XjHfA",
+          "description": "Iran hits Bahrain Kuwait after US strikes threatens ceasefire talks"
+        }
+      ],
+      "summary": "Iran launched drone and missile attacks targeting Bahrain and Kuwait after US strikes on Iran. Tehran threatened to halt negotiations, while Kuwait said its air defences intercepted incoming weapons."
+    },
+    {
+      "id": "topic_3145d526955e9b20",
+      "title": "Rescuers Search for Thousands Missing After Venezuela Earthquakes",
+      "headline": "33 rescued, thousands still missing after Venezuela earthquakes",
+      "label": [
+        "missing",
+        "venezuela",
+        "still",
+        "thousands",
+        "earthquakes",
+        "rescued"
+      ],
+      "category": "new",
+      "theme": "theme_2f84bb1501fba614",
+      "entities": [
+        "Venezuela",
+        "Thirty",
+        "Reuters",
+        "Nearly",
+        "Still Reported Missing After"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "33 rescued, thousands still missing after Venezuela earthquakes",
+          "url": "https://www.gmanetwork.com/news/topstories/world/993008/33-rescued-thousands-still-missing-after-venezuela-earthquakes/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-28T15:24:39.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/2026-06-28T144856Z_1553254188_RC2U1MAXGU14_RTRMADP_3_VENEZUELA-QUAKE_2026_06_28_23_18_07.JPG",
+          "description": "Thirty-three people have been rescued so far this weekend after Venezuela's devastating twin earthquakes, including a baby, while tens of thousands remained unaccounted for."
+        },
+        {
+          "title": "Thirty-three people rescued, thousands still missing after Venezuela quakes",
+          "url": "https://www.investing.com/news/world-news/thirtythree-people-rescued-thousands-still-missing-after-venezuela-quakes-4764150",
+          "source": "All News",
+          "published_at": "2026-06-28T13:18:35.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5R0FM_L.jpg"
+        },
+        {
+          "title": "Thirty-three people rescued, thousands still missing after Venezuela quakes",
+          "url": "https://news.google.com/rss/articles/cbmiywfbvv95cuxobmhjqm00wwheajdatjrpwmrdwdvtchhevu1tqvbwvxrerjnpbuzkbvlydthpuglxuxrivxbamkvjvup2rgvxqug4rhdqci1ystfxamtkvfyznlqtumqwturqdgdvx09tb2p0cvgwzjm3yjrmauewekjivgjyr0rxc1nwq0pxtmv3vmtfdc05eetnwwhic1e1qjbnr1vtblvrzkxfqjlxdv91vjgwlvvdtg1lnkrdunnnewfsx2nvzlfxn05nynn2bty3wq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-28T15:19:56.000Z",
+          "description": "Thirty-three people rescued, thousands still missing after Venezuela quakes Reuters A Rush of Volunteers in Venezuela Has Slowed Rescue Efforts The New York Times Satellite images show scale of destruction in Venezuela earthquakes Al Jazeera These homes rose out of Venezuela’s socialist revolution.…"
+        },
+        {
+          "title": "More than 68,000 people still missing in Venezuela after devastating earthquakes",
+          "url": "http://www.euronews.com/2026/06/28/more-than-68000-people-still-missing-in-venezuela-after-devastating-earthquakes",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-06-28T08:46:24.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/81/62/75/696x392_cmsv2_6f33275e-073f-5e85-bcc0-ce1510a1771e-9816275.jpg",
+          "description": "A preliminary estimate from the United Nations Development Programme put the cost of direct physical damage caused by the quakes at $6.7 billion."
+        },
+        {
+          "title": "1,400 dead, 50,000 missing in Venezuela",
+          "url": "https://www.manilatimes.net/2026/06/29/news/national/1400-dead-50000-missing-in-venezuela/2374395",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-06-28T16:16:00.000Z",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/28/1116738.jpg",
+          "description": "LA GUAIRA, Venezuela — Rescue crews raced Saturday to find survivors in the rubble of Venezuela’s powerful earthquakes as the death toll reached 1,430 and hopes dwindled more than three days after the earth roared and rumbled. Tens of thousands of people were reported missing as collapsed buildings…"
+        }
+      ],
+      "summary": "Rescue teams have pulled survivors from the rubble after devastating earthquakes in Venezuela, while thousands remain missing. Reports cite sharply differing casualty and missing-person estimates."
+    },
+    {
+      "id": "topic_f8d6e7d8291e2003",
+      "title": "Colombia Tops World Cup Group After Draw with Portugal",
+      "headline": "World Cup: Colombia wins Group K after 0-0 draw with Portugal",
+      "label": [
+        "colombia",
+        "draw",
+        "portugal",
+        "group",
+        "cup",
+        "world"
+      ],
+      "category": "new",
+      "theme": "theme_959de37b6a768037",
+      "entities": [
+        "World Cup",
+        "Colombia",
+        "Group",
+        "Portugal",
+        "FIFA World Cup"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "World Cup: Colombia wins Group K after 0-0 draw with Portugal",
+          "url": "https://sports.inquirer.net/683841/world-cup-colombia-wins-group-k-after-0-0-draw-with-portugal",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-28T07:38:24.000Z",
+          "image": "https://sports.inquirer.net/files/2026/06/AP26179056989495-620x413.jpg",
+          "description": "MIAMI GARDENS, Florida — Colombia’s plan was nearly perfectly executed. The only thing missing was a goal. Didn’t matter — it goes into the knockout stage as a group winner. Colombia finished the World Cup’s opening round as the Group K winner after playing Portugal to a scoreless draw Saturday nig…"
+        },
+        {
+          "title": "FIFA World Cup 2026: Colombia wins Group K after 0-0 draw with Portugal",
+          "url": "https://www.thehindu.com/sport/football/fifa-world-cup/colombia-wins-group-k-after-draw-with-portugal/article71156926.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-28T02:47:57.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/lbrm47/article71156931.ece/alternates/LANDSCAPE_1200/2026-06-28T001939Z_532023751_UP1EM6S00WQWY_RTRMADP_3_SOCCER-WORLDCUP-COL-POR.JPG",
+          "description": "Both squads had already secured spots in the knockout stage before the match, needing only to learn their opponents for the next round"
+        },
+        {
+          "title": "World Cup 2026 Colombia Draw Portugal 0-0 to Win Group K",
+          "url": "https://www.riotimesonline.com/world-cup-2026-colombia-portugal-0-0",
+          "source": "The Rio Times",
+          "published_at": "2026-06-28T07:17:15.000Z",
+          "description": "World Cup 2026 Colombia drew 0-0 with Portugal in Miami to win Group K, with a late Davinson Sanchez header ruled out for a narrow offside by VAR. The post World Cup 2026 Colombia Draw Portugal 0-0 to Win Group K appeared first on The Rio Times."
+        },
+        {
+          "title": "Colombia top World Cup Group K after scoreless draw with Portugal",
+          "url": "https://www.france24.com/en/sport/20260628-colombia-top-world-cup-group-k-after-scoreless-draw-with-portugal",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-28T01:40:59.000Z",
+          "image": "https://s.france24.com/media/display/11fa0366-7284-11f1-bbd8-005056a97e36/w:1024/p:16x9/2026-06-27T235302Z-1630337896-UP1EM6R1UCCUR-RTRMADP-3-SOCCER-WORLDCUP-COL-POR.jpg",
+          "description": "Portugal and Colombia shared an entertaining 0-0 draw in their final World Cup Group K match on Saturday, sending both teams into the last 32. Colombia finished top of the group, with Portugal second. Colombia dominated early before Portugal responded, with Bruno Fernandes forcing goalkeeper Camilo…"
+        },
+        {
+          "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-28T01:52:39.000Z",
+          "description": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage."
+        }
+      ],
+      "summary": "Colombia and Portugal drew 0-0 in their final Group K match, with Colombia finishing first and Portugal second. Both teams had already secured places in the knockout stage."
+    },
+    {
+      "id": "topic_e35a2ccdf8a119dd",
+      "title": "Mel Brooks Turns 100",
+      "headline": "Mel Brooks, 100 años de risas",
+      "label": [
+        "mel",
+        "brooks",
+        "risas",
+        "thank",
+        "god",
+        "blazing"
+      ],
+      "category": "new",
+      "theme": "theme_d90eed0bbad86969",
+      "entities": [
+        "Mel Brooks",
+        "Thank God",
+        "Still",
+        "Mel Brooks Turns",
+        "See Photos Of Comedy"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Mel Brooks, 100 años de risas",
+          "url": "https://www.elnorte.com/mel-brooks-100-anos-de-risas/ar3230844",
+          "source": "ElNorte",
+          "published_at": "2026-06-28T11:01:12.000Z",
+          "description": "El legendario comediante Mel Brooks, quien supo hacer parodia de todo, llega hoy a un siglo de vida."
+        },
+        {
+          "title": "Thank God for Mel Brooks",
+          "url": "https://www.theatlantic.com/culture/2026/06/long-live-mel-brooks/687730",
+          "source": "The Atlantic",
+          "published_at": "2026-06-28T11:00:00.000Z",
+          "image": "https://cdn.theatlantic.com/thumbor/iV1BsXOniUbUul2q6om-riW8hGE=/0x244:5288x3219/media/img/mt/2026/06/GettyImages_507837999/original.jpg",
+          "description": "If you want to understand Mel Brooks, and I mean really understand him, a good place to start is with Nikolai Gogol’s unfinished masterpiece Dead Souls. This is the 1842 novel that Brooks, at his most sentimental, has returned to again and again and again. If you know even a little bit about Gogol…"
+        },
+        {
+          "title": "Still blazing after all these years: Mel Brooks at 100",
+          "url": "https://www.theguardian.com/film/2026/jun/28/mel-brooks-at-100",
+          "source": "Film | The Guardian",
+          "published_at": "2026-06-28T05:00:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/af1da1e4129b84177a89980a604a48e3eb7c74df/265_0_2651_2121/master/2651.jpg?width=140&quality=85&auto=format&fit=max&s=334aadcb1f0aac8921d08bf08e693192",
+          "description": "The director of The Producers hits his century as a uniquely beloved entertainer who embodies his conviction that ‘comedy is the opposite of death’ Mel Brooks’ story is that of the US and Jews and American Jewish comedy. He was born on the kitchen table of a tenement in Brooklyn a century ago in th…"
+        },
+        {
+          "title": "Mel Brooks Turns 100: See Photos Of Comedy Icon Through His Life And Career",
+          "url": "https://www.forbes.com/sites/timlammers/2026/06/28/mel-brooks-turns-100-see-photos-of-comedy-icon-through-his-life-and-career",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-28T18:49:24.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a415299c303637a7e17ff51/0x0.jpg?width=960&precrop=2433%2C1369%2Cx389%2Cy450",
+          "description": "Mel Brooks, the comedy genius behind such classic films as \"Young Frankenstein,\" \"The Producers,\" \"Spaceballs\" and \"Blazing Saddles,\" turned 100 on Sunday."
+        },
+        {
+          "title": "\"Frühling für Hitler\": Der wütende Jude - Mel Brooks wird 100 und lacht zuletzt",
+          "url": "https://www.n-tv.de/leute/der-wuetende-jude-mel-brooks-wird-100-und-lacht-zuletzt-id31008072.html",
+          "source": "n-tv.de - Startseite",
+          "published_at": "2026-06-28T11:54:44.000Z",
+          "image": "https://www.n-tv.de/img/31008383/1782317728/Img_4_3/250/Bildnummer-53971993-Datum-23-04-2010-Copyright-imago-APress-immer-fuer-einen-Spass-zu-haben-Mel-Brooks-der-Schauspieler-und-Comedian-bei-der-Ehrung-mit-einem-Stern-auf-dem-Walk-of-Fame-am-23-4.jpg",
+          "description": "Mel Brooks kämpfte als Soldat gegen Hitler. Derber Humor gegen braunen Hass: Das wurde für den New Yorker Juden mit deutschen Wurzeln zur Lebensaufgabe und machte ihn offiziell zum Ausnahmekünstler. Der größte Triumph ist aber vielleicht sein 100. Geburtstag."
+        }
+      ],
+      "summary": "Comedian and filmmaker Mel Brooks turned 100. He is known for films including “The Producers,” “Young Frankenstein,” “Blazing Saddles” and “Spaceballs.”"
+    },
+    {
+      "id": "topic_e436781522fb4e7a",
+      "title": "Julia Letlow Wins Louisiana Republican Senate Runoff",
+      "headline": "Rep. Julia Letlow wins Louisiana GOP Senate primary runoff",
+      "label": [
+        "letlow",
+        "louisiana",
+        "julia",
+        "runoff",
+        "wins",
+        "senate"
+      ],
+      "category": "new",
+      "theme": "theme_76ac631cba485ba9",
+      "entities": [
+        "Rep",
+        "Julia Letlow",
+        "Louisiana GOP Senate",
+        "Trump",
+        "Louisiana Senate"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Rep. Julia Letlow wins Louisiana GOP Senate primary runoff",
+          "url": "https://www.ms.now/news/rep-julia-letlow-wins-louisiana-gop-senate-primary-runoff",
+          "source": "MS NOW",
+          "published_at": "2026-06-28T01:51:58.000Z",
+          "description": "President Donald Trump played a key role in the race, by both tanking incumbent Sen. Bill Cassidy’s chance of re-election and endorsing Rep. Julia Letlow. The post Rep. Julia Letlow wins Louisiana GOP Senate primary runoff appeared first on MS NOW."
+        },
+        {
+          "title": "Trump-backed Rep. Julia Letlow wins Louisiana Senate primary runoff",
+          "url": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxqadrhztj2a3zmbe1zuuvwswt4sdznchfhodbymm9foud6m2njtkmtm1jgmljaawv6afvxbu1utwxnvhpln3zwd2tfmjdouwzdchhndkwwue1ccenkctk4advroud4djlkdtjtykh4utvwqlkxu3e2tug0qm5en0zom3fxzgnsd3dwvhrxogtabg03r05iq2nxchu1uejxcfbqqvprbutgq0lvtuziwwxfblfczg40dzhsdtbqmi1qzjh1dw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-28T01:44:00.000Z",
+          "description": "Trump-backed Rep. Julia Letlow wins Louisiana Senate primary runoff NBC News Trump-backed Julia Letlow wins Louisiana GOP Senate runoff, CNN projects, completing president’s revenge plot against Cassidy CNN Louisiana Senate Primary Runoff Election 2026 Live Results NBC News What to Watch in Louisia…"
+        },
+        {
+          "title": "Julia Letlow Wins the Louisiana Runoff",
+          "url": "https://politicalwire.com/2026/06/27/julia-letlow-wins-the-louisiana-runoff",
+          "source": "Political Wire",
+          "published_at": "2026-06-28T01:52:54.000Z",
+          "description": "“Rep. Julia Letlow won Louisiana’s Republican nomination for U.S. Senate on Saturday, delivering another win for the president, who has sought to replace Republicans who cross him with hand-picked loyalists,” the Associated Press reports. “Letlow, who was endorsed by President Donald Trump, defeate…"
+        },
+        {
+          "title": "Trump-backed Julia Letlow wins Louisiana Senate runoff to replace Bill Cassidy",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4626487/julia-letlow-wins-louisiana-senate-runoff",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-28T02:09:12.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-265sujrgq-1782520897718-e1782521082715.jpg?1782506673&w=696",
+          "description": "Rep. Julia Letlow (R-LA) won Saturday’s Louisiana Senate GOP runoff, concluding what has been one of the most contentious Republican primaries of the cycle. Trump-backed Letlow was declared the winner by the Associated Press and led Louisiana Treasurer John Fleming with nearly 45% of the vote to hi…"
+        },
+        {
+          "title": "Trump-Backed Julia Letlow Wins Louisiana GOP Runoff, Enters November as Favorite",
+          "url": "https://internewscast.com/news/us/trump-backed-julia-letlow-wins-louisiana-gop-runoff-enters-november-as-favorite",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-28T08:40:53.000Z",
+          "description": "Internewscast Journal Internewscast Rep. Julia Letlow has captured the Republican runoff in Louisiana, powered by… This Post: Trump-Backed Julia Letlow Wins Louisiana GOP Runoff, Enters November as Favorite first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Representative Julia Letlow won Louisiana’s Republican Senate primary runoff, earning the party’s nomination. President Donald Trump endorsed her in the race against Senator Bill Cassidy."
+    },
+    {
+      "id": "topic_c481f7fa676d8d6c",
+      "title": "At Least 117 Dead Dogs Found at California Animal Shelter",
+      "headline": "At least 117 dead dogs found in ‘horrific scene’ at California ‘no-kill’ shelter",
+      "label": [
+        "dogs",
+        "california",
+        "dead",
+        "shelter",
+        "found",
+        "kill"
+      ],
+      "category": "new",
+      "theme": "theme_71b1430a4738d095",
+      "entities": [
+        "California",
+        "Horrific",
+        "CNN",
+        "BBC",
+        "Remains"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
         {
           "title": "At least 117 dead dogs found in ‘horrific scene’ at California ‘no-kill’ shelter",
           "url": "https://www.yahoo.com/news/us/articles/least-117-dead-dogs-found-184304075.html",
@@ -211,650 +677,102 @@
           "image": "https://media.zenfs.com/en/cnn_articles_875/1d47aca761f3a385da8fe1654165f187"
         },
         {
-          "title": "Over 100 dead dogs with gunshot wounds unearthed in ‘horrific scene’ at California ‘no-kill’ shelter",
-          "url": "https://www.independent.co.uk/news/world/americas/california-mirandas-rescue-dog-bodies-b3004604.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-28T19:22:28.000Z",
-          "image": "https://static.independent.co.uk/2026/06/28/19/California_Animal_Rescue_Investigation_22983.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "At least 117 dead dogs found in ‘horrific scene’ at California ‘no-kill’ shelter - CNN",
-          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxte9bq2jwvdnwouffoufkukjtc0p2u1hzuflcv3vstkotmenjwxjntmy0ztu5ag5ky0fpt0y4dkdhbnrisu45nlpvnhpqejk4v2j1zjjlamvknuler3awztzmvgc4y3jjn2vbvmvgn3hcr08wquhuc0e",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-28T18:43:04.000Z"
-        },
-        {
           "title": "'Horrific': At least 117 dead dogs found at California 'no-kill' shelter",
           "url": "https://abcnews.com/us/wirestory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
           "source": "ABC News: Top Stories",
           "published_at": "2026-06-28T16:46:33.000Z",
-          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_2f5f6dcccc88d4ee",
-      "label": [
-        "threaten halt",
-        "halt talk",
-        "attack bahrain",
-        "bahrain kuwait",
-        "us strik",
-        "attack"
-      ],
-      "category": "new",
-      "theme": "theme_c2a0e055204cad2",
-      "entities": [
-        "Iran",
-        "Bahrain",
-        "Kuwait",
-        "US",
-        "Renewed Iranian"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
-          "url": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-28T22:47:20.000Z",
-          "image": "https://s.france24.com/media/display/ffe10272-5f07-11f1-9fd4-005056bf30b7/w:1024/p:16x9/AP26084275139298.jpg"
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+          "description": "Many of the dead dogs had gunshot wounds, authorities said."
         },
         {
-          "title": "Renewed Iranian attacks following U.S. strikes threaten to halt talks",
-          "url": "https://www.ms.now/news/renewed-iranian-attacks-following-u-s-strikes-threatens-to-halt-talks",
-          "source": "MS NOW",
-          "published_at": "2026-06-28T21:26:06.000Z"
+          "title": "At least 117 dead dogs found in ‘horrific scene’ at California ‘no-kill’ shelter",
+          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxte9bq2jwvdnwouffoufkukjtc0p2u1hzuflcv3vstkotmenjwxjntmy0ztu5ag5ky0fpt0y4dkdhbnrisu45nlpvnhpqejk4v2j1zjjlamvknuler3awztzmvgc4y3jjn2vbvmvgn3hcr08wquhuc0e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-28T18:43:04.000Z",
+          "description": "At least 117 dead dogs found in ‘horrific scene’ at California ‘no-kill’ shelter CNN 117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds BBC FBI exhumes dead animals at NorCal rescue, hundreds more feared missing SFGATE Mass graves with remains of over 100 dogs foun…"
         },
         {
-          "title": "Iran attacks Bahrain, Kuwait after US strikes as Hormuz tensions rise",
-          "url": "https://www.indiatoday.in/world/story/iran-attacks-bahrain-kuwait-after-us-airstrikes-hormuz-talks-risk-ptag-2936270-2026-06-29",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-28T19:18:27.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-2-original_120-sixteen_nine.png?VersionId=OZn1xHMpYqjU8AWpqa30jm2gLOyGjX6V"
-        },
-        {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks",
-          "url": "https://www.breakingnews.ie/world/iran-attacks-bahrain-and-kuwait-following-us-strikes-and-threatens-to-halt-talks-1919592.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjgxNjE5MDBcXFwvYWE0M2E1MTc2MzI4NGU2Yjk4OGRmNWRhY2IwNTkyMmQtNC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNjEwZDI3MTc2NWRhYjRjNzVhNTkwYTRhNDFmNjMyODhiYjFiNTJlIn0=/aa43a51763284e6b988df5dacb05922d-4.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_93af43e69e69a279",
-      "label": [
-        "wildfir",
-        "three firefighter",
-        "firefighter",
-        "firefighter kill",
-        "three",
-        "utah"
-      ],
-      "category": "new",
-      "theme": "theme_e963bd35a45ecb25",
-      "entities": [
-        "Three",
-        "US",
-        "Colorado",
-        "Utah"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Three firefighters killed in raging US wildfires",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/three-firefighters-killed-in-raging-us-wildfires-c-22499930",
-          "source": "PerthNow",
-          "published_at": "2026-06-28T22:49:07.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22499930/5adb3ca2a753f155cd0e49e09d8148453d9e4272-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Three firefighters killed tackling wildfires on Colorado-Utah border",
-          "url": "https://www.breakingnews.ie/world/three-firefighters-killed-tackling-wildfires-on-colorado-utah-border-1919624.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjgxOTU3MjJcXFwvOThiODUxOTZlNTQzNDMwN2JmOTE2ODk4YzhlNDQ0ZDAtMS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNDg3ZWMwM2QzYjA0ODZiNWM1Y2FmMDA3YTg0ZTMzZjdhOWU5MDE2In0=/98b85196e5434307bf916898c8e444d0-1.jpg"
-        },
-        {
-          "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
-          "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-28T16:43:26.000Z",
-          "image": "https://i.guim.co.uk/img/media/9941a23800be683f023c574fbc3e069e9909c0f5/103_0_1570_1256/master/1570.jpg?width=140&quality=85&auto=format&fit=max&s=6dbf4941ec74d68a2f793a8df4dcbf10"
-        },
-        {
-          "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-          "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo",
+          "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo",
           "source": "BBC News",
-          "published_at": "2026-06-28T16:33:50.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_60bd758ce6db720c",
-      "label": [
-        "hockey",
-        "pro league",
-        "berliner",
-        "quartett",
-        "vertritt",
-        "berliner quartett"
-      ],
-      "category": "new",
-      "theme": "theme_6b3a1a64e85c864",
-      "entities": [
-        "Indian Men",
-        "Hockey Team Prevails",
-        "Over England In Shoot",
-        "Out After Goalless Draw",
-        "In FIH Pro League"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Indian Men’s Hockey Team Prevails 3-2 Over England In Shoot-Out After Goalless Draw In FIH Pro League Reverse Fixture",
-          "url": "https://www.freepressjournal.in/sports/indian-mens-hockey-team-prevails-3-2-over-england-in-shoot-out-after-goalless-draw-in-fih-pro-league-reverse-fixture",
-          "source": "Free Press Journal",
-          "published_at": "2026-06-28T19:08:50.000Z",
-          "image": "https://media.assettype.com/freepressjournal/2026-06-28/kg36eyvx/Untitled-design-19.png"
+          "published_at": "2026-06-28T00:06:19.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg",
+          "description": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds."
         },
         {
-          "title": "„Sehr emotional für mich“: Berliner Quartett vertritt Hockey-Deutschland",
-          "url": "https://www.morgenpost.de/sport/article412421098/sehr-emotional-fuer-mich-berliner-quartett-vertritt-hockey-deutschland.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-06-28T17:47:03.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412421097/412421097_1782668826_v16_9_600.jpeg"
-        },
-        {
-          "title": "FIH Pro League in Berlin: Berliner Quartett vertritt Hockey-Deutschland bei Pro League",
-          "url": "https://www.zeit.de/news/2026-06/28/berliner-quartett-vertritt-hockey-deutschland-bei-pro-league",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-06-28T16:35:44.000Z",
-          "image": "https://img.zeit.de/news/2026-06/28/berliner-quartett-vertritt-hockey-deutschland-bei-pro-league-image-group/original__640x360"
-        }
-      ]
-    },
-    {
-      "id": "topic_ef4f921b889b8b53",
-      "label": [
-        "jackson final",
-        "alan",
-        "alan jackson",
-        "jackson",
-        "final",
-        "final concert"
-      ],
-      "category": "new",
-      "theme": "theme_863df311e8fae560",
-      "entities": [
-        "Alan Jackson",
-        "Final Concert Setlist",
-        "Every Song He Played",
-        "The Finale",
-        "Show"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Alan Jackson’s Final Concert Setlist: Every Song He Played at ‘The Finale’ Show in Nashville",
-          "url": "https://www.billboard.com/lists/alan-jackson-final-concert-setlist-2026-songs",
-          "source": "Billboard",
-          "published_at": "2026-06-28T22:00:50.000Z"
-        },
-        {
-          "title": "Taylor Swift Gets Mixed Boos, Cheers at Alan Jackson's Final Concert in Nashville - Yahoo",
-          "url": "https://news.google.com/rss/articles/cbmi3gfbvv95cuxnbnotavj4rm9vrmhoql9nynvwqxktcdvmcwfvyvk3yziydg1cthf3x1zwdjhsnudcvww5uknwwmtnunn6ac1xuwd6m3mynf9tzuw1rxz4ddrpt1hvskt6cki0me5my284sllnzkdxcwtumwlzvkxqugxnnhlbzkthuwqxzdq0dnnazzhuyjgxug1gclllmfrwzuttzutiakhrbgzcmxvknwqtzwnnmwn0cnhjbmlzmejiv3q0cc00qxcta3dyx3b1z3hkrvhscwlsmdvuqxznrezmohrpwwc",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-28T19:30:05.000Z"
-        },
-        {
-          "title": "Taylor Swift’s Heartfelt Message to Alan Jackson at His Final Show Draws Mixed Reaction",
-          "url": "https://www.rollingstone.com/music/music-country/taylor-swift-alan-jackson-message-final-show-boos-1235585686",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-28T16:32:10.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_8cdeee8cee857426",
-      "label": [
-        "katy",
-        "katy perry",
-        "perry",
-        "weather",
-        "cancel",
-        "set"
-      ],
-      "category": "new",
-      "theme": "theme_c5d7ee2c29a7f3c3",
-      "entities": [
-        "Katy Perry",
-        "Belgium",
-        "Katy Perry Forced",
-        "Cancel Belgian Fest Set",
-        "Inclement Weather"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Katy Perry forced to cancel Belgium festival set hours before taking the stage due to severe weather",
-          "url": "https://www.foxnews.com/entertainment/katy-perry-forced-cancel-belgium-festival-set-hours-taking-stage-due-severe-weather",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-28T22:25:05.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/524/katy-perry-jingle-ball-fox-news-001.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "Katy Perry Forced to Cancel Belgian Fest Set Over ‘Inclement Weather’: ‘Beyond My Control’",
-          "url": "https://www.rollingstone.com/music/music-news/katy-perry-belgium-fest-set-canceled-inclement-weather-1235585701",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-28T18:12:17.000Z"
-        },
-        {
-          "title": "Katy Perry’s Belgian Music Fest Set Canceled Over “Inclement Weather”: “They Gave Me No Choice”",
-          "url": "https://deadline.com/2026/06/katy-perry-belgian-set-canceled-inclement-weather-1236969186",
-          "source": "Deadline",
-          "published_at": "2026-06-28T16:30:41.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2281452286.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_725bfa976e33615b",
-      "label": [
-        "knockout stage",
-        "stage",
-        "knockout",
-        "cup knockout",
-        "world cup",
-        "cup"
-      ],
-      "category": "new",
-      "theme": "theme_491ff50ca24c7787",
-      "entities": [
-        "Inside",
-        "World Cup",
-        "Top",
-        "Round",
-        "Arsenal"
-      ],
-      "article_count": 9,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Inside the World Cup knockout stage bracket: Some teams have an easier path than others",
-          "url": "https://japantoday.com/category/2026-fifa-world-cup/inside-the-world-cup-knockout-stage-bracket-some-teams-have-an-easier-path-than-others",
-          "source": "Japan Today",
-          "published_at": "2026-06-28T21:14:31.000Z"
-        },
-        {
-          "title": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-top-matches-to-watch-in-the-round-of-32-knockout-stage",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-28T19:48:40.000Z"
-        },
-        {
-          "title": "Where to watch all 15 Arsenal stars in the World Cup knockout stage",
-          "url": "https://sports.yahoo.com/articles/where-watch-15-arsenal-stars-163000872.html",
-          "published_at": "2026-06-28T16:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_2d5f14e7a8f2c9cb",
-      "label": [
-        "momentum",
-        "william",
-        "near",
-        "deal",
-        "midstream",
-        "near billion"
-      ],
-      "category": "new",
-      "theme": "theme_105110bcfe0700fe",
-      "entities": [
-        "Williams",
-        "Momentum",
-        "LNG",
-        "Williams Said",
-        "Near"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Williams is said to near $5.5B Momentum deal to expand LNG pipeline reach",
-          "url": "https://seekingalpha.com/news/4607907-williams-is-said-to-near-5_5b-momentum-deal-to-expand-lng-pipeline-reach",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-06-28T19:17:44.000Z"
-        },
-        {
-          "title": "Williams Said to Near $5.5 Billion Deal for Momentum Midstream",
-          "url": "https://financialpost.com/pmn/business-pmn/williams-said-to-near-5-5-billion-deal-for-momentum-midstream",
-          "source": "Financial Post",
-          "published_at": "2026-06-28T18:21:44.000Z"
-        },
-        {
-          "title": "Williams Cos. nears $5.5 billion Momentum Midstream deal",
-          "url": "https://www.investing.com/news/stock-market-news/williams-cos-nears-55-billion-momentum-midstream-deal-4764157",
-          "source": "All News",
-          "published_at": "2026-06-28T16:48:12.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_8a9b0234983bfcc1",
-      "label": [
-        "nasa",
-        "telescope",
-        "telescope fall",
-        "fall back",
-        "back earth",
-        "earth"
-      ],
-      "category": "new",
-      "theme": "theme_756dbdd5346c5f74",
-      "entities": [
-        "NASA",
-        "Swift",
-        "Earth",
-        "ABC News",
-        "Breaking News"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "NASA races to save Swift telescope from falling back to Earth - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxpmef2efazelbjbghtzefiltjin2fkmzj4tfhwefb0dg5yulz2zk5tnhffmnhcoeutrjrndtjizxuydjzycjjfrxjwyvflzdfdc3niuhbloxfzuwxnauptrwjfx0pxztdabmjmvldxx3hoznf1ahm3vfliewntx25aatrdwmjimmvmbe1pbxnpwepjx214cwngevztb0k4zzbmy1j3",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-28T20:17:43.000Z"
-        },
-        {
-          "title": "NASA launches rescue mission to stop telescope from falling back to Earth",
-          "url": "https://www.washingtonexaminer.com/policy/space/4628099/nasa-rescue-mission-swift-observatory-telescope",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-28T19:50:52.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26176706630967.jpg?w=696"
-        },
-        {
-          "title": "NASA's $30 Million Mission To Save Telescope From Falling Back To Earth",
-          "url": "https://www.ndtv.com/world-news/nasa-30-million-mission-to-save-telescope-from-falling-back-to-earth-11699550",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-28T16:44:10.000Z",
-          "image": "https://c.ndtvimg.com/2026-03/jie6dq4k_neil-gehrels-swift-observatory_625x300_26_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-        }
-      ]
-    },
-    {
-      "id": "topic_7ae098ee0660a348",
-      "label": [
-        "samsung",
-        "samsung messag",
-        "messag disappear",
-        "disappear july",
-        "messag",
-        "disappear"
-      ],
-      "category": "new",
-      "theme": "theme_80cb7fffef8fb656",
-      "entities": [
-        "Samsung",
-        "SK Reportedly",
-        "Invest",
-        "Trillion Over",
-        "Years"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Samsung, SK Reportedly to Invest $1.3 Trillion Over 10 Years",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-28T23:17:04.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF3sYJHZL2pU/v0/1200x-1.jpg"
-        },
-        {
-          "title": "Samsung подняла цены на дешевый смартфон",
-          "url": "https://lenta.ru/news/2026/06/29/more-exprensive",
-          "source": "Lenta.ru : Новости",
-          "published_at": "2026-06-28T23:00:27.000Z",
-          "image": "https://icdn.lenta.ru/images/2026/06/26/16/20260626163348595/pic_44c2cd3d530d98a8dcf76194e50fe680.jpg"
-        },
-        {
-          "title": "Your Samsung Messages are about to disappear, here's what to do before July",
-          "url": "https://www.androidpolice.com/your-samsung-messages-are-about-to-disappear-heres-what-to-do-before-july",
-          "source": "Android Police",
-          "published_at": "2026-06-28T17:00:25.000Z",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/samsung-messages-switch.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7b6e254eed4966a4",
-      "label": [
-        "sister friend",
-        "friend charg",
-        "stabb death",
-        "stabb",
-        "sister",
-        "friend"
-      ],
-      "category": "new",
-      "theme": "theme_448e9856752a7271",
-      "entities": [
-        "Sisters",
-        "Texas",
-        "Friend Charged",
-        "Stabbing Death",
-        "Texas Mother"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Sisters and friend charged with murder after young mom stabbed to death in brutal Texas street attack",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/texas-sisters-murder-mom-attack-b3004643.html",
+          "title": "Over 100 dead dogs with gunshot wounds unearthed in ‘horrific scene’ at California ‘no-kill’ shelter",
+          "url": "https://www.independent.co.uk/news/world/americas/california-mirandas-rescue-dog-bodies-b3004604.html",
           "source": "The Independent World",
-          "published_at": "2026-06-28T21:58:43.000Z",
-          "image": "https://static.independent.co.uk/2026/06/28/21/45/Texas.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Sisters and Friend Charged in Stabbing Death of Texas Mother",
-          "url": "https://internewscast.com/news/us/sisters-and-friend-charged-in-stabbing-death-of-texas-mother",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-28T18:25:51.000Z"
-        },
-        {
-          "title": "Sisters, friend charged in Texas mom's stabbing death",
-          "url": "https://www.foxnews.com/us/sisters-friend-charged-texas-moms-stabbing-death",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-28T17:57:56.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Kyandra-Faz-Amaya-Diaz-Mia-Diaz.jpg?ve=1&tl=1"
+          "published_at": "2026-06-28T19:22:28.000Z",
+          "image": "https://static.independent.co.uk/2026/06/28/19/California_Animal_Rescue_Investigation_22983.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "The sheriff’s office was tipped off by a pair of animal advocates"
         }
-      ]
+      ],
+      "summary": "Authorities found at least 117 dead dogs at a California animal rescue described as a no-kill shelter. Some of the animals had gunshot wounds, and investigators said hundreds more were missing."
     },
     {
-      "id": "topic_29643f3b49f4363b",
+      "id": "topic_df0abfab6d6ef7e7",
+      "title": "Seychelles Gives Modi Guardian of the Blue Horizon Honour",
+      "headline": "Seychelles Honours PM Modi With 'Guardian Of The Blue Horizon' Title",
       "label": [
-        "sudafrica canada",
-        "mondiali",
-        "sudafrica",
-        "canada diretta",
-        "diretta",
-        "sedicesimi"
+        "horizon",
+        "blue",
+        "modi",
+        "guardian",
+        "seychelles",
+        "honour"
       ],
       "category": "new",
-      "theme": "theme_b9ef24f6f0ef4fdd",
+      "theme": "theme_10e0fa255798ff6",
       "entities": [
-        "Mondiali",
-        "Sudafrica",
-        "Canada",
-        "Diretta",
-        "Canada DIRETTA"
+        "Seychelles Honours PM Modi",
+        "Guardian Of The Blue",
+        "Horizon",
+        "Title",
+        "Award"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Mondiali, oggi i sedicesimi Sudafrica-Canada - Diretta",
-          "url": "https://www.adnkronos.com/sport/diretta-sudafrica-canada-oggi-mondiali-live-risultato-aggiornamenti_nfaq4iouljquet4jyy8zq",
-          "source": "Adnkronos - ultimoratop",
-          "published_at": "2026-06-28T18:10:27.000Z",
-          "image": "https://www.adnkronos.com/resources/02a6-20fa6f6664bd-e196dc2a471c-1000/format/medium/jonathan_david.jpeg"
+          "title": "Seychelles Honours PM Modi With 'Guardian Of The Blue Horizon' Title",
+          "url": "https://www.ndtv.com/india-news/seychelles-honours-pm-modi-with-guardian-of-the-blue-horizon-title-11698466",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-28T10:51:04.000Z",
+          "image": "https://c.ndtvimg.com/2024-10/fk22eseg_ndtv-world-summit-pm-modi-_625x300_21_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Prime Minister Narendra Modi was conferred with the honorary 'Guardian of the Blue Horizon' title by Seychelles for his steadfast commitment to environmental conservation and advancing the aspirations of the Small Island Developing States."
         },
         {
-          "title": "Mondiali: in campo alle 21 Sudafrica-Canada DIRETTA",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/28/mondiali-in-campo-alle-21-sudafrica-canada-diretta_f42febfa-22ae-44fa-a699-b860fe8e3538.html",
-          "source": "Primo piano ANSA - ANSA.it",
-          "published_at": "2026-06-28T17:43:20.000Z"
+          "title": "Seychelles Honours PM Modi With 'Guardian Of The Blue Horizon' Award",
+          "url": "https://swarajyamag.com/world/seychelles-honours-pm-modi-with-guardian-of-the-blue-horizon-award",
+          "source": "Swarajya",
+          "published_at": "2026-06-28T10:12:34.814Z"
         },
         {
-          "title": "Mondiali: ecco i sedicesimi, al via stasera con Sudafrica-Canada",
-          "url": "https://www.milannews.it/news/mondiali-sedicesimi-via-stasera-sudafrica-canada-622018",
-          "source": "Milan News",
-          "published_at": "2026-06-28T17:36:10.000Z",
-          "image": "https://net-storage-auto.tcccdn.com/storage/milannews.it/img_notizie/thumb3/d8/d8f6fd4498815851ac392566eee28ad3-81379-oooz0000.jpeg"
+          "title": "PM Modi honoured with 'Guardian of the Blue Horizon' by Seychelles",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-creates-history-with-twin-firsts/articleshow/132060403.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-28T22:56:14.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132060407,imgsize-211876.cms"
+        },
+        {
+          "title": "Modi gets Seychelles' 'Guardian of the Blue Horizon' honour during visit",
+          "url": "https://www.indiatoday.in/world/story/narendra-modi-seychelles-blue-horizon-honour-fast-patrol-vessel-ptag-2935976-2026-06-28",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-28T08:58:27.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-3-original_127-sixteen_nine.png?VersionId=SMaFj5.IQD5e2AwliNSulNmibzduLr.r",
+          "description": "Modi gets Seychelles Guardian of the Blue Horizon honour during visit"
+        },
+        {
+          "title": "Modi conferred with honorary ‘Guardian of the Blue Horizon’ title by Seychelles",
+          "url": "https://www.thehindubusinessline.com/news/modi-conferred-with-honorary-guardian-of-the-blue-horizon-title-by-seychelles/article71157449.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-28T09:27:49.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/6cnbcd/article71157453.ece/alternates/LANDSCAPE_1200/20260628091L.jpg",
+          "description": "PM Modi thanked Seychelles for the honour and dedicated it to the nations which are fighting the challenges of climate change."
         }
-      ]
-    },
-    {
-      "id": "topic_bcfca03509e2c607",
-      "label": [
-        "wakefield",
-        "huddersfield",
-        "wakefield scramble",
-        "win huddersfield",
-        "scramble",
-        "win"
       ],
-      "category": "new",
-      "theme": "theme_3418146c6a16a1cf",
-      "entities": [
-        "Canada",
-        "Drake",
-        "N1",
-        "Wakefield",
-        "Huddersfield"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Canada's last-gasp win earns Drake over N1.3bn payout",
-          "url": "https://www.legit.ng/sports/football/1716673-drake-wins-n13-billion-bet-canada-defeating-south-africa",
-          "source": "Legit.ng",
-          "published_at": "2026-06-28T22:11:56.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/63480a971d1ad232.jpeg?v=1"
-        },
-        {
-          "title": "Wakefield scramble to win over Huddersfield",
-          "url": "https://sports.yahoo.com/articles/wakefield-scramble-win-over-huddersfield-160413546.html",
-          "published_at": "2026-06-28T16:30:06.000Z"
-        },
-        {
-          "title": "Wakefield scramble last-gasp win over Huddersfield",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/czxq0416pkeo",
-          "source": "BBC Sport",
-          "published_at": "2026-06-28T16:30:03.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f5/live/b3493240-7307-11f1-8b3a-1977d6dee6ef.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_f90e6e70cc272f31",
-      "label": [
-        "300",
-        "heatwave",
-        "europe",
-        "death",
-        "exces",
-        "300 exces"
-      ],
-      "category": "new",
-      "theme": "theme_e5964c10a5a0837e",
-      "entities": [
-        "Europe",
-        "Germany",
-        "BBC"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "More than 1,300 excess deaths recorded in Europe heatwave: WHO",
-          "url": "https://www.thehindu.com/news/international/more-than-1300-excess-deaths-recorded-in-europe-heatwave-who/article71158768.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-28T18:16:27.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/z1url7/article71158940.ece/alternates/LANDSCAPE_1200/2026-06-28T145038Z_73066879_RC213MAJA5Q7_RTRMADP_3_EUROPE-WEATHER-POLAND.JPG"
-        },
-        {
-          "title": "Europe records 1,300 excess heatwave deaths",
-          "url": "https://tribune.com.pk/story/2615544/europe-records-1300-excess-heatwave-deaths",
-          "source": "express tribune",
-          "published_at": "2026-06-28T16:57:04.000Z"
-        },
-        {
-          "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-          "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo",
-          "source": "BBC News",
-          "published_at": "2026-06-28T16:38:55.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C - BBC",
-          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte94qw5pout5tfvpmzg4b0j3qnlycu40x2pozjvjn0wxbli2rm4tetlinzjlvjy1cfzqznlxqko2tfzpm2jxum5qtndvvlzyqvbxmmpvx1b0benizw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-28T16:38:55.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_8a18190c97d9a148",
-      "label": [
-        "lebanon",
-        "israel",
-        "strik south",
-        "south lebanon",
-        "framework",
-        "framework agreement"
-      ],
-      "category": "new",
-      "theme": "theme_28bfaba4c7916743",
-      "entities": [
-        "Israel",
-        "Lebanon",
-        "In Lebanon"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Israel detonates tunnel, strikes south Lebanon",
-          "url": "https://globalnation.inquirer.net/329075/israel-detonates-tunnel-strikes-south-lebanon",
-          "source": "INQUIRER.net",
-          "published_at": "2026-06-28T22:26:21.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260628__B8KQ8T6__v1__HighRes__LebanonIranIsraelUsWar-620x413.jpg"
-        },
-        {
-          "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-          "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-28T18:05:18.000Z"
-        },
-        {
-          "title": "Israel strikes south Lebanon despite framework agreement to end hostilities",
-          "url": "https://www.thehindu.com/news/international/israel-strikes-south-lebanon-despite-framework-agreement-to-end-hostilities/article71158767.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-28T17:43:23.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/288ge1/article71158866.ece/alternates/LANDSCAPE_1200/Israel_Lebanon_Iran_War_88141.jpg"
-        }
-      ]
+      "summary": "Seychelles awarded Indian Prime Minister Narendra Modi the honorary title “Guardian of the Blue Horizon” during his visit. Modi dedicated the honour to nations facing climate-change challenges."
     }
   ]
 }

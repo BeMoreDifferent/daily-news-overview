@@ -1,1028 +1,987 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T00:15:31.851Z",
+  "generated_at": "2026-09-27T13:52:39.618Z",
   "topics": [
     {
-      "id": "topic_b7f8c0419fd85e74",
+      "id": "topic_ed275492defb7a0f",
+      "title": "Trade Court Rules Trump’s 10% Global Tariff Illegal",
+      "headline": "U.S. trade court rules against Trump's global 10% tariff",
       "label": [
-        "iran",
-        "strait",
-        "strait hormuz",
-        "hormuz",
-        "fire strait",
-        "fire"
+        "tariffs",
+        "court",
+        "trump",
+        "rules",
+        "global",
+        "trade"
       ],
       "category": "new",
-      "theme": "theme_d44efeb62268c32f",
-      "entities": [
-        "US",
-        "Iran",
-        "Strait",
-        "Hormuz",
-        "Iran Trade Strikes"
-      ],
-      "article_count": 18,
-      "source_count": 14,
-      "articles": [
-        {
-          "title": "US-Iran tensions escalate as ceasefire comes under pressure in Strait of Hormuz",
-          "url": "https://www.indiatoday.in/world/story/fresh-hostilities-cloud-us-iran-efforts-to-end-conflict-2908437-2026-05-08",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-07T23:04:47.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/mojtaba-khamenei-and-donald-trump-235131976-16x9.jpg?VersionId=mnJPHtMVavkhDNZh1wmCSVR2yVGgZPxk"
-        },
-        {
-          "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
-          "url": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-05-07T22:48:43.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07mideast-centcom-strikes1-hzqk/07mideast-centcom-strikes1-hzqk-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Iran accuses US of violating ceasefire by targeting civilian areas and ships on strait of Hormuz",
-          "url": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz",
-          "source": "Middle East and north Africa | The Guardian",
-          "published_at": "2026-05-07T22:32:10.000Z",
-          "image": "https://i.guim.co.uk/img/media/60e181abdace2d3998267bca30ead36acaee883b/390_453_4017_3214/master/4017.jpg?width=140&quality=85&auto=format&fit=max&s=86025a43b6be9aa4c3af815f6fdc0459"
-        },
-        {
-          "title": "Iran and US exchange fire in strait of Hormuz - Iran accuses US of violating ceasefire | BBC News",
-          "url": "https://www.youtube.com/watch?v=wUtGwJH8Cxg",
-          "source": "BBC News",
-          "published_at": "2026-05-07T22:29:10.000Z",
-          "image": "https://i4.ytimg.com/vi/wUtGwJH8Cxg/hqdefault.jpg"
-        },
-        {
-          "title": "US and Iran exchange fire in the Strait of Hormuz, threatening truce",
-          "url": "https://www.theage.com.au/world/north-america/us-and-iran-exchange-fire-in-the-strait-of-hormuz-threatening-truce-20260508-p5zuxw.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-07T22:29:08.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/0f0299971583d8edeee410d9b82e63778ad7ddd2"
-        }
-      ]
-    },
-    {
-      "id": "topic_b8ad9e93f1798351",
-      "label": [
-        "july",
-        "eu",
-        "trade deal",
-        "deal",
-        "trade",
-        "trump"
-      ],
-      "category": "new",
-      "theme": "theme_c7c501436536f157",
+      "theme": "theme_efa594d78ce9cb6f",
       "entities": [
         "Trump",
-        "EU",
-        "July",
+        "Trade Court Rules Trump",
+        "Global Tariff Is Illegal",
         "US",
-        "Trump Says Giving EU"
+        "The New York Times"
+      ],
+      "article_count": 26,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "U.S. trade court rules against Trump's global 10% tariff",
+          "url": "https://www.thehindu.com/news/international/us-trade-court-rules-against-trumps-global-10-tariff/article70952884.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-07T22:33:17.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/2flu1s/article70952885.ece/alternates/LANDSCAPE_1200/2026-05-06T171452Z_580191955_RC2T3LAYW9DI_RTRMADP_3_USA-TRUMP.JPG",
+          "description": "The 2-1 ruling by the U.S. Court of International Trade, for now, blocks the tariffs from being implemented against just two companies and the state of Washington — but it could open doors to further such outcomes"
+        },
+        {
+          "title": "Trade Court Rules Trump’s 10% Global Tariff Is Illegal",
+          "url": "https://politicalwire.com/2026/05/07/trade-court-rules-trumps-10-global-tariff-is-illegal",
+          "source": "Political Wire",
+          "published_at": "2026-05-07T21:42:24.000Z",
+          "description": "A federal trade court ruled on Thursday that President Trump’s nearly-universal 10 percent tariff is illegal, the New York Times reports. The loss marked a new legal setback for the White House, which imposed the duties earlier this year as a temporary replacement to the initial slate of punishing…"
+        },
+        {
+          "title": "US trade court rules against Trump's global 10% tariff",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/05/08/us-trade-court-rules-against-trump-s-global-10-tariff_6753235_19.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-07T22:52:28.000Z",
+          "image": "https://img.lemde.fr/2026/05/07/225/0/4800/2400/644/322/60/0/bf18a75_ftp-1-eyox8zyxmttm-5973303-01-06.jpg",
+          "description": "The Court of International Trade ruling, which was 2-1 against Trump's 10% global tariff, ordered defendants to implement the decision within five days, and for the importers who sued to receive refunds."
+        },
+        {
+          "title": "Trade Court Rules Trump’s 10% Global Tariff Is Illegal",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxqnwhvmtrnwffvmnbkznvidg1yv1nsswtsb2x1x2ozx21edxvwbtz4y1btmuhrdvbadmiyvnrkuxrswuvwamrnewzur3jzyzlarvl6bmtcn3pwdfnkue5itu1zyvlnczlxmtjmswvfthg3ruxiazzlynruavdqvxhdymjzckjuc0nzvwpiznllyvzavwpm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-07T21:10:13.000Z",
+          "description": "Trade Court Rules Trump’s 10% Global Tariff Is Illegal The New York Times Trump administration loses second major tariff case CNN US trade court rules against Trump's 10% global tariffs The Detroit News Trump Administration Live Updates: Trade Court Rules President’s 10 Percent Tariff Is Illegal Th…"
+        },
+        {
+          "title": "U.S. trade court rules against Trump's 10% tariffs",
+          "url": "https://www.cbsnews.com/news/u-s-trade-court-rules-against-trump-10-percent-tariffs",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-05-07T22:10:07.000Z",
+          "description": "The tariffs were put in place in February, days after the Supreme Court struck down President Trump's previous round of sweeping \"Liberation Day\" tariffs."
+        }
+      ],
+      "summary": "The U.S. Court of International Trade ruled 2-1 against President Trump’s global 10% tariff. The ruling currently blocks implementation for two companies and Washington state, and directs defendants to act within five days."
+    },
+    {
+      "id": "topic_2cb9a5ac70e1a89d",
+      "title": "Man Arrested After Allegedly Threatening Andrew Mountbatten-Windsor",
+      "headline": "UK man arrested after former prince Andrew threatened",
+      "label": [
+        "andrew",
+        "man",
+        "threatened",
+        "prince",
+        "near",
+        "arrested"
+      ],
+      "category": "new",
+      "theme": "theme_758ab17873bca51e",
+      "entities": [
+        "UK",
+        "Andrew",
+        "Man",
+        "Andrew Mountbatten",
+        "Windsor"
+      ],
+      "article_count": 19,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "UK man arrested after former prince Andrew threatened",
+          "url": "https://www.perthnow.com.au/news/human-interest/uk-man-arrested-after-former-prince-andrew-threatened-c-22252160",
+          "source": "PerthNow",
+          "published_at": "2026-05-07T15:21:01.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22252160/d51291382916eb35ea8e547fa5ac4696568e97cf-16x9-x0y0w1280h720.jpg",
+          "description": "A man has reportedly been arrested after allegedly approaching ​Andrew Mountbatten-Windsor while wearing a ​balaclava and shouting at the former royal."
+        },
+        {
+          "title": "Man arrested for allegedly threatening ex-prince Andrew",
+          "url": "https://www.smh.com.au/world/man-arrested-for-allegedly-threatening-ex-prince-andrew-20260508-p5zuxc.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-07T21:09:31.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c3c9074e1405fb3cb3c8eda6ee5d3e02aee4cb5e",
+          "description": "A man has been arrested for allegedly threatening Andrew Mountbatten-Windsor while the ex-prince walked his dogs."
+        },
+        {
+          "title": "Man arrested after Andrew Mountbatten-Windsor ‘threatened’ near Sandringham Estate",
+          "url": "https://www.independent.co.uk/news/uk/crime/andrew-mountbatten-windsor-threatened-arrest-sandringham-b2972357.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-07T15:07:27.000Z",
+          "image": "https://static.independent.co.uk/2026/04/28/23/1874748935.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "A man was arrested and remans in custody"
+        },
+        {
+          "title": "Man arrested near home of Andrew Mountbatten-Windsor",
+          "url": "https://www.theguardian.com/uk-news/2026/may/07/man-arrested-near-home-of-andrew-mountbatten-windsor",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-07T16:04:08.000Z",
+          "image": "https://i.guim.co.uk/img/media/def14da397654510e3ea3289c101e65a1bbf6a83/149_0_2331_1864/master/2331.jpg?width=140&quality=85&auto=format&fit=max&s=15d6f56fdf3733cdffd59e07f6e13f0f",
+          "description": "Nofolk police arrest man on suspicion of public order offence and possession of offensive weapon A man has been arrested on suspicion of a public order offence and possession of an offensive weapon near the home of Andrew Mountbatten-Windsor. Norfolk police said: “Officers were called to Wolferton…"
+        },
+        {
+          "title": "Former Prince Andrew 'threatened by man in balaclava' at Sandringham estate",
+          "url": "https://www.irishmirror.ie/news/world-news/former-prince-andrew-threatened-man-37125271",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-05-07T14:45:08.000Z",
+          "image": "https://i2-prod.mirror.co.uk/incoming/article37125213.ece/ALTERNATES/s615/1_Andrew-Mountbatten-Windsor-arrested.jpg",
+          "description": "The former Duke of York has reportedly been threatened by a masked man last night while walking around the Sandringham estate"
+        }
+      ],
+      "summary": "Police arrested a man near the Sandringham estate on suspicion of a public order offence and possession of an offensive weapon. Reports say he allegedly approached Andrew Mountbatten-Windsor while masked and threatened him."
+    },
+    {
+      "id": "topic_b20fbf77c52c30d1",
+      "title": "Billie Eilish’s Concert Film Brings Her Tour to 3D",
+      "headline": "‘Billie Eilish — Hit Me Hard and Soft’ Review: 3-D Is What She Was Made For",
+      "label": [
+        "eilish",
+        "billie",
+        "soft",
+        "cameron",
+        "hard",
+        "james"
+      ],
+      "category": "new",
+      "theme": "theme_8876dc8532959852",
+      "entities": [
+        "Billie Eilish",
+        "Hit Me Hard",
+        "Soft",
+        "Review",
+        "Is What She Was"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "‘Billie Eilish — Hit Me Hard and Soft’ Review: 3-D Is What She Was Made For",
+          "url": "https://www.nytimes.com/2026/05/07/movies/billie-eilish-hit-me-hard-and-soft-the-tour-review.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-07T13:00:03.000Z",
+          "description": "The pop superstar teamed up with James Cameron to create a concert movie that, playing with shiny camera technology, reinvigorates the concert experience."
+        },
+        {
+          "title": "‘Billie Eilish — Hit Me Hard & Soft’ Concert Film Premiere: Eilish, James Cameron, Finneas & More",
+          "url": "https://news.google.com/rss/articles/cbmitwfbvv95cuxoykjzyjlcsmq5vuxhzufwz3b1mkp6otdtvuzqsddsctjwz3fuwufdeujonwc2rjdot2s4eerhq1dgvs00m0cxywdac0rhvgtfv2njwhh0tm5kn0zkti02cknhawlooulxtnywm2pvddfhaexycunqyu1rbut6eufittdpyvi2ymxism1injjiwc1pwjdmdxdgmentlu41aelcamh2y2nfx2zuzhqts3bhx05iuwdvbwm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-07T02:58:00.000Z",
+          "description": "‘Billie Eilish — Hit Me Hard & Soft’ Concert Film Premiere: Eilish, James Cameron, Finneas & More Deadline Billie Eilish and Nat Wolff Make Red Carpet Debut to Celebrate Her New Concert Movie People.com Billie Eilish and Nat Wolff Just Made Their Red Carpet Debut. Inside Their Relationship History…"
+        },
+        {
+          "title": "‘Billie Eilish — Hit Me Hard and Soft: The Tour Live in 3D’ Review: James Cameron Co-Directs a Titanic Concert Film",
+          "url": "https://variety.com/2026/film/reviews/billie-eilish-hit-me-hard-and-soft-live-in-3d-review-1236739465",
+          "source": "Variety",
+          "published_at": "2026-05-07T13:00:40.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/manchester-day1-@henryhwu-50.jpg",
+          "description": "\"Hit Me Hard and Soft\" is a concert film that doesn’t look and feel like other concert films. It’s a genuine experience, because of a combination of the show itself and the way Cameron has filmed it."
+        },
+        {
+          "title": "Billie Eilish and James Cameron make concert movie magic with 'Hit Me Hard and Soft'",
+          "url": "https://japantoday.com/category/entertainment/movie-review-billie-eilish-and-james-cameron-make-concert-movie-magic-with-%27hit-me-hard-and-soft%27",
+          "source": "Japan Today",
+          "published_at": "2026-05-07T21:45:52.000Z",
+          "description": "Billie Eilish is levitating. Or so it seems. When the pop star first emerges on screen in the mouthful “Billie Eilish — Hit Me Hard and Soft: The…"
+        },
+        {
+          "title": "Billie Eilish Gets Raw in 3D for ‘Hit Me Hard and Soft’ Concert Film",
+          "url": "https://www.rollingstone.com/music/music-features/billie-eilish-james-cameron-hit-me-hard-soft-concert-doc-3d-1235559046",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-07T15:22:08.000Z",
+          "description": "Co-directed by James Cameron, the pop superstar's new movie proves she's the only bird of her feather"
+        }
+      ],
+      "summary": "Billie Eilish and director James Cameron co-directed a 3D concert film based on Eilish’s Hit Me Hard and Soft tour. The film’s premiere brought Eilish, her brother Finneas and other guests to the red carpet."
+    },
+    {
+      "id": "topic_16accb8ab32245be",
+      "title": "Marco Rubio Meets Pope Leo at the Vatican",
+      "headline": "Rubio Meets with Pope Leo",
+      "label": [
+        "pope",
+        "rubio",
+        "leo",
+        "meets",
+        "vatican",
+        "trump"
+      ],
+      "category": "trending",
+      "theme": "theme_4fc927e4854b828a",
+      "entities": [
+        "Rubio Meets",
+        "Pope Leo",
+        "Rubio",
+        "Vatican",
+        "Marco Rubio"
+      ],
+      "article_count": 39,
+      "source_count": 35,
+      "articles": [
+        {
+          "title": "Rubio Meets with Pope Leo",
+          "url": "https://politicalwire.com/2026/05/07/rubio-meets-with-pope-leo",
+          "source": "Political Wire",
+          "published_at": "2026-05-07T14:46:56.000Z",
+          "description": "“Secretary of State Marco Rubio and Pope Leo XIV met Thursday at the Vatican to discuss the situation in the Middle East and other matters, a meeting that came after weeks of tension between the American-born pontiff and President Trump,” CBS News reports."
+        },
+        {
+          "title": "Rubio meets Pope Leo at the Vatican",
+          "url": "https://www.dw.com/en/rubio-meets-pope-leo-at-the-vatican/a-77073372",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-07T11:58:00.000Z",
+          "description": "The visit by the US secretary of state to the Vatican comes as President Donald Trump continues to disparage the Catholic leader over criticism of the Iran war."
+        },
+        {
+          "title": "Rubio meets Pope Leo amid tensions with Trump",
+          "url": "https://www.gmanetwork.com/news/topstories/world/986817/rubio-meets-pope-leo-amid-tensions-with-trump/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-07T11:58:01.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/2026-05-07T110834Z_1340391418_RC2A4LAZ9CFF_RTRMADP_3_USA-POLITICS-RUBIO-POPE_2026_05_07_19_54_33.JPG",
+          "description": "US Secretary of State Marco Rubio left the Vatican on Thursday after seeing Pope Leo in what was expected to have been a fraught meeting following President Donald Trump's repeated attacks."
+        },
+        {
+          "title": "Marco Rubio meets with Pope Leo after Trump’s criticism over Iran war",
+          "url": "https://www.nbcnews.com/world/pope-leo-xiv/marco-rubio-meets-pope-leo-trump-criticism-iran-war-vatican-rcna343991",
+          "source": "NBC News World News",
+          "published_at": "2026-05-07T10:21:28.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-rubio-rs-f8f60f.jpg",
+          "description": "Secretary of State Marco Rubio was set to meet with Pope Leo at the Vatican on Thursday, an audience that follows President Donald Trump’s criticism of the first American pontiff over the Iran war."
+        },
+        {
+          "title": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
+          "url": "https://www.bbc.com/news/videos/cq8py99p2jzo",
+          "source": "BBC News",
+          "published_at": "2026-05-07T19:06:43.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e532/live/25169120-4a49-11f1-b55d-0f258dce1735.jpg",
+          "description": "Leo, the first American pontiff, drew Trump's ire after becoming a firm critic of the war and the administration's hardline immigration policies."
+        }
+      ],
+      "summary": "U.S. Secretary of State Marco Rubio met Pope Leo XIV at the Vatican to discuss the Middle East and other matters. The meeting came amid tensions over President Trump’s criticism of the pope regarding the Iran war."
+    },
+    {
+      "id": "topic_3c0881b491b5601e",
+      "title": "Bonnie Tyler in Induced Coma After Emergency Surgery",
+      "headline": "Bonnie Tyler in induced coma after emergency surgery",
+      "label": [
+        "bonnie",
+        "tyler",
+        "surgery",
+        "induced",
+        "coma",
+        "emergency"
+      ],
+      "category": "new",
+      "theme": "theme_7af0de60cccb19e7",
+      "entities": [
+        "Bonnie Tyler",
+        "Portugal",
+        "Singer Bonnie Tyler",
+        "Total Eclipse",
+        "Heart"
       ],
       "article_count": 13,
       "source_count": 13,
       "articles": [
         {
-          "title": "Trump gives EU until July 4 to finalize trade deal or tariffs will ‘immediately jump to much higher levels’",
-          "url": "https://nationalpost.com/news/world/trump-eu-trade-deal-july-fourth-deadline-tariffs",
-          "source": "National Post",
-          "published_at": "2026-05-07T22:14:05.000Z"
-        },
-        {
-          "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
-          "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
-          "source": "Europe | The Guardian",
-          "published_at": "2026-05-07T22:04:10.000Z",
-          "image": "https://i.guim.co.uk/img/media/80eb96a73963dcedfc342a0dfeef9f0e4e3cd6cc/652_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=756172197efbe36d785a9c05274732fd"
-        },
-        {
-          "title": "Trump says EU has until July 4 to approve last year’s trade deal or it will face higher tariffs",
-          "url": "https://japantoday.com/category/world/trump-says-eu-has-until-july-4-to-approve-last-year%e2%80%99s-trade-deal-or-it-will-face-higher-tariffs",
-          "source": "Japan Today",
-          "published_at": "2026-05-07T21:38:41.000Z"
-        },
-        {
-          "title": "Trump gives EU until July 4 to ratify deal or face tariff hike",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3352820/trump-gives-eu-until-july-4-ratify-deal-or-face-tariff-hike",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-07T21:19:57.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/08/6df9e4ca-8d6d-406a-9601-ad683bb8de35_9bafb29a.jpg?itok=L4iLAmwj&v=1778188738"
-        },
-        {
-          "title": "Trump sets July 4 deadline for EU tariff hike decision",
-          "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-07T20:58:55.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_d368e1d34047548b",
-      "label": [
-        "airpod",
-        "camera",
-        "camera equipp",
-        "equipp airpod",
-        "equipp",
-        "apple"
-      ],
-      "category": "new",
-      "theme": "theme_70ffb5dfde61abf5",
-      "entities": [
-        "AirPods Ultra",
-        "Apple",
-        "AI",
-        "AirPods",
-        "Siri"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "AirPods Ultra could be Apple’s first AI device",
-          "url": "https://www.cultofmac.com/news/airpods-ultra-ai-device-rumors",
-          "source": "Cult of Mac",
-          "published_at": "2026-05-07T21:11:10.000Z",
-          "image": "https://www.cultofmac.com/wp-content/uploads/2026/05/AirPods-Ultra-Concept-cameras_01.jpg.webp"
-        },
-        {
-          "title": "Apple’s camera-equipped AirPods take a big step toward launch",
-          "url": "https://www.androidauthority.com/apple-airpods-reach-final-stages-of-development-3664875",
-          "source": "Android Authority",
-          "published_at": "2026-05-07T20:38:42.000Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2023/07/AirPods-Pro-2nd-generation-Google-Pixel-6-phone-pairing-2-scaled.jpg"
-        },
-        {
-          "title": "Apple’s rumored camera-equipped AirPods are for Siri, not for you",
-          "url": "https://www.macworld.com/article/3134145/apples-rumored-camera-equipped-airpods-are-for-siri-not-for-you.html",
-          "source": "Macworld",
-          "published_at": "2026-05-07T20:36:08.000Z",
-          "image": "https://www.macworld.com/wp-content/uploads/2026/05/AirPods-Pro-3-Cover.png"
-        },
-        {
-          "title": "I'm already dreading Apple's camera-equipped AirPods",
-          "url": "https://www.engadget.com/2167325/im-already-dreading-apples-camera-equipped-airpods",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-07T19:36:08.000Z",
-          "image": "https://www.engadget.com/img/gallery/im-already-dreading-apples-camera-equipped-airpods/l-intro-1778182522.jpg"
-        },
-        {
-          "title": "Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video (Mark Gurman/Bloomberg)",
-          "url": "https://www.techmeme.com/260507/p34",
-          "source": "Techmeme",
-          "published_at": "2026-05-07T18:45:02.000Z",
-          "image": "http://www.techmeme.com/260507/i34.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ae4693556635567d",
-      "label": [
-        "andrew",
-        "man",
-        "allegedly threaten",
-        "threaten",
-        "prince andrew",
-        "allegedly"
-      ],
-      "category": "new",
-      "theme": "theme_4e895f036caf5781",
-      "entities": [
-        "Man",
-        "Andrew Mountbatten",
-        "Windsor",
-        "Andrew Mountbatten Windsor",
-        "Sandringham Estate"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Man charged with allegedly threatening Andrew Mountbatten-Windsor",
-          "url": "https://www.bbc.com/news/articles/c4g0d1wp6g8o",
+          "title": "Bonnie Tyler in induced coma after emergency surgery",
+          "url": "https://www.bbc.com/news/articles/c707edw539ro",
           "source": "BBC News",
-          "published_at": "2026-05-07T22:39:19.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a402/live/73609da0-4a65-11f1-ba67-71539f117a06.jpg"
+          "published_at": "2026-05-07T19:59:50.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/21ca6170-4a4b-11f1-9cf8-9bf0cf6f692d.png",
+          "description": "The Total Eclipse of the Heart singer was rushed to hospital for emergency surgery in Portugal on Wednesday."
         },
         {
-          "title": "Man, 39, is charged with harassment after Andrew Mountbatten-Windsor 'threatened near his home'",
-          "url": "https://www.dailymail.com/news/article-15799975/man-charged-harassment-andrew-mountbatten-windsor-threatened.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-07T22:11:20.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/07/22/108453495-0-image-a-3_1778190909472.jpg"
+          "title": "Bonnie Tyler placed in induced coma after emergency surgery in Portugal",
+          "url": "https://euroweeklynews.com/2026/05/07/bonnie-tyler-placed-in-induced-coma-after-emergency-surgery-in-portugal",
+          "source": "Euro Weekly News",
+          "published_at": "2026-05-07T19:32:43.000Z",
+          "image": "https://euroweeklynews.com/wp-content/uploads/2026/05/shutterstock_98898743-1024x683.jpg?type=local",
+          "description": "Singer Bonnie Tyler has been placed in an induced coma following emergency intestinal surgery in Portugal, according to statements released […]"
         },
         {
-          "title": "Man charged after allegedly threatening Andrew Mountbatten Windsor near home on Sandringham Estate",
-          "url": "https://www.independent.co.uk/news/uk/crime/andrew-mountbatten-windsor-threatened-charged-sandringham-b2972649.html",
-          "source": "The Independent UK",
-          "published_at": "2026-05-07T21:59:29.000Z",
-          "image": "https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Man arrested for allegedly threatening ex-prince Andrew",
-          "url": "https://www.theage.com.au/world/man-arrested-for-allegedly-threatening-ex-prince-andrew-20260508-p5zuxc.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-07T21:09:31.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c3c9074e1405fb3cb3c8eda6ee5d3e02aee4cb5e"
-        },
-        {
-          "title": "Man arrested for allegedly threatening ex-prince Andrew",
-          "url": "https://www.brisbanetimes.com.au/world/man-arrested-for-allegedly-threatening-ex-prince-andrew-20260508-p5zuxc.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-07T21:09:31.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c3c9074e1405fb3cb3c8eda6ee5d3e02aee4cb5e"
-        }
-      ]
-    },
-    {
-      "id": "topic_193b3f992337f335",
-      "label": [
-        "bonnie",
-        "bonnie tyler",
-        "surgery",
-        "tyler",
-        "induc",
-        "coma"
-      ],
-      "category": "new",
-      "theme": "theme_81a927217f4b55cf",
-      "entities": [
-        "Total Eclipse Of The",
-        "Heart",
-        "Singer Bonnie Tyler Placed",
-        "In Medically Induced Coma",
-        "Very Guarded"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "“Total Eclipse Of The Heart” Singer Bonnie Tyler Placed In Medically Induced Coma As “Very Guarded” Condition Worsens – Reports",
-          "url": "https://deadline.com/2026/05/bonnie-tyler-coma-surgery-1236886983",
-          "source": "Deadline",
-          "published_at": "2026-05-07T21:34:53.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2175358252-e1778187037895.jpg"
-        },
-        {
-          "title": "‘Total Eclipse of the Heart’ Singer Bonnie Tyler Hospitalized for Emergency Surgery in Portugal",
-          "url": "https://variety.com/2026/music/news/total-eclipse-of-the-heart-bonnie-tyler-hospitalized-1236741078",
-          "source": "Variety",
-          "published_at": "2026-05-07T21:34:13.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-1210205762.jpg"
+          "title": "Singer Bonnie Tyler placed in medically induced coma after emergency surgery",
+          "url": "https://www.avclub.com/bonnie-tyler-placed-in-medical-coma-total-eclipse",
+          "source": "AV Club",
+          "published_at": "2026-05-07T21:32:19.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/07212817/bonnie-tyler-feature.jpg",
+          "description": "The \"Total Eclipse Of The Heart\" singer underwent emergency intestinal surgery this week near her home in Portugal."
         },
         {
           "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
           "url": "https://www.thejournal.ie/bonnie-tyler-induced-coma-surgery-7033871-may2026",
           "source": "TheJournal.ie",
           "published_at": "2026-05-07T21:33:11.000Z",
-          "image": "https://c0.thejournal.ie/media/2026/05/bonnie-tyler-live-on-just-live-tour-2025-at-the-berlin-theatre-at-potsdamer-platz-on-03-05-2025-5b18962d-9fdd-4e3b-be81-c85dd0360360-630x419.jpg"
+          "image": "https://c0.thejournal.ie/media/2026/05/bonnie-tyler-live-on-just-live-tour-2025-at-the-berlin-theatre-at-potsdamer-platz-on-03-05-2025-5b18962d-9fdd-4e3b-be81-c85dd0360360-630x419.jpg",
+          "description": "The Welsh singer was put into the coma to “aid her recovery”, a spokesperson said."
         },
         {
-          "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
-          "url": "https://www.breakingnews.ie/entertainment/bonnie-tyler-in-induced-coma-after-emergency-intestinal-surgery-1897007.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDcyMDI0MTVcXFwvMi43MDgxNTc3Ni5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxOTdlMmYwNDljMDA1Y2RjYWRhM2Y2MTJhZWVkMzU4ZjY1NDkwZDBjIn0=/2-70815776.jpg"
-        },
-        {
-          "title": "Bonnie Tyler in induced coma after emergency surgery",
-          "url": "https://www.bbc.com/news/articles/c707edw539ro",
-          "source": "BBC News",
-          "published_at": "2026-05-07T19:59:50.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/21ca6170-4a4b-11f1-9cf8-9bf0cf6f692d.png"
+          "title": "Bonnie Tyler 'in an induced coma following surgery'",
+          "url": "https://www.irishmirror.ie/showbiz/celebrity-news/bonnie-tyler-in-induced-coma-37126225",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-05-07T17:43:57.000Z",
+          "image": "https://i2-prod.mirror.co.uk/incoming/article37126001.ece/ALTERNATES/s615/1_Britains-Bonnie-Tyler-performs-during-t.jpg",
+          "description": "The 74-year-old singer had fallen ill in Portugal"
         }
-      ]
+      ],
+      "summary": "Singer Bonnie Tyler underwent emergency intestinal surgery in Portugal and was placed in an induced coma to aid her recovery, according to reports citing a spokesperson."
     },
     {
-      "id": "topic_684f2a5f22cd9683",
+      "id": "topic_44687085a57ffa2",
+      "title": "Judge Releases Purported Jeffrey Epstein Suicide Note",
+      "headline": "US judge releases purported Jeffrey Epstein suicide note",
       "label": [
-        "cruise",
-        "hit cruise",
-        "hit",
-        "hantaviru hit",
-        "cruise ship",
-        "hantaviru"
+        "note",
+        "suicide",
+        "epstein",
+        "jeffrey",
+        "releases",
+        "purported"
       ],
-      "category": "new",
-      "theme": "theme_d680651e30491646",
-      "entities": [
-        "What Happened",
-        "Hantavirus Cruise",
-        "According",
-        "Doctor",
-        "Board"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "What Happened on the Hantavirus Cruise, According to a Doctor on Board",
-          "url": "https://www.theatlantic.com/health/2026/05/hantavirus-cruise-doctor/687095",
-          "source": "The Atlantic",
-          "published_at": "2026-05-07T21:27:46.000Z",
-          "image": "https://cdn.theatlantic.com/thumbor/ItocZqes5Jn5Pb17xwtVZmsW-uk=/media/img/mt/2026/05/2026_05_07_Oncologist_Hantavirus_Cruise/original.jpg"
-        },
-        {
-          "title": "Tenerife resort town awaits hantavirus-hit cruise ship",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/tenerife-resort-town-awaits-hantavirus-hit-cruise-ship",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-07T21:25:07.000Z"
-        },
-        {
-          "title": "What happens when the hantavirus-hit cruise ship docks?",
-          "url": "https://www.youtube.com/shorts/2Z3qYutTt9M",
-          "source": "CNN",
-          "published_at": "2026-05-07T20:12:52.000Z",
-          "image": "https://i3.ytimg.com/vi/2Z3qYutTt9M/hqdefault.jpg"
-        },
-        {
-          "title": "How operation to disembark passengers on virus-hit cruise will work",
-          "url": "https://www.bbc.com/news/videos/cx218zp9897o",
-          "source": "BBC News",
-          "published_at": "2026-05-07T20:01:43.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/350d88e0-4a4e-11f1-b55d-0f258dce1735.jpg"
-        },
-        {
-          "title": "Countries track passengers of virus-hit cruise ship",
-          "url": "https://www.perthnow.com.au/news/coronavirus/countries-track-passengers-of-virus-hit-cruise-ship-c-22252389",
-          "source": "PerthNow",
-          "published_at": "2026-05-07T19:29:55.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22252389/8a8a18d6b8e716cb683d756a3f701d119f762e8a-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_6bbe0f345899fe8a",
-      "label": [
-        "hamill",
-        "mark hamill",
-        "post",
-        "mark",
-        "sick",
-        "white house"
-      ],
-      "category": "new",
-      "theme": "theme_11d7e5d6a15e252b",
-      "entities": [
-        "White House Lashes Out",
-        "At Obama After Mark",
-        "Hamill Posts AI Image",
-        "Of Trump In Grave",
-        "Mark Hamill Issues Revised"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "White House Lashes Out At Obama After Mark Hamill Posts AI Image Of Trump In Grave",
-          "url": "https://www.forbes.com/sites/asia-alexander/2026/05/07/white-house-lashes-out-at-obama-after-mark-hamill-posts-ai-image-of-trump-in-grave",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-07T22:29:34.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69fd12165b28942ce1575fa3/0x0.jpg?width=960&precrop=5086%2C2863%2Cx0%2Cy262"
-        },
-        {
-          "title": "Mark Hamill Issues Revised Social Media Post After White House Calls Him “Sick” For Posting Image Of A Dead Donald Trump",
-          "url": "https://deadline.com/2026/05/mark-hamill-trump-dead-image-1236886858",
-          "source": "Deadline",
-          "published_at": "2026-05-07T20:05:16.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Mark-Hamill-and-Donald-Trump.jpg"
-        },
-        {
-          "title": "White House calls Mark Hamill ‘sick’ after Star Wars actor posts Trump gravesite image",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3352818/white-house-calls-mark-hamill-sick-after-star-wars-actor-posts-trump-gravesite-image",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-07T20:04:50.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/08/bcc42d10-9bc6-452b-bc25-2d10bf51d607_d62a37e7.jpg?itok=ClddXi35&v=1778184125"
-        },
-        {
-          "title": "Trump administration lashes out at ‘sick’ Star Wars actor Mark Hamill for AI post of president in the grave",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/mark-hamill-backlash-post-trump-dead-assassination-b2972555.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-07T19:42:07.000Z",
-          "image": "https://static.independent.co.uk/2026/05/07/19/2261850470.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "White House lashes out at ‘Star Wars’ actor Mark Hamill for post of Trump in grave: ‘One sick individual’",
-          "url": "https://nypost.com/2026/05/07/us-news/white-house-lashes-out-after-star-wars-star-mark-hamill-posts-photo-of-trump-in-grave",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-07T18:37:27.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fnewspress-collage-xgsmgjklh-1778178106126.jpg?quality%3D90%26strip%3Dall%261778163726"
-        }
-      ]
-    },
-    {
-      "id": "topic_4983547b942f7c80",
-      "label": [
-        "de",
-        "tribunal",
-        "arancel",
-        "arancel global",
-        "falla",
-        "10 de"
-      ],
-      "category": "new",
-      "theme": "theme_7f68b4162a93ef91",
-      "entities": [
-        "El Tribunal",
-        "Comercio Internacional",
-        "EEUU",
-        "Trump",
-        "Falla"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "El Tribunal de Comercio Internacional de EEUU bloquea el arancel global del 10% de Trump por ilegal",
-          "url": "https://www.expansion.com/economia/2026/05/08/69fd14b3e5fdeaf9228b4584.html",
-          "source": "Portada // expansion",
-          "published_at": "2026-05-07T22:43:11.000Z",
-          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/08/17781937676814.jpg"
-        },
-        {
-          "title": "Falla tribunal en EU contra arancel global de 10% de Trump",
-          "url": "https://www.elnorte.com/falla-tribunal-en-eu-contra-arancel-global-de-10-de-trump/ar3200348",
-          "source": "ElNorte",
-          "published_at": "2026-05-07T21:56:17.000Z"
-        },
-        {
-          "title": "Falla tribunal en EU contra arancel global de 10% de Trump",
-          "url": "https://www.reforma.com/falla-tribunal-en-eu-contra-arancel-global-de-10-de-trump/ar3200342",
-          "source": "Reforma",
-          "published_at": "2026-05-07T21:55:50.000Z"
-        },
-        {
-          "title": "El Tribunal de Comercio Internacional de EEUU falla que es ilegal el arancel global del 10% impuesto por Trump tras el revés del Supremo",
-          "url": "https://www.eldiario.es/internacional/tribunal-comercio-internacional-eeuu-falla-ilegal-arancel-global-10-impuesto-trump-reves-supremo_1_13204753.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-05-07T21:48:23.000Z",
-          "image": "https://static.eldiario.es/clip/368ee558-d135-4bfb-a3f8-b475b60ee2c3_16-9-discover-aspect-ratio_default_0.jpg"
-        },
-        {
-          "title": "El tribunal comercial de Estados Unidos falla en contra del arancel universal del 10% aprobado por Trump tras el revés del Supremo",
-          "url": "https://elpais.com/internacional/2026-05-07/el-tribunal-comercial-falla-en-contra-del-arancel-universal-del-10-aprobado-por-trump-tras-el-reves-del-supremo.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-05-07T21:39:27.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/TFDVXR3FVJLDBFRP3KBTDO4MVI.jpg?auth=568b6cdb1b1297467b96a949ed5b215567d069d0f0c3294e9ec525c5027b30b5"
-        }
-      ]
-    },
-    {
-      "id": "topic_295775890e1017ca",
-      "label": [
-        "french",
-        "musk",
-        "french prosecutor",
-        "prosecutor",
-        "elon",
-        "elon musk"
-      ],
-      "category": "new",
-      "theme": "theme_136ba6eca1aae3bd",
-      "entities": [
-        "French",
-        "Musk",
-        "Grok",
-        "Elon Musk",
-        "French Authorities Target Elon"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "French prosecutors seek charges against Musk and X over Grok content",
-          "url": "https://www.france24.com/en/technology/20260507-french-prosecutors-seek-charges-against-musk-and-x-over-grok-content",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-07T22:52:05.000Z",
-          "image": "https://s.france24.com/media/display/aaf4e33c-3c7a-11f1-84c5-005056bf30b7/w:1024/p:16x9/AP26091650729710.jpg"
-        },
-        {
-          "title": "French prosecutors seek charges against Elon Musk and X over child sexual abuse images",
-          "url": "https://japantoday.com/category/world/french-prosecutors-seek-charges-against-elon-musk-and-x-over-child-sexual-abuse-images",
-          "source": "Japan Today",
-          "published_at": "2026-05-07T21:39:14.000Z"
-        },
-        {
-          "title": "French prosecutors escalate probe of Elon Musk and X to criminal investigation",
-          "url": "https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-05-07T20:54:17.000Z"
-        },
-        {
-          "title": "French Authorities Target Elon Musk and X in Child Abuse Image Investigation: What You Need to Know",
-          "url": "https://internewscast.com/local-news/french-authorities-target-elon-musk-and-x-in-child-abuse-image-investigation-what-you-need-to-know",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-07T18:57:28.000Z"
-        },
-        {
-          "title": "French prosecutors seek charges against Elon Musk and X over child sexual abuse images",
-          "url": "https://www.yahoo.com/news/articles/french-prosecutors-seek-charges-against-184646443.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-07T18:46:46.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/0d769d2b6f2d2f1a2982c5821b42b937"
-        }
-      ]
-    },
-    {
-      "id": "topic_44a9b23880ed4c9c",
-      "label": [
-        "passport",
-        "child support",
-        "parent",
-        "support",
-        "child",
-        "start"
-      ],
-      "category": "new",
-      "theme": "theme_c88d2c236c0613ec",
+      "category": "trending",
+      "theme": "theme_b9e84a67da08820b",
       "entities": [
         "US",
-        "AP",
-        "Matthew Lee",
-        "Associated Press"
+        "Jeffrey Epstein",
+        "Epstein",
+        "Know About",
+        "Alleged Jeffrey Epstein Suicide"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 33,
+      "source_count": 28,
       "articles": [
         {
-          "title": "US state department to start revoking passports of parents who owe child support",
-          "url": "https://www.theguardian.com/us-news/2026/may/07/state-department-passport-revocations-child-support",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-07T22:41:33.000Z",
-          "image": "https://i.guim.co.uk/img/media/88a0175a0975ea8edbbac9e256d0b7fedd391338/597_0_5526_4422/master/5526.jpg?width=140&quality=85&auto=format&fit=max&s=c8fac28fca3470439638549080ef413a"
+          "title": "US judge releases purported Jeffrey Epstein suicide note",
+          "url": "https://www.aljazeera.com/news/2026/5/7/us-judge-releases-purported-jeffrey-epstein-suicide-note",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-07T15:49:09.000Z",
+          "description": "Judge does not make claim on authenticity of document, filed in court as part of criminal case of former cell mate."
         },
         {
-          "title": "US will start revoking passports for thousands of parents who owe child support, AP learns (Matthew Lee/Associated Press)",
-          "url": "https://www.memeorandum.com/260507/p98",
-          "source": "memeorandum",
-          "published_at": "2026-05-07T22:00:29.000Z",
-          "image": "http://www.memeorandum.com/260507/i98.jpg"
+          "title": "US judge releases Jeffrey Epstein's purported suicide note",
+          "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo",
+          "source": "BBC News",
+          "published_at": "2026-05-07T11:14:59.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da69/live/1e350b00-48b1-11f1-90e6-350a323e11ac.jpg",
+          "description": "Epstein's former cellmate claims he found the note, which has not been verified by the BBC."
         },
         {
-          "title": "US to revoke passports of parents over unpaid child support, starting with debts above $100,000",
-          "url": "https://timesofindia.indiatimes.com/world/us/us-to-revoke-passports-of-thousands-of-parents-over-unpaid-child-support-starting-with-debts-above-100000/articleshow/130924794.cms",
-          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-          "published_at": "2026-05-07T21:08:41.000Z",
-          "image": "https://static.toiimg.com/photo/msid-130925426,imgsize-89602.cms"
+          "title": "U.S. court releases Jeffrey Epstein’s purported suicide note",
+          "url": "https://nationalpost.com/news/world/epstein-suicide-note",
+          "source": "National Post",
+          "published_at": "2026-05-07T00:40:07.000Z",
+          "description": "'It is a treat to be able to choose ones time to say goodbye,' reads the letter, obtained from a former cellmate who has long denied he attacked the notorious sex offender"
         },
         {
-          "title": "US will start revoking passports for thousands of parents who owe child support",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/07/us-will-start-revoking-passports-for-thousands-of-parents-who-owe-child-support_6753232_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-07T20:15:12.000Z",
-          "image": "https://img.lemde.fr/2026/04/28/560/0/6720/3360/644/322/60/0/d60df06_ftp-1-qfmeoiwkrcxg-5fb794f633d74724b9aaed90aecf7198-0-3e5227b1acf644209cb2a2bd033acdee.jpg"
+          "title": "Jeffrey Epstein’s purported suicide note released by US judge",
+          "url": "https://www.ft.com/content/b0fd8603-903f-47fd-a782-f6c4d20d04b2",
+          "source": "International homepage",
+          "published_at": "2026-05-07T00:29:18.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f9e0248-dfbd-4e11-9f15-bc74a795eadd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "The child sex offender’s former cellmate claims to have discovered the handwritten message"
         },
         {
-          "title": "US will start revoking passports for thousands of parents who owe child support, AP learns",
-          "url": "https://www.yahoo.com/news/articles/us-start-revoking-passports-thousands-192857639.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-07T19:28:57.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/a618cc0522665e34b7abc25c442cb6e2"
+          "title": "US judge releases purported Epstein suicide note",
+          "url": "https://www.iol.co.za/news/world/us-judge-releases-purported-epstein-suicide-note-88fac683-d425-45ba-b3a3-9ab5e3caf2d3",
+          "source": "IOL section feed for News",
+          "published_at": "2026-05-07T07:53:38.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/fcd591e79c16b2d205dc2294f34d11cff3c78ac8/1920&operation=CROP&offset=0x0&resize=1920x1080"
         }
-      ]
+      ],
+      "summary": "A U.S. judge released a purported suicide note attributed to Jeffrey Epstein, submitted in the criminal case of his former cellmate. The document’s authenticity has not been verified."
     },
     {
-      "id": "topic_7a5eb0e71dc25e42",
+      "id": "topic_55884c7aa6bbcf01",
+      "title": "Google Introduces Google Health App and Screenless Fitbit Air",
+      "headline": "Google Is Rebranding the Fitbit App to ‘Google Health’",
       "label": [
-        "accord commercial",
-        "commercial",
-        "accord",
-        "commercial avec",
-        "avec les",
-        "unis"
+        "fitbit",
+        "google",
+        "health",
+        "app",
+        "rebranding",
+        "dead"
       ],
       "category": "new",
-      "theme": "theme_865dead12b45e8cb",
+      "theme": "theme_963817e35debbc5",
       "entities": [
-        "Accord",
-        "Unis",
-        "Donald Trump",
-        "Union",
-        "UE"
+        "Google Is Rebranding",
+        "Fitbit App",
+        "Google Health",
+        "The Fitbit",
+        "Google Unveils Screenless Fitbit"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 17,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Accord commercial avec les États-Unis : Donald Trump fixe un ultimatum à l’Union européenne",
-          "url": "https://www.sudouest.fr/international/accord-commercial-avec-les-etats-unis-donald-trump-fixe-un-ultimatum-a-l-union-europeenne-28977461.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-07T20:28:06.000Z"
+          "title": "Google Is Rebranding the Fitbit App to ‘Google Health’",
+          "url": "https://www.wired.com/story/google-is-rebranding-the-fitbit-app-to-google-health",
+          "source": "Feed: All Latest",
+          "published_at": "2026-05-07T14:00:00.000Z",
+          "image": "https://media.wired.com/photos/69fa105ac5055943f4f3c7f3/master/pass/HealthApp-1-Overview%20copy.jpg",
+          "description": "Google is sunsetting Google Fit by year’s end. While Fitbit remains very much alive, the rebranded Google Health app is your one-stop shop for all things health and fitness."
         },
         {
-          "title": "Donald Trump dit donner à l’UE jusqu’au 4 juillet pour appliquer l’accord commercial avec les États-Unis",
-          "url": "https://www.ouest-france.fr/economie/droits-de-douane/donald-trump-dit-donner-a-lue-jusquau-4-juillet-pour-appliquer-laccord-commercial-avec-les-etats-unis-566c1c6c-4a4a-11f1-8d87-12b6ad9d9d1b",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-07T20:04:16.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1N2NiMGZhNzFkMTRhNGU4NDlkYzM1OGNkMTU2OTYwOGU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=898cf1e4c173dabccf0c5d34a624563d192f7b29ced17c917b4a130c1b04164a"
+          "title": "The Fitbit app is dead, long live Google Health",
+          "url": "https://www.androidpolice.com/fitbit-app-is-now-google-health",
+          "source": "Android Police",
+          "published_at": "2026-05-07T20:09:41.000Z",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/google-health-hero.jpg",
+          "description": "There's a lot to unpack here"
         },
         {
-          "title": "Droits de douane : Trump dit donner à l’UE jusqu’au 4 juillet pour respecter l’accord commercial, menaçant d’une hausse des tarifs",
-          "url": "https://www.rtbf.be/article/droits-de-douane-trump-dit-donner-a-l-ue-jusqu-au-4-juillet-pour-respecter-l-accord-commercial-menacant-d-une-hausse-des-tarifs-11720907",
-          "source": "- Info",
-          "published_at": "2026-05-07T19:48:23.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/2/8/7/26f53e0d72b6ff2c77c181d40f61c453.jpg"
+          "title": "Google Unveils Screenless Fitbit Air, Google Health App To Replace Fitbit",
+          "url": "https://tech.slashdot.org/story/26/05/07/1715225/google-unveils-screenless-fitbit-air-google-health-app-to-replace-fitbit",
+          "source": "Slashdot",
+          "published_at": "2026-05-07T19:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "An anonymous reader quotes a report from Ars Technica: Wearables have really come full circle. The early Fitbits didn't have screens, but the move to smartwatches put a screen on everyone's wrist. Now, devices like Whoop and Hume are designed as data trackers first and foremost without so much as a…"
         },
         {
-          "title": "Donald Trump donne à l'Union européenne jusqu'au 4 juillet pour appliquer l'accord commercial avec les Etats-Unis",
-          "url": "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-donne-a-l-union-europeenne-jusqu-au-4-juillet-pour-appliquer-l-accord-commercial-avec-les-etats-unis_7990076.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-07T19:47:31.000Z",
-          "image": "https://www.franceinfo.fr/pictures/vNK1jQqZKDYQMpAZZYy_T6i90uQ/0x53:1024x629/432x243/filters:format(jpg)/2026/05/07/69fcea6633025245478258.jpg"
+          "title": "Google Health Introduced as Fitbit Replacement, Google Health Coach Too",
+          "url": "https://www.droid-life.com/2026/05/07/google-health-app-update-fitbit-coach-premium",
+          "source": "Droid Life – Opinionated Android news.",
+          "published_at": "2026-05-07T14:00:00.000Z",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-Health-980x639.jpg",
+          "description": "Today is a very big day in the world of Google, its wearables, and its goals for fitness and health going forward. Not only did Google announce the Fitbit Air, they also introduced Google Health for the first time, with a Google Health Premium plan and Coach along for the ride. If you are a... Read…"
+        },
+        {
+          "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxnoeu0clfgx3gxdgppody3tupobfnlvm9sqxpwwliwtjfruzmzme9xuffrsty1ogy1oue5qtj5bjnhdda5ag14dem3c2l3ytf0nwmzbu10znexzwnpq25sqy1faujunhzyykxjbmj2bwnqs2rhx3q4te1fdzu4d2hkrc1zajz5d2q0qtm0tegxadvfbs14dzezb0rvbjhkmgfcrni3aguywi01wv9xd2q3wf9jeenzv2xb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-07T14:00:50.000Z",
+          "description": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit Ars Technica Introducing the all-new Fitbit Air blog.google New $100 Fitbit is just a band, and that’s the point Morning Brew Google’s plan to win the AI health race? Play nice with Apple and other rivals CNN Google's Bigg…"
         }
-      ]
+      ],
+      "summary": "Google introduced the Google Health app as a replacement for Fitbit’s app and said Google Fit will be sunset by the end of the year. The company also unveiled the screenless Fitbit Air fitness band."
     },
     {
-      "id": "topic_cccdd84c1fe7e075",
+      "id": "topic_63951a03f17e94b7",
+      "title": "Shakira Announces 2026 World Cup Song “Dai Dai”",
+      "headline": "Shakira, la voz de la canción oficial del Mundial: \"Dai Dai\"",
       "label": [
-        "brazil lula",
-        "brazil",
-        "talk",
-        "relation",
-        "lula",
-        "lula sees"
+        "dai",
+        "shakira",
+        "mundial",
+        "oficial",
+        "canción",
+        "fifa"
       ],
       "category": "new",
-      "theme": "theme_a81c55796b7db5dd",
+      "theme": "theme_ecc04bbafa6c24e5",
       "entities": [
-        "Trump",
-        "Brazil",
-        "Lula",
-        "US"
+        "Shakira",
+        "Mundial",
+        "Dai Dai",
+        "Lanza Shakira",
+        "FIFA"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Trump and Brazil's Lula hail positive talks after rocky relations",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/08/trump-and-brazil-s-lula-hail-positive-talks-after-rocky-relations_6753233_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-07T22:04:04.000Z",
-          "image": "https://img.lemde.fr/2026/05/07/164/0/8256/4128/644/322/60/0/16413a4_ftp-1-1e3lqz5ga01j-5971702-01-06.jpg"
+          "title": "Shakira, la voz de la canción oficial del Mundial: \"Dai Dai\"",
+          "url": "https://www.informador.mx/deportes/mundial-2026-de-la-fifa-ya-cuenta-con-cancion-oficial-dai-dai-de-sahkira-donde-escucharla-20260507-0080.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-07T17:10:00.000Z",
+          "description": "El título del himno del certamen de la FIFA lleva por nombre \"Dai Dai\" y se estrenará este 14 de mayo"
         },
         {
-          "title": "Brazil's Lula sees reset in relations with U.S. after talks with Trump",
-          "url": "https://japantoday.com/category/world/brazil%27s-lula-sees-reset-in-relations-with-us-after-talks-with-trump",
-          "source": "Japan Today",
-          "published_at": "2026-05-07T21:38:47.000Z"
-        },
-        {
-          "title": "Brazil’s Lula sees reset in relations with US after talks with Trump",
-          "url": "https://www.investing.com/news/commodities-news/brazils-lula-visits-trump-in-washington-seeking-to-avert-new-us-trade-tariffs-4666528",
-          "source": "All News",
-          "published_at": "2026-05-07T20:06:56.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460L0_L.jpg"
-        },
-        {
-          "title": "Trump hails talks with Brazil’s Lula despite earlier tensions",
-          "url": "https://www.thehindu.com/news/international/trump-lula-meeting-in-washington-usa-brazil-updates/article70952685.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-07T19:54:26.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/yyh2cm/article70952690.ece/alternates/LANDSCAPE_1200/2026-05-07T191858Z_2133990112_RC2J4LAF223T_RTRMADP_3_USA-TRUMP-BRAZIL.JPG"
-        }
-      ]
-    },
-    {
-      "id": "topic_5cdd18a130581bd2",
-      "label": [
-        "champion league",
-        "champion",
-        "league",
-        "uefa",
-        "uefa champion",
-        "league 2026"
-      ],
-      "category": "new",
-      "theme": "theme_d9c7e34c0bd45007",
-      "entities": [
-        "Travel",
-        "Champions League",
-        "Did Arsenal",
-        "Champions League Final",
-        "UEFA Champions League Team"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Travel costs soar for Champions League final",
-          "url": "https://www.france24.com/en/travel-costs-soar-for-champions-league-final",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-07T21:06:59.000Z",
-          "image": "https://s.france24.com/media/display/8b17418c-4a57-11f1-9511-005056bf30b7/w:1024/p:16x9/capture-31221417469fcfd06c83222-65139472.jpg"
-        },
-        {
-          "title": "Did Arsenal really over-celebrate reaching the Champions League Final?",
-          "url": "https://sports.yahoo.com/articles/did-arsenal-really-over-celebrate-210000561.html",
-          "published_at": "2026-05-07T21:00:00.000Z"
-        },
-        {
-          "title": "UEFA Champions League Team: Four Arsenal, PSG stars, two Bayern Munich players included",
-          "url": "https://dailypost.ng/2026/05/07/uefa-champions-league-team-four-arsenal-psg-stars-two-bayern-munich-players-included",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-07T20:33:53.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/03/Arsenal-and-Man-City.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_54d02d905113c5b0",
-      "label": [
-        "dentiste",
-        "dentiste condamn",
-        "condamn six",
-        "six ans",
-        "pour des",
-        "condamn"
-      ],
-      "category": "new",
-      "theme": "theme_1ba5b4a57da16cc5",
-      "entities": [
-        "Un",
-        "Loz",
-        "Arracher",
-        "En Loz"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "\"Un travail inutile, bâclé, risqué\" : un ex-dentiste condamné à six ans de prison pour des dizaines de mutilations en Lozère",
-          "url": "https://www.franceinfo.fr/faits-divers/justice-proces/un-travail-inutile-bacle-risque-un-ex-dentiste-condamne-a-six-ans-de-prison-pour-des-dizaines-de-mutilations-en-lozere_7990061.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-07T19:17:42.000Z",
-          "image": "https://www.franceinfo.fr/pictures/jfI0mLRsyZn6wsOZc_hc5zLBItU/0x53:1024x629/432x243/filters:format(jpg)/2026/05/07/69fce3e9459f0378552928.jpg"
-        },
-        {
-          "title": "« Arracher, implanter, facturer ! » : un dentiste condamné à six ans pour des mutilations",
-          "url": "https://www.ouest-france.fr/societe/justice/arracher-implanter-facturer-un-dentiste-condamne-a-six-ans-pour-des-mutilations-ead3daac-4a45-11f1-8d87-12b6ad9d9d1b",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-07T19:05:16.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1OTUzNDY5MGU1NTRjYmNiNGFkNzU4ODM1YmJmMzFlYTE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=cf59d1feb408cf6ebc9af6ec1231dfa698ea2aa085221033376f0d43b8b531b9"
-        },
-        {
-          "title": "Un ex-dentiste condamné à six ans de prison pour des dizaines de mutilations en Lozère",
-          "url": "https://www.sudouest.fr/faits-divers/un-ex-dentiste-condamne-a-six-ans-de-prison-pour-des-dizaines-de-mutilations-en-lozere-28976359.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-07T18:40:24.000Z"
-        },
-        {
-          "title": "En Lozère, un ancien dentiste a été condamné à six ans de prison, pour des dizaines de mutilations de patients",
-          "url": "https://www.lemonde.fr/societe/article/2026/05/07/en-lozere-un-ancien-dentiste-a-ete-condamne-a-six-ans-de-prison-pour-des-dizaines-de-mutilations-de-patients_6686603_3224.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-07T18:39:45.000Z",
-          "image": "https://img.lemde.fr/2026/05/07/138/0/4133/2066/644/322/60/0/2a94cb1_upload-1-1crcqup3yyro-maxbestof345208.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_247e5f6e26cffa24",
-      "label": [
-        "en palacio",
-        "nacional",
-        "palacio nacional",
-        "palacio",
-        "sheinbaum",
-        "legislador"
-      ],
-      "category": "new",
-      "theme": "theme_880249d6d0091114",
-      "entities": [
-        "Esta",
-        "De",
-        "Sheinbaum",
-        "BTS",
-        "Palacio Nacional"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Esta es la oficina presidencial’: ¿De qué hablaron Sheinbaum y BTS en Palacio Nacional?",
-          "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/05/07/de-que-hablaron-claudia-sheinbaum-y-bts-en-palacio-nacional",
-          "source": "El Financiero",
-          "published_at": "2026-05-07T21:08:41.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/uLN4ULLrFem1nO9LxAIY_M5eAqY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3ZBSRTENKRDYNL2XSOJB6RYG4E.jpg"
-        },
-        {
-          "title": "Legisladores morenistas y aliados se reúnen con Sheinbaum en Palacio Nacional",
-          "url": "https://vanguardia.com.mx/noticias/legisladores-morenistas-y-aliados-se-reunen-con-sheinbaum-en-palacio-nacional-ae20537632",
-          "source": "Vanguardia",
-          "published_at": "2026-05-07T19:13:52.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1080830-sheinbaum-conferencia-del-pu_1-15338517_20260507192723.jpg"
-        },
-        {
-          "title": "Recibe Sheinbaum a legisladores de la 4T en Palacio Nacional",
-          "url": "https://www.elnorte.com/recibe-sheinbaum-a-legisladores-de-la-4t-en-palacio-nacional/ar3200157",
-          "source": "ElNorte",
-          "published_at": "2026-05-07T19:07:32.000Z"
-        },
-        {
-          "title": "Recibe Sheinbaum a legisladores de la 4T en Palacio Nacional",
-          "url": "https://www.reforma.com/recibe-sheinbaum-a-legisladores-de-la-4t-en-palacio-nacional/ar3200134",
+          "title": "Lanza Shakira 'Dai Dai', tema oficial del Mundial 2026",
+          "url": "https://www.reforma.com/lanza-shakira-dai-dai-tema-oficial-del-mundial-2026/ar3200067",
           "source": "Reforma",
-          "published_at": "2026-05-07T19:07:05.000Z"
+          "published_at": "2026-05-07T17:29:45.000Z",
+          "description": "Shakira anunci� 'Dai Dai', la nueva canci�n oficial del Mundial 2026, que saldr� el pr�ximo 14 de mayo."
+        },
+        {
+          "title": "Le pondr� Shakira ritmo al Mundial con 'Dai Dai'",
+          "url": "https://www.elnorte.com/le-pondra-shakira-ritmo-al-mundial-con-dai-dai/ar3200069",
+          "source": "ElNorte",
+          "published_at": "2026-05-07T17:30:44.000Z",
+          "description": "Shakira anuncia 'Dai Dai', la nueva canci�n oficial del Mundial 2026, que saldr� el pr�ximo 14 de mayo."
+        },
+        {
+          "title": "Shakira vuelve al Mundial: FIFA confirma ‘Dai Dai’ como himno oficial de 2026",
+          "url": "https://vanguardia.com.mx/show/shakira-vuelve-al-mundial-fifa-confirma-dai-dai-como-himno-oficial-de-2026-dd20540175",
+          "source": "Vanguardia",
+          "published_at": "2026-05-07T20:30:25.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/shakira-vuelve-al-mundial-fifa-confi_1-15339546_20260507204353.jpg",
+          "description": "La canción ‘Dai Dai’, interpretada por la colombiana Shakira, será el tema oficial del FIFA World Cup 2026, que se disputará entre junio y julio en Estados Unidos, México y Canadá, anunció la artista en un breve video publicado en sus redes sociales. El tema será lanzado el próximo 14 de mayo."
+        },
+        {
+          "title": "El Mundial 2026 ya tiene canción oficial: Shakira muestra cómo suena &#039;Dai Dai&#039;",
+          "url": "https://www.huffingtonpost.es/life/el-mundial-2026-cancion-oficial-shakira-muestra-como-suena-dai-dai-f202605.html",
+          "source": "HuffPost Spain for Athena2",
+          "published_at": "2026-05-07T17:10:20.000Z",
+          "description": "Waka Waka, todo un temazo con versión en español y en inglés para el Mundial de Sudáfrica, Shakira vuelve a poner música a un mundial de fútbol. ]]>"
         }
-      ]
+      ],
+      "summary": "Shakira announced “Dai Dai” as the official song of the 2026 FIFA World Cup. The song is set to be released on May 14."
     },
     {
-      "id": "topic_a7ee121e7b2a4f36",
+      "id": "topic_bef2afdfe92e44c6",
+      "title": "Jake Hall, Former TOWIE Star, Dies at 35 in Spain",
+      "headline": "The Only Way Is Essex star Jake Hall dies aged 35",
       "label": [
-        "iran still",
-        "still review",
-        "proposal",
-        "review",
-        "still",
-        "iran"
+        "jake",
+        "hall",
+        "star",
+        "dies",
+        "towie",
+        "essex"
       ],
       "category": "new",
-      "theme": "theme_1aef1b1cce497ac2",
+      "theme": "theme_35058b4a8f643fed",
       "entities": [
-        "Iran",
-        "Trump",
-        "Reports",
-        "Kevin Breuninger",
-        "CNBC"
+        "The Only Way Is",
+        "Essex",
+        "Jake Hall",
+        "TOWIE",
+        "Majorca"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 13,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports (Kevin Breuninger/CNBC)",
-          "url": "https://www.memeorandum.com/260507/p89",
-          "source": "memeorandum",
-          "published_at": "2026-05-07T20:35:01.000Z",
-          "image": "http://www.memeorandum.com/260507/i89.jpg"
+          "title": "The Only Way Is Essex star Jake Hall dies aged 35",
+          "url": "https://www.bbc.com/news/articles/cdrpxe18ke5o",
+          "source": "BBC News",
+          "published_at": "2026-05-07T11:48:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad7/live/fccb7150-4a01-11f1-a9e7-0f8f590f205b.jpg",
+          "description": "The reality TV star, model and former footballer died in Spain."
         },
         {
-          "title": "Iran Still Reviewing U.S. Proposal",
-          "url": "https://politicalwire.com/2026/05/07/iran-still-reviewing-u-s-proposal",
-          "source": "Political Wire",
-          "published_at": "2026-05-07T19:58:22.000Z"
+          "title": "TOWIE star Jake Hall dies aged 35 after 'smashing into glass door' during Majorca villa party",
+          "url": "https://www.dailymail.com/news/article-15797847/towie-star-jake-hall-dies-aged-35-smashing-glass-door-majorca-villa-party.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-05-07T10:09:54.000Z",
+          "image": "https://i.dailymail.com/1s/2026/05/07/11/108435793-0-image-a-39_1778148296230.jpg",
+          "description": "Police found the 35-year-old former reality show contestant lying in a pool of blood with fatal head wounds seemingly caused by shards of glass."
         },
         {
-          "title": "Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports",
-          "url": "https://www.cnbc.com/2026/05/07/trump-iran-war-peace-hormuz-strait.html",
-          "source": "International: Top News And Analysis",
-          "published_at": "2026-05-07T19:41:07.000Z"
-        },
-        {
-          "title": "Iran still reviewing new U.S. peace proposal as Trump predicts war will 'be over quickly': Reports - CNBC",
-          "url": "https://news.google.com/rss/articles/cbmie0fvx3lxte1ntk95nvl4ck9xem5gqtzoyuhsd29nrfrux1lqrdjhveg0c1ltr19cuklrcwhwu1declvsbm55vdj5t251ny10u25nu05adgfja0iwnvn4dxlmdxy3cdfubhmztxh0tkvzz0pxbvgtai13zwxnnk9rvnjmrdibgafbvv95cuxqc1fkvzhix1i5njbov3htu21jowfstzbkwfvxt0tcuedpalf3lwddeu9vs1jvdk1luhl0dwvvwm9kwedgvzvzoe9qvut5dhq3tzmwvwnengnvvzfdqlnydxdzbufyy3hrotf1nvn3eezcmvrgdw42oudjwi1jzmzgwa",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-07T19:41:07.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_ba778a10f93715f6",
-      "label": [
-        "jessie",
-        "buckley",
-        "mescal",
-        "jessie buckley",
-        "paul mescal",
-        "hold angel"
-      ],
-      "category": "new",
-      "theme": "theme_386ec5f911b95ed5",
-      "entities": [
-        "Hamnet",
-        "Reunion",
-        "Jessie Buckley",
-        "Paul Mescal",
-        "Star"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Hamnet’ Reunion! Jessie Buckley and Paul Mescal to Star in Benh Zeitlin’s ‘Hold on to Your Angels’",
-          "url": "https://www.indiewire.com/news/breaking-news/hamnet-reunion-jessie-buckley-paul-mescal-benh-zeitlin-1235192801",
-          "source": "IndieWire",
-          "published_at": "2026-05-07T21:35:04.000Z"
-        },
-        {
-          "title": "Paul Mescal and Jessie Buckley to Reunite After ‘Hamnet’ for Benh Zeitlin’s Outlaw Romance ‘Hold On to Your Angels’",
-          "url": "https://variety.com/2026/film/news/paul-mescal-jessie-buckley-zeitlin-hold-on-to-your-angels-1236741030",
-          "source": "Variety",
-          "published_at": "2026-05-07T20:47:54.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/buckley-mescal.jpg"
-        },
-        {
-          "title": "‘Hamnet’ Stars Jessie Buckley & Paul Mescal Reuniting In “Impossible Love Story” ‘Hold On To Your Angels’ From Plan B & Rapt Film; Hot Project Heads To The Cannes Market",
-          "url": "https://deadline.com/2026/05/jessie-buckley-paul-mescal-cast-in-hold-on-to-your-angels-1236886943",
+          "title": "Jake Hall Dies: ‘The Only Way Is Essex’ Star Was 35",
+          "url": "https://deadline.com/2026/05/jake-hall-dead-the-only-way-in-essex-star-35-itv-1236885906",
           "source": "Deadline",
-          "published_at": "2026-05-07T20:37:52.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Jessie-Buckley-and-Paul-Mescal-.jpg"
+          "published_at": "2026-05-07T15:35:23.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2265602234-e1778167768923.jpg",
+          "description": "Jake Hall, who previously featured on ITV reality show The Only Way is Essex, has died in Spain. He was 35. According to The Sun, Hall sustained head injuries and died after an accident at a villa in Majorca. A spokesperson for the UK’s Foreign, Commonwealth & Development Office told BBC News: “We…"
         },
         {
-          "title": "Jessie Buckley & Paul Mescal Reuniting On 'Hold On To Your Angels' - Deadline",
-          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxpwgtls1decxfsy182dlloueywbgr0q2jbqkhmufj0dhnzb3lqntfxclr6dmhuzdl1qkrnos1hszz0x3l2dzruteltqklsuzbkqvr4zepzu0redkjzd1pvvxnlntvvwkdmblr0vhnmwwx1euvbx1hwm0pxdhf2lu4znv9rb2zwr0w0yxfyd0n0r3rzeg90mkllx2ddm0fktnc",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-07T20:37:00.000Z"
+          "title": "The Only Way Is Essex star Jake Hall found dead in Mallorca",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/may/07/the-only-way-is-essex-jake-hall-found-dead-mallorca-towie",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-05-07T12:58:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/2c733a6a43eaf1f9a93bf15c9bfba44ead3b7228/12_0_2253_1802/master/2253.jpg?width=140&quality=85&auto=format&fit=max&s=13a7d0b73556855e68af6b60c25f7b1c",
+          "description": "Towie star Hall, 35, found unresponsive with head wounds reportedly caused by shards of glass at villa on Spanish island The Only Way Is Essex star Jake Hall has been found dead in a freak accident in Mallorca. The former reality TV show personality was found unresponsive with head wounds reportedl…"
+        },
+        {
+          "title": "TOWIE's Jake Hall dies aged 35 after tragic 'glass door' accident at Majorca villa",
+          "url": "https://www.irishmirror.ie/showbiz/celebrity-news/towies-jake-hall-dies-aged-37123145",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-05-07T10:54:40.000Z",
+          "image": "https://i2-prod.mirror.co.uk/incoming/article37123191.ece/ALTERNATES/s615/0_This-Morning-TV-Programme-London-Britain-12-Jun-2015.jpg",
+          "description": "TOWIE star Jake Hall has died aged 35 after being found dead at a Spanish holiday villa in Majorca, with reports suggesting he smashed into a glass door in a tragic accident"
         }
-      ]
+      ],
+      "summary": "Jake Hall, a former star of The Only Way Is Essex, has died in Spain at age 35. Reports say he was found with fatal head injuries at a villa in Majorca after an apparent accident involving a glass door."
     },
     {
-      "id": "topic_5346ffaa322240df",
+      "id": "topic_24d4c36d2fc1266b",
+      "title": "China Gives Two Former Defence Ministers Suspended Death Sentences",
+      "headline": "China sentences former defence ministers to death with reprieve",
       "label": [
-        "perplexity",
-        "computer",
-        "personal computer",
-        "mac",
-        "personal",
-        "perplexity ai"
+        "sentences",
+        "ministers",
+        "china",
+        "death",
+        "defence",
+        "former"
       ],
       "category": "new",
-      "theme": "theme_f216df793b5f5e90",
+      "theme": "theme_ffb13b03e031bf49",
       "entities": [
-        "Perplexity",
-        "Personal Computer",
-        "Mac",
-        "Personal Computer AI",
-        "Perplexity AI"
+        "China",
+        "Reuters",
+        "China Sentences",
+        "Former Defense Ministers",
+        "Bribery Charges"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Perplexity’s Personal Computer is now available everyone on Mac",
-          "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac",
-          "source": "TechCrunch",
-          "published_at": "2026-05-07T19:57:59.000Z"
+          "title": "China sentences former defence ministers to death with reprieve",
+          "url": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-07T10:58:22.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/c5c805e7337d5c8fea41f58aad733eab"
         },
         {
-          "title": "Perplexity opens up its Personal Computer AI assistant to all Mac users",
-          "url": "https://www.engadget.com/2167301/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users",
+          "title": "China sentences former defence ministers to death for corruption",
+          "url": "https://www.premiumtimesng.com/foreign/877783-china-sentences-former-defence-ministers-to-death-for-corruption.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-05-07T20:45:29.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/MixCollage-07-May-2026-09-39-PM-9175.jpg?fit=2560%2C1440&amp;ssl=1",
+          "description": "The former Chinese defence ministers, Wei Fenghe and Li Shangfu, were both sentenced to death with ​a two-year reprieve over graft charges. The post China sentences former defence ministers to death for corruption appeared first on Premium Times Nigeria."
+        },
+        {
+          "title": "China sentences former defence ministers to death with reprieve",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpcmg2u1jsqnexcdruwkxomvj0qtfydddjajnxbhb2dnq4tzbpa1viotjmudbyvzm1q1h0zfflbtu2bdjxzfe5etjrzelwq2d5anhknzmwmfvibe9kyumtx05jqmnqzuvvntlny0tktk1jnnzpbhlbd3fochdxs0rztjbhn0luatfcakrksuxockvsnkc0qtf1t1lnm09snfv3z21nnhuzbwrpnfj3sjnwymfrqmvjywlometyrxhb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-07T11:03:24.000Z",
+          "description": "China sentences former defence ministers to death with reprieve Reuters China gives suspended death sentences to two former defense ministers CNN China announces suspended death sentences for former defence ministers BBC China Sentences 2 Former Defense Ministers on Bribery Charges The New York Tim…"
+        },
+        {
+          "title": "China sentences former defence ministers to death in sweeping military graft purge",
+          "url": "https://timesofindia.indiatimes.com/world/china/china-sentences-former-defence-ministers-to-death-in-sweeping-military-graft-purge/articleshow/130889569.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-07T10:39:00.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130890052,imgsize-951516.cms",
+          "description": "China has handed down death sentences with a two-year reprieve to former defence ministers Wei Fenghe and Li Shangfu for corruption. This significant development is part of President Xi Jinping's extensive anti-graft campaign targeting the military and political elite. Both officials were found gui…"
+        },
+        {
+          "title": "China sentences two ex-ministers to death with reprieve",
+          "url": "https://www.perthnow.com.au/news/politics/china-sentences-two-ex-ministers-to-death-with-reprieve-c-22252513",
+          "source": "PerthNow",
+          "published_at": "2026-05-07T20:54:14.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22252513/02d75edc858d1883718b5155ae047cb590c87622-16x9-x0y0w1280h720.jpg",
+          "description": "Two former Chinese defence ministers have been sentenced ‌to death with a two-year reprieve over corruption charges."
+        }
+      ],
+      "summary": "Former Chinese defence ministers Wei Fenghe and Li Shangfu received death sentences with two-year reprieves over corruption charges, according to reports."
+    },
+    {
+      "id": "topic_b94affe198932341",
+      "title": "David Warner to Accept Responsibility in Drink-Driving Case",
+      "headline": "Cricket star David Warner ‘foolish’ and ‘reckless’ when drink driving, says lawyer",
+      "label": [
+        "drink",
+        "warner",
+        "foolish",
+        "reckless",
+        "driving",
+        "lawyer"
+      ],
+      "category": "new",
+      "theme": "theme_99b9748afa9ec1b",
+      "entities": [
+        "Cricket",
+        "David Warner",
+        "David Warner Accepts",
+        "Reckless",
+        "Foolish"
+      ],
+      "article_count": 14,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Cricket star David Warner ‘foolish’ and ‘reckless’ when drink driving, says lawyer",
+          "url": "https://www.theguardian.com/sport/2026/may/07/david-warner-drink-driving-charge-australia-cricket-star-ntwnfb",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-05-07T05:58:11.000Z",
+          "image": "https://i.guim.co.uk/img/media/d4d9b6ed395131b80c9b8a0208a9926f30c2ab03/194_0_4229_3385/master/4229.jpg?width=140&quality=85&auto=format&fit=max&s=c92677047d5db4c3d4b869c68a72f832",
+          "description": "Australian batter had three glasses of wine before being pulled over Warner expects to be punished but will ask for leniency One of Australia’s greatest batters was both foolish and reckless when he drove after sharing a few glasses of wine with friends on Easter Sunday, his lawyer says. David Warn…"
+        },
+        {
+          "title": "David Warner Accepts 'Reckless, Foolish' Drink-Driving Decision - Full Details",
+          "url": "https://sports.ndtv.com/cricket/david-warner-accepts-reckless-foolish-drink-driving-decision-full-details-11460707",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-07T07:19:23.000Z",
+          "image": "https://c.ndtvimg.com/2026-04/bi5bpdvs_david-warner_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+          "description": "Former Australian Test cricketer David Warner will accept responsibility for a \"reckless\", \"foolish\" decision to get in his car after sharing a few glasses of wine, which resulted in a mid-range drink-driving charge, his lawyer said."
+        },
+        {
+          "title": "Cricket legend David Warner made ‘foolish, reckless decision’ to drink-drive",
+          "url": "https://www.smh.com.au/national/cricket-legend-david-warner-made-foolish-reckless-decision-to-drink-drive-20260507-p5zuos.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-07T02:35:12.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3499961486221639%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_832%2C$y_184/t_crop_custom/q_86%2Cf_jpg/376d9fca614510eb4a73eaf995164f86a474d01c",
+          "description": "The former Test opener for Australia returned a positive result on Easter Sunday. His lawyer says he “knows what he did was wrong”."
+        },
+        {
+          "title": "‘A reckless, foolish decision’: Warner to accept responsibility in drink-driving case",
+          "url": "https://timesofindia.indiatimes.com/sports/off-the-field/a-reckless-foolish-decision-david-warner-to-accept-responsibility-in-drink-driving-case/articleshow/130883141.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-07T06:49:50.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130883332,imgsize-8270.cms",
+          "description": "Former Australian cricketer David Warner will accept responsibility for a \"reckless\" and \"foolish\" drink-driving offence. His lawyer stated Warner deeply regrets the incident, acknowledging he made a poor decision to drive after consuming three glasses of wine. The 39-year-old star expects to face…"
+        },
+        {
+          "title": "David Warner 'made a mistake' drink driving, lawyer says",
+          "url": "https://www.brisbanetimes.com.au/national/david-warner-made-a-mistake-drink-driving-lawyer-says-20260507-p5zup8.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-07T02:25:52.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c8e4a0156caccaa19d0ec2225419644da32a54fe",
+          "description": "Cricket star David Warner was charged with drink driving after allegedly failing a breath test on Easter Sunday."
+        }
+      ],
+      "summary": "Former Australian cricketer David Warner will accept responsibility for a drink-driving offence, his lawyer said. The lawyer described Warner’s decision to drive after drinking as reckless and foolish."
+    },
+    {
+      "id": "topic_7c8a9ecc4fbca6fa",
+      "title": "Australian Women and Children Linked to ISIS Return From Syria",
+      "headline": "Australian Women and Children Linked to ISIS Fighters Return Home",
+      "label": [
+        "linked",
+        "women",
+        "return",
+        "isis",
+        "australian",
+        "children"
+      ],
+      "category": "new",
+      "theme": "theme_22e3e8662f5a571c",
+      "entities": [
+        "Australian Women",
+        "Children Linked",
+        "ISIS Fighters Return Home",
+        "Australian",
+        "Linked"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Australian Women and Children Linked to ISIS Fighters Return Home",
+          "url": "https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-05-07T08:55:30.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07int-oz-syria-pwqk/07int-oz-syria-pwqk-mediumSquareAt3X.jpg",
+          "description": "Four women and nine children arrived in Australia from detention camps in northeast Syria after a yearslong controversy over their fate."
+        },
+        {
+          "title": "Australian Women and Children Linked to ISIS Fighters Return Home",
+          "url": "https://news.google.com/rss/articles/cbmijwfbvv95cuxodknprflwae1awnhxsvzhzhcyr1z0ogjfmep1t0w0cm5vzmfctwpqelhuz1hyq0frze9umzjurwprbmflcf9qbtc0evdqqzvpekjpm0tqsklprmp3x1fswxu2zi01sdlfqjz3suxibffytthjdhhmred6cvhsctrpnc1abdbmcdjywurvef9una",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-07T13:54:05.000Z",
+          "description": "Australian Women and Children Linked to ISIS Fighters Return Home nytimes.com Three Australian women linked to Islamic State charged with offences over Syria travel BBC Australia charges two women linked to ISIS with slavery after return from Syria Reuters 3 Australian women returning from Syria ar…"
+        },
+        {
+          "title": "Australian women and children Linked to ISIS return home as arrests expected at airport",
+          "url": "https://www.independent.co.uk/news/world/australasia/australia-islamic-state-syria-returns-b2972110.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-07T09:27:11.000Z",
+          "image": "https://static.independent.co.uk/2026/05/07/10/2026-05-07T082403Z_2049218119_RC274LAOEMBN_RTRMADP_3_SYRIA-SECURITY-AUSTRALIA-ISLAMIC-STATE.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "One woman and her child landed in Sydney on Thursday evening via Doha"
+        },
+        {
+          "title": "Australian women and children linked to ISIS return from Syria, several arrested",
+          "url": "https://www.thehindu.com/news/international/australian-women-and-children-linked-to-isis-return-from-syria-several-arrested/article70950842.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-07T11:12:24.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/qwr9xm/article70950861.ece/alternates/LANDSCAPE_1200/2026-05-07T082403Z_2049218119_RC274LAOEMBN_RTRMADP_3_SYRIA-SECURITY-AUSTRALIA-ISLAMIC-STATE.JPG",
+          "description": "‌There was a heavy police presence at Sydney and Melbourne airports as two groups arrived"
+        },
+        {
+          "title": "Australian women linked to ISIS arrested, accused of slavery after Syrian return",
+          "url": "https://japantoday.com/category/world/australian-women-linked-to-isis-arrested-accused-of-slavery-after-syrian-return",
+          "source": "Japan Today",
+          "published_at": "2026-05-07T21:39:46.000Z",
+          "description": "Three Australian women linked to the extremist group Islamic State were arrested on ‌Thursday after arriving home with their children following years in a camp in Syria, and are…"
+        }
+      ],
+      "summary": "Four Australian women and nine children returned from detention camps in northeast Syria. Three women were arrested and charged over alleged offences linked to their travel to Syria."
+    },
+    {
+      "id": "topic_d769038b8f566230",
+      "title": "Lexus Unveils Three-Row Electric SUV TZ",
+      "headline": "View Interior Photos of the 2027 Lexus TZ",
+      "label": [
+        "tz",
+        "lexus",
+        "view",
+        "highlander",
+        "exterior",
+        "range"
+      ],
+      "category": "new",
+      "theme": "theme_ee2280baa496217e",
+      "entities": [
+        "Lexus TZ",
+        "View Interior Photos",
+        "View Exterior Photos",
+        "Lexus TZ Touts",
+        "Rows"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "View Interior Photos of the 2027 Lexus TZ",
+          "url": "https://www.caranddriver.com/photos/g71241070/2027-lexus-tz-revealed-interior-gallery",
+          "source": "Latest Content - Car and Driver",
+          "published_at": "2026-05-07T14:30:00.000Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/3527507e-0160-4b9e-b5e2-74a105aa649f.jpg",
+          "description": "See the inside of the new Lexus TZ from every angle."
+        },
+        {
+          "title": "Дебютировал электрический кроссовер Lexus TZ",
+          "url": "https://korrespondent.net/lifestyle/motors/4876950-debuityroval-elektrycheskyi-krossover-lexus-tz",
+          "source": "Последние новости на сайте korrespondent.net",
+          "published_at": "2026-05-07T18:07:00.000Z",
+          "image": "https://kor.ill.in.ua/m/190x120/4425645.jpg",
+          "description": "Новый флагманский кроссовер был построен на базе Toyota Highlander и получил более мощную установку, премиальный салон без кнопок и необычную систему синтетического звука."
+        },
+        {
+          "title": "The all-new Lexus TZ debuts with six seats and 620km of range",
+          "url": "https://www.topgear.com.ph/news/car-news/lexus-tz-2026-global-launch-a6888-20260507",
+          "source": "Topgear.com.ph",
+          "published_at": "2026-05-07T03:32:00.000Z",
+          "description": "It can be spec’d with an LFA-inspired sound package that simulates a roaring V10"
+        },
+        {
+          "title": "The Lexus TZ is a quieter, upscale take on the Highlander EV",
+          "url": "https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev",
           "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-07T19:22:38.000Z",
-          "image": "https://www.engadget.com/img/gallery/perplexity-opens-up-its-personal-computer-ai-assistant-to-all-mac-users/l-intro-1778181692.jpg"
+          "published_at": "2026-05-07T19:41:57.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev/l-intro-1778182868.jpg",
+          "description": "It's also the company's first fully-electric three-row SUV."
         },
         {
-          "title": "Perplexity AI app introduces ‘all-new native Mac experience’ for Personal Computer",
-          "url": "https://9to5mac.com/2026/05/07/perplexity-ai-app-introduces-all-new-native-mac-experience-for-personal-computer",
-          "source": "9to5Mac",
-          "published_at": "2026-05-07T18:31:07.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600"
-        },
-        {
-          "title": "Perplexity AI app introduces ‘all-new native Mac experience’ for Personal Computer - 9to5Mac",
-          "url": "https://news.google.com/rss/articles/cbmisgfbvv95cuxnsuzkexzob29ymdvby1jqzlvomkvva3i3ytv5eul1ehjcdvvtcgfncglizdb4sujxxzrrd0fdtwpkwk4tqkr5ohj2ug1hovr0nelpd1pxzdjut1lzatvobtctcuxmrtvytvjzbwxscezovhbhdvngvddouzrhnjbvak9zbfdxoerrb1ruuejmvhrimlv5efzgtu9iv1g1cmxbx2vkodjfvzjrnhh3m1vmamnr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-07T18:31:00.000Z"
+          "title": "The 2027 Lexus TZ Borrows The Highlander’s Bones And The LFA’s V10 Voice",
+          "url": "https://www.carscoops.com/2026/05/lexus-tz-electric-suv",
+          "source": "Carscoops",
+          "published_at": "2026-05-07T08:48:00.000Z",
+          "image": "https://www.carscoops.com/wp-content/uploads/2026/05/2027_Lexus_TZ_011-copy-1024x576.jpg",
+          "description": "The Highlander-based EV offers the quietest cabin among Lexus SUVs, but can also play musical chords or mimic the V10 sound of the LFA"
         }
-      ]
+      ],
+      "summary": "Lexus unveiled the TZ, its first fully electric three-row SUV, built on a platform shared with the Toyota Highlander. The six-seat model can include a sound system that simulates a V10 engine."
     },
     {
-      "id": "topic_b6597de0c58afae7",
+      "id": "topic_ffe09830cafa4f90",
+      "title": "Israeli Military Investigates Soldier’s Desecration of Virgin Mary Statue",
+      "headline": "Israeli soldier puts cigarette in Virgin Mary statue’s mouth",
       "label": [
-        "remarkably",
-        "creatur",
-        "remarkably bright",
-        "bright creatur",
-        "creatur review",
-        "bright"
+        "statue",
+        "mary",
+        "soldier",
+        "virgin",
+        "lebanon",
+        "israeli"
       ],
       "category": "new",
-      "theme": "theme_d527664e2d4b1137",
+      "theme": "theme_8961b714062bf9ac",
       "entities": [
-        "Remarkably Bright Creatures",
-        "Review",
-        "Their Octopus Teacher",
-        "Sally Field",
-        "Lewis Pullman Help Each"
+        "Israeli",
+        "Virgin Mary",
+        "Photo",
+        "Lebanon",
+        "IDF"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 6,
       "articles": [
         {
-          "title": "‘Remarkably Bright Creatures’ Review: Their Octopus Teacher",
-          "url": "https://www.nytimes.com/2026/05/07/movies/remarkably-bright-creatures-review.html",
-          "source": "NYT > Movies",
-          "published_at": "2026-05-07T23:00:05.000Z"
+          "title": "Israeli soldier puts cigarette in Virgin Mary statue’s mouth",
+          "url": "https://globalnation.inquirer.net/321743/israeli-soldier-puts-cigarette-in-virgin-mary-statues-mouth",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-07T08:00:12.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/05/virgin-mary-israeli-soldier-desecration-7may2026-620x465.png",
+          "description": "MANILA, Philippines — An Israeli soldier desecrated a statue of the Virgin Mary in southern Lebanon by placing a cigarette in its mouth, an incident reported amid rising attacks on Christians and their religious symbols in areas involving Israeli soldiers or Israeli civilians. The Israel Defense Fo…"
         },
         {
-          "title": "‘Remarkably Bright Creatures’ Review: Sally Field and Lewis Pullman Help Each Other Heal in a Melodrama of Distinctly Average Intelligence",
-          "url": "https://variety.com/2026/film/reviews/remarkably-bright-creatures-review-1236736334",
-          "source": "Variety",
-          "published_at": "2026-05-07T23:00:00.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/04/MCDREBR_ZX002.jpg"
+          "title": "Photo shows Israeli soldier desecrating a Virgin Mary statue in Lebanon",
+          "url": "https://www.france24.com/en/photo-shows-israeli-soldier-desecrating-a-virgin-mary-statue-in-lebanon",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-07T19:34:04.000Z",
+          "image": "https://s.france24.com/media/display/394878e6-4a46-11f1-8b00-005056a90284/w:1024/p:16x9/ANGL260507-2045-Live-CS2045.jpg",
+          "description": "The Israeli military says it has launched an investigation after a photo showing one of its soldiers desecrating a statue of the Virgin Mary in South Lebanon went viral, as he placed a cigarette into the statue's mouth whilst smoking. The IDF said it \"respects freedom of religion\" and that the sold…"
         },
         {
-          "title": "‘Remarkably Bright Creatures’ Review: Sally Field Bonds with an Octopus, but the Human Drama Works Too",
-          "url": "https://www.indiewire.com/criticism/movies/remarkably-bright-creatures-film-review-sally-field-octopus-1235191813",
-          "source": "IndieWire",
-          "published_at": "2026-05-07T23:00:00.000Z"
+          "title": "Israeli soldier desecrates statue of Virgin Mary in southern Lebanon",
+          "url": "https://www.yahoo.com/news/articles/israeli-soldier-desecrates-statue-virgin-044838817.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-07T04:48:38.000Z",
+          "image": "https://media.zenfs.com/en/al_jazeera_289/462788789ca36b807159194c0ce1051e"
         },
         {
-          "title": "‘Remarkably Bright Creatures’ Review: Sally Field & Lewis Pullman Bond Over A Cranky Octopus In Funny, Wise And Moving Book Adaptation",
-          "url": "https://deadline.com/2026/05/remarkably-bright-creatures-review-sally-field-1236882258",
-          "source": "Deadline",
-          "published_at": "2026-05-07T22:59:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/04/Remarkably_Bright_Creatures_n_00_17_05_17_NJ2.jpg"
+          "title": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-07T03:15:44.000Z",
+          "description": "Outrage is growing over a photo of an Israeli soldier pushing a cigarette into the mouth of a statue of the Virgin Mary."
+        },
+        {
+          "title": "Israel army investigating after soldier seen desecrating Virgin Mary statue in Lebanon",
+          "url": "http://www.euronews.com/2026/05/07/israel-army-investigating-after-soldier-seen-desecrating-virgin-mary-statue-in-lebanon",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-05-07T09:26:51.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/74/98/33/696x392_cmsv2_e73e3329-146e-5669-8c8f-6dc95ba5f2f4-9749833.jpg",
+          "description": "The Israeli military said on Thursday it \"respects freedom of religion and worship, as well as holy sites and religious symbols of all religions and communities.\""
         }
-      ]
+      ],
+      "summary": "A photo showed an Israeli soldier placing a cigarette in the mouth of a Virgin Mary statue in southern Lebanon. The Israeli military said it had opened an investigation and respects religious sites and symbols."
+    },
+    {
+      "id": "topic_4885f3374bd78734",
+      "title": "Susan Collins Reveals Essential Tremor Diagnosis",
+      "headline": "Susan Collins reveals essential tremor, says it has ‘no impact’ on job",
+      "label": [
+        "susan",
+        "collins",
+        "tremor",
+        "essential",
+        "reveals",
+        "senator"
+      ],
+      "category": "new",
+      "theme": "theme_e26830d82c812139",
+      "entities": [
+        "Susan Collins",
+        "Senator Susan Collins Reveals",
+        "Essential Tremor",
+        "Diagnosis",
+        "What That Means"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Susan Collins reveals essential tremor, says it has ‘no impact’ on job",
+          "url": "https://www.washingtonexaminer.com/news/senate/4558402/susan-collins-benign-essential-tremor",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-07T01:27:41.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP25274665777702.jpg?w=696",
+          "description": "Sen. Susan Collins (R-ME) publicly revealed for the first time on Wednesday that she has had an “extremely common” medical condition, called a benign essential tremor, for decades. “What I have is an extremely common condition that is called a benign essential tremor. I have had it for the entire t…"
+        },
+        {
+          "title": "Senator Susan Collins Reveals Her 'Essential Tremor' Diagnosis. Here's What That Means",
+          "url": "https://time.com/article/2026/05/07/senator-susan-collins-essential-tremor-explained",
+          "source": "TIME",
+          "published_at": "2026-05-07T22:03:27.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt3b8ad2f6e9362427/69fd062a0dc16f864ce150b5/GettyImages-2274176025.jpg?branch=production&format=jpg&width=1024",
+          "description": "Neurologists explain the common movement disorder."
+        },
+        {
+          "title": "Maine Sen. Susan Collins reveals ‘essential tremor’ diagnosis: ‘It’s had absolutely no impact’",
+          "url": "https://nypost.com/2026/05/07/us-news/maine-sen-susan-collins-discloses-benign-essential-tremor-diagnosis-after-launching-re-election-campaign",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-07T06:32:10.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fl-speaks-president-bridgton-hospital-127080036.jpg?w%3D1024",
+          "description": "“It has absolutely no impact on my ability to do my job or on how I feel each day.”"
+        },
+        {
+          "title": "Sen. Susan Collins reveals medical condition: benign essential tremor (Phil Hirschkorn/WCSH)",
+          "url": "https://www.memeorandum.com/260506/p109",
+          "source": "memeorandum",
+          "published_at": "2026-05-07T02:10:01.000Z",
+          "image": "http://www.memeorandum.com/260506/i109.jpg",
+          "description": "Phil Hirschkorn / WCSH: Sen. Susan Collins reveals medical condition: benign essential tremor — “It has absolutely no impact on my ability to do my job,” Collins exclusively told NEWS CENTER Maine. … BRIDGTON, Maine — As she seeks re-election for a sixth, six-year term in the U.S. Senate …"
+        },
+        {
+          "title": "Susan Collins reveals medical condition but says her job as senator is unaffected",
+          "url": "https://www.theguardian.com/us-news/2026/may/07/susan-collins-maine-senate-tremor",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-07T14:00:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/e858a25562dd6afc51cd1bd8e17b789e9fdeb20e/127_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=fbf74a0df1a557d46a80dc3f13594e03",
+          "description": "Republican senator for Maine, facing tough re-election battle, says she has had benign essential tremor for decades US politics live – latest updates Susan Collins, the Republican Maine senator seen by Democrats as vulnerable in November’s midterm election, has revealed a decades-old medical condit…"
+        }
+      ],
+      "summary": "Senator Susan Collins said she has had benign essential tremor for decades. She said the condition has no impact on her ability to do her job or how she feels each day."
     }
   ]
 }

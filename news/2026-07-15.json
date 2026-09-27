@@ -1,937 +1,983 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-16T00:50:10.783Z",
+  "generated_at": "2026-09-27T14:08:14.140Z",
   "topics": [
     {
-      "id": "topic_50c67b8953224a85",
+      "id": "topic_a7b62f0573ba897e",
+      "title": "Todd Blanche Faces Senate Confirmation Hearing for Attorney General",
+      "headline": "Takeaways from Todd Blanche's confirmation hearing for attorney general - NPR",
       "label": [
-        "strik iran",
-        "strik",
-        "iran",
-        "warn existential",
-        "existential",
-        "existential war"
+        "blanche",
+        "todd",
+        "confirmation",
+        "hearing",
+        "attorney",
+        "general"
       ],
       "category": "new",
-      "theme": "theme_aaa27aee5be70fa5",
+      "theme": "theme_35214c06ed462b9d",
       "entities": [
-        "US",
-        "Iran",
-        "Tehran",
-        "America",
-        "Hormuz"
+        "Takeaways",
+        "Todd Blanche",
+        "NPR",
+        "WATCH LIVE",
+        "Congress"
       ],
-      "article_count": 21,
+      "article_count": 35,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "Takeaways from Todd Blanche's confirmation hearing for attorney general",
+          "url": "https://news.google.com/rss/articles/cbmipwfbvv95cuxprutjcgrzczk2vlh5nkp0othmqnpwumltehnxu2tjuziwuk5yamrjv001v09hzgjiughmafnvrwhmzkjcmktuaflyz2vaz09vdw8wzfe2d2nwngl3adc1bdhdrfkzqwlrd3p5c2rqlwppnlu2bdkydk0yd1ezcej6zs1za0xoewjja1c5awznbuexowrodzgzddr3um90blfowu5zm1l0wq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T21:09:09.000Z",
+          "description": "Takeaways from Todd Blanche's confirmation hearing for attorney general NPR Epstein 'mistakes' and Trump ties: Key takeaways from Todd Blanche's confirmation hearing BBC What Blanche said about Trump, Epstein files during confirmation hearing for attorney general PBS Todd Blanche, Trump’s Attorney…"
+        },
+        {
+          "title": "WATCH LIVE: Todd Blanche testifies before Congress at attorney general confirmation hearing",
+          "url": "https://www.washingtonexaminer.com/news/justice/4649115/todd-blanche-congress-attorney-general-confirmation",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-15T13:21:54.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/todd-blanche-hearing-preview.jpg?w=696",
+          "description": "Acting Attorney General Todd Blanche is testifying before the Senate Judiciary Committee at his confirmation hearing to become attorney general. Blanche, formerly President Donald Trump’s personal lawyer, will likely field questions on his handling of the Epstein files and the now-dissolved $1.8 bi…"
+        },
+        {
+          "title": "Todd Blanche to sit for confirmation hearing in bid for attorney general",
+          "url": "https://www.theguardian.com/us-news/2026/jul/15/todd-blanche-confirmation-hearing-attorney-general",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-15T10:00:51.000Z",
+          "image": "https://i.guim.co.uk/img/media/bae3a165c1f23038c70e4e3a6dd4c771e855b37f/114_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=fa65936d80866e21b06abde5dcdae3ed",
+          "description": "Trump’s nominee will face tough questions over purging of career prosecutors, Epstein files and more Todd Blanche will appear in front of the Senate judiciary committee on Wednesday, as one of Donald Trump’s most loyal and powerful enforcers in government aims to be confirmed as the nation’s top la…"
+        },
+        {
+          "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general (Ryan Lucas/NPR)",
+          "url": "https://www.memeorandum.com/260715/p5",
+          "source": "memeorandum",
+          "published_at": "2026-07-15T09:40:00.000Z",
+          "image": "http://www.memeorandum.com/260715/i5.jpg",
+          "description": "Ryan Lucas / NPR: Todd Blanche faces high-stakes confirmation hearing for attorney general — Todd Blanche, President Trump's former personal lawyer and his pick for attorney general, is set to appear for what could be a contentious confirmation hearing Wednesday amid questions about his handling of…"
+        },
+        {
+          "title": "Todd Blanche confirmation hearing live: Trump’s attorney general pick faces grilling on Epstein and slush fund",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/todd-blanche-hearing-confirmation-live-senate-b3014903.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-15T09:17:50.000Z",
+          "image": "https://static.independent.co.uk/2026/06/04/23/2278806528..?width=1200&auto=webp&crop=3%3A2",
+          "description": "President Donald Trump’s former criminal defense attorney appears before Senate Judiciary Committee seeking support to lead Department of Justice on permanent basis"
+        }
+      ],
+      "summary": "Todd Blanche appeared before the Senate Judiciary Committee seeking confirmation as attorney general. Senators questioned him about the Justice Department, the Epstein files and his ties to President Donald Trump."
+    },
+    {
+      "id": "topic_abc22700768acfa2",
+      "title": "French National Assembly Approves Assisted-Dying Bill",
+      "headline": "France's parliament adopts assisted dying law",
+      "label": [
+        "dying",
+        "assisted",
+        "france",
+        "parliament",
+        "french",
+        "bill"
+      ],
+      "category": "new",
+      "theme": "theme_872eb36b4fe216d3",
+      "entities": [
+        "France",
+        "National Assembly",
+        "French",
+        "French Parliament",
+        "AP News"
+      ],
+      "article_count": 22,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "France's parliament adopts assisted dying law",
+          "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-15T19:41:46.000Z",
+          "image": "https://s.france24.com/media/display/c369be5e-8083-11f1-a703-005056bfb2b6/w:1024/p:16x9/EN-20260715-203725-203831-CS.jpg",
+          "description": "France on Wednesday moved closer to joining the ranks of countries that guarantee the right to assisted dying, a move championed by President Emmanuel Macron. Macron had promised an assisted dying law when he was re-elected for a second term in 2022, in a change seen as one of the most important so…"
+        },
+        {
+          "title": "France’s National Assembly gives final approval to assisted-dying bill after years of debate",
+          "url": "https://japantoday.com/category/world/france%e2%80%99s-national-assembly-will-give-final-approval-to-assisted-dying-bill-after-years-of-debate",
+          "source": "Japan Today",
+          "published_at": "2026-07-15T21:36:26.000Z",
+          "description": "France’s National Assembly gave final approval Wednesday to a bill allowing adults with incurable illnesses to receive lethal medication, the culmination of years of debate over end-of-life care.…"
+        },
+        {
+          "title": "French parliament legalizes assisted dying",
+          "url": "https://www.politico.eu/article/french-parliament-legalizes-assisted-dying",
+          "source": "POLITICO",
+          "published_at": "2026-07-15T18:00:28.000Z",
+          "description": "The bill is now expected to face a constitutional challenge before coming into effect."
+        },
+        {
+          "title": "French parliament adopts landmark assisted-dying bill",
+          "url": "https://www.scmp.com/news/world/europe/article/3360724/french-parliament-adopts-landmark-assisted-dying-bill",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-15T18:05:26.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/16/8f00b6d3-54a8-499f-9a0e-6f190e4886e0_ab5d139a.jpg?itok=uZohCwJ9&v=1784138720",
+          "description": "French lawmakers on Wednesday adopted ⁠a bill that will create a legal right to assisted dying for adults with incurable illnesses, capping an intense ethical and political debate. The legislation will, under strict conditions, allow a person who requests it to receive a lethal substance. The subst…"
+        },
+        {
+          "title": "French Parliament approves landmark assisted-dying bill",
+          "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-15T19:58:53.000Z",
+          "description": "Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council."
+        }
+      ],
+      "summary": "France’s National Assembly gave final approval to a bill allowing adults with incurable illnesses to receive lethal medication. The measure is expected to face a review by the Constitutional Council before taking effect."
+    },
+    {
+      "id": "topic_33d3b9ac109f1cd7",
+      "title": "Stripe and Advent Offer to Buy PayPal for More Than $53 Billion",
+      "headline": "Stripe, Advent Offer to Buy PayPal For More Than $53 Billion",
+      "label": [
+        "advent",
+        "stripe",
+        "paypal",
+        "offer",
+        "buy",
+        "53bn"
+      ],
+      "category": "new",
+      "theme": "theme_3fe3158711aafc6b",
+      "entities": [
+        "Stripe",
+        "Advent Offer",
+        "Buy PayPal For More",
+        "Billion",
+        "Advent"
+      ],
+      "article_count": 24,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Stripe, Advent Offer to Buy PayPal For More Than $53 Billion",
+          "url": "https://news.slashdot.org/story/26/07/15/047200/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion",
+          "source": "Slashdot",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "Stripe and private equity firm Advent International have reportedly made a joint $60.50-per-share offer to buy PayPal, valuing the payments company at more than $53 billion. The bid is said to represent a 28% premium to PayPal's latest closing price and is backed by roughly $50 billion in committed…"
+        },
+        {
+          "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15",
+          "source": "Hacker News",
+          "published_at": "2026-07-15T03:32:45.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-stripe-advent-offer-buy-032515585.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-07-15T03:25:15.000Z",
+          "image": "https://media.zenfs.com/en/reuters-finance.com/52533c716c1c64756f068f7e6bcd51d7"
+        },
+        {
+          "title": "Stripe, Advent offer to buy PayPal for over $53 bln- Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/stripe-advent-offer-to-buy-paypal-for-over-53-bln-reuters-4792137",
+          "source": "All News",
+          "published_at": "2026-07-15T01:43:32.000Z",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB602LM_M.jpg"
+        },
+        {
+          "title": "Stripe and Advent offer to buy PayPal for $53B, Reuters reports",
+          "url": "https://seekingalpha.com/news/4613804-stripe-and-advent-offer-to-buy-paypal-for-53b-reuters-reports",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-07-15T04:07:25.000Z"
+        }
+      ],
+      "summary": "Stripe and private equity firm Advent International reportedly made a joint offer for PayPal at $60.50 per share, valuing the company at more than $53 billion."
+    },
+    {
+      "id": "topic_c7fdfa92f3d58553",
+      "title": "One Dead and Three Missing After Boat Sinks Near Alcatraz",
+      "headline": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+      "label": [
+        "boat",
+        "alcatraz",
+        "dead",
+        "missing",
+        "near",
+        "francisco"
+      ],
+      "category": "new",
+      "theme": "theme_1a38e0aed21aa1aa",
+      "entities": [
+        "Alcatraz Island",
+        "San Francisco Bay",
+        "One Dead",
+        "Two Missing",
+        "San Francisco Bay After"
+      ],
+      "article_count": 24,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+          "url": "https://abcnews.com/us/1-missing-17-rescued-after-boat-sinks-alcatraz/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-07-15T04:35:32.000Z",
+          "image": "https://s.abcnews.com/images/US/waterrescure_1784074591257_hpMain_4x3t_384.jpeg",
+          "description": "One person is dead and three others are missing after a boat with more than a dozen passengers sank in San Francisco Bay, according to local authorities."
+        },
+        {
+          "title": "1 dead, 3 missing after boat capsizes near Alcatraz Island",
+          "url": "https://globalnews.ca/news/11966551/1-dead-3-missing-boat-capsizes-alcatraz-island",
+          "published_at": "2026-07-15T15:17:55.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/boat-capsizes-alcatraz-island.jpg?quality=65&strip=all",
+          "description": "The pontoon boat sank Tuesday afternoon while carrying mostly family members as part of a memorial service, fire officials said in a news release."
+        },
+        {
+          "title": "One Dead and Two Missing in San Francisco Bay After Boat Capsizes Near Alcatraz",
+          "url": "https://www.nytimes.com/2026/07/14/us/boat-fire-rescue-san-francisco-alcatraz.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-07-15T01:01:23.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14nat-alcatraz-boat-kvmb/14nat-alcatraz-boat-kvmb-mediumSquareAt3X.jpg",
+          "description": "Sixteen other passengers were rescued after the pleasure boat sank in the San Francisco Bay on Tuesday."
+        },
+        {
+          "title": "1 dead, 3 missing after boat capsizes near Alcatraz in San Francisco Bay",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxpofyyau05zdliughkawrbd0d6ylg4ehfnmnvnzxvkvenydhowrtdwwkd3wfv5mnphmelvtw0zvurfvhpcoepnrwzbeexcrxflr1n3btdlbxnns2e4duziewlyd0poqlizy1jyy2nnmjdiv05etetxbk5rr1nkc0rqclfvqmvicks3nnryekxvu2y3vefqoxdhafjmanrockhisvfkaun2ofm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T17:29:00.000Z",
+          "description": "1 dead, 3 missing after boat capsizes near Alcatraz in San Francisco Bay NBC News Memorial service tragedy: 1 dead, 3 missing after boat carrying mourning family sinks near Alcatraz CNN Rescuers continue search for 3 people after boat sinks in San Francisco Bay NBC Bay Area Alcatraz boat rescue: 1…"
+        },
+        {
+          "title": "One person dead and two missing after boat sinks near San Francisco’s Alcatraz Island",
+          "url": "https://www.theguardian.com/us-news/2026/jul/14/san-francisco-boat-fire-alcatraz-island",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-15T00:33:57.000Z",
+          "image": "https://i.guim.co.uk/img/media/354293c04b5be0bf43595f18a01d2640beea93e3/506_0_6873_5498/master/6873.jpg?width=140&quality=85&auto=format&fit=max&s=f42bf28803fbb0d1757aa7d0354af19a",
+          "description": "Another 16 people rescued after ‘pontoon pleasure boat’ sinks about 600 yards from famous tourist attraction One person was killed, two were missing and 16 were rescued after a pontoon boat sank near San Francisco’s Alcatraz Island on Tuesday, San Francisco mayor Daniel Lurie and city authorities s…"
+        }
+      ],
+      "summary": "A boat carrying more than a dozen people sank in San Francisco Bay near Alcatraz Island. One person died, three were reported missing and 16 passengers were rescued."
+    },
+    {
+      "id": "topic_ce19972beecee8ff",
+      "title": "The Batman Part II Delayed Until 2028",
+      "headline": "The Batman Part II Delayed Again (Again) Until February 2028",
+      "label": [
+        "batman",
+        "part",
+        "ii",
+        "delayed",
+        "pattinson",
+        "robert"
+      ],
+      "category": "new",
+      "theme": "theme_986a01e13bacd792",
+      "entities": [
+        "The Batman Part II",
+        "Delayed Again",
+        "Until February",
+        "Matt Reeves Shares First",
+        "Look At Robert Pattinson"
+      ],
+      "article_count": 20,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "The Batman Part II Delayed Again (Again) Until February 2028",
+          "url": "https://kotaku.com/the-batman-part-ii-delayed-again-again-until-february-2028-2000716198",
+          "source": "Kotaku",
+          "published_at": "2026-07-15T14:25:21.000Z",
+          "image": "https://kotaku.com/app/uploads/2024/12/b246d46b022b19ec0d0fca853b05a3e8-1280x720.jpg",
+          "description": "WB and DC's long-awaited sequel was originally set to arrive in 2025"
+        },
+        {
+          "title": "Matt Reeves Shares First Look At Robert Pattinson In ‘The Batman Part II’",
+          "url": "https://deadline.com/2026/07/matt-reeves-first-look-robert-pattinson-the-batman-sequel-1236983532",
+          "source": "Deadline",
+          "published_at": "2026-07-15T23:20:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/07/the-batman-part-2.jpg",
+          "description": "The Batman Part II has been delayed until 2028, but Matt Reeves shared a teaser of the upcoming film. In a post on social media, the director shared a video of Robert Pattinson suited up as the Caped Crusader. The short clip features dramatic music with Batman’s back at the center, who slowly start…"
+        },
+        {
+          "title": "The Batman Part II First Look Reveals Robert Pattinson In The Snow, New Release Date",
+          "url": "https://www.slashfilm.com/2215611/the-batman-part-2-first-look-video-robert-pattinson-snow",
+          "source": "/Film",
+          "published_at": "2026-07-15T14:26:28.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/the-batman-part-2-first-look-video-robert-pattinson-snow/l-intro-1784126892.jpg",
+          "description": "The Batman: Part II has gotten a new official release date, along with a sneak peek video featuring Robert Pattinson as the Dark Knight."
+        },
+        {
+          "title": "The Batman Part II Release Date Officially Delayed for DC Robert Pattinson Movie",
+          "url": "https://www.comingsoon.net/movies/news/2162577-the-batman-part-ii-release-date-officially-delayed-for-dc-robert-pattinson-movie",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-07-15T15:14:37.000Z",
+          "description": "DC Studios and Warner Bros. have delayed Matt Reeves‘ The Batman Part II once again. The Robert Pattinson-led sequel has been delayed several times after originally being scheduled for release in 2024. The film has now been pushed back again, beyond its previous release date of October 1, 2027. Whe…"
+        },
+        {
+          "title": "Robert Pattinson's Return in The Batman: Part 2 Delayed Again, Now Arriving 2028",
+          "url": "https://www.ign.com/articles/robert-pattinsons-return-in-the-batman-part-2-delayed-again-now-arriving-2028",
+          "source": "IGN Articles",
+          "published_at": "2026-07-15T14:04:36.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/07/15/screenshot-2026-07-15-150251-1784124235477.png",
+          "description": "The Batman: Part 2 has suffered yet another delay, leaving Robert Pattinson's long-awaited return as the Dark Knight now set to launch in 2028."
+        }
+      ],
+      "summary": "The release of The Batman Part II has been delayed until February 2028. Director Matt Reeves also shared a first-look teaser featuring Robert Pattinson as Batman."
+    },
+    {
+      "id": "topic_612faacc8488207e",
+      "title": "Google to Allow Third-Party App Stores on Android",
+      "headline": "Google and Epic Cancel Settlement; Third-Party App Stores Coming To Google Play",
+      "label": [
+        "google",
+        "stores",
+        "third",
+        "app",
+        "party",
+        "epic"
+      ],
+      "category": "new",
+      "theme": "theme_9d3fa51e54cbf700",
+      "entities": [
+        "Google",
+        "Epic Cancel Settlement",
+        "Third",
+        "Party App Stores Coming",
+        "To Google Play"
+      ],
+      "article_count": 13,
       "source_count": 12,
       "articles": [
         {
-          "title": "US strikes Iran again as Tehran warns of 'existential war' with America",
-          "url": "https://www.yahoo.com/news/world/articles/iran-threatens-block-more-vital-050143670.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-15T23:38:25.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/e5667dec5df6f16ceed24e40bd0b1ed1"
-        },
-        {
-          "title": "U.S. strikes Iran again as Tehran warns of 'existential war' with America",
-          "url": "https://japantoday.com/category/world/us-strikes-iran-again-as-tehran-warns-of-%27existential-war%27-with-america1",
-          "source": "Japan Today",
-          "published_at": "2026-07-15T21:35:33.000Z"
-        },
-        {
-          "title": "US launches fifth straight day of strikes on Iran, targets military sites near Hormuz",
-          "url": "https://timesofindia.indiatimes.com/world/us/us-launches-fifth-straight-day-of-strikes-on-iran-targets-military-sites-near-strait-of-hormuz/articleshow/132424880.cms",
-          "source": "Times of India",
-          "published_at": "2026-07-15T21:09:54.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132424893,imgsize-511646.cms"
-        },
-        {
-          "title": "US strikes Iran again as Tehran warns of 'existential war' with America",
-          "url": "https://www.gmanetwork.com/news/topstories/world/995029/us-strikes-iran-again-tehran-existential-war-america/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-07-15T20:53:52.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/06/strait_of_hormuz1_2026_06_29_05_28_13.JPG"
-        },
-        {
-          "title": "US launches strikes as Iran warns of 'existential war'",
-          "url": "https://www.perthnow.com.au/news/conflict/us-launches-strikes-as-iran-warns-of-existential-war-c-22584400",
-          "source": "PerthNow",
-          "published_at": "2026-07-15T20:14:48.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22584400/94eda72cd2c429f6dbf78298269d1414f4567fe2-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_f1aac8a5de926031",
-      "label": [
-        "aid",
-        "israel",
-        "vote",
-        "house",
-        "democrat",
-        "aid israel"
-      ],
-      "category": "new",
-      "theme": "theme_e0773acb7b7bdf50",
-      "entities": [
-        "US House",
-        "Democratic",
-        "Israel",
-        "House",
-        "Democrats"
-      ],
-      "article_count": 9,
-      "source_count": 9,
-      "articles": [
-        {
-          "title": "US House vote exposes deep Democratic split over military aid to Israel",
-          "url": "https://www.indiatoday.in/world/story/us-house-israel-aid-vote-exposes-democratic-divide-over-gaza-war-ptag-2948861-2026-07-16",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-07-15T22:18:34.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-3-original_156-sixteen_nine.png?VersionId=jP59uoJBB.k0NKLNIefr2Xc457.dF3TG"
-        },
-        {
-          "title": "House vote to end Israel aid divides Democrats, with 103 voting in favor",
-          "url": "https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-07-15T21:43:07.000Z"
-        },
-        {
-          "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-          "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-07-15T21:42:59.000Z",
-          "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15dc-dems-israel-mwpf/15dc-dems-israel-mwpf-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "House defeats bid to end military aid to Israel as over 100 Democrats vote for it",
-          "url": "https://www.theguardian.com/us-news/2026/jul/15/house-democrats-israel-aid",
-          "source": "World news | The Guardian",
-          "published_at": "2026-07-15T21:37:00.000Z",
-          "image": "https://i.guim.co.uk/img/media/92421c91178f0eb95d486563a1d6de337b8f4df5/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=16b8271fa231ec6e417bb7a75ae4778c"
-        },
-        {
-          "title": "In seismic shift, more than 100 House Democrats vote to end Israel aid (Riley Rogerson/Politico)",
-          "url": "https://www.memeorandum.com/260715/p101",
-          "source": "memeorandum",
-          "published_at": "2026-07-15T21:05:01.000Z",
-          "image": "http://www.memeorandum.com/260715/i101.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ad9af81b095c78da",
-      "label": [
-        "epstein fil",
-        "fil",
-        "vance",
-        "epstein",
-        "screw",
-        "trump administration"
-      ],
-      "category": "new",
-      "theme": "theme_75b2fb43cc32d50d",
-      "entities": [
-        "JD Vance",
-        "Epstein",
-        "Joe Rogan Israel",
-        "Iran",
-        "Trump"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "‘We screwed up the comms’: JD Vance admits errors over Epstein files release",
-          "url": "https://www.theguardian.com/us-news/2026/jul/15/jd-vance-joe-rogan-epstein-files",
-          "source": "World news | The Guardian",
-          "published_at": "2026-07-15T23:06:14.000Z",
-          "image": "https://i.guim.co.uk/img/media/fec00d56fe6dfe8105a3b2f2e5d857b8a91e8707/341_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=8bc993036d43f95a61bd671a94012e9d"
-        },
-        {
-          "title": "JD Vance tells Joe Rogan Israel wants to keep Iran war going ‘indefinitely,’ Trump admin ‘screwed up’ on Epstein files",
-          "url": "https://nypost.com/2026/07/15/us-news/vance-tells-joe-rogan-israel-wants-to-keep-iran-war-going-indefinitely-trump-admin-screwed-up-on-epstein-files",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-15T23:00:37.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fjoe-rogan-experience-interview-jd-134524969.jpg?w%3D1024"
-        },
-        {
-          "title": "JD Vance Says Trump Administration \"Screwed Up\" Epstein Files Communication",
-          "url": "https://www.ndtv.com/world-news/jd-vance-says-trump-administration-screwed-up-epstein-files-communication-11777227",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-15T21:44:04.000Z",
-          "image": "https://c.ndtvimg.com/2026-06/akc57ft_jd-vance_625x300_20_June_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720"
-        },
-        {
-          "title": "Vance says Trump administration 'screwed up' communications around Epstein files",
-          "url": "https://www.yahoo.com/news/politics/articles/vance-says-trump-administration-screwed-212601760.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-15T21:26:01.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/df15fcff38438fb5f4ceb0fcacadd375"
-        },
-        {
-          "title": "Vance admits Trump administration ‘absolutely screwed up the comms of the Epstein files’",
-          "url": "https://www.washingtonexaminer.com/news/white-house/4650313/vance-trump-administration-botched-epstein-files-release-communications",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-15T20:59:32.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26185608147090.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_b542be8de7290076",
-      "label": [
-        "mint",
-        "coin",
-        "us mint",
-        "trump",
-        "us",
-        "face"
-      ],
-      "category": "new",
-      "theme": "theme_af2cb54253ac1d77",
-      "entities": [
-        "Trump",
-        "US",
-        "The US Mint",
-        "US Mint",
-        "Mint"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Trump gets his own money as US mints $1 coins bearing president’s face",
-          "url": "https://www.theage.com.au/world/north-america/trump-gets-his-own-money-as-us-mints-1-coins-bearing-president-s-face-20260716-p60fqn.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-07-15T22:49:03.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6061851851851852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_52%2C$y_20/t_crop_custom/q_86%2Cf_auto/7d0fcc892c29401fb4c7b0f28dfae96cc3a56207"
-        },
-        {
-          "title": "Trump gets his own money as US mints $1 coins bearing president’s face",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/trump-gets-his-own-money-as-us-mints-1-coins-bearing-president-s-face-20260716-p60fqn.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-15T22:49:03.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6061851851851852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_52%2C$y_20/t_crop_custom/q_86%2Cf_auto/7d0fcc892c29401fb4c7b0f28dfae96cc3a56207"
-        },
-        {
-          "title": "Trump gets his own money as US mints $1 coins bearing president’s face",
-          "url": "https://www.smh.com.au/world/north-america/trump-gets-his-own-money-as-us-mints-1-coins-bearing-president-s-face-20260716-p60fqn.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-15T22:49:03.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6061851851851852%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_52%2C$y_20/t_crop_custom/q_86%2Cf_auto/7d0fcc892c29401fb4c7b0f28dfae96cc3a56207"
-        },
-        {
-          "title": "The US Mint says it's making a $1 coin with Trump's face on it",
-          "url": "https://www.businessinsider.com/us-mint-trump-portrait-dollar-gold-coin-legality-2026-7",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-07-15T21:51:15.000Z",
-          "image": "https://i.insider.com/6a57de85548c9c486b30c5b3?format=jpeg"
-        },
-        {
-          "title": "US Mint will produce $1 coin with Trump's image",
-          "url": "https://www.perthnow.com.au/news/politics/us-mint-will-produce-1-coin-with-trumps-image-c-22584534",
-          "source": "PerthNow",
-          "published_at": "2026-07-15T21:47:06.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22584534/411b29c77b40d4f8882357b05992fd371c2b5622-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_201d2bab65f2dd62",
-      "label": [
-        "espa",
-        "la",
-        "mundial 2026",
-        "en la",
-        "final",
-        "la final"
-      ],
-      "category": "new",
-      "theme": "theme_c864e33b6dfb6e81",
-      "entities": [
-        "Espa",
-        "Argentina",
-        "Mundial",
-        "Fecha",
-        "La Argentina"
-      ],
-      "article_count": 10,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "España vs. Argentina en la final del Mundial 2026: Fecha, canal, hora, historial, posibles alineaciones y más",
-          "url": "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/07/15/espana-vs-argentina-en-la-final-fecha-canal-horario-historial-posibles-alineaciones-claves-y-mas",
-          "source": "El Financiero",
-          "published_at": "2026-07-15T22:18:34.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/6-sb68IpB3NIiA68REUmQUsTFHQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LJTCP6DF55FGBAKFSUTARAL4II.jpg"
-        },
-        {
-          "title": "La Argentina de Messi remonta a Inglaterra en otra batalla épica y se cita con España en la final",
-          "url": "https://www.eldiario.es/mundial-2026/argentina-messi-remonta-inglaterra-batalla-epica-cita-espana-final_1_13383732.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-07-15T21:38:02.000Z",
-          "image": "https://static.eldiario.es/clip/26a4293f-6a0a-4517-920f-45ac5e6cc392_16-9-discover-aspect-ratio_default_0_x2056y829.jpg"
-        },
-        {
-          "title": "¡Gran Final! España vs Argentina por el Mundial 2026: fecha, horario y dónde ver",
-          "url": "https://vanguardia.com.mx/deportes/gran-final-espana-vs-argentina-por-el-mundial-2026-fecha-horario-y-donde-ver-li22199516",
-          "source": "Vanguardia",
-          "published_at": "2026-07-15T21:32:45.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/lamine-yamal-lionel-messi-mundial_1-16213313_20260715214620.png"
-        },
-        {
-          "title": "La Argentina de Messi se medirá a España en la gran final",
-          "url": "https://www.expansion.com/directivos/deporte-negocio/2026/07/15/6a57fa16e5fdea33438b4578.html",
-          "source": "Portada // expansion",
-          "published_at": "2026-07-15T21:23:35.000Z",
-          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/15/17841505224386.jpg"
-        },
-        {
-          "title": "¡El campeón avanza! Argentina le da la vuelta a Inglaterra y se mete a la final del Mundial 2026",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/el-campeon-defensor-avanza-argentina-le-dio-la-vuelta-a-inglaterra-y-se-mete-a-la-final-del-mundial-2026.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-07-15T21:03:16.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/07/2028994.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b1f461ef36c7c8ef",
-      "label": [
-        "wildfire smoke",
-        "wildfire",
-        "smoke",
-        "northeast",
-        "air quality",
-        "quality"
-      ],
-      "category": "new",
-      "theme": "theme_b16c790c4f4aca5e",
-      "entities": [
-        "The Northeast Is Being",
-        "Blanketed",
-        "Canadian Wildfire Smoke",
-        "Toronto",
-        "Northeast"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "The Northeast Is Being Blanketed in Canadian Wildfire Smoke",
-          "url": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke",
-          "source": "Science Latest",
-          "published_at": "2026-07-15T23:05:03.000Z",
-          "image": "https://media.wired.com/photos/6a57d920c34efe431f7a321a/master/pass/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg"
-        },
-        {
-          "title": "Toronto wakes up to an orange sky as wildfire smoke pours into the U.S. Northeast",
-          "url": "https://www.seattletimes.com/nation-world/toronto-wakes-up-to-an-orange-sky-as-wildfire-smoke-pours-into-the-u-s-northeast",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-07-15T22:59:34.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07152026_OrangeToronto-tzrJuly15_tzr_155009.jpg?d=1200x630"
-        },
-        {
-          "title": "Chicago Weather Forecast: Heat Continues as Canadian Wildfire Smoke Triggers Air Quality Alert",
-          "url": "https://internewscast.com/news/us/chicago-weather-forecast-heat-continues-as-canadian-wildfire-smoke-triggers-air-quality-alert",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-15T22:53:22.000Z"
-        },
-        {
-          "title": "Wildfire smoke worsens air quality in Twin Tiers",
-          "url": "https://www.yahoo.com/news/weather-news/articles/wildfire-smoke-worsens-air-quality-214102827.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-15T21:41:02.000Z",
-          "image": "https://media.zenfs.com/en/wetm_elmira_articles_487/335310af48a7623942448f01a50e2ba3"
-        },
-        {
-          "title": "Entire States Under Air Quality Alerts As Wildfire Smoke Spreads—Here's Where It Could Go Next",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/15/entire-states-under-air-quality-alerts-as-wildfire-smoke-spreads-heres-where-it-could-go-next",
-          "source": "Forbes - Business",
-          "published_at": "2026-07-15T18:56:24.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a57d298e18bb4e6a799fbcf/0x0.jpg?width=960"
-        }
-      ]
-    },
-    {
-      "id": "topic_20768f962eaf6563",
-      "label": [
-        "ads",
-        "maps",
-        "servic",
-        "apple",
-        "maps ads",
-        "home servic"
-      ],
-      "category": "new",
-      "theme": "theme_e86f39c6b54166c3",
-      "entities": [
-        "Apple",
-        "Maps",
-        "Sarah Perez",
-        "TechCrunch",
-        "Apple Maps"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be \"evaluated on a case-by-case basis\", and more (Sarah Perez/TechCrunch)",
-          "url": "https://mediagazer.com/260715/p11",
-          "source": "Mediagazer",
-          "published_at": "2026-07-15T20:25:01.000Z",
-          "image": "http://mediagazer.com/260715/i11.jpg"
-        },
-        {
-          "title": "Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be \"evaluated on a case-by-case basis\", and more (Sarah Perez/TechCrunch)",
-          "url": "https://www.techmeme.com/260715/p46",
-          "source": "Techmeme",
-          "published_at": "2026-07-15T20:25:01.000Z",
-          "image": "http://www.techmeme.com/260715/i46.jpg"
-        },
-        {
-          "title": "Apple Maps ads exclude home services, political ads, and more",
-          "url": "https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more",
-          "source": "AppleInsider News",
-          "published_at": "2026-07-15T19:29:14.000Z",
-          "image": "https://photos5.appleinsider.com/gallery/67129-141128-000-lead-Apple-Maps-ads-xl.jpg"
-        },
-        {
-          "title": "Apple's rules for Maps ads diverge from Google as it prohibits home services",
-          "url": "https://seekingalpha.com/news/4614221-apples-rules-for-maps-ads-diverge-from-google-as-it-prohibits-home-services",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-07-15T19:19:57.000Z"
-        },
-        {
-          "title": "Apple Maps won’t allow ads from these categories at launch",
-          "url": "https://9to5mac.com/2026/07/15/apple-maps-wont-allow-ads-from-these-categories-at-launch",
-          "source": "9to5Mac",
-          "published_at": "2026-07-15T19:14:31.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/maps.jpg?quality=82&#038;strip=all&#038;w=1600"
-        }
-      ]
-    },
-    {
-      "id": "topic_eee9130a1fb12944",
-      "label": [
-        "avatar",
-        "aang",
-        "airbender",
-        "avatar aang",
-        "aang last",
-        "last airbender"
-      ],
-      "category": "new",
-      "theme": "theme_209742dd0eed5a3a",
-      "entities": [
-        "Avatar Aang",
-        "The Last Airbender Scores",
-        "Theatrical Release Date",
-        "But There",
-        "Catch"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Avatar Aang: The Last Airbender Scores a Theatrical Release Date, But There’s a Catch",
-          "url": "https://www.comingsoon.net/movies/news/2162863-avatar-aang-the-last-airbender-scores-a-theatrical-release-date-but-theres-a-catch",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-07-15T22:02:13.000Z"
-        },
-        {
-          "title": "Avatar Aang: The Last Airbender Finally Gets Theatrical Release, But There's a Catch",
-          "url": "https://www.ign.com/articles/avatar-aang-the-last-airbender-finally-gets-theatrical-release-but-theres-a-catch",
-          "source": "IGN Articles",
-          "published_at": "2026-07-15T21:32:19.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/07/07/image-1783438353139.jpeg"
-        },
-        {
-          "title": "Turns Out ‘Avatar Aang: The Last Airbender’ Will Yip Its Way Into Select Theaters After All",
-          "url": "https://gizmodo.com/turns-out-avatar-aang-the-last-airbender-will-yip-its-way-into-select-theaters-after-all-2000786107",
-          "source": "Gizmodo",
-          "published_at": "2026-07-15T21:30:32.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/07/Avatar-Aang-The-Last-Airbender-1-1280x853.jpg"
-        },
-        {
-          "title": "Avatar Aang: The Last Airbender gets an official theatrical release",
-          "url": "https://www.polygon.com/avatar-aang-last-airbender-animated-movie-theatrical-release",
-          "source": "Polygon.com",
-          "published_at": "2026-07-15T21:15:42.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avataraang_thelastairbender_3840x2160_0044-1.jpg"
-        },
-        {
-          "title": "‘Avatar Aang: The Last Airbender’ to Play in Select Movie Theaters for Awards Qualifying Run (EXCLUSIVE)",
-          "url": "https://variety.com/2026/tv/news/avatar-aang-the-last-airbender-movie-theater-release-1236811011",
-          "source": "Variety",
-          "published_at": "2026-07-15T20:33:52.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/AvatarAang_TheLastAirbender_3840x2160_0049_55f671.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_295e94855b6b2073",
-      "label": [
-        "drain",
-        "liner",
-        "drain reflect",
-        "pool reveal",
-        "reveal trump",
-        "trump american"
-      ],
-      "category": "new",
-      "theme": "theme_9040dbbb6d3e8066",
-      "entities": [
-        "Drained",
-        "Trump",
-        "American",
-        "Drained Reflecting Pool",
-        "Matthew Daly"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Drained reflecting pool reveals Trump’s ‘American flag blue’ liner is now closer to gray",
-          "url": "https://www.theguardian.com/us-news/2026/jul/15/dc-reflecting-pool-gray",
-          "source": "World news | The Guardian",
-          "published_at": "2026-07-15T23:28:40.000Z",
-          "image": "https://i.guim.co.uk/img/media/5e389ba7176f974cde6f47e8619cc8d8097a8d5c/542_0_5398_4321/master/5398.jpg?width=140&quality=85&auto=format&fit=max&s=38358b81e2df9d9f5c07ec1d48ca53d1"
-        },
-        {
-          "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray (Matthew Daly/Associated Press)",
-          "url": "https://www.memeorandum.com/260715/p116",
-          "source": "memeorandum",
-          "published_at": "2026-07-15T23:20:01.000Z",
-          "image": "http://www.memeorandum.com/260715/i116.jpg"
-        },
-        {
-          "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
-          "url": "https://japantoday.com/category/world/drained-reflecting-pool-reveals-trump%27s-%27american-flag-blue%27-liner-is-now-closer-to-gray",
-          "source": "Japan Today",
-          "published_at": "2026-07-15T21:36:20.000Z"
-        },
-        {
-          "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
-          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-washington-president-doug-burgum-american-b3015738.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-15T20:34:11.000Z",
-          "image": "https://static.independent.co.uk/2026/07/15/21/APTOPIX_Lincoln_Memorial_Reflecting_Pool_11_56.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
-          "url": "https://www.yahoo.com/news/politics/articles/drained-reflecting-pool-reveals-trumps-203410320.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-15T20:34:10.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/805d738b1e753fbab6082124542e7293"
-        }
-      ]
-    },
-    {
-      "id": "topic_96cc103ed3970eb3",
-      "label": [
-        "suno",
-        "hack",
-        "suno got",
-        "got hack",
-        "got",
-        "music"
-      ],
-      "category": "new",
-      "theme": "theme_15b5a485551c9561",
-      "entities": [
-        "AI Music App Suno",
-        "Got Hacked",
-        "Giving",
-        "Glimpse",
-        "Just How Much Music"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "AI Music App Suno Got Hacked, Giving a Glimpse of Just How Much Music It Scraped",
-          "url": "https://gizmodo.com/ai-music-app-suno-got-hacked-giving-a-glimpse-of-just-how-much-music-it-scraped-2000786013",
-          "source": "Gizmodo",
-          "published_at": "2026-07-15T21:40:53.000Z",
-          "image": "https://gizmodo.com/app/uploads/2025/11/studio-landing-page-any-audio-1280x853.jpg"
-        },
-        {
-          "title": "A hack just showed how Suno’s AI music was really built: millions of scraped songs",
-          "url": "https://thenextweb.com/news/suno-ai-music-hack-training-data",
-          "source": "The Next Web",
-          "published_at": "2026-07-15T21:30:42.000Z",
-          "image": "https://media.thenextweb.com/2026/07/Suno-homepage-screenshot.avif"
-        },
-        {
-          "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-          "url": "https://news.slashdot.org/story/26/07/15/2010250/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius",
+          "title": "Google and Epic Cancel Settlement; Third-Party App Stores Coming To Google Play",
+          "url": "https://yro.slashdot.org/story/26/07/15/1738217/google-and-epic-cancel-settlement-third-party-app-stores-coming-to-google-play",
           "source": "Slashdot",
-          "published_at": "2026-07-15T21:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "published_at": "2026-07-15T19:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "An anonymous reader quotes a report from Ars Technica: Big changes are coming to Android apps, but they're not the changes Google wanted. The settlement between Google and Epic that aimed to put to rest the companies' long-running antitrust battle is being withdrawn, and that means third-party app…"
         },
         {
-          "title": "Suno Got Hacked",
-          "url": "https://pitchfork.com/story/suno-has-been-hacked-youtube-deezer-genius",
-          "source": "RSS: News",
-          "published_at": "2026-07-15T20:01:18.000Z",
-          "image": "https://media.pitchfork.com/photos/6a57a8422a164c2b958e6dfa/master/pass/GettyImages-2279655100.jpg"
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+          "url": "https://www.reddit.com/r/android/comments/1uwvlth/google_and_epic_give_up_fighting_thirdparty",
+          "source": "Android",
+          "published_at": "2026-07-15T04:35:32.000Z",
+          "image": "https://external-preview.redd.it/YO6J6i8WucA4bRrWz0beJVjOy3iJlhqUW4tb1HDnpiU.jpeg?width=640&crop=smart&auto=webp&s=ff534bacb63e3535ebf193e524b38712a2886311",
+          "description": "submitted by /u/BcuzRacecar [link] [comments]"
         },
         {
-          "title": "Source Code Hack Reveals Suno's AI Was Trained on Millions of YouTube Songs",
-          "url": "https://www.cnet.com/tech/services-and-software/suno-ai-music-source-code-hack-training-news",
-          "source": "CNET",
-          "published_at": "2026-07-15T19:43:01.000Z",
-          "image": "https://www.cnet.com/a/img/resize/f9948d288413d255f76e862f7b5dc9dcf5cf0964/hub/2026/07/15/c18e3420-d381-4ded-aa3a-492284645b77/adobestock-1906623733-editorial-use-only.jpg?auto=webp&fit=crop&height=614&width=1092"
+          "title": "Third-Party App Stores Are Finally Coming to Google Play",
+          "url": "https://lifehacker.com/tech/third-party-app-stores-google-play",
+          "source": "Lifehacker",
+          "published_at": "2026-07-15T18:30:00.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01KXKCF9RKPHSBJM795CJXYEDA/hero-image.jpg",
+          "description": "Starting July 22, you'll be able to download third-party app marketplaces from the Play Store."
+        },
+        {
+          "title": "Google will allow third-party app stores on Android next week",
+          "url": "https://www.engadget.com/2215452/google-allow-third-party-app-stores-android-july-22",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-07-15T10:59:35.000Z",
+          "image": "https://www.engadget.com/img/gallery/google-will-allow-third-party-app-stores-on-android-next-week/l-intro-1784113111.jpg",
+          "description": "Third-party app stores are coming to Android on July 22."
+        },
+        {
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+          "url": "https://news.google.com/rss/articles/cbmisgfbvv95cuxpykn1qmpomwtkns1udkc0bdq5lwrkqxpieepxlvhysvrsy3h5r0tprthizxfrehj5amlvavfqndktrmi1ejlvbfo0ufftvu1ytjjwtfn3dm8zczgwtvpczvnianhwcm1jq3zzwhm1tnvlbjjdcldmcvhot2hpyu1jenbnbfbvzgg5vui0cuhozglitda5cxqxuxnsdktrumg3q29jcy1svlyzt0uyx3v0s3v3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T04:06:23.000Z",
+          "description": "Google and Epic give up fighting — third-party Android app stores are coming next week The Verge Google Play Opens to Rival App Stores After Epic Case Hypebeast Google, Epic withdraw bid to modify US Play Store injunction MLex Court Economist Says Epic-Google Deal Isn't Evidence-Based Law360 After…"
         }
-      ]
+      ],
+      "summary": "Google and Epic abandoned a proposed settlement, and third-party app marketplaces are set to become available through the Google Play Store starting July 22."
     },
     {
-      "id": "topic_286f9994e51dac61",
+      "id": "topic_65d669c82f5d66ab",
+      "title": "Anya Taylor-Joy’s Series Lucky Premieres on Apple TV",
+      "headline": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
       "label": [
-        "traffic stop",
-        "stop",
-        "traffic",
-        "shooting",
-        "trump says",
-        "ice"
+        "anya",
+        "joy",
+        "taylor",
+        "lucky",
+        "apple",
+        "tv"
       ],
       "category": "new",
-      "theme": "theme_2a2fd65125efe71d",
+      "theme": "theme_10034fd3f1c6e2a2",
+      "entities": [
+        "Limited",
+        "Lucky",
+        "Anya Taylor",
+        "Joy",
+        "Apple TV"
+      ],
+      "article_count": 13,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
+          "url": "https://9to5mac.com/2026/07/14/limited-series-lucky-starring-anya-taylor-joy-premieres-on-apple-tv",
+          "source": "9to5Mac",
+          "published_at": "2026-07-15T01:01:17.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lucky-apple-tv.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "The first episodes of Lucky, Apple TV’s new limited series starring Anya Taylor-Joy (The Menu), are now streaming. Watch the trailer below."
+        },
+        {
+          "title": "Lucky Review: Anya Taylor-Joy Elevates Apple TV+’s Twisty New Thriller",
+          "url": "https://internewscast.com/entertainment/tv-shows/lucky-review-anya-taylor-joy-elevates-apple-tvs-twisty-new-thriller",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-15T03:25:16.000Z",
+          "description": "Internewscast Journal Internewscast Lucky Armstrong (Anya Taylor-Joy) was raised in the art of the con… This Post: Lucky Review: Anya Taylor-Joy Elevates Apple TV+’s Twisty New Thriller first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxndgmxcmgzskxuagvmv2tzltdzsvazb1lmalixaux2ugtxq3ezauy3dee4exlpu2znaxlss09orkriqvzznxvjugt2ci1xmnayqmnwsg5xnjhjem05yulmwlbzu2dqbdfunzrjzmf4rzzdvum5endlcudsa3vvtvvxrf84qmz5rvz6ylfacgffsvfovxrqrgzsmfficy15nmnj",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T01:01:00.000Z",
+          "description": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV 9to5Mac Lucky review – Anya Taylor-Joy’s daft thriller is classic summer viewing The Guardian Lucky review — Anya Taylor-Joy stars in a confident cat-and-mouse thriller Financial Times ‘Lucky’ Review: Anya Taylor-Joy Stars as a…"
+        },
+        {
+          "title": "Lucky review – Anya Taylor-Joy’s daft thriller is classic summer viewing",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jul/15/lucky-review-anya-taylor-joy-apple-tv",
+          "source": "TV and radio | The Guardian",
+          "published_at": "2026-07-15T06:00:47.000Z",
+          "image": "https://i.guim.co.uk/img/media/229d807ca894ef64755edb326a69f303da57f881/1047_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1e5377cd82ab0ca20c0808692e468714",
+          "description": "This series about a conwoman fleeing for her life is packed with explosions and preposterous coincidences. It’s bunkum with bells on – but who can resist it in this heat? Luciana “Lucky” Armstrong (Anya Taylor‑Joy) is on the run, scampering across the US in her fashionably rumpled sateen blouson an…"
+        },
+        {
+          "title": "Anya Taylor-Joy Is a Consummate Action Hero in Heist Thriller Lucky",
+          "url": "https://time.com/article/2026/07/09/lucky-review-apple",
+          "source": "TIME",
+          "published_at": "2026-07-15T01:00:04.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6e2dde8a44e774fd/6a4fad1ba2341996cad477f2/Lucky_Photo_010101.jpg?branch=production",
+          "description": "Apple TV's taut heist thriller capitalizes on the best elements of her 'Furiosa,' 'The Queen's Gambit,' and 'The Witch' performances."
+        }
+      ],
+      "summary": "Apple TV’s limited series Lucky, starring Anya Taylor-Joy as a conwoman, has premiered. Reviews describe it as a thriller with action and a twist-filled story."
+    },
+    {
+      "id": "topic_3481b5745d0ac669",
+      "title": "Jay Clayton Faces Questions at Intelligence Director Hearing",
+      "headline": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election - CNBC",
+      "label": [
+        "clayton",
+        "jay",
+        "dni",
+        "pick",
+        "confirmation",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_ff29ffaa635a7c72",
       "entities": [
         "Trump",
-        "ICE",
-        "Live",
-        "AP News",
-        "The Latest"
+        "DNI",
+        "Jay Clayton",
+        "Biden",
+        "CNBC"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 18,
+      "source_count": 13,
       "articles": [
         {
-          "title": "Trump wants ‘important and effective’ ICE traffic stops to continue in wake of recent shootings",
-          "url": "https://nypost.com/2026/07/15/us-news/trump-wants-important-and-effective-ice-traffic-stops-to-continue-in-wake-of-recent-shootings",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-15T23:43:28.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F071326-maineiceshooting-dm-54-scenes-134313392.jpg?w%3D1024"
-        },
-        {
-          "title": "ICE should keep making traffic stops despite recent shootings, Trump says",
-          "url": "https://japantoday.com/category/world/trump-ice-should-continue-traffic-stops-after-recent-shootings-seeming-to-contradict-new-policy",
-          "source": "Japan Today",
-          "published_at": "2026-07-15T21:35:56.000Z"
-        },
-        {
-          "title": "Live updates: Trump says ICE should do traffic stops, despite new suspension after shootings - AP News",
-          "url": "https://news.google.com/rss/articles/cbmie0fvx3lxte5tnjnmmc1obnb0q2p1tmlytk5xukvmsw9ucmz0t1h5ytzmdzvjq2jfx0h0uudftnv2r2vhmxzszvnmrwtzskp1sf9ozl9mdhnnemlvxza2s2mwb015bld3beu3rnvuykvurwhcbja4ykzgnurqmwhfbgtsuq",
+          "title": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
+          "url": "https://news.google.com/rss/articles/cbmihgfbvv95cuxodfrxog5tmznuehdmum9gdwcybkfnmxdoznfumglstzr4bhh2ogfhltdknw5nuwm1twtfmjiybgjkmuktdkxxy3rnthfznxq5ztbhotz4txd6emrotennwfrqt0hfddzvwgllbhddwe9mqk1ja3j5b3roqzh3twf0b2l0zlbad9ibiwfbvv95cuxqsnfonfhfuxr1t05xmwtowjd5yvl0cgq1cdrfd05vwujfawi0otjpn0hnt25zynvrxzd5y2rqzg14dthkcld5snhnwfjjvmfsrc05skcxbfhhy1lusfbecwftnfjzszbydgv0eg83z0e5rhrpq1a2y29gnlr5qth2v0vlqlvizwxxvfe0",
           "source": "Top stories - Google News",
-          "published_at": "2026-07-15T19:39:00.000Z"
-        },
-        {
-          "title": "Trump says ICE won't halt traffic stops after shootings",
-          "url": "https://www.perthnow.com.au/news/crime/trump-says-ice-wont-halt-traffic-stops-after-shootings-c-22584297",
-          "source": "PerthNow",
-          "published_at": "2026-07-15T19:19:39.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22584297/1148f2df383c5d6dc941e651008bb1f313f4d185-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "The Latest: Trump says ICE should continue traffic stops despite new policy to halt them",
-          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-houston-maine-immigration-congress-b3015691.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-15T19:09:51.000Z",
-          "image": "https://static.independent.co.uk/2026/07/15/05/Trump_Iraq_71522.jpg?width=1200&auto=webp&crop=3%3A2"
-        }
-      ]
-    },
-    {
-      "id": "topic_9cbedafbea17e7f1",
-      "label": [
-        "diarrhea",
-        "explosive",
-        "explosive diarrhea",
-        "diarrhea parasite",
-        "parasite",
-        "parasite future"
-      ],
-      "category": "new",
-      "theme": "theme_7a860b117ed15eec",
-      "entities": [
-        "The Explosive Diarrhea Outbreak",
-        "Is Officially Blowing Up",
-        "Diarrhea",
-        "Don",
-        "Taco Bell"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "The Explosive Diarrhea Outbreak Is Officially Blowing Up",
-          "url": "https://gizmodo.com/the-explosive-diarrhea-outbreak-is-officially-blowing-up-2000785862",
-          "source": "Gizmodo",
-          "published_at": "2026-07-15T20:20:56.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/07/Lettuce-greens-1280x853.jpg"
-        },
-        {
-          "title": "Diarrhea parasite cyclospora victim describes initial symptoms",
-          "url": "https://www.youtube.com/watch?v=RF5YGfeoM8M",
-          "source": "CNN",
-          "published_at": "2026-07-15T20:01:36.000Z",
-          "image": "https://i3.ytimg.com/vi/RF5YGfeoM8M/hqdefault.jpg"
-        },
-        {
-          "title": "Our ‘explosive diarrhea parasite’ future",
-          "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
-          "source": "The Verge",
-          "published_at": "2026-07-15T18:40:00.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Reaching-for-a-square.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "Don’t blame the explosive diarrhea parasite on Taco Bell - The Verge",
-          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxnsudsqnz6rzu3a2reaxdlnm5lc05suzladle3vhb4dzjkekfqnknfq3dlogs3ww85z21lunlorzjpcffcbdrobhlhdhpaz3liumi4cgfedzgwqjjnmhbnvexknuruotm3y3kwxy1xuhvvu09obfd3t3znchnkmedkyw02svvkbfhkzfpum0rengxfwwg1nufusepjaw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-15T18:40:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_daec6641aa10621d",
-      "label": [
-        "dni",
-        "trump dni",
-        "dni pick",
-        "pick",
-        "pick jay",
-        "jay clayton"
-      ],
-      "category": "new",
-      "theme": "theme_407b8a22d878eb7",
-      "entities": [
-        "Trump DNI Pick Jay",
-        "Clayton Touts Finance",
-        "Senate Sours",
-        "Pulte",
-        "Trump"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Trump DNI Pick Jay Clayton Touts Finance as Senate Sours on Pulte",
-          "url": "https://internewscast.com/news/us/trump-dni-pick-jay-clayton-touts-finance-as-senate-sours-on-pulte",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-15T22:05:11.000Z"
-        },
-        {
-          "title": "Trump’s DNI pick Jay Clayton pitches finance whiz background — as Senate ‘anxious’ to dump Bill Pulte",
-          "url": "https://nypost.com/2026/07/15/us-news/trumps-dni-pick-jay-clayton-pitches-financal-background-as-senate-anxious-to-dump-bill-pulte",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-15T21:44:11.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnewspress-collage-2ui94bedg-1784152084398.jpg?quality%3D90%26strip%3Dall%261784137732"
-        },
-        {
-          "title": "‘I’m not an election denier’: Inside hearings for Trump’s DNI pick",
-          "url": "https://www.youtube.com/watch?v=kVok7lw18NI",
-          "source": "CNN",
-          "published_at": "2026-07-15T21:33:31.000Z",
-          "image": "https://i4.ytimg.com/vi/kVok7lw18NI/hqdefault.jpg"
+          "published_at": "2026-07-15T16:33:03.000Z",
+          "description": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election CNBC Trump intel pick Jay Clayton questioned about election security, journalist subpoenas The Washington Post Trump's DNI pick Jay Clayton locks horns with Democratic senator in fiery confirmation hearing clash Fox News T…"
         },
         {
           "title": "Trump DNI pick Jay Clayton struggles with election questions during confirmation hearing",
           "url": "https://www.washingtonexaminer.com/news/senate/4649309/jay-clayton-struggles-election-questions-confirmation-hearing",
           "source": "Washington Examiner",
           "published_at": "2026-07-15T19:30:33.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26196576875582.jpg?w=696"
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26196576875582.jpg?w=696",
+          "description": "Jay Clayton, President Donald Trump’s nominee for director of national intelligence, faced a grilling from multiple senators about past claims of election fraud during a tense confirmation hearing before the Senate Intelligence Committee on Wednesday. Clayton is aiming to be the permanent replaceme…"
+        },
+        {
+          "title": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election (Justin Papp/CNBC)",
+          "url": "https://www.memeorandum.com/260715/p74",
+          "source": "memeorandum",
+          "published_at": "2026-07-15T18:10:01.000Z",
+          "image": "http://www.memeorandum.com/260715/i74.jpg",
+          "description": "Justin Papp / CNBC: Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election … Jay Clayton, President Donald Trump's pick for director of national intelligence, refused to say Joe Biden won the 2020 election, claimed not to know his predecessor Tulsi Gabbard took part in a raid …"
+        },
+        {
+          "title": "Jay Clayton, Trump's DNI nominee, to testify at Senate confirmation hearing",
+          "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-07-15T10:26:32.000Z",
+          "description": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump's controversial acting director of national intelligence."
+        },
+        {
+          "title": "Trump intelligence pick Jay Clayton to face senators in confirmation hearing",
+          "url": "https://www.theguardian.com/us-news/2026/jul/15/jay-clayton-senate-intelligence-committee-hearing",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-15T11:00:53.000Z",
+          "image": "https://i.guim.co.uk/img/media/5832a5bf5e282795a8aa03c778ebacf2fbb81749/162_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=dc8a58d8cd7e80ad4df7b12219b67de7",
+          "description": "Clayton, if confirmed, would replace Bill Pulte, whose position as acting intelligence chief has prompted outcry Jay Clayton, the US attorney for the southern district of New York, will face senators on the intelligence committee Wednesday morning in a confirmation hearing to become the nation’s ne…"
         }
-      ]
+      ],
+      "summary": "Jay Clayton, President Donald Trump’s nominee for director of national intelligence, faced senators’ questions at his confirmation hearing, including about claims of election fraud and election security."
     },
     {
-      "id": "topic_b8a6707cc4f0498b",
+      "id": "topic_2f142b0ca8cb5ddc",
+      "title": "Trump Says ICE Should Continue Traffic Stops After Shootings",
+      "headline": "ICE should continue traffic stops despite recent shootings, Trump says",
       "label": [
-        "examen pour",
-        "mis",
-        "examen",
-        "mis en",
-        "en examen",
-        "pour meurtre"
+        "traffic",
+        "stops",
+        "ice",
+        "continue",
+        "trump",
+        "shootings"
       ],
       "category": "new",
-      "theme": "theme_1e7b123da84705f7",
+      "theme": "theme_b77843c52b381bdd",
       "entities": [
-        "Un",
-        "Doubs",
-        "Affaire Lyhanna",
-        "Barella",
-        "Lyhanna"
+        "ICE",
+        "Trump",
+        "AP News",
+        "The Latest",
+        "Trump Urges ICE"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 15,
+      "source_count": 13,
       "articles": [
         {
-          "title": "Un animateur scout mis en examen pour agressions sexuelles sur trois mineurs de moins de 15 ans dans le Doubs, l'homme a reconnu les faits",
-          "url": "https://www.franceinfo.fr/societe/pedocriminalite/un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-mineurs-de-moins-de-15-ans-dans-le-doubs-l-homme-a-reconnu-les-faits_8109377.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-07-15T20:35:49.000Z",
-          "image": "https://www.franceinfo.fr/pictures/F6tsPfc_SYac54winCS0eRH6Lwk/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57ef040222d542354041.jpg"
+          "title": "ICE should continue traffic stops despite recent shootings, Trump says",
+          "url": "https://www.latimes.com/world-nation/story/2026-07-15/ice-should-do-traffic-stops-despite-recent-shootings-trump-says-seeming-to-oppose-new-suspension",
+          "source": "World & Nation",
+          "published_at": "2026-07-15T14:23:52.000Z",
+          "description": "The suspension was ordered after an ICE officer shot and killed a Colombian driver Monday in Maine and a week after another officer shot and killed a motorist in Houston."
         },
+        {
+          "title": "Trump: ICE should continue traffic stops after recent shootings, seeming to contradict new policy",
+          "url": "https://news.google.com/rss/articles/cbmirafbvv95cuxpohninzngqjbldwlowmnhwhr3uutst0rcttrpajzuvejwluo0ws1vov9yetvfatrmc1nuazawywtsmfvtnhfuluv2cw0tazbdm3o1y3dvtnd0m2rhd0pknwcxmgh5nw9vnxkwyktqztrry2rga0xfwddvwvp3a3p3ci11m2kxaldtzexotdgzrxf3zu5jstnob1dtu0tfnmj6q3fowdiwvv9uywzf",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T11:43:00.000Z",
+          "description": "Trump: ICE should continue traffic stops after recent shootings, seeming to contradict new policy AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "The Latest: Trump says ICE should continue traffic stops despite new policy to halt them",
+          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-houston-maine-immigration-congress-b3015691.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-15T19:09:51.000Z",
+          "image": "https://static.independent.co.uk/2026/07/15/05/Trump_Iraq_71522.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "President Donald Trump says Immigration and Customs Enforcement should continue traffic stops after two deadly shootings within a week, seeming to contradict a new policy to halt them"
+        },
+        {
+          "title": "Trump says ICE should continue traffic stops, contradicting new ban",
+          "url": "https://www.france24.com/en/americas/20260715-trump-says-ice-should-continue-traffic-stops-contradicting-new-ban",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-15T15:09:22.000Z",
+          "image": "https://s.france24.com/media/display/99fe7fc6-8058-11f1-a197-005056a97e36/w:1024/p:16x9/AP26195612438750.jpg",
+          "description": "President Donald Trump on Wednesday said US Immigration and Customs Enforcement (ICE) must continue to use traffic stops despite a decision the previous day to suspend the practice. The ban on traffic, or vehicle, stops came after an ICE agent fatally shot a Colombian driver in Maine and another mo…"
+        },
+        {
+          "title": "Trump Urges ICE to Continue Traffic Stops After Recent Shootings, Calling Them Important and Effective",
+          "url": "https://internewscast.com/news/us/trump-urges-ice-to-continue-traffic-stops-after-recent-shootings-calling-them-important-and-effective",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-15T23:50:01.000Z",
+          "description": "Internewscast Journal Internewscast President Donald Trump said Wednesday that Immigration and Customs Enforcement agents should… This Post: Trump Urges ICE to Continue Traffic Stops After Recent Shootings, Calling Them Important and Effective first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "President Donald Trump said ICE should continue traffic stops, despite a new policy suspending them after two deadly shootings involving ICE officers."
+    },
+    {
+      "id": "topic_a02a88a56f446813",
+      "title": "Joe Biden to Publish Memoir After November Midterms",
+      "headline": "Biden Will Release Memoir Just After the November Midterms",
+      "label": [
+        "biden",
+        "memoir",
+        "midterm",
+        "november",
+        "release",
+        "publish"
+      ],
+      "category": "new",
+      "theme": "theme_eb6ce40e50268ee3",
+      "entities": [
+        "Biden Will Release Memoir",
+        "Just After",
+        "November Midterms",
+        "Joe Biden",
+        "Release Promise Me"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Biden Will Release Memoir Just After the November Midterms",
+          "url": "https://www.nytimes.com/2026/07/15/us/politics/joe-biden-book-midterms.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-07-15T12:19:45.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15pol-biden-book-tkmv/15pol-biden-book-tkmv-mediumSquareAt3X.jpg",
+          "description": "The former president announced that the book, “Promise Me, America,” will come out on Nov. 17, and will cover the tumultuous events of his presidency as well as his re-election bid."
+        },
+        {
+          "title": "Joe Biden to Release Promise Me, America Memoir After November Midterm Elections",
+          "url": "https://internewscast.com/news/us/joe-biden-to-release-promise-me-america-memoir-after-november-midterm-elections",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-15T18:50:34.000Z",
+          "description": "Internewscast Journal Internewscast NEW YORK — Former President Joe Biden’s memoir will be published Nov.… This Post: Joe Biden to Release Promise Me, America Memoir After November Midterm Elections first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Biden Will Release Memoir Just After the Midterms",
+          "url": "https://politicalwire.com/2026/07/15/biden-will-release-memoir-just-after-the-midterms",
+          "source": "Political Wire",
+          "published_at": "2026-07-15T13:00:19.000Z",
+          "description": "“Former President Joseph R. Biden Jr. has written a memoir that will be released two weeks after the midterm elections this fall,” the New York Times reports."
+        },
+        {
+          "title": "Biden will publish ‘Promise Me, America’ memoir after the November midterm elections",
+          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxqce52cvjpnkxjsuhhq2dybxprnzdbvvnrc0vrsgzuz05yd2ixqtzvbkfilvrsmwp3sme2ourrd1rncw5nltliymfxy2jycejhrvbvnmtecdcyuzlrreu1nkrds2f6qjb5z2jzd043dermrxk2mznqcvnnn0fnbepptxzfsfpqlxvsrlz6eg9yzlh1s2ngv1vfeepfsq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-15T16:20:00.000Z",
+          "description": "Biden will publish ‘Promise Me, America’ memoir after the November midterm elections AP News Biden to release memoir on his presidency and reelection campaign — after the midterms Politico Biden presidential memoir to publish 2 weeks after midterms The Washington Post Biden teases new memoir slated…"
+        },
+        {
+          "title": "Joe Biden to publish memoir of presidency after November midterms",
+          "url": "https://www.theguardian.com/us-news/2026/jul/15/joe-biden-promise-me-america-memoir-book",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-15T12:39:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/7f8ad7d6c32574ee4fbb3f68a5d9ce0994fedfdc/462_0_4603_3682/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=14e9dd17fc28b3f93ee5d7cc4c151130",
+          "description": "Promise Me, America to cover everything from economy to decision to drop bid for re-election Former president Joe Biden will publish a memoir this fall, publisher Little, Brown and Company told the Associated Press. Promise Me, America, which Biden says will touch upon everything from the economy t…"
+        }
+      ],
+      "summary": "Former President Joe Biden’s memoir, titled Promise Me, America, is scheduled for publication on November 17. It will cover his presidency and his re-election bid."
+    },
+    {
+      "id": "topic_377219538dc523f9",
+      "title": "US Mint Plans Commemorative $1 Coin Featuring Trump",
+      "headline": "U.S. Mint to Start Producing $1 Coin Featuring Trump’s Face",
+      "label": [
+        "coin",
+        "mint",
+        "trump",
+        "featuring",
+        "face",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_4611027eb1af54a9",
+      "entities": [
+        "Mint",
+        "Start Producing",
+        "Coin Featuring Trump",
+        "Face",
+        "Trump"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "U.S. Mint to Start Producing $1 Coin Featuring Trump’s Face",
+          "url": "https://time.com/article/2026/07/15/trump-1-dollar-coin-commemorative-us-mint-250th-anniversary",
+          "source": "TIME",
+          "published_at": "2026-07-15T19:07:39.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0b52eb0842b015a3/6a57d8ca25e8788cdada008d/trump-coin-us-mint.jpg?branch=production",
+          "description": "The new commemorative coin is the just latest of a slew of items the Trump Administration has emblazoned with the President's name and image."
+        },
+        {
+          "title": "New $1 coin featuring Trump in production at US Mint, treasury says",
+          "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-coin-us-mint-production",
+          "source": "World news | The Guardian",
+          "published_at": "2026-07-15T19:24:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/b18840d0dfd01c32facf4417b50e4c0baee71d26/2_124_1013_811/master/1013.jpg?width=140&quality=85&auto=format&fit=max&s=c9c80cb7be8ccd030a318409293cff23",
+          "description": "Coin commemorating 250th anniversary will be released this fall and will mark the first time a living president appears on currency The treasury department announced Wednesday that the US Mint has started producing a new commemorative $1 coin featuring Donald Trump as part of the nation’s 250th ann…"
+        },
+        {
+          "title": "The US Mint says it's making a $1 coin with Trump's face on it",
+          "url": "https://www.businessinsider.com/us-mint-trump-portrait-dollar-gold-coin-legality-2026-7",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-07-15T21:51:15.000Z",
+          "image": "https://i.insider.com/6a57de85548c9c486b30c5b3?format=jpeg",
+          "description": "The Treasury announced a new $1 commemorative gold-toned coin featuring a front-facing portrait of Donald Trump. US Treasury The Treasury announced a new $1 commemorative coin featuring Donald Trump. The coin features a forward-facing portrait of Trump alongside the words \"In God We Trust.\" The coi…"
+        },
+        {
+          "title": "US Mint to begin striking commemorative coin featuring Trump",
+          "url": "https://abcnews.com/politics/us-mint-begin-striking-commemorative-coin-featuring-trump/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-07-15T20:47:27.000Z",
+          "image": "https://s.abcnews.com/images/Politics/trump-coin-ht-gmh-260715_1784139791466_hpMain_4x3t_384.jpg",
+          "description": "Treasury Secretary Scott Bessent released a rendering of a commemorative coin featuring President Donald Trump on Wednesday."
+        },
+        {
+          "title": "Bessent Unveils New $1 Gold Coin Featuring Trump’s Face",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/07/15/bessent-unveils-new-1-gold-coin-featuring-trumps-face",
+          "source": "Forbes - Business",
+          "published_at": "2026-07-15T11:58:29.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a5775956760ce8175b44298/0x0.jpg?width=960",
+          "description": "The Treasury Secretary’s post appeared to show a Semiquincentennial coin meant for circulation rather than the commemorative design approved by a federal arts panel."
+        }
+      ],
+      "summary": "The Treasury Department said the US Mint is producing a commemorative $1 coin featuring Donald Trump, intended to mark the country’s 250th anniversary. The coin is expected to be released this fall."
+    },
+    {
+      "id": "topic_db41019d74f9d810",
+      "title": "Reviews Assess Christopher Nolan’s The Odyssey",
+      "headline": "The Odyssey Review: Christopher Nolan Movie Is a Once-in-a-Lifetime Cinematic Experience",
+      "label": [
+        "odyssey",
+        "review",
+        "christopher",
+        "nolan",
+        "epic",
+        "movie"
+      ],
+      "category": "new",
+      "theme": "theme_9ef57d36b8af5476",
+      "entities": [
+        "The Odyssey Review",
+        "Christopher Nolan Movie Is",
+        "Lifetime Cinematic Experience",
+        "Christopher Nolan",
+        "Massive Epic Is Both"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "The Odyssey Review: Christopher Nolan Movie Is a Once-in-a-Lifetime Cinematic Experience",
+          "url": "https://www.comingsoon.net/movies/reviews/2162234-the-odyssey-review-christopher-nolan-movie-is-a-once-in-a-lifetime-cinematic-experience",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "description": "Christopher Nolan has never been a filmmaker afraid of scale. Whether exploring dreams, space travel, or the invention of the atomic bomb, his films have consistently grappled with ideas and images that feel larger than life. With The Odyssey, he turns his attention to perhaps the greatest epic eve…"
+        },
+        {
+          "title": "The Odyssey Review",
+          "url": "https://www.ign.com/articles/the-odyssey-movie-review-2026",
+          "source": "IGN Articles",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/07/14/theodyssey-review-blogroll-1784057220228.jpg",
+          "description": "Christopher Nolan's The Odyssey movie adapts Homer through a new eye that brings a sense of horror and existential angst to the story – and some humor too. It may not be a perfect movie, but it’s a pretty great moviegoing experience all the same."
+        },
+        {
+          "title": "The Odyssey Review: Christopher Nolan's Massive Epic Is Both Exhausting And Exhilarating",
+          "url": "https://www.slashfilm.com/2215067/christopher-nolan-the-odyssey-movie-review",
+          "source": "/Film",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/the-odyssey-review-christopher-nolans-massive-epic-is-both-exhausting-and-exhilarating/l-intro-1784055351.jpg",
+          "description": "While some sections drag, Christopher Nolan's The Odyssey is a massive, awe-inspiring experience with a surprising emotional hook. Here's our review."
+        },
+        {
+          "title": "The Odyssey review: Christopher Nolan turns an epic myth into a movie masterpiece",
+          "url": "https://mashable.com/entertainment/the-odyssey-review-christopher-nolan",
+          "source": "Mashable",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "description": "Christopher Nolan directs epic fantasy for the first time with \"The Odyssey,\" and the result is masterful."
+        },
+        {
+          "title": "The Odyssey review: A timeless epic reborn through Christopher Nolan's genius",
+          "url": "https://www.indiatoday.in/movies/reviews/story/the-odyssey-review-christopher-nolan-matt-damon-tom-holland-mythic-imax-epic-2948718-2026-07-15",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-15T16:00:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/the-odyssey-152144333-16x9_0.png?VersionId=JGP5undWKVSIJWO3lQ7LtPxJ4g44gjtY",
+          "description": "The Odyssey review A timeless epic reborn through Christopher Nolans genius"
+        }
+      ],
+      "summary": "Reviews of Christopher Nolan’s film The Odyssey describe an epic adaptation of Homer’s story, with some critics praising its scale and emotional impact while others note sections that drag."
+    },
+    {
+      "id": "topic_1d47fb9de591770e",
+      "title": "Keir Starmer Gives Final Prime Minister’s Questions Appearance",
+      "headline": "Keir Starmer says farewell to MPs in his final PMQs - video",
+      "label": [
+        "keir",
+        "starmer",
+        "pmqs",
+        "farewell",
+        "goodbye",
+        "last"
+      ],
+      "category": "new",
+      "theme": "theme_e67fdd903f019fbd",
+      "entities": [
+        "Keir Starmer Says Goodbye",
+        "Keir Starmer",
+        "MPs",
+        "PMQs",
+        "Kemi Badenoch"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Keir Starmer says farewell to MPs in his final PMQs - video",
+          "url": "https://www.theguardian.com/politics/video/2026/jul/15/keir-starmer-says-farewell-to-mps-in-his-final-pmqs-video",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-07-15T13:34:34.000Z",
+          "image": "https://i.guim.co.uk/img/media/16ab11b614ed3e5ca4a12dca44a8d982fc511ef7/302_0_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=85f788dff8de44bd37209b838338560a",
+          "description": "Keir Starmer faced his final PMQs before he steps down as the UK's prime minister. He offered his 'full support' to his successor as well as sharing tributes to MPs, colleagues and his family who were in the gallery Starmer shares tributes and offers ‘full support’ to his successor in his final PMQ…"
+        },
+        {
+          "title": "Keir Starmer Says Goodbye",
+          "url": "https://www.bbc.co.uk/sounds/play/p0nyjvkg",
+          "source": "BBC News",
+          "published_at": "2026-07-15T15:32:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+          "description": "Sir Keir Starmer makes his final PMQs appearance as Prime Minister."
+        },
+        {
+          "title": "It’s Keir Starmer’s last PMQs. Here’s how previous prime ministers played it",
+          "url": "https://www.politico.eu/article/keir-starmer-last-pmqs",
+          "source": "POLITICO",
+          "published_at": "2026-07-15T08:08:00.000Z",
+          "description": "Starmer isn’t the first British prime minister to walk into the bizarre spectacle of a Commons grilling knowing for certain it’s the last time."
+        },
+        {
+          "title": "Keir Starmer faces last question time as prime minister",
+          "url": "https://www.perthnow.com.au/news/politics/keir-starmer-faces-last-question-time-as-prime-minister-c-22579948",
+          "source": "PerthNow",
+          "published_at": "2026-07-15T01:41:40.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22579948/cbea01b98dfbdc591a957e6f882cacf145efbdd8-16x9-x0y0w1280h720.jpg",
+          "description": "Keir Starmer will face his last grilling in Britain's parliament as prime minister before handing the reins to his Labour colleague Andy Burnham."
+        },
+        {
+          "title": "Watch: Tears, tributes, standing ovation for Keir Starmer in last farewell speech",
+          "url": "https://www.indiatoday.in/world/uk-news/story/keir-starmer-farewell-speech-tears-tributes-standing-ovation-final-pmqs-2948771-2026-07-15",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-15T16:44:51.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/keir-starmer-154036676-16x9_0.jpg?VersionId=N4kS8KoRHZ7VMgXec4tS1N7l.A3kOxbQ",
+          "description": "Watch Tears tributes standing ovation for Keir Starmer in last farewell speech"
+        }
+      ],
+      "summary": "Keir Starmer faced his final Prime Minister’s Questions before leaving office. He offered support to his successor and received tributes from colleagues in Parliament."
+    },
+    {
+      "id": "topic_ea324f4ec3d0e290",
+      "title": "Delhi High Court Plea Seeks Force-Feeding for Sonam Wangchuk",
+      "headline": "\"May Die In 2 Days\": Plea In Delhi High Court Seeks \"Force-Feeding\" Of Activist Sonam Wangchuk",
+      "label": [
+        "seeks",
+        "sonam",
+        "wangchuk",
+        "delhi",
+        "plea",
+        "feeding"
+      ],
+      "category": "new",
+      "theme": "theme_6ff373aa54e08684",
+      "entities": [
+        "May Die In",
+        "Days",
+        "Plea In Delhi High",
+        "Court Seeks",
+        "Force"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "\"May Die In 2 Days\": Plea In Delhi High Court Seeks \"Force-Feeding\" Of Activist Sonam Wangchuk",
+          "url": "https://www.ndtv.com/india-news/may-die-in-2-days-plea-in-delhi-high-court-seeks-force-feeding-of-activist-sonam-wangchuk-11774016",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-15T08:38:48.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/huk84u68_sonam-_625x300_15_July_26.jpeg",
+          "description": "The petitioner argued that \"holding a peaceful protest at a public place is a fundamental, democratic right of the citizens\"."
+        },
+        {
+          "title": "Sonam Wangchuk's hunger strike: Plea in Delhi High Court seeks force-feeding of activist",
+          "url": "https://www.dnaindia.com/india/report-sonam-wangchuk-hunger-strike-pil-petition-filed-in-delhi-high-court-seeks-force-feeding-of-activist-jantar-mantar-education-minister-dharmendra-pradhan-cockroach-janta-party-cjp-3216210",
+          "source": "India News",
+          "published_at": "2026-07-15T14:32:00.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/15/2754231-sonam-wangchuk.jpg",
+          "description": "The petitioner said that Wangchuk will not be able to survive for more than two days, adding that the government is \"least concerned and insensitive.\""
+        },
+        {
+          "title": "Lost 8.5 kg, may die in 2 days: Plea seeks force-feeding of Sonam Wangchuk",
+          "url": "https://www.indiatoday.in/india/law-news/story/sonam-wangchuk-hunger-strike-petition-delhi-high-court-2948145-2026-07-15",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-15T03:53:24.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/sonam-wangchuk-15525896-16x9_0.jpg?VersionId=fQ7tJfbhx2Wj6q7HE9FxHBQX7_rCB8ng",
+          "description": "Lost kg may die in days Plea seeks forcefeeding of Sonam Wangchuk"
+        },
+        {
+          "title": "'May die in 2 days, lost 8. 5kg': Plea seeks 'force-feeding' of Sonam Wangchuk",
+          "url": "https://timesofindia.indiatimes.com/india/may-die-in-2-days-lost-8-5kg-plea-in-delhi-hc-seeks-force-feeding-of-sonam-wangchuk-as-hunger-strike-takes-toll-on-activists-health/articleshow/132406875.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-15T05:19:20.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132406953,imgsize-133658.cms",
+          "description": "A plea seeks court intervention to force-feed activist Sonam Wangchuk, whose hunger strike has entered its eighteenth day. Concerns are growing over his deteriorating health as he has reportedly lost significant weight. The petition urges authorities to shift him to a government hospital for medica…"
+        },
+        {
+          "title": "Delhi HC To Hear Urgent Plea Seeking Force-Feeding Of Sonam Wangchuk As Hunger Strike Enters 18th Day",
+          "url": "https://www.freepressjournal.in/india/delhi-hc-to-hear-urgent-plea-seeking-force-feeding-of-sonam-wangchuk-as-hunger-strike-enters-18th-day",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-15T08:55:20.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-15/9vxklv8n/BBC-30.jpg"
+        }
+      ],
+      "summary": "A plea before the Delhi High Court seeks an order to force-feed activist Sonam Wangchuk, who is on hunger strike. The petitioner cited concerns about his deteriorating health."
+    },
+    {
+      "id": "topic_9cfbda9d673176a6",
+      "title": "French Suspect Charged in Lyhanna Murder and Rape Case",
+      "headline": "Affaire Lyhanna: Jérôme Barella mis en examen pour meurtre et viol sur mineure",
+      "label": [
+        "examen",
+        "lyhanna",
+        "viol",
+        "mis",
+        "jérôme",
+        "barella"
+      ],
+      "category": "new",
+      "theme": "theme_392c54ec610047c0",
+      "entities": [
+        "Affaire Lyhanna",
+        "Barella",
+        "Mort",
+        "Lyhanna",
+        "France"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
         {
           "title": "Affaire Lyhanna: Jérôme Barella mis en examen pour meurtre et viol sur mineure",
           "url": "https://www.dhnet.be/actu/monde/2026/07/15/affaire-lyhanna-jerome-barella-mis-en-examen-pour-meurtre-et-viol-sur-mineure-ppwfblx6uvc2nkk7eepl5fx44i",
           "source": "DH Les Sports+ - ACTU",
           "published_at": "2026-07-15T19:50:57.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/ACNAQTUCUFGPNJJV4DUZIBDWS4.jpg?auth=7a8e44d539ad746c0b2f39abf3e31c5f8e4fadbaae0391f4746e441ec9e69a5c&smart=true&width=1200&height=800"
+          "image": "https://www.dhnet.be/resizer/v2/ACNAQTUCUFGPNJJV4DUZIBDWS4.jpg?auth=7a8e44d539ad746c0b2f39abf3e31c5f8e4fadbaae0391f4746e441ec9e69a5c&smart=true&width=1200&height=800",
+          "description": "Jérôme Barella, principal suspect dans l'affaire Lyhanna, collégienne de 11 ans retrouvée morte le 4 juin dans le Gers, a été mis en examen mercredi pour meurtre et viol sur mineure de moins de 15 ans, a indiqué le parquet d'Agen. ..."
         },
         {
-          "title": "Pédocriminalité : après la mort de Lyhanna, le suspect mis en examen pour meurtre et viol, 1 000 plaintes prioritaires",
-          "url": "https://www.ouest-france.fr/faits-divers/pedocriminalite/pedocriminalite-apres-la-mort-de-lyhanna-le-suspect-mis-en-examen-pour-meurtre-et-viol-1-000-plaintes-prioritaires-b86bfbbc-8082-11f1-a2c0-b0e90323cd29",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-07-15T19:42:47.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3MDBlZGMyY2Q1MzI3ZmEyOGY2MGM1ODRmZTFjZGM3MzQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7de2b3b53eeced1a5348b6fd7afb0d7e6d7db1c4d5696bc1979717cac66ffddb"
+          "title": "Mort de Lyhanna en France : Jérôme Barella mis en examen pour le meurtre et le viol de la collégienne",
+          "url": "https://www.rtbf.be/article/mort-de-lyhanna-en-france-jerome-barella-mis-en-examen-pour-le-meurtre-et-le-viol-de-la-collegienne-11758409",
+          "source": "- Info",
+          "published_at": "2026-07-15T18:17:32.000Z",
+          "image": "https://static-content.rtbf.be/article/image/770x433/7/e/4/8737d0608ca5d5c05ccc96f96afaa199.jpg",
+          "description": "Jérôme Barella avait été extrait de sa cellule du centre pénitentiaire de Mont-de-Marsan (département des Landes) dans..."
         },
         {
           "title": "Affaire Lyhanna : Jérôme Barella mis en examen pour meurtre et viol sur mineure de moins de 15 ans",
           "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-jerome-barella-mis-en-examen-pour-meurtre-et-viol-sur-mineure-de-moins-de-15-ans-29947108.php",
           "source": "L'essentiel",
-          "published_at": "2026-07-15T18:56:50.000Z"
+          "published_at": "2026-07-15T18:56:50.000Z",
+          "description": "Jérôme Barella a été mis en examen ce mercredi pour meurtre et viol sur une mineure de moins de 15 ans et encourt la prison à perpétuité. Il a également été mis en examen pour viols sur une mineure de"
+        },
+        {
+          "title": "Affaire Lyhanna : Jérôme Barella mis en examen pour viol et meurtre sur mineure de moins de 15 ans",
+          "url": "https://www.ouest-france.fr/societe/faits-divers/lyhanna/affaire-lyhanna-jerome-barella-mis-en-examen-pour-viol-et-meurtre-sur-mineure-de-moins-de-15-ans-7ba2e0f2-802c-11f1-9d8e-98fb5a42b8f3",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-07-15T18:17:45.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3YTFhNjk1MzcwOGUyZmUyNTc0MTc0YmYwZTY0ZWFjMDQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=908cc4ad491114e3e52f287ad69b1d331a61529736dafee5ed827ae2ff4e3b57",
+          "description": "Jérôme Barella est désormais mis en examen pour des faits de viol et meurtre sur mineur, a annoncé le parquet d’Agen, mercredi 15 juillet."
+        },
+        {
+          "title": "Jérôme Barella mis en examen pour le viol et le meurtre de Lyhanna après son audition",
+          "url": "https://www.huffingtonpost.fr/france/article/jerome-barella-mis-en-examen-pour-le-viol-et-le-meurtre-de-lyhanna-apres-son-audition_289546.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-07-15T18:23:53.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/07/15/1238/913/5269/2964/0/0/60/0/191ba65_upload-1-3zu3tplglitj-afp-20260715-c28k3jy-v1-highres-francecrimechildrenjustice.jpg",
+          "description": "Incarcéré à l’isolement à la prison de Mont-de-Marsan, l’intérimaire de 41 ans était déjà mis en examen pour « enlèvement et séquestration »."
         }
-      ]
-    },
-    {
-      "id": "topic_2663aaddea076c59",
-      "label": [
-        "high department",
-        "department war",
-        "department",
-        "plan high",
-        "hegseth plan",
-        "high"
       ],
-      "category": "new",
-      "theme": "theme_722218bbe37964e",
-      "entities": [
-        "Hegseth",
-        "High",
-        "Department",
-        "War"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Hegseth’s plan for ‘High-T Department of War’",
-          "url": "https://www.brisbanetimes.com.au/world/hegseth-s-plan-for-high-t-department-of-war-20260716-p60fqy.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-15T22:42:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/65eb9328d2d805389e5e83fe199809e594bb8455"
-        },
-        {
-          "title": "Hegseth’s plan for ‘High-T Department of War’",
-          "url": "https://www.smh.com.au/world/hegseth-s-plan-for-high-t-department-of-war-20260716-p60fqy.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-15T22:42:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/65eb9328d2d805389e5e83fe199809e594bb8455"
-        },
-        {
-          "title": "Hegseth’s plan for ‘High-T Department of War’",
-          "url": "https://www.theage.com.au/world/hegseth-s-plan-for-high-t-department-of-war-20260716-p60fqy.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-07-15T22:42:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/65eb9328d2d805389e5e83fe199809e594bb8455"
-        },
-        {
-          "title": "“High-T Department of War”: Hegseth pushes “gender-affirming care” for soldiers",
-          "url": "https://www.salon.com/2026/07/15/high-t-department-of-war-hegseth-pushes-gender-affirming-care-for-soldiers",
-          "source": "Salon.com",
-          "published_at": "2026-07-15T21:03:57.000Z",
-          "image": "https://www.salon.com/app/uploads/2026/05/GettyImages-2277271585.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_477fadd908a6b2d8",
-      "label": [
-        "54052",
-        "2026 54052",
-        "cve 2026",
-        "cve",
-        "2026",
-        "workflow version"
-      ],
-      "category": "new",
-      "theme": "theme_e761ec94ae2e741f",
-      "entities": [
-        "CVE",
-        "Workflow Version History Backup",
-        "MCP",
-        "Incorrect"
-      ],
-      "article_count": 6,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "CVE-2026-54052 | czlonkowski n8n-mcp up to 2.56.0 Workflow Version History Backup improper authorization",
-          "url": "https://vuldb.com/vuln/379417",
-          "source": "VulDB Recent Entries",
-          "published_at": "2026-07-15T21:16:55.000Z"
-        },
-        {
-          "title": "CVE-2026-54052",
-          "url": "https://vulners.com/nvd/nvd:cve-2026-54052",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-07-15T21:16:54.000Z",
-          "image": "http://vulners.com/static/img/nvd.png"
-        },
-        {
-          "title": "n8n-MCP: Incorrect authorization can expose default-scope workflow version ba...",
-          "url": "https://cve.threatint.com/cve/cve-2026-55608",
-          "source": "CVE: New",
-          "published_at": "2026-07-15T20:35:29.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_51d0e60247d702e5",
-      "label": [
-        "arm police",
-        "police arrest",
-        "arm",
-        "atlanta",
-        "police",
-        "arrest"
-      ],
-      "category": "new",
-      "theme": "theme_6946fd80d0830c8b",
-      "entities": [
-        "Armed Police Arrest Fans",
-        "Atlanta Streets Amid Tensions",
-        "Armed",
-        "England",
-        "Argentina"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Armed Police Arrest Fans on Atlanta Streets Amid Tensions",
-          "url": "https://internewscast.com/news/armed-police-arrest-fans-on-atlanta-streets-amid-tensions",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-15T23:32:33.000Z"
-        },
-        {
-          "title": "Armed police arrest England and Argentina fans as brawl erupts outside Atlanta Stadium",
-          "url": "https://www.express.co.uk/news/world/2229633/england-fans-arrested-scraps-outside",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-07-15T23:06:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2229633_1.jpg"
-        },
-        {
-          "title": "Aggro on the streets of Atlanta: Armed police arrest England and Argentina fans as supporters spill out of stadium following Three Lions' loss",
-          "url": "https://www.dailymail.com/sport/football/article-15980845/aggro-streets-atlanta-armed-police-arrest-england-fans.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-07-15T22:36:43.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/15/23/110046295-0-image-a-6_1784153588045.jpg"
-        }
-      ]
+      "summary": "Jérôme Barella was placed under formal investigation in France for the murder and rape of Lyhanna, an 11-year-old girl found dead in June. He had previously been investigated for her abduction and confinement."
     }
   ]
 }

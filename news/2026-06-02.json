@@ -1,918 +1,959 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-03T00:15:24.887Z",
+  "generated_at": "2026-09-27T13:59:01.543Z",
   "topics": [
     {
-      "id": "topic_1db67514d9c20b1e",
+      "id": "topic_b176fd5245a36615",
+      "title": "Trump Names Bill Pulte Acting Director of National Intelligence",
+      "headline": "Trump appoints Bill Pulte to be acting director of national intelligence",
       "label": [
-        "reschedul",
-        "dinner",
-        "correspondent",
-        "correspondent dinner",
-        "white house",
-        "white"
+        "pulte",
+        "intelligence",
+        "bill",
+        "acting",
+        "trump",
+        "director"
       ],
       "category": "new",
-      "theme": "theme_effa6940924f2ed2",
+      "theme": "theme_4e611732bee01842",
       "entities": [
         "Trump",
-        "White House",
-        "Attend Rescheduled White House",
-        "Correspondents",
-        "Dinner"
+        "Bill Pulte",
+        "Politico",
+        "Trump Names Bill Pulte",
+        "As Acting Director Of"
       ],
-      "article_count": 18,
-      "source_count": 14,
+      "article_count": 48,
+      "source_count": 33,
       "articles": [
         {
-          "title": "Trump to speak at rescheduled White House correspondents' dinner",
-          "url": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-02T21:42:46.000Z",
-          "image": "https://s.france24.com/media/display/397aa5ae-441b-11f1-891d-005056bf30b7/w:1024/p:16x9/AP26116100136492.jpg"
+          "title": "Trump appoints Bill Pulte to be acting director of national intelligence",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4590792/trump-appoints-bill-pulte-acting-director-of-national-intelligence",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-02T13:19:27.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/AP25275627399084.jpg?w=696",
+          "description": "President Donald Trump has appointed Bill Pulte, Federal Housing Finance Agency director and chairman of Fannie Mae and Freddie Mac, to replace Tulsi Gabbard as acting director of national intelligence. “I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/…"
         },
+        {
+          "title": "Trump names Bill Pulte as acting director of national intelligence",
+          "url": "https://www.yahoo.com/news/videos/trump-names-bill-pulte-acting-171552598.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-02T17:15:52.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/515c2ad705446fd64e41f910864452be"
+        },
+        {
+          "title": "Trump names Bill Pulte acting director of national intelligence (Politico)",
+          "url": "https://www.memeorandum.com/260602/p67",
+          "source": "memeorandum",
+          "published_at": "2026-06-02T18:40:00.000Z",
+          "image": "http://www.memeorandum.com/260602/i67.jpg",
+          "description": "Politico: Trump names Bill Pulte acting director of national intelligence … Pulte made headlines last year for recommending the Department of Justice investigate Democratic lawmakers, Federal Reserve board member Lisa Cook and New York Attorney General Letitia James over unproven allegations of mor…"
+        },
+        {
+          "title": "Trump Names Bill Pulte As Acting Director Of National Intelligence After Gabbard's Exit",
+          "url": "https://www.freepressjournal.in/world/trump-names-bill-pulte-as-acting-director-of-national-intelligence-after-gabbards-exit",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-02T15:09:30.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-06-02/kohgyxjh/HJz7yOPXYAA2wo9.jpg"
+        },
+        {
+          "title": "Who Is Bill Pulte, Trump’s New Acting Director of National Intelligence?",
+          "url": "https://time.com/article/2026/06/02/bill-pulte-acting-director-of-national-intelligence-trump-gabbard",
+          "source": "TIME",
+          "published_at": "2026-06-02T19:43:16.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt26ccac92c61c514c/6a1f2f14084a708027cc47a1/GettyImages-2254833766.jpg?branch=production&format=jpg&width=1024",
+          "description": "Pulte, a Trump ally currently serving as the head of the Federal Housing Finance Agency, comes into the role with no direct experience in intelligence."
+        }
+      ],
+      "summary": "President Donald Trump appointed Bill Pulte, who leads the Federal Housing Finance Agency, as acting director of national intelligence, replacing Tulsi Gabbard. Pulte has no direct intelligence experience, according to one headline."
+    },
+    {
+      "id": "topic_31220f4bf1564cc9",
+      "title": "Russian Attack on Ukraine Kills at Least 11",
+      "headline": "Major Russian Attack on Ukraine Kills At Least 11",
+      "label": [
+        "least",
+        "russian",
+        "kills",
+        "ukraine",
+        "attack",
+        "strikes"
+      ],
+      "category": "new",
+      "theme": "theme_650c255d2ab71144",
+      "entities": [
+        "Major Russian Attack",
+        "Ukraine Kills At Least",
+        "Russian",
+        "Ukraine",
+        "Massive Russian"
+      ],
+      "article_count": 35,
+      "source_count": 26,
+      "articles": [
+        {
+          "title": "Major Russian Attack on Ukraine Kills At Least 11",
+          "url": "https://www.themoscowtimes.com/2026/06/02/major-russian-attack-on-ukraine-kills-at-least-11-a92898",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-06-02T08:06:38.000Z",
+          "description": "Russia’s Defense Ministry claimed it targeted defense production plants and transportation infrastructure used by Ukraine’s military."
+        },
+        {
+          "title": "At least 11 killed in Russian attack on Ukraine",
+          "url": "https://www.breakingnews.ie/world/at-least-11-killed-in-russian-attack-on-ukraine-1907992.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDIwNjM2MTZcXFwvZmU4NjZiZjM0ZDlkNDQ5Mjk0NmFjOWI2N2Q0ZGNhMjUuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYmM4NzAwZmE0NzY1NmJiYjA0NmI3ZGY1NTA5MTY2N2NjZDViYWJjYyJ9/fe866bf34d9d4492946ac9b67d4dca25.jpg",
+          "description": "Residential buildings and other civilian infrastructure were damaged in eight of Kyiv’s districts."
+        },
+        {
+          "title": "Russian attack on Ukraine kills at least 14, traps others under damaged buildings",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/02/russian-attack-on-ukraine-kills-at-least-14-traps-others-under-damaged-buildings_6754048_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-02T11:26:25.000Z",
+          "image": "https://img.lemde.fr/2026/06/02/321/0/3850/1925/644/322/60/0/a4ef210_ftp-1-blm6vrcas9xf-2026-06-02t102816z-1582225010-rc2jllak8vi5-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+          "description": "Vladimir Putin has stepped up Moscow's aerial campaign against Ukraine, with Russian forces recently launching a powerful hypersonic Oreshnik ballistic missile for only the third time in the four-year war."
+        },
+        {
+          "title": "Massive Russian air attack on Ukraine kills at least 12 people",
+          "url": "https://www.politico.eu/article/russia-attack-kyiv-kills-12-across-ukraine",
+          "source": "POLITICO",
+          "published_at": "2026-06-02T08:03:43.000Z",
+          "description": "Moscow launched 650 drones and 73 cruise missiles in a fresh nighttime offensive that caused significant damage in Kyiv."
+        },
+        {
+          "title": "Russian attack on Ukraine kills at least 16 and traps others in damaged buildings",
+          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxte9bzk5lov9cwujtdv9lsmj4duhtzljzuwx5nlpqm0nhx2tzlutxmxnqalbfcwthyjvas05ldzyyqnfnqw9kdfn0d1ytcdvpbgzlejywvlvrnm5nm2fsrgvjcuexdex2cji5ckxkc1ezetuttthqtnc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-02T20:51:04.000Z",
+          "description": "Russian attack on Ukraine kills at least 16 and traps others in damaged buildings NPR Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week The New York Times 'Whole of Ukraine is in grief' after attacks, but life in Kyiv goes on BBC At least 22 people killed, dozens wounded i…"
+        }
+      ],
+      "summary": "A Russian aerial attack on Ukraine killed at least 11 people, with some reports giving higher tolls. Residential buildings and other civilian infrastructure were damaged in Kyiv, and people were reported trapped under damaged buildings."
+    },
+    {
+      "id": "topic_56c9940015564204",
+      "title": "Trump to Attend Rescheduled White House Correspondents’ Dinner",
+      "headline": "Trump to Attend Rescheduled White House Correspondents’ Dinner",
+      "label": [
+        "dinner",
+        "correspondents",
+        "rescheduled",
+        "white",
+        "house",
+        "attend"
+      ],
+      "category": "new",
+      "theme": "theme_7187458617d2600c",
+      "entities": [
+        "Trump",
+        "Attend Rescheduled White House",
+        "Correspondents",
+        "Dinner",
+        "White House"
+      ],
+      "article_count": 30,
+      "source_count": 26,
+      "articles": [
         {
           "title": "Trump to Attend Rescheduled White House Correspondents’ Dinner",
           "url": "https://www.dailysignal.com/2026/06/02/trump-white-house-correspondents",
           "source": "The Daily Signal",
           "published_at": "2026-06-02T21:40:00.000Z",
-          "image": "https://static.dailysignalmedia.org/260602-Donald_Melania_Trump_WHCD.jpg"
+          "image": "https://static.dailysignalmedia.org/260602-Donald_Melania_Trump_WHCD.jpg",
+          "description": "June 2 (Reuters) – U.S. President Donald Trump will attend the rescheduled White House Correspondents’ Association dinner on July 24, he said in a Truth Social post on Tuesday, nearly three months after the annual event was postponed following a shooting. The black-tie gathering of journalists and…"
         },
         {
           "title": "Trump to attend rescheduled White House correspondents' dinner on July 24",
           "url": "https://www.indiatoday.in/world/story/donald-trump-white-house-correspondents-dinner-july-24-rescheduled-whca-event-2921129-2026-06-03",
           "source": "India Today | Latest Stories",
           "published_at": "2026-06-02T21:05:34.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/donald-trump-023100568-16x9_1.png?VersionId=IRJnRxOz4830U3RECippkGH1ueJBsxQN"
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/donald-trump-023100568-16x9_1.png?VersionId=IRJnRxOz4830U3RECippkGH1ueJBsxQN",
+          "description": "Trump to attend rescheduled White House correspondents dinner on July"
         },
         {
-          "title": "Trump to attend new White House press gala after shooting",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/02/trump-to-attend-new-white-house-press-gala-after-shooting_6754064_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-02T20:19:41.000Z",
-          "image": "https://img.lemde.fr/2026/06/02/344/0/7878/3939/644/322/60/0/530cb4a_ftp-1-m8i23lj9bjcp-5206400-01-06.jpg"
+          "title": "White House Correspondents Dinner Rescheduled for July",
+          "url": "https://www.nytimes.com/2026/06/02/business/media/white-house-correspondents-dinner.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-02T17:54:43.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/02/multimedia/02biz-whca-zjmg/02biz-whca-zjmg-mediumSquareAt3X.jpg",
+          "description": "The dinner was abruptly cut short in April when a gunman disrupted the proceedings."
         },
         {
-          "title": "Trump to speak at the rescheduled White House Correspondents' Dinner (Megan Lebowitz/NBC News)",
-          "url": "https://www.memeorandum.com/260602/p78",
-          "source": "memeorandum",
-          "published_at": "2026-06-02T20:05:02.000Z",
-          "image": "http://www.memeorandum.com/260602/i78.jpg"
+          "title": "Trump to speak at rescheduled White House correspondents' dinner",
+          "url": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-02T21:42:46.000Z",
+          "image": "https://s.france24.com/media/display/397aa5ae-441b-11f1-891d-005056bf30b7/w:1024/p:16x9/AP26116100136492.jpg",
+          "description": "US President Donald Trump said on Tuesday that he will attend and speak at a rescheduled White House correspondents' dinner on July 24, nearly three months after a shooting outside the original event prompted his evacuation. Organisers said the gathering will proceed with enhanced security, insisti…"
+        },
+        {
+          "title": "White House correspondents’ dinner rescheduled for July after shooting",
+          "url": "https://www.theguardian.com/us-news/2026/jun/02/white-house-correspondents-dinner-rescheduled-trump",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-02T18:14:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/e6631c4fd9d5c76bae519f7d646759404b47e27d/0_0_5680_4543/master/5680.jpg?width=140&quality=85&auto=format&fit=max&s=2c56637486225aa1e3ea76cc5f278c97",
+          "description": "Trump, who was swiftly evacuated from April gala after incident, confirmed his attendance at summer event The White House correspondents’ dinner will be rescheduled for 24 July after the Washington event was abruptly cancelled this spring following a shooting. Donald Trump, who was swiftly evacuate…"
         }
-      ]
+      ],
+      "summary": "Donald Trump said he will attend and speak at the White House Correspondents’ Association dinner on July 24. The event was rescheduled after a shooting disrupted the original dinner in April."
     },
     {
-      "id": "topic_dfe50cb3ef845d73",
+      "id": "topic_fb6e76e0ed910065",
+      "title": "Amazon Sets Prime Day for June 23–26",
+      "headline": "This year Amazon Prime Day will be in June, here are the dates",
       "label": [
-        "police",
-        "bodycam",
-        "bodycam footage",
-        "footage",
-        "victim told",
-        "told police"
+        "day",
+        "prime",
+        "amazon",
+        "june",
+        "dates",
+        "event"
       ],
       "category": "new",
-      "theme": "theme_c6826c499573b649",
+      "theme": "theme_ebd07af9f816dd4a",
       "entities": [
-        "Stabbing",
-        "Murder",
-        "Charlotte Coles",
-        "BBC",
-        "Protesters"
+        "Amazon Prime Day",
+        "June",
+        "Amazon Prime Day Apple",
+        "Shop Like",
+        "Pro During Amazon Prime"
+      ],
+      "article_count": 16,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "This year Amazon Prime Day will be in June, here are the dates",
+          "url": "https://www.gsmarena.com/this_year_amazon_prime_day_will_be_in_june_here_are_the_dates-news-73089.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-06-02T17:51:01.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/amazon-prime-day-set-for-june/-184x111/gsmarena_000.jpg",
+          "description": "For the last few years, Amazon Prime Day has been a July event – this year the retail giant has decided to bring it back to June, which was the traditional time frame before the switch to July. So, mark your calendars – Prime Day this year will be from June 23 to 26. Yes, it will be a four-day even…"
+        },
+        {
+          "title": "Amazon Prime Day Apple deals: What to expect from the 4-day event",
+          "url": "https://www.macworld.com/article/3154547/amazon-prime-day-apple-deals-what-to-expect-from-the-4-day-event.html",
+          "source": "Macworld",
+          "published_at": "2026-06-02T17:14:37.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/06/amazon-prime-day-apple-preview.jpg?quality=50&strip=all",
+          "description": "Macworld Amazon’s annual Prime Day event is returning early this year. Instead of getting to enjoy thousands of deals in the middle of July, start saving now because this year’s event takes place this month. Amazon has announced that the massive four-day savings extravaganza will kick off before th…"
+        },
+        {
+          "title": "Amazon Prime Day 2026 takes place June 23-26",
+          "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26",
+          "source": "TechCrunch",
+          "published_at": "2026-06-02T13:47:53.000Z",
+          "description": "Groceries and household essentials will be a main focus of this year's deals event."
+        },
+        {
+          "title": "How to Shop Like a Pro During Amazon Prime Day (2026)",
+          "url": "https://www.wired.com/story/amazon-prime-day-2026-tips-to-find-best-deals",
+          "source": "Feed: All Latest",
+          "published_at": "2026-06-02T11:02:00.000Z",
+          "image": "https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png",
+          "description": "Find the real deals on Amazon Prime Day this June."
+        },
+        {
+          "title": "Amazon Prime Day’s 2026 Sale Dates Have Been Announced, Get Ready for a Four-Day Event",
+          "url": "https://www.ign.com/articles/amazon-prime-day-2026-dates-announced",
+          "source": "IGN Articles",
+          "published_at": "2026-06-02T16:26:11.000Z",
+          "image": "https://assets-prd.ignimgs.com/2024/06/25/amazon-officially-announces-prime-day-2024-ign-1719311313362.png",
+          "description": "Amazon Prime Day's 2026 dates have officially been announced. Here are details on when the sale event kicks off this year, how long it lasts for, and some early deals you can already shop for."
+        }
+      ],
+      "summary": "Amazon’s 2026 Prime Day sale will run for four days, from June 23 through June 26. Groceries and household essentials are among the event’s featured categories."
+    },
+    {
+      "id": "topic_870757a7dfae9185",
+      "title": "US Proposes 25% Tariffs on Brazilian Imports",
+      "headline": "Trump administration proposes 25% tariff to punish Brazil over trade practices",
+      "label": [
+        "tariff",
+        "brazil",
+        "proposes",
+        "practices",
+        "administration",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_4e52a0cf7b686743",
+      "entities": [
+        "Trump",
+        "Brazil",
+        "US",
+        "Trump Targets Brazil With",
+        "Tariff"
+      ],
+      "article_count": 13,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Trump administration proposes 25% tariff to punish Brazil over trade practices",
+          "url": "https://www.thehindu.com/news/international/trump-administration-proposes-25-tariff-to-punish-brazil-over-trade-practices/article71051493.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-02T08:49:54.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/72ujmw/article71051612.ece/alternates/LANDSCAPE_1200/2272596933.jpg",
+          "description": "Despite recent engagement with Brazilian President Lula and his cabinet, Jamieson Greer ⁠said the United States and Brazil ‘continue to have substantial differences in resolving issues identified in this investigation’"
+        },
+        {
+          "title": "Trump administration proposes 25% Brazil tariffs",
+          "url": "https://seekingalpha.com/news/4599528-trump-administration-proposes-25-brazil-tariffs",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-02T05:59:54.000Z"
+        },
+        {
+          "title": "Trump administration proposes 25% tariffs on Brazil, citing \"unreasonable'' trade practices",
+          "url": "https://abcnews.com/business/wirestory/trump-administration-proposes-25-tariffs-brazil-citing-unreasonable-133521456",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-02T15:47:06.000Z",
+          "image": "https://s.abcnews.com/images/Business/wirestory_3f389d69e8706d773ed19eb4de6a4726_4x3_384.jpg",
+          "description": "The Trump administration proposed 25% tariffs on imports from Brazil, charging that the world’s 10th-biggest economy engages in trade practices that are “unreasonable’’ and that “burden or restrict U.S. commerce"
+        },
+        {
+          "title": "US targets Brazil with new tariffs over trade practices",
+          "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-02T17:00:15.000Z",
+          "description": "The US plans new 25 percent tariffs on Brazilian imports, citing issues like deforestation and digital trade practices."
+        },
+        {
+          "title": "US proposes 25% tariff to punish Brazil over trade practices",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3355743/us-proposes-25-tariff-punish-brazil-over-trade-practices",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-02T14:13:00.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/02/9e0d7d8a-7326-416e-ad3c-1ecc49585372_6a10e719.jpg?itok=ubCvI-i_&v=1780409578",
+          "description": "The Trump administration has proposed a new punitive tariff of 25 per cent on many imports from Brazil, after deciding its practices were unfair on a range of issues from digital trade to illegal deforestation, top trade official Jamieson Greer said late on Monday. The measures, under the Section 3…"
+        }
+      ],
+      "summary": "The Trump administration proposed a 25% tariff on imports from Brazil, citing trade practices it considers unreasonable or unfair. Reported concerns include digital trade and deforestation."
+    },
+    {
+      "id": "topic_1326594075f2fd1d",
+      "title": "Stephen Curry Signs 10-Year Deal With Li-Ning",
+      "headline": "Stephen Curry signs 10-year deal with Li-Ning sneakers",
+      "label": [
+        "ning",
+        "curry",
+        "li",
+        "stephen",
+        "signs",
+        "chinese"
+      ],
+      "category": "new",
+      "theme": "theme_96ca7912d65b966e",
+      "entities": [
+        "Stephen Curry",
+        "Li",
+        "Ning",
+        "China",
+        "Steph Curry Signs"
+      ],
+      "article_count": 15,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Stephen Curry signs 10-year deal with Li-Ning sneakers",
+          "url": "https://sports.yahoo.com/articles/stephen-curry-signs-10-deal-155727725.html",
+          "published_at": "2026-06-02T15:57:27.000Z",
+          "description": "The four-time NBA champion left Under Armour in November after a 13-year partnership, sparking a months-long recruitment by multiple brands"
+        },
+        {
+          "title": "Stephen Curry signs longterm sneaker deal with China’s Li-Ning",
+          "url": "https://www.japantimes.co.jp/sports/2026/06/02/basketball/nba/steph-curry-li-ning-deal",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-02T02:35:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/02/543790.JPG",
+          "description": "The Golden State Warriors star wore Under Armour shoes for 13 years before the sides split in ​November."
+        },
+        {
+          "title": "Steph Curry Signs 10-Year Deal With Chinese Sportswear Brand Li-Ning",
+          "url": "https://www.forbes.com/sites/adamzagoria/2026/06/01/steph-curry-signs-10-year-deal-with-chinese-sportswear-brand-li-ning",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-02T02:52:50.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1e42a0ea376bc9fc02d2d6/0x0.jpg"
+        },
+        {
+          "title": "Curry is the new face of Li-Ning",
+          "url": "https://www.sunstar.com.ph/network/curry-is-the-new-face-of-li-ning",
+          "source": "sunstar",
+          "published_at": "2026-06-02T11:52:20.285Z"
+        },
+        {
+          "title": "China’s Li-Ning Scores Big By Signing Stephen Curry",
+          "url": "https://www.businessoffashion.com/briefings/sports/chinas-li-ning-scores-big-by-signing-stephen-curry",
+          "source": "The Business of Fashion",
+          "published_at": "2026-06-02T15:15:25.000Z",
+          "image": "https://img.businessoffashion.com/resizer/v2//DVV6HNWBS5FGTBUFLW2EWTSBNI.png?auth=957ddf886a1b4a4bfc62919c79f1ccec114bd657c5c66aa67036066423d04354&smart=true&width=1800&height=1013",
+          "description": "NBA superstar Stephen Curry signed a new sneaker and apparel deal with Li-Ning, giving the Chinese sportswear brand a new global superstar to help it expand beyond its home market."
+        }
+      ],
+      "summary": "Stephen Curry signed a 10-year sneaker and apparel deal with Chinese sportswear company Li-Ning. He had previously partnered with Under Armour for 13 years, ending that relationship in November."
+    },
+    {
+      "id": "topic_ff1e019169ebf82",
+      "title": "Kenny Dalglish Says He Is Undergoing Cancer Treatment",
+      "headline": "Liverpool legend Sir Kenny Dalglish undergoing treatment for cancer",
+      "label": [
+        "dalglish",
+        "kenny",
+        "cancer",
+        "treatment",
+        "undergoing",
+        "liverpool"
+      ],
+      "category": "new",
+      "theme": "theme_57b0d97fa8e60c34",
+      "entities": [
+        "Liverpool",
+        "Sir Kenny Dalglish",
+        "Kenny Dalglish",
+        "Liverpool FC",
+        "Dalglish"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Liverpool legend Sir Kenny Dalglish undergoing treatment for cancer",
+          "url": "https://sports.yahoo.com/articles/liverpool-legend-sir-kenny-dalglish-111502299.html",
+          "published_at": "2026-06-02T11:54:02.000Z",
+          "description": "Dalglish, who was knighted for ‘services to football, charity, and the city of Liverpool’ in 2018, has revealed his cancer diagnosis"
+        },
+        {
+          "title": "Liverpool legend Kenny Dalglish undergoing treatment for cancer",
+          "url": "https://www.thejournal.ie/kenny-dalglish-cancer-treatment-2-7058475-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-02T12:33:32.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/file-photo-dated-110225-of-sir-kenny-dalglish-leaving-manchester-cathedral-following-the-funeral-of-former-manchester-united-manchester-city-and-scotland-forward-denis-law-sir-kenny-has-been-fined-249cf1c6-1422-40a1-8ff1-4a8f6cbae986-630x455.jpg",
+          "description": "The Scotland, Celtic and Liverpool legend posted an update on social media."
+        },
+        {
+          "title": "Sir Kenny Dalglish undergoing treatment for cancer",
+          "url": "https://www.bbc.com/news/articles/clyp4e14m1do",
+          "source": "BBC Sport",
+          "published_at": "2026-06-02T11:36:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0332/live/50c33ef0-5e7a-11f1-929d-ad528af5a4c7.jpg",
+          "description": "Scotland, Liverpool and Celtic great Sir Kenny Dalglish confirms he is undergoing treatment for cancer."
+        },
+        {
+          "title": "Kenny Dalglish undergoing treatment for cancer",
+          "url": "https://www.the42.ie/kenny-dalglish-cancer-treatment-7058416-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-02T11:54:48.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/06/file-photo-dated-11-02-2025-of-sir-kenny-dalglish-who-has-revealed-he-is-undergoing-treatment-for-cancer-issue-date-tuesday-june-2-2026-ffe24074-f456-41ea-92d3-f4e8f4ad8754-630x455.jpg",
+          "description": "The Scotland, Celtic and Liverpool posted an update on social media."
+        },
+        {
+          "title": "Sir Kenny Dalglish undergoing cancer treatment",
+          "url": "https://www.espn.com/soccer/story/_/id/48945789/kenny-dalglish-undergoing-cancer-treatment",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-06-02T12:58:08.000Z",
+          "description": "Sir Kenny Dalglish has revealed that he is undergoing treatment for cancer."
+        }
+      ],
+      "summary": "Former Liverpool, Scotland and Celtic footballer Kenny Dalglish has revealed that he is receiving treatment for cancer."
+    },
+    {
+      "id": "topic_ed50400a8ecbb0de",
+      "title": "‘Twin Peaks’ Actor Owain Rhys Davies Dies at 44",
+      "headline": "Owain Rhys Davies, ‘Twin Peaks’ Actor, Dies At 44",
+      "label": [
+        "peaks",
+        "twin",
+        "owain",
+        "rhys",
+        "davies",
+        "actor"
+      ],
+      "category": "new",
+      "theme": "theme_62f759dc67978a83",
+      "entities": [
+        "Owain Rhys Davies",
+        "Twin Peaks",
+        "Actor",
+        "Dies At",
+        "Actor Owain Rhys Davies"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Owain Rhys Davies, ‘Twin Peaks’ Actor, Dies At 44",
+          "url": "https://www.forbes.com/sites/timlammers/2026/06/02/owain-rhys-davies-twin-peaks-actor-dies-at-44",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-02T14:12:31.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ee369d944b03610d243c8/0x0.jpg?width=960&precrop=3600%2C2025%2Cx0%2Cy0",
+          "description": "Owain Rhys Davies, who played Agent Wilson in the 2017 reboot of David Lynch’s \"Twin Peaks,\" has died."
+        },
+        {
+          "title": "'Twin Peaks' Actor Owain Rhys Davies Dies Suddenly at 44, Family Confused",
+          "url": "https://news.google.com/rss/articles/cbmizefvx3lxte1qc2lit0rjav83wfo5t3pvmmrkr3zzdei3bkpyzvd0eew2bwtvelv0uwdylvhprmzdzzbbdnpuazl4ui1qdjllumi4slziumhzeeppdzk2q1r1oulsserkwhjls1q",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-02T13:05:41.000Z",
+          "description": "'Twin Peaks' Actor Owain Rhys Davies Dies Suddenly at 44, Family Confused TMZ Twin Peaks actor dies suddenly at 44 BBC Twin Peaks: The Return star Owain Rhys Davies dies at 44 RTE.ie ‘Twin Peaks’ Actor Owain Rhys Davies Dies at 44; Family Says It Was Sudden and ‘There Are Still Questions That Remai…"
+        },
+        {
+          "title": "Muere Owain Rhys Davies, actor de \"Twin Peaks\", a los 44 años",
+          "url": "https://www.informador.mx/entretenimiento/muere-owain-rhys-davies-actor-de-twin-peaks-a-los-44-anos-20260602-0067.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-06-02T15:37:00.000Z",
+          "description": "Hasta el momento, no se han dado a conocer más detalles sobre las causas del deceso del actor galés, conocido por su papel en “Twin Peaks”"
+        },
+        {
+          "title": "Twin Peaks: The Return star Owain Rhys Davies dies aged 44",
+          "url": "https://www.breakingnews.ie/world/twin-peaks-the-return-star-owain-rhys-davies-dies-aged-44-1908180.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDIxMzI4MzdcXFwvOGI4ODkxZTUtZWEzMS00MTVlLThhMTItZDkwOWVhMTllMDExLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImM1MDIxOGU1MWU5YWI4OTZlZjZhNTQ3NWEyNDVjNjUxMDNjNjA0NjMifQ==/8b8891e5-ea31-415e-8a12-d909ea19e011.jpg",
+          "description": "The actor also appeared in the Netflix sci-fi drama The OA."
+        },
+        {
+          "title": "Owain Rhys Davies Dies: ‘Twin Peaks’ & ‘The OA’ Actor Passed “Suddenly” Aged 44",
+          "url": "https://deadline.com/2026/06/owain-rhys-davies-dead-twin-peaks-the-oa-1236938559",
+          "source": "Deadline",
+          "published_at": "2026-06-02T13:13:09.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1460897674-e1780404757805.jpg",
+          "description": "Owain Rhys Davies, the Welsh actor best known for his work in Twin Peaks, has died “suddenly” at the age of 44. Davies’ passing was confirmed by his brother, Rhodri Davies, in an Instagram post. He said questions remain unanswered about the cause of death. Davies’ screen acting credits date back to…"
+        }
+      ],
+      "summary": "Welsh actor Owain Rhys Davies, who played Agent Wilson in the 2017 revival of “Twin Peaks,” has died at 44. He also appeared in “The OA.”"
+    },
+    {
+      "id": "topic_28f1e94ca08e7da9",
+      "title": "‘Rayman Legends Retold’ Set for October Release",
+      "headline": "Rayman Legends Retold Is More Than A Remake–It Could Be The Future Of The Series",
+      "label": [
+        "rayman",
+        "legends",
+        "retold",
+        "remake",
+        "october",
+        "switch"
+      ],
+      "category": "new",
+      "theme": "theme_9b323a36dce95d01",
+      "entities": [
+        "Rayman Legends Retold Is",
+        "More Than",
+        "Remake",
+        "It Could Be The",
+        "Future Of The Series"
+      ],
+      "article_count": 14,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Rayman Legends Retold Is More Than A Remake–It Could Be The Future Of The Series",
+          "url": "https://www.gamespot.com/articles/rayman-legends-retold-is-more-than-a-remake-it-could-be-the-future-of-the-series",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-06-02T22:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/assembly.00_00_02_50.Still001.png?w=300",
+          "description": "It's been 13 years since the last mainline Rayman game, Rayman Legends, which also happens to be the best in the series in my book. So when I learned about its remake, Rayman Legends Retold, I was a little confused. The 2013 classic still plays great and looks amazing thanks to its painterly and ti…"
+        },
+        {
+          "title": "Rayman Legends Retold screenshots leak",
+          "url": "https://mynintendonews.com/2026/06/02/rayman-legends-retold-screenshots-leak",
+          "source": "My Nintendo News",
+          "published_at": "2026-06-02T13:00:46.000Z",
+          "description": "A video game site has published its Rayman Legends Retold preview early along with some small screenshots showing the revamped platformer in action. The Rayman Legends Retold embargo lifts today and it is thought that the game will be showcased during today’s State of Play event which takes place a…"
+        },
+        {
+          "title": "Hands On: Rayman Legends Retold - Somehow, Legends Returned, But...Why?",
+          "url": "https://www.nintendolife.com/previews/hands-on-rayman-legends-retold-somehow-legends-returned-but-why",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-06-02T22:00:00.000Z",
+          "image": "https://images.nintendolife.com/e570d301ae693/large.jpg",
+          "description": "\"We wanted to be the foundation for the future\". I have played through Rayman Legends four times in my life. I got it on PS Vita at launch back in 2013 and loved it. I played the Definitive Edition on Switch when that launched in 2017 and loved it. I went back to the original on Wii U when I finall…"
+        },
+        {
+          "title": "A Rayman Legends remake will arrive on October 1",
+          "url": "https://www.engadget.com/2186200/a-rayman-legends-remake-will-arrive-on-october-1",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-02T21:38:52.000Z",
+          "image": "https://www.engadget.com/img/gallery/a-rayman-legends-remake-will-arrive-on-october-1/l-intro-1780436262.jpg",
+          "description": "The standard version of Rayman Legends Retold will cost $40."
+        },
+        {
+          "title": "Rayman Legends Retold Isn’t A Remake I Wanted, But After Playing It I’m Happy It’s Happening",
+          "url": "https://kotaku.com/rayman-legends-retold-3d-remake-visuals-release-date-ps5-trailer-origins-ubisoft-2000701140",
+          "source": "Kotaku",
+          "published_at": "2026-06-02T21:14:42.000Z",
+          "image": "https://kotaku.com/app/uploads/2026/06/Raymanremake3d-1280x720.jpg",
+          "description": "Ubisoft's new 3D remake of the last new Rayman game is set to release this fall"
+        }
+      ],
+      "summary": "Ubisoft’s “Rayman Legends Retold,” a remake of the platform game, is scheduled to arrive on October 1. The standard edition is listed at $40, and preview coverage has included leaked screenshots and hands-on impressions."
+    },
+    {
+      "id": "topic_5f7b72aed5cd2866",
+      "title": "Marvell Shares Rise After Jensen Huang Praises Company",
+      "headline": "Marvell jumps after Jensen Huang calls it the next trillion-dollar company",
+      "label": [
+        "trillion",
+        "marvell",
+        "company",
+        "next",
+        "dollar",
+        "huang"
+      ],
+      "category": "new",
+      "theme": "theme_53a264c16198aa17",
+      "entities": [
+        "Marvell",
+        "Jensen Huang",
+        "Nvidia",
+        "Marvell Technology",
+        "Huang"
       ],
       "article_count": 13,
       "source_count": 9,
       "articles": [
         {
-          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
-          "url": "https://www.brisbanetimes.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-02T22:21:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+          "title": "Marvell jumps after Jensen Huang calls it the next trillion-dollar company",
+          "url": "https://thenextweb.com/news/marvell-huang-next-trillion-dollar-company",
+          "source": "The Next Web",
+          "published_at": "2026-06-02T11:21:20.000Z",
+          "image": "https://media.thenextweb.com/2026/06/Marvell-boss-Matt-Murphy.avif",
+          "description": "It took one sentence from Jensen Huang to move tens of billions of dollars. Marvell Technology shares surged about 25% in premarket trading on Tuesday after Nvidia’s chief executive, sharing a Computex stage in Taipei with Marvell boss Matt Murphy, predicted that the chip and networking company wou…"
         },
         {
-          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
-          "url": "https://www.smh.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-02T22:21:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+          "title": "Nvidia's Jensen Huang says Marvell could be the next trillion-dollar company; stock jumps 25%",
+          "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-06-02T10:10:27.000Z",
+          "description": "Nvidia's CEO, Jensen Huang, hailed this chip designer as the next trillion-dollar firm, sending its shares up sharply in early market trading."
         },
         {
-          "title": "Stabbing victim told police \"I can't breathe\", bodycam footage reveals",
-          "url": "https://www.theage.com.au/world/stabbing-victim-told-police-i-cant-breathe-bodycam-footage-reveals-20260603-p603e4.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-02T22:21:32.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0e9c5a9e025ebc1cac75802be42e54841af32707"
+          "title": "Marvell Technology surges after Nvidia's Huang calls it 'next trillion-dollar company'",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-surges-nvidias-huang-084424457.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-02T08:44:24.000Z",
+          "image": "https://media.zenfs.com/en/reuters-finance.com/4a8b2eb27ca9cda8a8f0a8f9e1751147"
         },
         {
-          "title": "Murder victim told police 'I can't breathe' while handcuffed (Charlotte Coles/BBC)",
-          "url": "https://www.memeorandum.com/260602/p95",
-          "source": "memeorandum",
-          "published_at": "2026-06-02T21:45:00.000Z",
-          "image": "http://www.memeorandum.com/260602/i95.jpg"
+          "title": "Nvidia’s Huang says Marvell could be the next trillion-dollar chip company",
+          "url": "https://seekingalpha.com/news/4599559-nvidias-huang-says-marvell-could-be-the-next-trillion-dollar-chip-company",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-02T09:11:25.000Z"
         },
         {
-          "title": "Protesters clash with police in Southampton over Henry Nowak murder",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/02/protesters-clash-with-police-in-southampton-over-henry-nowak",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-02T21:03:23.000Z",
-          "image": "https://i.guim.co.uk/img/media/a0e8830a3e4e91f1233e4bc0564e592957be3698/142_0_5426_4341/master/5426.jpg?width=140&quality=85&auto=format&fit=max&s=c30b951e02b668afb133ab4a2feed70c"
+          "title": "Jensen Huang called a California chipmaker the 'next trillion-dollar company,' and its shares spiked 20%",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-marvell-next-1-trillion-company-stock-spikes-2026-6",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-06-02T12:16:08.000Z",
+          "image": "https://i.insider.com/6a1eba182e5a80cfe05023b2?format=jpeg",
+          "description": "Nvidia CEO Jensen Huang (L) speaks alongside Marvell Technology CEO Matthew Murphy (R). Cheng Chia Huang/Getty Images Shares in semiconductor producer Marvell Technology spiked in premarket trade on Tuesday. The surge comes after Nvidia CEO Jensen Huang called Marvell the \"next trillion-dollar comp…"
         }
-      ]
+      ],
+      "summary": "Marvell Technology shares rose sharply after Nvidia CEO Jensen Huang called it a potential next trillion-dollar company. Reports put the stock’s early gains at around 20% to 25%."
     },
     {
-      "id": "topic_fca424b2a63b3bbf",
+      "id": "topic_a0c2f1b1971c5820",
+      "title": "Martin Scorsese Advises AI Company Black Forest Labs",
+      "headline": "Martin Scorsese Is Embracing A.I.",
       "label": [
-        "tomb",
-        "tomb raider",
-        "raider",
-        "atlanti",
-        "raider legacy",
-        "legacy atlanti"
+        "scorsese",
+        "martin",
+        "storyboarding",
+        "ai",
+        "embracing",
+        "company"
       ],
       "category": "new",
-      "theme": "theme_c98474d366d0aae1",
+      "theme": "theme_147f48ef16aae04a",
       "entities": [
-        "Tomb Raider",
-        "Legacy Of Atlantis Jumps",
-        "Onto Switch",
-        "Next Year",
-        "Legacy"
+        "Martin Scorsese Is Embracing",
+        "Even Martin Scorsese Is",
+        "Using AI",
+        "Storyboarding",
+        "Martin Scorsese"
       ],
-      "article_count": 9,
-      "source_count": 9,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Tomb Raider: Legacy Of Atlantis Jumps Onto Switch 2 Next Year",
-          "url": "https://www.nintendolife.com/news/2026/06/tomb-raider-legacy-of-atlantis-jumps-onto-switch-2-next-year",
-          "source": "Nintendo Life | Latest Updates",
-          "published_at": "2026-06-02T23:00:00.000Z",
-          "image": "https://images.nintendolife.com/b9b35dcb37811/large.jpg"
+          "title": "Martin Scorsese Is Embracing A.I.",
+          "url": "https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-06-02T13:00:07.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/02/multimedia/02biz-scorsese-ai-cpkz/02biz-scorsese-ai-cpkz-mediumSquareAt3X.jpg",
+          "description": "In a clear sign of Hollywood’s softening stance on artificial intelligence, the cinema icon is backing Black Forest Labs, an image generation start-up."
         },
         {
-          "title": "Tomb Raider: Legacy of Atlantis confirmed for Nintendo Switch 2",
-          "url": "https://mynintendonews.com/2026/06/02/tomb-raider-legacy-of-atlantis-confirmed-for-nintendo-switch-2",
-          "source": "My Nintendo News",
-          "published_at": "2026-06-02T22:12:15.000Z"
+          "title": "Even Martin Scorsese Is Using AI… but Only for Storyboarding",
+          "url": "https://www.indiewire.com/news/general-news/martin-scorsese-using-ai-storyboarding-black-forest-labs-1235197760",
+          "source": "IndieWire",
+          "published_at": "2026-06-02T17:42:24.000Z",
+          "description": "The 83-year-old director is backing and serving as an advisor for an AI upstart called Black Forest Labs and played with AI during preproduction on a new film."
         },
         {
-          "title": "Tomb Raider: Legacy of Atlantis delayed to February 2027",
-          "url": "https://www.polygon.com/tomb-raider-legacy-of-atlantis-release-date-delay",
-          "source": "Polygon.com",
-          "published_at": "2026-06-02T21:42:20.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-02-172315.png"
+          "title": "Martin Scorsese promotes generative AI for storyboarding",
+          "url": "https://www.avclub.com/martin-scorsese-generative-ai-storyboards",
+          "source": "AV Club",
+          "published_at": "2026-06-02T13:03:46.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/07165257/marty-feature.jpg",
+          "description": "The director has become an advisor to Black Forest Labs, which he says \"conveys a cinematic intelligence.\""
         },
         {
-          "title": "Tomb Raider: Legacy of Atlantis gets new trailer featuring Lara, Natla and Larson, as well as slight a delay",
-          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gets-new-trailer-featuring-lara-natla-and-larson-as-well-as-slight-a-delay",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "published_at": "2026-06-02T21:37:39.000Z",
-          "image": "https://assetsio.gnwcdn.com/Lara-Croft-holds-her-two-pistols-at-arms-length-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=690&quality=85&format=jpg&auto=webp"
+          "title": "Martin Scorsese is betting on AI to transform the storyboarding process",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-06-02/martin-scorsese-ai-black-forest-labs-advisor-storyboarding",
+          "source": "L.A. Times - Movie Reviews",
+          "published_at": "2026-06-02T22:51:08.000Z",
+          "description": "Martin Scorsese is joining AI firm Black Forest Labs as an advisor to 'push the bounds of creativity.'"
         },
         {
-          "title": "Tomb Raider: Legacy of Atlantis launches Feb 12, 2027 on PS5",
-          "url": "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5",
-          "source": "PlayStation.Blog",
-          "published_at": "2026-06-02T21:24:56.000Z"
+          "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+          "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai",
+          "source": "TechCrunch",
+          "published_at": "2026-06-02T18:16:53.000Z",
+          "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding."
         }
-      ]
+      ],
+      "summary": "Martin Scorsese has become an advisor to AI company Black Forest Labs and has used generative AI during film preproduction for storyboarding, according to reports."
     },
     {
-      "id": "topic_aa608f4814b99d4d",
+      "id": "topic_f40b37b5ed72ccc9",
+      "title": "India’s Enforcement Directorate Searches Vedanta Group",
+      "headline": "ED searches against Vedanta Group in FEMA case",
       "label": [
-        "du psg",
-        "la seine",
-        "psg",
-        "deux",
-        "seine",
-        "dans la"
+        "vedanta",
+        "searches",
+        "fema",
+        "ed",
+        "group",
+        "case"
       ],
       "category": "new",
-      "theme": "theme_1935f66665cc84ac",
+      "theme": "theme_12ec6cd05877d1c2",
       "entities": [
-        "Victoire",
-        "PSG",
-        "Ligue",
-        "Champions",
-        "Seine"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Victoire du PSG en Ligue des Champions : deux personnes sont mortes après des chutes dans la Seine",
-          "url": "https://www.ouest-france.fr/societe/faits-divers/victoire-du-psg-en-ligue-des-champions-deux-personnes-sont-mortes-apres-des-chutes-dans-la-seine-1cdfb1bc-8bba-456b-b694-16f4fe74a99d",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-02T20:37:13.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2MTVmNzUxZmNhMjI5MjJjMDJiZGQ3OTk3MDRlM2QxOTI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5141f9e4a54461e44723177b55fe1feaf0dfb4f446020fbd0356b044aec0000c"
-        },
-        {
-          "title": "Victoire du PSG en Ligue des champions : trois morts à Paris, dont deux dans la Seine",
-          "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/victoire-psg-en-ligue-des-champions-trois-morts-a-paris-dont-deux-dans-la-seine_8041916.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-02T20:05:55.000Z",
-          "image": "https://www.franceinfo.fr/pictures/pqfwP8y3Ffi0nzJHyYeP_w6_Pbk/0x106:1024x682/432x243/filters:format(jpg)/2026/06/02/6a1f368142dc0815634524.jpg"
-        },
-        {
-          "title": "Célébration du sacre du PSG : deux personnes mortes après des chutes dans la Seine, un troisième accident mortel sur le périphérique parisien",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/02/celebration-du-sacre-du-psg-deux-personnes-mortes-apres-des-chutes-dans-la-seine-un-troisieme-accident-mortel-sur-le-peripherique-parisien_6696447_3224.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-02T19:28:31.000Z",
-          "image": "https://img.lemde.fr/2026/05/30/91/0/7180/3590/644/322/60/0/45ef694_ftp-1-zabje0gy8p2b-6ccc76742ed441b89c567829af2fd4f2-0-4e34dfcb28b14b8f9576eba404b9bb71.jpg"
-        },
-        {
-          "title": "Débordements à Paris après le sacre du PSG en Ligue des champions: deux personnes sont mortes dans la Seine",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/02/debordements-a-paris-apres-le-sacre-du-psg-en-ligue-des-champions-deux-personnes-sont-mortes-dans-la-seine-4wnt55y7jbesteobs2bwvysvpe",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-02T19:25:55.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/AWZV44GDAFB57CNVNPGFTFZ524.jpg?auth=3ed888f4d9ad122a4daf6235b29f13f3fd6863d4a2aaf6114b95ad609a750471&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Violences après la victoire du PSG : deux décès dans la Seine à Paris en marge des célébrations",
-          "url": "https://www.sudouest.fr/sport/football/paris-saint-germain/violences-apres-la-victoire-du-psg-deux-deces-dans-la-seine-a-paris-en-marge-des-celebrations-29327374.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-02T19:25:19.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7e9df0d4cfd34f5e",
-      "label": [
-        "le",
-        "disparition",
-        "disparition de",
-        "de",
-        "lyhanna",
-        "de lyhanna"
-      ],
-      "category": "new",
-      "theme": "theme_cb57670d2f2e1bfb",
-      "entities": [
-        "Disparition",
-        "Lyhanna",
-        "Gers",
-        "Dans",
-        "Lyannah"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Disparition de Lyhanna dans le Gers : une enfant de 10 ans violée, le suspect jamais entendu... ce que l’on sait de la plainte qui vise Jérôme B.",
-          "url": "https://www.ladepeche.fr/2026/06/02/disparition-de-lyhanna-dans-le-gers-une-enfant-de-10-ans-violee-le-suspect-jamais-entendu-ce-que-lon-sait-de-la-plainte-qui-vise-jerome-b-13400097.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-06-02T20:33:17.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a1f37c1cad6fbf1ac0ad332/standard/image.jpg?v=1"
-        },
-        {
-          "title": "Dans l’affaire de la disparition de Lyhanna dans le Gers, le suspect faisait déjà l’objet d’une enquête pour viols sur mineure",
-          "url": "https://www.huffingtonpost.fr/france/article/dans-l-affaire-de-la-disparition-de-lyhanna-dans-le-gers-le-suspect-faisait-deja-l-objet-d-une-enquete-pour-viols-sur-mineure_264372.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-06-02T20:02:10.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/06/02/1272/1092/2367/1331/0/0/60/0/f937cd1_upload-1-m6vshu3cwowt-afp-20260601-b4kp4fz-v8-highres-francepoliceinvestigation.jpg"
-        },
-        {
-          "title": "Disparition de Lyhanna, 11 ans: l'homme soupçonné de l'enlèvement était visé par une plainte pour viols sur mineure",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/02/disparition-de-lyhanna-11-ans-lhomme-soupconne-de-lenlevement-etait-vise-par-une-plainte-pour-viols-sur-mineure-rgw2oc6b3vehrb2blbyeqeikoa",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-02T19:21:26.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/FQOTW77VJ5F2BHHF6343B3POGM.jpg?auth=ea3f107ef6657fb4de5b43542629425db7fabe67c53afe0ff9c7ef729ff26f28&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Disparition de Lyhanna dans le Gers : le passé trouble du principal suspect remonte à la surface",
-          "url": "https://www.sudouest.fr/gers/disparition-de-lyhanna-dans-le-gers-le-passe-trouble-du-principal-suspect-remonte-a-la-surface-29326560.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-02T19:14:51.000Z"
-        },
-        {
-          "title": "Disparition de Lyannah : le suspect était déjà visé par une plainte pour viols déposée par une amie de sa fille en août",
-          "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/viol/disparition-de-lyannah-le-suspect-etait-deja-vise-par-une-plainte-pour-viols-deposee-par-une-amie-de-sa-fille-en-aout-105e20e6-3b79-484b-a614-03dd82e0cfe2",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-02T18:53:05.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2YzI4YTZhNGI1NzI4OWUxYzhmMjBlNGI3ZmRjMWU2Njk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0b063d7d34fa887521997280317d9874d05e0d68ebdc5e8dab414dad14c5dc3f"
-        }
-      ]
-    },
-    {
-      "id": "topic_d6cd40a5c4eac1a8",
-      "label": [
-        "mundial en",
-        "cnte",
-        "en",
-        "del mundial",
-        "reforma",
-        "mundial"
-      ],
-      "category": "new",
-      "theme": "theme_ba8dd32e5b287fdb",
-      "entities": [
-        "CNTE",
-        "VANDALIZA",
-        "Paseo",
-        "Reforma",
-        "FOTOS"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "CNTE derriba y VANDALIZA figuras de futbolistas en Paseo de la Reforma (FOTOS)",
-          "url": "https://www.informador.mx/mexico/fotos--cnte-derriba-y-vandaliza-figuras-de-futbolistas-en-paseo-de-la-reforma-en-plena-ola-de-manifestaciones-a-dias-del-mundial-2026-20260602-0163.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-02T22:17:00.000Z"
-        },
-        {
-          "title": "La CNTE desnuda a ‘Gigantes del Mundial’ en Paseo de la Reforma",
-          "url": "https://vanguardia.com.mx/noticias/la-cnte-desnuda-a-gigantes-del-mundial-en-paseo-de-la-reforma-dd21112221",
-          "source": "Vanguardia",
-          "published_at": "2026-06-02T22:13:12.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1084759-estatuas-futbol-derribadas-c_1-15645562_20260602224347.jpg"
-        },
-        {
-          "title": "Tiran y 'desnudan' figuras de futbolistas en protesta de CNTE",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/tiran-y-desnudan-figuras-de-futbolistas-en-protesta-de-cnte.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-06-02T20:59:14.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2016692.jpeg"
-        },
-        {
-          "title": "Derriba y vandaliza CNTE estatuas del Mundial en CDMX",
-          "url": "https://www.elnorte.com/derriba-y-vandaliza-cnte-estatuas-del-mundial-en-cdmx/ar3215057",
-          "source": "ElNorte",
-          "published_at": "2026-06-02T19:20:50.000Z"
-        },
-        {
-          "title": "Derriban y vandalizan estatuas del Mundial en Reforma",
-          "url": "https://www.reforma.com/derriban-y-vandalizan-estatuas-del-mundial-en-reforma/ar3215052",
-          "source": "Reforma",
-          "published_at": "2026-06-02T19:19:54.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_137ec455a2b3f350",
-      "label": [
-        "quantum",
-        "chip",
-        "quantum chip",
-        "microsoft",
-        "2029",
-        "useful"
-      ],
-      "category": "new",
-      "theme": "theme_27000b9e27680756",
-      "entities": [
-        "Microsoft",
-        "Majorana",
-        "AI",
-        "Stephen Nellis",
-        "Reuters"
+        "ED",
+        "Vedanta Group",
+        "FEMA",
+        "Enforcement Directorate",
+        "FEMA Case"
       ],
       "article_count": 8,
-      "source_count": 5,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Microsoft unveils Majorana 2 quantum chip, which was developed with the help of AI, and says it will have commercially useful quantum machines by 2029 (Stephen Nellis/Reuters)",
-          "url": "https://www.techmeme.com/260602/p51",
-          "source": "Techmeme",
-          "published_at": "2026-06-02T18:35:01.000Z",
-          "image": "http://www.techmeme.com/260602/i51.jpg"
+          "title": "ED searches against Vedanta Group in FEMA case",
+          "url": "https://www.thehindubusinessline.com/companies/ed-searches-against-vedanta-group-in-fema-case/article71051177.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-02T04:54:30.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/xc6zpj/article71051180.ece/alternates/LANDSCAPE_1200/IMG_ved_2_1_A7FOL6KG.jpg",
+          "description": "The searches are part of a Foreign Exchange Management Act (FEMA) violation investigation"
         },
         {
-          "title": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029",
-          "url": "https://finance.yahoo.com/news/microsoft-reveals-quantum-chip-made-181651197.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-02T18:21:06.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/0cdfb5ffc5348ecbe711d4edd436209a"
+          "title": "FEMA case: ED conducts searches against Vedanta Group",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/fema-case-ed-conducts-searches-against-vedanta-group/articleshow/131455089.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-02T04:59:46.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131455181,imgsize-26380.cms",
+          "description": "The Enforcement Directorate (ED) has initiated searches against the Vedanta Group as part of a Foreign Exchange Management Act (FEMA) investigation. The action against the mining conglomerate, promoted by Anil Agarwal, commenced on Monday. Further details regarding the ongoing FEMA probe are yet to…"
         },
         {
-          "title": "Microsoft’s New Quantum Chip Aiming for Useful Machine in 2029",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-02T18:18:20.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijHZoZsEV744/v1/1200x-1.jpg"
+          "title": "Enforcement Directorate searches against Vedanta Group in FEMA case",
+          "url": "https://www.thehindu.com/news/national/enforcement-directorate-fema-case-vedanta-group/article71051184.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-02T04:50:11.000Z",
+          "image": "https://th-i.thgim.com/public/news/national/nrwa9s/article32529532.ece/alternates/LANDSCAPE_1200/NKV-ED",
+          "description": "The searches are part of a Foreign Exchange Management Act (FEMA) violation investigation, they said"
         },
         {
-          "title": "Microsoft’s upgraded Majorana quantum computing chip fizzles with physicists",
-          "url": "https://www.scientificamerican.com/article/microsofts-upgraded-majorana-quantum-computing-chip-fizzles-with-physicists",
-          "source": "Scientific American Content: Global",
-          "published_at": "2026-06-02T18:15:00.000Z"
+          "title": "FEMA Case: Enforcement Directorate Conducts Searches Against Vedanta Group",
+          "url": "https://www.ndtv.com/business-news/fema-case-enforcement-directorate-conducts-searches-against-vedanta-group-11579003",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-02T06:49:20.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/fbp3amoc_-vedanta-group-for-alleged-violations-_625x300_02_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "A Vedanta spokesperson confirmed the ED action and said the company was \"extending full cooperation to the authorities\"."
         },
         {
-          "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
-          "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
-          "source": "The Verge",
-          "published_at": "2026-06-02T18:15:00.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Majorana-2-full-size_6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "title": "ED searches Vedanta Group’s offices in foreign exchange violations case",
+          "url": "https://scroll.in/latest/1093267/ed-searches-vedanta-groups-offices-in-foreign-exchange-violations-case",
+          "source": "Scroll.in",
+          "published_at": "2026-06-02T06:33:00.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213722-eojwmabgnj-1780381353.jpg",
+          "description": "While the details of the matter were unclear, the Anil Agarwal-led conglomerate said that it was cooperating with the authorities."
         }
-      ]
+      ],
+      "summary": "India’s Enforcement Directorate searched Vedanta Group as part of an investigation into alleged violations of the Foreign Exchange Management Act. The company said it was cooperating with authorities."
     },
     {
-      "id": "topic_4b14e8c3de1259b6",
+      "id": "topic_1c7022b8ec6ec37c",
+      "title": "Blake Lively Seeks Legal Fees From Justin Baldoni After Settlement",
+      "headline": "Blake Lively and Justin Baldoni’s legal battle continues despite settlement",
       "label": [
-        "ai",
-        "heraclitu",
-        "sso",
-        "ttp",
-        "netlogon",
-        "pan"
+        "baldoni",
+        "blake",
+        "lively",
+        "justin",
+        "settlement",
+        "legal"
       ],
       "category": "new",
-      "theme": "theme_8951a1e0ce77722f",
+      "theme": "theme_1be73f8905ecf1bc",
       "entities": [
-        "Heraclitus",
-        "AI LLMs",
-        "SSO",
-        "TTP",
-        "NetLogon"
+        "Blake Lively",
+        "Justin Baldoni",
+        "Rechtsstreit"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 6,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland - SWN #586",
-          "url": "https://www.youtube.com/watch?v=KTB4buAy8A4",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-06-02T21:00:20.000Z",
-          "image": "https://i4.ytimg.com/vi/KTB4buAy8A4/hqdefault.jpg"
+          "title": "Blake Lively and Justin Baldoni’s legal battle continues despite settlement",
+          "url": "https://globalnews.ca/news/11887099/blake-lively-justin-baldoni-legal-battle-continues-despite-settlement",
+          "published_at": "2026-06-02T19:18:42.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/blake-lively-justin-baldoni-legal-battle.jpg?quality=65&strip=all",
+          "description": "Lawyers for Blake Lively were back in court, trying to get a judge to make Justin Baldoni pay her legal bills plus other penalties."
         },
         {
-          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
-          "url": "https://hntvvideo.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-06-02T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--sd-converted--f91aee73-b8c2-4b41-9f3b-9f804ab6e10e.mp4?dest-id=376663"
-        },
-        {
-          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
-          "url": "https://sw-all.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-06-02T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--audio-converted--8d299a84-f3f8-48b4-9aae-ed3e142aaa17.mp3?dest-id=829103"
-        },
-        {
-          "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
-          "url": "https://hntvaudio.libsyn.com/heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-06-02T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_586_1--38e1369e-a81b-46b1-ad81-93c1829190de--audio-converted--8d299a84-f3f8-48b4-9aae-ed3e142aaa17.mp3?dest-id=376644"
-        }
-      ]
-    },
-    {
-      "id": "topic_3b822c35a32b90e9",
-      "label": [
-        "dr congo",
-        "congo",
-        "ebola",
-        "cancel dr",
-        "dr",
-        "cancel"
-      ],
-      "category": "new",
-      "theme": "theme_37db41b6a8c9097",
-      "entities": [
-        "Mayor",
-        "DR Congo",
-        "Ebola",
-        "Spain",
-        "DR Congo World Cup"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Mayor cancels DR Congo friendly over Ebola concern",
-          "url": "https://sports.yahoo.com/articles/mayor-cancels-dr-congo-friendly-192919289.html",
-          "published_at": "2026-06-02T20:04:35.000Z"
-        },
-        {
-          "title": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
-          "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-02T19:34:10.000Z"
-        },
-        {
-          "title": "Mayor cancels DR Congo friendly over Ebola concern",
-          "url": "https://www.bbc.com/news/articles/cm2pd28jnyxo",
-          "source": "BBC News",
-          "published_at": "2026-06-02T19:28:55.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/20957d50-5eb7-11f1-9877-71c2729415b9.jpg"
-        },
-        {
-          "title": "Spanish authorities cancel DR Congo v Chile World Cup warm-up tie over Ebola fears",
-          "url": "https://www.theguardian.com/football/2026/jun/02/dr-congo-chile-world-cup-warm-up-cancelled-ebola",
+          "title": "Blake Lively and Justin Baldoni return to court a month after reaching settlement",
+          "url": "https://www.theguardian.com/film/2026/jun/02/blake-lively-justin-baldoni-return-to-court-after-reaching-settlement",
           "source": "The Guardian",
-          "published_at": "2026-06-02T18:39:10.000Z",
-          "image": "https://i.guim.co.uk/img/media/1762ada342e19a2a9d3934209d7bfd85c03871fb/377_0_4146_3318/master/4146.jpg?width=140&quality=85&auto=format&fit=max&s=37942ec4f39ff81bd6cd5767e3fdf2d6"
-        }
-      ]
-    },
-    {
-      "id": "topic_28dde920d4464e1d",
-      "label": [
-        "elli star",
-        "australia beat",
-        "beat pakistan",
-        "elli",
-        "pakistan",
-        "beat"
-      ],
-      "category": "new",
-      "theme": "theme_fb1e9781bfc1d1af",
-      "entities": [
-        "Nello",
-        "Ellis",
-        "Australia",
-        "Pakistan",
-        "Nathan Ellis"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
-          "url": "https://www.brisbanetimes.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-02T21:42:18.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+          "published_at": "2026-06-02T02:47:58.000Z",
+          "image": "https://i.guim.co.uk/img/media/620149227f6a55a7deefa0f427291226ee7728fb/28_0_1939_1551/master/1939.jpg?width=140&quality=85&auto=format&fit=max&s=07ab6302ad191eed71bef5beaf8d490f",
+          "description": "Lively’s legal team are suing her It Ends with Us co-star for legal fees and damages, reigniting a years-long court battle Attorneys for US actor Blake Likely were back in front of a New York judge on Monday to demand legal fees and damages from It Ends with Us co-star Justin Baldoni, after a settl…"
         },
         {
-          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
-          "url": "https://www.theage.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-02T21:42:18.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+          "title": "Blake Lively seeks legal fees, damages from Justin Baldoni",
+          "url": "https://www.citizen.co.za/lifestyle/blake-lively-seeks-legal-fees-damages-from-justin-baldoni",
+          "source": "The Citizen",
+          "published_at": "2026-06-02T14:36:09.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/AFP__20260505__A9TU3ZB__v1__MidRes__MetGala2026.jpg",
+          "description": "Attorneys for US actress Blake Likely were back in front of a New York judge on Monday to demand legal fees and damages from 'It Ends with Us' co-star Justin Baldoni."
         },
         {
-          "title": "‘You can always call on Nello’: Ellis stars as Australia beat Pakistan",
-          "url": "https://www.smh.com.au/sport/cricket/you-can-always-call-on-nello-ellis-stars-as-australia-beat-pakistan-20260603-p603db.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-02T21:42:18.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3053%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0db989293e553cda7f55a822dd4a8566c4284944"
+          "title": "Blake Lively und Justin Baldoni stehen wohl vor neuem Rechtsstreit",
+          "url": "https://www.spiegel.de/panorama/leute/blake-lively-und-justin-baldoni-stehen-wohl-vor-neuem-rechtsstreit-a-0e33b66f-3862-4dae-846e-656fff0db249",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-06-02T10:53:00.000Z",
+          "image": "https://cdn.prod.www.spiegel.de/images/2fa9a943-d973-4762-8c52-9c4daffdeae9_w520_r2.08_fpx50_fpy34.jpg",
+          "description": "In ihrem schlagzeilenträchtigen Streit haben sich Blake Lively und Justin Baldoni unlängst außergerichtlich geeinigt. Die Schauspielerin verlangt nun aber erneut Geld von ihrem ehemaligen Filmpartner."
         },
         {
-          "title": "Nathan Ellis stars with 4-33 as Australia beat Pakistan in second ODI",
-          "url": "https://www.theguardian.com/sport/2026/jun/02/nathan-ellis-stars-with-4-33-as-australia-beat-pakistan-in-second-odi",
-          "source": "Cricket | The Guardian",
-          "published_at": "2026-06-02T19:37:12.000Z",
-          "image": "https://i.guim.co.uk/img/media/7ff5fbb4ec1e011d7b000835657f6f80aebf1405/269_0_2663_2129/master/2663.jpg?width=140&quality=85&auto=format&fit=max&s=13f77781bef96387b6cc42ef4ff027a6"
-        }
-      ]
-    },
-    {
-      "id": "topic_2cd224eb855faf20",
-      "label": [
-        "magneto",
-        "carnage",
-        "goblin",
-        "fight soul",
-        "green goblin",
-        "soul"
-      ],
-      "category": "new",
-      "theme": "theme_2326e19253ed0de4",
-      "entities": [
-        "Marvel Tokon",
-        "Fighting Souls",
-        "Magneto",
-        "Carnage",
-        "Green Goblin"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Marvel Tokon: Fighting Souls reveals Magneto, Carnage, and Green Goblin",
-          "url": "https://www.polygon.com/marvel-tokon-fighting-souls-magneto-carnage-green-goblin-revealed",
-          "source": "Polygon.com",
-          "published_at": "2026-06-02T21:47:31.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-tokon-knights-of-doom-art.jpg"
-        },
-        {
-          "title": "Magneto, Green Goblin, And Carnage Join Marvel Tōkon: Fighting Souls",
-          "url": "https://gameinformer.com/state-of-play/2026/06/02/magneto-green-goblin-and-carnage-join-marvel-tokon-fighting-souls",
-          "source": "Game Informer",
-          "published_at": "2026-06-02T21:33:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/02/b2bc3c95/marvel_tokon_carnage.jpg.webp"
-        },
-        {
-          "title": "Marvel Tokon: Fighting Souls Adds Carnage, Green Goblin, and Magneto to the Roster",
-          "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-adds-carnage-green-goblin-and-magneto-to-the-roster",
-          "source": "IGN Articles",
-          "published_at": "2026-06-02T21:24:30.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/02/marvel-tokon-1780435216847.png"
-        },
-        {
-          "title": "Magneto, Green Goblin, and Carnage announced for Marvel Tokon Fighting Souls at Sony State of Play",
-          "url": "https://www.eurogamer.net/marvel-tokon-magneto-carnage-green-goblin-state-of-play",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "published_at": "2026-06-02T21:18:53.000Z",
-          "image": "https://assetsio.gnwcdn.com/marvel-tokon-green-goblin.jpg?width=690&quality=85&format=jpg&auto=webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_aea20be8fd5e9e61",
-      "label": [
-        "mai think",
-        "mai",
-        "think",
-        "rtx",
-        "rtx spark",
-        "nvidia"
-      ],
-      "category": "new",
-      "theme": "theme_b8e3138c556fb579",
-      "entities": [
-        "Nvidia",
-        "RTX Spark",
-        "Microsoft Build",
-        "Autopilots",
-        "MAI"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Nvidia announces the RTX Spark",
-          "url": "https://www.youtube.com/shorts/hu8v3kSib7s",
-          "source": "The Verge",
-          "published_at": "2026-06-02T21:31:06.000Z",
-          "image": "https://i1.ytimg.com/vi/hu8v3kSib7s/hqdefault.jpg"
-        },
-        {
-          "title": "What we learned at Microsoft Build: Autopilots, MAI-Thinking-1, and Nvidia RTX Spark",
-          "url": "https://mashable.com/tech/microsoft-build-2026-keynote-everything-we-learned",
-          "source": "Mashable",
-          "published_at": "2026-06-02T19:35:57.000Z"
-        },
-        {
-          "title": "MAI-Thinking-1",
-          "url": "https://microsoft.ai/news/introducing-mai-thinking-1",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-06-02T18:39:34.000Z"
-        },
-        {
-          "title": "4 Nvidia RTX Spark laptops I'm most excited to try - including Microsoft's new Ultra",
-          "url": "https://www.zdnet.com/article/all-the-new-pcs-powered-by-nvidias-new-n1x-cpu",
-          "source": "Latest news",
-          "published_at": "2026-06-02T18:24:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_367293f5fdb2f60",
-      "label": [
-        "man brand",
-        "brand day",
-        "spider man",
-        "spider",
-        "brand",
-        "man"
-      ],
-      "category": "new",
-      "theme": "theme_89ee913529712cb9",
-      "entities": [
-        "Spider",
-        "Man",
-        "Brand New Day",
-        "Made Some Major Changes",
-        "Thanks"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Spider-Man: Brand New Day’ Made Some Major Changes Thanks to ‘The Odyssey’",
-          "url": "https://gizmodo.com/spider-man-brand-new-day-made-some-major-changes-thanks-to-the-odyssey-2000766564",
-          "source": "Gizmodo",
-          "published_at": "2026-06-02T21:00:25.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/04/Spider-Man-Brand-New-Day-Poster-closeup-1280x853.jpg"
-        },
-        {
-          "title": "Spider-Man: Brand New Day Fans Can See the Movie Early Thanks to Amazon",
-          "url": "https://www.ign.com/articles/spider-man-brand-new-day-fans-can-see-the-movie-early-thanks-to-amazon",
-          "source": "IGN Articles",
-          "published_at": "2026-06-02T20:29:51.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/03/19/spider-man-brand-new-day-1773955154050.png"
-        },
-        {
-          "title": "How Christopher Nolan’s The Odyssey ‘Saved’ Spider-Man: Brand New Day MCU Movie",
-          "url": "https://www.comingsoon.net/movies/news/2141731-how-christopher-nolan-the-odyssey-saved-spider-man-brand-new-day-mcu-movie",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-02T18:18:56.000Z"
-        },
-        {
-          "title": "'Spider-Man: Brand New Day' Early Screenings for Prime Members Are Coming",
-          "url": "https://www.cnet.com/tech/services-and-software/spider-man-brand-new-day-amazon-prime-early-screenings-in-theaters",
-          "source": "CNET",
-          "published_at": "2026-06-02T18:18:00.000Z",
-          "image": "https://www.cnet.com/a/img/resize/91d40f9388881ce89d4d441bf775c5b2f0b6a7b7/hub/2026/06/02/109ace14-b26f-49c8-827e-f2155e53afe2/screenshot-2026-06-02-at-11-56-07am.jpg?auto=webp&fit=crop&height=614&width=1092"
-        }
-      ]
-    },
-    {
-      "id": "topic_df17712286511a7e",
-      "label": [
-        "peabo",
-        "bryson",
-        "peabo bryson",
-        "75",
-        "dies",
-        "dies 75"
-      ],
-      "category": "new",
-      "theme": "theme_c17bc6299e12e05f",
-      "entities": [
-        "Peabo Bryson Dies",
-        "Singer Of",
-        "Aladdin",
-        "Whole New World",
-        "Beauty"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Peabo Bryson Dies: R&B Singer Of ‘Aladdin’s “A Whole New World” & “Beauty & The Beast” Was 75",
-          "url": "https://deadline.com/2026/06/peabo-bryson-dead-singer-aladdin-beauty-and-the-beast-1236939369",
-          "source": "Deadline",
-          "published_at": "2026-06-02T23:06:51.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/peabo-bryson.jpg"
-        },
-        {
-          "title": "Peabo Bryson, Velvety Voice Behind Disney Duets & More, Dies at 75",
-          "url": "https://www.billboard.com/music/music-news/peabo-bryson-death-singer-1236262804",
-          "source": "Billboard",
-          "published_at": "2026-06-02T23:05:46.000Z"
-        },
-        {
-          "title": "Peabo Bryson, Soul Singer Known as the Voice of Love, Dies at 75",
-          "url": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
-          "source": "NYT > Arts",
-          "published_at": "2026-06-02T22:47:35.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/02/multimedia/00Bryson-ADV-wbgh/00Bryson-ADV-wbgh-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Peabo Bryson, Veteran R&B Singer of ‘Beauty and the Beast’ and ‘Whole New World,’ Dies at 75",
-          "url": "https://variety.com/2026/music/news/peabo-bryson-dead-beauty-and-the-beast-1236765354",
-          "source": "Variety",
-          "published_at": "2026-06-02T22:37:45.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/PEABO-BRYSON-2-e1780268272741.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_107a74ac2f550d47",
-      "label": [
-        "rioter",
-        "counterterrorism",
-        "pentagon",
-        "pentagon hir",
-        "hir",
-        "rioter counterterrorism"
-      ],
-      "category": "new",
-      "theme": "theme_64dfa495310ebee",
-      "entities": [
-        "Pentagon",
-        "January",
-        "Jan",
-        "Washington Post",
-        "Pentagon Hires Capitol Rioter"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Pentagon appoints convicted January 6 rioter to sensitive counterterrorism role",
-          "url": "https://www.theguardian.com/us-news/2026/jun/02/january-6-rioter-elias-irizarry-counterterrorism",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-02T22:43:52.000Z",
-          "image": "https://i.guim.co.uk/img/media/987492997055b5ca9d2a0004bbe3a67fcdb70b68/0_122_1230_983/master/1230.jpg?width=140&quality=85&auto=format&fit=max&s=48c2cc5ec6a7957b601bcf6d8289e10c"
-        },
-        {
-          "title": "Pentagon hires ‘qualified, patriotic’ Jan. 6 rioter for counterterrorism role",
-          "url": "https://www.washingtonexaminer.com/policy/defense/4592219/pentagon-hires-jan-6-rioter-counterterrorism",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-02T22:32:28.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/12/iStock-529769841-e1776705057374.webp?w=696"
-        },
-        {
-          "title": "Pentagon hires convicted Jan. 6 rioter for sensitive counterterrorism job (Washington Post)",
-          "url": "https://www.memeorandum.com/260602/p83",
-          "source": "memeorandum",
-          "published_at": "2026-06-02T20:45:00.000Z",
-          "image": "http://www.memeorandum.com/260602/i83.jpg"
-        },
-        {
-          "title": "Pentagon Hires Capitol Rioter for Counterterrorism Job",
-          "url": "https://politicalwire.com/2026/06/02/pentagon-hires-capitol-rioter-for-counterterrorism-job",
-          "source": "Political Wire",
-          "published_at": "2026-06-02T20:35:05.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_3d5d10f2d01755cb",
-      "label": [
-        "semi",
-        "french",
-        "zverev",
-        "open semi",
-        "french open",
-        "andreeva"
-      ],
-      "category": "new",
-      "theme": "theme_6dcb2a5e579ea14c",
-      "entities": [
-        "Mensik",
-        "Fonseca",
-        "Zverev",
-        "French",
-        "Andreeva"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Mensik halts Fonseca, gets Zverev in French semis",
-          "url": "https://www.espn.com/tennis/story/_/id/48951123/mensik-halts-fonseca-gets-zverev-next-french-open-semifinals",
-          "source": "www.espn.com - TENNIS",
-          "published_at": "2026-06-02T23:27:22.000Z"
-        },
-        {
-          "title": "Andreeva, Kostyuk set up Russia-Ukraine clash in French Open semis",
-          "url": "https://sports.inquirer.net/679381/andreeva-kostyuk-set-up-russia-ukraine-clash-in-french-open-semis",
+          "title": "Blake Lively, Justin Baldoni lawyers battle in court despite settling claims",
+          "url": "https://entertainment.inquirer.net/672379/blake-lively-justin-baldoni-lawyers-battle-in-court-despite-settling-claims",
           "source": "INQUIRER.net",
-          "published_at": "2026-06-02T23:04:43.000Z",
-          "image": "https://sports.inquirer.net/files/2026/06/AP26153338988226-620x413.jpg"
-        },
-        {
-          "title": "Mensik beats Fonseca to set up French Open semi with Zverev",
-          "url": "https://sports.yahoo.com/articles/mensik-beats-fonseca-set-french-215533007.html",
-          "published_at": "2026-06-02T21:55:33.000Z"
-        },
-        {
-          "title": "Zverev powers into French Open semis; Kostyuk to face Andreeva",
-          "url": "https://japantoday.com/category/sports/kostyuk-and-andreeva-to-clash-in-french-open-semis",
-          "source": "Japan Today",
-          "published_at": "2026-06-02T21:41:48.000Z"
+          "published_at": "2026-06-02T00:52:15.000Z",
+          "image": "https://entertainment.inquirer.net/files/2026/05/AP26124746031019-700x467.jpg",
+          "description": "NEW YORK — The legal battle between actors Blake Lively and Justin Baldoni isn’t quite over yet. Just a month ago, the two announced a settlement that avoided a trial over Lively’s claims that Baldoni led a campaign to smear her reputation after she accused him of sexually harassing her on the set…"
         }
-      ]
+      ],
+      "summary": "Blake Lively’s lawyers returned to court seeking legal fees and other damages from Justin Baldoni, her “It Ends with Us” co-star. The actors had previously reached a settlement over their claims."
     },
     {
-      "id": "topic_ac1b66210273ef08",
+      "id": "topic_f4afc63649089929",
+      "title": "Google Patches Android Zero-Day and 123 Other Flaws",
+      "headline": "Google fixes one actively exploited Android zero-day, 124 flaws",
       "label": [
-        "wind",
-        "stat",
-        "seven stat",
-        "stat sue",
-        "sue",
-        "offshore"
+        "exploited",
+        "android",
+        "patches",
+        "zero",
+        "flaws",
+        "day"
       ],
       "category": "new",
-      "theme": "theme_b07a98e1bed08d6f",
+      "theme": "theme_f349a0d27bb9e5a",
       "entities": [
-        "Seven States Sue Trump",
-        "Cancelling New York Offshore",
-        "Wind Farm",
-        "The Trump",
-        "French"
+        "Google",
+        "Android",
+        "Android Update Patches Exploited",
+        "Zero",
+        "Day"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 6,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Seven States Sue Trump for Cancelling New York Offshore Wind Farm",
-          "url": "https://gizmodo.com/seven-states-sue-trump-for-cancelling-new-york-offshore-wind-farm-2000766489",
-          "source": "Gizmodo",
-          "published_at": "2026-06-02T20:15:44.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/06/GettyImages-2278487848-1280x853.jpg"
+          "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+          "url": "https://www.reddit.com/r/android/comments/1tuojm2/google_fixes_one_actively_exploited_android",
+          "source": "Android",
+          "published_at": "2026-06-02T11:49:15.000Z",
+          "image": "https://external-preview.redd.it/XzbqSj3CV5H8wY-_MhbFYF5pXtA-BXlu-IuLkVjl8SA.jpeg?width=640&crop=smart&auto=webp&s=3aac825c2801495245780261a092b876500493d2",
+          "description": "submitted by /u/Doug24 [link] [comments]"
         },
         {
-          "title": "The Trump admin paid a French company $1 billion to not build offshore wind farms. Blue states are suing",
-          "url": "https://www.yahoo.com/news/politics/articles/trump-admin-paid-french-company-173329837.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-02T19:13:41.000Z",
-          "image": "https://media.zenfs.com/en/cnn_articles_875/edcdbfa10a350049134c01e2267e4809"
+          "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
+          "url": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities",
+          "source": "SecurityWeek",
+          "published_at": "2026-06-02T14:36:33.000Z",
+          "description": "Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks. The post Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities appeared first on SecurityWeek."
         },
         {
-          "title": "Seven states sue Trump administration over offshore wind project deal",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/offshore-wind-project-lawsuit-trump-b2988273.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-02T19:08:59.000Z",
-          "image": "https://static.independent.co.uk/2026/05/14/18/preview.jpg?width=1200&auto=webp&crop=3%3A2"
+          "title": "Android Zero-Day Flaw Exploited in the Wild: June 2026 Patches Released",
+          "url": "https://securityonline.info/android-zero-day-flaw-june-2026",
+          "source": "Daily CyberSecurity",
+          "published_at": "2026-06-02T01:39:00.000Z",
+          "description": "Google recently released a critical security patch to address a dangerous Android zero day flaw. Specifically, this emergency The post Android Zero-Day Flaw Exploited in the Wild: June 2026 Patches Released appeared first on Daily CyberSecurity. Related posts: Android Emergency: Critical DoS Flaw a…"
         },
         {
-          "title": "Seven states sue US for paying $1bn to make Total exit wind power",
-          "url": "https://www.ft.com/content/d4f25b34-ce45-4321-a4ee-cb5879f7a57a",
-          "source": "International homepage",
-          "published_at": "2026-06-02T18:23:57.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2a8751ff-759d-497d-814f-e1f5b6afb8ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+          "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+          "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+          "source": "The Hacker News",
+          "published_at": "2026-06-02T18:46:00.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg",
+          "description": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw h…"
         }
-      ]
+      ],
+      "summary": "Google’s June 2026 Android security update addresses 124 vulnerabilities, including one flaw reported to have been exploited in targeted attacks."
+    },
+    {
+      "id": "topic_74b765b393d8976c",
+      "title": "Missing New Mexico Lab Worker Found Dead Nearly a Year Later",
+      "headline": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+      "label": [
+        "lab",
+        "worker",
+        "found",
+        "dead",
+        "mexico",
+        "missing"
+      ],
+      "category": "new",
+      "theme": "theme_cfc02dfce3b83fab",
+      "entities": [
+        "Missing",
+        "New Mexico",
+        "Lab",
+        "FBI"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+          "url": "https://www.bbc.com/news/articles/c0723mr8j3po",
+          "source": "BBC News",
+          "published_at": "2026-06-02T02:07:28.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/01615ca0-5e18-11f1-a1ad-5f4835da304e.png",
+          "description": "Melissa Casias' case was part of debunked speculations about recent deaths and disappearances in the US scientific community."
+        },
+        {
+          "title": "Lab worker who vanished last year found dead in New Mexico",
+          "url": "https://torontosun.com/news/world/lab-worker-who-vanished-last-year-found-dead-in-new-mexico",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-06-02T17:53:32.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/06/melissa_casias-e1780420907689.jpg?quality=100&strip=all",
+          "description": "She was the second person who worked at the lab to go missing in 2025"
+        },
+        {
+          "title": "FBI probes missing scientists mystery as nuclear lab worker found dead",
+          "url": "https://www.smh.com.au/world/north-america/fbi-probes-missing-scientists-mystery-as-nuclear-lab-worker-found-dead-20260602-p60394.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-02T09:51:52.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.9322%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_313/t_crop_custom/q_86%2Cf_auto/0fa795ac5d4dfd88f3d1797b8b6587b641aab399",
+          "description": "The disappearance of nuclear lab worker Melissa Casias had been linked to a string of missing person cases involving US scientists, which have fuelled internet conspiracy theories."
+        },
+        {
+          "title": "Missing worker at high-security lab in New Mexico found dead in remote forest",
+          "url": "https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest",
+          "source": "World & Nation",
+          "published_at": "2026-06-02T21:04:53.000Z",
+          "description": "Melissa Casias' death is part of an FBI investigation looking into dead or missing federal scientists or staff members involved in sensitive research."
+        }
+      ],
+      "summary": "Melissa Casias, a worker at a New Mexico laboratory who disappeared last year, was found dead in a remote area. The FBI is investigating deaths and disappearances involving federal scientists and staff, according to reports."
     }
   ]
 }

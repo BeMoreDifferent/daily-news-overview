@@ -1,75 +1,403 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-13T00:15:31.983Z",
+  "generated_at": "2026-09-27T13:53:53.102Z",
   "topics": [
     {
-      "id": "topic_ae41adcf5003e065",
+      "id": "topic_a1bb7c40d45126d9",
+      "title": "Brandon Clarke Dies at 29",
+      "headline": "Memphis Grizzlies forward Brandon Clarke dies at 29",
       "label": [
-        "altman",
-        "musk",
-        "sam altman",
-        "elon",
-        "elon musk",
-        "sam"
+        "clarke",
+        "brandon",
+        "grizzlies",
+        "memphis",
+        "dies",
+        "nba"
       ],
       "category": "new",
-      "theme": "theme_7e8c9fa2987f341c",
+      "theme": "theme_7ec1bf4045e24d67",
       "entities": [
-        "Sam Altman",
-        "Elon Musk",
-        "OpenAI",
-        "At Tech Trial",
-        "Sam Altman Says Elon"
+        "Memphis Grizzlies",
+        "Brandon Clarke",
+        "Grizzlies",
+        "NBA",
+        "ESPN"
       ],
-      "article_count": 13,
+      "article_count": 38,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Memphis Grizzlies forward Brandon Clarke dies at 29",
+          "url": "https://sports.inquirer.net/676278/memphis-grizzlies-forward-brandon-clarke-dies-at-29",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-12T22:40:06.000Z",
+          "image": "https://sports.inquirer.net/files/2026/05/AP26132665733527-620x413.jpg",
+          "description": "MEMPHIS, Tenn. — Memphis Grizzlies forward Brandon Clarke has died, the team, his agency and the NBA said Tuesday. He was 29. Neither the Grizzlies nor Clarke’s agency, Priority Sports, provided any details about when, where or how Clarke died. “We are heartbroken by the tragic loss of Brandon Clar…"
+        },
+        {
+          "title": "Memphis Grizzlies' Brandon Clarke dies at 29",
+          "url": "https://sports.yahoo.com/articles/memphis-grizzlies-brandon-clarke-dies-185350702.html",
+          "published_at": "2026-05-12T18:53:50.000Z",
+          "description": "Memphis Grizzlies forward Brandon Clarke has died, the NBA franchise announced Tuesday. The 29-year-old was the No. 21 pick in the 2019 NBA Draft."
+        },
+        {
+          "title": "Grizzlies forward Brandon Clarke dies at age 29",
+          "url": "https://www.espn.com/nba/story/_/id/48751780/grizzlies-forward-brandon-clarke-dies-age-29",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-05-12T19:33:20.000Z",
+          "description": "The 2019 first-round pick played seven seasons in the NBA. A cause of death was not announced."
+        },
+        {
+          "title": "Grizzlies forward Brandon Clarke dies aged 29",
+          "url": "https://talksport.com/basketball/4253605/nba-memphis-grizzlies-brandon-clarke-dies",
+          "source": "talkSPORT",
+          "published_at": "2026-05-12T18:47:10.000Z"
+        },
+        {
+          "title": "Grizzlies forward Brandon Clarke dead at 29",
+          "url": "https://www.foxnews.com/sports/grizzlies-forward-brandon-clarke-dead-29",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-12T18:21:48.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/brandon-clarke-jail.jpg?ve=1&tl=1",
+          "description": "Memphies Grizzlies forward Brandon Clarke has passed away, the team confirmed in a social media post on Tuesday afternoon. Clarke, a first-round pick in 2019, was only 29."
+        }
+      ],
+      "summary": "Memphis Grizzlies forward Brandon Clarke has died at age 29, the team, his agency and the NBA announced. No cause of death was provided in the headlines."
+    },
+    {
+      "id": "topic_8931b62d0fea812d",
+      "title": "eBay Rejects GameStop’s $56 Billion Takeover Bid",
+      "headline": "EBay Rejects GameStop’s $56 Billion Takeover Bid: ‘Your Proposal Is Neither Credible nor Attractive’",
+      "label": [
+        "ebay",
+        "gamestop",
+        "rejects",
+        "credible",
+        "bid",
+        "attractive"
+      ],
+      "category": "trending",
+      "theme": "theme_4c51f39ab6d063c4",
+      "entities": [
+        "EBay Rejects GameStop",
+        "Billion Takeover Bid",
+        "Your Proposal Is Neither",
+        "Credible",
+        "Attractive"
+      ],
+      "article_count": 46,
+      "source_count": 32,
+      "articles": [
+        {
+          "title": "EBay Rejects GameStop’s $56 Billion Takeover Bid: ‘Your Proposal Is Neither Credible nor Attractive’",
+          "url": "https://variety.com/2026/digital/news/ebay-rejects-gamestop-merger-proposal-1236745743",
+          "source": "Variety",
+          "published_at": "2026-05-12T12:50:39.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/eBay.png",
+          "description": "Online retailing giant eBay has turned down GameStop CEO Ryan Cohen’s unsolicited $56 billion takeover proposal, calling it “neither credible nor attractive.” On May 3, GameStop submitted a nonbinding offer to acquire of eBay for $125/share (supposedly comprising 50% cash and 50% GameStop common st…"
+        },
+        {
+          "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'",
+          "url": "https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-ryan-cohen.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-05-12T11:58:16.000Z",
+          "description": "Many analysts questioned the deal, citing questions about how GameStop would finance the transaction and the strategic rationale."
+        },
+        {
+          "title": "eBay Rejects GameStop's $56 Billion Takeover As 'Neither Credible Nor Attractive'",
+          "url": "https://slashdot.org/story/26/05/12/1629248/ebay-rejects-gamestops-56-billion-takeover-as-neither-credible-nor-attractive",
+          "source": "Slashdot",
+          "published_at": "2026-05-12T17:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "An anonymous reader quotes a report from Reuters: EBay on Tuesday rejected a $56 billion takeover bid from the much smaller GameStop over financing doubts, calling the proposal \"neither credible nor attractive.\" EBay, which has roughly four times GameStop's market value, also underscored that its t…"
+        },
+        {
+          "title": "EBay rejects GameStop's $56 billion bid as 'neither credible nor attractive'",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ebay-rejects-gamestop39s-56-billion-bid-as-39neither-credible-nor-attractive39-100427961.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-05-12T10:04:27.000Z",
+          "image": "https://s.yimg.com/uu/api/res/1.2/EU_7q9wbK9qDZA.qKZAL4g--~B/aD0zNzY0O3c9NTgyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/65234541-8138-44ce-8cf9-6db8f8414ffb"
+        },
+        {
+          "title": "Ebay Rejects GameStop’s ‘Neither Credible Nor Attractive’ $56 Billion Takeover Bid",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/05/12/ebay-rejects-gamestops-neither-credible-nor-attractive-56-billion-takeover-bid",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-12T13:06:31.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a03259ced4795f71944b775/0x0.jpg?width=960&precrop=3619%2C2038%2Cx0%2Cy186",
+          "description": "Ebay, whose market capitalization is four times that of Gamestop, highlighted the “uncertainty” around the “financing proposal” for the $56 billion unsolicited bid."
+        }
+      ],
+      "summary": "eBay rejected GameStop’s unsolicited $56 billion takeover proposal, calling it neither credible nor attractive. eBay cited uncertainty about the financing, while analysts also questioned the deal’s financing and strategic rationale."
+    },
+    {
+      "id": "topic_7d39e7acf625f731",
+      "title": "Microsoft Releases May 2026 Security Updates",
+      "headline": "Microsoft Patch Tuesday – May 2026",
+      "label": [
+        "patch",
+        "tuesday",
+        "may",
+        "microsoft",
+        "cves",
+        "critical"
+      ],
+      "category": "new",
+      "theme": "theme_cce447058a1a4936",
+      "entities": [
+        "Microsoft Patch Tuesday",
+        "May",
+        "Patch Tuesday",
+        "Edition",
+        "Microsoft"
+      ],
+      "article_count": 15,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Microsoft Patch Tuesday – May 2026",
+          "url": "https://www.lansweeper.com/blog/patch-tuesday/microsoft-patch-tuesday-may-2026",
+          "source": "Lansweeper",
+          "published_at": "2026-05-12T23:13:43.000Z",
+          "image": "https://www.youtube.com/embed/IdDktcKawy4"
+        },
+        {
+          "title": "Patch Tuesday, May 2026 Edition",
+          "url": "https://malware.news/t/patch-tuesday-may-2026-edition/106932",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-05-12T21:55:39.000Z",
+          "description": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers — in…"
+        },
+        {
+          "title": "Microsoft’s May 2026 Patch Tuesday Addresses 118 CVEs (CVE-2026-41103)",
+          "url": "https://securityboulevard.com/2026/05/microsofts-may-2026-patch-tuesday-addresses-118-cves-cve-2026-41103",
+          "source": "Security Boulevard",
+          "published_at": "2026-05-12T17:42:34.000Z",
+          "image": "https://www.tenable.com/sites/default/files/images/blog/bbc9bdfe-d388-4c14-a312-68fb91697bc6.png",
+          "description": "16Critical 102Important 0Moderate 0Low Microsoft addresses 118 CVEs in its May 2026 Patch Tuesday release, with no zero-days exploited in the wild or publicly disclosed for the first time since June 2024. Microsoft patched 118 CVEs in its May 2026 Patch Tuesday release, with 16 rated critical and 1…"
+        },
+        {
+          "title": "May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs",
+          "url": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026",
+          "source": "Blog",
+          "published_at": "2026-05-12T05:00:00.000Z"
+        },
+        {
+          "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days",
+          "source": "BleepingComputer",
+          "published_at": "2026-05-12T18:08:06.000Z",
+          "description": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]"
+        }
+      ],
+      "summary": "Microsoft’s May 2026 Patch Tuesday updates address numerous security vulnerabilities. Headlines report that no zero-days were disclosed or exploited in the wild this month."
+    },
+    {
+      "id": "topic_22b21d9a2aea403",
+      "title": "Amazon Launches 30-Minute Delivery in U.S. Cities",
+      "headline": "Amazon launches 30-minute delivery across the U.S.",
+      "label": [
+        "delivery",
+        "minute",
+        "amazon",
+        "cities",
+        "across",
+        "launches"
+      ],
+      "category": "new",
+      "theme": "theme_9d6b313cb95255b7",
+      "entities": [
+        "Amazon",
+        "TechCrunch",
+        "Amazon Now",
+        "US",
+        "Tried Amazon"
+      ],
+      "article_count": 17,
       "source_count": 13,
       "articles": [
         {
-          "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
-          "url": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-12T22:09:35.000Z"
+          "title": "Amazon launches 30-minute delivery across the U.S.",
+          "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s",
+          "source": "TechCrunch",
+          "published_at": "2026-05-12T10:00:00.000Z",
+          "description": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes."
         },
         {
-          "title": "At Tech Trial, Sam Altman Says Elon Musk Wanted 90% Stake In OpenAI",
-          "url": "https://www.ndtv.com/world-news/at-tech-trial-sam-altman-says-elon-musk-wanted-90-stake-in-openai-11486712",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-12T21:55:18.000Z",
-          "image": "https://c.ndtvimg.com/2026-02/qh4mn3fc_elon-musk-sam-altman_625x300_21_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
-        },
-        {
-          "title": "Musk 'wanted 90%' of OpenAI, Altman says in high-stakes trial",
-          "url": "https://japantoday.com/category/tech/sam-altman-to-testify-at-california-tech-titan-trial",
-          "source": "Japan Today",
-          "published_at": "2026-05-12T21:48:32.000Z"
-        },
-        {
-          "title": "7 takeaways from Sam Altman's bombshell testimony in his trial against Elon Musk",
-          "url": "https://www.businessinsider.com/sam-altman-testimony-elon-musk-trial-biggest-takeaways-2026-5",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-05-12T21:45:02.000Z",
-          "image": "https://i.insider.com/6a0391f758810e27922acf31?format=jpeg"
-        },
-        {
-          "title": "Altman Testifies About ‘Hair-Raising’ AI Safety Chat With Musk - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxodmjzcejumnbkute4dfhtcgdudwzfqkqzyu5hcthrm2tomvfwqwpjdmhztmhctxdwemfwtza1cg5gmndezujecvi1euddmzixmvztdzfibziyrln1meyzbk9pnutiehz6b2npwlb0cy1yt2jjr0rhde1amhhwvvbhrmdvvgstagr5ovjnc2vlsvhudennd0fuegljm0n5u0hms2fzb25badruchztoddntg",
+          "title": "Amazon launches 30-minute delivery across the U.S.",
+          "url": "https://news.google.com/rss/articles/cbmiiwfbvv95cuxnefo5nmtfwdi1zdn5vkvvnuu2cthrblo1zndmatrjnkphx3bfztblmv9ndgs4zznkwwphajvktehuvjffexbwblvbmgm5t2zca0c5thl5rglwy1lkzdcxsxu3d2qym1mznvhlwkvtvhfmywvja3zfak16u05btgfwam9tmnrkvvjizzzr",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-12T21:36:31.000Z"
+          "published_at": "2026-05-12T10:00:00.000Z",
+          "description": "Amazon launches 30-minute delivery across the U.S. TechCrunch Amazon accelerates delivery race with 30-minute dropoffs in dozens of U.S. cities CNBC Amazon launches 30-minute Prime Now service in multiple cities across US Yahoo Finance Amazon is turning the retail speed war into a 30-minute sprint…"
+        },
+        {
+          "title": "Amazon launches 30-minute delivery in dozens of cities",
+          "url": "https://mashable.com/article/amazon-now-30-minute-delivery-cities-us",
+          "source": "Mashable",
+          "published_at": "2026-05-12T19:14:30.000Z",
+          "description": "Amazon is rolling out Amazon Now across the U.S., giving users the ability to get what they need in half an hour."
+        },
+        {
+          "title": "Amazon launches 30-minute delivery service across U.S. cities",
+          "url": "https://www.investing.com/news/company-news/amazon-launches-30minute-delivery-service-across-us-cities-93ch-4679457",
+          "source": "All News",
+          "published_at": "2026-05-12T08:06:21.000Z",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Amazon's 30-minute delivery expands to more cities",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-30-minute-delivery-expands-100507348.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-05-12T10:05:07.000Z",
+          "image": "https://media.zenfs.com/en/usa_today_money_325/0c12eb9261ed8cfca275fbc930c77665"
         }
-      ]
+      ],
+      "summary": "Amazon is rolling out a 30-minute delivery service across the United States, offering groceries, household essentials and other items in dozens of cities."
     },
     {
-      "id": "topic_ce8d1f2b07ac80df",
+      "id": "topic_c09d1bb8ecc3dc1b",
+      "title": "New York Pop-Up Exhibit Displays Epstein Files",
+      "headline": "Epstein files on display at New York pop-up exhibit, all 3.5 million pages",
+      "label": [
+        "epstein",
+        "pages",
+        "pop",
+        "files",
+        "million",
+        "display"
+      ],
+      "category": "new",
+      "theme": "theme_229ef70572bb0a9e",
+      "entities": [
+        "Epstein",
+        "New York",
+        "In New York",
+        "Pop",
+        "Up Library Displays"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Epstein files on display at New York pop-up exhibit, all 3.5 million pages",
+          "url": "https://www.citizen.co.za/lifestyle/epstein-files-on-display-at-new-york-pop-up-exhibit-all-3-5-million-pages",
+          "source": "The Citizen",
+          "published_at": "2026-05-12T09:18:24.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AFP__20260508__2274554932__v3__MidRes__NonprofitGovernmentTransparencyOrganizationOp.jpg",
+          "description": "A New York exhibit displays 3.5 million pages of Jeffrey Epstein files, highlighting transparency and ongoing public interest in the case."
+        },
+        {
+          "title": "In New York, Pop-Up Library Displays 3.5 Million Pages Of Epstein Files",
+          "url": "https://www.ndtv.com/world-news/in-new-york-pop-up-library-displays-3-5-million-pages-of-jeffrey-epstein-files-11482336",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-12T06:32:17.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/5m4l95qg_epstein-files-library-afp_625x300_12_May_26.jpeg",
+          "description": "The library, dubbed \"The Donald J. Trump and Jeffrey Epstein Memorial Reading Room,\" has bound all the documents released under the Epstein Files Transparency Act in 3,437 volumes, all numbered and organized on shelves."
+        },
+        {
+          "title": "Epstein files on display at NYC pop-up exhibit, all 3.5 million pages",
+          "url": "https://globalnation.inquirer.net/322725/epstein-files-on-display-at-nyc-pop-up-exhibit-all-3-5-million-pages",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-12T02:17:59.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/05/Epstein-files-on-display-at-NYC-pop-up-exhibit-all-3.5-million-pages-620x413.jpg",
+          "description": "NEW YORK — A US transparency advocacy group has opened a temporary exhibition in New York with only one text on display: a print-out of all the files released by the US Department of Justice — roughly 3.5 million pages — relating to financier and convicted sex criminal Jeffrey Epstein. The library,…"
+        },
+        {
+          "title": "Jeffrey Epstein files go on display at New York pop-up exhibit featuring 3.5 million pages",
+          "url": "https://www.thehindu.com/news/international/jeffrey-epstein-files-go-on-display-at-new-york-pop-up-exhibit-featuring-35-million-pages/article70968375.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-12T06:29:53.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/govm0f/article70968379.ece/alternates/LANDSCAPE_1200/AFP_B2JE8LX.jpg",
+          "description": "The library, titled \"The Donald J. Trump and Jeffrey Epstein Memorial Reading Room,\" created by the Institute for Primary Facts, comprising of 3,437 bound volumes, will run until May 21"
+        },
+        {
+          "title": "All 3.5 Million Pages of the Epstein Files Are Now on View at This Pop-Up Exhibition",
+          "url": "https://news.artnet.com/art-world/epstein-files-reading-room-new-york-2772205",
+          "source": "Artnet News",
+          "published_at": "2026-05-12T18:33:52.000Z",
+          "description": "Donald J. Trump and Jeffrey Epstein Reading Room The post All 3.5 Million Pages of the Epstein Files Are Now on View at This Pop-Up Exhibition appeared first on Artnet News."
+        }
+      ],
+      "summary": "A temporary New York exhibit displays about 3.5 million pages of Jeffrey Epstein-related files in 3,437 bound volumes. The exhibit is scheduled to run until May 21."
+    },
+    {
+      "id": "topic_30025d931a65a042",
+      "title": "Instructure Reaches Deal With Hackers Over Canvas Data",
+      "headline": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
+      "label": [
+        "instructure",
+        "hackers",
+        "canvas",
+        "deal",
+        "strikes",
+        "returned"
+      ],
+      "category": "new",
+      "theme": "theme_d488887d03953fbb",
+      "entities": [
+        "Instructure Strikes Deal",
+        "Hackers",
+        "Return",
+        "Canvas Data",
+        "The New York Times"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
+          "url": "https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html",
+          "source": "NYT > Cybersecurity",
+          "published_at": "2026-05-12T05:23:35.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11xp-canvas-mvfh/11xp-canvas-mvfh-mediumSquareAt3X-v2.jpg",
+          "description": "Instructure, which provides Canvas software to thousands of schools and universities around the world, did not say what it had given the hackers in exchange for the stolen data."
+        },
+        {
+          "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
+          "url": "https://news.google.com/rss/articles/cbmif0fvx3lxte05qu0tv3yyu1vrcxvlmndhsddomk5tmhjwrtbxc3nmt29fmtrrt3fvwkzdadhnseq5nhfudhrurznwcm5wd1e1s2xirvldeldrx0k4dmxlc0znwjlmm2m3dl9wafl6evbfohjbzm9tbwp2dxjyodcwwmrzcujvn3m",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-12T05:23:36.000Z",
+          "description": "Instructure Strikes Deal for Hackers for Return of Canvas Data The New York Times Millions of students’ personal data stolen in major education breach Malwarebytes Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak The Hacker News What we know about the Canvas hack th…"
+        },
+        {
+          "title": "Instructure Reaches Deal With Hackers to Return Canvas User Data",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-12/instructure-reaches-deal-with-hackers-to-return-canvas-user-data",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-12T12:01:24.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Xykf2LVqZQ/v0/1200x-1.jpg",
+          "description": "Instructure Inc. said it reached an agreement with hackers who disrupted universities’ online coursework and testing on the company’s Canvas platform, with the attackers returning stolen data and pledging not to extort the education software maker’s customers."
+        },
+        {
+          "title": "Instructure strikes deal with hackers who breached it twice",
+          "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice",
+          "source": "TechCrunch",
+          "published_at": "2026-05-12T13:34:04.000Z",
+          "description": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word."
+        },
+        {
+          "title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
+          "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath-owner-instructure-reaches-deal-with-hacker-group",
+          "source": "CNET",
+          "published_at": "2026-05-12T20:30:32.000Z",
+          "image": "https://www.cnet.com/a/img/resize/3a8a7b1274877007e4bff36424b43f977ea51693/hub/2026/05/12/d2cce03a-23a6-44d4-acf0-3051d1cddd99/gettyimages-2275025117.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "Instructure says ShinyHunters has destroyed stolen user data after the group targeted more than 9,000 schools."
+        }
+      ],
+      "summary": "Instructure, the company behind the Canvas education platform, says it reached an agreement with hackers concerning stolen user data. Reports say the hackers agreed to return or destroy the data, but the company offered no guarantee they would keep their word."
+    },
+    {
+      "id": "topic_8cf43d3b15c6e61a",
+      "title": "Conan O’Brien to Host the 2027 Oscars",
+      "headline": "Conan O'Brien will return as Oscars host for the third consecutive year",
       "label": [
         "conan",
         "brien",
-        "conan brien",
-        "oscar",
+        "oscars",
         "host",
-        "brien return"
+        "consecutive",
+        "third"
       ],
       "category": "new",
-      "theme": "theme_fbe5722f5c32a161",
+      "theme": "theme_dc2cf9d320b9e339",
       "entities": [
         "Conan",
         "Brien",
@@ -77,734 +405,570 @@
         "Brien Will Return",
         "Host"
       ],
-      "article_count": 13,
-      "source_count": 13,
+      "article_count": 16,
+      "source_count": 15,
       "articles": [
         {
-          "title": "L’humoriste Conan O’Brien présentera de nouveau les Oscars en 2027",
-          "url": "https://www.ouest-france.fr/cinema/les-oscars/lhumoriste-conan-obrien-presentera-de-nouveau-les-oscars-en-2027-dcccc67a-4e51-11f1-88ee-769cab556f2f",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-12T23:02:06.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1YzFlYzNlZTkwNWU3ZDgxNWIzNjkzNGViYWI4N2QzNmQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2e3b1f8c36188affba5a7d0f035d1a0696c217f9ce4b816996ada5f346e66228"
+          "title": "Conan O'Brien will return as Oscars host for the third consecutive year",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-05-12/conan-obrien-oscars-2027-host-third-year",
+          "source": "L.A. Times - Movie Reviews",
+          "published_at": "2026-05-12T21:46:19.000Z",
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/b775067/2147483647/strip/false/crop/6000x4000+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F23%2Fe6%2F19f09abf45afbd854dede515e935%2F1546046-et-2026-oscars-show-02557.jpg",
+          "description": "Conan O'Brien will return to host the 2027 Oscars, marking his third consecutive year."
+        },
+        {
+          "title": "Conan O’Brien to return as Oscars host in 2027",
+          "url": "https://japantoday.com/category/entertainment/conan-o%e2%80%99brien-to-return-as-oscars-host-in-2027",
+          "source": "Japan Today",
+          "published_at": "2026-05-12T21:47:23.000Z",
+          "description": "Conan O’Brien’s era as Oscars host is becoming a trilogy. The Emmy-winner and comedian will be back to host the 99th Academy Awards in 2027, film academy leaders…"
         },
         {
           "title": "Conan O’Brien Will Return to Host the Oscars for Third Consecutive Year",
           "url": "https://www.ign.com/articles/conan-obrien-will-return-to-host-the-oscars-for-third-consecutive-year",
           "source": "IGN Articles",
           "published_at": "2026-05-12T22:39:21.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/05/12/gettyimages-2266726493-1778625151288.jpg"
+          "image": "https://assets-prd.ignimgs.com/2026/05/12/gettyimages-2266726493-1778625151288.jpg",
+          "description": "Guess they weren’t kidding with that “Oscars host for life” sketch at last year’s show. Conan O’Brien is officially back to host next year’s Oscars, the Academy of Motion Pictures Arts and Sciences announced Tuesday. The 99th Annual Academy Awards will be the third time that O’Brien has hosted the…"
         },
         {
-          "title": "Conan O’Brien to Host Oscars for 3rd Consecutive Year",
-          "url": "https://www.billboard.com/music/awards/conan-obrien-oscars-host-2027-3rd-consecutive-year-1236246386",
-          "source": "Billboard",
-          "published_at": "2026-05-12T22:22:09.000Z"
+          "title": "Conan O’Brien Will Host the 2027 Oscars",
+          "url": "https://consequence.net/2026/05/conan-obrien-will-host-the-2027-oscars",
+          "source": "Consequence",
+          "published_at": "2026-05-12T20:51:00.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/03/conan-obrien-2026-oscars-monologue-best-jokes.jpg?quality=80",
+          "description": "This will be O'Brien's third time as host. Conan O’Brien Will Host the 2027 Oscars Liz Shannon Miller"
         },
         {
-          "title": "Conan O’Brien to return as Oscars host in 2027",
-          "url": "https://japantoday.com/category/entertainment/conan-o%e2%80%99brien-to-return-as-oscars-host-in-2027",
-          "source": "Japan Today",
-          "published_at": "2026-05-12T21:47:23.000Z"
-        },
-        {
-          "title": "Conan O'Brien will return as Oscars host for the third consecutive year",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-05-12/conan-obrien-oscars-2027-host-third-year",
-          "source": "L.A. Times - Movie Reviews",
-          "published_at": "2026-05-12T21:46:19.000Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/b775067/2147483647/strip/false/crop/6000x4000+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F23%2Fe6%2F19f09abf45afbd854dede515e935%2F1546046-et-2026-oscars-show-02557.jpg"
+          "title": "Conan O’Brien to Host the 2027 Oscars, Marking Third Consecutive Year",
+          "url": "https://variety.com/2026/tv/news/conan-obrien-host-2027-oscars-third-year-1236746181",
+          "source": "Variety",
+          "published_at": "2026-05-12T20:35:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/03/Oscars-Conan-tree.jpg",
+          "description": "If Conan O’Brien needs a friend, he’s certainly found one in the Academy. For the third year in a row, O’Brien has been tapped to host next year’s Oscars. Also back are live TV event producers Raj Kapoor and Katy Mullan as the show’s executive producers for the fourth consecutive year. O’Brien’s pr…"
         }
-      ]
+      ],
+      "summary": "Conan O’Brien will host the 2027 Academy Awards, marking his third consecutive year as Oscars host."
     },
     {
-      "id": "topic_178145f9b887d74f",
+      "id": "topic_6292506f86605bac",
+      "title": "Judge Allows Prosecutors Access to Tiger Woods’ Prescription Records",
+      "headline": "Tiger Woods’ prescription drug records will be handed over to prosecutors in Florida DUI case",
       "label": [
-        "american financial",
-        "financial situation",
-        "situation",
-        "think american",
-        "financial",
-        "think"
+        "tiger",
+        "woods",
+        "dui",
+        "prescription",
+        "records",
+        "drug"
       ],
       "category": "new",
-      "theme": "theme_4e094847762acf8",
+      "theme": "theme_6540ac3f80813a5f",
       "entities": [
-        "Amid",
-        "Trump",
-        "Americans",
-        "Natalie Allison",
-        "Washington Post"
+        "Tiger Woods",
+        "Florida DUI",
+        "DUI",
+        "Prosecutors",
+        "Woods"
       ],
-      "article_count": 22,
-      "source_count": 11,
-      "articles": [
-        {
-          "title": "Amid war, Trump says he doesn't 'think about Americans' financial situation' (Natalie Allison/Washington Post)",
-          "url": "https://www.memeorandum.com/260512/p95",
-          "source": "memeorandum",
-          "published_at": "2026-05-12T22:05:01.000Z",
-          "image": "http://www.memeorandum.com/260512/i95.jpg"
-        },
-        {
-          "title": "Trump Shrugs Off Americans’ “Financial Situation” After Inflation Report Release",
-          "url": "https://truthout.org/articles/trump-shrugs-off-americans-financial-situation-after-inflation-report-release",
-          "source": "Truthout",
-          "published_at": "2026-05-12T21:09:00.000Z",
-          "image": "https://truthout.org/app/uploads/2026/05/2026-0512-cpi-report-1200x900.jpg"
-        },
-        {
-          "title": "Trump says 'I don't think about Americans' financial situation' in Iran negotiations",
-          "url": "https://abcnews.com/politics/trump-americans-financial-situation-iran-negotiations/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-05-12T20:55:56.000Z",
-          "image": "https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260512_1778608638985_hpMain_4x3t_384.jpg"
-        },
-        {
-          "title": "Trump: I don't think about Americans' financial situation",
-          "url": "https://www.youtube.com/shorts/6Ha2aiYMoNA",
-          "source": "CNN",
-          "published_at": "2026-05-12T20:29:34.000Z",
-          "image": "https://i3.ytimg.com/vi/6Ha2aiYMoNA/hqdefault.jpg"
-        },
-        {
-          "title": "‘I don’t think about Americans’ financial situation’ in Iran war, Trump says",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/i-don-t-think-about-americans-financial-situation-in-iran-war-trump-says-20260513-p5zw6b.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-12T19:52:32.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6863253402462735%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/70e5603a8b265f919f5517fb2a4cd59ffb67edc2"
-        }
-      ]
-    },
-    {
-      "id": "topic_e226c7ed06ac9b10",
-      "label": [
-        "cbo",
-        "golden dome",
-        "dome",
-        "golden",
-        "cost",
-        "trillion"
-      ],
-      "category": "new",
-      "theme": "theme_5e64ecbef7b6647b",
-      "entities": [
-        "Trump",
-        "Golden Dome",
-        "CBO",
-        "Golden Dome Projected",
-        "Cost"
-      ],
-      "article_count": 9,
+      "article_count": 12,
       "source_count": 9,
       "articles": [
         {
-          "title": "Trump's proposed 'Golden Dome' estimated to cost $1.2 trillion, far more than he initially said",
-          "url": "https://japantoday.com/category/world/trump%27s-proposed-%27golden-dome%27-estimated-to-cost-1.2-trillion-far-more-than-he-initially-said",
-          "source": "Japan Today",
-          "published_at": "2026-05-12T21:37:59.000Z"
+          "title": "Tiger Woods’ prescription drug records will be handed over to prosecutors in Florida DUI case",
+          "url": "https://www.manilatimes.net/2026/05/13/news/world/tiger-woods-prescription-drug-records-will-be-handed-over-to-prosecutors-in-florida-dui-case/2342225",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-12T19:32:59.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/13/1054133.jpg",
+          "description": "STUART, Fla. — Tiger Woods ' prescription drug records will be handed over to prosecutors following his March arrest in Florida on suspicion of driving under the influence, a judge ruled Tuesday morning. Judge Darren Steele approved an agreement between Woods' defense attorney and prosecutors follo…"
         },
         {
-          "title": "Golden Dome estimated to cost $1.2 trillion over 20 years: CBO",
-          "url": "https://www.washingtonexaminer.com/policy/defense/4565202/golden-dome-estimated-cost-trillion-dollars-20-years-cbo",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-12T21:10:00.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/05/Trump-Golden-Dome.webp?w=696"
+          "title": "Tiger Woods’ prescription drug records can be used in DUI case, judge says",
+          "url": "https://globalnews.ca/news/11845723/tiger-woods-prescription-drug-records-can-be-used-dui-case",
+          "published_at": "2026-05-12T20:00:49.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/tiger-woods-drug-records-florida-dui-case.jpg?quality=65&strip=all",
+          "description": "The news comes a month after prosecutors were seeking all records connected to Tiger Woods' prescription medications, including warnings that may caution against driving."
         },
         {
-          "title": "Trump's Golden Dome Projected to Cost $1.2 Trillion and May Not Work as Advertised",
-          "url": "https://time.com/article/2026/05/12/trump-s-golden-dome-projected-to-cost-1-2-trillion-over-20-years-and-may-not-work-as-advertised",
-          "source": "TIME",
-          "published_at": "2026-05-12T20:32:39.000Z",
-          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt1e4de886af583b09/6a0385f6b3f3d9ed9bd166a6/GettyImages-2216141394.jpg?branch=production&format=jpg&width=1024"
+          "title": "Tiger Woods' DUI case: Prosecutors will be get access to Woods' prescription drug records",
+          "url": "https://sports.yahoo.com/golf/article/tiger-woods-dui-case-prosecutors-will-be-get-access-to-woods-prescription-drug-records-155650564.html",
+          "published_at": "2026-05-12T15:56:50.000Z",
+          "description": "Woods has pleaded not guilty to the charges and has requested a jury trial."
         },
         {
-          "title": "Trump’s Golden Dome to cost US$1.2 trillion, may fail to stop all-out attack: watchdog",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-12T19:45:54.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/13/bf848dca-d1cb-49f9-a510-20726e7cc9e7_898b8118.jpg?itok=KzHr26lI&v=1778615152"
+          "title": "Tiger Woods’ lawyer to argue against release of prescription drug records in Florida DUI case",
+          "url": "https://www.independent.co.uk/news/world/americas/tiger-woods-drugs-court-case-crash-b2974740.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-12T06:35:19.000Z",
+          "image": "https://static.independent.co.uk/2026/04/09/02/TIGER_WOODS-CHOQUE_82416.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Defense attorney said that Woods has a constitutional right to privacy when it comes to his prescription medications"
         },
         {
-          "title": "फेल हुआ ट्रंप का हिसाब!: गोल्डन डोम की लागत अनुमान से सात गुना ज्यादा, CBO की रिपोर्ट में हुआ बड़ा खुलासा",
-          "url": "https://www.amarujala.com/world/donald-trump-golden-dome-missile-defense-cost-estimation-cbo-report-hindi-2026-05-13",
-          "source": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
-          "published_at": "2026-05-12T19:36:16.000Z"
+          "title": "Tiger Woods’ Prescription Records to be Reviewed in Florida DUI Case",
+          "url": "https://internewscast.com/news/us/tiger-woods-prescription-records-to-be-reviewed-in-florida-dui-case",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-12T18:19:32.000Z",
+          "description": "Internewscast Journal Internewscast Tiger Woods’ prescription drug records are to be handed over to prosecutors… This Post: Tiger Woods’ Prescription Records to be Reviewed in Florida DUI Case first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "A Florida judge ruled that Tiger Woods’ prescription drug records will be handed over to prosecutors in his DUI case. Woods has pleaded not guilty and requested a jury trial."
     },
     {
-      "id": "topic_abc1b7c2a0033881",
+      "id": "topic_6cf953d96bfee5d2",
+      "title": "Keir Starmer Faces Calls to Resign as UK Prime Minister",
+      "headline": "Live updates: UK Prime Minister Keir Starmer faces growing calls to quit - CNN",
       "label": [
-        "cann",
-        "film",
-        "festival",
-        "cann film",
-        "film festival",
-        "carpet"
+        "prime",
+        "minister",
+        "starmer",
+        "keir",
+        "uk",
+        "resign"
       ],
       "category": "new",
-      "theme": "theme_c6acfea45fff86df",
+      "theme": "theme_8e9a373a2245728a",
       "entities": [
-        "Stars",
-        "Cannes",
-        "Cannes Film Festival Red",
-        "Carpet Photos",
-        "Cannes Film Festival"
+        "UK Prime Minister Keir",
+        "Starmer",
+        "CNN",
+        "How Keir Starmer",
+        "UK"
       ],
       "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Live updates: UK Prime Minister Keir Starmer faces growing calls to quit",
+          "url": "https://news.google.com/rss/articles/cbmieefvx3lxtfbws09mn3zpt2drqwcxz0e1oghpsgnbdmlsrfblzvg2r05aou1lsv90s0jeczq5ytftmes3y2utytnjtwpjz1rdujrft2y1u3kzb3e2tmd0atzxafm3a1k0qlbxuxp1ww5imxhibfytluhtqmnlu3lxtw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-12T18:00:00.000Z",
+          "description": "Live updates: UK Prime Minister Keir Starmer faces growing calls to quit CNN UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates The New York Times UK’s Starmer Clings On As Rivals Try to Build Momentum For Coup Bloomberg.com What is happening with Keir Starmer’s leadership: at-a-g…"
+        },
+        {
+          "title": "Keir Starmer facing growing calls to resign as British prime minister",
+          "url": "https://torontosun.com/news/world/keir-starmer-facing-growing-resignation-calls",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-12T02:08:40.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/Starmer.jpg?quality=100&strip=all",
+          "description": "Labour leader facing growing calls from MPs to step down following catastrophic results in local, regional elections"
+        },
+        {
+          "title": "Keir Starmer, the UK’s prime minister, is facing calls within his own party to resign",
+          "url": "https://www.fastcompany.com/91540691/keir-starmer-uks-prime-minister-facing-calls-within-own-party-resign",
+          "source": "Fast Company",
+          "published_at": "2026-05-12T12:09:24.000Z",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/05/AP26129423980754.jpg",
+          "description": "Miatta Fahnbulleh became the first member of his party to step down, urging Starmer to do the same. U.K. Prime Minister Keir Starmer told members of his Cabinet on Tuesday that he has no intention of resigning as calls within his Labour Party for him to step down grew louder. Starmer is trying to s…"
+        },
+        {
+          "title": "How Keir Starmer could be replaced as UK prime minister after discontent rises in his own party (Associated Press)",
+          "url": "https://www.memeorandum.com/260512/p40",
+          "source": "memeorandum",
+          "published_at": "2026-05-12T14:40:00.000Z",
+          "image": "http://www.memeorandum.com/260512/i40.jpg",
+          "description": "Associated Press: How Keir Starmer could be replaced as UK prime minister after discontent rises in his own party — U.K. Prime Minister Keir Starmer is facing a battle for his job after dozens of lawmakers from his own party called on him to step down in the wake of a resounding defeat for his cent…"
+        },
+        {
+          "title": "Despite calls to step down, Keir Starmer is still the UK’s prime minister – for now",
+          "url": "https://www.theguardian.com/politics/2026/may/12/despite-calls-to-step-down-keir-starmer-is-still-the-uks-prime-minister-for-now",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-05-12T20:00:09.000Z",
+          "image": "https://i.guim.co.uk/img/media/ffbbceff908024b1f70a5cda084347a19f72550a/682_0_6362_5089/master/6362.jpg?width=140&quality=85&auto=format&fit=max&s=12338e664d81341c8408f3b834817679",
+          "description": "How Labour party leader lost authority over two days of confusion and drama before state opening of parliament As the afternoon faded in Westminster, final preparations were being made for Wednesday’s state opening of parliament, where King Charles will set out a year-long legislative programme for…"
+        }
+      ],
+      "summary": "Keir Starmer faces growing calls from within the Labour Party to step down following poor election results. He has told his Cabinet he does not intend to resign."
+    },
+    {
+      "id": "topic_b7b4cf40735e84bd",
+      "title": "Zelensky’s Former Chief of Staff Named in Corruption Probe",
+      "headline": "Zelensky’s ex-chief of staff named in major corruption probe that shocked Ukraine",
+      "label": [
+        "staff",
+        "chief",
+        "ex",
+        "corruption",
+        "probe",
+        "ukraine"
+      ],
+      "category": "new",
+      "theme": "theme_32036875099e93c7",
+      "entities": [
+        "Zelensky",
+        "Ukraine",
+        "BBC",
+        "Zelenskyy",
+        "Chief"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Zelensky’s ex-chief of staff named in major corruption probe that shocked Ukraine",
+          "url": "https://www.independent.co.uk/news/world/europe/andriy-yermak-zelensky-corruption-ukraine-b2974783.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-12T07:58:02.000Z",
+          "image": "https://static.independent.co.uk/2026/05/12/07/2026-05-11T210939Z_2027345270_RC2XM5A2846B_RTRMADP_3_UKRAINE-CRISIS-CORRUPTION.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Yermak was widely seen as Ukraine's second most powerful person"
+        },
+        {
+          "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
+          "url": "https://www.yahoo.com/news/articles/zelenskys-ex-chief-staff-court-161929918.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-12T16:19:29.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/6d5269d651dd5567cac251716d257f46"
+        },
+        {
+          "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte9lcmpsus1vsjfcbgktcxgytzz2ngjiumfht2noem1wx1dzueniu0pwvzhrtfk1ogezzxlly2jsa1vrn0q0wg45d09ows0wmvr1snzpejgzndh5qq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-12T16:19:24.000Z",
+          "description": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates BBC Ukraine officials say Zelenskyy’s ex-chief of staff is a suspect in a money-laundering probe AP News Ukraine Corruption Investigation Ensnares Zelensky’s Ex-Top Aide WSJ For years, graft accusations against his circle d…"
+        },
+        {
+          "title": "Zelenskyy's ex-chief of staff named as suspect in major corruption probe",
+          "url": "https://www.japantimes.co.jp/news/2026/05/12/world/politics/zelenskyy-chief-corruption-probe",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-05-12T00:57:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/12/539788.JPG",
+          "description": "The case is part ​of a broader probe into high-level graft first unveiled ​last November."
+        },
+        {
+          "title": "Zelensky’s ex-chief of staff named as suspect in money-laundering probe",
+          "url": "https://www.scmp.com/news/world/europe/article/3353287/zelenskys-ex-chief-staff-named-suspect-money-laundering-probe",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-12T10:32:42.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/12/2ea70b58-704e-4f87-807c-5bda6f2eeb49_b8349639.jpg?itok=e3suCpUN&v=1778581951",
+          "description": "Two national agencies fighting corruption in Ukraine have named Ukrainian President Volodymyr Zelensky’s former chief of staff as an official suspect in a major corruption investigation. Ukraine’s National Anti-Corruption Bureau and the Specialized Anti-Corruption Prosecutor’s Office announced late…"
+        }
+      ],
+      "summary": "Ukraine’s anti-corruption agencies have named former presidential chief of staff Andriy Yermak as a suspect in a money-laundering investigation. The case is part of a broader probe into high-level graft."
+    },
+    {
+      "id": "topic_fcdcd7a44a2a0a80",
+      "title": "Jason Collins Dies at 47 After Brain Cancer Diagnosis",
+      "headline": "Jason Collins, NBA's first openly gay player, dies at 47",
+      "label": [
+        "collins",
+        "jason",
+        "gay",
+        "player",
+        "nba",
+        "dies"
+      ],
+      "category": "new",
+      "theme": "theme_ddec2c11ed2fe8d4",
+      "entities": [
+        "Jason Collins",
+        "NBA",
+        "Jason Collins Dies",
+        "First Openly Gay Player",
+        "ESPN"
+      ],
+      "article_count": 18,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Jason Collins, NBA's first openly gay player, dies at 47",
+          "url": "https://cebudailynews.inquirer.net/727438/jason-collins-nbas-first-openly-gay-player-dies-at-47",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-12T23:36:44.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/05/AP26132814173112-620x414.jpg",
+          "description": "Jason Collins, the NBA’s first openly gay player who went on to become a pioneer for inclusion and an ambassador for the league, has died after an eight-month battle with an aggressive form of a brain tumor, his family announced Tuesday. Collins spent 13 years as a player in the league for six diff…"
+        },
+        {
+          "title": "Jason Collins, NBA's first openly gay player, dies of brain cancer at 47",
+          "url": "https://www.cbssports.com/nba/news/jason-collins-dies-nba-first-openly-gay-player",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-12T23:18:45.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/12/a4491d86-cef8-4fac-95f5-428d1f402d58/jason-collins-getty.png",
+          "description": "Collins announced his diagnosis of stage 4 glioblastoma in December"
+        },
+        {
+          "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
+          "url": "https://sports.yahoo.com/articles/jason-collins-nbas-first-openly-231954814.html",
+          "published_at": "2026-05-12T23:58:56.000Z",
+          "description": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer."
+        },
+        {
+          "title": "Jason Collins, NBA's first openly gay player, dies at 47 of brain tumor",
+          "url": "https://abcnews.com/sports/wirestory/jason-collins-nbas-openly-gay-player-dies-47-132900619",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-12T22:54:17.000Z",
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+          "description": "Jason Collins, the NBA’s first openly gay player who went on to become a pioneer for inclusion and an ambassador for the league, has died after an eight-month battle with an aggressive form of a brain tumor, his family announced Tuesday"
+        },
+        {
+          "title": "Jason Collins, NBA's first openly gay player, dead at 47",
+          "url": "https://www.foxnews.com/sports/jason-collins-nbas-first-openly-gay-player-dead-47",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-12T23:30:12.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/jason-collins-brooklyn-nets-091125-1.jpg?ve=1&tl=1",
+          "description": "NBA veteran Jason Collins, who made history as the first active openly gay player in major American sports, has died at age 47 from brain cancer."
+        }
+      ],
+      "summary": "Jason Collins, the NBA’s first openly gay player, has died at 47 after an eight-month battle with an aggressive brain cancer. He had announced a diagnosis of stage 4 glioblastoma in December."
+    },
+    {
+      "id": "topic_796818f46151d0cd",
+      "title": "Israel Sent Iron Dome Systems and Personnel to UAE",
+      "headline": "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE",
+      "label": [
+        "israel",
+        "sent",
+        "iron",
+        "uae",
+        "dome",
+        "personnel"
+      ],
+      "category": "new",
+      "theme": "theme_260e6c60d0294370",
+      "entities": [
+        "Israel",
+        "Iron Dome",
+        "UAE",
+        "NPR",
+        "US"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE",
+          "url": "https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae",
+          "source": "NPR Topics: World",
+          "published_at": "2026-05-12T09:15:19.000Z",
+          "description": "Israel sent Iron Dome anti-missile batteries and personnel to operate them to the United Arab Emirates to defend the country during the Iran war, the U.S. ambassador to the country said Tuesday."
+        },
+        {
+          "title": "Israel sent Iron Dome batteries, personnel to UAE: U.S. ambassador to Israel",
+          "url": "https://www.thehindu.com/news/international/israel-sent-iron-dome-batteries-personnel-to-uae-us-ambassador-to-israel/article70969752.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-12T12:49:59.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/xftz8u/article70969962.ece/alternates/LANDSCAPE_1200/Iran_US__4572.jpg",
+          "description": "“They (UAE) were the first Abraham Accords member but look at the benefits that they have had as a result. Israel just sent them Iron Dome batteries and personnel to help operate them. How come? Because there’s an extraordinary relationship between the UAE and Israel based on the Abraham Accords,”…"
+        },
+        {
+          "title": "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE",
+          "url": "https://news.google.com/rss/articles/cbmiekfvx3lxte9qmmvcd2p5q1rlytlzsjlylurlas1otnnfbepsz1d2b0jgyzl5tgyycvmwu3dwbg9uwdqxnenlsxbyn2haellzcmpfn3huwfyxctqwutd0atqzv0rbmjzzq2vxmhb0wehzztzan1bms2d4zdnvdduxeg1r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-12T09:15:19.000Z",
+          "description": "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE NPR Singled Out by Iran, U.A.E. Doubles Down on U.S. and Israeli Ties The New York Times US ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE to defend country Yahoo In first official confirma…"
+        },
+        {
+          "title": "US ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE to defend country",
+          "url": "https://www.ms.now/news/us-ambassador-israel-israel-sent-iron-dome-batteries-personnel-uae-defend",
+          "source": "MS NOW",
+          "published_at": "2026-05-12T08:14:03.000Z",
+          "description": "Mike Huckabee made the comment on stage at an event in Tel Aviv, Israel. The post US ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE to defend country appeared first on MS NOW."
+        },
+        {
+          "title": "Israel sent Iron Dome batteries, personnel to UAE: US official",
+          "url": "https://tribune.com.pk/story/2607687/israel-sent-iron-dome-batteries-personnel-to-uae-official",
+          "source": "express tribune",
+          "published_at": "2026-05-12T07:05:13.000Z",
+          "description": "'There's an extraordinary relationship between the UAE and Israel,' says US envoy to Israel"
+        }
+      ],
+      "summary": "The U.S. ambassador to Israel said Israel sent Iron Dome batteries and personnel to the United Arab Emirates to help defend the country during the Iran war."
+    },
+    {
+      "id": "topic_f1dbac2fd2133c1b",
+      "title": "India Cancels NEET-UG 2026 and Orders New Exam",
+      "headline": "NEET-UG 2026 cancelled LIVE: CBI to probe paper leak allegations",
+      "label": [
+        "neet",
+        "paper",
+        "leak",
+        "ug",
+        "cancelled",
+        "allegations"
+      ],
+      "category": "new",
+      "theme": "theme_f60e029ded28b5e7",
+      "entities": [
+        "NEET",
+        "UG",
+        "CBI",
+        "NEET UG",
+        "FIR"
+      ],
+      "article_count": 48,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "NEET-UG 2026 cancelled LIVE: CBI to probe paper leak allegations",
+          "url": "https://www.thehindu.com/education/neet-ug-nta-exam-cancellation-protest-around-india-cbi-probe-paper-leak-may-12-2026-live-updates/article70969020.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-12T10:06:01.000Z",
+          "description": "The NEET-UG examination for students seeking admission to undergraduate courses in medical colleges will now be held again on dates to be notified separately"
+        },
+        {
+          "title": "NEET-UG 2026 cancelled after paper leak allegations, CBI probe ordered",
+          "url": "https://www.thehindubusinessline.com/news/education/neet-ug-2026-cancelled-after-paper-leak-allegations-cbi-probe-ordered/article70968715.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-05-12T07:06:37.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/87ukme/article70968742.ece/alternates/LANDSCAPE_1200/20260503296L.jpg",
+          "description": "The National Testing Agency said the exam would be re-conducted on revised dates to be announced later, with existing registrations and fees remaining valid"
+        },
+        {
+          "title": "Can 22 lakh NEET aspirants sue NTA over NEET-UG 2026 paper leak?",
+          "url": "https://www.indiatoday.in/india/story/neet-ug-2026-cancellation-can-22-lakh-aspirants-sue-nta-over-paper-leak-legal-expert-2910589-2026-05-12",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-12T12:47:04.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/can-neet-ug-students-ask-national-testing-agency-nta-for-compensation-sue-the-government-body-cbi-pr-124342214-16x9_0.jpg?VersionId=ScPcVAbscieA34nCfnKetKcWjr.hi4cF",
+          "description": "Can lakh NEET aspirants sue NTA over NEETUG paper leak"
+        },
+        {
+          "title": "NEET-UG cancelled after 'paper leak', 23 lakh students hit, CBI to probe case",
+          "url": "https://timesofindia.indiatimes.com/india/neet-ug-cancelled-after-paper-leak-23-lakh-students-hit-cbi-to-probe-case/articleshow/131051880.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-12T23:07:15.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131051889,imgsize-90618.cms",
+          "description": "Exam nixed for 1st time since NTA took over in 2019"
+        },
+        {
+          "title": "\"Our Appeal To Prime Minister Is...\": What Khan Sir Said On NEET Paper Leak",
+          "url": "https://www.ndtv.com/india-news/what-khan-sir-said-on-neet-paper-leak-11486462",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-12T19:20:20.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/jl0evpi_khan-sir_625x300_12_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+          "description": "Neet Paper Leak: Khan Sir has called for stronger scrutiny of the NTA, alleging deep-rooted irregularities and possible internal involvement in repeated exam paper leak incidents."
+        }
+      ],
+      "summary": "India cancelled the NEET-UG 2026 medical entrance exam following paper-leak allegations and ordered a CBI investigation. The exam will be held again on dates to be announced, with existing registrations and fees remaining valid."
+    },
+    {
+      "id": "topic_4e9e98b0407bf21f",
+      "title": "Israeli Investigation Finds Widespread Sexual Violence on October 7",
+      "headline": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+      "label": [
+        "sexual",
+        "hamas",
+        "violence",
+        "october",
+        "israeli",
+        "attacks"
+      ],
+      "category": "new",
+      "theme": "theme_96c0a5e5e2b5ba45",
+      "entities": [
+        "Hamas",
+        "October",
+        "Israeli",
+        "BBC",
+        "Independent Israeli"
+      ],
+      "article_count": 9,
       "source_count": 6,
       "articles": [
         {
-          "title": "Stars hit the red carpet for Cannes opening",
-          "url": "https://www.thestar.com/entertainment/movies/stars-hit-the-red-carpet-for-cannes-opening/video_09d8ca26-da9b-4ac7-9f21-68b44751111a.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-05-12T22:47:00.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/9d/09d8ca26-da9b-4ac7-9f21-68b44751111a/6a03aee1c8f79.image.jpg?resize=300%2C169"
+          "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+          "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo",
+          "source": "BBC News",
+          "published_at": "2026-05-12T16:58:51.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efcd/live/2bb72400-4e0d-11f1-ac78-2112837ce2aa.jpg",
+          "description": "The most comprehensive report of its kind details harrowing cases of sexual attacks which it says were systematic."
         },
         {
-          "title": "Cannes Film Festival Red Carpet Photos",
-          "url": "https://variety.com/gallery/cannes-film-festival-red-carpet-photos-fashion",
-          "source": "Variety",
-          "published_at": "2026-05-12T21:30:31.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2275306496.jpg"
-        },
-        {
-          "title": "Cannes Film Festival 2026: Read All Of Deadline’s Movie Reviews",
-          "url": "https://deadline.com/2026/05/cannes-2026-movie-reviews-1236887972",
-          "source": "Deadline",
-          "published_at": "2026-05-12T21:25:23.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Cannes-Film-Festival-Reviews-2026.jpg"
-        },
-        {
-          "title": "This Film Is Predicted to Win 2026 Cannes Film Festival’s Palme d’Or",
-          "url": "https://www.comingsoon.net/movies/features/2132076-this-film-predicted-win-2026-cannes-festival-palme-dor-prediction",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-12T20:00:04.000Z"
-        },
-        {
-          "title": "Cannes, festival al via con Jane Fonda e Gong Li. Si cantano i Beatles per Peter Jackson",
-          "url": "https://www.adnkronos.com/spettacoli/cannes-2026-festival-prima-serata-racconto-premi-cosa-e-successo_6pcbiigbl1dfvzduonxhfl",
-          "source": "Adnkronos - ultimoratop",
-          "published_at": "2026-05-12T19:46:50.000Z",
-          "image": "https://www.adnkronos.com/resources/02a5-209c059c8a13-e4fe4a171520-1000/format/medium/peter_jackson.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_166cb454cd3151f5",
-      "label": [
-        "date",
-        "visionquest",
-        "date disney",
-        "gets",
-        "disney",
-        "release date"
-      ],
-      "category": "new",
-      "theme": "theme_45c678d4e5a53ba6",
-      "entities": [
-        "Marvel",
-        "WandaVision",
-        "Disney Plus",
-        "VisionQuest",
-        "Gets Fall Release Date"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Marvel's WandaVision sequel gets a Disney Plus release date",
-          "url": "https://www.polygon.com/marvel-visionquest-release-date-disney-plus-wandavision-mcu",
-          "source": "Polygon.com",
-          "published_at": "2026-05-12T22:20:43.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22235330/WCB1160_102_comp_v340_20201119_r709.129615.jpg"
-        },
-        {
-          "title": "‘VisionQuest’ Gets Fall Release Date on Disney+",
-          "url": "https://variety.com/2026/tv/news/visionquest-release-date-disney-plus-1236746599",
-          "source": "Variety",
-          "published_at": "2026-05-12T22:09:33.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/vision.jpg"
-        },
-        {
-          "title": "Marvel's Vision Series, Starring Paul Bettany, Gets October Release Date At Disney+",
-          "url": "https://www.tvline.com/2171425/visionquest-release-date-paul-bettany-marvel-series-disney-plus",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-05-12T21:32:26.000Z",
-          "image": "https://www.tvline.com/img/gallery/marvels-vision-series-starring-paul-bettany-gets-october-release-at-disney/l-intro-1778621035.jpg"
-        },
-        {
-          "title": "VisionQuest: Paul Bettany-Starring MCU Series Set for October Debut",
-          "url": "https://bleedingcool.com/tv/visionquest-paul-bettany-starring-mcu-series-set-for-october-debut",
-          "source": "Movies",
-          "published_at": "2026-05-12T21:26:09.000Z"
-        },
-        {
-          "title": "‘VisionQuest’ Gets October Premiere Date On Disney+",
-          "url": "https://deadline.com/2026/05/visionquest-october-premiere-date-disney-plus-1236899963",
-          "source": "Deadline",
-          "published_at": "2026-05-12T21:06:47.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2024/05/vision.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_e4e609aebce3198b",
-      "label": [
-        "danc",
-        "danc star",
-        "season 35",
-        "35",
-        "banana",
-        "star"
-      ],
-      "category": "new",
-      "theme": "theme_27fac389707d655d",
-      "entities": [
-        "Dancing With",
-        "Stars",
-        "Season",
-        "Adds Savannah Bananas Player",
-        "Disney"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Dancing With the Stars’ Season 35 Adds Savannah Bananas Player; Disney+ to Stream Live Banana Bowl Game",
-          "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-season-35-savannah-bananas-1236746141",
-          "source": "Variety",
-          "published_at": "2026-05-12T20:42:01.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/2223742680.jpg"
-        },
-        {
-          "title": "‘Dancing With the Stars’ Season 35 Cast: All the Stars Hitting the Ballroom This Fall - The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxnwnoxoethmjjoru1joe02tc13v1nqzmxsetdprkvgx0zldgflzenysnjqaxhnstnsvhi5sk42wunzd1nqd0xvsm9vahuttetqvfj2rtbfqnbqevk5cezhcf8tbek1dthsrkzbqzbwruq1t0txbdnlsgs1cuqyaxzzqtzkmzm",
+          "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte9vmuxndunwvnj6uwezd3mxz2p5umhxcml5zvpqdg5qmut1dwrwrgoxlurszfraug15lvbpsxhzeghqm29jbllove90t3vza1vfs2tmew8tbkdxuq",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-12T20:39:06.000Z"
+          "published_at": "2026-05-12T16:58:51.000Z",
+          "description": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says BBC First on CNN: New report details ‘systematic’ rape and sexual violence during Hamas’ Oct 7 attack on Israel CNN Sexual violence was 'deliberate tactic' and integral to Hamas-led Oct. 7 attacks, report finds CBC…"
         },
         {
-          "title": "Dancing With The Stars Season 35 Adds Savannah Bananas' Jackson Olson",
-          "url": "https://www.tvline.com/2171361/dancing-with-the-stars-jackson-olson-savannah-bananas-season-35",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-05-12T20:38:57.000Z",
-          "image": "https://www.tvline.com/img/gallery/dancing-with-the-stars-season-35-adds-savannah-bananas-jackson-olson/l-intro-1778616048.jpg"
+          "title": "Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack",
+          "url": "https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-12T16:51:18.000Z",
+          "image": "https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg",
+          "description": "A report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a \"central component\" of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to Gaza."
         },
         {
-          "title": "‘Dancing With The Stars’ Adds Savannah Bananas’ Jackson Olson As Season 35 Competitor",
-          "url": "https://deadline.com/2026/05/dwts-season-cast-35-savannah-bananas-jackson-olson-1236899625",
-          "source": "Deadline",
-          "published_at": "2026-05-12T20:37:15.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Untitled-design-2026-05-12T102927.092.png"
+          "title": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+          "url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html",
+          "source": "NYT > World News",
+          "published_at": "2026-05-12T21:30:44.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-sexual-violence-1-qlgz/13int-israel-sexual-violence-1-qlgz-mediumSquareAt3X.jpg",
+          "description": "A two-year investigation by a team of researchers in Israel concluded that sexual violence by Hamas and its allies was widespread during and after the Oct. 7, 2023, attack."
+        },
+        {
+          "title": "Report: Sexual violence ‘integral’ to October 7 Hamas attack on Israel",
+          "url": "https://www.yahoo.com/news/articles/report-sexual-violence-integral-october-075327682.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-12T07:53:27.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/034bd427c61be07dccebf6175c575643"
         }
-      ]
+      ],
+      "summary": "An Israeli investigative report says sexual violence was widespread during and after Hamas’s October 7, 2023 attack and during captivity. The findings are based on a two-year investigation."
     },
     {
-      "id": "topic_197ff50659402df0",
+      "id": "topic_6ff7096c21eff7bf",
+      "title": "Google Announces Gemini-Powered Features for Android 17",
+      "headline": "Android 17 Is Smarter Than Ever, Thanks to Gemini Intelligence",
       "label": [
-        "lebron",
-        "laker",
-        "laker would",
-        "would welcome",
-        "lebron jam",
-        "would"
+        "intelligence",
+        "gemini",
+        "android",
+        "googlebook",
+        "smarter",
+        "automation"
       ],
       "category": "new",
-      "theme": "theme_f7ba30785ac0dd5d",
+      "theme": "theme_9d0774801798ede4",
       "entities": [
-        "Lakers Want To Keep",
-        "Luka Don",
-        "Austin Reaves And LeBron",
-        "James",
-        "Lakers"
+        "Android",
+        "Is Smarter Than Ever",
+        "Thanks",
+        "Gemini Intelligence",
+        "Making Android"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Lakers Want To Keep Luka Dončić, Austin Reaves And LeBron James",
-          "url": "https://www.forbes.com/sites/markmedina/2026/05/12/lakers-want-to-keep-luka-doni-austin-reaves-and-lebron-james",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-12T21:09:52.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a02a529a972eb38c03c4fb9/0x0.jpg"
-        },
-        {
-          "title": "Lakers would welcome return of LeBron James",
-          "url": "https://www.manilatimes.net/2026/05/13/news/world/lakers-would-welcome-return-of-lebron-james/2342265",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-05-12T20:26:01.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/13/1054161.jpg"
-        },
-        {
-          "title": "Pelinka says Lakers would welcome LeBron back",
-          "url": "https://www.espn.com/nba/story/_/id/48752005/rob-pelinka-says-lakers-welcome-lebron-james-back",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-05-12T20:03:21.000Z"
-        },
-        {
-          "title": "Rob Pelinka: Lakers would 'love to have LeBron James' back, Austin Reaves wants to return; Luka will have roster input",
-          "url": "https://sports.yahoo.com/nba/article/rob-pelinka-lakers-would-love-to-have-lebron-james-back-austin-reaves-wants-to-return-luka-will-have-roster-input-190901540.html",
-          "published_at": "2026-05-12T19:09:01.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_9a58d893b41a49fc",
-      "label": [
-        "tomato",
-        "jdownloader",
-        "temppcp",
-        "vib",
-        "frag",
-        "giedi"
-      ],
-      "category": "new",
-      "theme": "theme_51c53ca1d7df54a9",
-      "entities": [
-        "Tomato",
-        "JDownloader",
-        "TempPCP",
-        "Bad Vibes",
-        "Dirty Frag"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Tomato, JDownloader, TempPCP, Bad Vibes, Dirty Frag, Giedi Prime, Aaran Leyland - SWN #580",
-          "url": "https://www.youtube.com/watch?v=TlLU4rnZ_9w",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-05-12T21:00:25.000Z",
-          "image": "https://i1.ytimg.com/vi/TlLU4rnZ_9w/hqdefault.jpg"
-        },
-        {
-          "title": "Tomato, JDownloader, TempPCP, Bad Vibes, Dirty Frag, Giedi Prime, Aaran Leyland... - SWN #580",
-          "url": "https://hntvvideo.libsyn.com/tomato-jdownloader-temppcp-bad-vibes-dirty-frag-giedi-prime-aaran-leyland-swn-580",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-05-12T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_580_1--df4231bb-0ab7-4055-86f7-709021c48b03--sd-converted--1699bda8-7d10-407b-8445-d50223b47165.mp4?dest-id=376663"
-        },
-        {
-          "title": "Tomato, JDownloader, TempPCP, Bad Vibes, Dirty Frag, Giedi Prime, Aaran Leyland... - SWN #580",
-          "url": "https://hntvaudio.libsyn.com/tomato-jdownloader-temppcp-bad-vibes-dirty-frag-giedi-prime-aaran-leyland-swn-580",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-05-12T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_580_1--df4231bb-0ab7-4055-86f7-709021c48b03--audio-converted--27434a7e-cd69-4b3e-9597-bd08bfbe8a9a.mp3?dest-id=376644"
-        },
-        {
-          "title": "Tomato, JDownloader, TempPCP, Bad Vibes, Dirty Frag, Giedi Prime, Aaran Leyland... - SWN #580",
-          "url": "https://sw-all.libsyn.com/tomato-jdownloader-temppcp-bad-vibes-dirty-frag-giedi-prime-aaran-leyland-swn-580",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-05-12T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_580_1--df4231bb-0ab7-4055-86f7-709021c48b03--audio-converted--27434a7e-cd69-4b3e-9597-bd08bfbe8a9a.mp3?dest-id=829103"
-        }
-      ]
-    },
-    {
-      "id": "topic_d3bd2eea38808df",
-      "label": [
-        "30 minute",
-        "minute delivery",
-        "delivery",
-        "minute",
-        "amazon",
-        "30"
-      ],
-      "category": "new",
-      "theme": "theme_24a2f1b4f53ac888",
-      "entities": [
-        "Amazon",
-        "Domino",
-        "Tried Amazon",
-        "Minute Delivery",
-        "Diet Cokes Were"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Amazon’s promise of 30-minute delivery collides with memories of Domino’s drivers crashing in the late 1980s",
-          "url": "https://fortune.com/2026/05/12/amazons-promise-of-30-minute-delivery-collides-with-memories-of-dominos-drivers-crashing-in-the-late-1980s",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-05-12T20:51:03.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26131728108795-e1778619051930.jpg?w=2048"
-        },
-        {
-          "title": "I Tried Amazon's New 30-Minute Delivery. Diet Cokes Were at My Door in 16 Minutes",
-          "url": "https://www.cnet.com/tech/services-and-software/amazon-launches-30-minute-delivery-service-with-amazon-now",
+          "title": "Android 17 Is Smarter Than Ever, Thanks to Gemini Intelligence",
+          "url": "https://www.cnet.com/tech/services-and-software/android-17-preview",
           "source": "CNET",
-          "published_at": "2026-05-12T19:57:10.000Z",
-          "image": "https://www.cnet.com/a/img/resize/bc30fcb6396017c279efcf3e7594a37553c5231d/hub/2026/05/12/eb6b1dbf-408d-44bf-aca7-85ee38d77904/amazon-now-16x9.jpg?auto=webp&fit=crop&height=614&width=1092"
+          "published_at": "2026-05-12T17:01:00.000Z",
+          "image": "https://www.cnet.com/a/img/resize/ad8287df24be96c9c97f9cf3569024e877a42347/hub/2026/05/11/a9e6b74b-025d-4148-a930-5a78d4783cdc/copy-of-promo-image-template-6.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "Google taps even further into AI with some truly useful new features on deck. Here's the latest from The Android Show."
         },
         {
-          "title": "Amazon launches 30-minute delivery in dozens of cities",
-          "url": "https://mashable.com/article/amazon-now-30-minute-delivery-cities-us",
-          "source": "Mashable",
-          "published_at": "2026-05-12T19:14:30.000Z"
+          "title": "Making Android smarter and more proactive with Gemini Intelligence",
+          "url": "https://www.reddit.com/r/android/comments/1tb83gy/making_android_smarter_and_more_proactive_with",
+          "source": "Android",
+          "published_at": "2026-05-12T17:14:44.000Z",
+          "image": "https://external-preview.redd.it/67a_7Qlb1AYv71LYANs42V55KPqGeUFTNGQhPTeqx_U.png?width=140&height=78&auto=webp&s=a748a8716f4e061ba208a729e45f48ea4600d638",
+          "description": "Hey Reddit, If you watched The Android Show today, you heard us talk about shifting Android from a traditional operating system to an intelligence system. What we mean by that is we want to fundamentally change how we use our devices. Instead of bouncing across apps, digging into emails, and swipin…"
+        },
+        {
+          "title": "Not just an OS: Gemini Intelligence shines with Android automation this summer",
+          "url": "https://www.androidcentral.com/apps-software/ai/not-just-an-os-gemini-intelligence-shines-with-android-automation-this-summer",
+          "source": "Latest from Android Central",
+          "published_at": "2026-05-12T17:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/ncSK72n8EjwWB8GY552oum-1280-80.jpg",
+          "description": "Gemini Intelligence and Google's agentic AI plans took center stage during the Android Show 2026, and there are huge features on the way this summer."
+        },
+        {
+          "title": "Gemini Intelligence brings app automation to Android",
+          "url": "https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-12T17:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/gemini-intelligence-brings-app-automation-to-android/l-intro-1778596392.jpg",
+          "description": "It will arrive on Pixel and Samsung Galaxy phones first."
+        },
+        {
+          "title": "The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer",
+          "url": "https://www.wired.com/story/android-17-gemini-top-new-features",
+          "source": "Feed: All Latest",
+          "published_at": "2026-05-12T17:00:00.000Z",
+          "image": "https://media.wired.com/photos/6a020512167d64e7554534ba/master/pass/Top%20Art%20copy.jpg",
+          "description": "You’ll soon be able to generate your own widgets or ask Gemini to finish a booking in Chrome on Android."
         }
-      ]
-    },
-    {
-      "id": "topic_961297166edb97a0",
-      "label": [
-        "alicja",
-        "szempli",
-        "ska",
-        "alicja szempli",
-        "szempli ska",
-        "eurowizji"
       ],
-      "category": "new",
-      "theme": "theme_540bc911432beba3",
-      "entities": [
-        "Alicja Szempli",
-        "Eurowizji",
-        "Sukces",
-        "Eurowizja",
-        "Izrael"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Alicja Szemplińska awansowała do finału Eurowizji",
-          "url": "https://www.wirtualnemedia.pl/alicja-szemplinska-awansowala-do-finalu-eurowizji,7285246168225824a",
-          "source": "wirtualnemedia",
-          "published_at": "2026-05-12T22:27:45.000Z",
-          "image": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e329eb8a-5e17-4407-8761-dedaf314887d"
-        },
-        {
-          "title": "Sukces! Alicja Szemplińska w wielkim finale Eurowizji",
-          "url": "https://www.rmf24.pl/kultura/news-sukces-alicja-szemplinska-w-wielkim-finale-eurowizji,nid,8081669",
-          "source": "RMF24.pl",
-          "published_at": "2026-05-12T21:22:17.000Z",
-          "image": "https://interia-s.pluscdn.pl/sukces-alicja-szemplinska-w-wielkim-finale-eurowizji/000MRYM08R9VQ1XO-C307.jpg"
-        },
-        {
-          "title": "Eurowizja 2026: Alicja Szemplińska awansowała do finału ogłoszona jako ostatnia, Izrael się dostał",
-          "url": "https://www.rp.pl/muzyka-popularna/art44361241-eurowizja-2026-alicja-szemplinska-awansowala-do-finalu-ogloszona-jako-ostatnia-izrael-sie-dostal",
-          "source": "www.rp.pl",
-          "published_at": "2026-05-12T21:21:00.000Z",
-          "image": "https://i.gremicdn.pl/image/free/b6ec3c1e9374a0a896089e429c9765d1/?t=crop:3935:1721:nowe:0:156.67270375162,resize:fill:600:300,enlarge:1"
-        }
-      ]
-    },
-    {
-      "id": "topic_6d80fe8461d76ad6",
-      "label": [
-        "alligator",
-        "alcatraz",
-        "alligator alcatraz",
-        "florida",
-        "close",
-        "florida plan"
-      ],
-      "category": "new",
-      "theme": "theme_cf9673af2fe3c11b",
-      "entities": [
-        "Florida",
-        "Alligator Alcatraz",
-        "New York Times",
-        "June",
-        "Florida Plans"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Florida plans to close 'Alligator Alcatraz' migrant detention center, New York Times reports",
-          "url": "https://japantoday.com/category/world/florida-plans-to-close-%27alligator-alcatraz%27-migrant-detention-center-new-york-times-reports",
-          "source": "Japan Today",
-          "published_at": "2026-05-12T22:20:51.000Z"
-        },
-        {
-          "title": "Florida's \"Alligator Alcatraz\" could close in June, sources say",
-          "url": "https://www.cbsnews.com/news/florida-alligator-alcatraz-closure-june-2026",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-05-12T21:30:00.000Z"
-        },
-        {
-          "title": "Florida Plans to Close ‘Alligator Alcatraz,’ Vendors Are Reportedly Told - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmikafbvv95cuxnwgu1bmzwx1ftbxlbvvbctjvbaupowfpdq25oddhxmkdfr2tlcghyouk0rkxmbultykp4bwxyvtj0z2hjetezqnzktexjzmzwd00zqjhhteq4ae45vndrctk5rgvqaddltg9yowdmv1pwvwlyvdffd250mnz6tjjpdlndamzmq2jfd3i3a2dna1k",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-12T20:19:40.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5959281be0d8b7bd",
-      "label": [
-        "capability",
-        "show iran",
-        "iran retain",
-        "missile capability",
-        "retain",
-        "missile"
-      ],
-      "category": "new",
-      "theme": "theme_b23641728532c304",
-      "entities": [
-        "Intelligence Shows Iran Retains",
-        "Substantial Missile Capabilities",
-        "New York Times",
-        "Intel Shows Iran Retains",
-        "Missile Capabilities"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities (New York Times)",
-          "url": "https://www.memeorandum.com/260512/p94",
-          "source": "memeorandum",
-          "published_at": "2026-05-12T21:45:00.000Z",
-          "image": "http://www.memeorandum.com/260512/i94.jpg"
-        },
-        {
-          "title": "U.S. Intel Shows Iran Retains Missile Capabilities",
-          "url": "https://politicalwire.com/2026/05/12/u-s-intel-shows-iran-retains-missile-capabilities",
-          "source": "Political Wire",
-          "published_at": "2026-05-12T21:16:25.000Z"
-        },
-        {
-          "title": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
-          "url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-05-12T21:07:44.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12dc-munitions-bvfq/12dc-munitions-bvfq-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1f5972fb93feddd9",
-      "label": [
-        "cyberattack",
-        "foxconn",
-        "foxconn confirm",
-        "confirm cyberattack",
-        "north american",
-        "american factory"
-      ],
-      "category": "new",
-      "theme": "theme_5829ccec6de3ad57",
-      "entities": [
-        "Foxconn",
-        "North American",
-        "Nitrogen",
-        "Lily Hay Newman",
-        "Wired"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data (Lily Hay Newman/Wired)",
-          "url": "https://www.techmeme.com/260512/p54",
-          "source": "Techmeme",
-          "published_at": "2026-05-12T22:35:01.000Z",
-          "image": "http://www.techmeme.com/260512/i54.jpg"
-        },
-        {
-          "title": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files",
-          "url": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
-          "source": "www.theregister.com - Articles",
-          "published_at": "2026-05-12T22:02:35.000Z",
-          "image": "https://image.theregister.com/?imageId=5239187&width=800"
-        },
-        {
-          "title": "Foxconn confirms cyberattack impacting North American factories",
-          "url": "https://therecord.media/foxconn-confirms-cyberattack-north-american-factories",
-          "source": "The Record from Recorded Future News",
-          "published_at": "2026-05-12T19:57:00.000Z",
-          "image": "http://cms.therecord.media/uploads/foxconn_d6eeb182f9.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_2f77ff4fee420a46",
-      "label": [
-        "delta",
-        "goodrem",
-        "finland greece",
-        "greece set",
-        "set clash",
-        "clash delta"
-      ],
-      "category": "new",
-      "theme": "theme_63b58e3568d3fe51",
-      "entities": [
-        "Finland",
-        "Greece",
-        "Delta Goodrem",
-        "Eurovision"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Finland, Greece set up clash with Delta Goodrem in Eurovision final",
-          "url": "https://www.smh.com.au/culture/tv-and-radio/finland-greece-set-up-clash-with-delta-goodrem-in-eurovision-final-20260513-p5zw70.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-12T22:31:47.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2363785988241982%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_67/t_crop_custom/q_86%2Cf_auto/164eb3f4d3cb4cc511ca22e9fb6748a381f45d675027f490f1f0d9fbfc5b8299"
-        },
-        {
-          "title": "Finland, Greece set up clash with Delta Goodrem in Eurovision final",
-          "url": "https://www.brisbanetimes.com.au/culture/tv-and-radio/finland-greece-set-up-clash-with-delta-goodrem-in-eurovision-final-20260513-p5zw70.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-12T22:31:47.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2363785988241982%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_67/t_crop_custom/q_86%2Cf_auto/164eb3f4d3cb4cc511ca22e9fb6748a381f45d675027f490f1f0d9fbfc5b8299"
-        },
-        {
-          "title": "Finland, Greece set up clash with Delta Goodrem in Eurovision final",
-          "url": "https://www.theage.com.au/culture/tv-and-radio/finland-greece-set-up-clash-with-delta-goodrem-in-eurovision-final-20260513-p5zw70.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-12T22:31:47.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2363785988241982%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_67/t_crop_custom/q_86%2Cf_auto/164eb3f4d3cb4cc511ca22e9fb6748a381f45d675027f490f1f0d9fbfc5b8299"
-        }
-      ]
-    },
-    {
-      "id": "topic_22d499971f536a92",
-      "label": [
-        "finger",
-        "broken finger",
-        "caballero",
-        "volpe",
-        "yanke",
-        "broken"
-      ],
-      "category": "new",
-      "theme": "theme_ceab2aefb5f63cd0",
-      "entities": [
-        "Volpe",
-        "Yankees",
-        "Caballero",
-        "Anthony Volpe",
-        "Jos"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Volpe brought back by Yankees after Caballero goes on injured list with broken finger",
-          "url": "https://www.thestar.com/sports/baseball/volpe-brought-back-by-yankees-after-caballero-goes-on-injured-list-with-broken-finger/article_fe73add2-297e-59e9-875c-49efcfc3d7b2.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-05-12T20:59:58.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/ce/6ce64f98-0e95-5de5-bfcb-bd18269e2f0e/69e2d7a97c340.image.jpg?resize=300%2C200"
-        },
-        {
-          "title": "Volpe brought back by Yankees after Caballero goes on injured list with broken finger",
-          "url": "https://sports.yahoo.com/articles/volpe-brought-back-yankees-caballero-205917947.html",
-          "published_at": "2026-05-12T20:59:17.000Z"
-        },
-        {
-          "title": "Yankees' Anthony Volpe recalled to majors after José Caballero lands on IL with broken finger",
-          "url": "https://www.cbssports.com/mlb/news/yankees-anthony-volpe-jose-caballero-injury-timeline",
-          "source": "CBS Sports Headlines",
-          "published_at": "2026-05-12T20:55:36.000Z",
-          "image": "https://sportshub.cbsistatic.com/i/2026/05/12/41a5bc3d-8bb9-42a0-aa00-364d3f5a9b94/volpe-getty.png"
-        }
-      ]
+      "summary": "Google announced Gemini Intelligence features for Android, including app automation and tools such as generating widgets or completing a booking in Chrome. The features are expected to arrive on Pixel and Samsung Galaxy phones first this summer."
     }
   ]
 }

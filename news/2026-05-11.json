@@ -1,581 +1,411 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-12T00:15:29.561Z",
+  "generated_at": "2026-09-27T13:53:38.604Z",
   "topics": [
     {
-      "id": "topic_a6fa536576ff0d51",
+      "id": "topic_432d5687a2118d7c",
+      "title": "Two Evacuated Cruise Passengers Test Positive for Hantavirus",
+      "headline": "Two more cruise ship passengers test positive for hantavirus",
       "label": [
-        "federal gas",
-        "tax",
-        "gas tax",
-        "federal",
-        "gas",
-        "suspend federal"
+        "positive",
+        "tests",
+        "hantavirus",
+        "ship",
+        "passenger",
+        "cruise"
       ],
       "category": "new",
-      "theme": "theme_a7d4a142b055671b",
+      "theme": "theme_1acdb608a2ad420d",
       "entities": [
-        "WATCH",
-        "Federal",
-        "Would",
+        "Two",
+        "French",
+        "US Passenger Tests Positive",
+        "For Hantavirus After Evacuation",
+        "From Cruise Ship"
+      ],
+      "article_count": 49,
+      "source_count": 35,
+      "articles": [
+        {
+          "title": "Two more cruise ship passengers test positive for hantavirus",
+          "url": "https://www.aljazeera.com/news/2026/5/11/two-more-cruise-ship-passengers-test-positive-for-hantavirus",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-11T09:30:36.000Z",
+          "description": "One French passenger and one from the US test positive after being evacuated from the vessel in the Canary Islands."
+        },
+        {
+          "title": "More passengers from hantavirus-hit cruise ship test positive",
+          "url": "https://www.scmp.com/news/world/europe/article/3353143/more-passengers-hantavirus-hit-cruise-ship-test-positive",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-11T08:47:20.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/11/31dc5290-e018-49fa-9aa1-7d0fa11e9331_70961af9.jpg?itok=7qJ9Jpkt&v=1778489238",
+          "description": "An American national and a French woman evacuated from the cruise ship hit by a deadly hantavirus outbreak have tested positive, officials said Monday, as the complex operation to repatriate those on board continued. The French woman, one of five passengers from France flown back from the MV Hondiu…"
+        },
+        {
+          "title": "French passenger from hantavirus ship tests positive",
+          "url": "https://www.france24.com/en/video/20260511-french-passenger-from-hantavirus-ship-tests-positive",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-11T10:45:51.000Z",
+          "image": "https://s.france24.com/media/display/87c6c6c4-4d22-11f1-aac6-005056bfb2b6/w:1024/p:16x9/EN-20260511-103125-103427-CS.jpg",
+          "description": "A French woman repatriated from a cruise ship struck by hantavirus has tested positive with the rare disease, France's health minister said Monday, in the country's first case since the outbreak. The woman, one of five French passengers flown back from the MV Hondius and placed in isolation in Pari…"
+        },
+        {
+          "title": "U.S. citizen from hantavirus ship tests positive",
+          "url": "https://nationalpost.com/news/world/u-s-citizen-from-hantavirus-ship-tests-positive",
+          "source": "National Post",
+          "published_at": "2026-05-11T14:22:04.000Z",
+          "description": "Three passengers from the MV Hondius — a Dutch couple and a German woman — have died, while others have fallen sick with the rare disease"
+        },
+        {
+          "title": "US Passenger Tests Positive For Hantavirus After Evacuation From Cruise Ship (Latest Updates)",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/10/us-passenger-tests-positive-for-hantavirus-after-evacuation-from-cruise-ship-latest-updates",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-11T03:49:38.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0155adc2fa5155046c5052/0x0.jpg?width=960",
+          "description": "One of the 17 American evacuees tested positive while another is showing mild symptoms, the HHS said."
+        }
+      ],
+      "summary": "A French woman and a U.S. citizen evacuated from the hantavirus-hit MV Hondius tested positive, officials said. One other American evacuee was reported to have mild symptoms."
+    },
+    {
+      "id": "topic_2b4bd538ae2050fa",
+      "title": "Trump Says Iran Ceasefire Is on “Life Support”",
+      "headline": "Trump says Iran ceasefire on 'life support'",
+      "label": [
+        "ceasefire",
+        "support",
+        "life",
+        "iran",
+        "trump",
+        "proposal"
+      ],
+      "category": "new",
+      "theme": "theme_8f726cbf6659d211",
+      "entities": [
         "Trump",
-        "Trump Proposes Suspending Federal"
+        "Iran",
+        "US",
+        "Trump Says US",
+        "Iran Ceasefire"
       ],
-      "article_count": 13,
-      "source_count": 10,
+      "article_count": 41,
+      "source_count": 31,
       "articles": [
         {
-          "title": "WATCH: Federal gas tax suspension: Would it actually lower prices at the pump?",
-          "url": "https://abcnews.com/video/132857930",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-05-11T22:39:32.000Z",
-          "image": "https://s.abcnews.com/images/Business/260511_abcnl_6p_gas_buddy_hpMain_4x3_384.jpg"
+          "title": "Trump says Iran ceasefire on 'life support'",
+          "url": "https://tribune.com.pk/story/2607632/trump-says-iran-ceasefire-on-life-support",
+          "source": "express tribune",
+          "published_at": "2026-05-11T16:53:25.000Z",
+          "description": "US president rejects Tehran's counterproposal as 'garbage'"
         },
         {
-          "title": "Trump says he supports temporary suspension of federal gas tax",
-          "url": "https://www.ms.now/news/trump-supports-temporary-suspension-of-federal-gas-tax",
-          "source": "MS NOW",
-          "published_at": "2026-05-11T22:18:00.000Z"
+          "title": "U.S.-Iran ceasefire on ‘life support’, says Trump",
+          "url": "https://www.thehindu.com/news/international/us-iran-ceasefire-on-life-support-says-trump/article70967185.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-11T18:21:17.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ozkop0/article70967199.ece/alternates/LANDSCAPE_1200/2026-05-11T160719Z_464933661_RC247LAKEYEN_RTRMADP_3_USA-TRUMP.JPG",
+          "description": "The U.S. President described Iran’s proposal as a “piece of garbage” which he was not going to waste time reading"
         },
         {
-          "title": "Trump Proposes Suspending Federal Gas Tax",
-          "url": "https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html",
-          "source": "NYT > Top Stories",
-          "published_at": "2026-05-11T21:38:16.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11evening-nl-gas-tax-tcpf/11evening-nl-gas-tax-tcpf-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Trump Wants To Suspend Federal Gas Tax And Hand Drivers Over 18 Cents A Gallon",
-          "url": "https://www.carscoops.com/2026/05/trump-gas-tax",
-          "source": "Carscoops",
-          "published_at": "2026-05-11T21:01:00.000Z",
-          "image": "https://www.carscoops.com/wp-content/uploads/2026/05/Trump-1-1024x576.jpg"
-        },
-        {
-          "title": "Trump wants to suspend federal gasoline tax, but needs Congress’ approval",
-          "url": "https://globalnews.ca/news/11844050/trump-suspend-federal-gas-tax-congress",
-          "published_at": "2026-05-11T20:08:47.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/05/f140c7dc13611fc999e25af8b225a5b4ddea3400402e7eb5e7c66dcb2bd0a56a.jpg?quality=65&strip=all"
-        }
-      ]
-    },
-    {
-      "id": "topic_221238be6bbb020b",
-      "label": [
-        "hantaviru hit",
-        "hit ship",
-        "hit",
-        "last six",
-        "six passenger",
-        "passenger leave"
-      ],
-      "category": "new",
-      "theme": "theme_2830457cca3743a2",
-      "entities": [
-        "Last",
-        "Hantavirus",
-        "Netherlands",
-        "Tenerife"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Last six passengers leave hantavirus-hit ship",
-          "url": "https://japantoday.com/category/world/last-six-passengers-leave-hantavirus-hit-ship-as-captain-hails-their-patience",
-          "source": "Japan Today",
-          "published_at": "2026-05-11T21:30:48.000Z"
-        },
-        {
-          "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife",
-          "url": "https://www.gmanetwork.com/news/topstories/world/987277/hantavirus-hit-ship-netherlands-final-passengers-evacuated-in-tenerife/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-11T21:00:25.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/2026-05-11T181916Z_2045755726_RC267LAK4KFC_RTRMADP_3_CRUISESHIP-HANTAVIRUS-TENERIFE_2026_05_12_04_59_29.JPG"
-        },
-        {
-          "title": "Last six passengers leave Hantavirus-hit ship",
-          "url": "https://www.perthnow.com.au/news/coronavirus/last-six-passengers-leave-hantavirus-hit-ship-c-22268902",
+          "title": "Trump says US-Iran ceasefire is 'on life support'",
+          "url": "https://www.perthnow.com.au/news/conflict/trump-says-us-iran-ceasefire-is-on-life-support-c-22268878",
           "source": "PerthNow",
-          "published_at": "2026-05-11T18:50:41.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22268902/98cf4119b4b41b27e71862ac96214f4c5a37ec2a-16x9-x0y0w1280h720.jpg"
+          "published_at": "2026-05-11T17:50:37.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22268878/d3d25282a6a7aaec664557cf9c9abcda2e0abf19-16x9-x0y0w1280h720.jpg",
+          "description": "US President Donald Trump says the Iran ceasefire is on \"life support\" after he rejected an Iranian latest proposal to end the war."
+        },
+        {
+          "title": "Iran war: Trump says ceasefire 'on life support'",
+          "url": "https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-11T22:21:00.000Z",
+          "description": "After rejecting Tehran's response to the US peace proposal, President Donald Trump warned that the ceasefire in the war with Iran was \"on life support.\" Follow DW for the latest."
+        },
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
+          "source": "BBC News",
+          "published_at": "2026-05-11T18:17:34.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg",
+          "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
         }
-      ]
+      ],
+      "summary": "Donald Trump said the ceasefire with Iran was on “life support” after rejecting Tehran’s counterproposal to end the war."
     },
     {
-      "id": "topic_d86b19bdefb4cc1e",
+      "id": "topic_9e0bdbe21f6c827a",
+      "title": "White House Correspondents’ Dinner Shooting Suspect Pleads Not Guilty",
+      "headline": "White House Correspondents' Dinner shooting suspect Cole Allen pleads not guilty",
       "label": [
-        "attaque",
-        "un",
-        "homme",
-        "une",
-        "onn de",
-        "en"
+        "pleads",
+        "guilty",
+        "suspect",
+        "dinner",
+        "attempting",
+        "trump"
       ],
-      "category": "new",
-      "theme": "theme_db2fae64b0e5ff3d",
+      "category": "trending",
+      "theme": "theme_450731633241380f",
       "entities": [
-        "Projet",
-        "Paris",
-        "Un",
-        "France",
-        "Louvre"
+        "White House Correspondents",
+        "Dinner",
+        "Cole Allen",
+        "Dinner Shooting Suspect Pleads",
+        "Not Guilty To Attempting"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 40,
+      "source_count": 37,
       "articles": [
         {
-          "title": "Projet d’attaque djihadiste à Paris : ce que l’on sait de l’homme mis en examen et écroué",
-          "url": "https://www.ouest-france.fr/terrorisme/projet-dattaque-djihadiste-a-paris-ce-que-lon-sait-de-lhomme-mis-en-examen-et-ecroue-cedeedd6-4d7f-11f1-9125-f2209e13d826",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-11T22:06:54.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1NzNlNDU5MjEwZjc5YjllNzA0ODUyMGVhY2Y4MjY4ZTY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=21c44811ce2583095b8d2e9a166bedce719df05fad2eeae0300ee80c9de4bdb0"
+          "title": "White House Correspondents' Dinner shooting suspect Cole Allen pleads not guilty",
+          "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-allen-pleads-not-guilty-to-all-charges",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-05-11T14:08:28.000Z",
+          "description": "Allen is charged with attempting to assassinate President Trump, assaulting a federal officer with a deadly weapon and two gun counts."
         },
         {
-          "title": "Un homme suspecté de fomenter une attaque \"d'inspiration jihadiste\" interpellé en France",
-          "url": "https://www.dhnet.be/actu/monde/2026/05/11/un-homme-suspecte-de-fomenter-une-attaque-dinspiration-jihadiste-interpelle-en-france-f4bghytf4rb2fju4fwnachrxmy",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-05-11T21:33:45.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/H3BBVPBFBNDYDGMLJHJDOVQLYE.jpg?auth=3b9663f465a64069c6ec4087225d66711bbfa4f8cd5130d6a4fd6916d5a85354&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Un homme soupçonné de préparer une attaque djihadiste contre le Louvre et la communauté juive mis en examen",
-          "url": "https://www.huffingtonpost.fr/france/article/un-homme-soupconne-de-preparer-une-attaque-djihadiste-contre-le-louvre-et-la-communaute-juive-mis-en-examen_263614.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-05-11T21:01:44.000Z",
-          "image": "https://focus.huffingtonpost.fr/2025/11/01/751/0/8640/4860/0/0/60/0/c8e0d17_upload-1-l0xhyowdsy25-afp-20251030-82gp2kf-v1-highres-filesfrancemuseumrobberyinvestigation.jpg"
-        },
-        {
-          "title": "Un homme soupçonné de préparer une attaque terroriste contre le musée du Louvre a été mis en examen",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/un-homme-soupconne-de-preparer-une-attaque-terroriste-contre-le-musee-du-louvre-arrete-et-place-en-detention-provisoire_7997912.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-11T19:06:34.000Z",
-          "image": "https://www.franceinfo.fr/pictures/2JUGkccvVKxptCryJg35X_X31Ac/0x0:1024x576/432x243/filters:format(jpg)/2026/05/11/6a022662d974b459579425.jpg"
-        },
-        {
-          "title": "Un Tunisien \"radicalisé\" interpellé en France, soupçonné de fomenter une série d’attentats contre le Louvre et une synagogue",
-          "url": "https://www.ladepeche.fr/2026/05/11/un-tunisien-radicalise-interpelle-en-france-soupconne-de-fomenter-une-serie-dattentats-contre-le-louvre-et-une-synagogue-13366581.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-05-11T19:04:04.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a022714dfe92f2bdf0bf3c4/standard/image.jpg?v=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_e4466a9a2de3d39b",
-      "label": [
-        "buzzfe",
-        "byron",
-        "byron allen",
-        "allen",
-        "allen buy",
-        "buy"
-      ],
-      "category": "new",
-      "theme": "theme_55c536ea8b5a4112",
-      "entities": [
-        "BuzzFeed",
-        "Byron Allen",
-        "Byron Allen In Deal",
-        "To Buy Majority Stake",
-        "In Buzzfeed For"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "BuzzFeed's fire sale to Byron Allen marks the end of an era",
-          "url": "https://www.businessinsider.com/buzzfeed-why-byron-allen-buying-peretti-vox-vice-2026-5",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-05-11T23:02:28.000Z",
-          "image": "https://i.insider.com/6a024781e1443b8dc48e40ba?format=jpeg"
-        },
-        {
-          "title": "Byron Allen In Deal To Buy Majority Stake In Buzzfeed For $120 Million, Become Chairman & CEO",
-          "url": "https://deadline.com/2026/05/byron-allen-buying-majority-stake-buzzfeed-becoming-ceo-1236898665",
+          "title": "White House Correspondents’ Dinner Shooting Suspect Pleads Not Guilty To Attempting To Assassinate Donald Trump",
+          "url": "https://deadline.com/2026/05/trump-correspondents-dinner-suspect-not-guilty-plea-1236895669",
           "source": "Deadline",
-          "published_at": "2026-05-11T21:37:29.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2023/03/Byron-Allen-Harvard.jpg"
+          "published_at": "2026-05-11T15:14:54.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/04/GettyImages-2272612809.jpg",
+          "description": "The suspect in the April 25 shooting at the White House Correspondents’ Dinner plead not guilty on Monday. Cole Tomas Allen has been charged with attempting to assassinate President Donald Trump, who was at the annual dinner at the Washington Hilton along with many other administration officials. H…"
         },
         {
-          "title": "Byron Allen is taking a majority stake in BuzzFeed, investing $120M, and will become CEO; Jonah Peretti will move to a new role as president of BuzzFeed AI (Todd Spangler/Variety)",
-          "url": "https://mediagazer.com/260511/p25",
-          "source": "Mediagazer",
-          "published_at": "2026-05-11T21:10:59.000Z",
-          "image": "http://mediagazer.com/260511/i25.jpg"
+          "title": "White House press dinner shooting suspect pleads not guilty",
+          "url": "https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-11T17:18:00.000Z",
+          "description": "A California man has been charged with attempting to assassinate Trump at the White House Correspondents' Association dinner."
         },
         {
-          "title": "Byron Allen Is Buying BuzzFeed, Will Become CEO",
-          "url": "https://variety.com/2026/digital/news/byron-allen-buying-buzzfeed-ceo-1236745206",
-          "source": "Variety",
-          "published_at": "2026-05-11T21:03:19.000Z",
-          "image": "https://variety.com/wp-content/uploads/2025/08/Byron-Allen.jpg"
+          "title": "White House shooting suspect pleads not guilty to attempted assassination of Trump",
+          "url": "https://www.thejournal.ie/white-house-shooting-suspect-pleads-not-guilty-to-attempted-assassination-of-trump-7036761-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-11T16:25:28.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/screenshot-2026-05-11-172301-c6d8dfe4-88c3-43ae-9645-968f72b6adb5-630x412.png",
+          "description": "Cole Allen (31) has been charged with attempting to assassinate US president Donald Trump at a White House press gala last month."
         },
         {
-          "title": "Byron Allen Is Buying BuzzFeed, Will Become CEO - Variety",
-          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxnufhdlwt5chvmetzzme9nzfzoc1pfuvyxnhnnbkx3ufpgx3l4nmznzefxvdyzoeloyvjkwxkyc2sywunubuzud2fptfhxx1f5wexwwlrmal9itkzyzzvyegfpcxbhlu1ym0i4ogtjvxv6ufr1ody2c1ztexzgse41rlhaqwe3mhfw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-11T21:03:00.000Z"
+          "title": "White House correspondents' dinner suspect pleads not guilty",
+          "url": "https://abcnews.com/us/white-house-correspondents-dinner-suspect-pleads-guilty/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-11T14:12:07.000Z",
+          "image": "https://s.abcnews.com/images/US/whca-16-gty-gmh-260426_1777211786133_hpMain_4x3t_384.jpg",
+          "description": "Cole Allen, the suspect in the shooting at the White House Correspondents' Association Dinner, pleaded not guilty on Monday to all counts."
         }
-      ]
+      ],
+      "summary": "Cole Allen pleaded not guilty to charges including attempting to assassinate President Donald Trump and assaulting a federal officer with a deadly weapon. The charges stem from a shooting at the White House Correspondents’ Association dinner."
     },
     {
-      "id": "topic_164ea82cb3e90e74",
+      "id": "topic_973628b94820ff06",
+      "title": "Turkish Airlines Plane Catches Fire While Landing in Kathmandu",
+      "headline": "Video: Turkish Airlines Plane Tyre Catches Fire During Landing In Nepal",
       "label": [
-        "settler",
-        "eu",
-        "sanction",
-        "west bank",
-        "israeli",
-        "west"
+        "catches",
+        "plane",
+        "fire",
+        "turkish",
+        "airlines",
+        "landing"
       ],
       "category": "new",
-      "theme": "theme_5f01461c6da76b90",
+      "theme": "theme_b6392423cb748f8c",
+      "entities": [
+        "Turkish Airlines Plane Tyre",
+        "Catches Fire During Landing",
+        "In Nepal",
+        "Turkish Airlines",
+        "Nepal"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Video: Turkish Airlines Plane Tyre Catches Fire During Landing In Nepal",
+          "url": "https://www.ndtv.com/world-news/video-turkish-airlines-plane-tyre-catches-fire-during-landing-in-nepal-11476849",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-11T03:07:44.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/sa2ugm1g_turkish-airlines-plane-tyre-catches-fire_625x300_11_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+          "description": "Turkish Airlines aircraft caught fire on right tyres during landing at Tribhuvan Airport, passengers evacuated safely."
+        },
+        {
+          "title": "Turkish Airlines plane catches fire at Nepal airport, passengers safe",
+          "url": "https://www.iol.co.za/news/world/turkish-airlines-plane-catches-fire-at-nepal-airport-passengers-safe-44eb1cb9-f24d-4265-a4ed-39fc0f604672",
+          "source": "IOL section feed for News",
+          "published_at": "2026-05-11T07:35:50.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/97929ffcb443efaf6268680118281f4e5de0a3da/1147&operation=CROP&offset=197x0&resize=754x424"
+        },
+        {
+          "title": "Video: Turkish Airlines plane tyre catches fire during landing in Kathmandu",
+          "url": "https://www.indiatoday.in/world/story/video-turkish-airlines-plane-tyre-catches-fire-during-landing-nepal-kathmandu-2909686-2026-05-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-11T02:28:01.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/turkish-airlines-plane-tyre-catches-fire-during-landing-in-nepal-capital-kathmandu-112743928-16x9_0.jpg?VersionId=V73vB1N3R99_ZD0IfZmc1yFOYIapXQZ3",
+          "description": "Video Turkish Airlines plane tyre catches fire during landing in Kathmandu"
+        },
+        {
+          "title": "Turkish Airlines plane catches fire while landing in Kathmandu; 278 passengers on board",
+          "url": "https://timesofindia.indiatimes.com/world/south-asia/turkish-airlines-plane-catches-fire-while-landing-in-kathmandu-278-passengers-on-board/articleshow/131001812.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-11T03:44:45.000Z",
+          "image": "https://static.toiimg.com/photo/msid-131001871,imgsize-17190.cms"
+        },
+        {
+          "title": "Turkish Airlines jet catches fire while landing at Nepal's main airport; all passengers safe",
+          "url": "https://www.thehindubusinessline.com/economy/logistics/turkish-airlines-jet-catches-fire-while-landing-at-nepals-main-airport-all-passengers-safe/article70964322.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-05-11T03:55:52.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/mlvbuv/article70964333.ece/alternates/LANDSCAPE_1200/2026-05-11T034147Z_1614749699_RC2R6LADHYT4_RTRMADP_3_NEPAL-FIRE-TURKISH-AIRLINES.JPG",
+          "description": "Emergency crew controlled the fire and passengers were safely evacuated; the airport was shut down on Monday morning"
+        }
+      ],
+      "summary": "A Turkish Airlines aircraft’s right-side tyres caught fire as it landed at Tribhuvan Airport in Kathmandu. Passengers were evacuated safely, and emergency crews controlled the fire."
+    },
+    {
+      "id": "topic_82fd17b10cbceff5",
+      "title": "EU Approves Sanctions on Israeli Settlers Over West Bank Violence",
+      "headline": "EU agrees sanctions on Israeli settlers",
+      "label": [
+        "settlers",
+        "sanctions",
+        "israeli",
+        "eu",
+        "agrees",
+        "bank"
+      ],
+      "category": "new",
+      "theme": "theme_b57e8fffad1a4d49",
       "entities": [
         "EU",
-        "West Bank",
-        "Hamas",
         "Israeli",
-        "Israel"
+        "West Bank",
+        "Kallas",
+        "Israeli West Bank"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 17,
+      "source_count": 16,
       "articles": [
         {
-          "title": "EU agrees sanctions on West Bank settlers and Hamas leaders",
-          "url": "https://www.thehindu.com/news/international/eu-agrees-sanctions-on-west-bank-settlers-and-hamas-leaders/article70967301.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-11T21:45:08.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/rbfy20/article70967306.ece/alternates/LANDSCAPE_1200/2026-05-11T142852Z_120715662_RC227LANRF2T_RTRMADP_3_EU-FOREIGN.JPG"
-        },
-        {
-          "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers but fail to pressure Israel",
-          "url": "https://japantoday.com/category/world/eu-sanctions-hamas-leaders-and-israeli-settlers-but-shelves-stronger-economic-pressure",
-          "source": "Japan Today",
-          "published_at": "2026-05-11T21:31:08.000Z"
-        },
-        {
-          "title": "EU sanctions violent Israeli settlers after months of deadlock",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-11T20:31:54.000Z"
+          "title": "EU agrees sanctions on Israeli settlers",
+          "url": "https://tribune.com.pk/story/2607611/eu-agrees-sanctions-on-israeli-settlers",
+          "source": "express tribune",
+          "published_at": "2026-05-11T16:27:50.000Z",
+          "description": "Four organisations also targeted over West Bank violence"
         },
         {
           "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
           "url": "https://www.bbc.com/news/articles/c202wp2rl09o",
           "source": "BBC News",
           "published_at": "2026-05-11T19:37:17.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg",
+          "description": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\"."
         },
         {
-          "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-          "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-11T19:10:18.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5e1c8aa90f27ec2f",
-      "label": [
-        "fallout",
-        "aaron paul",
-        "paul",
-        "aaron",
-        "fallout season",
-        "paul join"
-      ],
-      "category": "new",
-      "theme": "theme_2b90933210dd41b4",
-      "entities": [
-        "Casting News",
-        "Aaron Paul Joins Fallout",
-        "The White Lotus Adds",
-        "Another Oscar Winner",
-        "And More"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Casting News: Aaron Paul Joins Fallout, The White Lotus Adds Another Oscar Winner, And More",
-          "url": "https://www.tvline.com/2170286/fallout-aaron-paul-season-3-cast-the-white-lotus-ben-kingsley",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-05-11T21:53:32.000Z",
-          "image": "https://www.tvline.com/img/gallery/casting-news-aaron-paul-joins-fallout-the-white-lotus-adds-another-oscar-winner-and-more/l-intro-1778535654.jpg"
+          "title": "EU to impose sanctions on Israeli settlers",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/11/eu-to-impose-sanctions-on-israeli-settlers_6753340_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-11T13:51:47.000Z",
+          "image": "https://img.lemde.fr/2026/05/10/905/0/6601/3300/644/322/60/0/891514b_ftp-1-xdcfkndonjti-5996287-01-06.jpg",
+          "description": "European Union officials said seven settlers or settler organizations would be blacklisted. No consensus has been found among member states to take further steps against Israel."
         },
         {
-          "title": "Aaron Paul Joins ‘Fallout’ Season 3",
-          "url": "https://variety.com/2026/tv/news/aaron-paul-fallout-season-3-1236745164",
-          "source": "Variety",
-          "published_at": "2026-05-11T21:11:54.000Z",
-          "image": "https://variety.com/wp-content/uploads/2025/05/Aaron-Paul-Photo-credit-Taylor-Miller-copy.jpg"
+          "title": "EU approves new sanctions on Israeli settlers over West Bank violence",
+          "url": "https://www.france24.com/en/europe/20260511-eu-approves-new-sanctions-on-israeli-settlers-over-west-bank-violence-palestinians",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-11T13:49:57.000Z",
+          "image": "https://s.france24.com/media/display/ccd686de-4d3e-11f1-9133-005056a90284/w:1024/p:16x9/2026-05-09T142152Z-553045986-RC2P5LAQID2D-RTRMADP-3-ISRAEL-PALESTINIANS-HEBRON-SETTLERS.jpg",
+          "description": "The European Union on Monday approved new sanctions on Israeli settlers \"guilty of supporting the extremist and violent colonisation of the West Bank\", French Foreign Minister Jean-Noël Barrot said on social media. Israel called the sanctions “arbitrary and political” and vowed to stand '”for the r…"
         },
         {
-          "title": "Fallout season 3 adds Aaron Paul as mysterious new character",
-          "url": "https://www.polygon.com/fallout-season-3-casting-aaron-paul-new-character",
-          "source": "Polygon.com",
-          "published_at": "2026-05-11T20:13:02.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610007/BM_FirstLooks_4.jpg"
-        },
-        {
-          "title": "Aaron Paul Will Join The Cast Of Fallout Season 3 In Mystery Role",
-          "url": "https://gameinformer.com/2026/05/11/aaron-paul-will-join-the-cast-of-fallout-season-3-in-mystery-role",
-          "source": "Game Informer",
-          "published_at": "2026-05-11T19:14:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/05/11/1b1adf64/Aaron%20Paul%20Fallout.jpg.webp"
-        },
-        {
-          "title": "Fallout Season 3 Adds Breaking Bad Star Aaron Paul to Cast",
-          "url": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
-          "source": "IGN Articles",
-          "published_at": "2026-05-11T18:34:41.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/05/11/aaron-paul-breaking-bad-1778520387053.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_59a50e1ec2a29b4e",
-      "label": [
-        "fast furiou",
-        "furiou",
-        "fast",
-        "vin diesel",
-        "vin",
-        "diesel"
-      ],
-      "category": "new",
-      "theme": "theme_ce56e736a81b8fc7",
-      "entities": [
-        "Fast",
-        "Furious Has",
-        "TV Shows Coming",
-        "Peacock",
-        "According"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Fast & Furious Has 4 TV Shows Coming to Peacock, According to Vin Diesel",
-          "url": "https://www.ign.com/articles/fast-furious-has-4-tv-shows-coming-to-peacock-according-to-vin-diesel",
-          "source": "IGN Articles",
-          "published_at": "2026-05-11T20:31:00.000Z",
-          "image": "https://assets-prd.ignimgs.com/2023/05/22/fastxmoments-thumb-1684105887529-1684727826983.jpg"
-        },
-        {
-          "title": "Vin Diesel Says Four 'Fast And Furious' TV Shows Are Coming, No Matter What The Studio Says",
-          "url": "https://www.jalopnik.com/2170204/vin-diesel-four-fast-and-furious-tv-shows",
-          "source": "Jalopnik - Obsessed with the culture of cars",
-          "published_at": "2026-05-11T20:26:46.000Z",
-          "image": "https://www.jalopnik.com/img/gallery/vin-diesel-says-four-fast-and-furious-tv-shows-are-coming-no-matter-what-the-studio-says/l-intro-1778531138.jpg"
-        },
-        {
-          "title": "Peacock Is Developing ‘Fast and Furious’ Shows, Here Are the Ones We Want",
-          "url": "https://gizmodo.com/peacock-is-developing-fast-and-furious-shows-here-are-the-ones-we-want-2000757104",
-          "source": "Gizmodo",
-          "published_at": "2026-05-11T20:15:29.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/Fast-and-Furious-cast-1280x853.jpg"
-        },
-        {
-          "title": "Vin Diesel confirms Fast & Furious is getting a Yellowstone TV-verse",
-          "url": "https://www.polygon.com/fast-and-furious-tv-series-peacock-vin-diesel",
-          "source": "Polygon.com",
-          "published_at": "2026-05-11T19:00:28.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdfafi_ec040.jpg"
-        },
-        {
-          "title": "Vin Diesel’s Shocking Fast & Furious Update Is 10 Years Too Late",
-          "url": "https://www.comingsoon.net/tv/features/2131363-fast-and-furious-tv-shows-ten-years-too-late",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-11T18:17:28.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5113aa8121505219",
-      "label": [
-        "netflix",
-        "texa",
-        "sues netflix",
-        "sues",
-        "texa sues",
-        "allegedly spy"
-      ],
-      "category": "new",
-      "theme": "theme_bd767b20088fca98",
-      "entities": [
-        "Netflix",
-        "Texas",
-        "Texas AG",
-        "Texas Sues Netflix",
-        "Alleged Data Collection"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Netflix sued by Texas for allegedly spying on children, addicting users",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353202/netflix-sued-texas-allegedly-spying-children-addicting-users",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-11T23:08:13.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/12/907cdae2-2a27-485a-9a2f-3580d22f0558_4e1b584b.jpg?itok=tyD2Hbko&v=1778540515"
-        },
-        {
-          "title": "Netflix sued by Texas AG for alleged surveillance, addictive features",
-          "url": "https://www.politico.com/news/2026/05/11/netflix-sued-by-texas-ag-for-alleged-surveillance-addictive-features-00915029",
+          "title": "EU to approve sanctions on Israeli settlers, says Kallas",
+          "url": "https://www.politico.eu/article/eu-expected-to-approve-sanctions-on-israeli-settlers-says-kaja-kallas",
           "source": "POLITICO",
-          "published_at": "2026-05-11T21:31:34.000Z"
-        },
-        {
-          "title": "Texas Sues Netflix for Alleged Data Collection of Children Without Consent",
-          "url": "https://www.cnet.com/tech/services-and-software/texas-sues-netflix-for-alleged-data-collection-of-children-without-consent",
-          "source": "CNET",
-          "published_at": "2026-05-11T20:56:33.000Z",
-          "image": "https://www.cnet.com/a/img/resize/5c6ab1147e3f9e655d6416f58a9e05be0b6ec404/hub/2024/08/22/98704754-92e4-4854-9c94-a53ef5d23d59/netflix-streaming-tv-movies-0133-2.jpg?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
-          "url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-11T20:04:31.000Z",
-          "image": "https://www.engadget.com/img/gallery/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/l-intro-1778529804.jpg"
-        },
-        {
-          "title": "Texas sues Netflix over alleged data practices that create ‘surveillance machinery’ without user consent",
-          "url": "https://therecord.media/texas-sues-netflix-over-data-practices-surveillance",
-          "source": "The Record from Recorded Future News",
-          "published_at": "2026-05-11T19:56:00.000Z",
-          "image": "http://cms.therecord.media/uploads/Netflix_ffe5abad38.jpg"
+          "published_at": "2026-05-11T08:36:16.000Z",
+          "description": "The breakthrough comes days after Péter Magyar replaced Viktor Orbán as Hungary’s prime minister."
         }
-      ]
+      ],
+      "summary": "The European Union approved sanctions targeting Israeli settlers and organisations over violence in the West Bank. The measures were described as addressing support for extremist and violent settlement activity."
     },
     {
-      "id": "topic_f761a2d2d73f5c5c",
+      "id": "topic_69c4b645f44a9738",
+      "title": "Six People Found Dead in Texas Train Boxcar",
+      "headline": "Six people found dead in cargo train boxcar in southern Texas",
       "label": [
-        "nel",
-        "desmantelan",
-        "huachit",
-        "desmantelan huachit",
-        "huachit nel",
-        "nel en"
+        "boxcar",
+        "found",
+        "texas",
+        "dead",
+        "people",
+        "train"
       ],
       "category": "new",
-      "theme": "theme_71d3ec5b75c9faff",
+      "theme": "theme_8711c6116ac72096",
       "entities": [
-        "La FGR",
-        "Nuevo Le",
-        "Desmantelan",
-        "Santa Catarina",
-        "FGR"
+        "Six",
+        "Texas",
+        "Laredo",
+        "NBC News",
+        "Mexico"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 15,
+      "source_count": 12,
       "articles": [
         {
-          "title": "La FGR desmantela túnel destinado al huachicol en Nuevo León",
-          "url": "https://www.informador.mx/mexico/nuevo-leon-la-fgr-desmantela-tunel-destinado-al-huachicol-en-santa-catarina-20260511-0156.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-11T22:59:00.000Z"
+          "title": "Six people found dead in cargo train boxcar in southern Texas",
+          "url": "https://www.yahoo.com/news/videos/six-people-found-dead-cargo-185210030.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-11T18:52:10.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/70e78e66434c0678a5978428522413ca"
         },
         {
-          "title": "Desmantelan 'huachit�nel' en Santa Catarina",
-          "url": "https://www.elnorte.com/desmantelan-huachitunel-en-santa-catarina/ar3202279",
-          "source": "ElNorte",
-          "published_at": "2026-05-11T21:09:28.000Z"
+          "title": "6 people found dead inside cargo train boxcar in Texas",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxna18xwvy0czftm1lnq29pegg0uldvrfi0u3m3whznzklmc0rtrghzyxk3q1feswpntxewuzfkbvjnafn6ogvot1utmzdrafloy0nry2xingi1vwjjdldsnknhevlvzlvfbjjwx0yybm9yqxmyow1ba0vtdlhccuzes01tbkp6ruxbzc1ectetuwr1dwdz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-11T00:46:00.000Z",
+          "description": "6 people found dead inside cargo train boxcar in Texas NBC News 6 people found dead inside a boxcar in Texas, officials say CNN 6 Bodies Found in a Boxcar in Texas, Officials Say The New York Times 6 found dead inside railroad boxcar, Laredo police say KSAT Six people confirmed dead in Union Pacifi…"
         },
         {
-          "title": "FGR halla túnel de huachicol, tipo ‘El Chapo’ Guzmán… dentro de instalaciones de Pemex",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/05/11/fgr-halla-tunel-de-huachicol-tipo-el-chapo-guzman-dentro-de-instalaciones-de-pemex",
-          "source": "El Financiero",
-          "published_at": "2026-05-11T21:09:19.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Ng1sjJzbKtjkGCF_6mlFYLp9WEM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GKP6HVMSOFCT5LKBSA3FUMJK3A.jpeg"
+          "title": "At least six people found dead in boxcar in Laredo, Texas, police say",
+          "url": "https://www.thehindu.com/news/international/several-people-found-dead-in-boxcar-in-texas/article70964677.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-11T07:09:36.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/7bkw8r/article70951759.ece/alternates/LANDSCAPE_1200/iStock-926719206.jpg",
+          "description": "Past instances ‌of multiple deaths in trains and tractor trailers not far from the U.S.-Mexico border have involved migrants"
         },
         {
-          "title": "Desmantelan 'huachit�nel' en Nuevo Le�n",
-          "url": "https://www.reforma.com/desmantelan-huachitunel-en-nuevo-leon/ar3202265",
-          "source": "Reforma",
-          "published_at": "2026-05-11T21:08:42.000Z"
+          "title": "6 people found dead inside Texas railroad boxcar",
+          "url": "https://nypost.com/2026/05/11/us-news/6-people-found-dead-inside-texas-railroad-boxcar",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-05-11T04:03:03.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2F127436992.jpg?w%3D1024",
+          "description": "A Union Pacific worker stumbled upon the dead bodies in a train yard at a remote location near the Mexican Border."
         },
         {
-          "title": "FGR desmantela túnel de huachicol conectado a ducto de Pemex en Nuevo León; asegura más de 205 mil litros",
-          "url": "https://vanguardia.com.mx/noticias/fgr-desmantela-tunel-de-huachicol-conectado-a-ducto-de-pemex-en-nuevo-leon-asegura-mas-de-205-mil-litros-ag20623344",
-          "source": "Vanguardia",
-          "published_at": "2026-05-11T20:46:54.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/huachicol-tuneles-nuevo-leon-fgr-nar_1-15380546_20260511210604.jpg"
+          "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
+          "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-05-11T14:27:01.000Z",
+          "image": "https://i.guim.co.uk/img/media/0f42a3354fe6b086a8a23e9c6a145faff1d3f66c/944_506_4056_3244/master/4056.jpg?width=140&quality=85&auto=format&fit=max&s=0dafcbf6469a7671e618432f21d32aab",
+          "description": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxcar at a yard close to the Mexican border on Sunday afternoon,…"
         }
-      ]
+      ],
+      "summary": "Six people were found dead inside a cargo train boxcar in a rail yard in Laredo, near the U.S.-Mexico border. A Union Pacific employee discovered them while inspecting the stopped train."
     },
     {
-      "id": "topic_4b93e63944ae87",
+      "id": "topic_65cc154dbfdf97",
+      "title": "Google Says Hackers Used AI to Develop a Zero-Day Exploit",
+      "headline": "Google Says Hackers Used AI to Develop a Zero-Day Exploit",
       "label": [
-        "plead",
-        "plead guilty",
-        "guilty",
-        "accus trump",
-        "trump assassin",
-        "assassin plead"
-      ],
-      "category": "new",
-      "theme": "theme_8a48611e0c23e7ec",
-      "entities": [
-        "Accused Trump",
-        "Trump",
-        "Cole Allen",
-        "Alleged"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Accused Trump assassin pleads not guilty",
-          "url": "https://www.theage.com.au/world/accused-trump-assassin-pleads-not-guilty-20260512-p5zvut.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-11T20:50:43.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/07de55ba78c0e4fd587f86dc24d1e44f609eb859"
-        },
-        {
-          "title": "Accused Trump assassin pleads not guilty",
-          "url": "https://www.smh.com.au/world/accused-trump-assassin-pleads-not-guilty-20260512-p5zvut.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-11T20:50:43.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/07de55ba78c0e4fd587f86dc24d1e44f609eb859"
-        },
-        {
-          "title": "Accused Trump assassin pleads not guilty",
-          "url": "https://www.brisbanetimes.com.au/world/accused-trump-assassin-pleads-not-guilty-20260512-p5zvut.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-11T20:50:43.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/07de55ba78c0e4fd587f86dc24d1e44f609eb859"
-        },
-        {
-          "title": "Trump gala attack accused Cole Allen pleads not guilty",
-          "url": "https://www.indiatoday.in/world/story/donald-trump-assassination-case-cole-allen-not-guilty-white-house-gala-attack-2910204-2026-05-12",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-11T20:07:19.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/cole-allen--trump--white-house-dinner-064706917-16x9_1.jpg?VersionId=xLELLjMck2P5tVZdDzh7JXDKbvdgQXvl"
-        },
-        {
-          "title": "Alleged shooter pleads not guilty to attempting to assassinate Trump",
-          "url": "https://www.youtube.com/shorts/0rYRiSE5qy0",
-          "source": "CNN",
-          "published_at": "2026-05-11T18:14:15.000Z",
-          "image": "https://i1.ytimg.com/vi/0rYRiSE5qy0/hqdefault.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_baee39243067b578",
-      "label": [
-        "zero day",
         "zero",
-        "day exploit",
+        "day",
         "google",
-        "google says",
-        "exploit"
+        "ai",
+        "exploit",
+        "hackers"
       ],
       "category": "new",
-      "theme": "theme_dae94ae1a0c0558a",
+      "theme": "theme_89c0112ba99da4f5",
       "entities": [
         "Google Says Hackers Used",
         "AI",
@@ -583,432 +413,506 @@
         "Zero",
         "Day Exploit"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 19,
+      "source_count": 18,
       "articles": [
         {
           "title": "Google Says Hackers Used AI to Develop a Zero-Day Exploit",
           "url": "https://hackread.com/google-hackers-used-ai-develop-zero-day-exploit",
           "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
-          "published_at": "2026-05-11T22:00:41.000Z"
-        },
-        {
-          "title": "Google Says Hackers Used AI to Develop a Zero-Day Exploit",
-          "url": "https://vulners.com/hackread/hackread:c850126cb426482a468feba08b922b9c",
-          "source": "Vulners.com RSS Feed",
           "published_at": "2026-05-11T22:00:41.000Z",
-          "image": "http://vulners.com/static/img/hackread.png"
+          "description": "Google researchers say hackers used AI to develop zero-day exploits, Android backdoors, and automated supply chain attacks targeting GitHub and PyPI."
         },
         {
-          "title": "Google Says It Found Evidence of Hackers Using AI to Discover a Zero-Day Vulnerability",
-          "url": "https://gizmodo.com/google-says-it-found-evidence-of-hackers-using-ai-to-discover-a-zero-day-vulnerability-2000757238",
-          "source": "Gizmodo",
-          "published_at": "2026-05-11T21:10:46.000Z",
-          "image": "https://gizmodo.com/app/uploads/2022/06/782954258bc3f210c71a2a32444493b1-1024x576.jpg"
+          "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+          "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool",
+          "source": "BleepingComputer",
+          "published_at": "2026-05-11T13:02:30.000Z",
+          "description": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]"
         },
         {
-          "title": "Google says hacker used Mythos-like AI for zero-day exploit",
-          "url": "https://www.youtube.com/shorts/QspVMa2m1PQ",
-          "source": "Bloomberg Television",
-          "published_at": "2026-05-11T18:31:22.000Z",
-          "image": "https://i2.ytimg.com/vi/QspVMa2m1PQ/hqdefault.jpg"
+          "title": "Google Warns of Hackers Using AI to Create Working Zero-Day Exploit",
+          "url": "https://cybersecuritynews.com/ai-zero-day-exploit",
+          "source": "Cyber Security News",
+          "published_at": "2026-05-11T16:04:42.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/05/AI-Zero-Day-Exploit.webp",
+          "description": "Google Threat Intelligence Group recently published an alarming report detailing the rapid industrialization of generative artificial intelligence in adversarial workflows. The most significant finding reveals that a cybercriminal syndicate successfully developed a working zero-day exploit entirely…"
         },
         {
-          "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
-          "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-05-11T18:11:07.000Z",
-          "image": "https://www.engadget.com/img/gallery/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/l-intro-1778522994.jpg"
+          "title": "Google says criminals used AI to build a working zero-day exploit for the first time",
+          "url": "https://siliconangle.com/2026/05/11/google-says-criminals-used-ai-build-working-zero-day-exploit-first-time",
+          "source": "Security – SiliconANGLE",
+          "published_at": "2026-05-11T13:00:35.000Z",
+          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/aizeroday.png",
+          "description": "Criminal hackers have used artificial intelligence to develop a working zero-day exploit, the first confirmed case of its kind, according to a report released today by Google LLC’s Google Threat Intelligence Group. The GTIG AI Threat Tracker report details how a criminal group used AI to build a Py…"
+        },
+        {
+          "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+          "url": "https://vulners.com/thn/thn:abd9bac425bf8c85803f1c9e9cd64e38",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-05-11T15:45:00.000Z",
+          "image": "http://vulners.com/static/img/thn.png",
+          "description": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence AI system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and ex…"
         }
-      ]
+      ],
+      "summary": "Google researchers said a threat actor likely used artificial intelligence to develop a working zero-day exploit targeting an open-source web administration tool. Google described it as the first confirmed case of criminals using AI to create a working zero-day exploit."
     },
     {
-      "id": "topic_510104e2923bc8ce",
+      "id": "topic_9abb3d48bc81aad6",
+      "title": "Savannah Guthrie to Host NBC’s Wordle Game Show",
+      "headline": "Savannah Guthrie will host Wordle TV game show",
       "label": [
-        "gentlemen",
-        "gentlemen ransomware",
-        "ransomware group",
-        "ransomware",
-        "group",
-        "tabl"
+        "wordle",
+        "show",
+        "savannah",
+        "guthrie",
+        "nbc",
+        "game"
       ],
       "category": "new",
-      "theme": "theme_b646e5bc0b03871c",
+      "theme": "theme_bae61ec6d72392b0",
       "entities": [
-        "Tables Turned",
-        "Gentlemen Ransomware Group Suffers",
-        "Data Leak",
-        "The Gentlemen Ransomware Group",
-        "Becomes"
+        "Savannah Guthrie",
+        "Wordle TV",
+        "NBC",
+        "Turn Wordle Into",
+        "TV Game Show"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 19,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Tables Turned: Gentlemen Ransomware Group Suffers Data Leak",
-          "url": "https://www.databreachtoday.co.uk/tables-turned-gentlemen-ransomware-group-suffers-data-leak-a-31654",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/tables-turned-gentlemen-ransomware-group-suffers-data-leak-image_small-4-a-31654.jpg"
+          "title": "Savannah Guthrie will host Wordle TV game show",
+          "url": "https://www.theguardian.com/media/2026/may/11/savannah-guthrie-wordle-tv-game-show",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-11T15:43:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/0637fe01270654fee06950685bf6638fe95c6eca/979_759_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=6c1375bd5e419a9c5110fb8bbc8c507d",
+          "description": "Jimmy Fallon will produce show, which will begin filming over the summer, based on New York Times’ hit word game Savannah Guthrie is to present a TV game show based on the New York Times’ hit word game Wordle, the newspaper announced Monday. It will be the first new onscreen venture for the host of…"
         },
         {
-          "title": "The Gentlemen Ransomware Group Becomes a Victim",
-          "url": "https://malware.news/t/the-gentlemen-ransomware-group-becomes-a-victim/106874",
-          "source": "Malware Analysis, News and Indicators - Latest topics",
-          "published_at": "2026-05-11T21:50:44.000Z",
-          "image": "https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F05%2F11%2Fthe-gentlemen-ransomware-group-becomes-a-victim%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Dthe-gentlemen-ransomware-group-becomes-a-victim&amp;action_name=The%20Gentlemen%20Ransomware%20Group%20Becomes%20a%20Victim&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F"
+          "title": "NBC to Turn Wordle Into a TV Game Show, With Savannah Guthrie as Host",
+          "url": "https://news.google.com/rss/articles/cbmiigfbvv95cuxqqwxhsznrnuxib0kzuk5kqudjvdj5twt1wgk1uzjrwlnky2rftjl5nuvmyjdrq202dxjnytbaujczwmfmntrodejom01wwmvxeklmsgi5cnria3f1eflsqljhyuzmvhrseufnukr4dvnorzdhcxi0ntvunvgxbmvqbfh4athyvef3zhc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-11T12:00:02.000Z",
+          "description": "NBC to Turn Wordle Into a TV Game Show, With Savannah Guthrie as Host The New York Times Savannah Guthrie Announces New Hosting Gig at NBC: 'Been Holding This Secret for a Long Time' People.com EXCLUSIVE: Savannah Guthrie Will Host New ‘Wordle’ Game Show Produced by Jimmy Fallon TODAY.com Savannah…"
         },
         {
-          "title": "Tables Turned: Gentlemen Ransomware Group Suffers Data Leak",
-          "url": "https://www.govinfosecurity.com/tables-turned-gentlemen-ransomware-group-suffers-data-leak-a-31654",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/tables-turned-gentlemen-ransomware-group-suffers-data-leak-image_small-4-a-31654.jpg"
+          "title": "NBC to Turn Wordle Into a TV Game Show",
+          "url": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
+          "source": "NYT > Business",
+          "published_at": "2026-05-11T12:00:02.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/08/multimedia/GAME-SHOW-grid-01-jhlf-alert/GAME-SHOW-grid-01-jhlf-alert-mediumSquareAt3X-v3.jpg",
+          "description": "The word puzzle published by The New York Times is the inspiration for a game show that will begin airing next year. Jimmy Fallon is a producer."
         },
         {
-          "title": "Tables Turned: Gentlemen Ransomware Group Suffers Data Leak",
-          "url": "https://www.bankinfosecurity.com/tables-turned-gentlemen-ransomware-group-suffers-data-leak-a-31654",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/tables-turned-gentlemen-ransomware-group-suffers-data-leak-image_small-4-a-31654.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_35dcce67cdb3f315",
-      "label": [
-        "ring",
-        "lord ring",
-        "ring ring",
-        "ring power",
-        "lord",
-        "date"
-      ],
-      "category": "new",
-      "theme": "theme_778348f79551c53a",
-      "entities": [
-        "Lord",
-        "Rings",
-        "The Rings",
-        "Power",
-        "Lord Of The Rings"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Lord of the Rings: The Rings of Power season 3 release date officially revealed",
-          "url": "https://www.polygon.com/lord-of-the-rings-the-rings-of-power-season-3-release-date-officially",
-          "source": "Polygon.com",
-          "published_at": "2026-05-11T23:03:25.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/image-2.png"
-        },
-        {
-          "title": "Lord Of The Rings: The Rings Of Power Lands Season 3 Premiere Date On Prime Video — Get A First Look",
-          "url": "https://www.tvline.com/2170328/lord-of-the-rings-the-rings-of-power-season-3-release-date-prime-video",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-05-11T22:51:08.000Z",
-          "image": "https://www.tvline.com/img/gallery/lord-of-the-rings-the-rings-of-power-lands-season-3-premiere-date-on-prime-video-get-a-first-look/l-intro-1778539464.jpg"
-        },
-        {
-          "title": "‘The Lord Of The Rings: The Rings Of Power’ Sets Season 3 Release Date At Prime Video",
-          "url": "https://deadline.com/2026/05/lord-of-the-rings-the-rings-of-power-season-3-release-date-1236890016",
-          "source": "Deadline",
-          "published_at": "2026-05-11T22:15:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/lotr-the-rings-of-power-copy.jpg"
-        },
-        {
-          "title": "‘The Lord of the Rings: The Rings of Power’ Season 3 Sets Fall Premiere Date",
-          "url": "https://variety.com/2026/tv/news/the-rings-of-power-season-3-fall-release-date-1236745269",
+          "title": "Savannah Guthrie’s ‘Wordle’ Game Show Greenlit at NBC",
+          "url": "https://variety.com/2026/tv/news/wordle-game-show-savannah-guthrie-nbc-1236742108",
           "source": "Variety",
-          "published_at": "2026-05-11T22:15:00.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/The-Rings-of-Power_PC_BenRothstein_PrimeVideo.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_bfc5266b7106b506",
-      "label": [
-        "rod stewart",
-        "rod",
-        "stewart",
-        "king charl",
-        "charl",
-        "king"
-      ],
-      "category": "new",
-      "theme": "theme_dae4df76655ba2fc",
-      "entities": [
-        "Sir Rod Stewart",
-        "Trump",
-        "King Charles",
-        "US President",
-        "Rod Stewart"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Sir Rod Stewart calls Trump a 'little ratbag' as he praises King Charles for putting US President 'in his place'",
-          "url": "https://www.dailymail.com/news/royals/article-15809305/sir-rod-stewart-calls-trump-little-ratbag-king-charles.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-11T22:08:02.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/11/22/108534285-0-image-a-6_1778536555990.jpg"
+          "published_at": "2026-05-11T12:44:07.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2240180747.jpg",
+          "description": "NBC has given a series order to a TV adaptation of the New York Times game “Wordle” hosted by “Today” anchor Savannah Guthrie and executive produced by Jimmy Fallon. The game show will premiere sometime in 2027. Guthrie and Fallon announced the “Wordle” greenlight during Monday’s broadcast of “Toda…"
         },
         {
-          "title": "Rod Stewart to King Charles on Trump: “You Put That Little Ratbag in His Place”",
-          "url": "https://consequence.net/2026/05/rod-stewart-king-charles-trump",
-          "source": "Consequence",
-          "published_at": "2026-05-11T21:36:52.000Z",
-          "image": "https://consequence.net/wp-content/uploads/2026/05/Rod-Stewart-King-Charles.jpeg?quality=80"
-        },
-        {
-          "title": "King Charles in awkward moment as Rod Stewart praises him for dealing with 'rat bag' Trump",
-          "url": "https://www.express.co.uk/news/royal/2204407/king-charles-london-rod-stewart-trump",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-05-11T21:34:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2204407_1.jpg"
-        },
-        {
-          "title": "Rod Stewart congratulates UK's King Charles for putting 'ratbag' Trump 'in his place'",
-          "url": "https://www.thejournal.ie/rod-stewart-king-charles-trump-7036993-may2026",
+          "title": "New Wordle game show to be presented by Today host Savannah Guthrie",
+          "url": "https://www.thejournal.ie/wordle-game-show-7036588-may2026",
           "source": "TheJournal.ie",
-          "published_at": "2026-05-11T20:32:25.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/featureimage-0746a8bc-2412-430a-85bb-21de8694a41d-630x420.jpg"
+          "published_at": "2026-05-11T14:34:25.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/wordle-game-show-486eb73a-62b5-4ac3-aece-72812fac6a7f-230x150.png",
+          "description": "Filming for the show will begin this summer."
         }
-      ]
+      ],
+      "summary": "NBC is developing a television game show based on The New York Times’ Wordle. Savannah Guthrie will host, Jimmy Fallon will produce, and filming is due to begin over the summer."
     },
     {
-      "id": "topic_3be64816150289e6",
+      "id": "topic_c4d268f8b2288d0d",
+      "title": "Florida Officers Sue Matt Damon and Ben Affleck Over “The Rip”",
+      "headline": "Matt Damon und Ben Affleck: Verleumdungsklage von Polizisten nach Netflix-Film »The Rip«",
       "label": [
-        "tren",
-        "aragua",
-        "tren de",
-        "de aragua",
-        "nationwide",
-        "25"
+        "affleck",
+        "damon",
+        "matt",
+        "ben",
+        "rip",
+        "miami"
       ],
       "category": "new",
-      "theme": "theme_5e880f1cfb68309f",
+      "theme": "theme_4263267b1f183796",
       "entities": [
-        "Defendants Charged",
-        "Nationwide Tren",
-        "Aragua Crackdown Resulting",
-        "Seizure",
-        "Firearms"
+        "Matt Damon",
+        "Ben Affleck",
+        "Verleumdungsklage",
+        "Polizisten",
+        "Netflix"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "More than 25 Defendants Charged in Nationwide Tren de Aragua Crackdown Resulting in the Seizure of Over 80 Firearms and Narcotics in Homeland Security Task Force Investigations (US Department of Justice)",
-          "url": "https://www.memeorandum.com/260511/p120",
-          "source": "memeorandum",
-          "published_at": "2026-05-11T22:45:00.000Z",
-          "image": "http://www.memeorandum.com/img/pml.png"
+          "title": "Matt Damon und Ben Affleck: Verleumdungsklage von Polizisten nach Netflix-Film »The Rip«",
+          "url": "https://www.spiegel.de/panorama/matt-damon-und-ben-affleck-in-the-rip-spielen-sie-polizisten-echte-cops-verklagen-die-beiden-jetzt-a-35f428de-ed2b-46f2-9c11-b4c8cff3c654",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-05-11T10:59:00.000Z",
+          "image": "https://cdn.prod.www.spiegel.de/images/79411a00-6452-4852-9d36-db6e22c4b107_w520_r2.08_fpx54.67_fpy50.jpg",
+          "description": "In dem Netflix-Film »The Rip« geht es um Polizeiarbeit und Drogenhandel in Miami. Zwei richtige Polizisten klagen einem Bericht zufolge nun wegen Verleumdung gegen die beiden Hauptdarsteller."
         },
         {
-          "title": "DOJ charges over 25 people in nationwide crackdown on Tren de Aragua",
-          "url": "https://www.washingtonexaminer.com/news/justice/4563740/doj-nationwide-crackdown-tren-de-aragua",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-11T21:13:46.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26124596569167.jpg?w=696"
+          "title": "Wegen \"The Rip\": Polizisten verklagen Ben Affleck und Matt Damon",
+          "url": "https://www.n-tv.de/leute/polizisten-verklagen-ben-affleck-und-matt-damon-id30807749.html",
+          "source": "n-tv.de - Startseite",
+          "published_at": "2026-05-11T03:26:32.000Z",
+          "image": "https://www.n-tv.de/img/30807752/1778477118/Img_4_3/250/World-Premiere-Of-Amazon-MGM-Studios-Crime-101-LOS-ANGELES-CALIFORNIA-USA-FEBRUARY-10-Ben-Affleck-and-Matt-Damon-arrive-at-the-World-Premiere-Of-Amazon-MGM-Studios-Crime-101-held-at-The-United-Theater-on-Broadway-at-STILE-Downtown-Los-Angeles-by-Kasa-on-February-10-2026-in-Los-Angeles-California-United-States.jpg",
+          "description": "Der Film \"The Rip\" sorgt für juristischen Ärger. Zwei Polizisten aus Florida verklagen die Produktionsfirma von Matt Damon und Ben Affleck. Angeblich werden die beiden Cops durch das Drehbuch in ihrem Ruf geschädigt."
         },
         {
-          "title": "Over 25 Arrested in Major Nationwide Bust Targeting Tren de Aragua’s Gun, Drug, and Cash Operations",
-          "url": "https://internewscast.com/news/us/over-25-arrested-in-major-nationwide-bust-targeting-tren-de-araguas-gun-drug-and-cash-operations",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-11T19:51:47.000Z"
+          "title": "Matt Damon & Ben Affleck Sued by Cops Over Netflix’s The Rip — Report",
+          "url": "https://www.comingsoon.net/movies/news/2130893-matt-damon-ben-affleck-sued-by-miami-cops-the-rip",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-05-11T08:52:02.000Z",
+          "description": "Matt Damon and Ben Affleck’s Netflix crime drama The Rip has drawn unexpected legal attention months after its release. A new report claims the film’s portrayal of law enforcement has now become the center of a developing dispute involving real Miami-Dade officers. Matt Damon and Ben Affleck face l…"
         },
         {
-          "title": "More than 25 charged in nationwide Tren de Aragua crackdown involving guns, drugs and cash",
-          "url": "https://www.foxnews.com/us/more-than-25-charged-nationwide-tren-de-aragua-crackdown-involving-guns-drugs-cash",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-11T19:23:35.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/prisoners-ms13-tattoos-1.jpg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_6ce69bd2e22cfac2",
-      "label": [
-        "virgin",
-        "mary",
-        "virgin mary",
-        "mary statue",
-        "statue",
-        "soldier"
-      ],
-      "category": "new",
-      "theme": "theme_4aa16b2e765ac164",
-      "entities": [
-        "Israeli",
-        "Virgin Mary",
-        "Israel",
-        "Lebanon"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Israeli soldiers jailed for desecrating Virgin Mary statue",
-          "url": "https://www.express.co.uk/news/world/2204394/israeli-soldier-cigarette-virgin-mary",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-05-11T20:21:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2204394_1.jpg"
-        },
-        {
-          "title": "Israel jails soldiers for desecrating Virgin Mary statue in Lebanon",
-          "url": "https://www.gmanetwork.com/news/topstories/world/987272/israel-jails-soldiersdesecrating-virgin-mary-statue-lebanon/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-11T20:00:00.000Z",
-          "image": "https://images.gmanews.tv/webpics/2021/12/000_9QT7DT_2021_12_29_23_03_09.jpg"
-        },
-        {
-          "title": "Israeli soldiers will spend time in prison for desecrating Virgin Mary statue in Lebanon",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/11/israeli-soldiers-will-spend-time-in-prison-for-desecrating-virgin-mary-statue-in-lebanon_6753352_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-11T19:35:12.000Z",
-          "image": "https://img.lemde.fr/2026/04/21/451/0/1066/533/644/322/60/0/dbf9fa6_ftp-1-jkwmmxbpnjxd-2026-04-21t163020z-532723439-rc2vskahjqix-rtrmadp-3-iran-crisis-israel-lebanon-statue.JPG"
-        },
-        {
-          "title": "Israeli soldiers jailed for desecration of Virgin Mary statue in Lebanon",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3353193/israeli-soldiers-jailed-desecration-virgin-mary-statue-lebanon",
+          "title": "Florida police sue Ben Affleck and Matt Damon, claiming film details are too real",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353198/florida-police-sue-ben-affleck-and-matt-damon-claiming-film-details-are-too-real",
           "source": "News - South China Morning Post",
-          "published_at": "2026-05-11T18:50:29.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/12/09232cb2-02df-4bc0-adef-d3dd17184ea2_12d7d93d.jpg?itok=u4NUQzju&v=1778525343"
-        }
-      ]
-    },
-    {
-      "id": "topic_f22200e79a03b02",
-      "label": [
-        "arcadia",
-        "arcadia mayor",
-        "mayor",
-        "foreign agent",
-        "deal",
-        "foreign"
-      ],
-      "category": "new",
-      "theme": "theme_c349e2f54b5a54ca",
-      "entities": [
-        "Arcadia",
-        "Eileen Wang",
-        "Chinese",
-        "New York Post",
-        "China"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Arcadia mayor Eileen Wang admits acting as Chinese spy, running fake news website with ex-lover in shocking plea deal (New York Post)",
-          "url": "https://www.memeorandum.com/260511/p112",
-          "source": "memeorandum",
-          "published_at": "2026-05-11T22:15:00.000Z",
-          "image": "http://www.memeorandum.com/260511/i112.jpg"
+          "published_at": "2026-05-11T21:39:23.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/12/ec0e8a69-c0fd-481d-ab2f-a5d5350c71c9_2d68f62e.jpg?itok=6GzCGWCo&v=1778535437",
+          "description": "Two South Florida police officers claim Ben Affleck and Matt Damon’s recent action thriller The Rip used too many real-life details in its fictionalised narrative, causing harm to the officers’ personal and professional reputations, according to a defamation lawsuit. Jason Smith and Jonathan Santan…"
         },
         {
-          "title": "Arcadia mayor Eileen Wang admits acting as foreign agent for China in plea deal",
-          "url": "https://nypost.com/2026/05/11/us-news/eileen-wang-mayor-of-arcadia-accused-of-acting-as-chinese-agent",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-11T20:30:20.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Farcadia-ca-mayor-eileen-wang-127501035.jpg"
-        },
-        {
-          "title": "Arcadia mayor, accused of being Chinese foreign agent, strikes deal with feds and resigns",
-          "url": "https://www.latimes.com/california/story/2026-05-11/arcadia-mayor-plea-agreement-foreign-agent-china-charges",
-          "source": "World & Nation",
-          "published_at": "2026-05-11T19:54:40.000Z",
-          "image": "https://ca-times.brightspotcdn.com/dims4/default/c66163a/2147483647/strip/false/crop/4000x3212+0+0/resize/1500x1205!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F51%2Fa6%2Fd185943249bba456641e09768b4e%2F1484176-me-1120-wang-rcg-089a.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7f6c790d6a7e69b7",
-      "label": [
-        "espa",
-        "positivo",
-        "espa ol",
-        "da positivo",
-        "ol",
-        "da"
-      ],
-      "category": "new",
-      "theme": "theme_fca3eebf2cba0456",
-      "entities": [
-        "Uno",
-        "Ulla",
-        "PCR",
-        "Un"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Uno de los españoles aislados en el Gómez Ulla da un positivo provisional en su primera PCR por hantavirus",
-          "url": "https://elpais.com/sociedad/2026-05-11/uno-de-los-espanoles-aislados-en-el-gomez-ulla-da-un-positivo-provisional-en-su-primera-pcr-para-hantavirus.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-05-11T19:53:55.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/GGGGVMGEIVBNXETFEWNQYSFAKQ.JPG?auth=fa06af54a588ee9c0d522b06c1ebe3a8f00d551b61457b861d4f893c9e4d58cc"
-        },
-        {
-          "title": "Un español aislado en el Gómez Ulla da positivo provisional por hantavirus",
-          "url": "https://www.expansion.com/sociedad/2026/05/11/6a022f44468aeb95138b45a9.html",
-          "source": "Portada // expansion",
-          "published_at": "2026-05-11T19:38:50.000Z",
-          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/11/17785281183774.jpg"
-        },
-        {
-          "title": "Un pasajero español da positivo en hantavirus",
-          "url": "https://www.eldiario.es/sociedad/pasajero-espanol-da-positivo-hantavirus_1_13212157.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-05-11T19:12:06.000Z",
-          "image": "https://static.eldiario.es/clip/3c2309f5-2c10-4bb8-b31f-8eb8972f169c_16-9-discover-aspect-ratio_default_0.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_90a44adf08cfbe63",
-      "label": [
-        "found dead",
-        "dead",
-        "found",
-        "texa",
-        "six people",
-        "people found"
-      ],
-      "category": "new",
-      "theme": "theme_696cccaebb14e0d",
-      "entities": [
-        "Heat",
-        "Texas",
-        "Heatstroke",
-        "Six"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Heat stroke is suspected among 6 found dead in a shipping container at a rail yard near Texas border",
-          "url": "https://www.manilatimes.net/2026/05/12/news/world/heat-stroke-is-suspected-among-6-found-dead-in-a-shipping-container-at-a-rail-yard-near-texas-border/2341084",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-05-11T20:11:54.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/12/1052214.jpg"
-        },
-        {
-          "title": "Heatstroke suspected after six people found dead in shipping container in Texas rail yard",
-          "url": "https://www.independent.co.uk/news/world/americas/box-car-death-texas-heatstroke-b2974552.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-11T19:22:39.000Z",
-          "image": "https://static.independent.co.uk/2026/05/11/20/download-2.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Six people found dead in cargo train boxcar in southern Texas",
-          "url": "https://www.yahoo.com/news/videos/six-people-found-dead-cargo-185210030.html",
+          "title": "South Florida officers sue Ben Affleck and Matt Damon, claiming details in 'The Rip' are too real",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/south-florida-officers-sue-ben-211206336.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-11T18:52:10.000Z",
-          "image": "https://media.zenfs.com/en/nbcu_713/70e78e66434c0678a5978428522413ca"
+          "published_at": "2026-05-11T21:12:06.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/58a30d3a43ed2115a63f6db7bcf8f38d"
         }
-      ]
+      ],
+      "summary": "Two South Florida police officers are suing over the Netflix film “The Rip,” claiming its portrayal used real-life details that harmed their reputations. Reports say the suit names Matt Damon and Ben Affleck or their production company."
+    },
+    {
+      "id": "topic_ee3f9f1673fd23c7",
+      "title": "Former Thai Prime Minister Thaksin Shinawatra Released From Prison",
+      "headline": "Thailand's former PM Thaksin Shinawatra released from prison",
+      "label": [
+        "thaksin",
+        "thailand",
+        "prison",
+        "released",
+        "shinawatra",
+        "former"
+      ],
+      "category": "new",
+      "theme": "theme_b42c04b517143c4a",
+      "entities": [
+        "Thailand",
+        "PM Thaksin Shinawatra",
+        "PM Thaksin",
+        "Thaksin Shinawatra",
+        "Thaksin Shinawatra Is Out"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Thailand's former PM Thaksin Shinawatra released from prison",
+          "url": "https://www.dailymaverick.co.za/article/2026-05-11-thailands-former-pm-thaksin-shinawatra-released-from-prison",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-05-11T04:39:08.000Z",
+          "image": "https://cdn.dailymaverick.co.za/dailymaverick/wp-content/uploads/2025/09/13278845.jpg",
+          "description": "BANGKOK, May 11 (Reuters) - Thailand's influential former Prime Minister Thaksin Shinawatra was released from prison on Monday, after about eight months behind bars following a court ruling that deemed he had wrongfully stayed in hospital to avoid jail time."
+        },
+        {
+          "title": "Thailand's former PM Thaksin released from prison",
+          "url": "https://www.thehindu.com/news/international/thailands-former-pm-thaksin-released-from-prison/article70964407.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-11T05:02:28.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/2k6shd/article70964429.ece/alternates/LANDSCAPE_1200/Thailand_Thaksin_76445.jpg",
+          "description": "The 76-year-old telecoms billionaire served eight months of a one-year prison sentence for corruption and will be required to wear an electronic monitor during his four-month probation period"
+        },
+        {
+          "title": "Thailand’s former PM Thaksin Shinawatra released from jail",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/thailands-former-pm-thaksin-shinawatra-released-from-jail",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-11T09:18:26.000Z",
+          "description": "Supporters of Thailand’s former prime minister Thaksin Shinawatra greeted him as he was released early from prison."
+        },
+        {
+          "title": "Thailand's former PM Thaksin released from jail",
+          "url": "https://www.perthnow.com.au/news/crime/thailands-former-pm-thaksin-released-from-jail-c-22264599",
+          "source": "PerthNow",
+          "published_at": "2026-05-11T01:20:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22264599/bbd7dce6c41d4e356d9562ace9762bc91cbc473a-16x9-x0y0w1280h720.jpg",
+          "description": "Thailand's influential former prime minister Thaksin Shinawatra has been released from prison after spending eight months behind bars for corruption."
+        },
+        {
+          "title": "Thailand's former PM Thaksin freed from prison",
+          "url": "https://tribune.com.pk/story/2607470/thailands-former-pm-thaksin-freed-from-prison",
+          "source": "express tribune",
+          "published_at": "2026-05-11T01:46:54.000Z",
+          "description": "After 15 years in exile, Thaksin returned to Thailand in 2023 to serve an eight-year sentence"
+        }
+      ],
+      "summary": "Thaksin Shinawatra was released after serving about eight months of a one-year sentence for corruption. He will wear an electronic monitor during a four-month probation period."
+    },
+    {
+      "id": "topic_7b759e893a87cdef",
+      "title": "Trump Heads to China for Summit With Xi Jinping",
+      "headline": "AI on the agenda as Trump heads to China",
+      "label": [
+        "heads",
+        "china",
+        "trump",
+        "ceos",
+        "embarrassed",
+        "war"
+      ],
+      "category": "new",
+      "theme": "theme_bda4242656294ed7",
+      "entities": [
+        "AI",
+        "Trump",
+        "China",
+        "Iran",
+        "Stung"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "AI on the agenda as Trump heads to China",
+          "url": "https://www.npr.org/2026/05/11/nx-s1-5812681/ai-on-the-agenda-as-trump-heads-to-china",
+          "source": "NPR Topics: World",
+          "published_at": "2026-05-11T08:42:53.000Z",
+          "description": "Artificial intelligence on the agenda for President Trump's upcoming meeting with Chinese President Xi Jinping."
+        },
+        {
+          "title": "Trump heads to China weak and embarrassed",
+          "url": "https://www.smh.com.au/business/the-economy/trump-heads-to-china-weak-and-embarrassed-20260511-p5zvk9.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-11T01:59:54.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ec13d16f3dd63d4678be685c5bea160636486974",
+          "description": "Donald Trump isn’t holding a winning hand as he gets ready for his summit with Xi Jinping."
+        },
+        {
+          "title": "Stung by Iran war, Trump heads to China in need of wins",
+          "url": "https://tribune.com.pk/story/2607643/stung-by-iran-war-trump-heads-to-china-in-need-of-wins",
+          "source": "express tribune",
+          "published_at": "2026-05-11T23:53:52.000Z",
+          "description": "Remains unclear whether the leaders will agree to extend their trade truce"
+        },
+        {
+          "title": "Tech CEOs Head to China with Trump",
+          "url": "https://politicalwire.com/2026/05/11/tech-ceos-head-to-china-with-trump",
+          "source": "Political Wire",
+          "published_at": "2026-05-11T18:30:26.000Z",
+          "description": "Elon Musk, Tim Cook, and more than a dozen other top CEOs will travel to China with President Trump later this week for a much-anticipated summit with Xi Jinping, the New York Post reports."
+        },
+        {
+          "title": "Trump Heads to China; Sean Duffy Under Fire for Reality Show",
+          "url": "https://www.yahoo.com/news/videos/trump-heads-china-sean-duffy-113217528.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-11T11:32:17.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/43699253614c1333eb6cd6905e155871"
+        }
+      ],
+      "summary": "Donald Trump is preparing to meet Chinese President Xi Jinping, with artificial intelligence among the issues on the agenda. Trade and possible business agreements are also in focus, and U.S. executives are expected to accompany Trump."
+    },
+    {
+      "id": "topic_f16e16707c8ac690",
+      "title": "“Forza Horizon 6” Leaks Online Ahead of Release",
+      "headline": "Forza Horizon 6 has been leaked and cracked a week before its release",
+      "label": [
+        "forza",
+        "horizon",
+        "leaked",
+        "week",
+        "release",
+        "pirates"
+      ],
+      "category": "new",
+      "theme": "theme_2739b0d8d14c1f55",
+      "entities": [
+        "Forza Horizon",
+        "The Verge",
+        "Everything To Know",
+        "Pirates",
+        "Steam"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
+          "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
+          "source": "The Verge",
+          "published_at": "2026-05-11T10:21:17.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after some Steam users were allegedly able to obtain access to an unencrypted preload version of the game. Forz…"
+        },
+        {
+          "title": "Forza Horizon 6 has leaked a week ahead of launch",
+          "url": "https://www.engadget.com/2169491/forza-horizon-6-has-leaked-a-week-ahead-of-launch",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-11T12:40:11.000Z",
+          "image": "https://www.engadget.com/img/gallery/forza-horizon-6-has-leaked-a-week-ahead-of-launch/l-intro-1778503138.jpg",
+          "description": "Unencrypted files were downloaded from Steam and shared by pirates."
+        },
+        {
+          "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
+          "url": "https://news.google.com/rss/articles/cbmic0fvx3lxte55rvv5cmi1z3fnetdicw9vyuddmgf0z2jyzgntttdrvlljykrwylnzz1b6b2pvmw5evjcxd3azmzjwbdvjzjm5ndvwa1jdrklfyum2efdhwuhinlo3r2p3edfubzdybldxuzdqcfnnmlzflwm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-11T10:21:17.000Z",
+          "description": "Forza Horizon 6 has been leaked and cracked a week before its release The Verge Forza Horizon 6 Suffers Disastrous Leak as Steam Preload Files Are Made Available Without Encryption IGN Six Cars Are Being Given Away As Loyalty Rewards In Forza Horizon 6 Pure Xbox Forza Horizon 6 PS5 Release Date: He…"
+        },
+        {
+          "title": "Forza Horizon 6 - Everything To Know",
+          "url": "https://www.gamespot.com/videos/forza-horizon-6-everything-to-know/2300-6466866",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-05-11T22:24:00.000Z",
+          "image": "https://www.gamespot.com/a/uploads/screen_medium/1352/13527689/4693073-forza_etk_site.jpg",
+          "description": "Here's what you should know about Forza Horizon 6 before stepping on the gas. Presented by Verizon."
+        },
+        {
+          "title": "Pirates are already playing Forza Horizon 6 days before its launch",
+          "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-05-11T15:29:16.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/forza2.jpg",
+          "description": "Crackers take advantage of unencrypted files that briefly appeared on Steam."
+        }
+      ],
+      "summary": "Unencrypted files for the upcoming “Forza Horizon 6” appeared online after being downloaded from Steam, and pirates cracked the game ahead of its release."
+    },
+    {
+      "id": "topic_bec9be4dadf4d131",
+      "title": "Beatles’ Savile Row Rooftop Performance Site to Become Museum",
+      "headline": "London Rooftop Where Beatles Played Last Gig to Become Museum",
+      "label": [
+        "museum",
+        "beatles",
+        "gig",
+        "london",
+        "site",
+        "open"
+      ],
+      "category": "new",
+      "theme": "theme_e07448ba3248c851",
+      "entities": [
+        "London Rooftop Where Beatles",
+        "Played Last Gig",
+        "Become Museum",
+        "The New York Times",
+        "The Beatles"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "London Rooftop Where Beatles Played Last Gig to Become Museum",
+          "url": "https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-11T09:00:23.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/11/world/CUL-BEATLES-MUSEUM/CUL-BEATLES-MUSEUM-mediumSquareAt3X.jpg",
+          "description": "The townhouse at 3 Savile Row, where the band also recorded “Let It Be,” will open to the public next year, the group’s record label said."
+        },
+        {
+          "title": "London Rooftop Where Beatles Played Last Gig to Become Museum",
+          "url": "https://news.google.com/rss/articles/cbmifefvx3lxtfbed0xnsmp1t0q4ttvnskhsrzgztgm5ajz2stjyuxroq1pyev9tnezsrhvsse91si1ic05ln19smfjfbunmyk54u251shk1b3fydfdfejezthlyvfbwsjv0mwpkb0dmc1fkyzgwn0zsynhpsm5zrzcywv9ib3q",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-11T08:57:17.000Z",
+          "description": "London Rooftop Where Beatles Played Last Gig to Become Museum The New York Times The Beatles Get Back to Savile Row! thebeatles.com The Beatles fan experience to open in London Yahoo New Beatles fan experience set to open in London in 2027 AP News The Beatles will open a museum on the site of their…"
+        },
+        {
+          "title": "The Beatles will open a museum on the site of their last gig",
+          "url": "https://www.bbc.com/news/articles/c86dp2w0zygo",
+          "source": "BBC News",
+          "published_at": "2026-05-11T07:04:03.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdc/live/66ed2b40-4af8-11f1-9c75-d37955007435.jpg",
+          "description": "The band will recreate their recording studio and share unseen memorabilia in London's Savile Row."
+        },
+        {
+          "title": "The site of Beatles’ final performance to become a museum in 2027",
+          "url": "https://www.avclub.com/the-site-of-beatles-final-performance-to-become-a-museum-in-2027",
+          "source": "AV Club",
+          "published_at": "2026-05-11T12:50:43.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/uploads/2026/05/11124844/D0D0EBBE-EC07-42BC-9963-8424F380F748-scaled.jpeg",
+          "description": "A new “fan experience” is opening up at 3 Savile Row in London, where the band held their iconic final rooftop concert."
+        },
+        {
+          "title": "Museum to Open at Site of The Beatles’ Final Public Performance",
+          "url": "https://consequence.net/2026/05/beatles-3-savile-row-museum-opening-2027",
+          "source": "Consequence",
+          "published_at": "2026-05-11T14:31:38.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/beatles-3-Savile-Row-museum-rooftop.jpg?quality=80",
+          "description": "The Beatles at 3 Savile Row will house never-before-seen material from the band's Apple Corps Ltd archives. Museum to Open at Site of The Beatles’ Final Public Performance Eddie Fu"
+        }
+      ],
+      "summary": "A Beatles fan experience is planned for 3 Savile Row in London, where the band recorded “Let It Be” and performed its final public concert. It is expected to open in 2027 and include archive material and a recreation of the recording studio."
+    },
+    {
+      "id": "topic_dac44ad3541ce0ca",
+      "title": "“Fast & Furious” TV Shows in Development at Peacock",
+      "headline": "‘Fast & Furious’ TV Series In Works At Peacock With Vin Diesel Executive Producing",
+      "label": [
+        "furious",
+        "fast",
+        "peacock",
+        "vin",
+        "tv",
+        "diesel"
+      ],
+      "category": "new",
+      "theme": "theme_125da257c5446734",
+      "entities": [
+        "Fast",
+        "Furious",
+        "TV Series In Works",
+        "At Peacock With Vin",
+        "Diesel Executive Producing"
+      ],
+      "article_count": 15,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "‘Fast & Furious’ TV Series In Works At Peacock With Vin Diesel Executive Producing",
+          "url": "https://deadline.com/2026/05/fast-amp-furious-tv-series-peacock-vin-diesel-1236894989",
+          "source": "Deadline",
+          "published_at": "2026-05-11T15:45:30.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/MSDFAAN_EC058.jpg",
+          "description": "After months of speculation, NBCUniversal has confirmed that a live-action series based on Universal’s Fast & Furious action movie franchise is in development. And not just one but FOUR series, according to franchise star and producer Vin Diesel. He made the announcement on stage at the NBCUniversa…"
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series in Development at Peacock",
+          "url": "https://variety.com/2026/tv/news/fast-amp-furious-tv-series-peacock-vin-diesel-1236744784",
+          "source": "Variety",
+          "published_at": "2026-05-11T15:48:20.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/06/MCDFAAN_UV054.jpg",
+          "description": "UPDATED: A “Fast & Furious” TV series is officially in the works at Peacock. The announcement was made onstage by franchise star Vin Diesel at the NBCUniversal upfront presentation in New York on Monday alongside “Tonight Show” host Jimmy Fallon. “For the last decade, we have realized that the fans…"
+        },
+        {
+          "title": "Peacock and Vin Diesel Revving Up a Fast and Furious TV Show",
+          "url": "https://consequence.net/2026/05/fast-and-the-furious-tv-show-peacock",
+          "source": "Consequence",
+          "published_at": "2026-05-11T16:47:36.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/fast-x-vin-diesel.jpg?quality=80",
+          "description": "According to Vin Diesel, the franchise expansion had to wait until the time was right. Peacock and Vin Diesel Revving Up a Fast and Furious TV Show Liz Shannon Miller"
+        },
+        {
+          "title": "Fast & Furious Has 4 TV Shows Coming to Peacock, According to Vin Diesel",
+          "url": "https://www.ign.com/articles/fast-furious-has-4-tv-shows-coming-to-peacock-according-to-vin-diesel",
+          "source": "IGN Articles",
+          "published_at": "2026-05-11T20:31:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2023/05/22/fastxmoments-thumb-1684105887529-1684727826983.jpg",
+          "description": "The Fast & Furious universe is getting not one, but a whopping *four* shows at Peacock."
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series In Works At Peacock With Vin Diesel Executive Producing",
+          "url": "https://news.google.com/rss/articles/cbmijwfbvv95cuxqvjjccvlvcensynr3tenvyugwr044v1jeqnvqovlez2nar1pyrnzocxlfbthyzjv5ywruze84b0tsmgtnev9qsxluvuticzrelxbwsmq1sdmym0nvngztwurybth4tzrjzlfmvelxtwtpdhmwatviqup5qunumwdfynfzn2ixm2z3rklqouyxzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-11T15:45:00.000Z",
+          "description": "‘Fast & Furious’ TV Series In Works At Peacock With Vin Diesel Executive Producing Deadline 'Fast and Furious' TV shows are coming to Peacock (four of them!) USA Today Vin Diesel unveils plans for Fast & Furious to be the next Yellowstone Polygon.com ‘Fast & Furious’ TV Series in Development at Pea…"
+        }
+      ],
+      "summary": "Peacock is developing television series based on the “Fast & Furious” franchise, with Vin Diesel executive producing. Diesel said four shows are planned."
     }
   ]
 }

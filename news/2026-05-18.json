@@ -1,121 +1,668 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-19T00:15:19.728Z",
+  "generated_at": "2026-09-27T13:55:22.599Z",
   "topics": [
     {
-      "id": "topic_eb29b399ccc985a5",
+      "id": "topic_df93fd31b97003f5",
+      "title": "Police Respond to Active Shooter at San Diego Islamic Center",
+      "headline": "Police respond to active shooter at San Diego Islamic center",
       "label": [
-        "fire",
-        "simi",
-        "valley",
-        "simi valley",
-        "evacuation",
-        "brush fire"
+        "diego",
+        "san",
+        "islamic",
+        "mosque",
+        "center",
+        "shooting"
       ],
       "category": "new",
-      "theme": "theme_6a99546f3bfdba4d",
+      "theme": "theme_ef597367d39fa032",
       "entities": [
-        "Thousands",
-        "California",
-        "Fast",
-        "Ronald Reagan Presidential Library",
-        "Evacuated As Brush Fire"
+        "Police",
+        "San Diego Islamic",
+        "Know About San Diego",
+        "Islamic Center",
+        "Active"
       ],
-      "article_count": 12,
+      "article_count": 46,
+      "source_count": 35,
+      "articles": [
+        {
+          "title": "Police respond to active shooter at San Diego Islamic center",
+          "url": "https://www.washingtonexaminer.com/news/crime/4573227/san-diego-islamic-center-shooting",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-18T19:34:44.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/03/iStock-police-car-e1779133130477.webp?w=696",
+          "description": "Police responded to an active shooter at the Islamic Center of San Diego on Monday afternoon, according to the city’s police department. “I am aware of the active shooter situation at the Islamic Center of San Diego in Clairemont and am continuing to receive updates from law enforcement,” San Diego…"
+        },
+        {
+          "title": "What to Know About San Diego’s Islamic Center",
+          "url": "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-05-18T23:18:57.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/18/multimedia/18mosque-shooting-islamic-center-mcpf/18mosque-shooting-islamic-center-mcpf-mediumSquareAt3X.jpg",
+          "description": "A visitor said that the mosque is highly diverse. Its services are in English, because attendees come from all over the world."
+        },
+        {
+          "title": "Active shooter reported at San Diego mosque",
+          "url": "https://www.dw.com/en/active-shooter-reported-at-san-diego-mosque/a-77205174",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-18T20:10:00.000Z",
+          "description": "The Islamic Center is the largest mosque in San Diego County and includes a school offering Arabic and Islamic studies."
+        },
+        {
+          "title": "Police say they are responding to ‘active shooter’ at San Diego mosque",
+          "url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-18T19:42:17.000Z",
+          "description": "Authorities say they are deploying 'significant resources' to the scene of the incident at Islamic Center of San Diego."
+        },
+        {
+          "title": "Police responding to shooting at Islamic Center of San Diego",
+          "url": "https://www.theguardian.com/us-news/2026/may/18/active-shooter-report-san-diego-islamic-center",
+          "source": "The Guardian",
+          "published_at": "2026-05-18T19:52:45.000Z",
+          "image": "https://i.guim.co.uk/img/media/2b4ae1b7bf166c10a08a99bf82e03d6e81dda0ed/70_0_1569_1256/master/1569.jpg?width=140&quality=85&auto=format&fit=max&s=6db9d857802f706b33c85aefc8bb169e",
+          "description": "People are believed to have been shot, said an officer, and Todd Gloria, the mayor, urged people to avoid the area San Diego police are responding to a shooting at the Islamic Center of San Diego, authorities said. Anthony Carrasco, an officer, said they believe people have been shot. Aerial televi…"
+        }
+      ],
+      "summary": "San Diego police responded to an active-shooter report at the Islamic Center of San Diego and urged people to avoid the area. An officer said people were believed to have been shot."
+    },
+    {
+      "id": "topic_8f0661eda38b45d4",
+      "title": "Jury Rejects Elon Musk’s Lawsuit Against OpenAI and Sam Altman",
+      "headline": "Elon Musk loses lawsuit against OpenAI, Sam Altman",
+      "label": [
+        "musk",
+        "openai",
+        "elon",
+        "altman",
+        "sam",
+        "lawsuit"
+      ],
+      "category": "trending",
+      "theme": "theme_3f38daaacac8eba5",
+      "entities": [
+        "Elon Musk",
+        "OpenAI",
+        "Sam Altman",
+        "Jury",
+        "Jury Tosses Elon Musk"
+      ],
+      "article_count": 74,
+      "source_count": 62,
+      "articles": [
+        {
+          "title": "Elon Musk loses lawsuit against OpenAI, Sam Altman",
+          "url": "https://dailypost.ng/2026/05/18/elon-musk-loses-lawsuit-against-openai-sam-altman",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-18T21:10:32.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/05/Musk-Sam.jpg",
+          "description": "Elon Musk​’s lawsuit against ​OpenAI​ has been decided in favour of the ​latter ​after the world’s richest person ​accused the artificial intelligence company of abandoning its original mission to benefit humanity. ​A federal jury in Oakland, California, found OpenAI, CEO Sam Altman, and president…"
+        },
+        {
+          "title": "Elon Musk loses lawsuit against OpenAI",
+          "url": "https://tribune.com.pk/story/2608916/elon-musk-loses-lawsuit-against-openai-1",
+          "source": "express tribune",
+          "published_at": "2026-05-18T20:07:38.000Z",
+          "description": "."
+        },
+        {
+          "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+          "url": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+          "source": "BBC News",
+          "published_at": "2026-05-18T18:12:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/f8761210-52e2-11f1-b682-cf91850925ea.jpg",
+          "description": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\"."
+        },
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-05-18T17:38:22.000Z",
+          "description": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/ Comments URL: https://news.ycombinator.com/item?id=48182754 Points: 88 # Comments: 21"
+        },
+        {
+          "title": "Elon Musk loses case against Sam Altman over OpenAI’s future",
+          "url": "https://nationalpost.com/news/world/elon-musk-loses-case-against-sam-altman-over-openais-future",
+          "source": "National Post",
+          "published_at": "2026-05-18T20:17:28.000Z",
+          "description": "The verdict reached Monday follows a trial over the bitter feud between the entrepreneurs who worked together to launch the startup in 2015"
+        }
+      ],
+      "summary": "A jury ruled against Elon Musk in his lawsuit accusing OpenAI and Sam Altman of abandoning the company’s original nonprofit mission. The verdict followed a trial lasting nearly a month."
+    },
+    {
+      "id": "topic_cc3535db9eff74f6",
+      "title": "Shakira Acquitted in Spanish Tax Fraud Case",
+      "headline": "Shakira acquitted of tax fraud",
+      "label": [
+        "fraud",
+        "shakira",
+        "tax",
+        "acquitted",
+        "spain",
+        "spanish"
+      ],
+      "category": "new",
+      "theme": "theme_84cda9bc03059307",
+      "entities": [
+        "Shakira",
+        "Pop",
+        "Spanish",
+        "Shakira Acquitted",
+        "Spanish Tax Fraud Case"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Shakira acquitted of tax fraud",
+          "url": "https://news.sky.com/story/shakira-acquitted-of-tax-fraud-in-spain-13545440",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-18T08:57:00.000Z",
+          "image": "https://e3.365dm.com/26/05/1920x1080/skynews-shakira-singer_7252078.jpg?20260518093238",
+          "description": "Singer Shakira has been acquitted of tax fraud and should be reimbursed more than 55m euros (£48m), Spain's High Court has ruled, following years of financial legal battles."
+        },
+        {
+          "title": "Pop star Shakira is acquitted in a Spanish tax fraud case",
+          "url": "https://www.manilatimes.net/2026/05/19/news/world/pop-star-shakira-is-acquitted-in-a-spanish-tax-fraud-case/2346510",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-18T16:05:54.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/19/1061959.jpg",
+          "description": "MADRID — A Spanish court acquitted Shakira in a tax fraud case, ordering the government to return more than 55 million euros ($64 million) in wrongly imposed fines, a court document seen Monday by The Associated Press said. The decision follows years of tax troubles in Spain for the Colombian super…"
+        },
+        {
+          "title": "Shakira Acquitted in 2011 Spanish Tax Fraud Case, Awarded $70 Million",
+          "url": "https://consequence.net/2026/05/shakira-acquitted-tax-fraud-spain",
+          "source": "Consequence",
+          "published_at": "2026-05-18T15:51:46.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/shakira-acquitted-tax-fraud-spain.jpg?quality=80",
+          "description": "In a statement, Shakira described the case as part of \"orchestrated campaigns\" to destroy her reputation. Shakira Acquitted in 2011 Spanish Tax Fraud Case, Awarded $70 Million Eddie Fu"
+        },
+        {
+          "title": "Pop star Shakira is acquitted in a Spanish tax fraud case - ABC News",
+          "url": "https://news.google.com/rss/articles/cbmipgfbvv95cuxqb3psyxhhenbwoexxr3rgaldnqlj4u0t6zhzqvlz3yum1efnbzwdwzwktae5vd2k3cmh5vfnzve0texgzbfr5nujoum9hdhlys09em0xmtuhwbmz1svpodm5lexh6rmlxnwrvtjrzm3jpqnhyuunusfzwcdvtdhdrsxpgeep6bvewv3dkredzmzjhwhb1yzvxsuiyudzaqxjrtff4azdr0ggraufvx3lxtfbzywhyoufkmg9xmunxdtvkvgf5rxvtvhrwmdbvbeyxzzdyb0fneuriyjk2bk5za3btvze2bmpvyxjjs1bxahbzdgrkd2lkyuxzwmg2lujhzkc2mhdjsfg4cwxbvxzrbjuyrhfrquplelf0r0dmehcwtdn4vmzqcfpuugkyrvb2wgroutfwawrpm19prezhavrdaxvbbhpgc19xugrlwmftegt6zw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-18T10:57:03.000Z",
+          "description": "Pop star Shakira is acquitted in a Spanish tax fraud case ABC News - Breaking News, Latest News and Videos Shakira hits out after winning £50m Spanish tax refund BBC Shakira acquitted of tax fraud, court orders Spain to hand back $70 million Reuters Shakira will get a $64 million refund from the Sp…"
+        },
+        {
+          "title": "Colombian singer Shakira acquitted of tax fraud in Spain",
+          "url": "https://www.breakingnews.ie/world/colombian-singer-shakira-acquitted-of-tax-fraud-in-spain-1901308.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTgxMDAwNDlcXFwvR2V0dHlJbWFnZXMtMjI3NDIzNDc0OS1lMTc3OTA5NDg2NjUxMC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNDE0MTZhNTQxZTEwNTBjOWY2OGExNWRlM2NlZjM3YmFjZGIyMWNhIn0=/gettyimages-2274234749-e1779094866510.jpg",
+          "description": "The judge ruled that authorities had failed to prove that Shakira spent more than 183 days in Spain in 2011, as required by Spanish law to be considered a tax resident in the country."
+        }
+      ],
+      "summary": "A Spanish court acquitted Shakira of tax fraud, ruling that authorities had not proved she met the country’s tax-residency threshold in 2011. The court ordered more than 55 million euros returned to her."
+    },
+    {
+      "id": "topic_a2c2b55de60e17b1",
+      "title": "Trump Drops IRS Lawsuit in Settlement Over Leaked Tax Records",
+      "headline": "Trump drops $10 billion lawsuit against IRS",
+      "label": [
+        "irs",
+        "lawsuit",
+        "billion",
+        "drops",
+        "trump",
+        "fund"
+      ],
+      "category": "new",
+      "theme": "theme_37c562987320905e",
+      "entities": [
+        "Trump",
+        "IRS",
+        "CNBC",
+        "Trump Drops",
+        "Billion Lawsuit Against IRS"
+      ],
+      "article_count": 18,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Trump drops $10 billion lawsuit against IRS",
+          "url": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-05-18T13:55:39.000Z",
+          "description": "Trump sued the IRS in late January over the leak of his tax information by an IRS employee Charles \"Chaz\" Littlejohn in 2019 and 2020."
+        },
+        {
+          "title": "Trump drops $10 billion lawsuit against IRS",
+          "url": "https://news.google.com/rss/articles/cbmib0fvx3lxtfbzdlfmtddqbhrqdwlirllodks4ty1xemvdltfnwhotvjzvmuljsmd4rgnkvjruvejjwkxyytldymjqd19fchjzvudmr0xwlxfzrgfknhbietm1a203y0xxtwm4awhpyvpabnrlagg1bw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-18T13:13:13.000Z",
+          "description": "Trump drops $10 billion lawsuit against IRS CNBC Trump settles $10B lawsuit against IRS over leaked tax returns Politico President Trump Moves to Drop $10 Billion Lawsuit Against IRS Bloomberg.com Trump, in court filing, says he plans to drop his $10B lawsuit against IRS ABC News - Breaking News, L…"
+        },
+        {
+          "title": "Trump Drops $10 Billion Lawsuit Against IRS—But He Could Be Looking For Billion-Dollar Payday",
+          "url": "https://www.forbes.com/sites/alisondurkee/2026/05/18/trump-drops-10-billion-lawsuit-against-irs-but-he-could-be-looking-for-billion-dollar-payday",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-18T13:51:46.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b12d889e6f2bc0b969dc6/0x0.jpg?width=960&precrop=1652%2C929%2Cx493%2Cy23",
+          "description": "The notice Monday did not disclose any potential settlement terms."
+        },
+        {
+          "title": "Trump Settles $10 Billion Lawsuit Against the IRS",
+          "url": "https://politicalwire.com/2026/05/18/trump-settles-10-billion-lawsuit-against-the-irs",
+          "source": "Political Wire",
+          "published_at": "2026-05-18T15:10:35.000Z",
+          "description": "“President Trump and the Justice Department reached a settlement regarding the president’s $10 billion lawsuit against the Internal Revenue Service and Treasury Department, according to documents filed with the court Monday,” CBS News reports. “In a footnote at the bottom of Monday’s filing, Trump’…"
+        },
+        {
+          "title": "Trump drops $10 billion lawsuit against IRS (Andrew Pantazi/Axios)",
+          "url": "https://www.memeorandum.com/260518/p64",
+          "source": "memeorandum",
+          "published_at": "2026-05-18T16:10:00.000Z",
+          "image": "http://www.memeorandum.com/260518/i64.jpg",
+          "description": "Andrew Pantazi / Axios: Trump drops $10 billion lawsuit against IRS — President Trump settled his $10 billion lawsuit against the IRS on Monday in exchange for a $1.776 billion fund to compensate those who claim they were targets of government “weaponization.” … - Multiple news outlets had reported…"
+        }
+      ],
+      "summary": "Donald Trump settled his $10 billion lawsuit against the IRS over the leak of his tax information and moved to drop the case. Reports say the agreement includes a $1.776 billion fund to compensate people who say they were wronged by the government."
+    },
+    {
+      "id": "topic_9551ce840ca86783",
+      "title": "Pep Guardiola Reportedly Set to Leave Manchester City",
+      "headline": "Pep Guardiola to leave Man City at end of the season: reports",
+      "label": [
+        "guardiola",
+        "city",
+        "pep",
+        "leave",
+        "season",
+        "man"
+      ],
+      "category": "new",
+      "theme": "theme_c5ebcac5dffcfa",
+      "entities": [
+        "Pep Guardiola",
+        "Man City",
+        "Manchester City",
+        "Guardiola To Leave Manchester",
+        "City At End Of"
+      ],
+      "article_count": 16,
       "source_count": 12,
       "articles": [
         {
-          "title": "Thousands evacuated as California fire threatens homes",
-          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/thousands-evacuated-as-california-fire-threatens-homes-c-22303072",
-          "source": "PerthNow",
-          "published_at": "2026-05-18T22:14:32.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22303072/3ebb37c5d261032273397f69e9352d9f073e908b-16x9-x0y0w1280h720.jpg"
+          "title": "Pep Guardiola to leave Man City at end of the season: reports",
+          "url": "https://japantoday.com/category/sports/pep-guardiola-to-leave-man-city-at-end-of-the-season-reports",
+          "source": "Japan Today",
+          "published_at": "2026-05-18T23:35:49.000Z",
+          "description": "Pep Guardiola is set to bring his trophy-laden decade in charge of Manchester City to an end this weekend, according to multiple reports on Monday. Guardiola, 55, has…"
         },
         {
-          "title": "Fast-growing southern California brush fire prompts evacuation orders",
-          "url": "https://www.theguardian.com/us-news/2026/may/18/simi-valley-fire-california-evacuations",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-18T20:55:34.000Z"
+          "title": "Pep Guardiola expected to leave Manchester City at end of the season",
+          "url": "https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season",
+          "source": "The Guardian",
+          "published_at": "2026-05-18T21:28:19.000Z",
+          "image": "https://i.guim.co.uk/img/media/f661b090d70a93151558a0262d818e7435a4d34e/0_239_2921_2336/master/2921.jpg?width=140&quality=85&auto=format&fit=max&s=63355ecc1278aa02e6941d4805b3f015",
+          "description": "Guardiola has been manager of club for 10 years He is set to go with one year left on his contract Pep Guardiola is expected to leave Manchester City after 10 trophy-filled years as manager. The club did not confirm reports on Monday night that Guardiola’s last game as City manager will be at home…"
         },
         {
-          "title": "Ronald Reagan Presidential Library Evacuated As Brush Fire Threatens California",
-          "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/18/ronald-reagan-presidential-library-evacuated-as-brush-fire-threatens-california",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-18T20:42:17.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b793867169c73721c631a/0x0.jpg?width=960&precrop=1572%2C884%2Cx0%2Cy87"
+          "title": "Guardiola To Leave Manchester City At End Of Season",
+          "url": "https://www.informationng.com/2026/05/guardiola-to-leave-manchester-city-at-end-of-season.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-05-18T21:47:19.000Z",
+          "description": "Manchester City boss, Pep Guardiola, is expected to leave the club at the end of the current season, bringing an end to his 10-year stint at the Etihad Stadium. According to reports, Manchester City have started to inform sponsor partners that the departure of the 55-year-old, whose contract expire…"
         },
         {
-          "title": "Wind-driven fire triggers evacuations in Simi Valley; at least 1 home burned - Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/cbmid0fvx3lxte5ycxvyq09xoe5ib1zvtgzkandhbuv4ujbkstdpn0w3dhvfwtl3enbrmtbqwtfwzlvkr0fkz28wbtfbedh3ehlslu5omutcqkfpyvd4oxryewzdzvhxwtu3z1rknnjjam5swulcbhzzc2nontdozfzr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-18T20:33:00.000Z"
+          "title": "Guardiola to leave Man City this season",
+          "url": "https://www.nigerianeye.com/2026/05/guardiola-to-leave-man-city-this-season.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-18T21:01:04.496Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcZ-i9BvBv9Ixpjeq3RsUBx-CIMl2VkSd_jzpd8rmeedTgjyww31VV5snPUa-V5qAl7y7buFPzkP2_kMToUtCP7AZPkhCDHwQ3qLXM5AVZAbDDx_l2hdUA6kiW6X70lmHxLY59LsTq1ypoFJgb4Hu2sZLGGEERq_DCAndZtXSrh2THY_BBOJ2oal-X6-qm/s72-w400-h278-c/guardiola2.PNG",
+          "description": "Manchester City manager Pep Guardiola is set to leave the Premier League club at the end of this season, according to the Daily Mail. Guardiola will end his decade-long association with the Etihad side this weekend. This means his last game in charge will be on Sunday, when City host Aston Villa in…"
         },
         {
-          "title": "Fast-moving brushfire torches homes in Simi Valley",
-          "url": "https://www.youtube.com/shorts/mLvXRjk0aP0",
-          "source": "CNN",
-          "published_at": "2026-05-18T20:10:48.000Z",
-          "image": "https://i2.ytimg.com/vi/mLvXRjk0aP0/hqdefault.jpg"
+          "title": "Pep Guardiola to leave Manchester City at season's end; Enzo Maresca expected successor, per reports",
+          "url": "https://www.cbssports.com/soccer/news/pep-guardiola-to-leave-manchester-city-at-seasons-2026",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-18T20:41:41.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/18/84b95aa7-ce5f-46f0-914d-31dd6dd788f0/pep-guardiola.jpg",
+          "description": "Guardiola has won 16 major trophies with City in 10 seasons, the most recent of which came in Saturday's FA Cup final"
         }
-      ]
+      ],
+      "summary": "Pep Guardiola is expected to leave Manchester City at the end of the season, according to multiple reports. His departure would end a decade as manager, during which the club won 16 major trophies, reports said."
     },
     {
-      "id": "topic_ed55391ed3b56ac9",
+      "id": "topic_545fc893bbc2464c",
+      "title": "Russia and Belarus Begin Joint Nuclear Weapons Drills",
+      "headline": "Russia and Belarus Launch Joint Nuclear Drills",
       "label": [
-        "tim sues",
-        "sues pentagon",
-        "pentagon",
-        "sues",
-        "york tim",
-        "tim"
+        "belarus",
+        "drills",
+        "nuclear",
+        "russia",
+        "joint",
+        "launches"
       ],
       "category": "new",
-      "theme": "theme_9a9e7081412db8d4",
+      "theme": "theme_af0ffcf40f3a9fdc",
       "entities": [
-        "The New York Times",
-        "Pentagon",
-        "Hegseth",
-        "Jocelyn Noveck",
-        "Associated Press"
+        "Russia",
+        "Belarus Launch Joint Nuclear",
+        "Drills",
+        "The Moscow Times",
+        "Belarus"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 13,
+      "source_count": 12,
       "articles": [
         {
-          "title": "The New York Times sues the Pentagon a second time over Hegseth's media restrictions (Jocelyn Noveck/Associated Press)",
-          "url": "https://www.memeorandum.com/260518/p117",
+          "title": "Russia and Belarus Launch Joint Nuclear Drills",
+          "url": "https://www.themoscowtimes.com/2026/05/18/russia-and-belarus-launch-joint-nuclear-drills-a92776",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-05-18T11:00:52.000Z",
+          "description": "The Belarusian army said the exercises are “not directed against third countries and do not threaten regional security.”"
+        },
+        {
+          "title": "Russia and Belarus Launch Joint Nuclear Drills (The Moscow Times)",
+          "url": "https://www.memeorandum.com/260518/p31",
           "source": "memeorandum",
-          "published_at": "2026-05-18T23:05:00.000Z",
-          "image": "http://www.memeorandum.com/260518/i117.jpg"
+          "published_at": "2026-05-18T13:15:06.000Z",
+          "image": "http://www.memeorandum.com/260518/i31.jpg",
+          "description": "The Moscow Times: Russia and Belarus Launch Joint Nuclear Drills — Russia and Belarus launched joint military exercises on Monday to practice the combat deployment of tactical nuclear weapons, marking the first such drills since Moscow deployed its Oreshnik hypersonic ballistic missile system to Be…"
         },
         {
-          "title": "New York Times sues Pentagon again over ‘utterly unreasonable’ press restrictions",
-          "url": "https://www.theguardian.com/us-news/2026/may/18/new-york-times-pentagon-press-restrictions-lawsuit",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-18T20:22:52.000Z",
-          "image": "https://i.guim.co.uk/img/media/e836b3c9d9a0ed03c33364b86e05b0fe9c173305/342_0_3423_2739/master/3423.jpg?width=140&quality=85&auto=format&fit=max&s=6be314b20952b7ed960f520280ea9c88"
+          "title": "Belarus dismisses concerns as it launches joint nuclear drills with Russia",
+          "url": "https://www.aljazeera.com/news/2026/5/18/belarus-dismisses-concerns-as-it-launches-joint-nuclear-drills-with-russia",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-18T18:10:29.000Z",
+          "description": "Strong reactions from Ukraine and NATO allies as Belarusian and Russian forces train to use nuclear weapons."
         },
         {
-          "title": "New York Times Sues Pentagon for a Second Time",
-          "url": "https://www.nytimes.com/2026/05/18/business/media/new-york-times-pentagon-lawsuit.html",
-          "source": "NYT > Business",
-          "published_at": "2026-05-18T18:40:04.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/18/multimedia/18Biz-Times-Pentagon-vqct/18Biz-Times-Pentagon-vqct-mediumSquareAt3X.jpg"
+          "title": "Belarus says nuclear drills with Russia not directed against anyone",
+          "url": "https://www.yahoo.com/news/articles/belarus-says-nuclear-drills-russia-122352338.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-18T12:23:52.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/a1d39b273f97f7d4744057f2e47e5219"
+        },
+        {
+          "title": "Russia and Belarus stage joint nuclear weapons drills",
+          "url": "https://www.france24.com/en/europe/20260518-russia-and-belarus-stage-joint-nuclear-weapons-drills",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-18T16:18:53.000Z",
+          "image": "https://s.france24.com/media/display/53422284-52ce-11f1-a2bb-005056a97e36/w:1024/p:16x9/AP25364312748089.jpg",
+          "description": "Moscow and Minsk held joint military drills to practice using Russian nuclear weapons, the Belarus defence ministry said on Monday. Russia deployed nuclear-capable hypersonic missiles to its western neighbour last year, and in 2024 released revised doctrine placing Belarus under its nuclear umbrell…"
         }
-      ]
+      ],
+      "summary": "Russia and Belarus launched joint exercises to practice deploying tactical nuclear weapons. Belarus said the drills were not directed against other countries and did not threaten regional security."
     },
     {
-      "id": "topic_d4009c4d32b2ad9a",
+      "id": "topic_772c1c34940a9bfd",
+      "title": "Judge Rules on Evidence in Luigi Mangione Murder Trial",
+      "headline": "Judge allows key evidence in Luigi Mangione’s New York murder trial",
       "label": [
-        "wars",
-        "tom",
-        "kane",
-        "tom kane",
-        "voice",
-        "64"
+        "luigi",
+        "mangione",
+        "evidence",
+        "judge",
+        "trial",
+        "murder"
       ],
       "category": "new",
-      "theme": "theme_aacca4e567598b5d",
+      "theme": "theme_d600e1b32ce91d51",
+      "entities": [
+        "Judge",
+        "Luigi Mangione",
+        "New York",
+        "Key",
+        "Key Evidence Decision Looms"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Judge allows key evidence in Luigi Mangione’s New York murder trial",
+          "url": "https://www.ms.now/news/key-evidence-allowed-luigi-mangiones-new-york-murder-trial",
+          "source": "MS NOW",
+          "published_at": "2026-05-18T16:35:11.000Z",
+          "description": "Prosecutors will be allowed to use as evidence a weapon and notebook collected from the backpack of the man accused of killing a healthcare executive in Manhattan in 2024. The post Judge allows key evidence in Luigi Mangione’s New York murder trial appeared first on MS NOW."
+        },
+        {
+          "title": "Luigi Mangione murder trial",
+          "url": "https://www.smh.com.au/world/luigi-mangione-murder-trial-20260519-p5zyjd.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-18T20:00:26.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7a55ec69706eeae883ce33a723258786d817b54b",
+          "description": "A judge in the US has ruled on what evidence can be used in the trial of Luigi Mangione, accused of murdering a healthcare chief executive."
+        },
+        {
+          "title": "Judge allows key evidence in Luigi Mangione trial, including gun",
+          "url": "https://torontosun.com/news/world/judge-allows-key-evidence-luigi-mangione-trial-including-gun",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-18T17:18:43.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/Mangione.jpg?quality=100&strip=all",
+          "description": "Gun, manifesto among evidence to be presented in Luigi Mangione's murder trial"
+        },
+        {
+          "title": "Judge tosses key evidence in Luigi Mangione case",
+          "url": "https://www.yahoo.com/news/articles/judge-tosses-key-evidence-luigi-141228192.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-18T14:12:28.000Z",
+          "image": "https://media.zenfs.com/en/usa_today_news_641/97f6cbaaacfb4fe85a4da5d5efbae6fd"
+        },
+        {
+          "title": "Judge in Luigi Mangione case blocks some evidence from being shown at murder trial",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/luigi-mangione-trial-update-evidence-backpack-gun-b2978739.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-18T14:33:33.000Z",
+          "image": "https://static.independent.co.uk/2026/05/18/14/52/GettyImages-2251890707.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Police found the gun, notebook and other items in Mangione’s backpack after he was spotted eating breakfast at a McDonald’s"
+        }
+      ],
+      "summary": "A judge ruled that prosecutors may use some evidence collected from Luigi Mangione’s backpack, including a weapon and notebook, in his New York murder trial. The judge also blocked some evidence from being shown."
+    },
+    {
+      "id": "topic_6cb88aa7b8dd6c25",
+      "title": "Cuba Warns of ‘Bloodbath’ if the United States Attacks",
+      "headline": "Cuba warns US military action would cause 'bloodbath' after drone report",
+      "label": [
+        "bloodbath",
+        "cuba",
+        "warns",
+        "military",
+        "us",
+        "attacks"
+      ],
+      "category": "new",
+      "theme": "theme_354c4ebe8a5aa30f",
+      "entities": [
+        "Cuba",
+        "US",
+        "Cuba Warns Of",
+        "Bloodbath",
+        "If US Attacks"
+      ],
+      "article_count": 15,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Cuba warns US military action would cause 'bloodbath' after drone report",
+          "url": "https://www.yahoo.com/news/articles/cuba-warns-us-military-action-would-cause-39bloodbath39-after-drone-report-160253796.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-18T16:02:53.000Z",
+          "image": "https://media.zenfs.com/en/video.cbsmiami.com/2b95eb603e44ccdf7bef61a2450ae044"
+        },
+        {
+          "title": "Cuba Warns Of \"Bloodbath\" If US Attacks",
+          "url": "https://www.ndtv.com/world-news/cuba-warns-of-bloodbath-if-us-attacks-11514525",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-05-18T20:35:45.000Z",
+          "image": "https://c.ndtvimg.com/2026-05/lgkaolk8_cuba-president_625x300_19_May_26.jpeg",
+          "description": "Cuba's leader warned Monday of a \"bloodbath\" in the event of an American attack, while the US Treasury sanctioned Cuba's main intelligence agency and top leaders as tensions spiked between the arch-foes."
+        },
+        {
+          "title": "US military action against Cuba would cause bloodbath, says Cuban President",
+          "url": "https://www.indiatoday.in/world/story/cuba-us-tensions-diaz-canel-warns-us-action-would-trigger-bloodbath-2913611-2026-05-18",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-18T14:54:46.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/cuba-185356311-16x9_0.png?VersionId=CQN5UHDOPAIeCiOLfuPap4OKNeGvvoQQ",
+          "description": "US military action against Cuba would cause bloodbath says Cuban President"
+        },
+        {
+          "title": "Cuba warns of 'bloodbath' if US attacks; Washington adds sanctions",
+          "url": "https://www.france24.com/en/cuba-warns-of-bloodbath-if-us-attacks-washington-adds-sanctions",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-18T21:55:08.000Z",
+          "image": "https://s.france24.com/media/display/fbe06c46-5302-11f1-b621-005056bfb2b6/w:1024/p:16x9/EN-20260518-233546-234142-CS.jpg",
+          "description": "Cuba's leader warned Monday of a \"bloodbath\" in the event of an American attack, while the US Treasury sanctioned Cuba's main intelligence agency and top leaders as tensions spiked between the arch-foes. President Miguel Diaz-Canel stressed Cuba's right to defend itself a day after US news site Axi…"
+        },
+        {
+          "title": "US military attack on Cuba would trigger ‘bloodbath,’ warns Cuban president",
+          "url": "https://www.politico.com/news/2026/05/18/us-military-cuba-response-00925900",
+          "source": "POLITICO",
+          "published_at": "2026-05-18T14:58:35.000Z",
+          "description": "Cuban President Miguel Díaz-Canel Bermúdez said Cuba is aware of the threats of military aggression from the U.S."
+        }
+      ],
+      "summary": "Cuban President Miguel Díaz-Canel warned that U.S. military action against Cuba would cause a “bloodbath.” The warnings came as the U.S. Treasury imposed sanctions on Cuba’s main intelligence agency and senior officials."
+    },
+    {
+      "id": "topic_e58d482ddc01e001",
+      "title": "Two Americans Detained After Entering Japanese Zoo Enclosure",
+      "headline": "2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure",
+      "label": [
+        "enclosure",
+        "monkey",
+        "punch",
+        "zoo",
+        "americans",
+        "arrested"
+      ],
+      "category": "new",
+      "theme": "theme_701d9d0f2afa1c51",
+      "entities": [
+        "Americans Detained",
+        "Japan After Entering Punch",
+        "Monkey",
+        "Zoo Enclosure",
+        "The New York Times"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure",
+          "url": "https://www.nytimes.com/2026/05/18/world/asia/punch-monkey-japan-zoo-arrest.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-05-18T11:55:34.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/18/multimedia/18int-japan-monkey-arrests-kwgb/18int-japan-monkey-arrests-kwgb-mediumSquareAt3X.jpg",
+          "description": "The men were charged with obstructing operations at a zoo, apparently as a stunt connected to a cryptocurrency. They denied the charges."
+        },
+        {
+          "title": "2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure",
+          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxodhzkqlprtvljvwlztwdwz0hvohk0skjnqkrltnb5q1vitzfzn0rpb1rpyv93bvg5v2zwyjbrbs12wxfstwhyr0l1ytfzsupmdl9hzxrqm0flmut1azdlqku1qzbptml3oflorjvdwm9yv1vtejbuzgvlegxrohbxx1zynmdhzfk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-18T11:55:35.000Z",
+          "description": "2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure The New York Times 2 Americans arrested over stunt at viral baby monkey Punch's zoo in Japan Yahoo Japan arrests Americans over stunt at baby monkey Punch’s zoo The Japan Times Americans arrested after jumping into Punch…"
+        },
+        {
+          "title": "Americans arrested after man climbs into Punch the monkey’s enclosure at Japanese zoo",
+          "url": "https://www.independent.co.uk/asia/japan/punch-monkey-tokyo-ichikawa-zoo-intruders-b2978552.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-18T13:54:03.000Z",
+          "image": "https://static.independent.co.uk/2026/05/18/08/2266656868..?width=1200&auto=webp&crop=3%3A2",
+          "description": "The beloved baby macaque Punch went viral when he started clinging to plushie after being rejected by his mother. His popularity has led to a surge in visitors"
+        },
+        {
+          "title": "2 arrested after person breaks into Punch the monkey enclosure in Japan, zoo says",
+          "url": "https://www.nbcnews.com/world/japan/2-arrested-breaking-punch-monkey-enclosure-japan-zoo-says-rcna345685",
+          "source": "NBC News World News",
+          "published_at": "2026-05-18T15:25:55.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260219-monkey-japan-ch-1523-db5c50.jpg",
+          "description": "Two people were arrested in Japan after a person broke into the viral macaque Punch’s enclosure, according to the zoo"
+        },
+        {
+          "title": "Punch the Monkey’s Enclosure Allegedly Invaded as Memecoin-Pumping Stunt",
+          "url": "https://gizmodo.com/punch-the-monkeys-enclosure-allegedly-invaded-as-memecoin-pumping-stunt-2000760245",
+          "source": "Gizmodo",
+          "published_at": "2026-05-18T23:27:12.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/05/punch-the-monkey-1280x853.jpg",
+          "description": "Punch deserves so much better."
+        }
+      ],
+      "summary": "Two Americans were arrested in Japan after one person entered the enclosure of Punch, a viral baby macaque. They were charged with obstructing zoo operations and denied the charges, reports said."
+    },
+    {
+      "id": "topic_31627fbbce33d4fa",
+      "title": "José Mourinho Reportedly Agrees to Return to Real Madrid",
+      "headline": "José Mourinho agrees Real Madrid return after 13 years away – reports",
+      "label": [
+        "mourinho",
+        "madrid",
+        "real",
+        "jose",
+        "return",
+        "agrees"
+      ],
+      "category": "new",
+      "theme": "theme_2e74cf90c9222b26",
+      "entities": [
+        "Jos",
+        "Mourinho",
+        "Real Madrid",
+        "Verbal",
+        "Jose Mourinho"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "José Mourinho agrees Real Madrid return after 13 years away – reports",
+          "url": "https://www.the42.ie/jose-mourinho-real-madrid-return-7043623-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-18T14:31:47.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/featureimage-908ca79e-eed2-4031-99a6-e355cd8f3d4f-630x420.jpg",
+          "description": "Mourinho’s Benfica have gone unbeaten in the Primeira Liga all season."
+        },
+        {
+          "title": "Mourinho agrees Real Madrid return",
+          "url": "https://news.sky.com/story/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal-13544711",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-05-18T09:54:00.000Z",
+          "image": "https://e3.365dm.com/26/04/1920x1080/skysports-jose-mourinho-benfica_7233126.jpg?20260428130209",
+          "description": "Jose Mourinho has agreed to return to Real Madrid as head coach on a two-year deal."
+        },
+        {
+          "title": "Verbal agreement between Real Madrid and José Mourinho",
+          "url": "https://sports.yahoo.com/articles/verbal-agreement-between-real-madrid-085500155.html",
+          "published_at": "2026-05-18T08:55:00.000Z",
+          "description": "There is a verbal agreement between Real Madrid and José Mourinho over the Portuguese manager's return to the club according to reports.Mourinho joined Benfica earlier this season after his dismissal..."
+        },
+        {
+          "title": "Jose Mourinho agrees to return as Real Madrid boss after 13 years away – reports",
+          "url": "https://www.breakingnews.ie/sport/jose-mourinho-agrees-to-return-as-real-madrid-boss-after-13-years-away-reports-1901441.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTgxMzM1NDlcXFwvMi44MjA5NTM2OC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwNWNkMWYzM2ZkYzg4ODFkNzJjMGNlN2M2N2M0YjkzMDY2YTViNmE1In0=/2-82095368.jpg",
+          "description": "Mourinho’s Benfica have gone unbeaten in the Primeira Liga all season."
+        },
+        {
+          "title": "José Mourinho volvería al banquillo del Real Madrid después de 13 años",
+          "url": "https://vanguardia.com.mx/deportes/jose-mourinho-volveria-al-banquillo-del-real-madrid-despues-de-13-anos-bc20776171",
+          "source": "Vanguardia",
+          "published_at": "2026-05-18T20:54:45.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/ap26136519354244_1-15460387_20260518205918.jpg",
+          "description": "El regreso de José Mourinho al banquillo del Real Madrid comienza a tomar forma. De acuerdo con información publicada por ESPN Brasil, el entrenador portugués alcanzó un acuerdo verbal para dirigir nuevamente al club merengue con un contrato por dos temporadas, aunque todavía falta la firma oficial."
+        }
+      ],
+      "summary": "José Mourinho has reportedly reached a verbal agreement to return as Real Madrid manager on a two-year deal. The move would bring him back to the club after 13 years away, reports said."
+    },
+    {
+      "id": "topic_da2fa31b7297dd38",
+      "title": "Voice Actor Tom Kane Dies at 64",
+      "headline": "Tom Kane, ‘Star Wars’ And ‘Powerpuff Girls’ Voice Actor, Dies At 64",
+      "label": [
+        "wars",
+        "kane",
+        "tom",
+        "voice",
+        "actor",
+        "star"
+      ],
+      "category": "new",
+      "theme": "theme_9e9a421f889a84f3",
       "entities": [
         "Tom Kane",
         "Star Wars",
@@ -123,881 +670,244 @@
         "Voice Actor",
         "Dies At"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 11,
+      "source_count": 11,
       "articles": [
         {
           "title": "Tom Kane, ‘Star Wars’ And ‘Powerpuff Girls’ Voice Actor, Dies At 64",
           "url": "https://www.forbes.com/sites/timlammers/2026/05/18/tom-kane-star-wars-and-powerpuff-girls-voice-actor-dies-at-64",
           "source": "Forbes - Business",
           "published_at": "2026-05-18T21:27:14.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b8211b3b329c1355f4b0c/0x0.jpg?width=960&precrop=1885%2C1061%2Cx275%2Cy44"
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a0b8211b3b329c1355f4b0c/0x0.jpg?width=960&precrop=1885%2C1061%2Cx275%2Cy44",
+          "description": "Tom Kane, a prolific voice actor who voiced Yoda and other characters in several \"Star Wars\" animated projects and Professor Utonium in The Powerpuff Girls, has died."
+        },
+        {
+          "title": "R.I.P. Tom Kane, voice actor of Star Wars: The Clone Wars and Powerpuff Girls",
+          "url": "https://www.avclub.com/tom-kane-obituary-star-wars-clone-wars-powerpuff-girls",
+          "source": "AV Club",
+          "published_at": "2026-05-18T21:05:04.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/18210128/tom-kane-feature.jpg",
+          "description": "Tom Kane, whose voice-over work could be heard on Star Wars: The Clone Wars and The Powerpuff Girls, was 64."
+        },
+        {
+          "title": "Tom Kane, Iconic ‘Star Wars’ and ‘Powerpuff Girls’ Voice Actor, Has Died",
+          "url": "https://gizmodo.com/tom-kane-iconic-star-wars-and-powerpuff-girls-voice-actor-has-died-2000760076",
+          "source": "Gizmodo",
+          "published_at": "2026-05-18T16:54:53.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/05/Tom-Kane-Clone-Wars-premiere-1280x853.jpg",
+          "description": "The voice of Yoda, Admiral Ackbar, and so many more passed away this week at the age of 64."
+        },
+        {
+          "title": "Tom Kane, Iconic ‘Star Wars’ and ‘Powerpuff Girls’ Voice Actor, Has Died",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpm3zmqtnnedhsrfbxcup3xzliz0nfmhpec2dzwm1ycgz1mfixa2wxdmnquej5auo0r3vszk5or0vtogx4bgtauetkdjvsyi00tke2dwc3bddrwutmqmw1mjbqshponkc5mgtdbtz6zujkndlfszb0rhfyv2zjtdzzywvuy3fmzvlwwvnaue5utddyqtdjyjdvn2vvt1fndw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-18T16:54:53.000Z",
+          "description": "Tom Kane, Iconic ‘Star Wars’ and ‘Powerpuff Girls’ Voice Actor, Has Died Gizmodo Actor Tom Kane, voice of Professor Utonium and Yoda, dies at age 64 The Seattle Times Voice actor Tom Kane, known for roles on 'Star Wars' and 'Powerpuff Girls' dies WCVB Tom Kane, ‘Clone Wars’ and ‘Powerpuff Girls’ Vo…"
         },
         {
           "title": "Tom Kane Dies: ‘Star Wars: The Clone Wars’, ‘Powerpuff Girls’, ‘Archer’ Voice Actor Was 64",
           "url": "https://deadline.com/2026/05/tom-kane-dead-clone-wars-1236915028",
           "source": "Deadline",
           "published_at": "2026-05-18T20:55:27.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-82244405-e1779135789584.jpg"
-        },
-        {
-          "title": "Tom Kane, voice of Yoda and Professor Utonium, dies at 64",
-          "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-kane-voice-of-professor-utonium-in-the-powerpuff-girls-and-yoda-in-star-wars-the-clone-wars-passes-away-at-64/articleshow/131185652.cms",
-          "source": "Times of India",
-          "published_at": "2026-05-18T20:19:41.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131185670,imgsize-36740.cms"
-        },
-        {
-          "title": "Tom Kane, Longtime Star Wars And Call Of Duty Voice Actor, Dies At 64",
-          "url": "https://www.gamespot.com/articles/tom-kane-longtime-star-wars-and-call-of-duty-voice-actor-dies-at-64/1100-6540020",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-05-18T19:00:00.000Z",
-          "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4697670-57106631_10157435636025815_6097164749114441728_n.jpg"
-        },
-        {
-          "title": "Tom Kane, ‘Star Wars’ and ‘Powerpuff Girls’ Voice Actor, Dies at 64",
-          "url": "https://variety.com/2026/tv/news/tom-kane-dead-star-wars-powerpuff-girls-1236752823",
-          "source": "Variety",
-          "published_at": "2026-05-18T18:54:38.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/tom-kane.png"
+          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-82244405-e1779135789584.jpg",
+          "description": "Tom Kane, the prolific voice actor whose credits include Yoda on Star Wars: The Clone Wars, The Powerpuff Girls, Archer and scores of video games, died today, May 18, in Kansas City after having suffered a stroke more than five years ago. He was 64. His death was announced on social media by Galact…"
         }
-      ]
+      ],
+      "summary": "Tom Kane, a prolific voice actor known for playing Yoda in animated Star Wars projects and Professor Utonium in The Powerpuff Girls, has died at 64."
     },
     {
-      "id": "topic_bd01aec825c384fd",
+      "id": "topic_eee033ba793e35a8",
+      "title": "Israeli Forces Intercept Gaza-Bound Aid Flotilla Near Cyprus",
+      "headline": "Israeli forces intercept Gaza-bound aid flotilla",
       "label": [
-        "luigi",
-        "luigi mangione",
-        "mangione",
-        "murder trial",
-        "mangione murder",
-        "murder"
-      ],
-      "category": "new",
-      "theme": "theme_8dfd32b51c904c3b",
-      "entities": [
-        "Luigi Mangione",
-        "Alleged Gun",
-        "Notebook Allowed Into Evidence",
-        "Murder Trial",
-        "NYC"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Luigi Mangione’s Alleged Gun and Notebook Allowed Into Evidence at Murder Trial",
-          "url": "https://www.rollingstone.com/culture/culture-features/luigi-mangione-gun-notebook-evidence-murder-trial-1235564921",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-18T21:00:01.000Z"
-        },
-        {
-          "title": "Luigi Mangione ruling in NYC will let jury see gun, notebook found in his backpack - Gothamist",
-          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxoturzd19nohrjdujzu0tkswvpohhguerxvtdqclpyqwnynmjuwgtosu9gnktzuwzwqki4dkn3tlpns3hnd29wtxf1uy1pqm1vwvp2bxg3smx3wgzqyw9mcgnpwgrwbtjkmzcznfdvmvdlsklhuuxznkj2utflcjvdqtfmn0luwwy3rmywvwvxvjbmoupxq0q4cgizmwxpsmzjvudr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-18T20:26:00.000Z"
-        },
-        {
-          "title": "Luigi Mangione murder trial",
-          "url": "https://www.brisbanetimes.com.au/world/luigi-mangione-murder-trial-20260519-p5zyjd.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-18T20:00:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7a55ec69706eeae883ce33a723258786d817b54b"
-        },
-        {
-          "title": "Luigi Mangione murder trial",
-          "url": "https://www.theage.com.au/world/luigi-mangione-murder-trial-20260519-p5zyjd.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-18T20:00:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7a55ec69706eeae883ce33a723258786d817b54b"
-        },
-        {
-          "title": "Luigi Mangione murder trial",
-          "url": "https://www.smh.com.au/world/luigi-mangione-murder-trial-20260519-p5zyjd.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-18T20:00:26.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7a55ec69706eeae883ce33a723258786d817b54b"
-        }
-      ]
-    },
-    {
-      "id": "topic_d377c69f072c4329",
-      "label": [
-        "trumprx",
-        "generic",
-        "adds generic",
-        "white house",
-        "adds",
-        "cuban"
-      ],
-      "category": "new",
-      "theme": "theme_3cdb35bcb48f34e4",
-      "entities": [
-        "TrumpRx Adds Generic Drugs",
-        "With Mark Cuban",
-        "GoodRx",
-        "Amazon",
-        "White House"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "TrumpRx Adds Generic Drugs, With Mark Cuban, GoodRx and Amazon",
-          "url": "https://www.nytimes.com/2026/05/18/business/trumprx-generic-drugs-mark-cuban.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-05-18T22:43:24.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/18/multimedia/18biz-trump-drugs-qphb/18biz-trump-drugs-qphb-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "White House adds generics to TrumpRx",
-          "url": "https://www.washingtonexaminer.com/news/white-house/4573199/trumprx-mark-cuban-partnership-generics",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-18T22:33:27.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/trumprx-event.jpg?w=696"
-        },
-        {
-          "title": "STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx",
-          "url": "https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx",
-          "source": "STAT",
-          "published_at": "2026-05-18T22:03:22.000Z",
-          "image": "https://www.statnews.com/wp-content/uploads/2026/05/AP26138773407009-1024x576.jpg"
-        },
-        {
-          "title": "White House adds generic drugs to direct-to-consumer TrumpRx site",
-          "url": "https://www.cnbc.com/2026/05/18/white-house-adds-generic-drugs-to-direct-to-consumer-trumprx-site.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-05-18T21:31:17.000Z"
-        },
-        {
-          "title": "TrumpRx set to expand into generic medicines with Mark Cuban",
-          "url": "https://seekingalpha.com/news/4594635-trumprx-set-expand-into-generic-medicines-mark-cuban",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-05-18T20:03:43.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_88d634c4e3a727ee",
-      "label": [
-        "bel",
-        "bel air",
-        "spencer",
-        "pratt",
-        "spencer pratt",
-        "air"
-      ],
-      "category": "new",
-      "theme": "theme_cf3f5dafcd520362",
-      "entities": [
-        "Spencer Pratt",
-        "Fresh Prince",
-        "Bel",
-        "Air",
-        "LA"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Spencer Pratt dubs himself the 'Fresh Prince of Bel-Air' in spoof campaign video for LA mayor race",
-          "url": "https://www.foxnews.com/entertainment/spencer-pratt-dubs-fresh-prince-bel-air-spoof-campaign-video-la-mayor-race",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-18T22:05:21.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/spencer-pratt-bel-air.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "Spencer Pratt channels Will Smith for ‘fresh’ new campaign ad at Hotel Bel-Air",
-          "url": "https://nypost.com/2026/05/18/us-news/spencer-pratt-channels-fresh-prince-of-bel-air-for-campaign-ad-at-hotel-bel-air",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-18T20:14:18.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Fspencer-pratt-channels-smith-fresh-128143869.jpg?w%3D1024"
-        },
-        {
-          "title": "Spencer Pratt channels his inner Fresh Prince of Bel Air with latest searing ad",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/4572848/spencer-pratt-channels-fresh-prince-of-bel-air-latest-ad",
-          "source": "Washington Examiner",
-          "published_at": "2026-05-18T18:54:01.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/GettyImages-2276617913_aa765e.jpg?w=594"
-        },
-        {
-          "title": "Spencer Pratt Declares Himself ‘Prince of Bel-Air’ in Spoof Music Video",
-          "url": "https://www.rollingstone.com/politics/politics-news/spencer-pratt-prince-of-bel-air-spoof-music-video-1235564600",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-18T18:29:05.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5d9a87ada55d93e5",
-      "label": [
-        "bloodbath",
-        "warn bloodbath",
-        "cuba warn",
-        "cuba",
-        "bloodbath us",
-        "us attack"
-      ],
-      "category": "new",
-      "theme": "theme_13e80d902925e7a",
-      "entities": [
-        "Cuba",
-        "US",
-        "Washington",
-        "Cuba Warns Of",
-        "Bloodbath"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Cuba warns of 'bloodbath' if US attacks; Washington adds sanctions",
-          "url": "https://www.france24.com/en/cuba-warns-of-bloodbath-if-us-attacks-washington-adds-sanctions",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-18T21:55:08.000Z",
-          "image": "https://s.france24.com/media/display/fbe06c46-5302-11f1-b621-005056bfb2b6/w:1024/p:16x9/EN-20260518-233546-234142-CS.jpg"
-        },
-        {
-          "title": "Cuba warns of 'bloodbath' if U.S. attacks; Washington adds sanctions",
-          "url": "https://japantoday.com/category/world/cuba-warns-of-%27bloodbath%27-if-us-attacks-and-washington-issues-sanctions",
-          "source": "Japan Today",
-          "published_at": "2026-05-18T21:32:40.000Z"
-        },
-        {
-          "title": "Cuba warns of ‘bloodbath’ if US attacks; Washington adds sanctions",
-          "url": "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-18T20:51:18.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/19/bfbde93f-3320-40fd-8a57-8295df6d5554_3af7ff90.jpg?itok=QWzHxJGg&v=1779137188"
-        },
-        {
-          "title": "Cuba Warns Of \"Bloodbath\" If US Attacks",
-          "url": "https://www.ndtv.com/world-news/cuba-warns-of-bloodbath-if-us-attacks-11514525",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-18T20:35:45.000Z",
-          "image": "https://c.ndtvimg.com/2026-05/lgkaolk8_cuba-president_625x300_19_May_26.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_24f6655aea907832",
-      "label": [
-        "exclusiv",
-        "pc",
-        "playstation",
-        "playstation exclusiv",
-        "exclusiv pc",
-        "exclusiv aren"
-      ],
-      "category": "new",
-      "theme": "theme_121210aed4f7be35",
-      "entities": [
-        "PlayStation",
-        "PC",
-        "Say",
-        "The Verge"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "PlayStation confirms it will no longer bring narrative exclusives to PC",
-          "url": "https://www.polygon.com/sony-playstation-exclusives-officially-ending-pc",
-          "source": "Polygon.com",
-          "published_at": "2026-05-18T21:06:43.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/wolverine2.JPG"
-        },
-        {
-          "title": "Say goodbye to (most) PlayStation exclusives on PC",
-          "url": "https://www.pcworld.com/article/3142776/say-goodbye-to-most-playstation-exclusives-on-pc.html",
-          "source": "PCWorld",
-          "published_at": "2026-05-18T20:20:54.000Z",
-          "image": "https://www.pcworld.com/wp-content/uploads/2026/05/image_021ff4-1.png"
-        },
-        {
-          "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
-          "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-          "source": "The Verge",
-          "published_at": "2026-05-18T19:28:42.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_cf69250b6b7144244fe5ec715a82e9cf52398715.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "PlayStation exclusives aren’t coming to PC anymore - The Verge",
-          "url": "https://news.google.com/rss/articles/cbmid0fvx3lxte1jamz1rxdtv2rqwupkafvkaevvsurty3vyeuqxcetrovhlejlfegdzmfiznhnqn1riyw54n2ttnc1ws2dmvlztsgplnlfnwehyrvfvv0dkvudiqup4wknmddvomjbrd2lzt0hgsmnvelnlnms5nwz3",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-18T19:28:42.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_2a160405b8714bb3",
-      "label": [
-        "fjord",
-        "sebastian",
-        "stan",
-        "sebastian stan",
-        "drama fjord",
-        "cann"
-      ],
-      "category": "new",
-      "theme": "theme_41d4b3e7ba82b773",
-      "entities": [
-        "Cristian Mungiu",
-        "Fjord",
-        "Starring Sebastian Stan",
-        "Renate Reinsve Gets An",
-        "Exuberant"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Cristian Mungiu’s ‘Fjord’ Starring Sebastian Stan and Renate Reinsve Gets An Exuberant 12-Minute Standing Ovation — The Longest Of The Year So Far In Cannes",
-          "url": "https://deadline.com/2026/05/cristian-mungiu-fjord-sebastian-stan-standing-ovation-cannes-1236914627",
-          "source": "Deadline",
-          "published_at": "2026-05-18T19:59:50.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276939991.jpg"
-        },
-        {
-          "title": "Sebastian Stan and Renate Reinsve Shed Tears as Devastating Family Drama ‘Fjord’ Gets 10-Minute Cannes Premiere Standing Ovation",
-          "url": "https://variety.com/2026/film/news/sebastian-stan-fjord-cannes-premeire-renate-reinsve-1236736780",
-          "source": "Variety",
-          "published_at": "2026-05-18T19:56:09.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/fjord.png"
-        },
-        {
-          "title": "Sebastian Stan and Renate Reinsve Shed Tears as Devastating Family Drama ‘Fjord’ Gets 10-Minute Cannes Premiere Standing Ovation - Variety",
-          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxnnkwxcwz2rkjvr1p4n0rnqzrubuk0emzkvvh2dmxgc1jqvhptvvpxm3lgwudiegfnq29aekz5nkdrdfaws2o3evlhzg5letbucjrsrknrnzhynnjwahjeuhh2rtrjqkp6tgdqnnzty3bibtrvm1nkam1fvmdsum5itzbnnepunjvhz1gxcgppn1izdjvxbthkwgpym0ldstq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-18T19:56:00.000Z"
-        },
-        {
-          "title": "Sebastian Stan unrecognisable in Cannes drama \"Fjord\"",
-          "url": "https://www.france24.com/en/sebastian-stan-unrecognisable-in-cannes-drama-fjord",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-18T18:43:32.000Z",
-          "image": "https://s.france24.com/media/display/c2cb5dc2-52e8-11f1-b0eb-005056a90284/w:1024/p:16x9/capture-13807752146a0b5ca37efbd9-45157895.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ab666483d8e3e526",
-      "label": [
-        "gaza aid",
-        "aid flotilla",
-        "flotilla",
+        "israeli",
+        "forces",
         "gaza",
-        "aid",
-        "aboard"
+        "flotilla",
+        "intercept",
+        "aid"
       ],
       "category": "new",
-      "theme": "theme_4bdc7e5ad305dbcc",
+      "theme": "theme_1a5b47bc1bc4e741",
       "entities": [
-        "Protest",
-        "Greece",
         "Israeli",
         "Gaza",
-        "Australian"
+        "Cyprus",
+        "Protest",
+        "Greece"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 9,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla",
+          "title": "Israeli forces intercept Gaza-bound aid flotilla",
+          "url": "https://www.citizen.co.za/news/news-world/israeli-forces-intercept-gaza-bound-aid-flotilla",
+          "source": "The Citizen",
+          "published_at": "2026-05-18T13:37:39.000Z",
+          "image": "https://www.citizen.co.za/wp-content/uploads/2026/05/AFP__20260517__MEI-TUR-MK-GSFDM-20260514-074__v1__HighRes__GlobalSumudFlotillaDepart.jpg",
+          "description": "Activists aboard a Turkey-led aid flotilla surrendered peacefully after Israeli forces intercepted vessels heading towards Gaza."
+        },
+        {
+          "title": "Israeli forces intercept Gaza aid flotilla",
+          "url": "https://tribune.com.pk/story/2608917/israeli-forces-intercept-gaza-aid-flotilla",
+          "source": "express tribune",
+          "published_at": "2026-05-18T20:07:38.000Z",
+          "description": "Detain Saad Edhi, others after boarding boats near Cyprus"
+        },
+        {
+          "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-18T21:13:24.000Z"
+          "published_at": "2026-05-18T10:50:52.000Z",
+          "description": "Israeli forces have begun intercepting boats from the Gaza-bound Global Sumud Flotilla."
         },
         {
-          "title": "Australian aboard Gaza aid flotilla",
-          "url": "https://www.smh.com.au/world/australian-aboard-gaza-aid-flotilla-20260519-p5zyjf.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-18T20:00:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c9808b79f35dad56da2fff698cd70fe8ab7de609"
+          "title": "Gaza flotilla says Israeli forces intercepting boats",
+          "url": "https://www.perthnow.com.au/news/conflict/gaza-flotilla-says-israeli-forces-intercepting-boats-c-22302069",
+          "source": "PerthNow",
+          "published_at": "2026-05-18T11:11:45.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22302069/f6c7d41fa9907a593c2b75a3c3102fe648258b33-16x9-x0y0w1280h720.jpg",
+          "description": "The Israeli military has again taken action against the international Gaza aid flotilla, a live video transmission by the Global Sumud Flotilla group shows."
         },
         {
-          "title": "Australian aboard Gaza aid flotilla",
-          "url": "https://www.brisbanetimes.com.au/world/australian-aboard-gaza-aid-flotilla-20260519-p5zyjf.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-18T20:00:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c9808b79f35dad56da2fff698cd70fe8ab7de609"
-        },
-        {
-          "title": "Australian aboard Gaza aid flotilla",
-          "url": "https://www.theage.com.au/world/australian-aboard-gaza-aid-flotilla-20260519-p5zyjf.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-18T20:00:01.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c9808b79f35dad56da2fff698cd70fe8ab7de609"
+          "title": "Gaza-bound flotilla says Israeli forces intercept fleet near Cyprus",
+          "url": "https://www.thehindu.com/news/international/gaza-bound-flotilla-says-israeli-forces-intercept-fleet-near-cyprus/article70993290.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-18T11:05:45.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/9432hs/article70993367.ece/alternates/LANDSCAPE_1200/2026-04-30T204607Z_732250562_RC2WZKABQVOW_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-FLOTILLA-TURKEY-PROTEST.JPG",
+          "description": "Fifty ships had departed from southwestern Turkey on May 14, as part of the flotilla"
         }
-      ]
+      ],
+      "summary": "Israeli forces intercepted vessels from the Global Sumud Flotilla as it headed toward Gaza near Cyprus. The fleet had departed from southwestern Turkey, and activists aboard surrendered peacefully, reports said."
     },
     {
-      "id": "topic_fb0d0c4140ed71ec",
+      "id": "topic_8c7801b41e5782e7",
+      "title": "Hantavirus-Affected MV Hondius Arrives in Rotterdam",
+      "headline": "MV Hondius docks in Rotterdam after hantavirus ordeal",
       "label": [
-        "ingl",
-        "joe ingl",
-        "joe",
-        "incredibly special",
-        "special joe",
-        "ingl join"
+        "mv",
+        "hondius",
+        "rotterdam",
+        "hantavirus",
+        "quarantine",
+        "dock"
       ],
       "category": "new",
-      "theme": "theme_641b0e7b24b432ce",
+      "theme": "theme_3b6669384060c77b",
       "entities": [
-        "Joe Ingles",
-        "Australia",
-        "Incredibly",
-        "Why Joe Ingles",
-        "Melbourne United"
+        "MV Hondius",
+        "Rotterdam",
+        "Hantavirus",
+        "American",
+        "American Survivor Recounts Harrowing"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Joe Ingles signs in Australia",
-          "url": "https://sports.yahoo.com/articles/joe-ingles-signs-australia-220659030.html",
-          "published_at": "2026-05-18T22:06:59.000Z"
+          "title": "MV Hondius docks in Rotterdam after hantavirus ordeal",
+          "url": "https://www.dw.com/en/mv-hondius-docks-in-rotterdam-after-hantavirus-ordeal/a-77192012",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-18T09:01:00.000Z",
+          "description": "The hantavirus-stricken MV Hondius cruise ship has arrived at its final destination, Rotterdam. The remaining crew on board, including two medics, will disembark the ship."
         },
         {
-          "title": "‘Incredibly special’: Why Joe Ingles has joined Melbourne United",
-          "url": "https://www.brisbanetimes.com.au/sport/basketball/incredibly-special-why-joe-ingles-has-joined-melbourne-united-20260518-p5zyey.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-18T22:04:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1886%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_jpg/cb216957045447000a013e8e80d692bdbdd056de"
+          "title": "MV Hondius to dock in Rotterdam amid hantavirus quarantine plan",
+          "url": "https://www.indiatoday.in/world/story/hantavirus-mv-hondius-outbreak-rotterdam-quarantine-cruise-ship-docks-2913141-2026-05-18",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-05-18T00:25:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/the-vessel--mv-hondius--carrying-around-150-people-including-two-indian-nationals--arrived-in-spain-10283040-16x9_1.png?VersionId=pCzbvWpdXu.dwus29mAJaRaYQm0rhOd8"
         },
         {
-          "title": "‘Incredibly special’: Why Joe Ingles has joined Melbourne United",
-          "url": "https://www.theage.com.au/sport/basketball/incredibly-special-why-joe-ingles-has-joined-melbourne-united-20260518-p5zyey.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-18T22:04:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1886%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_jpg/cb216957045447000a013e8e80d692bdbdd056de"
+          "title": "Hantavirus, la MV Hondius arrivata al porto di Rotterdam",
+          "url": "https://www.liberoquotidiano.it/news/tv-news/47772629/hantavirus-la-mv-hondius-arrivata-al-porto-di-rotterdam",
+          "source": "Libero Quotidiano",
+          "published_at": "2026-05-18T08:54:00.000Z",
+          "image": "https://media.liberoquotidiano.it/vi_IyJrKIi3E5ugTg7g-NSYhMaPiUH7XXvES420h-pI/width:800/quality:90/aW1hZ2VzLzIwMjYvMDUvMTgvMTA1NTI0NTU1LWQwNWY1ODAyLTNlODMtNDA0OC1iMjFmLTkyNWZkNTc2MDM1ZC5qcGc.webp"
         },
         {
-          "title": "‘Incredibly special’: Why Joe Ingles has joined Melbourne United",
-          "url": "https://www.smh.com.au/sport/basketball/incredibly-special-why-joe-ingles-has-joined-melbourne-united-20260518-p5zyey.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-18T22:04:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1886%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_jpg/cb216957045447000a013e8e80d692bdbdd056de"
+          "title": "Hantavirus : le MV Hondius est arrivé à Rotterdam, voici ce qui attend les derniers passagers",
+          "url": "https://www.huffingtonpost.fr/international/article/hantavirus-le-mv-hondius-est-arrive-a-rotterdam-voici-ce-qui-attend-les-derniers-passagers_263844.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-05-18T13:15:30.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/05/18/0/0/6048/4032/0/0/60/0/4b91e6a_upload-1-uon83ah3womb-afp-20260518-b36q9y2-v1-highres-netherlandshealthhantavirus.jpg",
+          "description": "Le navire de croisière, qui a suscité l’inquiétude de nombreux pays après la mort de passagers à cause du hantavirus, a fini son parcours dans le port néerlandais."
+        },
+        {
+          "title": "MV Hondius cruise ship arrives at port of Rotterdam — news website",
+          "url": "https://tass.com/society/2132307",
+          "source": "TASS",
+          "published_at": "2026-05-18T11:02:07.000Z",
+          "description": "Crew members and the remaining staff from the National Institute for Public Health and the Environment disembarked under medical supervision"
         }
-      ]
+      ],
+      "summary": "The cruise ship MV Hondius arrived in Rotterdam after an outbreak of hantavirus among passengers. Remaining crew and staff disembarked under medical supervision."
     },
     {
-      "id": "topic_498f0ee6ef294ab9",
+      "id": "topic_6f2e0a31112a25f2",
+      "title": "Anthropic Co-Founder to Speak at Vatican Launch of Pope’s AI Encyclical",
+      "headline": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
       "label": [
-        "rufai",
-        "el rufai",
-        "family protest",
-        "el",
-        "protest",
-        "dss"
+        "pope",
+        "founder",
+        "anthropic",
+        "co",
+        "encyclical",
+        "ai"
       ],
       "category": "new",
-      "theme": "theme_607cf14ac0ea2e8a",
+      "theme": "theme_2b33a69840ff689c",
       "entities": [
-        "DSS Picks Up El",
-        "Rufai After Court Grants",
-        "Bail",
-        "Family",
-        "El"
+        "Anthropic",
+        "AI",
+        "Pope Leo XIV",
+        "Pope",
+        "Launch Encyclical"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 8,
+      "source_count": 8,
       "articles": [
         {
-          "title": "DSS Picks Up El-Rufai After Court Grants Bail",
-          "url": "https://www.informationng.com/2026/05/dss-picks-up-el-rufai-after-court-grants-bail.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-05-18T22:18:24.000Z"
+          "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-05-18T23:18:10.000Z",
+          "description": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html Comments URL: https://news.ycombinator.com/item?id=48187201 Points: 17 # Comments: 1"
         },
         {
-          "title": "Family protest over El-Rufai’s detention by SSS, healthcare access, ICPC speaks",
-          "url": "https://www.premiumtimesng.com/news/top-news/880801-family-protest-over-el-rufais-detention-by-sss-healthcare-access-icpc-speaks.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-05-18T21:48:58.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/WhatsApp-Image-2026-05-18-at-20.42.53.jpeg?fit=754%2C426&amp;ssl=1"
+          "title": "Pope to Launch Encyclical on AI Alongside Anthropic Co-Founder",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-18/anthropic-s-co-founder-to-launch-encyclical-on-ai-with-pope-leo",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-18T13:09:02.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDhZW.3NZ77I/v1/1200x-1.jpg",
+          "description": "Pope Leo XIV’s launch of his first encyclical focusing on artificial intelligence next week will feature an unexpected guest: Christopher Olah, co-founder of Anthropic."
         },
         {
-          "title": "DSS detains El-Rufai after court bail, family protests",
-          "url": "https://www.legit.ng/politics/1710615-dss-arrests-el-rufai-abuja-existing-bail-order",
-          "source": "Legit.ng",
-          "published_at": "2026-05-18T18:47:04.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/e7e414ca6f2884d7.jpeg?v=1"
+          "title": "Anthropic’s co-founder will speak at the Vatican launch of the pope’s AI encyclical",
+          "url": "https://thenextweb.com/news/pope-leo-encyclical-magnifica-humanitas-anthropic-olah",
+          "source": "The Next Web",
+          "published_at": "2026-05-18T16:27:01.000Z",
+          "image": "https://media.thenextweb.com/2026/05/pope-leo-encyclical-magnifica-humanitas-anthropic-olah.avif",
+          "description": "Pope Leo XIV will personally present his first encyclical, Magnifica Humanitas, on 25 May at the Vatican’s Synod Hall, and one of the speakers alongside him will be Christopher Olah, co-founder of Anthropic. The Vatican announced the details on Monday, confirming that the document will address the…"
         },
         {
-          "title": "We’re in fear – Family protests El-Rufai’s continued detention",
-          "url": "https://dailypost.ng/2026/05/18/were-in-fear-family-protests-el-rufais-continued-detention",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-18T18:18:36.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/05/IMG-20260518-WA0107.jpg"
+          "title": "Pope and co-founder of Anthropic to launch pontiff's AI encyclical on May 25",
+          "url": "https://www.manilatimes.net/2026/05/19/news/world/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25/2346530",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-18T16:42:46.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/19/1061983.jpg",
+          "description": "ROME — Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff’s first encyclical on May 25, a document on the care of human dignity in the era of AI, the Vatican said Monday. Anthropic has billed itself as the AI company that puts safety and risk-mitiga…"
+        },
+        {
+          "title": "Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker",
+          "url": "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker",
+          "source": "The Decoder",
+          "published_at": "2026-05-18T15:32:40.000Z",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_holy_cross.png",
+          "description": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker. The article Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker appeared first on The Decoder."
         }
-      ]
-    },
-    {
-      "id": "topic_e75b8b55fb43fe0a",
-      "label": [
-        "uk",
-        "marri",
-        "marri first",
-        "first sight",
-        "sight",
-        "sight uk"
       ],
-      "category": "new",
-      "theme": "theme_d800918c12be20a0",
-      "entities": [
-        "British",
-        "Married",
-        "First Sight UK",
-        "Channel",
-        "Michael Savage"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "British broadcaster pulls Married at First Sight UK amid rape allegations",
-          "url": "https://www.smh.com.au/culture/tv-and-radio/british-broadcaster-pulls-married-at-first-sight-uk-amid-rape-allegations-20260519-p5zyk6.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-18T22:02:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3356%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_408/t_crop_custom/q_86%2Cf_jpg/d3fefd701501930cabc1cb15057c05c5f7774f32"
-        },
-        {
-          "title": "British broadcaster pulls Married at First Sight UK amid rape allegations",
-          "url": "https://www.theage.com.au/culture/tv-and-radio/british-broadcaster-pulls-married-at-first-sight-uk-amid-rape-allegations-20260519-p5zyk6.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-18T22:02:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3356%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_408/t_crop_custom/q_86%2Cf_jpg/d3fefd701501930cabc1cb15057c05c5f7774f32"
-        },
-        {
-          "title": "British broadcaster pulls Married at First Sight UK amid rape allegations",
-          "url": "https://www.brisbanetimes.com.au/culture/tv-and-radio/british-broadcaster-pulls-married-at-first-sight-uk-amid-rape-allegations-20260519-p5zyk6.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-18T22:02:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.3356%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_408/t_crop_custom/q_86%2Cf_jpg/d3fefd701501930cabc1cb15057c05c5f7774f32"
-        },
-        {
-          "title": "Channel 4 removes all episodes of Married at First Sight UK after three former contestants alleged rape and non-consensual sex acts occurred during the filming (Michael Savage/The Guardian)",
-          "url": "https://mediagazer.com/260518/p11",
-          "source": "Mediagazer",
-          "published_at": "2026-05-18T20:20:01.000Z",
-          "image": "http://mediagazer.com/260518/i11.jpg"
-        },
-        {
-          "title": "Channel 4 removes all seasons of MAFS UK after women allege being raped by on-screen husbands",
-          "url": "https://www.thejournal.ie/channel-4-removes-all-seasons-of-mafs-uk-after-women-allege-being-raped-and-assaulted-7043992-may2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-05-18T19:42:50.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/screenshot-2026-05-18-203836-da6f84d6-57a1-4c3f-b73f-5627aff3988d-630x354.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d1e36426e080cc2d",
-      "label": [
-        "110",
-        "live voter",
-        "voter give",
-        "give budget",
-        "budget worst",
-        "worst mark"
-      ],
-      "category": "new",
-      "theme": "theme_25e350742415e1a5",
-      "entities": [
-        "Australia",
-        "LIVE",
-        "Voters",
-        "Trump",
-        "Iran"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Australia news LIVE: Voters give budget worst marks in five years; Trump says planned attacks on Iran called off; WHO sends experts to the Congo as Ebola death toll reaches 110",
-          "url": "https://www.smh.com.au/national/australia-news-live-voters-give-budget-worst-marks-in-five-years-according-to-poll-trump-says-planned-attacks-on-iran-called-off-who-sends-team-of-experts-to-the-congo-as-ebola-death-toll-reaches-110-20260519-p5zyjk.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-18T20:47:38.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_165%2C$y_0/t_crop_custom/q_86%2Cf_auto/bb6b3187cfe5819c5e13c51d5e71022c93505a85"
-        },
-        {
-          "title": "Australia news LIVE: Voters give budget worst marks in five years; Trump says planned attacks on Iran called off; WHO sends experts to the Congo as Ebola death toll reaches 110",
-          "url": "https://www.brisbanetimes.com.au/national/australia-news-live-voters-give-budget-worst-marks-in-five-years-according-to-poll-trump-says-planned-attacks-on-iran-called-off-who-sends-team-of-experts-to-the-congo-as-ebola-death-toll-reaches-110-20260519-p5zyjk.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-18T20:47:38.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_165%2C$y_0/t_crop_custom/q_86%2Cf_auto/bb6b3187cfe5819c5e13c51d5e71022c93505a85"
-        },
-        {
-          "title": "Australia news LIVE: Voters give budget worst marks in five years; Trump says planned attacks on Iran called off; WHO sends experts to the Congo as Ebola death toll reaches 110",
-          "url": "https://www.theage.com.au/national/australia-news-live-voters-give-budget-worst-marks-in-five-years-according-to-poll-trump-says-planned-attacks-on-iran-called-off-who-sends-team-of-experts-to-the-congo-as-ebola-death-toll-reaches-110-20260519-p5zyjk.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-18T20:47:38.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_165%2C$y_0/t_crop_custom/q_86%2Cf_auto/bb6b3187cfe5819c5e13c51d5e71022c93505a85"
-        }
-      ]
-    },
-    {
-      "id": "topic_6db609ee4232903b",
-      "label": [
-        "afcon",
-        "afcon 2027",
-        "eagl",
-        "super eagl",
-        "draw",
-        "super"
-      ],
-      "category": "new",
-      "theme": "theme_ec8ddd2e8cccad9e",
-      "entities": [
-        "AFCON",
-        "Draw",
-        "Super Eagles",
-        "Pot",
-        "CAF"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "AFCON 2027 Draw: Super Eagles placed in Pot A",
-          "url": "https://www.nigerianeye.com/2026/05/afcon-2027-draw-super-eagles-placed-in.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-05-18T21:01:10.701Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf9VruW-K0YDvfUpH-bu-pfpU7mee0AaYEg6kez0PuWdUFQAmoPa0LdIrQgnZp4XJKEMuPdbtC37Lxt8vlDOQwTnmN4i7ySp72ej-_Vz007jA1kV2MgiHxb7cU8kL_WI3MeovU15hfjfo6GQ-6ssbdDbRN-ivbhuRa2vh-czaUW5GvWiSEUVsjZIvOU9De/s72-w400-h240-c/SUPER%20EAGLES%20AFCON%20TEAM.PNG"
-        },
-        {
-          "title": "AFCON 2027 Draw: Super Eagles placed in Pot A",
-          "url": "https://dailypost.ng/2026/05/18/afcon-2027-draw-super-eagles-placed-in-pot-a",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-05-18T20:45:09.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/01/Super-Eagles.jpeg"
-        },
-        {
-          "title": "AFCON 2027: Super Eagles await opponents as CAF conducts qualifiers draw in Cairo",
-          "url": "https://www.premiumtimesng.com/news/top-news/880676-afcon-2027-super-eagles-await-opponents-as-caf-conducts-qualifiers-draw-in-cairo.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-05-18T19:33:26.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/WhatsApp-Image-2026-05-18-at-20.26.29.jpeg?fit=791%2C486&amp;ssl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_8bc7b0404258d126",
-      "label": [
-        "alli",
-        "moral",
-        "protester",
-        "capital",
-        "march",
-        "bolivia"
-      ],
-      "category": "new",
-      "theme": "theme_ad58aa03f467825b",
-      "entities": [
-        "Clashes",
-        "Morales",
-        "Bolivian",
-        "Bolivia"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Clashes as Morales-allied protesters march on Bolivian capital",
-          "url": "https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-18T21:16:22.000Z"
-        },
-        {
-          "title": "Bolivia protesters allied with ex-leader Morales march on capital as unrest widens",
-          "url": "https://www.thestar.com/news/world/americas/bolivia-protesters-allied-with-ex-leader-morales-march-on-capital-as-unrest-widens/image_15b88c83-5728-555a-a596-5f8269da196f.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-05-18T19:00:58.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/5b/15b88c83-5728-555a-a596-5f8269da196f/6a0b62dd00610.image.jpg?resize=300%2C200"
-        },
-        {
-          "title": "Bolivia protesters allied with ex-leader Morales march on capital as unrest widens",
-          "url": "https://www.seattletimes.com/nation-world/world/bolivia-protesters-allied-with-ex-leader-morales-march-on-capital-as-unrest-widens",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-05-18T19:00:17.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgb314f835b1c074efa8073921c2f04360APTOPIX_Bolivia_Protest_68266.jpg?d=1200x630"
-        }
-      ]
-    },
-    {
-      "id": "topic_7e78cef9eab91e2b",
-      "label": [
-        "ally",
-        "fund",
-        "prosecut",
-        "ally prosecut",
-        "prosecut biden",
-        "trump administration"
-      ],
-      "category": "new",
-      "theme": "theme_dc09e6f9e680dbb3",
-      "entities": [
-        "Trump",
-        "Biden",
-        "Team Trump Creates",
-        "Billion Fund For Allies",
-        "Prosecuted Under Biden"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
-          "url": "https://www.bbc.com/news/articles/cvgzr7vr203o",
-          "source": "BBC News",
-          "published_at": "2026-05-18T19:53:31.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0589/live/771e4030-52dc-11f1-a650-a94a8fc7de38.jpg"
-        },
-        {
-          "title": "Trump administration creates $1.7bn fund to compensate political allies prosecuted under Biden",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/18/trump-administration-creates-1-7bn-fund-to-compensate-political-allies-prosecuted-under-biden_6753578_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-18T19:27:09.000Z",
-          "image": "https://img.lemde.fr/2026/05/18/108/0/5500/2750/644/322/60/0/ad1af1c_ftp-1-wgklsumjz4sj-2026-05-18t160829z-534442117-rc2j9la9xixq-rtrmadp-3-usa-trump-irs.JPG"
-        },
-        {
-          "title": "Team Trump Creates $1.7 Billion Fund For Allies Prosecuted Under Biden",
-          "url": "https://www.ndtv.com/world-news/team-trump-creates-1-7-billion-fund-for-allies-prosecuted-under-biden-11514248",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-18T18:24:40.000Z",
-          "image": "https://c.ndtvimg.com/2025-01/ukprdv0o_trump-biden_625x300_21_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
-        }
-      ]
-    },
-    {
-      "id": "topic_fe0a1046550d2871",
-      "label": [
-        "bengal",
-        "bengal practice",
-        "practice",
-        "kid",
-        "cudi",
-        "kid cudi"
-      ],
-      "category": "new",
-      "theme": "theme_1ecc948526e13370",
-      "entities": [
-        "Kid Cudi",
-        "Bengals",
-        "Day",
-        "Nite",
-        "Bengal"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kid Cudi visits Bengals practice",
-          "url": "https://sports.yahoo.com/articles/kid-cudi-visits-bengals-practice-230000581.html",
-          "published_at": "2026-05-18T23:00:00.000Z"
-        },
-        {
-          "title": "Day 'N' Nite: From concert to Bengals practice for...",
-          "url": "https://www.espn.com/nfl/story/_/id/48807804/cincinnati-bengals-kid-cudi-joe-burrow-offseason-workout",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-05-18T21:25:34.000Z"
-        },
-        {
-          "title": "Bengal: शांतनु सिन्हा के बाद अब ईडी ने सोना पप्पू को किया गिरफ्तार, मनी लॉन्ड्रिंग मामले में नौ घंटे की पूछताछ",
-          "url": "https://www.amarujala.com/india-news/west-bengal-ed-makes-third-arrest-biswajit-poddar-alias-sona-pappu-in-land-grabbing-extortion-case-2026-05-19",
-          "source": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
-          "published_at": "2026-05-18T19:32:12.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_d3d9093c6e552690",
-      "label": [
-        "fbi",
-        "license",
-        "plate",
-        "fbi want",
-        "want buy",
-        "buy nationwide"
-      ],
-      "category": "new",
-      "theme": "theme_a7f871b1b6ff4f21",
-      "entities": [
-        "FBI Wants",
-        "Buy Nationwide Access",
-        "License Plate Readers",
-        "The FBI Wants",
-        "Joseph Cox"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "FBI Wants to Buy Nationwide Access to License Plate Readers",
-          "url": "https://news.slashdot.org/story/26/05/18/1952255/fbi-wants-to-buy-nationwide-access-to-license-plate-readers",
-          "source": "Slashdot",
-          "published_at": "2026-05-18T23:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        },
-        {
-          "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers (Joseph Cox/404 Media)",
-          "url": "https://www.memeorandum.com/260518/p88",
-          "source": "memeorandum",
-          "published_at": "2026-05-18T18:45:00.000Z",
-          "image": "http://www.memeorandum.com/260518/i88.jpg"
-        },
-        {
-          "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-          "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers",
-          "source": "404 Media",
-          "published_at": "2026-05-18T18:19:45.000Z",
-          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/david-trinks-Vvh_9ooeEZ0-unsplash.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_966c76b0fb931ac4",
-      "label": [
-        "frankenstein",
-        "young frankenstein",
-        "fx",
-        "young",
-        "frankenstein order",
-        "order sery"
-      ],
-      "category": "new",
-      "theme": "theme_144f2e3b561e1fe9",
-      "entities": [
-        "Frankenstein TV Show Starring",
-        "Zach Galifianakis Coming",
-        "Hulu",
-        "Very Young Frankenstein",
-        "Ordered"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Frankenstein TV Show Starring Zach Galifianakis Coming to Hulu",
-          "url": "https://www.comingsoon.net/tv/news/2134926-frankenstein-tv-show-starring-zach-galifianakis-coming-to-hulu",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-05-18T22:31:45.000Z"
-        },
-        {
-          "title": "‘Very Young Frankenstein’ Ordered to Series at FX",
-          "url": "https://variety.com/2026/tv/news/very-young-frankenstein-series-fx-1236752933",
-          "source": "Variety",
-          "published_at": "2026-05-18T20:05:23.000Z",
-          "image": "https://variety.com/wp-content/uploads/2016/08/young-frankenstein.jpg"
-        },
-        {
-          "title": "‘Very Young Frankenstein’ Starring Zach Galifianakis Gets Series Order, FX Exec Calls It “A Completely Original Take” On Mel Brooks Classic",
-          "url": "https://deadline.com/2026/05/very-young-frankenstein-zach-galifianakis-fx-series-taika-waititi-1236914710",
-          "source": "Deadline",
-          "published_at": "2026-05-18T20:00:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2025/06/MEl-Brooks.jpg"
-        }
-      ]
+      "summary": "Pope Leo XIV will present his first encyclical, focused on artificial intelligence and human dignity, at the Vatican on May 25. Anthropic co-founder Christopher Olah is scheduled to speak at the event."
     }
   ]
 }

@@ -1,736 +1,967 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-05T00:50:04.963Z",
+  "generated_at": "2026-09-27T14:04:50.016Z",
   "topics": [
     {
-      "id": "topic_346aac020eecb6cc",
+      "id": "topic_5970a16331a3964b",
+      "title": "Ukrainian Drones Strike Oil Facilities Near St. Petersburg",
+      "headline": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
       "label": [
-        "oil terminal",
+        "petersburg",
+        "st",
         "oil",
-        "drone attack",
-        "attack russia",
         "terminal",
-        "drone"
+        "russia",
+        "drones"
       ],
       "category": "new",
-      "theme": "theme_ab78bc53088e7779",
+      "theme": "theme_44466dc72ce6f4ac",
       "entities": [
-        "Leningrad Region Port",
-        "Oil Terminal Hit",
-        "Major Ukrainian Drone Attack",
-        "The Moscow Times",
-        "Major Ukrainian"
+        "Ukrainian",
+        "St Petersburg",
+        "Russia",
+        "AP News",
+        "Ukraine"
+      ],
+      "article_count": 19,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
+          "url": "https://japantoday.com/category/world/ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-attack-on-russia",
+          "source": "Japan Today",
+          "published_at": "2026-07-04T21:11:04.000Z",
+          "description": "A Ukrainian drone attack struck an oil terminal in St. Petersburg on Saturday, Russian officials said, as Kyiv presses on with bombardment of Russia’s oil infrastructure. Almost daily…"
+        },
+        {
+          "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+          "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-07-04T19:09:06.000Z",
+          "image": "https://i.guim.co.uk/img/media/60ab448bfd1d6333266d1ae57bfaf59c47db7f6d/0_320_563_450/master/563.jpg?width=140&quality=85&auto=format&fit=max&s=367fa97eceb9818d62fc30e65264e8ed",
+          "description": "St Petersburg governor reports no victims after ‘large-scale’ overnight attack that also hit Baltic port of Vysotsk Ukraine launched a big overnight drone attack on St Petersburg and the surrounding area, hitting the city’s oil terminal and port infrastructure in the wider region. The St Petersburg…"
+        },
+        {
+          "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxqywjcywxlmxkzwhhux0njlwnfmec1re5hvk5gtwlhq0xkouzhu2fjchr4rmq4veg3tehjeumtm1dlagn4nmmzywwzegpcukneueu1a3vlmkvfdtrtaxl3enfaanfkcnbindfic0fvav94t2fjlwvmzhrzqljwd0l4rm9ybl9nmkfvtnhzwlnzrlzws3jfn2e3wklktfk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-04T10:50:00.000Z",
+          "description": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia AP News Ukraine hits oil and military facilities near Russia’s St Petersburg Al Jazeera Ukraine proves it can hit Russia almost anywhere Axios Ukraine’s Missiles Now Have Almost Half of Russia Within Reach Bloombe…"
+        },
+        {
+          "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+          "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574",
+          "source": "Deutsche Welle",
+          "published_at": "2026-07-04T09:02:00.000Z",
+          "description": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine."
+        },
+        {
+          "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia (Associated Press)",
+          "url": "https://www.memeorandum.com/260704/p1",
+          "source": "memeorandum",
+          "published_at": "2026-07-04T11:05:01.000Z",
+          "image": "http://www.memeorandum.com/260704/i1.jpg",
+          "description": "Associated Press: Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia — A Ukrainian drone attack struck an oil terminal in St. Petersburg on Saturday, Russian officials said, as Kyiv presses on with bombardment of Russia's oil infrastructure."
+        }
+      ],
+      "summary": "A Ukrainian drone attack struck an oil terminal in St. Petersburg and a nearby port, including Vysotsk, Russian officials said. The attack is part of Ukraine’s campaign against Russian oil infrastructure."
+    },
+    {
+      "id": "topic_b63e16594c0acfd3",
+      "title": "Joey Chestnut Wins 18th Nathan’s Hot Dog Eating Contest",
+      "headline": "Why was Joey Chestnut banned from Nathan's Hot Dog Eating Contest?",
+      "label": [
+        "dog",
+        "contest",
+        "hot",
+        "eating",
+        "nathan",
+        "joey"
+      ],
+      "category": "new",
+      "theme": "theme_c21028a101b40c5a",
+      "entities": [
+        "Joey Chestnut",
+        "Nathan",
+        "Hot Dog Eating Contest",
+        "Miki Sudo Return",
+        "Defend Crowns"
+      ],
+      "article_count": 34,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Why was Joey Chestnut banned from Nathan's Hot Dog Eating Contest?",
+          "url": "https://sports.yahoo.com/articles/why-joey-chestnut-banned-nathans-151916349.html",
+          "published_at": "2026-07-04T15:19:16.000Z",
+          "description": "Chestnut wasn't allowed to defend his title in 2024. Here's why."
+        },
+        {
+          "title": "Joey Chestnut, Miki Sudo Return to Defend Crowns at Nathan’s Hot Dog Eating Contest",
+          "url": "https://internewscast.com/news/us/joey-chestnut-miki-sudo-return-to-defend-crowns-at-nathans-hot-dog-eating-contest",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-04T08:17:42.000Z",
+          "description": "Internewscast Journal Internewscast The Nathan’s Famous Hot Dog Eating Contest is set to celebrate the… This Post: Joey Chestnut, Miki Sudo Return to Defend Crowns at Nathan’s Hot Dog Eating Contest first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Joey Chestnut wins his 18th Nathan’s Famous Hot Dog Eating Contest - ABC News",
+          "url": "https://news.google.com/rss/articles/cbmikwfbvv95cuxnugvdwfityzkxcu1zbzrcugpmlti5dhmtsvrrc1jrdkv1vzdzevbcudj2u2owvep2n08xa0s1mnhmzdfxzkgxexvhuzhjcu9hdhvjvhqyenb4r3rquhj2ytjlm2pad2zsdxi0rm56zzzlejljutdpreqzeuzlm0jacnfuehl1efpjyld2bdfntndxykhsazgbqvvfexfmt1hrely1rxnwvlbqv211zu1pltnsz054t3fmrli0s3vtwfkyctr2tm9snhhmyus2ahytbtu0nzjtmtbdturfsmvacunwrzldefhsz2zgcdz3yu84c2rxylpwout5wjhtohzib2rqcnffakliahqyyvixu3n2mtrlqkiydvntvev6a1vyn1e5zwdwbwvoclzvrlq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-04T18:00:00.000Z",
+          "description": "Joey Chestnut wins his 18th Nathan’s Famous Hot Dog Eating Contest ABC News - Breaking News, Latest News and Videos Joey Chestnut, Miki Sudo devour field to defend hot dog titles ESPN The legendary Joey Chestnut has taken wild ride to become GOAT of the Hot Dog Eating Contest Fox News Nathan's Hot…"
+        },
+        {
+          "title": "How to Watch the 2026 Nathan’s Hot Dog Eating Contest on the Fourth of July for Free",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-nathans-famous-hot-dog-eating-contest-2026-free-livestream-1235587662",
+          "source": "Rolling Stone",
+          "published_at": "2026-07-04T10:30:00.000Z",
+          "description": "A decades-old tradition returns to Coney Island this Independence Day. Here’s how to tune in and watch fan favorites like Joey Chestnut without paying"
+        },
+        {
+          "title": "Joey Chestnut, Miki Sudo return to defend titles at Nathan’s Famous Hot Dog Eating Contest",
+          "url": "https://nypost.com/2026/07/04/us-news/joey-chestnut-miki-sudo-return-to-defend-titles-at-nathans-famous-hot-dog-eating-contest",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-07-04T07:51:44.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-new-york-city-competitive-133198369.jpg?w%3D1024",
+          "description": "Chestnut has taken the so-called Mustard Belt 17 times and notched the men’s record: 76 franks."
+        }
+      ],
+      "summary": "Joey Chestnut won his 18th Nathan’s Famous Hot Dog Eating Contest, while Miki Sudo returned to defend her title. Chestnut was previously barred from competing in 2024."
+    },
+    {
+      "id": "topic_7dfcea3ebae3e9c5",
+      "title": "Thousands Protest Far-Right AfD Conference in Germany",
+      "headline": "Thousands protest in Germany against far-right AfD",
+      "label": [
+        "far",
+        "right",
+        "afd",
+        "germany",
+        "protest",
+        "thousands"
+      ],
+      "category": "new",
+      "theme": "theme_6318b4918bd0f55a",
+      "entities": [
+        "Thousands",
+        "Germany",
+        "AfD",
+        "German",
+        "Major"
+      ],
+      "article_count": 14,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Thousands protest in Germany against far-right AfD",
+          "url": "https://www.investing.com/news/world-news/thousands-protest-in-germany-against-farright-afd-4775345",
+          "source": "All News",
+          "published_at": "2026-07-04T05:24:25.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6307E_L.jpg"
+        },
+        {
+          "title": "Thousands protest in Germany as far-right AfD party meets",
+          "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-04T11:18:18.000Z",
+          "description": "Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt."
+        },
+        {
+          "title": "Thousands protest in Germany as far-right AfD sets sights on power",
+          "url": "https://japantoday.com/category/world/thousands-protest-in-germany-as-far-right-afd-sets-sights-on-power1",
+          "source": "Japan Today",
+          "published_at": "2026-07-04T21:11:25.000Z",
+          "description": "Thousands protested against Germany's far-right AfD and blocked roads to its annual conference in the eastern city of Erfurt on Saturday, where the party re-elected the two leaders…"
+        },
+        {
+          "title": "Thousands protest against far-right German party",
+          "url": "https://www.perthnow.com.au/news/politics/thousands-protest-against-far-right-german-party-c-22531886",
+          "source": "PerthNow",
+          "published_at": "2026-07-04T12:44:41.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22531886/f128be60a308c7737cddcb46426ac240f5cac696-16x9-x0y0w1280h720.jpg",
+          "description": "Protesters aiming to disrupt the national convention of the far-right Alternative for Germany party have clashed with police in riot gear outside."
+        },
+        {
+          "title": "‘We won’t tolerate this’: thousands in Germany protest against far-right AfD",
+          "url": "https://www.scmp.com/news/world/europe/article/3359405/we-wont-tolerate-thousands-germany-protest-against-far-right-afd",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-04T07:55:58.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/04/b80f718e-e924-4e08-9d9d-29229e06d58e_cda01b0e.jpg?itok=LpYylYKp&v=1783151754",
+          "description": "Thousands of opponents of Germany’s far-right AfD took to the streets of Erfurt on Saturday and blocked roads to the party’s annual conference ahead of regional elections that could see it take power at state level for the first time. Protesters from ‌unions, civil society groups and left-wing part…"
+        }
+      ],
+      "summary": "Thousands protested against the far-right Alternative for Germany party in Erfurt as it held its annual conference. Demonstrators blocked roads, and some clashed with police."
+    },
+    {
+      "id": "topic_73bec50474e331f9",
+      "title": "Ireland Edges Australia 33-31 in Nations Championship",
+      "headline": "How to watch Australia vs. Ireland in the 2026 Nations Championship online for free",
+      "label": [
+        "championship",
+        "nations",
+        "ireland",
+        "australia",
+        "online",
+        "free"
+      ],
+      "category": "new",
+      "theme": "theme_451dae4c5e23d68e",
+      "entities": [
+        "Australia",
+        "Ireland",
+        "Nations Championship",
+        "New Zealand",
+        "France"
+      ],
+      "article_count": 15,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "How to watch Australia vs. Ireland in the 2026 Nations Championship online for free",
+          "url": "https://mashable.com/entertainment/australia-ireland-nations-championship-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-07-04T04:00:00.000Z",
+          "description": "How to watch Nations Championship for free. Live stream Australia vs. Ireland in the 2026 Nations Championship for free."
+        },
+        {
+          "title": "LIVE: Australia v Ireland, Nations Championship",
+          "url": "https://www.the42.ie/australia-ireland-liveblog-7090951-jul2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-07-04T09:36:05.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/07/shane-enright-from-limerick-and-luke-harrington-from-wexford-living-in-airlie-beach-3f3f4427-8ece-42d7-9054-9ed98773c76b-630x420.jpg",
+          "description": "Follow all the action as it happens in Sydney."
+        },
+        {
+          "title": "Ireland pips Australia 33-31 in Nations Championship nailbiter",
+          "url": "https://japantoday.com/category/sports/ireland-pip-australia-33-31-in-nations-championship-nailbiter",
+          "source": "Japan Today",
+          "published_at": "2026-07-04T21:12:25.000Z",
+          "description": "Tom Clarkson scored a last-gasp converted try as a dogged Ireland battled to a riveting 33-31 victory over Australia in Sydney on Saturday to kick-start their Nations Championship…"
+        },
+        {
+          "title": "Australia v Ireland: Nations Championship rugby union international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/04/australia-vs-ireland-wallabies-nations-championship-rugby-union-international-aus-v-ire-live-updates",
+          "source": "The Guardian",
+          "published_at": "2026-07-04T09:44:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/0fd79058dce4617804eaf51377eaf3409de57cf7/0_0_4221_3377/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=ac280d649fa0d900bd045098722dffd0",
+          "description": "Updates as the Wallabies welcome Ireland to Sydney Kick-off time is 8.10pm AEST/11.10am IST and BST Any thoughts? Get in touch with an email Angus Fontaine has focussed on Joe Schmidt’s farewell tour. Thanks to Geoff who wrote in and corrected a mistake. Continue reading..."
+        },
+        {
+          "title": "Nations Championship: Baloucoune ruled out for Ireland against Australia",
+          "url": "https://sports.yahoo.com/articles/nations-championship-reaction-blacks-beat-085513901.html",
+          "published_at": "2026-07-04T09:45:06.000Z",
+          "description": "Follow build-up, team news, scores & live text updates as New Zealand face France before Australia host Ireland in the Nations Championship at Allianz Stadium, Sydney."
+        }
+      ],
+      "summary": "Ireland defeated Australia 33-31 in Sydney after Tom Clarkson scored a late try and conversion. The win opened Ireland’s Nations Championship campaign."
+    },
+    {
+      "id": "topic_29a4b98f1d31ef3f",
+      "title": "Pope Leo Appeals for Support for Migrants on U.S. Anniversary",
+      "headline": "Pope Leo urges U.S. to welcome immigrants in July 4 appeal from Lampedusa",
+      "label": [
+        "leo",
+        "pope",
+        "urges",
+        "welcome",
+        "migrant",
+        "immigrants"
+      ],
+      "category": "new",
+      "theme": "theme_784726a9d7591409",
+      "entities": [
+        "Pope Leo",
+        "July",
+        "Lampedusa",
+        "US",
+        "America"
       ],
       "article_count": 8,
       "source_count": 8,
       "articles": [
         {
-          "title": "Leningrad Region Port, Oil Terminal Hit in Major Ukrainian Drone Attack (The Moscow Times)",
-          "url": "https://www.memeorandum.com/260704/p24",
-          "source": "memeorandum",
-          "published_at": "2026-07-04T21:15:01.000Z",
-          "image": "http://www.memeorandum.com/260704/i24.jpg"
+          "title": "Pope Leo urges U.S. to welcome immigrants in July 4 appeal from Lampedusa",
+          "url": "https://www.thehindu.com/news/international/pope-leo-urges-us-to-welcome-immigrants-in-july-4-appeal-from-lampedusa/article71182422.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-04T11:44:01.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ielwvy/article71182455.ece/alternates/LANDSCAPE_1200/2026-07-04T103219Z_1298805520_RC2W6MADY75X_RTRMADP_3_POPE-ITALY-LAMPEDUSA.JPG",
+          "description": "Pope called on European leaders to tackle migration “in a comprehensive manner, integrating immediate relief efforts into a long-term strategic plan capable of receiving, protecting, supporting and integrating migrants”"
         },
         {
-          "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
-          "url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510",
-          "source": "World News - Breaking international news and headlines | Sky News",
-          "published_at": "2026-07-04T21:14:00.000Z",
-          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-ukrainian-drone-st-petersburg_7264305.jpg?20260603100334"
+          "title": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
+          "url": "https://www.gmanetwork.com/news/topstories/world/993773/pope-leo-july-4-immigrants-lampedusa/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-07-04T22:00:05.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/popeleo_2026_06_07_09_14_27.jpg",
+          "description": "Pope Leo marked the 250th anniversary of U.S. independence on Saturday (Sunday in the Philippines) with an appeal to Americans to welcome and protect immigrants, in a letter sent to his home country as he visited Italy's migrant frontline island of Lampedusa."
         },
         {
-          "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
-          "url": "https://japantoday.com/category/world/ukrainian-drones-hit-st-petersburg-oil-terminal-in-latest-long-range-attack-on-russia",
-          "source": "Japan Today",
-          "published_at": "2026-07-04T21:11:04.000Z"
+          "title": "Pope Leo marks US anniversary with migrant appeal on Lampedusa",
+          "url": "https://www.investing.com/news/world-news/pope-leo-marks-us-anniversary-with-migrant-appeal-on-lampedusa-4775352",
+          "source": "All News",
+          "published_at": "2026-07-04T07:12:27.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6308G_L.jpg"
         },
         {
-          "title": "Ukraine confirms devastating strike on major oil terminal in Russia's St Petersburg",
-          "url": "https://www.express.co.uk/news/world/2225423/ukraine-confirms-devastating-strike-major",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-07-04T20:49:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2225423_1.jpg"
+          "title": "Pope Leo marks July 4 at migrant graves, not U.S. celebrations",
+          "url": "https://fortune.com/2026/07/04/pope-leo-lampedusa-migrant-cemetery-july-4th",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-07-04T12:04:08.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2214681415-e1783166616662.jpg?w=2048",
+          "description": "History's first U.S.-born pope skipped the party to bless graves marked by shipwreck wood — on the exact day the U.S. turned 250."
         },
         {
-          "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxpuk1vyu8yrwn0udzvctntsetcqlc4njqxdxfsdlvoz2dsy3rfylrlzdzgegdlvgxnoe9lwhfyww5fv3zynjzxsgzvx0fwtmzmzldrmee5dlvcuepfbxrmvepxb19kskizwkk0u2llu1dqnm5izk9enu0tudhulxptsxlorvmxn2zsqxhdeko4wxd1wvhmv2jpy2dutxnqrjfmrv9mdghvrthry09wmwc",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-04T19:13:00.000Z"
+          "title": "Pope Leo urges US to welcome immigrants in America 250 speech before visiting global migrant hotspot",
+          "url": "https://www.foxnews.com/politics/pope-leo-urges-us-welcome-immigrants-america-250-speech-before-visiting-global-migrant-hotspot",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-04T15:47:21.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Pope_Lampedusa.jpg?ve=1&tl=1",
+          "description": "Pope Leo XIV accepted the 2026 Liberty Medal virtually from the Vatican before departing for Lampedusa to urge Europe to accept more migrants."
         }
-      ]
+      ],
+      "summary": "Pope Leo urged Americans to welcome and protect immigrants in a message marking the United States’ 250th anniversary. He also called for a comprehensive response to migration and visited Lampedusa, where he paid tribute at migrant graves."
     },
     {
-      "id": "topic_a3e06ff54e1ad4d2",
+      "id": "topic_daf66d41720a5045",
+      "title": "Beyoncé Releases Surprise Song “Morning Dew (Donk)”",
+      "headline": "Beyoncé Releases New Song ‘Morning Dew (Donk)’ As Fourth Of July Surprise",
       "label": [
-        "celebrat 250th",
-        "us celebrat",
-        "250th",
-        "celebrat",
-        "250th birthday",
-        "birthday"
-      ],
-      "category": "new",
-      "theme": "theme_6a9ae6f180f28ee",
-      "entities": [
-        "Trump",
-        "US",
-        "PHOTOS",
-        "The US",
-        "Fireworks"
-      ],
-      "article_count": 9,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Trump warns of ‘enemy within’ as US marks 250th birthday",
-          "url": "https://cebudailynews.inquirer.net/744155/trump-warns-of-enemy-within-as-us-marks-250th-birthday",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-04T23:45:00.000Z",
-          "image": "https://cebudailynews.inquirer.net/files/2026/07/07-05-Trump-Independence-Day-620x403.jpeg"
-        },
-        {
-          "title": "US celebrates its 250th birthday: PHOTOS",
-          "url": "https://www.washingtonexaminer.com/news/entertainment/4636211/us-celebrate-250-birthday-photo",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-04T20:10:17.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26185580135784.jpg?w=696"
-        },
-        {
-          "title": "A politically charged holiday: The US celebrates its 250th anniversary",
-          "url": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-04T19:43:18.000Z"
-        },
-        {
-          "title": "Fireworks, extreme heat and politics: America celebrates its 250th birthday",
-          "url": "https://www.independent.co.uk/news/world/americas/july-4-celebrations-america-250th-heat-flyovers-tall-ships-trump-b3009018.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-04T18:34:07.000Z",
-          "image": "https://static.independent.co.uk/2026/07/04/18/12/GettyImages-2284048082.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "US celebrates its 250th birthday",
-          "url": "https://tribune.com.pk/story/2616544/us-celebrates-its-250th-birthday-1",
-          "source": "express tribune",
-          "published_at": "2026-07-04T17:22:26.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_ab0c76588e42fd7b",
-      "label": [
-        "swiatek",
-        "eala",
-        "iga swiatek",
-        "iga",
-        "alexandra",
-        "alexandra eala"
-      ],
-      "category": "new",
-      "theme": "theme_a4b06a4091377383",
-      "entities": [
-        "Fearless Alexandra Eala",
-        "Iga Swiatek",
-        "Wimbledon",
-        "Eala",
-        "Swiatek"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Fearless Alexandra Eala stuns defending champion Iga Swiatek at Wimbledon",
-          "url": "https://www.japantimes.co.jp/sports/2026/07/05/tennis/wimbledon-eala-swiatek-upset",
-          "source": "Latest articles - The Japan Times",
-          "published_at": "2026-07-04T22:00:00.000Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/05/549864.JPG"
-        },
-        {
-          "title": "Eala upsets Wimbledon champion Swiatek in historic win for Philippines; No. 2 seed Rybakina also out",
-          "url": "https://japantoday.com/category/sports/no.-2-seed-elena-rybakina-loses-in-wimbledon-3rd-round-to-elise-mertens",
-          "source": "Japan Today",
-          "published_at": "2026-07-04T21:11:47.000Z"
-        },
-        {
-          "title": "Alex Eala upsets Wimbledon champion Iga Swiatek in historic win for the Philippines",
-          "url": "https://lifestyle.inquirer.net/575556/alex-eala-iga-swiatek-wimbledon",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-04T19:29:53.000Z",
-          "image": "https://lifestyle.inquirer.net/files/2026/07/AP26185542701230-620x413.jpg"
-        },
-        {
-          "title": "Iga Swiatek on shock exit after losing to Alexandra Eala: S**t happens",
-          "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-vs-iga-swiatek-wimbledon-champion-crashes-out-third-round-2940803-2026-07-04",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-07-04T17:59:29.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/iga-swiatek-045910293-16x9_0.jpg?VersionId=qpRuNHh9bT4pV7n2ZhbEO3VG5IUfRvaY"
-        },
-        {
-          "title": "Alexandra Eala Stuns Iga Swiatek at Wimbledon 2026 in Historic Upset",
-          "url": "https://247newsaroundtheworld.com/247-best/alexandra-eala-wimbledon-2026-defeats-iga-swiatek",
-          "source": "247 News Around The World",
-          "published_at": "2026-07-04T17:54:34.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_4276d75d32d6b137",
-      "label": [
-        "vingegaard",
-        "tour de",
-        "de france",
-        "tour",
-        "vingegaard tak",
-        "france"
-      ],
-      "category": "new",
-      "theme": "theme_8118b1313492943",
-      "entities": [
-        "Vingegaard",
-        "Tour",
-        "France",
-        "Jonas Vingegaard",
-        "Barcelona"
-      ],
-      "article_count": 16,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Vingegaard takes early edge at Tour de France",
-          "url": "https://www.espn.com/olympics/cycling/story/_/id/49269772/vingegaard-takes-early-edge-poga%c4%8dar-tour-de-france",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-07-04T19:43:07.000Z"
-        },
-        {
-          "title": "Jonas Vingegaard wins opening team time trial at Tour de France",
-          "url": "https://sports.yahoo.com/articles/jonas-vingegaard-wins-opening-team-193417656.html",
-          "published_at": "2026-07-04T19:34:17.000Z"
-        },
-        {
-          "title": "Tour de France 2026: Jonas Vingegaard in yellow after Barcelona team time trial",
-          "url": "https://www.theguardian.com/sport/2026/jul/04/tour-de-france-2026-jonas-vingegaard-barcelona-team-time-trial-cycling",
-          "source": "The Guardian",
-          "published_at": "2026-07-04T18:05:32.000Z",
-          "image": "https://i.guim.co.uk/img/media/2312bd9cff9981843b2dcd12765b65ddb11884ed/107_0_3718_2975/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=814813f9caebbdda7fb84d114881ea60"
-        },
-        {
-          "title": "Vingegaard takes early Tour de France lead as Visma win opening stage in Barcelona",
-          "url": "https://www.france24.com/en/sport/20260704-vingegaard-takes-early-tour-de-france-lead-as-visma-win-opening-stage-in-barcelona",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-07-04T17:37:31.000Z",
-          "image": "https://s.france24.com/media/display/4adb91ce-77cd-11f1-ac0a-005056bfb2b6/w:1024/p:16x9/000-B99U9DY.jpg"
-        },
-        {
-          "title": "Jonas Vingegaard takes Tour de France lead as Visma win opening team time-trial",
-          "url": "https://www.the42.ie/jonas-vingegaard-takes-tour-de-france-lead-as-visma-win-opening-team-time-trial-7091501-jul2026",
-          "source": "The 42",
-          "published_at": "2026-07-04T17:29:06.000Z",
-          "image": "https://c2.thejournal.ie/media/2026/07/barcelona-spain-04th-july-2026-danish-jonas-vingegaard-of-team-visma-lease-a-bike-c-pictured-in-action-during-the-first-stage-of-the-2026-tour-de-france-cycling-race-a-team-time-trial-of-19km-w-e364760b-bb81-47fe-813a-7aecee57c05b-630x419.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_45b2be10d8398f63",
-      "label": [
+        "beyoncé",
         "dew",
         "donk",
-        "song morn",
-        "morn dew",
-        "dew donk",
-        "beyonc"
+        "morning",
+        "song",
+        "surprise"
       ],
       "category": "new",
-      "theme": "theme_82bb52e9c1a57e50",
+      "theme": "theme_78b4ed97378760d9",
       "entities": [
         "Beyonc",
-        "Surprises Fans With New",
-        "July",
-        "Song Morning Dew",
-        "Donk"
+        "Releases New Song",
+        "Morning Dew",
+        "Donk",
+        "As Fourth Of July"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Beyoncé Surprises Fans With New July 4 Song Morning Dew (Donk)",
-          "url": "https://internewscast.com/news/us/beyonce-surprises-fans-with-new-july-4-song-morning-dew-donk",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-04T19:41:42.000Z"
+          "title": "Beyoncé Releases New Song ‘Morning Dew (Donk)’ As Fourth Of July Surprise",
+          "url": "https://deadline.com/2026/07/beyonce-morning-dew-donk-1236974147",
+          "source": "Deadline",
+          "published_at": "2026-07-04T13:38:22.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2274916289.jpg",
+          "description": "Beyoncé is setting off some Independence Day fireworks of her own, releasing a new song called “Morning Dew (Donk)” as a surprise 4th of July gift to fans. Listen to the slow-groove tune below. The song, according to an announcement put out by the singer’s Parkwood Entertainment, starts a 60-day co…"
         },
         {
-          "title": "Beyoncé überrascht mit unveröffentlichtem Song »Morning Dew (Donk)«",
-          "url": "https://www.spiegel.de/kultur/musik/beyonce-ueberrascht-mit-unveroeffentlichtem-song-morning-dew-donk-a-d9b32092-4b97-43ac-b4bc-2b7f8bde5257",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-07-04T19:14:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/fbc600d0-83d0-4570-b94e-d89780653fa9_w520_r2.08_fpx65_fpy34.jpg"
-        },
-        {
-          "title": "Beyoncé Drops Unreleased Song ‘Morning Dew (Donk)’ Ahead of ‘B’Day’ 20th Anniversary Reissue",
-          "url": "https://variety.com/2026/music/news/beyonce-morning-dew-donk-bday-20th-anniversary-reissue-1236801739",
-          "source": "Variety",
-          "published_at": "2026-07-04T16:37:15.000Z",
-          "image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2181103134.jpg"
+          "title": "Beyoncé Releases New Song ‘Morning Dew (Donk)’ As Fourth Of July Surprise",
+          "url": "https://news.google.com/rss/articles/cbmic0fvx3lxte1sn3bxbc1yq0wtddctmwhrte9vtwfwv0tyemjrd053ac02dlr1mhe0amffbg9hsnvyslvrsxe1nni3ohjpsw0ysznnamntemfgrhzqrvnicxrfdljpywfhbhi0qtdvn1lfb3dndzvplxzmdhc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-04T13:38:00.000Z",
+          "description": "Beyoncé Releases New Song ‘Morning Dew (Donk)’ As Fourth Of July Surprise Deadline Beyoncé drops new music, soothes an anxious nation CNN Beyoncé surprises fans with new single 'Morning Dew (Donk)' USA Today Listen to Beyoncé's New Song “Morning Dew (Donk)” Pitchfork"
         },
         {
           "title": "Beyoncé Drops Surprise New Song ‘Morning Dew (Donk)’ on Fourth of July",
           "url": "https://www.billboard.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1236287816",
           "source": "Billboard",
-          "published_at": "2026-07-04T16:29:52.000Z"
+          "published_at": "2026-07-04T16:29:52.000Z",
+          "description": "The track will appear on the upcoming 20th anniversary edition of her B'Day album."
+        },
+        {
+          "title": "Beyoncé Delivers Fourth of July Fireworks With Surprise New Song ‘Morning Dew (Donk)’",
+          "url": "https://www.rollingstone.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1235589184",
+          "source": "Rolling Stone",
+          "published_at": "2026-07-04T13:56:04.000Z",
+          "description": "The track, written by the singer, Pharrell Williams, The-Dream, and Darius Dixon, will appear on an upcoming 20th anniversary reissue of Beyoncé's B'Day, out on Beyoncé's birthday (September 4)"
+        },
+        {
+          "title": "Listen to Beyoncé’s New Song “Morning Dew (Donk)”",
+          "url": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary",
+          "source": "RSS: News",
+          "published_at": "2026-07-04T15:02:48.000Z",
+          "image": "https://media.pitchfork.com/photos/6a4927e548032387d22c7f12/master/pass/GettyImages-71001256.jpg",
+          "description": "The single will appear on an upcoming 20th anniversary reissue of B’Day"
         }
-      ]
+      ],
+      "summary": "Beyoncé released the new song “Morning Dew (Donk)” as a Fourth of July surprise. The track is set to appear on a 20th-anniversary edition of her album “B’Day.”"
     },
     {
-      "id": "topic_ba749bf9a3c1ec36",
+      "id": "topic_855737dcc082b47",
+      "title": "Taylor Swift and Travis Kelce Marry",
+      "headline": "Taylor Swift and Travis Kelce Are Married",
       "label": [
-        "50s",
-        "kildare",
-        "50s dies",
-        "man 50s",
-        "dies",
-        "crash"
+        "travis",
+        "kelce",
+        "swift",
+        "taylor",
+        "wedding",
+        "garden"
       ],
-      "category": "new",
-      "theme": "theme_303d95282fab2994",
+      "category": "trending",
+      "theme": "theme_d2b58851ed565249",
       "entities": [
-        "Man",
-        "Kildare",
-        "Motorcyclist",
-        "Co Kildare"
+        "Taylor Swift",
+        "Travis Kelce Are Married",
+        "Travis Kelce",
+        "Know About Taylor Swift",
+        "Wedding Festivities"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 115,
+      "source_count": 64,
       "articles": [
         {
-          "title": "Man (50s) dies after motorcycle crash in Kildare",
-          "url": "https://www.breakingnews.ie/ireland/man-50s-dies-after-motorcycle-crash-in-kildare-1922415.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMDcwODU0MDRcXFwvMi4yNDI2OTAxMi5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4ZTJiZjIzMzc2NjFlOGU0MDg0MGYxODllYWFjYTM4NGQyMjJlMzk1In0=/2-24269012.jpg"
+          "title": "Taylor Swift and Travis Kelce Are Married",
+          "url": "https://www.nytimes.com/2026/07/03/fashion/weddings/taylor-swift-travis-kelce-married-wedding.html",
+          "source": "NYT > Style",
+          "published_at": "2026-07-04T00:17:21.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/03/multimedia/03STY-LIVE-TAYTRAV-RU64-tvjl/03STY-LIVE-TAYTRAV-RU64-tvjl-mediumSquareAt3X.jpg",
+          "description": "The couple shared the news through a digital advertisement outside Madison Square Garden, as well as a news release from Swift’s longtime publicist."
         },
         {
-          "title": "Man, 50s, killed in Kildare crash as gardai issue urgent appeal",
-          "url": "https://www.irishmirror.ie/news/irish-news/man-50s-killed-kildare-crash-37388266",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-07-04T17:39:42.000Z",
-          "image": "https://i2-prod.irishmirror.ie/incoming/article37388281.ece/ALTERNATES/s615/1_kildare-crash.jpg"
-        },
-        {
-          "title": "Motorcyclist (50s) dies after single-vehicle collision in Co Kildare",
-          "url": "https://www.thejournal.ie/motorcyclist-50s-dies-following-single-vehicle-collision-in-co-kildare-7091499-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-04T17:25:10.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/07/river-205c773a-eab0-4618-9ca7-5c34906f0ba1-630x410.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_67f756fc8c02b44f",
-      "label": [
-        "conservative",
-        "anti conservative",
-        "clash police",
-        "tens",
-        "tens thousand",
-        "anti"
-      ],
-      "category": "new",
-      "theme": "theme_bee51a3491cdf9c",
-      "entities": [
-        "Mass Anti",
-        "Conservative Protests Turn Violent",
-        "Tens",
-        "Thousands Clash With Police"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Mass Anti-Conservative Protests Turn Violent as Tens of Thousands Clash With Police",
-          "url": "https://internewscast.com/news/us/mass-anti-conservative-protests-turn-violent-as-tens-of-thousands-clash-with-police",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-04T18:00:15.000Z"
-        },
-        {
-          "title": "Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
-          "url": "https://www.yahoo.com/news/politics/articles/tens-thousands-far-left-protesters-173702354.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-04T17:37:02.000Z",
-          "image": "https://media.zenfs.com/en/fox_news_text_979/2086b557c0230deed69f08a592e591b5"
-        },
-        {
-          "title": "Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
-          "url": "https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-07-04T17:37:02.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/AfD_protests.jpg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_6bd6b3acff2e5c46",
-      "label": [
-        "elli",
-        "elli park",
-        "championship opener",
-        "springbok",
-        "opener",
-        "park"
-      ],
-      "category": "new",
-      "theme": "theme_2a32e8c9560218fc",
-      "entities": [
-        "Japan",
-        "Italy",
-        "Nations Championship",
-        "Springboks",
-        "England"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Japan beats Italy 27-10 in Nations Championship opener",
-          "url": "https://japantoday.com/category/sports/japan-beat-italy-27-10-in-nations-championship-opener",
-          "source": "Japan Today",
-          "published_at": "2026-07-04T21:11:59.000Z"
-        },
-        {
-          "title": "Springboks show muscle to outclass England at Ellis Park",
-          "url": "https://news.sky.com/story/south-africa-45-21-england-springboks-show-muscle-in-seven-try-nations-championship-victory-13560437",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-07-04T17:35:00.000Z",
-          "image": "https://e3.365dm.com/26/07/1920x1080/skysports-kriel-south-africa_7289735.jpg?20260704181356"
-        },
-        {
-          "title": "Springboks beat England in Nations Championship opener at Ellis Park",
-          "url": "https://www.thesouthafrican.com/sport/rugby/springboks/springboks-beat-england-in-nations-championship-opener-at-ellis-park-result",
-          "source": "The South African",
-          "published_at": "2026-07-04T17:30:32.000Z",
-          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/07/Springboks-vs-England.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_23ec3d632b8be9c3",
-      "label": [
-        "gran",
-        "breta",
-        "la pole",
-        "gp de",
-        "de gran",
-        "gran breta"
-      ],
-      "category": "new",
-      "theme": "theme_fa4b4f77d8203d9b",
-      "entities": [
-        "Kimi Antonelli",
-        "Silverstone",
-        "GP",
-        "Gran Breta"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kimi Antonelli domina Silverstone: gana la sprint y consigue la pole del GP de Gran Bretaña",
-          "url": "https://vanguardia.com.mx/deportes/kimi-antonelli-domina-silverstone-gana-la-sprint-y-consigue-la-pole-del-gp-de-gran-bretana-ak21907337",
-          "source": "Vanguardia",
-          "published_at": "2026-07-04T21:28:09.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/ap26185679744698_1-16035630_20260704213303.jpg"
-        },
-        {
-          "title": "Kimi Antonelli logra la pole para el GP de Gran Bretaña",
-          "url": "https://www.elnorte.com/kimi-antonelli-logra-la-pole-para-el-gp-de-gran-bretana/ar3234496",
+          "title": "Se casan Taylor Swift y Travis Kelce",
+          "url": "https://www.elnorte.com/se-casan-taylor-swift-y-travis-kelce/ar3234450",
           "source": "ElNorte",
-          "published_at": "2026-07-04T16:28:48.000Z"
+          "published_at": "2026-07-04T11:01:20.000Z",
+          "description": "La estrella pop Taylor Swift dio el sí a Travis Kelce, en una ceremonia oficiada por Adam Sandler y sin damas de honor."
         },
         {
-          "title": "Kimi Antonelli logra la pole para el GP de Gran Bretaña",
-          "url": "https://www.reforma.com/kimi-antonelli-logra-la-pole-para-el-gp-de-gran-bretana/ar3234493",
-          "source": "Reforma",
-          "published_at": "2026-07-04T16:27:23.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_f41d9bfe93add89",
-      "label": [
-        "khamenei",
-        "funeral",
-        "iran",
-        "khamenei funeral",
-        "hezbollah",
-        "hama"
-      ],
-      "category": "new",
-      "theme": "theme_4ee086e594a1e7c1",
-      "entities": [
-        "Hezbollah",
-        "Hamas",
-        "Houthi",
-        "Iran",
-        "Khamenei"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Hezbollah, Hamas and Houthi officials attend funeral ceremonies for Iran's Khamenei",
-          "url": "https://www.france24.com/en/middle-east/20260704-hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-iran-s-khamenei",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-07-04T20:28:50.000Z",
-          "image": "https://s.france24.com/media/display/8c647eaa-77e4-11f1-97ff-005056a97e36/w:1024/p:16x9/AP26185653352363.jpg"
+          "title": "Taylor Swift, Travis Kelce marry at Madison Square Garden",
+          "url": "https://seekingalpha.com/news/4611501-taylor-swift-weds-madison-square-garden",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-07-04T13:32:54.000Z"
         },
         {
-          "title": "Why Iran is preparing for 3,000 deaths at Ali Khamenei's funeral",
-          "url": "https://www.indiatoday.in/world/story/ali-khamenei-funeral-iran-plans-up-to-3000-deaths-tehran-die-welt-report-2940800-2026-07-04",
+          "title": "Taylor Swift and Travis Kelce are married. What to know about the wedding",
+          "url": "https://www.independent.co.uk/news/world/americas/travis-kelce-taylor-swift-dolly-parton-elmo-zoe-kravitz-b3008803.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-04T04:02:46.000Z",
+          "image": "https://static.independent.co.uk/2026/07/04/05/APTOPIX_Taylor_Swift_Wedding_13663.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Taylor Swift and Travis Kelce have tied the knot at Madison Square Garden"
+        },
+        {
+          "title": "Adam Sandler officiates Taylor Swift-Travis Kelce's wedding",
+          "url": "https://www.indiatoday.in/movies/hollywood/story/taylor-swift-travis-kelce-wedding-adam-sandler-officiates-madison-square-garden-2940310-2026-07-04",
           "source": "India Today | Latest Stories",
-          "published_at": "2026-07-04T18:14:55.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/mourners-gather-on-the-day-of-a-public-farewell-ceremony-to-pay-their-respects-to-late-supreme-leade-044652144-16x9_0.jpg?VersionId=5MSOOZoB1TBBUCGG5RfYhgGJmF.xJ.vo"
-        },
-        {
-          "title": "At Ali Khamenei's Funeral, Hezbollah And Hamas Members Meet Iran's Araghchi",
-          "url": "https://www.ndtv.com/world-news/iran-supremem-leader-burial-at-ali-khameneis-funeral-hezbollah-and-hamas-members-meet-irans-araghchi-11727651",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-04T16:46:36.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/84vufrhg_khemenei-funeral_625x300_04_July_26.jpeg"
+          "published_at": "2026-07-04T02:38:14.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/adam-sandler-officiates-taylor-and-travis-wedding-042958686-16x9_0.jpg?VersionId=SN4dYUu8EnAUdbA95mfRYTvv0K9QNbZj",
+          "description": "Adam Sandler officiates Taylor SwiftTravis Kelces wedding"
         }
-      ]
+      ],
+      "summary": "Taylor Swift and Travis Kelce have married in a ceremony at Madison Square Garden. Reports say Adam Sandler officiated."
     },
     {
-      "id": "topic_53d6976e7452f18b",
+      "id": "topic_931e222f4d94d50f",
+      "title": "Chandrima Bhattacharya Resigns From Trinamool Congress Posts",
+      "headline": "Another Jolt To Mamata Banerjee: TMC Bengal Chief Chandrima Bhattacharya Quits All Party Posts",
       "label": [
-        "day celebration",
-        "independence day",
-        "celebration",
-        "historic independence",
-        "celebration take",
-        "take place"
+        "chandrima",
+        "bhattacharya",
+        "tmc",
+        "mamata",
+        "quits",
+        "bengal"
       ],
       "category": "new",
-      "theme": "theme_9379ff4e60ef7e05",
+      "theme": "theme_989fb6cea5231647",
       "entities": [
-        "Historic Independence Day",
-        "Heat",
-        "DC Independence Day"
+        "Another Jolt To Mamata",
+        "Banerjee",
+        "TMC Bengal Chief Chandrima",
+        "Bhattacharya Quits All Party",
+        "Posts"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 9,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Historic Independence Day celebrations take place",
-          "url": "https://www.theage.com.au/national/historic-independence-day-celebrations-take-place-20260705-p60cnt.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-07-04T21:46:35.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e185ab880da5373396338d4b983735686f68ae73"
+          "title": "Another Jolt To Mamata Banerjee: TMC Bengal Chief Chandrima Bhattacharya Quits All Party Posts",
+          "url": "https://www.freepressjournal.in/india/another-jolt-to-mamata-banerjee-tmc-bengal-chief-chandrima-bhattacharya-quits-all-party-posts",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-04T09:36:55.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-04/pr87uj9s/Untitled-design-2026-07-04T150332.897.jpg"
         },
         {
-          "title": "Historic Independence Day celebrations take place",
-          "url": "https://www.smh.com.au/national/historic-independence-day-celebrations-take-place-20260705-p60cnt.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-04T21:46:35.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e185ab880da5373396338d4b983735686f68ae73"
-        },
-        {
-          "title": "Historic Independence Day celebrations take place",
-          "url": "https://www.brisbanetimes.com.au/national/historic-independence-day-celebrations-take-place-20260705-p60cnt.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-04T21:46:35.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e185ab880da5373396338d4b983735686f68ae73"
-        },
-        {
-          "title": "Heat wave cancels some DC Independence Day celebrations",
-          "url": "https://www.washingtonexaminer.com/news/entertainment/4636160/heat-wave-cancel-independence-day",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-04T17:36:11.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP110702020774.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_848fe3196b641619",
-      "label": [
-        "petrolera",
-        "rusa",
-        "con dron",
-        "terminal petrolera",
-        "petrolera rusa",
-        "dron"
-      ],
-      "category": "new",
-      "theme": "theme_8ecebc431a16651c",
-      "entities": [
-        "Ataque",
-        "San Petersburgo",
-        "Ataca Ucrania"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Ataque ucraniano con drones impacta terminal petrolera rusa de San Petersburgo",
-          "url": "https://vanguardia.com.mx/noticias/ataque-ucraniano-con-drones-impacta-terminal-petrolera-rusa-de-san-petersburgo-mk21904495",
-          "source": "Vanguardia",
-          "published_at": "2026-07-04T20:12:03.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/ap26185547912340_1-16034819_20260704201652.jpg"
-        },
-        {
-          "title": "Ataca Ucrania con drones terminal petrolera rusa",
-          "url": "https://www.elnorte.com/ataca-ucrania-con-drones-terminal-petrolera-rusa/ar3234507",
-          "source": "ElNorte",
-          "published_at": "2026-07-04T17:06:18.000Z"
-        },
-        {
-          "title": "Ataca Ucrania con drones terminal petrolera rusa",
-          "url": "https://www.reforma.com/ataca-ucrania-con-drones-terminal-petrolera-rusa/ar3234505",
-          "source": "Reforma",
-          "published_at": "2026-07-04T17:05:41.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e7f9a8cdb2dc1aef",
-      "label": [
-        "bishnoi gift",
-        "gift england",
-        "sooryavanshi debut",
-        "bishnoi",
-        "gift",
-        "sooryavanshi"
-      ],
-      "category": "new",
-      "theme": "theme_79b010c50e1039b3",
-      "entities": [
-        "Bishnoi",
-        "England",
-        "Sooryavanshi",
-        "Iyer",
-        "T20I"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Bishnoi gifts England easy win on Sooryavanshi debut",
-          "url": "https://www.thehindu.com/sport/vaibhav-becomes-indias-youngest-international-as-iyer-opts-to-bat-in-2nd-t20i/article71183013.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-04T18:16:06.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/lslgwh/article71183017.ece/alternates/LANDSCAPE_1200/2026-07-04T132817Z_575539530_UP1EM7411F3N8_RTRMADP_3_CRICKET-T20-ENG-IND.JPG"
-        },
-        {
-          "title": "'17th over haunted us': Iyer fumes as Bishnoi gifts England win on Sooryavanshi debut",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/17th-over-haunted-us-shreyas-iyer-fumes-as-ravi-bishnoi-gifts-england-win-on-vaibhav-sooryavanshi-debut/articleshow/132185994.cms",
+          "title": "Fresh blow to TMC: West Bengal party president Chandrima Bhattacharya resigns",
+          "url": "https://timesofindia.indiatimes.com/india/fresh-blow-to-tmc-west-bengal-president-chandrima-bhattacharya-resigns/articleshow/132177701.cms",
           "source": "Times of India",
-          "published_at": "2026-07-04T18:05:57.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132186004,imgsize-95613.cms"
+          "published_at": "2026-07-04T08:25:13.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132177718,imgsize-114353.cms",
+          "description": "West Bengal's Trinamool Congress unit president Chandrima Bhattacharya has stepped down from all party positions amidst a wave of leaders departing the party. This development follows significant losses in the recent assembly elections and a subsequent organizational restructuring. The TMC has expe…"
         },
         {
-          "title": "2nd T20I: Ravi Bishnoi Gifts England Easy Win On Vaibhav Sooryavanshi's Debut",
-          "url": "https://sports.ndtv.com/cricket/2nd-t20i-ravi-bishnoi-gifts-england-easy-win-on-vaibhav-sooryavanshi-debut-11727783",
+          "title": "Fresh Blow To Mamata Banerjee As Trinamool Congress State President Chandrima Bhattacharya Quits",
+          "url": "https://swarajyamag.com/news-brief/fresh-blow-to-mamata-banerjee-as-trinamool-congress-state-president-chandrima-bhattacharya-quits",
+          "source": "Swarajya",
+          "published_at": "2026-07-04T10:31:59.235Z"
+        },
+        {
+          "title": "Mamata Banerjee faces fresh jolt as TMC Bengal chief Chandrima Bhattacharya resigns",
+          "url": "https://www.thehindu.com/news/national/west-bengal/chandrima-bhattacharya-resigns-as-tmc-mamata-banerjee-faction-bengal-chief/article71182273.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-04T09:42:32.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/87g6kf/article71182345.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000180B.jpg",
+          "description": "In a letter addressed to the Trinamool Congress chairperson, Chandrima Bhattacharya also resigned from all other posts she held in the party, triggering speculations on whether she had severed her ties with the party for all practical purposes."
+        },
+        {
+          "title": "Trust Issues, Accusation: Chandrima Bhattacharya On Why She Quit Trinamool",
+          "url": "https://www.ndtv.com/india-news/trinamool-rebellion-trinamool-leader-quits-mamata-banerjee-tmc-trust-issues-accusation-chandrima-bhattacharya-on-why-she-quit-trinamool-congress-11727702",
           "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-04T18:04:28.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/9tihvbmo_india-afp_625x300_04_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+          "published_at": "2026-07-04T17:04:03.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/odsn8hlg_chandra_625x300_04_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Bhattacharya said Mamata Banerjee had accused her of \"handing over\" the Trinamool headquarters to the rebels."
         }
-      ]
+      ],
+      "summary": "West Bengal Trinamool Congress leader Chandrima Bhattacharya resigned from all party positions. She said the decision followed an accusation from party chairperson Mamata Banerjee over her handling of the party headquarters."
     },
     {
-      "id": "topic_29367f48857185ef",
+      "id": "topic_c34e13519135cd66",
+      "title": "Trump Warns of Communism in Fourth of July Speech",
+      "headline": "Trump warns of \"communist menace\" in July 4th speech",
       "label": [
-        "zelensky",
-        "speak",
-        "trump speak",
-        "ahead nato",
-        "summit",
-        "putin zelensky"
+        "communist",
+        "menace",
+        "trump",
+        "warns",
+        "speech",
+        "cancelled"
       ],
       "category": "new",
-      "theme": "theme_545d2d8a0184c122",
+      "theme": "theme_43828681a07db1cb",
       "entities": [
-        "Putin",
-        "Zelensky",
         "Trump",
-        "Nato",
-        "NATO"
+        "July",
+        "Trump Uses Speech",
+        "Mount Rushmore",
+        "Warn Against"
       ],
-      "article_count": 8,
-      "source_count": 5,
+      "article_count": 7,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Putin, Zelensky speak to Trump ahead of Nato summit",
-          "url": "https://globalnation.inquirer.net/329700/putin-zelensky-speak-to-trump-ahead-of-nato-summit",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-04T22:52:08.000Z",
-          "image": "https://globalnation.inquirer.net/files/2025/08/AFP__20250818__69VG8ZR__v2__HighRes__TrumpSaysArrangingPutinZelenskySummit-620x310.jpg"
+          "title": "Trump warns of \"communist menace\" in July 4th speech",
+          "url": "https://www.cbsnews.com/news/trump-mount-rushmore-speech-july-4-communism",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-07-04T06:19:12.000Z",
+          "description": "The president kicked off the 250th anniversary of July 4th with a patriotic speech at Mount Rushmore where he warned of a resurgence in communism."
         },
         {
-          "title": "Trump speaks with Putin and Zelensky ahead of NATO summit",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/05/trump-speaks-with-putin-and-zelensky-ahead-of-nato-summit_6755156_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-07-04T22:18:34.000Z",
-          "image": "https://img.lemde.fr/2026/07/04/0/0/1792/896/644/322/60/0/51d5a9f_ftp-1-xz8dirmxaot0-2026-07-04t210732z-42590236-rc2xpiag1mob-rtrmadp-3-ukraine-crisis-zelenskiy-trump.JPG"
+          "title": "Trump Uses Speech at Mount Rushmore to Warn Against “Communist Menace”",
+          "url": "https://truthout.org/articles/trump-uses-speech-at-mount-rushmore-to-warn-against-communist-menace",
+          "source": "Truthout",
+          "published_at": "2026-07-04T16:58:46.000Z",
+          "image": "https://truthout.org/app/uploads/2026/07/GettyImages-2283958903-1200x900.jpg",
+          "description": "Trump also called on Congress to end the filibuster and pass the SAVE America Act, a voter suppression bill."
         },
         {
-          "title": "Trump speaks with Zelensky over phone — reporter",
-          "url": "https://tass.com/world/2155759",
-          "source": "TASS",
-          "published_at": "2026-07-04T19:16:48.000Z"
+          "title": "Trump warns of ‘resurgence of the Communist menace’ during Mount Rushmore America 250 speech",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4636028/trump-resurgence-communist-menace-mount-rushmore-america-250",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-04T04:14:39.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26185117994157.jpg?w=696",
+          "description": "President Donald Trump, speaking in front of Mount Rushmore, used his address on the eve of America’s 250th birthday to warn that there is a “resurgence of the Communist menace in our land.” His speech came just hours after Zohran Mamdani, the socialist mayor of New York, used a speech while sittin…"
+        },
+        {
+          "title": "Trump Attacks the ‘Communist Menace’ in America",
+          "url": "https://politicalwire.com/2026/07/04/trump-attacks-socialists-speaking-from-mount-rushmore",
+          "source": "Political Wire",
+          "published_at": "2026-07-04T11:12:22.000Z",
+          "description": "“President Trump attacked the recent elections, in which self-identified Democratic socialists have prevailed in primaries, as he spoke in front of Mount Rushmore on Friday ahead of the country’s semiquincentennial Independence Day celebration,” the Wall Street Journal reports. Said Trump: “You can…"
+        },
+        {
+          "title": "Trump warns of communist threat as Washington parade cancelled",
+          "url": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-07-04T10:17:11.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/82/51/01/696x392_cmsv2_2b9f1c0a-96b1-5016-8859-b220593290ba-9825101.jpg",
+          "description": "\"Communism is a mortal threat to American liberty,\" Trump said during a speech. \"It is the greatest threat to our country\"."
         }
-      ]
+      ],
+      "summary": "Donald Trump warned of a resurgence of communism during a Fourth of July anniversary speech at Mount Rushmore. He also called on Congress to end the filibuster and pass the SAVE America Act."
     },
     {
-      "id": "topic_984337f164e10173",
+      "id": "topic_6315a64b67f5b807",
+      "title": "Iran Begins Six-Day Funeral for Ali Khamenei",
+      "headline": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
       "label": [
-        "redressement",
-        "fiscal",
-        "un redressement",
-        "redressement fiscal",
-        "million euro",
-        "bernard"
+        "six",
+        "funeral",
+        "day",
+        "begins",
+        "ayatollah",
+        "iran"
       ],
       "category": "new",
-      "theme": "theme_82f26508677051d8",
+      "theme": "theme_36dcf2e42b4c3091",
       "entities": [
-        "Bernard Arnault",
-        "LVMH"
+        "Iran",
+        "Ayatollah Khamenei",
+        "Ayatollah",
+        "Tehran",
+        "Crowds"
       ],
       "article_count": 5,
       "source_count": 5,
       "articles": [
         {
-          "title": "Bernard Arnault rattrapé par un redressement fiscal à plus de 20 millions d’euros",
-          "url": "https://www.huffingtonpost.fr/france/article/bernard-arnault-rattrape-par-un-redressement-fiscal-a-plus-de-20-millions-d-euros_283340.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-07-04T20:54:24.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/07/04/0/0/3817/2147/0/0/60/0/550eedd_upload-1-zjx1mzvvikqw-afp-20260617-b7cx3db-v1-highres-francetechnologyindustrysciencefairvivatech.jpg"
+          "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+          "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-07-04T05:20:52.000Z",
+          "description": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad."
         },
+        {
+          "title": "Iran begins six-day state funeral for Ayatollah Khamenei",
+          "url": "https://www.nation.com.pk/05-jul-2026/iran-begins-six-day-state-funeral-ayatollah-khamenei",
+          "source": "The Nation - Top Stories",
+          "published_at": "2026-07-04T21:39:00.000Z",
+          "image": "https://www.nation.com.pk/print_images/small/2026-07-05/iran-begins-six-day-state-funeral-ayatollah-khamenei-1783201157-7536.jpg",
+          "description": "Mourners chant for revenge as large crowds gather in Tehran Iran said to bar Mojtaba Khamenei from father’s funeral, fearing Israel could kill him New IRGC Navy chief warns of imminent ‘divine retribution’ for Israel, US US-Iran negotiations reportedly set to resume July 11, will include."
+        },
+        {
+          "title": "Iran begins six-day funeral for Ayatollah as mourners flock to Tehran months after regime’s supreme leader’s death",
+          "url": "https://www.thesun.co.uk/news/39645425/iran-mourns-ayatollah-funeral-draws-crowds",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-07-04T09:25:47.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F07%2Fepa13085131-iranians-pay-tribute-late-1092979028.jpg?quality%3D90%26strip%3Dall",
+          "description": "IRAN has begun a six-day funeral for Supreme Leader Ayatollah Ali Khamenei four months after the dictator was killed in a US-Israeli strike. Mourners have flocked to Tehran to commemorate the tyrannical despot's 37-year reign which came to a dramatic end in February. Dubbed the \"funeral of the cent…"
+        },
+        {
+          "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+          "url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-07-04T09:43:04.000Z",
+          "image": "https://i.guim.co.uk/img/media/70c8ca6c2b8cfa7e67bb92149d8182d7997e7535/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=41c5c1b18244c79bbea4b2da06ae7e5a",
+          "description": "Up to 30 million people expected to attend delayed events for Ali Khamenei, killed at start of war with US and Israel The funeral of the former Iranian supreme leader has begun as the gates of the sprawling Grand Mosalla mosque in central Tehran let in thousands of mourners who had been waiting thr…"
+        },
+        {
+          "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-ali-khamenei-funeral-hormuz-b3008931.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-04T14:15:13.000Z",
+          "image": "https://static.independent.co.uk/2026/07/04/14/2026-07-04T111953Z_235225091_RC2V6MACKBEJ_RTRMADP_3_IRAN-CRISIS-KHAMENEI.JPG?width=1200&auto=webp&trim=1%2C0%2C1%2C0",
+          "description": "Iran warned the US and Israel any attacks during the public funeral would be met with a ‘harsh retaliation’"
+        }
+      ],
+      "summary": "Iran began a six-day state funeral for former supreme leader Ali Khamenei, who died nearly four months earlier. Ceremonies are planned across Iran and Iraq before his burial in Mashhad."
+    },
+    {
+      "id": "topic_9a2737d03547efd3",
+      "title": "Bernard Arnault Faces €22.5 Million Tax Adjustment in France",
+      "headline": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
+      "label": [
+        "redressement",
+        "bernard",
+        "arnault",
+        "fiscal",
+        "euros",
+        "millions"
+      ],
+      "category": "new",
+      "theme": "theme_1555135a481ca273",
+      "entities": [
+        "Bernard Arnault",
+        "Redressement",
+        "LVMH",
+        "France",
+        "LVMH Bernard Arnault"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
         {
           "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
           "url": "https://www.mediapart.fr/journal/france/040726/bernard-arnault-soumis-un-redressement-fiscal-de-225-millions-d-euros",
           "source": "Mediapart",
           "published_at": "2026-07-04T18:28:58.000Z",
-          "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/04/afp-20260617-b7cu8wx-v1-highres-francetechnologyindustrysciencefairvivatech.jpg"
+          "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/04/afp-20260617-b7cu8wx-v1-highres-francetechnologyindustrysciencefairvivatech.jpg",
+          "description": "Le patron du géant mondial du luxe LVMH, le Français Bernard Arnault, a été soumis à un redressement fiscal de près de 22,5 millions d’euros, d’après une décision de la cour administrative d’appel de Paris consultée par l’AFP."
         },
         {
-          "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/04/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_6720699_3234.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-07-04T18:24:28.000Z",
-          "image": "https://img.lemde.fr/2026/06/17/316/0/3793/1896/644/322/60/0/109f7df_ftp-1-xxnh5qr1ekxc-2026-06-17t081305z-86898463-rc2kvlakrc9s-rtrmadp-3-france-tech-lvmh.JPG"
+          "title": "Redressement fiscal de 22,5 millions d’euros pour Bernard Arnault",
+          "url": "https://www.nouvelobs.com/economie/20260704.obs116404/redressement-fiscal-de-22-5-millions-d-euros-pour-bernard-arnault.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-07-04T14:59:58.000Z",
+          "image": "https://focus.nouvelobs.com/2026/07/04/0/0/7231/4820/0/0/60/0/051d81e_upload-1-h9cvwiknsz45-bernard-arnault-sipa-ap23042539-000004.jpg",
+          "description": "Un montage de holdings avait permis à l’homme le plus riche de France de réduire ses impôts. Une décision de la Cour administrative de Paris lui impose un redressement."
         },
         {
           "title": "LVMH : pourquoi Bernard Arnault est soumis à un redressement fiscal de 22,5 millions d’euros",
           "url": "https://www.ouest-france.fr/economie/bernard-arnault/lvmh-pourquoi-bernard-arnault-est-soumis-a-un-redressement-fiscal-de-22-5-millions-deuros-af8202b8-77d0-11f1-980a-970130a57304",
           "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
           "published_at": "2026-07-04T18:15:55.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3ZmZkMDc5ZWVkZDVkYzc2NTU2NmE5ZTk1YjRlZmVkYjA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0160c01224cd5a28bb1fc2f8be38177320421c480e3fcc906b722ed147800e1d"
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3ZmZkMDc5ZWVkZDVkYzc2NTU2NmE5ZTk1YjRlZmVkYjA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0160c01224cd5a28bb1fc2f8be38177320421c480e3fcc906b722ed147800e1d",
+          "description": "La première fortune de France devra bien verser au fisc des cotisations supplémentaires. La justice lui reproche, dans un arrêt dévoilé samedi, notamment un montage financier trop complexe dans sa holding liée à LVMH qui lui aurait permis de réduire ce qu’il devait à l’administration fiscale."
         },
         {
-          "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d'euros",
-          "url": "https://www.franceinfo.fr/economie/entreprises/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_8094110.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-07-04T17:24:36.000Z",
-          "image": "https://www.franceinfo.fr/pictures/4h20nxqkPnj5S314oCe9AJ1-Ow8/0x300:5768x3545/432x243/filters:format(jpg)/2026/07/04/6a4937f69a11b234954797.jpg"
+          "title": "France : Bernard Arnault (patron de LVMH) soumis à un redressement fiscal de 22,5 millions d’euros",
+          "url": "https://www.rtbf.be/article/france-bernard-arnault-patron-de-lvmh-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros-11752748",
+          "source": "- Info",
+          "published_at": "2026-07-04T14:41:02.000Z",
+          "image": "https://static-content.rtbf.be/article/image/770x433/0/e/f/9720860a1aff3dbc98149d7f68c1f47d.jpg",
+          "description": "Dans le détail, 12,96 millions de \"cotisations supplémentaires d'impôt sur le revenu et de cotisations sociales\" pour..."
+        },
+        {
+          "title": "Le patron de LVMH Bernard Arnault visé par un redressement fiscal de 22,5 millions d’euros",
+          "url": "https://www.sudouest.fr/ile-de-france/paris/le-patron-de-lvmh-bernard-arnault-vise-par-un-redressement-fiscal-de-22-5-millions-d-euros-29791449.php",
+          "source": "L'essentiel",
+          "published_at": "2026-07-04T14:48:10.000Z",
+          "description": "Le patron du groupe de luxe LVMH, Bernard Arnault, fait l’objet d’un redressement fiscal portant sur plusieurs années après une décision de la Cour administrative de Paris"
         }
-      ]
+      ],
+      "summary": "A French court ruling requires LVMH chief Bernard Arnault to pay about €22.5 million in additional taxes and social contributions. The adjustment concerns a financial holding structure used over several years."
+    },
+    {
+      "id": "topic_be621d10f28957a1",
+      "title": "Alexandra Eala Upsets Iga Swiatek at Wimbledon",
+      "headline": "Alex Eala stuns defending champion Iga Swiatek to reach Wimbledon R16",
+      "label": [
+        "eala",
+        "iga",
+        "swiatek",
+        "wimbledon",
+        "alex",
+        "stuns"
+      ],
+      "category": "new",
+      "theme": "theme_931c7a8cd0a95ff4",
+      "entities": [
+        "Alex Eala",
+        "Iga Swiatek",
+        "Wimbledon R16",
+        "Fearless Alexandra Eala",
+        "Wimbledon"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Alex Eala stuns defending champion Iga Swiatek to reach Wimbledon R16",
+          "url": "https://cebudailynews.inquirer.net/744111/alexandra-eala-stuns-defending-champion-iga-swiatek-to-reach-wimbledon-round-of-16",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-04T14:52:32.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/07/AP26185466945466-620x413.jpg",
+          "description": "Filipina tennis sensation Alexandra Eala pulled off another career-defining victory after upsetting defending champion Iga Swiatek of Poland, 7-6, 6-2, in the third round of the 2026 Wimbledon Championships. The win booked Eala a place in the Round of 16 at the All-England Club, while her parents a…"
+        },
+        {
+          "title": "Fearless Alexandra Eala stuns defending champion Iga Swiatek at Wimbledon",
+          "url": "https://www.japantimes.co.jp/sports/2026/07/05/tennis/wimbledon-eala-swiatek-upset",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-07-04T22:00:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/05/549864.JPG",
+          "description": "Eala, seeded 29th, is the ‌first player from the Philippines to reach the fourth round of a Grand Slam."
+        },
+        {
+          "title": "Alexandra Eala Stuns Iga Swiatek at Wimbledon 2026 in Historic Upset",
+          "url": "https://247newsaroundtheworld.com/247-best/alexandra-eala-wimbledon-2026-defeats-iga-swiatek",
+          "source": "247 News Around The World",
+          "published_at": "2026-07-04T17:54:34.000Z",
+          "description": "247 News Around The World 247 News Around The World Filipino tennis player Alexandra Eala defeated defending Wimbledon champion Iga Swiatek 7-6(9),… The post Alexandra Eala Stuns Iga Swiatek at Wimbledon 2026 in Historic Upset appeared first on %%247newsaroundtheworld.com%%."
+        },
+        {
+          "title": "Alexandra Eala stuns Wimbledon champion Iga Swiatek to make more history for the Philippines",
+          "url": "https://sports.yahoo.com/articles/alexandra-eala-stuns-wimbledon-champion-145207464.html",
+          "published_at": "2026-07-04T15:29:23.000Z",
+          "description": "The 21-year-old Eala came of age as she defeated champion Swiatek for the second time in her young career and reach the fourth round of a grand slam for the first time"
+        },
+        {
+          "title": "Defending Wimbledon champion Iga Swiatek is knocked OUT in the third round by rising star from the Philippines Alexandra Eala - who gives a tearful speech on Centre Court after making history",
+          "url": "https://www.dailymail.com/sport/tennis/article-15952967/defending-wimbledon-champion-iga-swiatek-knocked-round-rising-star-philippines-alexandra-eala-gives-tearful-speech-centre-court-making-history.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-07-04T15:18:30.000Z",
+          "image": "https://i.dailymail.com/1s/2026/07/04/16/109795767-0-image-a-22_1783178268248.jpg",
+          "description": "Defending Wimbledon champion Iga Swiatek suffered a straight-sets defeat in the third round to leave the women's draw wide open in SW19."
+        }
+      ],
+      "summary": "Alexandra Eala defeated defending champion Iga Swiatek in straight sets in Wimbledon’s third round. Eala became the first player from the Philippines to reach a Grand Slam fourth round."
+    },
+    {
+      "id": "topic_39de5825c2eccbba",
+      "title": "Kimi Antonelli Takes British Grand Prix Pole After Sprint Win",
+      "headline": "Kimi Antonelli logra la pole position para el GP de Gran Bretaña",
+      "label": [
+        "antonelli",
+        "bretaña",
+        "pole",
+        "gran",
+        "kimi",
+        "sprint"
+      ],
+      "category": "new",
+      "theme": "theme_e6a9aea86045e31a",
+      "entities": [
+        "Kimi Antonelli",
+        "GP",
+        "Gran Breta",
+        "Silverstone",
+        "F1"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Kimi Antonelli logra la pole position para el GP de Gran Bretaña",
+          "url": "https://www.informador.mx/deportes/f1-kimi-antonelli-logra-la-pole-position-para-el-gp-de-gran-bretana-como-le-fue-a-checo-perez-hoy-20260704-0055.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-07-04T16:15:00.000Z",
+          "description": "El juvenil italiano de Mercedes se quedó con el primer lugar, luego de haber ganado más temprano la carrera sprint, confirmando el gran momento que atraviesa"
+        },
+        {
+          "title": "Kimi Antonelli logra la pole para el GP de Gran Bretaña",
+          "url": "https://www.elnorte.com/kimi-antonelli-logra-la-pole-para-el-gp-de-gran-bretana/ar3234496",
+          "source": "ElNorte",
+          "published_at": "2026-07-04T16:28:48.000Z",
+          "description": "Tras ganar la Sprint, Kimi Antonelli conquista la pole del GP de Gran Bretaña; Charles Leclerc saldrá segundo y Lewis Hamilton, tercero."
+        },
+        {
+          "title": "Kimi Antonelli domina Silverstone: gana la sprint y consigue la pole del GP de Gran Bretaña",
+          "url": "https://vanguardia.com.mx/deportes/kimi-antonelli-domina-silverstone-gana-la-sprint-y-consigue-la-pole-del-gp-de-gran-bretana-ak21907337",
+          "source": "Vanguardia",
+          "published_at": "2026-07-04T21:28:09.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/ap26185679744698_1-16035630_20260704213303.jpg",
+          "description": "Kimi Antonelli firmó una jornada perfecta en Silverstone al conquistar la carrera sprint y quedarse más tarde con la pole position para el Gran Premio de Gran Bretaña, resultado que fortaleció su liderato en el campeonato de Fórmula 1 y dejó a su principal perseguidor, George Russell, con una misió…"
+        },
+        {
+          "title": "F1: en plein di Kimi Antonelli, sprint e pole position a Silverstone",
+          "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/07/04/f1-per-antonelli-sprint-e-pole-position-a-silverstone_06918c32-114c-4c3b-9b67-0f3fc1a65042.html",
+          "source": "Primo piano ANSA - ANSA.it",
+          "published_at": "2026-07-04T16:33:21.000Z",
+          "description": "Seconda e terza le Ferrari di Leclerc e Hamilton, quarta l'altra Mercedes di Russel"
+        },
+        {
+          "title": "Se impone Antonelli en la Sprint de Gran Bretaña",
+          "url": "https://www.reforma.com/se-impone-antonelli-en-la-sprint-de-gran-bretana/ar3234479",
+          "source": "Reforma",
+          "published_at": "2026-07-04T13:45:26.000Z",
+          "description": "Kimi Antonelli se impuso en la Sprint del GP de Gran Bretaña, mientras Lewis Hamilton quedó en segundo y Lando Norris, tercero."
+        }
+      ],
+      "summary": "Kimi Antonelli won the British Grand Prix sprint and then secured pole position for the race at Silverstone. Charles Leclerc qualified second and Lewis Hamilton third."
+    },
+    {
+      "id": "topic_7e4801d511daa281",
+      "title": "Colombia Beats Ghana to Reach World Cup Round of 16",
+      "headline": "World Cup 2026 Colombia Beat Ghana 1-0 to Reach the Last 16",
+      "label": [
+        "colombia",
+        "ghana",
+        "reach",
+        "last",
+        "beat",
+        "overcome"
+      ],
+      "category": "new",
+      "theme": "theme_6c5da88bd38da689",
+      "entities": [
+        "World Cup",
+        "Colombia Beat Ghana",
+        "Reach",
+        "Last",
+        "Colombia"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "World Cup 2026 Colombia Beat Ghana 1-0 to Reach the Last 16",
+          "url": "https://www.riotimesonline.com/world-cup-2026-colombia-ghana-1-0",
+          "source": "The Rio Times",
+          "published_at": "2026-07-04T06:08:42.000Z",
+          "description": "World Cup 2026 Colombia beat Ghana 1-0 in Kansas City through an early Jhon Arias strike to reach the last 16 and a tie with Switzerland in Vancouver. The post World Cup 2026 Colombia Beat Ghana 1-0 to Reach the Last 16 appeared first on The Rio Times."
+        },
+        {
+          "title": "Colombia beats Ghana 1-0 to reach round of 16",
+          "url": "https://japantoday.com/category/2026-fifa-world-cup/jhon-arias-scores-and-colombia-beats-ghana-1-0-to-reach-the-world-cup-round-of-16",
+          "source": "Japan Today",
+          "published_at": "2026-07-04T03:40:24.000Z",
+          "description": "Jhon Arias scored off a sharp cross from Luis Suárez in the opening minutes, and Colombia controlled Ghana on a sweltering night at Arrowhead Stadium, allowing Los Cafeteros…"
+        },
+        {
+          "title": "Colombia overcome Ghana to reach last 16",
+          "url": "https://tribune.com.pk/story/2616458/colombia-overcome-ghana-to-reach-last-16",
+          "source": "express tribune",
+          "published_at": "2026-07-04T05:50:31.000Z",
+          "description": "Arias' goal was enough to progress into the next round"
+        },
+        {
+          "title": "World Cup: Jhon Arias, Colombia beat Ghana to reach Round of 16",
+          "url": "https://sports.inquirer.net/684797/world-cup-jhon-arias-colombia-beat-ghana-to-reach-round-of-16",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-04T04:55:56.000Z",
+          "image": "https://sports.inquirer.net/files/2026/07/AFP__20260704__2284562547__v2__HighRes__ColombiaVGhanaRoundOf32FifaWorldCup2026-620x443.jpg",
+          "description": "KANSAS CITY, Missouri— Jhon Arias scored off a sharp cross from Luis Suárez in the opening minutes, and Colombia controlled Ghana on a sweltering night at Arrowhead Stadium, allowing Los Cafeteros to advance to the Round of 16 at the World Cup with a 1-0 victory Friday night. Colombia will play Swi…"
+        },
+        {
+          "title": "Colombia overcome Ghana to reach World Cup last 16",
+          "url": "https://sports.yahoo.com/articles/colombia-overcome-ghana-reach-world-033821822.html",
+          "published_at": "2026-07-04T04:41:57.000Z",
+          "description": "Wasteful Colombia saw off toothless Ghana 1-0 on Friday to become the final team to qualify for the World Cup last 16.Now they can look forward to a meeting with Switzerland in Vancouver on Tuesday and a chance to reach the quarter-finals."
+        }
+      ],
+      "summary": "Colombia defeated Ghana 1-0, with Jhon Arias scoring early, to advance to the World Cup last 16. Colombia will face Switzerland in the next round."
+    },
+    {
+      "id": "topic_500b1914f3c6dd80",
+      "title": "India Designates 23 Pakistan-Based Individuals as Terrorists",
+      "headline": "India designates 23 Pakistan-based operatives as terrorists under UAPA",
+      "label": [
+        "designated",
+        "terrorists",
+        "uapa",
+        "based",
+        "pakistan",
+        "individuals"
+      ],
+      "category": "new",
+      "theme": "theme_633fca2aee8cdca1",
+      "entities": [
+        "India",
+        "Pakistan",
+        "UAPA",
+        "MHA",
+        "Full"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "India designates 23 Pakistan-based operatives as terrorists under UAPA",
+          "url": "https://www.indiatoday.in/india/story/union-home-ministry-23-pakistan-based-individuals-jaish-e-mohammad-lashkar-e-taiba-terrorists-2940442-2026-07-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-04T07:40:35.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/terrorist-043203287-16x9_0.jpeg?VersionId=BPEppEkBbbXRMCfbbcamnyfw3_rt.x7L",
+          "description": "India designates Pakistanbased operatives as terrorists under UAPA"
+        },
+        {
+          "title": "MHA designates 23 Pakistan-based individuals as ‘terrorists’ under UAPA",
+          "url": "https://www.thehindu.com/news/national/mha-designates-23-pakistan-based-individuals-as-terrorists-under-uapa/article71181869.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-04T05:42:40.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ki4cll/article71181931.ece/alternates/LANDSCAPE_1200/iStock-106492379.jpg",
+          "description": "Including the names of terrorists in the list will allow the NIA to block their finances, impose embargo on arms sales, and seize their assets"
+        },
+        {
+          "title": "23 Pakistan-based persons designated terrorists under UAPA",
+          "url": "https://scroll.in/latest/1094044/23-pakistan-based-persons-designated-terrorists-under-uapa",
+          "source": "Scroll.in",
+          "published_at": "2026-07-04T08:14:24.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/206672-bsbvnbyzns-1744107703.jpg",
+          "description": "The individuals are linked to terror groups Jaish-e-Mohammed, Lashkar-e-Taiba, Jamaat-ud-Dawa and The Resistance Front, the Union home ministry stated."
+        },
+        {
+          "title": "Centre Declares 23 Pakistan-Based JeM, LeT Operatives As Designated Terrorists Under UAPA",
+          "url": "https://www.freepressjournal.in/india/centre-declares-23-pakistan-based-jem-let-operatives-as-designated-terrorists-under-uapa",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-04T05:33:34.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2021-08/4133cd22-b92b-4e7e-8a4f-8db560380e82/685453_680859_terrorist_020718.jpg"
+        },
+        {
+          "title": "India Designates 23 Pakistan-Based Terror Operatives Under UAPA, Takes Individual Terrorist List To 80",
+          "url": "https://swarajyamag.com/security/india-designates-23-pakistan-based-terror-operatives-under-uapa-takes-individual-terrorist-list-to-80",
+          "source": "Swarajya",
+          "published_at": "2026-07-04T07:58:44.420Z"
+        }
+      ],
+      "summary": "India designated 23 Pakistan-based individuals as terrorists under the Unlawful Activities (Prevention) Act. The individuals are linked to groups including Jaish-e-Mohammed and Lashkar-e-Taiba."
     }
   ]
 }

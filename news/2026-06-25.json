@@ -1,902 +1,846 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-26T00:50:07.223Z",
+  "generated_at": "2026-09-27T14:02:47.642Z",
   "topics": [
     {
-      "id": "topic_8b3c7ce498c84629",
+      "id": "topic_64cd0060277c8b35",
+      "title": "Apple Raises Prices for MacBooks and iPads Amid Higher Memory Costs",
+      "headline": "Apple raises prices of MacBooks, iPads",
       "label": [
-        "rey",
-        "espa",
-        "de espa",
-        "al rey",
-        "recibe",
-        "al"
+        "ipads",
+        "apple",
+        "macbooks",
+        "prices",
+        "raises",
+        "macs"
       ],
       "category": "new",
-      "theme": "theme_c05fb5f6f725075f",
+      "theme": "theme_fe88d45fb566d771",
       "entities": [
-        "Sheinbaum",
-        "Felipe VI",
-        "Espa",
-        "Palacio Nacional",
-        "El"
+        "Apple",
+        "MacBooks",
+        "Apple Raises Prices",
+        "Some MacBooks",
+        "HomePods"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 33,
+      "source_count": 29,
       "articles": [
         {
-          "title": "Sheinbaum recibe al rey Felipe VI de España en Palacio Nacional",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/sheinbaum-recibe-al-rey-felipe-vi-en-mexico-para-sellar-la-normalizacion-de-la-relacion.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-06-25T23:18:12.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/06/2023346.jpeg"
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25",
+          "source": "Hacker News: Newest",
+          "published_at": "2026-06-25T13:02:56.000Z",
+          "description": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa... Comments URL: https://news.ycombinator.com/item?id=48672732 Points: 276 # Comments: 480"
         },
         {
-          "title": "Sheinbaum recibe al rey Felipe VI de España en Palacio Nacional",
-          "url": "https://www.informador.mx/mexico/sheinbaum-recibe-al-rey-felipe-vi-de-espana-en-palacio-nacional-20260625-0164.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-25T23:05:00.000Z"
+          "title": "Apple raises prices of MacBooks, iPads over memory cost",
+          "url": "https://www.perthnow.com.au/news/technology/apple-raises-prices-of-macbooks-ipads-over-memory-cost-c-22487231",
+          "source": "PerthNow",
+          "published_at": "2026-06-25T15:23:15.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22487231/e3b3220a80cd80973835ec64ef27545d6d07f97a-16x9-x0y0w1280h720.jpg",
+          "description": "Apple says its iPads and MacBooks will cost more as memory makers prioritise orders from artificial intelligence chipmakers."
         },
         {
-          "title": "El rey Felipe VI de España llega al Palacio Nacional de México",
-          "url": "https://vanguardia.com.mx/noticias/el-rey-felipe-vi-de-espana-llega-al-palacio-nacional-de-mexico-in21688514",
-          "source": "Vanguardia",
-          "published_at": "2026-06-25T22:56:26.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/diseno-sin-titulo-2026-06-25t17002_1-15934214_20260625230039.jpg"
+          "title": "Apple Raises Prices for Some MacBooks, iPads, HomePods",
+          "url": "https://www.cnet.com/tech/computing/apple-price-increases-macbooks-ipads-blames-ram-shortage",
+          "source": "CNET",
+          "published_at": "2026-06-25T14:43:00.000Z",
+          "image": "https://www.cnet.com/a/img/resize/f57cbcd758542319b625fd58ed60cdb59af9dd6a/hub/2026/03/10/482e3a4c-dbfd-4413-b637-5b6b02b75234/site-macbook-neo-lab-report-v1.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "Tim Cook said that RAMageddon would make price increases \"unavoidable.\" And now they're happening."
         },
         {
-          "title": "El rey Felipe VI y Claudia Sheinbaum entierran el distanciamiento entre España y México con un encuentro en Palacio Nacional",
-          "url": "https://elpais.com/mexico/2026-06-25/el-rey-felipe-vi-y-claudia-sheinbaum-entierran-el-distanciamiento-entre-espana-y-mexico-con-un-encuentro-en-palacio-nacional.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-06-25T22:51:38.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/HA5IXEFUCFGPJHXWLHUUV2ZQ6A.jpg?auth=f45dec8df450282eda029688fc569ef96fb28af5b463f6dcfb30bc794be5ba8c"
+          "title": "Apple raises prices of MacBooks, iPads as memory costs skyrocket",
+          "url": "https://finance.yahoo.com/technology/articles/apple-raises-prices-macbooks-ipads-124211829.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-25T12:42:11.000Z",
+          "image": "https://media.zenfs.com/en/reuters-finance.com/86be2f3987d6bbc70f615d50051da1b2"
         },
         {
-          "title": "Recibe Sheinbaum al Rey de España",
-          "url": "https://www.elnorte.com/recibe-sheinbaum-al-rey-de-espana/ar3229431",
-          "source": "ElNorte",
-          "published_at": "2026-06-25T22:25:19.000Z"
+          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+          "url": "https://www.digitaljournal.com/article/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+          "source": "Digital Journal",
+          "published_at": "2026-06-25T18:00:10.000Z",
+          "description": "The price hikes sent Apple shares plummeting more than 4.7 percent. The post Apple raises prices for MacBooks and iPads, as costs soar over AI appeared first on Digital Journal."
         }
-      ]
+      ],
+      "summary": "Apple says some MacBooks and iPads will cost more as memory makers prioritize orders from AI chipmakers. Reports also cite rising memory costs."
     },
     {
-      "id": "topic_7f92da19f325c8db",
+      "id": "topic_407949833d16a00",
+      "title": "Two Powerful Earthquakes Strike Venezuela",
+      "headline": "After 32 Dead After Two Powerful Earthquakes Strike Venezuela, Trump Promises Help",
       "label": [
-        "phoebe",
-        "bridger",
-        "boys",
-        "phoebe bridger",
-        "lost boys",
-        "lost"
+        "strike",
+        "earthquakes",
+        "venezuela",
+        "two",
+        "major",
+        "powerful"
       ],
       "category": "new",
-      "theme": "theme_121466d283ae5c93",
+      "theme": "theme_1966abc78285081b",
       "entities": [
-        "Phoebe Bridgers Goes Renaissance",
-        "Faire Role",
-        "Playing",
-        "Video",
-        "Lost Boys"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Phoebe Bridgers Goes Renaissance Faire Role-Playing in the Video for ‘Lost Boys,’ Her First Solo Single in Four Years",
-          "url": "https://variety.com/2026/music/news/phoebe-bridgers-lost-boys-single-video-renaissance-faire-1236790949",
-          "source": "Variety",
-          "published_at": "2026-06-25T23:22:27.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/Lost-Boys-Music-Video-Credit-Chris-Maggio.jpg"
-        },
-        {
-          "title": "Listen to Phoebe Bridgers’ New Song “Lost Boys”",
-          "url": "https://pitchfork.com/news/listen-to-phoebe-bridgers-new-song-lost-boys",
-          "source": "RSS: News",
-          "published_at": "2026-06-25T23:03:40.000Z",
-          "image": "https://media.pitchfork.com/photos/6a3d77fe8dd76c696cfd2cb8/master/pass/img-71e1bbc0-2814-429e-9dcb-2f0cd2dc1d0d.png"
-        },
-        {
-          "title": "Phoebe Bridgers LARPs at a Renaissance Faire in Video for New Song “Lost Boys”: Watch",
-          "url": "https://consequence.net/2026/06/phoebe-bridgers-new-song-lost-boys-video",
-          "source": "Consequence",
-          "published_at": "2026-06-25T23:00:30.000Z",
-          "image": "https://consequence.net/wp-content/uploads/2026/06/Phoebe-Bridgers-Lost-Boys-Music-Video-Credit-Chris-Maggio.jpg?quality=80"
-        },
-        {
-          "title": "Phoebe Bridgers: Lost Boys review – ghosts, guns and guileless youth on generational songwriter’s return",
-          "url": "https://www.theguardian.com/music/2026/jun/26/phoebe-bridgers-lost-boys-review",
-          "source": "Music | The Guardian",
-          "published_at": "2026-06-25T23:00:03.000Z",
-          "image": "https://i.guim.co.uk/img/media/161182f6638c12e68bde780309f24f2fcdf885c5/113_0_3374_2700/master/3374.jpg?width=140&quality=85&auto=format&fit=max&s=262fcc57aa907af0726b14f6cd36084d"
-        },
-        {
-          "title": "Phoebe Bridgers Gives Us Medieval Magic With ‘Lost Boys’",
-          "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-lost-boys-new-song-1235582808",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-25T23:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7bb7f33e60297359",
-      "label": [
-        "reaparece",
-        "inzunza",
-        "del senado",
-        "senado",
-        "virtual",
-        "inzunza en"
-      ],
-      "category": "new",
-      "theme": "theme_6e463111465f9ef0",
-      "entities": [
-        "Reaparece Enrique Inzunza",
-        "Senado",
-        "Enrique Inzunza",
-        "EU",
-        "Reaparece Inzunza"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Reaparece Enrique Inzunza en sesión virtual del Senado tras más de 55 días de ausencia",
-          "url": "https://8columnas.com.mx/nacional/reaparece-enrique-inzunza-en-sesion-virtual-del-senado-tras-mas-de-55-dias-de-ausencia",
-          "source": "8 Columnas",
-          "published_at": "2026-06-25T22:35:15.000Z"
-        },
-        {
-          "title": "Enrique Inzunza, acusado por EU por vínculos con el narco, reaparece en sesión en línea del Senado",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/06/25/enrique-inzunza-acusado-por-eu-por-vinculos-con-el-narco-reaparece-en-sesion-en-linea-del-senado",
-          "source": "El Financiero",
-          "published_at": "2026-06-25T19:42:07.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/cEMbvAurvQYLuRgwPUeqw3u0ZKc=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RRSE7U6NPJF3VF5NNHWAQHINWQ.png"
-        },
-        {
-          "title": "Reaparece Inzunza en reunión virtual de comisión del Senado",
-          "url": "https://vanguardia.com.mx/noticias/reaparece-inzunza-en-reunion-virtual-de-comision-del-senado-jn21683569",
-          "source": "Vanguardia",
-          "published_at": "2026-06-25T19:22:59.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1082709-inzunza-y-ruben-rocha-moya-i_1-15928140_20260625193227.jpg"
-        },
-        {
-          "title": "Reaparece Inzunza en reunión virtual de comisión del Senado",
-          "url": "https://www.elnorte.com/reaparece-inzunza-en-reunion-virtual-de-comision-del-senado/ar3229242",
-          "source": "ElNorte",
-          "published_at": "2026-06-25T19:03:58.000Z"
-        },
-        {
-          "title": "Reaparece Inzunza en reunión virtual de comisión del Senado",
-          "url": "https://www.reforma.com/reaparece-inzunza-en-reunion-virtual-de-comision-del-senado/ar3229240",
-          "source": "Reforma",
-          "published_at": "2026-06-25T19:03:25.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_6c24f44642d5ce9c",
-      "label": [
-        "brother review",
-        "little brother",
-        "brother",
-        "little",
-        "review",
-        "review two"
-      ],
-      "category": "new",
-      "theme": "theme_d0d3b31c842ccc3a",
-      "entities": [
-        "Little Brother",
-        "Review",
-        "Two",
-        "Us",
-        "Netflix"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Little Brother’ Review: Just the Two of Us",
-          "url": "https://www.nytimes.com/2026/06/25/movies/little-brother-review.html",
-          "source": "NYT > Arts",
-          "published_at": "2026-06-25T23:00:06.000Z"
-        },
-        {
-          "title": "Little Brother review – Netflix comedy is neither weird or funny enough for star Eric André",
-          "url": "https://www.theguardian.com/film/2026/jun/25/little-brother-movie-review-netflix",
-          "source": "The Guardian",
-          "published_at": "2026-06-25T23:00:02.000Z",
-          "image": "https://i.guim.co.uk/img/media/ef5fbdff4ed05a470445e15e5e51bdefb4e6d5aa/292_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=38ede5db8729ddfe20774eb6f2bd0acd"
-        },
-        {
-          "title": "Little Brother Review",
-          "url": "https://www.ign.com/articles/little-brother-review-john-cena-eric-andre-netflix",
-          "source": "IGN Articles",
-          "published_at": "2026-06-25T23:00:00.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/24/24185350thvm9dpu-1782320677470.jpg"
-        },
-        {
-          "title": "‘Little Brother’ Review: Eric André Turns John Cena’s Life Upside Down in a Farrelly Brothers-Like Netflix Comedy",
-          "url": "https://www.indiewire.com/criticism/movies/little-brother-movie-review-netflix-john-cena-eric-andre-1235201763",
-          "source": "IndieWire",
-          "published_at": "2026-06-25T23:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_60e8cc9d323c2e68",
-      "label": [
-        "om",
-        "malik",
-        "om malik",
-        "malik 1966",
-        "1966 2026",
-        "1966"
-      ],
-      "category": "new",
-      "theme": "theme_f599f1526a2ba719",
-      "entities": [
-        "Om Malik",
-        "Silicon Valley",
-        "Gigaom",
-        "True Ventures",
-        "Wednesday"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Om Malik taught Silicon Valley to read itself",
-          "url": "https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself",
-          "source": "Hacker News",
-          "published_at": "2026-06-25T22:19:12.000Z"
-        },
-        {
-          "title": "Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59 (Om Malik/On my Om)",
-          "url": "https://www.techmeme.com/260625/p50",
-          "source": "Techmeme",
-          "published_at": "2026-06-25T21:50:01.000Z",
-          "image": "http://www.techmeme.com/260625/i50.jpg"
-        },
-        {
-          "title": "Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59 (Om Malik/On my Om)",
-          "url": "https://mediagazer.com/260625/p19",
-          "source": "Mediagazer",
-          "published_at": "2026-06-25T21:44:14.000Z",
-          "image": "http://mediagazer.com/260625/i19.jpg"
-        },
-        {
-          "title": "Om Malik, 1966-2026",
-          "url": "https://om.co/2026/06/24/1966-2026",
-          "source": "Daring Fireball",
-          "published_at": "2026-06-25T20:31:37.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_3d9d341dc7778a7",
-      "label": [
-        "roundup",
-        "cancer",
-        "roundup cancer",
-        "bayer",
-        "suit",
-        "supreme"
-      ],
-      "category": "new",
-      "theme": "theme_1c93e3d73583acfb",
-      "entities": [
-        "US Supreme Court",
-        "Bayer",
-        "Roundup",
-        "Supreme Court",
-        "The Washington Post"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "US Supreme Court sides with Bayer, blocking thousands of Roundup cancer lawsuits",
-          "url": "https://www.france24.com/en/americas/20260625-supreme-court-bayer-roundup-cancer-lawsuits",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-25T22:07:22.000Z",
-          "image": "https://s.france24.com/media/display/90ea4d8c-70bf-11f1-8a49-005056a90284/w:1024/p:16x9/2cf4d34b0dc47859fe7758a9de25efb016280aa1.jpg"
-        },
-        {
-          "title": "Supreme Court hands Bayer a shield against 200,000 Roundup cancer suits",
-          "url": "https://fortune.com/2026/06/25/roundup-supreme-court-durnell-cancer-warning-bayer",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-06-25T21:26:33.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26162661127305_342d49-e1782422767927.jpg?w=2048"
-        },
-        {
-          "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
-          "url": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004",
-          "source": "Deutsche Welle",
-          "published_at": "2026-06-25T19:37:00.000Z"
-        },
-        {
-          "title": "Supreme Court blocks thousands of suits claiming Roundup causes cancer - The Washington Post",
-          "url": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxqntbnntz1a0rmnwqtlvdkm1dgtvgtemvtdljrtgfpakpdyldtwmvjstnjatfwrmjiakfqdfa5u3fyrznksg5lcu9zznreewriwmlftnbjbzdzsgvkevdlshnka3k0vevvrzlbnjfjnehdufbgdwszv1yxahdod1o5vvbzd3lluzy5depodvy1mv9mwuxtmvzuevlroxneddd5a1frr3fqmm1nwtdrm1b3ulfymfvfbezjwgi0",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-25T18:43:48.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_b663128f4986b45d",
-      "label": [
-        "weinstein",
-        "harvey weinstein",
-        "harvey",
-        "rape",
-        "fourth",
-        "trial"
-      ],
-      "category": "new",
-      "theme": "theme_dd46afe0a05c517b",
-      "entities": [
-        "Harvey Weinstein",
-        "New York",
-        "Harvey Weinstein Prosecutors Won",
-        "Seek Fourth Rape Trial"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Harvey Weinstein's New York rape charge dropped after accuser says she can't endure a fourth trial",
-          "url": "https://japantoday.com/category/world/prosecutors-to-drop-harvey-weinstein%e2%80%99s-unresolved-rape-charge-his-other-convictions-stand",
-          "source": "Japan Today",
-          "published_at": "2026-06-25T21:44:01.000Z"
-        },
-        {
-          "title": "Harvey Weinstein avoids fourth New York rape trial as accuser steps away",
-          "url": "https://www.indiatoday.in/world/story/harvey-weinstein-rape-charge-dropped-jessica-mann-new-york-trial-ptag-2934515-2026-06-26",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-25T21:40:33.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-2-original_93-sixteen_nine.png?VersionId=Br2JwK6nXSRWVqdwxxuwJ6h2mZzoBfrG"
-        },
-        {
-          "title": "New York prosecutors to drop unresolved rape charge against Harvey Weinstein",
-          "url": "https://www.thejournal.ie/new-york-prosecutors-to-drop-unresolved-rape-charge-against-harvey-weinstein-7082173-jun2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-06-25T19:14:24.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/06/harvey-weinstein-appears-in-manhattan-supreme-court-thursday-june-25-2026-in-new-york-adam-graypool-photo-via-ap-82e9292d-2572-465a-8204-b35bef1c0f53-630x419.jpg"
-        },
-        {
-          "title": "Harvey Weinstein Prosecutors Won’t Seek Fourth Rape Trial",
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/harvey-weinstein-rape-charges-dismissed-new-york-1235584293",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-25T18:58:02.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_59b7c7423ba98a4f",
-      "label": [
-        "administration asks",
-        "asks openai",
-        "asks",
-        "trump administration",
-        "administration",
-        "openai"
-      ],
-      "category": "new",
-      "theme": "theme_5d27843e5e57647a",
-      "entities": [
-        "Trump",
-        "OpenAI",
-        "Trump Administration Asks OpenAI",
-        "Stagger Release",
-        "AI Model"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Trump administration asks OpenAI to limit next model release over security concerns",
-          "url": "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release",
-          "source": "Axios",
-          "published_at": "2026-06-25T22:26:57.000Z",
-          "image": "https://images.axios.com/_rizEn0ps9QYE2ieJBgceRYmQME=/0x126:3000x1813/1366x768/2026/06/25/1782422862969.jpeg"
-        },
-        {
-          "title": "Trump Administration Asks OpenAI to Stagger Release of AI Model",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-25T22:00:54.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iekm7h134FAg/v1/1200x-1.jpg"
-        },
-        {
-          "title": "Trump Administration Asks OpenAI To Stagger Release of New Model",
-          "url": "https://yro.slashdot.org/story/26/06/25/215241/trump-administration-asks-openai-to-stagger-release-of-new-model",
-          "source": "Slashdot",
-          "published_at": "2026-06-25T22:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_837dec6c8b574d67",
-      "label": [
-        "allege",
-        "nfl player",
-        "player doug",
-        "doug martin",
-        "doug",
-        "martin"
-      ],
-      "category": "new",
-      "theme": "theme_d9e67f4a3cf0713a",
-      "entities": [
-        "Parents",
-        "NFL",
-        "Doug Martin",
-        "Ex",
-        "Oakland"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Parents of former NFL player Doug Martin allege excessive police force led to his wrongful death",
-          "url": "https://www.thestar.com/sports/football/parents-of-former-nfl-player-doug-martin-allege-excessive-police-force-led-to-his-wrongful-death/article_8f08c4b0-0023-5257-90e2-c00db1eb64d7.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-06-25T22:38:25.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/2e/42e28aad-b08d-5d09-b3b8-b8ea74d16889/69308b0907cac.image.jpg?resize=300%2C200"
-        },
-        {
-          "title": "Parents of former NFL player Doug Martin allege excessive police force led to his wrongful death",
-          "url": "https://www.independent.co.uk/news/world/americas/nfl-oakland-george-floyd-stockton-tasers-b3003349.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-25T22:37:58.000Z",
-          "image": "https://static.independent.co.uk/2026/06/25/23/Doug_Martin_Death_Football_58864.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Ex-NFL player Doug Martin's family sue Oakland police, allege restraint asphyxia in fatal mental health crisis",
-          "url": "https://www.foxnews.com/sports/ex-nfl-player-doug-martins-family-sue-oakland-police-allege-restraint-asphyxia-fatal-mental-health-crisis",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-25T22:22:35.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Tampa-Bay-Buccaneers-running-back-Doug-Martin.jpeg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_84ffd51ec44860b6",
-      "label": [
-        "bbc",
-        "know venezuela",
-        "venezuela earthquak",
-        "know",
-        "earthquak",
-        "venezuela"
-      ],
-      "category": "new",
-      "theme": "theme_a43900a74bf8392a",
-      "entities": [
-        "BBC",
-        "Things",
+        "Earthquakes Strike Venezuela",
+        "Major",
         "Venezuela",
-        "BBC News"
+        "Dead After Two Powerful",
+        "Trump Promises Help"
       ],
-      "article_count": 6,
-      "source_count": 3,
+      "article_count": 18,
+      "source_count": 16,
       "articles": [
         {
-          "title": "Рекордная сумма в истории британского футбола: Манчестер Сити договорился о трансфере звезды сборной Англии — BBC",
-          "url": "https://sport.nv.ua/football/manchester-siti-soglasoval-rekordnyy-transfer-elliota-andersona-detali-sdelki-i-usloviya-50619397.html",
-          "source": "NV",
-          "published_at": "2026-06-25T22:51:00.000Z",
-          "image": "https://static.nv.ua/shared/system/Article/posters/003/315/830/original/c5f0298fb29276a544c1325e52cd17ae.png?q=85&stamp=20260626013805&w=900&f=webp"
+          "title": "After 32 Dead After Two Powerful Earthquakes Strike Venezuela, Trump Promises Help",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/06/25/after-32-dead-after-two-powerful-earthquakes-strike-venezuela-trump-promises-help",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-25T05:45:47.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3c9f0b7e76231292cc463d/0x0.jpg?width=960",
+          "description": "Both quakes measured over 7.0 magnitude, with tremors being felt as far as more than a thousand miles away in Brazil’s Amazon region."
         },
         {
-          "title": "Things to know about the Venezuela earthquakes",
-          "url": "https://www.seattletimes.com/nation-world/world/things-to-know-about-the-venezuela-earthquakes",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-06-25T20:53:11.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org187d64e541983800b16f063ca5a8392cAPTOPIX_Venezuela_Earthquake_16392.jpg?d=1200x630"
+          "title": "Photos: Earthquakes Strike Venezuela",
+          "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-06-25T00:35:09.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/24/world/24int-venezuela-quake-photos/24int-venezuela-quake-photos-mediumSquareAt3X.jpg",
+          "description": "After two powerful quakes shook the South American country, concern is growing that the damage could be devastating."
         },
         {
-          "title": "What we know about the Venezuela earthquakes | BBC News",
-          "url": "https://www.youtube.com/watch?v=E2-V2ezru0c",
-          "source": "BBC News",
-          "published_at": "2026-06-25T20:30:09.000Z",
-          "image": "https://i2.ytimg.com/vi/E2-V2ezru0c/hqdefault.jpg"
+          "title": "Major earthquakes strike Venezuela",
+          "url": "https://www.smh.com.au/world/major-earthquakes-strike-venezuela-20260625-p609zd.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-25T00:31:23.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ce652e6c79afdf6e7abe20820e615d9301a6b5d0",
+          "description": "Video shows people running and screaming at a Venezuela airport after two major earthquakes shook the country."
+        },
+        {
+          "title": "Moments of panic as earthquakes strike Venezuela",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-25T08:39:58.000Z",
+          "description": "Video captured the first moments of two earthquakes striking Venezuela, triggering panic as people fled for safety."
+        },
+        {
+          "title": "Thousands Feared Dead After Two Major Earthquakes Strike Venezuela",
+          "url": "https://www.dailysignal.com/2026/06/25/thousands-dead-earthquake-venezuela",
+          "source": "The Daily Signal",
+          "published_at": "2026-06-25T14:36:00.000Z",
+          "image": "https://static.dailysignalmedia.org/260625-Venezuela_Earthquake.jpg",
+          "description": "CARACAS, June 25 (Reuters) — Thousands of Venezuelans were feared dead on Thursday after two powerful earthquakes wreaked havoc in and around the capital Caracas, trapping people beneath the rubble of collapsed buildings and setting off powerful aftershocks. A magnitude 7.2 earthquake hit about 160…"
         }
-      ]
+      ],
+      "summary": "Two earthquakes measuring above magnitude 7 struck Venezuela, with shaking felt far from the country. Headlines reported widespread damage and fears of a high death toll."
     },
     {
-      "id": "topic_b78bbdfb1eb7eb83",
+      "id": "topic_10ed35cefa1a8315",
+      "title": "Supreme Court Allows End of Deportation Protections for Haitians and Syrians",
+      "headline": "Supreme Court allows Trump administration to lift deportation protections for Haitians, Syrians",
+      "label": [
+        "syrians",
+        "haitians",
+        "protections",
+        "supreme",
+        "court",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_5cac2488d7b5c17c",
+      "entities": [
+        "Supreme Court",
+        "Trump",
+        "Haitians",
+        "Syrians",
+        "The Supreme Court"
+      ],
+      "article_count": 21,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Supreme Court allows Trump administration to lift deportation protections for Haitians, Syrians",
+          "url": "https://www.france24.com/en/americas/20260625-supreme-court-allows-trump-administration-to-lift-deportation-protections-for-haitians-syrians",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-25T15:18:15.000Z",
+          "image": "https://s.france24.com/media/display/d4979ca2-70a5-11f1-bd2f-005056bfb2b6/w:1024/p:16x9/2026-06-25T142550Z-2095962685-RC22ZKAZASLG-RTRMADP-3-USA-COURT-TRUMP-MIGRANTS.jpg",
+          "description": "On Thursday, the predominantly Republican US Supreme Court authorised President Donald Trump's administration to revoke, without judicial review, a temporary status that protects 350,000 Haitian immigrants and 6,000 Syrians from deportation."
+        },
+        {
+          "title": "Supreme Court lets Trump end deportation protections for Haitians and Syrians",
+          "url": "https://japantoday.com/category/world/supreme-court-lets-trump-end-deportation-protections-for-haitians-and-syrians",
+          "source": "Japan Today",
+          "published_at": "2026-06-25T21:43:37.000Z",
+          "description": "The U.S. Supreme Court cleared the way on Thursday for President Donald Trump's administration to strip hundreds of thousands of Haitian and Syrian immigrants of a humanitarian status…"
+        },
+        {
+          "title": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians",
+          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-supreme-court-syrians-haiti-washington-b3003251.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-25T19:00:13.000Z",
+          "image": "https://static.independent.co.uk/2026/06/25/20/Supreme_Court_TPS_93243.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "The Supreme Court is allowing the Trump administration to end legal protections for migrants fleeing violence and natural disaster in Haiti and Syria, exposing hundreds of thousands more people to potential deportation"
+        },
+        {
+          "title": "Supreme Court rules Trump can remove deportation protection from Haitians, Syrians",
+          "url": "https://nypost.com/2026/06/25/us-news/supreme-court-trump-can-remove-deportation-protection-from-haitians-syrians",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-25T14:39:46.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fmembers-national-tps-alliance-rally-132211715.jpg?w%3D1024",
+          "description": "The Supreme Court ruled Thursday that the Trump administration could go ahead and yank temporary protected status for thousands of Syrian and Haitian migrants."
+        },
+        {
+          "title": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxptfzfzdu5c1hnmwfhotcxa196m1naz09ru3lnowxoqm56ekrknkhyx19osdhunwxoeji0tdv1ewtuwlr5z3jyzhrrwu9pcenhtlrrajdysdzvnkntmvznc1e1txnkbk10uuziuwm4thbfd3prnlbouuvcrtzxvdlfaw45rmxrvutlb0w3ng9iveqwsezlqvbubez6lxrnwnnutjzf",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-25T15:55:00.000Z",
+          "description": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians AP News Supreme Court Lets Trump End Deportation Protection for Haitians and Syrians The New York Times Supreme Court backs Trump on stricter asylum rules Axios Supreme Court hands Trump two major immigra…"
+        }
+      ],
+      "summary": "The U.S. Supreme Court cleared the Trump administration to end temporary protected status for Haitian and Syrian immigrants, affecting hundreds of thousands of people."
+    },
+    {
+      "id": "topic_32d45df37925a9db",
+      "title": "King Charles Publishes Personal Tax Payments for the First Time",
+      "headline": "King Charles to reveal personal tax bill in first for a British monarch",
+      "label": [
+        "charles",
+        "king",
+        "tax",
+        "bill",
+        "reveals",
+        "personal"
+      ],
+      "category": "new",
+      "theme": "theme_d5706c27fc5ca0a2",
+      "entities": [
+        "King Charles",
+        "British",
+        "King Charles III",
+        "King Charles III Set",
+        "Disclose Personal Tax Bill"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "King Charles to reveal personal tax bill in first for a British monarch",
+          "url": "https://www.indiatoday.in/world/story/king-charles-personal-tax-bill-first-british-monarch-royal-finances-transparency-ptag-2933747-2026-06-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-25T05:42:37.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-2-original_83-sixteen_nine.png?VersionId=7.63QRt6A_gw5shJqo5ed5Orcuc_UCgW"
+        },
+        {
+          "title": "King Charles reveals personal tax bill for first time",
+          "url": "https://www.smh.com.au/world/europe/king-charles-reveals-personal-tax-bill-for-first-time-20260626-p60a8g.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-25T21:01:00.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.9664126140098223%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_645%2C$y_86/t_crop_custom/q_86%2Cf_auto/20b0ecc4004c3b857e4e5334173ba13b6cd95626",
+          "description": "In an unprecedented move, the monarchy has published new details about its finances after years of debate about the cost of the royal family."
+        },
+        {
+          "title": "King Charles III set to reveal personal tax bill in bid for transparency",
+          "url": "https://globalnews.ca/news/11937937/king-charles-personal-tax-bill-royal-family",
+          "published_at": "2026-06-25T13:36:56.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/King-Charles-III.jpg?quality=65&strip=all",
+          "description": "The king has a personal fortune valued at 680 million pounds ($896 million), which puts him at No. 230 on the Sunday Times’ annual list of Britain’s richest people."
+        },
+        {
+          "title": "King Charles III Set to Disclose Personal Tax Bill in Transparency Push",
+          "url": "https://internewscast.com/news/us/king-charles-iii-set-to-disclose-personal-tax-bill-in-transparency-push",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-25T15:42:38.000Z",
+          "description": "Internewscast Journal Internewscast King Charles III is poised to make an unprecedented disclosure for a… This Post: King Charles III Set to Disclose Personal Tax Bill in Transparency Push first appeared on Internewscast Journal"
+        },
+        {
+          "title": "King Charles reveals he paid £12.9m in tax for 2024-25",
+          "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o",
+          "source": "BBC News",
+          "published_at": "2026-06-25T21:00:53.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00de/live/80d2ab60-70ce-11f1-b217-6f3746be3039.jpg",
+          "description": "The King becomes first monarch to publish their tax payments - with the figures putting him among the UK's top 100 taxpayers."
+        }
+      ],
+      "summary": "King Charles disclosed that he paid £12.9 million in tax for 2024–25, in the first such disclosure by a British monarch."
+    },
+    {
+      "id": "topic_7169541f9cf8c40b",
+      "title": "Heatwave Brings June Temperature Records Across Europe",
+      "headline": "Britain breaks June temperature record as deadly heatwave grips Europe",
+      "label": [
+        "temperature",
+        "record",
+        "europe",
+        "grips",
+        "june",
+        "breaks"
+      ],
+      "category": "new",
+      "theme": "theme_c209ffb4ab9c1cc4",
+      "entities": [
+        "Britain",
+        "June",
+        "Europe",
+        "Temperature",
+        "Switzerland"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Britain breaks June temperature record as deadly heatwave grips Europe",
+          "url": "https://japantoday.com/category/world/britain-breaks-june-temperature-record-as-deadly-heatwave-grips-europe1",
+          "source": "Japan Today",
+          "published_at": "2026-06-25T21:43:25.000Z",
+          "description": "The temperature in Britain hit a record high for June on Thursday as large parts of Western Europe were in the grip of a deadly early summer heatwave…"
+        },
+        {
+          "title": "Britain breaks June temperature record",
+          "url": "https://tribune.com.pk/story/2615166/britain-breaks-june-temperature-record",
+          "source": "express tribune",
+          "published_at": "2026-06-25T15:38:09.000Z",
+          "description": "Deadly heatwave gripping Europe intensifies"
+        },
+        {
+          "title": "Temperature records smashed as extreme heat wave grips Europe",
+          "url": "https://www.nbcnews.com/world/europe/europe-heatwave-france-spain-uk-record-temperatures-eiffel-tower-rcna351710",
+          "source": "NBC News World News",
+          "published_at": "2026-06-25T12:45:50.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260625-paris-2-rs-f1f13e.jpg",
+          "description": "Paris, along with much of the rest of Europe, is scorching as a heatwave grips the continent breaking records in the U.K., France and Spain."
+        },
+        {
+          "title": "June's temperature record set to be broken again",
+          "url": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo",
+          "source": "BBC News",
+          "published_at": "2026-06-25T05:27:59.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd6/live/bf16c7b0-7003-11f1-8742-85fd2b900eec.jpg",
+          "description": "Thursday is expected to be a hotter day for parts of England and Wales with June's record temperature set to be broken for a second day in a row as Simon King explains."
+        },
+        {
+          "title": "Britain, Switzerland break June temperature record as deadly heatwave grips Europe",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpt2zqy0jgrxntmde3x0o1ddr3yy1kd0ptbhutxze2n1dowxq4ve5fs1psts02zgs2d3j6ys1jnu93vxrsdec1vgc4qndhn3loqjr5aldtd3c1qxrvdgrhquo4zjzkyjz0svzncvi4t1luc09kbjy1y09ockd0v3vvqtjjquzux3bzwkl1rdjcs2zldxlsoxblymh2vf9yukfqeffhrghnzlvvewjaowk3ymxidnzwzgo2d1mxzmvn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-25T22:03:59.000Z",
+          "description": "Britain, Switzerland break June temperature record as deadly heatwave grips Europe Reuters Deadly Heat Wave in Europe Continues to Smash Temperature Records The New York Times French aversion to air cons melts as homes sizzle Inquirer.net France’s heat this week was worse than a dire scenario imagi…"
+        }
+      ],
+      "summary": "Britain and Switzerland broke June temperature records as an early-summer heatwave gripped parts of Europe. Reports also noted record-breaking heat in France and Spain."
+    },
+    {
+      "id": "topic_ee2e1a9a34c72dfa",
+      "title": "Lions Cornerback Terrion Arnold Arrested on Kidnapping and Robbery Charges",
+      "headline": "Detroit Lions’ Terrion Arnold arrested for kidnapping, armed robbery",
+      "label": [
+        "arnold",
+        "terrion",
+        "lions",
+        "arrested",
+        "kidnapping",
+        "robbery"
+      ],
+      "category": "new",
+      "theme": "theme_257c5c2c9d731aec",
+      "entities": [
+        "Detroit Lions",
+        "Terrion Arnold",
+        "Terrion Arnold Faces Kidnapping",
+        "Robbery Charges After Arrest",
+        "Lions CB Terrion Arnold"
+      ],
+      "article_count": 32,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Detroit Lions’ Terrion Arnold arrested for kidnapping, armed robbery",
+          "url": "https://torontosun.com/sports/football/nfl/detroit-lions-terrion-arnold-arrested-kidnapping-armed-robbery",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-06-25T17:48:36.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/06/GettyImages-2194621706-e1782408201270.jpg?quality=100&strip=all",
+          "description": "Arnold’s arrest comes nearly five months after a 'targeted armed robbery' of teens following the theft of the NFLer's personal property"
+        },
+        {
+          "title": "Detroit Lions’ Terrion Arnold Faces Kidnapping, Robbery Charges After Arrest",
+          "url": "https://internewscast.com/entertainment/detroit-lions-terrion-arnold-faces-kidnapping-robbery-charges-after-arrest",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-25T14:43:24.000Z",
+          "description": "Internewscast Journal Internewscast Detroit Lions cornerback Terrion Arnold could face a life sentence following his… This Post: Detroit Lions’ Terrion Arnold Faces Kidnapping, Robbery Charges After Arrest first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Lions CB Terrion Arnold arrested on felony kidnapping, robbery charges",
+          "url": "https://sports.yahoo.com/articles/lions-cb-terrion-arnold-arrested-123027577.html",
+          "published_at": "2026-06-25T12:30:27.000Z",
+          "description": "Detroit Lions cornerback Terrion Arnold was arrested on felony robbery and kidnapping charges, the Hillsborough County (Fla.) state attorney said."
+        },
+        {
+          "title": "Lions CB Terrion Arnold arrested, faces possibility of life in prison on kidnapping, robbery charges",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxpx0hwa3fcrdrrqjnpr1vza2fsa3u5bdr4enrsqnk5zzzzendpu244bxjpblpuwmfqxzbscf9wbly3vtv3v1pede1xyk0ydklqnufitm5yuk12d0dlmjdleujjtfpxvtlfbtkysupvt0fvothbrg81dwpiltrxbmvivmhwz25ncejnwuv5z3fjrw9ic1pragszts1qvuvlzktbwmt1mwlluuvpt01zrznaq1hsn0luvwnjcthqsxdr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-25T12:52:00.000Z",
+          "description": "Lions CB Terrion Arnold arrested, faces possibility of life in prison on kidnapping, robbery charges USA Today Lions' Terrion Arnold arrested, faces kidnapping, robbery charges ESPN Detroit Lions Cornerback Terrion Arnold Arrested on Kidnapping and Armed Robbery Charges People.com Lions CB Terrion…"
+        },
+        {
+          "title": "Detroit Lions player Terrion Arnold arrested in connection to Florida kidnapping and robbery",
+          "url": "https://www.independent.co.uk/news/world/americas/detroit-lions-tampa-florida-hillsborough-county-airbnb-b3002654.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-25T04:33:29.000Z",
+          "image": "https://static.independent.co.uk/2026/06/25/05/Lions_Arnold_Armed_Robbery_Football_73656.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Officials say Detroit Lions player Terrion Arnold has been arrested in connection to a kidnapping and robbery in Florida and faces felony charges"
+        }
+      ],
+      "summary": "Detroit Lions cornerback Terrion Arnold was arrested in Florida on felony kidnapping and robbery charges. Officials linked the case to a robbery involving teenagers."
+    },
+    {
+      "id": "topic_76d83b0f42fcd649",
+      "title": "Nothing Reveals the Phone 4b’s Design",
+      "headline": "Nothing Phone (4b) Design Reveal",
+      "label": [
+        "nothing",
+        "4b",
+        "phone",
+        "design",
+        "revealed",
+        "gave"
+      ],
+      "category": "new",
+      "theme": "theme_dd5dba353551e481",
+      "entities": [
+        "Nothing Phone",
+        "Design Reveal",
+        "Nothing",
+        "Phone",
+        "July"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Nothing Phone (4b) Design Reveal",
+          "url": "https://www.reddit.com/r/android/comments/1ufe17x/nothing_phone_4b_design_reveal",
+          "source": "Android",
+          "published_at": "2026-06-25T15:55:59.000Z",
+          "image": "https://external-preview.redd.it/FkSxLg5zQSv1tDj8VB1NrNifbNHMLkbuP7KEcawT0-M.jpeg?width=640&crop=smart&auto=webp&s=e6b213c41dd148924387b5b6d26b013e5c29fb93",
+          "description": "submitted by /u/FragmentedChicken [link] [comments]"
+        },
+        {
+          "title": "Nothing just gave us our first look at the Nothing Phone 4b",
+          "url": "https://www.androidauthority.com/nothing-phone-4b-design-first-look-3681231",
+          "source": "Android Authority",
+          "published_at": "2026-06-25T05:17:04.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Nothing-Phone-4b-first-look-scaled.jpg",
+          "description": "The teaser confirms at least a dual-rear-camera setup, a vertical Glyph bar, and more."
+        },
+        {
+          "title": "Nothing's Phone 4b design reveal parades a 'unibody' aesthetic, and I'm here for it",
+          "url": "https://www.androidcentral.com/phones/nothing-phones/nothings-phone-4b-design-reveal-parades-a-unibody-aesthetic-and-im-here-for-it",
+          "source": "Latest from Android Central",
+          "published_at": "2026-06-25T18:12:48.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/vw5CQLmWhvQizJBnWGBc25-1280-80.jpg",
+          "description": "Nothing showcases the Phone 4b's \"unibody\" design, and it looks like the company is taking a simpler approach to give it its own voice."
+        },
+        {
+          "title": "This is Nothing Phone 4b, could be choice of phone for price-conscious buyers",
+          "url": "https://www.indiatoday.in/technology/news/story/this-is-nothing-phone-4b-could-be-choice-of-phone-for-price-conscious-buyers-2933883-2026-06-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-25T08:48:39.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/nothing-25481185-16x9_0.jpg?VersionId=BHVSAZrSsV4gruo2t1Q4oDzuyAWR_qNJ",
+          "description": "This is Nothing Phone b could be choice of phone for priceconscious buyers"
+        },
+        {
+          "title": "Nothing Phone (4b) announcement incoming — but theres a caveat",
+          "url": "https://mashable.com/tech/nothing-phone-4b-announcement-incoming",
+          "source": "Mashable",
+          "published_at": "2026-06-25T18:05:45.000Z",
+          "description": "More information about the Nothing Phone (4b) is coming very soon."
+        }
+      ],
+      "summary": "Nothing offered a first look at its Phone 4b, showing a dual rear-camera setup and a vertical Glyph bar. The company is expected to share more information soon."
+    },
+    {
+      "id": "topic_993a3ab92053a5e0",
+      "title": "IBM Announces Sub-One-Nanometer Chip Technology",
+      "headline": "IBM debuts world’s first sub-1 nanometer chip technology",
+      "label": [
+        "sub",
+        "ibm",
+        "chip",
+        "nanometer",
+        "technology",
+        "first"
+      ],
+      "category": "new",
+      "theme": "theme_32ee1531f1fa77f2",
+      "entities": [
+        "IBM",
+        "IBM Touts World",
+        "First Sub",
+        "Nanometer Chip Technology",
+        "IBM Introduces World"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "IBM debuts world’s first sub-1 nanometer chip technology",
+          "url": "https://www.fastcompany.com/91564027/ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "source": "Fast Company",
+          "published_at": "2026-06-25T08:00:00.000Z",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/06/p-1-91564027-ibm-announces-worlds-first-sub-nanometer-chip.jpg",
+          "description": "IBM’s newest chip architecture could unlock massive power savings for AI applications. IBM unveiled what it calls a “major semiconductor breakthrough” today, with the introduction of the world’s first sub-1 nanometer chip technology. The new chip “node”—a manufacturing process and its design rules—…"
+        },
+        {
+          "title": "IBM claims world’s first sub-1 nanometer chip technology",
+          "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-06-25T10:00:55.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg",
+          "description": "IBM’s nanostack transistors could boost chip performance or energy efficiency."
+        },
+        {
+          "title": "IBM Touts World's First Sub-1 Nanometer Chip Technology",
+          "url": "https://www.investors.com/news/technology/ibm-stock-sub-1-nanometer-chip-technology",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-25T20:53:21.000Z",
+          "image": "https://media.zenfs.com/en/ibd.com/eaef8aef37474aa592f5cd467f5b3a9d"
+        },
+        {
+          "title": "IBM says it has created the world's first sub-1 nanometer chip",
+          "url": "https://www.engadget.com/2201541/ibm-says-it-has-created-the-worlds-first-sub-1-nanometer-chip",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-25T14:59:10.000Z",
+          "image": "https://www.engadget.com/img/gallery/ibm-says-it-has-created-the-worlds-first-sub-1nm-chip/l-intro-1782399468.jpg"
+        },
+        {
+          "title": "IBM debuts sub-1 nanometer chip technology",
+          "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+          "source": "Hacker News",
+          "published_at": "2026-06-25T15:33:37.000Z",
+          "description": "Comments"
+        }
+      ],
+      "summary": "IBM says it has developed the world’s first sub-one-nanometer chip technology. The company says its nanostack transistors could improve chip performance or energy efficiency."
+    },
+    {
+      "id": "topic_88caa21df5986246",
+      "title": "‘Jackass: Best and Last’ Reviews Assess the Franchise’s Farewell",
+      "headline": "Jackass: Best and Last Review",
+      "label": [
+        "jackass",
+        "last",
+        "best",
+        "knoxville",
+        "johnny",
+        "review"
+      ],
+      "category": "new",
+      "theme": "theme_800f6f5a4bde0d1a",
+      "entities": [
+        "Jackass",
+        "Best",
+        "Last Review",
+        "Last",
+        "Review"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Jackass: Best and Last Review",
+          "url": "https://www.ign.com/articles/jackass-best-and-last-review",
+          "source": "IGN Articles",
+          "published_at": "2026-06-25T16:34:12.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/25/jackas-best-and-last-thumb-1782405003905.jpg",
+          "description": "Johnny Knoxville and the most endearingly disgusting and death-defying group you’ve ever met say goodbye in Jackass: Best and Last."
+        },
+        {
+          "title": "‘Jackass: Best and Last’ Review: Johnny Knoxville and Friends Reunite",
+          "url": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-06-25T13:00:04.000Z",
+          "description": "In what purports to be the final installment of the MTV franchise, Johnny Knoxville and friends reunite to reminisce."
+        },
+        {
+          "title": "Johnny Knoxville gets the last laugh in the victory lap Jackass: Best And Last",
+          "url": "https://www.avclub.com/jackass-best-and-last-review",
+          "source": "AV Club",
+          "published_at": "2026-06-25T09:00:06.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/06/25075653/jackass-best-and-last-header.jpg",
+          "description": "The aging and remaining Jackasses take a painful tour of the 21st century in retrospective series capper Jackass: Best And Last."
+        },
+        {
+          "title": "Jackass: Best and Last review – kings of gross-out comedy’s final, funny farewell",
+          "url": "https://www.theguardian.com/culture/2026/jun/25/jackass-best-and-last-movie-review",
+          "source": "The Guardian",
+          "published_at": "2026-06-25T13:00:29.000Z",
+          "image": "https://i.guim.co.uk/img/media/e4a9ea55001392791428e24195845273aa63972f/217_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6ba6474becbc4e01050ec6033c3f6dc2",
+          "description": "So-called final outing for Johnny Knoxville and his daring, stunt-hungry pals might be close to a greatest hits reel, but there are enough laughs to warrant the nostalgia The boy-men of Jackass, a three-season MTV comedy-stunt show turned periodic and beloved film series, have shown a willingness t…"
+        },
+        {
+          "title": "‘Jackass: Best and Last’ Review: Johnny Knoxville Says Goodbye to ‘Jackass’ with a Poignantly Disgusting Look Back at Its Greatest Hits",
+          "url": "https://www.indiewire.com/criticism/movies/jackass-best-and-last-movie-review-johnny-knoxville-1235202283",
+          "source": "IndieWire",
+          "published_at": "2026-06-25T14:42:19.000Z",
+          "description": "The final \"Jackass\" movie is a glorified clip show with a few new bits for good measure, but it firmly cements the franchise as a vital piece of American history once and for all."
+        }
+      ],
+      "summary": "Reviews describe the film as a retrospective featuring Johnny Knoxville and other members of the Jackass group, with familiar stunts and some new material. It is presented as the franchise’s final installment."
+    },
+    {
+      "id": "topic_f0829c4b66ec660c",
+      "title": "Supreme Court Strikes Down Hawaii Gun-Carry Restrictions",
+      "headline": "Supreme Court strikes Hawaii gun restriction",
+      "label": [
+        "hawaii",
+        "strikes",
+        "supreme",
+        "court",
+        "gun",
+        "law"
+      ],
+      "category": "new",
+      "theme": "theme_75b3c58b95d1e4dd",
+      "entities": [
+        "Supreme Court",
+        "Hawaii",
+        "Supreme Court Strikes Down",
+        "Strict Hawaii Gun Law",
+        "US Supreme Court"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Supreme Court strikes Hawaii gun restriction",
+          "url": "https://www.scotusblog.com/2026/06/supreme-court-strikes-hawaii-gun-restriction",
+          "source": "SCOTUSblog",
+          "published_at": "2026-06-25T15:13:00.000Z",
+          "image": "https://cdn.sanity.io/images/pito4za5/production/20d47c38424f4a32a83bf5d95389ba4d78bfe813-1024x683.jpg?w=1200&fit=max"
+        },
+        {
+          "title": "Supreme Court Strikes Down Strict Hawaii Gun Law",
+          "url": "https://politicalwire.com/2026/06/25/supreme-court-strikes-down-strict-hawaii-gun-law",
+          "source": "Political Wire",
+          "published_at": "2026-06-25T14:16:37.000Z",
+          "description": "“The Supreme Court struck down a Hawaii law requiring people to get permission to carry guns into stores and hotels on Thursday, in its latest opinion backing Second Amendment rights,” the Associated Press reports. “The high court’s 6-3 decision means people can carry guns onto privately owned prop…"
+        },
+        {
+          "title": "Supreme Court strikes down sweeping Hawaii gun law 6-3",
+          "url": "https://www.washingtonexaminer.com/news/supreme-court/4568117/supreme-court-strikes-down-sweeping-hawaii-gun-law",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-25T14:18:10.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26120642581491.jpg?w=696",
+          "description": "The Supreme Court handed gun rights activists a major victory on Thursday, striking down a sweeping Hawaii gun law that required gun owners to get permission to carry their firearms on any private property in the state. Justice Samuel Alito wrote the 6-3 majority opinion, finding Hawaii’s law is un…"
+        },
+        {
+          "title": "US Supreme Court strikes down Hawaii gun permission law for businesses",
+          "url": "https://www.indiatoday.in/world/story/us-supreme-court-strikes-down-hawaii-gun-permission-law-for-private-businesses-ptag-2934265-2026-06-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-25T14:34:32.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-1-original_87-sixteen_nine.png?VersionId=nwMAN5a36tb8bTsT.QyYntJ87CKBuYmB"
+        },
+        {
+          "title": "US supreme court strikes down Hawaii’s gun restrictions in major second amendment ruling",
+          "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-hawaii-gun-law",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-25T14:15:38.000Z",
+          "image": "https://i.guim.co.uk/img/media/97025c2da7d3e8cb4b907349c77fe144dd0e4944/1085_1145_3098_2477/master/3098.jpg?width=140&quality=85&auto=format&fit=max&s=940bddbddf8360e14510b2f0f07c896a",
+          "description": "The law banned people from carrying guns in most public spaces and private property without owner’s permission Sign up for the Breaking News US email to get newsletter alerts in your inbox The US supreme court struck down a restrictive gun law in the state of Hawaii that bans people from carrying g…"
+        }
+      ],
+      "summary": "The U.S. Supreme Court struck down a Hawaii law requiring permission to carry guns on private property open to the public, including stores and hotels. The ruling was 6–3."
+    },
+    {
+      "id": "topic_b0bc062d4d898203",
+      "title": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84",
+      "headline": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84",
       "label": [
         "clayton",
         "sweat",
-        "tear",
-        "david clayton",
-        "clayton thoma",
-        "blood sweat"
+        "blood",
+        "tears",
+        "thomas",
+        "david"
       ],
       "category": "new",
-      "theme": "theme_274915e6a385fd1e",
+      "theme": "theme_2d26c5aaf3d3e765",
       "entities": [
-        "David Clayton",
-        "Thomas",
         "Blood",
         "Sweat",
-        "Tears"
+        "Tears Singer David Clayton",
+        "Thomas Dies",
+        "Variety"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 12,
+      "source_count": 12,
       "articles": [
         {
-          "title": "David Clayton-Thomas, powerhouse lead singer of Blood, Sweat & Tears, dies at 84",
-          "url": "https://japantoday.com/category/entertainment/david-clayton-thomas-powerhouse-lead-singer-of-blood-sweat-tears-dead-at-84",
-          "source": "Japan Today",
-          "published_at": "2026-06-25T21:50:17.000Z"
+          "title": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84",
+          "url": "https://variety.com/2026/music/news/david-clayton-thomas-dead-blood-sweat-tears-1236790361",
+          "source": "Variety",
+          "published_at": "2026-06-25T13:32:09.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-74252113-e1782394307706.jpg",
+          "description": "David Clayton-Thomas, the Canadian singer and songwriter whose soulful voice was ubiquitous on American radio in the late 1960s and early ‘70s as lead singer of the brass-driven group Blood, Sweat & Tears, has died, according to his publicist. No cause of death was cited except that he died peacefu…"
         },
         {
-          "title": "Blood, Sweat & Tears rocker David Clayton-Thomas dies at 84",
-          "url": "https://www.bbc.co.uk/news/articles/cm20l1nngllo",
-          "source": "BBC News",
-          "published_at": "2026-06-25T19:57:46.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bf/live/a15ec5c0-70cf-11f1-b217-6f3746be3039.jpg"
+          "title": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxpaerhcdrtvlnfb0dzrwhyqzbkcglaeflunupls284sknswwfmq2zoy1l5zdvxqnbgmuewbkq5umvxbg8xx1hawxjaber2nm9cluhiveizbla4ofj4ak9luugty2j5og95ukr3djdldu1amvlyq1v4mmdlajzfvme3nnhzmwhmcms0bjiydnvsdc1pb3ftmke",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-25T13:32:00.000Z",
+          "description": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84 Variety David Clayton-Thomas, Lead Singer of Blood, Sweat & Tears, Dies at 84 The New York Times Blood, Sweat & Tears singer David Clayton-Thomas dead at 84 Yahoo Canadian singer David Clayton-Thomas, who led Blood, Sweat & Tears to hits a…"
         },
         {
-          "title": "Blood, Sweat & Tears hitmaker David Clayton-Thomas dies after battle with illness",
-          "url": "https://www.legit.ng/entertainment/celebrities/1716321-blood-sweat-tears-hitmaker-david-clayton-thomas-dies-battle-illness",
-          "source": "Legit.ng",
-          "published_at": "2026-06-25T19:19:23.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/7240807c424f2637.jpeg?v=1"
+          "title": "Blood, Sweat & Tears Singer David Clayton-Thomas Dead at 84",
+          "url": "https://www.billboard.com/music/music-news/blood-sweat-and-tears-david-clayton-thomas-death-singer-dead-1236280977",
+          "source": "Billboard",
+          "published_at": "2026-06-25T15:12:56.000Z",
+          "description": "A memorial concert supporting Peacebuilders Canada will be held in his honor."
+        },
+        {
+          "title": "David Clayton-Thomas, Blood, Sweat, and Tears Singer, Dead at 84",
+          "url": "https://www.rollingstone.com/music/music-news/david-clayton-thomas-blood-sweat-tears-dead-obit-1235583766",
+          "source": "Rolling Stone",
+          "published_at": "2026-06-25T15:44:38.000Z",
+          "description": "A memorial concert for the vocalist, who sang \"You've Made Me So Very Happy,\" is in the works"
+        },
+        {
+          "title": "David Clayton-Thomas, Blood, Sweat & Tears Lead Singer, Dies At 84",
+          "url": "https://www.forbes.com/sites/timlammers/2026/06/25/david-clayton-thomas-blood-sweat--tears-lead-singer-dies-at-84",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-25T16:16:28.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3d538d29fd10f1460de749/0x0.jpg?width=960&precrop=2170%2C1221%2Cx0%2Cy595",
+          "description": "David Clayton-Thomas, whose sang on the Blood, Sweat & Tears hits, “Spinning Wheel” and “You’ve Made Me So Very Happy\" in the late 1960s, has died."
         }
-      ]
+      ],
+      "summary": "David Clayton-Thomas, the singer and songwriter best known as the lead singer of Blood, Sweat & Tears, has died at 84. The group recorded hits including “Spinning Wheel” and “You’ve Made Me So Very Happy.”"
     },
     {
-      "id": "topic_fec20bb1113fcb5b",
+      "id": "topic_c41eb5046097bffe",
+      "title": "Florida Closes ‘Alligator Alcatraz’ Immigration Detention Center",
+      "headline": "Florida's 'Alligator Alcatraz' immigration detention center has closed, governor says",
       "label": [
-        "college football",
-        "football 27",
-        "college",
-        "27",
-        "football",
-        "ea"
-      ],
-      "category": "new",
-      "theme": "theme_db7e9d7d4e87371d",
-      "entities": [
-        "New Longhorn Rasheem Biles",
-        "MLB",
-        "EA College Football",
-        "Top",
-        "Players"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "New Longhorn Rasheem Biles named top MLB by EA College Football 27",
-          "url": "https://sports.yahoo.com/articles/longhorn-rasheem-biles-named-top-222337259.html",
-          "published_at": "2026-06-25T22:23:37.000Z"
-        },
-        {
-          "title": "Top 10 Players at Each Defensive Position in College Football 27",
-          "url": "https://www.operationsports.com/top-10-players-at-each-defensive-position-in-college-football-27",
-          "source": "Operation Sports",
-          "published_at": "2026-06-25T19:00:00.000Z"
-        },
-        {
-          "title": "Breaking down EA Sports' College Football 27 team ratings: who's too high, who's too low?",
-          "url": "https://www.foxnews.com/outkick-sports/breaking-ea-sports-college-football-27-team-ratings-whos-high-whos-low",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-25T18:50:09.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/indiana-curt-cignetti-011926-2.jpg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_30d64ebae3c660fa",
-      "label": [
-        "crucial",
-        "socceroo paraguay",
-        "paraguay live",
-        "updat australia",
-        "face crucial",
-        "crucial world"
-      ],
-      "category": "new",
-      "theme": "theme_db4dbecfd216d71f",
-      "entities": [
-        "Socceroos",
-        "Paraguay LIVE",
-        "Australia",
-        "World Cup",
-        "Santa Clara"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Socceroos v Paraguay LIVE updates: Australia face crucial World Cup clash in Santa Clara; Curacao v Ivory Coast; Ecuador v Germany",
-          "url": "https://www.brisbanetimes.com.au/sport/soccer/socceroos-v-paraguay-live-updates-australia-face-crucial-world-cup-clash-in-santa-clara-curacao-v-ivory-coast-ecuador-v-germany-20260625-p60a14.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-25T20:25:58.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6622222222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3e1dbe6e36f36de38c3bac7c3eca3d75e1ab6cd40abd1d82ce140296e2c831f8"
-        },
-        {
-          "title": "Socceroos v Paraguay LIVE updates: Australia face crucial World Cup clash in Santa Clara; Curacao v Ivory Coast; Ecuador v Germany",
-          "url": "https://www.smh.com.au/sport/soccer/socceroos-v-paraguay-live-updates-australia-face-crucial-world-cup-clash-in-santa-clara-curacao-v-ivory-coast-ecuador-v-germany-20260625-p60a14.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-25T20:25:58.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6622222222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3e1dbe6e36f36de38c3bac7c3eca3d75e1ab6cd40abd1d82ce140296e2c831f8"
-        },
-        {
-          "title": "Socceroos v Paraguay LIVE updates: Australia face crucial World Cup clash in Santa Clara; Curacao v Ivory Coast; Ecuador v Germany",
-          "url": "https://www.theage.com.au/sport/soccer/socceroos-v-paraguay-live-updates-australia-face-crucial-world-cup-clash-in-santa-clara-curacao-v-ivory-coast-ecuador-v-germany-20260625-p60a14.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-25T20:25:58.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.6622222222222222%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3e1dbe6e36f36de38c3bac7c3eca3d75e1ab6cd40abd1d82ce140296e2c831f8"
-        }
-      ]
-    },
-    {
-      "id": "topic_7dfb263511c25a5f",
-      "label": [
-        "detention",
-        "detention center",
-        "alligator alcatraz",
         "alligator",
         "alcatraz",
-        "clos"
+        "closed",
+        "detention",
+        "florida",
+        "desantis"
       ],
       "category": "new",
-      "theme": "theme_757e5442ae742670",
+      "theme": "theme_ad67c7d2517c0ee0",
       "entities": [
-        "Trump",
-        "Alligator Alcatraz",
         "Florida",
-        "DeSantis",
-        "ICE"
+        "Alligator Alcatraz",
+        "Associated Press",
+        "Trump",
+        "DeSantis"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 12,
+      "source_count": 11,
       "articles": [
+        {
+          "title": "Florida's 'Alligator Alcatraz' immigration detention center has closed, governor says",
+          "url": "https://japantoday.com/category/world/florida%27s-%27alligator-alcatraz%27-immigration-detention-center-is-closing-governor-says",
+          "source": "Japan Today",
+          "published_at": "2026-06-25T21:43:49.000Z",
+          "description": "The Florida Everglades immigration detention center known as “Alligator Alcatraz” has served its purpose, Gov. Ron DeSantis said Thursday, closing the makeshift facility heralded by the Trump administration…"
+        },
+        {
+          "title": "'Alligator Alcatraz' detention center closing less than 1 year after it opened",
+          "url": "https://abcnews.com/politics/florida-alligator-alcatraz-detention-center-closing-1-year/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-25T22:03:44.000Z",
+          "image": "https://s.abcnews.com/images/Politics/Alligator-gty-er-260625_1782421295299_hpMain_4x3t_384.jpg",
+          "description": "The facility has faced lawsuits from immigrant advocates since it opened."
+        },
+        {
+          "title": "Florida's 'Alligator Alcatraz' immigration detention center is closing, governor says (Associated Press)",
+          "url": "https://www.memeorandum.com/260625/p72",
+          "source": "memeorandum",
+          "published_at": "2026-06-25T17:30:02.000Z",
+          "image": "http://www.memeorandum.com/260625/i72.jpg",
+          "description": "Associated Press: Florida's ‘Alligator Alcatraz’ immigration detention center is closing, governor says — The immigration center built in the Florida swamps known as “Alligator Alcatraz” is closing after nearly a year of holding thousands of immigrant detainees, Gov. Ron DeSantis said Thursday."
+        },
         {
           "title": "Trump's 'Alligator Alcatraz' detention center closes after a year of controversy",
           "url": "https://www.france24.com/en/americas/20260625-florida-s-alligator-alcatraz-detention-center-shuts-down-says-official",
           "source": "France 24 - International breaking news, top stories and headlines",
           "published_at": "2026-06-25T21:52:51.000Z",
-          "image": "https://s.france24.com/media/display/be26a39e-70ca-11f1-95d7-005056bfb2b6/w:1024/p:16x9/a2dd817eeaeedd2f576868cbc21e466afd5f02f4.jpg"
+          "image": "https://s.france24.com/media/display/be26a39e-70ca-11f1-95d7-005056bfb2b6/w:1024/p:16x9/a2dd817eeaeedd2f576868cbc21e466afd5f02f4.jpg",
+          "description": "Florida's controversial \"Alligator Alcatraz\" immigration detention centre, a symbol of US President Donald Trump's deportation drive, has closed after operating for less than a year, officials said on Thursday. Florida Governor Ron DeSantis said the Everglades facility had emptied after fulfilling…"
         },
         {
-          "title": "Florida's 'Alligator Alcatraz' immigration detention center has closed, governor says",
-          "url": "https://japantoday.com/category/world/florida%27s-%27alligator-alcatraz%27-immigration-detention-center-is-closing-governor-says",
+          "title": "Florida’s ‘Alligator Alcatraz’ has closed after nearly 1 year, DeSantis says",
+          "url": "https://www.ms.now/news/florida-alligator-alcatraz-closes-desantis-immigration",
+          "source": "MS NOW",
+          "published_at": "2026-06-25T18:19:28.000Z",
+          "description": "Thousands of immigrant detainees were previously held at the remote federal detention center in the Florida Everglades. All have been relocated. The post Florida’s ‘Alligator Alcatraz’ has closed after nearly 1 year, DeSantis says appeared first on MS NOW."
+        }
+      ],
+      "summary": "Florida Gov. Ron DeSantis said the Everglades detention center known as “Alligator Alcatraz” has closed. Officials said detainees had been relocated; the facility had faced lawsuits from immigrant advocates."
+    },
+    {
+      "id": "topic_2ade3080957cc46e",
+      "title": "Prosecutors Drop New York Rape Charge Against Harvey Weinstein",
+      "headline": "New York prosecutors to drop unresolved rape charge against Harvey Weinstein",
+      "label": [
+        "weinstein",
+        "rape",
+        "charge",
+        "harvey",
+        "prosecutors",
+        "dropped"
+      ],
+      "category": "new",
+      "theme": "theme_85cbacb2011b8118",
+      "entities": [
+        "New York",
+        "Harvey Weinstein",
+        "Unresolved Rape Charge Against",
+        "Harvey Weinstein Dropped",
+        "Prosecutors Drop Harvey Weinstein"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "New York prosecutors to drop unresolved rape charge against Harvey Weinstein",
+          "url": "https://www.thejournal.ie/new-york-prosecutors-to-drop-unresolved-rape-charge-against-harvey-weinstein-7082173-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-25T19:14:24.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/harvey-weinstein-appears-in-manhattan-supreme-court-thursday-june-25-2026-in-new-york-adam-graypool-photo-via-ap-82e9292d-2572-465a-8204-b35bef1c0f53-630x419.jpg",
+          "description": "Weinstein still stands convicted of another sexual felony in New York and others in California, and is still behind bars."
+        },
+        {
+          "title": "Harvey Weinstein's New York rape charge dropped after accuser says she can't endure a fourth trial",
+          "url": "https://japantoday.com/category/world/prosecutors-to-drop-harvey-weinstein%e2%80%99s-unresolved-rape-charge-his-other-convictions-stand",
           "source": "Japan Today",
-          "published_at": "2026-06-25T21:43:49.000Z"
+          "published_at": "2026-06-25T21:44:01.000Z",
+          "description": "Harvey Weinstein won't face a fourth trial on a New York rape charge. Prosecutors dropped the #MeToo-era case on Thursday after his accuser said she could not bear…"
         },
         {
-          "title": "DeSantis permanently closes ICE detention center ‘Alligator Alcatraz’",
-          "url": "https://www.washingtonexaminer.com/policy/immigration/4625242/desantis-permanent-close-ice-alligator-alcatraz",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-25T18:43:13.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26151840007179-e1782413066804.jpg?w=696"
+          "title": "Unresolved Rape Charge Against Harvey Weinstein Dropped",
+          "url": "https://www.ndtv.com/world-news/unresolved-rape-charge-against-harvey-weinstein-dropped-11688354",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-25T18:24:35.000Z",
+          "image": "https://c.ndtvimg.com/2024-04/qrgmo9p_harvey-weinstein_625x300_26_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Weinstein still stands convicted of another sexual felony in New York and others in California, and he remains behind bars."
+        },
+        {
+          "title": "New York prosecutors seek to drop Harvey Weinstein rape charge",
+          "url": "https://www.theguardian.com/world/2026/jun/25/harvey-weinstein-rape-charge-drop",
+          "source": "The Guardian",
+          "published_at": "2026-06-25T17:24:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/ad6bd23859fc3d4a28482846d37ec318d37eda58/1745_1325_5470_4377/master/5470.jpg?width=140&quality=85&auto=format&fit=max&s=ec2460a9305dafb6e5cc474676f39c72",
+          "description": "Accuser declines to testify in fourth trial after May mistrial with prosecutors citing her ‘extraordinarily taxing ordeal’ Manhattan prosecutors on Thursday moved to drop a third-degree rape ⁠charge against Harvey Weinstein after the woman accusing the disgraced movie mogul of assaulting her said s…"
+        },
+        {
+          "title": "Prosecutors Drop Harvey Weinstein Rape Charge After Two Juries Deadlocked",
+          "url": "https://variety.com/2026/film/news/harvey-weinstein-rape-charge-dropped-1236790528",
+          "source": "Variety",
+          "published_at": "2026-06-25T15:52:02.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2217952149.jpg",
+          "description": "New York prosecutors on Thursday dropped a charge of third-degree rape against Harvey Weinstein, after two juries were unable to reach a verdict on the allegation. In a statement, the D.A.’s office said that the accuser, Jessica Mann, did not wish to testify at a fourth trial of the disgraced mogul…"
         }
-      ]
-    },
-    {
-      "id": "topic_4c6843c435f2b29e",
-      "label": [
-        "enma",
-        "pez",
-        "psoe",
-        "enma pez",
-        "del psoe",
-        "de madrid"
       ],
-      "category": "new",
-      "theme": "theme_53b18dc4ce3d72c9",
-      "entities": [
-        "Enma",
-        "Reyes Maroto",
-        "PSOE",
-        "Ayuntamiento",
-        "Madrid"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Enma López anuncia que competirá con Reyes Maroto en las primarias del PSOE para el Ayuntamiento de Madrid",
-          "url": "https://www.elconfidencial.com/espana/2026-06-25/enma-lopez-reyes-maroto-primarias-psoe-ayuntamiento-de-madrid_4379042",
-          "source": "España",
-          "published_at": "2026-06-25T20:39:00.000Z",
-          "image": "https://images.ecestaticos.com/2ULm1bFdm19aB3ri9FdOpVBw9xk=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe3d%2F176%2F754%2Fe3d176754b2fb67f4c1cc8a334250df3.jpg"
-        },
-        {
-          "title": "Enma López se presentará a las primarias del PSOE para la alcaldía de Madrid",
-          "url": "https://www.eldiario.es/madrid/somos/enma-lopez-presentara-primarias-psoe-alcaldia-madrid_1_13334555.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-06-25T20:05:34.000Z",
-          "image": "https://static.eldiario.es/clip/90a5e49e-5ab1-46d5-8765-46dd62382c76_16-9-discover-aspect-ratio_default_0.jpg"
-        },
-        {
-          "title": "Enma López dará la batalla para ser candidata del PSOE a la Alcaldía de Madrid: “Hay mucha gente que está deseando que les ilusionemos”",
-          "url": "https://elpais.com/espana/2026-06-25/enma-lopez-aspira-a-ser-la-proxima-alcaldesa-de-madrid-hay-muchisima-gente-que-esta-deseando-que-les-ilusionemos-para-ir-a-votarnos.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-06-25T19:30:49.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/CG2VFUWIQRCFNAURRZ4ILR2XNI.jpg?auth=646f8773a5ff8a2e88bd9ad58e3f88f15e98e7bed3d4b15de08b3083344adb57"
-        }
-      ]
-    },
-    {
-      "id": "topic_66c42ce92eb9bda8",
-      "label": [
-        "exploit",
-        "sd",
-        "wan",
-        "breach roundup",
-        "roundup hacker",
-        "hacker exploit"
-      ],
-      "category": "new",
-      "theme": "theme_292196a51b218b3a",
-      "entities": [
-        "Breach Roundup",
-        "How Hackers Exploited",
-        "Cisco SD",
-        "WAN Flaw"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Breach Roundup: How Hackers Exploited a Cisco SD-WAN Flaw",
-          "url": "https://www.govinfosecurity.com/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-a-32080",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-image_small-3-a-32080.jpg"
-        },
-        {
-          "title": "Breach Roundup: How Hackers Exploited a Cisco SD-WAN Flaw",
-          "url": "https://www.databreachtoday.co.uk/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-a-32080",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-image_small-3-a-32080.jpg"
-        },
-        {
-          "title": "Breach Roundup: How Hackers Exploited a Cisco SD-WAN Flaw",
-          "url": "https://www.bankinfosecurity.com/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-a-32080",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-how-hackers-exploited-cisco-sd-wan-flaw-image_small-3-a-32080.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_f6205488786aab58",
-      "label": [
-        "foldable",
-        "foldable gam",
-        "gam mode",
-        "android 17",
-        "mode",
-        "android"
-      ],
-      "category": "new",
-      "theme": "theme_6841c85fd57124af",
-      "entities": [
-        "Android",
-        "Prepare",
-        "Google",
-        "Foldable Gaming Mode Previewed",
-        "Coming Soon"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
-          "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-          "source": "The Verge",
-          "published_at": "2026-06-25T22:33:54.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "title": "Prepare your thumbs: Google shows off Android 17’s foldable gaming mode in action",
-          "url": "https://www.androidauthority.com/android-17-foldable-gaming-mode-preview-3681665",
-          "source": "Android Authority",
-          "published_at": "2026-06-25T21:33:51.000Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-1-scaled.jpg"
-        },
-        {
-          "title": "Android 17’s Foldable Gaming Mode Previewed, Coming Soon",
-          "url": "https://www.droid-life.com/2026/06/25/android-17-foldable-gaming-mode",
-          "source": "Droid Life – Opinionated Android news.",
-          "published_at": "2026-06-25T21:25:38.000Z",
-          "image": "https://www.droid-life.com/wp-content/uploads/2025/10/Galaxy-Z-Fold-7-1-1200x800.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_8499b2aa705f9eb5",
-      "label": [
-        "forrester",
-        "pose",
-        "ciso",
-        "forrester ai",
-        "agent pose",
-        "pose cybersecurity"
-      ],
-      "category": "new",
-      "theme": "theme_bb7a3921c7ef6458",
-      "entities": [
-        "Forrester",
-        "AI Agents Pose New",
-        "Cybersecurity Risks",
-        "CISOs"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Forrester: AI Agents Pose New Cybersecurity Risks for CISOs",
-          "url": "https://www.govinfosecurity.com/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-a-32078",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-image_small-1-a-32078.jpg"
-        },
-        {
-          "title": "Forrester: AI Agents Pose New Cybersecurity Risks for CISOs",
-          "url": "https://www.databreachtoday.co.uk/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-a-32078",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-image_small-1-a-32078.jpg"
-        },
-        {
-          "title": "Forrester: AI Agents Pose New Cybersecurity Risks for CISOs",
-          "url": "https://www.bankinfosecurity.com/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-a-32078",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/forrester-ai-agents-pose-new-cybersecurity-risks-for-cisos-image_small-1-a-32078.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d13d59475b37f17c",
-      "label": [
-        "openai lean",
-        "lean",
-        "lean toward",
-        "toward",
-        "openai",
-        "toward hold"
-      ],
-      "category": "new",
-      "theme": "theme_b51648ebb444b7eb",
-      "entities": [
-        "OpenAI Leans Toward Waiting",
-        "IPO",
-        "NYT Says",
-        "Sources",
-        "OpenAI"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "OpenAI Leans Toward Waiting Until 2027 for IPO, NYT Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-25T20:51:55.000Z",
-          "image": "http://assets.bwbx.io/images/i9B0RZN3oJWc/v2/1200x-1.jpg"
-        },
-        {
-          "title": "Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions (New York Times)",
-          "url": "https://www.techmeme.com/260625/p46",
-          "source": "Techmeme",
-          "published_at": "2026-06-25T20:50:01.000Z",
-          "image": "http://www.techmeme.com/260625/i46.jpg"
-        },
-        {
-          "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
-          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-          "source": "NYT > Business",
-          "published_at": "2026-06-25T20:32:54.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/25/multimedia/25biz-openai-ipo-sam-flvk/25biz-openai-ipo-sam-flvk-mediumSquareAt3X.jpg"
-        }
-      ]
+      "summary": "New York prosecutors dropped a third-degree rape charge against Harvey Weinstein after the accuser said she could not endure another trial. Weinstein remains convicted of other sex crimes and incarcerated."
     }
   ]
 }

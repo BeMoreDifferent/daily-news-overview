@@ -1,944 +1,970 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-27T00:50:05.799Z",
+  "generated_at": "2026-09-27T14:03:01.379Z",
   "topics": [
     {
-      "id": "topic_a87967d6ccc4916b",
+      "id": "topic_75d1bdc9319ff07a",
+      "title": "Small Aircraft Crashes Into Beijing’s Tallest Building",
+      "headline": "Small aircraft crashes into Beijing's tallest building",
       "label": [
-        "tax",
-        "trump threaten",
-        "tariff",
-        "threaten",
-        "100",
-        "trump"
+        "beijing",
+        "tallest",
+        "crashes",
+        "building",
+        "aircraft",
+        "small"
       ],
       "category": "new",
-      "theme": "theme_3c1572cd47fcc27e",
+      "theme": "theme_d7f9593f601bd5ef",
+      "entities": [
+        "Small",
+        "Beijing",
+        "Plane Crashes Into Beijing",
+        "Tallest Building",
+        "Aircraft"
+      ],
+      "article_count": 36,
+      "source_count": 29,
+      "articles": [
+        {
+          "title": "Small aircraft crashes into Beijing's tallest building",
+          "url": "https://japantoday.com/category/world/small-aircraft-crashes-into-beijing%27s-tallest-building-eyewitnesses-say1",
+          "source": "Japan Today",
+          "published_at": "2026-06-26T20:45:29.000Z",
+          "description": "An aircraft about the size of a car crashed into Beijing's tallest building on Friday, witnesses told Reuters, with police closing off roads ‌around the skyscraper and authorities…"
+        },
+        {
+          "title": "Plane Crashes Into Beijing’s Tallest Building",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/26/plane-crashes-into-beijings-tallest-building",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-26T14:19:04.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3e89bc1924cd15d06dcffa/0x0.jpg?width=960",
+          "description": "Beijing's airspace is regulated by some of the strictest security measures in the world."
+        },
+        {
+          "title": "Small plane crashes into Beijing's tallest building",
+          "url": "http://www.euronews.com/2026/06/26/small-plane-crashes-into-beijings-tallest-building",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-06-26T20:44:53.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/81/55/30/696x392_cmsv2_3d71e59a-2d5a-5a20-98f1-eb62e34a5967-9815530.jpg",
+          "description": "Police and emergency crews sealed off the area around Beijing's tallest skyscraper after a small plane crash damaged the building. Images from the scene showed a large hole in the upper floors of the 528-metre CITIC Tower, while witnesses reported seeing aircraft debris at the base of the building."
+        },
+        {
+          "title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
+          "url": "https://www.thehindu.com/news/international/small-aircraft-crashes-into-china-beijings-tallest-building-citic-tower/article71150999.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-26T14:00:47.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/k6fokz/article71151048.ece/alternates/LANDSCAPE_1200/China_Damaged_Building_69385.jpg",
+          "description": "Two glass panels on a high floor were damaged. There was no immediate official comment."
+        },
+        {
+          "title": "Small aircraft crashes into Beijing's tallest skyscraper",
+          "url": "https://www.thehindubusinessline.com/news/world/small-aircraft-crashes-into-beijings-tallest-skyscraper/article71151326.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-26T14:57:45.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/7qo5ey/article71151342.ece/alternates/LANDSCAPE_1200/2026-06-26T144545Z_1695522233_RC2Q1MA0OR0G_RTRMADP_3_CHINA-BUILDING-BEIJING.JPG",
+          "description": "The origin of the plane and the circumstances leading to the crash are not known yet"
+        }
+      ],
+      "summary": "A small aircraft crashed into Beijing’s tallest building, damaging glass panels on an upper floor. Police and emergency crews closed roads around the skyscraper; the aircraft’s origin and the circumstances of the crash were not immediately known."
+    },
+    {
+      "id": "topic_ad80e9917dee0832",
+      "title": "John Bolton Pleads Guilty to Mishandling Classified Information",
+      "headline": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "label": [
+        "pleads",
+        "bolton",
+        "guilty",
+        "classified",
+        "john",
+        "information"
+      ],
+      "category": "new",
+      "theme": "theme_4a9654c971256f12",
+      "entities": [
+        "Ex",
+        "Trump",
+        "John Bolton",
+        "Former Trump",
+        "Bolton Pleads Guilty"
+      ],
+      "article_count": 36,
+      "source_count": 29,
+      "articles": [
+        {
+          "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+          "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo",
+          "source": "BBC News",
+          "published_at": "2026-06-26T14:42:49.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcea/live/a513f030-716c-11f1-a4f8-ed826651ef10.jpg",
+          "description": "Trump's former national security adviser faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say."
+        },
+        {
+          "title": "Former Trump adviser John Bolton pleads guilty to mishandling classified files",
+          "url": "https://timesofindia.indiatimes.com/world/us/former-trump-adviser-john-bolton-pleads-guilty-to-mishandling-classified-files/articleshow/132018807.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-26T14:36:30.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132018782,imgsize-114364.cms",
+          "description": "Prosecutors accused Bolton of sharing sensitive government information with two relatives for possible inclusion in a memoir he was writing. The material allegedly included notes from intelligence briefings as well as meetings involving senior US officials and foreign leaders. Bolton had pleaded no…"
+        },
+        {
+          "title": "Bolton Pleads Guilty in Classified Information Case",
+          "url": "https://www.dailysignal.com/2026/06/26/bolton-pleads-guilty-in-classified-information-case",
+          "source": "The Daily Signal",
+          "published_at": "2026-06-26T15:21:49.000Z",
+          "image": "https://static.dailysignalmedia.org/Bolton-Guilty-scaled.jpg",
+          "description": "John Bolton, a former national security adviser to President Donald Trump who became a critic of the president, pleaded guilty Friday to one count of retaining national security information. This was a plea deal for Bolton, who also served as a recess-appointed U.S. ambassador to the United Nations…"
+        },
+        {
+          "title": "Trump foe John Bolton pleads guilty in classified information case",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/john-bolton-guilty-plea-deal-classified-documents-trump-b3003760.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-26T14:40:27.000Z",
+          "image": "https://static.independent.co.uk/2026/06/26/13/06/GettyImages-2283417870.jpg?width=1200&auto=webp&trim=0%2C0%2C1%2C0",
+          "description": "His plea agreement may enable him to avoid time behind bars, but the judge will ultimately decide his punishment"
+        },
+        {
+          "title": "John Bolton pleads guilty to 1 count of mishandling classified information",
+          "url": "https://abcnews.com/us/john-bolton-expected-plead-guilty-mishandling-classified-information/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-26T14:34:08.000Z",
+          "image": "https://s.abcnews.com/images/US/john-bolton-2-gty-gmh-260626_1782479334946_hpMain_4x3t_384.jpg",
+          "description": "President Trump's former national security adviser John Bolton pleaded guilty Friday to mishandling classified information."
+        }
+      ],
+      "summary": "Former national security adviser John Bolton pleaded guilty to one count related to retaining or mishandling national security information. Prosecutors said he faces a possible prison sentence and a $2.25 million fine; a judge will decide his punishment."
+    },
+    {
+      "id": "topic_231a417aca469a62",
+      "title": "Trump Threatens 100% Tariffs Over Digital Services Taxes",
+      "headline": "Trump threatens 100% tariff on any country that imposes digital services tax",
+      "label": [
+        "tariff",
+        "tax",
+        "threatens",
+        "digital",
+        "trump",
+        "countries"
+      ],
+      "category": "new",
+      "theme": "theme_b3583fdb6e805405",
       "entities": [
         "Trump",
+        "Trump Threatens",
+        "Tariff On European Countries",
+        "Over Digital Services Tax",
+        "Reuters"
+      ],
+      "article_count": 37,
+      "source_count": 33,
+      "articles": [
+        {
+          "title": "Trump threatens 100% tariff on any country that imposes digital services tax",
+          "url": "https://www.investing.com/news/economy-news/trump-threatens-100-tariff-on-any-country-that-imposes-digital-services-tax-4763215",
+          "source": "All News",
+          "published_at": "2026-06-26T14:43:42.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5P16I_L.jpg"
+        },
+        {
+          "title": "Trump threatens 100% tariff on countries that impose digital services tax",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358569/trump-threatens-100-tariff-countries-impose-digital-services-tax",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-26T17:48:13.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/27/5cad053e-9eb5-443d-89c7-3751b49de5d3_c2b19029.jpg?itok=YEREskkY&v=1782496081",
+          "description": "US President Donald Trump on Friday threatened a 100 per cent tax on imports from any country that imposes a tax on digital services from American companies. In a post on social media, Trump took aim at European countries that he said are discussing “imminent” implementation of taxes on US companie…"
+        },
+        {
+          "title": "Trump threatens 100% tariff on countries taxing digital services",
+          "url": "https://seekingalpha.com/news/4607814-trump-threatens-100-tariff-on-countries-taxing-digital-services",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-26T17:39:15.000Z"
+        },
+        {
+          "title": "Trump Threatens 100% Tariff On European Countries Over Digital Services Tax",
+          "url": "https://www.ndtv.com/world-news/donald-trump-threatens-100-percent-tariff-on-european-countries-over-digital-services-tax-11692666",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-26T17:01:09.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/pd81j5tc_donald-trump_625x300_25_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Trump took aim at European countries that he said are discussing \"imminent\" implementation of taxes on American companies."
+        },
+        {
+          "title": "Trump threatens 100% tariff on any country that imposes digital services tax",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxodutrvgnqaudtwufxs1ddtvz1smhvnwlvlupqanrxrkd1cwpxcxzmtujvzxhhci1yb2etruf0tme3zndbrwjloglws0rcy24ybnq0djytrmpfekzos3i4tfdhunpiuwtvmtdfego0rfdabkdkwdl5ds04dnhimud1bmrlsgdgaunwmw5cac1qwvjfufnvdgntem9yyw5eqjfctvzuwjrov2n1bekyc0c4tc1fnnhqdkm4",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T18:16:01.000Z",
+          "description": "Trump threatens 100% tariff on any country that imposes digital services tax Reuters Trump threatens 100% tariff on European digital services taxes BBC Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies' CNBC Trump threatens 100% tax on European imports if…"
+        }
+      ],
+      "summary": "President Donald Trump threatened to impose 100% tariffs on imports from countries that tax digital services, targeting taxes on American companies. He specifically criticized European countries discussing such measures."
+    },
+    {
+      "id": "topic_8bb13cee575ec225",
+      "title": "Israel and Lebanon Sign Framework Agreement After US-Brokered Talks",
+      "headline": "Israel and Lebanon sign framework agreement - Axios",
+      "label": [
+        "lebanon",
+        "framework",
+        "israel",
+        "agreement",
+        "sign",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_22c95f32e9c9a4bc",
+      "entities": [
+        "Israel",
+        "Lebanon",
+        "Axios",
         "US",
-        "Trump Threatens Immediate",
-        "Tariffs",
-        "Countries Imposing Digital Services"
+        "Rubio"
+      ],
+      "article_count": 35,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Israel and Lebanon sign framework agreement",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxocxpisdctbfvgtnitwv9fsxnvwlpowxzvzg5pq2dkr2nar0zvy05ynxrju2lmvnbytwllnlvmcgpwdjhlnzjxvzzmbfh2y3jvnvhtotfnlvvhrtrwdxfqmfvlewk5cmtsuwdyuuzas0iyqjfyqug1rxphchfwn080vgzpqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T17:45:11.000Z",
+          "description": "Israel and Lebanon sign framework agreement Axios Israel to withdraw from two areas in Lebanon under newly signed agreement CNN Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security' CNBC Israel, Lebanon sign framework deal for slight IDF withdrawal after 4 days…"
+        },
+        {
+          "title": "Israel and Lebanon sign framework agreement after marathon talks",
+          "url": "https://www.ms.now/news/israel-and-lebanon-sign-framework-agreement-after-marathon-talks",
+          "source": "MS NOW",
+          "published_at": "2026-06-26T18:36:46.000Z",
+          "description": "Lebanon’s ambassador to the U.S. described the agreement as “a first step on the road to restoring Lebanese sovereignty” and ending hostilities. The post Israel and Lebanon sign framework agreement after marathon talks appeared first on MS NOW."
+        },
+        {
+          "title": "What is the framework agreement signed by Israel and Lebanon?",
+          "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-26T22:56:01.000Z",
+          "description": "Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land."
+        },
+        {
+          "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+          "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go",
+          "source": "BBC News",
+          "published_at": "2026-06-26T19:29:31.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91cd/live/9c0fbac0-718d-11f1-b32d-379da24cff6f.jpg",
+          "description": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes"
+        },
+        {
+          "title": "Israel and Lebanon expected to sign framework agreement",
+          "url": "https://www.axios.com/2026/06/26/israel-lebanon-framework-agreement-hezbollah",
+          "source": "Axios",
+          "published_at": "2026-06-26T17:24:32.000Z",
+          "image": "https://images.axios.com/CMEfrO2GwP410SDpC2rBHChzO4c=/0x206:8192x4814/1366x768/2026/06/26/1782494330678.jpeg",
+          "description": "Israel and Lebanon plan to sign a framework agreement on Friday after four days of negotiations in Washington, mediated by the Trump administration, Israeli and Lebanese officials told Axios. Why it matters: The signing is a significant diplomatic breakthrough, but it's unclear how much of it can b…"
+        }
+      ],
+      "summary": "Israel and Lebanon signed a framework agreement following US-mediated negotiations in Washington. The agreement was described as a step toward restoring Lebanese sovereignty and ending hostilities, while Israel continues to occupy Lebanese territory."
+    },
+    {
+      "id": "topic_2c40d5629d2e2bf8",
+      "title": "Trump Accuses Iran of Ceasefire Violation After Hormuz Drone Attacks",
+      "headline": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
+      "label": [
+        "violated",
+        "ceasefire",
+        "iran",
+        "trump",
+        "attack",
+        "strikes"
+      ],
+      "category": "new",
+      "theme": "theme_8cc6c2ef0f58c836",
+      "entities": [
+        "Trump",
+        "Iran",
+        "Strait",
+        "Hormuz",
+        "Trump Says Iran Violated"
       ],
       "article_count": 18,
-      "source_count": 15,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Trump threatens 100% tariffs on countries imposing digital taxes on US firms",
-          "url": "https://www.indiatoday.in/world/story/trump-threatens-100-tariff-to-deter-digital-taxes-on-us-firms-2935336-2026-06-27",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-26T23:44:00.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/us-president-donald-trump-201058662-16x9_3.jpg?VersionId=vUq6AQZUZYs5ptQ3o_q1LYR0ioO5f6L2"
+          "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
+          "url": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-06-26T16:17:28.000Z",
+          "description": "The International Maritime Organization earlier paused efforts to evacuate ships and seafarers stranded in the Strait of Hormuz after a cargo vessel was struck."
         },
         {
-          "title": "Trump Threatens Immediate 100% Tariffs on Countries Imposing Digital Services Taxes",
-          "url": "https://internewscast.com/news/us/trump-threatens-immediate-100-tariffs-on-countries-imposing-digital-services-taxes",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-26T23:11:26.000Z"
+          "title": "Trump Says Iran Violated Ceasefire Agreement",
+          "url": "https://politicalwire.com/2026/06/26/trump-says-iran-violated-ceasefire-agreement",
+          "source": "Political Wire",
+          "published_at": "2026-06-26T16:11:25.000Z",
+          "description": "“President Donald Trump on Friday accused Iran of violating a ceasefire agreement with the United States by launching attack drones at ships passing through the Strait of Hormuz, including a cargo vessel that was struck off the coast of Oman on Thursday,” CNBC reports. CNN: Trump says Iran strike i…"
         },
         {
-          "title": "Trump says U.S. will hit countries with 100% tariff if they impose a digital services tax",
-          "url": "https://financialpost.com/technology/trump-hit-countries-us-100-tariff-dst",
+          "title": "Trump Says Iran Violated Ceasefire With Hormuz Drone Attack",
+          "url": "https://financialpost.com/pmn/business-pmn/trump-says-iran-violated-ceasefire-with-hormuz-drone-attack",
           "source": "Financial Post",
-          "published_at": "2026-06-26T21:55:01.000Z"
+          "published_at": "2026-06-26T16:39:28.000Z",
+          "description": "US President Donald Trump accused Iran of violating their ceasefire agreement by firing at cargo ships transiting the Strait of Hormuz."
         },
         {
-          "title": "Trump threatens 100% tariff on European nations over tech tax",
-          "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko",
-          "source": "BBC News",
-          "published_at": "2026-06-26T21:29:38.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d0/live/53fe5940-71a0-11f1-91d4-ab93ad9f4654.jpg"
+          "title": "Trump says Iran violated ceasefire with drone attacks on cargo ships in Strait of Hormuz",
+          "url": "https://www.washingtonexaminer.com/news/4626606/trump-iran-violated-ceasefire-strait-of-hormuz",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-26T16:04:16.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26177057256591.jpg?w=696",
+          "description": "President Donald Trump warned Iran its shooting of four one-way attack drones at ships in the Strait of Hormuz was a “foolish violation” of the two countries’ memorandum of understanding. “The Islamic Republic of Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Horm…"
         },
         {
-          "title": "Trump Is Threatening 100% Tariffs Again, This Time as Retaliation for Taxes on Big Tech",
-          "url": "https://gizmodo.com/trump-is-threatening-100-tariffs-again-this-time-as-retaliation-for-taxes-on-big-tech-2000778519",
-          "source": "Gizmodo",
-          "published_at": "2026-06-26T21:20:22.000Z",
-          "image": "https://gizmodo.com/app/uploads/2025/04/Trump-advertises-his-stupid-tariffs-1280x853.jpg"
+          "title": "US strikes Iran to respond to drone attack on ship Trump said violated ceasefire",
+          "url": "https://www.breakingnews.ie/world/us-strikes-iran-to-respond-to-drone-attack-on-ship-trump-said-violated-ceasefire-1919222.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjYyMTA4NTZcXFwvYWE0M2E1MTc2MzI4NGU2Yjk4OGRmNWRhY2IwNTkyMmQtMi5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjNjAwNzJiZjcwYjZhMjQzNWJmYjc5Y2U2MzI0MGJhNWQxNTYzZWI1In0=/aa43a51763284e6b988df5dacb05922d-2.jpg",
+          "description": "US Central Command said the military struck missile and drone locations and coastal radar sites in Iran on Friday."
         }
-      ]
+      ],
+      "summary": "President Donald Trump accused Iran of violating a ceasefire by launching drones at ships in the Strait of Hormuz. US Central Command said US forces later struck missile, drone and coastal radar sites in Iran."
     },
     {
-      "id": "topic_1e739ba4595f3f86",
+      "id": "topic_43c1cfda1fb2c131",
+      "title": "Australia Considers Stronger Enforcement of Under-16 Social Media Ban",
+      "headline": "Australia plans tougher social media ban for children under 16",
       "label": [
-        "subpoena",
-        "subpoena leon",
-        "leon black",
-        "leon",
-        "black",
-        "epstein"
+        "social",
+        "media",
+        "ban",
+        "australia",
+        "tougher",
+        "teens"
       ],
       "category": "new",
-      "theme": "theme_599cbe1dfeb9c493",
+      "theme": "theme_7f0848bdd03d6459",
       "entities": [
-        "Comer",
-        "Leon Black",
-        "Epstein",
-        "Congressional",
-        "Nolan"
+        "Australia",
+        "Reuters",
+        "Tougher"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Comer subpoenas Leon Black after his refusal to answer some Epstein questions",
-          "url": "https://abcnews.com/us/billionaire-leon-black-face-questions-decades-long-relationship/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-06-26T21:27:56.000Z",
-          "image": "https://s.abcnews.com/images/US/leon-black-2-ap-gmh-260626_1782485094464_hpMain_4x3t_384.jpg"
+          "title": "Australia plans tougher social media ban for children under 16",
+          "url": "https://www.indiatoday.in/world/story/australia-plans-tougher-under-16-social-media-ban-enforcement-ptag-2934755-2026-06-26",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-26T08:12:28.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/pti-international-2-original_98-sixteen_nine.png?VersionId=_Mc5SoXXE6KGweRek2N1mKa_YlG6wlUR",
+          "description": "Australia plans tougher social media ban for children under"
         },
         {
-          "title": "Congressional panel investigating Epstein subpoenas Leon Black (Nolan D. McCaskill/Reuters)",
-          "url": "https://www.memeorandum.com/260626/p77",
-          "source": "memeorandum",
-          "published_at": "2026-06-26T19:20:00.000Z",
-          "image": "http://www.memeorandum.com/260626/i77.jpg"
+          "title": "Australia considers tougher enforcement of social media ban for teens",
+          "url": "https://japantoday.com/category/world/australia-considers-tougher-enforcement-of-social-media-ban-for-teens",
+          "source": "Japan Today",
+          "published_at": "2026-06-26T20:45:23.000Z",
+          "description": "Australia's prime minister said on Friday he was keen to make sure the country's social media ban for ‌children was as strong as possible, as a new study…"
         },
         {
-          "title": "House committee subpoenas Leon Black in the middle of closed-door interview about Jeffrey Epstein",
-          "url": "https://www.businessinsider.com/leon-black-subpoena-jeffrey-epstein-congress-interview-2026-6",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-06-26T18:33:53.000Z",
-          "image": "https://i.insider.com/6a3ea77a360acd489560beaa?format=jpeg"
+          "title": "Australia considers tougher enforcement of social media ban for teens",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxpqwnkq0k2ewdcotz2x0zawi13qm5isljuuhvtvvvhwlrlnerqwmpevdbgyxluwmczs3nhnuvoujz1aextc2c5bjy0vuhiddixaxnovmvjakkynxpslxvodnvqq0viagzcdulqbmhvsfzpbkizyl9lvwtuev8xvmhlmfvicumwbnzuetdwlxeybk5ac1lsyws5y0e2umt0df9xslbax2nfexzov3roc0jyczg5wc1zzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T02:58:00.000Z",
+          "description": "Australia considers tougher enforcement of social media ban for teens Reuters Eighty per cent of Australian children escape social media ban The Telegraph Federal politics: PM flags strengthening powers of eSafety Commissioner for social media ban — as it happened Australian Broadcasting Corporatio…"
+        },
+        {
+          "title": "Australia plans to strengthen under-16s social media ban",
+          "url": "https://www.breakingnews.ie/world/australia-plans-to-strengthen-under-16s-social-media-ban-1918955.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjYxMTIxMjBcXFwvMzVkNmExOTQ5ZmMxNGI5Njk5NTk1OWQ2ZWRiZWE2YjAuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZWY3NGUxMWQ3ZTFjZWExZGQ1OTg1NmZkNTBiNzU2NTJjNTJmMTIyMyJ9/35d6a1949fc14b96995959d6edbea6b0.jpg",
+          "description": "Australian Prime Minister Anthony Albanese said his government is considering options to strengthen the ban."
+        },
+        {
+          "title": "Australia’s teen social media ban works on paper, less so in practice",
+          "url": "https://thenextweb.com/news/australia-teen-social-media-ban-enforcement",
+          "source": "The Next Web",
+          "published_at": "2026-06-26T07:59:41.000Z",
+          "image": "https://media.thenextweb.com/2026/05/australia-fair-work-commission-ai-workload-generative-tribunals.avif",
+          "description": "A law is only as strong as the door it actually closes, and Australia’s ban on social media for under-16s appears to have left a window open. On 26 June, six months after the world-first measure took effect, Prime Minister Anthony Albanese said he was keen to make the ban as strong as possible, aft…"
         }
-      ]
+      ],
+      "summary": "Australia’s government is considering ways to strengthen enforcement of its social media ban for children under 16. The discussion follows reports that many children have avoided the restrictions."
     },
     {
-      "id": "topic_2480177f70c552d0",
+      "id": "topic_7949bb08a4cf0554",
+      "title": "Mistrial Declared in Palisades Fire Arson Case",
+      "headline": "Mistrial declared in Palisades fire arson case against Jonathan Rinderknecht",
       "label": [
-        "jaguar land",
-        "jaguar",
-        "land rover",
-        "rover",
-        "land",
-        "russia"
+        "palisades",
+        "fire",
+        "mistrial",
+        "arson",
+        "declares",
+        "rinderknecht"
       ],
       "category": "new",
-      "theme": "theme_c54735d4eb933388",
+      "theme": "theme_e63b7b16788eca8",
       "entities": [
-        "Russia Accused",
-        "Orchestrating",
-        "Jaguar Land Rover Cyberattack",
-        "Russia",
-        "Jaguar Land Rover"
+        "Mistrial",
+        "Palisades",
+        "Jonathan Rinderknecht",
+        "Palisades Fire",
+        "Judge"
       ],
-      "article_count": 8,
-      "source_count": 8,
+      "article_count": 20,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Russia Accused of Orchestrating £1.9bn Jaguar Land Rover Cyberattack",
-          "url": "https://internewscast.com/news/russia-accused-of-orchestrating-1-9bn-jaguar-land-rover-cyberattack",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-26T22:50:24.000Z"
+          "title": "Mistrial declared in Palisades fire arson case against Jonathan Rinderknecht",
+          "url": "https://www.ms.now/news/jonathan-rinderknecht-palisades-fire-verdict",
+          "source": "MS NOW",
+          "published_at": "2026-06-26T16:32:27.000Z",
+          "description": "Rinderknecht was accused of setting a fire that eventually claimed the lives of 12 people and decimated some 6,800 structures in Los Angeles in 2025. The post Mistrial declared in Palisades fire arson case against Jonathan Rinderknecht appeared first on MS NOW."
         },
         {
-          "title": "Russia is accused of being behind Jaguar Land Rover cyber-attack that cost UK £1.9billion - as MPs demand government opens up on probe",
-          "url": "https://www.dailymail.com/news/article-15933727/russia-jaguar-land-rover-cyber-attack-mp.html",
-          "source": "News | Mail Online",
-          "published_at": "2026-06-26T22:44:14.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/26/23/109633247-0-image-a-20_1782512038958.jpg"
-        },
-        {
-          "title": "Russian Hackers Behind the $2.5 Billion Jaguar Land Rover Cyberattack, Investigators Say",
-          "url": "https://malware.news/t/russian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say/108252",
-          "source": "Malware Analysis, News and Indicators - Latest topics",
-          "published_at": "2026-06-26T22:40:39.000Z",
-          "image": "https://databreaches.net/wp-content/plugins/wp-piwik/proxy/matomo.php?idsite=11&amp;rec=1&amp;url=https%3A%2F%2Fdatabreaches.net%2F2026%2F06%2F26%2Frussian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say%2F%3Fpk_campaign%3Dfeed%26pk_kwd%3Drussian-hackers-behind-the-2-5-billion-jaguar-land-rover-cyberattack-investigators-say&amp;action_name=Russian%20Hackers%20Behind%20the%20%242.5%20Billion%20Jaguar%20Land%20Rover%20Cyberattack%2C%20Investigators%20Say&amp;urlref=https%3A%2F%2Fdatabreaches.net%2Ffeed%2F"
-        },
-        {
-          "title": "A Hack Too Far? Report Ties Russia to Jaguar Land Rover Hit",
-          "url": "https://www.govinfosecurity.com/blogs/hack-too-far-report-ties-russia-to-jaguar-land-rover-hit-p-4143",
-          "source": "GovInfoSecurity.com RSS Syndication"
-        },
-        {
-          "title": "A Hack Too Far? Report Ties Russia to Jaguar Land Rover Hit",
-          "url": "https://www.bankinfosecurity.com/blogs/hack-too-far-report-ties-russia-to-jaguar-land-rover-hit-p-4143",
-          "source": "BankInfoSecurity.com RSS Syndication"
-        }
-      ]
-    },
-    {
-      "id": "topic_470c39839078e11c",
-      "label": [
-        "barella",
-        "pour viol",
-        "viol et",
-        "et violenc",
-        "lyhanna",
-        "plainte"
-      ],
-      "category": "new",
-      "theme": "theme_9258d9908b16199c",
-      "entities": [
-        "Meurtre",
-        "Lyhanna",
-        "France",
-        "Barella",
-        "La"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Meurtre de Lyhanna en France : la femme du principal suspect, Jérôme Barella, a déposé plainte pour viol et violences conjugales",
-          "url": "https://www.rtbf.be/article/meurtre-de-lyhanna-en-france-la-femme-du-principal-suspect-jerome-barella-a-depose-plainte-pour-viol-et-violences-conjugales-11748311",
-          "source": "- Info",
-          "published_at": "2026-06-26T20:42:34.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/5/3/0/8c4ec78988e3748227448f14107fcf36.jpg"
-        },
-        {
-          "title": "La femme de Jérôme Barella, maman de Lyhanna, a déposé plainte pour viol et violences conjugales",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/26/la-femme-de-jerome-barella-maman-de-lyhanna-a-depose-plainte-pour-viol-et-violences-conjugales-ds6ln2eidbgi3ejitevobks6k4",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-26T20:25:31.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/53CKYNNVJRFJRE3TEPIJI36AJ4.jpg?auth=5ec7e4f254cc60ca683ecc132dcaa6b1b6615000013dbb2177fe3ec61e56203b&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Affaire Lyhanna : Jérôme Barella est visé par une plainte de sa femme pour viol et violences conjugales",
-          "url": "https://www.huffingtonpost.fr/france/article/affaire-lyhanna-jerome-barella-est-vise-par-une-plainte-de-sa-femme-pour-viol-et-violences-conjugales_278458.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-06-26T19:54:51.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/06/11/521/0/5000/2812/0/0/60/0/174790b_upload-1-vtzc74idyjhe-afp-20260603-hl-isouriment-3183947-v1-highres-francemontestrucsurgershousegenda.jpg"
-        },
-        {
-          "title": "Affaire Lyhanna : la femme de Jérôme Barella, soupçonné du meurtre de la collégienne, a déposé plainte pour viol et violences conjugales",
-          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-la-femme-de-jerome-barella-soupconne-du-meurtre-de-la-collegienne-a-depose-plainte-pour-viol-et-violences-conjugales-29678866.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-26T19:28:33.000Z"
-        },
-        {
-          "title": "Mort de Lyhanna : Jérôme Barella visé par une plainte de son épouse pour viol et violences conjugales",
-          "url": "https://www.ladepeche.fr/2026/06/26/mort-de-lyhanna-jerome-barella-vise-par-une-plainte-de-son-epouse-pour-viol-et-violences-conjugales-13440057.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-06-26T19:26:02.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a3ed0dbaad3fec8d90d175e/standard/image.webp?v=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_195eae67ef42fcee",
-      "label": [
-        "ferguson",
-        "twice",
-        "sarah ferguson",
-        "ferguson visit",
-        "epstein twice",
-        "prison sentence"
-      ],
-      "category": "new",
-      "theme": "theme_6cda493488d47e2e",
-      "entities": [
-        "Sarah Ferguson",
-        "Epstein",
-        "Sarah Ferguson Visited Jeffrey",
-        "Epstein Twice During His",
-        "Prison Sentence"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Sarah Ferguson visited Epstein twice as he served prison sentence",
-          "url": "https://www.brisbanetimes.com.au/world/europe/sarah-ferguson-visited-epstein-twice-as-he-served-prison-sentence-20260627-p60ajf.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-26T20:05:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1936368623148656%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/0e0803c280068b8e8e332dc5961988d1d2446fb7"
-        },
-        {
-          "title": "Sarah Ferguson visited Epstein twice as he served prison sentence",
-          "url": "https://www.theage.com.au/world/europe/sarah-ferguson-visited-epstein-twice-as-he-served-prison-sentence-20260627-p60ajf.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-26T20:05:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1936368623148656%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/0e0803c280068b8e8e332dc5961988d1d2446fb7"
-        },
-        {
-          "title": "Sarah Ferguson visited Epstein twice as he served prison sentence",
-          "url": "https://www.smh.com.au/world/europe/sarah-ferguson-visited-epstein-twice-as-he-served-prison-sentence-20260627-p60ajf.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-26T20:05:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1936368623148656%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/0e0803c280068b8e8e332dc5961988d1d2446fb7"
-        },
-        {
-          "title": "Sarah Ferguson Visited Jeffrey Epstein Twice During His Prison Sentence",
-          "url": "https://internewscast.com/news/sarah-ferguson-visited-jeffrey-epstein-twice-during-his-prison-sentence",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-26T18:50:29.000Z"
-        },
-        {
-          "title": "Sarah Ferguson visited Epstein TWICE at office for a bogus firm he set up while he was serving prison sentence for child sex offence",
-          "url": "https://www.dailymail.com/news/article-15933067/sarah-ferguson-visited-epstein-twice-office.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-06-26T18:41:59.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/26/18/109628887-0-image-a-52_1782496436743.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c403f85ba231097a",
-      "label": [
-        "government request",
-        "gpt",
-        "request",
-        "government",
-        "limit gpt",
-        "gpt rollout"
-      ],
-      "category": "new",
-      "theme": "theme_340576bd1c24069",
-      "entities": [
-        "OpenAI Limits GPT",
-        "Rollout",
-        "US Government",
-        "Request",
-        "OpenAI Launches GPT"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "OpenAI Limits GPT-5.6 Rollout at US Government's Request",
-          "url": "https://www.govinfosecurity.com/openai-limits-gpt-56-rollout-at-us-governments-request-a-32092",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/openai-limits-gpt-56-rollout-at-us-governments-request-image_small-7-a-32092.jpg"
-        },
-        {
-          "title": "OpenAI Limits GPT-5.6 Rollout at US Government's Request",
-          "url": "https://www.bankinfosecurity.com/openai-limits-gpt-56-rollout-at-us-governments-request-a-32092",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/openai-limits-gpt-56-rollout-at-us-governments-request-image_small-7-a-32092.jpg"
-        },
-        {
-          "title": "OpenAI Limits GPT-5.6 Rollout at US Government's Request",
-          "url": "https://www.databreachtoday.co.uk/openai-limits-gpt-56-rollout-at-us-governments-request-a-32092",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/openai-limits-gpt-56-rollout-at-us-governments-request-image_small-7-a-32092.jpg"
-        },
-        {
-          "title": "OpenAI Launches GPT-5.6 Series in US-Only Preview At Government's Request",
-          "url": "https://www.ndtv.com/world-news/openai-launches-gpt-5-6-series-in-us-only-preview-at-governments-request-11693014",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-26T18:39:50.000Z",
-          "image": "https://c.ndtvimg.com/2023-12/qa7390ro_openai-_625x300_23_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-        },
-        {
-          "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-          "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm",
-          "source": "TechCrunch",
-          "published_at": "2026-06-26T18:32:14.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_500b6e5b4eca158b",
-      "label": [
-        "libanon",
-        "rahmenabkommen",
-        "und",
-        "israel und",
-        "und libanon",
-        "israel"
-      ],
-      "category": "new",
-      "theme": "theme_c7cd3eebc69d9bfe",
-      "entities": [
-        "Haben",
-        "Nationen",
-        "Israel",
-        "Libanon",
-        "Friedensabkommen"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "\"Haben diese Nationen verdient\": Israel und Libanon einigen sich auf vorläufiges Friedensabkommen",
-          "url": "https://www.n-tv.de/politik/israel-und-libanon-einigen-sich-auf-vorlaeufiges-friedensabkommen-id31019790.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-06-26T20:20:34.000Z",
-          "image": "https://www.n-tv.de/img/31019837/1782506893/Img_4_3/250/US-Aussenminister-Marco-Rubio-M-trifft-sich-mit-dem-israelischen-Botschafter-in-den-USA-Jechiel-Leiter-ganz-links-und-der-libanesischen-Botschafterin-in-den-USA-Nada-Hamadeh-Moawad-ganz-rechts-im-Aussenministerium-in-Washington-zu-Gespraechen.jpg"
-        },
-        {
-          "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html",
-          "source": "tagesschau.de - Die Nachrichten der ARD",
-          "published_at": "2026-06-26T20:11:12.000Z"
-        },
-        {
-          "title": "Israel und Libanon einigen sich auf Rahmenabkommen",
-          "url": "https://www.spiegel.de/ausland/israel-und-libanon-einigen-sich-auf-rahmenabkommen-a-811fcb60-901b-4d65-83db-4c2865261ef2",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-06-26T19:05:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/f6fef15b-e101-4295-b60d-174f8bfb2d90_w520_r2.08_fpx58.66_fpy50.jpg"
-        },
-        {
-          "title": "USA: Israel, Libanon und die USA unterzeichnen Rahmenabkommen",
-          "url": "https://www.zeit.de/politik/ausland/2026-06/israel-libanon-abkommen-usa-marco-rubio",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-06-26T18:57:26.000Z",
-          "image": "https://img.zeit.de/politik/ausland/2026-06/israel-libanon-abkommen-usa-marco-rubio-foto-1/original__640x360"
-        },
-        {
-          "title": "Liveblog Irankrieg: Israel und Libanon einigen sich auf Rahmenabkommen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-israel-und-libanon-einigen-sich-auf-rahmenabkommen-faz-200583539.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-06-26T18:44:39.000Z",
-          "image": "https://media0.faz.net/image/abbf9b656dc2/w3982h2240x0y210/202606/43601.0.2266951992/die-libanesische-botschafterin.webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_fe0fa9a128f9dd2f",
-      "label": [
-        "mytho",
-        "us",
-        "release",
-        "anthropic",
-        "lift block",
-        "block mytho"
-      ],
-      "category": "new",
-      "theme": "theme_b0b795dc69f55d29",
-      "entities": [
-        "Trump",
-        "Anthropic",
-        "Mythos AI",
-        "Reports",
-        "Claude Mythos"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports",
-          "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-06-26T23:39:55.000Z"
-        },
-        {
-          "title": "Anthropic cleared to release Claude Mythos 5 to over 100 US institutions",
-          "url": "https://9to5mac.com/2026/06/26/anthropic-cleared-to-release-claude-mythos-5-to-over-100-us-institutions",
-          "source": "9to5Mac",
-          "published_at": "2026-06-26T23:03:33.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/claude.webp?w=1600"
-        },
-        {
-          "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "Hacker News",
-          "published_at": "2026-06-26T22:48:28.000Z"
-        },
-        {
-          "title": "The US lifts its block on Mythos 5",
-          "url": "https://twitter.com/techmeme/status/2070638481265905837",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-06-26T22:48:28.000Z"
-        },
-        {
-          "title": "Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing (Semafor)",
-          "url": "https://www.techmeme.com/260626/p30",
-          "source": "Techmeme",
-          "published_at": "2026-06-26T22:40:01.000Z",
-          "image": "http://www.techmeme.com/260626/i30.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_59ff751b22627ea5",
-      "label": [
-        "weinstein",
-        "harvey weinstein",
-        "rape conviction",
-        "harvey",
-        "conviction",
-        "rape"
-      ],
-      "category": "new",
-      "theme": "theme_20e5a6b49f5a24e1",
-      "entities": [
-        "California",
-        "Harvey Weinstein",
-        "Court",
-        "Appeals Court Upholds Harvey",
-        "Weinstein"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "California appeals court upholds Harvey Weinstein’s rape conviction, but says he must be resentenced",
-          "url": "https://nypost.com/2026/06/26/us-news/california-appeals-court-upholds-harvey-weinstein-rape-conviction-but-orders-resentencing",
+          "title": "Mistrial declared for accused Palisades Fire arsonist Jonathan Rinderknecht",
+          "url": "https://nypost.com/2026/06/26/us-news/mistrial-declared-for-accused-palisades-fire-arsonist-jonathan-rinderknecht",
           "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-26T23:25:33.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fcrop-39390332.jpg?w%3D1024"
+          "published_at": "2026-06-26T16:27:16.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fundated-photo-provided-u-s-130478451_19e010.jpg?w%3D1024",
+          "description": "Jonathan Rinderknecht, a 30 year old Uber driver, was indicted last October on three felony counts related to arson and destruction of property."
         },
         {
-          "title": "California appeals court upholds Harvey Weinstein’s rape conviction, but says he must be resentenced",
-          "url": "https://www.thehindu.com/news/international/california-appeals-court-upholds-harvey-weinsteins-rape-conviction-but-says-he-must-be-resentenced/article71152344.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-26T23:17:36.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/kydt7n/article71152345.ece/alternates/LANDSCAPE_1200/2026-06-25T170025Z_977651703_RC231MALH9JE_RTRMADP_3_PEOPLE-HARVEY-WEINSTEIN.JPG"
+          "title": "Judge declares mistrial in Palisades Fire arson case after jury deadlocks",
+          "url": "https://www.washingtonexaminer.com/news/justice/4626697/judge-declares-mistrial-palisades-fire-arson-case-jury-deadlocks",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-26T16:57:54.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/YL.LAfires.051326.jpg?w=696",
+          "description": "A federal judge in Los Angeles declared a mistrial on Friday after jurors remained deadlocked in the case against Jonathan Rinderknecht, who is accused of igniting the fire that authorities say became the catastrophic Palisades Fire. Rinderknecht has pleaded not guilty to three federal arson-relate…"
         },
         {
-          "title": "Court upholds Harvey Weinstein's 2022 rape conviction",
-          "url": "https://www.perthnow.com.au/news/politics/court-upholds-harvey-weinsteins-2022-rape-conviction-c-22493258",
-          "source": "PerthNow",
-          "published_at": "2026-06-26T22:29:07.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22493258/7d113575730582482a70206093f92d2719290b72-16x9-x0y0w1280h720.jpg"
+          "title": "Mistrial declared in case against accused Palisades fire arsonist",
+          "url": "https://www.yahoo.com/news/videos/mistrial-declared-case-against-accused-232251602.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-26T23:22:51.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/0e6e0f36f4c84391319bc1d080158144"
         },
         {
-          "title": "Appeals Court Upholds Harvey Weinstein’s L.A. Rape Conviction But Orders New Sentence",
-          "url": "https://variety.com/2026/film/news/harvey-weinstein-rape-appeal-ruling-1236793229",
-          "source": "Variety",
-          "published_at": "2026-06-26T22:19:41.000Z",
-          "image": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2217820811.jpg"
-        },
-        {
-          "title": "Harvey Weinstein’s California Rape Conviction Upheld, but Appeals Court Orders Resentencing",
-          "url": "https://internewscast.com/local-news/harvey-weinsteins-california-rape-conviction-upheld-but-appeals-court-orders-resentencing",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-26T22:17:22.000Z"
+          "title": "Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect",
+          "url": "https://news.google.com/rss/articles/cbmisgfbvv95cuxoenpev1lnd3bpegvwmne3x2d3ntkznwdxz1vrug9dznnlskpiwkvtzuzstgjpv2ldzgnleevtqkj6r0vvqmnxt0dltdk4am5byulmzdjor1yty1m2sy1juul4eu9ktm5jmedtx3dat1jknhdxmuj1wkjuyw1sql9sz0r0vhjontzftfhyamzcadfjnzmxwxjuuwq1twreqkjivvbfwtv6rfhhmmlpdja1wnvb0gg3aufvx3lxtfbqdkhbwevvmtbwefbdv2vdchfsouraeta3cgzomg8xr0fxmhv3vnatwee0oxrmdjhnqzuwug5hyui1y19wvmmxdvgwnuryc3y3mhfvwk81atewv0polulomnhlexn1um45ztm0mfpzvw05cxvlujlwq29rtv9qtdh3njfknjz6vg5tew01vwlvztfjre9qz0pzvfrznzr6ahvuzfnxwwpvquzjqzv4x1nvvgk1bklbwq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T17:48:45.000Z",
+          "description": "Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect ABC7 Los Angeles Mistrial declared in trial over deadly and destructive Palisades Fire NBC News Palisades Fire Arson Trial Ends in Mistrial After Jury Fails to Reach Verdict People.com Mistrial for Man Accused o…"
         }
-      ]
+      ],
+      "summary": "A federal judge declared a mistrial in the case against Jonathan Rinderknecht, who is accused of starting the Palisades Fire. The jury was unable to reach a verdict."
     },
     {
-      "id": "topic_5c768a9107cb43f3",
+      "id": "topic_19185b356824fdc4",
+      "title": "Scientists Say Climate Change Made Europe’s Heatwave Virtually Impossible",
+      "headline": "Europe's heatwave 'virtually impossible' without climate change, scientists say",
       "label": [
-        "christopher",
-        "odyssey",
-        "christopher nolan",
-        "nolan",
-        "trailer christopher",
-        "nolan odyssey"
+        "climate",
+        "change",
+        "europe",
+        "scientists",
+        "impossible",
+        "heatwave"
       ],
       "category": "new",
-      "theme": "theme_6c796d1d387b5654",
+      "theme": "theme_671650485335eaae",
       "entities": [
-        "Trailer",
-        "Christopher Nolan",
-        "The Odyssey",
-        "Christopher Nolan Explains Why",
-        "Cyclops Needed"
+        "Europe",
+        "Reuters",
+        "AP News",
+        "Climate",
+        "Report"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Europe's heatwave 'virtually impossible' without climate change, scientists say",
+          "url": "https://tribune.com.pk/story/2615232/europes-heatwave-virtually-impossible-without-climate-change-scientists-say",
+          "source": "express tribune",
+          "published_at": "2026-06-26T08:17:20.000Z",
+          "description": "Scientists assess global warming's contribution to the ongoing heatwave"
+        },
+        {
+          "title": "Europe's heatwave 'virtually impossible' without climate change, scientists say",
+          "url": "https://news.google.com/rss/articles/cbmiygfbvv95cuxoa0m1dvdrtjntsdlxlu5xaevxuzbasuu0eg80uwdyzvliawthywvidhctmxhlwlzlu2jjym84vgvoauxkvdzivtu2n1myludvdw5ldy1uzgnywktuq1p3zzy0avzjytzccnytaglibndob0xmuujzy1fqn1zxzxruutvtagnrmunxafdtatr4ek1pzhzud285yw5osfnolwjyr3p0zgzayvzwwurpa1hnr2oymuhpx0e2wtziykvnslnnbwn2u2rocefb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T04:12:00.000Z",
+          "description": "Europe's heatwave 'virtually impossible' without climate change, scientists say Reuters European heatwave is worst ever and impossible without climate crisis, scientists say The Guardian Paris bans public alcohol consumption as heatwave overwhelms emergency services France 24 Europe’s record-shatte…"
+        },
+        {
+          "title": "Europe's extreme heat would be impossible without climate change, scientists say",
+          "url": "https://phys.org/news/2026-06-europe-extreme-impossible-climate-scientists.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-06-26T08:10:01.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/europes-extreme-heat-w.jpg",
+          "description": "The record-breaking heat that's scorching Europe day and night this month would not have been possible without climate change, according to a new study."
+        },
+        {
+          "title": "Climate change to blame for intensity of Europe heatwave: scientists",
+          "url": "https://www.digitaljournal.com/article/climate-change-to-blame-for-intensity-of-europe-heatwave-scientists",
+          "source": "Digital Journal",
+          "published_at": "2026-06-26T06:45:11.000Z",
+          "description": "Human-caused climate change is \"unequivocally\" responsible for the intensity of a record-breaking heatwave scientists said Friday. The post Climate change to blame for intensity of Europe heatwave: scientists appeared first on Digital Journal."
+        },
+        {
+          "title": "Climate change to blame as heatwave hits Europe's economies",
+          "url": "https://www.thelocal.it/20260626/climate-change-to-blame-as-heatwave-hits-europes-economies",
+          "source": "The Local Italy",
+          "published_at": "2026-06-26T08:44:21.000Z",
+          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/AFP__20260527__B47T7J6__v3__MidRes__TopshotItalyHeatClimateWeather-1.jpg@webp",
+          "description": "Human-caused climate change is \"unequivocally\" responsible for the intensity of a record-breaking heatwave scorching Europe, scientists said Friday, while experts consider the costs for an economy as productivity melts and growth becomes lethargic."
+        }
+      ],
+      "summary": "Scientists said human-caused climate change made the intensity of Europe’s record-breaking heatwave virtually impossible without global warming. The heat has also raised concerns about economic costs."
+    },
+    {
+      "id": "topic_2e3aab146d2240ba",
+      "title": "California Billionaire Tax Proposal Set for November Ballot",
+      "headline": "Controversial billionaire tax will appear on November ballot",
+      "label": [
+        "billionaire",
+        "tax",
+        "california",
+        "ballot",
+        "appear",
+        "november"
+      ],
+      "category": "new",
+      "theme": "theme_d6abb265db37b9ac",
+      "entities": [
+        "Controversial",
+        "November",
+        "Controversial Billionaire Tax Will",
+        "Appear",
+        "California Ballot This Fall"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Controversial billionaire tax will appear on November ballot",
+          "url": "https://www.latimes.com/california/story/2026-06-25/billionaire-tax-ballot-measure",
+          "source": "World & Nation",
+          "published_at": "2026-06-26T00:57:38.000Z",
+          "description": "Proponents of a controversial billionaire tax pledge to make sure it appears on the November ballot to backfill federal healthcare funds."
+        },
+        {
+          "title": "Controversial Billionaire Tax Will Appear on California Ballot This Fall",
+          "url": "https://time.com/article/2026/06/26/california-billionaire-tax-newsom-ballot-measure",
+          "source": "TIME",
+          "published_at": "2026-06-26T19:18:22.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdcbae7ca41aee48f/6a3ecddf4a0cacb1bb06f5cf/GettyImages-2272919055.jpg?branch=production",
+          "description": "The proposed measure, which would impose a one-time 5% wealth tax on California billionaires, is opposed by Gov. Gavin Newsom and other top lawmakers in the state."
+        },
+        {
+          "title": "Billionaire Tax Proposal Will Appear on California Ballot",
+          "url": "https://politicalwire.com/2026/06/26/billionaire-tax-proposal-will-appear-on-california-ballot",
+          "source": "Political Wire",
+          "published_at": "2026-06-26T10:45:23.000Z",
+          "description": "“Proponents of a tax on California billionaires vowed on Thursday to move forward with their November ballot measure despite mounting opposition from many of the state’s most powerful political forces,” the Los Angeles Times reports. “A labor union spent $31 million gathering signatures to qualify…"
+        },
+        {
+          "title": "What to know about California’s billionaire tax measure",
+          "url": "https://www.ms.now/news/what-to-know-about-californias-billionaire-tax-measure",
+          "source": "MS NOW",
+          "published_at": "2026-06-26T20:04:50.000Z",
+          "description": "Millions in opposition spending from Silicon Valley, a counterproposal from Sacramento and dissent among the state’s most powerful labor unions: Here’s how California’s controversial billionaire tax made it on the ballot, and what it could mean come November. The post What to know about California’…"
+        },
+        {
+          "title": "California billionaire tax will appear on ballot after deadline for deal passes",
+          "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
+          "source": "World news | The Guardian",
+          "published_at": "2026-06-26T00:14:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/dea013b21ec89f471e4b4c1b1f3b75de040db5d1/488_0_4876_3901/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=4e2844f3ebe84d25149514269ff457fa",
+          "description": "Proposal to introduce one-time tax of 5% will go to voters in November after backers decline to withdraw measure California’s billionaire tax, explained: what you need to know California voters will get to decide in November whether billionaires should pay a one-time 5% tax, after a deadline passed…"
+        }
+      ],
+      "summary": "A proposed one-time 5% wealth tax on California billionaires is set to appear on the November ballot after supporters declined to withdraw the measure. The proposal faces opposition from Governor Gavin Newsom and other political and business figures."
+    },
+    {
+      "id": "topic_d0b6d87b3d85ffa4",
+      "title": "South Korea Plans Drone Training for 500,000 Military Personnel",
+      "headline": "South Korea says to train 500,000 'drone warriors' to counter North Korea",
+      "label": [
+        "korea",
+        "warriors",
+        "drone",
+        "south",
+        "train",
+        "north"
+      ],
+      "category": "new",
+      "theme": "theme_c9c3a5040eca0fe8",
+      "entities": [
+        "South Korea",
+        "North Korea",
+        "Reuters",
+        "South"
       ],
       "article_count": 7,
-      "source_count": 4,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Trailer for Christopher Nolan's The Odyssey",
-          "url": "https://www.theage.com.au/culture/trailer-for-christopher-nolans-the-odyssey-20260627-p60aju.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-26T22:10:42.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/76db9c021a583dabd39dc304ad2ac0c42ee7cbd9"
+          "title": "South Korea says to train 500,000 'drone warriors' to counter North Korea",
+          "url": "https://www.thehindu.com/news/international/south-korea-says-to-train-500000-drone-warriors-to-counter-north-korea/article71151841.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-26T17:12:49.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/p66yqw/article71151848.ece/alternates/LANDSCAPE_1200/2026-06-26T033539Z_1910094407_RC2GFY9P09H7_RTRMADP_3_SOUTHKOREA-MILITARY-DRONES.JPG",
+          "description": "The announcement comes as both Koreas accelerate efforts to build drone capabilities, shaped by lessons from conflicts ‌in Ukraine and West Asia"
         },
         {
-          "title": "Trailer for Christopher Nolan's The Odyssey",
-          "url": "https://www.smh.com.au/culture/trailer-for-christopher-nolans-the-odyssey-20260627-p60aju.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-26T22:10:42.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/76db9c021a583dabd39dc304ad2ac0c42ee7cbd9"
+          "title": "South Korea says to train 500,000 'drone warriors' to counter North Korea",
+          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxnaellbvvsrlpvqkdis1rfmzhvtjzzrnbkbzvrvxfld2zibv9qrdhrz2zlouljrkrzegdrbw1hykzabulst3ztqlhmvddhbzrqsf9renk2tddhslrxzgxiae05n3jzb2rtau13vvb4dlzxetfvbe81lvzyzna5ykxam3mzrhjsx0lvotbvrhrxdfvhdnlsdi03dvrvzndkmkrjcwvlovvczfu4sfbqtddtsvlexzrdrzvpdkfqbwpymny",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T00:59:00.000Z",
+          "description": "South Korea says to train 500,000 'drone warriors' to counter North Korea Reuters South Korea to Train All Active-Duty Soldiers to Operate Drones WSJ South Korea to train half a million military personnel to become ‘drone warriors’ The Guardian Defense Ministry Disbands Drone Command, Establishes N…"
         },
         {
-          "title": "Trailer for Christopher Nolan's The Odyssey",
-          "url": "https://www.brisbanetimes.com.au/culture/trailer-for-christopher-nolans-the-odyssey-20260627-p60aju.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-26T22:10:42.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/76db9c021a583dabd39dc304ad2ac0c42ee7cbd9"
+          "title": "South Korea to train 500,000 ‘drone warriors’ to combat North Korea threat",
+          "url": "https://www.independent.co.uk/news/world/asia/south-korea-drones-russia-ukraine-ahn-gyu-back-b3003818.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-26T14:35:11.000Z",
+          "image": "https://static.independent.co.uk/2026/06/26/10/22/South-Korean-soldier-holding-a-multi-purpose-tactical-drone-with-a-mock-bomb.jpeg?width=1200&auto=webp&trim=123%2C0%2C123%2C0",
+          "description": "The announcement comes as both countries accelerate efforts to build drone capabilities, shaped by lessons from conflicts in Ukraine and the Middle East"
         },
         {
-          "title": "The Odyssey’s Christopher Nolan Explains Why Cyclops Needed to Be as Realistic as Possible",
-          "url": "https://www.comingsoon.net/movies/news/2154672-the-odysseys-christopher-nolan-explains-why-cyclops-needed-to-be-as-realistic-as-possible",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-26T20:10:01.000Z"
+          "title": "North Korea conducts major weapons tests; South training ‘drone warriors’",
+          "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-26T08:16:33.000Z",
+          "description": "Kim Jong Un demands a 'deadly and destructive offensive posture' as North Korea upgrades arsenal to reach all of South."
+        },
+        {
+          "title": "South Korea plans to train entire military as \"drone warriors\"",
+          "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-06-26T22:19:05.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg",
+          "description": "Half-million strong military will train on drones as “universal combat tool.”"
         }
-      ]
+      ],
+      "summary": "South Korea plans to train 500,000 military personnel to operate drones as it builds capabilities to counter North Korea. The two Koreas are expanding their drone programs, influenced in part by conflicts in Ukraine and the Middle East."
     },
     {
-      "id": "topic_1e0232d88c40eaa3",
+      "id": "topic_fc5d84d1753a39f2",
+      "title": "JD Vance Says Watergate Would Be a Brief News Story Today",
+      "headline": "JD Vance says Nixon’s Watergate scandal would be ‘12-hour news story’ today",
       "label": [
-        "driver",
-        "background",
-        "background check",
-        "uber",
-        "check",
-        "driver background"
+        "watergate",
+        "vance",
+        "nixon",
+        "scandal",
+        "would",
+        "hour"
       ],
       "category": "new",
-      "theme": "theme_265d571f63fc984d",
+      "theme": "theme_373ef78c77aa8624",
       "entities": [
-        "Uber",
-        "Uber Enacts Stricter Background",
-        "Checks",
-        "Drivers",
-        "US"
+        "JD Vance",
+        "Nixon",
+        "Watergate",
+        "Vance",
+        "Nixon Watergate"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 7,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Uber expands U.S. driver background checks, updates screening rules",
-          "url": "https://seekingalpha.com/news/4607821-uber-expands-us-driver-background-checks-updates-screening-rules",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-06-26T19:23:13.000Z"
+          "title": "JD Vance says Nixon’s Watergate scandal would be ‘12-hour news story’ today",
+          "url": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-watergate-richard-nixon",
+          "source": "The Guardian",
+          "published_at": "2026-06-26T00:12:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/ca709d7a7b086b27935335ee408f32d933ce2f10/631_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a52cfa9238ce8952b5182d293858a858",
+          "description": "Vice-president declares admiration for 37th president and claims Nixon and Trump targeted by ‘deep state’ forces JD Vance does not think the era-defining Watergate scandal would have lasted more than a single news cycle in today’s fragmented, hyper-partisan political environment – and certainly wou…"
         },
         {
-          "title": "Uber Enacts Stricter Background Checks for Drivers",
-          "url": "https://www.nytimes.com/2026/06/26/business/uber-background-checks.html",
-          "source": "NYT > Business",
-          "published_at": "2026-06-26T19:14:36.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/26/multimedia/Biz-Uber-Changes-jtkl/Biz-Uber-Changes-jtkl-mediumSquareAt3X.jpg"
+          "title": "Vance says Nixon Watergate scandal wouldn’t end a presidency now",
+          "url": "https://www.moneyweb.co.za/news/international/vance-says-nixon-watergate-scandal-wouldnt-end-a-presidency-now",
+          "source": "Moneyweb",
+          "published_at": "2026-06-26T08:00:57.000Z",
+          "description": "While promoting his new book at the Nixon presidential library in California, Vance said he had 'always liked' the former president who resigned under a cloud of scandal."
         },
         {
-          "title": "Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers (Natalie Lung/Bloomberg)",
-          "url": "https://www.techmeme.com/260626/p21",
-          "source": "Techmeme",
-          "published_at": "2026-06-26T19:04:06.000Z",
-          "image": "http://www.techmeme.com/260626/i21.jpg"
+          "title": "Vance Downplays Nixon's Watergate Scandal",
+          "url": "https://finance.yahoo.com/video/vance-downplays-nixons-watergate-scandal-180000162.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-26T18:00:00.000Z",
+          "image": "https://media.zenfs.com/en/wall_street_journal_733/d79d4f020f3d7e6a5c8476c7dacdf9ea"
         },
         {
-          "title": "Uber Tightens US Driver Background Checks as Sexual Assault Cases Mount",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/uber-tightens-us-driver-background-checks-as-sexual-assault-cases-mount",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-26T18:30:00.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isla5KxWDULw/v1/1200x-1.jpg"
+          "title": "Nixon’s Watergate scandal would blow over in 12 hours these days, JD Vance says",
+          "url": "https://nationalpost.com/news/world/jd-vance-richard-nixon-watergate",
+          "source": "National Post",
+          "published_at": "2026-06-26T03:03:43.000Z",
+          "description": "‘If you look at the story of how the deep state took down Richard Nixon, it’s not all that different from what the same groups of people, the same institutions tried to do to Donald Trump,’ Vance said"
+        },
+        {
+          "title": "Vance Says Nixon Watergate Scandal Wouldn't End a Presidency Now (Jordan Fabian/Bloomberg)",
+          "url": "https://www.memeorandum.com/260626/p22",
+          "source": "memeorandum",
+          "published_at": "2026-06-26T13:40:00.000Z",
+          "image": "http://www.memeorandum.com/260626/i22.jpg",
+          "description": "Jordan Fabian / Bloomberg: Vance Says Nixon Watergate Scandal Wouldn't End a Presidency Now — Vice President JD Vance called it “crazy” that the Watergate scandal toppled Richard Nixon's presidency, saying it would have barely registered in today's political environment. — While promoting his new b…"
         }
-      ]
+      ],
+      "summary": "Vice President JD Vance said the Watergate scandal would be a short-lived news story today and compared the forces that brought down Richard Nixon with those he says have targeted Donald Trump. He made the remarks while promoting a book at the Nixon presidential library."
     },
     {
-      "id": "topic_b971373c2b4a60d3",
+      "id": "topic_1d71d1a2a1e214d8",
+      "title": "Death Toll Rises After Earthquakes in Venezuela",
+      "headline": "Venezuela earthquakes death toll rises to 235",
       "label": [
-        "harvest",
-        "fortible",
-        "blacksite",
-        "bb",
-        "marpet",
-        "swn"
+        "earthquakes",
+        "venezuela",
+        "toll",
+        "death",
+        "rises",
+        "kill"
       ],
-      "category": "new",
-      "theme": "theme_59e1a99af5693e6e",
+      "category": "trending",
+      "theme": "theme_2d6f7e6e2ccec6c1",
       "entities": [
-        "AI Brain Harvest",
-        "Fortibleed",
-        "Win",
-        "Blacksite",
-        "Windchill"
+        "Venezuela",
+        "Venezuela Earthquakes Kill",
+        "Injured",
+        "Death",
+        "The Aftermath"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 27,
+      "source_count": 21,
       "articles": [
         {
-          "title": "AI Brain Harvest, Fortibleed, Win 10, Blacksite, Windchill, Cisco, BB-8, Josh Marpet - SWN #593",
-          "url": "https://www.youtube.com/watch?v=0TVGOi-Xd6o",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-06-26T21:00:13.000Z",
-          "image": "https://i1.ytimg.com/vi/0TVGOi-Xd6o/hqdefault.jpg"
+          "title": "Venezuela earthquakes death toll rises to 235",
+          "url": "https://www.yahoo.com/news/world/articles/venezuela-earthquakes-death-toll-rises-025735826.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-26T02:57:35.000Z",
+          "image": "https://media.zenfs.com/en/dpa_international_526/33f9cc8456a82c45ee08b398bbb95486"
         },
         {
-          "title": "AI Brain Harvest, Fortibleed, Win 10, Blacksite, Windchill, Cisco, BB-8, Josh Marpet - SWN #593",
-          "url": "https://hntvaudio.libsyn.com/ai-brain-harvest-fortibleed-win-10-blacksite-windchill-cisco-bb-8-josh-marpet-swn-593",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-06-26T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_593_1--3f59cba6-6177-418c-9589-93ab3745135e--audio-converted--58c9f6aa-a16d-49fc-b6c9-bcf696e20cbc.mp3?dest-id=376644"
+          "title": "Venezuela earthquakes death toll rises to 920, thousands missing",
+          "url": "https://cebudailynews.inquirer.net/741846/venezuela-earthquakes-death-toll-rises-to-920-thousands-missing",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-26T23:25:00.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/06/AP26176435062690-620x413.jpg",
+          "description": "LA GUAIRA, Venezuela – The death toll from twin earthquakes rose Friday to 920 in Venezuela, where tens of thousands were reported missing as a desperate and slow-moving search for survivors was boosted by international rescue teams. United Nations aid chief Tom Fletcher told AFP that more than 50,…"
         },
         {
-          "title": "AI Brain Harvest, Fortibleed, Win 10, Blacksite, Windchill, Cisco, BB-8, Josh Marpet - SWN #593",
-          "url": "https://hntvvideo.libsyn.com/ai-brain-harvest-fortibleed-win-10-blacksite-windchill-cisco-bb-8-josh-marpet-swn-593",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-06-26T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_593_1--3f59cba6-6177-418c-9589-93ab3745135e--sd-converted--5de774d8-a159-4174-a58f-60c323cc3afd.mp4?dest-id=376663"
+          "title": "Venezuela Earthquakes Kill 235, Over 1,500 Injured",
+          "url": "https://www.ndtv.com/world-news/venezuela-twin-earthquakes-kill-235-over-1-500-injured-us-aid-to-venezuela-11689022",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-26T01:44:45.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/n7mplbi4_venezuela-afp_625x300_26_June_26.jpeg",
+          "description": "More than 1,500 people were injured as the earth shook and roared in what many Venezuelans called a terrifying display of nature's raw power."
         },
         {
-          "title": "AI Brain Harvest, Fortibleed, Win 10, Blacksite, Windchill, Cisco, BB-8, Josh Marpet - SWN #593",
-          "url": "https://sw-all.libsyn.com/ai-brain-harvest-fortibleed-win-10-blacksite-windchill-cisco-bb-8-josh-marpet-swn-593",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-06-26T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_593_1--3f59cba6-6177-418c-9589-93ab3745135e--audio-converted--58c9f6aa-a16d-49fc-b6c9-bcf696e20cbc.mp3?dest-id=829103"
+          "title": "Death toll from Venezuela earthquakes climbs to 589, thousands injured",
+          "url": "https://globalnews.ca/news/11939937/venezuela-earthquakes-death-toll-june-26",
+          "published_at": "2026-06-26T15:16:25.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/2b9d700b20ada1078e956bfb6a43db25dece45caece03e90e4733d47d4a0bdc3.jpg?quality=65&strip=all",
+          "description": "Acting President Delcy Rodríguez announced the new toll early Friday as she welcomed the arrival of rescue crews from all over the world."
+        },
+        {
+          "title": "Venezuela earthquakes toll rises to 235, over 4,300 injured",
+          "url": "https://scroll.in/latest/1093841/venezuela-earthquakes-toll-rises-to-235-over-4300-injured",
+          "source": "Scroll.in",
+          "published_at": "2026-06-26T02:43:14.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/214159-gnijdtqyzx-1782439137.jpg",
+          "description": "Several countries were sending search and rescue teams after widespread damage."
         }
-      ]
+      ],
+      "summary": "Reports said the death toll from twin earthquakes in Venezuela had risen, with thousands injured or missing. International search-and-rescue teams were arriving as crews searched for survivors amid widespread damage."
     },
     {
-      "id": "topic_67d265a43b7d00d0",
+      "id": "topic_3d49706bed6ed1cc",
+      "title": "Serena Williams Draws Maya Joint for Wimbledon Comeback",
+      "headline": "Serena Williams to face Maya Joint in Wimbledon comeback",
       "label": [
-        "scheffler",
-        "traveler",
-        "60",
-        "scheffler fir",
-        "fir 60",
-        "lead"
+        "maya",
+        "joint",
+        "serena",
+        "wimbledon",
+        "williams",
+        "draws"
       ],
       "category": "new",
-      "theme": "theme_6eeab95f103d1872",
+      "theme": "theme_83cc290235bbadd1",
       "entities": [
-        "Scheffler",
-        "Travelers Championship",
-        "Scottie Scheffler",
-        "Round",
-        "PGA Travelers"
+        "Serena Williams",
+        "Maya Joint",
+        "Wimbledon",
+        "Serena",
+        "Grand Slam"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 9,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Scheffler fires 60 to take Travelers Championship lead",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/c20y84r3plzo",
-          "source": "BBC Sport",
-          "published_at": "2026-06-26T22:53:44.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e328/live/80263650-71a0-11f1-91d4-ab93ad9f4654.jpg"
+          "title": "Serena Williams to face Maya Joint in Wimbledon comeback",
+          "url": "https://sports.inquirer.net/683693/serena-williams-to-face-maya-joint-in-wimbledon-comeback",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-26T12:15:35.000Z",
+          "image": "https://sports.inquirer.net/files/2026/06/AP26176442656485-620x413.jpg",
+          "description": "LONDON–Serena Williams will face an opponent less than half her age when she plays 20-year-old Maya Joint of Australia in the first round at Wimbledon for her first singles match in nearly four years. The seven-time Wimbledon singles champion, who is 44, accepted a wild-card entry to the grass-cour…"
         },
         {
-          "title": "2026 Travelers Championship: Scottie Scheffler flirts with history, settles for 60 to take lead in Round 2",
-          "url": "https://www.cbssports.com/golf/news/travelers-championship-2026-scottie-scheffler-leaderboard-round-2",
-          "source": "CBS Sports Headlines",
-          "published_at": "2026-06-26T21:00:34.000Z",
-          "image": "https://sportshub.cbsistatic.com/i/2026/06/26/3f8a327b-123a-44f5-ae6a-48953032d2e8/scottie-smile.jpg"
+          "title": "Serena draws Maya Joint, 20, in Wimbledon opener",
+          "url": "https://www.espn.com/tennis/story/_/id/49184919/serena-face-20-year-old-aussie-maya-joint-wimbledon-opener",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-06-26T11:10:12.000Z",
+          "description": "Serena Williams will play 20-year-old Maya Joint of Australia in the first round at Wimbledon for her first singles match in nearly four years."
         },
         {
-          "title": "Scottie Scheffler fires 60 to grab early PGA Travelers lead",
-          "url": "https://www.the42.ie/scottie-scheffler-travelers-7083388-jun2026",
-          "source": "The 42",
-          "published_at": "2026-06-26T20:13:10.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/06/scottie-scheffler-reacts-after-finishing-the-second-round-of-the-travelers-championship-golf-tournament-at-tpc-river-highlands-friday-june-26-2026-in-cromwell-conn-ap-photojessica-hill-6529fa48-b990-4de0-9e66-6344a57b0c8c-630x420.jpg"
+          "title": "Wimbledon 2026: Serena Williams to face 20-year-old Maya Joint in first round",
+          "url": "https://sports.yahoo.com/tennis/article/wimbledon-2026-serena-williams-to-face-20-year-old-maya-joint-in-first-round-123222124.html",
+          "published_at": "2026-06-26T12:32:22.000Z",
+          "description": "Serena Williams will take the court against Maya Joint on Tuesday."
         },
         {
-          "title": "Scheffler fires 60 to grab early PGA Travelers lead",
-          "url": "https://sports.yahoo.com/articles/scheffler-fires-60-grab-early-193430745.html",
-          "published_at": "2026-06-26T19:34:30.000Z"
+          "title": "Serena Williams faces Maya Joint in Wimbledon opener as Raducanu dealt tough draw",
+          "url": "https://www.theguardian.com/sport/2026/jun/26/serena-williams-wimbledon-draw-raducanu-djokovic-sinner-tennis",
+          "source": "The Guardian",
+          "published_at": "2026-06-26T09:36:02.000Z",
+          "image": "https://i.guim.co.uk/img/media/1bd1f04e91d6d861b542ec74d582fdc15a62996d/953_0_4764_3812/master/4764.jpg?width=140&quality=85&auto=format&fit=max&s=f3fae5f7aa6d1d3735e5e59b4e3f782f",
+          "description": "Seven-time champion could face Swiatek in third round Ostapenko and Sabalenka drawn in Raducanu’s quarter Serena Williams will face Australia’s Maja Joint at Wimbledon in her long-awaited return to singles competition after four years of retirement, a match between two players born nearly 25 years…"
+        },
+        {
+          "title": "Serena Williams draws 20-year-old Maya Joint in first Wimbledon singles match in 4 years",
+          "url": "https://japantoday.com/category/sports/wimbledon-draw-serena-williams-to-learn-her-first-round-opponent-in-a-comeback-at-age-44",
+          "source": "Japan Today",
+          "published_at": "2026-06-26T20:45:53.000Z",
+          "description": "Serena Williams will face an opponent less than half her age when she plays 20-year-old Maya Joint in the first round at Wimbledon for her first singles match…"
         }
-      ]
+      ],
+      "summary": "Serena Williams will face 20-year-old Australian player Maya Joint in the first round at Wimbledon. It will be Williams’s first singles match in nearly four years."
     },
     {
-      "id": "topic_9821d6e741890f0d",
+      "id": "topic_b5463befad4e1570",
+      "title": "Judge Orders DOJ to Provide More Unredacted Epstein Files",
+      "headline": "Judge orders DOJ to turn over some unredacted Epstein files",
       "label": [
-        "beij",
-        "crash beij",
-        "crash",
-        "beij tallest",
-        "tallest",
-        "tallest build"
+        "epstein",
+        "doj",
+        "files",
+        "unredacted",
+        "orders",
+        "judge"
       ],
       "category": "new",
-      "theme": "theme_bef26e4b2460f727",
+      "theme": "theme_4cb5c69547a40fab",
       "entities": [
-        "Aircraft",
-        "Beijing",
-        "Video",
-        "Light",
-        "Small"
+        "Judge",
+        "DOJ",
+        "Epstein",
+        "Axios",
+        "Trump"
       ],
       "article_count": 8,
       "source_count": 8,
       "articles": [
         {
-          "title": "Aircraft crashes into a Beijing skyscraper",
-          "url": "https://www.nbcnews.com/nightly-news/video/aircraft-crashes-into-a-beijing-skyscraper-265770565616",
-          "source": "NBC News World News",
-          "published_at": "2026-06-26T23:27:52.000Z",
-          "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nn_jmf_BeijingPlane_260626/1/abs/index.m3u8"
+          "title": "Judge orders DOJ to turn over some unredacted Epstein files",
+          "url": "https://abcnews.com/politics/judge-orders-doj-turn-unredacted-epstein-files/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-26T03:35:11.000Z",
+          "image": "https://s.abcnews.com/images/Politics/2261827279_1782443395850_hpMain_4x3t_384.jpg",
+          "description": "A federal judge is ordering the Department of Justice to turn over unredacted versions of some of the Epstein files or explain why the materials were withheld."
         },
         {
-          "title": "Video shows gaping hole after small plane crashes into towering skyscraper",
-          "url": "https://www.foxnews.com/world/video-shows-gaping-hole-small-plane-crashes-towering-skyscraper",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-26T22:34:54.000Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/plane.gif"
-        },
-        {
-          "title": "Light plane crashes into Beijing’s tallest building",
-          "url": "https://www.theage.com.au/world/light-plane-crashes-into-beijing-s-tallest-building-20260627-p60ajr.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-26T21:45:31.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cd8cb144f479603dfb4da8611a682f02f4a1e786"
-        },
-        {
-          "title": "Light plane crashes into Beijing’s tallest building",
-          "url": "https://www.brisbanetimes.com.au/world/light-plane-crashes-into-beijing-s-tallest-building-20260627-p60ajr.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-26T21:45:31.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cd8cb144f479603dfb4da8611a682f02f4a1e786"
-        },
-        {
-          "title": "Light plane crashes into Beijing’s tallest building",
-          "url": "https://www.smh.com.au/world/light-plane-crashes-into-beijing-s-tallest-building-20260627-p60ajr.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-26T21:45:31.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cd8cb144f479603dfb4da8611a682f02f4a1e786"
-        }
-      ]
-    },
-    {
-      "id": "topic_333d8da4a7a63a7",
-      "label": [
-        "contempt",
-        "charlie",
-        "kirk",
-        "charlie kirk",
-        "judge",
-        "prosecutor"
-      ],
-      "category": "new",
-      "theme": "theme_1e1c618c7fb85a6",
-      "entities": [
-        "US",
-        "Charlie Kirk",
-        "Judge",
-        "Politico",
-        "Prosecutor"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
-          "url": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-26T23:14:22.000Z"
-        },
-        {
-          "title": "Judge holds prosecutors in Charlie Kirk murder case in contempt for comments about the defendant - Politico",
-          "url": "https://news.google.com/rss/articles/cbmi3wfbvv95cuxov3u2mmzldknxutfya3u3zjlmq1bfr1fsv25wwurrd0vwxzd4twx1utlzsnhsrfnvoudhoupuys1slw5tawptzez1d2juzwp3udy5vm5ba05fafnltwr2tlg5tjhza3ztnlo0dvrhtkd0vwd0ck5bc1fqdzrynhaxak9yevplc2jrb3b4n003n2l4wjreqte5cv9xef9xzgnydknjz3vsc195djfweuxjafvtzvzrv0v0wfrranvwymtzrwr0vw51dk52x1c4c1h2y0vkb2nvwfhzuutrsmtf",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-26T22:20:00.000Z"
-        },
-        {
-          "title": "Prosecutor in Charlie Kirk shooting case held in contempt by judge",
-          "url": "https://www.theguardian.com/us-news/2026/jun/26/charlie-kirk-prosecutor-contempt",
-          "source": "The Guardian",
-          "published_at": "2026-06-26T21:19:49.000Z",
-          "image": "https://i.guim.co.uk/img/media/faecdee582960117db3f8cc0c0070a46f3fa09f5/537_0_2216_1773/master/2216.jpg?width=140&quality=85&auto=format&fit=max&s=9c2ee346ed605a3738dc09a6508cf208"
-        }
-      ]
-    },
-    {
-      "id": "topic_fd8797a315ee10e5",
-      "label": [
-        "cori",
-        "bush",
-        "jeffry",
-        "cori bush",
-        "commit",
-        "scoop"
-      ],
-      "category": "new",
-      "theme": "theme_d9a9149a7c8712f9",
-      "entities": [
-        "Scoop",
-        "Cori Bush",
-        "Jeffries",
-        "Andrew Solender",
-        "Axios"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Scoop: Cori Bush won't commit to voting for Jeffries (Andrew Solender/Axios)",
-          "url": "https://www.memeorandum.com/260626/p85",
-          "source": "memeorandum",
-          "published_at": "2026-06-26T20:00:05.000Z",
-          "image": "http://www.memeorandum.com/260626/i85.jpg"
-        },
-        {
-          "title": "Cori Bush Declines to Commit to Jeffries as Speaker",
-          "url": "https://politicalwire.com/2026/06/26/cori-bush-declines-to-commit-to-jeffries-as-speaker",
-          "source": "Political Wire",
-          "published_at": "2026-06-26T19:34:17.000Z"
-        },
-        {
-          "title": "Scoop: Cori Bush won't commit to voting for Jeffries in 2027 if she wins her seat back",
-          "url": "https://www.axios.com/2026/06/26/cori-bush-hakeem-jeffries-speaker-2027-vote",
+          "title": "DOJ ordered to release unredacted Epstein files or explain why it can't",
+          "url": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
           "source": "Axios",
-          "published_at": "2026-06-26T19:01:14.000Z",
-          "image": "https://images.axios.com/NGBu489jgNGou6NKTqfrcPWVcrc=/0x0:5693x3202/1366x768/2026/06/26/1782498709996.jpeg"
+          "published_at": "2026-06-26T01:47:47.000Z",
+          "image": "https://images.axios.com/nB6UNcOeqHdSQXnMSOZtk93lj8U=/0x326:4835x3046/1366x768/2026/06/25/1782431593003.jpeg",
+          "description": "A federal judge on Thursday ordered the U.S. Department of Justice to release additional unredacted Jeffrey Epstein records or explain by July 2 why it can't. Why it matters: The ruling could force the DOJ to release previously withheld Epstein records or publicly explain why they remain sealed. Dr…"
+        },
+        {
+          "title": "Judge orders DOJ to produce more unredacted Epstein files — or explain why it won’t",
+          "url": "https://www.ms.now/news/judge-doj-unredacted-epstein-files-blanche",
+          "source": "MS NOW",
+          "published_at": "2026-06-26T16:37:37.000Z",
+          "description": "The documents include FBI notes from interviews with a woman who accused Trump of sexually assaulting her as a minor. The post Judge orders DOJ to produce more unredacted Epstein files — or explain why it won’t appeared first on MS NOW."
+        },
+        {
+          "title": "DOJ ordered to release unredacted Epstein files or explain why it can't",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxqwdezlutddws5eepftxpzmnhjtlvnswnov0pmtlnpntvvwwzswvfpsm13mg10mud6rxg0rhrudhn1nmm1bjbrrurex0lkr2tothphcvblwxk4wdrjuktca0nmovi0ms1mcxnia0pdnzr4we4zrzj6r0zfck9ltzaxcehisdfznk5kvuduumlzskxkrgvsb201tgpn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-26T02:13:20.000Z",
+          "description": "DOJ ordered to release unredacted Epstein files or explain why it can't Axios Todd Blanche ‘conceded’ violating law on Epstein files, judge finds Politico Judge orders DOJ to either unredact more Epstein files or explain why they must stay blacked out CBS News Judge orders DOJ to turn over some unr…"
+        },
+        {
+          "title": "Judge orders DOJ to unredact Epstein files related to Trump and ‘torture video’",
+          "url": "https://www.washingtonexaminer.com/news/justice/4626044/doj-order-epstein-files-unredacted-torture-video",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-26T00:36:10.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26160545865977.jpg?w=696",
+          "description": "A federal judge in Washington, D.C., ordered the Department of Justice on Thursday to unredact more pages of the Epstein files within one week or explain why it cannot. U.S. District Judge Emmet Sullivan, an appointee of former President Bill Clinton, issued a preliminary injunction requiring actin…"
         }
-      ]
+      ],
+      "summary": "A federal judge ordered the Department of Justice to provide additional unredacted Jeffrey Epstein records or explain why it cannot. The order includes a deadline for the department to respond."
     },
     {
-      "id": "topic_7dd1cde803387278",
+      "id": "topic_adc1e3a596155272",
+      "title": "Texas Approves Bible Passages for Required Public School Reading",
+      "headline": "Texas Approves Required Reading List with Bible Stories",
       "label": [
-        "final hour",
-        "hour",
-        "final",
-        "prime day",
-        "prime",
-        "day"
+        "bible",
+        "required",
+        "texas",
+        "reading",
+        "stories",
+        "approves"
       ],
       "category": "new",
-      "theme": "theme_40c8f99ad8c02d4b",
+      "theme": "theme_68da4c2e6f34d1c2",
       "entities": [
-        "Believe Me",
-        "Beauty Editor",
-        "Products Are Worth Picking",
-        "Up During Prime Day",
-        "Final Hours"
+        "Texas Approves Required Reading",
+        "List",
+        "Bible Stories",
+        "Bible",
+        "Texas"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 15,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Believe Me, I'm a Beauty Editor—These 10 Products Are Worth Picking Up During Prime Day's Final Hours",
-          "url": "https://www.whowhatwear.com/beauty/final-beauty-deals-amazon-prime-day-2026",
-          "source": "Latest from Who What Wear",
-          "published_at": "2026-06-26T23:06:23.000Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/rwLbBpARLRjWZS8jV57zMP-1280-80.jpg"
+          "title": "Texas Approves Required Reading List with Bible Stories",
+          "url": "https://politicalwire.com/2026/06/26/texas-approves-required-reading-list-including-bible-stories",
+          "source": "Political Wire",
+          "published_at": "2026-06-26T21:49:12.000Z",
+          "description": "“The state education board in Texas approved a required reading list for K-12 students on Friday that includes several Bible passages — part of a wider state push from the right to include Christian teachings in the classroom,” NOTUS reports."
         },
         {
-          "title": "The Prime Day Kitchen Deals Are in Their Final Hours (2026)",
-          "url": "https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2026-06-26",
-          "source": "Bon Appétit",
-          "published_at": "2026-06-26T20:20:24.000Z",
-          "image": "https://assets.bonappetit.com/photos/6a3c280b141288141999722b/master/pass/Primeday-26_1.jpg"
+          "title": "Bible passages to be required reading in Texas public schools",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358574/bible-passages-will-be-required-reading-texas-public-schools",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-26T23:45:33.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/27/2850fd92-8980-44fd-8083-0a24ce46b901_219c992c.jpg?itok=Zo8TnD3h&v=1782517525",
+          "description": "The Texas Board of Education on ⁠Friday approved mandated reading ⁠lists for public school ⁠children that include passages from the Bible – the latest effort by leaders there to infuse the education system with conservative and religious ideals. The Republican-dominated board, in a 9-5 vote with ‌o…"
         },
         {
-          "title": "The business headphones I recommend most are 15% off in Amazon Prime Day's final hours",
-          "url": "https://www.zdnet.com/article/jabra-evolve3-75-amazon-prime-day-2026",
-          "source": "Latest news",
-          "published_at": "2026-06-26T18:36:11.000Z"
+          "title": "Bible stories become required reading for Texas schools",
+          "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o",
+          "source": "BBC News",
+          "published_at": "2026-06-26T21:38:56.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
+          "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state."
+        },
+        {
+          "title": "Texas approves Bible stories as part of required K-12 reading list",
+          "url": "https://www.washingtonexaminer.com/policy/education/4627251/texas-approve-bible-k-12-required-reading-list",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-26T21:51:02.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26173603064127.jpg?w=696",
+          "description": "Texas became the first state in recent history to approve a required K-12 reading list mandating the teaching of Bible stories in public schools on Friday. The Texas State Board of Education, whose 15-member panel is majority-Republican, voted to pass the reading list. The proposal marks the latest…"
+        },
+        {
+          "title": "Texas approves Bible passages as required reading for millions of students",
+          "url": "https://www.independent.co.uk/news/world/americas/texas-bible-required-reading-public-schools-b3004021.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-26T20:22:45.000Z",
+          "image": "https://static.independent.co.uk/2026/06/26/21/download..?width=1200&auto=webp&trim=32%2C0%2C32%2C0",
+          "description": "This move expands conservative efforts to embed Christian teachings within American classrooms"
         }
-      ]
-    },
-    {
-      "id": "topic_4533aed2f593f11a",
-      "label": [
-        "glass",
-        "vision pro",
-        "pro smart",
-        "smart glass",
-        "vision",
-        "smart"
       ],
-      "category": "new",
-      "theme": "theme_b3e4712ef45f7a7f",
-      "entities": [
-        "OpenAI",
-        "Apple Vision Pro",
-        "Sources",
-        "Paul Meade",
-        "Apple"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
-          "url": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief",
-          "source": "9to5Mac",
-          "published_at": "2026-06-26T19:45:23.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/An-inside-look-at-the-fiasco-of-the-Vision-Pro-launch.jpg?quality=82&#038;strip=all&#038;w=1600"
-        },
-        {
-          "title": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices (Mark Gurman/Bloomberg)",
-          "url": "https://www.techmeme.com/260626/p22",
-          "source": "Techmeme",
-          "published_at": "2026-06-26T19:30:40.000Z",
-          "image": "http://www.techmeme.com/260626/i22.jpg"
-        },
-        {
-          "title": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-06-26T19:22:17.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irOXPHopHVRA/v1/1200x-1.jpg"
-        }
-      ]
+      "summary": "The Texas State Board of Education approved required K–12 reading lists that include Bible passages. Critics argue the requirements threaten religious freedom and the separation of church and state."
     }
   ]
 }

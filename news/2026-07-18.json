@@ -1,857 +1,902 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-19T00:50:08.373Z",
+  "generated_at": "2026-09-27T14:08:58.190Z",
   "topics": [
     {
-      "id": "topic_9f907276d760a253",
+      "id": "topic_779f3a9c7f7d0d38",
+      "title": "Two US Service Members Killed in Iranian Attack in Jordan",
+      "headline": "2 US service members killed in Iranian attack on Jordan",
       "label": [
-        "wildfire",
-        "wildfire smoke",
-        "smoke",
-        "cup final",
-        "hang",
-        "final"
+        "members",
+        "service",
+        "jordan",
+        "killed",
+        "iranian",
+        "missing"
       ],
       "category": "new",
-      "theme": "theme_7d08471ceba4b5d1",
+      "theme": "theme_dcfbf20a1b3343a5",
       "entities": [
-        "Wildfire",
         "US",
-        "World Cup",
-        "Thunderstorms",
-        "Northeast"
+        "Iranian",
+        "Jordan",
+        "Two US",
+        "Two"
       ],
-      "article_count": 19,
-      "source_count": 8,
+      "article_count": 26,
+      "source_count": 20,
       "articles": [
         {
-          "title": "Wildfire haze hangs over eastern US ahead of World Cup final",
-          "url": "https://www.lemonde.fr/en/international/article/2026/07/19/wildfire-haze-hangs-over-eastern-us-ahead-of-world-cup-final_6755610_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-07-18T22:07:02.000Z",
-          "image": "https://img.lemde.fr/2026/07/17/331/0/4483/2241/644/322/60/0/4dde3c0_ftp-1-qk0ddatonoy6-5644514-01-06.jpg"
+          "title": "2 US service members killed in Iranian attack on Jordan",
+          "url": "https://www.politico.com/news/2026/07/18/two-service-members-killed-in-iranian-attack-centcom-says-01004265",
+          "source": "POLITICO",
+          "published_at": "2026-07-18T22:06:06.000Z",
+          "description": "Sixteen American service members have lost their lives in the fighting since the war started in late February."
         },
         {
-          "title": "Wildfire haze hangs over eastern US -- and World Cup final",
-          "url": "https://globalnation.inquirer.net/331349/wildfire-haze-hangs-over-eastern-us-and-world-cup-final",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-18T21:37:13.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260716__C2ED623__v2__HighRes__AirQualityFromCanadianWildfires-620x433.jpg"
+          "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+          "source": "NPR Topics: World",
+          "published_at": "2026-07-18T18:14:11.000Z",
+          "description": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday."
         },
         {
-          "title": "Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say",
-          "url": "https://japantoday.com/category/world/thunderstorms-will-clear-wildfire-smoke-from-northeast-ahead-of-world-cup-final-meteorologists-say",
-          "source": "Japan Today",
-          "published_at": "2026-07-18T20:45:04.000Z"
-        },
-        {
-          "title": "Wildfire Smoke Hangs Over World Cup Final",
-          "url": "https://www.nytimes.com/2026/07/18/nyregion/smoke-world-cup-final-nyc.html",
-          "source": "NYT > New York",
-          "published_at": "2026-07-18T20:17:28.000Z",
-          "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18met-smoke-wc-top-hmvf/18met-smoke-wc-top-hmvf-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-          "url": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-18T19:42:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_5f6eac59987547f7",
-      "label": [
-        "mamdani",
-        "netanyahu",
-        "mamdani says",
-        "arrest",
-        "netanyahu arrest",
-        "says"
-      ],
-      "category": "new",
-      "theme": "theme_808d89f993dbae1d",
-      "entities": [
-        "Mamdani",
-        "NYC",
-        "Netanyahu",
-        "Israeli",
-        "UN General Assembly"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Mamdani says NYC is exploring whether it can arrest Netanyahu if Israeli leader visits for UN General Assembly",
-          "url": "https://www.foxnews.com/politics/mamdani-says-nyc-exploring-whether-arrest-netanyahu-israeli-leader-visits-un-general-assembly",
-          "source": "Latest Political News on Fox News",
-          "published_at": "2026-07-18T23:14:15.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mamdani-netanyahu-remarks.jpg?ve=1&tl=1"
-        },
-        {
-          "title": "New York’s Mamdani mulls Netanyahu’s arrest during UN meet",
-          "url": "https://dailypost.ng/2026/07/18/new-yorks-mamdani-mulls-netanyahus-arrest-during-un-meet",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-07-18T21:47:19.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/07/Mam-Netan.jpg"
-        },
-        {
-          "title": "Mamdani says he may arrest Netanyahu during New York City visit",
-          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4654579/mamdani-arrest-netanyahu-new-york-city-visit",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-18T21:00:10.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/image-collage-kmcfmfufu-1784403928480-e1784408349199.jpg?1784393951&w=696"
-        },
-        {
-          "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-          "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-18T18:17:00.000Z"
-        },
-        {
-          "title": "Mayor Zohran Mamdani says he still may order arrest of Israel’s Netanyahu: ‘He’s a war criminal’",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/mamdani-netanyahu-new-york-arrest-threat-b3017453.html",
+          "title": "Two US service members killed by Iranian attacks in Jordan, military says",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/us-military-service-members-killed-jordan-iran-b3017472.html",
           "source": "The Independent World",
-          "published_at": "2026-07-18T17:52:25.000Z",
-          "image": "https://static.independent.co.uk/2026/07/18/17/44/GettyImages-2268028939.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+          "published_at": "2026-07-18T17:39:09.000Z",
+          "image": "https://static.independent.co.uk/2026/07/15/16/2026-07-15T122749Z_71517555_RC2UDDA347D5_RTRMADP_3_IRAN-CRISIS-YEMEN-RED-SEA.JPG?width=1200&auto=webp&trim=0%2C150%2C0%2C150",
+          "description": "One service member missing in action and four others injured, Defense Department announces"
+        },
+        {
+          "title": "2 US service members killed, 1 missing after Iranian attack on Jordan base",
+          "url": "https://timesofindia.indiatimes.com/world/us/2-us-service-members-killed-1-missing-after-iranian-attack-on-jordan-base-says-pentagon/articleshow/132485374.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-18T18:19:16.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132485548,imgsize-105903.cms",
+          "description": "Two US service members died and one is missing after an Iranian attack in Jordan. US and partner forces defended the base against Iranian missile and drone assaults. Iran warned the United States of \"unforgettable lessons\" if operations continued. US Central Command conducted strikes targeting Iran…"
+        },
+        {
+          "title": "Two US service members killed, one missing after Iranian strikes in Jordan",
+          "url": "https://tribune.com.pk/story/2619092/two-us-service-members-killed-one-missing-after-iranian-strikes-in-jordan",
+          "source": "express tribune",
+          "published_at": "2026-07-18T19:28:07.000Z",
+          "description": " Middle East reels as conflict widens  Tehran suspends commitments under ceasefire  Iran's supreme leader ter"
         }
-      ]
+      ],
+      "summary": "Two US service members were killed, one is missing and four others were injured after Iranian missile and drone attacks in Jordan, according to the headlines."
     },
     {
-      "id": "topic_28f1067c8f19db38",
+      "id": "topic_46b2a6566a1d0272",
+      "title": "Josh Kerr Breaks Men’s Mile World Record",
+      "headline": "British runner Josh Kerr smashes 27-year-old men's mile record",
       "label": [
-        "ralph",
-        "norman",
-        "ralph norman",
-        "graham",
-        "senate",
-        "race"
+        "kerr",
+        "mile",
+        "josh",
+        "record",
+        "smashes",
+        "world"
       ],
       "category": "new",
-      "theme": "theme_49c88af176a69438",
+      "theme": "theme_e37bff0c18de5930",
       "entities": [
-        "Rep",
-        "Ralph Norman",
-        "Lindsey Graham",
-        "Senate",
-        "NBC News"
+        "British",
+        "Josh Kerr",
+        "ESPN",
+        "Who Is Josh Kerr",
+        "British Runner Smashes"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 17,
+      "source_count": 14,
       "articles": [
         {
-          "title": "Rep. Ralph Norman launches campaign to replace Lindsey Graham in Senate race - NBC News",
-          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxnsenlv29ysvptmgrhnjfqvufimw0xvtcyrjrwnfd1agfru3jiyzdvzmziqmu0m0hpqne2wudorvflwf9mu1lybvfjshz2qkdrd2hkefhmd193v1pvohbybg9qc01pofpkaktqb1bzum5nufj0z3jobjvndhf1bvayqxpxvkt1mv9zenpjrgtox2hpu0vmv05irl93r0c3y0jjd2zqbev1tmc5ck5gtuw2zjazemxjtnlrwke",
+          "title": "British runner Josh Kerr smashes 27-year-old men's mile record",
+          "url": "https://sports.yahoo.com/articles/british-runner-josh-kerr-smashes-162320430.html",
+          "published_at": "2026-07-18T16:23:20.000Z",
+          "description": "Great Britain's Josh Kerr smashed the men's mile world record at the London Diamond League. Kerr ran the mile in 3 minutes, 42.66 seconds."
+        },
+        {
+          "title": "British runner Josh Kerr smashes 27-year-old men's mile record",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxqnng5qkvymjhuufqwvhqxau5yofprek5uq0j1sjdlythkdk8ydmhxdfpsd2qysly5r1brukrqvjlwzu1zykvhrefyoxuwywrcbutxquv2yzdgn09zy2z1s0pdzglhb28wcfria0xiz0xpzkxqdunedghgveniqthoq3jbv3dqmvdqofdor3atsgkwvgp2ytr5n1uzrnatvnh1r1kxv1qtcjfqem10elnj",
           "source": "Top stories - Google News",
-          "published_at": "2026-07-18T19:20:39.000Z"
+          "published_at": "2026-07-18T15:08:00.000Z",
+          "description": "British runner Josh Kerr smashes 27-year-old men's mile record ESPN Josh Kerr breaks mile world record with 3:42.66s run at London Diamond League The New York Times Brooks Gets Boost as Kerr Breaks 27-Year-Old Mile World Record Bloomberg.com Josh Kerr sets new World Record mile time, beating 27-yea…"
         },
         {
-          "title": "Rep Ralph Norman enters South Carolina Senate race despite Trump's endorsement of Darline Graham (Robert McGreevy/Fox News)",
-          "url": "https://www.memeorandum.com/260718/p41",
-          "source": "memeorandum",
-          "published_at": "2026-07-18T19:20:00.000Z",
-          "image": "http://www.memeorandum.com/260718/i41.jpg"
+          "title": "Who Is Josh Kerr? British Runner Smashes 27-Year-Old Mile World Record At London Diamond League | VIDEO",
+          "url": "https://www.freepressjournal.in/sports/who-is-josh-kerr-british-runner-smashes-27-year-old-mile-world-record-at-london-diamond-league-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-18T17:25:39.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-18/a0ep5r7n/Josh-Kerr.jpg"
         },
         {
-          "title": "Republican lawmaker Ralph Norman to join race to succeed Lindsey Graham in South Carolina",
-          "url": "https://www.theguardian.com/us-news/2026/jul/18/us-house-ralph-norman-south-carolina-lindsey-graham",
-          "source": "World news | The Guardian",
-          "published_at": "2026-07-18T19:14:03.000Z",
-          "image": "https://i.guim.co.uk/img/media/cefbf0dbaedc5c458ae38b4b1644d2e3c47d8717/317_0_3857_3085/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=770a1646f6b6864dfb1a1a55fca2abe5"
+          "title": "Josh Kerr smashes men’s mile world record that stood unbroken since 1999",
+          "url": "https://www.france24.com/en/sport/20260718-josh-kerr-smashes-men-s-mile-world-record-that-stood-unbroken-since-1999",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-18T15:34:26.000Z",
+          "image": "https://s.france24.com/media/display/f4d5bbc0-82bb-11f1-9177-005056a97e36/w:1024/p:16x9/2026-07-18T150302Z-568414888-UP1EM7I15T0U4-RTRMADP-3-ATHLETICS-DIAMOND-LONDON.jpg",
+          "description": "Britain's Josh Kerr clocked 3min 42.66sec in the men's mile at a high-octane Diamond League on Saturday, smashing the record set by Morocco's Hicham El Guerrouj in Rome in 1999."
         },
         {
-          "title": "Ralph Norman announces run for Lindsay Graham’s Senate seat",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4654515/ralph-norman-announce-run-senate",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-18T16:59:02.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/AP25183743410368.jpg?w=696"
-        },
-        {
-          "title": "Rep Ralph Norman enters South Carolina Senate race despite Trump's endorsement of Darline Graham",
-          "url": "https://www.foxnews.com/politics/rep-ralph-norman-enters-south-carolina-senate-race-despite-trumps-endorsement-tim-scott",
-          "source": "Latest Political News on Fox News",
-          "published_at": "2026-07-18T16:33:33.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Ralph-Norman.jpg?ve=1&tl=1"
+          "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
+          "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
+          "source": "Hacker News",
+          "published_at": "2026-07-18T15:08:32.000Z",
+          "image": "https://e3.365dm.com/26/07/1920x1080/skynews-kerr-johs-josh-mile_7300770.jpg?20260718161119",
+          "description": "Comments"
         }
-      ]
+      ],
+      "summary": "British runner Josh Kerr ran the mile in 3:42.66 at the London Diamond League, breaking the record that had stood since 1999."
     },
     {
-      "id": "topic_fa4b9870146e9a90",
+      "id": "topic_31f5540ef055df74",
+      "title": "India’s First Privately Developed Orbital Rocket Takes Flight",
+      "headline": "Launch of Vikram-1, India’s first privately developed orbital-class rocket, rescheduled",
       "label": [
-        "bang",
-        "big bang",
-        "bang theory",
-        "parson",
-        "miserable",
-        "jim parson"
+        "rocket",
+        "orbital",
+        "india",
+        "first",
+        "launches",
+        "private"
       ],
       "category": "new",
-      "theme": "theme_85f8bd4341b0bb64",
+      "theme": "theme_afb0ceee73a0d182",
       "entities": [
-        "Why Jim Parsons Was",
-        "Miserable",
-        "At The Height Of",
-        "The Big Bang Theory",
-        "Popularity"
+        "Launch",
+        "Vikram",
+        "India",
+        "Skyroot",
+        "What Is Vikram"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 13,
+      "source_count": 11,
       "articles": [
         {
-          "title": "Why Jim Parsons Was 'Miserable' At The Height Of The Big Bang Theory's Popularity",
-          "url": "https://www.tvline.com/2218129/why-jim-parsons-miserable-the-big-bang-theory-sheldon",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-07-18T19:18:05.000Z",
-          "image": "https://www.tvline.com/img/gallery/why-jim-parsons-was-miserable-at-the-height-of-the-big-bang-theorys-popularity/l-intro-1784401661.jpg"
-        },
-        {
-          "title": "Jim Parsons Opens Up About Being “Stressed” And “Miserable” Through Much Of ‘The Big Bang Theory’",
-          "url": "https://deadline.com/2026/07/jim-parsons-big-bang-theory-titanique-1236997567",
-          "source": "Deadline",
-          "published_at": "2026-07-18T18:36:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2025/07/Jesse_Dittmar_Jim_Parsons_006-3-2.jpg"
-        },
-        {
-          "title": "Jim Parsons was ‘Miserable’ During Peak ‘Big Bang Theory’ Popularity: ‘I Wouldn’t Do That Again and For Any Amount of Money’",
-          "url": "https://variety.com/2026/tv/news/jim-parsons-miserable-during-the-big-bang-theory-fame-1236815461",
-          "source": "Variety",
-          "published_at": "2026-07-18T17:06:57.000Z",
-          "image": "https://variety.com/wp-content/uploads/2017/06/big-bang-theory.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_4379f76326810a01",
-      "label": [
-        "gam 2026",
-        "2026 far",
-        "gam",
-        "far",
-        "2026",
-        "colt"
-      ],
-      "category": "new",
-      "theme": "theme_dc07f0690a39b6d2",
-      "entities": [
-        "The Colts",
-        "Summer",
-        "My Gaming",
-        "So Far"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "The Colts five most critical games of 2026",
-          "url": "https://sports.yahoo.com/articles/colts-five-most-critical-games-202243170.html",
-          "published_at": "2026-07-18T20:22:43.000Z"
-        },
-        {
-          "title": "Summer report card: The political winners and losers of 2026 (so far)",
-          "url": "https://www.thejournal.ie/summer-report-card-political-winners-and-losers-7102767-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-18T19:00:43.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/07/minister-for-health-jennifer-carroll-macneill-indicates-the-emergency-exit-as-an-alarm-goes-off-at-the-department-of-health-following-the-launch-of-the-national-rare-disease-strategy-2025-2030-in-dubl-858c449c-f9a3-46a7-9bac-9e4bcc101f39-630x463.jpg"
-        },
-        {
-          "title": "My Gaming in 2026 So Far",
-          "url": "https://tagn.wordpress.com/2026/07/18/my-gaming-in-2026-so-far",
-          "source": "The Ancient Gaming Noob",
-          "published_at": "2026-07-18T16:15:01.000Z",
-          "image": "https://2.gravatar.com/avatar/26266f9ffc00f111bd9254692a590193ebfab64d766b15a666dfae33fef5d871?s=96&d=wavatar&r=PG"
-        }
-      ]
-    },
-    {
-      "id": "topic_3db8da76c65556db",
-      "label": [
-        "indicat",
-        "mcconnell",
-        "kentucky governor",
-        "governor says",
-        "says receiv",
-        "receiv call"
-      ],
-      "category": "new",
-      "theme": "theme_128cad5044a2b47b",
-      "entities": [
-        "Kentucky",
-        "McConnell",
-        "James Cirrone",
-        "Fox News"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed' (James Cirrone/Fox News)",
-          "url": "https://www.memeorandum.com/260718/p45",
-          "source": "memeorandum",
-          "published_at": "2026-07-18T21:00:30.000Z",
-          "image": "http://www.memeorandum.com/260718/i45.jpg"
-        },
-        {
-          "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-          "url": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-18T17:19:08.000Z",
-          "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627"
-        },
-        {
-          "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-          "url": "https://www.foxnews.com/politics/kentucky-governor-says-he-received-2-calls-from-agencies-indicating-mcconnell-had-passed",
-          "source": "Latest Political News on Fox News",
-          "published_at": "2026-07-18T17:19:08.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mcconnell-beshear-split-1.png?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_f526d1eb3d100dce",
-      "label": [
-        "iran krieg",
-        "krieg",
-        "zwei",
-        "us",
-        "tet",
-        "us soldaten"
-      ],
-      "category": "new",
-      "theme": "theme_6e757a51705fcde4",
-      "entities": [
-        "Iran",
-        "Krieg",
-        "Zwei US",
-        "Soldaten",
-        "Jordanien"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Iran-Krieg: Zwei US-Soldaten in Jordanien getötet, Mojtaba Khameneidroht mit »unvergesslichen Lektionen«",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-zwei-us-soldaten-in-jordanien-getoetet-mojtaba-khameneidroht-mit-unvergesslichen-lektionen-a-a227d94e-82a9-46b3-9499-9f7fcdb7f5e6",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-07-18T19:17:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/33d4d05d-f3c4-4032-a208-28416ab11316_w520_r2.08_fpx73.68_fpy45.jpg"
-        },
-        {
-          "title": "Zwei Tote, ein Vermisster: Erstmals seit Wochen: US-Militär meldet Verluste im Iran-Krieg",
-          "url": "https://www.n-tv.de/politik/erstmals-seit-wochen-us-militaer-meldet-verluste-im-iran-krieg-id31101016.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-07-18T18:31:37.000Z",
-          "image": "https://www.n-tv.de/img/31101049/1784405232/Img_4_3/250/A-still-image-from-handout-video-released-July-14-2026-said-to-show-a-drone-being-launched-by-Iran-from-an-unknown-location-to-attack-U-S-positions-at-Azraq-base-in-Jordan-IRIB-Handout-via-REUTERS-THIS-IMAGE-HAS-BEEN-SUPPLIED-BY-A-THIRD-PARTY-IRAN-OUT-NO-COMMERCIAL-OR-EDITORIAL-SALES-IN-IRAN-ISRAEL-OUT-NO-COMMERCIAL-OR-EDITORIAL-SALES-IN-ISRAEL-NO-ACCESS-FOR-ISRAELI-MEDIA-NO-USE-BBC-PERSIAN-NO-USE-VOA-PERSIAN-NO-USE-MANOTO-NO-USE-IRAN-INTERNATIONAL-NO-USE-RADIO-FARDA-VIDEO-MASKED-AT-SOURCE-TPX-IMAGES-OF-THE-DAY-VERIFICATION-Location-and-date-could-not-be-verified.jpg"
-        },
-        {
-          "title": "Konflikte: US-Militär: Zwei weitere US-Soldaten im Iran-Krieg getötet",
-          "url": "https://www.zeit.de/news/2026-07/18/us-militaer-zwei-weitere-us-soldaten-im-iran-krieg-getoetet",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-07-18T17:30:00.000Z",
-          "image": "https://img.zeit.de/news/2026-07/18/us-militaer-zwei-weitere-us-soldaten-im-iran-krieg-getoetet-image-group/original__640x360"
-        }
-      ]
-    },
-    {
-      "id": "topic_5b05b3cf8988358f",
-      "label": [
-        "prix",
-        "belgian grand",
-        "grand prix",
-        "belgian",
-        "pole",
-        "grand"
-      ],
-      "category": "new",
-      "theme": "theme_8f1aa22fd2c65a19",
-      "entities": [
-        "Mercedes",
-        "Kimi Antonelli",
-        "F1",
-        "Belgian Grand Prix",
-        "Red Bull"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Mercedes driver Kimi Antonelli qualifies on pole for F1''s Belgian Grand Prix",
-          "url": "https://www.thehindu.com/sport/mercedes-driver-kimi-antonelli-qualifies-on-pole-for-f1s-belgian-grand-prix/article71239440.ece",
+          "title": "Launch of Vikram-1, India’s first privately developed orbital-class rocket, rescheduled",
+          "url": "https://www.thehindu.com/sci-tech/science/launch-of-vikram-1-indias-first-privately-developed-orbital-class-rocket-put-on-hold/article71237224.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-18T21:49:56.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/taxwcs/article71239452.ece/alternates/LANDSCAPE_1200/2026-07-18T211703Z_1856440783_UP1EM7I16R2WA_RTRMADP_3_MOTOR-F1-BELGIUM.JPG"
+          "published_at": "2026-07-18T06:40:41.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/sawa8k/article71237220.ece/alternates/LANDSCAPE_1200/Indias-first-pGJEG8QOJ8.3.jpg.jpg",
+          "description": "Five minutes before lift-off, the launch was put on hold, and a new schedule was announced"
         },
         {
-          "title": "Kimi Antonelli beats Red Bull's team effort to qualify on pole for F1's Belgian Grand Prix",
-          "url": "https://japantoday.com/category/sports/ferrari-races-to-repair-lewis-hamilton%27s-car-for-belgian-gp-qualifying-after-practice-crash",
-          "source": "Japan Today",
-          "published_at": "2026-07-18T20:46:19.000Z"
+          "title": "India successfully launches first private orbital rocket",
+          "url": "https://phys.org/news/2026-07-india-successfully-private-orbital-rocket.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-07-18T12:36:46.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/orbital-rocket.jpg",
+          "description": "India's first privately built orbital rocket took its maiden flight Saturday, its company said, marking a significant step for the South Asian giant as it eyes a bigger slice of the global space economy."
         },
         {
-          "title": "Championship leader Antonelli edges out Verstappen to grab pole at Belgian Grand Prix",
-          "url": "https://www.the42.ie/kimi-antonelli-pole-position-belgian-grand-prix-7106612-jul2026",
-          "source": "The 42",
-          "published_at": "2026-07-18T16:26:28.000Z",
-          "image": "https://c2.thejournal.ie/media/2026/07/12-andrea-kimi-antonelli-ita-ineos-amg-mercedes-w17-during-the-belgian-gp-spa-francorchamps-16-19-july-2026-formula-1-world-championship-2026-8d3f24ed-16b8-4048-8e89-f8715df25e16-630x419.jpg"
+          "title": "Skyroot launches India’s first privately developed orbital rocket",
+          "url": "https://www.investing.com/news/company-news/skyroot-launches-indias-first-privately-developed-orbital-rocket-4799571",
+          "source": "All News",
+          "published_at": "2026-07-18T05:36:25.000Z"
+        },
+        {
+          "title": "India’s first private orbital-class rocket Vikram-1 successfully lifts off",
+          "url": "https://www.thehindubusinessline.com/news/science/indias-first-private-orbital-class-rocket-vikram-1-successfully-lifts-off/article71237269.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-18T07:12:07.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/q2e976/article71237325.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000154B.jpg",
+          "description": "Mission Aagaman marks a major milestone for India’s commercial space sector"
+        },
+        {
+          "title": "India launches first private rocket into space",
+          "url": "https://www.dw.com/en/india-launches-first-private-rocket-into-space/a-78016562",
+          "source": "Deutsche Welle",
+          "published_at": "2026-07-18T10:12:00.000Z",
+          "description": "Lifting off from an island north of Chennai, the Vikram-1 rocket signals India’s plans to take a larger share of the market for commercial rocket launches."
         }
-      ]
+      ],
+      "summary": "India’s Vikram-1, its first privately developed orbital-class rocket, made its maiden flight, marking a milestone for the country’s commercial space sector."
     },
     {
-      "id": "topic_2dd2a3aa9b2abbfd",
+      "id": "topic_2c0b5fe48e80cfd6",
+      "title": "Andrew and Tristan Tate Arrested in Miami",
+      "headline": "Influencers Andrew and Tristan Tate arrested in Miami",
       "label": [
         "tate",
+        "miami",
         "andrew",
-        "influencer andrew",
-        "tate arrest",
-        "influencer",
-        "arrest miami"
+        "tristan",
+        "arrested",
+        "influencers"
       ],
       "category": "new",
-      "theme": "theme_63df3414455fcf48",
+      "theme": "theme_94ec1b9f8a427099",
       "entities": [
-        "Andrew Tate",
-        "Tristan",
+        "Influencers Andrew",
+        "Tristan Tate",
         "Miami",
         "Social",
-        "Andrew"
+        "Andrew Tate"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 13,
+      "source_count": 13,
       "articles": [
         {
-          "title": "Andrew Tate and brother Tristan arrested in Miami moments before boxing event",
-          "url": "https://www.dailymail.com/news/article-15988043/andrew-tate-tristan-tate-arrested-miami.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-07-18T23:45:17.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/19/00/110109165-0-image-a-28_1784417668801.jpg"
+          "title": "Influencers Andrew and Tristan Tate arrested in Miami",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361072/influencers-andrew-and-tristan-tate-arrested-miami",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-18T23:42:28.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/b9a8f18e-2e01-4d9e-a86f-0aa5aa6ccabb_f252c4d2.jpg?itok=bLNH2J6h&v=1784418144",
+          "description": "Influencer brothers Andrew and Tristan Tate were arrested by federal authorities Saturday in Miami, according to the US Marshals Service. The charges against the pair were not immediately announced. Brady McCarron, a spokesman for the Marshals Service, said the warrant was sealed. They were arreste…"
         },
         {
-          "title": "Social media influencers Andrew and Tristian Tate arrested in Miami, US Marshals service tells AP (Alanna Durkin Richer/Associated Press)",
-          "url": "https://www.memeorandum.com/260718/p54",
-          "source": "memeorandum",
-          "published_at": "2026-07-18T23:45:01.000Z",
-          "image": "http://www.memeorandum.com/img/pml.png"
+          "title": "Social media influencers Andrew Tate, brother Tristan arrested in Miami",
+          "url": "https://timesofindia.indiatimes.com/world/us/andrew-tate-brother-tristan-arrested-in-miami-us-marshals-say-warrant-sealed/articleshow/132488692.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-18T23:36:18.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132488693,imgsize-71278.cms",
+          "description": "Federal authorities in Miami arrested Andrew and Tristan Tate on Saturday. The US Marshals Service confirmed their custody but did not reveal specific charges. An arrest warrant for the brothers remains sealed by the agency. The Tates are wanted in the United Kingdom for serious allegations. US aut…"
+        },
+        {
+          "title": "Andrew Tate and Brother Tristan Arrested in Miami",
+          "url": "https://variety.com/2026/digital/news/andrew-tate-tristan-tate-arrested-miami-1236815654",
+          "source": "Variety",
+          "published_at": "2026-07-18T23:58:26.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2205622415.jpg",
+          "description": "Manosphere influencers Andrew and Tristan Tate were arrested by federal officers Saturday afternoon in Miami, according to AP. The charges against the brothers were not immediately made public. This isn’t the first time the Tate brothers have found themselves in cuffs. Back in 2022, the controversi…"
         },
         {
           "title": "Manosphere influencers Andrew and Tristian Tate arrested in Miami",
           "url": "https://www.theage.com.au/world/north-america/manosphere-influencers-andrew-and-tristian-tate-arrested-in-miami-20260719-p60gjy.html",
           "source": "The Age - Latest News",
           "published_at": "2026-07-18T23:43:11.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2691%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/82765e85a077b1f5cdcb8aecf88bba9fb47d20f9"
+          "image": "https://static.ffx.io/images/$zoom_0.2691%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/82765e85a077b1f5cdcb8aecf88bba9fb47d20f9",
+          "description": "Influencer brothers Andrew and Tristan Tate were arrested by federal authorities Saturday in Miami, according to the US Marshals Service."
         },
         {
-          "title": "Manosphere influencers Andrew and Tristian Tate arrested in Miami",
-          "url": "https://www.brisbanetimes.com.au/world/north-america/manosphere-influencers-andrew-and-tristian-tate-arrested-in-miami-20260719-p60gjy.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-07-18T23:43:11.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2691%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/82765e85a077b1f5cdcb8aecf88bba9fb47d20f9"
-        },
-        {
-          "title": "Manosphere influencers Andrew and Tristian Tate arrested in Miami",
-          "url": "https://www.smh.com.au/world/north-america/manosphere-influencers-andrew-and-tristian-tate-arrested-in-miami-20260719-p60gjy.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-07-18T23:43:11.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2691%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/82765e85a077b1f5cdcb8aecf88bba9fb47d20f9"
-        }
-      ]
-    },
-    {
-      "id": "topic_11accbac8662ab72",
-      "label": [
-        "burn",
-        "two shot",
-        "lead",
-        "shot",
-        "open",
-        "lead open"
-      ],
-      "category": "new",
-      "theme": "theme_9865debaa2023df3",
-      "entities": [
-        "Chasing",
-        "Sam Burns",
-        "The Open",
-        "Burns",
-        "Open"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Chasing first major title, Sam Burns holds two-shot lead at The Open",
-          "url": "https://www.thehindu.com/sport/chasing-first-major-title-sam-burns-holds-two-shot-lead-at-the-open/article71239441.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-18T21:44:51.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/w3zmf3/article71239446.ece/alternates/LANDSCAPE_1200/British_Open_Golf_Championship_55751.jpg"
-        },
-        {
-          "title": "Burns holds Open lead; Fox, Kim two shots back",
-          "url": "https://www.espn.com/golf/story/_/id/49393130/burns-10-holds-open-lead-fox-kim-hunt-two-shots-back",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-07-18T21:39:03.000Z"
-        },
-        {
-          "title": "Sam Burns leads Open Championship by two shots after last-minute decision to stay in tourney",
-          "url": "https://sports.yahoo.com/articles/sam-burns-leads-open-championship-192830154.html",
-          "published_at": "2026-07-18T19:28:30.000Z"
-        },
-        {
-          "title": "Burns birdies both par fives to take two-shot lead at The Open",
-          "url": "https://www.bbc.co.uk/sport/golf/videos/c1j1d4n3wwno",
-          "source": "BBC Sport",
-          "published_at": "2026-07-18T19:21:46.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e0/live/c9a3a5f0-82db-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "Burns builds Open lead after Fox's historic round and DeChambeau's fightback",
-          "url": "https://news.sky.com/story/the-open-sam-burns-takes-two-shot-lead-into-final-day-as-ryan-fox-equals-major-history-and-bryson-dechambeau-fights-back-13564627",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-07-18T19:18:00.000Z",
-          "image": "https://e3.365dm.com/26/07/1920x1080/skysports-sam-burns-golf-the-open_7300986.jpg?20260718195254"
-        }
-      ]
-    },
-    {
-      "id": "topic_e0f749d1f8844df5",
-      "label": [
-        "digital id",
-        "id",
-        "digital",
-        "scheme",
-        "id scheme",
-        "burnham"
-      ],
-      "category": "new",
-      "theme": "theme_34584004af557ac0",
-      "entities": [
-        "Next UK Prime Minister",
-        "Drops Digital ID Scheme",
-        "Andy Burnham",
-        "ID",
-        "BBC"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Next UK Prime Minister Drops Digital ID Scheme",
-          "url": "https://news.slashdot.org/story/26/07/18/2214208/next-uk-prime-minister-drops-digital-id-scheme",
-          "source": "Slashdot",
-          "published_at": "2026-07-18T22:17:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        },
-        {
-          "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge - BBC",
-          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte5jogzcoxhttlvfcgvzqvc4yuvov1hbcdriq1rsdgzathatbxc1cvpnnuwzr0xid1dprhjpekdxr05wvhzsszg1rmjhz0llum5malawd3fdbuxqdw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-18T20:15:26.000Z"
-        },
-        {
-          "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-          "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo",
-          "source": "BBC News",
-          "published_at": "2026-07-18T20:15:26.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg"
-        },
-        {
-          "title": "Burnham to ditch Starmer’s £2bn digital ID scheme to signal change of direction",
-          "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-digital-id-scheme-starmer-b3017455.html",
-          "source": "The Independent UK",
-          "published_at": "2026-07-18T20:00:56.000Z",
-          "image": "https://static.independent.co.uk/2026/07/18/14/01KXR9X8HPJW56J97BTT4FX9RM.jpg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
-        },
-        {
-          "title": "Burnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’",
-          "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-07-18T20:00:08.000Z",
-          "image": "https://i.guim.co.uk/img/media/22eb0d43d2bca4803e62ff22ee1a40d88743f844/178_0_4638_3710/master/4638.jpg?width=140&quality=85&auto=format&fit=max&s=74be8eadc19fd5ad5172e9e236dc74c0"
-        }
-      ]
-    },
-    {
-      "id": "topic_3a5dd55dc0ce2fa5",
-      "label": [
-        "dissident",
-        "artist",
-        "dissident artist",
-        "cuban dissident",
-        "cuban",
-        "alcantara"
-      ],
-      "category": "new",
-      "theme": "theme_ae4ad21ed4c15ba1",
-      "entities": [
-        "Cuban",
-        "Otero Alcantara",
-        "US",
-        "Dissident",
-        "Luis Manuel Otero Alcantara"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Cuban dissident artist Otero Alcantara lands in US exile",
-          "url": "https://www.scmp.com/news/world/americas/article/3361070/cuban-dissident-artist-otero-alcantara-lands-us-exile",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-07-18T23:18:23.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/4ccd1b2b-6cb0-428a-a719-3d98bac54dc5_5dce3657.jpg?itok=TdmfFRgZ&v=1784416696"
-        },
-        {
-          "title": "Cuban dissident artist arrives in US after 5 years in prison",
-          "url": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940",
-          "source": "Deutsche Welle",
-          "published_at": "2026-07-18T22:30:00.000Z"
-        },
-        {
-          "title": "Dissident artist Luis Manuel Otero Alcantara leaves Cuba for US",
-          "url": "https://globalnation.inquirer.net/331359/dissident-artist-luis-manuel-otero-alcantara-leaves-cuba-for-us",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-18T22:28:33.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260717__C2HG8CQ__v1__HighRes__FilesCubaUsDissidencyTravel-620x359.jpg"
-        },
-        {
-          "title": "L’artiste dissident Luis Manuel Otero Alcantara a quitté Cuba pour les États-Unis",
-          "url": "https://www.ouest-france.fr/monde/cuba/lartiste-dissident-luis-manuel-otero-alcantara-a-quitte-cuba-pour-les-etats-unis-e2b38e68-82e8-11f1-ae6f-a09f3d00f0f8",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-07-18T20:46:41.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3NGZkNzU2M2NiNTUxODgxZDA0ZjQ1NjYwZGRlZDJlMDc?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=200bd2c2c90f1e602c82ba0cd0435378dc842b1869b03a7d15f9e38bacf604b1"
-        },
-        {
-          "title": "Cuban dissident artist arrives in US after five years in prison, Rubio says",
-          "url": "https://www.investing.com/news/world-news/cuban-dissident-artist-arrives-in-us-after-five-years-in-prison-rubio-says-4799680",
-          "source": "All News",
-          "published_at": "2026-07-18T20:12:28.000Z",
-          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1e920371db00f277",
-      "label": [
-        "jordania",
-        "ataque iran",
-        "en jordania",
-        "ataque",
-        "dos",
-        "mata ataque"
-      ],
-      "category": "new",
-      "theme": "theme_a324ca928172584",
-      "entities": [
-        "Mata",
-        "EU",
-        "Jordania",
-        "Dos"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Mata ataque iraní a dos soldados de EU en Jordania",
-          "url": "https://www.elnorte.com/mata-ataque-irani-a-dos-soldados-de-eu-en-jordania/ar3242701",
-          "source": "ElNorte",
-          "published_at": "2026-07-18T17:49:50.000Z"
-        },
-        {
-          "title": "Mata ataque iraní a dos soldados de EU en Jordania",
-          "url": "https://www.reforma.com/mata-ataque-irani-a-dos-soldados-de-eu-en-jordania/ar3242700",
-          "source": "Reforma",
-          "published_at": "2026-07-18T17:49:24.000Z"
-        },
-        {
-          "title": "Dos militares estadounidenses muertos y uno desaparecido tras un ataque iraní en Jordania",
-          "url": "https://www.eldiario.es/internacional/militares-estadounidenses-muertos-desaparecido-ataque-irani-jordania_1_13390847.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-07-18T17:45:07.000Z",
-          "image": "https://static.eldiario.es/clip/ad15d960-e55e-45a6-926c-297f4103b1a3_16-9-discover-aspect-ratio_default_0_x804y360.jpg"
-        },
-        {
-          "title": "Dos militares estadounidenses muertos y uno desaparecido tras el ataque iraní sobre una base en Jordania",
-          "url": "https://www.huffingtonpost.es/global/dos-militares-estadounidenses-muertos-desaparecido-ataque-irani-sobre-base-jordania-f202607.html",
-          "source": "HuffPost Spain for Athena2",
-          "published_at": "2026-07-18T17:37:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e288ca2ee91d549e",
-      "label": [
-        "momentan",
-        "krebsfrei",
-        "momentan krebsfrei",
-        "gottschalk",
-        "thoma gottschalk",
-        "thoma"
-      ],
-      "category": "new",
-      "theme": "theme_294958a32b9e423f",
-      "entities": [
-        "Interview",
-        "Bild",
-        "Thomas Gottschalk",
-        "Laut",
-        "Fernsehen"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Interview mit „Bild“: Thomas Gottschalk: Laut Ärzten „momentan krebsfrei“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/thomas-gottschalk-laut-aerzten-momentan-krebsfrei-accg-201043526.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-07-18T20:35:01.000Z",
-          "image": "https://media0.faz.net/image/947483105624/w4124h2320x0y237/202607/43601.0.2348676930/thomas-gottschalk-ist-vor.webp"
-        },
-        {
-          "title": "Thomas Gottschalk ist »momentan krebsfrei«",
-          "url": "https://www.spiegel.de/panorama/leute/thomas-gottschalk-ist-momentan-krebsfrei-a-68c3008d-fba3-47fb-92e4-219d69c1fae7",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-07-18T20:00:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/e7c87a14-6e40-4d1c-ae95-dea37a57f298_w520_r2.08_fpx36_fpy55.jpg"
-        },
-        {
-          "title": "Fernsehen: Gottschalk zu «Bild»: Laut Ärzten «momentan krebsfrei»",
-          "url": "https://www.zeit.de/news/2026-07/18/gottschalk-zu-bild-laut-aerzten-momentan-krebsfrei",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-07-18T19:54:34.000Z",
-          "image": "https://img.zeit.de/news/2026-07/18/gottschalk-zu-bild-laut-aerzten-momentan-krebsfrei-image-group/original__640x360"
-        },
-        {
-          "title": "Alle drei Monate zur Kontrolle: Thomas Gottschalk ist \"momentan krebsfrei\"",
-          "url": "https://www.n-tv.de/leute/thomas-gottschalk-ist-momentan-krebsfrei-id31101087.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-07-18T19:24:27.000Z",
-          "image": "https://www.n-tv.de/img/31101094/1784408945/Img_4_3/250/Thomas-Gottschalk-Moderator-steht-beim-RTL-Jahresrueckblick-Menschen-Bilder-Emotionen-2022-im-Studio.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_e85dd9baa95de840",
-      "label": [
-        "accept",
-        "bid",
-        "morgan roger",
-        "morgan",
-        "roger",
-        "bid accept"
-      ],
-      "category": "new",
-      "theme": "theme_1f0e539b7a31668d",
-      "entities": [
-        "Chelsea",
-        "Morgan Rogers",
-        "Aston Villa",
-        "England"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Chelsea have £117 million bid accepted for Morgan Rogers",
-          "url": "https://www.breakingnews.ie/sport/chelsea-have-117million-bid-accepted-for-morgan-rogers-1928798.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTgyMDUwMjRcXFwvMi44NTI3Mzk1MS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyMDgxMDg5MDk2NDE3MDkxNmZhZjU3M2M2M2JmMmE1Y2Q5YjI1NDE2In0=/2-85273951.jpg"
-        },
-        {
-          "title": "Chelsea have €137.5m bid accepted for Morgan Rogers - reports",
-          "url": "https://www.the42.ie/morgan-rogers-chelsea-7106802-jul2026",
-          "source": "The 42",
-          "published_at": "2026-07-18T21:14:25.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/07/miami-usa-11th-july-2026-morgan-rogers-of-england-walks-out-to-the-pitch-ahead-of-the-fifa-world-cup-2026-quarter-final-match-between-norway-and-england-at-miami-stadiumcredit-craig-mercer-a-b3e21276-f08e-468e-88d4-f6e7a7377ddc-630x419.jpg"
-        },
-        {
-          "title": "Aston Villa reportedly accepts $157M bid from Chelsea for England midfielder Morgan Rogers",
-          "url": "https://sports.yahoo.com/articles/aston-villa-reportedly-accepts-157m-193723698.html",
-          "published_at": "2026-07-18T19:37:23.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e62b349d5bee791c",
-      "label": [
-        "amendment",
-        "amendment end",
-        "president",
-        "end",
-        "president sign",
-        "end term"
-      ],
-      "category": "new",
-      "theme": "theme_eca677f75040ce7",
-      "entities": [
-        "Hungary",
-        "Hungarian",
-        "Tam",
-        "Sulyok"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Hungary's president signs amendment ending his own term",
-          "url": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311",
-          "source": "Deutsche Welle",
-          "published_at": "2026-07-18T20:29:00.000Z"
-        },
-        {
-          "title": "Hungary’s president signs a constitutional amendment ending his term",
-          "url": "https://www.yahoo.com/news/politics/articles/hungary-president-signs-constitutional-amendment-201352906.html",
+          "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
+          "url": "https://www.yahoo.com/news/us/articles/social-media-influencers-andrew-tristian-232232971.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-18T20:13:52.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/e424a98523ad2f5f733c0f531c258641"
-        },
-        {
-          "title": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
-          "url": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
-          "source": "News | Euronews RSS",
-          "published_at": "2026-07-18T18:19:29.000Z",
-          "image": "https://images.euronews.com/articles/stories/09/84/29/94/696x392_cmsv2_999832ca-04da-5a8d-8665-02e3d7f81179-9842994.jpg"
+          "published_at": "2026-07-18T23:22:32.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/5f170e8778a9c0fcb6b50a329c626f73"
         }
-      ]
+      ],
+      "summary": "Federal authorities arrested influencer brothers Andrew and Tristan Tate in Miami. The charges had not been publicly announced in the reports."
     },
     {
-      "id": "topic_e27ebbd0388b8cad",
+      "id": "topic_7ae1711d60a4a70a",
+      "title": "Tom Brady and Logan Paul Clash at Fanatics Fest",
+      "headline": "Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X",
       "label": [
-        "ayanna",
-        "pressley",
-        "body found",
-        "rep ayanna",
-        "ayanna pressley",
-        "rep"
+        "logan",
+        "brady",
+        "tom",
+        "paul",
+        "slaps",
+        "fanatics"
       ],
       "category": "new",
-      "theme": "theme_3281d29c91a3d419",
+      "theme": "theme_baf3ceae84ef4cdf",
       "entities": [
-        "Body Found",
-        "Home Owned",
-        "Rep",
-        "Ayanna Pressley",
-        "Husband"
+        "Tom Brady Slaps Logan",
+        "Paul",
+        "Fanatics Fest",
+        "Calls Him",
+        "Dork"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 12,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Body Found at Home Owned by Rep. Ayanna Pressley’s Husband",
-          "url": "https://internewscast.com/news/us/body-found-at-home-owned-by-rep-ayanna-pressleys-husband",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-18T23:24:24.000Z"
+          "title": "Tom Brady Slaps Logan Paul at Fanatics Fest, Calls Him a ‘Dork’ and ‘Nerd’ on X",
+          "url": "https://variety.com/2026/sports/news/tom-brady-slaps-logan-paul-fanatics-fest-fans-staged-1236815284",
+          "source": "Variety",
+          "published_at": "2026-07-18T02:54:31.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/2267751126.jpg",
+          "description": "The beef between Tom Brady and Logan Paul continues. On Friday, the future NFL Hall of Famer and YouTuber-turned-WWE superstar shared the stage at Fanatics Fest in New York. But when their panel ended, the sports stars got into a heated exchange that ended with Brady slapping Paul in the face. New…"
         },
         {
-          "title": "Body found at Boston home owned by husband of Rep. Ayanna Pressley",
-          "url": "https://www.cbsnews.com/news/rep-ayanna-pressley-husband-conan-harris-boston-home-body-found",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-07-18T23:02:00.000Z"
+          "title": "Tom Brady, Logan Paul get into heated confrontation at Fanatics Fest in New York",
+          "url": "https://www.foxnews.com/sports/tom-brady-logan-paul-heated-confrontation-fanatics-fest-new-york",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-18T11:15:36.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/NFL-Tom-Brady-071826-1.jpg?ve=1&tl=1",
+          "description": "Tom Brady attempted to slap Logan Paul on stage at Fanatics Fest after being roasted about his flag football loss, escalating their ongoing feud."
         },
         {
-          "title": "Body found at home owned by ‘Squad’ Rep. Ayanna Pressley’s husband",
-          "url": "https://nypost.com/2026/07/18/us-news/body-found-at-home-owned-by-squad-rep-ayanna-pressleys-husband",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-07-18T22:59:31.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F090525-ma-mv-real-estate-110756546.jpg?w%3D1024"
+          "title": "Shocking! Tom Brady Slaps Logan Paul On Stage At Fanatics Fest As Karl-Anthony Towns Steps In To Avoid Further Confrontation | Video",
+          "url": "https://www.freepressjournal.in/sports/shocking-tom-brady-slaps-logan-paul-on-stage-at-fanatics-fest-as-karl-anthony-towns-steps-in-to-avoid-further-confrontation-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-18T04:32:38.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-18/x445lk65/Untitled-design-2026-07-18T093828.120.png"
+        },
+        {
+          "title": "Tom Brady's brutal one-word response after slapping Logan Paul",
+          "url": "https://sports.yahoo.com/articles/tom-bradys-brutal-one-word-022949859.html",
+          "published_at": "2026-07-18T02:29:49.000Z",
+          "description": "Tom Brady shared his follow-up response after slapping Logan Paul at Fanatics Fest."
+        },
+        {
+          "title": "Tom Brady cachetea a Logan Paul en evento público en Nueva York",
+          "url": "https://www.informador.mx/deportes/tom-brady-cachetea-a-logan-paul-en-video-viral-habra-pelea-de-la-wwe-20260718-0077.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-07-18T20:42:00.000Z",
+          "description": "La agresión física ocurrió sobre el escenario principal del evento Fanatics Fest, marcando el punto más crítico de una rivalidad que comenzó meses atrás por declaraciones cruzadas sobre sus habilidades atléticas"
         }
-      ]
+      ],
+      "summary": "Tom Brady and Logan Paul had a heated onstage confrontation at Fanatics Fest in New York. Reports said Brady slapped or attempted to slap Paul during the exchange."
+    },
+    {
+      "id": "topic_964906ddde72af68",
+      "title": "Indian Activist Sonam Wangchuk Taken to Hospital During Hunger Strike",
+      "headline": "Indian activist on hunger strike shifted to hospital",
+      "label": [
+        "activist",
+        "indian",
+        "hunger",
+        "strike",
+        "hospital",
+        "police"
+      ],
+      "category": "new",
+      "theme": "theme_673b7237afb8e61e",
+      "entities": [
+        "Indian",
+        "Indian Activist",
+        "Hunger Strike Is Forcibly",
+        "Removed",
+        "Police"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Indian activist on hunger strike shifted to hospital",
+          "url": "https://www.perthnow.com.au/news/politics/indian-activist-on-hunger-strike-shifted-to-hospital-c-22595441",
+          "source": "PerthNow",
+          "published_at": "2026-07-18T06:01:42.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22595441/29fbbdc5e4cbecb5aa6912dc7cf056a88981d8cb-16x9-x0y0w1280h720.jpg",
+          "description": "Indian authorities have moved activist Sonam Wangchuk to hospital after his condition worsened during a hunger strike he launched to demand education reform."
+        },
+        {
+          "title": "Indian activist on hunger strike for 20 days taken to hospital",
+          "url": "https://www.france24.com/en/indian-activist-on-hunger-strike-for-20-days-taken-to-hospital",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-18T10:56:33.000Z",
+          "image": "https://s.france24.com/media/display/33339fde-8296-11f1-8887-005056bf30b7/w:1024/p:16x9/EN-20260718-120605-121025-CS.jpg",
+          "description": "Police in India have forcibly taken an activist to hospital after a 20-day hunger strike protesting the country's examination system. The case has drawn widespread attention and renewed debate over education reforms and the handling of public protests. France 24 correspondent Navodita Kumari report…"
+        },
+        {
+          "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+          "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+          "source": "NYT > World > Asia Pacific",
+          "published_at": "2026-07-18T07:36:30.000Z",
+          "description": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students."
+        },
+        {
+          "title": "Fasting Indian activist in hospital",
+          "url": "https://tribune.com.pk/story/2619084/fasting-indian-activist-in-hospital",
+          "source": "express tribune",
+          "published_at": "2026-07-18T18:09:13.000Z",
+          "description": "."
+        },
+        {
+          "title": "Indian Police Hospitalize Education Activist on Hunger Strike",
+          "url": "https://internewscast.com/local-news/indian-police-hospitalize-education-activist-on-hunger-strike",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-18T06:52:21.000Z",
+          "description": "Internewscast Journal Internewscast NEW DELHI – A leading Indian activist was taken to a New… This Post: Indian Police Hospitalize Education Activist on Hunger Strike first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Authorities moved activist Sonam Wangchuk to a hospital after his condition worsened during a hunger strike over education reforms. Reports said police took him from the protest after 20 days."
+    },
+    {
+      "id": "topic_724de493e522a17f",
+      "title": "Sheinbaum to Attend World Cup Final at Trump’s Invitation",
+      "headline": "Mexico's president to attend World Cup final at Trump's invitation",
+      "label": [
+        "attend",
+        "invitation",
+        "final",
+        "trump",
+        "cup",
+        "president"
+      ],
+      "category": "new",
+      "theme": "theme_810e446f6966affd",
+      "entities": [
+        "Mexico",
+        "World Cup",
+        "Trump",
+        "Sheinbaum",
+        "President Trump"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Mexico's president to attend World Cup final at Trump's invitation",
+          "url": "https://www.independent.co.uk/news/world/europe/claudia-sheinbaum-mexico-mexico-city-donald-trump-argentina-b3017492.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-18T18:52:10.000Z",
+          "description": "Mexican President Claudia Sheinbaum said late Friday she will attend Sunday’s World Cup final after an invitation from her U.S. counterpart, Donald Trump"
+        },
+        {
+          "title": "Mexico’s Sheinbaum to attend World Cup final at President Trump’s invitation",
+          "url": "https://www.investing.com/news/world-news/mexicos-sheinbaum-to-attend-world-cup-final-at-president-trumps-invitation-4799687",
+          "source": "All News",
+          "published_at": "2026-07-18T21:54:26.000Z",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg"
+        },
+        {
+          "title": "Sheinbaum to attend Sunday’s World Cup final on Trump’s invitation",
+          "url": "https://mexiconewsdaily.com/news/sheinbaum-world-cup-final-trump-invitation",
+          "source": "Mexico News Daily",
+          "published_at": "2026-07-18T19:22:50.000Z",
+          "description": "Sheinbaum has accepted a personal invitation from Trump to attend Sunday's Spain-Argentina World Cup final in New Jersey — the first match of the tournament she'll attend in person. The post Sheinbaum to attend Sunday’s World Cup final on Trump’s invitation appeared first on Mexico News Daily"
+        },
+        {
+          "title": "Mexican president to attend World Cup final at Trump's invitation amid trade tensions",
+          "url": "https://www.cbsnews.com/news/claudia-sheinbaum-trump-carney-world-cup-final",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-07-18T19:36:20.000Z",
+          "description": "It will be the first meeting between President Trump and Sheinbaum since December after months of verbal sparring. Canadian Prime Minister Mark Carney is also expected to attend."
+        },
+        {
+          "title": "Mexico's president accepting invitation from Donald Trump to attend World Cup final",
+          "url": "https://sports.yahoo.com/articles/mexicos-president-accepting-invitation-donald-040521926.html",
+          "published_at": "2026-07-18T04:05:21.000Z",
+          "description": "Claudia Sheinbaum told reporters she plans to attend the match between Argentina and Spain with Canada prime minister Mark Carney also expected to attend."
+        }
+      ],
+      "summary": "Mexican President Claudia Sheinbaum accepted US President Donald Trump’s invitation to attend the World Cup final between Spain and Argentina. Canadian Prime Minister Mark Carney was also expected to attend."
+    },
+    {
+      "id": "topic_51f3e3a13c5b86bd",
+      "title": "Ukrainian Drone Attacks Kill People in Russian Regions",
+      "headline": "Ukrainian drone attacks kill 7 Russians",
+      "label": [
+        "ukrainian",
+        "drone",
+        "killed",
+        "attacks",
+        "russian",
+        "regions"
+      ],
+      "category": "trending",
+      "theme": "theme_d1feffa63b8f20fe",
+      "entities": [
+        "Ukrainian",
+        "Russians",
+        "Seven",
+        "Russian",
+        "AP News"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Ukrainian drone attacks kill 7 Russians",
+          "url": "https://tribune.com.pk/story/2619081/ukrainian-drone-attacks-kill-7-russians",
+          "source": "express tribune",
+          "published_at": "2026-07-18T18:09:13.000Z",
+          "description": "Spark fire at Moscow region oil depot"
+        },
+        {
+          "title": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
+          "url": "https://www.thehindu.com/news/international/seven-killed-more-than-50-wounded-in-ukrainian-drone-attack-on-russian-regions/article71237647.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-18T12:23:11.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/lh03vp/article71237850.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_5692_.jpg",
+          "description": "Ukrainian special operations also conducted strikes against targets in the Sea of Azov and in occupied territory, Mr. Zelenskyy said"
+        },
+        {
+          "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+          "source": "NPR Topics: World",
+          "published_at": "2026-07-18T10:45:43.000Z",
+          "description": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort."
+        },
+        {
+          "title": "9 killed and more than 60 wounded in Ukrainian drone attacks on Russian regions",
+          "url": "https://news.google.com/rss/articles/cbmilwfbvv95cuxnqldsvzrusldgoffxmwdpb2ffdm9ozuryn1vnakrvcvpbvla1qmjjt0e0rujpovyxrtc5nekwzek1b1q1dgliwgrfd1rxmecyuwlxmngzytjmqtvvd0tesmjjn2doohfwyvlzcnpyaf93mutsefr1dmpzqvrhdld0bny5whljrkdwwtduuevfbtbzevzzumlz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-18T14:43:00.000Z",
+          "description": "9 killed and more than 60 wounded in Ukrainian drone attacks on Russian regions AP News Russian online retail warehouses hit by deadly Ukrainian strikes BBC Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60 PBS Warehouse workers among 8 dead in deadliest…"
+        },
+        {
+          "title": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
+          "url": "https://tass.com/emergencies/2161943",
+          "source": "TASS",
+          "published_at": "2026-07-18T07:54:47.000Z",
+          "description": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18"
+        }
+      ],
+      "summary": "Ukrainian drone attacks on Russian regions killed at least seven people and injured dozens, according to reports. The attacks also targeted a logistics site and sparked a fire at an oil depot near Moscow."
+    },
+    {
+      "id": "topic_3e8be0bdf6cd9654",
+      "title": "Many Latin American Fans Back Spain Against Argentina",
+      "headline": "Latin America's unlikely football unity: cheering against Argentina",
+      "label": [
+        "latin",
+        "america",
+        "cheering",
+        "unity",
+        "unlikely",
+        "argentina"
+      ],
+      "category": "new",
+      "theme": "theme_c5fc5a78d4dc9323",
+      "entities": [
+        "Latin America",
+        "Argentina",
+        "Cheering",
+        "FIFA World Cup",
+        "Latin America Sports Daily"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Latin America's unlikely football unity: cheering against Argentina",
+          "url": "https://www.thejournal.ie/argentina-spain-world-cup-final-latin-america-support-7106564-jul2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-07-18T15:06:26.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/07/lionel-messi-10-of-argentina-takes-a-shot-on-goal-credit-john-kanesports-south-media-672d9e1f-27ce-4eb9-93b7-f27fea203aff-630x420.jpg",
+          "description": "Colombian sociologist German Gomez told AFP that the “dynamic of solidarity … has been broken” with Argentina."
+        },
+        {
+          "title": "Latin America's unlikely soccer unity: Cheering against Argentina",
+          "url": "https://japantoday.com/category/2026-fifa-world-cup/latin-america%27s-unlikely-football-unity-cheering-against-argentina",
+          "source": "Japan Today",
+          "published_at": "2026-07-18T20:39:52.000Z",
+          "description": "While Latin Americans have traditionally rallied behind soccer teams from the region who advance deep into the World Cup tournament, a flood of memes, jokes and criticism has…"
+        },
+        {
+          "title": "Why is Latin America shifting to the right?",
+          "url": "https://www.france24.com/en/video/20260718-why-is-latin-america-shifting-to-the-right",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-18T10:53:36.000Z",
+          "image": "https://s.france24.com/media/display/e3b4b9d6-81b7-11f1-b181-005056bfb2b6/w:1024/p:16x9/ThumbnailLATAMV3-1.jpg",
+          "description": "🇨🇴 🇵🇪 #Colombia and #Peru recently elected right-wing, #Trump-aligned leaders in close contests, which analysts link to weakening centrist parties and growing concern over crime rather than a clear ideological shift. 🇧🇷 Trump has amplified the trend by hosting regional allies in Florida, thou…"
+        },
+        {
+          "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-18T21:02:44.000Z",
+          "description": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'."
+        },
+        {
+          "title": "Latin America Sports Daily for Saturday, July 18, 2026",
+          "url": "https://www.riotimesonline.com/latin-america-sports-daily-saturday-july-18-2026",
+          "source": "The Rio Times",
+          "published_at": "2026-07-18T06:29:45.000Z",
+          "description": "World Cup third-place match set for Saturday in Miami. Argentina's qualifier win over Brazil and recent Brazilian Libertadores titles dominate the. The post Latin America Sports Daily for Saturday, July 18, 2026 appeared first on The Rio Times."
+        }
+      ],
+      "summary": "Fans across Latin America are cheering for Spain against Argentina in the World Cup final, a departure from the region’s usual support for Latin American teams that advance deep into the tournament."
+    },
+    {
+      "id": "topic_74febba885dca5aa",
+      "title": "India Announces 72nd National Film Awards",
+      "headline": "72nd National Film Awards winners announced",
+      "label": [
+        "awards",
+        "film",
+        "national",
+        "72nd",
+        "winners",
+        "best"
+      ],
+      "category": "new",
+      "theme": "theme_ce0a9e3b793d4888",
+      "entities": [
+        "National Film Awards",
+        "Winners",
+        "Mammootty",
+        "Yami Gautam",
+        "Kartik Aaryan"
+      ],
+      "article_count": 18,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "72nd National Film Awards winners announced",
+          "url": "https://www.thehindu.com/videos/72nd-national-film-awards-winners-announced/article71239243.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-18T18:19:55.000Z",
+          "image": "https://th-i.thgim.com/public/shorts/fzymgt/article71239241.ece/alternates/LANDSCAPE_1200/National%20awards.png",
+          "description": "The winners of the 72nd National Film Awards have been announced, honouring the best of Indian cinema across feature films, non-feature films and writing on cinema. The awards recognise films that were certified by the Central Board of Film Certification during the 2024 calendar year. The biggest w…"
+        },
+        {
+          "title": "72nd National Film Awards: Winners to be announced today",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/72nd-national-film-awards-winners-to-be-announced-today-at-530-pm-acclaimed-2024-films-await-verdict/articleshow/132478770.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-18T11:07:44.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132478796,imgsize-213559.cms"
+        },
+        {
+          "title": "National Film Awards 2026 winners to be announced today",
+          "url": "https://www.indiatoday.in/movies/story/national-film-awards-2024-winners-announcement-today-after-two-week-delay-2950708-2026-07-18",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-18T10:23:31.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/national-film-awards-2026-181845511-16x9_0.jpg?VersionId=M6ivCta9tI4k8girLpPLJEdjp9puZgYN",
+          "description": "National Film Awards winners to be announced today"
+        },
+        {
+          "title": "72nd National Film Awards: Top honours for ‘Article 370’, Savarkar biopic",
+          "url": "https://scroll.in/reel/1094376/72nd-national-film-awards-top-honours-for-article-370-savarkar-biopic",
+          "source": "Scroll.in",
+          "published_at": "2026-07-18T14:49:52.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/214539-ayouggofvk-1784384930.jpeg",
+          "description": "Malayalam icon Mammootty and Bollywood actor Kartik Aaryan shared the best actor award for ‘Bramayugam’ and ‘Chandu Champion’ respectively."
+        },
+        {
+          "title": "National awards: ‘Article 370’ named best feature film; actors Mammotty, Yami Gautam, Kartik Aaryan win honours",
+          "url": "https://www.thehindubusinessline.com/news/national-awards-article-370-named-best-feature-film-actors-mammotty-yami-gautam-kartik-aaryan-win-honours/article71238811.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-18T16:01:32.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/uyiy6j/article71238943.ece/alternates/LANDSCAPE_1200/national%20film%20awards.jpg",
+          "description": "Blockbuster films like Kalki 2898 AD, Amaran, Pushpa: The Rule Part-02 and Stree 2, also bagged major awards"
+        }
+      ],
+      "summary": "India announced the winners of its 72nd National Film Awards. ‘Article 370’ won best feature film, while Mammootty, Yami Gautam and Kartik Aaryan received acting honours."
+    },
+    {
+      "id": "topic_f3d7a02a64197808",
+      "title": "England Beats France 6–4 for World Cup Third Place",
+      "headline": "Alineaciones Francia vs Inglaterra por el tercer lugar del Mundial 2026",
+      "label": [
+        "inglaterra",
+        "francia",
+        "tercer",
+        "lugar",
+        "mundial",
+        "vs"
+      ],
+      "category": "new",
+      "theme": "theme_eeab1f23f1bd5bdc",
+      "entities": [
+        "Alineaciones Francia",
+        "Inglaterra",
+        "Mundial",
+        "Francia",
+        "Tercer Lugar"
+      ],
+      "article_count": 15,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Alineaciones Francia vs Inglaterra por el tercer lugar del Mundial 2026",
+          "url": "https://www.informador.mx/deportes/alineaciones-francia-vs-inglaterra-por-el-tercer-lugar-del-mundial-2026-20260718-0035.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-07-18T12:19:00.000Z",
+          "description": "Mbappé buscará ampliar su cosecha goleadora en un duelo que también marcará la despedida de Didier Deschamps del banquillo francés"
+        },
+        {
+          "title": "Francia vs Inglaterra por el Tercer Lugar del Mundial 2026: Horario y transmisión",
+          "url": "https://vanguardia.com.mx/deportes/francia-vs-inglaterra-por-el-tercer-lugar-del-mundial-2026-horario-y-transmision-ig22249526",
+          "source": "Vanguardia",
+          "published_at": "2026-07-18T01:45:23.000Z",
+          "image": "https://vanguardia.com.mx/binrepository/kylian-mbappe-jude-bellingham_1-16241685_20260718015438.jpg",
+          "description": "Francia e Inglaterra cerrarán su participación en el Mundial 2026 con un choque de orgullo. Les Bleus y los Tres Leones disputarán el Tercer Lugar este sábado 18 de julio en el Estadio de Miami, con Kylian Mbappé, Harry Kane y Jude Bellingham como figuras."
+        },
+        {
+          "title": "Resumen y goles del Francia - Inglaterra por el tercer lugar del Mundial 2026",
+          "url": "https://elpais.com/deportes/mundial-futbol/2026-07-18/resumen-y-goles-del-francia-inglaterra-por-el-tercer-lugar-del-mundial-2026.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-07-18T23:56:33.000Z",
+          "image": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260718/1196623_233028_video_1200.mp4",
+          "description": "Con un marcador 6-4, el conjunto inglés se colocó como vencedor del partido"
+        },
+        {
+          "title": "Gana Inglaterra tercer lugar en partido contra Francia",
+          "url": "https://www.reforma.com/gana-inglaterra-tercer-lugar-en-partido-contra-francia/ar3242826",
+          "source": "Reforma",
+          "published_at": "2026-07-18T23:26:10.000Z",
+          "description": "En el encuentro, Inglaterra venció 6-4 a Francia por el tercer lugar del Mundial; Kylian Mbappé tomó ventaja en la Bota de Oro."
+        },
+        {
+          "title": "Francia vs. Inglaterra HOY EN VIVO: ¿Dónde y a qué hora ver el partido por el tercer lugar del Mundial?",
+          "url": "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/07/18/francia-vs-inglaterra-en-vivo-resultado-del-partido-por-el-tercer-lugar",
+          "source": "El Financiero",
+          "published_at": "2026-07-18T12:00:00.000Z",
+          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YB9RpnB2tEiN5yWQUHSc0NNgLwA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HMHE6OV5M5FRHE7SGXWSPYY6PM.jpg",
+          "description": "Francia e Inglaterra cierran su participación en el Mundial 2026 en el partido por el tercer lugar. Conoce el horario, la transmisión y dónde ver el encuentro."
+        }
+      ],
+      "summary": "England defeated France 6–4 in the World Cup third-place match. Kylian Mbappé sought to extend his scoring tally in the game, which also marked Didier Deschamps’s departure as France coach."
+    },
+    {
+      "id": "topic_ce31fa6add609f58",
+      "title": "McIlroy Criticizes DeChambeau Over Open Championship Penalty Dispute",
+      "headline": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty",
+      "label": [
+        "hostage",
+        "mcilroy",
+        "holding",
+        "dechambeau",
+        "open",
+        "rory"
+      ],
+      "category": "new",
+      "theme": "theme_d0832d51b2df2dff",
+      "entities": [
+        "Rory McIlroy",
+        "Bryson DeChambeau",
+        "Open",
+        "The Open",
+        "McIlroy"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Rory McIlroy accuses Bryson DeChambeau of holding Open ‘hostage’ after penalty",
+          "url": "https://www.breakingnews.ie/sport/rory-mcilroy-accuses-bryson-dechambeau-of-holding-open-hostage-after-penalty-1928753.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTgxNzU4MjJcXFwvMi44NTM0MTY1NS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwOTg0YjM3ZDk2ZTUwMjRjNmJiYWRkMGNhMGYyMDE1MDgxMWYwZWQ1In0=/2-85341655.jpg",
+          "description": "The American was hit with a two-shot penalty after his second round."
+        },
+        {
+          "title": "Rory McIlroy blasts Bryson DeChambeau for holding The Open ‘hostage’ over penalty chaos: 'It is performative'",
+          "url": "https://www.foxnews.com/sports/rory-mcilroy-blasts-bryson-dechambeau-holding-open-hostage-penalty-chaos-performative",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-18T21:01:38.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Rory-McIlroy-Bryson-DeChambeau-split.jpg?ve=1&tl=1",
+          "description": "Rory McIlroy blasted Bryson DeChambeau's conduct as \"performative\" and said the two-stroke penalty at The Open was justified after a heated rules dispute."
+        },
+        {
+          "title": "McIlroy lashes out at DeChambeau for ‘holding the Open hostage’ over penalty row",
+          "url": "https://www.theguardian.com/sport/2026/jul/18/mcilroy-lashes-out-dechambeau-holding-open-hostage-penalty-row",
+          "source": "The Guardian",
+          "published_at": "2026-07-18T16:29:39.000Z",
+          "image": "https://i.guim.co.uk/img/media/113a594aa5850ffca00f762ec93163d20fc69549/64_0_5860_4688/master/5860.jpg?width=140&quality=85&auto=format&fit=max&s=70fac7a80f33cf26223bbd7cfabae1cc",
+          "description": "‘I won’t defend Bryson – I’m not fond of him’ Masters champion says rival’s actions ‘not a good look’ Rory McIlroy has accused a “performative” Bryson DeChambeau of “holding the tournament hostage” after the incredible scenes which marked the end of the American’s second round at the Open. DeChambe…"
+        },
+        {
+          "title": "Rory McIlroy blasts Bryson DeChambeau for holding The Open ‘hostage’ over penalty chaos: 'It is performative'",
+          "url": "https://news.google.com/rss/articles/cbmitwfbvv95cuxoznj5n1j3awpnee51ogtrcglfclbymet2cljncnhus1dxwww1ddrirdrns2p6a3lqogxvb09bmg5qwku4zdlpzelqvjfxuwlswmxgdzdkys1reuzvyuvyzlhptfpyz0jct0stu2djoelnyuhwtvu2mf9zrlppem5zbzdorg5wohzgee1sbnvzwuprelfou3fzy2xvay1kovhfz3rlatfstv83bl9wqkzsq2s0uwngb2fsabwbqvvfexfmtxptmjn5nhzuv1zha2lsc1lvdnnlckzqcjd0ukrwzvnidfrlatbwn1dhektycfjrekpebkzsrullrdmzdl9suwnhavllclczvkfqmuhvvjvwn2lqaxjmmnvxzeetrf9juzbtcnq4bdi2tm1itkztnkzqy0fkudrsv0hzr0t2q09hnk1qmxy2wmdxr2zzow5ywwzrtedlaln6d0p6ehkywfbuv0njdjvvoeztbtz1yxficm0wt2e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-18T21:01:38.000Z",
+          "description": "Rory McIlroy blasts Bryson DeChambeau for holding The Open ‘hostage’ over penalty chaos: 'It is performative' Fox News McIlroy calls DeChambeau penalty at Open 'pretty obvious' ESPN Open Championship: In the Bryson DeChambeau controversy, who’s right, who’s wrong? Yahoo Sports McIlroy accuses DeCha…"
+        },
+        {
+          "title": "Rory McIlroy accuses Bryson DeChambeau of 'holding Open hostage' over rules controversy",
+          "url": "https://www.irishexaminer.com/sport/golf/arid-41881987.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-07-18T19:44:00.000Z",
+          "description": "Cameras had picked up the two-time US Open champion trampling over long grass as he prepared to play his shot from greenside rough"
+        }
+      ],
+      "summary": "Rory McIlroy accused Bryson DeChambeau of holding the Open Championship “hostage” over a rules dispute. DeChambeau received a two-shot penalty after his second round."
+    },
+    {
+      "id": "topic_7aedd3f902251ee5",
+      "title": "Iran’s Supreme Leader Warns US of ‘Unforgettable Lessons’",
+      "headline": "Iran’s supreme leader warns of ‘unforgettable lessons’ if US continues attacks",
+      "label": [
+        "unforgettable",
+        "lessons",
+        "supreme",
+        "leader",
+        "warns",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_397028c891948e67",
+      "entities": [
+        "Iran",
+        "US",
+        "Iranian",
+        "Associated Press",
+        "Supreme"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Iran’s supreme leader warns of ‘unforgettable lessons’ if US continues attacks",
+          "url": "https://www.theage.com.au/business/iran-s-supreme-leader-warns-of-unforgettable-lessons-if-us-continues-attacks-20260719-p60gio.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-07-18T18:21:08.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/10cce1b5d578a6dd1af0258ce6e8baa57cdfa219"
+        },
+        {
+          "title": "Iran's supreme leader warns of 'unforgettable lessons'",
+          "url": "https://www.perthnow.com.au/news/conflict/irans-supreme-leader-warns-of-unforgettable-lessons-c-22596345",
+          "source": "PerthNow",
+          "published_at": "2026-07-18T18:12:01.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22596345/7dc0996573525273c153185ad4885112f441e227-16x9-x0y0w1280h720.jpg",
+          "description": "Iran's supreme leader is warning of \"unforgettable lessons\" if the US continues its attacks on the Islamic Republic."
+        },
+        {
+          "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+          "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-18T18:55:05.000Z",
+          "description": "Mojtaba Khamenei says Trump's signature is 'worthless' and that 'bullying' is a core element of US foreign policy."
+        },
+        {
+          "title": "Iranian supreme leader warns of ‘unforgettable lessons’ if US keeps up attacks",
+          "url": "https://www.breakingnews.ie/world/iranian-supreme-leader-warns-of-unforgettable-lessons-if-us-keeps-up-attacks-1928773.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTgxODU3MTVcXFwvNGQ3NWYwYjA2MGJmNGJlNmIzNmFlOTkwOGFkYTRhNjEuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOTdhNTIyYjViYmNiZGUxMjIwZDcwZDA0MGNlNTZmNDcxZDA4MWQ3MSJ9/4d75f0b060bf4be6b36ae9908ada4a61.jpg",
+          "description": "A statement attributed to Mojtaba Khamenei was broadcast on Iranian state television."
+        },
+        {
+          "title": "Iran's supreme leader in a new statement warns of 'unforgettable lessons' if US continues attacks (Associated Press)",
+          "url": "https://www.memeorandum.com/260718/p28",
+          "source": "memeorandum",
+          "published_at": "2026-07-18T17:30:00.000Z",
+          "image": "http://www.memeorandum.com/260718/i28.jpg",
+          "description": "Associated Press: Iran's supreme leader in a new statement warns of ‘unforgettable lessons’ if US continues attacks — Iran's supreme leader warned of “unforgettable lessons” Saturday if the United States keeps attacking the Islamic Republic and called President Donald Trump's signature “worthless a…"
+        }
+      ],
+      "summary": "Iran’s supreme leader, Mojtaba Khamenei, warned that the United States would face “unforgettable lessons” if it continued its attacks, according to a statement broadcast on Iranian state television."
+    },
+    {
+      "id": "topic_8c5c1e161d50d81e",
+      "title": "US Strikes Iran for Seventh Consecutive Night",
+      "headline": "US strikes hit Iran for seventh night",
+      "label": [
+        "seventh",
+        "night",
+        "strikes",
+        "iran",
+        "us",
+        "consecutive"
+      ],
+      "category": "new",
+      "theme": "theme_bd8d6d14dfa70f47",
+      "entities": [
+        "US",
+        "Iran",
+        "BBC",
+        "Bombing"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "US strikes hit Iran for seventh night",
+          "url": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-18T08:35:59.000Z",
+          "image": "https://s.france24.com/media/display/1eb6e390-8282-11f1-a328-005056bfb2b6/w:1024/p:16x9/EN-20260718-100136-100344-CS.jpg",
+          "description": "Kuwait said on Saturday that an Iranian attack hit a water and electricity plant one day after a similar strike damaged another plant. Tehran launched attacks on US military sites hosted by several of its Gulf neighbours in response to a seventh night of US strikes on Iran overnight on Friday. Morg…"
+        },
+        {
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
+          "source": "BBC News",
+          "published_at": "2026-07-18T01:16:11.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+          "description": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz."
+        },
+        {
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte8yaghlundvddnozernejrhoeq4cuc0rs15bfo4ykv5betcb2nfshb4t1nfm2fbshfmvnnjx2i2twnvwwlesfportaxdgr6skxmzjqybuw4djrpuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-18T11:48:44.000Z",
+          "description": "US strikes hit Iran for seventh consecutive night BBC Iran war live: 50 killed, 500 wounded in US attacks this month Al Jazeera Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure The New York Times Trump targets Iran’s infrastructure in bid to squeeze regime The Hil…"
+        },
+        {
+          "title": "US strikes Iran for seventh night in a row",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4654326/us-strikes-iran-seventh-night-in-a-row",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-18T02:58:22.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/us-iran-boat-strikes.jpg?w=696",
+          "description": "U.S. Central Command announced Friday night that it carried out its seventh consecutive night of strikes against Iran, as the conflict shows no signs of winding down. “U.S. forces ended the seventh consecutive night of strikes against Iran on July 17 at 9:30 p.m. ET,” CENTCOM said in a statement. “…"
+        },
+        {
+          "title": "Bombing intensifies as US strikes Iran for the seventh night",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/18/bombing-intensifies-as-us-strikes-iran-for-the-seventh-night_6755591_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-07-18T02:54:05.000Z",
+          "image": "https://img.lemde.fr/2026/07/17/0/0/6000/3000/644/322/60/0/ace3914_ftp-1-dxamxoe27koe-7f30bba1cca948d5a68bb7a4df5acd08-0-225f33499f6a4656a17abd29ab8ed127.jpg",
+          "description": "Iran reported at least three dead and retaliated with attacks on several US military sites in Kuwait and Jordan."
+        }
+      ],
+      "summary": "The US military said it carried out strikes on Iran for a seventh consecutive night, targeting its armed forces. Iran reported explosions near the Strait of Hormuz and retaliated against US military sites in the region."
     }
   ]
 }

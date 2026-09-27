@@ -1,955 +1,923 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-10T00:15:22.719Z",
+  "generated_at": "2026-09-27T14:00:45.675Z",
   "topics": [
     {
-      "id": "topic_2318457fa95cd6af",
+      "id": "topic_b907172c8a703feb",
+      "title": "U.S. Army Helicopter Goes Down Near Strait of Hormuz",
+      "headline": "US Army helicopter goes down near Strait of Hormuz",
       "label": [
-        "hormuz",
-        "strait hormuz",
-        "strait",
-        "us",
         "helicopter",
-        "us helicopter"
+        "strait",
+        "hormuz",
+        "near",
+        "us",
+        "rescued"
       ],
       "category": "new",
-      "theme": "theme_7de23c018fe2bf7f",
+      "theme": "theme_b0c20f262c20da56",
       "entities": [
-        "Know About",
-        "Sea Drone That Rescued",
-        "Downed Apache Crew",
-        "Trump",
-        "US"
+        "US Army",
+        "Strait",
+        "Hormuz",
+        "US Apache",
+        "Crew Rescued After"
       ],
-      "article_count": 10,
+      "article_count": 52,
+      "source_count": 42,
+      "articles": [
+        {
+          "title": "US Army helicopter goes down near Strait of Hormuz",
+          "url": "https://dailypost.ng/2026/06/09/us-army-helicopter-goes-down-near-strait-of-hormuz",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-09T08:21:52.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/06/US-Army-helicopter.jpeg",
+          "description": "A United States Army helicopter gunship went down near the Strait of Hormuz on Monday, and the two crew members were safely rescued. It is not yet known whether the helicopter was shot down by Iranian fire, experienced mechanical failure or encountered some other problem. The incident occurred a fe…"
+        },
+        {
+          "title": "US Apache helicopter crashes near the Strait of Hormuz",
+          "url": "https://www.independent.co.uk/news/world/americas/us-apache-helicopter-crash-strait-of-hormuz-b2992224.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-09T08:01:54.000Z",
+          "image": "https://static.independent.co.uk/2026/06/09/08/2279034750..?width=1200&auto=webp&trim=0%2C0%2C1%2C0",
+          "description": "Incident comes as Donald Trump insists a peace deal on the Iran war is ‘near’ despite Tehran and Israel taking shots at each other in recent days"
+        },
+        {
+          "title": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-09T03:44:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08dc-military-iran-mpck/08dc-military-iran-mpck-mediumSquareAt3X.jpg",
+          "description": "It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous."
+        },
+        {
+          "title": "U.S. Army Helicopter Crashes Near Strait Of Hormuz—Trump Says ‘Pilots Are Fine’",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/06/09/us-army-helicopter-crashes-near-strait-of-hormuz-trump-says-pilots-are-fine",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-09T07:51:51.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a27c592bc20d7f4ed4aa97f/0x0.jpg?width=960",
+          "description": "It’s unclear if the Apache helicopter was shot down by the Iranian military or went down as a result of a technical failure."
+        },
+        {
+          "title": "US helicopter crashes near Strait of Hormuz; Trump says pilots 'fine'",
+          "url": "https://globalnation.inquirer.net/326764/us-helicopter-crashes-near-strait-of-hormuz-trump-says-pilots-fine",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-09T06:12:51.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/US-helicopter-crashes-near-Strait-of-Hormuz-Trump-says-pilots-fine-620x413.jpg",
+          "description": "NEW YORK — President Donald Trump said Tuesday that two pilots were uninjured after reports that a US military helicopter went down near the Strait of Hormuz. It was not immediately clear whether the Apache helicopter was shot down, experienced mechanical failure or encountered some other problem,…"
+        }
+      ],
+      "summary": "A U.S. Army Apache helicopter went down near the Strait of Hormuz, and its two crew members were rescued. The cause was not immediately clear."
+    },
+    {
+      "id": "topic_4671e681ce79e817",
+      "title": "NASA Announces Artemis III Crew",
+      "headline": "WATCH LIVE: NASA unveils Artemis III crew",
+      "label": [
+        "artemis",
+        "iii",
+        "nasa",
+        "crew",
+        "astronauts",
+        "mission"
+      ],
+      "category": "new",
+      "theme": "theme_9d00a7b245bff862",
+      "entities": [
+        "WATCH LIVE",
+        "NASA",
+        "Artemis III",
+        "Nasa",
+        "Artemis III Crew Announced"
+      ],
+      "article_count": 49,
+      "source_count": 31,
+      "articles": [
+        {
+          "title": "WATCH LIVE: NASA unveils Artemis III crew",
+          "url": "https://www.washingtonexaminer.com/policy/space/4600362/watch-live-nasa-artemis-iii-crew",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-09T14:01:57.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/art002e009288orig-3-e1775579071632_ea1ba5.jpg?w=696",
+          "description": "NASA will announce the crew for the upcoming Artemis III mission on Tuesday at 11 a.m. at Johnson Space Center in Houston, Texas. The agency also indicated that it would provide the preliminary plan for the mission, which is scheduled for 2027. 60 MINUTES HOST SCOTT PELLEY FIRED AFTER ACCUSING CBS…"
+        },
+        {
+          "title": "Nasa reveals crew for Artemis III mission",
+          "url": "https://www.bbc.com/news/videos/cd95n8v8xgyo",
+          "source": "BBC News",
+          "published_at": "2026-06-09T18:44:57.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b152/live/37408140-6433-11f1-8546-8f19e4fe30f4.jpg",
+          "description": "The crew, who are all men, are scheduled to blast off in 2027 to test systems ahead of a planned Moon landing."
+        },
+        {
+          "title": "Nasa unveils astronaut crew for Artemis III mission – video",
+          "url": "https://www.theguardian.com/science/video/2026/jun/09/nasa-unveils-astronaut-crew-for-artemis-iii-mission-video",
+          "source": "Space | The Guardian",
+          "published_at": "2026-06-09T18:21:07.000Z",
+          "image": "https://i.guim.co.uk/img/media/ff018224e4e93fa5d5a56f4405e4b8f0d361c593/298_0_3176_2540/master/3176.jpg?width=140&quality=85&auto=format&fit=max&s=bf21ad3fc86ce42f37b80a2e16e30690",
+          "description": "Nasa revealed the crew for its Artemis III mission in Houston on Tuesday, the next step in the US space agency’s plan to eventually land astronauts on the moon. The announcement came two months after Artemis II’s record-breaking trip around the moon that surpassed the maximum distance achieved by A…"
+        },
+        {
+          "title": "Artemis III Crew Announced",
+          "url": "https://www.nasa.gov/image-detail/jsc2026e392659",
+          "source": "NASA Image of the Day",
+          "published_at": "2026-06-09T19:39:00.000Z",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg",
+          "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacec…"
+        },
+        {
+          "title": "Nasa to reveal Artemis-III astronauts tonight: When and how to watch",
+          "url": "https://www.indiatoday.in/science/artemis-missions/story/nasa-artemis-iii-crew-announcement-astronauts-moon-mission-live-you-tube-2923915-2026-06-09",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-09T05:49:05.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/nasa-artemis-3-rocket-rollout-175947273-16x9.jpg?VersionId=ija80pbKDgMr.3whDyi_Sr7gWXJ5sc0N",
+          "description": "Nasa to reveal ArtemisIII astronauts tonight When and how to watch"
+        }
+      ],
+      "summary": "NASA announced the crew for its Artemis III mission, scheduled for 2027. The mission is intended to test systems ahead of a planned Moon landing."
+    },
+    {
+      "id": "topic_11c97ad6a17790af",
+      "title": "Anthropic Releases Claude Fable 5 With Safeguards",
+      "headline": "Claude Fable 5 and Mythos 5 are here.",
+      "label": [
+        "claude",
+        "fable",
+        "mythos",
+        "anthropic",
+        "releases",
+        "model"
+      ],
+      "category": "new",
+      "theme": "theme_fcb59052aa5ea4c9",
+      "entities": [
+        "Claude Fable",
+        "Mythos",
+        "Claude Mythos",
+        "Anthropic",
+        "AI"
+      ],
+      "article_count": 46,
+      "source_count": 34,
+      "articles": [
+        {
+          "title": "Claude Fable 5 and Mythos 5 are here.",
+          "url": "https://dev.to/jatniel/claude-fable-5-and-mythos-5-are-here-22fe",
+          "source": "DEV Community",
+          "published_at": "2026-06-09T19:55:09.000Z",
+          "description": "Claude Fable 5 and Mythos 5 are here. Same model, two names. What sets them apart isn’t capability, but guardrails. Fable 5 is available to everyone. Mythos 5 remains restricted to Project Glasswing partners, with some safeguards removed in specific domains. The detail that matters for developers:…"
+        },
+        {
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-06-09T03:46:15.000Z",
+          "description": "Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5 Comments URL: https://news.ycombinator.com/item?id=48456104 Points: 5 # Comments: 2"
+        },
+        {
+          "title": "Claude Fable 5 and Claude Mythos 5",
+          "url": "https://news.google.com/rss/articles/cbmizefvx3lxte0tnxjjqxngzwm1d1vmmvrfofzlyu9vufcwdm03rfhdre5uajjoy19mbuq5zvpxyw9iowhzd3jos3f2c0xidfryvugtzf9rvvi1vw1kvexgb0rvrdbwdlpntxn1cta",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-09T17:08:42.000Z",
+          "description": "Claude Fable 5 and Claude Mythos 5 Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street CNBC Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You WIRED Anthropic’s Mythos Is Coming Today; Apple Pur…"
+        },
+        {
+          "title": "Claude Fable 5: Anthropic releases a safe version of Claude Mythos",
+          "url": "https://mashable.com/tech/claude-fable-5-anthropic-releases-safe-public-version-of-mythos",
+          "source": "Mashable",
+          "published_at": "2026-06-09T18:52:02.000Z",
+          "description": "Anthropic's Claude Fable 5 brings Mythos-class AI to the public for the first time, with safety guardrails"
+        },
+        {
+          "title": "Anthropic releases Claude Fable 5, a 'Mythos-class' AI model with safeguards",
+          "url": "https://www.businessinsider.com/anthropic-claude-fable-5-mythos-class-model-release-2026-6",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-06-09T17:58:57.000Z",
+          "image": "https://i.insider.com/6a282373ea70485acd8b17c1?format=jpeg",
+          "description": "Anthropic's initial Mythos AI model, and its ramifications for cybersecurity, drew major attention from companies and governments around the world. Bloomberg/Getty Images Anthropic released Fable 5, a \"Mythos-class\" model with safeguards. Anthropic previously held off on publicly releasing its firs…"
+        }
+      ],
+      "summary": "Anthropic released Claude Fable 5, a model described as bringing Mythos-class capabilities to the public with safety safeguards. Claude Mythos 5 remains restricted to Project Glasswing."
+    },
+    {
+      "id": "topic_992a6130778a5109",
+      "title": "Trump Booed at NBA Finals Game in New York",
+      "headline": "Trump booed at NBA Finals game",
+      "label": [
+        "nba",
+        "finals",
+        "game",
+        "booed",
+        "trump",
+        "knicks"
+      ],
+      "category": "trending",
+      "theme": "theme_13fc485918ba7951",
+      "entities": [
+        "Trump",
+        "NBA Finals",
+        "Trump Booed",
+        "NBA Finals Game",
+        "New York City"
+      ],
+      "article_count": 105,
+      "source_count": 45,
+      "articles": [
+        {
+          "title": "Trump booed at NBA Finals game",
+          "url": "https://www.brisbanetimes.com.au/sport/basketball/trump-booed-at-nba-finals-game-20260609-p6053q.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-09T01:05:03.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/694f045cecdea2ff949bd928f0fc8063535129c2",
+          "description": "US President Trump made it to the game three and witnessed the national anthem from a suite."
+        },
+        {
+          "title": "Trump Booed at NBA Finals Game in New York City’s Madison Square Garden",
+          "url": "https://time.com/article/2026/06/08/trump-nba-finals-knicks-spurs-new-york-mamdani",
+          "source": "TIME",
+          "published_at": "2026-06-09T00:44:33.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt36f985da745b9d7e/6a27602a78e98e35637ae574/trump-nba-finals-knicks-spurs.jpg?branch=production&format=jpg&width=1024",
+          "description": "The President's attendance at the game, the first finals matchup the New York Knicks have hosted in 27 years, has drawn backlash from fans."
+        },
+        {
+          "title": "Trump booed at NBA Finals game in New York City",
+          "url": "https://www.france24.com/en/trump-booed-at-nba-finals-game-in-new-york-city",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-09T10:49:49.000Z",
+          "image": "https://s.france24.com/media/display/e26beee0-63db-11f1-8d32-005056a90284/w:1024/p:16x9/AP26160040218792.jpg",
+          "description": "Donald Trump was the first sitting US president to attend the NBA Finals on June 8 in New York City. But the leader was booed by crowds in the heavily democratic city every time he was shown on screen. Attendees also had to wait in hour-long lines due to the heavy security system put in place for T…"
+        },
+        {
+          "title": "US President Donald Trump Booed At Madison Square Garden During Knicks-Spurs NBA Finals Game 3 | Video",
+          "url": "https://www.freepressjournal.in/sports/us-president-donald-trump-booed-at-madison-square-garden-during-knicks-spurs-nba-finals-game-3-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-09T03:53:48.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-06-09/inucucyf/Screenshot-2026-06-09-091840.png"
+        },
+        {
+          "title": "Trump booed at NBA Finals in New York",
+          "url": "https://globalnation.inquirer.net/326724/trump-booed-at-nba-finals-in-new-york",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-09T01:45:28.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/Trump-booed-at-NBA-Finals-in-New-York-620x413.jpg",
+          "description": "NEW YORK — US President Donald Trump was booed ahead of the NBA Finals matchup at Madison Square Garden on Monday, as his attendance prompted ultra-tight security at the storied New York venue. Fans jeered the Republican president, who was watching the game from an executive suite, when he appeared…"
+        }
+      ],
+      "summary": "President Donald Trump was booed by spectators at an NBA Finals game at Madison Square Garden in New York. His attendance prompted heightened security at the venue."
+    },
+    {
+      "id": "topic_855cd11a5cd8484b",
+      "title": "Nintendo Announces Ocarina of Time Remake for Switch 2",
+      "headline": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
+      "label": [
+        "ocarina",
+        "remake",
+        "zelda",
+        "time",
+        "legend",
+        "nintendo"
+      ],
+      "category": "new",
+      "theme": "theme_571574452e9929a0",
+      "entities": [
+        "The Legend",
+        "Zelda",
+        "Ocarina",
+        "Time Remake Revealed",
+        "Nintendo Switch"
+      ],
+      "article_count": 25,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
+          "source": "IGN Articles",
+          "published_at": "2026-06-09T14:54:46.000Z",
+          "image": "https://assets-prd.ignimgs.com/2023/11/21/ocarina-of-time-blogroll-1700570336021.jpg",
+          "description": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real."
+        },
+        {
+          "title": "Nintendo confirms Legend of Zelda: Ocarina of Time remake",
+          "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-confirmed-release-date",
+          "source": "Polygon.com",
+          "published_at": "2026-06-09T14:56:41.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/young-link-smash-bros.jpg",
+          "description": "The Legend of Zelda: Ocarina of Time remake is coming to Nintendo Switch 2 in 2026, giving fans of the 1998 a new way to play the Zelda classic."
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina Of Time Remake Is Real, Out This Year",
+          "url": "https://kotaku.com/the-legend-of-zelda-ocarina-of-time-remake-is-real-out-this-year-2000704403",
+          "source": "Kotaku",
+          "published_at": "2026-06-09T14:55:35.000Z",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-5-1.jpg",
+          "description": "The boy without a fairy"
+        },
+        {
+          "title": "Nintendo Finally Reveals The Legend Of Zelda: Ocarina Of Time Remake For 2026",
+          "url": "https://www.gamespot.com/articles/nintendo-finally-reveals-the-legend-of-zelda-ocarina-of-time-remake-for-2026",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-06-09T14:56:35.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-10.58.31-AM.png?w=300",
+          "description": "Nintendo has officially revealed The Legend of Zelda: Ocarina of Time remake as part of its summer Nintendo Direct showcase. The reveal showed no gameplay--only a cinematic trailer about the boy from the forest who didn't have a fairy. It did, however, confirm a 2026 release date. More details are…"
+        },
+        {
+          "title": "The Nintendo Switch 2 Remake Of The Legend Of Zelda: Ocarina Of Time Drops In 2026",
+          "url": "https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time",
+          "source": "Game Informer",
+          "published_at": "2026-06-09T15:04:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/09/3a228e8a/zelda02.jpg.webp",
+          "description": "After years of rumors, The Legend of Zelda: Ocarina of Time is officially officially getting a remake for Nintendo Switch 2 and it is coming in 2026, sometime later this year. Ocarina of Time was originally released in 1998 for the Nintendo 64. The game was a critical and commercial success and is…"
+        }
+      ],
+      "summary": "Nintendo announced a remake of The Legend of Zelda: Ocarina of Time for the Switch 2, due in 2026. The reveal included a cinematic trailer but no gameplay."
+    },
+    {
+      "id": "topic_9dc18d719823826",
+      "title": "Katy Perry and Justin Trudeau Make Red Carpet Debut",
+      "headline": "A Timeline of Katy Perry & Justin Trudeau’s Relationship",
+      "label": [
+        "katy",
+        "perry",
+        "trudeau",
+        "justin",
+        "carpet",
+        "debut"
+      ],
+      "category": "new",
+      "theme": "theme_e4f7cc3f85dde133",
+      "entities": [
+        "Timeline",
+        "Katy Perry",
+        "Justin Trudeau",
+        "Relationship",
+        "The Lifetimes Tour"
+      ],
+      "article_count": 15,
       "source_count": 10,
       "articles": [
         {
-          "title": "What to Know About the Sea Drone That Rescued Downed Apache Crew",
-          "url": "https://www.nytimes.com/2026/06/09/world/middleeast/sea-drone-apache-rescue.html",
-          "source": "NYT > World News",
-          "published_at": "2026-06-09T23:00:26.000Z"
+          "title": "A Timeline of Katy Perry & Justin Trudeau’s Relationship",
+          "url": "https://www.billboard.com/lists/katy-perry-justin-trudeau-relationship-timeline",
+          "source": "Billboard",
+          "published_at": "2026-06-09T15:08:42.000Z",
+          "description": "California girls, eh?"
         },
         {
-          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
-          "url": "https://www.smh.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-09T22:40:51.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
+          "title": "Katy Perry and Justin Trudeau look loved up as they make red carpet debut",
+          "url": "https://www.breakingnews.ie/entertainment/katy-perry-and-justin-trudeau-look-loved-up-as-they-make-red-carpet-debut-1911060.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDkwOTI4MDlcXFwvYmY0NDY1NDQ4NjFlNGEyY2JmNGYzMWI4NWNjMjNkYTcuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMGRkMjhhMmVmYmRjNzU3YzdlZGYwZmRkMjUxNjE5MjQ0ZWQxZTUzYSJ9/bf446544861e4a2cbf4f31b85cc23da7.jpg",
+          "description": "The couple posed together at the premiere of Perry’s concert film Katy Perry: The Lifetimes Tour – Live from Paris."
         },
         {
-          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
-          "url": "https://www.brisbanetimes.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-09T22:40:51.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
-        },
-        {
-          "title": "Trump says pilots are 'fine' after US helicopter crashes near Strait of Hormuz",
-          "url": "https://www.theage.com.au/world/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz-20260610-p605eo.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-09T22:40:51.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15fe28577d7ad6ba5d17bc5b08c7492f02c541c1"
-        },
-        {
-          "title": "US sea drone rescues crew from US Army helicopter that crashed near Hormuz",
-          "url": "https://www.dailymaverick.co.za/article/2026-06-09-us-sea-drone-rescues-crew-from-us-army-helicopter-that-crashed-near-hormuz",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-06-09T21:30:28.000Z",
-          "image": "https://cdn.dailymaverick.co.za/attachments/2993/14027604_415697.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b7cb86ac3c3d79a0",
-      "label": [
-        "derribo",
-        "derribo de",
-        "helic",
-        "ptero",
-        "helic ptero",
-        "ir"
-      ],
-      "category": "new",
-      "theme": "theme_61dccaa4fc3d70fe",
-      "entities": [
-        "Trump",
-        "Ir",
-        "Lanza",
-        "EU",
-        "Lanza EU"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Trump se ‘la cumple’ a Irán: Lanza ataques en represalia por derribo de helicóptero con 2 soldados de EU",
-          "url": "https://www.elfinanciero.com.mx/mundo/2026/06/09/trump-se-la-cumple-a-iran-lanza-ataques-en-represalia-por-derribo-de-helicoptero-con-2-soldados-de-eu",
-          "source": "El Financiero",
-          "published_at": "2026-06-09T22:24:57.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/bl5MqJZLpGyD9b3vPfU6g9SUP5w=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BWPWGF6V45DPDNIAMGYXBYI5DM.jpg"
-        },
-        {
-          "title": "Lanza EU ataques a Ir�n tras derribo de helic�ptero",
-          "url": "https://www.elnorte.com/lanza-eu-ataques-a-iran-tras-derribo-de-helicoptero/ar3219371",
-          "source": "ElNorte",
-          "published_at": "2026-06-09T21:42:53.000Z"
-        },
-        {
-          "title": "Lanza EU ataques a Ir�n tras derribo de helic�ptero",
-          "url": "https://www.reforma.com/lanza-eu-ataques-a-iran-tras-derribo-de-helicoptero/ar3219370",
-          "source": "Reforma",
-          "published_at": "2026-06-09T21:42:17.000Z"
-        },
-        {
-          "title": "EEUU anuncia una oleada de ataques contra Irán tras el derribo de un helicóptero Apache que patrullaba el estrecho de Ormuz",
-          "url": "https://www.eldiario.es/internacional/eeuu-anuncia-oleada-ataques-iran-derribo-helicoptero-apache-sobrevolaba-ormuz_1_13289186.html",
-          "source": "elDiario.es - elDiario.es",
-          "published_at": "2026-06-09T21:40:42.000Z",
-          "image": "https://static.eldiario.es/clip/7d0d8d4b-a23d-4b95-a6e1-ab0a360bab0f_16-9-discover-aspect-ratio_default_0_x4986y658.jpg"
-        },
-        {
-          "title": "Trump amenaza a Irán con represalias tras el derribo de un helicóptero y siembra dudas sobre la tregua",
-          "url": "https://elpais.com/internacional/2026-06-09/trump-amenaza-a-iran-con-represalias-tras-el-derribo-de-un-helicoptero-y-siembra-dudas-sobre-la-tregua.html",
-          "source": "EL PAÍS: el periódico global",
-          "published_at": "2026-06-09T19:21:29.000Z",
-          "image": "https://imagenes.elpais.com/resizer/v2/6DOESH7PYRKNLEUE3RSVEE3Y7E.jpg?auth=3489ac928d348b8cf26aebabf036924846dfe6614886ade7b90e0a399fca4b45"
-        }
-      ]
-    },
-    {
-      "id": "topic_9d840c7b867b6781",
-      "label": [
-        "70 billion",
-        "70",
-        "immigration",
-        "billion",
-        "billion immigration",
-        "immigration bill"
-      ],
-      "category": "new",
-      "theme": "theme_15f091a480970a28",
-      "entities": [
-        "US Congress",
-        "Trump",
-        "House Passes",
-        "Billion Immigration Bill",
-        "Catie Edmondson"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "US Congress approves $70 billion for Trump immigration crackdown",
-          "url": "https://globalnation.inquirer.net/326791/us-congress-approves-70-billion-for-trump-immigration-crackdown",
-          "source": "INQUIRER.net",
-          "published_at": "2026-06-09T22:30:46.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/06/AFP__20260604__B4ZX2CM__v1__HighRes__UsSenateWorksToPassBudgetReconciliationPackageT-620x413.jpg"
-        },
-        {
-          "title": "US Congress passes $70 billion bill to fund Trump's immigration crackdown",
-          "url": "https://www.lemonde.fr/en/international/article/2026/06/10/us-congress-passes-70-billion-bill-to-fund-trump-s-immigration-crackdown_6754293_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-09T22:30:24.000Z",
-          "image": "https://img.lemde.fr/2026/06/09/0/0/8192/4096/644/322/60/0/4c273a6_ftp-1-rkifabpafg9c-5266006-01-06.jpg"
-        },
-        {
-          "title": "House Passes G.O.P.'s $70 Billion Immigration Bill (Catie Edmondson/New York Times)",
-          "url": "https://www.memeorandum.com/260609/p107",
-          "source": "memeorandum",
-          "published_at": "2026-06-09T22:05:01.000Z",
-          "image": "http://www.memeorandum.com/260609/i107.jpg"
-        },
-        {
-          "title": "House Votes to Advance $70 Billion G.O.P. Immigration Bill",
-          "url": "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-06-09T18:45:03.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/09/multimedia/09dc-cong-photo-hbvc/09dc-cong-photo-hbvc-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_575d734860e889a4",
-      "label": [
-        "geinbot",
-        "brave",
-        "unk",
-        "deaddrop",
-        "durabletask",
-        "insta"
-      ],
-      "category": "new",
-      "theme": "theme_6176f3cfb2191f65",
-      "entities": [
-        "Geinbot",
-        "SolarWinds",
-        "Brave",
-        "Insta",
-        "Aaran Leyland"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland - SWN #588",
-          "url": "https://www.youtube.com/watch?v=iFTOUldeAOY",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-06-09T21:00:15.000Z",
-          "image": "https://i2.ytimg.com/vi/iFTOUldeAOY/hqdefault.jpg"
-        },
-        {
-          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
-          "url": "https://sw-all.libsyn.com/geinbot-solarwinds-brave-unk-deaddrop-durabletask-insta-aaran-leyland-swn-588",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-06-09T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--audio-converted--65fc9693-4584-4e7b-a5c6-384e5eb9a266.mp3?dest-id=829103"
-        },
-        {
-          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
-          "url": "https://hntvaudio.libsyn.com/geinbot-solarwinds-brave-unk_deaddrop-durabletask-insta-aaran-leyland-swn-588",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-06-09T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--audio-converted--65fc9693-4584-4e7b-a5c6-384e5eb9a266.mp3?dest-id=376644"
-        },
-        {
-          "title": "Geinbot, SolarWinds, Brave, UNK_Deaddrop, durabletask, Insta, Aaran Leyland... - SWN #588",
-          "url": "https://hntvvideo.libsyn.com/geinbot-solarwinds-brave-unk_deaddrop-durabletask-insta-aaran-leyland-swn-588",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-06-09T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_588_1--903df46f-122a-4ed7-8d14-94f194305874--sd-converted--4ac5257f-588c-4d62-9080-7cf300a9ae58.mp4?dest-id=376663"
-        }
-      ]
-    },
-    {
-      "id": "topic_df611b936ba8852",
-      "label": [
-        "iq",
-        "stephen",
-        "stephen smith",
-        "smith",
-        "loss",
-        "fir back"
-      ],
-      "category": "new",
-      "theme": "theme_8443ff1a400b96c0",
-      "entities": [
-        "Trump",
-        "Stephen",
-        "Smith",
-        "Knicks",
-        "NBA Finals"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Trump fires back at Stephen A. Smith over Knicks’ NBA Finals loss",
-          "url": "https://sports.yahoo.com/articles/trump-fires-back-stephen-smith-114154812.html",
-          "published_at": "2026-06-09T21:46:14.000Z"
-        },
-        {
-          "title": "Stephen A. Smith Taunts Trump Over Low IQ Diss, Knicks Loss & Falling Asleep At Game: “I’d Put My IQ Up Against Yours Any Day Of The Week”",
-          "url": "https://deadline.com/2026/06/stephen-a-smith-blasts-trump-knicks-loss-falling-asleep-1236951823",
-          "source": "Deadline",
-          "published_at": "2026-06-09T20:11:14.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/Stephen-A.-Smith-and-Donald-Trump.jpg"
-        },
-        {
-          "title": "Stephen A. Smith Taunts Trump Over IQ Insult, Knicks Loss, Falling Asleep - Deadline",
-          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxnn0v5wmkwc3reqjlzyk9kz1fex2jmwfnmzhmydhlux2l0otr3egdpeldtzeftbxnjdgf5bfpscvlys0q0r3hzbgzjbdzyrhn2umzuzvf3utd6tjfxnkp6zlzrdwptylc0bmxywg02wdlouvv1rfnxtnhetf9abfjqevhuckvmz1mwrjbtofrvylj6dni2cmntmwj2bxu",
+          "title": "Katy Perry and Justin Trudeau make their red carpet debut at 'Katy Perry: The Lifetimes Tour - Live from",
+          "url": "https://news.google.com/rss/articles/cbmizajbvv95cuxnzljonthzwwr0c1hzb1boq2rvx1zrzmx3rulluw9snuc3rkj6avvzewnymhjxt2hvwf9uce00cznjulbowvr5r19howtdmxe4rhdks1zhawjcrjfpd0vxcjjvrfludtawwxbgmmvfy3nycjuzznrja2lbbde3nlvwyujov055vezfdtm4b2zzuhnfmwprs04xrnbwn0xtwvdnuu5fdm1fak9ir2qyrmc0dnfsqkpiuvixc0xubkc1vmrzzedjd0v1zfzsr1lpt3npb1flbnpkcjbhaetpmgfodnhhyk5xthbss0vzbjdhztjyvfg0vvz5yxvtshc2mvkzmvdlvlzxamxon0zqzzbeofo0dffzahzqodbxn1jpcfnoqnrpndlcnjfpd1bsmljftghwuhnlbwvcdupymzzlem9wnhvpmwexyug3ea",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-09T20:11:00.000Z"
+          "published_at": "2026-06-09T03:11:00.000Z",
+          "description": "Katy Perry and Justin Trudeau make their red carpet debut at 'Katy Perry: The Lifetimes Tour - Live from The Times of India Katy Perry and Justin Trudeau Make Red Carpet Debut at Tribeca Festival People.com Justin Trudeau Gushes About Supporting GF Katy Perry at Tribeca Festival Yahoo Katy Perry an…"
         },
         {
-          "title": "Stephen A. Smith fires back at Trump over ‘low IQ’ jab: ‘Put my IQ up against yours’",
-          "url": "https://www.washingtonexaminer.com/sports/4601141/stephen-a-smith-trump-low-iq-jab",
+          "title": "Katy Perry & Justin Trudeau Make Red Carpet Debut At Tribeca Festival During Concert Film Premiere | Video",
+          "url": "https://www.freepressjournal.in/entertainment/katy-perry-justin-trudeau-make-red-carpet-debut-at-tribeca-festival-during-concert-film-premiere-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-09T06:27:32.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-06-09/562cjs7z/Untitled-design-2026-06-09T115357.807.jpg"
+        },
+        {
+          "title": "Katy Perry and Justin Trudeau pack on the PDA in affectionate red carpet debut at Tribeca Festival",
+          "url": "https://www.foxnews.com/entertainment/katy-perry-justin-trudeau-pack-pda-affectionate-red-carpet-debut-tribeca-festival",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-09T18:07:29.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/katy-perry-justin-trudeau-1.jpg?ve=1&tl=1",
+          "description": "Katy Perry and Justin Trudeau made their red carpet debut as a couple at the Tribeca Festival premiere of her concert film in New York City."
+        }
+      ],
+      "summary": "Katy Perry and Justin Trudeau made their red carpet debut as a couple at the Tribeca Festival premiere of Perry’s concert film in New York."
+    },
+    {
+      "id": "topic_eecae48d576294c4",
+      "title": "Ariana Grande and Ethan Slater Reportedly Split",
+      "headline": "Ariana Grande and Ethan Slater split",
+      "label": [
+        "ariana",
+        "slater",
+        "ethan",
+        "grande",
+        "split",
+        "years"
+      ],
+      "category": "new",
+      "theme": "theme_25104b7947085f3e",
+      "entities": [
+        "Ariana Grande",
+        "Ethan Slater",
+        "BBC",
+        "Why Ariana Grande",
+        "Ethan Slater Broke"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Ariana Grande and Ethan Slater split",
+          "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/international-celebs/ariana-grande-and-ethan-slater-split",
+          "source": "The South African",
+          "published_at": "2026-06-09T09:09:55.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/06/HKWy8GKWEAAJtlV.jpg.optimal.jpg",
+          "description": "32-year-old Ariana Grande and 34-year-old Ethan Slater divorced their spouses to be together."
+        },
+        {
+          "title": "Ariana Grande and Ethan Slater split after three years",
+          "url": "https://www.bbc.com/news/articles/cn0ve7952jqo",
+          "source": "BBC News",
+          "published_at": "2026-06-09T10:37:43.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7056/live/79871190-63ed-11f1-8546-8f19e4fe30f4.jpg",
+          "description": "The pair met on the set of the first Wicked movie, for which Grande received an Oscar nomination."
+        },
+        {
+          "title": "Ariana Grande and Ethan Slater split after three years",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte1kvkljquv2nzffowhoy3puzxpbqkfwr2rizg5vnw1qv0tiluvdvk5zsvdsv3ixchj0rhvxbu9cetlymmnwszlwuxu1ttk4agwxdefsbnbfefppqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-09T10:37:43.000Z",
+          "description": "Ariana Grande and Ethan Slater split after three years BBC Ariana Grande and Ethan Slater split privately after 3 years of dating USA Today Ethan Slater sends love to ex Ariana Grande after breakup news Page Six Inside Ariana Grande's Life After Split from Ethan Slater: Source (Exclusive) People.co…"
+        },
+        {
+          "title": "Ariana Grande and Ethan Slater end relationship after nearly 3 years",
+          "url": "https://www.legit.ng/entertainment/celebrities/1713760-ariana-grande-ethan-slater-year-relationship-ended-quietly",
+          "source": "Legit.ng",
+          "published_at": "2026-06-09T14:49:01.000Z",
+          "image": "https://cdn.legit.ng/images/1200x675/861e17dcf87c1485.jpeg?v=1",
+          "description": "Ariana Grande and Ethan Slater reportedly end their relationship after nearly three years. Sources confirm an amicable split amid her upcoming tour."
+        },
+        {
+          "title": "Ariana Grande and Ethan Slater have reportedly split after 3 years. Here's a complete timeline of their relationship.",
+          "url": "https://www.businessinsider.com/ariana-grande-ethan-slater-relationship-timeline-2023-12",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-06-09T15:45:36.000Z",
+          "image": "https://i.insider.com/6a2826eaea70485acd8b17d9?format=jpeg",
+          "description": "Ethan Slater and Ariana Grande at the 2025 National Board of Review Gala. Lexie Moreland/WWD via Getty Images Ariana Grande and Ethan Slater reportedly began dating on the set of the \"Wicked\" movie. Grande defended their relationship, saying it's different from how \"evil tabloids\" depict it. The co…"
+        }
+      ],
+      "summary": "Ariana Grande and Ethan Slater have reportedly ended their relationship after nearly three years. They met while working on the first Wicked movie."
+    },
+    {
+      "id": "topic_4dbadd37496eeca4",
+      "title": "Vance Refers Minnesota Officials to DOJ Over Fraud Allegations",
+      "headline": "Vance refers Gov. Tim Walz and Minnesota attorney general to DOJ for fraud investigation (NBC News)",
+      "label": [
+        "vance",
+        "walz",
+        "fraud",
+        "doj",
+        "refers",
+        "minnesota"
+      ],
+      "category": "new",
+      "theme": "theme_d6f0445c135fdd99",
+      "entities": [
+        "Vance",
+        "Gov",
+        "Tim Walz",
+        "Minnesota",
+        "DOJ"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Vance refers Gov. Tim Walz and Minnesota attorney general to DOJ for fraud investigation (NBC News)",
+          "url": "https://www.memeorandum.com/260608/p124",
+          "source": "memeorandum",
+          "published_at": "2026-06-09T03:40:01.000Z",
+          "image": "http://www.memeorandum.com/260608/i124.jpg",
+          "description": "NBC News: Vance refers Gov. Tim Walz and Minnesota attorney general to DOJ for fraud investigation — The Justice Department opened a separate investigation this year into the Democratic governor over allegations he helped impede immigration enforcement. — Vice President JD Vance announced Monday …"
+        },
+        {
+          "title": "Vance refers Tim Walz, Minnesota attorney general to DOJ for criminal investigation over state's alleged fraud",
+          "url": "https://www.yahoo.com/news/politics/articles/vance-refers-tim-walz-minnesota-064047035.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-09T06:40:47.000Z",
+          "image": "https://media.zenfs.com/en/fox_news_text_979/153db75c89929399f25cf3a1dea428c9"
+        },
+        {
+          "title": "Vance refers Minnesota officials to DOJ for criminal fraud investigation",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/vance-fraud-investigation-walz-ellison-minnesota-b2992716.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-09T18:39:33.000Z",
+          "image": "https://static.independent.co.uk/2026/06/09/19/2026-05-28T222239Z_1309172343_RC2LILATVY3L_RTRMADP_3_USA-VANCE.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Both Walz and Ellison have defended their actions against fraud, dismissing a separate Justice Department inquiry involving state leaders as politically motivated"
+        },
+        {
+          "title": "Vance refers Tim Walz and Keith Ellison to DOJ over fraud whistleblower complaint",
+          "url": "https://www.washingtonexaminer.com/news/justice/4600207/vance-refers-walz-ellison-doj-fraud-whistleblower-complaint",
           "source": "Washington Examiner",
-          "published_at": "2026-06-09T19:31:46.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/stephen-a-smith-trump-iq-jab.jpg?w=696"
+          "published_at": "2026-06-09T12:14:49.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-inozr0ql8-1781004578638-e1781006759447.jpg?1780992748&w=696",
+          "description": "Vice President JD Vance said Monday that he had referred allegations involving Minnesota state officials to the Department of Justice’s new Fraud Division for a possible criminal investigation into fraud and misconduct within the state’s taxpayer-funded healthcare and social service programs. The a…"
+        },
+        {
+          "title": "Vance Refers New Fraud Allegations Against Walz to DOJ",
+          "url": "https://www.dailysignal.com/2026/06/09/vance-refers-new-fraud-allegations-against-walz-to-doj",
+          "source": "The Daily Signal",
+          "published_at": "2026-06-09T15:00:00.000Z",
+          "image": "https://static.dailysignalmedia.org/vdog.jpg",
+          "description": "Vice President JD Vance said he has referred new fraud allegations against Minnesota Gov. Tim Walz, a Democrat, to the Justice Department for a criminal investigation. A report of the House Oversight Committee released Monday alleges Walz and Minnesota Attorney General Keith Ellison were “aware of…"
         }
-      ]
+      ],
+      "summary": "Vice President JD Vance referred allegations involving Minnesota Gov. Tim Walz and Attorney General Keith Ellison to the Justice Department for possible criminal investigation."
     },
     {
-      "id": "topic_a87dacfe8fcdd70a",
+      "id": "topic_b978d2ce1e3ff897",
+      "title": "Jason Momoa Exits Helldivers Movie",
+      "headline": "Helldivers Movie Loses Jason Momoa as Its Star",
       "label": [
-        "un licopt",
-        "licopt",
-        "licopt re",
-        "re",
-        "contre",
-        "orient"
+        "momoa",
+        "helldivers",
+        "jason",
+        "movie",
+        "reportedly",
+        "star"
       ],
       "category": "new",
-      "theme": "theme_b9768a7649b254da",
+      "theme": "theme_812e3dcd7f797af7",
       "entities": [
-        "Guerre",
-        "Moyen",
-        "Orient",
-        "Etats",
-        "Unis"
+        "Helldivers Movie Loses Jason",
+        "Momoa",
+        "Its Star",
+        "Jason Momoa Reportedly Drops",
+        "Out Of Helldivers Movie"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent des frappes \"proportionnées\" contre l'Iran après l'attaque d'un hélicoptère américain",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-annoncent-des-frappes-proportionnees-contre-l-iran-apres-l-attaque-d-un-helicoptere-americain_8052917.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-09T22:26:35.000Z",
-          "image": "https://www.franceinfo.fr/pictures/479kXaZG-hU-mZzGc9r1c7clByE/0x188:3600x2213/432x243/filters:format(jpg)/2026/06/10/6a28930de28d1465956743.jpg"
+          "title": "Helldivers Movie Loses Jason Momoa as Its Star",
+          "url": "https://www.ign.com/articles/helldivers-movie-loses-jason-momoa-as-its-star",
+          "source": "IGN Articles",
+          "published_at": "2026-06-09T02:04:19.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/09/jason-momoa-helldivers-exit-1780968058043.png",
+          "description": "Jason Momoa has exited the live-action Helldivers movie."
         },
         {
-          "title": "Les États-Unis lancent des frappes contre l’Iran, une « réponse proportionnée » à la destruction d’un hélicoptère",
-          "url": "https://www.huffingtonpost.fr/international/video/les-etats-unis-lancent-des-frappes-contre-l-iran-une-reponse-proportionnee-a-la-destruction-d-un-helicoptere_264645.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-06-09T22:01:02.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/06/09/314/0/9000/5062/0/0/60/0/a0008bc_upload-1-y2b417jlvvnx-afp-20260508-b2ba88x-v1-highres-moroccousdefence.jpg"
+          "title": "Jason Momoa Reportedly Drops Out Of Helldivers Movie",
+          "url": "https://www.gamespot.com/articles/jason-momoa-reportedly-drops-out-of-helldivers-movie",
+          "source": "GameSpot - All News",
+          "published_at": "2026-06-09T13:31:14.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/MV5BNjgxMWQ3ZTgtMDJhZi00N2ZkLWI5MTUtOTZjZThiMDM2ZmM1XkEyXkFqcGc@._V1_.jpg?w=300",
+          "description": "The upcoming film adaptation of Helldivers has lost its leading man, with Jason Momoa exiting the project. Deadline reports that Momoa, who joined the production in February, departed from the movie, but the reason for his withdrawal is not clear. Regardless, the film is still in production and set…"
         },
         {
-          "title": "Guerre au Moyen-Orient : riposte américaine après une attaque contre un hélicoptère imputée à l’Iran",
-          "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-riposte-americaine-apres-une-attaque-contre-un-helicoptere-imputee-a-liran-c2219ddc-644a-11f1-bb6e-df703f58b398",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-09T21:53:35.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2OTM3NjdmOTUzZTM1OTMyYzBkMzM2ZGU0NzE4MzQxMzg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0ca04bd3da5f07327bd84aad516258a622d8776e45b2f341066b33bb00cfedd1"
+          "title": "Jason Momoa dips out of Helldivers movie",
+          "url": "https://www.avclub.com/jason-momoa-exits-helldivers-movie-justin-lin",
+          "source": "AV Club",
+          "published_at": "2026-06-09T14:43:25.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/31092744/jason-momoa-jimmy-kimmel-march-25-interview-screenshot-feature.jpg",
+          "description": "Directed by Justin Lin, and based on the popular video games, Helldivers is expected in theaters in November 2027."
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet de « riposter » après que « les Iraniens ont abattu » un hélicoptère américain au-dessus du détroit d’Ormuz",
-          "url": "https://www.lemonde.fr/international/live/2026/06/09/en-direct-guerre-au-moyen-orient-donald-trump-promet-de-riposter-apres-que-les-iraniens-ont-abattu-un-helicoptere-americain-au-dessus-du-detroit-d-ormuz_6697888_3210.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-09T18:43:37.000Z",
-          "image": "https://img.lemde.fr/2026/06/06/300/0/3600/1800/644/322/60/0/44f1383_ftp-1-n5fp1kkgqq5p-5238837-01-06.jpg"
+          "title": "Helldivers 2: Jason Momoa Will Reportedly Not Star",
+          "url": "https://bleedingcool.com/movies/helldivers-2-jason-momoa-will-reportedly-not-star",
+          "source": "Movies",
+          "published_at": "2026-06-09T22:27:10.000Z",
+          "description": "Jason Momoa has reportedly departed the big screen adaptation of Helldivers 2 for, at the time of writing, unknown reasons."
+        },
+        {
+          "title": "Jason Momoa Is Reportedly No Longer Involved with the Upcoming Helldivers Movie",
+          "url": "https://www.pushsquare.com/news/2026/06/jason-momoa-is-reportedly-no-longer-involved-with-the-upcoming-helldivers-movie",
+          "source": "Push Square | Latest Updates",
+          "published_at": "2026-06-09T10:30:00.000Z",
+          "image": "https://images.pushsquare.com/c474cec8e224b/large.jpg",
+          "description": "No mo' Momoa. There aren't many things we know about the Helldivers movie, but one is that Jason Momoa is attached to star in the film. Well, according to a new report, that's no longer the case. According to Deadline, anonymous sources have said the actor is no longer set to appear in the Helldive…"
         }
-      ]
+      ],
+      "summary": "Jason Momoa has left the upcoming live-action Helldivers movie, according to reports. The film is directed by Justin Lin and is expected in theaters in November 2027."
     },
     {
-      "id": "topic_ca35b74215683422",
+      "id": "topic_b5f60267f8f40eca",
+      "title": "Man Charged With Attempted Murder After Belfast Stabbing",
+      "headline": "Man, 30, is charged after 'attempted beheading' in Belfast",
       "label": [
-        "2032",
-        "social security",
-        "critical",
-        "social",
-        "expect",
-        "security"
+        "man",
+        "attempted",
+        "belfast",
+        "beheading",
+        "arrested",
+        "charged"
       ],
       "category": "new",
-      "theme": "theme_d0a4b423c5efc09f",
+      "theme": "theme_4a5e92775ea3ba69",
       "entities": [
-        "Social Security",
-        "The Washington Post",
-        "Washington Post",
-        "Critical Social Security Fund",
-        "Expected To Run Dry"
+        "Man",
+        "Belfast",
+        "Sudanese",
+        "North Belfast",
+        "Man Arrested"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 15,
+      "source_count": 11,
       "articles": [
         {
-          "title": "Social Security shortfall expected to accelerate, with funds at critical low in 2032 - The Washington Post",
-          "url": "https://news.google.com/rss/articles/cbmipgfbvv95cuxomvlszhrvetdvujvebvhmdhhztkprwnzum3bwvwzpm3dhq2pxb2lzrjmtqk9dv3vsnmjmblhqdtbrblvluxvswldsb09wmkrtatlfwufmnzkzeevjlxruuwjzv0dkvtjdoefoylhlswzsd2tev3bqy0stqxp6awz1vnlnu0zmmxrznmdnqwlqchdpzjvkr2q2nc1ienmxvge2eepkrlvb",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-09T18:58:56.000Z"
+          "title": "Man, 30, is charged after 'attempted beheading' in Belfast",
+          "url": "https://www.dailymail.com/news/article-15886727/man-charged-attempted-murder-beheading-belfast.html",
+          "source": "News | Mail Online",
+          "published_at": "2026-06-09T18:10:40.000Z",
+          "image": "https://i.dailymail.com/1s/2026/06/09/19/109219963-0-image-a-36_1781028339076.jpg",
+          "description": "A 30 year-old man arrested in connection with the Belfast stabbing attack has been charged with attempted murder."
         },
         {
-          "title": "Social Security shortfall expected to accelerate, with funds at critical low in 2032 (Washington Post)",
-          "url": "https://www.memeorandum.com/260609/p82",
-          "source": "memeorandum",
-          "published_at": "2026-06-09T18:55:02.000Z",
-          "image": "http://www.memeorandum.com/260609/i82.jpg"
-        },
-        {
-          "title": "Critical Social Security Fund Expected To Run Dry In 2032, New Report Says",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/09/critical-social-security-fund-expected-to-run-dry-in-2032-new-report-says",
-          "source": "Forbes - Business",
-          "published_at": "2026-06-09T18:35:59.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a285cde58869a47ff351e31/0x0.jpg?width=960"
-        }
-      ]
-    },
-    {
-      "id": "topic_767eff29d826a918",
-      "label": [
-        "amnesty",
-        "firearm",
-        "supreme",
-        "supreme court",
-        "extend",
-        "court"
-      ],
-      "category": "new",
-      "theme": "theme_c0b2caadce80fb7f",
-      "entities": [
-        "Feds",
-        "Supreme Court",
-        "Ottawa",
-        "Carney"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Feds extend firearm amnesty amid Supreme Court challenge",
-          "url": "https://torontosun.com/news/national/feds-extend-firearm-amnesty-amid-supreme-court-challenge",
-          "source": "Toronto Sun - RSS Feed",
-          "published_at": "2026-06-09T22:07:19.000Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/06/0615-fo-bump.jpg?quality=100&strip=all"
-        },
-        {
-          "title": "Ottawa extends amnesty for banned firearms amid Supreme Court challenge",
-          "url": "https://globalnews.ca/news/11896825/canada-firearms-ban-amnesty-extended-supreme-court",
-          "published_at": "2026-06-09T20:37:23.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/06/5e89db70109b7d84370506adc276bcb6865f88c7ed9eb3e3638d49ac1f708235.jpg?quality=65&strip=all"
-        },
-        {
-          "title": "Carney government extends amnesty covering banned firearms until after Supreme Court ruling",
-          "url": "https://nationalpost.com/news/politics/carney-government-extends-amnesty-covering-banned-firearms-until-after-supreme-court-ruling",
-          "source": "National Post",
-          "published_at": "2026-06-09T20:30:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_934a8cb5d9ba6b6a",
-      "label": [
-        "apple watch",
-        "telegram",
-        "watch",
-        "apple",
-        "watch telegram",
-        "watch 11"
-      ],
-      "category": "new",
-      "theme": "theme_22fdce097520b683",
-      "entities": [
-        "Telegram",
-        "Apple Watch",
-        "GIFs",
-        "The Apple Watch",
-        "Supports Siri AI"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Telegram launches fully native Apple Watch app with messages, GIFs, video, and more",
-          "url": "https://9to5mac.com/2026/06/09/telegram-launches-fully-native-apple-watch-app-with-messages-gifs-video-and-more",
-          "source": "9to5Mac",
-          "published_at": "2026-06-09T22:11:24.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/telegram-apple-watch.jpg?quality=82&#038;strip=all&#038;w=1600"
-        },
-        {
-          "title": "The Apple Watch 11 Supports Siri AI, and It's $100 Off Right Now",
-          "url": "https://lifehacker.com/tech/apple-watch-series-11-early-prime-day-2026",
-          "source": "Lifehacker",
-          "published_at": "2026-06-09T21:30:00.000Z",
-          "image": "https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png"
-        },
-        {
-          "title": "На Apple Watch выпустили обновлённое приложение Telegram",
-          "url": "https://www.unian.net/techno/communications/na-apple-watch-vypustili-obnovlennoe-prilozhenie-telegram-13407372.html",
-          "source": "Информационное агентство УНИАН",
-          "published_at": "2026-06-09T20:21:00.000Z",
-          "image": "https://images.unian.net/photos/2026_06/thumb_files/1200_0_1781036308-2290.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_563fe2c2e578996c",
-      "label": [
-        "caitlyn",
-        "hik",
-        "caitlyn jenner",
-        "hik trail",
-        "jenner",
-        "trail"
-      ],
-      "category": "new",
-      "theme": "theme_fae2cca7e2d86a6e",
-      "entities": [
-        "Tragic Discovery",
-        "Caitlyn Jenner",
-        "Longtime Friend Found Deceased",
-        "Popular Hiking Trail",
-        "William Hasley"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Tragic Discovery: Caitlyn Jenner’s Longtime Friend Found Deceased at 78 on Popular Hiking Trail",
-          "url": "https://internewscast.com/news/tragic-discovery-caitlyn-jenners-longtime-friend-found-deceased-at-78-on-popular-hiking-trail",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-09T20:43:25.000Z"
-        },
-        {
-          "title": "William Hasley, Screenwriter Who Co-Wrote Book With Caitlyn Jenner, Dies on Hollywood Hiking Trail",
-          "url": "https://variety.com/2026/tv/news/william-hasley-dead-caitlyn-jenner-runyon-1236770670",
-          "source": "Variety",
-          "published_at": "2026-06-09T19:59:31.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-492870327.jpg"
-        },
-        {
-          "title": "Caitlyn Jenner biographer and Robin Riker's ex William Hasley found dead on hiking trail at 78",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15886809/caitlyn-jenner-william-hasley-robin-riker-dead-la-runyon.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-06-09T19:11:34.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/09/19/109236387-0-image-a-38_1781031397279.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_e5dd5f43dd46fa11",
-      "label": [
-        "disclosure day",
-        "spielberg",
-        "disclosure",
-        "day",
-        "day classic",
-        "classic spielberg"
-      ],
-      "category": "new",
-      "theme": "theme_5a5981b4468c13cc",
-      "entities": [
-        "Disclosure Day",
-        "Steven Spielberg Movie Is",
-        "Best Enjoyed Knowing This",
-        "Beforehand",
-        "Spielberg"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Disclosure Day: Steven Spielberg Movie Is Best Enjoyed Knowing This Beforehand",
-          "url": "https://www.comingsoon.net/movies/features/2145426-disclosure-day-steven-spielberg-movie-is-best-enjoyed-knowing-this-beforehand",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-09T22:06:45.000Z"
-        },
-        {
-          "title": "‘Disclosure Day’ is classic Spielberg",
-          "url": "https://japantoday.com/category/entertainment/movie-review-%e2%80%98disclosure-day%e2%80%99-is-classic-spielberg",
-          "source": "Japan Today",
-          "published_at": "2026-06-09T21:42:05.000Z"
-        },
-        {
-          "title": "Disclosure Day, One of Spielberg's Finest, Is a Plea to Preserve All that Makes Us Human",
-          "url": "https://time.com/article/2026/06/09/disclosure-day-review",
-          "source": "TIME",
-          "published_at": "2026-06-09T21:40:24.000Z",
-          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blte2930f694f34a45f/6a2884170a43d3ff812cc992/11.jpg?branch=production&format=jpg&width=1024"
-        }
-      ]
-    },
-    {
-      "id": "topic_34c71ca8dcbf2db",
-      "label": [
-        "education",
-        "summit",
-        "carroll",
-        "age school",
-        "school summit",
-        "summit live"
-      ],
-      "category": "new",
-      "theme": "theme_f94503ddbccbe741",
-      "entities": [
-        "The Age Schools Summit",
-        "LIVE",
-        "Minister",
-        "Education Ben Carroll"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
-          "url": "https://www.theage.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
+          "title": "Belfast police arrest man after ‘brutal attempted beheading’",
+          "url": "https://www.theage.com.au/world/europe/belfast-police-arrest-man-after-brutal-attempted-beheading-20260609-p605cm.html",
           "source": "The Age - Latest News",
-          "published_at": "2026-06-09T22:30:07.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+          "published_at": "2026-06-09T14:36:06.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.9806%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/q_86%2Cf_auto/9100bcb562b3cd507d79baad5500cd8603f3016e04343ed306674ff2111a7f1d",
+          "description": "A Sudanese man is in custody on suspicion of attempted murder after a stabbing attack left a man fighting for his life, setting off a political storm over crime and migration."
         },
         {
-          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
-          "url": "https://www.smh.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-09T22:30:07.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+          "title": "Sudanese man arrested after attempting to behead man in Belfast",
+          "url": "https://www.washingtonexaminer.com/news/world/4600337/sudanese-man-arrested-attempted-behead-man-belfast-uk",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-09T15:54:53.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26160497170947.jpg?w=696",
+          "description": "A Sudanese immigrant was arrested after a video showed him trying to behead a man in the middle of a Belfast street in the United Kingdom, drawing national outrage. Police were called at around 10:30 p.m. local time on Monday. A graphic video posted on social media showed the suspect, estimated to…"
         },
         {
-          "title": "The Age Schools Summit LIVE: Minister for Education Ben Carroll announces $75m education fund",
-          "url": "https://www.brisbanetimes.com.au/national/victoria/the-age-schools-summit-live-minister-for-education-ben-carroll-to-make-address-20260609-p6057k.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-09T22:30:07.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.2722365038560411%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6398952ec15416b31de7686cc616e5a9b4b3dc45"
+          "title": "Breaking: Man arrested over Belfast stabbing attack charged with attempted murder",
+          "url": "https://www.irishexaminer.com/news/arid-41859729.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-09T18:17:00.000Z",
+          "description": "The 30-year-old accused, who is Sudanese, is also charged with possession of an article with blade or point in a public place and making threats to kill"
+        },
+        {
+          "title": "North Belfast stabbing update as man, 30, charged with attempted murder",
+          "url": "https://www.irishmirror.ie/news/irish-news/crime/north-belfast-stabbing-update-man-37271645",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-06-09T18:38:28.000Z",
+          "image": "https://i2-prod.mirror.co.uk/incoming/article37271538.ece/ALTERNATES/s615/0_BRITAIN-NIRELAND-POLICE-INVESTIGATION-IMMIGRATION.jpg",
+          "description": "The victim of the attack, a man aged in his 40s, remains in a serious condition in hospital"
         }
-      ]
+      ],
+      "summary": "A 30-year-old man has been charged with attempted murder after a stabbing in Belfast. The victim, a man in his 40s, remains in serious condition in hospital."
     },
     {
-      "id": "topic_7ee88ba7e343ff5b",
+      "id": "topic_8596d976d1f75cda",
+      "title": "Microsoft Issues June Updates for Nearly 200 Vulnerabilities",
+      "headline": "Patch Tuesday - June 2026",
       "label": [
-        "eu order",
-        "order meta",
-        "whatsapp rival",
-        "rival ai",
-        "whatsapp",
-        "rival"
+        "patch",
+        "tuesday",
+        "june",
+        "microsoft",
+        "cves",
+        "record"
       ],
       "category": "new",
-      "theme": "theme_c5a36179da3cd5ab",
+      "theme": "theme_1122d4ed56fc57ba",
       "entities": [
-        "EU Orders Meta To",
-        "Open WhatsApp To Rival",
-        "AI Chatbots",
-        "EU",
-        "Meta"
+        "Patch Tuesday",
+        "June",
+        "Record",
+        "Breaking Patch Tuesday",
+        "Microsoft June"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 14,
+      "source_count": 11,
       "articles": [
+        {
+          "title": "Patch Tuesday - June 2026",
+          "url": "https://www.rapid7.com/blog/post/em-patch-tuesday-june-2026",
+          "source": "Rapid7 Cybersecurity Blog",
+          "published_at": "2026-06-09T21:04:53.000Z",
+          "image": "https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt9952397815d84355/6849acff3860836b5c360685/patch-tuesday-repeated.webp",
+          "description": "Microsoft is publishing 200 vulnerabilities on June 2026 Patch Tuesday. Microsoft is not aware of exploitation in the wild for any of these vulnerabilities, and is aware of public disclosure for three. This is similar to last month’s Patch Tuesday, however several of last month’s vulnerabilities en…"
+        },
+        {
+          "title": "A Record-Breaking Patch Tuesday for June 2026",
+          "url": "https://malware.news/t/a-record-breaking-patch-tuesday-for-june-2026/107709",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-06-09T22:10:40.000Z",
+          "description": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company’s monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft’s most dire “critical” rating, and explo…"
+        },
+        {
+          "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws",
+          "source": "BleepingComputer",
+          "published_at": "2026-06-09T17:57:59.000Z",
+          "description": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks. [...]"
+        },
+        {
+          "title": "Microsoft Patch Tuesday June 2026 – 198 Vulnerabilities Fixed, Including 3 Zero-days",
+          "url": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026",
+          "source": "Cyber Security News",
+          "published_at": "2026-06-09T17:23:10.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/Microsoft-Patch-Tuesday-June-2026.webp",
+          "description": "Microsoft has released its June 2026 Patch Tuesday security updates, addressing a hefty 198 vulnerabilities across its product ecosystem. The June rollout, published on June 9, 2026, stands out not only for its volume but also for the inclusion of three zero-day vulnerabilities that were actively e…"
+        },
+        {
+          "title": "Microsoft Releases Record-Breaking Patch Tuesday With 208 CVEs",
+          "url": "https://securityaffairs.com/193417/security/microsoft-releases-record-breaking-patch-tuesday-with-208-cves.html",
+          "source": "Security Affairs",
+          "published_at": "2026-06-09T22:55:48.000Z",
+          "description": "Microsoft Patch Tuesday security updates for June 2026 fix a record 208 CVEs, including one actively exploited zero-day and multiple critical RCE flaws. Microsoft Patch Tuesday security updates for June 2026 mark a record. Microsoft shipped fixes for 208 CVEs across Windows, Office, Azure, Exchange…"
+        }
+      ],
+      "summary": "Microsoft’s June 2026 Patch Tuesday updates address nearly 200 vulnerabilities across its products. Reports say the release includes publicly disclosed flaws and at least one vulnerability exploited in attacks."
+    },
+    {
+      "id": "topic_818717574ccfae1d",
+      "title": "Trump Renews Claims That California Elections Are Rigged",
+      "headline": "California elections have no integrity",
+      "label": [
+        "california",
+        "election",
+        "integrity",
+        "trump",
+        "system",
+        "conspiracy"
+      ],
+      "category": "new",
+      "theme": "theme_13f0e867126c32f4",
+      "entities": [
+        "California",
+        "Trump",
+        "Steve Gorman",
+        "Reuters",
+        "Election Problems Keep Getting"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "California elections have no integrity",
+          "url": "https://www.washingtonexaminer.com/opinion/editorials/4599392/california-elections-have-no-integrity",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-09T09:00:00.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-gi5feuxl5-1780482404140-e1780924857301.jpg?1780927908&w=696",
+          "description": "Republican candidate Spencer Pratt was never going to be the next mayor of Los Angeles, a city where 70% of voters chose Vice President Kamala Harris over President Donald Trump in 2024. But Pratt did have a shot at beating Trump’s 26.5% of the vote, an accomplishment which would have secured him o…"
+        },
+        {
+          "title": "Trump steps up attacks on California’s election system",
+          "url": "https://www.investing.com/news/politics-news/trump-steps-up-attacks-on-californias-election-system-4731964",
+          "source": "All News",
+          "published_at": "2026-06-09T00:36:50.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5803H_L.jpg"
+        },
+        {
+          "title": "Trump’s California election conspiracy",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/491412/trump-california-los-angeles-spencer-pratt-election-conspiracy",
+          "source": "Vox",
+          "published_at": "2026-06-09T22:15:00.000Z",
+          "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280613906.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "President Donald Trump prepares to board Air Force One after Game 3 of the NBA Finals at Madison Square Garden on June 8, 2026. | Samuel Corum/Getty Images This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political new…"
+        },
+        {
+          "title": "Here’s why California’s election results take time",
+          "url": "https://www.salon.com/2026/06/09/heres-why-californias-election-results-take-time-partner",
+          "source": "Salon.com",
+          "published_at": "2026-06-09T10:00:36.000Z",
+          "image": "https://www.salon.com/app/uploads/2026/06/los-angeles-california-election-2280066967.jpg",
+          "description": "Trump and GOP criticize the long wait, but an onslaught of late mail ballots takes time"
+        },
+        {
+          "title": "Trump steps up attacks on California's election system (Steve Gorman/Reuters)",
+          "url": "https://www.memeorandum.com/260609/p115",
+          "source": "memeorandum",
+          "published_at": "2026-06-09T23:30:02.000Z",
+          "image": "http://www.memeorandum.com/260609/i115.jpg",
+          "description": "Steve Gorman / Reuters: Trump steps up attacks on California's election system — U.S. President Donald Trump on Monday repeated claims that California's elections are rigged, disputing without evidence voter tallies showing the Republican candidate he endorsed in the Los Angeles mayor's race appear…"
+        }
+      ],
+      "summary": "President Donald Trump renewed claims that California’s elections are rigged, without providing evidence, and criticized the state’s election system. Late-arriving mail ballots contribute to delays in final results."
+    },
+    {
+      "id": "topic_2cfd7d9116a15ef9",
+      "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots",
+      "headline": "EU orders Meta to open WhatsApp to rival AI chatbots for free",
+      "label": [
+        "whatsapp",
+        "rival",
+        "meta",
+        "orders",
+        "eu",
+        "chatbots"
+      ],
+      "category": "new",
+      "theme": "theme_230911dd7c2ae8ae",
+      "entities": [
+        "EU",
+        "Meta",
+        "WhatsApp",
+        "AI",
+        "EU Orders Meta To"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "EU orders Meta to open WhatsApp to rival AI chatbots for free",
+          "url": "https://japantoday.com/category/tech/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots-for-free",
+          "source": "Japan Today",
+          "published_at": "2026-06-09T21:29:54.000Z",
+          "description": "The EU ordered Meta on Tuesday to give rival AI chatbots access to its WhatsApp platform for free within five working days as it carries out an antitrust…"
+        },
         {
           "title": "EU Orders Meta To Open WhatsApp To Rival AI Chatbots",
           "url": "https://meta.slashdot.org/story/26/06/09/1958236/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots",
           "source": "Slashdot",
           "published_at": "2026-06-09T22:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "The European Commission has ordered Meta to temporarily restore free WhatsApp Business API access for rival AI chatbots while it investigates whether Meta's ban on third-party assistants abuses its dominant position. Meta says it will appeal, calling the move \"regulatory overreach\" that would let m…"
         },
         {
-          "title": "EU orders Meta to open WhatsApp to rival AI chatbots for free",
-          "url": "https://japantoday.com/category/tech/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots-for-free",
-          "source": "Japan Today",
-          "published_at": "2026-06-09T21:29:54.000Z"
+          "title": "EU orders Meta to open Whatsapp to rival AI chatbots within five days",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/06/09/eu-orders-meta-to-open-whatsapp-to-rival-ai-chatbots-within-five-days_6754287_13.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-09T16:21:05.000Z",
+          "image": "https://img.lemde.fr/2026/06/09/1167/0/7870/3935/644/322/60/0/71161ce_ftp-1-xltlikjzwvxq-d8dc7a89d8ad4c6d955e1fa90cf569a5-0-26e90f37ef1945c4a4e1ebed6edda961.jpg",
+          "description": "The European Commission said it has the power to impose a fine of up to 10% of the company's total turnover in the business year preceding the infringement if Meta 'either intentionally or negligently' contravenes the decision on interim measures."
         },
         {
           "title": "EU orders Meta to reopen WhatsApp to rival AI assistants",
           "url": "https://www.france24.com/en/tv-shows/business/20260609-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-assistants",
           "source": "France 24 - International breaking news, top stories and headlines",
           "published_at": "2026-06-09T20:48:30.000Z",
-          "image": "https://s.france24.com/media/display/464275e8-6444-11f1-9a92-005056a90284/w:1024/p:16x9/capture-15294258886a287b9e129918-92146562.jpg"
+          "image": "https://s.france24.com/media/display/464275e8-6444-11f1-9a92-005056a90284/w:1024/p:16x9/capture-15294258886a287b9e129918-92146562.jpg",
+          "description": "The EU has ordered Meta to grant rival AI chatbots free access to its WhatsApp platform within five working days, while it completes its antitrust investigation into the company. Meta says it will appeal, accusing the EU of 'regulatory overreach'. Meanwhile, Brussels hit back at Apple after the iPh…"
+        },
+        {
+          "title": "Brussels orders Meta to open WhatsApp to rival AI agents",
+          "url": "https://www.ft.com/content/dda5bc48-d2ef-40ce-98f7-920bb8cf65ca",
+          "source": "International homepage",
+          "published_at": "2026-06-09T15:22:23.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F709f0ba3-8807-4462-b616-e5e3f5b47fc6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Emergency measures signal EU efforts to intervene over rapidly developing market for autonomous agents"
         }
-      ]
+      ],
+      "summary": "The European Commission ordered Meta to restore free WhatsApp access for rival AI chatbots within five working days while it investigates the company’s policy. Meta faces possible fines if it fails to comply."
     },
     {
-      "id": "topic_65e6e3979020bad6",
+      "id": "topic_831014b02c3dd2be",
+      "title": "Iran Says U.S. Revoked World Cup Ticket Allocation for Its Fans",
+      "headline": "Iran says US has revoked World Cup ticket allocation for their supporters",
       "label": [
-        "haley",
-        "pro israel",
-        "israel group",
-        "group push",
-        "push haley",
-        "haley steven"
+        "allocation",
+        "ticket",
+        "iran",
+        "revoked",
+        "cup",
+        "world"
       ],
       "category": "new",
-      "theme": "theme_2007e0314d4c5e8c",
+      "theme": "theme_2a98d6b7fc815f29",
       "entities": [
-        "Pro",
-        "Israel Group Pushes",
-        "Haley Stevens",
-        "Michigan Senate Race",
-        "New York Times"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race",
-          "url": "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-06-09T20:56:38.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/09/multimedia/09midterms-aipac-michigan-senate-kwtz/09midterms-aipac-michigan-senate-kwtz-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race (New York Times)",
-          "url": "https://www.memeorandum.com/260609/p96",
-          "source": "memeorandum",
-          "published_at": "2026-06-09T20:45:01.000Z",
-          "image": "http://www.memeorandum.com/260609/i96.jpg"
-        },
-        {
-          "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan",
-          "url": "https://politicalwire.com/2026/06/09/pro-israel-group-pushes-for-haley-stevens-in-michigan",
-          "source": "Political Wire",
-          "published_at": "2026-06-09T20:37:44.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_1fb4a1b747ecb33e",
-      "label": [
-        "ireland",
-        "defeat france",
-        "defeat",
-        "carla ward",
-        "carla",
-        "ward"
-      ],
-      "category": "new",
-      "theme": "theme_621cc2379557a66",
-      "entities": [
-        "Republic",
-        "Ireland",
-        "France",
-        "World Cup",
-        "Who Ireland"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Republic of Ireland fall to defeat against France who qualify for World Cup",
-          "url": "https://sports.yahoo.com/articles/french-win-one-biggest-stories-150910049.html",
-          "published_at": "2026-06-09T22:55:38.000Z"
-        },
-        {
-          "title": "Who Ireland can face in play-offs as Carla Ward makes World Cup declaration",
-          "url": "https://www.irishmirror.ie/sport/soccer/soccer-news/who-ireland-can-face-play-37272162",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-06-09T22:02:30.000Z",
-          "image": "https://i2-prod.irishmirror.ie/sport/soccer/article37272166.ece/ALTERNATES/s615/0_GettyImages-2280763346.jpg"
-        },
-        {
-          "title": "After defeat to France, what's next for Carla Ward's Ireland?",
-          "url": "https://www.irishexaminer.com/sport/soccer/arid-41859849.html",
-          "source": "IrishExaminer.com",
-          "published_at": "2026-06-09T21:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_fb47ff0b503c93c5",
-      "label": [
-        "qualifikation",
-        "wm qualifikation",
-        "frauen",
-        "dfb frauen",
-        "slowenien",
-        "sieg"
-      ],
-      "category": "new",
-      "theme": "theme_d68663cd4b62b1df",
-      "entities": [
-        "Sieg",
-        "Slowenien",
-        "DFB",
-        "Frauen",
-        "WM"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Sieg gegen Slowenien: DFB-Frauen beenden WM-Qualifikation mit Erfolg",
-          "url": "https://www.faz.net/aktuell/sport/fussball/wm-qualifiaktion-sieg-der-dfb-frauen-in-slowenien-200914714.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-06-09T20:34:23.000Z",
-          "image": "https://media0.faz.net/image/8e62c6cdf6dd/w3161h1778x0y330/202606/43601.0.2198891893/die-dfb-frauen-feiern-den.webp"
-        },
-        {
-          "title": "WM-Qualifikation: DFB-Frauen beenden WM-Qualifikation mit Sieg in Slowenien",
-          "url": "https://www.zeit.de/gesellschaft/2026-06/frauenfussball-wm-qualifikation-deutschland-slowenien",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-06-09T18:53:38.000Z",
-          "image": "https://img.zeit.de/sport/2026-06/frauenfussball-wm-qualifikation-slowenien-deutschland-bild/original__640x360"
-        },
-        {
-          "title": "DFB-Frauen beschenken Wück zum Geburtstag mit Sieg gegen Slowenien",
-          "url": "https://www.morgenpost.de/sport/article412236524/dfb-frauen-beschenken-wueck-zum-geburtstag-mit-sieg-gegen-slowenien.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-06-09T18:25:49.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412236555/412236555_1781030487_v16_9_600.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_2d7b3df7e5018cf9",
-      "label": [
-        "robbie",
-        "sing",
-        "gabba",
-        "jos carrera",
-        "carrera robbie",
-        "robbie william"
-      ],
-      "category": "new",
-      "theme": "theme_4b95f8d2c9f4119",
-      "entities": [
-        "Jos",
-        "Carreras",
-        "Robbie Williams",
-        "Gabba"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
-          "url": "https://www.brisbanetimes.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-09T20:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
-        },
-        {
-          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
-          "url": "https://www.theage.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-09T20:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
-        },
-        {
-          "title": "José Carreras and Robbie Williams to sing at the Gabba in world exclusive event",
-          "url": "https://www.smh.com.au/national/queensland/jos-carreras-and-robbie-williams-to-sing-at-the-gabba-in-world-exclusive-event-20260604-p603xr.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-09T20:00:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/aa12f25244d3f5f4d696a901e7e08e7550aaa5e386a254ea2e4ff18a29095851"
-        }
-      ]
-    },
-    {
-      "id": "topic_b3fd25a0fce6d5d1",
-      "label": [
-        "settler violence",
-        "settler",
-        "west bank",
-        "bank",
-        "sanction",
-        "west"
-      ],
-      "category": "new",
-      "theme": "theme_ad25a1e52c557aa5",
-      "entities": [
-        "UK",
-        "West Bank",
-        "Canada",
-        "France",
-        "Norway"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-          "url": "https://www.yahoo.com/news/world/articles/uk-allies-sanction-networks-enabling-203901759.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-09T20:39:01.000Z",
-          "image": "https://media.zenfs.com/en/bbc_us_articles_995/8a473c5733e18ad002b2c7d4ff8d8295"
-        },
-        {
-          "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-          "url": "https://www.bbc.com/news/articles/cddl4dl9m3po",
-          "source": "BBC News",
-          "published_at": "2026-06-09T20:38:55.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2a/live/f8ece660-52a2-11f0-a2ff-17a82c2e8bc4.jpg"
-        },
-        {
-          "title": "UK, Canada, France and Norway announce coordinated sanctions over West Bank settler violence",
-          "url": "https://www.yahoo.com/news/articles/uk-sanctions-networks-enabling-settler-114852754.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-09T18:39:33.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/c4d75788894c0b2d511042d173e5ad59"
-        }
-      ]
-    },
-    {
-      "id": "topic_dbe57b53a4fba2ad",
-      "label": [
-        "voice",
-        "gemini live",
-        "live translate",
-        "gemini",
-        "translate",
-        "google"
-      ],
-      "category": "new",
-      "theme": "theme_dd37d1ba4e010ce4",
-      "entities": [
-        "Google",
-        "Gemini",
-        "Live Translate Is Built",
-        "Real",
-        "Life Conversations"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Google's Gemini 3.5 Live Translate Is Built for Real-Life Conversations",
-          "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation",
-          "source": "CNET",
-          "published_at": "2026-06-09T19:50:38.000Z",
-          "image": "https://www.cnet.com/a/img/resize/ada3a30958992f16850d52270793ea00284dc130/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-          "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-06-09T18:57:25.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
-        },
-        {
-          "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation - Ars Technica",
-          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxqmuh5bjbgalp5q0stwtlpeuzca1rqqm1mruxjr1dpcws3ck5zmwrvee9nbuxfslfzte5wqwlvru91nfzmvlflddaza0ryvhdsdvbrbufsyxy3tmzoymoxlxoywelktjf6x2vaoghwawnkrhetuznrz2tnohj4tnbnbxj1dme5z1zomwvwq0z1yulmbu1pemn0btveq1vatkd0nho1tmw2dy1owvhjcezsre1ftvzhltfi",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-09T18:57:25.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7208093d7386d5bb",
-      "label": [
-        "artemi",
-        "artemi iii",
-        "iii",
-        "nasa",
-        "crew",
-        "iii crew"
-      ],
-      "category": "new",
-      "theme": "theme_9557d4665a046b2e",
-      "entities": [
-        "NASA",
+        "Iran",
         "US",
-        "Italian",
-        "Artemis",
-        "Nasa"
+        "World Cup",
+        "Soccer Team Says US",
+        "Revoked Its Ticket Allocation"
       ],
-      "article_count": 17,
-      "source_count": 16,
+      "article_count": 11,
+      "source_count": 9,
       "articles": [
         {
-          "title": "NASA taps US, Italian astronauts for Artemis mission",
-          "url": "https://www.perthnow.com.au/news/technology/nasa-taps-us-italian-astronauts-for-artemis-mission-c-22409069",
-          "source": "PerthNow",
-          "published_at": "2026-06-09T21:10:29.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22409069/2046df368ac831253f6079e6f7070783053315e1-16x9-x0y0w1280h720.jpg"
+          "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
+          "url": "https://sports.yahoo.com/articles/iran-says-us-revoked-world-085820505.html",
+          "published_at": "2026-06-09T08:58:20.000Z",
+          "description": "Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt."
         },
         {
-          "title": "Italian astronaut to pilot Nasa's upcoming Artemis space mission",
-          "url": "https://www.thejournal.ie/nasa-italian-astronaut-artemis-3-7065734-jun2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-06-09T21:04:47.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/06/june-9-2026-houston-texas-usa-the-artemis-iii-crew-poses-for-an-official-portrait-from-left-nasa-astronauts-andre-douglas-mission-specialist-randy-bresnik-commander-frank-rubio-mission-spe-67a5a980-5a7f-434e-87fb-90f389410b12-630x420.jpg"
+          "title": "US revoked World Cup ticket allocation for supporters: Iran",
+          "url": "https://tribune.com.pk/story/2612297/us-revoked-world-cup-ticket-allocation-for-supporters-iran",
+          "source": "express tribune",
+          "published_at": "2026-06-09T15:34:09.000Z",
+          "description": "The Iranian body demands that FIFA should be allocated 8 pc of tickets for each match"
         },
         {
-          "title": "NASA Reveals Astronauts For Artemis III — And One Is Italian",
-          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/06/09/nasa-reveals-astronauts-for-artemis-iii---and-one-is-italian",
-          "source": "Forbes - Business",
-          "published_at": "2026-06-09T20:54:31.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a28792702ee4a2b24d792f4/0x0.jpg?width=960&precrop=2000%2C1124%2Cx0%2Cy29"
+          "title": "World Cup 2026: US has revoked our ticket allocation – Iran",
+          "url": "https://dailypost.ng/2026/06/09/world-cup-2026-us-has-revoked-our-ticket-allocation-iran",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-09T18:13:44.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/04/2026-World-Cup.jpg",
+          "description": "Iran’s football federation has announced that the United States of America has rescinded its allocation of tickets for the World Cup group matches, alleging that the co-host is hindering the attendance of Iranian fans amid a tense diplomatic dispute. The US has imposed several bureaucratic obstacle…"
         },
         {
-          "title": "NASA Names Its Artemis III Crew for Crucial Moon Mission Testing",
-          "url": "https://www.cnet.com/science/space/nasa-artemis-iii-astronaut-crew-announcement",
-          "source": "CNET",
-          "published_at": "2026-06-09T20:39:02.000Z",
-          "image": "https://www.cnet.com/a/img/resize/3f8e821d1b05820b851c6871cd99910d23d14149/hub/2026/06/09/5f4d5af7-ac2b-41a4-9a6f-e28813d6444e/nasas-artemis-iii-announcement-46-51-screenshot.png?auto=webp&fit=crop&height=614&width=1092"
+          "title": "Iran says World Cup ticket allocation for supporters revoked by US",
+          "url": "https://www.the42.ie/iran-world-cup-3-7064702-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-09T08:51:21.000Z",
+          "image": "https://c2.thejournal.ie/media/2026/06/players-for-iran-arrive-for-the-world-cup-soccer-tournament-in-tijuana-mexico-sunday-june-7-2026-ap-photogregory-bull-b1c0e918-72e9-4faa-9cea-a2b167e1b11e-630x420.jpg",
+          "description": "Iran has called on Fifa and tournament organisers “to uphold the principles of neutrality, fairness, and established regulations, to provide the necessary conditions for Iranian supporters”."
         },
         {
-          "title": "Who NASA Chose For Its Artemis III Crew and What Their Mission Is",
-          "url": "https://time.com/article/2026/06/09/nasa-artemis-iii-crew-announced",
-          "source": "TIME",
-          "published_at": "2026-06-09T20:11:11.000Z",
-          "image": "https://cdn.jwplayer.com/v2/media/3Jdcogwf/poster.jpg?width=720"
+          "title": "Iran’s Soccer Team Says US Revoked Its Ticket Allocation Ahead of World Cup",
+          "url": "https://truthout.org/articles/irans-soccer-team-says-us-revoked-its-ticket-allocation-ahead-of-world-cup",
+          "source": "Truthout",
+          "published_at": "2026-06-09T21:25:36.000Z",
+          "image": "https://truthout.org/app/uploads/2026/06/2026_06_07-Mario_Tama-1200x900.jpg",
+          "description": "The US has posed numerous obstacles for Iran’s soccer team, and is now restricting other participants."
         }
-      ]
+      ],
+      "summary": "Iran’s football federation said the United States revoked its ticket allocation for supporters at World Cup group matches. It called on FIFA and tournament organizers to ensure Iranian fans can attend."
     }
   ]
 }

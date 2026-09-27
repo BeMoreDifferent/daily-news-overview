@@ -1,170 +1,107 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-28T00:50:01.264Z",
+  "generated_at": "2026-09-27T14:03:13.397Z",
   "topics": [
     {
-      "id": "topic_6b1930f556625dce",
+      "id": "topic_89ec356d9d20c27c",
+      "title": "Trump Nominates Lance Schroyer to Lead ICE",
+      "headline": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer as ICE director",
       "label": [
-        "ban",
-        "social media",
-        "social",
-        "media ban",
-        "media",
-        "fin"
+        "ice",
+        "schroyer",
+        "lance",
+        "director",
+        "trump",
+        "nominates"
       ],
       "category": "new",
-      "theme": "theme_cf015be46ff8d32",
+      "theme": "theme_25dff13c7078458",
       "entities": [
-        "Australia",
-        "Strengthen Enforcement",
-        "Social Media Ban",
-        "Social",
-        "Penalties"
+        "Trump",
+        "Oklahoma",
+        "Lance Schroyer",
+        "ICE",
+        "Trump Nominates Lance Schroyer"
       ],
-      "article_count": 9,
-      "source_count": 9,
+      "article_count": 28,
+      "source_count": 21,
       "articles": [
         {
-          "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-          "url": "https://www.yahoo.com/news/world/articles/australia-double-maximum-penalty-platforms-223416565.html",
+          "title": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer as ICE director",
+          "url": "https://fortune.com/2026/06/27/trump-nomination-former-oklahoma-state-trooper-lance-schroyer-ice-director",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-06-27T22:54:02.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26159569875818-e1782600389818.jpg?w=2048",
+          "description": "Schroyer hails from the same home state as the new Department of Homeland Security Secretary Markwayne Mullin, a former congressman."
+        },
+        {
+          "title": "Trump Nominates Lance Schroyer as ICE Director",
+          "url": "https://internewscast.com/news/us/trump-nominates-lance-schroyer-as-ice-director",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-27T20:32:26.000Z",
+          "description": "Internewscast Journal Internewscast President Trump said Saturday that he plans to nominate retired Oklahoma State… This Post: Trump Nominates Lance Schroyer as ICE Director first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer to be ICE director",
+          "url": "https://news.google.com/rss/articles/cbmi0afbvv95cuxqwhvfwnfnsuutlurxzjfyclhondhyd3puvzznugnvcwcxytl0unzbahpnajl5bvezoefad0xbawdpbzmzre9izmffouxhset2svy3ckfxnvy2nf9rec1fvg9jewfwsjjpbhntune0oxzmb2mybzdlevvnzmlqs3hroeribgnsv1zoafdydghttvpwslfksjzeztbrytdsqk51umtibgvnn3d6zgc4x3zwc3bfyzmwtvc2mep5zknrrwzsdufqbgmtluplaem1b2vp",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T21:17:00.000Z",
+          "description": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer to be ICE director NBC News Trump says he’ll nominate former Oklahoma state trooper Lance Schroyer as ICE director CNN Trump nominates former Oklahoma state trooper to head ICE NPR Trump taps Oklahoma law enforcement official…"
+        },
+        {
+          "title": "Trump says he will nominate Lance Schroyer as ICE director",
+          "url": "https://www.investing.com/news/politics-news/trump-says-he-will-nominate-lance-schroyer-as-ice-director-4764048",
+          "source": "All News",
+          "published_at": "2026-06-27T17:42:25.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5Q0O3_L.jpg"
+        },
+        {
+          "title": "Trump says he’ll nominate former Oklahoma state trooper Lance Schroyer as ICE director",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-says-ll-nominate-former-202330041.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-27T22:34:16.000Z",
-          "image": "https://media.zenfs.com/en/bbc_us_articles_995/5ded324e1a847d739b0b067ad1ca9214"
-        },
-        {
-          "title": "Australia to Strengthen Enforcement of Under-16 Social Media Ban",
-          "url": "https://financialpost.com/pmn/business-pmn/australia-to-strengthen-enforcement-of-under-16-social-media-ban",
-          "source": "Financial Post",
-          "published_at": "2026-06-27T22:01:53.000Z"
-        },
-        {
-          "title": "Social media ban fines boosted to $99 million",
-          "url": "https://www.brisbanetimes.com.au/national/social-media-ban-fines-boosted-to-99-million-20260628-p60amz.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-27T21:36:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9450edef84bd8376c5c79b4f3ef09312f7bb97c0"
-        },
-        {
-          "title": "Social media ban fines boosted to $99 million",
-          "url": "https://www.smh.com.au/national/social-media-ban-fines-boosted-to-99-million-20260628-p60amz.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-27T21:36:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9450edef84bd8376c5c79b4f3ef09312f7bb97c0"
-        },
-        {
-          "title": "Social media ban fines boosted to $99 million",
-          "url": "https://www.theage.com.au/national/social-media-ban-fines-boosted-to-99-million-20260628-p60amz.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-27T21:36:56.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9450edef84bd8376c5c79b4f3ef09312f7bb97c0"
+          "published_at": "2026-06-27T21:52:42.000Z",
+          "image": "https://media.zenfs.com/en/cnn_articles_875/5252e330041ec1e51fbe6524133e52f3"
         }
-      ]
+      ],
+      "summary": "President Donald Trump said he plans to nominate former Oklahoma state trooper Lance Schroyer as director of U.S. Immigration and Customs Enforcement."
     },
     {
-      "id": "topic_55b1fd41e30eaf0b",
+      "id": "topic_9fc33b2ad712dd61",
+      "title": "Hezbollah Rejects U.S.-Brokered Israel-Lebanon Security Deal",
+      "headline": "Hezbollah rejects U.S.-brokered Israel-Lebanon security deal as 'surrender'",
       "label": [
-        "hormuz",
-        "tension",
-        "iran",
-        "strait hormuz",
-        "flare",
-        "strait"
-      ],
-      "category": "new",
-      "theme": "theme_57e803ad9037c3c0",
-      "entities": [
-        "Middle East",
-        "US",
-        "Iran",
-        "Strait",
-        "Hormuz"
-      ],
-      "article_count": 12,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Middle East tensions flare up: US strikes Iran after second ceasefire violation",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-flare-up-us-strikes-iran-after-second-ceasefire-violation/articleshow/132044147.cms",
-          "source": "Times of India",
-          "published_at": "2026-06-27T23:20:15.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132044154,imgsize-790709.cms"
-        },
-        {
-          "title": "US-Iran war latest: Middle East tensions escalate as US launches fresh strikes on Iran near Strait of Hormuz",
-          "url": "https://www.perthnow.com.au/news/middle-east/us-iran-war-latest-middle-east-tensions-escalate-as-us-launches-fresh-strikes-in-strait-of-hormuz-c-22495607",
-          "source": "PerthNow",
-          "published_at": "2026-06-27T22:12:43.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22495607/ecd37b6292876788cc7b44f7ba9e9c4a149a1dcb-16x9-x0y216w3213h1807.jpg"
-        },
-        {
-          "title": "Tanker struck in Hormuz as Iran, U.S. trade attacks in worst escalation since peace deal",
-          "url": "https://japantoday.com/category/world/tanker-struck-in-hormuz-as-iran-us-trade-attacks-in-worst-escalation-since-peace-deal",
-          "source": "Japan Today",
-          "published_at": "2026-06-27T21:08:57.000Z"
-        },
-        {
-          "title": "Tensions flare over Strait of Hormuz",
-          "url": "https://www.youtube.com/shorts/GHNMDgfLfz4",
-          "source": "CNN",
-          "published_at": "2026-06-27T19:30:07.000Z",
-          "image": "https://i4.ytimg.com/vi/GHNMDgfLfz4/hqdefault.jpg"
-        },
-        {
-          "title": "Iran, US trade attacks in the Strait of Hormuz: Navigating the 'Guardian Angel' route",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260627-iran-us-trade-attacks-in-the-strait-of-hormuz-navigating-the-guardian-angel-route",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-27T19:25:24.000Z",
-          "image": "https://s.france24.com/media/display/8a512258-725d-11f1-9170-005056bfb2b6/w:1024/p:16x9/capture-9497654326a4022f602ab41-35582766.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_86536b9bf4c3dc75",
-      "label": [
-        "hezbollah",
-        "hezbollah reject",
         "lebanon",
-        "reject",
+        "hezbollah",
         "deal",
-        "lebanon security"
+        "rejects",
+        "israel",
+        "surrender"
       ],
       "category": "new",
-      "theme": "theme_a6a00966445f6053",
+      "theme": "theme_9fafd989663d08e3",
       "entities": [
-        "Hezbollah Rejects Lebanon Security",
-        "Deal",
         "Hezbollah",
         "Israel",
-        "Lebanon"
+        "Lebanon",
+        "NBC News",
+        "US"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 15,
+      "source_count": 13,
       "articles": [
-        {
-          "title": "Hezbollah Rejects Lebanon Security Deal",
-          "url": "https://politicalwire.com/2026/06/27/lebanon-security-deal-rejected-by-hezbollah",
-          "source": "Political Wire",
-          "published_at": "2026-06-27T21:58:45.000Z"
-        },
         {
           "title": "Hezbollah rejects U.S.-brokered Israel-Lebanon security deal as 'surrender'",
           "url": "https://japantoday.com/category/world/hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-%27surrender%273",
           "source": "Japan Today",
-          "published_at": "2026-06-27T21:09:07.000Z"
+          "published_at": "2026-06-27T21:09:07.000Z",
+          "description": "Hezbollah leader Naim Qassem rejected a U.S.-brokered security agreement between Lebanon and Israel on Saturday a day after it ‌was signed, describing it as a surrender to Israel.…"
         },
         {
-          "title": "Netanyahu hails Lebanon deal as Hezbollah rejects agreement",
-          "url": "https://www.france24.com/en/middle-east/20260627-netanyahu-hails-lebanon-deal-as-hezbollah-rejects-agreement",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-27T20:08:27.000Z",
-          "image": "https://s.france24.com/media/display/1faca946-7261-11f1-9911-005056bf30b7/w:1024/p:16x9/2026-06-27T114812Z-1691087554-RC2B2MACFEWJ-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg"
-        },
-        {
-          "title": "Hezbollah rejects Israel and Lebanon’s peace framework: ‘Null and void’",
-          "url": "https://www.washingtonexaminer.com/news/world/4627821/hezbollah-reject-israel-lebanon-peace-framework",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-27T18:43:33.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26168651276882.jpg?w=696"
+          "title": "Hezbollah rejects U.S.-brokered Israel-Lebanon security deal as ‘surrender’",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxnv2xrwflowvvhtfhoqwdcvzrmdwvia1lpa1g3nxzjt1oxnwzjnw04zk9fs3lzslixy19iv0i3x19aq3l2ylfxmunyexz3zw0wwgnfselbyxf3wwjcu3zrb2vkq2h4c0s0ewvpc1jrzw5ozejlnjmxu2pyd0hpztq4vvrvzfdpagpwnut1cu1pvhbqsnlbzm42c1dxbgx4qutln2rhvugtuva1qu9yc1o1mgc2amlhvu42",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T14:44:54.000Z",
+          "description": "Hezbollah rejects U.S.-brokered Israel-Lebanon security deal as ‘surrender’ NBC News In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon The New York Times Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' Reuters Israel and Lebanon sign framework agreement…"
         },
         {
           "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
@@ -172,714 +109,853 @@
           "source": "Times of India",
           "published_at": "2026-06-27T17:46:53.000Z",
           "image": "https://static.toiimg.com/photo/msid-132040001,imgsize-65232.cms"
+        },
+        {
+          "title": "Hezbollah Rejects Lebanon Security Deal",
+          "url": "https://politicalwire.com/2026/06/27/lebanon-security-deal-rejected-by-hezbollah",
+          "source": "Political Wire",
+          "published_at": "2026-06-27T21:58:45.000Z",
+          "description": "“Hezbollah leader Naim Qassem rejected a U.S.-brokered security agreement between Lebanon and Israel on ‌Saturday a day after it was signed, describing it as a surrender to Israel,” Reuters reports."
+        },
+        {
+          "title": "Hezbollah head rejects 'surrender' Israel-Lebanon deal",
+          "url": "https://www.perthnow.com.au/news/conflict/hezbollah-head-rejects-surrender-israel-lebanon-deal-c-22495010",
+          "source": "PerthNow",
+          "published_at": "2026-06-27T14:30:26.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22495010/93ca79475ae40d7e16de9e020a185ecce0e52d7d-16x9-x0y0w1280h720.jpg",
+          "description": "A framework agreement between Lebanon and Israel has been rejected by Hezbollah leader Naim Qassem as a surrender."
         }
-      ]
+      ],
+      "summary": "Hezbollah leader Naim Qassem rejected a U.S.-brokered security agreement between Lebanon and Israel, calling it a surrender to Israel. The rejection came a day after the agreement was signed."
     },
     {
-      "id": "topic_fb3a481f894a3d18",
+      "id": "topic_9c61b8eb7a5e673f",
+      "title": "U.S. Allows Limited Access to Anthropic’s Mythos AI Model",
+      "headline": "U.S. allows limited access to Anthropic’s Mythos AI model",
       "label": [
-        "planta",
-        "gusano",
-        "barrenador",
-        "gusano barrenador",
-        "xico eu",
-        "eu"
+        "mythos",
+        "anthropic",
+        "model",
+        "allows",
+        "ai",
+        "limited"
       ],
       "category": "new",
-      "theme": "theme_e4f15dca87231b34",
+      "theme": "theme_1526705ba6843bc9",
       "entities": [
-        "Sheinbaum",
-        "Chiapas",
-        "Gusano",
-        "EU",
-        "Abren"
+        "Anthropic",
+        "Mythos AI",
+        "US",
+        "Mythos",
+        "AI"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 13,
+      "source_count": 13,
       "articles": [
         {
-          "title": "Sheinbaum inaugura planta de producción de moscas estériles contra el gusano barrenador en Chiapas",
-          "url": "https://www.informador.mx/mexico/sheinbaum-inaugura-planta-de-produccion-de-moscas-esteriles-contra-el-gusano-barrenador-en-chiapas-20260627-0069.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-27T20:13:00.000Z"
+          "title": "U.S. allows limited access to Anthropic’s Mythos AI model",
+          "url": "https://www.thehindu.com/sci-tech/technology/us-allows-limited-access-to-anthropics-mythos-ai-model/article71153730.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-27T07:20:46.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/6t9pv0/article71153734.ece/alternates/LANDSCAPE_1200/2026-06-24T235306Z_1565019599_RC2LU7A411MD_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
+          "description": "Access to Mythos 5 had been blocked by U.S. authorities due to concerns about national security"
         },
         {
-          "title": "Gusano barrenador en México y EU: Sheinbaum inaugura planta de moscas estériles para combatir al parásito",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/06/27/gusano-barrenador-en-mexico-y-eu-sheinbaum-inaugura-planta-de-moscas-esteriles-para-combatir-al-parasito",
-          "source": "El Financiero",
-          "published_at": "2026-06-27T20:00:25.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/4GTZ6HFptSgzL3WCB9Wlt39VE20=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YPF4GO6ZQBCBBIJO2OAVBCWL3I.jpeg"
+          "title": "US allows partial release of Anthropic's Mythos AI model",
+          "url": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-27T09:52:00.000Z",
+          "description": "Only a small group of American firms will get access to Anthropic's AI Model Mythos 5, however, it is unclear which companies will be selected."
         },
         {
-          "title": "Abren México y EU planta contra gusano barrenador",
-          "url": "https://www.elnorte.com/abren-mexico-y-eu-planta-contra-gusano-barrenador/ar3230515",
-          "source": "ElNorte",
-          "published_at": "2026-06-27T19:03:42.000Z"
+          "title": "US allows limited re-release of Anthropic's Mythos 5 AI model",
+          "url": "https://tribune.com.pk/story/2615280/us-allows-limited-re-release-of-anthropics-mythos-5-ai-model",
+          "source": "express tribune",
+          "published_at": "2026-06-27T07:41:50.000Z",
+          "description": "The restoration is expected to cover around 100 organisations"
         },
         {
-          "title": "Abren México y EU planta contra gusano barrenador",
-          "url": "https://www.reforma.com/abren-mexico-y-eu-planta-contra-gusano-barrenador/ar3230510",
-          "source": "Reforma",
-          "published_at": "2026-06-27T19:02:37.000Z"
+          "title": "Anthropic’s Mythos 5 AI model cleared by U.S. for wider use",
+          "url": "https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-06-27T14:01:51.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2280237064-e1782568607886.jpg?w=2048",
+          "description": "The Commerce Department letter dated Friday doesn’t mention any change to its restrictions on use of the Fable 5 model."
         },
         {
-          "title": "Reabren una planta en México para combatir al gusano barrenador en medio del avance de la plaga en EU",
-          "url": "https://vanguardia.com.mx/noticias/reabren-una-planta-en-mexico-para-combatir-al-gusano-barrenador-en-medio-del-avance-de-la-plaga-en-eu-ig21729562",
-          "source": "Vanguardia",
-          "published_at": "2026-06-27T17:45:04.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/ap26178515397790_1-15952332_20260627180019.jpg"
+          "title": "Anthropic’s Mythos 5 AI model cleared by US for wider use",
+          "url": "https://www.thehindubusinessline.com/info-tech/anthropics-mythos-5-ai-model-cleared-by-us-for-wider-use/article71153350.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-27T04:39:14.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/4590ij/article71153363.ece/alternates/LANDSCAPE_1200/2026-06-24T021633Z_127105436_RC2UNLA1ST5R_RTRMADP_3_USA-ANTHROPIC.JPG",
+          "description": "“Anthropic has worked with the US government to address risks associated with the Covered Models,” Commerce Secretary Howard Lutnick"
         }
-      ]
+      ],
+      "summary": "The U.S. has approved limited access to Anthropic’s Mythos 5 AI model after previously blocking access over national security concerns. Reports say access will be restricted to a small group of organizations."
     },
     {
-      "id": "topic_a723ab9595eda0c4",
+      "id": "topic_58e912d8a9b4fc29",
+      "title": "Apple Seeks U.S. Approval to Buy Chips From China’s CXMT",
+      "headline": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
       "label": [
-        "prize money",
-        "prize",
-        "money",
-        "protest",
-        "player",
-        "splitt"
+        "chips",
+        "apple",
+        "blacklisted",
+        "buy",
+        "approval",
+        "ft"
       ],
       "category": "new",
-      "theme": "theme_dbfbde7c3c25b804",
+      "theme": "theme_90ce90c20d8f9938",
       "entities": [
-        "Prize",
-        "Sinner",
-        "Wimbledon",
-        "Players",
-        "Sabalenka"
+        "Apple",
+        "Chinese",
+        "FT",
+        "CXMT",
+        "Apple Seeks US Approval"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Prize money 'better,' but protests might continue",
-          "url": "https://www.espn.com/tennis/story/_/id/49200395/prize-money-getting-better-protests-extend-us-open",
-          "source": "www.espn.com - TENNIS",
-          "published_at": "2026-06-27T23:37:52.000Z"
+          "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+          "url": "https://www.thehindubusinessline.com/info-tech/apple-seeks-approval-to-buy-chips-from-blacklisted-chinese-company-ft-reports/article71153345.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-27T05:26:50.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/51vkd/article71153496.ece/alternates/LANDSCAPE_1200/2026-06-27T031938Z_340267686_RC2P3EAW0L08_RTRMADP_3_APPLE-USA-CXMT.JPG",
+          "description": "Apple has lobbied the White House for approval to ease financial pressure from rising memory chip prices"
         },
         {
-          "title": "Sinner wants to 'talk about tennis' not top players' prize-money protest at Wimbledon",
-          "url": "https://japantoday.com/category/sports/sinner-wants-to-%27talk-about-tennis%27-not-top-players%27-prize-money-protest-at-wimbledon",
-          "source": "Japan Today",
-          "published_at": "2026-06-27T21:10:47.000Z"
+          "title": "Apple seeks U.S. approval to buy chips from blacklisted CXMT: FT",
+          "url": "https://fortune.com/2026/06/27/apple-us-approval-chips-blacklisted-cxmt-price-hikes-mac-memory-shortage",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-06-27T14:36:21.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2283305837-e1782570687271.jpg?w=2048",
+          "description": "ChangXin Memory Technologies is on the Pentagon’s 1260H list of companies with alleged connections to the Chinese military."
         },
         {
-          "title": "Are players already splitting over prize money protests?",
-          "url": "https://sports.yahoo.com/articles/players-already-splitting-over-prize-182617920.html",
-          "published_at": "2026-06-27T18:26:17.000Z"
+          "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-27T07:45:23.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itDNMoOqF95c/v0/1200x-1.jpg",
+          "description": "Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Saturday."
         },
         {
-          "title": "Players 'don't want to boycott again' over prize money - but are they already splitting?",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzjjkxy59o",
+          "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+          "url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+          "source": "International homepage",
+          "published_at": "2026-06-27T02:17:50.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d553b31-b60a-445c-9e6b-7bfb933ec3f3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "The iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising chip prices"
+        },
+        {
+          "title": "Apple seeks U.S. approval to buy memory chips from China’s CXMT, FT reports",
+          "url": "https://www.investing.com/news/company-news/apple-seeks-us-approval-to-buy-memory-chips-from-chinas-cxmt-ft-reports-4763933",
+          "source": "All News",
+          "published_at": "2026-06-27T01:19:12.000Z"
+        }
+      ],
+      "summary": "Apple has sought White House approval to buy memory chips from China’s ChangXin Memory Technologies, which is on the Pentagon’s list of companies with alleged ties to the Chinese military. The company is seeking to manage rising chip costs."
+    },
+    {
+      "id": "topic_3a7567392d6f974e",
+      "title": "Trump Unveils Limited-Edition U.S. Passport Featuring His Image",
+      "headline": "Trump unveils new US passport – with picture of himself",
+      "label": [
+        "passport",
+        "unveils",
+        "trump",
+        "image",
+        "featuring",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_69ceea22654d39ec",
+      "entities": [
+        "Trump",
+        "US",
+        "Welcome",
+        "But Be Good",
+        "Trump Unveils New US"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump unveils new US passport – with picture of himself",
+          "url": "https://globalnation.inquirer.net/328881/trump-unveils-new-us-passport-with-picture-of-himself",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-27T21:31:00.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/06/News1249221-620x413.jpg",
+          "description": "WASHINGTON DC — President Donald Trump on Friday unveiled a rendering of a new limited-edition US passport to mark the country’s 250th anniversary of independence—featuring his stern-faced likeness. “The U.S.A.’s New Passport, which says, ‘Welcome, but be good!’” Trump said in a post on his Truth S…"
+        },
+        {
+          "title": "Trump unveils new U.S. passport featuring his image",
+          "url": "https://www.thehindu.com/news/international/trump-unveils-new-us-passport-featuring-his-image/article71153325.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-27T04:16:15.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/b9enh4/article71153348.ece/alternates/LANDSCAPE_1200/Untitled%20design%204.jpg",
+          "description": "He will be the first sitting U.S. President featured in Americans’ travel documents"
+        },
+        {
+          "title": "Trump unveils new US passport with his own face inside",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358575/trump-unveils-new-us-passport-his-own-face-inside",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-27T00:20:15.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/27/52e04260-8696-4bbf-90ef-3c5ff8dde3ce_56ceb5b0.jpg?itok=0XhKraMW&v=1782519608",
+          "description": "President Donald Trump on Friday unveiled a rendering of a new limited-edition US passport to mark the country’s 250th anniversary of independence, featuring his stern-faced likeness. “The U.S.A.’s New Passport, which says, ‘Welcome, but be good!’” Trump said in a post on his Truth Social platform…"
+        },
+        {
+          "title": "\"Welcome, But Be Good\": Trump Unveils New US Passport With His Photo",
+          "url": "https://www.ndtv.com/world-news/welcome-but-be-good-donald-trump-unveils-new-us-passport-with-his-photo-11694048",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-27T05:18:16.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/ngkbn39c_tr_625x300_27_June_26.jpeg",
+          "description": "The image features a glowering Trump leaning on his desk and his signature, with the text of the Declaration of Independence in the background."
+        },
+        {
+          "title": "Donald Trump Unveils US Passport Featuring His Portrait Ahead Of America’s 250th Independence Anniversary",
+          "url": "https://www.freepressjournal.in/world/donald-trump-unveils-us-passport-featuring-his-portrait-ahead-of-americas-250th-independence-anniversary",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-27T14:03:52.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2025-05-15/q2ahpaps/donald-trump-.jpg"
+        }
+      ],
+      "summary": "Donald Trump unveiled a design for a limited-edition U.S. passport marking the country’s 250th anniversary. It features his portrait and signature alongside text from the Declaration of Independence."
+    },
+    {
+      "id": "topic_4792f6cfbb71ce5e",
+      "title": "Judge Allows Dan Sullivan’s Namesake to Run in Alaska Primary",
+      "headline": "Judge rules Dan Sullivan can appear on Alaska primary ballot against Sen. Dan Sullivan",
+      "label": [
+        "sullivan",
+        "dan",
+        "judge",
+        "alaska",
+        "ballot",
+        "rules"
+      ],
+      "category": "new",
+      "theme": "theme_812c3f192d53cc1d",
+      "entities": [
+        "Judge",
+        "Dan Sullivan",
+        "Alaska",
+        "Sen",
+        "Dan Sullivan Can Join"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Judge rules Dan Sullivan can appear on Alaska primary ballot against Sen. Dan Sullivan",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4627842/judge-dan-sullivan-appear-alaska-primary-ballot",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-27T20:08:40.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26177852024695.jpg?w=696",
+          "description": "An Alaskan judge on Friday ruled that a man named Dan Sullivan has the right to be on the ballot as a Republican Senate candidate, marking a blow to election officials’ attempt to block him from running for office because he bears the same name as the leading GOP candidate in the race. The Alaska […"
+        },
+        {
+          "title": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
+          "url": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-27T04:31:16.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/30/multimedia/26pol-dan-sullivan-alaska/30pol-sullivan-v-sullivan-hqjl-mediumSquareAt3X.png",
+          "description": "The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator."
+        },
+        {
+          "title": "Dan Sullivan can challenge US Senator Dan Sullivan in Alaska primary, judge rules",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3358620/dan-sullivan-can-challenge-us-senator-dan-sullivan-alaska-primary-judge-rules",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-27T19:30:38.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/6404c3c1-086b-42cc-8c7c-b30695ed227f_84ec58e4.jpg?itok=RF7oDhoh&v=1782588628",
+          "description": "A man with the same name and party affiliation as Alaska Republican US Senator Dan Sullivan is eligible to challenge the senator in the August primary, a judge ruled on Friday. Superior Court Judge Thomas Matthews’ ruling overturns a June 15 decision by Division of Elections Director Carol Beecher…"
+        },
+        {
+          "title": "Judge Rules Dan Sullivan’s Namesake Primary Challenger Can Appear on Alaska Senate Ballot",
+          "url": "https://internewscast.com/news/us/judge-rules-dan-sullivans-namesake-primary-challenger-can-appear-on-alaska-senate-ballot",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-27T23:19:56.000Z",
+          "description": "Internewscast Journal Internewscast A man who shares both the name and party registration of Alaska… This Post: Judge Rules Dan Sullivan’s Namesake Primary Challenger Can Appear on Alaska Senate Ballot first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Second Dan Sullivan eligible for ballot in Alaska Senate race, judge rules",
+          "url": "https://www.cbsnews.com/news/two-dan-sullivan-alaska-senate-race-ballot-judge-ruling",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-06-27T21:48:05.000Z",
+          "description": "A man with the same name and party affiliation as Alaska Republican U.S. Sen. Dan Sullivan is eligible to challenge the senator in the August primary, a judge ruled Friday."
+        }
+      ],
+      "summary": "An Alaska judge ruled that Dan J. Sullivan, who shares a name and party affiliation with Republican Sen. Dan Sullivan, can appear on the state’s Senate primary ballot. The ruling overturned the elections office’s decision to bar him."
+    },
+    {
+      "id": "topic_6a9a3a78f56b90a",
+      "title": "Iranian Drones Target Bahrain After U.S. Airstrikes; Ship Hit in Hormuz",
+      "headline": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran",
+      "label": [
+        "bahrain",
+        "drones",
+        "iranian",
+        "struck",
+        "airstrikes",
+        "strait"
+      ],
+      "category": "new",
+      "theme": "theme_19c3df0ea088b071",
+      "entities": [
+        "Iranian",
+        "Bahrain",
+        "US",
+        "Iran",
+        "AP News"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran",
+          "url": "https://globalnews.ca/news/11941426/iranian-drones-bahrain-ship-us-airstrikes",
+          "published_at": "2026-06-27T12:12:23.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/5804ba58047e0d0c859b8382b65154d33f7a53a06310da2c382f3c14cdf2ceca_ff49bc.jpg?quality=65&strip=all",
+          "description": "Iran launched a drone assault targeting Bahrain while a ship in the Strait of Hormuz separately came under attack Saturday in response to overnight airstrikes by the United States."
+        },
+        {
+          "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxou21jd0pja095s19rrup3q1nsn3djzkxjvzywngfnbwtma2zqz1lxwkx1t2xjbgi4ukhjd0sxxzjncjvnnmllcmz5sdlnzultmu1sv1nsrglsbvrhmhfvx2poww5zt0jnnf8tdnetsnywq1dqv3d0m0g4u0rbzedzwlcwmfvfmgver1n6nlruovvacvp4x18ys2foczfwd1piyzddedlhskc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T15:20:00.000Z",
+          "description": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes AP News Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker WSJ Bahrain condemns Iranian drone attack after overnight US strikes The Guardian Iran War Live Updates: Bahrain Says It Was Targeted by Drones…"
+        },
+        {
+          "title": "Iranian drones attack Bahrain and a ship is struck in the strait after U.S. airstrikes",
+          "url": "https://www.ms.now/news/iranian-drones-attack-bahrain-and-a-ship-is-struck-in-the-strait-after-u-s-airstrikes",
+          "source": "MS NOW",
+          "published_at": "2026-06-27T19:00:56.000Z",
+          "description": "The attacks show the danger of the Iran war again spinning out of control, even after Iran and the U.S. reached an interim deal aimed at ending the conflict. The post Iranian drones attack Bahrain and a ship is struck in the strait after U.S. airstrikes appeared first on MS NOW."
+        },
+        {
+          "title": "Iranian drones hit Bahrain; ship struck in Hormuz after US airstrikes",
+          "url": "https://cebudailynews.inquirer.net/742067/iranian-drones-hit-bahrain-ship-struck-in-hormuz-after-us-airstrikes",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-27T14:16:02.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/06/download-72-620x413.jpg",
+          "description": "Iran launched a drone assault targeting Bahrain while a ship in the Strait of Hormuz separately came under attack Saturday, in Tehran’s likely response to overnight airstrikes by the United States.... Keep on reading: Iranian drones hit Bahrain; ship struck in Hormuz after US airstrikes"
+        },
+        {
+          "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran (Jon Gambrell/Associated Press)",
+          "url": "https://www.memeorandum.com/260627/p12",
+          "source": "memeorandum",
+          "published_at": "2026-06-27T12:45:00.000Z",
+          "image": "http://www.memeorandum.com/260627/i12.jpg",
+          "description": "Jon Gambrell / Associated Press: Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran — Iran launched a drone assault targeting Bahrain while a ship in the Strait of Hormuz separately came under attack Saturday, likely Tehran's response to overnight airstrike…"
+        }
+      ],
+      "summary": "Iran launched a drone attack targeting Bahrain after U.S. airstrikes on Iran, while a ship was separately struck in the Strait of Hormuz. The attacks followed overnight U.S. strikes."
+    },
+    {
+      "id": "topic_977f370f484c4f8b",
+      "title": "Australian Arrested in Thailand After Teen’s Body Found in Suitcase",
+      "headline": "Australian man arrested in Thailand after 17-year-old’s body found in suitcase",
+      "label": [
+        "australian",
+        "suitcase",
+        "thailand",
+        "found",
+        "body",
+        "arrested"
+      ],
+      "category": "new",
+      "theme": "theme_aa8a95842286d5f9",
+      "entities": [
+        "Australian",
+        "Thailand",
+        "Bangkok",
+        "Simon Carman",
+        "Victorian"
+      ],
+      "article_count": 13,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Australian man arrested in Thailand after 17-year-old’s body found in suitcase",
+          "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-06-27T05:53:31.000Z",
+          "image": "https://i.guim.co.uk/img/media/e3a41619189b0717d3d0c15f1039b0445eb804cb/500_0_4572_3657/master/4572.jpg?width=140&quality=85&auto=format&fit=max&s=09d36d96d6341ab4dab1bf17fc08259e",
+          "description": "The 46-year-old was stopped at about 9.30pm on Friday while preparing to board a Jetstar flight to Perth, according to the Nation Thailand Get our breaking news email, free app or daily news podcast An Australian man has been arrested at a Thai airport in connection with the alleged murder of a 17-…"
+        },
+        {
+          "title": "Australian held in Thailand after girl's body found in suitcase",
+          "url": "https://www.yahoo.com/news/world/articles/australian-held-thailand-girls-body-112724295.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-27T11:27:24.000Z"
+        },
+        {
+          "title": "Thailand shaken after 17-year-old girl's body found in suitcase; Australian arrested",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/thailand-shaken-after-17-year-old-girls-body-found-in-suitcase-australian-arrested/articleshow/132032323.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-27T10:00:44.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132032319,imgsize-671314.cms"
+        },
+        {
+          "title": "Thailand arrests Australian after teen's body found in suitcase",
+          "url": "https://www.iol.co.za/news/world/thailand-arrests-australian-after-teens-body-found-in-suitcase-9b2038de-a387-40ad-bedd-5c9cb38eab64",
+          "source": "IOL section feed for News",
+          "published_at": "2026-06-27T08:54:21.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/203c1ea726ec1b7d79d71a6df083eeb43e4f1971/2000&operation=CROP&offset=0x48&resize=2000x1125"
+        },
+        {
+          "title": "Australian man arrested at Bangkok airport after teenager’s body found stuffed in suitcase",
+          "url": "https://www.brisbanetimes.com.au/national/australian-man-arrested-at-bangkok-airport-after-teenager-s-body-found-stuffed-in-suitcase-20260627-p60al3.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-06-27T06:36:40.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_10%2C$y_0/t_crop_custom/q_86%2Cf_auto/bd63d64223a31bd17865c0d8152d013c8ef7fa57",
+          "description": "Thai media is reporting that Simon Peter Carman, 46, was detained at Suvarnabhumi Airport in Bangkok while attempting to leave the country."
+        }
+      ],
+      "summary": "Thai authorities arrested a 46-year-old Australian man at Bangkok’s Suvarnabhumi Airport after the body of a 17-year-old was found in a suitcase. He was reportedly preparing to board a flight to Perth."
+    },
+    {
+      "id": "topic_f8cebe99b7a22b99",
+      "title": "Rubio Says Trump Plans to Visit India Early Next Year",
+      "headline": "Trump likely to visit India early next year, Rubio tells India's IANS",
+      "label": [
+        "visit",
+        "india",
+        "trump",
+        "likely",
+        "rubio",
+        "early"
+      ],
+      "category": "new",
+      "theme": "theme_258eb0f8db0612c9",
+      "entities": [
+        "Trump",
+        "India",
+        "Rubio",
+        "IANS",
+        "US"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump likely to visit India early next year, Rubio tells India's IANS",
+          "url": "https://www.thehindubusinessline.com/news/trump-likely-to-visit-india-early-next-year-rubio-tells-indias-ians/article71153749.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-27T07:40:41.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/geebv3/article71153779.ece/alternates/LANDSCAPE_1200/2026-06-26T195832Z_1962430373_RC2V1MACSLJ5_RTRMADP_3_USA-TRUMP.JPG",
+          "description": "“We’re ‌working ⁠towards sometime early next year ⁠to have the president come,” Rubio said, according to IAN"
+        },
+        {
+          "title": "Trump likely to visit India in 2027: Rubio",
+          "url": "https://www.thehindu.com/news/international/trump-likely-to-visit-india-in-2027-rubio/article71154163.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-27T11:35:19.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/5o0nh6/article71154164.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000863B.jpg",
+          "description": "“I look forward to returning myself before the end of the year and setting up a Presidential visit in the early parts of next year,” Mr. Rubio said"
+        },
+        {
+          "title": "Trump likely to visit India",
+          "url": "https://tribune.com.pk/story/2615376/trump-likely-to-visit-india",
+          "source": "express tribune",
+          "published_at": "2026-06-27T16:56:47.000Z",
+          "description": "."
+        },
+        {
+          "title": "Trump to visit India 'early next year', says US secretary of state Marco Rubio",
+          "url": "https://timesofindia.indiatimes.com/india/donald-trump-to-visit-india-early-next-year-says-us-secretary-of-state-marco-rubio/articleshow/132028905.cms",
+          "source": "Times of India",
+          "published_at": "2026-06-27T05:06:38.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132028931,imgsize-918908.cms"
+        },
+        {
+          "title": "Trump to visit India early next year, his relationship with PM Modi is great: Rubio",
+          "url": "https://www.indiatoday.in/world/story/donald-trump-to-visit-india-early-next-year-pm-modi-relationship-marco-rubio-2935384-2026-06-27",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-27T04:58:49.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/on-trade--trump-said-the-us-now-does-fair-business-with-india-200327834-16x9.png?VersionId=iZI7ceO5DnP7Iltk.VzKpikMRzyUFOu0",
+          "description": "Trump to visit India early next year his relationship with PM Modi is great Rubio"
+        }
+      ],
+      "summary": "U.S. Secretary of State Marco Rubio said the administration is working toward a presidential visit to India early next year. Rubio also said he hopes to return to India before the end of this year."
+    },
+    {
+      "id": "topic_2d7d4d484ffaa731",
+      "title": "WWE Night of Champions Takes Place in Saudi Arabia",
+      "headline": "WWE Night of Champions: Live results and analysis",
+      "label": [
+        "champions",
+        "wwe",
+        "night",
+        "results",
+        "zayn",
+        "femi"
+      ],
+      "category": "new",
+      "theme": "theme_498aacf388186b8",
+      "entities": [
+        "WWE Night",
+        "Champions",
+        "WWE Night Of Champions",
+        "Results",
+        "Winners And Live Updates"
+      ],
+      "article_count": 18,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "WWE Night of Champions: Live results and analysis",
+          "url": "https://www.espn.com/wwe/story/_/id/49165697/wwe-night-champions-live-results-analysis",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-06-27T18:03:39.000Z",
+          "description": "Which WWE superstars will earn the right for the next shot at men's and women's singles championships?"
+        },
+        {
+          "title": "WWE Night Of Champions 2026 Results, Winners And Live Updates On June 27",
+          "url": "https://www.forbes.com/sites/alfredkonuwa/2026/06/27/wwe-night-of-champions-2026-results-winners-and-live-updates-on-june-27",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-27T15:25:26.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3fe9b65a26428edcb7ec97/0x0.jpg",
+          "description": "WWE Night of Champions 2026 results, winners and live updates on from Saudi Arabia on June 27."
+        },
+        {
+          "title": "WWE Night of Champions 2026: Start time, how to watch, match card",
+          "url": "https://sports.yahoo.com/articles/wwe-night-champions-2026-start-022436315.html",
+          "published_at": "2026-06-27T02:24:36.000Z",
+          "description": "WWE Night of Champions features six matches, headlined by the finals of the King and Queen of the Ring tournaments."
+        },
+        {
+          "title": "WWE Night of Champions 2026 preview, predictions and more",
+          "url": "https://www.foxnews.com/sports/wwe-night-champions-2026-preview-predictions",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-27T10:48:51.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/seth-rollins-wwe-lisbon-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "WWE Night of Champions features King and Queen of the Ring finals, a steel cage match, and Cody Rhodes defending his Undisputed WWE Championship."
+        },
+        {
+          "title": "WWE Night of Champions: Start Time, Live Stream Details and Full Match Card for Saturday",
+          "url": "https://internewscast.com/sport/wwe-night-of-champions-start-time-live-stream-details-and-full-match-card-for-saturday",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-27T18:02:00.000Z",
+          "description": "Internewscast Journal Internewscast Complete viewing information for Night of Champions in Saudi Arabia Although Night… This Post: WWE Night of Champions: Start Time, Live Stream Details and Full Match Card for Saturday first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "WWE’s Night of Champions event in Saudi Arabia features six matches, including the King and Queen of the Ring tournament finals and a defense of Cody Rhodes’ Undisputed WWE Championship."
+    },
+    {
+      "id": "topic_399941e40b616a27",
+      "title": "George Russell Takes Austrian Grand Prix Pole After Verstappen Crash",
+      "headline": "Russell snatches controversial pole in Austria after Verstappen crash",
+      "label": [
+        "verstappen",
+        "pole",
+        "russell",
+        "crash",
+        "austria",
+        "snatches"
+      ],
+      "category": "new",
+      "theme": "theme_5af1a511b5916b2f",
+      "entities": [
+        "Russell",
+        "Austria",
+        "Verstappen",
+        "Ferraris",
+        "Austria GP"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Russell snatches controversial pole in Austria after Verstappen crash",
+          "url": "https://sports.yahoo.com/articles/russell-snatches-controversial-pole-austria-165254118.html",
+          "published_at": "2026-06-27T17:20:46.000Z",
+          "description": "George Russell demonstrated his experience and a detailed understanding of the rules on Saturday to steer through a controversial final flying lap and seize pole position for Sunday's Austrian Grand Prix. Antonelli was five seconds behind Russell on his own late flying lap when he came to Turn Nine…"
+        },
+        {
+          "title": "Russell takes pole after Verstappen crash",
+          "url": "https://www.theage.com.au/sport/motorsport/russell-takes-pole-after-verstappen-crash-20260628-p60amw.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-27T21:05:39.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c01b2aedc0e610c1b1f25e65736f29978d8d6c70",
+          "description": "Mercedes' George Russell is able to take pole for the Austrian Grand prix, as Max Verstappen crashes into the barriers at the last moment of the session."
+        },
+        {
+          "title": "Russell claims controversial pole after Verstappen crash",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno",
           "source": "BBC Sport",
-          "published_at": "2026-06-27T18:15:11.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe7/live/9fdc2170-7250-11f1-b46f-17a6b71f4bc4.jpg"
+          "published_at": "2026-06-27T15:27:33.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9187/live/80c33630-723b-11f1-930d-75324f3b4c6e.jpg",
+          "description": "Mercedes driver George Russell controversially steals pole position at the Austrian Grand Prix from Ferrari's Charles Leclerc with the last lap of the session."
         },
         {
-          "title": "Sinner and Sabalenka lead players’ protests at Wimbledon over prize money share",
-          "url": "https://www.theguardian.com/sport/2026/jun/27/tennis-players-protests-prize-money-wimbledon-jannick-sinner-aryna-sabalenka",
-          "source": "The Guardian",
-          "published_at": "2026-06-27T17:40:04.000Z",
-          "image": "https://i.guim.co.uk/img/media/570321a43096ed7fc2465ea26a185e42cccc1086/378_0_3457_2767/master/3457.jpg?width=140&quality=85&auto=format&fit=max&s=9abab9c16381bdb63fe4272653c9ae94"
+          "title": "Russell beats Leclerc to Austria pole after Verstappen crash",
+          "url": "https://news.google.com/rss/articles/cbmi7gfbvv95cuxon0wyeklrtffwq2yweu11bhzrng1hrvluuvzabvb4cgdttjrks081wtm1ymewulfzbdgxsnjtzvbjaeprrjzlufvizhc0vw9fejqxn3bpmtzgenlwufbpnw5nti1ioee2nhjqluphm1dvv2xtluutndvzztnkmfy5elbzbulpznb4avppuhvhc19srhzjuzlqduq4twzumtjhennmou44sv9sq1vvslrwbkxwsvc3aelxrhvlr2noukprz29xbwiwruk0twzzbjz1ynnovjmzadrpsv9mdwvlrhhmmhzzohlplvnynlzn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T15:17:00.000Z",
+          "description": "Russell beats Leclerc to Austria pole after Verstappen crash Formula 1 Austrian Grand Prix: George Russell grabs pole from Charles Leclerc after Max Verstappen crash BBC Austrian Grand Prix: Lewis Hamilton hopes strategy can help Ferrari beat Mercedes at Red Bull Ring on Sunday Sky Sports ‘I can’t…"
+        },
+        {
+          "title": "Russell snatches Austria pole amid confusion after Verstappen crash",
+          "url": "https://news.sky.com/story/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying-13558227",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-06-27T15:33:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-f1-george-russell_7284379.jpg?20260627163431",
+          "description": "George Russell claimed pole position for the Austrian Grand Prix after a confusing finish to qualifying when Max Verstappen crashed."
         }
-      ]
+      ],
+      "summary": "Mercedes driver George Russell claimed pole position for the Austrian Grand Prix after a confusing end to qualifying. Max Verstappen crashed during the session, and Russell’s final lap drew controversy."
     },
     {
-      "id": "topic_e967eaed51193f53",
+      "id": "topic_9d804fc40dd1ce8e",
+      "title": "Serbian President Vučić Says He Will Resign Within Weeks",
+      "headline": "Serbian President Vučić says he will resign within ‘weeks’",
       "label": [
-        "resign within",
-        "within week",
-        "president",
         "within",
         "resign",
-        "week"
+        "president",
+        "vucic",
+        "weeks",
+        "serbian"
       ],
       "category": "new",
-      "theme": "theme_2a5488ea4ecef150",
+      "theme": "theme_5ea425fcc4fc6211",
       "entities": [
         "Serbian President Vu",
-        "Serbia",
-        "President Vucic",
+        "Serbian President Aleksandar Vucic",
         "Serbian President Vucic",
-        "President Aleksandar Vucic"
+        "Reuters",
+        "Serbia"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 10,
+      "source_count": 9,
       "articles": [
         {
           "title": "Serbian President Vučić says he will resign within ‘weeks’",
           "url": "https://www.politico.eu/article/serbian-president-vucic-says-he-will-resign-within-weeks",
           "source": "POLITICO",
-          "published_at": "2026-06-27T22:11:40.000Z"
+          "published_at": "2026-06-27T22:11:40.000Z",
+          "description": "His announcement came amid persistent student-led anti-corruption demonstrations."
         },
         {
-          "title": "Serbia’s President Vucic says he’ll resign within weeks, amid student protests",
-          "url": "https://www.scmp.com/news/world/europe/article/3358621/serbias-president-vucic-says-hell-resign-within-weeks-amid-student-protests",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-27T21:11:56.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/28/8df286f6-25bc-4873-b6cd-8bef11e08ecc_09f0780c.jpg?itok=AyqSFMOY&v=1782594709"
+          "title": "Serbian President Aleksandar Vucic says he will resign within weeks",
+          "url": "https://www.japantimes.co.jp/news/2026/06/28/world/politics/serbia-aleksandar-vucic-resign",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-27T23:43:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548572.jpg",
+          "description": "The announcement by Vucic, who has been in power as president or prime minister for 12 years, came amid demonstrations after the deadly collapse of an awning at a ​train station."
         },
         {
           "title": "Serbian President Vucic says he will resign within weeks",
-          "url": "https://japantoday.com/category/world/serbian-president-vucic-says-he-will-resign-within-weeks-move-comes-after-student-protests",
-          "source": "Japan Today",
-          "published_at": "2026-06-27T21:09:58.000Z"
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxqajrqntlfvutnb1itsgkyutq4wue0vkcyuwtbrhdqqk1feunoqmjsbfjorfdwv3iyx0qtb0jyofz3ykxxoez1wjnpsfrdwf8xzfjcyklnrwyyrjffunnaaunzc1eyedg3lufemxdwtnc4umdeddhhwlpsce1felvgqvvjawzcvxlzb0ltm1uyamrlmk50selvq25fstrqzuh3q1ptmzhqaxpjymf1zhp3eupxdtnxalgt",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T22:00:31.000Z",
+          "description": "Serbian President Vucic says he will resign within weeks Reuters Serbian President Vucic says he will resign within weeks amid student-led protests CNN Serbia’s President Aleksandar Vucic says will resign within ‘weeks’ Al Jazeera Serbia’s Ruling Party Prepares Major Belgrade Rally Amid Intimidatio…"
         },
         {
           "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
           "url": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-27T20:23:44.000Z"
+          "published_at": "2026-06-27T20:23:44.000Z",
+          "description": "Vucic is under ⁠pressure after months ⁠of antigovernment protests."
         },
         {
-          "title": "Serbian President agrees to resign within weeks",
-          "url": "https://tribune.com.pk/story/2615379/serbian-president-agrees-to-resign-within-weeks",
-          "source": "express tribune",
-          "published_at": "2026-06-27T17:05:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_533875ea154702ef",
-      "label": [
-        "clarke",
-        "scotland",
-        "cup exit",
-        "exit",
-        "scotland world",
-        "clarke step"
-      ],
-      "category": "new",
-      "theme": "theme_897a95d46be36eca",
-      "entities": [
-        "Steve Clarke QUITS",
-        "Scotland",
-        "World Cup",
-        "Clarke"
-      ],
-      "article_count": 7,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Steve Clarke QUITS as Scotland manager - just half an hour after their World Cup exit is confirmed and only a month into his new four-year contract",
-          "url": "https://www.dailymail.com/sport/football/article-15931237/scotland-world-cup-tartan-army-heading-home-croatia-win-confirmed-fate-following-hopeless-campaign-united-states.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-06-27T23:45:31.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/28/00/109647491-0-image-a-18_1782603735504.jpg"
-        },
-        {
-          "title": "Clarke steps down as Scotland manager after World Cup exit",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o",
-          "source": "BBC Sport",
-          "published_at": "2026-06-27T23:37:18.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
-        },
-        {
-          "title": "Clarke steps down after Scotland's World Cup exit confirmed",
-          "url": "https://news.sky.com/story/steve-clarke-steps-down-as-scotland-boss-after-world-cup-elimination-confirmed-13557622",
-          "source": "Sports News - Latest Sports and Football News | Sky News",
-          "published_at": "2026-06-27T22:45:00.000Z",
-          "image": "https://e3.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7284652.jpg?20260628004518"
-        },
-        {
-          "title": "Where does Scotland's World Cup campaign leave Clarke?",
-          "url": "https://sports.yahoo.com/articles/where-does-scotlands-world-cup-155030989.html",
-          "published_at": "2026-06-27T16:24:48.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_7bedd45527dce07a",
-      "label": [
-        "file tax",
-        "tax return",
-        "file",
-        "tax",
-        "return",
-        "itch"
-      ],
-      "category": "new",
-      "theme": "theme_336c7a2017169026",
-      "entities": [
-        "Itching",
-        "Check",
-        "Self",
-        "CA"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Itching to file your tax return? Check out these four things first",
-          "url": "https://www.theage.com.au/money/tax/itching-to-file-your-tax-return-check-out-these-four-things-first-20260626-p60adg.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-27T19:01:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.1825%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/q_86%2Cf_jpg/1e6a0ee9eb2dab2b540a4f26cecec53933133b46"
-        },
-        {
-          "title": "Itching to file your tax return? Check out these four things first",
-          "url": "https://www.smh.com.au/money/tax/itching-to-file-your-tax-return-check-out-these-four-things-first-20260626-p60adg.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-27T19:01:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.1825%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/q_86%2Cf_jpg/1e6a0ee9eb2dab2b540a4f26cecec53933133b46"
-        },
-        {
-          "title": "Itching to file your tax return? Check out these four things first",
-          "url": "https://www.brisbanetimes.com.au/money/tax/itching-to-file-your-tax-return-check-out-these-four-things-first-20260626-p60adg.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-27T19:01:00.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.1825%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/q_86%2Cf_jpg/1e6a0ee9eb2dab2b540a4f26cecec53933133b46"
-        },
-        {
-          "title": "Self, practitioner or CA: which route should you take to file your tax returns?",
-          "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/self-practitioner-or-ca-which-route-should-you-take-to-file-your-tax-returns/article71141800.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-06-27T16:48:26.000Z",
-          "image": "https://bl-i.thgim.com/public/incoming/gezrlj/article71150803.ece/alternates/LANDSCAPE_1200/PO28_Different_direction.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1ade1f18490bf893",
-      "label": [
-        "ii",
-        "apple",
-        "apple ii",
-        "bring swift",
-        "swift apple",
-        "swift"
-      ],
-      "category": "new",
-      "theme": "theme_e8818886fd07ca77",
-      "entities": [
-        "Bringing Swift To The",
-        "Apple II",
-        "II",
-        "The Card That Made",
-        "Apple II Serious"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Bringing Swift To The Apple II",
-          "url": "https://hackaday.com/2026/06/27/bringing-swift-to-the-apple-ii",
-          "source": "Hackaday",
-          "published_at": "2026-06-27T23:00:54.000Z",
-          "image": "https://hackaday.com/wp-content/uploads/2026/06/a2p-front-e1782454881857.jpg"
-        },
-        {
-          "title": "В Чувашии состоялся II фестиваль «Кубок Защитников Отечества»",
-          "url": "https://cheb.mk.ru/sport/2026/06/27/v-chuvashii-sostoyalsya-ii-festival-kubok-zashhitnikov-otechestva.html",
-          "source": "Все материалы - Московский Комсомолец",
-          "published_at": "2026-06-27T19:40:22.000Z",
-          "image": "https://static.mk.ru/upload/entities/2026/06/27/22/articles/facebookPicture/61/c3/d5/0c/be1deb8059e4fd052451420fb0fb85ca.jpg"
-        },
-        {
-          "title": "The Card That Made the Apple II Serious",
-          "url": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-06-27T18:00:46.000Z"
-        },
-        {
-          "title": "В России предложили применить ответные меры к Apple после удаления приложений",
-          "url": "https://lenta.ru/news/2026/06/27/v-rossii-predlozhili-primenit-otvetnye-mery-k-apple-posle-udaleniya-prilozheniy",
-          "source": "Lenta.ru : Новости",
-          "published_at": "2026-06-27T16:47:24.000Z",
-          "image": "https://icdn.lenta.ru/images/2026/06/27/19/20260627194250880/pic_20abc7aad846e6da1d1c8ec3eaee9140.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_220de2052229b367",
-      "label": [
-        "danemark",
-        "de temp",
-        "allemagne",
-        "temp",
-        "europe",
-        "de"
-      ],
-      "category": "new",
-      "theme": "theme_d97adcc924aa5578",
-      "entities": [
-        "EN DIRECT",
-        "Allemagne",
-        "Danemark",
-        "Des",
-        "Europe"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "EN DIRECT, canicule : Allemagne, Danemark, République tchèque… Des records de température en Europe",
-          "url": "https://www.lemonde.fr/planete/live/2026/06/27/en-direct-canicule-allemagne-danemark-republique-tcheque-des-records-de-temperature-en-europe_6710159_3244.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-27T18:24:31.000Z",
-          "image": "https://img.lemde.fr/2026/06/27/637/0/7636/3818/644/322/60/0/a3712c7_ftp-1-cksuctnydulv-2026-06-27t155452z-689072971-rc2e2ma0bxqu-rtrmadp-3-europe-weather-france.JPG"
-        },
-        {
-          "title": "De l'Allemagne au Danemark, des records de températures historiques battus dans de nombreux pays d'Europe",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/de-l-allemagne-au-danemark-des-records-de-temperatures-historiques-battus-dans-de-nombreux-pays-d-europe_8082878.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-27T17:32:18.000Z",
-          "image": "https://www.franceinfo.fr/pictures/Ryy5rNx3baQnM_1203PRI8uFAkg/0x53:1024x629/432x243/filters:format(jpg)/2026/06/27/6a3ffa374b034633570197.jpg"
-        },
-        {
-          "title": "Allemagne, Danemark, République tchèque : les records absolus de température s'enchaînent en Europe",
-          "url": "https://www.rtbf.be/article/allemagne-danemark-republique-tcheque-les-records-absolus-de-temperature-s-enchainent-en-europe-11748717",
-          "source": "- Info",
-          "published_at": "2026-06-27T16:39:58.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/2/e/7/2ecd0794c1394d650007c1abdb8b8930.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_fee26e54426c83e3",
-      "label": [
-        "expire",
-        "subsidy expire",
-        "obamacare",
-        "subsidy",
-        "coverage",
-        "million drop"
-      ],
-      "category": "new",
-      "theme": "theme_a929cdaa6836e49f",
-      "entities": [
-        "Americans",
-        "Obamacare",
-        "Republicans",
-        "Millions"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "3 million Americans have dropped Obamacare health coverage over past year, after Republicans let federal subsidies expire",
-          "url": "https://fortune.com/2026/06/27/obamacare-health-coverage-affordable-care-act-insurance-republicans-federal-subsidies",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-06-27T20:21:17.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26178635377726-e1782589827418.jpg?w=2048"
-        },
-        {
-          "title": "Millions drop Obamacare coverage after subsidies expire, costs rise",
-          "url": "https://abcnews.com/business/wirestory/millions-drop-obamacare-health-coverage-after-subsidies-expire-134277658",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-06-27T18:28:52.000Z",
-          "image": "https://s.abcnews.com/images/US/wirestory_3dc9a0cd249a7622ce31e8559bfff729_4x3_384.jpg"
-        },
-        {
-          "title": "Millions drop Obamacare health coverage after subsidies expire and costs rise",
-          "url": "https://www.yahoo.com/news/politics/articles/millions-drop-obamacare-health-coverage-175118912.html",
+          "title": "Serbian President Vucic says he will resign within weeks; move comes amid student protests",
+          "url": "https://www.yahoo.com/news/articles/serbia-president-vucic-says-resign-172140603.html",
           "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-27T17:51:18.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/dc8d1102428b88683e94ff90242721fb"
+          "published_at": "2026-06-27T20:06:22.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/61de42d45447bc6ba04c39d5df5ae990"
         }
-      ]
+      ],
+      "summary": "Serbian President Aleksandar Vučić said he plans to resign within weeks amid months of student-led anti-government protests. Demonstrations intensified after a deadly train-station awning collapse."
     },
     {
-      "id": "topic_11cf2960bf3cbc92",
+      "id": "topic_ca0d7245b934252a",
+      "title": "SpaceX to Join Nasdaq-100 on July 7",
+      "headline": "SpaceX to join Nasdaq-100, effective July 7, 2026",
       "label": [
-        "freedom",
-        "freedom 250",
-        "cancel due",
-        "vanilla ice",
-        "vanilla",
-        "250"
+        "nasdaq",
+        "join",
+        "spacex",
+        "july",
+        "passive",
+        "inflows"
       ],
       "category": "new",
-      "theme": "theme_8c32f3f56f3470c2",
+      "theme": "theme_77a1c11545df2a1a",
       "entities": [
-        "Vanilla Ice",
-        "Freedom",
-        "Concert Abruptly Canceled",
-        "Due To Inclement Weather",
-        "Concert"
+        "SpaceX",
+        "Nasdaq",
+        "July",
+        "As SpaceX",
+        "SpaceX To Join Nasdaq"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 10,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Vanilla Ice’s Freedom 250 Concert Abruptly Canceled “Due To Inclement Weather”",
-          "url": "https://deadline.com/2026/06/vanilla-ice-freedom-250-concert-canceled-inclement-weather-1236969104",
-          "source": "Deadline",
-          "published_at": "2026-06-27T22:01:05.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2189824081.jpg"
+          "title": "SpaceX to join Nasdaq-100, effective July 7, 2026",
+          "url": "https://seekingalpha.com/news/4607865-spacex-to-join-nasdaq-100-effective-july-7-2026",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-06-27T08:13:21.000Z"
         },
         {
-          "title": "Vanilla Ice’s Freedom 250 Concert in D.C. Canceled Due to ‘Inclement Weather’ That Doesn’t Materialize",
-          "url": "https://variety.com/2026/music/news/vanilla-ice-freedom-250-concert-canceled-weather-1236796016",
-          "source": "Variety",
-          "published_at": "2026-06-27T19:37:36.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2190318563-e1782583175696.jpg"
+          "title": "SpaceX will join Nasdaq-100",
+          "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-06-27T00:23:27.000Z",
+          "description": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework."
         },
         {
-          "title": "Vanilla Ice’s Concert at Freedom 250 Canceled Due to Weather",
-          "url": "https://www.rollingstone.com/music/music-news/vanilla-ice-concert-freedom-250-canceled-weather-1235585451",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-27T16:34:05.000Z"
+          "title": "As SpaceX joins the Nasdaq-100, its stock could show up in your 401(k). Here's what to know.",
+          "url": "https://finance.yahoo.com/news/as-spacex-joins-the-nasdaq-100-its-stock-could-show-up-in-your-401k-heres-what-to-know-110835130.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-06-27T11:08:35.000Z",
+          "image": "https://s.yimg.com/uu/api/res/1.2/ng1lJuwEsdrbAHwMUM0x7Q--~B/aD0xMjQxO3c9MjIwNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7260d2f0-7f3f-11ef-bb3e-9b3d023c94d9_0c0c923811c2bf82cf1bca274b62d515b7409befaa040dd7d8aedd750683dcd4.com/creatr-uploaded-images/2024-09/7260d2f0-7f3f-11ef-bb3e-9b3d023c94d9"
+        },
+        {
+          "title": "SpaceX To Join Nasdaq 100 On July 7, Set To Attract Billions In Passive Inflows",
+          "url": "https://www.freepressjournal.in/business/spacex-to-join-nasdaq-100-on-july-7-set-to-attract-billions-in-passive-inflows",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-27T07:31:59.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2021-12/cb7c6f89-549c-4df2-8882-35244dd30f1d/elon_musk_jpg.webp"
+        },
+        {
+          "title": "SpaceX to join Nasdaq 100 on July 7, set for billions in passive fund inflows",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-to-join-nasdaq-100-on-july-7-set-for-billions-in-passive-fund-inflows-4763940",
+          "source": "All News",
+          "published_at": "2026-06-27T04:37:39.000Z"
         }
-      ]
+      ],
+      "summary": "SpaceX is set to join the Nasdaq-100 effective July 7, 2026. Its inclusion could lead to purchases by funds tracking the index."
     },
     {
-      "id": "topic_661986e19e65f9b2",
+      "id": "topic_d2f8f99ee53462ce",
+      "title": "Naomi Osaka Retires From Bad Homburg Final With Foot Injury",
+      "headline": "Naomi Osaka retires from Bad Homburg final due to injury days before Wimbledon",
       "label": [
-        "garbage",
-        "margaret",
-        "atwood",
-        "margaret atwood",
-        "garbage garbage",
-        "ai"
+        "osaka",
+        "homburg",
+        "naomi",
+        "final",
+        "bad",
+        "retires"
       ],
       "category": "new",
-      "theme": "theme_194c59eded8c0189",
+      "theme": "theme_6f1f79b8d94d8ceb",
       "entities": [
-        "Margaret Atwood Warns AI",
-        "Biggest Flaw Is",
-        "Garbage In",
-        "Garbage Out",
-        "Margaret Atwood"
+        "Naomi Osaka",
+        "Bad Homburg",
+        "Wimbledon",
+        "Osaka",
+        "WD"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Margaret Atwood Warns AI’s Biggest Flaw Is “Garbage In, Garbage Out”",
-          "url": "https://internewscast.com/tech/margaret-atwood-warns-ais-biggest-flaw-is-garbage-in-garbage-out",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-27T20:29:22.000Z"
+          "title": "Naomi Osaka retires from Bad Homburg final due to injury days before Wimbledon",
+          "url": "https://www.japantimes.co.jp/sports/2026/06/28/tennis/osaka-withdraws-from-final",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-27T21:08:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/28/548562.JPG",
+          "description": "The Japanese No. 6 seed battled through an ankle injury in the first set but signaled she would be unable to continue one game into the second set."
         },
         {
-          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-          "source": "The Verge",
-          "published_at": "2026-06-27T18:39:32.000Z",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "title": "Naomi Osaka retires in second set of Bad Homburg final with foot injury",
+          "url": "https://japantoday.com/category/sports/naomi-osaka-retires-in-second-set-of-bad-homburg-final-with-foot-injury",
+          "source": "Japan Today",
+          "published_at": "2026-06-27T21:11:04.000Z",
+          "description": "Naomi Osaka's Wimbledon preparations received a setback when she retired at the start of the second set in Saturday's Bad Homburg final because of a foot injury. The…"
         },
         {
-          "title": "Margaret Atwood Details Her First & Only Encounter With AI & Shares Her Assessment: “It’s Garbage In, Garbage Out” — Babell Literary Festival",
-          "url": "https://deadline.com/2026/06/margaret-atwood-ai-claude-babell-literary-festival-1236969046",
-          "source": "Deadline",
-          "published_at": "2026-06-27T17:34:22.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2024/11/GettyImages-2150006409.jpg"
+          "title": "Naomi Osaka suffers injury scare before Wimbledon, retires from Bad Homburg final",
+          "url": "https://www.indiatoday.in/sports/tennis/story/naomi-osaka-injury-bad-homburg-final-retirement-wimbledon-doubt-2935570-2026-06-27",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-27T10:55:58.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/naomi-osaka-275545686-16x9_0.jpg?VersionId=eBLArSRLl4hPQgaDpNSp95xU5pMrobga",
+          "description": "Naomi Osaka suffers injury scare before Wimbledon retires from Bad Homburg final"
+        },
+        {
+          "title": "Osaka injures foot, WD's from Bad Homburg final",
+          "url": "https://www.espn.com/tennis/story/_/id/49196397/naomi-osaka-injures-foot-retires-bad-homburg-final",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-06-27T12:41:18.000Z",
+          "description": "Naomi Osaka's Wimbledon preparations received a setback when she retired at the start of the second set in Saturday's Bad Homburg final because of a foot injury."
+        },
+        {
+          "title": "Naomi Osaka retires injured from final two days before Wimbledon",
+          "url": "https://sports.yahoo.com/articles/naomi-osaka-retires-injured-final-105918677.html",
+          "published_at": "2026-06-27T11:32:17.000Z",
+          "description": "The former world No 1 is seeded 14th at Wimbledon, and is scheduled to play her first-round match against Elsa Jacquemot on Monday afternoon."
         }
-      ]
+      ],
+      "summary": "Naomi Osaka retired at the start of the second set of the Bad Homburg final because of a foot injury, days before Wimbledon. She is scheduled to play Elsa Jacquemot in her first-round match."
     },
     {
-      "id": "topic_5cefada18ca6b8c9",
+      "id": "topic_554fb2b484943d4b",
+      "title": "European Heatwave Moves East as Germany Faces Record Temperatures",
+      "headline": "Germany braces for record-breaking temperatures as heatwave moves east",
       "label": [
-        "jd",
-        "jd vance",
-        "maher",
-        "bill maher",
-        "vance",
-        "bill"
+        "temperatures",
+        "east",
+        "moves",
+        "germany",
+        "heatwave",
+        "record"
       ],
       "category": "new",
-      "theme": "theme_da848e7876bf8a2f",
+      "theme": "theme_6fe874b365c09307",
       "entities": [
-        "Bill Maher Gets Played",
-        "JD Vance",
-        "Real Time",
-        "Admits He May Vote",
-        "Republican"
+        "Germany",
+        "Al Jazeera",
+        "European",
+        "Poland",
+        "Reuters"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 8,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Bill Maher Gets Played by JD Vance on 'Real Time,' Admits He May Vote Republican in 2028 (Marlow Stern/Variety)",
-          "url": "https://www.memeorandum.com/260627/p42",
-          "source": "memeorandum",
-          "published_at": "2026-06-27T20:55:10.000Z",
-          "image": "http://www.memeorandum.com/260627/i42.jpg"
+          "title": "Germany braces for record-breaking temperatures as heatwave moves east",
+          "url": "https://www.aljazeera.com/news/2026/6/27/germany-braces-for-record-breaking-temperatures-as-heatwave-moves-east",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-27T08:09:47.000Z",
+          "description": "Several countries including the UK and Switzerland have posted record June temperatures, with deaths reported in France."
         },
         {
-          "title": "JD Vance Stuns Bill Maher’s Liberal Audience With Unexpected Charm",
-          "url": "https://internewscast.com/news/jd-vance-stuns-bill-mahers-liberal-audience-with-unexpected-charm",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-27T16:44:33.000Z"
+          "title": "Germany braces for record-breaking temperatures as heatwave moves east",
+          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxoymf2vedadedkm3plmmtiv3jqri1jek1jsfn3mjlzytv5sxhkevlpvgp0b2letetjve9jak5yc3pmmhbfou54du1lwvbdmg9nqxbjunpltwdnmndrbuvszgj1wxjhbha2ouozmdhlsmg4cwvvtzbioxvsrwhgzxg1ohdhsvzpa1yzvupsnjfymnztm1deeddlenqtz2fvze43x3zcvkpjenk1dunbbe9usnibtgfbvv95cuxpzhnnutmwqk0wyzd1chkwlxfhaup3rwnlehlotjngceq5sjlnm3g2s25mrhmtvdbhamzhotk3q0ptulriuzc3tlrzsxkwajr3vhd5tdllz3rta29rwdzonmnynktuzurllwtxzgdoc1piwmy0vzzftkrmujk0wk5wsi0xndbzt3u4ndeyr3c0utjab19obgh0dmhsulvfynz3mu5dlxvolxrccnfwvfbjvmjlnuqxdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-27T14:25:15.000Z",
+          "description": "Germany braces for record-breaking temperatures as heatwave moves east Al Jazeera Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany The Guardian Europe sizzles under heat wave as records are smashed in Switzerland, Denmark, Germany C…"
         },
         {
-          "title": "JD Vance does the impossible to win over Bill Maher's liberal audience on Trump's most toxic weakness as the avowed anti-MAGA host admits he might flip his vote for the Republican in 2028",
-          "url": "https://www.dailymail.com/news/article-15934565/jd-vance-win-bill-mahers-liberal-audience-trump-flip-vote-republican-2028.html",
-          "source": "News | Mail Online",
-          "published_at": "2026-06-27T16:42:50.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/27/17/109641933-0-image-a-44_1782576312285.jpg"
+          "title": "Germany hit by record temperatures as European heatwave moves east",
+          "url": "https://www.irishexaminer.com/world/arid-41870151.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-27T10:01:00.000Z",
+          "description": "Forecasters say hottest conditions spreading into central and eastern Europe"
+        },
+        {
+          "title": "Germany gripped by record temperatures as European heatwave moves east",
+          "url": "https://www.breakingnews.ie/world/germany-gripped-by-record-temperatures-as-european-heatwave-moves-east-1919394.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMjcxNDMyNTVcXFwvR2V0dHlJbWFnZXMtMjI4MjcwOTk2My1lMTc4MjU2NzIxMjU2MS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4NWVhYTQ0ZDk2YjMzMTA5NjI4YWRkMzcwZGUyNWZkNWExN2UzZWM1In0=/gettyimages-2282709963-e1782567212561.jpg",
+          "description": "Scientists said the heatwave would have been virtually impossible without man-made climate change, which has made this week's night-time temperatures 100 times more likely than they would have been even two decades ago."
+        },
+        {
+          "title": "Germany braces for record temperatures as heatwave moves east",
+          "url": "https://www.france24.com/en/europe/20260627-germany-braces-for-record-temperatures-as-heatwave-moves-east",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-27T07:56:41.000Z",
+          "image": "https://s.france24.com/media/display/fdf522b0-71fc-11f1-a32e-005056a90284/w:1024/p:16x9/000-B8EL3ZQ.jpg",
+          "description": "​France, Britain, Switzerland and ‌Germany all experienced record heat in June and the weather system could test more records ⁠as it rolls across Germany towards Poland Saturday. Germany reached a new record of 41.3°C Friday near the city of Saarbruecken close to the French border while dozens of p…"
         }
-      ]
-    },
-    {
-      "id": "topic_7f5384b903b4251",
-      "label": [
-        "knick",
-        "desist",
-        "cease desist",
-        "cease",
-        "candidate",
-        "mamdani back"
       ],
-      "category": "new",
-      "theme": "theme_965cbff514a8a430",
-      "entities": [
-        "Knicks",
-        "Mamdani",
-        "Knicks Hit Mamdani",
-        "Backed NY Senate Candidate",
-        "Aber Kawas With Cease"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Knicks hand Mamdani-backed candidate cease and desist letter for using team's logo in campaign: report",
-          "url": "https://www.foxnews.com/sports/knicks-hand-mamdani-backed-candidate-cease-desist-letter-using-teams-logo-campaign-report",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-27T20:17:15.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/aber-kawas-aaany-rally-fox-news-001.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "Knicks Hit Mamdani-Backed NY Senate Candidate Aber Kawas With Cease-and-Desist Over Campaign Ad",
-          "url": "https://internewscast.com/news/us/knicks-hit-mamdani-backed-ny-senate-candidate-aber-kawas-with-cease-and-desist-over-campaign-ad",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-27T17:55:55.000Z"
-        },
-        {
-          "title": "Knicks slap Mamdani-backed NY Senate candidate Aber Kawas with ‘cease and desist’ letter over campaign ad: ‘False advertising’",
-          "url": "https://nypost.com/2026/06/27/us-news/knicks-slap-mamdani-backed-ny-senate-candidate-aber-kawas-with-cease-and-desist-letter-over-campaign-ad-false-advertising",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-27T17:43:18.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fsocial-media-images-show-campaign-132462121.jpg?w%3D819"
-        }
-      ]
-    },
-    {
-      "id": "topic_1f616216202a8868",
-      "label": [
-        "million",
-        "million people",
-        "people un",
-        "un",
-        "affect",
-        "nearly million"
-      ],
-      "category": "new",
-      "theme": "theme_e22be668b169dcaf",
-      "entities": [
-        "Earthquake",
-        "Venezuela",
-        "UN",
-        "Nearly",
-        "Venezuela Earthquakes May Have"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Earthquake in Venezuela could affect more than 6.7 million people — UN",
-          "url": "https://tass.com/world/2152461",
-          "source": "TASS",
-          "published_at": "2026-06-27T19:04:49.000Z"
-        },
-        {
-          "title": "Venezuela earthquakes: Nearly 7 million may be impacted — UN",
-          "url": "https://www.dw.com/en/venezuela-earthquakes-nearly-7-million-may-be-impacted-un/live-77699720",
-          "source": "Deutsche Welle",
-          "published_at": "2026-06-27T17:43:00.000Z"
-        },
-        {
-          "title": "Venezuela Earthquakes May Have Affected Nearly 7 Million People: UN",
-          "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-may-have-affected-nearly-7-million-people-un-11696335",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-27T16:43:12.000Z",
-          "image": "https://c.ndtvimg.com/2026-06/pn6e7pa_vemezuela-earthquake_625x300_27_June_26.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_9d6e6feebdcca2e8",
-      "label": [
-        "na",
-        "irm",
-        "tenente",
-        "baleado",
-        "irm de",
-        "tenente da"
-      ],
-      "category": "new",
-      "theme": "theme_efa7e0e6fac08310",
-      "entities": [
-        "Irm",
-        "Elo",
-        "Rota",
-        "Caetano",
-        "Grande SP"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Irmão de Eloá, tenente da Rota é baleado na cabeça em avenida de São Caetano",
-          "url": "https://jornaldebrasilia.com.br/nahorah/irmao-de-eloa-tenente-da-rota-e-baleado-na-cabeca-em-avenida-de-sao-caetano",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-06-27T20:42:41.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/06/27174203/captura-de-tela-2026-06-27-125223.jpeg"
-        },
-        {
-          "title": "Tenente da Rota é baleado na cabeça em avenida de São Caetano; vítima é irmão de Eloá Pimentel",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/tenente-da-rota-e-baleado-na-cabeca-em-avenida-de-sao-caetano-vitima-e-irmao-de-eloa-pimentel.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-06-27T17:28:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_1079187a38abb6e7",
-      "label": [
-        "politico",
-        "next mamdani",
-        "mamdani michigan",
-        "michigan",
-        "mamdani",
-        "next"
-      ],
-      "category": "new",
-      "theme": "theme_864cf9f444903b47",
-      "entities": [
-        "Politico",
-        "Mamdani",
-        "Michigan",
-        "Adam Wren",
-        "Next Mamdani"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Politico: в техногигантах США возникла ностальгия по эпохе Байдена",
-          "url": "https://www.mk.ru/politics/2026/06/27/politico-v-tekhnogigantakh-ssha-voznikla-nostalgiya-po-epokhe-baydena.html",
-          "source": "Все материалы - Московский Комсомолец",
-          "published_at": "2026-06-27T19:02:09.000Z",
-          "image": "https://static.mk.ru/upload/entities/2026/06/27/22/articles/facebookPicture/bf/91/b0/4f/a3e2f40ce3173c493f616ff70b87caea.jpg"
-        },
-        {
-          "title": "Is the next Mamdani in Michigan? (Adam Wren/Politico)",
-          "url": "https://www.memeorandum.com/260627/p34",
-          "source": "memeorandum",
-          "published_at": "2026-06-27T17:05:00.000Z",
-          "image": "http://www.memeorandum.com/260627/i34.jpg"
-        },
-        {
-          "title": "Is the Next Mamdani in Michigan?",
-          "url": "https://politicalwire.com/2026/06/27/is-the-next-mamdani-in-michigan",
-          "source": "Political Wire",
-          "published_at": "2026-06-27T16:46:17.000Z"
-        }
-      ]
+      "summary": "A heatwave that brought record June temperatures to several European countries is moving east, with Germany bracing for extreme heat. France, Britain and Switzerland also recorded June temperature records, and deaths were reported in France."
     }
   ]
 }

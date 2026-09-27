@@ -1,605 +1,181 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-12T00:50:06.171Z",
+  "generated_at": "2026-09-27T14:07:04.766Z",
   "topics": [
     {
-      "id": "topic_febc35fd8ccc8807",
+      "id": "topic_4d9f86f71f950aa6",
+      "title": "Ro Khanna Says Armed Israeli Settlers Detained Him in West Bank",
+      "headline": "Ro Khanna Detained by Israeli Settlers in West Bank",
       "label": [
-        "father",
-        "revenge",
-        "iran supreme",
-        "vows",
-        "revenge father",
-        "supreme"
+        "settlers",
+        "israeli",
+        "detained",
+        "bank",
+        "west",
+        "khanna"
       ],
       "category": "new",
-      "theme": "theme_a9db71f07fe4ed75",
+      "theme": "theme_f857d680138ebe",
       "entities": [
-        "Iran",
-        "Mojtaba Khamenei",
-        "Carlo Martuscelli",
-        "Politico",
-        "Supreme Leader"
+        "Ro Khanna Detained",
+        "Israeli Settlers",
+        "West Bank",
+        "Ro Khanna",
+        "Israeli"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 32,
+      "source_count": 27,
       "articles": [
         {
-          "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
-          "url": "https://www.gmanetwork.com/news/topstories/world/994571/iran-s-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-07-11T22:53:52.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/03/iran_new_supreme_leader_mojtaba_khamenei_2026_03_10_14_26_02.jpg"
-        },
-        {
-          "title": "Iran supreme leader vows revenge for father's killing",
-          "url": "https://globalnation.inquirer.net/330503/iran-supreme-leader-vows-revenge-for-fathers-killing",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-11T22:42:01.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260710__B9VY6JC__v1__HighRes__IranUsIsraelWarFuneral-620x413.jpg"
-        },
-        {
-          "title": "Mojtaba Khamenei vows to avenge father’s death in message released during funeral ceremonies",
-          "url": "https://dailypost.ng/2026/07/11/mojtaba-khamenei-vows-to-avenge-fathers-death-in-message-released-during-funeral-ceremonies",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-07-11T20:56:29.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/03/Mojtaba-Khamenei-2-1.jpg"
-        },
-        {
-          "title": "Iran supreme leader calls for revenge after father's burial",
-          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
-          "source": "BBC News",
-          "published_at": "2026-07-11T19:30:36.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "Mojtaba Khamenei vows revenge for his father’s assassination",
-          "url": "https://www.washingtonexaminer.com/news/world/4645105/mojtaba-khamenei-revenge-father",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-11T18:58:00.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26190057827751.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_41a2fbfdaa6b3cde",
-      "label": [
-        "bull",
-        "bull run",
-        "run festival",
-        "runner",
-        "festival",
-        "gor"
-      ],
-      "category": "new",
-      "theme": "theme_dabb15e91565e9e8",
-      "entities": [
-        "Multiple",
-        "Spain",
-        "San Fermin",
-        "Pamplona",
-        "Bull"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Multiple runners injured on chaotic 5th day of Spain's San Fermin bull run festival in Pamplona",
-          "url": "https://www.thestar.com/news/world/europe/multiple-runners-injured-on-chaotic-5th-day-of-spains-san-fermin-bull-run-festival-in/video_851c1d25-5b1b-44b6-ab18-71078df0e533.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-07-11T22:15:00.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851c1d25-5b1b-44b6-ab18-71078df0e533/6a52c12d66197.image.jpg?resize=300%2C169"
-        },
-        {
-          "title": "Bull gores runner in the face at Spain's San Fermin bull run festival",
-          "url": "https://www.yahoo.com/news/world/articles/bull-gores-runner-face-spains-202952722.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-07-11T20:29:52.000Z",
-          "image": "https://media.zenfs.com/en/cbs_news_897/54b158d04e1b26f9cbcad7eaa8cfed52"
-        },
-        {
-          "title": "Runner Gored in Face During Spain’s San Fermín Bull Run Festival",
-          "url": "https://internewscast.com/news/us/runner-gored-in-face-during-spains-san-fermin-bull-run-festival",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-11T19:58:53.000Z"
-        },
-        {
-          "title": "Runner gored in face and at least 12 others injured during Spain’s historic bull run festival",
-          "url": "https://www.independent.co.uk/news/world/europe/bull-run-spain-gored-injured-festival-b3013224.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-11T17:44:37.000Z",
-          "image": "https://static.independent.co.uk/2026/07/11/18/download..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        },
-        {
-          "title": "Runner gored in the face at Spain’s San Fermin bull run festival",
-          "url": "https://www.scmp.com/news/world/europe/article/3360249/runner-gored-face-spains-san-fermin-bull-run-festival",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-07-11T17:18:23.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/bf3e622b-a701-423c-81de-8f4a1679c682_b3825df0.jpg?itok=c2Fplc_9&v=1783790291"
-        }
-      ]
-    },
-    {
-      "id": "topic_d7592383ef519ee5",
-      "label": [
-        "crossbow",
-        "carry crossbow",
-        "crossbow shot",
-        "shot police",
-        "carry",
-        "shot"
-      ],
-      "category": "new",
-      "theme": "theme_ac59d9cbab48ee1e",
-      "entities": [
-        "Man",
-        "Tragedy",
-        "UK",
-        "Newport"
-      ],
-      "article_count": 11,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Man, 21, 'carrying a crossbow' is shot by police following 'threatening behaviour'",
-          "url": "https://www.dailymail.com/news/article-15970671/man-21-carrying-crossbow-shot-police-following-threatening-behaviour.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-07-11T19:08:00.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/11/19/109958481-0-image-a-49_1783794699299.jpg"
-        },
-        {
-          "title": "Tragedy in UK city as man ‘carrying crossbow’ shot by police",
-          "url": "https://www.express.co.uk/news/uk/2228091/tragedy-uk-city-man-crossbow-shot",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-07-11T18:10:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2228091_1.jpg"
-        },
-        {
-          "title": "Man believed to be carrying crossbow shot by police in Newport",
-          "url": "https://www.bbc.co.uk/news/articles/cg74xpemg1eo",
-          "source": "BBC News",
-          "published_at": "2026-07-11T17:59:04.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c94/live/8391a7e0-7d51-11f1-8dd5-cdcf1477b2dd.png"
-        },
-        {
-          "title": "Man with ‘threatening behaviour’ suspected of carrying crossbow shot by police",
-          "url": "https://www.independent.co.uk/news/uk/crime/crossbow-shot-wales-gwent-police-b3013218.html",
-          "source": "The Independent UK",
-          "published_at": "2026-07-11T17:20:51.000Z",
-          "image": "https://static.independent.co.uk/2026/06/10/09/2280087843..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-        }
-      ]
-    },
-    {
-      "id": "topic_45f0cb7e8b94f7a2",
-      "label": [
-        "proud",
-        "proud boys",
-        "boys",
-        "judge",
-        "dismiss",
-        "case"
-      ],
-      "category": "new",
-      "theme": "theme_c5ad2aedf6b05e7d",
-      "entities": [
-        "US",
-        "January",
-        "Proud Boys",
-        "Trump",
-        "Judge Reluctantly Dismisses Proud"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-          "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-11T21:53:40.000Z"
-        },
-        {
-          "title": "Judge Reluctantly Dismisses Proud Boys Case",
-          "url": "https://politicalwire.com/2026/07/11/judge-reluctantly-dismisses-proud-boys-case",
+          "title": "Ro Khanna Detained by Israeli Settlers in West Bank",
+          "url": "https://politicalwire.com/2026/07/11/ro-khanna-detained-by-israeli-settlers-in-west-bank",
           "source": "Political Wire",
-          "published_at": "2026-07-11T20:44:00.000Z"
+          "published_at": "2026-07-11T14:20:22.000Z",
+          "description": "“The Israeli settlers had guns and Representative Ro Khanna was scared,” the New York Times reports. “On Wednesday afternoon, Mr. Khanna, the congressman from Silicon Valley who is exploring a 2028 presidential run, was visiting the ruins of Khirbet Zanuta, a tiny Palestinian Bedouin village in the…"
         },
         {
-          "title": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump's broad clemency (Associated Press)",
-          "url": "https://www.memeorandum.com/260711/p44",
-          "source": "memeorandum",
-          "published_at": "2026-07-11T19:40:00.000Z",
-          "image": "http://www.memeorandum.com/260711/i44.jpg"
+          "title": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxptvitmkl4zfdfrjfocfh0mnvbcvvpcw5outf2tklyt29cx2n3ukpiyy1hynrxuvdmannkb29kx1b0y01xuuf3wm03mvvytw1pdxzgsnhcdhd1vdboddyxrdjxyw1zn1zrdlpbmvzpqjfjd3vlwhrddlnkx0piyuwtnvfb0gghaufvx3lxte9bnnprcnbjx19low1swgexswnrbzlrdudjclb5afdqehffx3q5yu1byxl0v29esxpyufdbzhd6wvpqekjqlw9qduqyzmvtrujvutuyaedjqwpptmtirzduc00xlwdnc0jazv95uljwy0vwqk4tzunuxzdrwuuyr05pndbnszfpdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-11T18:52:00.000Z",
+          "description": "Ro Khanna says he was detained by armed Israeli settlers in West Bank The Hill An American Politician Is Blocked by Israeli Settlers in the West Bank The New York Times Democratic congressman says he was detained by the Israeli military and settlers in the West Bank WCVB US congressman says he was…"
         },
         {
-          "title": "Judge Dismisses Remaining Proud Boys Seditious Conspiracy Case After Trump Clemency",
-          "url": "https://internewscast.com/local-news/judge-dismisses-remaining-proud-boys-seditious-conspiracy-case-after-trump-clemency",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-11T17:29:10.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_d8df3c2522b2db36",
-      "label": [
-        "bournemouth",
-        "jimenez",
-        "fiorentina",
-        "loan",
-        "bournemouth jimenez",
-        "jimenez set"
-      ],
-      "category": "new",
-      "theme": "theme_e90e2faac040a904",
-      "entities": [
-        "Bournemouth",
-        "Alex Jimenez",
-        "Fiorentina",
-        "Jimenez"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Bournemouth's Alex Jimenez joins Fiorentina on loan amid investigation into alleged messages with 15-year-old girl",
-          "url": "https://www.dailymail.com/sport/football/article-15970725/bournemouth-alex-jimenez-fiorentina-loan-investigation.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-07-11T20:07:03.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/11/20/109959213-0-image-a-25_1783799370610.jpg"
-        },
-        {
-          "title": "Bournemouth's Jimenez set for loan move to Fiorentina",
-          "url": "https://sports.yahoo.com/articles/bournemouths-jimenez-set-loan-move-170616784.html",
-          "published_at": "2026-07-11T17:14:34.000Z"
-        },
-        {
-          "title": "Bournemouth's Jimenez set for loan move to Fiorentina amid investigation",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgd7z5xjvno",
-          "source": "BBC Sport",
-          "published_at": "2026-07-11T17:06:11.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6395/live/e77a8640-7d48-11f1-8f64-eb3a3e4a4713.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_141a1da4bc733878",
-      "label": [
-        "football",
-        "football 27",
-        "college football",
-        "27",
-        "college",
-        "microtransaction"
-      ],
-      "category": "new",
-      "theme": "theme_b128bd6638ab7a9d",
-      "entities": [
-        "Did Colorado",
-        "College Football",
-        "EA Reverses Course On",
-        "Microtransactions Following Player Revolt",
-        "Remove Single Player Microtransactions"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Did Colorado football opt out of 'College Football 27' over controversy?",
-          "url": "https://sports.yahoo.com/articles/did-colorado-football-opt-college-194117976.html",
-          "published_at": "2026-07-11T19:41:17.000Z"
-        },
-        {
-          "title": "EA Reverses Course On College Football 27 Microtransactions Following Player Revolt",
-          "url": "https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972",
-          "source": "Kotaku",
-          "published_at": "2026-07-11T18:01:20.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/07/eacollegefootball-1280x720.jpg"
-        },
-        {
-          "title": "College Football 27 to Remove Single Player Microtransactions After Fans Threatened Boycott",
-          "url": "https://www.pushsquare.com/news/2026/07/college-football-27-to-remove-single-player-microtransactions-after-fans-threatened-boycott",
-          "source": "Push Square | Latest Updates",
-          "published_at": "2026-07-11T17:30:00.000Z",
-          "image": "https://images.pushsquare.com/532c054685876/large.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_cc78dbb403d41fee",
-      "label": [
-        "francia",
-        "toro",
-        "etapa",
-        "del toro",
-        "general tras",
-        "general"
-      ],
-      "category": "new",
-      "theme": "theme_b2278ebeff66f8bf",
-      "entities": [
-        "Tour",
-        "Francia",
-        "Isaac",
-        "Toro",
-        "Etapa"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Tour de Francia 2026: Isaac del Toro retiene el tercer lugar de la clasificación general tras la Etapa 8",
-          "url": "https://vanguardia.com.mx/deportes/tour-de-francia-2026-isaac-del-toro-retiene-el-tercer-lugar-de-la-clasificacion-general-tras-la-etapa-8-fb22100885",
-          "source": "Vanguardia",
-          "published_at": "2026-07-11T22:24:08.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/isaac-del-toro-tour-de-francia_1-16118432_20260711223608.jpg"
-        },
-        {
-          "title": "Sigue Del Toro tercero general tras Etapa 8 en Francia",
-          "url": "https://www.elnorte.com/sigue-del-toro-tercero-general-tras-etapa-8-en-francia/ar3238625",
-          "source": "ElNorte",
-          "published_at": "2026-07-11T16:35:14.000Z"
-        },
-        {
-          "title": "Sigue Del Toro tercero general tras Etapa 8 en Francia",
-          "url": "https://www.reforma.com/sigue-del-toro-tercero-general-tras-etapa-8-en-francia/ar3238623",
-          "source": "Reforma",
-          "published_at": "2026-07-11T16:28:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_435eee57affee5f7",
-      "label": [
-        "manipur",
-        "security forc",
-        "clash",
-        "forc",
-        "security",
-        "forc avert"
-      ],
-      "category": "new",
-      "theme": "theme_b309f24ff7956123",
-      "entities": [
-        "Manipur",
-        "Six",
-        "Meitei",
-        "Arrested After Houses Set",
-        "On Fire In Manipur"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Manipur: Six abandoned Meitei houses torched, security forces avert communal clash",
-          "url": "https://www.indiatoday.in/india/story/manipur-six-abandoned-meitei-houses-torched-in-imphal-west-security-forces-avert-communal-clash-2945955-2026-07-12",
+          "title": "Ro Khanna says armed Israeli settlers detained him during West Bank visit",
+          "url": "https://www.indiatoday.in/world/story/ro-khanna-west-bank-visit-israeli-settlers-idf-detention-ptag-2945885-2026-07-11",
           "source": "India Today | Latest Stories",
-          "published_at": "2026-07-11T20:17:54.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/manipur-security-forces-281654443-16x9.png?VersionId=geUnHPRmn8km1_zTyMs1TT1NQCbmX457"
+          "published_at": "2026-07-11T16:16:27.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-3-original_108-sixteen_nine.png?VersionId=BSJ_d_09I5BkeplMy0WuzDIcySTJJ.tl"
         },
         {
-          "title": "2 Arrested After Houses Set On Fire In Manipur, Security Forces Avert Clash",
-          "url": "https://www.ndtv.com/india-news/2-arrested-after-houses-set-on-fire-in-manipur-security-forces-avert-clash-11759331",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-11T17:57:39.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/jbnuui6_manipur_625x300_11_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+          "title": "House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+          "url": "https://www.foxnews.com/politics/house-democrat-ro-khanna-detained-armed-israeli-settlers-west-bank",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-07-11T16:02:43.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Khanna_Israel1.jpg?ve=1&tl=1",
+          "description": "Ro Khanna claims armed Israeli settlers with U.S.-made M4 rifles detained his group in the West Bank before IDF troops arrived on the scene."
         },
         {
-          "title": "Manipur clash bid thwarted by security forces: Police",
-          "url": "https://www.thehindu.com/news/national/manipur/manipur-clash-bid-thwarted-by-security-forces-police/article71210970.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-11T16:32:25.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/73jtvh/article71211423.ece/alternates/LANDSCAPE_1200/20260711395L.jpg"
+          "title": "US Democrat Ro Khanna ‘detained’ by Israeli settlers during West Bank visit",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360247/us-democrat-ro-khanna-detained-israeli-settlers-during-west-bank-visit",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-07-11T15:12:07.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/a72998f2-d9d4-4bcd-97a1-3cb96346f7c9_a2026576.jpg?itok=5BNrxupd&v=1783782723",
+          "description": "US Democratic lawmaker Ro Khanna said ⁠he was detained by Israeli settlers armed with US-made rifles during a West Bank visit this week that he cast as an unfiltered look at the human toll of Israeli occupation as he weighs a 2028 presidential run. Speaking with reporters on Thursday in a Palestini…"
         }
-      ]
+      ],
+      "summary": "The California congressman said armed Israeli settlers detained him and his group during a West Bank visit. Reports say Israeli troops later arrived."
     },
     {
-      "id": "topic_c982e5e8485102c6",
+      "id": "topic_9828a0ad5470e15c",
+      "title": "15 Indian Tourists Killed in Boat Capsizing Near Vietnam",
+      "headline": "Indian tourists killed when boat capsizes in Vietnam",
       "label": [
-        "nutzerin",
-        "eisernen",
-        "letzte nutzerin",
-        "eisernen lunge",
-        "letzte",
-        "lunge"
-      ],
-      "category": "new",
-      "theme": "theme_3ed7fd36112d5ce",
-      "entities": [
-        "Ersatzteile",
-        "Jahren",
-        "Wohl",
-        "Nutzerin",
-        "Eisernen Lunge"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Ersatzteile aus den 40er Jahren: Wohl letzte Nutzerin einer Eisernen Lunge gestorben",
-          "url": "https://www.n-tv.de/panorama/wohl-letzte-nutzerin-einer-eisernen-lunge-gestorben-id31075694.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-07-11T18:49:33.000Z",
-          "image": "https://www.n-tv.de/img/31075777/1783800203/Img_4_3/250/Eine-ausrangierte-Eiserne-Lunge-steht-im-Pathologischen-Institut-Schwabing.jpg"
-        },
-        {
-          "title": "Kinderlähmung: Letzte Nutzerin der Eisernen Lunge ist gestorben – Martha Lillard ist tot",
-          "url": "https://www.spiegel.de/wissenschaft/kinderlaehmung-letzte-nutzerin-der-eisernen-lunge-ist-gestorben-a-d967a223-1942-42b2-af40-b63671870dcd",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-07-11T17:20:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/4514c190-d8d2-4720-b95a-621cb8d54693_w520_r2.08_fpx37_fpy33.jpg"
-        },
-        {
-          "title": "Kinderlähmung: Polio: Wohl letzte Nutzerin einer Eisernen Lunge gestorben",
-          "url": "https://www.zeit.de/news/2026-07/11/polio-wohl-letzte-nutzerin-einer-eisernen-lunge-gestorben",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-07-11T16:19:17.000Z",
-          "image": "https://img.zeit.de/news/2026-07/11/polio-wohl-letzte-nutzerin-einer-eisernen-lunge-gestorben-image-group/original__640x360"
-        }
-      ]
-    },
-    {
-      "id": "topic_b11a9d91f4880cef",
-      "label": [
-        "promete",
-        "supremo",
-        "vengar",
-        "der supremo",
-        "muerte",
-        "muerte de"
-      ],
-      "category": "new",
-      "theme": "theme_c341dd82cf72cf9b",
-      "entities": [
-        "Promete Mojtaba Jamene",
-        "Jamene",
-        "Ir",
-        "Al",
-        "Jamenei"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Promete Mojtaba Jameneí, líder supremo iraní promete vengar la muerte de Jameneí y aprecia participación en funeral",
-          "url": "https://vanguardia.com.mx/noticias/promete-mojtaba-jamenei-lider-supremo-irani-promete-vengar-la-muerte-de-jamenei-y-aprecia-participacion-en-funeral-pj22090917",
-          "source": "Vanguardia",
-          "published_at": "2026-07-11T20:29:00.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/imagen-dims-apnews_1-16117478_20260711202720.jpg"
-        },
-        {
-          "title": "Líder supremo de Irán promete vengar muerte de Alí Jamenei",
-          "url": "https://www.elnorte.com/lider-supremo-de-iran-promete-vengar-muerte-de-ali-jamenei/ar3238634",
-          "source": "ElNorte",
-          "published_at": "2026-07-11T17:19:52.000Z"
-        },
-        {
-          "title": "Promete líder supremo de Irán vengar muerte de Alí Jamenei",
-          "url": "https://www.reforma.com/promete-lider-supremo-de-iran-vengar-muerte-de-ali-jamenei/ar3238633",
-          "source": "Reforma",
-          "published_at": "2026-07-11T17:19:15.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_f9038680a1b7c767",
-      "label": [
-        "tourist",
+        "tourists",
         "vietnam",
         "indian",
-        "capsiz",
-        "indian tourist",
-        "tourist kill"
+        "capsizes",
+        "boat",
+        "killed"
       ],
       "category": "new",
-      "theme": "theme_ed5ad810e43462e2",
+      "theme": "theme_11124c1d8e42fc08",
       "entities": [
         "Indian",
         "Vietnam",
         "Phu Quoc",
-        "Three Andhra Pradesh",
-        "Indians"
+        "Phu Quoc Island",
+        "Ph"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 24,
+      "source_count": 15,
       "articles": [
+        {
+          "title": "Indian tourists killed when boat capsizes in Vietnam",
+          "url": "https://www.dw.com/en/indian-tourists-killed-when-boat-capsizes-in-vietnam/a-77916717",
+          "source": "Deutsche Welle",
+          "published_at": "2026-07-11T13:49:00.000Z",
+          "description": "The Indian Embassy released the names of all 32 Indians who were aboard the boat that capsized near Phu Quoc island in Vietnam. At least 15 of them died."
+        },
         {
           "title": "Indian tourists killed after speedboat capsizes in Vietnam",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-11T23:35:23.000Z"
+          "published_at": "2026-07-11T23:35:23.000Z",
+          "description": "Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island."
         },
         {
-          "title": "Vietnam tragedy: 15 Indian tourists killed as boat capsizes near Phu Quoc",
-          "url": "https://timesofindia.indiatimes.com/india/15-indian-tourists-killed-as-boat-capsizes-in-vietnam/articleshow/132337668.cms",
-          "source": "Times of India",
-          "published_at": "2026-07-11T21:27:10.000Z",
-          "image": "https://static.toiimg.com/photo/msid-132337675,imgsize-1436245.cms"
+          "title": "15 Indian tourists killed as speedboat capsizes off Vietnam's Phu Quoc",
+          "url": "https://www.indiatoday.in/world/story/vietnam-speedboat-capsize-kills-15-indian-tourists-near-phu-quoc-ptag-2945737-2026-07-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-11T12:18:24.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_95-sixteen_nine.png?VersionId=_O9adoc25jJHWvm5rQEnl8.OKDU4RjdK",
+          "description": "Indian tourists killed as speedboat capsizes off Vietnams Phu Quoc"
         },
         {
-          "title": "Three Andhra Pradesh tourists among 15 Indians killed in Vietnam boat tragedy",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-andhra-pradesh-tourists-among-15-indians-killed-in-vietnam-boat-tragedy/article71211090.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-07-11T16:11:59.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/9zitjt/article71211372.ece/alternates/LANDSCAPE_1200/10215_11_7_2026_20_15_30_1_IMG_20260711_WA0080.JPG"
+          "title": "Vietnam: 15 Indian tourists killed as boat capsizes off Phú Quốc island",
+          "url": "https://scroll.in/latest/1094207/vietnam-15-indian-tourists-killed-after-boat-capsizes-off-phu-quoc-island",
+          "source": "Scroll.in",
+          "published_at": "2026-07-11T12:36:46.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/214440-jofcobjrdw-1783772952.jpg",
+          "description": "The cause of the accident was being investigated."
+        },
+        {
+          "title": "15 Indian Tourists Killed After Speedboat Capsizes Near Vietnam's Phu Quoc Island - VIDEO",
+          "url": "https://www.freepressjournal.in/world/15-indian-tourists-killed-after-speedboat-capsizes-near-vietnams-phu-quoc-island-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-11T10:44:27.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-11/527cb52k/Untitled-design-2026-07-11T161503.846.jpg"
         }
-      ]
+      ],
+      "summary": "A boat carrying Indian tourists capsized near Phu Quoc island in Vietnam, killing at least 15 people. Authorities were investigating the cause."
     },
     {
-      "id": "topic_f38b712961afb3eb",
+      "id": "topic_1298d58263187195",
+      "title": "US Subpoenas New York Times Journalists Over Air Force One Reporting",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "label": [
-        "peller",
-        "jarvi",
-        "peller jarvi",
-        "announce wedd",
-        "wedd date",
-        "date"
-      ],
-      "category": "new",
-      "theme": "theme_e627f55c8293d5b3",
-      "entities": [
-        "Peller",
-        "Jarvis",
-        "VIDEO"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Peller, Jarvis announce wedding date [VIDEO]",
-          "url": "https://dailypost.ng/2026/07/11/peller-jarvis-announce-wedding-date-video",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-07-11T18:26:11.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2026/01/Peller.jpg"
-        },
-        {
-          "title": "Peller, Jarvis announce wedding date",
-          "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/894626-peller-jarvis-announce-wedding-date.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-07-11T17:02:22.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/8C3ACC5E-20B0-4070-A370-3C1410223801.jpeg?fit=720%2C405&amp;ssl=1"
-        },
-        {
-          "title": "\"The wait is almost over\": Peller and Jarvis finally announce their wedding date with thriller-style video",
-          "url": "https://www.legit.ng/entertainment/celebrities/1718804-wait-peller-jarvis-finally-announce-wedding-date-dramatic-video",
-          "source": "Legit.ng",
-          "published_at": "2026-07-11T16:41:19.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/9c8687e9dd70177e.jpeg?v=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_290cfbaf6ee08d26",
-      "label": [
-        "nyt",
-        "subpoena",
-        "tim",
-        "york tim",
+        "subpoenas",
+        "force",
+        "times",
+        "air",
         "york",
-        "force one"
+        "one"
       ],
-      "category": "new",
-      "theme": "theme_4eafc4944c2ad640",
+      "category": "trending",
+      "theme": "theme_68562cdb09df41a7",
       "entities": [
         "Trump",
         "New York Times",
-        "Trump Attacks Democrats",
-        "Media After Subpoenaing The",
-        "Air Force One"
+        "Air Force One",
+        "Trump Administration Subpoenas New",
+        "York Times Reporters After"
       ],
-      "article_count": 21,
-      "source_count": 19,
+      "article_count": 41,
+      "source_count": 29,
       "articles": [
         {
-          "title": "Trump administration panned for New York Times subpoenas",
-          "url": "https://www.politico.eu/article/trump-administration-panned-for-new-york-times-subpoenas",
-          "source": "POLITICO",
-          "published_at": "2026-07-11T23:25:49.000Z"
+          "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o",
+          "source": "BBC News",
+          "published_at": "2026-07-11T15:40:23.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
+          "description": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar."
         },
         {
-          "title": "Trump Attacks Democrats and Media After Subpoenaing The New York Times",
-          "url": "https://internewscast.com/news/us/trump-attacks-democrats-and-media-after-subpoenaing-the-new-york-times",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-11T21:55:58.000Z"
+          "title": "Trump administration subpoenas New York Times journalists over Air Force One story",
+          "url": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-11T19:25:29.000Z",
+          "image": "https://s.france24.com/media/display/0d2306f8-7abd-11f1-b1dc-005056bf30b7/w:1024/p:16x9/000-B9L87BZ.jpg",
+          "description": "The New York Times said on Saturday that the US Department of Justice had ​ordered several of its journalists to testify before a federal grand jury after they reported on security concerns involving President Donald Trump's new Qatari-donated Air Force One."
+        },
+        {
+          "title": "Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting",
+          "url": "https://news.google.com/rss/articles/cbmiygfbvv95cuxodthgt1l5y2xbv3jqd2tvngjuvzvobu1puu1fedztqupnmi01yljmruxjwjlyoufsnwm0eulhytuzs1jrrvbodkfnum80vwfpmw0wsnrkbunwnjnpetvpr2xfds1ywwltvhlxrvb6vddmoupnlwlxbm9lwvj6df9amfhzqmlmu0hjuelln3jpdevcovjinw5tuui0b1q0azbrq2vonnpqs0dvzjlswxp0snr5oefmbljuewrpvnv6dfcym3hvutyws3v3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-11T23:18:00.000Z",
+          "description": "Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting WSJ White House Directed Patel to Oversee Investigation Involving Times Reporting - The New York Times The New York Times 4 Reporters Subpoenaed After Asking About President Trump's Qatari Air Force One's Defenses…"
         },
         {
           "title": "Trump administration subpoenas New York Times reporters over Air Force One leak",
@@ -609,273 +185,786 @@
           "image": "https://i-invdn-com.investing.com/news/LYNXMPECB60A7_M.jpg"
         },
         {
-          "title": "Multiple New York Times reporters issued subpoenas over Air Force One reporting",
-          "url": "https://japantoday.com/category/world/multiple-new-york-times-reporters-issued-subpoenas-over-air-force-one-reporting",
-          "source": "Japan Today",
-          "published_at": "2026-07-11T20:55:46.000Z"
-        },
-        {
-          "title": "Trump Lashes Out at New York Times Journalists as DOJ Subpoenas Newspaper",
-          "url": "https://internewscast.com/news/trump-lashes-out-at-new-york-times-journalists-as-doj-subpoenas-newspaper",
-          "source": "Internewscast Journal",
-          "published_at": "2026-07-11T20:44:03.000Z"
+          "title": "Trump administration subpoenas New York Times journalists who reported security concerns around new Air Force One",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-administration-subpoenas-times-journalists-102459290.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-11T21:07:02.000Z",
+          "image": "https://media.zenfs.com/en/cnn_articles_875/45a9613656470f16e34360324e98d534"
         }
-      ]
+      ],
+      "summary": "The Justice Department subpoenaed New York Times journalists who reported on security concerns involving a new Air Force One aircraft gifted by Qatar."
     },
     {
-      "id": "topic_5b2dc7332d2522e3",
+      "id": "topic_5d2e044e96e52b18",
+      "title": "Spain Beats Belgium 2-1 to Reach World Cup Semifinals",
+      "headline": "World Cup 2026 Spain Beat Belgium 2-1 to Reach the Semi-Finals",
       "label": [
-        "landfall",
-        "mak landfall",
-        "china",
-        "typhoon",
-        "bavi",
-        "bavi mak"
+        "semi",
+        "spain",
+        "belgium",
+        "cup",
+        "world",
+        "final"
       ],
       "category": "new",
-      "theme": "theme_215e0c32848e9c34",
+      "theme": "theme_2d27af55211ef489",
       "entities": [
-        "Bavi",
-        "China",
-        "Typhoon Bavi",
-        "Taizhou",
-        "BBC"
+        "World Cup",
+        "Spain Beat Belgium",
+        "Reach",
+        "Semi",
+        "Finals"
       ],
-      "article_count": 10,
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "World Cup 2026 Spain Beat Belgium 2-1 to Reach the Semi-Finals",
+          "url": "https://www.riotimesonline.com/world-cup-2026-spain-belgium-2-1",
+          "source": "The Rio Times",
+          "published_at": "2026-07-11T05:39:14.000Z",
+          "description": "World Cup 2026 Spain beat Belgium 2-1 in Los Angeles as Mikel Merino struck late again to set up a mouth-watering semi-final against France. The post World Cup 2026 Spain Beat Belgium 2-1 to Reach the Semi-Finals appeared first on The Rio Times."
+        },
+        {
+          "title": "Spain edge Belgium 2-1 to enter World Cup semi-final",
+          "url": "https://www.thehindu.com/videos/spain-edge-belgium-2-1-to-enter-world-cup-semi-final/article71210000.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-11T09:57:14.000Z"
+        },
+        {
+          "title": "World Cup 2022: Spain edge Belgium, set up semi-final showdown with France",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260711-world-cup-2022-spain-edge-belgium-set-up-semi-final-showdown-with-france",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-11T08:11:45.000Z",
+          "image": "https://s.france24.com/media/display/435659e8-7ccd-11f1-9fa2-005056a90284/w:1024/p:16x9/AP26191788843804.jpg",
+          "description": "Spain booked their place in the World Cup semi-finals on Friday with a dramatic 2-1 victory over Belgium, sealed by a late winner from Mikel Merino. La Roja will now face France on Tuesday for a place in the final."
+        },
+        {
+          "title": "Spain into World Cup semi-final with France after late strike against Belgium",
+          "url": "https://www.thelocal.es/20260711/spain-into-world-cup-semi-final-with-france-after-late-strike-against-belgium",
+          "source": "The Local Spain",
+          "published_at": "2026-07-11T06:32:52.000Z",
+          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/AFP__20260710__B9W4992__v1__MidRes__FblWc2026Match98EspBel.jpg@webp",
+          "description": "Spain struck late to beat Belgium 2-1 on Friday and move onto a blockbuster World Cup semi-final against France after a game decided by a goalkeeping error from Senne Lammens."
+        },
+        {
+          "title": "World Cup: Spain beats Belgium 2-1, faces France in semifinals",
+          "url": "https://cebudailynews.inquirer.net/746545/world-cup-spain-beats-belgium-2-1-faces-france-in-semifinals",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-11T17:50:43.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/07/AFP__20260710__B9W39AD__v1__HighRes__FblWc2026Match98EspBel-620x413.jpg",
+          "description": "LOS ANGELES, United States — Spain struck late to beat Belgium 2-1 on Friday and move onto a blockbuster World Cup semi-final against France after a game decided by a goalkeeping error from Senne Lammens. European champions Spain will face the team that have rapidly become tournament favorites in A…"
+        }
+      ],
+      "summary": "Spain defeated Belgium 2-1 with a late goal from Mikel Merino, advancing to a World Cup semifinal against France."
+    },
+    {
+      "id": "topic_a416cf5c5c3f07c3",
+      "title": "India and New Zealand Establish Strategic Partnership",
+      "headline": "PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership",
+      "label": [
+        "zealand",
+        "strategic",
+        "partnership",
+        "india",
+        "ties",
+        "modi"
+      ],
+      "category": "new",
+      "theme": "theme_8f9729d1205515a4",
+      "entities": [
+        "PM Modi",
+        "New Zealand LIVE",
+        "India",
+        "New Zealand",
+        "Modi"
+      ],
+      "article_count": 15,
       "source_count": 9,
       "articles": [
         {
-          "title": "Bavi makes landfall in China after forcing nearly 2 million to flee",
-          "url": "https://globalnation.inquirer.net/330483/bavi-makes-landfall-in-china-after-forcing-nearly-2-million-to-flee",
-          "source": "INQUIRER.net",
-          "published_at": "2026-07-11T22:16:04.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/07/AFP__20260710__B9U38NH__v4__HighRes__TaiwanWeatherTyphoon-620x413.jpg"
+          "title": "PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership",
+          "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-11T03:41:16.000Z",
+          "description": "Prime Minister Narendra Modi landed in Auckland last night in the third and final leg of his three-nation tour that largely focused on expanding cooperation in the Indo-Pacific against the backdrop of China’s increasing assertiveness in the region"
         },
         {
-          "title": "Typhoon Bavi makes landfall in eastern China's Taizhou after nearly 2 million evacuated",
-          "url": "https://japantoday.com/category/world/typhoon-bavi-makes-landfall-in-eastern-china%27s-taizhou-after-nearly-2-million-evacuated",
-          "source": "Japan Today",
-          "published_at": "2026-07-11T20:56:29.000Z"
+          "title": "India, New Zealand elevate ties to strategic partnership during Modi’s visit",
+          "url": "https://tribune.com.pk/story/2617668/india-new-zealand-elevate-ties-to-strategic-partnership-during-modis-visit",
+          "source": "express tribune",
+          "published_at": "2026-07-11T00:53:17.000Z",
+          "description": "New Zealand Prime Minister Christopher Luxon hosts Prime Minister Narendra Modi"
         },
         {
-          "title": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
-          "url": "https://www.france24.com/en/access-asia/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-07-11T19:44:32.000Z",
-          "image": "https://s.france24.com/media/display/5b811592-7d60-11f1-b339-005056bfb2b6/w:1024/p:16x9/AP26192453063980.jpg"
+          "title": "India, New Zealand elevate ties to strategic partnership; target ₹35,000 crore trade by 2030",
+          "url": "https://www.thehindubusinessline.com/news/india-new-zealand-elevate-ties-to-strategic-partnership-target-35000-crore-trade-by-2030/article71209378.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-07-11T04:45:03.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/ubjug7/article71209398.ece/alternates/LANDSCAPE_1200/460424475.jpg",
+          "description": "The meeting resulted in 18 outcomes, including 10 agreements, notably a roadmap to expand ties over the next four years"
         },
+        {
+          "title": "India, New Zealand Elevate Ties To Strategic Partnership; Set ₹35,000 Crore Trade Target By 2030",
+          "url": "https://www.freepressjournal.in/business/india-new-zealand-elevate-ties-to-strategic-partnership-set-35000-crore-trade-target-by-2030",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-11T04:47:07.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-07-11/2n98sabc/HM6iYpAagAEuSn8.jpg"
+        },
+        {
+          "title": "New Zealand and India form ‘strategic partnership’",
+          "url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/politics/new-zealand-india-strategic-partnership",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-07-11T04:35:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/11/551140.jpg",
+          "description": "Prime Minister Narendra Modi's visit comes shortly after China test-fired a ballistic missile into the Pacific Ocean on Monday, stirring unease in the region."
+        }
+      ],
+      "summary": "During Prime Minister Narendra Modi’s visit, India and New Zealand elevated their relationship to a strategic partnership. The countries set a trade target of ₹35,000 crore by 2030 and announced agreements and other outcomes."
+    },
+    {
+      "id": "topic_93eed87d43494a84",
+      "title": "Typhoon Bavi Makes Landfall in China After Mass Evacuations",
+      "headline": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
+      "label": [
+        "evacuated",
+        "bavi",
+        "million",
+        "typhoon",
+        "china",
+        "landfall"
+      ],
+      "category": "new",
+      "theme": "theme_94d721af55b8da63",
+      "entities": [
+        "Typhoon Bavi",
+        "China",
+        "Zhejiang",
+        "Al Jazeera",
+        "AP News"
+      ],
+      "article_count": 15,
+      "source_count": 11,
+      "articles": [
         {
           "title": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
           "url": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china",
           "source": "France 24 - International breaking news, top stories and headlines",
           "published_at": "2026-07-11T19:44:32.000Z",
-          "image": "https://s.france24.com/media/display/5b811592-7d60-11f1-b339-005056bfb2b6/w:1024/p:16x9/AP26192453063980.jpg"
+          "image": "https://s.france24.com/media/display/5b811592-7d60-11f1-b339-005056bfb2b6/w:1024/p:16x9/AP26192453063980.jpg",
+          "description": "Chinese authorities evacuated more than 1.7 million people as of Saturday as Typhoon Bavi made landfall in the country's eastern province of Zhejiang. Hundreds of flights have also been cancelled, and some high-speed railway services have been halted. Bavi is the second typhoon to impact China in j…"
         },
         {
-          "title": "Typhoon Bavi makes landfall in east China with more than one million evacuated",
-          "url": "https://www.breakingnews.ie/world/typhoon-bavi-makes-landfall-in-east-china-with-more-than-one-million-evacuated-1925522.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTExNzEzMjJcXFwvOTQwNDNlM2Q2MjczNGQ4ODhkMzkwZDliNDViNGI0YmUtMS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZjliZDYwMjYwYTUzNThlZmFmOTY1M2YxNDU0MWQzZjgzZjM5YjFiIn0=/94043e3d62734d888d390d9b45b4b4be-1.jpg"
+          "title": "Typhoon Bavi makes landfall in eastern China, over 1 million evacuated",
+          "url": "https://timesofindia.indiatimes.com/world/china/typhoon-bavi-makes-landfall-in-eastern-china-over-1-million-evacuated/articleshow/132334802.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-11T17:05:16.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132334815,imgsize-1601216.cms"
+        },
+        {
+          "title": "China evacuates 2 million as Typhoon Bavi makes landfall in Zhejiang",
+          "url": "https://www.indiatoday.in/world/story/typhoon-bavi-eastern-china-evacuation-2-million-zhejiang-landfall-ptag-2945918-2026-07-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-11T17:14:29.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_99-sixteen_nine.png?VersionId=o.dPGUMeQtdz2EftErVwBvgUyOOMAxHs",
+          "description": "China evacuates million as Typhoon Bavi makes landfall in Zhejiang"
+        },
+        {
+          "title": "More than 1.7 million evacuated as Typhoon Bavi makes landfall in China",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxonmhkzvuzohhlagzlv1jpdvp6a3nyovpuakmwc3l3n2fpnuk4wmvvyvhuzjm1edu1zejjr21rvdnycfhvovy2n0nlszf5qmxubk1psthxegs0dwt1tdbhuzzkufe4qmtzcxnszfjxy1bbsdlnnuzfcuf1mnbeczdqd3nldejaqzkyafrdluzrdzvnqvdqvvrqvy0tvffyufjmegxmmwjrteneafpfdur30gg0aufvx3lxte1rqi1nz2f4sedgchjvbtbjrjdxctfqyw9hoxnbum8xd3v3cmzotfjoz2nhu2lqejd2c2lwn1fldus2blvsa19houfuruj5ofrxu0nea09tzedrugrnzdf1x1hwm1ndsxrhcehha0rxys1hs0jsvwhhsxczshbhue9jm2jstkjgv3hovlrwuy1vvjfuwhvlrmfzzf85rkvubvjqanrfc0ntrudwckzsm3hzrmrrcw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-11T19:07:33.000Z",
+          "description": "More than 1.7 million evacuated as Typhoon Bavi makes landfall in China Al Jazeera China's second typhoon in a week makes landfall BBC China evacuates over one million as Typhoon Bavi nears Yahoo Super Typhoon Bavi hammered Rota, Guam, US Northern Mariana Islands at category 5 strength The Weather…"
+        },
+        {
+          "title": "Typhoon Bavi makes landfall in eastern China's Taizhou after nearly 2 million evacuated",
+          "url": "https://japantoday.com/category/world/typhoon-bavi-makes-landfall-in-eastern-china%27s-taizhou-after-nearly-2-million-evacuated",
+          "source": "Japan Today",
+          "published_at": "2026-07-11T20:56:29.000Z",
+          "description": "Typhoon Bavi made landfall late on Saturday in the coastal city of Taizhou in eastern China, where nearly 2 million people were evacuated, having ‌earlier pummelled Japan's southern…"
         }
-      ]
+      ],
+      "summary": "Typhoon Bavi made landfall in eastern China’s Zhejiang province, prompting authorities to evacuate more than 1.7 million people. Flights were cancelled."
     },
     {
-      "id": "topic_f0886c65f3c16b2e",
+      "id": "topic_37e73552510b2749",
+      "title": "South African World Cup Midfielder Jayden Adams Dies at 25",
+      "headline": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
       "label": [
-        "knight",
-        "captain",
-        "former",
-        "captain knight",
-        "knight announc",
-        "former england"
+        "south",
+        "adams",
+        "africa",
+        "jayden",
+        "dies",
+        "cup"
       ],
-      "category": "new",
-      "theme": "theme_ad8e5d41bd0e4047",
+      "category": "trending",
+      "theme": "theme_dd507b3b7a3c600c",
       "entities": [
-        "Former Captain Heather Knight",
-        "To Retire From England",
-        "Women",
-        "Duty After Lord",
-        "Test"
+        "South Africa",
+        "World Cup",
+        "Jayden Adams",
+        "South Africa World Cup",
+        "Adams"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 42,
+      "source_count": 26,
       "articles": [
         {
-          "title": "Former Captain Heather Knight To Retire From England Women's Duty After Lord's Test",
-          "url": "https://sports.ndtv.com/cricket/former-captain-heather-knight-to-retire-from-england-womens-duty-after-lords-test-11759512",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-07-11T20:21:04.000Z",
-          "image": "https://c.ndtvimg.com/2026-07/7ajab4m_heather-knight-afp_625x300_12_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+          "title": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
+          "url": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-11T15:00:42.000Z",
+          "image": "https://s.france24.com/media/display/4f6b913e-7d37-11f1-a346-005056bf30b7/w:1024/p:16x9/AP26170519899759-1.jpg",
+          "description": "South Africa midfielder Jayden Adams has died at the age of 25, according to the country's sports ministry on Saturday. Officials have not disclosed a cause of death for the football player who represented his country in the ongoing World Cup. Police opened an investigation after Adams' body was fo…"
         },
         {
-          "title": "Former England captain Heather Knight to retire from international cricket",
-          "url": "https://www.theguardian.com/sport/2026/jul/11/former-england-captain-heather-knight-to-retire-from-international-cricket",
-          "source": "Cricket | The Guardian",
-          "published_at": "2026-07-11T19:47:03.000Z",
-          "image": "https://i.guim.co.uk/img/media/6fe65984534aa7e3170e3d9d8a6a94e9650a7b6e/140_94_1295_1036/master/1295.jpg?width=140&quality=85&auto=format&fit=max&s=d8ae8de9350a2f3c5e06d471cfb87126"
+          "title": "South Africa World Cup midfielder Jayden Adams dies aged 25",
+          "url": "https://www.irishexaminer.com/sport/soccer/arid-41877941.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-07-11T14:57:00.000Z",
+          "description": "Adams featured in all three of his country’s group matches at the World Cup"
         },
         {
-          "title": "Heather Knight to retire from international cricket after Lord's Test",
-          "url": "https://www.cricinfo.com/ci/content/story/1545277.html",
-          "source": "Cricket news from Cricinfo.com",
-          "published_at": "2026-07-11T19:41:29.000Z",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/419600/419698.jpg"
+          "title": "South Africa World Cup star Jayden Adams dies at 25",
+          "url": "https://www.premiumtimesng.com/foreign/894616-south-africa-world-cup-star-jayden-adams-dies-at-25.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-07-11T15:56:13.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/1003589502-e1783785153126.jpg?fit=1080%2C675&amp;ssl=1",
+          "description": "Police confirmed they have opened an investigation after the body of a 25-year-old man was discovered at a residence in Schotschekloof, a suburb of central Cape Town, on Saturday The post South Africa World Cup star Jayden Adams dies at 25 appeared first on Premium Times Nigeria."
         },
         {
-          "title": "Former England captain Knight announces retirement",
-          "url": "https://sports.yahoo.com/articles/former-england-captain-knight-announces-194035190.html",
-          "published_at": "2026-07-11T19:40:35.000Z"
+          "title": "South Africa World Cup midfielder Jayden Adams dies at the age of 25",
+          "url": "https://www.brisbanetimes.com.au/sport/south-africa-world-cup-midfielder-jayden-adams-dies-at-the-age-of-25-20260712-p60eku.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-07-11T20:52:35.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3429%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_374%2C$y_0/t_crop_custom/q_86%2Cf_auto/23a582dafa9820d932c5630f01eb279979521ace4deb553c3e28efa434ec51ad",
+          "description": "The young star helped Bafana bafana reach the World Cup knockout stage for the first time."
         },
         {
-          "title": "Former England captain Knight announces retirement",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cwy090krk0go",
-          "source": "BBC Sport",
-          "published_at": "2026-07-11T19:40:31.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+          "title": "South Africa World Cup midfielder Adams dies at 25",
+          "url": "https://www.the42.ie/jayden-adams-south-africa-rip-7098686-jul2026",
+          "source": "The 42",
+          "published_at": "2026-07-11T14:03:01.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/07/mexico-city-mexico-11th-june-2026-jayden-adams-of-south-africa-looks-on-during-the-match-between-mexico-and-south-africa-for-the-1st-round-of-the-group-a-of-the-fifa-world-cup-2026-at-mexico-city-5c9cf1c6-c8a5-4d34-a5a7-23fc2e945341-630x420.jpg",
+          "description": "Adams played in all three of South Africa’s group-stage matches at the World Cup."
         }
-      ]
+      ],
+      "summary": "South African midfielder Jayden Adams has died at 25. He played in all three of the country’s group-stage matches at the World Cup; authorities have opened an investigation."
     },
     {
-      "id": "topic_73ca4cd9f1e30992",
+      "id": "topic_2c9b4e8d53f103a5",
+      "title": "US Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "headline": "US citizen tests positive for Ebola in Congo",
       "label": [
-        "fran",
-        "aise",
-        "fran aise",
-        "espagne",
-        "incendie",
-        "en espagne"
+        "ebola",
+        "citizen",
+        "positive",
+        "congo",
+        "tests",
+        "us"
       ],
       "category": "new",
-      "theme": "theme_8b91fb41c3c300cd",
+      "theme": "theme_3e6559e1d9fd6814",
       "entities": [
-        "Incendie",
-        "Espagne",
-        "Fran",
-        "Affaires",
-        "Une Fran"
+        "US",
+        "Ebola",
+        "Congo",
+        "AP News",
+        "DR Congo"
       ],
-      "article_count": 7,
-      "source_count": 4,
+      "article_count": 14,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Incendie en Espagne : ce que l’on sait de la Française disparue",
-          "url": "https://www.ouest-france.fr/faits-divers/incendie/incendie-en-espagne-ce-que-lon-sait-de-la-francaise-disparue-74aa2936-7d66-11f1-a3cc-61ee167b6bba",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-07-11T20:40:05.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3YWE0MmMxYmQ3Mjk4YmM2ZGM1ZmUyZTk1NjA3ZDVlNTI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=77efa008584868fde8ca20b9644c0fb9c5a8ac5866223c3bf876ac37b54bdc60"
+          "title": "US citizen tests positive for Ebola in Congo",
+          "url": "https://www.yahoo.com/news/us/articles/us-citizen-tests-positive-ebola-135143686.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-11T13:51:43.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/3b21b0e5b7688702cc1fecbee81fa8ce"
         },
         {
-          "title": "Incendie dans le sud de l'Espagne : une Française \"figure parmi les personnes disparues\", annonce le ministère des Affaires étrangères français",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-une-francaise-figure-parmi-les-personnes-disparues-annonce-le-ministere-des-affaires-etrangeres-francais_8104418.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-07-11T20:17:36.000Z",
-          "image": "https://www.franceinfo.fr/pictures/aIgw_4sP_Y56YzFNoNsVGlVYpXY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/11/6a529be681852726116198.jpg"
+          "title": "US citizen tests positive for Ebola in Congo",
+          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxqtgvmnuvivey0v0tqnjvjek1pvurxa3nuslywtk0tnus0nxdtshg3te9qvg1oz2vftwvpqvhvy1mwc0pomkn2cf9ksgtvs2llwkrnzdvxbzr2n2vyugd1y2vwmtzuzzbimm9zm0npafhyzvfywvzvdvvnsg1lskvcdvflnmvornrrelj5azjbczfluq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-11T13:51:00.000Z",
+          "description": "US citizen tests positive for Ebola in Congo AP News US citizen working in DR Congo tests positive for Ebola CNN US citizen in Congo tests positive for Ebola virus, US CDC says Reuters U.S. citizen working for humanitarian organization in Congo tests positive for Ebola, CDC says CBS News U.S. Citiz…"
         },
         {
-          "title": "Incendie en Espagne : Une Française figure parmi les personnes disparues, annonce le Quai d’Orsay",
-          "url": "https://www.huffingtonpost.fr/international/article/incendie-en-espagne-une-francaise-figure-parmi-les-personnes-disparues-annonce-le-quai-d-orsay_287201.html",
+          "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak",
+          "url": "https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-07-11T23:20:23.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/ebola_worker.jpg?ve=1&tl=1",
+          "description": "A second U.S. citizen tested positive for Ebola while working for a humanitarian organization in the Democratic Republic of the Congo amid the outbreak."
+        },
+        {
+          "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+          "source": "NYT > Health",
+          "published_at": "2026-07-11T06:25:20.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
+          "description": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said."
+        },
+        {
+          "title": "US citizen in Congo tests positive for Ebola virus, US CDC says",
+          "url": "https://www.investing.com/news/world-news/us-citizen-in-congo-tests-positive-for-ebola-virus-us-cdc-says-4787204",
+          "source": "All News",
+          "published_at": "2026-07-11T00:12:31.000Z",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg"
+        }
+      ],
+      "summary": "A US citizen working for a humanitarian organization in the Democratic Republic of Congo tested positive for Ebola, according to US officials."
+    },
+    {
+      "id": "topic_7f7bea088a7aa026",
+      "title": "Kane and Haaland Face Off as England Meets Norway at World Cup",
+      "headline": "👑 Harry Kane or Erling Haaland, who's having the better season?",
+      "label": [
+        "kane",
+        "haaland",
+        "erling",
+        "harry",
+        "vs",
+        "better"
+      ],
+      "category": "new",
+      "theme": "theme_c2ec75a9b01417ac",
+      "entities": [
+        "Harry Kane",
+        "Erling Haaland",
+        "ENG",
+        "Can Harry Kane",
+        "Best"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "👑 Harry Kane or Erling Haaland, who's having the better season?",
+          "url": "https://sports.yahoo.com/articles/harry-kane-erling-haaland-whos-193000483.html",
+          "published_at": "2026-07-11T19:30:00.000Z",
+          "description": "A clash of titans!This Saturday night, Norway and England face off in what is shaping up to be the most evenly matched quarter-final of the 2026 World Cup.But above all, the long-distance duel between..."
+        },
+        {
+          "title": "Harry Kane vs Erling Haaland: Who is better striker?",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/harry-kane-vs-erling-haaland-who-is-the-better-striker-ahead-of-the-2026-fifa-world-cup-quarter-final/articleshow/132330135.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-11T12:30:00.000Z",
+          "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+          "description": "Ahead of England's 2026 FIFA World Cup quarter-final against Norway, Harry Kane and Erling Haaland remain closely matched in the debate over football's best striker. Kane leads in overall goals, experience and his remarkable 2025-26 season, while Haaland boasts a record-breaking Premier League scor…"
+        },
+        {
+          "title": "NOR vs ENG live: Can Harry Kane outshine Erling Haaland?",
+          "url": "https://www.indiatoday.in/sports/football/story/norway-vs-england-live-score-fifa-world-cup-quarterfinal-updates-erling-haaland-harry-kane-2945949-2026-07-12",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-11T19:46:02.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202607/norway-nor-vs-england-eng-live--fifa-world-cup-quarterfinal-11174175-16x9_0.png?VersionId=DV8pE2v5yaYURETqgYoB_g.h9jxSnU8r",
+          "description": "NOR vs ENG live Can Harry Kane outshine Erling Haaland"
+        },
+        {
+          "title": "Harry Kane and Erling Haaland odds, picks, predictions: Best bets for England vs. Norway in 2026 World Cup",
+          "url": "https://www.cbssports.com/soccer/news/harry-kane-erling-haaland-odds-picks-predictions-best-bets-england-norway-2026-world-cup",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-07-11T19:30:59.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/07/09/63fa67ec-1f04-4da9-b1cb-ca334b07e287/harry-kane-england-4.jpg",
+          "description": "SportsLine soccer expert Brandt Sutton has analyzed the Erling Haaland and Harry Kane odds, and locked in his picks and predictions for Norway vs. England"
+        },
+        {
+          "title": "“Physically, he’s a machine, he’s a beast” – Harry Kane on Erling Haaland ahead of England vs Norway World Cup showdown (Video)",
+          "url": "https://www.soccernews.com/physically-hes-a-machine-hes-a-beast-harry-kane-on-erling-haaland-ahead-of-england-vs-norway-world-cup-showdown-video/401718",
+          "source": "SoccerNews",
+          "published_at": "2026-07-11T09:44:23.000Z",
+          "description": "The stage is set for England and Norway to do battle in the World Cup quarter-finals on Saturday evening. Two probably best strikers in the world right now, Harry Kane and Erling Haaland, will surely leave their mark in this clash. Here’s what the England captain has to say about the Manchester Cit…"
+        }
+      ],
+      "summary": "England and Norway are set to meet in a 2026 World Cup quarterfinal, renewing comparisons between strikers Harry Kane and Erling Haaland."
+    },
+    {
+      "id": "topic_1ba7af8229829a95",
+      "title": "Harry Kane Describes Golfing With Donald Trump as Surreal",
+      "headline": "England soccer star Harry Kane says golfing with Trump was ‘surreal’",
+      "label": [
+        "kane",
+        "golf",
+        "harry",
+        "trump",
+        "donald",
+        "surreal"
+      ],
+      "category": "trending",
+      "theme": "theme_ed53ade040ff6ee7",
+      "entities": [
+        "England",
+        "Harry Kane",
+        "Trump",
+        "US",
+        "Donald Trump"
+      ],
+      "article_count": 21,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "England soccer star Harry Kane says golfing with Trump was ‘surreal’",
+          "url": "https://www.washingtonexaminer.com/sports/4645158/england-soccer-harry-kane-golf-with-trump-surreal",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-11T20:42:14.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/AP25222736235828.jpg?w=696",
+          "description": "Harry Kane, captain of England’s soccer team at the 2026 World Cup, enjoyed his time on the links with President Donald Trump. During a press conference on Friday ahead of England’s quarterfinal match against Norway on Saturday, Kane revealed that he and Trump golfed together about a year and a hal…"
+        },
+        {
+          "title": "England captain Harry Kane confirms golf outing with US president Donald Trump",
+          "url": "https://www.indiatoday.in/sports/football/story/harry-kane-confirms-donald-trump-golf-round-palm-beach-england-world-cup-2945443-2026-07-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-11T05:28:30.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/england-captain-harry-kane-confirmed-he-once-played-golf-with-us-president-donald-trump-112713771-16x9_0.jpg?VersionId=SleR_5e..uThz.FT._n6aI9mZpQ8Wc9u"
+        },
+        {
+          "title": "Harry Kane reveals what shocked him about Donald Trump when playing golf with him",
+          "url": "https://sports.yahoo.com/articles/harry-kane-reveals-shocked-him-070621100.html",
+          "published_at": "2026-07-11T07:06:21.000Z",
+          "description": "England captain Harry Kane has revealed he played a round of golf with President Donald Trump around 18 months ago. The 32-year-old striker is in World Cup action on Saturday as England face Norway in a bid to book their spot in the final four of the competition."
+        },
+        {
+          "title": "Harry Kane shares what shocked him while playing golf with Donald Trump",
+          "url": "https://www.independent.co.uk/sport/football/trump-kane-golf-england-world-cup-b3013084.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-11T08:19:55.000Z",
+          "image": "https://static.independent.co.uk/2026/07/11/08/a926ab8c677be1b1088ca1dbd611e05fY29udGVudHNlYXJjaGFwaSwxNzgzODM5MjE1-2.84999110.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Kane said the round took place 18 months ago in Florida and is envious of Trump’s golf game at the age of 80."
+        },
+        {
+          "title": "England captain Harry Kane calls Donald Trump golf game 'surreal'",
+          "url": "https://www.irishmirror.ie/sport/soccer/england-captain-harry-kane-calls-37417468",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-07-11T08:40:23.000Z",
+          "image": "https://i2-prod.irishmirror.ie/sport/soccer/article37417466.ece/ALTERNATES/s615/0_England-Training-Session-UEFA-EURO-2024.jpg",
+          "description": "England captain Harry Kane has described playing golf with Donald Trump as \"surreal\" ahead of England's World Cup quarter-final against Norway"
+        }
+      ],
+      "summary": "England captain Harry Kane said he played golf with US President Donald Trump in Florida about 18 months ago and called the experience surreal."
+    },
+    {
+      "id": "topic_ea94728626af66dc",
+      "title": "Italian Singer Peppino di Capri Dies",
+      "headline": "È morto Peppino di Capri",
+      "label": [
+        "peppino",
+        "capri",
+        "addio",
+        "morto",
+        "champagne",
+        "melodia"
+      ],
+      "category": "new",
+      "theme": "theme_5948080f57c14abd",
+      "entities": [
+        "Addio Peppino Di Capri",
+        "Peppino",
+        "Capri",
+        "Addio",
+        "Morto Peppino Di Capri"
+      ],
+      "article_count": 19,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "È morto Peppino di Capri",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/07/11/-e-morto-peppino-di-capri-_28a2922b-bd3b-43c3-9685-728de3424373.html",
+          "source": "Primo piano ANSA - ANSA.it",
+          "published_at": "2026-07-11T06:10:46.000Z",
+          "description": "Aveva 87 anni, scompare dopo una lunga malattia. Tra i brani più celebri Champagne, St. Tropez, Luna caprese, Un grande amore e niente più"
+        },
+        {
+          "title": "Morto Peppino Di Capri, re della melodia italiana: aveva 87 anni",
+          "url": "https://www.adnkronos.com/spettacoli/peppino-di-capri-oggi-morto-malattia-eta_2jrdjmsxlrupwdr5fe83gx",
+          "source": "Adnkronos - ultimoratop",
+          "published_at": "2026-07-11T06:07:00.000Z",
+          "image": "https://www.adnkronos.com/resources/02a7-2113951af7b1-f78ca61ee375-1000/format/medium/peppino_capri_ipa.jpeg",
+          "description": "(Adnkronos) - Il cantante è scomparso nella sua amata isola, a villa Castiglione, dopo una lunga malattia. Tra i brani più celebri 'Champagne', 'Luna caprese', 'Let's Twist Again', 'St. Tropez Twist'"
+        },
+        {
+          "title": "Addio a 86 anni a Peppino di Capri: quando cantava \"Champagne\"",
+          "url": "https://www.liberoquotidiano.it/news/tv-news/48510251/addio-a-86-anni-a-peppino-di-capri-quando-cantava-champagne-",
+          "source": "Libero Quotidiano",
+          "published_at": "2026-07-11T06:47:00.000Z",
+          "image": "https://media.liberoquotidiano.it/t2n_vqHISWIiNIBtzYOBWF22tJ_Xw_WnPD2Af7TMcR4/width:800/quality:90/aW1hZ2VzLzIwMjYvMDcvMTEvMDg1MDU1NDcxLWIzZjMyNWM3LTdjNWYtNDkyNS1iMDk0LTI3ODA0ZDgyOTBjMy5qcGc.webp"
+        },
+        {
+          "title": "Addio a Peppino di Capri, il re di “Champagne” che ha fatto cantare l’Italia",
+          "url": "https://www.panorama.it/tempo-libero/musica/addio-a-peppino-di-capri-il-re-di-champagne-che-ha-fatto-cantare-litalia",
+          "source": "Panorama",
+          "published_at": "2026-07-11T10:51:23.000Z",
+          "description": "Con la scomparsa di Peppino di Capri, morto oggi all’età di 86 anni, la musica..."
+        },
+        {
+          "title": "Addio a Peppino, l&rsquo;ultimo imperatore di Capri",
+          "url": "https://www.ilmattino.it/spettacoli/musica/addio_peppino_ultimo_imperatore_di_capri-9645814.html",
+          "source": "Il Mattino",
+          "published_at": "2026-07-11T19:28:53.000Z",
+          "image": "https://statics.cedscdn.it/photos/MED/2026/07/11/9645814_11212853_OBJ68542508_120328.jpg",
+          "description": "Se n’è andato di notte, sulla sua isola, che, dichiarato il lutto cittadino, oggi gli dirà addio: alle 17 nella ex cattedrale di Santo Stefano, in piazzetta. Qualcuno, i suoi..."
+        }
+      ],
+      "summary": "Italian singer Peppino di Capri has died after a long illness. His best-known songs included “Champagne” and “Luna caprese.”"
+    },
+    {
+      "id": "topic_36afd0901e6bcca9",
+      "title": "Victor Wembanyama Signs Five-Year Spurs Extension",
+      "headline": "NBA : Victor Wembanyama prolonge son contrat avec les San Antonio Spurs de plusieurs années",
+      "label": [
+        "wembanyama",
+        "victor",
+        "spurs",
+        "nba",
+        "prolonge",
+        "antonio"
+      ],
+      "category": "new",
+      "theme": "theme_6e2dce5a80195128",
+      "entities": [
+        "NBA",
+        "Victor Wembanyama",
+        "San Antonio Spurs",
+        "Spurs",
+        "Je"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "NBA : Victor Wembanyama prolonge son contrat avec les San Antonio Spurs de plusieurs années",
+          "url": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-07-11T01:12:18.000Z",
+          "image": "https://img.lemde.fr/2026/06/14/500/0/6000/3000/644/322/60/0/627ecff_ftp-1-vuwgmv92nler-2026-06-14t044631z-948955882-mt1usatoday29195286-rtrmadp-3-nba-finals-new-york-knicks-at-san-antonio-spurs.JPG",
+          "description": "Après avoir porté les Spurs jusqu’en finale de la NBA pour la première fois depuis 2014, le basketteur français s’inscrit dans la durée, confirmant son statut de figure centrale de la franchise texane."
+        },
+        {
+          "title": "NBA: Victor Wembanyama, Spurs agree on 5-year extension",
+          "url": "https://sports.inquirer.net/685896/nba-victor-wembanyama-spurs-agree-on-5-year-extension",
+          "source": "INQUIRER.net",
+          "published_at": "2026-07-11T03:19:50.000Z",
+          "image": "https://sports.inquirer.net/files/2026/06/AP26158639797922-620x413.jpg",
+          "description": "Victor Wembanyama has signed what will be the richest contract in San Antonio Spurs history, a five-year extension that could exceed $250 million if the player option in the final season is picked up, a person with knowledge of the negotiations said Friday. The person spoke on condition of anonymit…"
+        },
+        {
+          "title": "Victor Wembanyama prolonge son contrat de « plusieurs années » avec les San Antonio Spurs",
+          "url": "https://www.huffingtonpost.fr/sport/article/victor-wembanyama-prolonge-son-contrat-de-plusieurs-annees-avec-les-san-antonio-spurs_286739.html",
           "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-07-11T19:56:34.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/07/11/279/0/5392/3033/0/0/60/0/d9b861e_upload-1-mpojlfio6kvf-afp-20260710-b9ux7cb-v4-highres-topshotspainfireemergency.jpg"
+          "published_at": "2026-07-11T06:16:58.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/07/11/0/0/3334/1875/0/0/60/0/2e5da64_upload-1-qffioufebbsn-afp-20260614-2281462008-v1-highres-2026nbafinalsgamefive.jpg",
+          "description": "Le joueur français était arrivé cette année jusqu’à la finale NBA, perdue face aux New York Knicks, pour sa troisième saison."
         },
         {
-          "title": "Incendie en Espagne : une Française recensée « parmi les personnes disparues »",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-en-espagne-une-francaise-recensee-parmi-les-personnes-disparues-29899837.php",
-          "source": "L'essentiel",
-          "published_at": "2026-07-11T19:47:10.000Z"
+          "title": "NBA. Victor Wembanyama a prolongé avec les Spurs pour 252 millions de dollars sur cinq ans",
+          "url": "https://www.ouest-france.fr/sport/basket/victor-wembanyama/nba-victor-wembanyama-a-prolonge-avec-les-spurs-pour-252-millions-de-dollars-sur-cinq-ans-53a39dae-7cde-11f1-b616-dddac7a26294",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-07-11T04:27:58.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA3OTM0ZTM1MTc1MTQ4YmQwNWU0NzFkNWI5NGNhZDUwMGY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=f7cafc127af58252ff08fefd5f8332d0c622795cc8f80b94cffc09d751b5d7b3",
+          "description": "Comme annoncé, Victor Wembanyama poursuit son aventure avec les San Antonio Spurs. Le pivot français de 23 ans a signé un nouveau contrat dit « rookie max » à hauteur de 252 millions de dollars sur cinq ans, faisant l’impasse sur une option qui aurait fait grimper la facture à hauteur de 303 millio…"
+        },
+        {
+          "title": "NBA : \"Je suis là pour rester\", Victor Wembanyama prolonge avec San Antonio Spurs",
+          "url": "https://www.franceinfo.fr/sports/basket/victor-wembanyama/nba-je-suis-la-pour-rester-victor-wembanyama-prolonge-avec-san-antonio-spurs_8103779.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-07-11T07:41:44.000Z",
+          "image": "https://www.franceinfo.fr/pictures/l1lNBgrXhhcRx0HRWAoFGaA7bg0/0x0:4039x2271/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51f2e50f40e854857836.jpg",
+          "description": "Le Français a prolongé son contrat de \"plusieurs années\" avec les Spurs, sans en préciser la durée exacte, ont annoncé le joueur et la franchise, vendredi."
         }
-      ]
+      ],
+      "summary": "Victor Wembanyama agreed to a five-year contract extension with the San Antonio Spurs. The deal is reported to be worth up to $252 million."
     },
     {
-      "id": "topic_f2ecb8c2f1900087",
+      "id": "topic_be41c68b39292588",
+      "title": "Meta Removes Instagram AI Image Feature After Privacy Backlash",
+      "headline": "Meta pulls new AI image feature after days of backlash",
       "label": [
-        "avenger",
-        "doomsday",
-        "avenger doomsday",
-        "art",
-        "concept",
-        "doomsday concept"
+        "meta",
+        "feature",
+        "backlash",
+        "image",
+        "instagram",
+        "ai"
       ],
-      "category": "new",
-      "theme": "theme_a230a79a28a5396f",
+      "category": "trending",
+      "theme": "theme_f3cfbad32a5a3b6d",
       "entities": [
-        "Official Avengers",
-        "Doomsday Art Gives Clearest",
-        "Look At Returning",
-        "Men",
-        "Mystique"
+        "Meta",
+        "AI",
+        "Meta Discontinues AI Image",
+        "Feature Days After Backlash",
+        "Over Privacy Concerns"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 15,
+      "source_count": 15,
       "articles": [
         {
-          "title": "Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique’s Awful New Haircut",
-          "url": "https://kotaku.com/official-avengers-doomsday-art-gives-clearest-look-at-returning-x-men-mystiques-awful-new-haircut-2000714986",
-          "source": "Kotaku",
-          "published_at": "2026-07-11T21:27:26.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/07/doomsday-1280x744.jpg"
+          "title": "Meta pulls new AI image feature after days of backlash",
+          "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-pulls-ai-image-feature-001759862.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-11T03:10:43.000Z",
+          "image": "https://media.zenfs.com/en/bbc_us_articles_995/09a0ee52c96bdaa9e85fd247c5a9e9af"
         },
         {
-          "title": "First Avengers: Doomsday Concept Art Reveals Doctor Doom And Returning X-Men",
-          "url": "https://www.slashfilm.com/2212971/avengers-doomsday-official-concept-art-doctor-doom-x-men",
-          "source": "/Film",
-          "published_at": "2026-07-11T20:09:14.000Z",
-          "image": "https://www.slashfilm.com/img/gallery/first-avengers-doomsday-concept-art-reveals-doctor-doom-and-returning-x-men/l-intro-1783799920.jpg"
+          "title": "Meta Discontinues AI Image Feature Days After Backlash Over Privacy Concerns",
+          "url": "https://www.ndtv.com/world-news/meta-discontinues-ai-image-feature-days-after-backlash-over-privacy-concerns-11756836",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-11T05:11:24.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/ftthatbc_meta_625x300_11_July_26.jpeg",
+          "description": "Meta, owner of Facebook and Instagram, had launched Muse Image on Tuesday, its first image-generation model from Meta Superintelligence Labs."
         },
         {
-          "title": "This ‘Avengers: Doomsday’ Concept Art Assembles the Teams",
-          "url": "https://gizmodo.com/this-avengers-doomsday-concept-art-assembles-the-teams-2000784402",
-          "source": "Gizmodo",
-          "published_at": "2026-07-11T19:10:22.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/01/avengers-doomsday-cyclops-1280x853.jpg"
+          "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+          "source": "NYT > Technology",
+          "published_at": "2026-07-11T00:56:41.000Z",
+          "description": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image."
+        },
+        {
+          "title": "Meta removes AI image feature from Instagram after user outrage",
+          "url": "https://www.indiatoday.in/technology/news/story/meta-removes-ai-image-feature-from-instagram-after-user-outrage-2945399-2026-07-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-07-11T03:05:23.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/meta-ai-11050398-16x9_0.png?VersionId=59DUAF1fHcVBVJXfNFcFV_AAEe..x1B6"
+        },
+        {
+          "title": "Meta Discontinues Instagram AI Image Feature After Privacy Backlash",
+          "url": "https://www.freepressjournal.in/business/meta-discontinues-instagram-ai-image-feature-after-privacy-backlash",
+          "source": "Free Press Journal",
+          "published_at": "2026-07-11T05:58:41.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2020-05/ee147f45-c4a0-4e4c-8610-5e70c89283e7/etc_instagram_pixabay.jpg"
         }
-      ]
+      ],
+      "summary": "Meta removed its Muse Image feature from Instagram after users and Hollywood agencies raised privacy and copyright concerns."
     },
     {
-      "id": "topic_dde769973ae011f0",
+      "id": "topic_ebca65dffec47698",
+      "title": "Iran’s Supreme Leader Vows Revenge for Father’s Killing",
+      "headline": "Iran’s supreme leader vows revenge for father’s killing",
       "label": [
-        "hormu",
-        "stra von",
-        "von hormu",
-        "stra",
-        "von",
-        "iran"
+        "revenge",
+        "supreme",
+        "leader",
+        "iran",
+        "father",
+        "vows"
       ],
-      "category": "new",
-      "theme": "theme_93036908626e9c5e",
+      "category": "trending",
+      "theme": "theme_e27a70d3a03c2d51",
       "entities": [
-        "Liveblog Irankrieg",
         "Iran",
-        "Stra",
-        "Hormus",
-        "Warnsch"
+        "Mojtaba Khamenei",
+        "Supreme Leader",
+        "Khamenei",
+        "Supreme Leader Vows Revenge"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 22,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Liveblog Irankrieg: Iran schließt Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-schliesst-strasse-von-hormus-faz-200583539.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-07-11T23:40:00.000Z",
-          "image": "https://media0.faz.net/image/e154fb343bf4/w6000h3375x0y0/202605/43601.0.2045989455/oeltanker-liegen-in-der.webp"
+          "title": "Iran’s supreme leader vows revenge for father’s killing",
+          "url": "https://www.yahoo.com/news/videos/iran-supreme-leader-vows-revenge-232341349.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-11T23:23:41.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/d0bbc37365dd08a3c48127b6fa745d97"
         },
         {
-          "title": "Warnschüsse abgefeuert: Iran: Straße von Hormus \"bis auf Weiteres\" gesperrt",
-          "url": "https://www.n-tv.de/politik/iran-strasse-von-hormus-bis-auf-weiteres-gesperrt-id31075979.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-07-11T23:34:53.000Z",
-          "image": "https://www.n-tv.de/img/31075977/1783819953/Img_4_3/250/Vessels-at-the-Strait-of-Hormuz-as-seen-from-Musandam-Oman-July-8-2026.jpg"
+          "title": "Mojtaba Khamenei: Iran supreme leader vows revenge for father's killing",
+          "url": "https://www.france24.com/en/video/20260711-mojtaba-khamenei-iran-supreme-leader-vows-revenge-for-father-s-killing",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-11T16:04:57.000Z",
+          "image": "https://s.france24.com/media/display/b47b23d2-7d37-11f1-8dd9-005056a97e36/w:1024/p:16x9/EN-20260711-160129-160325-CS.jpg",
+          "description": "Iran's supreme leader Mojtaba Khamenei on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him."
         },
         {
-          "title": "Warnschüsse abgegeben: Irans Revolutionsgarden: Straße von Hormus geschlossen",
-          "url": "https://www.zeit.de/news/2026-07/12/irans-revolutionsgarden-strasse-von-hormus-geschlossen",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-07-11T23:34:13.000Z",
-          "image": "https://img.zeit.de/news/2026-07/12/irans-revolutionsgarden-strasse-von-hormus-geschlossen-image-group/original__640x360"
+          "title": "Iran's Supreme Leader vows revenge for Khamenei's killing",
+          "url": "https://www.dw.com/en/iran-s-supreme-leader-vows-revenge-for-khamenei-s-killing/live-77913349",
+          "source": "Deutsche Welle",
+          "published_at": "2026-07-11T11:40:00.000Z",
+          "description": "Mojtaba Khamenei said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more."
+        },
+        {
+          "title": "Iran’s Supreme Leader Vows Revenge For Father After Trump Threatens To Destroy All Of Iran",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/11/irans-supreme-leader-vows-revenge-for-father-after-trump-threatens-to-destroy-all-of-iran",
+          "source": "Forbes - Business",
+          "published_at": "2026-07-11T14:34:26.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a52541abc7bbdfcba39f511/0x0.jpg?width=960",
+          "description": "Tensions between Iran and the U.S. have reached their highest point in weeks, with both sides trading military strikes not long after a ceasefire agreement was signed."
+        },
+        {
+          "title": "Iran’s Supreme Leader Pledges Revenge",
+          "url": "https://politicalwire.com/2026/07/11/irans-supreme-leader-pledges-revenge",
+          "source": "Political Wire",
+          "published_at": "2026-07-11T14:23:26.000Z",
+          "description": "“Iranian Supreme Leader Mojtaba Khamenei announced on Saturday that revenge for his father’s assassination ‘will most certainly be carried out,’” Axios reports."
         }
-      ]
+      ],
+      "summary": "Iranian Supreme Leader Mojtaba Khamenei vowed revenge for the killing of his father, his predecessor, amid threats from US President Donald Trump."
+    },
+    {
+      "id": "topic_4323fe8812330486",
+      "title": "Runner Gored in Face at Spain’s San Fermín Festival",
+      "headline": "Runner Gored in Face During Spain’s San Fermín Bull Run Festival",
+      "label": [
+        "bull",
+        "runner",
+        "festival",
+        "run",
+        "spain",
+        "gored"
+      ],
+      "category": "new",
+      "theme": "theme_909ed6b5a5b9a501",
+      "entities": [
+        "Runner Gored",
+        "Face During Spain",
+        "San Ferm",
+        "Bull Run Festival",
+        "Bull"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Runner Gored in Face During Spain’s San Fermín Bull Run Festival",
+          "url": "https://internewscast.com/news/us/runner-gored-in-face-during-spains-san-fermin-bull-run-festival",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-11T19:58:53.000Z",
+          "description": "Internewscast Journal Internewscast A runner suffered a horn wound to the face, while numerous others… This Post: Runner Gored in Face During Spain’s San Fermín Bull Run Festival first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Bull gores runner in the face at Spain's San Fermin bull run festival",
+          "url": "https://www.yahoo.com/news/world/articles/bull-gores-runner-face-spains-202952722.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-11T20:29:52.000Z",
+          "image": "https://media.zenfs.com/en/cbs_news_897/54b158d04e1b26f9cbcad7eaa8cfed52"
+        },
+        {
+          "title": "Runner gored in face and at least 12 others injured during Spain’s historic bull run festival",
+          "url": "https://www.independent.co.uk/news/world/europe/bull-run-spain-gored-injured-festival-b3013224.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-11T17:44:37.000Z",
+          "image": "https://static.independent.co.uk/2026/07/11/18/download..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Americans are the biggest group of foreign bull runners"
+        },
+        {
+          "title": "Multiple runners injured on chaotic 5th day of Spain's San Fermin bull run festival in Pamplona",
+          "url": "https://www.thestar.com/news/world/europe/multiple-runners-injured-on-chaotic-5th-day-of-spains-san-fermin-bull-run-festival-in/video_851c1d25-5b1b-44b6-ab18-71078df0e533.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-07-11T22:15:00.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851c1d25-5b1b-44b6-ab18-71078df0e533/6a52c12d66197.image.jpg?resize=300%2C169",
+          "description": "One runner was gored in the face and many more were fortunate to not be seriously injured during a chaotic bull run at Spain’s San Fermin festival on Saturday. (July 11, 2026)"
+        },
+        {
+          "title": "Bull Gores Runner In The Face During Spain's San Fermin Bull Run Festival",
+          "url": "https://www.huffpost.com/entry/bull-gores-runner-in-the-face-during-spains-san-fermin-bull-run-festival_n_6a52867ce4b0aaa374289979",
+          "source": "World News",
+          "published_at": "2026-07-11T18:15:14.000Z",
+          "description": "One runner was pierced by a horn in the face, while 12 more people needed medical treatment for an assortment of knocks."
+        }
+      ],
+      "summary": "A runner was gored in the face during the San Fermín bull run in Pamplona, Spain. At least 12 other people were injured or sought medical treatment."
     }
   ]
 }

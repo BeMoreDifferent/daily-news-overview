@@ -1,42 +1,305 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-02T00:15:24.384Z",
+  "generated_at": "2026-09-27T13:58:47.229Z",
   "topics": [
     {
-      "id": "topic_a783e286428729b7",
+      "id": "topic_7ff4e6e7abfd60a1",
+      "title": "France Boards Russia-Linked Oil Tanker in Atlantic",
+      "headline": "French navy boards Russia-linked oil tanker in Atlantic – video",
       "label": [
-        "instagram account",
-        "instagram",
-        "meta",
-        "account",
-        "meta ai",
-        "hacker"
+        "tanker",
+        "oil",
+        "navy",
+        "intercepts",
+        "atlantic",
+        "french"
       ],
       "category": "new",
-      "theme": "theme_e100a32087d03ee2",
+      "theme": "theme_54bab2b93561e2ba",
       "entities": [
-        "Hackers Simply Asked Meta",
-        "AI To Take Over",
-        "High",
-        "Profile Instagram Accounts",
-        "Hackers Tricked Meta AI"
+        "French",
+        "Russia",
+        "Atlantic",
+        "Macron",
+        "France"
       ],
-      "article_count": 9,
-      "source_count": 9,
+      "article_count": 20,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Hackers Simply Asked Meta's AI To Take Over High-Profile Instagram Accounts",
-          "url": "https://meta.slashdot.org/story/26/06/01/2130239/hackers-simply-asked-metas-ai-to-take-over-high-profile-instagram-accounts",
-          "source": "Slashdot",
-          "published_at": "2026-06-01T22:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
+          "url": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-06-01T12:57:53.000Z",
+          "image": "https://i.guim.co.uk/img/media/ac998aec13eeeec0d6cdd664a7987784f5dbf918/95_0_2849_2279/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=b5cfd6a9d4ee4bd9664393427fa85b29",
+          "description": "France has released footage that appears to show French naval commandos boarding a ship suspected of being part of Russia's 'shadow fleet' and subject to international sanctions. The French president, Emmanuel Macron, said the operation took place on the tanker named the Tagor with support of the U…"
         },
         {
-          "title": "Hackers Tricked Meta AI Into Handing Out Access to Major Instagram Accounts",
-          "url": "https://gizmodo.com/hackers-tricked-meta-ai-into-handing-out-access-to-major-instagram-accounts-2000766087",
-          "source": "Gizmodo",
-          "published_at": "2026-06-01T21:45:37.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/01/instagram-hq-1280x853.jpg"
+          "title": "France's Macron says French Navy boarded Russia-linked oil tanker",
+          "url": "https://www.yahoo.com/news/world/articles/frances-macron-says-french-navy-054135363.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-01T06:20:33.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/a365b89f18e04a03ee3be9a11f4f2170"
+        },
+        {
+          "title": "France intercepts Russian-linked oil tanker in Atlantic",
+          "url": "https://www.dw.com/en/france-intercepts-russian-linked-oil-tanker-in-atlantic/a-77369904",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-01T07:54:00.000Z",
+          "description": "France has intercepted a sanctioned tanker in the Atlantic Ocean as it steps up efforts to target Russia's \"shadow fleet.\" Naval officials said the ship was sailing under a false flag."
+        },
+        {
+          "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-01T10:24:51.000Z",
+          "description": "According to France, the tanker, which had sailed from Murmansk, was trying to 'skirt international sanctions'."
+        },
+        {
+          "title": "France's Navy boards 'Russia-linked' oil tanker in Atlantic 'with the support of UK'",
+          "url": "https://www.express.co.uk/news/world/2211853/france-navy-oil-tanker-russia-tagor",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-06-01T08:33:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2211853_1.jpg",
+          "description": "The operation was carried out in international waters in the Atlantic, Emmanuel Macron said."
+        }
+      ],
+      "summary": "France says its navy, with UK support, boarded and intercepted a sanctioned tanker in international waters in the Atlantic. Officials said the vessel had sailed from Murmansk and was using a false flag."
+    },
+    {
+      "id": "topic_3eec937fc1a7b039",
+      "title": "Nvidia Unveils RTX Spark AI Chip for Windows PCs",
+      "headline": "These are the first Nvidia RTX Spark laptops",
+      "label": [
+        "rtx",
+        "spark",
+        "nvidia",
+        "laptops",
+        "windows",
+        "chip"
+      ],
+      "category": "new",
+      "theme": "theme_c9ec15c39875be37",
+      "entities": [
+        "Nvidia RTX Spark",
+        "NVIDIA",
+        "RTX Spark",
+        "AI",
+        "Windows"
+      ],
+      "article_count": 19,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "These are the first Nvidia RTX Spark laptops",
+          "url": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+          "source": "The Verge",
+          "published_at": "2026-06-01T11:29:52.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Nvidia-Spark-Laptops.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "A lot of details are still under wraps, but at least we know what the new Nvidia Spark laptops look like. | Image: Nvidia Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, L…"
+        },
+        {
+          "title": "Nvidia RTX Spark",
+          "url": "https://www.nvidia.com/en-us/products/rtx-spark",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-06-01T05:24:40.000Z",
+          "description": "Article URL: https://www.nvidia.com/en-us/products/rtx-spark/ Comments URL: https://news.ycombinator.com/item?id=48352939 Points: 25 # Comments: 12"
+        },
+        {
+          "title": "NVIDIA's RTX Spark is an AI \"superchip\" that will power Windows laptops and desktops",
+          "url": "https://www.engadget.com/2184558/nvidia-rtx-spark-chip-windows-pcs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-01T04:42:52.000Z",
+          "image": "https://www.engadget.com/img/gallery/nvidias-rtx-spark-is-an-ai-superchip-that-will-power-windows-laptops-and-desktops/l-intro-1780288941.jpg",
+          "description": "NVIDIA claims the new RTX Spark chip for PCs will offer 1 petaflop of AI computing power."
+        },
+        {
+          "title": "Nvidia’s RTX Spark chip ‘reinvents’ laptops for agentic AI",
+          "url": "https://www.pcworld.com/article/3152460/nvidia-rtx-spark-chip-reinvents-laptops-for-agentic-ai.html",
+          "source": "PCWorld",
+          "published_at": "2026-06-01T12:39:50.000Z",
+          "image": "https://www.pcworld.com/wp-content/uploads/2026/06/RTX-Spark-1-1-2.png",
+          "description": "Nvidia has a vision to put AI productivity into the hands of virtually everyone on the planet. On Sunday night it advanced that mission with the debut of the Nvidia RTX Spark, a challenge to Qualcomm as the second Windows on Arm processor for consumer and business PCs. In conjunction with Mediatek,…"
+        },
+        {
+          "title": "Nvidia RTX Spark CPU is now official: \"superchip\" will power Windows laptops and desktops",
+          "url": "https://www.techspot.com/news/112597-nvidia-rtx-spark-cpu-now-official-superchip-power.html",
+          "source": "TechSpot",
+          "published_at": "2026-06-01T05:45:00.000Z",
+          "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/06/2026-06-01-ts3_thumbs-12b.jpg",
+          "description": "Ryan Shrout is a longtime technology analyst and industry veteran who has spent over two decades covering PC hardware, graphics, and semiconductors. He previously led technical marketing at Intel and was the founding editor of PC Perspective. He is currently President and GM at Signal65. You can fo…"
+        }
+      ],
+      "summary": "Nvidia introduced its RTX Spark chip for Windows laptops and desktops, describing it as an AI superchip capable of one petaflop of AI computing. The company says it is designed to run AI agents locally."
+    },
+    {
+      "id": "topic_ce4734daee26320e",
+      "title": "Taylor Swift Announces Original Song for Toy Story 5",
+      "headline": "Taylor Swift Announces New Song For Toy Story 5",
+      "label": [
+        "toy",
+        "swift",
+        "taylor",
+        "story",
+        "song",
+        "knew"
+      ],
+      "category": "new",
+      "theme": "theme_d158d20bd74a227a",
+      "entities": [
+        "Taylor Swift Announces New",
+        "Song For Toy Story",
+        "Taylor Swift Reveals Original",
+        "Song",
+        "Toy Story"
+      ],
+      "article_count": 22,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Taylor Swift Announces New Song For Toy Story 5",
+          "url": "https://bleedingcool.com/movies/taylor-swift-announces-new-song-for-toy-story-5-i-knew-it-i-knew-you",
+          "source": "Movies",
+          "published_at": "2026-06-01T19:42:11.000Z",
+          "description": "Taylor Swift has announced a new song for Toy Story 5, 'I Knew It, I Knew You'. It will be available on June 5, with the movie out June 19."
+        },
+        {
+          "title": "Taylor Swift Reveals Original Song for ‘Toy Story 5’: ‘I Knew It, I Knew You’",
+          "url": "https://variety.com/2026/music/news/taylor-swift-toy-story-5-announces-1236764185",
+          "source": "Variety",
+          "published_at": "2026-06-01T18:06:58.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/MixCollage-01-Jun-2026-10-12-AM-1420.jpg",
+          "description": "The countdown is over, although there is surely further suspense to come. Following the ticking down of a countdown clock, Taylor Swift revealed news that fans have been waiting for — an original song in “Toy Story 5, titled “I Knew It, I Knew You,” coming out this Friday. The song is available as…"
+        },
+        {
+          "title": "Taylor Swift Announces New Song ‘I Knew It, I Knew You’ for ‘Toy Story 5’",
+          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-toy-story-5-1235570461",
+          "source": "Rolling Stone",
+          "published_at": "2026-06-01T18:10:27.000Z",
+          "description": "\"I’ve always dreamed of getting to write for these characters who I’ve adored since I was a 5 year old kid watching the first Toy Story movie,\" Swift says"
+        },
+        {
+          "title": "Taylor Swift Reveals Original Song 'I Knew It, I Knew You' for Toy Story 5",
+          "url": "https://www.ign.com/articles/taylor-swift-reveals-original-song-i-knew-it-i-knew-you-for-toy-story-5",
+          "source": "IGN Articles",
+          "published_at": "2026-06-01T19:30:32.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/01/taylor-swift-toy-story-5-1780339667607.png",
+          "description": "Pop-music superstar Taylor Swift has ended weeks of teases with the reveal of an original song for Pixar's Toy Story 5."
+        },
+        {
+          "title": "Taylor Swift Announces Toy Story 5 Song “I Knew It, I Knew You”",
+          "url": "https://consequence.net/2026/06/taylor-swift-toy-story-5-i-knew-it-i-knew-you",
+          "source": "Consequence",
+          "published_at": "2026-06-01T18:08:19.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/06/Taylor-Swift.jpeg?quality=80",
+          "description": "The original recording is set to premiere on Friday, June 5th. Taylor Swift Announces Toy Story 5 Song “I Knew It, I Knew You” Alex Young"
+        }
+      ],
+      "summary": "Taylor Swift announced an original song, “I Knew It, I Knew You,” for Toy Story 5. The recording is set to be released June 5, ahead of the film’s June 19 release."
+    },
+    {
+      "id": "topic_6f474c4ac376c82a",
+      "title": "Florida Sues OpenAI and Sam Altman Over ChatGPT Safety",
+      "headline": "Florida sues OpenAI and CEO Sam Altman",
+      "label": [
+        "sues",
+        "florida",
+        "openai",
+        "altman",
+        "sam",
+        "safety"
+      ],
+      "category": "new",
+      "theme": "theme_bafb78d3646cc650",
+      "entities": [
+        "Florida",
+        "OpenAI",
+        "CEO Sam Altman",
+        "ChatGPT",
+        "Axios"
+      ],
+      "article_count": 21,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Florida sues OpenAI and CEO Sam Altman",
+          "url": "https://www.perthnow.com.au/news/politics/florida-sues-openai-and-ceo-sam-altman-c-22368486",
+          "source": "PerthNow",
+          "published_at": "2026-06-01T22:26:41.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22368486/24fe99de6eb0f40a9c777946a738099befa3fb18-16x9-x0y0w1280h720.jpg",
+          "description": "Florida is accusing OpenAI and its CEO Sam Altman of putting profit over safety, in the first lawsuit brought by a US state against the ChatGPT maker."
+        },
+        {
+          "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT",
+          "url": "https://www.axios.com/local/tampa-bay/2026/06/01/florida-openai-ceo-sam-altman-chatgpt",
+          "source": "Axios",
+          "published_at": "2026-06-01T20:49:28.000Z",
+          "image": "https://images.axios.com/xPfcmLEw58JZhXKezLkgMru9i8w=/0x0:1920x1080/1366x768/2026/06/01/1780345292235.jpg",
+          "description": "Florida Attorney General James Uthmeier on Monday sued OpenAI and its CEO Sam Altman, alleging that the company marketed ChatGPT to the public without sufficiently warning of its dangers. Why it matters: Florida is the first state to sue OpenAI, part of a growing string of lawsuits the state has fi…"
+        },
+        {
+          "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT",
+          "url": "https://news.google.com/rss/articles/cbmijwfbvv95cuxqsfy5rul2cthbumxxvxi0s0rzzw9rnjdwvnpmrthieup3y3dnbklgadbmbtn3bjfjt1bnckdjs3dxudn0ahg5smz0uxf1tfptstrevehpmdjzc3rjuxq2mu5hmkvsv2pdngjwwmj1ouhysm9uwgrwaevuuelkwu8yzmo2yzftu3vnd3zizthhaw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-01T22:13:13.000Z",
+          "description": "Florida sues OpenAI and CEO Sam Altman over ChatGPT Axios Florida sues OpenAI, alleging it’s unsafe for children CNN OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims BBC Florida sues OpenAI and Sam Altman over AI risks Politico 'Happy [and safe] shooting!' AI chatbot's chilling…"
+        },
+        {
+          "title": "Florida sues OpenAI and Sam Altman over AI risks",
+          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-06-01T16:02:04.000Z",
+          "description": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney... https://www.nbcnews.com/tech/tech-news/florida-sues-openai-s... Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 11 # Comments: 2"
+        },
+        {
+          "title": "Florida Sues OpenAI, Sam Altman Over Chatbot Safety Concerns",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-01/florida-sues-openai-sam-altman-over-chatbot-safety-concerns",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-01T16:03:41.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu3YwgUBsKRM/v1/1200x-1.jpg",
+          "description": "The state of Florida sued OpenAI and Chief Executive Officer Sam Altman, accusing the artificial intelligence company of ignoring safety warnings and releasing a product that is harmful to users."
+        }
+      ],
+      "summary": "Florida sued OpenAI and CEO Sam Altman, alleging the company marketed ChatGPT without adequately warning the public about its dangers and raising concerns about safety. It is the first lawsuit by a US state against the company, according to the headlines."
+    },
+    {
+      "id": "topic_5d74e8aff953575d",
+      "title": "Hackers Exploited Meta AI Support Bot to Hijack Instagram Accounts",
+      "headline": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "label": [
+        "instagram",
+        "meta",
+        "accounts",
+        "hackers",
+        "ai",
+        "chatbot"
+      ],
+      "category": "new",
+      "theme": "theme_5f92877e828bc0e9",
+      "entities": [
+        "Hackers",
+        "Instagram",
+        "Meta AI",
+        "Meta",
+        "AI"
+      ],
+      "article_count": 17,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+          "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access",
+          "source": "TechCrunch",
+          "published_at": "2026-06-01T18:34:32.000Z",
+          "description": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts."
+        },
+        {
+          "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+          "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+          "source": "The Verge",
+          "published_at": "2026-06-01T19:20:47.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. Th…"
         },
         {
           "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
@@ -45,978 +308,609 @@
           "published_at": "2026-06-01T21:14:47.000Z"
         },
         {
-          "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-          "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-06-01T20:44:37.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Meta-AI-logo-1152x648.jpg"
-        },
-        {
-          "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
-          "url": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-01T19:43:44.000Z",
-          "image": "https://www.engadget.com/img/gallery/metas-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/l-intro-1780342883.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_626c0ca8614fbb20",
-      "label": [
-        "florida sues",
-        "sues openai",
-        "sues",
-        "florida",
-        "openai",
-        "altman"
-      ],
-      "category": "new",
-      "theme": "theme_d3cfa6fbf7692486",
-      "entities": [
-        "Florida",
-        "OpenAI",
-        "CEO Sam Altman",
-        "Florida Sues OpenAI",
-        "Accusing Them"
-      ],
-      "article_count": 8,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Florida sues OpenAI and CEO Sam Altman",
-          "url": "https://www.perthnow.com.au/news/politics/florida-sues-openai-and-ceo-sam-altman-c-22368486",
-          "source": "PerthNow",
-          "published_at": "2026-06-01T22:26:41.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22368486/24fe99de6eb0f40a9c777946a738099befa3fb18-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Florida Sues OpenAI and CEO Sam Altman, Accusing Them of Putting Profit Over Safety",
-          "url": "https://yro.slashdot.org/story/26/06/01/1846250/florida-sues-openai-and-ceo-sam-altman-accusing-them-of-putting-profit-over-safety",
+          "title": "Hackers Simply Asked Meta's AI To Take Over High-Profile Instagram Accounts",
+          "url": "https://meta.slashdot.org/story/26/06/01/2130239/hackers-simply-asked-metas-ai-to-take-over-high-profile-instagram-accounts",
           "source": "Slashdot",
-          "published_at": "2026-06-01T21:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "published_at": "2026-06-01T22:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "\"Hackers used Meta's AI support chatbot to change email addresses associated with high-profile Instagram accounts, such as Barack Obama's White House account, allowing them to change the passwords and gain control over the accounts,\" writes Slashdot reader fropenn. Other accounts affected include t…"
         },
         {
-          "title": "'A Web of Deceit': Florida Sues OpenAI Over ChatGPT Safety Concerns",
-          "url": "https://www.cnet.com/tech/services-and-software/florida-sues-openai-chatgpt-safety-lawsuit-news",
-          "source": "CNET",
-          "published_at": "2026-06-01T20:42:30.000Z",
-          "image": "https://www.cnet.com/a/img/resize/1b854dcc08385c55cb02dd63dec068bc0eaee340/hub/2026/06/01/22e6fc56-c326-4b70-8095-ade4dacd7c59/florida-versus-openai.jpg?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-          "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents",
-          "source": "TechCrunch",
-          "published_at": "2026-06-01T20:03:40.000Z"
-        },
-        {
-          "title": "\"Endangering Our Kids\": Florida Sues OpenAI Over ChatGPT Safety Risks",
-          "url": "https://www.ndtv.com/world-news/florida-sues-openai-sam-altman-over-chatgpt-safety-risks-11577830",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-01T19:10:55.000Z",
-          "image": "https://c.ndtvimg.com/2026-04/7ae34hrg_openai-sam-altman-bbg_625x300_07_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+          "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+          "url": "https://malware.news/t/hackers-used-meta-s-ai-support-bot-to-seize-instagram-accounts/107485",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-06-01T17:40:44.000Z",
+          "image": "https://krebsonsecurity.com/wp-content/uploads/2026/06/metasupportbot.png",
+          "description": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta’s “AI support assistant” bot into resetting a…"
         }
-      ]
+      ],
+      "summary": "Hackers reportedly used Meta’s AI support chatbot to change email addresses linked to Instagram accounts and take them over. Accounts including the Obama White House’s were briefly defaced with pro-Iranian images and messages."
     },
     {
-      "id": "topic_93923c79a98680dc",
+      "id": "topic_493e474efbdd5fb",
+      "title": "Anthropic Confidentially Files for IPO",
+      "headline": "Anthropic confidentially files for IPO",
       "label": [
-        "serena william",
-        "serena",
-        "tenni",
-        "william",
-        "william mak",
-        "mak tenni"
+        "confidentially",
+        "anthropic",
+        "ipo",
+        "files",
+        "sec",
+        "submits"
       ],
       "category": "new",
-      "theme": "theme_c80f672e10d5d13f",
+      "theme": "theme_8e36c852ee11547a",
       "entities": [
-        "Serena Williams",
-        "Queen",
-        "Club",
-        "NPR"
+        "Anthropic",
+        "IPO",
+        "SEC",
+        "AI",
+        "CNBC"
       ],
-      "article_count": 8,
-      "source_count": 8,
+      "article_count": 16,
+      "source_count": 15,
       "articles": [
         {
-          "title": "Serena Williams is coming back to tennis at 44, returning to the sport she dominated for decades",
-          "url": "https://japantoday.com/category/sports/serena-williams-is-returning-to-pro-tennis-at-age-44-after-nearly-4-years-away-from-the-sport",
+          "title": "Anthropic confidentially files for IPO",
+          "url": "https://financialpost.com/financial-times/anthropic-confidentially-files-ipo",
+          "source": "Financial Post",
+          "published_at": "2026-06-01T16:44:33.000Z",
+          "description": "The AI company closed a US$65-billion funding round last week valuing it at US$900 billion"
+        },
+        {
+          "title": "Anthropic confidentially files IPO prospectus with SEC",
+          "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-06-01T16:10:05.000Z",
+          "description": "Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI."
+        },
+        {
+          "title": "AI giant Anthropic confidentially files for IPO",
+          "url": "https://japantoday.com/category/tech/ai-giant-anthropic-confidentially-files-for-ipo",
           "source": "Japan Today",
-          "published_at": "2026-06-01T21:46:15.000Z"
+          "published_at": "2026-06-01T21:48:54.000Z",
+          "description": "AI giant Anthropic, the maker of the Claude chatbot, announced Monday that it had filed confidentially for an initial public offering (IPO), as Silicon Valley AI companies look…"
         },
         {
-          "title": "Serena Williams making tennis comeback",
-          "url": "https://www.brisbanetimes.com.au/sport/tennis/serena-williams-making-tennis-comeback-20260602-p602zi.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-01T20:39:12.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5837ee66259a4fe74b625f903120074164eaa091"
+          "title": "Anthropic confidentially files IPO prospectus with SEC",
+          "url": "https://news.google.com/rss/articles/cbmickfvx3lxtfbxqtzjnkytaejxdg55ze82bui0rzqwy19pwxdmujhnq2hun2exczy5x09jm2rwaxrysvyzqvvzmvpndm9fn2jkbflletk5tnvkawp2m01qrjrib08zcwlilww3t2txtu5qs3jla0y1tgraqdibd0fvx3lxte1moddtyv9unhvenzgxnvjhcnfjngxraepnnw5wmtkwdxvlzwq0zu5rutfrynbjrehrquu2m2gwdjmzevd0ukvgmfzqadvurxf2s1pjcwryywlmtdd2r0fmsxpcrdbksg5tttbhbwlsm1mwd2lobtkw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-01T16:04:44.000Z",
+          "description": "Anthropic confidentially files IPO prospectus with SEC CNBC Anthropic Files to Go Public, Setting Stage for Huge I.P.O. The New York Times Anthropic raises $65B in Series H funding at $965B post-money valuation Anthropic Anthropic Files Confidentially for IPO As Claude Demand Surges Bloomberg.com A…"
         },
         {
-          "title": "Serena Williams making tennis comeback",
-          "url": "https://www.theage.com.au/sport/tennis/serena-williams-making-tennis-comeback-20260602-p602zi.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-01T20:39:12.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5837ee66259a4fe74b625f903120074164eaa091"
-        },
-        {
-          "title": "Serena Williams making tennis comeback",
-          "url": "https://www.smh.com.au/sport/tennis/serena-williams-making-tennis-comeback-20260602-p602zi.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-01T20:39:12.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5837ee66259a4fe74b625f903120074164eaa091"
-        },
-        {
-          "title": "Serena Williams to return to tennis at Queen's Club",
-          "url": "https://www.thehindu.com/sport/serena-williams-to-return-to-tennis-at-queens-club/article71050090.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-01T19:26:31.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/j962c2/article71050092.ece/alternates/LANDSCAPE_1200/Serena_Williams-Comeback_Tennis_14721.jpg"
+          "title": "Anthropic Confidentially Files for IPO in Race Against Rival OpenAI",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-01/anthropic-confidentially-files-for-ipo-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-06-01T16:46:48.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih9Hzcz72lUI/v3/1200x-1.jpg",
+          "description": "Anthropic PBC has confidentially filed draft paperwork to go public as it races rival OpenAI to make a Wall Street debut as soon as this fall. The number of shares to be offered and the price have not been set yet. Ed Ludlow reports. (Source: Bloomberg)"
         }
-      ]
+      ],
+      "summary": "Anthropic said it confidentially filed draft paperwork with the SEC for an initial public offering. The filing sets the stage for a potential share sale, though its size and price have not been disclosed."
     },
     {
-      "id": "topic_a0a0a75eeb2fe74a",
+      "id": "topic_313305ef2b169e6e",
+      "title": "UK Publishes More Peter Mandelson Files, Withholds Some Documents",
+      "headline": "What was missing from the Mandelson files?",
       "label": [
-        "frederiksen",
-        "denmark",
-        "frederiksen secur",
-        "secur third",
-        "third term",
-        "secur"
-      ],
-      "category": "new",
-      "theme": "theme_8614545d88768899",
-      "entities": [
-        "Denmark",
-        "Mette Frederiksen",
-        "PM",
-        "PM Frederiksen",
-        "Danish"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Denmark's Mette Frederiksen secures third term as PM",
-          "url": "https://www.perthnow.com.au/news/politics/denmarks-mette-frederiksen-secures-third-term-as-pm-c-22368642",
-          "source": "PerthNow",
-          "published_at": "2026-06-01T23:05:51.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22368642/59ce5c78668acb597709a960105d0100e7513fe5-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "PM Frederiksen secures third term with new Danish coalition government",
-          "url": "https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-01T22:54:02.000Z",
-          "image": "https://s.france24.com/media/display/2147868a-5dfe-11f1-bde4-005056bfb2b6/w:1024/p:16x9/8a13de2a71defb199565ce5aa36c1af50e8592c5.jpg"
-        },
-        {
-          "title": "Mette Frederiksen Forms New Government in Denmark",
-          "url": "https://www.nytimes.com/2026/06/01/world/europe/denmark-mette-frederiksen.html",
-          "source": "NYT > World > Europe",
-          "published_at": "2026-06-01T22:52:23.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01int-denmark-government-cgbp/01int-denmark-government-cgbp-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Denmark's Frederiksen secures third term as prime minister",
-          "url": "https://japantoday.com/category/world/denmark%27s-frederiksen-secures-third-term-as-prime-minister1",
-          "source": "Japan Today",
-          "published_at": "2026-06-01T21:39:30.000Z"
-        },
-        {
-          "title": "Denmark’s Mette Frederiksen agrees centre-left coalition after months of uncertainty",
-          "url": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-06-01T20:47:28.000Z",
-          "image": "https://i.guim.co.uk/img/media/3de17b965760508d53220d1978899c4f2d7e2dc0/940_724_2135_1708/master/2135.jpg?width=140&quality=85&auto=format&fit=max&s=357bddc8907200831f8688c76b63701e"
-        }
-      ]
-    },
-    {
-      "id": "topic_d3527502ecc97d2d",
-      "label": [
-        "hommage",
-        "rendu",
-        "edgar",
-        "morin",
-        "mercredi",
-        "un hommage"
-      ],
-      "category": "new",
-      "theme": "theme_1dbc7a9673edf46f",
-      "entities": [
-        "France",
-        "Edgar Morin",
-        "Invalides",
-        "Mort",
-        "Un"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "France : un hommage national sera rendu à Edgar Morin mercredi aux Invalides, annonce l’Élysée",
-          "url": "https://www.rtbf.be/article/france-un-hommage-national-sera-rendu-a-edgar-morin-mercredi-aux-invalides-annonce-l-elysee-11733496",
-          "source": "- Info",
-          "published_at": "2026-06-01T19:20:49.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/d/d/d/5c8111e7-21e8-442f-ae6c-e2e026d72131.jpg"
-        },
-        {
-          "title": "Mort d’Edgar Morin : un hommage national sera rendu au philosophe mercredi aux Invalides",
-          "url": "https://www.sudouest.fr/societe/mort-d-edgar-morin-un-hommage-national-sera-rendu-au-philosophe-mercredi-aux-invalides-29314854.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-01T19:18:19.000Z"
-        },
-        {
-          "title": "Un hommage national sera rendu à Edgar Morin mercredi aux Invalides",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/06/01/un-hommage-national-sera-rendu-a-edgar-morin-mercredi-aux-invalides_6696018_3382.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-01T19:04:36.000Z",
-          "image": "https://img.lemde.fr/2026/05/30/532/0/6364/3182/644/322/60/0/2f68322_ftp-1-m9a507hyhqco-5179688-01-06.jpg"
-        },
-        {
-          "title": "Un hommage national sera rendu à Edgar Morin mercredi aux Invalides, annonce l’Élysée",
-          "url": "https://www.ouest-france.fr/europe/france/un-hommage-national-sera-rendu-a-edgar-morin-mercredi-aux-invalides-annonce-lelysee-9f6d99ce-5de9-11f1-b3f0-aacb0ffa8bfb",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-01T18:55:19.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2NzRkZGY0NDlhMDM3NjYwOWY2OTlhMzQxYWFmNzZiNDg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=bce11a61a9af8a964a4199fed48f8275514d96bc544078630208581b14235712"
-        },
-        {
-          "title": "Un hommage national sera rendu au philosophe et sociologue Edgar Morin mercredi aux Invalides, annonce l'Elysée",
-          "url": "https://www.franceinfo.fr/culture/livres/un-hommage-national-sera-rendu-au-sociologue-edgar-morin-mercredi-aux-invalides-annonce-l-elysee_8040119.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-01T18:54:08.000Z",
-          "image": "https://www.franceinfo.fr/pictures/KtYt7H4DqCjfJGq92CrMdngBYN8/0x5:1024x581/432x243/filters:format(jpg)/2026/06/01/6a1dd4ac132a7930796034.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c4a65fe6496b2796",
-      "label": [
-        "newscast",
-        "mandelson fil",
         "mandelson",
-        "fil",
-        "miss",
-        "miss mandelson"
+        "files",
+        "starmer",
+        "published",
+        "bad",
+        "trove"
       ],
       "category": "new",
-      "theme": "theme_346f1a2100fb89ca",
+      "theme": "theme_f87e66a97e93d2e7",
       "entities": [
-        "Five Things We Learned",
-        "Government",
-        "New Release",
-        "Mandelson Files",
-        "How Trump Is Mentioned"
+        "Mandelson",
+        "Bad",
+        "Starmer",
+        "Starmer Faces New Scrutiny",
+        "Mandelson Files Published"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 16,
+      "source_count": 12,
       "articles": [
-        {
-          "title": "Five Things We Learned From the U.K. Government's New Release of Mandelson Files—and How Trump Is Mentioned",
-          "url": "https://time.com/article/2026/06/01/peter-mandelson-files-ambassador-to-us-epstein-fallout-trump-revelations",
-          "source": "TIME",
-          "published_at": "2026-06-01T20:57:59.000Z",
-          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt74784c8168a9f0eb/6a1de7cafc978a490b6f8ced/Screenshot_2026-06-01_at_21.12.25.png?branch=production&format=jpg&width=1024"
-        },
         {
           "title": "What was missing from the Mandelson files?",
           "url": "https://www.irishexaminer.com/news/arid-41855241.html",
           "source": "IrishExaminer.com",
-          "published_at": "2026-06-01T20:44:00.000Z"
+          "published_at": "2026-06-01T20:44:00.000Z",
+          "description": "Some documents were withheld to avoid prejudicing a police investigation into Mandelson. The government intends to publish them once that is complete"
         },
         {
-          "title": "The Mandelson files - Everything you need to know | BBC Newscast",
-          "url": "https://www.youtube.com/watch?v=rkC8oEojaLM",
-          "source": "BBC News",
-          "published_at": "2026-06-01T19:30:59.000Z",
-          "image": "https://i3.ytimg.com/vi/rkC8oEojaLM/hqdefault.jpg"
+          "title": "How I ended up in the Mandelson files",
+          "url": "https://www.independent.co.uk/news/uk/politics/mandelson-files-independent-revelations-david-maddox-b2987361.html",
+          "source": "The Independent UK",
+          "published_at": "2026-06-01T17:29:37.000Z",
+          "image": "https://static.independent.co.uk/2026/06/01/14/404ba954163b540a34e6329abad34809Y29udGVudHNlYXJjaGFwaSwxNzgwNDA3MjUz-2.84805802.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Political editor David Maddox discusses being named in exchanges involving Peter Mandelson and how The Independent’s stories have embarrassed the government"
+        },
+        {
+          "title": "Bad news for Starmer with new trove of Mandelson files",
+          "url": "https://www.perthnow.com.au/news/politics/bad-news-for-starmer-with-new-trove-of-mandelson-files-c-22367759",
+          "source": "PerthNow",
+          "published_at": "2026-06-01T10:23:58.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22367759/cd6b4031fdbbed5be69d3f32cefd8342d40abb35-16x9-x0y0w1280h720.jpg",
+          "description": "British Prime Minister Keir Starmer faces more embarrassment with the release of files about former UK ambassador to Washington Peter Mandelson."
         },
         {
           "title": "Mandelson files: What you need to know",
           "url": "https://www.bbc.com/news/articles/clyp3gvvxkyo",
           "source": "BBC News",
           "published_at": "2026-06-01T18:46:36.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfb/live/caf5a630-5de0-11f1-a9fd-33d28640a441.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfb/live/caf5a630-5de0-11f1-a9fd-33d28640a441.jpg",
+          "description": "The government has published more than 1,000 pages of documents about the former US ambassador's appointment."
         },
         {
-          "title": "Newscast",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nphcsr",
-          "source": "BBC News",
-          "published_at": "2026-06-01T18:45:00.000Z",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+          "title": "What documents are missing from the new release of Mandelson files?",
+          "url": "https://www.theguardian.com/politics/2026/jun/01/documents-missing-new-release-mandelson-files",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-01T18:09:46.000Z",
+          "image": "https://i.guim.co.uk/img/media/6836be541b192275af72cd2123a61964646336f7/519_51_2270_1816/master/2270.jpg?width=140&quality=85&auto=format&fit=max&s=c22d7cf843368352f5027f0bd8685966",
+          "description": "From vetting summary to declaration of interest, here are the five key papers withheld from latest disclosures What is new in the latest release of Peter Mandelson documents? More than 1,500 pages of documents were published by the government on Monday afternoon about Peter Mandelson’s appointment…"
         }
-      ]
+      ],
+      "summary": "The UK government has released more than 1,000 pages of documents concerning Peter Mandelson’s appointment as ambassador to Washington. Some documents were withheld to avoid prejudicing a police investigation, with publication planned after it concludes."
     },
     {
-      "id": "topic_3819556112dd1e75",
+      "id": "topic_c1e007a73c50d7e7",
+      "title": "Asus Unveils ROG Xbox Ally X20 OLED Handheld Bundle",
+      "headline": "Asus Goes OLED With the New ROG Xbox Ally X20",
       "label": [
-        "platner",
-        "platner head",
-        "head",
-        "graham",
-        "graham platner",
-        "democrat"
+        "xbox",
+        "ally",
+        "asus",
+        "x20",
+        "rog",
+        "oled"
       ],
       "category": "new",
-      "theme": "theme_c0abcd23ef01a299",
+      "theme": "theme_e88e0403f4dc3810",
       "entities": [
-        "The View",
-        "Graham Platner",
-        "Keep",
-        "Scoop",
-        "Platner"
+        "Asus Goes OLED With",
+        "New ROG Xbox Ally",
+        "X20",
+        "Asus",
+        "ROG Xbox Ally X20"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 13,
+      "source_count": 11,
       "articles": [
         {
-          "title": "The View rips Graham Platner: ‘Keep it in your pants’",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4590281/the-view-graham-platner-senate-maine",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-01T22:44:22.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26144839396636.jpg?w=696"
+          "title": "Asus Goes OLED With the New ROG Xbox Ally X20",
+          "url": "https://www.ign.com/articles/asus-goes-oled-with-the-new-rog-xbox-ally-x20",
+          "source": "IGN Articles",
+          "published_at": "2026-06-01T15:50:45.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/01/rog-xbox-ally-x20-hero-1780328301695.jpg"
         },
         {
-          "title": "Scoop: Platner heads to D.C. as Democrats worry over his campaign (Hans Nichols/Axios)",
-          "url": "https://www.memeorandum.com/260601/p83",
-          "source": "memeorandum",
-          "published_at": "2026-06-01T20:20:01.000Z",
-          "image": "http://www.memeorandum.com/260601/i83.jpg"
+          "title": "Asus' new ROG Xbox Ally X20 solves my biggest issue with the handheld",
+          "url": "https://www.xda-developers.com/asus-new-rog-xbox-ally-x20-solves-my-biggest-issue-with-the-handheld",
+          "source": "XDA",
+          "published_at": "2026-06-01T14:57:53.000Z",
+          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/asus-rog-ally-xbox-x-20th-anniversary-3.jpg",
+          "description": "The limited-edition Windows 11 handheld features a bigger 7.4-inch OLED screen and comes with XREAL R1 Edition 20 Gaming AR Glasses."
         },
         {
-          "title": "Graham Platner Heads to D.C.",
-          "url": "https://politicalwire.com/2026/06/01/graham-platner-heads-to-d-c",
-          "source": "Political Wire",
-          "published_at": "2026-06-01T20:07:25.000Z"
+          "title": "ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses",
+          "url": "https://www.engadget.com/2184692/asus-rog-xbox-ally-x20-bundle-includes-a-limited-edition-oled-ally-x-handheld-pc-and-ar-gaming-glasses",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-01T12:02:04.000Z",
+          "image": "https://www.engadget.com/img/gallery/asus-rog-xbox-ally-x20-bundle-includes-a-limited-edition-oled-ally-x-handheld-pc-and-ar-gaming-glasses/l-intro-1780315079.jpg",
+          "description": "ASUS' new ROG Xbox Ally X20 has mostly the same hardware as last year's handheld, but now comes with a new OLED panel."
         },
         {
-          "title": "Scoop: Platner heads to D.C. as Democrats worry over his campaign - Axios",
-          "url": "https://news.google.com/rss/articles/cbmifkfvx3lxtfbwutdfafjaoty0tzn5v2y1t0r1rwh4tnd0nnhsa1gwmfmxtvdvowm3s3d5x1a3m2w3lwlmww5rvvi1vfv6s1dvy1vixzzynwi5y05ov2nwvkj1chfdem1nag1ztwowltlnukjpzjvoawtpunl0luryr05gnurlqq",
+          "title": "ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses",
+          "url": "https://news.google.com/rss/articles/cbmi0gfbvv95cuxqzfphvjdfuefwdk9sslc5qte0vw4tv1hilwxpajhltwvfu3j4zlbbvvbcdwl5z1l2bfbhajhcukv0vgptd21rcjdqakwyewluownralbhv3dmqwz1nhf5otktx1kwcevgmmlkyxp4tefnsdnnowjkr3nize9tzdqzd0vregjla2hat1ntbmfenetrvfdzcdhcz3ptaediexlic3pnbmyybnlxng10ee1vs2dfcs05ova1snrfcmrzbtj3snvibupcum9vujbvrmtazmc",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-01T19:57:13.000Z"
+          "published_at": "2026-06-01T12:02:04.000Z",
+          "description": "ASUS' ROG Xbox Ally X20 bundle includes a limited-edition OLED Ally X handheld PC and AR gaming glasses Engadget ROG XBOX Ally X20 Bundle – 20th Anniversary OLED Handheld ASUS Pressroom Asus just announced the OLED Xbox Ally X of my dreams The Verge Leak Tips Potential New ASUS ROG Xbox Ally Gaming…"
         },
         {
-          "title": "Scoop: Platner heads to D.C. as Democrats worry over his campaign",
-          "url": "https://www.axios.com/2026/06/01/graham-platner-maine-democratic-senators",
-          "source": "Axios",
-          "published_at": "2026-06-01T19:54:11.000Z",
-          "image": "https://images.axios.com/K_ncUM9nAtqDVmcq-gFCcNHi2xc=/0x0:4000x2250/1366x768/2026/06/01/1780342716461.jpeg"
+          "title": "Asus ROG Xbox Ally X20 unveiled with larger 7.4\" OLED screen, new TMR joysticks",
+          "url": "https://www.gsmarena.com/asus_rog_xbox_ally_x20_unveiled_with_larger_74_oled_screen_new_tmr_joysticks-news-73069.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-06-01T15:21:02.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/asus-rog-xbox-ally-x20-bundle/-184x111/gsmarena_000.jpg",
+          "description": "The Steam Deck used to be the go-to x86 gaming handheld, but after the recent ridiculous price hike, it’s hard to recommend. There are alternatives like the Asus ROG Xbox Ally X, which launched last year at $1,000 (24GB/1TB). This used to be a lot of money, except the 16GB/1TB OLED Deck is $950 now…"
         }
-      ]
+      ],
+      "summary": "Asus announced a limited-edition ROG Xbox Ally X20 handheld with a 7.4-inch OLED screen and TMR joysticks. The bundle also includes XREAL R1 Edition 20 gaming AR glasses."
     },
     {
-      "id": "topic_e15b49c28908b849",
+      "id": "topic_1327346ffa73db79",
+      "title": "UK Denies Entry to Hasan Piker and Cenk Uygur",
+      "headline": "Hasan Piker and Cenk Uygur denied entry to UK",
       "label": [
-        "packag",
-        "red hat",
-        "npm",
-        "hat",
-        "red",
-        "npm packag"
+        "hasan",
+        "piker",
+        "cenk",
+        "uygur",
+        "uk",
+        "entry"
       ],
       "category": "new",
-      "theme": "theme_4dbecf527d5b1816",
+      "theme": "theme_df0fedf5ce3d29e2",
       "entities": [
-        "Red Hat Cloud Services",
-        "Packages Hijacked",
-        "Red Hat",
-        "Dozens",
-        "NPM"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Red Hat Cloud Services npm Packages Hijacked",
-          "url": "https://malware.news/t/red-hat-cloud-services-npm-packages-hijacked/107494",
-          "source": "Malware Analysis, News and Indicators - Latest topics",
-          "published_at": "2026-06-01T22:30:49.000Z",
-          "image": "https://www.sonatype.com/hubfs/blog_miasma_npm_campaign.png"
-        },
-        {
-          "title": "Red Hat Cloud Services npm Packages Hijacked",
-          "url": "https://www.sonatype.com/blog/red-hat-cloud-services-npm-packages-hijacked",
-          "source": "2024 Sonatype Blog",
-          "published_at": "2026-06-01T22:25:07.000Z",
-          "image": "https://www.sonatype.com/hubfs/blog_miasma_npm_campaign.png"
-        },
-        {
-          "title": "Red Hat npm packages compromised to steal developer credentials",
-          "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials",
-          "source": "BleepingComputer",
-          "published_at": "2026-06-01T21:38:29.000Z"
-        },
-        {
-          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-          "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel",
-          "source": "Ars Technica - All content",
-          "published_at": "2026-06-01T19:49:09.000Z",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/redhat-1152x648.jpg"
-        },
-        {
-          "title": "Miasma: Red Hat Cloud Services npm Packages Hit by a Mini Shai-Hulud-Style Campaign",
-          "url": "https://securityboulevard.com/2026/06/miasma-red-hat-cloud-services-npm-packages-hit-by-a-mini-shai-hulud-style-campaign",
-          "source": "Security Boulevard",
-          "published_at": "2026-06-01T18:14:44.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_fec49e167d99ee05",
-      "label": [
-        "habr clas",
-        "habr",
-        "clas",
-        "el 11",
-        "11 de",
-        "mundial"
-      ],
-      "category": "new",
-      "theme": "theme_788bcec0e3712dc1",
-      "entities": [
-        "Oficial",
-        "CDMX",
-        "Mundial",
-        "Anuncia Brugada",
-        "SEP"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Oficial: No habrá clases en la CDMX por inauguración del Mundial",
-          "url": "https://www.informador.mx/mexico/clara-brugada-anuncia-dia-libre-mundialista-no-habra-clases-en-la-cdmx-el-11-de-junio-20260601-0109.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-01T20:01:00.000Z"
-        },
-        {
-          "title": "Anuncia Brugada que no habrá clases en CDMX el 11 de junio",
-          "url": "https://vanguardia.com.mx/noticias/anuncia-brugada-que-no-habra-clases-en-cdmx-el-11-de-junio-al21086475",
-          "source": "Vanguardia",
-          "published_at": "2026-06-01T19:25:15.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1084599-inauguracion-international-m_1-15629486_20260601193355.jpg"
-        },
-        {
-          "title": "SEP da ‘puente’ por inauguración del Mundial 2026: No habrá clases el 11 de junio en CDMX",
-          "url": "https://www.elfinanciero.com.mx/cdmx/2026/06/01/sep-da-puente-por-inauguracion-del-mundial-2026-no-habra-clases-el-11-de-junio-en-cdmx",
-          "source": "El Financiero",
-          "published_at": "2026-06-01T18:53:44.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/TGmwxQvUyw4K7JJsSMg9G3e3wLM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KYA2EVBUJ5E4FAHEZCXPZDHBXM.jpg"
-        },
-        {
-          "title": "No habr� clases el 11 de junio por Mundial.- Brugada",
-          "url": "https://www.reforma.com/no-habra-clases-el-11-de-junio-por-mundial-brugada/ar3214387",
-          "source": "Reforma",
-          "published_at": "2026-06-01T18:48:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_aadff5b19f3801a1",
-      "label": [
-        "liffey",
-        "liffey follow",
-        "follow alleg",
-        "alleg assault",
-        "acros",
-        "assault"
-      ],
-      "category": "new",
-      "theme": "theme_eff6aa68d11b6291",
-      "entities": [
-        "Man",
-        "River Liffey",
-        "Liffey",
-        "Dublin",
-        "War Memorial Gardens"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Man (30s) dies after swimming across River Liffey following alleged assault",
-          "url": "https://www.breakingnews.ie/ireland/man-30s-dies-after-swimming-across-river-liffey-following-alleged-assault-1907891.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDFcXFwvMDUyMTUyNDRcXFwvMi41NDM3MzE5NS0xLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImFlODUyMmQ3ZTBiMTcyYjA1NTBkMTM3MmVkMjNkODcwYjg2ZjRjZmMifQ==/2-54373195-1.jpg"
-        },
-        {
-          "title": "Man dies after swimming across Liffey following alleged assault in Dublin",
-          "url": "https://www.irishexaminer.com/news/arid-41855187.html",
-          "source": "IrishExaminer.com",
-          "published_at": "2026-06-01T18:57:00.000Z"
-        },
-        {
-          "title": "Man dies after he swam across the River Liffey following an alleged assault in Dublin city",
-          "url": "https://www.thejournal.ie/dublin-war-memorial-gardens-death-of-man-7057968-jun2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-06-01T18:38:41.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/06/entrance-to-the-irish-national-war-memorial-gardens-dublin-ireland-ff67b026-9afd-404c-8641-67c5028e291b-630x420.jpg"
-        },
-        {
-          "title": "Man, 30s, dies in hospital after swimming across River Liffey following alleged assault at War Memorial Gardens",
-          "url": "https://www.irishmirror.ie/news/irish-news/man-30s-dies-hospital-after-37233881",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-06-01T18:14:27.000Z",
-          "image": "https://i2-prod.irishmirror.ie/incoming/article12078463.ece/ALTERNATES/s615/1_St-James-Hospital-dublin-stock-generic-logo-sign-exterior-230218.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d5e472959c99fab9",
-      "label": [
-        "quarantine",
-        "ebola quarantine",
-        "ebola",
-        "protest",
-        "us citizen",
-        "citizen"
-      ],
-      "category": "new",
-      "theme": "theme_81bdd72acf4dd33b",
-      "entities": [
-        "Protest",
-        "Kenya",
-        "Ebola",
+        "Hasan Piker",
+        "Cenk Uygur",
+        "UK",
         "US",
-        "Hundreds"
+        "Britain Denies Entry"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 11,
+      "source_count": 11,
       "articles": [
         {
-          "title": "Protest outside Kenya's Ebola quarantine center for US citizens",
-          "url": "https://www.france24.com/en/protest-outside-kenya-s-ebola-quarantine-center-for-us-citizens",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-06-01T20:44:26.000Z",
-          "image": "https://s.france24.com/media/display/fc6676a6-5df7-11f1-a7a5-005056a90284/w:1024/p:16x9/DN194948-A-01-20260526-01.jpg"
-        },
-        {
-          "title": "Hundreds of youths protest outside Kenya's Ebola quarantine center for US citizens",
-          "url": "https://www.manilatimes.net/2026/06/02/news/world/hundreds-of-youths-protest-outside-kenyas-ebola-quarantine-center-for-us-citizens/2356262",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-06-01T20:38:15.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/02/1081038.jpg"
-        },
-        {
-          "title": "Kenyans protest Ebola quarantine centre for US citizens",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kenyans-protest-ebola-quarantine-centre-for-us-citizens",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-01T20:23:08.000Z"
-        },
-        {
-          "title": "Kenyans protest planned US Ebola quarantine facility",
-          "url": "https://www.aljazeera.com/news/2026/6/1/kenyans-protest-planned-us-ebola-quarantine-facility",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-01T19:07:47.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_c2b72f8d7b2025c7",
-      "label": [
-        "une",
-        "espace",
-        "dans espace",
-        "espace en",
-        "en 2027",
-        "pesquet"
-      ],
-      "category": "new",
-      "theme": "theme_d5fdc540d8a29cd7",
-      "entities": [
-        "Une",
-        "Macron",
-        "Les",
-        "Thomas Pesquet",
-        "Arnaud Prost"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "”Une première au monde” : Macron fait une annonce importante pour l’astronomie française",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/01/une-premiere-au-monde-macron-fait-une-annonce-importante-pour-lastronomie-francaise-7iiyybel55h2xmkrml3wj4qj3a",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-01T21:59:38.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/RWYUCDPJMJEINPMC22NZ7SA5NI.jpg?auth=2e3b26f7110dd2ce54e87324fbb2484b7a7b39931d087a577fc35933f14f0c38&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Les astronautes français Thomas Pesquet et Arnaud Prost iront dans l'espace en 2027",
-          "url": "https://www.franceinfo.fr/sciences/espace/les-astronautes-francais-thomas-pesquet-et-arnaud-prost-iront-dans-l-espace-en-2027_8040227.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-01T21:54:25.000Z",
-          "image": "https://www.franceinfo.fr/pictures/QCn3ckdr2ijsXDfTqmFSHJ4JaDw/0x0:5559x3126/432x243/filters:format(jpg)/2026/06/01/6a1dff322ce4b822768962.jpg"
-        },
-        {
-          "title": "\"Une première au monde : les Français Thomas Pesquet et Arnaud Prost partiront dans l’espace en 2027, annonce Emmanuel Macron",
-          "url": "https://www.ladepeche.fr/2026/06/01/thomas-pesquet-et-arnaud-prost-partiront-dans-lespace-en-2027-annonce-emmanuel-macron-13398449.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-06-01T21:54:09.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a1df70d408e4bb6c20a3730/standard/image.jpg?v=1"
-        },
-        {
-          "title": "L’astronaute Thomas Pesquet sera de retour dans l’espace en 2027 pour mener une mission vers l’ISS",
-          "url": "https://www.ouest-france.fr/sciences/espace/thomas-pesquet/lastronaute-thomas-pesquet-sera-de-retour-dans-lespace-en-2027-pour-mener-une-mission-vers-liss-810224c0-5df1-11f1-b3f0-aacb0ffa8bfb",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-01T20:50:52.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2NjRiYjU3MmZjOWJhOWI5NzAxNWE3YzVhYTgwZWI1NTQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8da1ba7454b92d7f824f010fc9875dfc3aeceedb83047a10c0acc42e86d289c6"
-        }
-      ]
-    },
-    {
-      "id": "topic_6fbe0417ab616221",
-      "label": [
-        "asx",
-        "mix",
-        "asx set",
-        "set slip",
-        "slip wall",
-        "street mix"
-      ],
-      "category": "new",
-      "theme": "theme_653c366fdb3e902e",
-      "entities": [
-        "ASX",
-        "Wall Street",
-        "Anthropic",
-        "IPO"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "ASX set to slip, Wall Street mixed as oil prices rise; Anthropic files for IPO",
-          "url": "https://www.theage.com.au/business/markets/asx-set-to-slip-wall-street-mixed-as-oil-prices-rise-anthropic-files-for-ipo-20260602-p602yv.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-01T19:17:42.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1335%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0975dbf74f75329e49fb687e3eb7abdf332d595f"
-        },
-        {
-          "title": "ASX set to slip, Wall Street mixed as oil prices rise; Anthropic files for IPO",
-          "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-slip-wall-street-mixed-as-oil-prices-rise-anthropic-files-for-ipo-20260602-p602yv.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-01T19:17:42.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1335%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0975dbf74f75329e49fb687e3eb7abdf332d595f"
-        },
-        {
-          "title": "ASX set to slip, Wall Street mixed as oil prices rise; Anthropic files for IPO",
-          "url": "https://www.smh.com.au/business/markets/asx-set-to-slip-wall-street-mixed-as-oil-prices-rise-anthropic-files-for-ipo-20260602-p602yv.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-01T19:17:42.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1335%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/0975dbf74f75329e49fb687e3eb7abdf332d595f"
-        }
-      ]
-    },
-    {
-      "id": "topic_6b4dbb08bde361d8",
-      "label": [
-        "bafana",
-        "bafana bafana",
-        "safa",
-        "world cup",
-        "cup",
-        "mess"
-      ],
-      "category": "new",
-      "theme": "theme_ba001dce2f7025e",
-      "entities": [
-        "TEAM GUIDES",
-        "GROUP",
-        "Bafana Bafana",
-        "Fifa World Cup",
-        "OPINION"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "TEAM GUIDES — GROUP A: Bafana Bafana face uphill battle in tough group at 2026 Fifa World Cup",
-          "url": "https://www.dailymaverick.co.za/article/2026-06-01-bafana-bafana-face-uphill-battle-in-tough-group-at-2026-fifa-world-cup",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-06-01T21:12:05.000Z",
-          "image": "https://cdn.dailymaverick.co.za/attachments/orphans/TL_2575447_504689.jpg"
-        },
-        {
-          "title": "OPINION: How SAFA messed up Bafana Bafana’s World Cup preparations",
-          "url": "https://www.thesouthafrican.com/sport/soccer/soccer-world-cup/opinion-how-safa-messed-up-bafana-bafanas-world-cup-preparations",
-          "source": "The South African",
-          "published_at": "2026-06-01T19:16:24.000Z",
-          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/06/JORDAN.jpg.optimal.jpg"
-        },
-        {
-          "title": "WATCH: SAFA administrative failures behind Bafana Bafana visa snag",
-          "url": "https://www.citizen.co.za/multimedia/watch-safa-administrative-failures-behind-bafana-bafana-visa-snag",
-          "source": "The Citizen",
-          "published_at": "2026-06-01T18:11:59.000Z",
-          "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/55305856207_aef924295b_c.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_5701376e33135620",
-      "label": [
-        "beta",
-        "android 17",
-        "17 beta",
-        "android",
-        "17",
-        "pixel"
-      ],
-      "category": "new",
-      "theme": "theme_886caa0caed390ca",
-      "entities": [
-        "Android",
-        "Beta",
-        "Pixel",
-        "Google",
-        "Update Surprises Pixels"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Android 17 Beta 4.1 finally fixes the Pixel problems folks have been complaining about",
-          "url": "https://www.androidpolice.com/android-17-beta-41-rolls-out-to-pixel",
-          "source": "Android Police",
-          "published_at": "2026-06-01T22:08:27.000Z",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/pixel-10-pro-xl-back-log.JPG"
-        },
-        {
-          "title": "Android 17 Beta 4.1 arrives as Google scrambles to get things ready to hit stable",
-          "url": "https://www.androidauthority.com/android-17-beta-4-1-3673266",
-          "source": "Android Authority",
-          "published_at": "2026-06-01T20:56:43.000Z",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg"
-        },
-        {
-          "title": "Android 17 Beta 4.1 Update Surprises Pixels",
-          "url": "https://www.droid-life.com/2026/06/01/android-17-beta-4-1-update-surprises-pixels",
-          "source": "Droid Life – Opinionated Android news.",
-          "published_at": "2026-06-01T20:40:29.000Z",
-          "image": "https://www.droid-life.com/wp-content/uploads/2026/02/Android-17-5-1200x800.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7da80572001f5690",
-      "label": [
-        "blood",
-        "outlander",
-        "outlander blood",
-        "blood blood",
-        "sets",
-        "starz"
-      ],
-      "category": "new",
-      "theme": "theme_65ae1f84088b46b4",
-      "entities": [
-        "Outlander",
-        "Blood Of My Blood",
-        "Sets Season",
-        "Premiere At Starz",
-        "Drops Teaser"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Outlander: Blood Of My Blood Sets Season 2 Premiere Date — New Trailer Confirms Whether Henry Or Julia Went Back Through The Stones",
-          "url": "https://www.tvline.com/2185142/outlander-blood-of-my-blood-season-2-trailer-release-date-starz",
-          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
-          "published_at": "2026-06-01T20:00:00.000Z",
-          "image": "https://www.tvline.com/img/gallery/outlander-blood-of-my-blood-sets-season-2-premiere-date-new-trailer-confirms-whether-henry-or-julia-went-back-through-the-stones/l-intro-1780338118.jpg"
-        },
-        {
-          "title": "‘Outlander: Blood Of My Blood’ Sets Season 2 Premiere At Starz & Drops Teaser",
-          "url": "https://deadline.com/2026/06/outlander-blood-of-my-blood-season-2-premiere-date-teaser-1236933050",
-          "source": "Deadline",
-          "published_at": "2026-06-01T20:00:00.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/04/outlander-blood-of-my-blood-s2.jpg"
-        },
-        {
-          "title": "‘Outlander: Blood of My Blood’ Season 2 Sets Starz Release Date, Drops Tearjerking First Teaser",
-          "url": "https://variety.com/2026/tv/news/outlander-blood-of-my-blood-season-2-release-date-starz-1236764192",
-          "source": "Variety",
-          "published_at": "2026-06-01T20:00:00.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/06/BMB2_201_Jamie-Roy-Brian-Fraser-and-Harriet-Slater-Ellen-MacKenzie.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1604f0f212ede80b",
-      "label": [
-        "end oak",
-        "oak street",
-        "oak",
-        "trailer",
-        "street",
-        "end"
-      ],
-      "category": "new",
-      "theme": "theme_16cb71a74f1e6776",
-      "entities": [
-        "The End",
-        "Oak Street Trailer Review",
-        "Anne Hathaway Dinosaur Movie",
-        "Feels Fresh",
-        "Oak Street"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "The End of Oak Street Trailer Review: Anne Hathaway Dinosaur Movie Feels Fresh",
-          "url": "https://www.comingsoon.net/movies/features/2141147-the-end-of-oak-street-trailer-review-anne-hathaway-dinosaur-movie-feels-fresh",
-          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-          "published_at": "2026-06-01T22:06:41.000Z"
-        },
-        {
-          "title": "The End of Oak Street: Official Trailer Teases What Appear To Be Dinos",
-          "url": "https://bleedingcool.com/movies/the-end-of-oak-street-official-trailer-teases-what-appear-to-be-dinos",
-          "source": "Movies",
-          "published_at": "2026-06-01T21:02:09.000Z"
-        },
-        {
-          "title": "The End of Oak Street trailer: Anne Hathaway trapped in prehistoric world gone wild",
-          "url": "https://www.indiatoday.in/movies/hollywood/story/the-end-of-oak-street-trailer-anne-hathaway-trapped-in-prehistoric-world-gone-wild-2920554-2026-06-01",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-01T18:10:26.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/anne-hathaway-010846352-16x9_0.png?VersionId=iY3OSr5JAh_8t_nsS3OVK76oNfgYAM4D"
-        }
-      ]
-    },
-    {
-      "id": "topic_eb3a78fe60a1179a",
-      "label": [
-        "flow fest",
-        "fest 2026",
-        "fest",
-        "flow",
-        "anuel",
-        "aa"
-      ],
-      "category": "new",
-      "theme": "theme_4c62ab07c0bbe30",
-      "entities": [
-        "Anuel AA",
-        "Ozuna",
-        "Grupo Frontera",
-        "Flow Fest",
-        "Kali Uchis"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Anuel AA, Ozuna y Grupo Frontera encabezan el Flow Fest 2026",
-          "url": "https://www.informador.mx/entretenimiento/flow-fest-2026-ya-tiene-cartel-oficial-fechas-artistas-lugar-y-todo-lo-que-tienes-que-saber-del-esperado-festival-musical-20260601-0137.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-01T22:26:00.000Z"
-        },
-        {
-          "title": "Anuel AA, Ozuna, Kali Uchis & More to Headline Coca-Cola Flow Fest 2026",
-          "url": "https://www.billboard.com/music/latin/coca-cola-flow-fest-2026-lineupanuel-aa-ozuna-kali-uchis-1236261849",
-          "source": "Billboard",
-          "published_at": "2026-06-01T21:34:58.000Z"
-        },
-        {
-          "title": "¡Con Tito Double P! Coca-Cola Flow Fest 2026 anuncia cartel: Fechas, artistas, preventa y más",
-          "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/06/01/coca-cola-flow-fest-2026-anuncia-cartel-que-artistas-estan-en-el-line-up",
-          "source": "El Financiero",
-          "published_at": "2026-06-01T20:06:58.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/H--eKcFgaba3NWlRXivOp2k5mQI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MPBIOOXIDBCARIMNTVJINYPJCQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_a80d709e57cc73fd",
-      "label": [
-        "israel day",
-        "day parade",
-        "parade",
-        "day",
-        "israel",
-        "york"
-      ],
-      "category": "new",
-      "theme": "theme_f4b96313b1dbf15",
-      "entities": [
-        "Right",
-        "Wing Officials",
-        "Appearance",
-        "Israel Day Parade Leads",
-        "Backlash"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Right-Wing Officials’ Appearance at Israel Day Parade Leads to Backlash",
-          "url": "https://www.nytimes.com/2026/06/01/nyregion/nyc-israel-parade-smotrich-mamdani.html",
-          "source": "NYT > New York",
-          "published_at": "2026-06-01T23:12:37.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01met-israel-parade-04-hcvq/01met-israel-parade-04-hcvq-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Who attended this year’s Israel Day Parade in New York?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-01T21:15:08.000Z"
-        },
-        {
-          "title": "Far Right Israeli Leaders Join New York Democrats in NYC’s Israel Day Parade",
-          "url": "https://truthout.org/articles/far-right-israeli-leaders-join-new-york-democrats-in-nycs-israel-day-parade",
-          "source": "Truthout",
-          "published_at": "2026-06-01T20:54:13.000Z",
-          "image": "https://truthout.org/app/uploads/2026/06/2026_05_31-Spencer_Platt-1200x900.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_4d158432189414c7",
-      "label": [
-        "ms",
-        "sues ms",
-        "girlfriend",
-        "sues",
-        "kash",
-        "patel"
-      ],
-      "category": "new",
-      "theme": "theme_ce4ca76c8fd2eef5",
-      "entities": [
-        "FBI",
-        "MS NOW",
-        "Gary Grumbach",
-        "NBC News",
-        "FBI Director Kash Patel"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "FBI director's girlfriend sues MS NOW, accuses cable network of 'false portrayal' (Gary Grumbach/NBC News)",
-          "url": "https://www.memeorandum.com/260601/p97",
-          "source": "memeorandum",
-          "published_at": "2026-06-01T22:05:01.000Z",
-          "image": "http://www.memeorandum.com/260601/i97.jpg"
-        },
-        {
-          "title": "FBI Director Kash Patel’s girlfriend sues MS NOW over reporting on his use of resources",
-          "url": "https://www.ms.now/deadline-white-house/deadline-legal-blog/fbi-kash-patel-girlfriend-sues-ms-now",
-          "source": "MS NOW",
-          "published_at": "2026-06-01T19:23:58.000Z"
-        },
-        {
-          "title": "Kash Patel’s girlfriend Alexis Wilkins sues MS Now for defamation",
-          "url": "https://www.washingtonexaminer.com/news/justice/4589540/kash-patel-girlfriend-alexis-wilkins-sues-ms-now-defamation",
+          "title": "Hasan Piker and Cenk Uygur denied entry to UK",
+          "url": "https://www.washingtonexaminer.com/news/world/4589128/hasan-piker-cenk-uygur-denied-entry-uk",
           "source": "Washington Examiner",
-          "published_at": "2026-06-01T18:26:38.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/AP25052838447893.jpg?w=696"
+          "published_at": "2026-06-01T14:13:46.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/GettyImages-2266766569.jpg?w=696",
+          "description": "Internet personality Hasan Piker and his uncle, political commentator Cenk Uygur, were denied entry to the United Kingdom because their presence would “not be conducive to the public good” due to comments made about Israel, according to multiple reports. Piker and Uygur were traveling to London to…"
+        },
+        {
+          "title": "US commentators Hasan Piker and Cenk Uygur denied UK entry",
+          "url": "https://www.politico.eu/article/us-commentators-cenk-uygur-hasan-piker-denied-uk-entry",
+          "source": "POLITICO",
+          "published_at": "2026-06-01T12:34:53.000Z",
+          "description": "Turkish-American activist Uygur claims he has been banned from Britain \"for criticizing Israel.”"
+        },
+        {
+          "title": "Britain Denies Entry to Hasan Piker and Cenk Uygur",
+          "url": "https://www.nytimes.com/2026/06/01/world/europe/uk-hasan-piker-cenk-uygur-visa-israel.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-06-01T14:43:25.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01uk-commentators-02-jqzf/01uk-commentators-02-jqzf-mediumSquareAt3X.jpg",
+          "description": "The authorities did not say why they had barred Cenk Uygur and Hasan Piker, who have popular social media channels, but said their presence “may not be conducive to the public good.”"
+        },
+        {
+          "title": "Online commentators Hasan Piker and Cenk Uygur barred from entering the UK for public events",
+          "url": "https://www.seattletimes.com/nation-world/world/online-commentators-hasan-piker-and-cenk-uygur-barred-from-entering-the-uk-for-public-events",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-06-01T14:13:15.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org6de2a1b51cc8e0a2828275620f6bc121Britain_Commentators_Barred_3_34_.jpg?d=1200x630",
+          "description": "British authorities have blocked a Turkish American streamer Hasan Piker and political commentator Cenk Uygur from entering the U.K. The Home Office said Monday that their electronic travel authorizations were canceled over concerns that their presence might not be conducive to the public good."
+        },
+        {
+          "title": "UK Entry Ban: Controversial Online Commentators Hasan Piker and Cenk Uygur Denied Access for Public Events",
+          "url": "https://internewscast.com/local-news/uk-entry-ban-controversial-online-commentators-hasan-piker-and-cenk-uygur-denied-access-for-public-events",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-01T14:35:23.000Z",
+          "description": "Internewscast Journal Internewscast LONDON – British officials announced on Monday that entry into the United… This Post: UK Entry Ban: Controversial Online Commentators Hasan Piker and Cenk Uygur Denied Access for Public Events first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "British authorities denied entry to online commentator Hasan Piker and political commentator Cenk Uygur ahead of public events. The Home Office said their presence may not be conducive to the public good."
+    },
+    {
+      "id": "topic_2bf668f80a470c32",
+      "title": "Barry Diller’s People Inc. Proposes MGM Resorts Acquisition",
+      "headline": "Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts",
+      "label": [
+        "diller",
+        "mgm",
+        "barry",
+        "resorts",
+        "people",
+        "offers"
+      ],
+      "category": "new",
+      "theme": "theme_fe19fd6524a13590",
+      "entities": [
+        "Barry Diller",
+        "People Inc",
+        "Plans",
+        "Takeover Bid",
+        "MGM Resorts"
+      ],
+      "article_count": 16,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts",
+          "url": "https://www.nytimes.com/2026/06/01/business/dealbook/diller-people-mgm-resorts.html",
+          "source": "NYT > Business",
+          "published_at": "2026-06-01T12:06:36.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01db-diller1-glck/01db-diller1-glck-mediumSquareAt3X.jpg",
+          "description": "The mogul’s People Inc. is preparing an offer to buy the portion of the casino giant that it doesn’t already own, at an $18 billion valuation."
+        },
+        {
+          "title": "Barry Diller's People Inc. offers to buy MGM Resorts, valuing it at $18 billion",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxpcfp2etrxbzeyzvvyvznhufcxatdoclhtzs0ywfa4twzcbddlngflmgxqswfxvfqyr3nvnujfzfv4r2eyu3ztvu1bujfnburqzhn6mwxivdnbmjl1dzr1ndjxathtuwrsvmdpeelpykxqqjj6ndbyu054yzjndku4tgfr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-01T14:21:53.000Z",
+          "description": "Barry Diller's People Inc. offers to buy MGM Resorts, valuing it at $18 billion CBS News MGM Resorts International Confirms Receipt of Acquisition Proposal from People Incorporated MGM Resorts Investor Relations Barry Diller's People offers to buy casino giant MGM Resorts for $48.30 per share CNBC…"
+        },
+        {
+          "title": "Barry Diller On The Move As His People Inc. Goes After MGM Resorts",
+          "url": "https://deadline.com/2026/06/barry-diller-people-inc-bids-mgm-resorts-international-1236931883",
+          "source": "Deadline",
+          "published_at": "2026-06-01T15:45:07.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/barry-diller-cnn.jpg",
+          "description": "Barry Diller is making his next big move as People Inc. (previously IAC) submitted a non-binding proposal to acquire control of MGM Resorts International. The plan would be to buy outstanding MGM shares that People doesn’t already own and take the publicly-traded company private. People Inc. alread…"
+        },
+        {
+          "title": "Barry Diller's People offers to buy casino giant MGM Resorts for $48.30 per share",
+          "url": "https://www.cnbc.com/2026/06/01/mgm-resorts-barry-diller-people-bid.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-06-01T13:39:22.000Z",
+          "description": "Barry Diller's People Inc. extended an offer for MGM Resorts at $48.30 per share."
+        },
+        {
+          "title": "Barry Diller’s People Inc. Proposes $18 Billion Acquisition of MGM Resorts",
+          "url": "https://internewscast.com/news/us/barry-dillers-people-inc-proposes-18-billion-acquisition-of-mgm-resorts",
+          "source": "Internewscast Journal",
+          "published_at": "2026-06-01T16:13:28.000Z",
+          "description": "Internewscast Journal Internewscast Barry Diller’s People Inc. is set to acquire the remaining shares of… This Post: Barry Diller’s People Inc. Proposes $18 Billion Acquisition of MGM Resorts first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "People Inc., led by Barry Diller, proposed acquiring the outstanding shares of MGM Resorts International, valuing the casino company at about $18 billion. MGM confirmed receipt of the proposal."
+    },
+    {
+      "id": "topic_512b576fad8cfc8e",
+      "title": "Experimental Daily Pill Nearly Doubles Survival in Pancreatic Cancer Trial",
+      "headline": "Daily pill doubles survival time for pancreatic cancer patients",
+      "label": [
+        "survival",
+        "pancreatic",
+        "cancer",
+        "doubles",
+        "pill",
+        "time"
+      ],
+      "category": "new",
+      "theme": "theme_53a6ba74c6e0b3bd",
+      "entities": [
+        "Daily",
+        "BBC",
+        "Transformative",
+        "Pill",
+        "New Pancreatic Cancer Drug"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Daily pill doubles survival time for pancreatic cancer patients",
+          "url": "https://www.bbc.com/news/articles/cy82l435171o",
+          "source": "BBC News",
+          "published_at": "2026-06-01T02:50:00.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cbe/live/b3c0bd80-5d61-11f1-b682-cf91850925ea.jpg",
+          "description": "The drug, daraxonrasib, has been hailed as a breakthrough in managing the deadliest of all the major cancers."
+        },
+        {
+          "title": "Daily pill doubles survival time for pancreatic cancer patients",
+          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte9wdkwxbkjfy3z6vghhc1vybxdyv1p6z3hoz2vmchzrajztuu9smg1dn2hkdudlagnzdhm4wgwxz2rpzs1dykjloxvmuxrtmgfkvdrwvmhimknmqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-01T02:50:00.000Z",
+          "description": "Daily pill doubles survival time for pancreatic cancer patients BBC After new drug’s ‘unprecedented’ results for pancreatic cancer, doctors look at other uses NBC News ‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long The Washington Post ASCO: RevMed confident in Ras leadersh…"
+        },
+        {
+          "title": "'Transformative' pancreatic cancer drug doubles survival time",
+          "url": "https://www.newscientist.com/article/2528738-transformative-pancreatic-cancer-drug-doubles-survival-time",
+          "source": "New Scientist - News",
+          "published_at": "2026-06-01T18:11:12.000Z",
+          "image": "https://images.newscientist.com/wp-content/uploads/2026/06/01165715/SEI_299732646.jpg",
+          "description": "People with advanced pancreatic cancer taking an experimental daily pill lived nearly twice as long as those receiving chemotherapy infusions"
+        },
+        {
+          "title": "New pill becomes game changer for pancreatic cancer, doubles survival time",
+          "url": "https://www.indiatoday.in/health/story/pancreatic-cancer-drug-daraxonrasib-nearly-doubles-survival-in-global-trial-2920359-2026-06-01",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-01T11:28:33.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/several-different-supplement-capsules-pills-with-copy-space-vitamins-and-supplements-pharmacy-and-012622600-16x9_0.jpg?VersionId=cC.EcC7eRp0ROdtWwQ8uwaxRVRkHDhKY",
+          "description": "New pill becomes game changer for pancreatic cancer doubles survival time"
+        },
+        {
+          "title": "Pill can double pancreatic cancer survival time",
+          "url": "https://www.perthnow.com.au/news/world/pill-can-double-pancreatic-cancer-survival-time-c-22367972",
+          "source": "PerthNow",
+          "published_at": "2026-06-01T13:07:14.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22367972/c3c10dbe8a914e077179658eac1e7882b427e365-16x9-x0y192w2048h1152.jpg",
+          "description": "A breakthrough daily pill has doubled survival times in patients with advanced pancreatic cancer, prompting experts to hail the treatment as a potential revolution against one of the deadliest forms of the disease."
+        }
+      ],
+      "summary": "Patients with advanced pancreatic cancer who took the experimental daily pill daraxonrasib lived nearly twice as long as those receiving chemotherapy infusions, according to reported trial results. Experts described the findings as a potential breakthrough."
+    },
+    {
+      "id": "topic_d5f88bf212192d56",
+      "title": "Hollywood Marks Marilyn Monroe’s 100th Birthday",
+      "headline": "Hollywood honours Marilyn Monroe 100 years after her birth",
+      "label": [
+        "marilyn",
+        "monroe",
+        "hollywood",
+        "birth",
+        "legacy",
+        "sciammarella"
+      ],
+      "category": "trending",
+      "theme": "theme_20488fd2c45745fb",
+      "entities": [
+        "Sciammarella",
+        "Marilyn Monroe",
+        "Hollywood",
+        "Reckoning With Her Legend",
+        "Legacy"
+      ],
+      "article_count": 19,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Hollywood honours Marilyn Monroe 100 years after her birth",
+          "url": "https://www.citizen.co.za/lifestyle/hollywood-honours-marilyn-monroe-100-years-after-her-birth",
+          "source": "The Citizen",
+          "published_at": "2026-06-01T11:40:12.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/AFP__20260528__B4948CM__v3__MidRes__TopshotUsEntertainmentMuseumMarilynMonroe.jpg",
+          "description": "Marilyn Monroe's hometown of Hollywood kicks off a series of special events on Monday marking the 100th anniversary of the movie icon's birth."
+        },
+        {
+          "title": "Sciammarella: Marilyn Monroe",
+          "url": "https://elpais.com/opinion/2026-06-01/sciammarella-marilyn-monroe.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-06-01T03:30:01.000Z",
+          "image": "https://imagenes.elpais.com/resizer/v2/7VAWWFBMKJHE3B3QZTHJ644AUQ.jpg?auth=4c72375bf3be15dce436a10020d0baf9da14c379f7998c61c38f39d5adf10a9c",
+          "description": "Viñeta del 1 de junio de 2026"
+        },
+        {
+          "title": "Marilyn Monroe at 100: Reckoning With Her Legend and Legacy",
+          "url": "https://variety.com/2026/film/features/marilyn-monroe-100-birthday-what-she-means-today-1236760798",
+          "source": "Variety",
+          "published_at": "2026-06-01T16:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/Marilyn-Monroe-Red-Portrait.jpg",
+          "description": "What is it — even still — about Marilyn Monroe? A century after her birth, the woman born Norma Jeane still has American culture hanging on her every breathy vocalization. Monroe remains the ultimate standard-bearer of Hollywood glamour — a woman who died (in 1962, at the tragically premature age o…"
+        },
+        {
+          "title": "Marilyn Monroe: Hollywood honors her, 100 years after her birth",
+          "url": "https://cebudailynews.inquirer.net/733291/marilyn-monroe-hollywood-honors-her-100-years-after-her-birth",
+          "source": "INQUIRER.net",
+          "published_at": "2026-06-01T04:25:41.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/06/Screenshot-2026-06-01-at-12.11.47-PM-620x325.jpg",
+          "description": "LOS ANGELES, United States — Marilyn Monroe’s hometown of Hollywood kicks off Monday a series of special events marking the 100th anniversary of the movie icon’s birth. At the historic Chinese Theatre, where Monroe’s handprints are immortalized alongside “Gentlemen Prefer Blondes” (1953) co-star Ja…"
+        },
+        {
+          "title": "Centenary of Marilyn Monroe: 'Just as relevant now as she was then'",
+          "url": "https://www.france24.com/en/centenary-of-marilyn-monroe-just-as-relevant-now-as-she-was-then",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-01T10:22:59.000Z",
+          "image": "https://s.france24.com/media/display/b43be44a-5d9f-11f1-8d7a-005056bf30b7/w:1024/p:16x9/EN-20260601-080705-081452-CS.jpg",
+          "description": "Oliver Farry is pleased to welcome Michelle MORGAN, Marilyn Monroe biographer. Author of The Seven Year Itch, and the Birth of an Unlikely Feminist. One hundred years after the birth of Marilyn Monroe, the actress remains one of the most recognisable cultural figures of the twentieth century. Yet,…"
+        }
+      ],
+      "summary": "Hollywood began a series of events marking the 100th anniversary of Marilyn Monroe’s birth. The celebrations include events at the historic Chinese Theatre, while commentators are reflecting on her cultural legacy."
+    },
+    {
+      "id": "topic_c138c89dc615316e",
+      "title": "Appeals Court Rules Trump Policy Illegally Banned Transgender Troops",
+      "headline": "The Latest: Appeals court rules Trump policy illegally banned transgender troops from military",
+      "label": [
+        "transgender",
+        "appeals",
+        "court",
+        "troops",
+        "military",
+        "rules"
+      ],
+      "category": "new",
+      "theme": "theme_a87b6a258ee4d446",
+      "entities": [
+        "The Latest",
+        "Appeals",
+        "Trump",
+        "AP News",
+        "Pentagon"
+      ],
+      "article_count": 16,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "The Latest: Appeals court rules Trump policy illegally banned transgender troops from military",
+          "url": "https://finance.yahoo.com/economy/policy/articles/latest-trump-faces-inflation-warning-121841075.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-01T12:18:41.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/843c6b4043f087c9136f9868dbba164b"
+        },
+        {
+          "title": "Live updates: Appeals court rules Trump policy illegally banned transgender troops from military",
+          "url": "https://news.google.com/rss/articles/cbmicefvx3lxte16tmf1vuzruvvbmtuwwgpmuvhlsxhoalflqlhqms1pedhzb0dzwwpgoufkrhkywmtjzm1uvxpmyu0tbnpnbjlntelsynj4d0rozw1gr0fwn3jdvjl6uwrscl8xsudlt1rxdda0ehpfuva",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-01T20:58:00.000Z",
+          "description": "Live updates: Appeals court rules Trump policy illegally banned transgender troops from military AP News Appeals Court Says 28 Transgender Troops Who Sued Can Remain in Military The New York Times Transgender troops can remain in the US military, but enlistment can be blocked, court rules The Guard…"
+        },
+        {
+          "title": "Pentagon policy illegally banned transgender troops from military, appeal court rules",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3355611/pentagon-policy-illegally-banned-transgender-troops-military-appeal-court-rules",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-01T19:31:09.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/02/3e49f6bf-75eb-4f75-bd64-29174e8762fd_3472ecbd.jpg?itok=9li2pIoe&v=1780342185",
+          "description": "A Pentagon policy illegally banned transgender troops from military service, a divided panel of federal appeal court judges ruled on Monday in another legal setback for US President Donald Trump’s sweeping agenda. The majority opinion – by a three-judge panel from the US Court of Appeals for the Di…"
+        },
+        {
+          "title": "Pentagon policy illegally banned transgender troops from military service, appeals court panel rules",
+          "url": "https://nypost.com/2026/06/01/us-news/pentagon-policy-illegally-banned-transgender-troops-from-military-service-appeals-court-panel-rules",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-06-01T20:25:11.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fdefense-secretary-pete-hegseth-testifies-129286774.jpg?w%3D1024",
+          "description": "Defense Secretary Pete Hegseth issued a policy disqualifying those with gender dysphoria from service."
+        },
+        {
+          "title": "Live updates: Appeals court rules Trump policy illegally banned transgender troops from military (Associated Press)",
+          "url": "https://www.memeorandum.com/260601/p93",
+          "source": "memeorandum",
+          "published_at": "2026-06-01T21:35:01.000Z",
+          "image": "http://www.memeorandum.com/260601/i93.jpg",
+          "description": "Associated Press: Live updates: Appeals court rules Trump policy illegally banned transgender troops from military — US to drastically slash the number of embassies in Africa that can process visas — The State Department plans to drastically slash the number of U.S. embassies and consulates in Afri…"
+        }
+      ],
+      "summary": "A federal appeals court panel ruled that a Pentagon policy disqualifying people with gender dysphoria from military service illegally banned transgender troops. The ruling is a setback for the Trump administration’s policy."
+    },
+    {
+      "id": "topic_7b37cb5b64840b37",
+      "title": "Israel Orders Strikes on Beirut Suburbs as Hezbollah Fires Rockets",
+      "headline": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
+      "label": [
+        "beirut",
+        "orders",
+        "strikes",
+        "suburbs",
+        "israel",
+        "southern"
+      ],
+      "category": "new",
+      "theme": "theme_77cd16f0076af940",
+      "entities": [
+        "Israel Orders Strikes On",
+        "Beirut",
+        "Southern Suburbs As Hezbollah",
+        "Fires Rockets",
+        "Netanyahu"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
+          "url": "https://www.huffpost.com/entry/lebanon-israel-hezbollah_n_6a1d54d9e4b032392fa397c0",
+          "source": "World News",
+          "published_at": "2026-06-01T09:55:00.000Z",
+          "description": "The latest attacks came just before Lebanon and Israel hold their next round of direct talks in Washington starting Tuesday."
+        },
+        {
+          "title": "Netanyahu orders new strikes on southern suburbs of Beirut",
+          "url": "https://www.france24.com/en/video/20260601-netanyahu-orders-new-strikes-on-southern-suburbs-of-beirut",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-01T15:36:19.000Z",
+          "image": "https://s.france24.com/media/display/6d3cec04-5dce-11f1-bcfc-005056a97e36/w:1024/p:16x9/EN-20260601-170142-170320-CS.jpg",
+          "description": "Israel’s government ordered strikes on the southern suburbs of Beirut on Monday, a day after its ground forces reached their deepest point in Lebanon in 26 years and as Hezbollah fired rockets at northern Israel, including the outskirts of the coastal city of Haifa."
+        },
+        {
+          "title": "Israel orders strikes on Beirut’s southern suburbs as Hezbollah rockets hit northern Israel",
+          "url": "https://www.thehindu.com/news/international/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel/article71047946.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-01T11:00:17.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/z2f9a5/article71048042.ece/alternates/LANDSCAPE_1200/2026-05-25T101310Z_1635574272_RC2U7KAZP111_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU.JPG",
+          "description": "Israel’s government has ordered strikes on the southern suburbs of Beirut, as Hezbollah fired rockets at northern Israel including the outskirts of coastal city of Haifa"
+        },
+        {
+          "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-01T12:22:53.000Z",
+          "description": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area."
+        },
+        {
+          "title": "Netanyahu orders strikes on Beirut’s southern suburbs, clouding Iran mediation",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3355575/netanyahu-orders-strikes-beiruts-southern-suburbs-clouding-iran-mediation",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-01T09:56:05.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/01/f9954410-637f-4ded-a950-e668606bb5d9_c26cdb22.jpg?itok=QNU5xWiv&v=1780308136",
+          "description": "Israeli Prime Minister Benjamin Netanyahu ⁠ordered attacks on the Hezbollah-controlled southern suburbs of Beirut on Monday, signalling further escalation of a war that has complicated mediation towards resolving the US-Iran conflict. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said on M…"
+        }
+      ],
+      "summary": "Israel ordered strikes on Beirut’s southern suburbs as Hezbollah fired rockets toward northern Israel. The escalation came ahead of the next round of direct Israel-Lebanon talks in Washington."
     }
   ]
 }

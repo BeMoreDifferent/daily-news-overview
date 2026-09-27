@@ -1,714 +1,905 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-09T00:50:23.026Z",
+  "generated_at": "2026-09-27T14:06:20.740Z",
   "topics": [
     {
-      "id": "topic_17c9254faeb74421",
+      "id": "topic_9d5906f7ea3f6627",
+      "title": "Trump Says Iran Ceasefire Is Over, Sending Oil Prices Higher",
+      "headline": "Oil prices jump nearly 6% after Trump says ceasefire with Iran is ‘over’",
       "label": [
-        "force one",
-        "air force",
-        "force",
-        "air",
-        "one",
-        "qatari"
+        "ceasefire",
+        "iran",
+        "trump",
+        "oil",
+        "prices",
+        "jump"
       ],
       "category": "new",
-      "theme": "theme_ab88535dcc9b7d9e",
+      "theme": "theme_2124c18b34c22284",
+      "entities": [
+        "Oil",
+        "Trump",
+        "Iran",
+        "Trump Says Ceasefire",
+        "Iran Is Over"
+      ],
+      "article_count": 21,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Oil prices jump nearly 6% after Trump says ceasefire with Iran is ‘over’",
+          "url": "https://www.ms.now/news/oil-prices-jump-nearly-6-after-trump-says-ceasefire-with-iran-is-over",
+          "source": "MS NOW",
+          "published_at": "2026-07-08T09:02:01.000Z",
+          "description": "Trump made the comments following U.S. strikes on Iran in reaction to attacks on three ships in the Strait of Hormuz. The post Oil prices jump nearly 6% after Trump says ceasefire with Iran is ‘over’ appeared first on MS NOW."
+        },
+        {
+          "title": "Trump Says Ceasefire with Iran Is Over",
+          "url": "https://politicalwire.com/2026/07/08/trump-says-ceasefire-with-iran-is-over",
+          "source": "Political Wire",
+          "published_at": "2026-07-08T09:24:25.000Z",
+          "description": "“President Trump tore into Iran’s leadership and said he believed his ceasefire deal with the country is over, following another round of Iranian attacks on ships in the Strait of Hormuz that snarled efforts to open the strategic waterway,” the Wall Street Journal reports. “The president’s remarks…"
+        },
+        {
+          "title": "Oil prices surge over 5% as Trump says ceasefire with Iran is ‘over’",
+          "url": "https://www.fastcompany.com/91570586/oil-prices-surge-over-5-trump-says-ceasefire-iran-over",
+          "source": "Fast Company",
+          "published_at": "2026-07-08T12:06:43.000Z",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/AP26189035604244.jpg",
+          "description": "But ceasefire talks will continue. U.S. stock futures slid lower and oil prices surged more than 5% after President Donald Trump said Wednesday that the interim agreement with Iran is over, though he will allow talks to continue. Futures for the S&P 500 were down 0.7% before the opening bell, while…"
+        },
+        {
+          "title": "US markets retreat, oil prices jump more than 5% after Trump says ceasefire with Iran is ‘over’",
+          "url": "https://www.seattletimes.com/business/oil-prices-jump-after-us-strikes-on-iran-while-shares-in-asia-are-mixed",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-07-08T04:56:05.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_oilprices7826-tzr_tzr_050125.jpg?d=1200x630",
+          "description": "U.S. stock futures slid lower and oil prices surged more than 5% after President Donald Trump said that the interim agreement with Iran is over, though he will allow talks to continue."
+        },
+        {
+          "title": "Oil prices jump 5% after Trump says Iran ceasefire over",
+          "url": "https://www.iol.co.za/news/world/oil-prices-jump-5-after-trump-says-iran-ceasefire-over-fee829c1-74e6-46fe-a5cf-09ec810e4bd9",
+          "source": "IOL section feed for News",
+          "published_at": "2026-07-08T09:08:34.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/f230feba016d72c6f1186a498ee391016ad1ed7f/1200&operation=CROP&offset=0x63&resize=1200x675"
+        }
+      ],
+      "summary": "After attacks on ships in the Strait of Hormuz and U.S. strikes on Iran, President Donald Trump said the ceasefire was over, while allowing talks to continue. Oil prices rose more than 5%, and U.S. stock futures fell."
+    },
+    {
+      "id": "topic_9847a2ff0609ccb7",
+      "title": "Assassin’s Creed Black Flag Resynced Reviews and New Features",
+      "headline": "Assassin’s Creed Black Flag Resynced Review",
+      "label": [
+        "creed",
+        "assassin",
+        "resynced",
+        "flag",
+        "black",
+        "review"
+      ],
+      "category": "new",
+      "theme": "theme_55ef75d2c7277f92",
+      "entities": [
+        "Assassin",
+        "Creed Black Flag Resynced",
+        "Review",
+        "Everything",
+        "The Kotaku Review"
+      ],
+      "article_count": 27,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Assassin’s Creed Black Flag Resynced Review",
+          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-review",
+          "source": "IGN Articles",
+          "published_at": "2026-07-08T10:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/07/07/assassinscreedblackflagresynced-review-blogroll-1783462366214.jpg",
+          "description": "A remake that brings one of the best games in the series up to today’s standards."
+        },
+        {
+          "title": "Everything new in Assassin's Creed Black Flag Resynced",
+          "url": "https://www.pcgamesn.com/assassins-creed-black-flag-resynced/everything-new-in-ac-black-flag",
+          "source": "PCGamesN",
+          "published_at": "2026-07-08T16:01:29.000Z",
+          "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/black-flag-resynced-new.jpg",
+          "description": "If you’re wondering what’s new in the pirate remake, we have all the additions and changes to Assassin’s Creed Black Flag Resynced here."
+        },
+        {
+          "title": "Assassin’s Creed Black Flag Resynced: The Kotaku Review",
+          "url": "https://kotaku.com/assassins-creed-black-flag-resynced-the-kotaku-review-2000713389",
+          "source": "Kotaku",
+          "published_at": "2026-07-08T10:00:49.000Z",
+          "image": "https://kotaku.com/app/uploads/2026/07/acblackflag-review2-1280x720.jpg",
+          "description": "Ubisoft’s remake is a very good game and a sad reminder of the state of industry"
+        },
+        {
+          "title": "Assassin&#039;s Creed Black Flag Resynced Review - More Of Everything Is Permitted",
+          "url": "https://gameinformer.com/review/assassins-creed-black-flag-resynced/more-of-everything-is-permitted",
+          "source": "Game Informer",
+          "published_at": "2026-07-08T10:00:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/07/07/a8193ace/acbfr_screenshot_static_16x9_vistaboat_230426_615pmcest.jpg.webp",
+          "description": "Reviewed on: PlayStation 5 Platform: PlayStation 5, Xbox Series X/S, PC Publisher: Ubisoft Developer: Ubisoft Release: July 9, 2026 Rating: Mature After well over a dozen mainline entries, Black Flag remains one of the most fondly remembered in the long canon of Assassin’s Creed entries. It’s littl…"
+        },
+        {
+          "title": "How To Complete All What If Rifts In Assassin’s Creed Black Flag Resynced",
+          "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-rifts-what-if-quest",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-07-08T10:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/07/assassins-creed-black-flag-resynced-rifts-what-if-modern-day-.jpg?w=300",
+          "description": "Are you curious about the Rifts in Assassin’s Creed Black Flag Resynced? Unlike the original, which also had a modern-day story, Resynced presents a different narrative arc. Think of these Rifts as “What If” scenarios, alternate outcomes that would’ve occurred had characters taken a new path in the…"
+        }
+      ],
+      "summary": "Reviews cover Ubisoft’s remake of Assassin’s Creed IV: Black Flag, while other reports describe additions including a new narrative arc and Rifts. Critics offered mixed views, praising aspects of the remake while raising concerns about the industry or its similarities to the original."
+    },
+    {
+      "id": "topic_22dc834c85cb7307",
+      "title": "2026 Emmy Nominations Announced",
+      "headline": "Emmy Nominations 2026 (Updating Live)",
+      "label": [
+        "nominations",
+        "emmy",
+        "list",
+        "updating",
+        "full",
+        "see"
+      ],
+      "category": "new",
+      "theme": "theme_f60f2fefc959002b",
+      "entities": [
+        "Emmy Nominations",
+        "Updating Live",
+        "See",
+        "Full List",
+        "Emmy"
+      ],
+      "article_count": 16,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Emmy Nominations 2026 (Updating Live)",
+          "url": "https://variety.com/2026/tv/awards/emmy-nominations-2026-1236802863",
+          "source": "Variety",
+          "published_at": "2026-07-08T11:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2022/07/Emmy-Statue-Placeholder-16x9-6.jpg",
+          "description": "After months of FYC screenings, panels, billboards, pop-up events, podcasts and ads, the 78th Emmy nominations are finally here. Previous Emmy winners Liza Colón-Zayas (“The Bear”) and Jeff Hiller (“Somebody Somewhere”) were set to announce this year’s nominees on Wednesday morning, along with TV A…"
+        },
+        {
+          "title": "2026 Emmy Nominations: See the Full List (Updating Live)",
+          "url": "https://www.indiewire.com/awards/results/2026-emmy-nominations-full-list-1235204056",
+          "source": "IndieWire",
+          "published_at": "2026-07-08T15:15:00.000Z",
+          "description": "From \"The Pitt\" to \"Beef,\" see which TV series from the 2025-2026 season will now be nominees at the 78th annual Primetime Emmy Awards on Monday, September 14."
+        },
+        {
+          "title": "Emmy nominations 2026: See the list",
+          "url": "https://mashable.com/entertainment/emmy-nominations-2026-list",
+          "source": "Mashable",
+          "published_at": "2026-07-08T15:25:00.000Z",
+          "description": "Nominations for the 78th Emmy Awards were announced by the Television Academy on Wednesday. Here's the list."
+        },
+        {
+          "title": "The 2026 Emmy Nominations Are Almost Here",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/2026-emmy-nominations-list-1235590459",
+          "source": "Rolling Stone",
+          "published_at": "2026-07-08T14:22:15.000Z",
+          "description": "Recent winners Jeff Hiller and Liza Colón-Zayas will present the nominations for the 78th Primetime Emmys this morning"
+        },
+        {
+          "title": "Emmy Nominations 2026 (Updating Live)",
+          "url": "https://news.google.com/rss/articles/cbmid0fvx3lxte9gthhxsgfoevp1bta0wxpiytnrddjswe5ewuswt0hzmm9srum1vutqagszmnnatda5d3pkegf2szmxde1vttz6rjfwrk1kefr2uxf5dddkbl9hemrstku0wktirexldwl0cna1mllrtvrnogutvurn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-08T11:00:00.000Z",
+          "description": "Emmy Nominations 2026 (Updating Live) Variety 'The Pitt' and 'Pluribus' are poised to compete for top honors as Emmy nominations are announced ABC7 Los Angeles Rotten Tomatoes Predicts the 2026 Emmy Nominations Rotten Tomatoes Emmy Awards: Nominations List (Updating) The Hollywood Reporter How to w…"
+        }
+      ],
+      "summary": "The Television Academy announced nominees for the 78th Primetime Emmy Awards. The ceremony is scheduled for September 14."
+    },
+    {
+      "id": "topic_32ca27ec638c8ef7",
+      "title": "Justin Bieber Joins World Cup Final Halftime Show Lineup",
+      "headline": "Justin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show",
+      "label": [
+        "bieber",
+        "justin",
+        "halftime",
+        "show",
+        "final",
+        "bts"
+      ],
+      "category": "new",
+      "theme": "theme_cb6b5df60d394b97",
+      "entities": [
+        "Justin Bieber Joins Madonna",
+        "Shakira",
+        "BTS",
+        "FIFA World Cup Final",
+        "Halftime Show"
+      ],
+      "article_count": 20,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "Justin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show",
+          "url": "https://consequence.net/2026/07/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-final-halftime-show",
+          "source": "Consequence",
+          "published_at": "2026-07-08T20:27:29.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/07/FIFA-World-Cup-2026™-Final-Halftime-Show.png",
+          "description": "Coldplay, Burna Boy, Gustavo Dudamel, and New York's PS22 Chorus have also joined the star-studded lineup. Justin Bieber Joins Madonna, Shakira, and BTS for FIFA World Cup Final Halftime Show Alex Krinsky"
+        },
+        {
+          "title": "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show",
+          "url": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-07-08T22:25:58.000Z",
+          "description": "FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup."
+        },
+        {
+          "title": "Justin Bieber Joins Madonna, BTS and Shakira for FIFA World Cup Final Halftime Show",
+          "url": "https://variety.com/2026/music/news/justin-bieber-joins-fifa-world-cup-final-haltime-show-1236804858",
+          "source": "Variety",
+          "published_at": "2026-07-08T19:16:24.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2283632612.jpg",
+          "description": "Justin Bieber has been added as a performer to the FIFA World Cup Final Halftime Show, joining the lineup as a co-headliner alongside Madonna, Shakira and BTS. FIFA and Global Citizen are staging the first Halftime Show in FIFA World Cup history on July 19 at New York New Jersey Stadium. The 11-min…"
+        },
+        {
+          "title": "Justin Bieber joins World Cup final halftime show",
+          "url": "https://www.espn.com/soccer/story/_/id/49308434/justin-bieber-2026-world-cup-final-half-show-lineup",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-07-08T20:34:14.000Z",
+          "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday."
+        },
+        {
+          "title": "Justin Bieber and more join World Cup final halftime show featuring Madonna, Shakira and BTS",
+          "url": "https://japantoday.com/category/2026-fifa-world-cup/justin-bieber-and-more-join-world-cup-final-halftime-show-featuring-madonna-shakira-and-bts",
+          "source": "Japan Today",
+          "published_at": "2026-07-08T21:34:51.000Z",
+          "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday. Afrobeats star Burna…"
+        }
+      ],
+      "summary": "Justin Bieber has joined Madonna, Shakira and BTS as a headliner for the FIFA World Cup final halftime show. Coldplay, Burna Boy, Gustavo Dudamel and the PS22 Chorus are also among the performers announced."
+    },
+    {
+      "id": "topic_bf4e4a594a7976fe",
+      "title": "Kentucky Governor Seeks Public Update on Mitch McConnell’s Health",
+      "headline": "Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell for health update",
+      "label": [
+        "mcconnell",
+        "mitch",
+        "kentucky",
+        "beshear",
+        "health",
+        "gov"
+      ],
+      "category": "new",
+      "theme": "theme_4f3f270ffc124031",
+      "entities": [
+        "Kentucky Gov",
+        "Andy Beshear",
+        "Sen",
+        "Mitch McConnell",
+        "Andy Beshear Demands Health"
+      ],
+      "article_count": 18,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell for health update",
+          "url": "https://www.ms.now/news/kentucky-gov-andy-beshear-asks-sen-mitch-mcconnell-for-a-health-update",
+          "source": "MS NOW",
+          "published_at": "2026-07-08T17:06:41.000Z",
+          "description": "The Democratic governor’s letter comes weeks after the 84-year-old lawmaker entered the hospital for reasons he has not explained. The post Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell for health update appeared first on MS NOW."
+        },
+        {
+          "title": "Kentucky Gov. Andy Beshear Demands Health Update on Mitch McConnell",
+          "url": "https://www.nytimes.com/2026/07/08/us/beshear-mcconnell-kentucky-health.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-07-08T18:25:28.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08nat-beshear-mcconnell-1-gvlh/08nat-beshear-mcconnell-1-gvlh-mediumSquareAt3X.jpg",
+          "description": "Senator Mitch McConnell has been hospitalized since June 14. Speculation about his health has spread in recent days."
+        },
+        {
+          "title": "Kentucky Gov. Andy Beshear requests update on Mitch McConnell's health",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxpzuluvmkwnlnfzda3ulnnb2itmzjpdhjhclj4cm11y2hirs1zb0t2zhhqamnyyw4yuvhpsuhmzvhpamnkb1bnnkh0mwnuqmzbcunjaediwms4qmnpogkwcta0shi2zfzlwgjtzxrjehnudfzruc1arezqa2hvyudzbnfmeed4dnfbsznnsmpjtldfqk8x",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-08T14:17:00.000Z",
+          "description": "Kentucky Gov. Andy Beshear requests update on Mitch McConnell's health CBS News McConnell health update demanded by Gov. Beshear as Senate vacancy questions grow CNBC Kentucky Governor Demands Health Update on Mitch McConnell The New York Times McConnell speaks to Republican leaders as speculation…"
+        },
+        {
+          "title": "Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell to give a public update on his condition",
+          "url": "https://www.yahoo.com/news/politics/articles/kentucky-gov-andy-beshear-asks-155535305.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-08T15:55:35.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/ff14f5d0bde75fe44f4ff457cd0a0eaa"
+        },
+        {
+          "title": "Kentucky Gov. Andy Beshear Presses for Public Update on Mitch McConnell’s Health",
+          "url": "https://internewscast.com/news/us/kentucky-gov-andy-beshear-presses-for-public-update-on-mitch-mcconnells-health",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-08T16:14:54.000Z",
+          "description": "Internewscast Journal Internewscast WASHINGTON — Kentucky Gov. Andy Beshear, a Democrat, called Wednesday for Sen.… This Post: Kentucky Gov. Andy Beshear Presses for Public Update on Mitch McConnell’s Health first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Kentucky Gov. Andy Beshear asked Sen. Mitch McConnell to provide a public update on his health. McConnell has been hospitalized since June 14, and the reason for his hospitalization has not been explained in the headlines provided."
+    },
+    {
+      "id": "topic_7aefdb355658dbcd",
+      "title": "Dune: Part Three Trailer Previews Paul Atreides’ Conflict",
+      "headline": "Timothée Chalamet Is a Megalomaniacal Paul Atreides in ‘Dune: Part Three’ Official Trailer",
+      "label": [
+        "dune",
+        "part",
+        "three",
+        "trailer",
+        "timothée",
+        "chalamet"
+      ],
+      "category": "new",
+      "theme": "theme_bcfb3ba2504ab02b",
+      "entities": [
+        "Timoth",
+        "Chalamet Is",
+        "Megalomaniacal Paul Atreides",
+        "Dune",
+        "Part Three"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Timothée Chalamet Is a Megalomaniacal Paul Atreides in ‘Dune: Part Three’ Official Trailer",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/dune-part-3-trailer-timothee-chalamet-zendaya-1235591154",
+          "source": "Rolling Stone",
+          "published_at": "2026-07-08T21:40:04.000Z",
+          "description": "Set nearly 20 years into the future, Paul Atreides must face the consequences of the war he waged on those he loved and despised"
+        },
+        {
+          "title": "Dune: Part Three Trailer: Timothée Chalamet Battles Zendaya And The Rest Of The Universe",
+          "url": "https://www.slashfilm.com/2210761/dune-part-three-trailer",
+          "source": "/Film",
+          "published_at": "2026-07-08T18:05:54.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/dune-part-three-trailer-timothe-chalamet-battles-zendaya-and-the-rest-of-the-universe/l-intro-1783533936.jpg",
+          "description": "A brand-new trailer has dropped for Dune: Part Three, which will seemingly bring Paul Atreides' story to a violent conclusion."
+        },
+        {
+          "title": "Glorious Dune: Part Three trailer teases Timothée Chalamet and Zendaya at war",
+          "url": "https://mashable.com/entertainment/dune-part-3-trailer",
+          "source": "Mashable",
+          "published_at": "2026-07-08T18:00:37.000Z",
+          "description": "Denis Villeneuve's \"Dune: Part Three\" hits theaters December 18, 2026."
+        },
+        {
+          "title": "Dune: Part Three's New Trailer Highlights the Rift Between Paul Atreides and Chani",
+          "url": "https://www.ign.com/articles/dune-part-threes-new-trailer-highlights-the-rift-between-paul-atreides-and-chani",
+          "source": "IGN Articles",
+          "published_at": "2026-07-08T18:50:48.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/03/16/timothee-chalamet-dune-3-paul-1773697704577.png",
+          "description": "Dune: Part Three's newest trailer highlights the dramatic rift between Paul Atreides and Chani."
+        },
+        {
+          "title": "The New ‘Dune: Part Three’ Trailer Takes Things to Another Level",
+          "url": "https://gizmodo.com/the-new-dune-part-three-trailer-takes-things-to-another-level-2000782966",
+          "source": "Gizmodo",
+          "published_at": "2026-07-08T18:02:38.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/07/Dune-Part-Three-poster-crop-1280x853.jpg",
+          "description": "Denis Villeneuve's sci-fi trilogy comes to an end this December with Timothée Chalamet, Zendaya, and more."
+        }
+      ],
+      "summary": "A new trailer for Denis Villeneuve’s Dune: Part Three shows Timothée Chalamet as Paul Atreides and highlights conflict between Paul and Chani. The film is set to arrive in theaters December 18, 2026."
+    },
+    {
+      "id": "topic_f869d0379565d96a",
+      "title": "Trump Says Ukraine Can Manufacture Patriot Missiles",
+      "headline": "Trump Says He Will Let Ukraine Make Patriot Missiles",
+      "label": [
+        "missiles",
+        "patriot",
+        "ukraine",
+        "make",
+        "trump",
+        "produce"
+      ],
+      "category": "new",
+      "theme": "theme_3d15c546a42222b4",
+      "entities": [
+        "Trump Says He Will",
+        "Let Ukraine Make Patriot",
+        "Missiles",
+        "Trump",
+        "Ukraine"
+      ],
+      "article_count": 14,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Trump Says He Will Let Ukraine Make Patriot Missiles",
+          "url": "https://politicalwire.com/2026/07/08/trump-says-he-will-let-ukraine-make-patriot-missiles",
+          "source": "Political Wire",
+          "published_at": "2026-07-08T13:50:44.000Z",
+          "description": "“President Donald Trump said he will allow Ukraine to manufacture Patriot missile interceptors, a key weapon in repelling Russian attacks,” Bloomberg reports. Said Trump, while sitting next to Ukrainian President Volodymyr Zelensky: “We’re going to be giving a license to you. We’ll show them how to…"
+        },
+        {
+          "title": "Trump says he will allow Ukraine to make its own Patriot missiles",
+          "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-07-08T16:05:16.000Z",
+          "image": "https://s.france24.com/media/display/ce4930c2-7ae6-11f1-bf32-005056a97e36/w:1024/p:16x9/df9c3c053fcde1ed74f03f620dbceae36c88f4ff.jpg",
+          "description": "US President Donald Trump told his Ukrainian counterpart Volodymyr Zelensky on the sidelines of the NATO summit Wednesday that the US would grant Ukraine a license to manufacture its own Patriot air-defence systems. Patriot interceptor missiles are the only tool in Kyiv's arsenal that can shoot dow…"
+        },
+        {
+          "title": "Trump Says He Will Let Ukraine Make Patriot Missiles (Bloomberg)",
+          "url": "https://www.memeorandum.com/260708/p43",
+          "source": "memeorandum",
+          "published_at": "2026-07-08T14:10:01.000Z",
+          "image": "http://www.memeorandum.com/260708/i43.jpg",
+          "description": "Bloomberg: Trump Says He Will Let Ukraine Make Patriot Missiles — US President Donald Trump said he will allow Ukraine to manufacture Patriot missile interceptors, a key weapon in repelling Russian attacks. — “We're going to be giving a license to you,” Trump said, sitting alongside Ukrainian …"
+        },
+        {
+          "title": "Trump says US will allow Ukraine to make Patriot missiles",
+          "url": "https://www.lemonde.fr/en/international/article/2026/07/08/trump-says-us-will-allow-ukraine-to-make-patriot-missiles_6755286_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-07-08T18:33:06.000Z",
+          "image": "https://img.lemde.fr/2026/06/24/347/0/6000/3000/644/322/60/0/e3ed918_ftp-1-rhbneuu86ris-2026-06-24t104043z-945930775-rc2viiaaq0ga-rtrmadp-3-iran-crisis-trump-munitions.JPG",
+          "description": "US President Donald Trump did not specify any conditions or timeline for the authorization, and it is unclear whether Ukraine has the capabilities needed to produce costly Patriot missiles in the near future."
+        },
+        {
+          "title": "US To Let Ukraine Make Patriot Missiles To Fight Russia, Says Trump",
+          "url": "https://www.ndtv.com/world-news/us-to-let-ukraine-make-patriot-missiles-to-fight-russia-says-trump-11745233",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-08T15:00:31.000Z",
+          "image": "https://c.ndtvimg.com/2022-12/5vbutas4_us-patriot-missiles-reuters_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "Ukraine has been struggling to shoot down Russian ballistic missile attacks as supplies of the crucial US-made Patriot interceptors run low."
+        }
+      ],
+      "summary": "President Donald Trump said the United States would allow Ukraine to manufacture Patriot missile interceptors. He did not specify conditions or a timeline, and reports said it was unclear whether Ukraine could produce the missiles soon."
+    },
+    {
+      "id": "topic_dfd8befe12d9cccb",
+      "title": "Evil Dead Burn Reviews Praise Gore but Differ on Its Execution",
+      "headline": "Evil Dead Burn review: Im so bored",
+      "label": [
+        "evil",
+        "burn",
+        "dead",
+        "review",
+        "movie",
+        "gory"
+      ],
+      "category": "new",
+      "theme": "theme_e14aa8e4d0225080",
+      "entities": [
+        "Evil Dead Burn Review",
+        "Evil Dead Burn",
+        "Bloody Good Time",
+        "Evil Dead Burn Reviews",
+        "All Agree New Movie"
+      ],
+      "article_count": 16,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Evil Dead Burn review: Im so bored",
+          "url": "https://mashable.com/entertainment/evil-dead-burn-review",
+          "source": "Mashable",
+          "published_at": "2026-07-08T16:26:47.000Z",
+          "description": "Sam Raimi is unmatched. Still."
+        },
+        {
+          "title": "Evil Dead Burn Review",
+          "url": "https://www.ign.com/articles/evil-dead-burn-review",
+          "source": "IGN Articles",
+          "published_at": "2026-07-08T16:00:00.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/23/evil-dead-oo-1782251025078.png",
+          "description": "Evil Dead Burn is easily the most violent and oppressive Evil Dead movie yet, and even with the occasional gruesome highs of the horror on screen, this one manages to feel too similar to its predecessors while also leaving out some of the essential elements of Sam Raimi's beloved horror franchise."
+        },
+        {
+          "title": "Evil Dead Burn Review: A Bloody Good Time",
+          "url": "https://www.slashfilm.com/2210521/evil-dead-burn-movie-review",
+          "source": "/Film",
+          "published_at": "2026-07-08T16:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/evil-dead-burn-review-a-bloody-good-time/l-intro-1783518981.jpg",
+          "description": "Evil Dead Burn is stylish, bloody, and, best of all, a lot of fun, with small comedy bits mixed into the horror. Here's our review."
+        },
+        {
+          "title": "Evil Dead Burn Reviews All Agree New Movie Does This 1 Thing Better Than the Others",
+          "url": "https://www.comingsoon.net/movies/news/2159536-evil-dead-burn-reviews-all-agree-new-movie-does-this-1-thing-better-than-the-others",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-07-08T20:10:10.000Z",
+          "description": "Early reviews for Evil Dead Burn are here, and critics believe the movie has one thing right compared to its predecessors. The latest installment in the iconic horror franchise is helmed by Sébastien Vaniček. What are critics saying about Evil Dead Burn? Ahead of its awaited theatrical debut on Fri…"
+        },
+        {
+          "title": "Evil Dead Burn review: A gory sequel caught between horror and camp",
+          "url": "https://www.polygon.com/evil-dead-burn-review",
+          "source": "Polygon.com",
+          "published_at": "2026-07-08T16:18:17.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/evil-dead-burn-copy.jpg",
+          "description": "Evil Dead Burn packs gruesome kills and stylish filmmaking, but its attempt to unite every era of the franchise falls flat."
+        }
+      ],
+      "summary": "Reviews describe Evil Dead Burn as violent, gory and stylish, with some critics finding it entertaining. Others say it feels too similar to earlier films or that its attempt to bring together different eras of the franchise falls short."
+    },
+    {
+      "id": "topic_7a078031f3563ef9",
+      "title": "Trump Threatens Trade and Tourism Cuts Against Spain",
+      "headline": "Trump threatens to cut off trade with Spain at NATO summit",
+      "label": [
+        "cut",
+        "spain",
+        "trade",
+        "trump",
+        "threatens",
+        "nato"
+      ],
+      "category": "new",
+      "theme": "theme_f334f54834f0ae6f",
       "entities": [
         "Trump",
-        "Qatari Air Force One",
-        "Iran",
-        "Air Force One",
-        "Qatari"
+        "Spain",
+        "NATO",
+        "Trump Threatens",
+        "Cut Trade"
       ],
-      "article_count": 9,
+      "article_count": 10,
       "source_count": 9,
       "articles": [
         {
-          "title": "Trump skips Qatari Air Force One as Iran tensions spotlight jet security",
-          "url": "https://www.indiatoday.in/world/story/trump-air-force-one-switch-qatar-jet-security-iran-turkey-ptag-2943751-2026-07-09",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-07-08T22:02:33.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_69-sixteen_nine.png?VersionId=IOCfLJKk45Mpij1hKzUhXcoRKFHzoKFx"
+          "title": "Trump threatens to cut off trade with Spain at NATO summit",
+          "url": "https://www.thelocal.es/20260708/trump-blasts-spain-and-targets-greenland-at-nato-summit",
+          "source": "The Local Spain",
+          "published_at": "2026-07-08T09:38:06.000Z",
+          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/AFP__20260708__B9L87BP__v1__MidRes__TurkeyUsNatoSummitDefence.jpg@webp",
+          "description": "US President Donald Trump on Wednesday threatened to cut off trade with Spain as NATO leaders met for their summit in Ankara."
         },
         {
-          "title": "Trump unexpectedly switches back to old Air Force One after safety questions about new Qatari jet",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-qatar-plane-b3011539.html",
-          "source": "The Independent World",
-          "published_at": "2026-07-08T21:41:21.000Z",
-          "image": "https://static.independent.co.uk/2026/07/08/22/2284517912..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+          "title": "Trump threatens to cut off trade, tourism with Spain in NATO rift",
+          "url": "https://nypost.com/2026/07/08/us-news/trump-threatens-to-cut-off-trade-tourism-with-spain",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-07-08T08:50:14.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fu-s-president-donald-trump-133721782.jpg?w%3D1024",
+          "description": "ANKARA, Turkey — President Trump threatened Wednesday to cut off “all trade” and tourism with Spain — citing Madrid’s refusal to boost military spending and its restrictions on US operations during the Iran war. “Spain is a wasted cause. We don’t want to do any trade business with Spain anymore,” T…"
         },
         {
-          "title": "Trump unexpectedly switches back to old Air Force One, sidelining Qatari jet",
-          "url": "https://japantoday.com/category/world/trump-unexpectedly-switches-back-to-old-air-force-one-sidelining-qatari-jet1",
-          "source": "Japan Today",
-          "published_at": "2026-07-08T21:40:42.000Z"
+          "title": "Trump keeps threatening to cut off trade with Spain, but he can’t follow through",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-spain-trade-threats-nato-eu",
+          "source": "MS NOW",
+          "published_at": "2026-07-08T18:38:19.000Z",
+          "description": "“We don’t want to do any trade business with Spain anymore,” the president said. It’s not nearly that simple. The post Trump keeps threatening to cut off trade with Spain, but he can’t follow through appeared first on MS NOW."
         },
         {
-          "title": "Donald Trump sparks intrigue by ditching new Qatari jet for old Air Force One",
-          "url": "https://www.washingtonexaminer.com/news/washington-secrets/4641318/trump-intrigue-qatari-jet-old-air-force-one",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-08T21:09:29.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/air-force-one-e1783543722990.jpg?1783529334&w=696"
-        },
-        {
-          "title": "Trump departs NATO summit on older Air Force One",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-08T20:46:40.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_868bd2b98cce38d0",
-      "label": [
-        "sponsor",
-        "syria",
-        "terrorism",
-        "state sponsor",
-        "sponsor terrorism",
-        "state"
-      ],
-      "category": "new",
-      "theme": "theme_d99a99830f02b146",
-      "entities": [
-        "Trump",
-        "Syria",
-        "US",
-        "Trump Moves",
-        "Revoke Syria"
-      ],
-      "article_count": 9,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Trump moves to remove Syria from US list of state sponsors of terrorism",
-          "url": "https://www.france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism",
+          "title": "Trump says will 'cut off all trade with Spain' over NATO contribution row",
+          "url": "https://www.france24.com/en/trump-says-will-cut-off-all-trade-with-spain-over-nato-contribution-row",
           "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-07-08T23:07:25.000Z",
-          "image": "https://s.france24.com/media/display/f38ffaf8-7ade-11f1-9249-005056a90284/w:1024/p:16x9/2026-07-08T142746Z-1816862540-RC2Q9MA69BRO-RTRMADP-3-NATO-SUMMIT-TRUMP.jpg"
+          "published_at": "2026-07-08T18:55:32.000Z",
+          "image": "https://s.france24.com/media/display/d6af2cc8-7afd-11f1-b1b5-005056bfb2b6/w:1024/p:16x9/EN-20260708-203434-203619-CS.jpg",
+          "description": "US President Donald Trump threatened Wednesday to halt all trade with Spain amid a bitter row over Madrid's defence spending and failure to help Washington with the Iran war. \"Spain is a wasted cause. We don't want to do any trade business with Spain anymore,\" Trump said as he arrived at a NATO sum…"
         },
         {
-          "title": "Trump Moves to Revoke Syria's Designation as State Sponsor of Terrorism",
-          "url": "https://time.com/article/2026/07/08/trump-syria-state-sponsor-terrorism-list-sanctions",
-          "source": "TIME",
-          "published_at": "2026-07-08T22:32:45.000Z",
-          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf962882f4a01cba5/6a4ec0f021e4752f03473466/GettyImages-2285214878.jpg?branch=production"
-        },
-        {
-          "title": "Trump decides to remove Syria from U.S. terrorism sponsor list",
-          "url": "https://japantoday.com/category/world/trump-decides-to-remove-syria-from-us-terrorism-sponsor-list1",
-          "source": "Japan Today",
-          "published_at": "2026-07-08T21:41:13.000Z"
-        },
-        {
-          "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-          "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-08T21:36:02.000Z"
-        },
-        {
-          "title": "Trump rescinds Syria state sponsor of terrorism designation (Reuters)",
-          "url": "https://www.memeorandum.com/260708/p94",
-          "source": "memeorandum",
-          "published_at": "2026-07-08T20:10:00.000Z",
-          "image": "http://www.memeorandum.com/260708/i94.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_5af6c63d4f1200d9",
-      "label": [
-        "fai",
-        "motion",
-        "israel",
-        "egm",
-        "fai motion",
-        "pass egm"
-      ],
-      "category": "new",
-      "theme": "theme_a66cf574a8a5405f",
-      "entities": [
-        "FAI",
-        "Israel",
-        "EGM",
-        "Ireland"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "FAI motion to progress with Israel games passed at EGM",
-          "url": "https://www.breakingnews.ie/sport/breaking-fai-motion-to-progress-with-israel-games-passed-at-egm-1924227.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDlcXFwvMjQwODQ5MjhcXFwvaW5waG9fMDIwNDE4MzYtZTE2NjQwMDU3ODk3NjIuanBlZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNlYmExZTU4ZjA4ZGZiYzgxZjVlZGE2NzkzNjk5OTE1MDUxNWJjNDQifQ==/inpho-02041836-e1664005789762.jpeg"
-        },
-        {
-          "title": "FAI motion to continue with Israel games passed at EGM",
-          "url": "https://sports.yahoo.com/articles/fai-motion-continue-israel-games-202654793.html",
-          "published_at": "2026-07-08T20:26:54.000Z"
-        },
-        {
-          "title": "FAI motion to fulfil Israel fixtures passes at EGM",
-          "url": "https://www.thejournal.ie/fai-motion-israel-2-7095809-jul2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-07-08T20:03:33.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/07/attendees-at-the-protest-48c7c7d3-23d6-4829-9c78-b66ccf9d7234-630x420.jpg"
-        },
-        {
-          "title": "FAI motion to fulfil Israel fixtures passes at EGM",
-          "url": "https://www.the42.ie/fai-motion-israel-7095794-jul2026",
-          "source": "The 42",
-          "published_at": "2026-07-08T20:02:02.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/07/attendees-at-the-protest-48c7c7d3-23d6-4829-9c78-b66ccf9d7234-630x420.jpg"
-        },
-        {
-          "title": "FAI release statement as result of motion on Ireland-Israel games is confirmed",
-          "url": "https://www.irishmirror.ie/sport/soccer/soccer-news/fai-release-statement-result-motion-37406492",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-07-08T19:50:31.000Z",
-          "image": "https://i2-prod.irishmirror.ie/incoming/article37219462.ece/ALTERNATES/s615/94872_2967239.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_e0d5c6690637e009",
-      "label": [
-        "full list",
-        "emmy",
-        "full",
-        "list",
-        "category",
-        "nomination"
-      ],
-      "category": "new",
-      "theme": "theme_250abd157c7e12a9",
-      "entities": [
-        "Success",
-        "Hacks",
-        "Widow",
-        "Bay",
-        "Tells Us About"
-      ],
-      "article_count": 17,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "What the Success of ‘Hacks’ or Widow’s Bay’ Tells Us About the Emmys Race",
-          "url": "https://www.indiewire.com/awards/industry/2026-emmy-nominations-takeaways-widows-bay-hbo-max-awards-1235204278",
-          "source": "IndieWire",
-          "published_at": "2026-07-08T22:30:00.000Z"
-        },
-        {
-          "title": "The Pitt, Hacks, Widow’s Bay lead Emmy Awards nominations 2026 (FULL LIST)",
-          "url": "https://www.premiumtimesng.com/entertainment/movies/893865-the-pitt-hacks-widows-bay-lead-emmy-awards-nominations-2026-full-list.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-07-08T20:51:41.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/The-Emmys-e1783543711987.jpg?fit=1040%2C650&amp;ssl=1"
-        },
-        {
-          "title": "Here Are the 2026 Primetime Emmy Nominees in the 7 Music Categories: Full List",
-          "url": "https://www.billboard.com/lists/2026-emmy-nominations-music-categories-full-list",
-          "source": "Billboard",
-          "published_at": "2026-07-08T20:40:25.000Z"
-        },
-        {
-          "title": "Emmy Awards 2026: Apple TV just landed a record 87 nominations [Full list]",
-          "url": "https://9to5mac.com/2026/07/08/emmy-awards-2026-apple-tv-just-landed-a-record-87-nominations-full-list",
-          "source": "9to5Mac",
-          "published_at": "2026-07-08T20:12:30.000Z",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-shows-movies.jpg?quality=82&#038;strip=all&#038;w=1600"
-        },
-        {
-          "title": "Emmy Nominations 2026: The Full List for Every Major Category",
-          "url": "https://www.ign.com/articles/emmy-nominations-2026-the-full-list-for-every-major-category",
-          "source": "IGN Articles",
-          "published_at": "2026-07-08T18:40:50.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/04/03/the-pitt-s2e13-blogroll-1775183801651.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_44d539bf5cae1125",
-      "label": [
-        "meta build",
-        "meta",
-        "data",
-        "build",
-        "data center",
-        "billion"
-      ],
-      "category": "new",
-      "theme": "theme_b04f24f3a8b95663",
-      "entities": [
-        "Meta",
-        "Alberta",
-        "Canadian",
-        "Canada",
-        "AI"
-      ],
-      "article_count": 9,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Meta bets $13 billion on Alberta with first Canadian data centre",
-          "url": "https://www.digitaljournal.com/article/meta-bets-13-billion-on-alberta-with-first-canadian-data-centre",
-          "source": "Digital Journal",
-          "published_at": "2026-07-08T23:16:16.000Z"
-        },
-        {
-          "title": "Meta to build $13 billion data centre in Alberta, largest outside the U.S.",
-          "url": "https://globalnews.ca/news/11958562/meta-sturgeon-county-data-centre-groundbreaking",
-          "published_at": "2026-07-08T21:59:31.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/07/data-centre-groundbreaking_1.jpg?quality=65&strip=all"
-        },
-        {
-          "title": "Meta to build $9 billion data center in western Canada",
-          "url": "https://japantoday.com/category/tech/meta-to-build-9-billion-data-center-in-western-canada",
-          "source": "Japan Today",
-          "published_at": "2026-07-08T21:46:40.000Z"
-        },
-        {
-          "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
-          "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-07-08T19:47:03.000Z"
-        },
-        {
-          "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-07-08T19:30:00.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iow_269OXj2w/v0/1200x-1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_eedd4fca9cb8b8bf",
-      "label": [
-        "cheetah",
-        "cheetah girl",
-        "girl",
-        "next gen",
-        "raven",
-        "symon"
-      ],
-      "category": "new",
-      "theme": "theme_ba3ec54ad6519093",
-      "entities": [
-        "Cheetah Girls",
-        "Is Officially Underway",
-        "Featuring Raven",
-        "Symon",
-        "More Original Stars"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "‘Cheetah Girls 4’ Is Officially Underway, Featuring Raven-Symoné & More Original Stars",
-          "url": "https://www.billboard.com/culture/tv-film/cheetah-girls-4-next-gen-raven-symone-adrienne-bailon-1236290221",
-          "source": "Billboard",
-          "published_at": "2026-07-08T21:54:28.000Z"
-        },
-        {
-          "title": "Disney Keeps The Sequels Coming With Cheetah Girls: Next Gen",
-          "url": "https://www.forbes.com/sites/hannahabraham/2026/07/08/disney-keeps-the-sequels-coming-with-cheetah-girls-next-gen",
-          "source": "Forbes - Business",
-          "published_at": "2026-07-08T21:28:53.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4ebb96cd304d05dc31d297/0x0.jpg"
-        },
-        {
-          "title": "‘The Cheetah Girls: Next Gen’ Gets Disney Greenlight; Raven-Symoné & Adrienne Bailon To Return For Latest Franchise Installment",
-          "url": "https://deadline.com/2026/07/the-cheetah-girls-next-gen-movie-raven-symone-disney-1236977605",
-          "source": "Deadline",
-          "published_at": "2026-07-08T21:05:35.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/07/the-cheetah-girls.jpg"
-        },
-        {
-          "title": "‘Cheetah Girls 4’: Raven-Symoné Confirms Her Return in ‘Next Gen’ Reboot",
-          "url": "https://variety.com/2026/tv/news/cheetah-girls-4-raven-symone-next-gen-reboot-1236804771",
-          "source": "Variety",
-          "published_at": "2026-07-08T19:13:30.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/07/Cheetah-Girls.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7911f3c9a6b54b5e",
-      "label": [
-        "cjng",
-        "nuevo der",
-        "nuevo",
-        "der",
-        "der del",
-        "del cjng"
-      ],
-      "category": "new",
-      "theme": "theme_33e44ec488f67897",
-      "entities": [
-        "Qui",
-        "Juan Carlos Valencia",
-        "CJNG",
-        "EU",
-        "El"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "¿Quién es Juan Carlos Valencia, presunto nuevo líder del CJNG?",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/quien-es-juan-carlos-valencia-presunto-nuevo-lider-del-cjng.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-07-08T20:04:50.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/07/2027091.jpeg"
-        },
-        {
-          "title": "EU identifica a «El 03» como nuevo líder del CJNG tras la muerte de «El Mencho»",
-          "url": "https://8columnas.com.mx/internacional/eu-identifica-a-el-03-como-nuevo-lider-del-cjng-tras-la-muerte-de-el-mencho",
-          "source": "8 Columnas",
-          "published_at": "2026-07-08T19:28:41.000Z"
-        },
-        {
-          "title": "CJNG tiene nuevo líder: ‘El 03’ toma mando tras muerte del ‘Mencho’, según EU",
-          "url": "https://www.elfinanciero.com.mx/nacional/2026/07/08/cjng-tiene-nuevo-lider-el-03-toma-mando-tras-muerte-del-mencho-segun-eu",
-          "source": "El Financiero",
-          "published_at": "2026-07-08T19:26:32.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/1R6xUiYwkNbFa2D4M4izFIM86Pg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XJYTK3T7ERG4ZLCRTLBYPFXZ6M.png"
-        },
-        {
-          "title": "Identifica EU a Juan Carlos Valencia ‘03’ como nuevo líder del CJNG",
-          "url": "https://vanguardia.com.mx/noticias/identifica-eu-a-juan-carlos-valencia-03-como-nuevo-lider-del-cjng-ab22011450",
-          "source": "Vanguardia",
-          "published_at": "2026-07-08T18:47:33.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/image-proxy_1-16080545_20260708185125.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_65e27cc88b06e68f",
-      "label": [
-        "ftc",
-        "deere",
-        "repair",
-        "john deere",
-        "right repair",
-        "john"
-      ],
-      "category": "new",
-      "theme": "theme_be341bdf6bd5d00e",
-      "entities": [
-        "The FTC",
-        "John Deere",
-        "Boone Ashworth",
-        "Wired",
-        "John Deere Agrees To"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)",
-          "url": "https://www.techmeme.com/260708/p42",
-          "source": "Techmeme",
-          "published_at": "2026-07-08T22:25:01.000Z",
-          "image": "http://www.techmeme.com/260708/i42.jpg"
-        },
-        {
-          "title": "John Deere Agrees To 10-Year Right-To-Repair Deal In FTC Antitrust Lawsuit",
-          "url": "https://yro.slashdot.org/story/26/07/08/2049231/john-deere-agrees-to-10-year-right-to-repair-deal-in-ftc-antitrust-lawsuit",
-          "source": "Slashdot",
-          "published_at": "2026-07-08T22:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
-        },
-        {
-          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
-          "url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement",
-          "source": "Feed: All Latest",
-          "published_at": "2026-07-08T20:27:18.000Z",
-          "image": "https://media.wired.com/photos/6a4e9e33b7497b81a1eac2ad/master/pass/GettyImages-458090277.jpg"
-        },
-        {
-          "title": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
-          "url": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-07-08T20:06:11.000Z",
-          "image": "https://www.engadget.com/img/gallery/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/l-intro-1783541023.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_90ed39a6339657e4",
-      "label": [
-        "prison",
-        "obstruction",
-        "prison ice",
-        "ice obstruction",
-        "obstruction case",
-        "ice"
-      ],
-      "category": "new",
-      "theme": "theme_f98212b228d898a7",
-      "entities": [
-        "Ex",
-        "Wisconsin",
-        "ICE",
-        "Former Milwaukee Judge Hannah",
-        "Dugan"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Ex-Wisconsin judge fined $5,000, spared prison in ICE obstruction case",
-          "url": "https://www.cbsnews.com/news/wisconsin-judge-hannah-dugan-sentencing-obstructing-arrest-of-mexican-immigrant",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-07-08T23:09:53.000Z"
-        },
-        {
-          "title": "Former Milwaukee Judge Hannah Dugan avoids prison in ICE obstruction case - WISN",
-          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxoz21lcnpxrnvwzlzyxzdgae9rotrmr1i3q1y4mzbweet5emdfbfkxtlvpqxptdvdqbvvzmxfqr1bkcdizn0vqcvbptny4c0mzbktvbxdqefnjsgrhsxlqtfvjqm5krg1amv9wcvrvuwlmbgctck1zci1hagfvnnyymjd6ngdvaml0zhvusw1xsfhzset4vhh5bzgwzs02v3vsnkjvaejhcktewxpwouztaa",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-08T22:20:00.000Z"
-        },
-        {
-          "title": "Former Wisconsin judge convicted after thwarting ICE arrest issued fine, avoids prison (Finya Swai/The Hill)",
-          "url": "https://www.memeorandum.com/260708/p113",
-          "source": "memeorandum",
-          "published_at": "2026-07-08T22:15:01.000Z",
-          "image": "http://www.memeorandum.com/260708/i113.jpg"
-        },
-        {
-          "title": "Former Wisconsin judge avoids prison in ICE obstruction case",
-          "url": "https://www.aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-08T21:35:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_9fa96e5e4d3c19b0",
-      "label": [
-        "sola",
-        "comentario",
-        "envenenar",
-        "pedro sola",
-        "comentario sobre",
-        "sobre envenenar"
-      ],
-      "category": "new",
-      "theme": "theme_56d3cef65286380f",
-      "entities": [
-        "Pedro Sola",
-        "Fue",
-        "Siento",
-        "PERD",
-        "Prometo"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Pedro Sola ofrece disculpas tras polémico comentario sobre envenenar perros: “Fue una falta de empatía”",
-          "url": "https://vanguardia.com.mx/show/pedro-sola-ofrece-disculpas-tras-polemico-comentario-sobre-envenenar-perros-fue-una-falta-de-empatia-ab22017502",
-          "source": "Vanguardia",
-          "published_at": "2026-07-08T23:28:22.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/pedrito-sola_1-16084776_20260708233320.png"
-        },
-        {
-          "title": "'Siento una vergüenza horrible'; Pedro Sola se disculpa por comentario sobre envenenar perros",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/siento-una-verguenza-horrible-pedro-sola-se-disculpa-por-comentario-sobre-envenenar-perros.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-07-08T23:17:50.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/07/2027138.jpeg"
-        },
-        {
-          "title": "Pedro Sola pide PERDÓN por comentario sobre envenenar perros: 'Prometo educarme más'",
-          "url": "https://www.informador.mx/entretenimiento/pedro-sola-ruega-que-lo-perdonen-tras-comentario-sobre-envenenar-perros-prometo-educarme-mas-20260708-0164.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-07-08T22:35:00.000Z"
-        },
-        {
-          "title": "Pedro Sola se disculpa por comentario sobre envenenar perros: ‘Los tiempos son diferentes’",
-          "url": "https://www.elfinanciero.com.mx/espectaculos/2026/07/08/pedro-sola-se-disculpa-por-comentario-sobre-envenenar-perros-en-plazas-y-restaurantes",
-          "source": "El Financiero",
-          "published_at": "2026-07-08T19:45:55.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YMTrCOGSu2R0Z0MRaH0y1P5pugg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6PAEZNY4WRBZVIDERPAYGA3KYU.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_a8bdf7c29f46c3fb",
-      "label": [
-        "antonoff",
-        "jack antonoff",
-        "jack",
-        "antonoff still",
-        "still wear",
-        "wear wedd"
-      ],
-      "category": "new",
-      "theme": "theme_7b97dfa1d2e33660",
-      "entities": [
-        "Exclusive",
-        "Jack Antonoff",
-        "Margaret Qualley",
-        "Page Six",
-        "Jack Antonoff Still Wearing"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Exclusive | Jack Antonoff and Margaret Qualley’s marriage ‘challenges’ exposed before split - Page Six",
-          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxoedzmvup4ylr4thzvthrobddyavczqkpnqwpfnjvovhc0zy1wvfpprgz0depkuvhzbmy5mlnfejrfwlpjwk1ucwrrqjdlrwhju2jhdxz4mdvyuju2aku4u0x4wfjxrxvzevrttwfoaxatawnyzulnlxhjyu9mexnucl9vn3jftui5dgc1nexuwudmqzfuwmjqafvmszj1owf6tuzruvk3zdvmtefeu2txqk5rowviz1nmyzzztudqnhq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-07-08T20:33:00.000Z"
-        },
-        {
-          "title": "Jack Antonoff Still Wearing Wedding Ring Amid Marriage Speculation",
-          "url": "https://internewscast.com/news/jack-antonoff-still-wearing-wedding-ring-amid-marriage-speculation",
+          "title": "Trump Threatens to Cut Trade and Tourism Ties With Spain as NATO Rift Deepens",
+          "url": "https://internewscast.com/news/trump-threatens-to-cut-trade-and-tourism-ties-with-spain-as-nato-rift-deepens",
           "source": "Internewscast Journal",
-          "published_at": "2026-07-08T19:28:54.000Z"
-        },
-        {
-          "title": "Jack Antonoff STILL wearing his wedding ring as separation from Margaret Qualley becomes public",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15963215/jack-antonoff-margaret-qualley-separation-brooklyn.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-07-08T19:19:10.000Z",
-          "image": "https://i.dailymail.com/1s/2026/07/08/19/109888599-0-image-a-27_1783534950977.jpg"
+          "published_at": "2026-07-08T11:32:09.000Z",
+          "description": "Internewscast Journal Internewscast ANKARA, Turkey — President Trump on Wednesday escalated his criticism of Spain,… This Post: Trump Threatens to Cut Trade and Tourism Ties With Spain as NATO Rift Deepens first appeared on Internewscast Journal"
         }
-      ]
+      ],
+      "summary": "At the NATO summit in Ankara, President Donald Trump threatened to cut trade and tourism ties with Spain. He cited a dispute over Spain’s defense spending and its restrictions on U.S. operations."
     },
     {
-      "id": "topic_28692219068ef868",
+      "id": "topic_8f05a02b85f08d64",
+      "title": "Wreckage Found After Cargo Plane Disappears Off Pakistan",
+      "headline": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
       "label": [
-        "contra rocha",
-        "moya",
-        "rocha moya",
-        "rocha",
-        "fgr",
-        "contra"
+        "plane",
+        "cargo",
+        "pakistan",
+        "search",
+        "wreckage",
+        "missing"
       ],
-      "category": "new",
-      "theme": "theme_f3f50f0a3e863c69",
+      "category": "trending",
+      "theme": "theme_2781b8f2ddaf7755",
       "entities": [
-        "FGR",
-        "EU",
-        "Rocha Moya",
-        "Dice FGR"
+        "Pakistan",
+        "Boeing",
+        "Arabian Sea",
+        "Al Jazeera",
+        "Search"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 38,
+      "source_count": 30,
       "articles": [
         {
-          "title": "FGR insiste en que EU no ha probado acusaciones contra Rocha Moya",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/fgr-insiste-en-que-eu-no-ha-probado-acusaciones-contra-rocha-moya.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-07-08T22:39:27.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/07/2027134.jpeg"
-        },
-        {
-          "title": "Dice FGR que todavía no hay pruebas contra Rocha Moya",
-          "url": "https://www.elnorte.com/dice-fgr-que-todavia-no-hay-pruebas-contra-rocha-moya/ar3236895",
-          "source": "ElNorte",
-          "published_at": "2026-07-08T22:18:27.000Z"
-        },
-        {
-          "title": "Dice FGR que todavía no hay pruebas contra Rocha Moya",
-          "url": "https://www.reforma.com/dice-fgr-que-todavia-no-hay-pruebas-contra-rocha-moya/ar3236881",
-          "source": "Reforma",
-          "published_at": "2026-07-08T22:17:42.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_83340234511eb96a",
-      "label": [
-        "de dollar",
-        "million de",
-        "dollar",
-        "carroll",
-        "million",
-        "verser"
-      ],
-      "category": "new",
-      "theme": "theme_f4ed31e3889145c1",
-      "entities": [
-        "Affaire",
-        "Jean Carroll",
-        "Donald Trump",
-        "Affaire Carroll",
-        "Trump"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Affaire E. Jean Carroll : un juge ordonne à Donald Trump de verser les 5 millions de dollars qu’il doit à l’autrice",
-          "url": "https://www.lemonde.fr/international/article/2026/07/09/affaire-e-jean-carroll-un-juge-ordonne-a-donald-trump-de-verser-les-5-millions-de-dollars-qu-il-doit-a-l-autrice_6721905_3210.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-07-08T22:07:11.000Z",
-          "image": "https://img.lemde.fr/2026/07/08/40/0/4451/2225/644/322/60/0/532a0c3_ftp-1-blzmivj2saql-2026-07-08t132223z-1686988926-rc23v9a77rj5-rtrmadp-3-usa-trump-carroll.JPG"
-        },
-        {
-          "title": "Affaire Carroll: un juge ordonne le versement des 5 millions de dollars dus par Trump",
-          "url": "https://www.dhnet.be/actu/monde/2026/07/08/affaire-carroll-un-juge-ordonne-le-versement-des-5-millions-de-dollars-dus-par-trump-ytcsgwizezdtjmd73az52zuqm4",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-07-08T20:35:42.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/VXWLE5IQWFET7C4HRFZZ3DOBHY.jpg?auth=530172db10beec9c93793a4a15eaa3b23698d7ce7ea4fe96858d2ade8087f0b0&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Justice américaine : Donald Trump condamné à verser 5 millions de dollars à l'écrivaine E. Jean Carroll",
-          "url": "https://www.rtbf.be/article/justice-americaine-donald-trump-condamne-a-verser-5-millions-de-dollars-a-l-ecrivaine-e-jean-carroll-11755091",
-          "source": "- Info",
-          "published_at": "2026-07-08T20:32:46.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/c/e/3/2fdeec41ef3f8134753af2da6c8fecfb.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_4543f8be9bbd1066",
-      "label": [
-        "emanuel tell",
-        "emanuel",
-        "rahm emanuel",
-        "rahm",
-        "tell",
-        "democrat rahm"
-      ],
-      "category": "new",
-      "theme": "theme_c47666cbf01735cf",
-      "entities": [
-        "Democrat Rahm Emanuel",
-        "Israel",
-        "US",
-        "Rahm Emanuel",
-        "Israelis"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Democrat Rahm Emanuel tells Israel to change course or risk U.S. alliance",
-          "url": "https://japantoday.com/category/world/democrat-rahm-emanuel-tells-israel-to-change-course-or-risk-us-alliance",
-          "source": "Japan Today",
-          "published_at": "2026-07-08T21:41:02.000Z"
-        },
-        {
-          "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
-          "url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid",
+          "title": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+          "url": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-07-08T20:40:53.000Z"
+          "published_at": "2026-07-08T09:39:24.000Z",
+          "description": "Karachi-bound aircraft lost contact with air traffic control after reporting navigation ⁠system fault."
         },
         {
-          "title": "Rahm Emanuel tells Israelis that he understands their ‘cynicism’ and ‘anger’",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4641222/rahm-emanuel-israel-democrats",
-          "source": "Washington Examiner",
-          "published_at": "2026-07-08T20:26:28.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26189505756409.jpg?w=696"
+          "title": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxnbzlnbvruqjdlmhvdrjbaunfzx20ztglsvxlft2fvvkdpd1biluhiwf9nbelstdhnemzwnvfhcnjfqmvhbe9psfd0vv9ln0iwv25rstl3evbzn2das3ptofgwr0djy3pxvjz1c1hiduxxykv2rdzmy1a1dhdsvm52dfzuvmf6mmh1lvvucflrrfhwcxdod1v1bjvsvu51ajfrnwnzvte2zltsaa4bqvvfexfmugeywvliqxrsr21puzi2tujplwxqsdzsmuotni1vrudjuursnxg4bvltqm1na0x6tke3ajjbywdknlrvtg93qunnowndz2iyc05ubfbxsxrtlxrhb1rwum80vnrvwhzkyw54zhr0cdlizhlroxnvzgdyajzqchhnlwneuvvpovltd05kouf5dmzdlu50czrjujfrdvrzcmhtadbwufhkrhzwm0rgcxbn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-08T09:46:32.000Z",
+          "description": "Pakistan searches for Boeing cargo plane missing over Arabian Sea Al Jazeera Cargo plane wreckage found off Pakistan’s coast as search continues for 5 missing crew NBC News Pakistan Locates Wreckage Of Missing Cargo Plane In Sea, Search On For Crew NDTV K2 Airways Cargo 737 overdue in Karachi Fligh…"
+        },
+        {
+          "title": "Search under way after Boeing 737 cargo plane goes missing off Pakistan coast",
+          "url": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-07-08T05:37:43.000Z",
+          "image": "https://i.guim.co.uk/img/media/0af23b89bae2a22cdf6426a8ef996d37a555b8ec/360_0_4558_3648/master/4558.jpg?width=140&quality=85&auto=format&fit=max&s=9271ab0504ff623b6cbb1be3f4c9ae24",
+          "description": "Early flight data showed the K2 Airways plane with five crew on board possibly crashed into the sea ⁠southwest of Karachi A Pakistan-registered Boeing 737 cargo plane with five crew members on board lost contact with air traffic control on ⁠Tuesday night after reporting a navigational ⁠system probl…"
+        },
+        {
+          "title": "Search underway after Boeing 737 cargo plane goes missing off Pakistan coast",
+          "url": "https://globalnews.ca/news/11957900/search-underway-missing-boeing-737-cargo-plane-pakistan",
+          "published_at": "2026-07-08T14:27:35.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/07/Boeing-737-aircraft-missing.jpg?quality=65&strip=all",
+          "description": "The aircraft was observed on radar rapidly descending with a heading change before radar and communication were lost, Pakistan aviation authorities said."
+        },
+        {
+          "title": "Cargo plane wreckage found off Pakistan’s coast as search continues for 5 missing crew",
+          "url": "https://www.seattletimes.com/nation-world/pakistan-expands-search-for-missing-cargo-plane-as-rough-seas-hamper-rescue-efforts",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-07-08T06:47:04.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_crash_tzr_083027.jpg?d=1200x630",
+          "description": "Civilian and navy searchers have located wreckage of a cargo plane off Pakistan's coast."
         }
-      ]
+      ],
+      "summary": "A Pakistan-registered Boeing 737 cargo plane lost contact with air traffic control after reporting a navigation-system fault and disappeared over the Arabian Sea. Searchers later found wreckage off Pakistan’s coast; five crew members remain missing."
+    },
+    {
+      "id": "topic_105cb832c2e8d7fc",
+      "title": "Russia Attempts to Jam Starlink to Counter Ukrainian Drones",
+      "headline": "Russia is now trying to jam Elon Musk’s Starlink",
+      "label": [
+        "starlink",
+        "tries",
+        "russia",
+        "jam",
+        "musk",
+        "elon"
+      ],
+      "category": "new",
+      "theme": "theme_562cfe9df23ff919",
+      "entities": [
+        "Russia",
+        "Elon Musk",
+        "Starlink",
+        "Ukraine",
+        "Musk"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Russia is now trying to jam Elon Musk’s Starlink",
+          "url": "https://www.independent.co.uk/news/world/europe/starlink-ukraine-russia-jamming-war-b3010947.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-08T07:39:23.000Z",
+          "image": "https://static.independent.co.uk/2024/10/14/18/newFile-5.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Putin’s latest mid to stop Ukraine drone strikes"
+        },
+        {
+          "title": "Russia tries to jam Musk's Starlink systems to counter Ukrainian drones",
+          "url": "https://www.thehindu.com/news/international/russia-tries-to-jam-musks-starlink-systems-to-counter-ukrainian-drones/article71196936.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-07-08T10:06:29.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/nxy858/article70598526.ece/alternates/LANDSCAPE_1200/2026-02-05T164347Z_1520140732_RC2LPZ9CA8T2_RTRMADP_3_UKRAINE-CRISIS-STARLINK.JPG",
+          "description": "Jamming devices installed by Russia near towns and military facilities, disrupting the Starlink systems operated ‌by Musk's SpaceX"
+        },
+        {
+          "title": "How Russia is trying to beat Ukraine’s drones: Camouflage cargo, jam Elon Musk's Starlink",
+          "url": "https://timesofindia.indiatimes.com/defence/international/how-russia-is-trying-to-beat-ukraines-drones-camouflage-cargo-jam-elon-musks-starlink/articleshow/132259111.cms",
+          "source": "Times of India",
+          "published_at": "2026-07-08T09:29:32.000Z",
+          "image": "https://static.toiimg.com/photo/msid-132259329,imgsize-238770.cms",
+          "description": "In an escalating conflict, Russia is ramping up its campaign to disrupt Ukraine's Starlink satellite internet capabilities, aiming to neutralize the effectiveness of Ukrainian drone strikes on its military assets. Utilizing advanced electronic warfare systems such as Volna-Kupol-Garant, Russian for…"
+        },
+        {
+          "title": "Russia tries to jam Starlink to counter Ukraine’s long-range drones",
+          "url": "https://thenextweb.com/news/russia-jams-starlink-ukrainian-drones",
+          "source": "The Next Web",
+          "published_at": "2026-07-08T12:14:40.000Z",
+          "image": "https://media.thenextweb.com/2026/05/starlink-price-increase-standby-mode-roam-residential.avif",
+          "description": "The war in Ukraine has become, among other things, a fight over signals. Russian forces are now trying to jam Elon Musk’s Starlink network to blunt the cheap long-range drones that have reshaped the conflict, according to Ukrainian drone commanders and pilots who spoke to Reuters. The tool they des…"
+        }
+      ],
+      "summary": "Reports say Russian forces are installing jamming devices near towns and military facilities to disrupt Ukraine’s use of Starlink. The effort is aimed at limiting the effectiveness of Ukrainian long-range drones."
+    },
+    {
+      "id": "topic_2d3288eea4322cd6",
+      "title": "DuckDuckGo Browser Adds Blocking for Most YouTube Video Ads",
+      "headline": "DuckDuckGo browser now blocks YouTube video ads",
+      "label": [
+        "duckduckgo",
+        "ads",
+        "youtube",
+        "blocks",
+        "browser",
+        "free"
+      ],
+      "category": "new",
+      "theme": "theme_14b3b034a5b9259d",
+      "entities": [
+        "DuckDuckGo",
+        "YouTube",
+        "Free Browser Now Blocks",
+        "Most YouTube Video Ads",
+        "CNET"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "DuckDuckGo browser now blocks YouTube video ads",
+          "url": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads",
+          "source": "BleepingComputer",
+          "published_at": "2026-07-08T12:00:00.000Z",
+          "description": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]"
+        },
+        {
+          "title": "DuckDuckGo's Free Browser Now Blocks Most YouTube Video Ads",
+          "url": "https://www.cnet.com/tech/services-and-software/duckduckgos-free-browser-now-blocks-most-youtube-video-ads",
+          "source": "CNET",
+          "published_at": "2026-07-08T12:00:33.000Z",
+          "image": "https://www.cnet.com/a/img/resize/4c139192105c0b7ea141140f9da336431ae125c1/hub/2026/07/07/26ab2e0d-176a-4828-b789-53bce5a6a0ce/settings-illustration.png?auto=webp&fit=crop&height=614&width=1092",
+          "description": "DuckDuckGo says its browser now blocks most video ads, including those on YouTube."
+        },
+        {
+          "title": "DuckDuckGo's Free Browser Now Blocks Most YouTube Video Ads",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxnb1ftetjfs2dxtnlbbl8xbnljrnvjt0lxd1vhykc3uxpmveltcmtutdhragzzz1fgcznwou1vnhrndwz4qmlmmjdgzhkwtmjwqznsujbzugdcq0t3tlrkbhnuuzj4d0u3awjpzu52clg3bfi3bjviugq2bfkxogffndjuyvc4z2k2wtb3y1zrv1pnqlz4suizm2otn0phq3ntsg5qaxf5a0pkque",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-08T12:00:00.000Z",
+          "description": "DuckDuckGo's Free Browser Now Blocks Most YouTube Video Ads CNET DuckDuckGo just picked a fight with Google over YouTube ads PCWorld DuckDuckGo Can Now Block Ads on YouTube Lifehacker This privacy-focused browser just made YouTube ad-free Android Police I just found a free way to watch YouTube with…"
+        },
+        {
+          "title": "DuckDuckGo Now Blocks Most YouTube Ads Right Inside Its Browser",
+          "url": "https://hackread.com/duckduckgo-blocks-youtube-ads-inside-browser",
+          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
+          "published_at": "2026-07-08T18:22:10.000Z",
+          "description": "DuckDuckGo's browser now blocks most YouTube ads by default on supported devices. Here's how it works, which platforms support it, and its limits."
+        },
+        {
+          "title": "DuckDuckGo Browser can now block video ads, including YouTube's",
+          "url": "https://www.engadget.com/2209932/duckduckgo-browser-can-now-block-video-ads-including-youtubes",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-07-08T12:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/duckduckgo-can-now-block-video-ads-including-youtubes/l-intro-1783451214.jpg",
+          "description": "DuckDuckGo will now block video ads by default in its browser."
+        }
+      ],
+      "summary": "DuckDuckGo says its browser can now block most video ads on YouTube, including ads shown before and during videos. The feature is enabled by default on supported devices, though reports note it has limits."
+    },
+    {
+      "id": "topic_c6918da3a2eef990",
+      "title": "Appeals Court Rejects Bid to Restore Trump’s Name to Kennedy Center",
+      "headline": "Appeals court declines to restore Trump’s name on Kennedy Center",
+      "label": [
+        "kennedy",
+        "name",
+        "center",
+        "appeals",
+        "trump",
+        "court"
+      ],
+      "category": "new",
+      "theme": "theme_2974793f93ee99ec",
+      "entities": [
+        "Appeals",
+        "Trump",
+        "Kennedy Center",
+        "Federal Judges Reject Bid",
+        "Restore Trump"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Appeals court declines to restore Trump’s name on Kennedy Center",
+          "url": "https://www.washingtonexaminer.com/news/justice/4640686/appeals-court-restore-trump-kennedy-center",
+          "source": "Washington Examiner",
+          "published_at": "2026-07-08T18:00:22.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26180108778891.jpg?w=696",
+          "description": "A federal appeals court on Wednesday denied the Trump administration’s motion for a stay pending an appeal seeking to reverse a lower court’s order that effectively removed the president’s name from the Kennedy Center last month. A three-judge panel for the U.S. Court of Appeals for the District of…"
+        },
+        {
+          "title": "Trump loses latest appeals court bid to restore his name to Kennedy Center",
+          "url": "https://www.cnbc.com/2026/07/08/trump-kennedy-center-name-appeal-court-denied.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-07-08T16:28:49.000Z",
+          "description": "The appeals court said Trump had failed to provide any evidence that the Kennedy Center's fundraising would be harmed if his name is not attached."
+        },
+        {
+          "title": "Federal Judges Reject Bid to Restore Trump’s Name to Kennedy Center During Appeal",
+          "url": "https://internewscast.com/local-news/federal-judges-reject-bid-to-restore-trumps-name-to-kennedy-center-during-appeal",
+          "source": "Internewscast Journal",
+          "published_at": "2026-07-08T17:14:10.000Z",
+          "description": "Internewscast Journal Internewscast A three-judge panel on Wednesday rejected an effort by the Kennedy Center’s… This Post: Federal Judges Reject Bid to Restore Trump’s Name to Kennedy Center During Appeal first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Request to return Trump’s name to Kennedy Center during appeal is denied by panel of judges",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-kennedy-center-signage-dispute-tarp-judge-ruling-b3011492.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-08T19:44:30.000Z",
+          "image": "https://static.independent.co.uk/2026/07/08/19/38/GettyImages-2281400960.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "The board of trustees ‘failed to show how they will be irreparably injured’ if Trump's name remains off the building"
+        },
+        {
+          "title": "US Court Rejects Trump Request To Restore His Name To Kennedy Center",
+          "url": "https://www.ndtv.com/world-news/us-court-rejects-donald-trump-request-to-restore-his-name-to-kennedy-center-11746297",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-07-08T19:05:32.000Z",
+          "image": "https://c.ndtvimg.com/2026-07/c7bshf7o_donald-trump-afp_625x300_05_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+          "description": "The Trump administration and Kennedy Center board filed an appeal with the US Court of Appeals for the District of Colombia seeking a stay of Cooper's ruling."
+        }
+      ],
+      "summary": "A federal appeals court denied a request to restore President Trump’s name to the Kennedy Center while an appeal proceeds. The court said the applicants had not shown that leaving the name off would cause irreparable harm."
+    },
+    {
+      "id": "topic_96c8825230e94aba",
+      "title": "Former Wisconsin Judge Avoids Prison for Obstructing ICE Arrest",
+      "headline": "Former Wisconsin judge spared prison for obstructing ICE arrest of Mexican immigrant (Associated Press)",
+      "label": [
+        "wisconsin",
+        "judge",
+        "former",
+        "obstructing",
+        "prison",
+        "arrest"
+      ],
+      "category": "new",
+      "theme": "theme_b4cbff8c06020c7d",
+      "entities": [
+        "Former Wisconsin",
+        "ICE",
+        "Mexican",
+        "Associated Press",
+        "NBC News"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Former Wisconsin judge spared prison for obstructing ICE arrest of Mexican immigrant (Associated Press)",
+          "url": "https://www.memeorandum.com/260708/p63",
+          "source": "memeorandum",
+          "published_at": "2026-07-08T17:45:00.000Z",
+          "image": "http://www.memeorandum.com/260708/i63.jpg",
+          "description": "Associated Press: Former Wisconsin judge spared prison for obstructing ICE arrest of Mexican immigrant — Former Wisconsin Judge Hannah Dugan was spared from prison Wednesday for ushering a Mexican defendant out of her courtroom to evade U.S. Immigration and Customs Enforcement agents."
+        },
+        {
+          "title": "Former Wisconsin judge to be sentenced after conviction in obstructing arrest of Mexican immigrant",
+          "url": "https://abcnews.com/politics/wirestory/former-wisconsin-judge-sentenced-after-conviction-obstructing-arrest-134573409",
+          "source": "ABC News: Politics",
+          "published_at": "2026-07-08T04:44:32.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_fb6f19ec5ccde54dfad3fd03bc58e39d_4x3_384.jpg",
+          "description": "A former Wisconsin judge who was convicted of felony obstruction for helping an immigrant evade federal officers is scheduled to be sentenced in federal court"
+        },
+        {
+          "title": "Former Wisconsin judge to be sentenced after conviction in obstructing arrest of Mexican immigrant",
+          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpntvfclnwwjf2vvbiefpgre5usffvrgdxwnzxtvzos1reumdvqm8yehm1tmx1wmdlwdhxzvzgshhdtwu1lvmtataxaggwqjbmx2rbqmtibvpmdddjyxfyy1m0yzvfwfe3qlj4b29xc0fhazhtwdhjelrzrgrtb01dc2gxdgxsmfzxvm5twxlvqwgxsdzetufnuwvftjjjdgxsy25pemm0nkxwbdlitguzy2xqvtjnoefcnwc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-07-08T17:31:25.000Z",
+          "description": "Former Wisconsin judge to be sentenced after conviction in obstructing arrest of Mexican immigrant NBC News Ex-US judge spared from prison for helping migrant evade federal agents BBC Dugan Sentenced to $5,000 Fine, Will Appeal Conviction Urban Milwaukee Former Wisconsin Judge Hannah Dugan avoids j…"
+        },
+        {
+          "title": "Former Wisconsin judge spared prison for obstructing immigration arrest at courthouse",
+          "url": "https://www.independent.co.uk/news/world/americas/wisconsin-judge-hannah-dugan-trump-ice-deportation-b3011439.html",
+          "source": "The Independent World",
+          "published_at": "2026-07-08T17:30:09.000Z",
+          "image": "https://static.independent.co.uk/2025/05/14/9/51/AP25115709052597.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Hannah Dugan, 67, was found guilty of felony obstruction in December"
+        },
+        {
+          "title": "Former Wisconsin judge will not serve prison time for obstructing ICE arrest",
+          "url": "https://www.yahoo.com/news/videos/former-wisconsin-judge-not-serve-182830942.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-07-08T18:28:30.000Z",
+          "image": "https://media.zenfs.com/en/nbcu_713/1420491522558ab732e792f3bdaf00be"
+        }
+      ],
+      "summary": "Former Wisconsin judge Hannah Dugan was spared prison after her conviction for felony obstruction in connection with helping a Mexican immigrant evade federal officers at a courthouse."
     }
   ]
 }

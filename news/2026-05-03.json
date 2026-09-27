@@ -1,909 +1,914 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-04T00:15:13.587Z",
+  "generated_at": "2026-09-27T13:51:36.695Z",
   "topics": [
     {
-      "id": "topic_d57ef15c85f5c8d",
+      "id": "topic_5e7fef7a039fa734",
+      "title": "Three Dead in Suspected Hantavirus Outbreak on Atlantic Cruise Ship",
+      "headline": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
       "label": [
-        "dinner",
-        "secret service",
-        "officer",
-        "correspondent",
-        "correspondent dinner",
-        "white house"
+        "cruise",
+        "ship",
+        "outbreak",
+        "hantavirus",
+        "atlantic",
+        "suspected"
       ],
       "category": "new",
-      "theme": "theme_e56cc7d694d42ae2",
+      "theme": "theme_674cb528f3f0688f",
       "entities": [
-        "Secret Service",
-        "Trump",
-        "Pirro",
-        "White House",
-        "The Washington Post"
+        "Three",
+        "Atlantic",
+        "Hantavirus",
+        "Suspected",
+        "Atlantic Ocean"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 35,
+      "source_count": 29,
       "articles": [
         {
-          "title": "Secret Service agent hit by buckshot from Trump attacker: Pirro",
-          "url": "https://torontosun.com/news/world/secret-service-agent-hit-by-buckshot-by-trump-attacker-pirro",
-          "source": "Toronto Sun - RSS Feed",
-          "published_at": "2026-05-03T21:11:52.000Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/Cole-Allen.jpg?quality=100&strip=all"
+          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+          "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-03T21:59:20.000Z",
+          "description": "Three of six passengers ill from a suspected rodent-transmitted virus have died, and one is in intensive care, WHO says."
         },
         {
-          "title": "Secret Service agent was struck by buckshot from alleged White House correspondents’ dinner shooter, not friendly fire, Pirro says",
-          "url": "https://fortune.com/2026/05/03/secret-service-agent-buckshot-white-house-correspondents-dinner-shooter-friendly-fire-pirro",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-05-03T18:56:26.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26117731205021-e1777834090374.jpg?w=2048"
+          "title": "Three dead on Atlantic cruise ship in suspected Hantavirus outbreak, says WHO",
+          "url": "https://www.france24.com/en/americas/20260503-three-dead-on-atlantic-cruise-ship-in-suspected-hantavirus-outbreak-says-who",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-03T16:43:18.000Z",
+          "image": "https://s.france24.com/media/display/6955b960-4724-11f1-bbe6-005056bf30b7/w:1024/p:16x9/bf8afc9fb64a7af18f1e1f5046b6f4fb696f5a10.jpg",
+          "description": "Three people have died aboard a cruise ship crossing the Atlantic after an outbreak that includes a confirmed case of hantavirus, the World Health Organization said Sunday, raising concerns about a rare but potentially severe infection at sea."
         },
         {
-          "title": "Pirro says ballistic evidence shows correspondents’ dinner suspect shot officer - The Washington Post",
-          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxowhdhbexjsxzlx0rutdjtav91ek16d3vczhe3v2tfz1luyv9nn3zsvvnacvjiwhh3oucxczm1awxycffbqvhjeff0d0xyulq5ttfra0s2uwtoyzljtxe3sva0mgxodgv6vm1jowhyr1lkrdzrn1zilxzvvtjknzg0mxz5n1jnmvpbv0zsbkxucflsz2h6mxdycuvmvm1ttmfswnh3",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-03T18:05:23.000Z"
+          "title": "Three dead in suspected hantavirus outbreak on cruise ship in Atlantic – WHO",
+          "url": "https://www.breakingnews.ie/world/three-dead-in-suspected-hantavirus-outbreak-on-cruise-ship-in-atlantic-who-1895279.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDMyMTM2MjFcXFwvNWE1ZGY5MWUtMmZlZC00ZTE3LTkzMzUtMmUwYzY5ZDQ1NTNjLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjMxZWI0NjczNzUxZjQ4MzhlZjAxOGFlYmIyMDRiNDk5Y2M0MWJlN2YifQ==/5a5df91e-2fed-4e17-9335-2e0c69d4553c.jpg",
+          "description": "The World Health Organisation said an investigation was under way but that at least one case of hantavirus had been confirmed."
         },
         {
-          "title": "Officer shot during White House correspondents' dinner by suspect's gun --official",
-          "url": "https://www.gmanetwork.com/news/topstories/world/986271/officer-shot-during-white-house-correspondents-dinner-by-suspect-s-gun-official/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-03T17:26:13.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/04/2026-04-26T084420Z_1043644506_RC2WWKAOCCY0_RTRMADP_3_USA-TRUMP-DINNER_2026_04_26_20_30_18.JPG"
+          "title": "3 dead on Atlantic cruise ship from suspected hantavirus outbreak: WHO",
+          "url": "https://www.scmp.com/news/world/africa/article/3352294/3-dead-atlantic-cruise-ship-suspected-hantavirus-outbreak-who",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-03T20:02:56.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/2bd978f5-eaad-4d1e-950c-89a8d555363c_f136f0ee.jpg?itok=ZYZx5DBv&v=1777838355",
+          "description": "Three people have died on a cruise ship in the Atlantic, the WHO said Sunday, one a confirmed case of hantavirus – an illness usually transmitted to humans from rodents. The outbreak occurred on the MV Hondius, travelling from Ushuaia in Argentina to Cabo Verde, formerly known as Cape Verde. “To da…"
         },
         {
-          "title": "New Evidence Proves White House Dinner Shooter Shot Secret Service Officer",
-          "url": "https://www.ndtv.com/world-news/new-evidence-proves-white-house-dinner-shooter-shot-secret-service-officer-11443622",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-03T16:39:27.000Z",
-          "image": "https://c.ndtvimg.com/2026-05/uvitmuao_trump-shooter_625x300_01_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+          "title": "Suspected hantavirus outbreak on Atlantic cruise ship kills 3",
+          "url": "https://globalnation.inquirer.net/321041/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-03T23:36:38.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/05/AP26123731929018-620x413.jpg",
+          "description": "CAPE TOWN, South Africa — A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people, including an elderly married couple, and sickened at least three others, the World Health Organization and South Africa’s Department of Health said Sunday. In…"
         }
-      ]
+      ],
+      "summary": "Three people have died and at least three others have become ill in a suspected hantavirus outbreak aboard an Atlantic cruise ship. The WHO said at least one case was confirmed and an investigation was underway."
     },
     {
-      "id": "topic_60dcd345b0691989",
+      "id": "topic_361316777c720465",
+      "title": "Manchester United Beats Liverpool 3-2 at Old Trafford",
+      "headline": "LIVE: Manchester United vs Liverpool – Premier League",
       "label": [
-        "un",
-        "de croisi",
-        "croisi",
-        "croisi re",
-        "re",
-        "mort"
+        "liverpool",
+        "united",
+        "manchester",
+        "league",
+        "premier",
+        "vs"
       ],
       "category": "new",
-      "theme": "theme_7d48de34d729f203",
+      "theme": "theme_e4f059e1722472ff",
       "entities": [
-        "Sur",
-        "Un",
-        "Atlantique",
-        "OMS",
-        "Qu"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Sur un bateau de croisière, trois morts après la transmission d’un hantavirus par des rongeurs",
-          "url": "https://www.huffingtonpost.fr/international/article/sur-un-bateau-de-croisiere-trois-morts-et-une-hospitalisation-en-soins-intensifs-apres-la-transmission-d-un-hantavirus-par-des-rongeurs_263344.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-05-03T19:11:19.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/05/03/0/0/1100/734/0/0/60/0/9697d29_upload-1-8tn3fznnttzy-media67d942cee31a7248108362.jpg"
-        },
-        {
-          "title": "Un foyer de syndrome respiratoire aigu provoque trois morts sur un bateau de croisière dans l'Atlantique, selon l'OMS",
-          "url": "https://www.franceinfo.fr/sante/un-foyer-de-syndrome-respiratoire-aigu-provoque-deux-morts-sur-un-bateau-de-croisiere-dans-l-atlantique_7980767.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-03T18:08:41.000Z",
-          "image": "https://www.franceinfo.fr/pictures/OPafEAvGhKxbfr_7r0Gtuw9TAOI/0x53:1024x629/432x243/filters:format(jpg)/2026/05/03/69f786d367145827653217.jpg"
-        },
-        {
-          "title": "Qu'est-ce que le hantavirus, l'infection qui aurait causé trois morts sur un bateau de croisière dans l'Atlantique ?",
-          "url": "https://www.dhnet.be/actu/monde/2026/05/03/quest-ce-que-le-hantavirus-linfection-qui-aurait-cause-trois-morts-sur-un-bateau-de-croisiere-dans-latlantique-zfn635rmmvhprok23cwigcmccq",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-05-03T18:04:34.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/OANCB5Y3PJDQBF37E7UYBNOBEM.jpeg?auth=09ac0d256878ccd5d342f332ec8fde6705bb18a0f493a33b7cbd56f1f30c29ea&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Alerte sanitaire sur un navire de croisière : deux morts parmi les passagers et un troisième en soins intensifs, atteints par un \"syndrome respiratoire aigu sévère\"",
-          "url": "https://www.ladepeche.fr/2026/05/03/alerte-sanitaire-sur-un-navire-de-croisiere-deux-morts-parmi-les-passagers-et-un-troisieme-en-soins-intensifs-atteints-par-un-syndrome-respiratoire-13353897.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-05-03T17:18:36.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/69f783207fe1991a1009d4d0/standard/image.png?v=1"
-        },
-        {
-          "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », deux personnes sont mortes et une troisième est en soins intensifs",
-          "url": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-03T16:33:43.000Z",
-          "image": "https://img.lemde.fr/2026/05/03/85/0/1023/511/644/322/60/0/0943e07_upload-1-tgzwnxe57fi4-january-2020home-hondius-mvhondius-globetrotmatt.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_f8846435103898b3",
-      "label": [
-        "en 30",
-        "guerra en",
-        "guerra",
-        "30",
-        "ir",
-        "acabar"
-      ],
-      "category": "new",
-      "theme": "theme_d37f62f904a52fd1",
-      "entities": [
-        "Ir",
-        "Trump",
-        "Se",
-        "Afirman"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Irán plantea acabar con la guerra en 30 días, pero Trump recela del plan",
-          "url": "https://www.expansion.com/economia/2026/05/03/69f7acf9468aebbd4e8b457f.html",
-          "source": "Portada // expansion",
-          "published_at": "2026-05-03T21:28:30.000Z",
-          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/03/17778436132031.jpg"
-        },
-        {
-          "title": "Se la voltean a Trump: Irán presiona a Trump para terminar la guerra en 30 días",
-          "url": "https://www.elfinanciero.com.mx/mundo/2026/05/03/se-la-voltean-a-trump-iran-presiona-a-trump-para-terminar-la-guerra-en-30-dias",
-          "source": "El Financiero",
-          "published_at": "2026-05-03T17:50:19.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YvL6g-WIMqAhbCbPgUN4rUsW7xw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M65QO72WSVCF7OH27ERGDFZQQY.jpg"
-        },
-        {
-          "title": "Afirman que plan de Ir�n propone acabar guerra en 30 d�as",
-          "url": "https://www.elnorte.com/afirman-que-plan-de-iran-propone-acabar-guerra-en-30-dias/ar3197696",
-          "source": "ElNorte",
-          "published_at": "2026-05-03T16:48:47.000Z"
-        },
-        {
-          "title": "Afirman que plan de Ir�n propone acabar la guerra en 30 d�as",
-          "url": "https://www.reforma.com/afirman-que-plan-de-iran-propone-acabar-la-guerra-en-30-dias/ar3197695",
-          "source": "Reforma",
-          "published_at": "2026-05-03T16:48:27.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_6a0aba031c12c7c2",
-      "label": [
-        "kamala",
-        "kamala harri",
-        "harri",
-        "malibu",
-        "insanity",
-        "theory"
-      ],
-      "category": "new",
-      "theme": "theme_b3cf88329767e00b",
-      "entities": [
-        "What Kamala Harris",
-        "Malibu",
-        "The Insanity Theory",
-        "Kamala Harris",
-        "Daniel Miller"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "What Kamala Harris’s new luxurious Malibu mansion may signal about her political future",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/kamala-harris-malibu-home-political-future-b2969825.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-03T20:26:39.000Z",
-          "image": "https://static.independent.co.uk/2026/05/03/20/2273795896.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "The Insanity Theory of Kamala Harris",
-          "url": "https://www.realclearpolitics.com/2026/05/03/the_insanity_theory_of_kamala_harris_698642.html",
-          "source": "RealClearPolitics - Homepage",
-          "published_at": "2026-05-03T19:41:27.000Z",
-          "image": "https://assets.realclear.com/images/71/716245_1_.jpeg"
-        },
-        {
-          "title": "Kamala Harris bought a Malibu home. Her neighbors think that means something. (Daniel Miller/Politico)",
-          "url": "https://www.memeorandum.com/260503/p33",
-          "source": "memeorandum",
-          "published_at": "2026-05-03T18:00:23.000Z",
-          "image": "http://www.memeorandum.com/260503/i33.jpg"
-        },
-        {
-          "title": "Kamala Harris Buys Home in Malibu",
-          "url": "https://politicalwire.com/2026/05/03/kamala-harris-buys-home-in-malibu",
-          "source": "Political Wire",
-          "published_at": "2026-05-03T17:29:10.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_58361508425d7701",
-      "label": [
-        "taken hospital",
-        "taken",
-        "alex ferguson",
-        "ferguson",
-        "alex",
-        "hospital"
-      ],
-      "category": "new",
-      "theme": "theme_60ae5a7077bc3a4c",
-      "entities": [
-        "Alex Ferguson",
-        "Man Utd",
         "Manchester United",
         "Liverpool",
-        "Unconscious Alex Ferguson"
+        "Premier League",
+        "Live Coverage",
+        "EN VIVO Manchester United"
       ],
-      "article_count": 8,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 12,
       "articles": [
         {
-          "title": "Alex Ferguson recovering after being taken to hospital before Man Utd game",
-          "url": "https://www.breakingnews.ie/sport/alex-ferguson-recovering-after-being-taken-to-hospital-before-man-utd-game-1895220.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMDMxNzE1MzNcXFwvMi44MDAzNjEyNi1lMTc3NzgyNDk3NjY2Ni5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiYTI4MjMwN2FlYzczZTZhYmQ2ODFjY2VlYmJmMzRhYTk2OGY4N2NhIn0=/2-80036126-e1777824976666.jpg"
+          "title": "LIVE: Manchester United vs Liverpool – Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-03T11:30:00.000Z",
+          "description": "Follow the build-up, analysis and live text commentary of the game as United host rivals Liverpool at Old Trafford."
         },
         {
-          "title": "Manchester United vs Liverpool: Unconscious Alex Ferguson taken to hospital",
-          "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-liverpool-alex-ferguson-health-update-premier-league-2906004-2026-05-03",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-03T16:47:27.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/alex-ferguson-03442920-16x9_0.jpg?VersionId=mfhaxt.c.nrhPCJC5mSYKfMyT07knTQl"
+          "title": "Manchester United vs. Liverpool: Premier League 2025-26 Live Coverage & How to Watch",
+          "url": "https://sports.yahoo.com/articles/manchester-united-vs-liverpool-premier-080131827.html",
+          "published_at": "2026-05-03T08:01:31.000Z",
+          "description": "Coverage of Liverpool's Premier League game at Manchester United with lineup news, streaming options, and updates."
         },
         {
-          "title": "Alex Ferguson recovering after being taken to hospital before Man United game",
-          "url": "https://www.the42.ie/alex-ferguson-5-7030499-may2026",
-          "source": "The 42",
-          "published_at": "2026-05-03T16:47:15.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/sir-alex-ferguson-on-day-four-of-the-2026-cheltenham-festival-at-cheltenham-racecourse-picture-date-friday-march-13-2026-15aaa2dd-48f5-4abd-888a-fb2f09304900-630x462.jpg"
+          "title": "Manchester United v Liverpool: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/may/03/manchester-united-v-liverpool-premier-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-05-03T14:12:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/57b1e306f28875be129572953e07d27594258d40/268_0_2214_1771/master/2214.jpg?width=140&quality=85&auto=format&fit=max&s=6a7609ee02b45b2309c9a27faecd7139",
+          "description": "⚽ Premier League updates from the 3.30pm BST kick-off ⚽ Latest table | Top scorers | Follow us over on Bluesky “Thanks to the Isak injury, yet again Slot is forced to fight fires rather than just manage,” laments Ian Copestake. “Unless it is in January, I hope one day he will be able to say, ‘same…"
         },
         {
-          "title": "Manchester United’s Sir Alex Ferguson taken to hospital after feeling unwell at Old Trafford",
-          "url": "https://www.thehindu.com/sport/football/manchester-uniteds-sir-alex-ferguson-taken-to-hospital-after-feeling-unwell-at-old-trafford/article70935914.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-03T16:34:19.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/2beijc/article70936028.ece/alternates/LANDSCAPE_1200/Man_United_Ferguson_Soccer_74495.jpg"
+          "title": "Dónde ver EN VIVO Manchester United vs Liverpool por el Clásico de la Premier League 2026",
+          "url": "https://www.informador.mx/deportes/donde-ver-en-vivo-manchester-united-vs-liverpool-por-el-clasico-de-la-premier-league-2026-20260430-0081.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-03T00:00:00.000Z",
+          "description": "Descubre horarios y canales para no perderte este domingo el gran clásico del futbol inglés"
+        },
+        {
+          "title": "Premier, 3-2 al Liverpool: il Manchester United torna in Champions League",
+          "url": "https://www.milannews.it/dall-estero/premier-3-2-al-liverpool-il-manchester-united-torna-in-champions-league-616064",
+          "source": "Milan News",
+          "published_at": "2026-05-03T22:48:52.000Z",
+          "image": "https://net-storage.tcccdn.com/storage/milannews.it/img_notizie/thumb3/fd/fda65b596eaa4621a410f568fcf7f0e8-11732-oooz0000.jpeg",
+          "description": "(ANSA-AFP) - ROMA, 03 MAG - Il Manchester United ha ottenuto una doppia vittoria sconfiggendo i suoi storici rivali del Liverpool (3-2) domenica all'Old Trafford, assicurandosi la qualificazione alla prossima Champions League dopo due anni di ass ..."
         }
-      ]
+      ],
+      "summary": "Manchester United defeated Liverpool 3-2 in a Premier League match at Old Trafford. The result secured United’s qualification for the Champions League."
     },
     {
-      "id": "topic_48b6b16c03561f5",
+      "id": "topic_f2bdabaf82402860",
+      "title": "Cargo Ship Reports Attack Near Strait of Hormuz",
+      "headline": "Cargo ship near Strait of Hormuz reports being attacked as Iran makes new peace proposal",
       "label": [
-        "tanker",
-        "ukraine hits",
-        "shadow fleet",
-        "fleet tanker",
-        "shadow",
-        "fleet"
+        "strait",
+        "cargo",
+        "hormuz",
+        "attacked",
+        "ship",
+        "near"
       ],
       "category": "new",
-      "theme": "theme_f5128bb3dc37043d",
+      "theme": "theme_3c95b9e449790473",
       "entities": [
-        "Ukraine",
-        "Russia",
-        "Ukrainian",
-        "Russian",
-        "CBS News"
+        "Cargo",
+        "Strait",
+        "Hormuz",
+        "Iran",
+        "AP News"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 15,
+      "source_count": 15,
       "articles": [
         {
-          "title": "Ukraine hits Russia's oil port, shadow fleet tankers in new wave of drone strikes",
-          "url": "https://www.indiatoday.in/world/story/ukraine-drone-attacks-russia-primorsk-oil-port-shadow-fleet-tankers-warship-hit-2906019-2026-05-03",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-03T18:23:29.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/russia--ukraine-032126504-16x9_0.png?VersionId=At2_lN.Vc3yXhcJRi9Nwznr8c9fIn57_"
+          "title": "Cargo ship near Strait of Hormuz reports being attacked as Iran makes new peace proposal",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3352291/cargo-ship-near-strait-hormuz-reports-being-attacked-iran-makes-new-peace-proposal",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-03T17:04:40.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/ab724f1d-5038-4532-8acc-9e9657e1191b_efad4758.jpg?itok=5-4uvrko&v=1777827730",
+          "description": "A cargo ship near the Strait of Hormuz has reported being attacked by multiple small craft, the British military’s United Kingdom Maritime Trade Operations centre said on Sunday, marking at least two dozen attacks in and around the strait since the Iran war began. All crew on the unidentified north…"
         },
         {
-          "title": "Ukraine hits Russian oil assets, including \"shadow fleet\" tankers",
-          "url": "https://www.yahoo.com/news/articles/ukraine-hits-russian-oil-assets-175003395.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-03T17:50:03.000Z",
-          "image": "https://media.zenfs.com/en/cbs_news_897/46948674e0fa0895794e1484ecdf4dc7"
+          "title": "Cargo ship attacked in Strait of Hormuz",
+          "url": "https://www.smh.com.au/world/cargo-ship-attacked-in-strait-of-hormuz-20260504-p5ztdb.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-03T20:14:34.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ea68166e720d9b302ee8d9e2a36dd0cbd5b8d1ad",
+          "description": "Iran has proposed a 14-point peace deal with the US as a cargo ship reports being attacked in the Strait of Hormuz."
         },
         {
-          "title": "Ukrainian strikes hit key Russian oil infrastructure, including \"shadow fleet\" tankers - CBS News",
-          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxqogjzdeituzb5nwhktdhrzhfmcg5vvvnlofjycul5uup0cvf4uxrndjq0r2fxwme3avrkz1u4vvdvwfizwl9xdlrgszlzwji2s1jjtxzatlrwswzdcjdgx0riukvfuze3uf9bx2k3vfbhc3lfdw43atryunruau9rcgf0rfnjowvnyjuzs2dvbtdnqdiblwfbvv95cuxpt1dhdgroyzvmvjnewenqb2s0qxzjzfneeduzqkhnvnjuevdsauxmx3c5awf5egt1rfjxmuhlrgfxa2xomdjcbhrgu1nennqzrun4efliwxzmzvlivff4rvnmx2hfaje2m2tnofpsmjvpbfh5c2vxb1ham1kxmhfznfk0zhfiwedcbk90q0fiu2tsug4ttgnj",
+          "title": "Cargo ship reports attack near Strait of Hormuz after latest Iran peace proposal",
+          "url": "https://www.washingtonexaminer.com/news/world/4552897/cargo-ship-attack-strait-of-hormuz-iran-proposal",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-03T19:09:23.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/oil-prices-e1777550232969.webp?w=696",
+          "description": "A bulk carrier reported being attacked by multiple smaller vessels near the Strait of Hormuz on Sunday, according to the United Kingdom Maritime Trade Operations Center. The UKMTO said the bulk carrier reported it was attacked 11 nautical miles west of Sirik, Iran, before departing the area and tha…"
+        },
+        {
+          "title": "A cargo ship near Strait of Hormuz says it’s attacked as Iran makes new peace proposal",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxpb3zoeweznvd5smdhmxlxqmfjc2hhtmxln3ntog1jaevtoxazefh3mmtbemhvmgrlbxfuvfczx0r3tdkynmhowm1kszz2rlrnmvn0dmj6vzftugttvtytr3j1d0vlseitd3y3qtj5og5euvpostbhsulls1ptywxhchzozdgtwnpvctl2tkxtcu9xmghscglxodnashzlsm9tnezz",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-03T17:50:03.000Z"
+          "published_at": "2026-05-03T17:29:00.000Z",
+          "description": "A cargo ship near Strait of Hormuz says it’s attacked as Iran makes new peace proposal AP News Live Updates: Bulk carrier reports 1st attack in weeks near Strait of Hormuz CBS News Bulk carrier attacked by multiple small craft off Iran, UKMTO says Al Jazeera Iran attacks cargo ship in Strait of Hor…"
         },
         {
-          "title": "Ukraine hits Russian tankers as both countries fire hundreds of drones in deadly spree",
-          "url": "https://www.thejournal.ie/ukraine-and-russia-7030501-may2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-05-03T16:56:42.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/05/image-03-05-2026-at-17-51-ebbf7573-dbc3-4725-a036-083b2e5878bc-630x451.jpeg"
+          "title": "Cargo ship attacked by small craft near Strait of Hormuz, UK maritime agency says",
+          "url": "https://www.foxnews.com/world/cargo-ship-attacked-small-craft-near-strait-hormuz-uk-maritime-agency-says",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-05-03T17:58:56.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/cargo-ship-persian-gulf-strait-hormuz-fox-news.jpg?ve=1&tl=1",
+          "description": "A large cargo ship was attacked near the Strait of Hormuz on Sunday as Iran pushes to assert control over the vital global energy shipping route."
         }
-      ]
+      ],
+      "summary": "A bulk carrier reported being attacked by multiple small craft near the Strait of Hormuz, according to the UK Maritime Trade Operations centre. The report came as Iran put forward a new peace proposal."
     },
     {
-      "id": "topic_5d199ab22c66d1db",
-      "label": [
-        "vs pbks",
-        "gt",
-        "pbks",
-        "gt vs",
-        "vs",
-        "sundar"
-      ],
-      "category": "new",
-      "theme": "theme_c51129db1f4ab2e2",
-      "entities": [
-        "Shubman Gill Explains Call",
-        "To Back Washington Sundar",
-        "In GT",
-        "Tense Chase",
-        "PBKS"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Shubman Gill Explains Call To Back Washington Sundar In GT's Tense Chase vs PBKS: 'Best Batter'",
-          "url": "https://sports.ndtv.com/cricket/shubman-gill-explains-call-to-back-washington-sundar-in-gts-tense-chase-vs-pbks-best-batter-11443961",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-03T18:58:40.000Z",
-          "image": "https://c.ndtvimg.com/2026-05/kj7ou544_washington-sundar-gt-bcci_625x300_04_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
-        },
-        {
-          "title": "GT vs PBKS : ગુજરાતને પંજાબને 4 વિકેટે હરાવ્યું, સુંદર અને હોલ્ડરની દમદાર મહેનતે અપાવી જીત",
-          "url": "https://www.gujaratsamachar.com/news/sports/gt-vs-pbks-gujarat-titans-defeat-punjab-kings-by-4-wickets-as-sundar-and-holder-shine-in-ipl-2026-97270888581.html",
-          "source": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
-          "published_at": "2026-05-03T18:26:15.000Z",
-          "image": "http://static.gujaratsamachar.com/articles/articles_thumbs/photo_1777832775197.jpeg"
-        },
-        {
-          "title": "IPL 2026 points table after SRH vs KKR and GT vs PBKS: Latest standings and net run rate after Kolkata, Gujarat beat Hyderabad, Punjab",
-          "url": "https://www.wisden.com/series/ipl-2026/cricket-news/ipl-2026-points-table-after-srh-vs-kkr-and-gt-vs-pbks-latest-standings-and-net-run-rate-after-kolkata-gujarat-beat-hyderabad-punjab",
-          "source": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
-          "published_at": "2026-05-03T18:20:00.000Z",
-          "image": "https://www.wisden.com/static-assets/waf-images/ed/24/26/0/XJ5vIJJMQY.jpg"
-        },
-        {
-          "title": "GT Vs PBKS: Sundar-Sudharshan Show Seals Final Over Thriller As Gujarat Bag 4-Wicket Win In Ahmedabad",
-          "url": "https://www.freepressjournal.in/sports/gt-vs-pbks-sundar-sudharshan-show-seals-final-over-thriller-as-gujarat-bag-4-wicket-win-in-ahmedabad",
-          "source": "Free Press Journal",
-          "published_at": "2026-05-03T17:56:58.000Z",
-          "image": "https://media.assettype.com/freepressjournal/2026-05-03/lziz51w0/Sudharsan-Sundar.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_31db95821ec5324f",
-      "label": [
-        "2000",
-        "harley",
-        "davidson",
-        "harley davidson",
-        "hog",
-        "davidson inc"
-      ],
-      "category": "new",
-      "theme": "theme_4facbaf58c3f5a0f",
-      "entities": [
-        "Is Harley",
-        "Davidson",
-        "Inc",
-        "HOG",
-        "Good Stock To Buy"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Римська чаша подолала 2000 км і стала унікальною знахідкою в Іспанії",
-          "url": "https://gazeta.ua/articles/travels/_rimska-chasha-podolala-2000-km-i-stala-unikalnoyu-znahidkoyu-v-ispaniyi/1249451",
-          "source": "Gazeta.ua",
-          "published_at": "2026-05-03T22:30:08.000Z",
-          "image": "https://static.gazeta.ua/img2/cache/preview/1249/1249451_w_800.jpg?v=0"
-        },
-        {
-          "title": "Is Harley-Davidson, Inc. (HOG) A Good Stock To Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/harley-davidson-inc-hog-good-184231123.html",
-          "source": "Yahoo Finance",
-          "published_at": "2026-05-03T18:42:31.000Z",
-          "image": "https://media.zenfs.com/en/insidermonkey.com/b6c64f12278cec93ffe6581a8cc1c361"
-        },
-        {
-          "title": "2000 Harley-Davidson Road King Classic at No Reserve",
-          "url": "https://bringatrailer.com/listing/2000-harley-davidson-road-king-7",
-          "source": "The best vintage and classic cars for sale online | Bring a Trailer",
-          "published_at": "2026-05-03T17:40:15.000Z",
-          "image": "https://bringatrailer.com/wp-content/uploads/2026/03/2000_harley-davidson_road-king_2000_harley-davidson_road-king_1f514d99-c807-46a0-9188-9d86bd8051f6-bbh7tb-94742-40858.jpg?fit=940%2C626"
-        }
-      ]
-    },
-    {
-      "id": "topic_952692adc5c1faf2",
-      "label": [
-        "61",
-        "dies aged",
-        "aged 61",
-        "aged",
-        "actor",
-        "dies"
-      ],
-      "category": "new",
-      "theme": "theme_5e70a37a0980af63",
-      "entities": [
-        "Irish",
-        "Banshees",
-        "Inisherin",
-        "Renowned Irish",
-        "Gary Lydon"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Irish actor and Banshees of Inisherin star dies aged 61",
-          "url": "https://www.bbc.com/news/articles/cd9pxk5kp5jo",
-          "source": "BBC News",
-          "published_at": "2026-05-03T21:11:29.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23d/live/3846ffb0-4732-11f1-8b61-b5fb73673e40.jpg"
-        },
-        {
-          "title": "Renowned Irish actor Gary Lydon dies aged 61",
-          "url": "https://www.breakingnews.ie/ireland/renowned-irish-actor-gary-lydon-dies-aged-61-1895254.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC9sZWdhY3lzM1xcXC9tZWRpYVxcXC9pbWFnZXNcXFwvZ1xcXC9HYXJ5THlkb25GZWIyMDE1LmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijc5MDc0ZWUwMjk4YjNlZTJiMDhiYmM5Mzk0YzQ2OTA2N2VjYTA3MDgifQ==/garylydonfeb2015.jpg"
-        },
-        {
-          "title": "Gary Lydon dies aged 61: Tributes pour in for The Banshees of Inisherin and War Horse actor following his sudden passing",
-          "url": "https://www.dailymail.com/tvshowbiz/article-15786683/gary-lydon-dies-tributes-banshees-inisherin-war-horse.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-03T16:42:58.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/03/17/108342621-0-image-a-6_1777825080593.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_84bffe042acffeb2",
-      "label": [
-        "buque",
-        "cerca",
-        "cerca de",
-        "reportan",
-        "ataque",
-        "reportan ataque"
-      ],
-      "category": "new",
-      "theme": "theme_c3bc973bea725543",
-      "entities": [
-        "Buque",
-        "Ormuz",
-        "Ir",
-        "EU",
-        "Reportan"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Buque de carga cerca de estrecho de Ormuz reporta ser atacado mientras Irán revisa respuesta de EU",
-          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/buque-de-carga-cerca-de-estrecho-de-ormuz-reporta-ser-atacado-mientras-iran-revisa-respuesta-de-eu.html",
-          "source": "Portada, El Siglo de Torreón",
-          "published_at": "2026-05-03T20:59:07.000Z",
-          "image": "https://www.elsiglodetorreon.com.mx/m/i/2026/05/2007175.jpeg"
-        },
-        {
-          "title": "Reportan ataque a buque cerca de Ormuz",
-          "url": "https://www.elnorte.com/reportan-ataque-a-buque-cerca-de-ormuz/ar3197701",
-          "source": "ElNorte",
-          "published_at": "2026-05-03T16:59:29.000Z"
-        },
-        {
-          "title": "Reportan ataque a buque cerca de Ormuz",
-          "url": "https://www.reforma.com/reportan-ataque-a-buque-cerca-de-ormuz/ar3197700",
-          "source": "Reforma",
-          "published_at": "2026-05-03T16:58:56.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_e8b63d6bd5dc921b",
-      "label": [
-        "cherie",
-        "devaux",
-        "cherie devaux",
-        "kentucky derby",
-        "kentucky",
-        "derby"
-      ],
-      "category": "new",
-      "theme": "theme_a80222aebdce830c",
-      "entities": [
-        "Kentucky Derby Delivers Record",
-        "Audience",
-        "NBC",
-        "Peacock",
-        "Trainer Cherie DeVaux Makes"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kentucky Derby Delivers Record Audience for NBC and Peacock as Trainer Cherie DeVaux Makes History",
-          "url": "https://variety.com/2026/tv/news/cherie-devaux-kentucky-derby-record-ratings-nbc-1236736441",
-          "source": "Variety",
-          "published_at": "2026-05-03T22:15:44.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2274221908-e1777846337340.jpg"
-        },
-        {
-          "title": "Cherie DeVaux And José Ortiz Make History Winning Kentucky Derby 152",
-          "url": "https://sports.yahoo.com/articles/cherie-devaux-jos-ortiz-history-170200618.html",
-          "published_at": "2026-05-03T17:02:00.000Z"
-        },
-        {
-          "title": "Cherie DeVaux And José Ortiz Make History Winning Kentucky Derby 152",
-          "url": "https://www.forbes.com/sites/dannybrewer/2026/05/03/cherie-devaux-and-jos-ortiz-make-history-winning-kentucky-derby-152",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-03T17:02:00.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69f77a1fc5e8df6715b3b0bf/0x0.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_9aa81c86c484f44e",
-      "label": [
-        "daily",
-        "lotto",
-        "daily lotto",
-        "may 2026",
-        "may",
-        "gospel"
-      ],
-      "category": "new",
-      "theme": "theme_d7a06dece1b4c421",
-      "entities": [
-        "Daily Gospel",
-        "May",
-        "The Daily Lotto",
-        "Daily Lotto Plus",
-        "Sunday"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Daily Gospel, May 4, 2026",
-          "url": "https://cebudailynews.inquirer.net/723790/daily-gospel-may-4-2026",
-          "source": "INQUIRER.net",
-          "published_at": "2026-05-03T21:00:00.000Z",
-          "image": "https://cebudailynews.inquirer.net/files/2024/10/gospel2-2-2-620x349.png"
-        },
-        {
-          "title": "The Daily Lotto and Daily Lotto Plus results for Sunday, 3 May 2026",
-          "url": "https://www.thesouthafrican.com/lotto-results/daily-lotto/the-daily-lotto-and-daily-lotto-plus-results-for-sunday-3-may-2026",
-          "source": "The South African",
-          "published_at": "2026-05-03T18:32:43.000Z",
-          "image": "https://www.thesouthafrican.com/wp-content/uploads/2025/04/Daily-Lotto.jpg.optimal.jpg"
-        },
-        {
-          "title": "Daily Lotto and Daily Lotto Plus results: Sunday, 03 May 2026",
-          "url": "https://www.citizen.co.za/lotto/daily-lotto-daily-lotto-plus-results-sunday-03-may-2026",
-          "source": "The Citizen",
-          "published_at": "2026-05-03T16:30:00.000Z",
-          "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/Daily-Lotto-results.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b89182cf3c799af",
-      "label": [
-        "indictment",
-        "blanche",
-        "comey",
-        "blanche says",
-        "comey indictment",
-        "seashell"
-      ],
-      "category": "new",
-      "theme": "theme_2af5e633fae59d55",
-      "entities": [
-        "Todd Blanche",
-        "Comey",
-        "James Comey",
-        "Trump",
-        "Instagram"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Todd Blanche says Comey indictment is ‘not just about’ seashells photo",
-          "url": "https://www.ms.now/news/todd-blanche-james-comey-indictment-8647-seashells-photo",
-          "source": "MS NOW",
-          "published_at": "2026-05-03T20:04:13.000Z"
-        },
-        {
-          "title": "James Comey’s indictment for threats against Trump based on more than just ‘86 47′ Instagram post, acting AG Blanche says",
-          "url": "https://nypost.com/2026/05/03/us-news/comeys-indictment-for-threats-against-trump-based-on-more-than-86-47-post-blanche",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-03T18:53:06.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Facting-attorney-general-todd-blanche-126926418.jpg?w%3D1024"
-        },
-        {
-          "title": "Todd Blanche Unveils New Indictment Details: James Comey’s Case Extends Beyond Viral Seashell Photo",
-          "url": "https://internewscast.com/news/us/todd-blanche-unveils-new-indictment-details-james-comeys-case-extends-beyond-viral-seashell-photo",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-03T17:36:05.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_64208ec31a174672",
+      "id": "topic_57e168473740022f",
+      "title": "Two US Service Members Missing After Exercise in Morocco",
+      "headline": "Two US service members missing after military exercises in Morocco",
       "label": [
         "morocco",
-        "miss",
-        "exercis",
-        "miss african",
-        "military exercis",
-        "exercis morocco"
+        "members",
+        "service",
+        "missing",
+        "military",
+        "two"
       ],
       "category": "new",
-      "theme": "theme_c6307d77b2ec3b41",
+      "theme": "theme_33330beeef7bc7b8",
       "entities": [
-        "US Army",
-        "African Lion",
-        "Morocco",
         "Two US",
-        "Reuters"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "2 US Army soldiers missing after ‘African Lion’ military exercises in Morocco",
-          "url": "https://www.scmp.com/news/world/africa/article/3352296/2-us-army-soldiers-missing-after-african-lion-military-exercises-morocco",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-03T22:02:43.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/d57f9e30-1d0a-42b2-ae30-0125570ae6db_88df0fbc.jpg?itok=UGXeHlbJ&v=1777845678"
-        },
-        {
-          "title": "Two US troops missing during African Lion exercise in Morocco - Reuters",
-          "url": "https://news.google.com/rss/articles/cbmiwwfbvv95cuxocktjzmrrrlftnlazb3rrcvbprxpfwfl0mehjv1fyzmpqq1rmowdjadf4wmrmngfmohh1nw5prjvmwgxft3z0tmvrx1rsynoyr3fpd3v0agzbtnu1c3mwlxo3x3peemtkvzdiqm9pogdxshvfeupbwg40ttfsrs1ia0dveu1nannzmenfvzleagh1mlhzognxv0rkbldfv3nrbmtxcetzyxbxztcxakv3nkhvtnbwejhvsexzwtfmrnc1uxc",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-03T16:43:19.000Z"
-        },
-        {
-          "title": "Two US service members missing after joint military exercises in Morocco",
-          "url": "https://www.france24.com/en/africa/20260503-two-us-service-members-missing-after-joint-military-exercises-in-morocco",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-03T16:24:30.000Z",
-          "image": "https://s.france24.com/media/display/ef065a1e-4707-11f1-919a-005056a90284/w:1024/p:16x9/000-46VY33R.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_bb23612082e2fa63",
-      "label": [
-        "open",
-        "madrid open",
-        "jannik sinner",
-        "jannik",
-        "sinner",
-        "madrid"
-      ],
-      "category": "new",
-      "theme": "theme_70194ad8f8600243",
-      "entities": [
-        "Alexander Zverev",
-        "Madrid Open",
-        "Jannik Sinner",
-        "French Open",
-        "Zverev"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Alexander Zverev’s Madrid Open rout ends in apology — Jannik Sinner seals a statement victory",
-          "url": "https://sports.yahoo.com/articles/alexander-zverev-madrid-open-rout-190500741.html",
-          "published_at": "2026-05-03T19:05:00.000Z"
-        },
-        {
-          "title": "Jannik Sinner boosts French Open hopes after historic Madrid Open title run",
-          "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-madrid-open-title-zverev-masters-record-2906001-2026-05-03",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-03T16:43:17.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jannik-sinner-034217771-16x9_0.jpg?VersionId=3LOJOGKxeNi7n4sfhz4uxQ3lqGnEyc8A"
-        },
-        {
-          "title": "Jannik Sinner makes history with victory in Madrid Open against Zverev",
-          "url": "https://www.theguardian.com/sport/2026/may/03/jannik-sinner-makes-history-with-victory-in-madrid-open-against-zverev",
-          "source": "The Guardian",
-          "published_at": "2026-05-03T16:38:56.000Z",
-          "image": "https://i.guim.co.uk/img/media/ffa1ef529b18ddf31d73bd65ad290f656ec65a85/190_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=5a086c97002b47097eb16f5fde891fb2"
-        }
-      ]
-    },
-    {
-      "id": "topic_66bbfc2869e08bab",
-      "label": [
-        "shapiro",
-        "retaliate",
-        "shapiro boost",
-        "boost republican",
-        "republican retaliate",
-        "republican"
-      ],
-      "category": "new",
-      "theme": "theme_8d27486d107bd278",
-      "entities": [
-        "Shapiro Boosted Republican",
-        "Retaliate Against Democrat",
-        "Scoop",
-        "Shapiro",
-        "Republican"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Shapiro Boosted Republican to Retaliate Against Democrat",
-          "url": "https://politicalwire.com/2026/05/03/shapiro-boosted-republican-to-retaliate-against-democrat",
-          "source": "Political Wire",
-          "published_at": "2026-05-03T19:55:54.000Z"
-        },
-        {
-          "title": "Scoop: Shapiro boosted Republican to retaliate against fellow Dem, ally says in recording (Axios)",
-          "url": "https://www.memeorandum.com/260503/p36",
-          "source": "memeorandum",
-          "published_at": "2026-05-03T18:45:00.000Z",
-          "image": "http://www.memeorandum.com/260503/i36.jpg"
-        },
-        {
-          "title": "Scoop: Shapiro boosted Republican to retaliate against fellow Dem, ally says in recording",
-          "url": "https://www.axios.com/2026/05/03/josh-shapiro-gop-candidate-2024",
-          "source": "Axios",
-          "published_at": "2026-05-03T17:11:22.000Z",
-          "image": "https://images.axios.com/mww1YzkQNPZWmu3E3YuOQxHbDII=/0x0:4932x2774/1366x768/2026/05/01/1777600966896.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_466693c90482ff75",
-      "label": [
-        "chancellor",
-        "german chancellor",
-        "chancellor downplay",
-        "downplay row",
-        "row trump",
-        "trump troop"
-      ],
-      "category": "new",
-      "theme": "theme_d9969fc7e49b29ba",
-      "entities": [
-        "German",
-        "Trump",
-        "German Chancellor"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "German chancellor downplays row with Trump after troop drawdown announced",
-          "url": "https://japantoday.com/category/world/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced",
-          "source": "Japan Today",
-          "published_at": "2026-05-03T21:10:31.000Z"
-        },
-        {
-          "title": "German Chancellor downplays row with Trump after troop drawdown announced",
-          "url": "https://www.scmp.com/news/world/europe/article/3352295/german-chancellor-downplays-row-trump-after-troop-drawdown-announced",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-03T20:45:42.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/a65e544d-3446-42c7-97f8-3987fd454ca7_1af48589.jpg?itok=PhWtsvdb&v=1777841057"
-        },
-        {
-          "title": "German chancellor downplays row with Trump after troop drawdown announced",
-          "url": "https://www.gmanetwork.com/news/topstories/world/986275/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-03T18:12:59.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/05/2026-04-30T122119Z_1114874644_RC24XJA447H0_RTRMADP_3_USA-TRUMP-GERMANY-MERZ_2026_05_04_02_11_55.JPG"
-        },
-        {
-          "title": "German chancellor downplays row with Trump after troop drawdown announced",
-          "url": "https://www.investing.com/news/world-news/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-4654895",
-          "source": "All News",
-          "published_at": "2026-05-03T16:18:34.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM420A8_L.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_843cb17e6ada4eec",
-      "label": [
-        "giv work",
-        "merz",
-        "giv",
-        "work",
-        "merz says",
-        "says giv"
-      ],
-      "category": "new",
-      "theme": "theme_36836f415f6f2982",
-      "entities": [
-        "Germany",
-        "Merz",
-        "Donald Trump",
-        "Trump",
-        "Iran"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Germany's Merz says not 'giving up on working with Donald Trump'",
-          "url": "https://www.lemonde.fr/en/international/article/2026/05/03/germany-s-merz-says-not-giving-up-on-working-with-donald-trump_6753088_4.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-03T21:06:08.000Z",
-          "image": "https://img.lemde.fr/2026/05/03/92/0/2960/1480/644/322/60/0/3ab5cf6_ftp-1-pxritchkcsm9-2026-05-03t180631z-1051572267-rc24xjawav8i-rtrmadp-3-usa-trump-germany-withdrawal.JPG"
-        },
-        {
-          "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
-          "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
-          "source": "Europe | The Guardian",
-          "published_at": "2026-05-03T20:27:31.000Z",
-          "image": "https://i.guim.co.uk/img/media/b7d8a641c8879f7910beb1b5856acfd4f5458d58/343_0_3039_2433/master/3039.jpg?width=140&quality=85&auto=format&fit=max&s=f3cbb56ce8d448b314e0f7aeddc1d786"
-        },
-        {
-          "title": "Germany’s Merz says not ‘giving up on working with Donald Trump’",
-          "url": "https://www.digitaljournal.com/world/germanys-merz-says-not-giving-up-on-working-with-donald-trump/article",
-          "source": "Digital Journal",
-          "published_at": "2026-05-03T19:02:20.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_1bfe8407c859d947",
-      "label": [
-        "von",
-        "stra",
-        "hormu",
-        "stra von",
-        "von hormu",
-        "schiffe"
-      ],
-      "category": "new",
-      "theme": "theme_e784a32db1d942b0",
-      "entities": [
-        "Krieg",
-        "Iran",
+        "Morocco",
         "US",
-        "Marine",
-        "Tanker"
+        "Two",
+        "Service Members Are Missing"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 20,
+      "source_count": 17,
       "articles": [
         {
-          "title": "Krieg gegen den Iran: US-Marine soll Tanker aus Straße von Hormus geleiten",
-          "url": "https://www.zeit.de/politik/ausland/2026-05/strasse-von-hormus-usa-marina-tanker-ausfahrt",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-05-03T22:57:00.000Z",
-          "image": "https://img.zeit.de/politik/ausland/2026-05/trump-strasse-hormus/original__640x360"
+          "title": "Two US service members missing after military exercises in Morocco",
+          "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-03T12:23:59.000Z",
+          "image": "https://i.guim.co.uk/img/media/da8b13226a0ccf5f8df54fd4b0805f3e53ba6300/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=5bcba6623497d1c98814983f59551020",
+          "description": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (Afr…"
         },
         {
-          "title": "\"Humanitäre Geste\" von Trump: US-Militär will festsitzende Schiffe aus Straße von Hormus geleiten",
-          "url": "https://www.n-tv.de/politik/us-militaer-will-festsitzende-schiffe-aus-strasse-von-hormus-geleiten-id30781595.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-05-03T21:33:22.000Z",
-          "image": "https://www.n-tv.de/img/30779326/1777751522/Img_4_3/250/Tanker-ankern-in-der-Strasse-von-Hormuz-vor-der-Kueste-der-Insel-Qeschm.jpg"
+          "title": "2 US service members missing after military exercises in Morocco",
+          "url": "https://www.manilatimes.net/2026/05/03/news/world/2-us-service-members-missing-after-military-exercises-in-morocco/2334513",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-03T14:05:56.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/03/1040361.jpg",
+          "description": "RABAT, Morocco (AP) — Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said Sunday. The U.S., Morocco and other countries participating in the African Li…"
         },
         {
-          "title": "Liveblog Irankrieg: USA wollen Schiffe in Straße von Hormus befreien",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-wollen-schiffe-in-strasse-von-hormus-befreien-faz-200583539.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-05-03T21:11:05.000Z",
-          "image": "https://media0.faz.net/image/a1544cab59a2/w5221h2937x0y182/202605/43601.0.2041606433/us-praesident-donald-trump.webp"
+          "title": "2 US service members missing in Morocco during multinational military exercise",
+          "url": "https://abcnews.com/international/2-us-service-members-missing-morocco-multinational-military/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-03T15:43:42.000Z",
+          "image": "https://s.abcnews.com/images/International/african-lion-exercise-ap-cw-20260503_1777822471493_hpMain_4x3t_384.jpg",
+          "description": "The missing service members are with the Army, officials told ABC News."
+        },
+        {
+          "title": "Two U.S. Service Members Are Missing in Morocco",
+          "url": "https://politicalwire.com/2026/05/03/two-u-s-service-members-are-missing-in-morocco",
+          "source": "Political Wire",
+          "published_at": "2026-05-03T15:13:58.000Z",
+          "description": "“The U.S. Army is searching for two service members who went missing while taking part in a joint military exercise in Morocco,” the New York Times reports."
+        },
+        {
+          "title": "2 U.S. Service Members Are Missing After Military Exercise in Morocco",
+          "url": "https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-05-03T13:57:07.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/03/multimedia/03trump-news-africom-qcjt/03trump-news-africom-qcjt-mediumSquareAt3X.jpg",
+          "description": "The two Army soldiers were reported missing during a joint military exercise on Saturday near Cap Draa Training Area, a coastal area in southwestern Morocco."
         }
-      ]
+      ],
+      "summary": "Two US Army service members went missing during a multinational military exercise in southwestern Morocco. A search-and-rescue operation was launched near the Cap Draa Training Area."
+    },
+    {
+      "id": "topic_31cfd3793235adc5",
+      "title": "Israel Approves Plan to Buy F-35 and F-15IA Fighter Jets",
+      "headline": "Israel approves plan to buy F-35, F-15IA fighter jets",
+      "label": [
+        "fighter",
+        "approves",
+        "israel",
+        "jets",
+        "15ia",
+        "buy"
+      ],
+      "category": "new",
+      "theme": "theme_531c77ff62d7904c",
+      "entities": [
+        "Israel",
+        "Lockheed",
+        "Boeing",
+        "Reuters",
+        "US"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Israel approves plan to buy F-35, F-15IA fighter jets",
+          "url": "https://www.perthnow.com.au/news/conflict/israel-approves-plan-to-buy-f-35-f-15ia-fighter-jets-c-22228375",
+          "source": "PerthNow",
+          "published_at": "2026-05-03T10:19:30.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22228375/3d8f53cf6c6746eccb99a47f8e4a7049e4c03c9c-16x9-x0y0w1280h720.jpg",
+          "description": "Israel will buy US-manufactured F-35 and F-15IA fighter jets from Lockheed and Boeing to boost its air superiority in a deal worth tens of billions of dollars."
+        },
+        {
+          "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+          "url": "https://www.japantimes.co.jp/news/2026/05/03/world/crime-legal/israel-us-fighter-jets-lockheed-boeing",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-05-03T09:36:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/03/538540.JPG",
+          "description": "Under the deal, Israel would buy a fourth ​F-35 squadron from Lockheed Martin and a second squadron of F-15IA fighter jets from ​Boeing."
+        },
+        {
+          "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxnyzhsnhf6rtjhlujotujiuljncmlnafkwr1rtwjrma1hyafdmsmrwofvkn2pqejbhm181s2d4rmd5qzf4em95mkvbyuu5wgfus3bqegdxuho4b3jduuphtetsv2lfzjb1cfj0wtrnz3pysupfuf9ku09eq2lldwrlum5ms2nmeehlztrwoxg4zme1dfzgvwdazy11uepualzvcgvbds05emxcannyu0nz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T11:26:55.000Z",
+          "description": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing ReutersView Full Coverage on Google News"
+        },
+        {
+          "title": "Israel approves purchase of fighter jets from the US",
+          "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-03T12:36:48.000Z",
+          "description": "Purchase includes two new combat squadrons of F-35 and F-15IA aircraft from Lockheed Martin and Boeing."
+        },
+        {
+          "title": "Israel approves deal to buy fighter jets from U.S.",
+          "url": "https://www.thehindu.com/news/international/israel-approves-deal-to-buy-fighter-jets-from-us/article70934804.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-03T09:49:17.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/wvglgy/article70934817.ece/alternates/LANDSCAPE_1200/Estonia_US_Stealth_Fighter_57209.jpg-4d916.jpg",
+          "description": "The purchase includes a squadron of F-35 multi-role stealth fighters from Lockheed Martin and another of F-15IA warplanes from Boeing, the Defence Ministry said."
+        }
+      ],
+      "summary": "Israel approved a plan to buy additional F-35 fighter jets from Lockheed Martin and F-15IA aircraft from Boeing. The planned purchases would form two new combat squadrons."
+    },
+    {
+      "id": "topic_dc819db414ea089c",
+      "title": "Rudy Giuliani Hospitalized in Critical but Stable Condition",
+      "headline": "Rudy Giuliani in critical condition in hospital",
+      "label": [
+        "giuliani",
+        "critical",
+        "condition",
+        "rudy",
+        "hospitalized",
+        "mayor"
+      ],
+      "category": "new",
+      "theme": "theme_4c07040a48322401",
+      "entities": [
+        "Rudy Giuliani",
+        "Rudy Giuliani Is",
+        "Critical Condition",
+        "Florida Hospital",
+        "Spokesperson"
+      ],
+      "article_count": 23,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Rudy Giuliani in critical condition in hospital",
+          "url": "https://www.smh.com.au/world/north-america/rudy-giuliani-in-critical-condition-in-hospital-20260504-p5ztf7.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-03T23:25:42.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1.0493%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/77c4fb7c5205b3ec5f5507e5fc476fd2a9f93154",
+          "description": "The reason for Giuliani’s admission has not been disclosed as his spokesman asks “that you join us in prayer” for the former New York mayor."
+        },
+        {
+          "title": "Rudy Giuliani Is in ‘Critical Condition’ in Florida Hospital",
+          "url": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
+          "source": "NYT > New York",
+          "published_at": "2026-05-03T22:55:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/03/multimedia/03met-giuliani-jthq/03met-giuliani-jthq-mediumSquareAt3X.jpg",
+          "description": "A spokesman for the former mayor of New York City said Mr. Giuliani was critical but stable."
+        },
+        {
+          "title": "Rudy Giuliani hospitalized in critical condition: Spokesperson",
+          "url": "https://abcnews.com/politics/rudy-giuliani-hospitalized-critical-condition-spokesperson/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-03T23:11:54.000Z",
+          "image": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg",
+          "description": "Former New York City mayor has been hospitalized in \"critical but stable\" condition, his spokesman said on Sunday."
+        },
+        {
+          "title": "Rudy Giuliani hospitalized in critical condition, his spokesman says",
+          "url": "https://www.yahoo.com/news/articles/rudy-giuliani-hospitalized-critical-condition-235233143.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-03T23:52:33.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/f380e3db2910217fae4f65dc5df91520"
+        },
+        {
+          "title": "Rudy Giuliani is in ‘critical but stable’ condition at hospital",
+          "url": "https://www.theguardian.com/us-news/2026/may/03/rudy-giuliani-hospitalized-critical-condition",
+          "source": "The Guardian",
+          "published_at": "2026-05-03T23:32:10.000Z",
+          "image": "https://i.guim.co.uk/img/media/e1151626360a82923f658bdad8502dffa9deea16/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=fee56cbd78a5246dac33314511215347",
+          "description": "Spokesperson calls former New York City mayor ‘a fighter’ but does not say cause of his hospitalization Rudy Giuliani, former mayor of New York City, is in the hospital “in critical but stable condition”, his spokesperson said on Sunday evening. Ted Goodman, the spokesperson, posted on social media…"
+        }
+      ],
+      "summary": "Former New York City mayor Rudy Giuliani is hospitalized in critical but stable condition, according to his spokesman. The reason for his hospitalization has not been disclosed."
+    },
+    {
+      "id": "topic_237591125c7dd994",
+      "title": "Trump Reviews Iran Peace Proposal but Questions Its Acceptability",
+      "headline": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+      "label": [
+        "reviewing",
+        "iran",
+        "trump",
+        "acceptable",
+        "offer",
+        "doubts"
+      ],
+      "category": "new",
+      "theme": "theme_9636bfbf4b4e6d75",
+      "entities": [
+        "Trump Says He Is",
+        "Reviewing Iran",
+        "Latest Offer",
+        "Doubts It Is Acceptable",
+        "Trump"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+          "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-05-03T09:12:32.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/03/multimedia/03trump-news-iran-talks-update-fzkv/03trump-news-iran-talks-update-fzkv-mediumSquareAt3X.jpg",
+          "description": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”"
+        },
+        {
+          "title": "Trump Says He Is Reviewing Iran’s Latest Offer",
+          "url": "https://politicalwire.com/2026/05/02/trump-says-he-is-reviewing-irans-latest-offer",
+          "source": "Political Wire",
+          "published_at": "2026-05-03T01:37:39.000Z",
+          "description": "The cease-fire between the United States and Iran remained in limbo after President Trump said Saturday evening on social media that he was reviewing Iran’s latest proposal but “can’t imagine that it would be acceptable,” the New York Times reports."
+        },
+        {
+          "title": "Trump says he is reviewing Iran's new offer but doubts it is 'acceptable'",
+          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxoumc3nvzqczffthbdwdy2z2r6efhywnffzmdnag52utbmb215cu52agixsdvsnddyyuozow50zglyafhiwhnzdxdgann0oulechrkznviufdvwgg0theyry1gmuh6dwhcbv90d0fuvgleqxrcy0xxuknfcndqwudhc2y1dkdrr1lketjmm1rfa1izytvxofo3s2dtwtdvd3ridurouxhqcwnanvfdy0tkbw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T03:21:00.000Z",
+          "description": "Trump says he is reviewing Iran's new offer but doubts it is 'acceptable' NBC News Trump says he’ll review new plan from Iran as US fast-tracks $8B in arms sales to Middle East allies CNN Iran war: What’s happening on day 65 as Trump reviews new plan to end war? Al Jazeera Iran submits 14-point res…"
+        },
+        {
+          "title": "Trump Says He Is Reviewing Iran's Latest Offer but Doubts It Is Acceptable (Ashley Ahn/New York Times)",
+          "url": "https://www.memeorandum.com/260502/p58",
+          "source": "memeorandum",
+          "published_at": "2026-05-03T02:10:00.000Z",
+          "image": "http://www.memeorandum.com/260502/i58.jpg",
+          "description": "Ashley Ahn / New York Times: Trump Says He Is Reviewing Iran's Latest Offer but Doubts It Is Acceptable — The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”"
+        },
+        {
+          "title": "Trump reviewing latest Iran proposal, but ‘can’t imagine it would be acceptable’",
+          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4552657/trump-latest-iran-proposal-says-wont-accept",
+          "source": "Washington Examiner",
+          "published_at": "2026-05-03T05:49:17.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/trump-tehran-collage.jpg?1777770820&w=696",
+          "description": "President Donald Trump said on Saturday that he will review Iran's new 14-point proposal calling for an end to the war, but 'can't imagine it's acceptable.'"
+        }
+      ],
+      "summary": "President Donald Trump said he would review Iran’s latest 14-point proposal but doubted it would be acceptable. The proposal concerns an end to the war, and the cease-fire remained in limbo."
+    },
+    {
+      "id": "topic_4c16959d5955acd7",
+      "title": "Man Arrested in Austria After Rat Poison Found in Baby Food",
+      "headline": "Man arrested in Austria after rat poison found in baby food jars",
+      "label": [
+        "poison",
+        "baby",
+        "food",
+        "rat",
+        "arrest",
+        "austrian"
+      ],
+      "category": "new",
+      "theme": "theme_e2c1b144b8f6a5f",
+      "entities": [
+        "Man",
+        "Austria",
+        "Austrian",
+        "Arrest",
+        "Al Jazeera"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Man arrested in Austria after rat poison found in baby food jars",
+          "url": "https://news.sky.com/story/man-arrested-in-austria-after-rat-poison-found-in-baby-food-jars-13539676",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-05-03T13:12:00.000Z",
+          "image": "https://e3.365dm.com/26/04/1920x1080/skynews-czech-republic-hipp_7224345.jpg?20260419152533",
+          "description": "A man has been arrested in Austria after rat poison was found in some baby food jars on supermarket shelves in central Europe."
+        },
+        {
+          "title": "Austrian police arrest man after discovery of rat poison in baby food",
+          "url": "https://www.aljazeera.com/news/2026/5/3/austrian-police-arrest-man-after-discovery-of-rat-poison-in-baby-food",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-03T07:48:54.000Z",
+          "description": "Arrest of 39-year-old comes after Swiss company HiPP last month issued product recall over tainted baby food jars."
+        },
+        {
+          "title": "Austrian police detain suspect in case of rat poison found in baby food jars on supermarket shelves",
+          "url": "https://www.manilatimes.net/2026/05/03/news/world/austrian-police-detain-suspect-in-case-of-rat-poison-found-in-baby-food-jars-on-supermarket-shelves/2334529",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-03T14:45:27.000Z",
+          "description": "VIENNA (AP) — Police in eastern Austria say a 39-year-old suspect has been arrested after rat poison turned up in some HiPP baby food jars on supermarket shelves in central Europe. HiPP, which recalled some of its baby food jars in Austria, Slovakia and the Czech Republic after the case came to lig…"
+        },
+        {
+          "title": "Arrest in Austria after rat poison found in jars of baby food",
+          "url": "https://www.independent.co.uk/news/world/europe/austria-baby-food-poison-arrest-hipp-b2969647.html",
+          "source": "The Independent World",
+          "published_at": "2026-05-03T07:38:55.000Z",
+          "image": "https://static.independent.co.uk/2026/05/03/08/download.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Authorities are still searching for a sixth poisoned jar"
+        },
+        {
+          "title": "Austrian police arrest man after discovery of rat poison in baby food",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxpddvrskoyogjjuvpit29qngp1zfkxtjmxenlhslzxc3rybkc2tevpdi1dm3livflvv0nzdffxtjr2ogpvn0z4uhftanbyek9etnvztmthmhbfrul6vei1btywodbnztlrtefvvzjqbvrwc0lizvzcb2louwx6yxa4bfrrb3i1ckxxqnlaztbhvvizexvfckp5ehazz29qekngng9lnda4twu3c1i5rfhsabmbqvvfexfmtk1amlexofbivk5dazbmnvbpd3d0s3locup0nwlbqupyn0oyy0l1yxe3q2jwbu9xcnhmcjl1vvi0c2xvy19ytmtyymnfrv9lnk5wwxvgv0vjnuv2ovpvyulpatlramvxmzfgywjyztbyduxabmy5nddrevhlqnnwcdbytzztb0yxatdvnk1lbm5bovlkrwpzcenymuthmdzjde1udnfpaxvdmtruwgzxtu5wz1k",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T07:52:10.000Z",
+          "description": "Austrian police arrest man after discovery of rat poison in baby food Al Jazeera Man arrested after rat poison found in HiPP baby food jars in Austria BBC Austrian police detain suspect over rat poison found in baby food jars on supermarket shelves NBC News Austria: Police arrest suspect over poiso…"
+        }
+      ],
+      "summary": "A 39-year-old man was arrested in Austria after rat poison was found in HiPP baby food jars on supermarket shelves. Authorities continued searching for another poisoned jar."
+    },
+    {
+      "id": "topic_9d6d9eb1e16e213a",
+      "title": "Jean-Luc Mélenchon Announces 2027 French Presidential Candidacy",
+      "headline": "Jean-Luc Mélenchon confirme sa candidature à l’élection présidentielle 2027",
+      "label": [
+        "luc",
+        "jean",
+        "présidentielle",
+        "mélenchon",
+        "candidature",
+        "sa"
+      ],
+      "category": "new",
+      "theme": "theme_446811ce392b5690",
+      "entities": [
+        "Jean",
+        "Luc",
+        "France Insoumise Jean",
+        "Pr",
+        "TF1"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Jean-Luc Mélenchon confirme sa candidature à l’élection présidentielle 2027",
+          "url": "https://www.ouest-france.fr/politique/jean-luc-melenchon/jean-luc-melenchon-confirme-sa-candidature-a-lelection-presidentielle-2027-cdd05d5c-4704-11f1-8e6a-4938cf63b665",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-05-03T18:59:39.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1YzU1YzQ5Y2JkZTFlYTc1MDFlZTYwYWE3M2RlMzA2YmE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=10f757324292ba7f9492c09fe622573a7b64d3c50c1a2b80edb904b5866c7ad2",
+          "description": "Le leader de La France insoumise a annoncé ce dimanche soir sa candidature à l’élection présidentielle de 2027. Et a désigné son principal adversaire : le RN."
+        },
+        {
+          "title": "Le leader de la France Insoumise Jean-Luc Mélenchon officialise sa candidature à la présidentielle 2027",
+          "url": "https://www.dhnet.be/actu/monde/2026/05/03/le-leader-de-la-france-insoumise-jean-luc-melenchon-officialise-sa-candidature-a-la-presidentielle-2027-v22zmub6tvcgrhupffo2sx4icm",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-05-03T18:49:38.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/RLHD4JGHIZALRBXP2MJSU3YSCE.jpg?auth=89f1cb718174031b45e279e6ea293817ae23626e8fb0aec89b6b46ec683e1219&smart=true&width=1200&height=800",
+          "description": "Comme attendu, le chef de La France Insoumise, Jean-Luc Mélenchon, a officialisé sa candidature à la présidentielle 2027 au JT de TF1. ..."
+        },
+        {
+          "title": "Présidentielle 2027 : Jean-Luc Mélenchon va-t-il officialiser sa candidature ce dimanche soir au 20 heures de TF1 ?",
+          "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle2027-jean-luc-melenchon-va-t-il-officialiser-sa-candidature-ce-dimanche-soir-au-20-heures-de-tf1-28919460.php",
+          "source": "L'essentiel",
+          "published_at": "2026-05-03T15:01:30.000Z",
+          "description": "Le leader de La France insoumise est l’invité du 20 heures de TF1 alors que les élus du parti étaient réunis à Paris, pour désigner le candidat du mouvement de gauche radicale à la présidentielle de 2027"
+        },
+        {
+          "title": "Jean-Luc Mélenchon, invité du \"20 heures\" de TF1 dimanche, doit officialiser sa candidature pour la présidentielle 2027",
+          "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-invite-du-20-heures-de-tf1-dimanche-doit-officialiser-sa-candidature-pour-la-presidentielle-2027_7980578.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-05-03T15:23:44.000Z",
+          "image": "https://www.franceinfo.fr/pictures/KgTy0QYamX215gAesZ9cQh6h1Y4/0x68:1024x644/432x243/filters:format(jpg)/2026/05/03/69f75cfc26f5a839414405.jpg",
+          "description": "Les élus de La France insoumise se sont rassemblés, dimanche à Paris, pour choisir leur candidat à l'élection présidentielle."
+        },
+        {
+          "title": "Jean-Luc Mélenchon officiellement candidat à la présidentielle 2027, sa quatrième tentative",
+          "url": "https://www.huffingtonpost.fr/politique/article/jean-luc-melenchon-officiellement-candidat-a-la-presidentielle-2027-sa-quatrieme-tentative_263337.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-05-03T19:05:47.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/02/18/0/0/5228/2940/0/0/60/0/3b5385e_upload-1-uffzmhd144ct-afp-20260131-94pk7d3-v1-highres-franceelectionmunicipal2026.jpg",
+          "description": "Réunis ce dimanche, les cadres de La France insoumise ont – sans surprise – proposé le nom du fondateur de leur mouvement, qui s’est invité dans la foulée au journal de 20 heures de TF1."
+        }
+      ],
+      "summary": "La France Insoumise leader Jean-Luc Mélenchon announced his candidacy for France’s 2027 presidential election. It will be his fourth attempt at the presidency."
+    },
+    {
+      "id": "topic_cd2e46b84afa5e2a",
+      "title": "Golden Tempo Wins Kentucky Derby, Making Cherie DeVaux First Female Winning Trainer",
+      "headline": "Golden Tempo wins Kentucky Derby, Cherie DeVaux becomes 1st woman to train its winner",
+      "label": [
+        "derby",
+        "kentucky",
+        "tempo",
+        "golden",
+        "devaux",
+        "cherie"
+      ],
+      "category": "trending",
+      "theme": "theme_864f974220666f24",
+      "entities": [
+        "Golden Tempo",
+        "Kentucky Derby",
+        "Cherie DeVaux",
+        "ABC News",
+        "Breaking News"
+      ],
+      "article_count": 24,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Golden Tempo wins Kentucky Derby, Cherie DeVaux becomes 1st woman to train its winner",
+          "url": "https://abcnews.com/sports/wirestory/kentucky-derby-19-horses-after-puma-gets-scratched-132599129",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-05-03T00:40:37.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_14da4af938ae3a3201f4d17a80d052c0_4x3_384.jpg",
+          "description": "The horse charged down the stretch to make history for DeVaux."
+        },
+        {
+          "title": "Golden Tempo wins Kentucky Derby, Cherie DeVaux becomes 1st woman to train its winner - ABC News",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxoskxnzmdorzbbm2dqdulfblfsevpzthbtmm5iwda4ovhgves1a09oelzldkjvt3m3vhbhelvwzk5imdvutmjlx3r1qvnplvbvvzdzwhdla0lcatb4dtbbafb5r2gybnbozvz0wwnotdlqzmytbgnybuljwmrnttfozc1vd29havlsm2r4u3ddn1gwn3zsbfa2skf2d202dw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T09:17:08.000Z",
+          "description": "Golden Tempo wins Kentucky Derby, Cherie DeVaux becomes 1st woman to train its winner ABC News - Breaking News, Latest News and Videos Golden Tempo makes DeVaux first woman trainer to win Kentucky Derby ESPN Will Kentucky Derby winner Golden Tempo run in Preakness Stakes 2026? The Courier-Journal J…"
+        },
+        {
+          "title": "Golden Tempo takes the Kentucky Derby as Cherie DeVaux becomes the 1st woman to train its winner",
+          "url": "https://japantoday.com/category/sports/kentucky-derby-is-down-to-19-horses-after-the-puma-gets-scratched",
+          "source": "Japan Today",
+          "published_at": "2026-05-03T01:59:54.000Z",
+          "description": "Cherie DeVaux spent the week talking a lot about the possibility of becoming the first woman to train a Kentucky Derby winner as she got ready to be…"
+        },
+        {
+          "title": "Golden Tempo Triumphs at 152nd Kentucky Derby: Cherie DeVaux Makes History as First Female Trainer to Secure Victory at Churchill Downs",
+          "url": "https://internewscast.com/news/us/golden-tempo-triumphs-at-152nd-kentucky-derby-cherie-devaux-makes-history-as-first-female-trainer-to-secure-victory-at-churchill-downs",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-03T01:49:41.000Z",
+          "description": "Internewscast Journal Internewscast LOUISVILLE, Ky. — In a historic triumph at the Kentucky Derby on… This Post: Golden Tempo Triumphs at 152nd Kentucky Derby: Cherie DeVaux Makes History as First Female Trainer to Secure Victory at Churchill Downs first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Who is Cherie DeVaux, the first female trainer to win the Kentucky Derby?",
+          "url": "https://www.aljazeera.com/sports/2026/5/3/who-is-cherie-devaux-the-first-female-trainer-to-win-the-kentucky-derby",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-03T11:20:05.000Z",
+          "description": "DeVaux-trained Golden Tempo beats the odds to give jockey Jose Ortiz a win in the derby for the first time."
+        }
+      ],
+      "summary": "Golden Tempo won the Kentucky Derby, making Cherie DeVaux the first woman to train the race’s winner. Jockey Jose Ortiz rode the horse to victory."
+    },
+    {
+      "id": "topic_a5be7e4f7a1a52d1",
+      "title": "Peter Obi Announces Resignation From African Democratic Congress",
+      "headline": "BREAKING: Peter Obi resigns from ADC",
+      "label": [
+        "obi",
+        "peter",
+        "adc",
+        "kwankwaso",
+        "ndc",
+        "officially"
+      ],
+      "category": "new",
+      "theme": "theme_2a1c8ca9eed82c0a",
+      "entities": [
+        "Peter Obi",
+        "ADC",
+        "Presidency",
+        "Peter Obi Confirms Defection",
+        "From ADC"
+      ],
+      "article_count": 19,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "BREAKING: Peter Obi resigns from ADC",
+          "url": "https://dailypost.ng/2026/05/03/peter-obi-resigns-from-adc",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-05-03T11:40:13.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/07/Peter-Obi-1.jpeg",
+          "description": "Former Labour Party presidential candidate, Peter Obi, has resigned from the African Democratic Congress, ADC. Obi disclosed this in a statement posted on his verified X handle on Sunday. In his post, Obi alleged that some agents of the Nigerian state who infiltrated the Labour Party and created un…"
+        },
+        {
+          "title": "Presidency mocks Peter Obi for leaving ADC",
+          "url": "https://www.premiumtimesng.com/news/headlines/876637-presidency-mocks-peter-obi-for-leaving-adc.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-05-03T16:14:37.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/10/Untitled-1-4.jpg?fit=600%2C400&amp;ssl=1",
+          "description": "PREMIUM TIMES reported that Mr Obi announced his exit from the ADC on Sunday but did not announce the party he intends to join next. The post Presidency mocks Peter Obi for leaving ADC appeared first on Premium Times Nigeria."
+        },
+        {
+          "title": "Peter Obi Confirms Defection From ADC",
+          "url": "https://www.informationng.com/2026/05/peter-obi-confirms-defection-from-adc.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-05-03T15:11:24.000Z",
+          "description": "Peter Obi, candidate of Labour Party in the last Presidential election, has confirmed that he is on his way out of the African Democratic Congress (ADC). In a personally signed statement released on Sunday, Obi said he arrived at the decision after deep reflection , describing the move as necessary…"
+        },
+        {
+          "title": "Breaking: Peter Obi confirms leaving ADC, gives reason",
+          "url": "https://www.legit.ng/politics/1708286-breaking-peter-obi-confirms-leaving-adc-reason",
+          "source": "Legit.ng",
+          "published_at": "2026-05-03T11:43:26.000Z",
+          "image": "https://cdn.legit.ng/images/1200x675/ee57cc0729be84cb.jpeg?v=1",
+          "description": "Many people do not understand the silent pains some of us carry daily, the private struggles, emotional burdens, and quiet battles we face while trying to survive."
+        },
+        {
+          "title": "BREAKING: Peter Obi officially announces exit from ADC",
+          "url": "https://www.nigerianeye.com/2026/05/breaking-peter-obi-officially-announced.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-03T12:05:00.005Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifrlPOM-PaqLM9CTNM0TOsuu8o14iJQCRSMvF616SDQdZeyZpDD1Z7gNmsCVXZ6BIarTqxSPFatx7YZ8fjKBBRwDritHJdv3P3rdbCy31Lo0MV6jBy1liF-psBlEQRB4ASc1X5x6DjHoZ2jMuDFZOfmMp5k-uWKusoLHhdzvwGU9ZGpMAlW8x8ZKkV2j4/s72-w400-h298-c/images%20(6).jpeg",
+          "description": "Former Labour Party Presidential candidate and ADC Chieftain, Peter Obi has announced his resignation from the African Democratic Congress. Obi made this known in a statement posted on his verified X handle on Sunday. He wrote: \"Fellow Nigerians, good morning. I woke up this morning after my church…"
+        }
+      ],
+      "summary": "Former Nigerian presidential candidate Peter Obi announced that he was leaving the African Democratic Congress. He did not announce which party he would join next."
+    },
+    {
+      "id": "topic_92a80814d0326367",
+      "title": "Aziz Ansari Plays Kash Patel in Saturday Night Live Sketch",
+      "headline": "‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel",
+      "label": [
+        "aziz",
+        "ansari",
+        "kash",
+        "patel",
+        "snl",
+        "director"
+      ],
+      "category": "new",
+      "theme": "theme_58ddf22b672ed8f3",
+      "entities": [
+        "Recruits Aziz Ansari",
+        "Play",
+        "Director Kash Patel",
+        "The New York Times",
+        "Aziz Ansari Plays Kash"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel",
+          "url": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-03T12:49:37.000Z",
+          "description": "Ansari, the “Parks and Recreation” alum, made his first appearance on “Saturday Night Live” in nearly a decade, portraying Patel in an episode hosted by Olivia Rodrigo."
+        },
+        {
+          "title": "‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxnnel1r0nhx1vlaxzttvjiserfy3hvuhvbek93n2xxvy04zfbfzkjmwjhom01fu1d6tkrsy2noawrhslhqn0tes1hkrvuxmtfntwjnzhd1luxpyljrazviugdbyvliluppwhnszerkdvlawvbsddh0r2ljutvgbe9gy3bhbtdiuzngavrytutvr0wwsteys1lyytrlefbjuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T12:49:37.000Z",
+          "description": "‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel The New York Times Saturday Night Live: Olivia Rodrigo pulls double duty while Aziz Ansari aces Kash Patel The Guardian 'SNL' cold open skewers 'incompetent' Kash Patel, Aziz Ansari stars USA Today ‘SNL’ Cold Open: Kash Patel’s Scanda…"
+        },
+        {
+          "title": "Aziz Ansari Plays Kash Patel on SNL: “I’m the First Indian Person to Suck At Their Job”",
+          "url": "https://consequence.net/2026/05/aziz-ansari-kash-patel-snl",
+          "source": "Consequence",
+          "published_at": "2026-05-03T04:08:44.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/Aziz-Ansari-on-SNL.jpeg?quality=80",
+          "description": "Ansari joined SNL's cinematic universe of characters portraying the Trump administration, appearing as the FBI Director in this week's cold open. Aziz Ansari Plays Kash Patel on SNL: “I’m the First Indian Person to Suck At Their Job” Alex Young"
+        },
+        {
+          "title": "Aziz Ansari karikiert Kash Patel bei »Saturday Night Live«",
+          "url": "https://www.spiegel.de/kultur/tv/aziz-ansari-karikiert-kash-patel-bei-saturday-night-live-a-eff1746f-f91a-40b3-a736-c496898580d7",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-05-03T17:00:00.000Z",
+          "image": "https://cdn.prod.www.spiegel.de/images/4f11f2ff-3bce-4375-9516-90c4dd25d9e0_w520_r2.08_fpx55_fpy46.98.jpg",
+          "description": "Indische Menschen sind fleißig und intelligent? Nicht, wenn Aziz Ansari FBI-Chef Kash Patel nachahmt. In einem Sketch führt der Comedian Stereotype ad absurdum – und watscht den Politclown massiv ab."
+        },
+        {
+          "title": "'First Indian person to suck at their job': SNL mocks Kash Patel with Aziz Ansari cameo",
+          "url": "https://timesofindia.indiatimes.com/world/us/first-indian-person-to-suck-at-their-job-snl-mocks-kash-patel-with-aziz-ansari-cameo/articleshow/130739455.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-05-03T19:45:48.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130739468,imgsize-98734.cms"
+        }
+      ],
+      "summary": "Aziz Ansari appeared on Saturday Night Live as FBI Director Kash Patel in a sketch during an episode hosted by Olivia Rodrigo. It was Ansari’s first appearance on the show in nearly a decade."
+    },
+    {
+      "id": "topic_f0c6cac0e27dc0d1",
+      "title": "Marco Rubio to Visit Italy and Vatican After Trump Disputes",
+      "headline": "US’s Rubio to visit Italy after Trump’s spats with Meloni, Pope Leo",
+      "label": [
+        "pope",
+        "leo",
+        "rubio",
+        "visit",
+        "italy",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_19a58098fc43c5df",
+      "entities": [
+        "US",
+        "Rubio",
+        "Italy",
+        "Trump",
+        "Meloni"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "US’s Rubio to visit Italy after Trump’s spats with Meloni, Pope Leo",
+          "url": "https://www.politico.eu/article/rubio-italy-after-trump-spats-meloni-pope-leo-thaw-weak-tajani-rome-vatican",
+          "source": "POLITICO",
+          "published_at": "2026-05-03T11:39:35.000Z",
+          "description": "The May 7-8 trip comes hot on the heels of Trump's criticism of the pope and the Italian leader."
+        },
+        {
+          "title": "US’s Rubio to visit Italy after Trump’s spats with Meloni, Pope Leo",
+          "url": "https://news.google.com/rss/articles/cbmirafbvv95cuxpohjry2zaogthbvvumef0zerabwv1b2hgts1lcl9xc1flqwlsmzy1cuhmcg91wnpuwmxonuzovmvpu2lwbwxpvlb2dgewtgnfwhjlwxphavvatzbalwducvpcdkozz2nbwxfnmwpdylrirvzfctnlbuvzulzbmdvmt0hzv05la2tlue1fadnlmwzwdxditwfxrg5tvwtvz3pzsvpnswm1tezmrdrt",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T12:39:00.000Z",
+          "description": "US’s Rubio to visit Italy after Trump’s spats with Meloni, Pope Leo politico.eu Marco Rubio to visit Rome, reportedly to ‘thaw’ US relations with Pope and Meloni The Guardian Top US diplomat Rubio to meet with Pope Leo on Thursday, source says Reuters Rubio to visit Italy, Vatican amid troop drawdo…"
+        },
+        {
+          "title": "US's Rubio to visit Italy after Trump's spats with Meloni, Pope Leo (Lucia Mackenzie/Politico)",
+          "url": "https://www.memeorandum.com/260503/p16",
+          "source": "memeorandum",
+          "published_at": "2026-05-03T13:30:00.000Z",
+          "image": "http://www.memeorandum.com/260503/i16.jpg",
+          "description": "Lucia Mackenzie / Politico: US's Rubio to visit Italy after Trump's spats with Meloni, Pope Leo — The May 7-8 trip comes hot on the heels of Trump's criticism of the pope and the Italian leader. — U.S. Secretary of State Marco Rubio is set to visit Italy later this week, according to media reports …"
+        },
+        {
+          "title": "Marco Rubio to visit Rome and the Vatican after Trump's harsh criticism of Pope Leo",
+          "url": "https://www.thejournal.ie/marco-rubio-visit-rome-pope-leo-7030309-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-03T13:13:30.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/05/united-states-secretary-of-state-marco-rubio-looks-on-as-us-president-donald-j-trump-delivers-remarks-during-a-cabinet-meeting-in-the-cabinet-room-of-the-white-house-in-washington-dc-usa-26-march-25ab3136-fd3b-49a8-99f6-120655054110-630x420.jpg",
+          "description": "Leo declared Trump’s threat to destroy Iran “unacceptable”."
+        },
+        {
+          "title": "Rubio to visit Rome, meet Pope Leo after Trump row in attempt to ‘thaw’ relations",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3352292/rubio-visit-rome-meet-pope-leo-after-trump-row-attempt-thaw-relations",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-03T18:14:18.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/04/bd193549-5308-4e2e-b9b7-58a8eb4a6398_34977dc9.jpg?itok=28p6F7f3&v=1777831984",
+          "description": "US Secretary of State Marco Rubio will meet Pope Leo on a trip to Rome this week, in the wake of the pontiff’s clash with US President Donald Trump, a Vatican source said on Sunday. The source confirmed Italian media reports about the meeting, which newspapers said would take place on Thursday in a…"
+        }
+      ],
+      "summary": "US Secretary of State Marco Rubio is scheduled to visit Rome and the Vatican on May 7-8 and meet Pope Leo. The trip follows President Trump’s criticism of the pope and Italian Prime Minister Giorgia Meloni."
+    },
+    {
+      "id": "topic_cff0d9f256716023",
+      "title": "Kimi Antonelli Wins Miami Grand Prix for Third Straight F1 Victory",
+      "headline": "Where to Watch the 2026 F1 Miami Grand Prix Online",
+      "label": [
+        "prix",
+        "grand",
+        "miami",
+        "f1",
+        "kimi",
+        "antonelli"
+      ],
+      "category": "trending",
+      "theme": "theme_f556f1a721289fd0",
+      "entities": [
+        "F1 Miami Grand Prix",
+        "Online",
+        "Starting Grid For The",
+        "Mercedes",
+        "Kimi Antonelli"
+      ],
+      "article_count": 27,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Where to Watch the 2026 F1 Miami Grand Prix Online",
+          "url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-f1-miami-race-2026-livestream-online-1235556520",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-03T14:08:00.000Z",
+          "description": "Formula 1 is back this weekend for the Miami Grand Prix. Here’s how to stream the race online"
+        },
+        {
+          "title": "LIVE: 2026 F1 Miami Grand Prix",
+          "url": "https://news.google.com/rss/articles/cbmizkfvx3lxte5qzlpom2v5metfq3d2bejoyk1xd1nkztz3wehsowf4czljvhlxvfhnrvrlrwr5ejcyymtvzf9nvc1tb015z3vrbdl2x2znzjrhvunizxjute5tumc4mu5lmzflmwnrdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-03T16:00:00.000Z",
+          "description": "LIVE: 2026 F1 Miami Grand Prix racingnews365.com New start time confirmed for Miami GP Formula 1 F1 drivers braced for wet-weather chaos in rescheduled Miami GP ESPN Miami Grand Prix start time moved up due to severe thunderstorm threat The New York Times What happens in case of rain or lightning a…"
+        },
+        {
+          "title": "Starting Grid For The 2026 F1 Miami Grand Prix",
+          "url": "https://www.forbes.com/sites/yaraelshebiny/2026/05/03/starting-grid-for-the-2026-f1-miami-grand-prix",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-03T11:50:26.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69f71951e40376cf20a1ef1c/0x0.jpg?width=960",
+          "description": "Andrea Kimi Antonelli of Mercedes secured pole position for Sunday's race at the Miami Grand Prix. Here's the full starting grid with penalties applied."
+        },
+        {
+          "title": "Mercedes’ Kimi Antonelli wins Miami Grand Prix",
+          "url": "https://www.citizen.co.za/sport/mercedes-kimi-antonelli-wins-miami-grand-prix",
+          "source": "The Citizen",
+          "published_at": "2026-05-03T19:01:13.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AFP__20260503__A9NZ8LR__v1__HighRes__AutoFormulaOneMiamiGrandPrixGrandPrix-2500x1667.jpg",
+          "description": "The race's start time was brought forward by three hours due to the threat of heavy rainstorms, but it took place in largely hot and humid, overcast conditions."
+        },
+        {
+          "title": "Kimi Antonelli wins Miami Grand Prix for his third straight F1 victory",
+          "url": "https://japantoday.com/category/sports/kimi-antonelli-wins-the-miami-grand-prix-for-his-third-straight-f1-victory1",
+          "source": "Japan Today",
+          "published_at": "2026-05-03T21:11:16.000Z",
+          "description": "Kimi Antonelli made history as the first driver to win his first three Formula 1 races from the pole when the 19-year-old Mercedes driver won the Miami Grand…"
+        }
+      ],
+      "summary": "Mercedes driver Kimi Antonelli won the Miami Grand Prix, earning his third consecutive Formula 1 victory. The race start was moved forward because of the threat of heavy rain."
     }
   ]
 }

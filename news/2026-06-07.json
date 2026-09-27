@@ -1,42 +1,232 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-08T00:15:24.206Z",
+  "generated_at": "2026-09-27T14:00:14.422Z",
   "topics": [
     {
-      "id": "topic_14ecd2634e359d37",
+      "id": "topic_20608847de4f0555",
+      "title": "Christian Eriksen Conscious After Collapsing During Denmark Friendly",
+      "headline": "Christian Eriksen collapses again during Denmark friendly with match called off",
       "label": [
-        "telegraph",
-        "chago island",
-        "chago",
-        "consider",
-        "buy chago",
-        "island"
+        "eriksen",
+        "denmark",
+        "collapses",
+        "christian",
+        "friendly",
+        "conscious"
       ],
       "category": "new",
-      "theme": "theme_7fea9ed9daae94fc",
+      "theme": "theme_a57db9c37f7932f2",
       "entities": [
-        "The Telegraph",
-        "Chagos Islands",
-        "US",
-        "Telegraph",
-        "US Considering Purchasing Chagos"
+        "Christian Eriksen",
+        "Denmark",
+        "Ukraine",
+        "Eriksen",
+        "Panic"
       ],
-      "article_count": 12,
-      "source_count": 12,
+      "article_count": 36,
+      "source_count": 25,
       "articles": [
         {
-          "title": "Путін втратив шанс на вигідну мирну угоду — The Telegraph",
-          "url": "https://tsn.ua/politika/putin-vtratyv-shans-na-vyhidnu-myrnu-uhodu-the-telegraph-3100853.html",
-          "source": "Новини на tsn.ua",
-          "published_at": "2026-06-07T21:59:08.000Z",
-          "image": "https://img.tsn.ua/cached/690/tsn-1284f5ef/thumbs/608xX/a6/6e/030a52f7f7fcd59dd968411cc8ed6ea6.jpg"
+          "title": "Christian Eriksen collapses again during Denmark friendly with match called off",
+          "url": "https://sports.yahoo.com/articles/christian-eriksen-collapses-again-during-181721649.html",
+          "published_at": "2026-06-07T19:02:20.000Z",
+          "description": "Eriksen clutched his chest and fell to the ground during a friendly with Ukraine but is now ‘conscious’"
         },
         {
-          "title": "U.S. considers buying Chagos Islands: reports",
-          "url": "https://www.thehindu.com/news/international/us-considers-buying-chagos-islands-reports/article71074256.ece",
+          "title": "Christian Eriksen ‘conscious’ after collapsing during Denmark match",
+          "url": "https://www.thejournal.ie/christian-eriksen-8-7063455-jun2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-06-07T19:00:20.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/06/odense-denmark-07th-june-2026-the-players-after-the-match-has-been-whistled-off-the-football-international-match-between-denmark-and-ukraine-at-odense-stadium-on-sunday-june-7-2026-christian-e-31480dfb-c397-4192-8c93-6e6145d58a66-630x420.jpg",
+          "description": "The incident took place during a friendly against Ukraine."
+        },
+        {
+          "title": "Christian Eriksen collapses on pitch",
+          "url": "https://news.sky.com/story/danish-footballer-christian-eriksen-collapses-on-pitch-13551755",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-06-07T18:16:00.000Z",
+          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-christian-eriksen-eriksen_7267768.jpg?20260607193451",
+          "description": "Danish footballer Christian Eriksen has collapsed during Denmark's friendly against Ukraine."
+        },
+        {
+          "title": "Denmark’s Christian Eriksen collapses during match with Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/6/7/denmarks-christian-eriksen-collapses-during-world-cup-warm-up-match",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-07T18:29:09.000Z",
+          "description": "The football player has a special heart-starting device implanted since he collapsed during a match in 2021."
+        },
+        {
+          "title": "Christian Eriksen collapses on pitch during international friendly with Denmark",
+          "url": "https://www.irishexaminer.com/sport/soccer/arid-41858556.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-07T19:09:00.000Z",
+          "description": "The incident happened during what was an end-of-season friendly between Denmark and Ukraine, who have not qualified for the World Cup."
+        }
+      ],
+      "summary": "Christian Eriksen collapsed during Denmark’s friendly against Ukraine and was later reported conscious. The match was called off."
+    },
+    {
+      "id": "topic_74d676119286102b",
+      "title": "Gears of War: E-Day Reportedly Drops Planned PS5 Release",
+      "headline": "Gears of War: E-Day is no longer coming to the PS5",
+      "label": [
+        "gears",
+        "war",
+        "day",
+        "xbox",
+        "ps5",
+        "coming"
+      ],
+      "category": "new",
+      "theme": "theme_bd446bd00ced5c16",
+      "entities": [
+        "Gears",
+        "War",
+        "Day",
+        "PS5",
+        "Rumour"
+      ],
+      "article_count": 23,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Gears of War: E-Day is no longer coming to the PS5",
+          "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
+          "source": "The Verge",
+          "published_at": "2026-06-07T17:08:56.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_e09b00d0c3acafe3bf3beb7d5d2e9fb50e43893a.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Apparently, the \"return of Xbox\" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously announced for the Xbox, PS5, and PC - will no longer be coming to PlayStation. It\"ll be an Xbox console exclusive and is launch…"
+        },
+        {
+          "title": "Rumour: Gears of War: E-Day Was Coming to PS5, Xbox Only Just Cancelled Port",
+          "url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
+          "source": "Push Square | Latest Updates",
+          "published_at": "2026-06-07T14:00:00.000Z",
+          "image": "https://images.pushsquare.com/a66ca9795b753/large.jpg",
+          "description": "Update: PS5 retail SKU exists, game was rated for Sony's console. Gears of War: E-Day was in development for the PS5 up until very recently, but Xbox has allegedly made the decision to cancel the port. Giant Bomb’s Jeff Grubb revealed the tidbit on a livestream overnight, ahead of today’s Xbox Show…"
+        },
+        {
+          "title": "Gears of War E-Day arrives October 6 as an Xbox and PC exclusive",
+          "url": "https://www.engadget.com/2189049/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-07T17:15:02.000Z",
+          "image": "https://www.engadget.com/img/gallery/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive/l-intro-1780852432.jpg",
+          "description": "One of Microsoft's biggest gaming franchises is sticking with Xbox."
+        },
+        {
+          "title": "Gears of War: E-Day reportedly no longer coming to PlayStation 5",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-release-platform-skipping-ps5-rumour",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-06-07T17:00:03.000Z",
+          "image": "https://assetsio.gnwcdn.com/Gears-of-War-E-Day_bwkbGlD.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "It has been claimed that Gears of War: E-Day - which serves as a prequel to the original Gears of War, and is set 14 years before the events of that game - is no longer coming to PlayStation 5. Read more"
+        },
+        {
+          "title": "Gears Of War: E-Day PS5 Version Canceled, Report Says",
+          "url": "https://www.gamespot.com/articles/gears-of-war-e-day-ps5-version-canceled-report-says",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-06-07T16:52:36.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-07-at-12.47.56-PM.png?w=300",
+          "description": "The next Gears of War game, Gears of War: E-Day, was reportedly planned for release on PlayStation 5, but is no longer coming to the system. According to Jeff Grubb, who has accurately reported on numerous unannounced games industry news over the years, \"Gears of War: E-Day was going to be on PS5--…"
+        }
+      ],
+      "summary": "Microsoft announced Gears of War: E-Day as an Xbox and PC exclusive, while reports say a planned PlayStation 5 version was canceled."
+    },
+    {
+      "id": "topic_77d2a05f22f4d05",
+      "title": "Iran Launches Missiles at Israel During Fragile Ceasefire",
+      "headline": "Iran launches missiles against Israel",
+      "label": [
+        "missiles",
+        "launches",
+        "israel",
+        "iran",
+        "ceasefire",
+        "bombardment"
+      ],
+      "category": "new",
+      "theme": "theme_be6027c707b92c73",
+      "entities": [
+        "Iran",
+        "Israel",
+        "Israel Says Iran Launched",
+        "Missiles At It In",
+        "The First Such Bombardment"
+      ],
+      "article_count": 19,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Iran launches missiles against Israel",
+          "url": "https://www.smh.com.au/national/iran-launches-missiles-against-israel-20260608-p604pk.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-07T21:33:39.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ca1f20f1a335ba9c49642cd1541a0fd7f544ad9d",
+          "description": "Israel said that Iran launched missiles at it in the first such bombardment since a ceasefire took effect."
+        },
+        {
+          "title": "Iran launches missiles at Israel in first bombardment since fragile ceasefire",
+          "url": "https://www.france24.com/en/middle-east/20260607-iran-launches-missiles-at-israel-in-first-bombardment-since-fragile-ceasefire",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-07T21:15:29.000Z",
+          "image": "https://s.france24.com/media/display/d7fdf5d0-62b3-11f1-8e57-005056bfb2b6/w:1024/p:16x9/000-B6B32XU.jpg",
+          "description": "Air raid sirens sounded in Israel on Sunday night as its military worked to intercept barrages of incoming Iranian missiles for the first time since a fragile ceasefire took effect in early April. The Iranian missile attack was in retaliation for deadly Israeli strikes in Beirut's southern suburbs…"
+        },
+        {
+          "title": "Israel says Iran launched missiles at it in first bombardment since ceasefire",
+          "url": "https://www.breakingnews.ie./world/israel-says-iran-launched-missiles-at-it-in-first-bombardment-since-ceasefire-1910413.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDcxNjA0NTNcXFwvZGM4YzRjNmRiYWMzNGYwM2I5OThlNjllMTc2NDQwOGUtMi5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkZmQ0ZTI5M2EwOGFjNjBiYWE5NjVkNDM2OTRiNjhiODQ3YmQyN2JiIn0=/dc8c4c6dbac34f03b998e69e1764408e-2.jpg",
+          "description": "Iran had warned that an attack on Beirut would renew full-scale war across the Middle East."
+        },
+        {
+          "title": "Israel Says Iran Launched Missiles At It In The First Such Bombardment During Fragile Ceasefire",
+          "url": "https://www.huffpost.com/entry/iran-us-pakistan-deal-drones-hormuz_n_6a2561cee4b0423d0613e3ca",
+          "source": "World News",
+          "published_at": "2026-06-07T12:28:16.000Z",
+          "description": "Tehran had warned of retaliation after Israel struck Beirut’s southern suburbs without warning in defiance of Washington’s request days ago to stand down"
+        },
+        {
+          "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
+          "url": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-07T21:37:57.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/eh8k3p/article71074355.ece/alternates/LANDSCAPE_1200/TH21-Profiles-3GTKFKBQAR.3.jpg.jpg"
+          "published_at": "2026-06-07T20:07:01.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/krkvkk/article71074236.ece/alternates/LANDSCAPE_1200/2026-06-07T195005Z_1423100590_RC27PLA3CKY8_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS.JPG",
+          "description": "“The Israeli army must stop its attacks on southern Lebanon and the suburbs, and if it expands its attacks to that region or responds to Iran’s action, it will face more devastating and regrettable blows,” said General Ali Abollahi, the head of the Khatam al-Anbiya command."
+        }
+      ],
+      "summary": "Israel said Iran launched missiles at it in the first such bombardment since a ceasefire took effect. Israeli forces worked to intercept the incoming missiles."
+    },
+    {
+      "id": "topic_7d708be8b658a90b",
+      "title": "US Reportedly Weighs Buying Chagos Islands From Mauritius",
+      "headline": "U.S. Considers Buying Chagos Islands, Telegraph Reports",
+      "label": [
+        "chagos",
+        "islands",
+        "considers",
+        "buying",
+        "telegraph",
+        "reports"
+      ],
+      "category": "new",
+      "theme": "theme_1a341ec795278d1a",
+      "entities": [
+        "Considers Buying Chagos Islands",
+        "Telegraph Reports",
+        "US",
+        "Chagos Islands",
+        "Telegraph"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "U.S. Considers Buying Chagos Islands, Telegraph Reports",
+          "url": "https://www.huffpost.com/entry/us-considers-buying-chagos-islands-telegraph-reports_n_6a25e031e4b0423d0614051d",
+          "source": "World News",
+          "published_at": "2026-06-07T21:35:28.000Z",
+          "description": "The White House is considering a plan to buy the Chagos Islands from Mauritius, the Telegraph reported on Sunday."
         },
         {
           "title": "US considers buying Chagos Islands, Telegraph reports",
@@ -46,782 +236,467 @@
           "image": "https://media.zenfs.com/en/reuters.com/8859a7ac217b174bb7b86e748139ea42"
         },
         {
-          "title": "US Considering Purchasing Chagos Islands, Telegraph Reports",
-          "url": "https://www.dailysignal.com/2026/06/07/us-purchasing-chagos-islands",
-          "source": "The Daily Signal",
-          "published_at": "2026-06-07T19:45:00.000Z",
-          "image": "https://static.dailysignalmedia.org/260607_Diego_Garcia_AFB.jpg"
+          "title": "U.S. considers buying Chagos Islands: reports",
+          "url": "https://www.thehindu.com/news/international/us-considers-buying-chagos-islands-reports/article71074256.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-07T21:37:57.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/eh8k3p/article71074355.ece/alternates/LANDSCAPE_1200/TH21-Profiles-3GTKFKBQAR.3.jpg.jpg",
+          "description": "“President Trump has been consistent in his position that the ‌United Kingdom should not give ​away the British Indian Ocean Territory, which includes our joint U.S.-U.K. military ⁠facility on the Diego Garcia atoll,” a U.S. official told Reuters."
         },
         {
-          "title": "Trump reportedly considers buying Chagos Islands from Mauritius",
-          "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-deal-chagos-islands-mauritius-uk",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-06-07T19:13:02.000Z",
-          "image": "https://i.guim.co.uk/img/media/25da67ef346aade32610145326aa94c0163499aa/40_0_3290_2632/master/3290.jpg?width=140&quality=85&auto=format&fit=max&s=10d06cb99e29be95009634b5a6215648"
+          "title": "Trump considers buying Chagos Islands (Telegraph)",
+          "url": "https://www.memeorandum.com/260607/p28",
+          "source": "memeorandum",
+          "published_at": "2026-06-07T18:40:00.000Z",
+          "image": "http://www.memeorandum.com/260607/i28.jpg",
+          "description": "Telegraph: Trump considers buying Chagos Islands — US officials draw up proposal to bypass Britain and make its own deal to take control of Diego Garcia — The White House is considering a plan to buy the Chagos Islands from Mauritius, potentially sinking Sir Keir Starmer's plan to cede sovereignty…"
+        },
+        {
+          "title": "US considers buying Chagos Islands: report",
+          "url": "https://www.perthnow.com.au/news/politics/us-considers-buying-chagos-islands-report-c-22398326",
+          "source": "PerthNow",
+          "published_at": "2026-06-07T18:27:21.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22398326/6b67a6f6b83f267a3c85162a289d35572844b891-16x9-x0y0w1280h720.jpg",
+          "description": "A UK newspaper reports United States officials have drawn ‌up a proposal to purchase the Chagos Islands from Mauritius."
         }
-      ]
+      ],
+      "summary": "The White House is reportedly considering a proposal to buy the Chagos Islands from Mauritius. The islands include the Diego Garcia military facility shared by the United States and United Kingdom."
     },
     {
-      "id": "topic_600759de528e5c9f",
+      "id": "topic_3cb01457437b30d9",
+      "title": "Large Crowds Gather in Madrid for Pope Leo’s Procession",
+      "headline": "More than a million line Madrid streets to see Pope Leo",
       "label": [
-        "white house",
-        "white",
-        "lawsuit",
-        "house",
-        "ufc",
-        "fight white"
+        "pope",
+        "streets",
+        "madrid",
+        "see",
+        "leo",
+        "million"
       ],
       "category": "new",
-      "theme": "theme_165cedcf03e5c3e0",
+      "theme": "theme_4bc14aca2f065d57",
       "entities": [
-        "Lawsuit",
-        "UFC",
-        "White House",
-        "Trump",
-        "UFC White House"
+        "Madrid",
+        "Pope Leo",
+        "People",
+        "NBC News",
+        "NPR"
       ],
-      "article_count": 9,
+      "article_count": 10,
       "source_count": 9,
       "articles": [
         {
-          "title": "Lawsuit attempts to stop UFC fight at White House on Trump's birthday",
-          "url": "https://www.cbsnews.com/news/white-house-ufc-fight-lawsuit-trumps-birthday-june-14",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-06-07T22:24:02.000Z"
+          "title": "More than a million line Madrid streets to see Pope Leo",
+          "url": "https://tribune.com.pk/story/2611879/more-than-a-million-line-madrid-streets-to-see-pope-leo",
+          "source": "express tribune",
+          "published_at": "2026-06-07T03:52:04.000Z",
+          "description": "People wave flags and shout, 'Long live the pope,' as Leo is driven in popemobile down"
         },
         {
-          "title": "Lawsuit aims to halt UFC White House spectacle",
-          "url": "https://www.espn.com/mma/story/_/id/48993111/lawsuit-seeks-shut-ufc-white-house",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-06-07T20:03:17.000Z"
+          "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+          "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-07T16:03:53.000Z",
+          "description": "Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity amid vast Corpus Domini crowds."
         },
         {
-          "title": "Lawsuit filed seeking to halt UFC White House event",
-          "url": "https://sports.yahoo.com/articles/lawsuit-filed-seeking-halt-ufc-194931198.html",
-          "published_at": "2026-06-07T19:49:31.000Z"
+          "title": "1 million people flood Madrid streets to see the pope’s flower-carpeted procession",
+          "url": "https://www.nbcnews.com/world/pope-leo-xiv/1-million-flood-madrid-streets-see-pope-leo-rcna348854",
+          "source": "NBC News World News",
+          "published_at": "2026-06-07T15:50:33.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260607-pope-leo-spain-vl-1110a-197b27.jpg",
+          "description": "Pope Leo XIV honored Spain’s centuries-old tradition of religious devotion on Sunday as a “school of faith” for today, as he presided over a Mass before a million people and highlighted one of the most iconic expressions of Spanish popular piety with a procession over flower-petal carpets"
         },
         {
-          "title": "Lawsuit Aims to Stop U.F.C. Fights at White House on Trump's Birthday (Zach Montague/New York Times)",
-          "url": "https://www.memeorandum.com/260607/p32",
-          "source": "memeorandum",
-          "published_at": "2026-06-07T19:45:00.000Z",
-          "image": "http://www.memeorandum.com/260607/i32.jpg"
+          "title": "1 million people flood Madrid streets to see the pope’s flower-carpeted procession",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxocy1wdlzzsepzuuxnqjdrc282afbaltkzwmswx210yupvu0zlywrzuje3dmm4ntvrruy4c3y3wfbdohf1owl0ehnuq05ydkg2nlrtdm5ibl9hmnr1oxbab2tbak52dtlnutjoumfhm1izenrsrwvuagv1lvdosfnav2rhelbnndn4wum4bmsyzwzwwkd6tefkbtvntdktzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-07T15:50:33.000Z",
+          "description": "1 million people flood Madrid streets to see the pope’s flower-carpeted procession NBC News Pope Leo visits a polarized Spain where conservatives are turning on the church The Washington Post Day two in Spain: ‘What legacy are we leaving for the future?’ Vatican News 1 million people flood Madrid s…"
         },
         {
-          "title": "Lawsuit Aims to Stop UFC Fights at White House",
-          "url": "https://politicalwire.com/2026/06/07/lawsuit-aims-to-stop-ufc-fights-at-white-house",
-          "source": "Political Wire",
-          "published_at": "2026-06-07T19:33:39.000Z"
+          "title": "Hundreds of thousands line Madrid streets to see Pope Leo",
+          "url": "https://www.investing.com/news/world-news/hundreds-of-thousands-line-madrid-streets-to-see-pope-leo-4729655",
+          "source": "All News",
+          "published_at": "2026-06-07T06:36:32.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM56056_L.jpg"
         }
-      ]
+      ],
+      "summary": "Hundreds of thousands of people, with some reports estimating about one million, gathered in Madrid to see Pope Leo XIV’s procession. He also presided over a Mass and spoke about Spain’s religious tradition and unity."
     },
     {
-      "id": "topic_a9b1dc49a036c42d",
+      "id": "topic_f0f77a6ab67311d6",
+      "title": "Israel Strikes Beirut’s Southern Suburbs After Hezbollah Fire",
+      "headline": "Israel strikes Beirut's southern suburbs",
       "label": [
-        "slam",
-        "zverev",
-        "grand slam",
-        "grand",
-        "vence",
-        "tulo de"
-      ],
-      "category": "new",
-      "theme": "theme_9d668f6593f2b301",
-      "entities": [
-        "Zverev",
-        "Roland Garros",
-        "Grand Slam",
-        "Alexander Zverev",
-        "Cobolli"
-      ],
-      "article_count": 10,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Alexander Zverev conquista Roland Garros 2026 y levanta el primer Grand Slam de su carrera",
-          "url": "https://www.informador.mx/deportes/alexander-zverev-conquista-roland-garros-2026-y-levanta-el-primer-grand-slam-de-su-carrera-20260607-0063.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-06-07T18:58:00.000Z"
-        },
-        {
-          "title": "Alexander Zverev rompe su maldición y gana Roland Garros, el primer Grand Slam de su carrera",
-          "url": "https://vanguardia.com.mx/deportes/alexander-zverev-rompe-su-maldicion-y-gana-roland-garros-el-primer-grand-slam-de-su-carrera-ka21212228",
-          "source": "Vanguardia",
-          "published_at": "2026-06-07T18:38:12.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/alexander-zverev-roland-garros_1-15702654_20260607184300.jpg"
-        },
-        {
-          "title": "Zverev vence batalha contra Cobolli, é campeão de Roland Garros e enfim vence 1º Slam",
-          "url": "https://jornaldebrasilia.com.br/torcida/zverev-vence-batalha-contra-cobolli-e-campeao-de-roland-garros-e-enfim-vence-1o-slam",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-06-07T18:22:01.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/06/07151912/AFP__20260607__B6AU7F2__v1__MidRes__TennisFraOpen2026.jpg"
-        },
-        {
-          "title": "Zverev vence Roland Garros e conquista primeiro t�tulo de Grand Slam",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/zverev-vence-roland-garros-e-conquista-primeiro-titulo-de-grand-slam.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-06-07T18:06:00.000Z"
-        },
-        {
-          "title": "Tiene Zverev su primer t�tulo de Grand Slam",
-          "url": "https://www.elnorte.com/tiene-zverev-su-primer-titulo-de-grand-slam/ar3218099",
-          "source": "ElNorte",
-          "published_at": "2026-06-07T17:50:39.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_878b60e351d181c8",
-      "label": [
-        "strik beirut",
-        "israel strik",
-        "strik",
+        "strikes",
         "beirut",
-        "suburb",
-        "israel"
+        "israel",
+        "suburbs",
+        "southern",
+        "ceasefire"
       ],
-      "category": "new",
-      "theme": "theme_1df323bc3cb1b65b",
+      "category": "trending",
+      "theme": "theme_5c2040e38f263360",
       "entities": [
         "Israel",
         "Beirut",
-        "Iran",
         "US",
+        "AP News",
         "Associated Press"
       ],
-      "article_count": 7,
-      "source_count": 7,
+      "article_count": 23,
+      "source_count": 20,
       "articles": [
         {
-          "title": "Israel strikes Beirut despite truce, prompting retaliation attempt from Iran",
-          "url": "https://japantoday.com/category/world/israel-strikes-beirut-despite-truce-prompting-retaliation-attempt-from-iran",
-          "source": "Japan Today",
-          "published_at": "2026-06-07T21:26:19.000Z"
+          "title": "Israel strikes Beirut's southern suburbs",
+          "url": "https://www.lemonde.fr/en/international/article/2026/06/07/israel-strikes-beirut-s-southern-suburbs_6754224_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-06-07T13:27:56.000Z",
+          "image": "https://img.lemde.fr/2026/06/07/653/0/3918/1959/644/322/60/0/2e306ac_ftp-1-2gvzppgf4sc1-5250526-01-06.jpg",
+          "description": "Prime Minister Benjamin Netanyahu's office said the strikes were in retaliation for the Hezbollah firing toward northern Israel earlier."
+        },
+        {
+          "title": "Israel strikes Beirut's southern suburbs days after ceasefire agreement",
+          "url": "https://www.thehindu.com/news/international/israel-strikes-beiruts-southern-suburbs-days-after-ceasefire-agreement/article71073978.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-07T17:00:13.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ww5u3l/article71074047.ece/alternates/LANDSCAPE_1200/2026-06-07T154411Z_13508164_RC23PLA6FEZD_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON.JPG",
+          "description": "There was no immediate word of casualties"
+        },
+        {
+          "title": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal",
+          "url": "https://www.breakingnews.ie/world/israel-strikes-beiruts-southern-suburbs-days-after-us-supported-ceasefire-deal-1910413.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDcxNzA2MTVcXFwvZTYzYWNlOTBkZTVhNDI2MGFjZTZhNGViYTJkZTkyNmEuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZTVmODM1YjhhZTUwMjMxZGZjODQ4OTE2NzM2MmJhNzE1ZWJiZWE3MyJ9/e63ace90de5a4260ace6a4eba2de926a.jpg",
+          "description": "Iran had warned that an attack on Beirut would renew full-scale war across the Middle East."
+        },
+        {
+          "title": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxntur4x28zsuzqame5zkhyvlv0umx4q1rwzkmwmddbatu0aww5q0tuehrgtnayz0fsn2gwu2syr1k4cgrzmkc2cy13wffoaw5tctrvsha4ntjnr2fpanbmclhpqjz4cnk2uvrhoghiwk9gzmt2wvnenk82ugnin29jsy0wzgw0u0pim25rn0r4medmt2g1tv9xzfl3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-07T14:00:00.000Z",
+          "description": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal AP News Iran war live: Israel bombs southern suburbs of Lebanon’s Beirut Al Jazeera Israel renews strikes on Beirut suburb after Trump-imposed pause BBC Israel strikes Beirut after Hezbollah attack, risking Iran respons…"
         },
         {
           "title": "Israel strikes Beirut's southern suburbs days after US-supported ceasefire deal (Associated Press)",
           "url": "https://www.memeorandum.com/260607/p29",
           "source": "memeorandum",
           "published_at": "2026-06-07T19:30:06.000Z",
-          "image": "http://www.memeorandum.com/260607/i29.jpg"
-        },
-        {
-          "title": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal",
-          "url": "https://www.breakingnews.ie/world/israel-strikes-beiruts-southern-suburbs-days-after-us-supported-ceasefire-deal-1910413.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDcxNzA2MTVcXFwvZTYzYWNlOTBkZTVhNDI2MGFjZTZhNGViYTJkZTkyNmEuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZTVmODM1YjhhZTUwMjMxZGZjODQ4OTE2NzM2MmJhNzE1ZWJiZWE3MyJ9/e63ace90de5a4260ace6a4eba2de926a.jpg"
-        },
-        {
-          "title": "Iran vows ‘painful’ response after Israel strikes Beirut’s southern suburbs - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxoc1dgnhyyevvusktndxdvwjg1zwg5wjbdmxfmxzvolwn2q0o3yxvaq0nws0dda1flmudtwuptekkxddyyai1zyjr0ai1jnjrtde41yurbamnxxzrtrelgt0lcsvfcauf1ajltbxl0deleb05im0z3q0nzvzjmr2vobglfc3zxde5kq2pom2w0uxuyrhdonengx1bb",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-07T17:40:00.000Z"
-        },
-        {
-          "title": "Israel strikes Beirut despite truce, Iranian lawmaker threatens to retaliate",
-          "url": "https://www.gmanetwork.com/news/topstories/world/990561/israel-strikes-beirut-despite-truce-iranian-lawmaker-threatens-to-retaliate/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-06-07T17:10:23.000Z",
-          "image": "https://images.gmanews.tv/webpics/2026/06/2026-06-07T154731Z_582918450_RC23PLAHRQYD_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON_2026_06_08_01_03_05.JPG"
+          "image": "http://www.memeorandum.com/260607/i29.jpg",
+          "description": "Associated Press: Israel strikes Beirut's southern suburbs days after US-supported ceasefire deal — Israel says Iran has launched missiles at it in the first such bombardment since a fragile ceasefire took effect in early April, complicating mediation efforts for a deal to end the war."
         }
-      ]
+      ],
+      "summary": "Israel struck Beirut’s southern suburbs days after a US-supported ceasefire deal. Netanyahu’s office said the strikes were retaliation for Hezbollah fire toward northern Israel; reports gave no immediate casualty figures."
     },
     {
-      "id": "topic_1c090f07884140cf",
+      "id": "topic_daf91656abb7afeb",
+      "title": "Sega Announces Crazy Taxi: World Tour for 2027",
+      "headline": "Crazy Taxi World Tour coming to Switch 2",
       "label": [
-        "king birthday",
-        "honour",
-        "birthday",
-        "king",
-        "birthday honour",
-        "honour list"
+        "taxi",
+        "crazy",
+        "tour",
+        "world",
+        "sega",
+        "generative"
       ],
       "category": "new",
-      "theme": "theme_f5182806004ce691",
+      "theme": "theme_41db2d90ec132369",
       "entities": [
-        "King",
-        "Birthday",
-        "List",
-        "Birthday Honours",
-        "Honours"
+        "Crazy Taxi World Tour",
+        "Switch",
+        "SEGA",
+        "Crazy Taxi",
+        "World Tour"
       ],
-      "article_count": 6,
-      "source_count": 6,
+      "article_count": 15,
+      "source_count": 10,
       "articles": [
         {
-          "title": "King's Birthday honours List",
-          "url": "https://www.theage.com.au/national/kings-birthday-honours-list-20260608-p604pc.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-06-07T21:11:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/4a4af41b6babe3ff4143c6b1b40a6a14d9e9cc56"
+          "title": "Crazy Taxi World Tour coming to Switch 2",
+          "url": "https://mynintendonews.com/2026/06/07/crazy-taxi-world-tour-coming-to-switch-2",
+          "source": "My Nintendo News",
+          "published_at": "2026-06-07T17:40:20.000Z",
+          "description": "SEGA has unveiled Crazy Taxi World Tour at the Xbox Game Show and it admittedly looks really good plus it’s confirmed for the Nintendo Switch 2. More details on the new Crazy Taxi game will probably emerge later, for now check out the trailer featuring the classic All I Want song by The Offspring.…"
         },
         {
-          "title": "King's Birthday honours List",
-          "url": "https://www.smh.com.au/national/kings-birthday-honours-list-20260608-p604pc.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-06-07T21:11:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/4a4af41b6babe3ff4143c6b1b40a6a14d9e9cc56"
+          "title": "Crazy Taxi World Tour reboots the series in 2027",
+          "url": "https://www.engadget.com/2189054/crazy-taxi-world-tour-reboots-the-series-in-2027",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-07T17:51:52.000Z",
+          "image": "https://www.engadget.com/img/gallery/crazy-taxi-world-tour-reboots-the-series-in-2027/l-intro-1780854662.jpg",
+          "description": "Get ready to yell \"Yah yah yah yah yah\" all over again."
         },
         {
-          "title": "King's Birthday honours List",
-          "url": "https://www.brisbanetimes.com.au/national/kings-birthday-honours-list-20260608-p604pc.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-06-07T21:11:24.000Z",
-          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/4a4af41b6babe3ff4143c6b1b40a6a14d9e9cc56"
+          "title": "Crazy Taxi: World Tour Uses Generative AI, Sega Reveals",
+          "url": "https://www.gamespot.com/articles/crazy-taxi-world-tour-uses-generative-ai-sega-reveals",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-06-07T18:54:16.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ss_f20bc8c65913d730378b5fa230d16f3eca521ad3.1920x1080.jpg?w=300",
+          "description": "Sega has disclosed that Crazy Taxi: World Tour is using AI-generated content, according to the game's Steam page. The corporation states, \"We use generative AI as a support tool for developers, aiming to provide better content to our users and enable developers to focus more on creative tasks.\" It…"
         },
         {
-          "title": "Once again, the King's Birthday Honours list is full of men",
-          "url": "https://www.canberratimes.com.au/story/9287369/jenna-price-kings-birthday-honours-gender-imbalance-persists",
-          "source": "The Canberra Times - News",
-          "published_at": "2026-06-07T19:30:00.000Z",
-          "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/182096266/fa4e88b1-a345-4bfe-9fe5-4727287c394a.png/r2_0_1917_1079_w600_h338_fmax.jpg"
+          "title": "Crazy Taxi: World Tour Officially Announced For Switch 2, Launching 2027",
+          "url": "https://www.nintendolife.com/news/2026/06/crazy-taxi-world-tour-officially-announced-for-switch-2-launching-2027",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-06-07T18:45:00.000Z",
+          "image": "https://images.nintendolife.com/78bedd65744b7/large.jpg",
+          "description": "Fare play. Sega has finally – finally – shown off its revival for the Crazy Taxi series: Crazy Taxi: World Tour. Featuring music from The Offspring (because of course), the game utilises a very similar art style to the original, which is just wonderful. What's not so great, however, is that it seem…"
         },
         {
-          "title": "Honours abound in King's Birthday roll call of service",
-          "url": "https://www.perthnow.com.au/news/honours-abound-in-kings-birthday-roll-call-of-service-c-22398242",
-          "source": "PerthNow",
-          "published_at": "2026-06-07T17:33:01.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22398242/9f72e5808b65a58d8167fca738a0bf742c809874-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_924c39dc820bf7db",
-      "label": [
-        "trump storm",
-        "storm",
-        "interview",
-        "election fraud",
-        "fraud claim",
-        "fraud"
-      ],
-      "category": "new",
-      "theme": "theme_7a597bc06eee0d8",
-      "entities": [
-        "Trump",
-        "NBC",
-        "Iran",
-        "NBC News",
-        "Meet"
-      ],
-      "article_count": 11,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Trump storms out of tense NBC interview about Iran war strategy, election fraud claims",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-07T21:27:06.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/08/03c7b1cd-c3cb-4af3-8aa1-5b425b12bdc2_eca688ff.jpg?itok=6k2L4NAQ&v=1780867561"
-        },
-        {
-          "title": "Trump storms out of tense, rain-plagued NBC interview",
-          "url": "https://japantoday.com/category/world/trump-storms-out-of-tense-rain-plagued-nbc-interview",
-          "source": "Japan Today",
-          "published_at": "2026-06-07T21:27:03.000Z"
-        },
-        {
-          "title": "Trump stormed out of his interview with NBC News' Meet the Press after getting into a verbal sparring match with Kristen Welker over election fraud claims (Jack Dunn/Variety)",
-          "url": "https://mediagazer.com/260607/p3",
-          "source": "Mediagazer",
-          "published_at": "2026-06-07T18:35:00.000Z",
-          "image": "http://mediagazer.com/260607/i3.jpg"
-        },
-        {
-          "title": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund",
-          "url": "https://www.cnbc.com/2026/06/07/trump-election-fraud-doj-fund-weaponization-storms-out.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-06-07T17:58:36.000Z"
-        },
-        {
-          "title": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund - CNBC",
-          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxprgfccuzyq3dwu1z3snbxcjdbvzmyne8xeezgvexfs3dbshpyweg0afbldllkbl9jsnbvtkt4edr6ymfwtm5zdjdid3l1nkjoqk5tskjimdlorxdrmzvxr2gythzax2pjtlvqulc3y1rmclhnuc15se1wwu0wz0hyemntltdfyzn5wuo0m0tfrhaxrhpqeuhsazsbqvvfexfmttm3cg40wuxooux3ejn4q2ktt2vkathowhflu2zyymnvbzfdohdkwknvul95adffowljbzdmtulfzmg5y0hhykfblutrrunsq1hioez5umw5t1ljafrsnxbsmklkstfpvhyzn1zntksxvlbqbkxqumpvwm1frlvuc05nuzrsqjjkzxjjckr4bgvvu1l6wg9jbupzuvk",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-07T17:31:46.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_18a87dcd56c13169",
-      "label": [
-        "bari",
-        "weis",
-        "bari weis",
-        "scott pelley",
-        "pelley",
-        "scott"
-      ],
-      "category": "new",
-      "theme": "theme_e6234720bd9d45c7",
-      "entities": [
-        "Scott Pelley",
-        "CBS News",
-        "Bari Weiss",
-        "Minutes",
-        "Trump"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Scott Pelley says CBS News is ‘on fire’ after Bari Weiss takeover and ‘60 Minutes’ bloodbath",
-          "url": "https://www.foxnews.com/media/scott-pelley-says-cbs-news-on-fire-after-bari-weiss-takeover-60-minutes-bloodbath",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-07T22:00:55.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/pelley-cbs-building.png?ve=1&tl=1"
-        },
-        {
-          "title": "Scott Pelley says Bari Weiss is putting a 'thumb on the scale' for Trump's version of events at CBS News",
-          "url": "https://www.businessinsider.com/scott-pelley-interview-cbs-news-bari-weiss-trump-paramount-2026-6",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-06-07T20:26:41.000Z",
-          "image": "https://i.insider.com/6a25b59f2e5a80cfe0504494?format=jpeg"
-        },
-        {
-          "title": "Scott Pelley Criticizes Bari Weiss’s Leadership, Questions Her Suitability for CBS News Chief Role",
-          "url": "https://internewscast.com/business/scott-pelley-criticizes-bari-weisss-leadership-questions-her-suitability-for-cbs-news-chief-role",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-07T17:17:26.000Z"
-        },
-        {
-          "title": "‘CBS News is on fire’: Fired 60 Minutes veteran Scott Pelley gives brutal assessment of network under Bari Weiss",
-          "url": "https://www.independent.co.uk/news/world/americas/scott-pelley-interview-cbs-bari-weiss-trump-b2991340.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-07T17:10:09.000Z",
-          "image": "https://static.independent.co.uk/2026/06/03/1/57/GettyImages-2150645837.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Scott Pelley Blasts CBS News ‘Incompetence’ Under Bari Weiss In Scathing New York Times Interview",
-          "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/07/scott-pelley-blasts-cbs-news-incompetence-under-bari-weiss-in-scathing-new-york-times-interview",
-          "source": "Forbes - Business",
-          "published_at": "2026-06-07T16:57:30.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a25a203b3fb912b7a741f1a/0x0.jpg?width=960"
-        }
-      ]
-    },
-    {
-      "id": "topic_cf8e9076cb0f25be",
-      "label": [
-        "doom",
-        "ages",
-        "doom dark",
-        "dark ages",
-        "dark",
-        "revelation"
-      ],
-      "category": "new",
-      "theme": "theme_6fedbecd2ee2bf32",
-      "entities": [
-        "Doom",
-        "The Dark Ages Is",
-        "Getting An Expansion Called",
-        "Revelations In July",
-        "The Dark Ages Revelations"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Doom: The Dark Ages Is Getting An Expansion Called Revelations In July",
-          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/doom-the-dark-ages-is-getting-an-expansion-called-revelations-in",
-          "source": "Game Informer",
-          "published_at": "2026-06-07T18:50:53.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/07/f0279010/doom02.jpg.webp"
-        },
-        {
-          "title": "Doom: The Dark Ages Revelations DLC Revealed With New Spear Weapon and July Release Date",
-          "url": "https://www.ign.com/articles/doom-the-dark-ages-revelations-dlc-revealed-with-new-spear-weapon-and-july-release-date",
+          "title": "Sega Announces Crazy Taxi: World Tour, Coming to PC and Consoles in 2027",
+          "url": "https://www.ign.com/articles/sega-announces-crazy-taxi-world-tour-coming-to-pc-and-consoles-in-2027",
           "source": "IGN Articles",
-          "published_at": "2026-06-07T17:47:22.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/07/doom-the-dark-ages-revelations-dlc-1780854312239.png"
-        },
-        {
-          "title": "Doom: The Dark Ages Swaps The Shield For An Awesome-Looking Spear In New Revelations DLC",
-          "url": "https://www.gamespot.com/articles/doom-the-dark-ages-swaps-the-shield-for-an-awesome-looking-spear-in-new-revelations-dlc",
-          "source": "GameSpot - All News",
-          "published_at": "2026-06-07T17:45:51.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/HKOm2XYXwAAxuBn.jpg?w=300"
-        },
-        {
-          "title": "DOOM: The Dark Ages | Revelations Arrives July 7",
-          "url": "https://slayersclub.bethesda.net/en-us/article/doom-the-dark-ages-revelations-revealed%20",
-          "source": "XBOX Wire",
-          "published_at": "2026-06-07T17:36:00.000Z"
-        },
-        {
-          "title": "DOOM: The Dark Ages' Campaign DLC Looks Sick, and It's Out Very Soon on PS5",
-          "url": "https://www.pushsquare.com/news/2026/06/doom-the-dark-ages-campaign-dlc-looks-sick-and-its-out-very-soon-on-ps5",
-          "source": "Push Square | Latest Updates",
-          "published_at": "2026-06-07T17:07:00.000Z",
-          "image": "https://images.pushsquare.com/c42dd8ec1d3f4/large.jpg"
+          "published_at": "2026-06-07T17:43:43.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/07/4k-xbox-games-showcase-2026-gears-of-war-e-day-direct-01-29-04-1780853888597.png",
+          "description": "Sega has announced Crazy Taxi: World Tour, its long-teased franchise revival that's now coming in 2027."
         }
-      ]
+      ],
+      "summary": "Sega announced Crazy Taxi: World Tour, a revival of the series coming to PC and consoles in 2027, including Nintendo Switch 2. The game’s Steam page says it uses generative AI as a support tool for developers."
     },
     {
-      "id": "topic_e9e0e27bb7cfa9db",
+      "id": "topic_d22eb38c2adcaf9",
+      "title": "Fleurance Holds Memorial March for 11-Year-Old Lyhanna",
+      "headline": "Mort de Lyhanna : une marche blanche organisée dimanche à 15 heures à Fleurance, dans le Gers",
       "label": [
-        "morgan",
+        "marche",
+        "blanche",
+        "lyhanna",
+        "fleurance",
+        "mort",
+        "gers"
+      ],
+      "category": "new",
+      "theme": "theme_4c0755f2728de5b3",
+      "entities": [
+        "Mort",
+        "Lyhanna",
+        "Fleurance",
+        "Gers",
+        "Apr"
+      ],
+      "article_count": 13,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Mort de Lyhanna : une marche blanche organisée dimanche à 15 heures à Fleurance, dans le Gers",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/07/mort-de-lyhanna-une-marche-blanche-organisee-dimanche-a-15-heures-a-fleurance-dans-le-gers_6698585_3224.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-06-07T00:45:24.000Z",
+          "image": "https://img.lemde.fr/2026/06/06/94/0/4500/2250/644/322/60/0/fe492fa_upload-1-qm7mob3bxcpl-mfache-06062026-le-monde-affaire-lyhanna-gers-france-015.jpg",
+          "description": "La mairie est à l’origine de ce rassemblement en mémoire de la collégienne de 11 ans, dont le corps a été retrouvé vendredi. Quelque 5 000 personnes sont attendues, selon les autorités municipales."
+        },
+        {
+          "title": "EN IMAGES. Mort de Lyhanna : « Plus jamais ça ! »… les images fortes de la marche blanche à Fleurance",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/en-images-mort-de-lyhanna-plus-jamais-ca-les-images-fortes-de-la-marche-blanche-a-fleurance-29388779.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-07T13:25:46.000Z",
+          "description": "Des milliers de personnes défilent à Fleurance (Gers) pour rendre hommage à Lyhanna, 11 ans, dont le corps a été retrouvé jeudi 4 juin. Une marche blanche entre larmes et colère"
+        },
+        {
+          "title": "« Plus jamais ça ! » : les images de la marche blanche en mémoire de Lyhanna",
+          "url": "https://www.huffingtonpost.fr/france/article/plus-jamais-ca-les-images-de-la-marche-blanche-en-memoire-de-lyhanna_264537.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-06-07T13:52:12.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/06/07/439/0/8256/4644/0/0/60/0/68d7bd0_upload-1-46xbtmumsp67-afp-20260607-b6a84z6-v1-highres-francecrimechildrentribute.jpg",
+          "description": "Plusieurs centaines de personnes se sont rassemblées à Fleurance pour rendre hommage à la jeune fille retrouvée morte jeudi après près d’une semaine de recherches."
+        },
+        {
+          "title": "Mort de Lyhanna : « C’est important d’être là »… Une marche blanche organisée ce dimanche après-midi à Fleurance",
+          "url": "https://www.ouest-france.fr/societe/faits-divers/mort-de-lyhanna-cest-important-detre-la-une-marche-blanche-organisee-ce-dimanche-apres-midi-a-fleurance-a8051876-6232-11f1-8a5e-13fc958a9977",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-06-07T06:00:50.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2NmI5NDA5ODJkMzA1Zjc5YzUzOTIxMDZkNzJlZDAxYWE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0c5d3ad081a14c8f2a8688e9944f649341a59f0185d539483510dba1153425f7",
+          "description": "Après la découverte jeudi du corps de Lyhanna, 11 ans, une marche blanche se tiendra dans la commune du Gers ce dimanche à 15 h, en présence des parents de la collégienne."
+        },
+        {
+          "title": "Mort de Lyhanna : la commune de Fleurance, dans le Gers, se prépare à rendre hommage à la collégienne de 11 ans lors d'une marche blanche",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-la-commune-de-fleurance-dans-le-gers-se-prepare-a-rendre-hommage-a-la-collegienne-de-11-ans-lors-d-une-marche-blanche_8048837.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-06-07T06:46:06.000Z",
+          "image": "https://www.franceinfo.fr/pictures/n1lryHJB4chLolQTu5zmAlG3t-8/0x260:5000x3073/432x243/filters:format(jpg)/2026/06/07/6a25136453901443116063.jpg",
+          "description": "Les parents de l'adolescente ont annoncé leur présence à cette marche, qui commencera à 15 heures. La mairie attend 5 000 personnes dans ses rues."
+        }
+      ],
+      "summary": "Residents of Fleurance, France, held a white march in memory of 11-year-old Lyhanna, whose body was found after a search. Her parents attended, and municipal officials expected thousands of participants."
+    },
+    {
+      "id": "topic_ba0bfdd71378b7c4",
+      "title": "Ariana Grande Opens First Tour Since 2019 in Oakland",
+      "headline": "See the Setlist for Ariana Grande’s “The Eternal Sunshine Tour” Kick-Off",
+      "label": [
+        "ariana",
+        "grande",
+        "tour",
+        "eternal",
+        "sunshine",
+        "setlist"
+      ],
+      "category": "new",
+      "theme": "theme_b0200f7ec61619fe",
+      "entities": [
+        "See",
+        "Setlist",
+        "Ariana Grande",
+        "The Eternal Sunshine Tour",
+        "Kick"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "See the Setlist for Ariana Grande’s “The Eternal Sunshine Tour” Kick-Off",
+          "url": "https://consequence.net/2026/06/setlist-for-ariana-grandes-eternal-sunshine-tour",
+          "source": "Consequence",
+          "published_at": "2026-06-07T15:24:47.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/06/Ariana-Grande.jpg?quality=80",
+          "description": "The setlist at Oakland Arena leaned on songs from her last studio album punctuated by hits across her career. See the Setlist for Ariana Grande’s “The Eternal Sunshine Tour” Kick-Off Travis Bland"
+        },
+        {
+          "title": "Ariana Grande’s Eternal Sunshine Tour 2026 Setlist: Every Song Played at the First Show",
+          "url": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-opening-night-setlist",
+          "source": "Billboard",
+          "published_at": "2026-06-07T08:36:37.000Z",
+          "description": "The pop star launched her long-awaited tour at Oakland Arena on Saturday, June 6."
+        },
+        {
+          "title": "Ariana Grande Launches First Tour Since 2019",
+          "url": "https://pitchfork.com/news/ariana-grande-launches-first-tour-since-2019",
+          "source": "RSS: News",
+          "published_at": "2026-06-07T17:10:31.000Z",
+          "image": "https://media.pitchfork.com/photos/6a259e05f9c37ce69a659376/master/pass/GettyImages-2255267470.jpg",
+          "description": "The Oakland Arena show featured live debuts of a number of songs and the return of older hits like “Break Free” and “Into You”"
+        },
+        {
+          "title": "Watch Ariana Grande Launch Her First Tour Since 2019",
+          "url": "https://news.google.com/rss/articles/cbmifefvx3lxtfbcemytxzjcbgvsqktpudbjafpwmmttak1oudldudlfvkgzzdvxb3bxqznsajbkvefra25hwk9srkrxuzrhm2lmamm3nu5fchdowkfny2d6uze2mdhivuhyy1feckjnquxkzedozw5mzjfnywtwvzjxdtlus0m",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-07T17:10:31.000Z",
+          "description": "Watch Ariana Grande Launch Her First Tour Since 2019 Pitchfork Ariana Grande Setlist: Every Song Played at ‘Eternal Sunshine’ Tour’s Opening Night in Oakland Variety Ariana Grande Embraces Every Version of Herself on Eternal Sunshine Tour: 5 Best Moments Billboard Ariana Grande’s return tour is a g…"
+        },
+        {
+          "title": "Ariana Grande Setlist: Every Song Played at ‘Eternal Sunshine’ Tour’s Opening Night in Oakland",
+          "url": "https://variety.com/2026/music/news/ariana-grande-setlist-eternal-sunshine-tour-opening-night-1236768675",
+          "source": "Variety",
+          "published_at": "2026-06-07T05:42:46.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2066683936-e1780778547318.jpg",
+          "description": "After a six-and-a-half-year layoff between tours, Ariana Grande has made a long-awaited return to the concert stage, with her “Eternal Sunshine” tour kicking off at the Oakland Arena Saturday night. Variety was on hand for the show and has the full setlist, below; a full review will follow on Sunda…"
+        }
+      ],
+      "summary": "Ariana Grande began her Eternal Sunshine tour at Oakland Arena, her first tour since 2019. The opening show featured songs from her latest album alongside earlier hits."
+    },
+    {
+      "id": "topic_7e0771bd03daf4d4",
+      "title": "Morgan Wallen Defends Canceling Pittsburgh Show Over Weather",
+      "headline": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show",
+      "label": [
         "wallen",
-        "morgan wallen",
-        "pittsburgh show",
         "pittsburgh",
+        "morgan",
+        "canceled",
+        "show",
         "nonsense"
       ],
       "category": "new",
-      "theme": "theme_6fec49f81441de21",
+      "theme": "theme_5bf3c51553e016ac",
       "entities": [
-        "Morgan Wallen Addresses",
+        "Morgan Wallen Responds To",
         "Nonsense",
-        "Backlash After Pittsburgh Show",
-        "Cancellation",
-        "Wanted"
+        "Rumors About Why He",
+        "Canceled Pittsburgh Show",
+        "Deadline"
       ],
-      "article_count": 5,
-      "source_count": 5,
+      "article_count": 7,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Morgan Wallen Addresses ‘Nonsense’ Backlash After Pittsburgh Show Cancellation: ‘Wanted to Clear the Air’",
-          "url": "https://www.billboard.com/music/music-news/morgan-wallen-backlash-pittsburgh-show-cancellation-1236266451",
-          "source": "Billboard",
-          "published_at": "2026-06-07T20:29:27.000Z"
+          "title": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show",
+          "url": "https://deadline.com/2026/06/morgan-wallen-responds-nonsense-canceled-pittsburgh-show-1236949274",
+          "source": "Deadline",
+          "published_at": "2026-06-07T17:06:13.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2269592882.jpg",
+          "description": "After his recent destructive onstage moment went viral, Morgan Wallen is clearing the air about Saturday’s canceled Pittsburgh show. The 2x Grammy nominee called out “nonsense” rumors about why he pulled out of the stop on his Still the Problem Tour, following a video from last week’s Denver show,…"
         },
         {
-          "title": "Morgan Wallen’s Pittsburgh Show Canceled Over ‘Adverse Weather’ That Didn’t Arrive",
-          "url": "https://www.rollingstone.com/music/music-country/morgan-wallen-pittsburgh-show-canceled-adverse-weather-1235573589",
-          "source": "Rolling Stone",
-          "published_at": "2026-06-07T17:53:22.000Z"
+          "title": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpadf1uke1mjm0sc04mgv4ag9iz2jlulfpr1ntbvm2cfr1rwfcbu5id2lfsemtamzqvgdlm1jmtxl2wulsmtzlbldflvjom214ellpugytyndoogo2rmjmudlub25fdgrdr2tkbwxcb08tzgtpv3hzb05iuuhwszdrvjvrx0lplvlflu1gn0tnodnxquwxtgnivdexrwzcuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-07T17:06:00.000Z",
+          "description": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show Deadline Morgan Wallen responds to fans over the cancellation of Saturday show at Acrisure Pittsburgh Post-Gazette Morgan Wallen’s Saturday concert in Pittsburgh canceled, artist addresses fans TribLIVE.com ‘Ever Afte…"
         },
         {
           "title": "Morgan Wallen fires back at 'nonsense' rumors he left Pittsburgh before his show was officially canceled",
           "url": "https://www.foxnews.com/entertainment/morgan-wallen-fires-back-nonsense-rumors-left-pittsburgh-show-officially-canceled",
           "source": "Latest & Breaking News on Fox News",
           "published_at": "2026-06-07T17:37:10.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/morgan-wallen-.jpeg?ve=1&tl=1"
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/morgan-wallen-.jpeg?ve=1&tl=1",
+          "description": "Morgan Wallen addresses rumors about his Pittsburgh show cancellation, saying he trusted his team's advice about dangerous wind conditions for his stage."
         },
         {
-          "title": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show",
-          "url": "https://deadline.com/2026/06/morgan-wallen-responds-nonsense-canceled-pittsburgh-show-1236949274",
-          "source": "Deadline",
-          "published_at": "2026-06-07T17:06:13.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2269592882.jpg"
+          "title": "Morgan Wallen’s Pittsburgh Show Canceled Over ‘Adverse Weather’ That Didn’t Arrive",
+          "url": "https://www.rollingstone.com/music/music-country/morgan-wallen-pittsburgh-show-canceled-adverse-weather-1235573589",
+          "source": "Rolling Stone",
+          "published_at": "2026-06-07T17:53:22.000Z",
+          "description": "\"The truth of the matter is, I have a large stage and in those conditions, it could become fatal to a lot of folks around it,\" singer says while addressing \"a lot of nonsense\" around cancelation"
         },
         {
-          "title": "Morgan Wallen Responds To “Nonsense” Rumors About Why He Canceled Pittsburgh Show - Deadline",
-          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpadf1uke1mjm0sc04mgv4ag9iz2jlulfpr1ntbvm2cfr1rwfcbu5id2lfsemtamzqvgdlm1jmtxl2wulsmtzlbldflvjom214ellpugytyndoogo2rmjmudlub25fdgrdr2tkbwxcb08tzgtpv3hzb05iuuhwszdrvjvrx0lplvlflu1gn0tnodnxquwxtgnivdexrwzcuq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-07T17:06:00.000Z"
+          "title": "Morgan Wallen Criticized for Canceling Pittsburgh Show After Severe Weather Fails to Materialize",
+          "url": "https://consequence.net/2026/06/morgan-wallen-criticized-for-canceling-pittsburgh-show-after-severe-weather-fails-to-materialize",
+          "source": "Consequence",
+          "published_at": "2026-06-07T04:00:53.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2025/05/Morgan-Wallen.jpeg?quality=80",
+          "description": "While storms did roll through the area around 3:00 p.m., the weather cleared well before the show’s scheduled 8:00 p.m. Morgan Wallen Criticized for Canceling Pittsburgh Show After Severe Weather Fails to Materialize Alex Young"
         }
-      ]
+      ],
+      "summary": "Morgan Wallen said his Pittsburgh concert was canceled because dangerous wind conditions could make the stage unsafe. He pushed back against rumors about the decision after the weather cleared before the scheduled show."
     },
     {
-      "id": "topic_2246da84fe50fee8",
+      "id": "topic_a655544d34445cce",
+      "title": "Hundreds of Boko Haram Captives Freed in Nigeria",
+      "headline": "Nigeria: 360 people freed from Boko Haram mountain hideout",
       "label": [
-        "scandal",
-        "resign",
-        "scandal dies",
-        "packwood",
-        "93",
-        "dies"
+        "boko",
+        "haram",
+        "freed",
+        "nigeria",
+        "captives",
+        "hideout"
       ],
       "category": "new",
-      "theme": "theme_2c4895af49369a34",
+      "theme": "theme_3eba82de265c6643",
       "entities": [
-        "Former Republican Senator",
-        "Bob Packwood",
-        "Maverick GOP Sen",
-        "Packwood",
-        "Oregon"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Former Republican Senator who resigned after sexual harassment scandal dies at 93",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/bob-packwood-dead-oregon-republican-b2991427.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-07T20:51:35.000Z",
-          "image": "https://static.independent.co.uk/2026/06/07/20/39/GettyImages-463123288.jpg?width=1200&auto=webp&trim=0%2C3%2C0%2C3"
-        },
-        {
-          "title": "Bob Packwood, senator who resigned amid sexual misconduct scandal, dies aged 93",
-          "url": "https://www.theguardian.com/us-news/2026/jun/07/bob-packwood-senator-dies",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-07T19:03:34.000Z",
-          "image": "https://i.guim.co.uk/img/media/4c7b9191c0c3e7f4a6672e8dbf4447b2702b165d/248_0_1495_1196/master/1495.jpg?width=140&quality=85&auto=format&fit=max&s=58a3f902f00e7fa2607a6ff01126d8ef"
-        },
-        {
-          "title": "Maverick GOP Sen. Packwood of Oregon, who resigned after scandal, dies at 93",
-          "url": "https://abcnews.com/politics/wirestory/maverick-republican-sen-bob-packwood-oregon-resigned-after-133666001",
-          "source": "ABC News: Politics",
-          "published_at": "2026-06-07T18:20:03.000Z",
-          "image": "https://s.abcnews.com/images/US/wirestory_ab7feaea89a34f1188f325ab1684d1f7_4x3_384.jpg"
-        },
-        {
-          "title": "Former Oregon Senator Bob Packwood, Noted Republican Figure, Passes Away Amid Legacy Shadowed by Harassment Scandal",
-          "url": "https://internewscast.com/local-news/former-oregon-senator-bob-packwood-noted-republican-figure-passes-away-amid-legacy-shadowed-by-harassment-scandal",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-07T18:10:15.000Z"
-        },
-        {
-          "title": "Maverick Republican Sen. Bob Packwood of Oregon, who resigned after sexual harassment scandal, dies",
-          "url": "https://www.yahoo.com/news/politics/articles/maverick-republican-sen-bob-packwood-175022453.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-07T17:50:22.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/aff345b85c5afe768dd1b1af85834d13"
-        }
-      ]
-    },
-    {
-      "id": "topic_6fc4b1f1c1d0bf27",
-      "label": [
-        "senua",
-        "action",
-        "action adventure",
-        "hellblade",
-        "senua action",
-        "adventure"
-      ],
-      "category": "new",
-      "theme": "theme_62aca4a1dc687929",
-      "entities": [
-        "Senua",
-        "Hellblade",
-        "Senua Is An Action",
-        "Adventure Game In The",
-        "Hellblade Universe"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Senua, an action-heavy Hellblade sequel, arrives in 2027",
-          "url": "https://www.engadget.com/2189057/senua-an-action-heavy-hellblade-sequel-arrives-in-2027",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-07T18:08:34.000Z",
-          "image": "https://www.engadget.com/img/gallery/senua-an-action-heavy-hellblade-sequel-arrives-in-2027/l-intro-1780855679.jpg"
-        },
-        {
-          "title": "Senua Is An Action-Adventure Game In The Hellblade Universe",
-          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/senua-is-an-action-adventure-game-in-the-hellblade-universe",
-          "source": "Game Informer",
-          "published_at": "2026-06-07T17:41:34.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/07/96358c4e/senua_01.jpg.webp"
-        },
-        {
-          "title": "Ninja Theory reveals Hellblade 3, except it's named Senua because it's evolved into something else - a full action-adventure game",
-          "url": "https://www.eurogamer.net/hellblade-3-senua-announcement-ninja-theory",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "published_at": "2026-06-07T17:37:07.000Z",
-          "image": "https://assetsio.gnwcdn.com/senua-face-header.jpg?width=690&quality=85&format=jpg&auto=webp"
-        },
-        {
-          "title": "Senua: Answering the Big Questions About Ninja Theory’s Unexpected New Action-Adventure",
-          "url": "https://news.xbox.com/en-us/2026/06/07/senua-ninja-theory-details-interview-action-adventure-xbox-games-showcase-2026",
-          "source": "XBOX Wire",
-          "published_at": "2026-06-07T17:31:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_3c3b4dc693a09c3b",
-      "label": [
-        "antonelli wins",
-        "antonelli",
-        "monaco",
-        "fifth straight",
-        "fifth",
-        "wins fifth"
-      ],
-      "category": "new",
-      "theme": "theme_746ab60a24bbeb4c",
-      "entities": [
-        "Kimi Antonelli",
-        "Monaco Grand Prix",
-        "F1",
-        "Antonelli",
-        "Monaco"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kimi Antonelli wins delayed Monaco Grand Prix to extend his victory streak and F1 lead",
-          "url": "https://japantoday.com/category/sports/kimi-antonelli-aims-for-5th-win-in-a-row-at-monaco-grand-prix-to-extend-his-f1-lead",
-          "source": "Japan Today",
-          "published_at": "2026-06-07T21:28:24.000Z"
-        },
-        {
-          "title": "Antonelli wins fifth straight F1 race in Monaco",
-          "url": "https://www.espn.com/f1/story/_/id/48965020/monaco-grand-prix-formula-1-kimi-antonelli-takes-fifth-straight-victory-chaotic-race-hamilton-behind",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-06-07T17:09:52.000Z"
-        },
-        {
-          "title": "Antonelli wins fifth straight in interrupted Monaco Grand Prix",
-          "url": "https://www.citizen.co.za/sport/antonelli-wins-fifth-straight-interrupted-monaco-grand-prix",
-          "source": "The Citizen",
-          "published_at": "2026-06-07T16:46:08.000Z",
-          "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/AFP__20260607__B6AJ4YE__v1__HighRes__AutoPrixF1MonPodium-2500x1667.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d9f2b431a5a8d70a",
-      "label": [
-        "ios",
-        "siri",
-        "ios 27",
-        "wwdc",
-        "27",
-        "wwdc 2026"
-      ],
-      "category": "new",
-      "theme": "theme_67b2b2c4f73ea615",
-      "entities": [
-        "Apple WWDC",
-        "Everything",
-        "Siri",
-        "WWDC",
-        "Tim Cook"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Apple WWDC live blog: Everything we're expecting, from iOS 27 to Siri to smart glasses",
-          "url": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-07-2026",
-          "source": "Latest news",
-          "published_at": "2026-06-07T21:16:00.000Z"
-        },
-        {
-          "title": "WWDC 2026: News on Siri, iOS 27, Tim Cook and More (Live)",
-          "url": "https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates",
-          "source": "CNET",
-          "published_at": "2026-06-07T17:30:42.000Z",
-          "image": "https://www.cnet.com/a/img/resize/ec193376da1d9e99513bbccaaf11b3c0322dd6bd/hub/2026/05/21/f1c1b4f8-1849-4316-b932-2e3d54c577b7/wwdc26-live-blog.png?auto=webp&fit=crop&height=614&width=1092"
-        },
-        {
-          "title": "WWDC 2026 Live Blog: Announcements About iOS 27, AI Siri, Apple Intelligence, and More",
-          "url": "https://lifehacker.com/tech/wwdc-2026-live-blog",
-          "source": "Lifehacker",
-          "published_at": "2026-06-07T17:00:09.000Z",
-          "image": "https://lifehacker.com/imagery/articles/01KTCNQ7BVRR9ZXX7FERRCA8SP/hero-image.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_cd5e00660a387f4e",
-      "label": [
-        "le",
-        "depui",
-        "premi re",
-        "premi",
-        "isra",
-        "fois"
-      ],
-      "category": "new",
-      "theme": "theme_eea929c2a79e0389",
-      "entities": [
-        "Iran",
-        "Isra",
-        "Guerre",
-        "Moyen",
-        "Orient"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "L’Iran attaque Israël pour la première fois depuis le cessez-le-feu conclu en avril dernier",
-          "url": "https://www.huffingtonpost.fr/international/article/l-iran-attaque-israel-pour-la-premiere-fois-depuis-le-cessez-le-feu-conclu-en-avril-dernier_264548.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-06-07T20:45:27.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/06/07/78/0/1495/840/0/0/60/0/85315e1_upload-1-abw1hzfvfqp9-afp-20260607-aa-07062026-2818145-v1-highres-missilesfiredbyirantowardsisraelint.jpg"
-        },
-        {
-          "title": "Guerre au Moyen-Orient : l'Iran frappe Israël après de nouveaux tirs israéliens sur Beyrouth, une première depuis le cessez-le-feu",
-          "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-l-iran-frappe-israel-apres-de-nouveaux-tirs-israeliens-sur-beyrouth-une-premiere-depuis-le-cessez-le-feu-11736751",
-          "source": "- Info",
-          "published_at": "2026-06-07T19:47:07.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/5/6/4/ca5da6b1fffb1094e33cc52596676d9c.jpg"
-        },
-        {
-          "title": "Athlétisme : le recordman du monde à la perche Armand Duplantis battu pour la première fois depuis presque trois ans",
-          "url": "https://www.franceinfo.fr/sports/athletisme/athletisme-le-recordman-du-monde-a-la-perche-armand-duplantis-battu-pour-la-premiere-fois-depuis-presque-trois-ans_8049341.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-07T16:44:26.000Z",
-          "image": "https://www.franceinfo.fr/pictures/WRy8CmKBUwUSNKMgD08IVM6Ns8A/0x0:1024x576/432x243/filters:format(jpg)/2026/06/07/6a259b1d91ae5739875296.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c859b1ee28e2d1fc",
-      "label": [
-        "travolge",
-        "auto travolge",
-        "travolge pedoni",
-        "pedoni",
-        "17enne",
-        "morta"
-      ],
-      "category": "new",
-      "theme": "theme_8c579de56705d9b8",
-      "entities": [
-        "Auto",
-        "Varesotto",
-        "Incidente",
-        "Varese"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Auto travolge 5 pedoni lungo la statale nel Varesotto, morta 17enne",
-          "url": "https://www.panorama.it/video/video-attualita/auto-travolge-5-pedoni-lungo-la-statale-nel-varesotto-morta-17enne",
-          "source": "Panorama",
-          "published_at": "2026-06-07T20:20:43.000Z"
-        },
-        {
-          "title": "Incidente nel Varesotto: auto travolge 5 pedoni che andavano al lago, morta una 17enne",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/07/incidente-nel-varesotto-auto-travolge-5-pedoni-che-andavano-al-lago-morta_a49858fd-5b0e-4de8-a6cb-48dba1ac4af2.html",
-          "source": "Primo piano ANSA - ANSA.it",
-          "published_at": "2026-06-07T19:03:07.000Z"
-        },
-        {
-          "title": "Varese, auto travolge 5 pedoni lungo la statale: morta 17enne, 4 feriti gravi",
-          "url": "https://www.adnkronos.com/cronaca/auto-investe-pedoni-varese-morta-17enne_7cngbszaqugmmp01guqcto",
-          "source": "Adnkronos - ultimoratop",
-          "published_at": "2026-06-07T16:50:00.000Z",
-          "image": "https://www.adnkronos.com/resources/02a6-20d01d82ae40-2e30be028a20-1000/format/medium/rilievi_incidente_taglio_fg.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_33ffcca9f4ff3e4d",
-      "label": [
-        "360",
-        "nigerian",
-        "fre",
-        "nigerian army",
-        "army",
-        "boko"
-      ],
-      "category": "new",
-      "theme": "theme_907e3858de92c0f7",
-      "entities": [
-        "Nigerian",
+        "Nigeria",
+        "Boko Haram",
+        "Hundreds",
         "Nigerian Army",
-        "Boko Haram"
+        "Army"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 7,
+      "source_count": 7,
       "articles": [
         {
-          "title": "Nigerian army frees 360 abducted people",
-          "url": "https://japantoday.com/category/world/the-nigerian-army-frees-360-abducted-people-in-northeastern-borno-state",
-          "source": "Japan Today",
-          "published_at": "2026-06-07T21:28:01.000Z"
+          "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
+          "url": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-07T15:34:00.000Z",
+          "description": "Nigeria's army said Boko Haram militants took the hostages from different communities. Kidnappings have become a growing security concern across the West African country."
+        },
+        {
+          "title": "Hundreds of captives freed from Boko Haram mountain hideout",
+          "url": "https://www.bbc.com/news/articles/ce8j0jn4xjgo",
+          "source": "BBC News",
+          "published_at": "2026-06-07T14:00:16.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1648/live/52e9e4d0-6272-11f1-89a3-d1f559421220.jpg",
+          "description": "The group includes many women and children who were abducted in March from an area close to Cameroon."
+        },
+        {
+          "title": "Over 400 kidnap victims freed from Boko Haram jihadists in Nigeria",
+          "url": "https://www.iol.co.za/news/africa/over-400-kidnap-victims-freed-from-nigerian-jihadists-fd8ea820-56f8-483c-abda-2992e50c873e",
+          "source": "IOL section feed for News",
+          "published_at": "2026-06-07T12:12:04.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/f0e3aab096f69e472595809ba4e159280870198d/2000&operation=CROP&offset=0x104&resize=2000x1125"
         },
         {
           "title": "Nigerian Army says 360 hostages freed from Boko Haram captors",
@@ -831,98 +706,280 @@
           "image": "https://media.zenfs.com/en/dpa_international_526/0afc92ac672b67a917617718334b6448"
         },
         {
-          "title": "Nigerian forces rescue 360 captives from Boko Haram",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-07T16:58:23.000Z"
+          "title": "Nigeria: Hundreds of kidnapped women, children freed from Boko Haram jihadists",
+          "url": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-07T10:09:52.000Z",
+          "image": "https://s.france24.com/media/display/3a554ef4-6255-11f1-a08f-005056bf30b7/w:1024/p:16x9/AP25250279700167.jpg",
+          "description": "Hundreds of women and children who were kidnapped by jihadist group Boko Haram in northeastern Nigeria were freed over the weekend, local representatives said. It was not immediately clear how the victims' release was secured, although the military said it had executed an \"intelligence-led rescue o…"
         }
-      ]
+      ],
+      "summary": "Nigerian forces and local representatives reported that hundreds of people abducted by Boko Haram were freed. Many of the captives were women and children taken from communities in northeastern Nigeria."
     },
     {
-      "id": "topic_cc4f81b90073cf5c",
+      "id": "topic_aa8b3ea2073bdd82",
+      "title": "One Killed and Five Injured in Central Israel Shootings",
+      "headline": "One dead, five injured after shooting in Israel",
       "label": [
-        "wear prada",
-        "prada luxury",
-        "luxury group",
-        "group push",
-        "push space",
-        "space industry"
+        "five",
+        "dead",
+        "one",
+        "israel",
+        "injured",
+        "central"
       ],
       "category": "new",
-      "theme": "theme_69626beb39371517",
+      "theme": "theme_8520e6ebdaa67111",
       "entities": [
-        "NASA",
-        "Prada",
-        "Reuters"
+        "One",
+        "Israel",
+        "Palestinian",
+        "Police",
+        "Man"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 7,
+      "source_count": 7,
       "articles": [
         {
-          "title": "NASA to wear Prada as luxury group pushes into space industry - Reuters",
-          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxquw5oeg1fczrjvdzqdgl4su5zbxjzamrmog1svfg1nmxvr0zqwfhsmtrtnhp3y2xwwdkzchpobg9euf9nv3q1rnlwcezpzvoxwulec1zanhpun21xrwzmwnlmnui2sljwekkybe1zm2q3smw3x2e2vnpix0xfctmynff6vurfee9ynxztvmlbym9rq3zgowdmndl0wde4mzrh",
+          "title": "One dead, five injured after shooting in Israel",
+          "url": "https://www.bbc.com/news/articles/cpwe8e80weyo",
+          "source": "BBC News",
+          "published_at": "2026-06-07T15:40:49.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082c/live/73e89b50-626c-11f1-803e-eb6c61688af4.jpg",
+          "description": "The suspect opened fire from a car in several locations before being shot dead."
+        },
+        {
+          "title": "One dead, five injured in shootings in central Israel",
+          "url": "https://www.perthnow.com.au/news/crime/one-dead-five-injured-in-shootings-in-central-israel-c-22397385",
+          "source": "PerthNow",
+          "published_at": "2026-06-07T09:47:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22397385/6167dd32b713cac74cdc33c9275f5acea144c6e7-16x9-x0y0w1280h720.jpg",
+          "description": "At least one person has been killed and five others injured in a series of shootings in Israel, emergency services say."
+        },
+        {
+          "title": "One dead, five wounded after shootings in Israel",
+          "url": "https://www.france24.com/en/one-dead-five-wounded-after-shootings-in-israel",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-07T14:18:27.000Z",
+          "image": "https://s.france24.com/media/display/9e1a07c0-627a-11f1-9a5c-005056bfb2b6/w:1024/p:16x9/EN-20260607-150335-150449-CS.jpg",
+          "description": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel on Sunday, killing one person and wounding five others, according to Israeli police. The attacker was killed by police. The attack came at a time of heightened tensions following a spate of Isra…"
+        },
+        {
+          "title": "At least one dead and five injured after horror shooting in Israel ‘terror attack’ – as ‘gunman’ shot dead",
+          "url": "https://www.thesun.co.uk/news/39332765/israel-terror-shooting-gunman-shot-dead",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-06-07T10:45:18.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F06%2Fambulances-pictured-near-scene-suspected-1086716344.jpg?quality%3D90%26strip%3Dall",
+          "description": "ONE person has been killed and at least five others injured after a horror shooting in central Israel. Israeli police said the suspected gunman had been shot dead after several attacks were launched near Tel Aviv. The victim is a man around 35-year-old, authorities said. Police commissioner Danny L…"
+        },
+        {
+          "title": "One person killed, five injured in shooting in central Israel, ambulance service says",
+          "url": "https://www.thehindu.com/news/international/one-person-killed-five-injured-in-shooting-in-central-israel-ambulance-service-says/article71072704.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-07T09:28:37.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/i3pimc/article71072709.ece/alternates/LANDSCAPE_1200/AFP_B69Q49H.jpg",
+          "description": "The ‌shootings took place in three separate areas in central Israel close to the Palestinian West Bank city of Qalqilya."
+        }
+      ],
+      "summary": "A series of shootings in central Israel left one person dead and five injured. Police said the suspected gunman was shot dead; the attacks took place in several locations."
+    },
+    {
+      "id": "topic_b2b070300d5c20e6",
+      "title": "Alexander Zverev Wins First Grand Slam at French Open",
+      "headline": "Final Live Updates: Can Alexander Zverev beat Flavio Cobolli for first Grand Slam?",
+      "label": [
+        "alexander",
+        "flavio",
+        "zverev",
+        "cobolli",
+        "roland",
+        "garros"
+      ],
+      "category": "trending",
+      "theme": "theme_2e1bab5865e6e298",
+      "entities": [
+        "Final Live Updates",
+        "Can Alexander Zverev",
+        "Flavio Cobolli",
+        "Grand Slam",
+        "French Open"
+      ],
+      "article_count": 21,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Final Live Updates: Can Alexander Zverev beat Flavio Cobolli for first Grand Slam?",
+          "url": "https://www.indiatoday.in/sports/tennis/story/french-open-mens-singles-final-updates-alexander-zverev-vs-flavio-cobolli-2923244-2026-06-07",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-07T11:27:41.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202606/french-open-mens-singles-final-live-updates-072729877-16x9_0.jpg?VersionId=hRdDVKBzPzx3gnG2145zvT4AKrXswXWw",
+          "description": "Final Live Updates Can Alexander Zverev beat Flavio Cobolli for first Grand Slam"
+        },
+        {
+          "title": "French Open 2026: Flavio Cobolli v Alexander Zverev, men’s singles final – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jun/07/french-open-2026-flavio-cobolli-alexander-zverev-mens-singles-final-live",
+          "source": "The Guardian",
+          "published_at": "2026-06-07T12:03:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/926e8e660501eaa9db3b2c842a3282cb46bd9de5/442_0_3880_3104/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=5093a2aa6f3794865ebfd7dc4dcd9bd7",
+          "description": "Game-by-game tennis updates from 2pm UK time You can email Daniel | Sign up for The Hotspot Salut à tous et bienvenue à Roland-Garros 2026 – dernier jour! Broadly speaking, we invented sport because we wanted to know who was the fastest, the strongest and the best. But that was a while ago now, and…"
+        },
+        {
+          "title": "French Open 2026: Flavio Cobolli v Alexander Zverev, men’s singles final – live",
+          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxobgffelc5unlpddrlyxzutju2ajn0vdv3dzvxc2dqzzq4v2g0bnrytf9quuq1wtc0u3zmcvnhuvfgwjrimtlyq1phevjptwrgbhznx2mxlxd6yuh3zlm1ovncrxb4cmx1vzqyu0fpnnjkn29pbffavvjttgrkvlixlw5butnzstnit3zfouzqd3noyzlyqzi5x2e5suvkdkfymuu0znjsmvloana4ofpurfhuvmzwz212nkfuowrtnvi",
           "source": "Top stories - Google News",
-          "published_at": "2026-06-07T21:44:17.000Z"
+          "published_at": "2026-06-07T12:00:00.000Z",
+          "description": "French Open 2026: Flavio Cobolli v Alexander Zverev, men’s singles final – live The Guardian French Open 2026: Alexander Zverev and Flavio Cobolli will put friendship aside with Grand Slam title at stake BBC Matteo Arnaldi: Had to withdraw after night of vomiting ESPN Watch: Zverev vs Cobolli Rolan…"
         },
         {
-          "title": "NASA to wear Prada as luxury group pushes into space industry",
-          "url": "https://www.dailymaverick.co.za/article/2026-06-07-nasa-to-wear-prada-as-luxury-group-pushes-into-space-industry",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-06-07T21:25:22.000Z",
-          "image": "https://cdn.dailymaverick.co.za/attachments/2993/5852200_459912.jpg"
+          "title": "French Open: German Alexander Zverev beats Flavio Cobolli to claim first Grand Slam title",
+          "url": "https://www.france24.com/en/sport/20260607-french-open-german-alexander-zverev-beats-flavio-cobolli-to-claim-first-grand-slam-title",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-07T17:47:06.000Z",
+          "image": "https://s.france24.com/media/display/528c8926-6299-11f1-93b5-005056bfb2b6/w:1024/p:16x9/2026-06-07T174901Z-2038144510-UP1EM671DHN18-RTRMADP-3-TENNIS-FRENCHOPEN.jpg",
+          "description": "Alexander Zverev finally secured his maiden Grand Slam title with a dramatic five-set victory over Italy's Flavio Cobolli in the French Open final on Sunday."
         },
         {
-          "title": "NASA to wear Prada as luxury group pushes into space industry",
-          "url": "https://www.investing.com/news/world-news/nasa-to-wear-prada-as-luxury-group-pushes-into-space-industry-4729693",
-          "source": "All News",
-          "published_at": "2026-06-07T17:18:50.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM560EP_L.jpg"
+          "title": "Alexander Zverev bat Flavio Cobolli en finale de Roland Garros et s’offre enfin un titre du Grand Chelem",
+          "url": "https://www.huffingtonpost.fr/sport/article/alexander-zverev-bat-flavio-cobolli-en-finale-de-roland-garros-et-s-offre-enfin-un-titre-du-grand-chelem_264539.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-06-07T17:58:20.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/06/07/690/0/6618/3722/0/0/60/0/14dc98c_upload-1-gmloygrzj7u3-afp-20260607-b6ah6pt-v1-highres-tennisfraopen2026.jpg",
+          "description": "Le numéro trois mondial allemand avait perdu trois finales, dont une à Paris, avant celle-ci. Il succède au palmarès à Carlos Alcaraz."
         }
-      ]
+      ],
+      "summary": "Alexander Zverev defeated Flavio Cobolli in five sets in the French Open men’s final to win his first Grand Slam title."
     },
     {
-      "id": "topic_9adcd43f15eb0613",
+      "id": "topic_785c23d7b32e0851",
+      "title": "Microsoft Reveals Translucent Green Xbox 25th Anniversary Edition",
+      "headline": "New XBOX 25th Anniversary Console and Controller",
       "label": [
-        "adelabu",
-        "police",
-        "police confirm",
-        "confirm arrest",
-        "arrest four",
-        "four suspect"
+        "xbox",
+        "anniversary",
+        "25th",
+        "console",
+        "controller",
+        "green"
       ],
       "category": "new",
-      "theme": "theme_82c179addacb2c91",
+      "theme": "theme_839d48b2ce55f3a6",
       "entities": [
-        "Police Confirm Arrest Of",
-        "Four Suspects Linked To",
-        "Kidnap Of Adelabu",
-        "Family Members",
-        "Adelabu"
+        "New XBOX",
+        "Anniversary Console",
+        "Controller",
+        "XBOX Wire",
+        "Microsoft"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 8,
       "articles": [
         {
-          "title": "Police Confirm Arrest Of Four Suspects Linked To Kidnap Of Adelabu’s Family Members",
-          "url": "https://www.informationng.com/2026/06/police-confirm-arrest-of-four-suspects-linked-to-kidnap-of-adelabus-family-members.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-06-07T21:51:20.000Z"
+          "title": "New XBOX 25th Anniversary Console and Controller",
+          "url": "https://news.xbox.com/en-us/2026/06/07/xbox-25th-anniversary-console-controller-x25-xbox-games-showcase-2026",
+          "source": "XBOX Wire",
+          "published_at": "2026-06-07T17:39:16.000Z",
+          "description": "The post New XBOX 25th Anniversary Console and Controller appeared first on XBOX Wire."
         },
         {
-          "title": "Adelabu’s Sister’s Abduction: Oyo police chief worried over failure of neighbours to report kidnappers’ hideout",
-          "url": "https://www.premiumtimesng.com/news/headlines/885799-adelabus-sisters-abduction-oyo-police-chief-worried-over-failure-of-neighbours-to-report-kidnappers-hideout.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-06-07T20:36:57.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/656198904_1779162466858139_1171252147963410261_n.jpg?fit=590%2C328&amp;ssl=1"
+          "title": "New XBOX 25th Anniversary Console and Controller",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxptexmvhlyyzvodldknff0x2vddmxqa2w1dwxns3bovxdmyw0tlxc5yxeznzhcofdzodftngddmkx3ehbpetkzuda0rnboeezardbmd2jius1wcmvuvxrnatvrcgpvawf1vwxosfzad1jimenclxjsq2lfane2y1vny0jtvnrqrldwbxuxbulibnjbutd1v25huzdhrvc4sxnxuzatr2fydjfrqtz1wke",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-07T17:41:23.000Z",
+          "description": "New XBOX 25th Anniversary Console and Controller XBOX Wire Limited Edition Xbox Series X25 is Coming in November Thurrott.com This is Microsoft’s Xbox 25th anniversary console in translucent green The Verge Xbox Announces X25 Xbox Series X During Xbox Showcase Insider Gaming Xbox just made the cons…"
         },
         {
-          "title": "Police Confirm Arrest of Four Suspects Linked to Adelabu’s Sister’s Abduction",
-          "url": "https://www.nigerianeye.com/2026/06/police-confirm-arrest-of-four-suspects.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-06-07T18:11:33.917Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAiq84H7zBHnX0XwyAC2-Y5Z0hSxDP9Fn0b_gjZ22WFAsgqzrZs7b7ezTMd6kwDf59BlESGwAcScXYuVR5DjWfUmWLAOPWkfIXPe2Alrytw1nL4juhEyhv0u-z5bZk5fEV1-_4OtL0qLlJIvKJxTfjECXyS3onWCu74J40wiDydWOrJlbZRYjH4VKiEM8/s72-w400-h294-c/1001977288.jpg"
+          "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
+          "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+          "source": "The Verge",
+          "published_at": "2026-06-07T17:45:48.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the first time, we're bringing a translucen…"
+        },
+        {
+          "title": "Xbox Series X Translucent Green 25th Anniversary Edition Console and Controller Announced, Inspired by the Original Xbox",
+          "url": "https://www.ign.com/articles/xbox-series-x-translucent-green-25th-anniversary-edition-console-and-controller-announced-inspired-by-the-original-xbox",
+          "source": "IGN Articles",
+          "published_at": "2026-06-07T17:55:19.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/07/xbox-wireless-controller-x25-special-edition-1-d75d6cc00415223ed301-1780854794250.jpg",
+          "description": "Microsoft has announced a new limited edition Xbox Series X console variant inspired by the original Xbox."
+        },
+        {
+          "title": "Xbox Goes Back to Green for 25th Anniversary Editions",
+          "url": "https://www.cnet.com/tech/gaming/xbox-goes-back-to-green-for-25th-anniversary-editions",
+          "source": "CNET",
+          "published_at": "2026-06-07T21:45:46.000Z",
+          "image": "https://www.cnet.com/a/img/resize/bf68236475dc573be001ecbb585ed3818f3e5394/hub/2026/06/07/b60ad6a0-0288-4bb4-8a92-6bcff219bfb3/xbox-series-x25-limited-edition-2-1bfdd2858ad74a2180ff.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "Don't expect it to be cheap."
         }
-      ]
+      ],
+      "summary": "Microsoft announced a limited-edition Xbox Series X and controller for the console’s 25th anniversary. The translucent green design draws inspiration from the original Xbox."
+    },
+    {
+      "id": "topic_12c83783e21b6de5",
+      "title": "Halo: Campaign Evolved Set for July 28 Release",
+      "headline": "Halo: Campaign Evolved arrives July 28th",
+      "label": [
+        "halo",
+        "evolved",
+        "campaign",
+        "july",
+        "missions",
+        "date"
+      ],
+      "category": "new",
+      "theme": "theme_79cef29c0b09c377",
+      "entities": [
+        "Halo",
+        "Campaign Evolved",
+        "July",
+        "New Prologue Missions For",
+        "Campaign Evolved Revealed"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Halo: Campaign Evolved arrives July 28th",
+          "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
+          "source": "The Verge",
+          "published_at": "2026-06-07T17:14:08.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_80a9ae89a66e1033d03966a60afb2749cc3d0451.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox Series S / X, PC, and PS5 on July 28th. Microsoft announced Campaign Evolved last year, calling it a…"
+        },
+        {
+          "title": "New Prologue Missions For Halo: Campaign Evolved Revealed, Releasing In July",
+          "url": "https://www.gamespot.com/articles/new-prologue-missions-for-halo-campaign-evolved-revealed-releasing-in-july",
+          "source": "GameSpot - All News",
+          "published_at": "2026-06-07T17:25:19.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/02_METEORITE_NEW_MISSIONS_MC_JOHNSON-54576e4d28a450d76f52.jpg?w=300",
+          "description": "The Xbox Games Showcase would not be complete without an appearance from Halo: Campaign Evolved, and that's exactly what fans got during this year's show. The new trailer gave a first glimpse of Operation: Meteorite, a brand-new prologue featuring Master Chief and Sgt. Johnson. It also confirmed th…"
+        },
+        {
+          "title": "Halo: Campaign Evolved hits PS5, Xbox and PC on July 28",
+          "url": "https://www.engadget.com/2189052/halo-campaign-evolved-hits-ps5-xbox-and-pc-on-july-28",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-07T17:42:55.000Z",
+          "image": "https://www.engadget.com/img/gallery/halo-campaign-evolved-hits-ps5-xbox-and-pc-on-july-28/l-intro-1780854123.jpg",
+          "description": "Take a peek at the new missions in the refreshed Halo."
+        },
+        {
+          "title": "Here's The Release Date For Halo: Campaign Evolved (And Some Footage Of Its New Prequel Missions)",
+          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/heres-the-release-date-for-halo-campaign-evolved-and-some-footage-of",
+          "source": "Game Informer",
+          "published_at": "2026-06-07T17:29:00.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/07/07c69195/halo_01.jpg.webp",
+          "description": "Halo: Campaign Evolved is a new, visually improved retelling of the events of the original Halo game, released way back in 2001. Today, we learned it's right around the corner, and got a look at the new content Halo Studios is planning to incorporate. The game is set to launch on Xbox Series X/S, P…"
+        },
+        {
+          "title": "Halo: Campaign Evolved Reveals New Space Combat Missions, Imminent Release Date",
+          "url": "https://www.ign.com/articles/halo-campaign-evolved-reveals-new-space-combat-missions-imminent-release-date",
+          "source": "IGN Articles",
+          "published_at": "2026-06-07T17:24:50.000Z",
+          "image": "https://assets-prd.ignimgs.com/2025/12/09/ps5thumb-1765302086853.png",
+          "description": "A new trailer for Halo: Campaign Evolved confirmed the game's release date and showed a new look at the three brand-new missions for the game."
+        }
+      ],
+      "summary": "Halo: Campaign Evolved, a remake of the original game’s campaign, is scheduled to release July 28 on Xbox, PlayStation 5 and PC. A new trailer showed three new missions, including space combat."
     }
   ]
 }

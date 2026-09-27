@@ -1,83 +1,768 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T14:19:13.694Z",
+  "generated_at": "2026-09-27T13:51:14.713Z",
   "topics": [
     {
-      "id": "topic_a1ffb0afa8d63ca4",
+      "id": "topic_561216c8ded7956e",
+      "title": "Trump Administration Says Iran Hostilities Have Terminated",
+      "headline": "Trump Administration Says Iran War Is Over",
       "label": [
-        "supreme court",
-        "supreme",
-        "court",
-        "pawan",
-        "khera",
-        "pawan khera"
+        "war",
+        "trump",
+        "administration",
+        "iran",
+        "us",
+        "hostilities"
       ],
       "category": "new",
-      "theme": "theme_d1bc80b8281bf244",
+      "theme": "theme_1ae9d94503774f0d",
       "entities": [
-        "Louisiana",
-        "Supreme Court",
-        "AP News",
-        "Wike",
-        "PDP"
+        "Trump Administration Says Iran",
+        "War Is Over",
+        "Why Trump",
+        "US",
+        "Iran"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump Administration Says Iran War Is Over",
+          "url": "https://politicalwire.com/2026/04/30/trump-administration-says-iran-war-is-over",
+          "source": "Political Wire",
+          "published_at": "2026-05-01T01:33:16.000Z",
+          "description": "The Trump administration considers operations that began in Iran on Feb. 28 to have “terminated,” the AP reports. The determination is relevant under the war powers resolution, which requires congressional authorization for operations to continue beyond 60 days. The White House is saying for war po…"
+        },
+        {
+          "title": "Why Trump says the US-Iran war is over",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/487670/trump-us-iran-terminated-congress-war-powers-resolution",
+          "source": "Vox",
+          "published_at": "2026-05-01T22:05:00.000Z",
+          "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/05/gettyimages-2272981339.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Donald Trump boards Air Force One on April 24, 2026, at Joint Base Andrews, Maryland. | Roberto Schmidt/Getty Images This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here.…"
+        },
+        {
+          "title": "Trump administration says hostilities in Iran ‘terminated’ ahead of war powers deadline",
+          "url": "https://www.theguardian.com/world/2026/apr/30/senate-republicans-block-trump-iran-war-halt",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-05-01T03:10:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/6ab66027103f8f83fa610af7495bf9d713a1d620/297_0_2978_2382/master/2978.jpg?width=140&quality=85&auto=format&fit=max&s=d9eb038718095da69276595ce126ce09",
+          "description": "US president faced a 60-day deadline on Friday to end the Iran war or make the case to Congress for extending it A US-Iran ceasefire that began in early April has “terminated” hostilities between the two sides for the purposes of an approaching congressional war powers deadline, a senior official o…"
+        },
+        {
+          "title": "Why Trump says the US-Iran war is over",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxnnxzps3douwtpetzmofjeytleu1psmjfnum9ka0zmu2t4ovnumwxmcmnduja5slyxztvmvwpwvvvivvvxafhxnwm0wvbqavf1zmiztnlqqu5mn0hqughktlm3ulb0wc0wcg40tvnusi1wv09bztlxwvnzejzsq1qxt2jpnm9oqkrkrzhfeep6nfb4wdbsu2y4smjmqnhwenzfrhjxtlbxdwxyu2gybfhb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-01T22:05:00.000Z",
+          "description": "Why Trump says the US-Iran war is over vox.com As Iran War Reaches 60-Day Mark, Republicans in Congress Grow Impatient With Trump The New York Times GOP war powers resolution argument triggers a furor between Trump, lawmakers over Iran The Hill Trump declares hostilities with Iran \"terminated\" Axio…"
+        },
+        {
+          "title": "Trump says hostilities in Iran ‘terminated’ ahead of war powers deadline",
+          "url": "https://www.scmp.com/news/us/article/3352193/trump-not-satisfied-irans-latest-peace-proposal-talks-stall",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-05-01T17:34:57.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/02/adcfc185-5217-4abd-96f4-d69b90928d6c_c8c27af1.jpg?itok=pzAEFJL0&v=1777662703",
+          "description": "US President Donald Trump told Congress on Friday that the hostilities in Iran “have terminated” following the ceasefire starting April 7, with the deadline for a congressional authorisation of the war looming. “There has been no exchange of fire between the United States Forces and Iran since Apri…"
+        }
+      ],
+      "summary": "The administration says hostilities that began in Iran on February 28 have “terminated” following an April ceasefire. The declaration comes as a 60-day deadline under the War Powers Resolution requires the administration to seek congressional authorization or end military operations."
+    },
+    {
+      "id": "topic_fc86b2d94177f9a9",
+      "title": "Musk and Altman Trial Examines OpenAI’s Origins",
+      "headline": "Musk v. Altman is just getting started",
+      "label": [
+        "altman",
+        "musk",
+        "really",
+        "getting",
+        "vs",
+        "started"
+      ],
+      "category": "new",
+      "theme": "theme_ac95c5f934d90a60",
+      "entities": [
+        "Musk",
+        "Altman",
+        "What Is This Really",
+        "King Charles",
+        "The Art"
       ],
       "article_count": 7,
       "source_count": 7,
       "articles": [
         {
-          "title": "Supreme Court grants pre-arrest bail to Pawan Khera in Assam case",
-          "url": "https://www.thehindu.com/news/national/supreme-court-grants-anticipatory-bail-to-congress-leader-pawan-khera/article70927886.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-01T08:08:41.000Z",
-          "image": "https://th-i.thgim.com/public/news/national/kerala/imrdln/article70927884.ece/alternates/LANDSCAPE_1200/Khera-SC.jpg"
+          "title": "Musk v. Altman is just getting started",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started",
+          "source": "TechCrunch",
+          "published_at": "2026-05-01T14:00:00.000Z",
+          "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the compan…"
         },
         {
-          "title": "Congress leader Pawan Khera gets anticipatory bail in case filed by Assam CM’s wife",
-          "url": "https://scroll.in/latest/1092515/congress-leader-pawan-khera-gets-anticipatory-bail-in-case-filed-by-assam-cms-wife",
-          "source": "Scroll.in",
-          "published_at": "2026-05-01T07:55:27.000Z",
-          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213216-ttqolvetdm-1777619110.jpg"
+          "title": "Musk v. Altman",
+          "url": "https://slate.com/podcasts/what-next-tbd/2026/05/elon-musk-takes-sam-altman-to-court",
+          "source": "Slate Magazine",
+          "published_at": "2026-05-01T10:00:00.000Z",
+          "image": "https://compote.slate.com/images/4042e07f-2072-4cda-9b00-ca1bfd208f67.jpeg",
+          "description": "Who do people hate more - Sam Altman, or Elon Musk?"
         },
         {
-          "title": "Relief for Pawan Khera: Congress leader dodges arrest in Himanta Sarma's wife case, gets anticipatory bail",
-          "url": "https://www.dnaindia.com/india/report-relief-for-pawan-khera-congress-leader-dodges-arrest-in-himanta-sarma-s-wife-case-gets-anticipatory-bail-3208469",
-          "source": "India News",
-          "published_at": "2026-05-01T06:26:00.000Z",
-          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/05/01/2747574-phto-91.png"
+          "title": "All the evidence revealed so far in Musk v. Altman",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+          "source": "The Verge",
+          "published_at": "2026-05-01T19:14:51.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hi…"
         },
         {
-          "title": "Supreme Court: सुप्रीम कोर्ट से पवन खेड़ा को बड़ी राहत, मानहानि और फर्जीवाड़ा केस में मिली अग्रिम जमानत",
-          "url": "https://www.amarujala.com/india-news/supreme-court-grants-anticipatory-bail-to-congress-leader-pawan-khera-in-defamation-and-forgery-case-2026-05-01",
-          "source": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
-          "published_at": "2026-05-01T06:17:05.000Z"
+          "title": "Musk vs. Altman: What Is This Really About?",
+          "url": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+          "source": "NYT > Technology",
+          "published_at": "2026-05-01T22:21:43.000Z",
+          "description": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all."
         },
         {
-          "title": "Supreme Court grants pre-arrest bail to Pawan Khera in case vs Assam CM's wife",
-          "url": "https://www.indiatoday.in/india/story/congress-leader-pawan-khera-gets-pre-arrest-bail-in-defamation-case-filed-by-assam-cms-wife-2904144-2026-05-01",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-01T06:13:54.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/pawan-khera-riniki-bhuyan-012714484-16x9_0.jpg?VersionId=JtHPBoAVQaK47SETPnu8YYLucDXsthPb"
+          "title": "King Charles: The Art of the Seal, Moscow Calling, Musk V Altman & Open AI",
+          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260501-king-charles-the-art-of-the-seal-moscow-calling-musk-v-altman-open-ai",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-01T18:33:22.000Z",
+          "image": "https://s.france24.com/media/display/70d506b6-4588-11f1-a0f3-005056bf30b7/w:1024/p:16x9/Anglais-2026-05-01T17-56-14-153Z.jpg",
+          "description": "In a week that’s seen a third apparent assassination attempt against President Trump with shots fired at the White House Correspondents Dinner. The suspect, 31 year old Cole Thomas Allen, had booked a room at the Washington Hilton, and taken a selfie in his room which prosecutors say shows him armi…"
         }
-      ]
+      ],
+      "summary": "Elon Musk’s lawsuit against OpenAI and Sam Altman is underway, with testimony and evidence including emails, texts, photos and corporate documents coming to light. The case examines the organization’s origins."
     },
     {
-      "id": "topic_2832e788a75649fc",
+      "id": "topic_77bfddba62facdaf",
+      "title": "Met Gala Coverage Looks Ahead to 2026 Event",
+      "headline": "The Met Gala By The Numbers",
       "label": [
-        "may 1st",
-        "1st",
-        "1st 2026",
-        "may 1st 2026",
-        "may",
-        "friday may 1st"
+        "gala",
+        "met",
+        "numbers",
+        "looks",
+        "moments",
+        "bezos"
       ],
       "category": "new",
-      "theme": "theme_cb54328b9be99db7",
+      "theme": "theme_f9dfa0ab712b0d0f",
       "entities": [
-        "ISC Stormcast For Friday",
+        "The Met Gala By",
+        "The Numbers",
+        "The Bezos",
+        "The Met Gala",
+        "Nine"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "The Met Gala By The Numbers",
+          "url": "https://theonion.com/the-met-gala-by-the-numbers",
+          "source": "The Onion",
+          "published_at": "2026-05-01T15:30:27.000Z",
+          "description": "The 2026 Met Gala will take place Monday, May 4. The Onion examines the key facts and figures behind the annual star-studded event. 1 in 3 Invitees aware the Met is a museum 5th Floor where the real Anna Wintour is safely stored while her decoy attends the gala $25 Target gift card awarded to […] T…"
+        },
+        {
+          "title": "The Bezos of it all: The Met Gala’s billionaire moment",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/bezos-met-gala-billionaire-moment-212028312.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-01T21:20:28.000Z",
+          "image": "https://media.zenfs.com/en/cnn_articles_875/0787f6de2f91301cb0cdacc196331a26"
+        },
+        {
+          "title": "Nine most scandalous Met Gala looks in history",
+          "url": "https://www.breakingnews.ie/lifestyle/9-most-scandalous-met-gala-looks-in-history-1894357.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMDEwNzU2MDNcXFwvNWZmMjRhOGMtNmJmZS00M2UyLWE5MDMtZWYyZmVhOGQ0OGE4LmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImZkMmRiZjc0Yjg1OGRiYjU0OWI3NzNiODI0Y2Q0MWJjZTEyOTMyZWIifQ==/5ff24a8c-6bfe-43e2-a903-ef2fea8d48a8.jpg",
+          "description": "As we gear up for the latest instalment of the Met Gala on May 4, here’s a look back at some of its most controversial looks in history."
+        },
+        {
+          "title": "Can the Costume Institute Survive Without the Met Gala?",
+          "url": "https://www.nytimes.com/2026/05/01/style/met-gala-money-finances.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-01T19:25:01.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/03/fashion/ST-METGALA-FINANCING/ST-METGALA-FINANCING-mediumSquareAt3X.jpg",
+          "description": "The Metropolitan Museum of Art and the party that has supported its fashion wing may be entering a new era."
+        },
+        {
+          "title": "The Met Gala Naked Dresses Everyone *Still* Talks About",
+          "url": "https://www.whowhatwear.com/fashion/red-carpet/met-gala-best-naked-dresses-of-all-time",
+          "source": "Latest from Who What Wear",
+          "published_at": "2026-05-01T23:45:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/EBMiz46CUN6LyTUgSn689F-1280-80.jpg",
+          "description": "Worn by Zoë Kravitz, Blake Lively, Beyoncé, and more."
+        }
+      ],
+      "summary": "The Met Gala is scheduled for May 4, with coverage ranging from its history of notable outfits to questions about the Costume Institute’s reliance on the event and the role of billionaires."
+    },
+    {
+      "id": "topic_95e02cd13ad72b19",
+      "title": "Trump Says EU Vehicle Tariffs Will Rise to 25%",
+      "headline": "Trump says he will raise tariffs on EU cars to 25%",
+      "label": [
+        "tariffs",
+        "cars",
+        "eu",
+        "trump",
+        "raise",
+        "trucks"
+      ],
+      "category": "new",
+      "theme": "theme_cce576bed8e6a0be",
+      "entities": [
+        "Trump",
+        "EU",
+        "US",
+        "Trump Says He Will",
+        "Raise Tariffs"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump says he will raise tariffs on EU cars to 25%",
+          "url": "https://japantoday.com/category/business/trump-says-will-raise-us-tariffs-on-eu-cars-trucks-to-25",
+          "source": "Japan Today",
+          "published_at": "2026-05-01T20:40:19.000Z",
+          "description": "President Donald Trump said Friday that he will hike U.S. tariffs on cars and trucks from the European Union next week, charging that the bloc is not complying…"
+        },
+        {
+          "title": "Trump says he will raise tariffs on EU cars to 25% next week",
+          "url": "https://www.thejournal.ie/trump-to-hike-tariffs-on-eu-cars-to-25-percent-7029257-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-01T17:03:24.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/president-donald-trump-speaks-to-reporters-in-the-oval-office-of-the-white-house-thursday-april-30-2026-in-washington-ap-photoalex-brandon-1e6bab17-bad2-44d6-aa2d-e47394ad2fed-630x419.jpg",
+          "description": "The US president accused the bloc of not complying with a trade deal that was struck last summer, but did not elaborate on how."
+        },
+        {
+          "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
+          "url": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-01T16:25:00.000Z",
+          "description": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade agreement with the US."
+        },
+        {
+          "title": "Trump says he will hike tariffs on EU cars to 25%",
+          "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o",
+          "source": "BBC News",
+          "published_at": "2026-05-01T19:42:56.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bef/live/f58ee210-4578-11f1-86ec-5992fe9627d8.jpg",
+          "description": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July."
+        },
+        {
+          "title": "Trump says US will hike tariffs on EU cars and trucks to 25%",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/01/trump-says-us-will-hike-tariffs-on-eu-cars-and-trucks-to-25_6753044_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-01T16:23:24.000Z",
+          "image": "https://img.lemde.fr/2026/04/30/305/0/3655/1827/644/322/60/0/f7625aa_ftp-1-l7802tpo7jmy-2026-04-30t213259z-921038426-rc2wzka4chid-rtrmadp-3-usa-trump.JPG",
+          "description": "Donald Trump accused the European Union of not complying with a trade deal struck last year."
+        }
+      ],
+      "summary": "Donald Trump said the United States will raise tariffs on cars and trucks from the European Union to 25% next week. He accused the bloc of not complying with a trade agreement reached last summer."
+    },
+    {
+      "id": "topic_dcecebc8746effea",
+      "title": "Apple Raises Mac Mini Starting Price to $799",
+      "headline": "Apple raises the Mac Mini&#8217;s starting price",
+      "label": [
+        "mac",
+        "mini",
+        "starting",
+        "price",
+        "apple",
+        "raises"
+      ],
+      "category": "new",
+      "theme": "theme_59e1dfb56338626",
+      "entities": [
+        "Apple",
+        "Mac Mini",
+        "Demand",
+        "Apple Raises Mac Mini",
+        "Starting Price"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Apple raises the Mac Mini&#8217;s starting price",
+          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+          "source": "The Verge",
+          "published_at": "2026-05-01T21:52:09.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717370/DSC_1249.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage will impact its Mac pr…"
+        },
+        {
+          "title": "Demand for the Mac Mini is surging — and Apple just raised the starting price from $599 to $799",
+          "url": "https://www.businessinsider.com/apple-raises-mac-mini-starting-price-799-ai-boosts-demand-2026-5",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-05-01T22:32:37.000Z",
+          "image": "https://i.insider.com/69f522c0ab24bc0b23a189e1?format=jpeg",
+          "description": "The starting price for the Mac Mini went from $599 to $799. Future Publishing via Getty Images Apple's Mac Mini starting price rose this week as the company reported a surge in demand. The cheapest model is now $799, and the $599 model no longer appears on Apple's website. CEO Tim Cook says AI is d…"
+        },
+        {
+          "title": "Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-05-01T20:31:40.000Z",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6_LWhWSQV40/v1/1200x-1.jpg",
+          "description": "Apple Inc. raised the starting price of its Mac mini desktop to $799 from $599, adjusting to inventory shortages driven by AI demand and the tight supply of processors."
+        },
+        {
+          "title": "Mac mini starting price rises to $799 as Apple stops offering 256GB option",
+          "url": "https://www.macworld.com/article/3129806/mac-mini-starting-price-rises-to-799-as-apple-stops-offering-256gb-option.html",
+          "source": "Macworld",
+          "published_at": "2026-05-01T19:22:02.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/05/M4-Mac-mini-hero.jpg?quality=50&strip=all",
+          "description": "Macworld If you’re looking for the cheapest desktop Mac, you’ll have to spend a little more than last week. On Apple.com, you can no longer buy the M4 Mac mini with 256GB of storage. No, it’s not simply out of stock, nor does it have extended delivery times (as has been the case for a while). It’s…"
+        },
+        {
+          "title": "Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply",
+          "url": "https://news.google.com/rss/articles/cbmixafbvv95cuxoudutd1nuctvutnjgmwjzwvn2c3pizdd0rglet1hia2zbmehvlxg5u3ffv1zlrejwa1jcm3d1annsvy1meuxtme91n2vvdmnjb3pxrxlsx2rhwxzketzium1uemg2d2zau001x1lkalpnmjrtowlum3h3stbzskftcmffsy1lylm2bwjmttzzckn0albtzwjcewxyvjlytnjtujb1b1y5qjbnei1cbg85umr6thrvugyxahu1a1dwanv2mu5x",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-01T20:59:24.000Z",
+          "description": "Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply Bloomberg.com Good Luck Getting a Mac Mini for the Next ‘Several Months’ WIRED Apple Stops Selling Mac Mini With 256GB of Storage, Starting Price Rises to $799 MacRumors Demand for the Mac Mini is surging — and Apple just…"
+        }
+      ],
+      "summary": "Apple has removed the Mac mini model with 256GB of storage from its online store, raising the desktop’s starting price from $599 to $799. Reports link the change to strong demand and limited supply."
+    },
+    {
+      "id": "topic_444dc6f53afd73fe",
+      "title": "India Raises Commercial LPG Prices by ₹993",
+      "headline": "Commercial LPG prices hiked by ₹993; No change in diesel, petrol, household LPG prices",
+      "label": [
+        "lpg",
+        "commercial",
+        "prices",
+        "hiked",
+        "domestic",
+        "price"
+      ],
+      "category": "new",
+      "theme": "theme_bb8da8548683fb69",
+      "entities": [
+        "Commercial LPG",
+        "LPG",
+        "Rs",
+        "Centre",
+        "India"
+      ],
+      "article_count": 10,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Commercial LPG prices hiked by ₹993; No change in diesel, petrol, household LPG prices",
+          "url": "https://www.thehindubusinessline.com/economy/commercial-lpg-prices-hiked-by-993-no-change-in-diesel-petrol-household-lpg-prices/article70927494.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-05-01T05:13:31.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/o1p18r/article70927516.ece/alternates/LANDSCAPE_1200/Hotel-meals-getGC7FRFN6O.3.jpg.jpg",
+          "description": "Third hike in recent months pushes 19-kg cylinder price to ₹3,071 in Delhi"
+        },
+        {
+          "title": "Commercial LPG price hiked by Rs 993 amid global disruptions",
+          "url": "https://scroll.in/latest/1092510/commercial-lpg-price-hiked-by-rs-993-amid-global-disruptions",
+          "source": "Scroll.in",
+          "published_at": "2026-05-01T03:39:04.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/212603-cflrtotjfa-1774261027.jpg",
+          "description": "The windfall gains tax on the export of diesel was cut to Rs 23 per litre and on aviation turbine fuel to Rs 33 per litre."
+        },
+        {
+          "title": "Centre hikes commercial LPG prices by Rs 993 amid global energy crisis",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/centre-hikes-commercial-lpg-prices-by-rs-993-amid-global-energy-crisis/articleshow/130662655.cms",
+          "source": "Times of India",
+          "published_at": "2026-05-01T01:14:16.000Z",
+          "image": "https://static.toiimg.com/photo/msid-130662605,imgsize-636552.cms"
+        },
+        {
+          "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
+          "url": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-01T07:58:00.000Z",
+          "description": "India has increased the prices of LPG used by the restraunt and hotel industry. It is the third such monthly hike since the Iran war upended global suppply. DW has the latest."
+        },
+        {
+          "title": "Aviation fuel prices for domestic carriers kept unchanged, commercial LPG prices hiked",
+          "url": "https://www.thehindu.com/business/economy/petrol-diesel-fuel-atf-lpg-cylinder-retail-commercial-prices-may-1-2026/article70927347.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-05-01T07:40:05.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ltaj1k/article70927386.ece/alternates/LANDSCAPE_1200/20260424038L.jpg",
+          "description": "The price of commercial LPG has been revised by ₹993, which represents less than 1% of the overall consumption"
+        }
+      ],
+      "summary": "India increased the price of commercial LPG cylinders by ₹993, bringing the 19-kilogram cylinder to ₹3,071 in Delhi. Petrol, diesel and household LPG prices were unchanged."
+    },
+    {
+      "id": "topic_718816f748307182",
+      "title": "Britney Spears Charged With DUI in California",
+      "headline": "Britney Spears Is Charged With D.U.I. Involving Drugs and Alcohol",
+      "label": [
+        "britney",
+        "spears",
+        "charged",
+        "drugs",
+        "alcohol",
+        "formally"
+      ],
+      "category": "new",
+      "theme": "theme_a44e940d51e4edab",
+      "entities": [
+        "Britney Spears Is Charged",
+        "Involving Drugs",
+        "Alcohol",
+        "Britney Spears Charged With",
+        "DUI Involving Drugs"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Britney Spears Is Charged With D.U.I. Involving Drugs and Alcohol",
+          "url": "https://www.nytimes.com/2026/04/30/arts/music/britney-spears-charges-dui-drugs.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-05-01T21:07:59.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/02/multimedia/00cul-spears-charges-bfkz/00cul-spears-charges-bfkz-mediumSquareAt3X.jpg",
+          "description": "Officers in California observed the pop star driving fast and erratically in March. After she was arrested, she checked herself into a treatment facility."
+        },
+        {
+          "title": "Britney Spears Charged With DUI Involving Drugs and Alcohol",
+          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxosjhxzjbyu29pzuh2znhgsk1nbmxtcwt6m0u3c1htoerln3nnmzlzogxncglhaw1poddmbeplvwhhn3vzymvoqnruq01dd1llc0j2s01equtkde9nz0xongp4nlb4vg5pnvzeb1zqy256t1heuuc2lufrvfdlanl2tgt5z3hrrhnsoezkvg5iagkyvlk5ejk3mw9pcu5jajbmdfrusq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-01T00:11:49.000Z",
+          "description": "Britney Spears Charged With DUI Involving Drugs and Alcohol The Hollywood Reporter Britney Spears Is Charged With D.U.I. Involving Drugs and Alcohol The New York Times Britney Spears charged in California with driving under influence BBC Britney Spears charged with one misdemeanor in DUI case Reute…"
+        },
+        {
+          "title": "Britney Spears formally charged with driving under the influence of alcohol and drugs",
+          "url": "https://www.thejournal.ie/britney-spears-formally-charged-with-dui-in-california-7028568-may2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-05-01T06:33:05.000Z",
+          "image": "https://c0.thejournal.ie/media/2026/05/file-britney-spears-arrives-at-the-los-angeles-premiere-of-once-upon-a-time-in-hollywood-on-july-22-2019-photo-by-jordan-straussinvisionap-file-87668471-7966-472a-87de-c23c249d56f7-630x445.jpg",
+          "description": "Prosecutors said in their statement that Spears could avoid jail time by agreeing to a plea deal."
+        },
+        {
+          "title": "Britney Spears charged with drink and drug driving",
+          "url": "https://www.breakingnews.ie/entertainment/britney-spears-charged-with-drink-and-drug-driving-1894348.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDRcXFwvMDEwNzM4MjdcXFwvR2V0dHlJbWFnZXMtOTQ1NTU5MDk0LWUxNzc3NjE3NjExMTcwLmpwZ1wiLFwid2lkdGhcIjoxMDI0LFwiaGVpZ2h0XCI6bnVsbCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjhmZjI2YzFkODMyNThiODhmNDcxZGI0YjZiNGM3MmJjMmI2YzA4YTMifQ==/gettyimages-945559094-e1777617611170.jpg",
+          "description": "The charge comes just weeks after the chart-topper voluntarily checked herself into a treatment facility."
+        },
+        {
+          "title": "Britney Spears formally charged with DUI in California",
+          "url": "https://www.digitaljournal.com/entertainment/britney-spears-formally-charged-with-dui-in-california/article",
+          "source": "Digital Journal",
+          "published_at": "2026-05-01T01:57:20.000Z",
+          "description": "Pop star Britney Spears on Thursday was charged with driving under the influence of alcohol and drugs. The post Britney Spears formally charged with DUI in California appeared first on Digital Journal."
+        }
+      ],
+      "summary": "Britney Spears has been charged with driving under the influence of alcohol and drugs following her arrest in California. Prosecutors said she could avoid jail time by agreeing to a plea deal."
+    },
+    {
+      "id": "topic_35e581240ecffdc",
+      "title": "Star Wars Day Brings Games, Merchandise and Deals",
+      "headline": "The Best Star Wars Games Of All Time",
+      "label": [
+        "wars",
+        "star",
+        "score",
+        "games",
+        "far",
+        "things"
+      ],
+      "category": "new",
+      "theme": "theme_775f8157dc60d7c1",
+      "entities": [
+        "The Best Star Wars",
+        "Games Of All Time",
+        "Fortnite Celebrates Star Wars",
+        "Day With Month",
+        "Long Roadmap"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "The Best Star Wars Games Of All Time",
+          "url": "https://www.gamespot.com/gallery/best-star-wars-games/2900-4064",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-05-01T20:54:00.000Z",
+          "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15950357/4133741-jedisurvivor.jpeg",
+          "description": "Star Wars is composed of dozens of different stories, many of which have been told outside of the mainline movies. One of the most prominent sources since the franchise's creation has been video games, with studios reimagining Star Wars' existing stories and characters or creating new ones across d…"
+        },
+        {
+          "title": "Fortnite Celebrates Star Wars Day With Month-Long Roadmap, Includes \"A Galaxy Of New Star Wars Games\"",
+          "url": "https://www.nintendolife.com/news/2026/05/fortnite-celebrates-star-wars-day-with-month-long-roadmap-includes-a-galaxy-of-new-star-wars-games",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-05-01T03:55:00.000Z",
+          "image": "https://images.nintendolife.com/6f986421e5cdd/large.jpg",
+          "description": "And a \"sneak peek\" of The Mandalorian and Grogu. The annual Star Wars Day celebrations are almost here, and to join in on the fun, Epic's free-to-play Fortnite will be dropping all sorts of themed content throughout the month of May. \"Starting May 1, hundreds of these islands will go live and Fortn…"
+        },
+        {
+          "title": "8 ‘Star Wars’ Things You Can Score on May 4",
+          "url": "https://www.nerdwallet.com/finance/news/star-wars-day-2026",
+          "source": "NerdWallet",
+          "published_at": "2026-05-01T18:27:58.000Z",
+          "description": "Themed collections include toys, food and nail polish."
+        },
+        {
+          "title": "£115 off for Star Wars Day, I think this Lego Star Wars UCS set is the most mind-blowing Lego starship you'll ever own",
+          "url": "https://www.space.com/stargazing/skywatching-kit/gbp115-off-for-star-wars-day-i-think-this-lego-star-wars-ucs-set-is-the-most-mind-blowing-lego-starship-youll-ever-own",
+          "source": "Latest from Space.com",
+          "published_at": "2026-05-01T16:32:50.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/ojGevCEPwtkcs9uWncuSiK-1280-80.jpg",
+          "description": "Argos UK is celebrating Star Wars Day early with over 20% off this massive 5,000+ piece Lego Star Wars Clone Wars Venator starship, This is literally the best UCS Lego set you can buy."
+        },
+        {
+          "title": "The Greatest ‘Star Wars’ Day Gifts From a Galaxy Far, Far Away",
+          "url": "https://gizmodo.com/star-wars-day-2026-gifts-best-toys-merchandise-2000753255",
+          "source": "Gizmodo",
+          "published_at": "2026-05-01T18:00:05.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/05/Artboard-1-copy-2-1280x853.jpg",
+          "description": "Let the 'Star Wars' fans in your life feel the love with our collection of merch recommendations from across the galaxy."
+        }
+      ],
+      "summary": "Coverage ahead of Star Wars Day highlights Fortnite’s month-long themed roadmap, new merchandise and gifts, and discounts on Star Wars products. Other coverage looks back at the franchise’s notable video games."
+    },
+    {
+      "id": "topic_828fb540675d1b2b",
+      "title": "Iran Sends New Peace Proposal to US Mediators",
+      "headline": "Iran offers new peace proposal to US but Trump ‘not satisfied’",
+      "label": [
+        "satisfied",
+        "peace",
+        "iran",
+        "trump",
+        "offers",
+        "proposal"
+      ],
+      "category": "new",
+      "theme": "theme_519aa29da6993a63",
+      "entities": [
+        "Iran",
+        "US",
+        "Trump",
+        "The Latest",
+        "US President Donald Trump"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Iran offers new peace proposal to US but Trump ‘not satisfied’",
+          "url": "https://www.theguardian.com/world/2026/may/01/pakistan-backchannel-us-iran-deal-peace",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-05-01T21:27:45.000Z",
+          "image": "https://i.guim.co.uk/img/media/40043cc52ff6d0a2115c0ba33b75c87639d33311/1375_13_5835_4668/master/5835.jpg?width=140&quality=85&auto=format&fit=max&s=44d6efd9287b8295f10e1fdc03107868",
+          "description": "Tehran reportedly passed proposal to mediators in Pakistan on Thursday night, though its contents are not yet clear Iran has passed a new proposal to Pakistani mediators in the latest effort to end the war with the US, but Donald Trump said he was not “satisfied” by it. “Right now, we have talks go…"
+        },
+        {
+          "title": "The Latest: Trump says he's 'not satisfied' with Iran's new peace plan",
+          "url": "https://www.yahoo.com/news/articles/latest-trump-administration-says-war-121437050.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-01T12:14:37.000Z",
+          "image": "https://media.zenfs.com/en/ap.org/41f32f4ca94e4bd95161d90a626c319d"
+        },
+        {
+          "title": "Trump says he’s ‘not satisfied’ with Iran after latest peace offer but he’d ‘rather not blast the hell’ out of them",
+          "url": "https://www.thesun.co.uk/news/38992516/trump-iran-peace-offer-blast",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-05-01T19:45:16.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2Fnewspress-collage-8xlbjfo8f-1777664614882.jpg?quality%3D90%26strip%3Dall%261777668289",
+          "description": "DONALD Trump has said that he is \"not satisfied\" with Iran's latest peace offer, but that he'd still \"prefer not\" to \"blast the hell\" out of the reeling regime. The White House has declared that the war was not \"terminated\", but Trump has refused to rule out further strikes. Iran passed its latest…"
+        },
+        {
+          "title": "US President Donald Trump says 'not satisfied' with new peace proposal from Iran",
+          "url": "http://www.euronews.com/2026/05/01/us-president-donald-trump-says-not-satisfied-with-new-peace-proposal-from-iran",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-05-01T18:48:18.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/74/40/61/696x392_cmsv2_2a0cf1cd-75d8-54ef-a82b-60adb87ea617-9744061.jpg",
+          "description": "Meanwhile, Washington is gripped by a legalistic debate over whether Trump has passed a deadline for requesting congressional approval for the war."
+        },
+        {
+          "title": "Iran offers new response on draft peace deal, Trump \"not satisfied\"",
+          "url": "https://www.axios.com/2026/05/01/iran-peace-plan-response-trump",
+          "source": "Axios",
+          "published_at": "2026-05-01T16:51:01.000Z",
+          "image": "https://images.axios.com/ngDcsWOoj1ewRawQtauZtTBw0zQ=/0x48:1280x768/1366x768/2026/05/01/1777642005122.jpeg",
+          "description": "Iran delivered its response to the latest U.S. amendments to a draft plan to end the war, but President Trump said told reporters he was \"not satisfied with what they are offering.\" The big picture: The Iranian response is a signal that the diplomacy is not entirely frozen. It comes as Trump mainta…"
+        }
+      ],
+      "summary": "Iran has passed a new proposal to Pakistani mediators as part of efforts to end the war. Donald Trump said he was not satisfied with the offer."
+    },
+    {
+      "id": "topic_ce5bb09efc7a11ab",
+      "title": "Criminal IP Threat Intelligence Joins Securonix ThreatQ",
+      "headline": "Criminal IP Integration with Securonix ThreatQ Platform",
+      "label": [
+        "securonix",
+        "threatq",
+        "ip",
+        "criminal",
+        "intelligence",
+        "integration"
+      ],
+      "category": "new",
+      "theme": "theme_545cdb3229942627",
+      "entities": [
+        "Criminal IP Integration",
+        "Securonix ThreatQ Platform",
+        "Criminal IP",
+        "Securonix ThreatQ Collaborate",
+        "Enhance Threat Intelligence Operations"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Criminal IP Integration with Securonix ThreatQ Platform",
+          "url": "https://blog.criminalip.io/2026/05/01/securonix-threatq-criminal-ip",
+          "source": "CIP Blog",
+          "published_at": "2026-05-01T08:00:57.000Z",
+          "description": "Criminal IP, a cyber threat intelligence platform, has been integrated with Securonix’s threat intelligence operations platform, ThreatQ. ThreatQ is a Threat Intelligence Platform (TIP) that centralizes, aggregates, and prioritizes threat data from multiple sources, serving as a core system for man…"
+        },
+        {
+          "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+          "url": "https://cybersecuritynews.com/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations",
+          "source": "Cyber Security News",
+          "published_at": "2026-05-01T17:40:23.000Z",
+          "image": "https://i3.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnGrReDky4_86Xz6qsAoVkmvaV-BgwcvKey0y1-FGLb0WRAE3tZxqcEdT9z-iA0-vDEXhbBaY-pVTCf2sFHdejd9M2oJeqV92ePwtIMwvTnJvhOK5OAEkBca7PgACX5kHoSRJZEmbJR4YRNKY18KExan7KRTz2JqnofWtK-Wg2zqoinN4zQmDAp-4iiXs/s16000/TTT%20-%202026-05-01T203622.398.webp?ssl=1",
+          "description": "Torrance, United States / California, May 1st, 2026, CyberNewswire Criminal IP partners with Securonix to integrate Criminal IP’s Threat Intelligence into ThreatQ, allowing organizations to incorporate external IP intelligence into their existing workflows, helping security teams accelerate analysi…"
+        },
+        {
+          "title": "Securonix partners with AI SPERA to bring Criminal IP intelligence to ThreatQ",
+          "url": "https://siliconangle.com/2026/05/01/securonix-partners-ai-spera-bring-criminal-ip-intelligence-threatq",
+          "source": "Security – SiliconANGLE",
+          "published_at": "2026-05-01T13:00:47.000Z",
+          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/securonixaispera.png",
+          "description": "Cybersecurity company Securonix Inc. today announced a new partnership with cyberthreat intelligence company AI SPERA Inc. to deliver integrated threat intelligence enrichment through its ThreatQ Platform. The partnership sees the integration of Securonix’s ThreatQ data-driven orchestration and inv…"
+        }
+      ],
+      "summary": "Cybersecurity companies AI Spera and Securonix announced an integration bringing Criminal IP threat intelligence into Securonix’s ThreatQ platform. The integration is intended to enrich threat intelligence operations."
+    },
+    {
+      "id": "topic_8c23bc675f567e0a",
+      "title": "Teacher Denied Bail Over Alleged School Bathroom Filming",
+      "headline": "Primary school teacher accused of filming inside toilet",
+      "label": [
+        "primary",
+        "teacher",
+        "school",
+        "toilets",
+        "accused",
+        "filming"
+      ],
+      "category": "new",
+      "theme": "theme_8bb69575a8dd2018",
+      "entities": [
+        "Primary"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Primary school teacher accused of filming inside toilet",
+          "url": "https://www.perthnow.com.au/news/crime/primary-school-teacher-accused-of-filming-inside-toilet-c-22221927",
+          "source": "PerthNow",
+          "published_at": "2026-05-01T06:45:49.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22221927/f182d04c6ce32cef2a108adc2f1793828ae9a951-16x9-x0y0w1280h720.jpg",
+          "description": "A teacher has been refused bail over claims he tried to hide a camera allegedly used to film primary school students, which was found inside a school bathroom."
+        },
+        {
+          "title": "Primary school teacher accused of filming students in toilets denied bail",
+          "url": "https://www.brisbanetimes.com.au/national/victoria/primary-school-teacher-accused-of-filming-students-in-toilets-denied-bail-20260501-p5zsw0.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-01T08:24:29.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1.3238%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_93/t_crop_custom/q_86%2Cf_auto/043a2ec1d0feab59ebfa4b478089f8746e8ceb57",
+          "description": "A 33-year-old man was arrested at Kingswood Primary School earlier this week."
+        },
+        {
+          "title": "Primary school teacher who slapped child across face claimed she ‘lost her balance’",
+          "url": "https://www.independent.co.uk/news/uk/home-news/primary-school-teacher-slap-child-wakefield-b2968905.html",
+          "source": "The Independent UK",
+          "published_at": "2026-05-01T14:29:04.000Z",
+          "image": "https://static.independent.co.uk/2026/05/01/13/39/Screenshot-2026-05-01-at-14-03-43.png?width=1200&auto=webp&crop=3%3A2",
+          "description": "Helena Eckles, 53, who struck disruptive pupil, maintained there had been 'miscarriage of justice', following conviction for assault"
+        }
+      ],
+      "summary": "A primary school teacher has been denied bail over allegations that he tried to conceal a camera allegedly used to film students in a school bathroom. He was arrested at Kingswood Primary School earlier in the week."
+    },
+    {
+      "id": "topic_611f9e53bb01b031",
+      "title": "Spotify Adds Badges to Identify Human Artists",
+      "headline": "Spotify’s new Verified badge is for humans only",
+      "label": [
+        "verified",
+        "spotify",
+        "badge",
+        "humans",
+        "distinguish",
+        "ai"
+      ],
+      "category": "new",
+      "theme": "theme_d7407e8d1daf4b43",
+      "entities": [
+        "Spotify",
+        "Verified",
+        "AI",
+        "Spotify Adds",
+        "Badges To Distinguish Human"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Spotify’s new Verified badge is for humans only",
+          "url": "https://phandroid.com/2026/05/01/spotifys-new-verified-badge-is-for-humans-only",
+          "source": "Phandroid",
+          "published_at": "2026-05-01T16:52:41.000Z",
+          "description": "Spotify's new Verified by Spotify badge flags human artists in search and profiles, but it comes with a catch worth knowing. The post Spotify’s new Verified badge is for humans only appeared first on Phandroid."
+        },
+        {
+          "title": "Spotify unveils verified badge to distinguish humans from AI",
+          "url": "https://www.siliconrepublic.com/business/spotify-unveils-verified-badge-in-latest-attempt-to-thwart-ai-slop",
+          "source": "Silicon Republic",
+          "published_at": "2026-05-01T14:05:29.000Z",
+          "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/03/AdobeStock_599850260_Editorial_Use_Only.jpeg",
+          "description": "Last year, Spotify removed more than 75m spam tracks from its platform. Read more: Spotify unveils verified badge to distinguish humans from AI"
+        },
+        {
+          "title": "Spotify fights back against AI slop with new Verified badge",
+          "url": "https://www.androidpolice.com/spotify-fights-back-against-ai-slop-with-new-verified-badge",
+          "source": "Android Police",
+          "published_at": "2026-05-01T14:31:15.000Z",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/melting-robot-with-glowing-red-eyes-wearing-headphones-featuring-the-spotify-logo-superimposed-over-the-large-text-slop.png",
+          "description": "AI artists need not apply — for now"
+        },
+        {
+          "title": "Spotify Adds 'Verified' Badges To Distinguish Human Artists From AI",
+          "url": "https://entertainment.slashdot.org/story/26/05/01/1650254/spotify-adds-verified-badges-to-distinguish-human-artists-from-ai",
+          "source": "Slashdot",
+          "published_at": "2026-05-01T17:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "Spotify is adding \"Verified by Spotify\" badges to distinguish human artists from AI-generated personas, using signals like linked social accounts, consistent listener activity, merchandise, and concert dates. The BBC reports: The world's most-used music streaming service said the 'Verified by Spoti…"
+        }
+      ],
+      "summary": "Spotify is introducing “Verified by Spotify” badges to distinguish human artists from AI-generated personas. The company says it will use signals including linked social accounts and consistent listener activity."
+    },
+    {
+      "id": "topic_cf8a2de83d0f97a2",
+      "title": "May 1 Listings Include Horoscope, Cartoon and Security Podcast",
+      "headline": "Horoscope for Friday, May 1st, 2026",
+      "label": [
+        "1st",
+        "friday",
+        "may",
+        "horoscope",
+        "cartoon",
+        "daily"
+      ],
+      "category": "new",
+      "theme": "theme_83f7f5ec9fc95c53",
+      "entities": [
+        "Horoscope",
+        "Friday",
         "May",
-        "Fri",
-        "Latest",
-        "Morning"
+        "Daily Cartoon",
+        "ISC Stormcast For Friday"
       ],
       "article_count": 4,
       "source_count": 4,
@@ -87,807 +772,75 @@
           "url": "https://www.thestar.com/life/horoscopes/horoscope-for-friday-may-1st-2026/article_dad2921d-7f48-4309-9ba9-66cb56ba4b8f.html",
           "source": "www.thestar.com - RSS Results",
           "published_at": "2026-05-01T08:00:00.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/fb/7fb29791-262e-4578-a19d-f6bf91915469/64eaae2698b40.image.jpg?resize=300%2C202"
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/fb/7fb29791-262e-4578-a19d-f6bf91915469/64eaae2698b40.image.jpg?resize=300%2C202",
+          "description": "Daily horoscope."
         },
         {
-          "title": "Latest news bulletin | May 1st, 2026 – Morning",
-          "url": "http://www.euronews.com/video/2026/05/01/latest-news-bulletin-may-1st-2026-morning",
-          "source": "News | Euronews RSS",
-          "published_at": "2026-05-01T05:00:33.000Z",
-          "image": "https://images.euronews.com/articles/stories/09/74/29/76/696x392_cmsv2_d29a4b89-1ca8-585f-aee0-88c5c0e3787b-9742976.jpg"
+          "title": "Daily Cartoon: Friday, May 1st",
+          "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-may-1st-graduating-class-throws-resumes",
+          "source": "Everything",
+          "published_at": "2026-05-01T14:00:39.000Z",
+          "image": "https://media.newyorker.com/cartoons/69f4a8d2785c77ab150d1f50/master/pass/A61945.jpg",
+          "description": "A drawing that riffs on the latest news and happenings."
         },
         {
           "title": "ISC Stormcast For Friday, May 1st, 2026 https://isc.sans.edu/podcastdetail/9914, (Fri, May 1st)",
           "url": "https://malware.news/t/isc-stormcast-for-friday-may-1st-2026-https-isc-sans-edu-podcastdetail-9914-fri-may-1st/106588",
           "source": "Malware Analysis, News and Indicators - Latest topics",
-          "published_at": "2026-05-01T02:05:43.000Z"
-        },
-        {
-          "title": "ISC Stormcast For Friday, May 1st, 2026 https://isc.sans.edu/podcastdetail/9914, (Fri, May 1st)",
-          "url": "https://buaq.net/go-413995.html",
-          "source": "unSafe.sh - 不安全",
-          "published_at": "2026-05-01T00:00:03.000Z"
+          "published_at": "2026-05-01T02:05:43.000Z",
+          "description": "Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills? Get 10% off using coupon code: MWNEWS10 for any flavor. Enroll Now and Save 10%: Coupon Code MWNEWS10 Note: Affiliate link – your enrollment helps support this platform at no extra cost to you. Article Link: ISC St…"
         }
-      ]
+      ],
+      "summary": "The listings include a horoscope and a daily cartoon for Friday, May 1, 2026, along with a SANS Internet Storm Center podcast episode about malware binary triage."
     },
     {
-      "id": "topic_2e5bce1b05ff11f1",
+      "id": "topic_71342c9c89af0ffe",
+      "title": "Kiwi Birds Return to Wellington Hills After a Century",
+      "headline": "Kiwi birds return to New Zealand's capital after a century away",
       "label": [
-        "trade",
-        "eu mercosur",
-        "mercosur trade",
-        "trade deal",
-        "deal enter",
-        "enter force"
+        "kiwi",
+        "zealand",
+        "birds",
+        "capital",
+        "iconic",
+        "century"
       ],
       "category": "new",
-      "theme": "theme_37aff03aef92f9d0",
+      "theme": "theme_892fa699343b96bb",
       "entities": [
-        "Blockbuster EU",
-        "Mercosur",
-        "EU",
-        "Five"
+        "Kiwi",
+        "New Zealand",
+        "Iconic"
       ],
       "article_count": 4,
       "source_count": 4,
       "articles": [
         {
-          "title": "Blockbuster EU-Mercosur trade deal enters into force",
-          "url": "https://www.thelocal.es/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
-          "source": "The Local Spain",
-          "published_at": "2026-05-01T07:52:06.000Z",
-          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/05/AFP__20260121__93HG87Y__v1__MidRes__FranceEconomyAgricultureProtest.jpg@webp"
+          "title": "Kiwi birds return to New Zealand's capital after a century away",
+          "url": "http://www.euronews.com/video/2026/05/01/kiwi-birds-return-to-new-zealands-capital-after-a-century-away",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-05-01T13:30:42.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/74/34/84/696x392_cmsv2_926c80b5-3b37-5232-8fb0-a20f9e347fcf-9743484.jpg",
+          "description": "Wellington has welcomed its 250th relocated kiwi as the Capital Kiwi Project works to restore New Zealand's national bird to hills where it has been absent for over a century."
         },
         {
-          "title": "Blockbuster EU-Mercosur trade deal enters into force",
-          "url": "https://www.thelocal.it/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
-          "source": "The Local Italy",
-          "published_at": "2026-05-01T07:52:06.000Z",
-          "image": "https://assets.thelocal.com/cdn-cgi/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/05/AFP__20260121__93HG87Y__v1__MidRes__FranceEconomyAgricultureProtest.jpg@webp"
+          "title": "Iconic kiwi birds reintroduced around New Zealand’s capital",
+          "url": "https://www.nbcnews.com/video/kiwi-birds-reintroduced-around-new-zealand-s-capital-wellington-262549573891",
+          "source": "NBC News World News",
+          "published_at": "2026-05-01T18:56:28.000Z",
+          "image": "http://link.theplatform.com/s/rksNhC/HXHZDp0Q43DW",
+          "description": "A successful citizen campaign has led to a thriving population of kiwis, New Zealand’s sacred national bird, in the hills around Wellington, where they had not been living for over a century."
         },
         {
-          "title": "EU-Mercosur trade deal enters into force: Five questions about where things stand",
-          "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/05/01/eu-mercosur-trade-deal-enters-into-force-five-questions-about-where-things-stand_6749274_9.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-05-01T07:20:21.000Z",
-          "image": "https://img.lemde.fr/2026/01/16/364/0/4368/2184/644/322/60/0/fca4ec4_ftp-1-b3awsamsgira-f3547afae79e4b0b97927ad893265daa-0-0fa26ce12ed345aba6b5738f5d4ddffc.jpg"
-        },
-        {
-          "title": "Blockbuster EU-Mercosur trade deal enters into force",
-          "url": "https://www.digitaljournal.com/world/blockbuster-eu-mercosur-trade-deal-enters-into-force/article",
-          "source": "Digital Journal",
-          "published_at": "2026-05-01T01:57:20.000Z"
+          "title": "A citizen campaign returns iconic kiwi birds to New Zealand's capital after a century-long absence",
+          "url": "https://phys.org/news/2026-05-citizen-campaign-iconic-kiwi-birds.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-05-01T07:28:01.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-citizen-campaign-ret.jpg",
+          "description": "The kiwi, New Zealand's sacred national bird, vanished from the hills around Wellington more than a century ago. Now the capital's residents are waging an improbable citizen campaign to return the endangered flightless birds to the city."
         }
-      ]
-    },
-    {
-      "id": "topic_6fd59dee9c390c69",
-      "label": [
-        "aung",
-        "san",
-        "aung san",
-        "san suu",
-        "house arrest",
-        "aung san suu"
       ],
-      "category": "new",
-      "theme": "theme_dfffed0be39117be",
-      "entities": [
-        "Myanmar",
-        "Aung San Suu Kyi",
-        "Moved From Prison To",
-        "House Arrest In Myanmar"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Aung San Suu Kyi moved from prison to house arrest in Myanmar",
-          "url": "https://www.thehindu.com/news/international/aung-san-suu-kyi-moved-from-prison-to-house-arrest-in-myanmar/article70927430.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-01T07:40:16.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/5ssl1h/article70927434.ece/alternates/LANDSCAPE_1200/Myanmar_Suu_Kyi_77916.jpg"
-        },
-        {
-          "title": "Aung San Suu Kyi Moved From Prison To House Arrest In Myanmar",
-          "url": "https://www.ndtv.com/world-news/aung-san-suu-kyi-moved-from-prison-to-house-arrest-in-myanmar-11434040",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-01T03:54:40.000Z",
-          "image": "https://c.ndtvimg.com/2025-12/5s0lb5a_aung-san-suu-kyi_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
-        },
-        {
-          "title": "Myanmar moves Aung San Suu Kyi to house arrest",
-          "url": "https://www.japantimes.co.jp/news/2026/05/01/asia-pacific/politics/aung-san-suu-kyi-house-arrest",
-          "source": "Latest articles - The Japan Times",
-          "published_at": "2026-05-01T02:19:00.000Z",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/01/538158.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_12539e07ab437df8",
-      "label": [
-        "pric",
-        "lpg pric",
-        "lpg",
-        "pric hik",
-        "lpg pric hik",
-        "commercial lpg pric"
-      ],
-      "category": "new",
-      "theme": "theme_631b8d56e65407db",
-      "entities": [
-        "Commercial LPG",
-        "LPG",
-        "Aviation",
-        "India"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
-          "url": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624",
-          "source": "Deutsche Welle",
-          "published_at": "2026-05-01T07:58:00.000Z"
-        },
-        {
-          "title": "Aviation fuel prices for domestic carriers kept unchanged, commercial LPG prices hiked",
-          "url": "https://www.thehindu.com/business/economy/petrol-diesel-fuel-atf-lpg-cylinder-retail-commercial-prices-may-1-2026/article70927347.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-01T07:40:05.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/ltaj1k/article70927386.ece/alternates/LANDSCAPE_1200/20260424038L.jpg"
-        },
-        {
-          "title": "Commercial LPG prices hiked by ₹993; No change in diesel, petrol, household LPG prices",
-          "url": "https://www.thehindubusinessline.com/economy/commercial-lpg-prices-hiked-by-993-no-change-in-diesel-petrol-household-lpg-prices/article70927494.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-05-01T05:13:31.000Z",
-          "image": "https://bl-i.thgim.com/public/incoming/o1p18r/article70927516.ece/alternates/LANDSCAPE_1200/Hotel-meals-getGC7FRFN6O.3.jpg.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_bd81847ac76b174",
-      "label": [
-        "vid",
-        "nouvelle vid",
-        "vid de",
-        "de attaque",
-        "nouvelle vid de",
-        "vid de attaque"
-      ],
-      "category": "new",
-      "theme": "theme_5ea3fb8aea50d01d",
-      "entities": [
-        "Tirs",
-        "Donald Trump",
-        "Washington",
-        "Une",
-        "Il"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "\"Il tentait d'assassiner le président Trump\": une nouvelle vidéo de l'attaque au dîner des correspondants à Washington dévoilée (VIDÉO)",
-          "url": "https://www.dhnet.be/actu/monde/2026/05/01/il-tentait-dassassiner-le-president-trump-une-nouvelle-video-de-lattaque-au-diner-des-correspondants-a-washington-devoilee-video-5kmr7brukndxxkfiljrdktmg5e",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-05-01T06:49:00.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/EWBUHIK7G5EMNKFSJTYGWW4ICA.jpg?auth=492a191ff7a4ccc31f0acc64b8d13bf455a4cbdeaa542022c091cbe017826be0&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Une nouvelle vidéo de l’attaque au dîner des correspondants à Washington dévoilée",
-          "url": "https://www.rtbf.be/article/une-nouvelle-video-de-l-attaque-au-diner-des-correspondants-a-washington-devoilee-11717917",
-          "source": "- Info",
-          "published_at": "2026-05-01T06:06:37.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/5/e/8/98e70c5b17a4bc47ecff91e796898a47.jpg"
-        },
-        {
-          "title": "Tirs contre Donald Trump : que révèle la nouvelle vidéo de l’attaque à Washington ?",
-          "url": "https://www.sudouest.fr/international/etats-unis/tirs-contre-donald-trump-que-revele-la-nouvelle-video-de-l-attaque-a-washington-28892327.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-01T05:32:12.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_984b0757cd470ea4",
-      "label": [
-        "dinner",
-        "correspondent",
-        "video releas",
-        "correspondent dinner",
-        "video",
-        "releas"
-      ],
-      "category": "new",
-      "theme": "theme_1518a635e3ab5638",
-      "entities": [
-        "Video",
-        "White House",
-        "The Guardian"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Video released of moment armed man tried to storm White House correspondents’ dinner",
-          "url": "https://www.thejournal.ie/video-released-of-moment-armed-man-tried-to-storm-white-house-correspondents-dinner-7028613-may2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-05-01T07:57:26.000Z",
-          "image": "https://c1.thejournal.ie/media/2026/05/blurred-frame-29-d7c1d28b-c610-4c3d-8c6f-49dd35556c55-630x377.jpg"
-        },
-        {
-          "title": "Video shows moment shooter tried to storm White House dinner, officials say - The Guardian",
-          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxpwmzcctzryvlbdje1de82dzbfmldjwhh1rulmrzvyx0zwzu1vz0czx0f6weteaggzsxplbuhyx25tu3leev9hmnfrcmnkltfxwxngv2d5qjjcbtvozhleafv6sc11agy5wmvvrwtlqxplunhtyvrfvmjhvw13tevfsxl0yvlvqzrh",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-01T02:16:00.000Z"
-        },
-        {
-          "title": "Video released of correspondents' dinner shooting",
-          "url": "https://www.perthnow.com.au/news/politics/video-released-of-correspondents-dinner-shooting-c-22219142",
-          "source": "PerthNow",
-          "published_at": "2026-05-01T00:19:38.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22219142/5ffe06087ea5c639d556c6c58c7ed6f038527ca3-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_ac6470dab66f41d8",
-      "label": [
-        "lakh crore",
-        "crore april",
-        "lakh crore april",
-        "gst",
-        "lakh",
-        "april"
-      ],
-      "category": "new",
-      "theme": "theme_21e06e0a25b683f9",
-      "entities": [
-        "GST",
-        "April",
-        "India",
-        "GST Collections Hit Record",
-        "Rs"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "GST collections rise to record high of ₹2.43 lakh crore in April",
-          "url": "https://www.thehindu.com/business/economy/gst-collections-rise-to-record-high-of-243-lakh-crore-in-april/article70927722.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-01T07:53:56.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/a5yyxs/article70927764.ece/alternates/LANDSCAPE_1200/iStock-1130669886.jpg"
-        },
-        {
-          "title": "GST at record Rs 2.43 lakh crore in April, but domestic demand growth slows",
-          "url": "https://www.indiatoday.in/business/story/gst-at-record-rs-243-lakh-crore-in-april-but-domestic-demand-growth-slows-2904193-2026-05-01",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-01T07:17:37.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/gst-011358234-16x9_0.jpg?VersionId=Bv10vtdfFMYrIxJlks.ruJd9qyY78fPn"
-        },
-        {
-          "title": "India’s GST Collections Hit Record Rs 2.43 Lakh Crore In April, Rise 8.7 Per Cent",
-          "url": "https://swarajyamag.com/economy/indias-gst-collections-hit-record-rs-243-lakh-crore-in-april-rise-87-per-cent",
-          "source": "Swarajya",
-          "published_at": "2026-05-01T07:01:34.451Z"
-        },
-        {
-          "title": "GST collections hit all-time high of ₹2.42 lakh crore in April",
-          "url": "https://www.thehindubusinessline.com/economy/gst-collections-hit-all-time-high-of-242-lakh-crore-in-april/article70927699.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-05-01T06:49:48.000Z",
-          "image": "https://bl-i.thgim.com/public/incoming/l2uz7g/article70927720.ece/alternates/LANDSCAPE_1200/IMG_iStock-1363582129_2_1_F1B28OK1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_1ea51274eebae985",
-      "label": [
-        "ramm",
-        "gate",
-        "accus ramm",
-        "man accus ramm",
-        "man accus",
-        "accus"
-      ],
-      "category": "new",
-      "theme": "theme_37df058397e83236",
-      "entities": [
-        "Man",
-        "Brisbane Synagogue"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Man accused of ramming Brisbane Synagogue gate appears in court",
-          "url": "https://www.smh.com.au/national/queensland/man-accused-of-ramming-brisbane-synagogue-gate-appears-in-court-20260501-p5zt18.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T07:47:32.000Z",
-          "image": "https://static.ffx.io/images/$zoom_4.0114%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_229/t_crop_custom/q_86%2Cf_auto/67d7c1326ba43432d060db85eadafed0a4bacf7aa5a98e4353859c9afca477bd"
-        },
-        {
-          "title": "Man accused of ramming Brisbane Synagogue gate appears in court",
-          "url": "https://www.theage.com.au/national/queensland/man-accused-of-ramming-brisbane-synagogue-gate-appears-in-court-20260501-p5zt18.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T07:47:32.000Z",
-          "image": "https://static.ffx.io/images/$zoom_4.0114%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_229/t_crop_custom/q_86%2Cf_auto/67d7c1326ba43432d060db85eadafed0a4bacf7aa5a98e4353859c9afca477bd"
-        },
-        {
-          "title": "Man accused of ramming Brisbane Synagogue gate appears in court",
-          "url": "https://www.brisbanetimes.com.au/national/queensland/man-accused-of-ramming-brisbane-synagogue-gate-appears-in-court-20260501-p5zt18.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T07:47:32.000Z",
-          "image": "https://static.ffx.io/images/$zoom_4.0114%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_229/t_crop_custom/q_86%2Cf_auto/67d7c1326ba43432d060db85eadafed0a4bacf7aa5a98e4353859c9afca477bd"
-        },
-        {
-          "title": "Man accused of ramming synagoge gate applies for bail",
-          "url": "https://www.perthnow.com.au/news/crime/man-accused-of-ramming-synagoge-gate-applies-for-bail-c-22220799",
-          "source": "PerthNow",
-          "published_at": "2026-05-01T04:26:24.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22220799/9612ef2c6644b8e52e8304930baed005ad0e456c-16x9-x0y0w1280h720.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_916aab3e6d1d16d0",
-      "label": [
-        "balloon",
-        "pies",
-        "sweat",
-        "cameron",
-        "another young",
-        "young tiger"
-      ],
-      "category": "new",
-      "theme": "theme_9b05442fd266a77b",
-      "entities": [
-        "Another",
-        "Tiger",
-        "Pies",
-        "Cameron"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Another young Tiger out for the season as injury list balloons; Pies sweat on Cameron",
-          "url": "https://www.brisbanetimes.com.au/sport/afl/another-young-tiger-is-out-for-the-season-their-injury-list-now-stands-at-17-20260501-p5zsze.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T07:48:30.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/583b4b35245fbe4f07020938b567c76ba6692c0d"
-        },
-        {
-          "title": "Another young Tiger out for the season as injury list balloons; Pies sweat on Cameron",
-          "url": "https://www.theage.com.au/sport/afl/another-young-tiger-is-out-for-the-season-their-injury-list-now-stands-at-17-20260501-p5zsze.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T07:48:30.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/583b4b35245fbe4f07020938b567c76ba6692c0d"
-        },
-        {
-          "title": "Another young Tiger out for the season as injury list balloons; Pies sweat on Cameron",
-          "url": "https://www.smh.com.au/sport/afl/another-young-tiger-is-out-for-the-season-their-injury-list-now-stands-at-17-20260501-p5zsze.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T07:48:30.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/q_86%2Cf_auto/583b4b35245fbe4f07020938b567c76ba6692c0d"
-        }
-      ]
-    },
-    {
-      "id": "topic_de01d38ecb5267a",
-      "label": [
-        "guerre",
-        "au",
-        "trump pr",
-        "congr",
-        "direct guerre au",
-        "moyen"
-      ],
-      "category": "new",
-      "theme": "theme_97f2d119d1e7a18b",
-      "entities": [
-        "DIRECT",
-        "Guerre",
-        "Moyen",
-        "Orient",
-        "Trump"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "EN DIRECT. Guerre au Moyen-Orient : au 60e jour de conflit, l’administration Trump prête à continuer sans l’autorisation du Congrès",
-          "url": "https://www.sudouest.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-au-60e-jour-de-conflit-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres-28893190.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-01T08:12:16.000Z"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : soixante jours après le début du conflit en Iran, l’administration Trump prête à continuer sans l’autorisation du Congrès",
-          "url": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-soixante-jours-apres-le-debut-du-conflit-en-iran-l-administration-trump-prete-a-continuer-sans-l-autorisation-du-congres_6684072_3210.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-01T07:53:01.000Z",
-          "image": "https://img.lemde.fr/2026/05/01/172/0/5500/2750/644/322/60/0/2049b17_ftp-1-vdmhsjexzzjo-2026-05-01t054721z-787512985-rc210la80xnj-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
-        },
-        {
-          "title": "DIRECT – Guerre au Moyen-Orient: Trump prêt à ignorer le Congrès pour poursuivre la guerre",
-          "url": "https://www.dhnet.be/actu/monde/2026/05/01/direct-guerre-au-moyen-orient-trump-pret-a-ignorer-le-congres-pour-poursuivre-la-guerre-p73ltvgti5avvekghalx4l3yfu",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-05-01T06:23:56.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/NA3ZTZJ3ZRCV3AOU4X4SING3PI.jpg?auth=f9618ddc0c4682a35dbb34d5c520730e15ef9d0c717a813980d7b9bb9183d063&smart=true&width=1200&height=800"
-        }
-      ]
-    },
-    {
-      "id": "topic_da8088ff6c7339b9",
-      "label": [
-        "nrl",
-        "bulldog",
-        "cowboy",
-        "nrl live",
-        "live updat",
-        "updat galvin"
-      ],
-      "category": "new",
-      "theme": "theme_33cab6a234d95618",
-      "entities": [
-        "NRL LIVE",
-        "Galvin",
-        "Bulldogs",
-        "Cowboys",
-        "Friday"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
-          "url": "https://www.smh.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T08:11:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
-        },
-        {
-          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
-          "url": "https://www.theage.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T08:11:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
-        },
-        {
-          "title": "NRL LIVE updates: Galvin scores as Bulldogs lead Cowboys in Friday night football",
-          "url": "https://www.brisbanetimes.com.au/sport/nrl/nrl-2026-live-bulldogs-take-on-cowboys-in-friday-night-football-20260429-p5zsax.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T08:11:37.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.30983031012287887%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/e3443509f851ccff6a8a05e931eaaf30ee917498"
-        }
-      ]
-    },
-    {
-      "id": "topic_30353b9b88b19e47",
-      "label": [
-        "asx",
-        "anz",
-        "col",
-        "asx ends",
-        "ends los",
-        "streak anz"
-      ],
-      "category": "new",
-      "theme": "theme_5f6dfcbb86125d09",
-      "entities": [
-        "ASX",
-        "ANZ",
-        "Coles"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
-          "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T07:29:02.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
-        },
-        {
-          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
-          "url": "https://www.smh.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T07:29:02.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
-        },
-        {
-          "title": "ASX ends losing streak; ANZ banks profit; Coles warns of price rises",
-          "url": "https://www.theage.com.au/business/markets/asx-set-to-surge-as-wall-street-rises-oil-retreats-meta-tumbles-a-jumps-20260501-p5zss2.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T07:29:02.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.5842803703703704%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_49%2C$y_150/t_crop_custom/q_86%2Cf_auto/f46008f7a7face2c2606f1ddf19a7d363c949450"
-        }
-      ]
-    },
-    {
-      "id": "topic_f8e7f9194554f528",
-      "label": [
-        "buys",
-        "annex",
-        "visibility",
-        "socket buys",
-        "buys secure",
-        "secure annex"
-      ],
-      "category": "new",
-      "theme": "theme_6733f05b462f1953",
-      "entities": [
-        "Socket Buys Secure Annex",
-        "Expand Supply",
-        "Chain Visibility"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
-          "url": "https://www.govinfosecurity.com/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
-        },
-        {
-          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
-          "url": "https://www.databreachtoday.co.uk/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
-        },
-        {
-          "title": "Socket Buys Secure Annex to Expand Supply-Chain Visibility",
-          "url": "https://www.bankinfosecurity.com/socket-buys-secure-annex-to-expand-supply-chain-visibility-a-31562",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/socket-buys-secure-annex-to-expand-supply-chain-visibility-image_small-7-a-31562.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_471b08e5ec00214d",
-      "label": [
-        "cyber",
-        "command",
-        "breach roundup",
-        "roundup us",
-        "us cyber",
-        "cyber command"
-      ],
-      "category": "new",
-      "theme": "theme_8eafcdac3c382134",
-      "entities": [
-        "Breach Roundup",
-        "US Cyber Command Flags",
-        "Election Threats"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
-          "url": "https://www.govinfosecurity.com/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
-        },
-        {
-          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
-          "url": "https://www.databreachtoday.co.uk/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
-        },
-        {
-          "title": "Breach Roundup: US Cyber Command Flags Election Threats",
-          "url": "https://www.bankinfosecurity.com/breach-roundup-us-cyber-command-flags-election-threats-a-31565",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-us-cyber-command-flags-election-threats-image_small-6-a-31565.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_f5273a256035e4ca",
-      "label": [
-        "rowell",
-        "afl",
-        "coast lose",
-        "lose rowell",
-        "rowell injury",
-        "injury afl"
-      ],
-      "category": "new",
-      "theme": "theme_c43516cc41aab02a",
-      "entities": [
-        "Gold Coast",
-        "Rowell",
-        "AFL"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
-          "url": "https://www.theage.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T08:04:48.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
-        },
-        {
-          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
-          "url": "https://www.brisbanetimes.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T08:04:48.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
-        },
-        {
-          "title": "Gold Coast lose Rowell to injury: AFL round eight teams and expert tips",
-          "url": "https://www.smh.com.au/sport/afl/captains-return-for-pies-and-hawks-afl-round-eight-teams-and-expert-tips-20260429-p5zryn.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T08:04:48.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.46121364107116436%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_672%2C$y_31/t_crop_custom/q_86%2Cf_auto/5096cc3b6dae41e42ec9c5c7855afda97cd747a9"
-        }
-      ]
-    },
-    {
-      "id": "topic_817ad15589c80a1f",
-      "label": [
-        "state ciso",
-        "ciso los",
-        "los confidence",
-        "confidence ai",
-        "ai threat",
-        "threat surge"
-      ],
-      "category": "new",
-      "theme": "theme_bf9bbd7305cc840e",
-      "entities": [
-        "State CISOs Are Losing",
-        "Confidence",
-        "AI Threats Surge"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
-          "url": "https://www.govinfosecurity.com/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
-        },
-        {
-          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
-          "url": "https://www.databreachtoday.co.uk/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
-          "source": "DataBreachToday.co.uk RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
-        },
-        {
-          "title": "State CISOs Are Losing Confidence as AI Threats Surge",
-          "url": "https://www.bankinfosecurity.com/state-cisos-are-losing-confidence-as-ai-threats-surge-a-31564",
-          "source": "BankInfoSecurity.com RSS Syndication",
-          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/state-cisos-are-losing-confidence-as-ai-threats-surge-image_small-9-a-31564.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_91908eab363f1dfd",
-      "label": [
-        "tendulkar",
-        "flash",
-        "pan",
-        "tendulkar t20",
-        "t20 15",
-        "old ipl"
-      ],
-      "category": "new",
-      "theme": "theme_44b72a75684f52b0",
-      "entities": [
-        "Tendulkar",
-        "T20",
-        "IPL"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
-          "url": "https://www.theage.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T07:57:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
-        },
-        {
-          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
-          "url": "https://www.smh.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T07:57:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
-        },
-        {
-          "title": "‘Tendulkar of T20’: Why 15-year-old IPL star is no flash in the pan",
-          "url": "https://www.brisbanetimes.com.au/sport/cricket/tendulkar-of-t20-why-15-year-old-ipl-star-is-no-flash-in-the-pan-20260501-p5zssp.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T07:57:23.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_793%2C$y_46/t_crop_custom/q_86%2Cf_auto/25b9bc17fe310451d6bf639915cde28a3deff851"
-        }
-      ]
-    },
-    {
-      "id": "topic_bca7d1bf286e8d05",
-      "label": [
-        "fiery",
-        "let finish",
-        "finish top",
-        "top prosecutor",
-        "prosecutor fiery",
-        "fiery appearance"
-      ],
-      "category": "new",
-      "theme": "theme_df7ffb52a5926e8b",
-      "entities": [
-        "Let",
-        "Top"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
-          "url": "https://www.brisbanetimes.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-05-01T07:17:31.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
-        },
-        {
-          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
-          "url": "https://www.theage.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
-          "source": "The Age - Latest News",
-          "published_at": "2026-05-01T07:17:31.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
-        },
-        {
-          "title": "‘Let me finish’: Top prosecutor’s fiery appearance at inquiry",
-          "url": "https://www.smh.com.au/national/nsw/let-me-finish-top-prosecutor-s-fiery-appearance-at-inquiry-20260501-p5zswz.html",
-          "source": "Sydney Morning Herald - Latest News",
-          "published_at": "2026-05-01T07:17:31.000Z",
-          "image": "https://static.ffx.io/images/$zoom_0.287%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_567%2C$y_413/t_crop_custom/q_86%2Cf_jpg/aefe80ae62817108c95801b6f5652bdb9dba1857"
-        }
-      ]
-    },
-    {
-      "id": "topic_9f82558b8dba69d2",
-      "label": [
-        "60"
-      ],
-      "category": "new",
-      "theme": "theme_bd5d68109a87e321",
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Мужчина вернул плитки из средневекового монастыря, которые прихватил в детстве 60 лет назад",
-          "url": "https://www.unian.net/tourism/news/puteshestviya-po-anglii-spustya-60-let-britanec-vernul-pohishchennye-v-detstve-srednevekovye-plitki-13367895.html",
-          "source": "Информационное агентство УНИАН",
-          "published_at": "2026-05-01T06:35:36.000Z",
-          "image": "https://images.unian.net/photos/2026_05/1777616974-1345.jpg"
-        },
-        {
-          "title": "Глава Пентагону заявив, що 60-денний відлік у війні з Іраном \"призупинився\"",
-          "url": "https://www.pravda.com.ua/news/2026/05/01/8032638",
-          "source": "Українська правда",
-          "published_at": "2026-05-01T06:30:00.000Z"
-        },
-        {
-          "title": "پاک ایران فضائی سفر 60 دن بعد بحال",
-          "url": "https://jang.com.pk/news/1579215",
-          "source": "قومی خبریں",
-          "published_at": "2026-05-01T03:05:16.000Z",
-          "image": "https://jang.com.pk/assets/uploads/updates/2026-05-01/b_1579215_085151_updates.jpg"
-        }
-      ]
+      "summary": "The Capital Kiwi Project has relocated its 250th kiwi to the hills around Wellington. The effort aims to restore New Zealand’s national bird to an area where it had been absent for more than a century."
     }
   ]
 }

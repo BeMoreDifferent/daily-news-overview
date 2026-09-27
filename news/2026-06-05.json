@@ -1,979 +1,984 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-06T00:15:20.799Z",
+  "generated_at": "2026-09-27T13:59:47.156Z",
   "topics": [
     {
-      "id": "topic_df96c6fce1d46904",
+      "id": "topic_b473c4b47011fa77",
+      "title": "Actor James Handy Fatally Stabbed in Los Angeles",
+      "headline": "‘Top Gun: Maverick’ actor James Handy stabbed to death",
       "label": [
-        "vance",
-        "murder",
-        "jd vance",
-        "jd",
-        "blam",
-        "henry nowak"
+        "handy",
+        "james",
+        "actor",
+        "stabbed",
+        "gun",
+        "top"
       ],
       "category": "new",
-      "theme": "theme_ac39313b8a12f457",
+      "theme": "theme_c29ff38741f6d86e",
       "entities": [
-        "Vance",
-        "Henry Nowak",
-        "UK",
-        "JD Vance",
-        "Righteous Anger"
+        "Top Gun",
+        "Maverick",
+        "James Handy",
+        "Yahoo",
+        "Los Angeles"
       ],
-      "article_count": 9,
+      "article_count": 50,
+      "source_count": 36,
+      "articles": [
+        {
+          "title": "‘Top Gun: Maverick’ actor James Handy stabbed to death",
+          "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/international-celebs/top-gun-maverick-actor-james-handy-stabbed-to-death",
+          "source": "The South African",
+          "published_at": "2026-06-05T07:37:17.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/06/james-handy.jpg.optimal.jpg",
+          "description": "The 44-year-old son of James Handy's girlfriend has been arrested for stabbing him to death."
+        },
+        {
+          "title": "Top Gun: Maverick actor James Handy stabbed to death in L.A.; girlfriend's son is arrested",
+          "url": "https://www.yahoo.com/news/us/article/top-gun-maverick-actor-james-handy-stabbed-to-death-in-la-girlfriends-son-is-arrested-091453918.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-05T09:14:53.000Z",
+          "image": "https://s.yimg.com/uu/api/res/1.2/mWo9yZIUZ0w2_wG5zGM41Q--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/james-handy_0730.jpg"
+        },
+        {
+          "title": "'Top Gun: Maverick' actor James Handy stabbed to death in L.A.; girlfriend's son is arrested",
+          "url": "https://news.google.com/rss/articles/cbmi1afbvv95cuxoskt1y3vxbwzrvle0m3lqyufsd2x0mlnidu93wdzlwhlyzkzrlthcvlhfdtlgvflob1puzdfjbjjbv3e5axrregvxbzy1bmxkrzbuekv4wg1wediwbeetmxmyv28xchpuowpdwm1elulot0plbwxooujprkpzagnrv2jwsddtowzzvgq2y1fszge3vs03zg4xmulnr0jmrhlqaflnuhbiy2m3smlwslo3ylvyu3hsmmzcwfhtzuixoxbwnuc5wdaxog5hdy1eyvfoowc1aq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-05T13:57:39.000Z",
+          "description": "'Top Gun: Maverick' actor James Handy stabbed to death in L.A.; girlfriend's son is arrested Yahoo Veteran actor James Handy fatally stabbed in Tarzana; girlfriend’s son is arrested Los Angeles Times Exclusive | James Handy’s girlfriend breaks silence after her son allegedly killed ‘Top Gun’ actor…"
+        },
+        {
+          "title": "Top Gun actor James Handy stabbed to death in Los Angeles; girlfriend's son arrested",
+          "url": "https://www.indiatoday.in/movies/hollywood/story/top-gun-actor-james-handy-stabbed-to-death-in-los-angeles-girlfriends-son-arrested-2922388-2026-06-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-05T09:49:59.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/top-gun-actor-james-handy-stabbed-to-death-in-los-angeles-054448312-16x9_0.jpg?VersionId=xXDa1d4vzt_iPQn_bG2mOZgXAefdP2cE",
+          "description": "Top Gun actor James Handy stabbed to death in Los Angeles girlfriends son arrested"
+        },
+        {
+          "title": "Top Gun and Jumanji actor James Handy stabbed to death as girlfriend’s son arrested",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/james-handy-actor-top-gun-maverick-killed-los-angeles-stabbing-b2990308.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-05T10:08:19.000Z",
+          "image": "https://static.independent.co.uk/2026/06/05/9/21/James-Handy-death.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Los Angeles police identify suspect as Michael Gledhill, the son of the veteran actor’s girlfriend"
+        }
+      ],
+      "summary": "Actor James Handy was fatally stabbed in Los Angeles. Police arrested the 44-year-old son of Handy’s girlfriend in connection with his death."
+    },
+    {
+      "id": "topic_30afd12a4bc77e9",
+      "title": "Actor Anthony Head Dies at 72",
+      "headline": "Buffy the Vampire Slayer and Ted Lasso star Anthony Head dies aged 72",
+      "label": [
+        "anthony",
+        "head",
+        "buffy",
+        "slayer",
+        "lasso",
+        "vampire"
+      ],
+      "category": "new",
+      "theme": "theme_8d9c6d56a2f8fda0",
+      "entities": [
+        "Buffy",
+        "Vampire Slayer",
+        "Ted Lasso",
+        "Anthony Head",
+        "Buffy The Vampire Slayer"
+      ],
+      "article_count": 49,
+      "source_count": 38,
+      "articles": [
+        {
+          "title": "Buffy the Vampire Slayer and Ted Lasso star Anthony Head dies aged 72",
+          "url": "https://www.eurogamer.net/anthony-head-buffy-ted-lasso-actor-has-died",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-06-05T18:10:24.000Z",
+          "image": "https://assetsio.gnwcdn.com/Anthony-Head-as-Giles-in-Buffy-the-Vampire-Slayer.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "British actor Anthony Head, known widely for his portrayal of Giles in the Buffy the Vampire Slayer, has died from complications due to pneumonia, aged 72 years old. Read more"
+        },
+        {
+          "title": "Anthony Head, ‘Buffy The Vampire Slayer’ And ‘Ted Lasso’ Star Dies At 72",
+          "url": "https://www.forbes.com/sites/timlammers/2026/06/05/anthony-head-buffy-the-vampire-slayer-and-ted-lasso-star-dies-at-72",
+          "source": "Forbes - Business",
+          "published_at": "2026-06-05T16:55:42.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a22fe0d5b05ec33bc688df2/0x0.jpg?width=960&precrop=2208%2C1242%2Cx0%2Cy390",
+          "description": "Anthony Head, a longtime actor whose credits include \"Buffy the Vampire Slayer\" and \"Ted Lasso.\" has died."
+        },
+        {
+          "title": "Anthony Head, ‘Buffy the Vampire Slayer’ and ‘Ted Lasso’ Actor, Dies at 72",
+          "url": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-06-05T20:30:39.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05xp-head-anthony-vmpz/05xp-head-anthony-vmpz-mediumSquareAt3X.jpg",
+          "description": "The British actor was a mainstay of influential television shows who first found fame as a Nescafe pitchman."
+        },
+        {
+          "title": "Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-death-buffy-the-vampire-slayer",
+          "source": "The Guardian",
+          "published_at": "2026-06-05T15:59:46.000Z",
+          "image": "https://i.guim.co.uk/img/media/247b821eb24b8b3f942a51e7ded6740ab2e2f204/816_0_4613_3691/master/4613.jpg?width=140&quality=85&auto=format&fit=max&s=7a3b1e1ac1ab3786e293b55a869afa4c",
+          "description": "British actor starred on the West End before finding international fame in the 90s on Buffy the Vampire Slayer Anthony Head, the actor best-known for playing Rupert Giles in Buffy the Vampire Slayer, has died aged 72. “He passed away peacefully of complications due to pneumonia, surrounded by his f…"
+        },
+        {
+          "title": "Buffy the Vampire Slayer, Ted Lasso actor Anthony Head dies aged 72",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356174/buffy-vampire-slayer-ted-lasso-actor-anthony-head-dies-aged-72",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-05T17:14:55.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/06/e22c1db1-4bb1-45fc-9967-fda72fc24f5c_e59f47fc.jpg?itok=mnPW3ZuT&v=1780681058",
+          "description": "Actor Anthony Head, best known for his roles in Buffy The Vampire Slayer and Ted Lasso, has died at the age of 72, his family announced on Friday. The British actor, the brother of singer Murray Head, was best known as librarian Rupert Giles in the cult US supernatural television series starring Sa…"
+        }
+      ],
+      "summary": "British actor Anthony Head, known for roles in Buffy the Vampire Slayer and Ted Lasso, has died at 72. Reports said he died from complications of pneumonia."
+    },
+    {
+      "id": "topic_42249a0b7cc8b310",
+      "title": "Xi Jinping to Visit North Korea Next Week",
+      "headline": "Xi Jinping To Visit North Korea Next Week, First Visit Since 2019",
+      "label": [
+        "korea",
+        "xi",
+        "north",
+        "visit",
+        "jinping",
+        "next"
+      ],
+      "category": "new",
+      "theme": "theme_b557bb354b57929f",
+      "entities": [
+        "Xi Jinping To Visit",
+        "North Korea Next Week",
+        "First Visit Since",
+        "Chinese Leader Xi Jinping",
+        "Will Travel To North"
+      ],
+      "article_count": 22,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Xi Jinping To Visit North Korea Next Week, First Visit Since 2019",
+          "url": "https://www.ndtv.com/world-news/china-north-korea-relations-xi-jinping-to-visit-north-korea-next-week-first-visit-since-2019-11593933",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-05T04:30:24.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/06f7di48_xi-jinping-kim-jong-un-reuters_625x300_05_June_26.jpeg",
+          "description": "Pyongyang will be Xi's first overseas visit this year. He last travelled internationally in late October when he went to South Korea, where he also met Trump."
+        },
+        {
+          "title": "Chinese Leader Xi Jinping Will Travel To North Korea Next Week In First Visit Since 2019",
+          "url": "https://www.huffpost.com/entry/xi-jinping-to-visit-north-korea_n_6a228cebe4b0a18aef0b63b5",
+          "source": "World News",
+          "published_at": "2026-06-05T08:53:32.000Z",
+          "description": "His trip will be the latest in a series of steps by China to reinforce its close ties with its nuclear-armed neighbor."
+        },
+        {
+          "title": "Chinese leader Xi Jinping visit to North Korea confirmed for next week",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3356021/chinese-leader-xi-jinping-visit-north-korea-confirmed-next-week",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-05T02:09:38.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/05/ce42e61b-1818-4aec-bed1-a23493a31028_a217c8e0.jpg?itok=VT8LhmFe&v=1780625311",
+          "description": "Chinese President Xi Jinping will visit North Korea next Monday and Tuesday in a show of the two countries’ strong ties. The trip will be Xi’s second to North Korea. The Chinese president visited in 2019, before the coronavirus pandemic shut border crossings between the countries for years. Beijing…"
+        },
+        {
+          "title": "Chinese leader Xi to visit North Korea next week",
+          "url": "https://hongkongfp.com/2026/06/05/chinese-leader-xi-to-visit-north-korea-next-week",
+          "source": "Hong Kong Free Press HKFP",
+          "published_at": "2026-06-05T10:55:53.000Z",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/06/RENAME-before-upload-Article-Basic-Full-logo-2026-06-05T185321.081-1024x576.jpg",
+          "description": "Chinese President Xi Jinping will visit North Korea next week, state media said Friday, his first trip abroad this year after hosting a series of leaders as Beijing asserts itself as a global diplomatic superpower. State broadcaster CCTV said Xi would visit from June 8 to 9 at the invitation of Nor…"
+        },
+        {
+          "title": "China's Xi to visit North Korea next week",
+          "url": "https://tribune.com.pk/story/2611574/chinas-xi-to-visit-north-korea-next-week",
+          "source": "express tribune",
+          "published_at": "2026-06-05T01:27:46.000Z",
+          "description": "Beijing is vital source of political, economic support to North Korea"
+        }
+      ],
+      "summary": "Chinese President Xi Jinping is scheduled to visit North Korea next week, his first trip there since 2019. The visit is expected to reaffirm ties between the two countries."
+    },
+    {
+      "id": "topic_42c7cd98c146fadb",
+      "title": "Senate Passes $70 Billion for Immigration Enforcement",
+      "headline": "Senate Passes Bill to Fund ICE",
+      "label": [
+        "funding",
+        "senate",
+        "ice",
+        "passes",
+        "bill",
+        "border"
+      ],
+      "category": "new",
+      "theme": "theme_a9981c0cf60a63f1",
+      "entities": [
+        "Senate Passes Bill",
+        "Fund ICE",
+        "US Senate",
+        "ICE",
+        "Border Patrol"
+      ],
+      "article_count": 13,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Senate Passes Bill to Fund ICE",
+          "url": "https://politicalwire.com/2026/06/05/senate-passes-bill-to-fund-ice",
+          "source": "Political Wire",
+          "published_at": "2026-06-05T09:09:59.000Z",
+          "description": "Senate Republicans passed a party-line bill to fund ICE and CBP until the end of President Trump’s term after months of legislative wrangling, Punchbowl News reports. The bill passed 52-47 after an overnight vote-a-rama filled with failed amendments to prevent Trump from setting up an “anti-weaponi…"
+        },
+        {
+          "title": "US Senate passes new funds for ICE and Border Patrol",
+          "url": "https://www.perthnow.com.au/news/politics/us-senate-passes-new-funds-for-ice-and-border-patrol-c-22391802",
+          "source": "PerthNow",
+          "published_at": "2026-06-05T10:47:16.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22391802/895e71c137220c5c03c8d3eff35e8eb3059f6481-16x9-x0y0w1280h720.jpg",
+          "description": "Senators have approved funding for US President Donald Trump's immigration crackdown after hours of arguing over his controversial \"anti-weaponisation\" fund."
+        },
+        {
+          "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
+          "url": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-05T13:19:00.000Z",
+          "description": "Senators voted 52-47 to approve funds set to finance the immigration forces for another three years, through the rest of Donald Trump's term. The bill still needs to clear the House; that vote is expected next week."
+        },
+        {
+          "title": "US Senate passes $70b ICE funding; fails to ban Trump's 'anti-weaponisation' fund",
+          "url": "https://tribune.com.pk/story/2611613/us-senate-passes-70b-ice-funding-fails-to-ban-trumps-anti-weaponisation-fund",
+          "source": "express tribune",
+          "published_at": "2026-06-05T06:35:20.000Z",
+          "description": "Immigration, Customs Enforcement Border Patrol, have combined $100 billion in unspent funds"
+        },
+        {
+          "title": "US Senate passes US$70 billion ICE funding; fails to ban ‘anti-weaponisation’ fund",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356152/us-senate-passes-us70-billion-ice-funding-fails-ban-anti-weaponisation-fund",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-05T11:59:37.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/05/2b9b97c6-586d-4929-a585-0961f1decf34_b9801dca.jpg?itok=PlNycj5y&v=1780660771",
+          "description": "The US Senate handed President Donald Trump ⁠a victory early on Friday morning, passing a bill that would provide the Department of Homeland Security with an additional US$70 billion for immigration enforcement and sending it to the House of Representatives for final consideration. The Senate voted…"
+        }
+      ],
+      "summary": "The Senate voted 52–47 to approve $70 billion in funding for ICE and Border Patrol. The bill still needs House approval and does not ban President Trump’s proposed “anti-weaponisation” fund."
+    },
+    {
+      "id": "topic_9d9bbedc834381ac",
+      "title": "ISS Crew Shelters During Repairs to Air Leak",
+      "headline": "Astronauts take shelter on the International Space Station because of air leaks",
+      "label": [
+        "space",
+        "station",
+        "astronauts",
+        "leak",
+        "international",
+        "air"
+      ],
+      "category": "new",
+      "theme": "theme_ba486534d1e8e0c1",
+      "entities": [
+        "Astronauts",
+        "International Space Station",
+        "SpaceX Dragon",
+        "Space",
+        "Astronauts On International Space"
+      ],
+      "article_count": 26,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Astronauts take shelter on the International Space Station because of air leaks",
+          "url": "https://www.scientificamerican.com/article/astronauts-take-shelter-on-the-international-space-station-due-to-air-leaks",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-06-05T15:45:00.000Z",
+          "description": "NASA ordered its astronauts to take refuge inside a docked SpaceX Crew Dragon spacecraft and to prepare for potential evacuation of the International Space Station. But the crew returned to normal operations shortly afterward"
+        },
+        {
+          "title": "International Space Station astronauts under evacuation orders",
+          "url": "https://www.theguardian.com/science/2026/jun/05/international-space-station-astronauts-under-evacuation-orders",
+          "source": "Space | The Guardian",
+          "published_at": "2026-06-05T14:04:45.000Z",
+          "image": "https://i.guim.co.uk/img/media/ea6f879b446d705dc2703dfa94a7d4a36b7e263f/667_0_3892_3116/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=1a6358044ebebb34e3eca13cf514a5a9",
+          "description": "Nasa says Russian crew trying to fix worsening air leak in its portion of orbital laboratory Astronauts onboard the International Space Station have been ordered to shelter in their spacecraft and prepare for potential evacuation as a Russian crew attempts to fix a worsening leak of air in its port…"
+        },
+        {
+          "title": "Astronauts shelter for air leak repairs on International Space Station",
+          "url": "https://www.smh.com.au/world/north-america/astronauts-shelter-for-air-leak-repairs-on-international-space-station-20260606-p604g2.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-06-05T16:00:13.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_57/t_crop_custom/q_86%2Cf_auto/38fce9ed005873265d3b981b904449d0cc58be9a",
+          "description": "NASA ordered five astronauts to safety in their SpaceX-built spacecraft docked to the ISS as a Russian crew attempted to fix a worsening air leak on the Zvezda service module."
+        },
+        {
+          "title": "Astronauts take shelter as air leaks worsen on International Space Station",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3356173/astronauts-take-shelter-air-leaks-worsen-international-space-station",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-05T16:57:45.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/06/ae2eeb40-9d1b-4c2c-917b-c69d3b05a977_6db50663.jpg?itok=3gc31C8T&v=1780678659",
+          "description": "A worsening air leak aboard the International Space Station prompted five astronauts to take shelter and prepare for evacuation for roughly two hours on Friday as Russia attempted to ‌fix a crack on its portion of the orbital laboratory, Nasa said. The four astronauts of Nasa’s Crew-12 mission aboa…"
+        },
+        {
+          "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
+          "url": "https://news.google.com/rss/articles/cbmigwjbvv95cuxntxdxewc0a3btbwzwthk1vwnouuu5wdmzvmtfqkvychuwow40lvo3s1bhcutdov9mq0g1mmpzaxoxvzk1mkj0agrybm5oa1hwmwzsq2hcnl9bt3ncvvlyc3ffu2l4bvlfnlvqafriyxrhthowt1lmufrqzdnidlfdr3jedjmyukw2eenic3horxnosxfzndlitlp1s3juc1h1rvjwuvfznutbbuphrgnwy3vsszq2n0xqzlvrdxk0ylrzckvzvwtmx185bjbyb2lywxvkszzjrmrrzznkvfveafn0dlgtq1jomkjiaw5rawc1x3ddwe5vbznstwrdc3ptnvpf",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-05T15:30:32.000Z",
+          "description": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak Space NASA lifts order for International Space Station astronauts to shelter in Dragon spacecraft amid ongoing air leaks Yahoo NASA directs its ISS crew members to board spacecraft amid leak re…"
+        }
+      ],
+      "summary": "Five astronauts aboard the International Space Station took shelter in a docked SpaceX Crew Dragon as cosmonauts worked to repair a worsening air leak. NASA later lifted the shelter order."
+    },
+    {
+      "id": "topic_4061a55e36c6c79e",
+      "title": "Naval Drone Explodes at Romania’s Constanta Port",
+      "headline": "Sea drone explodes in the Romanian port of Constanta, no casualties",
+      "label": [
+        "romanian",
+        "drone",
+        "port",
+        "explodes",
+        "sea",
+        "constanta"
+      ],
+      "category": "new",
+      "theme": "theme_f1e0cd46eb9cc447",
+      "entities": [
+        "Sea",
+        "Romanian",
+        "Constanta",
+        "Ukrainian",
+        "Naval"
+      ],
+      "article_count": 15,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Sea drone explodes in the Romanian port of Constanta, no casualties",
+          "url": "https://www.digitaljournal.com/article/sea-drone-explodes-in-the-romanian-port-of-constanta-no-casualties",
+          "source": "Digital Journal",
+          "published_at": "2026-06-05T18:49:49.000Z",
+          "description": "A sea drone exploded early Friday in Romania’s Black Sea port of Constanta without causing casualties, officials said, a week after an aerial drone injured two when it crashed into an apartment building in the country. The EU and NATO nation has reported dozens of airspace breaches since the start…"
+        },
+        {
+          "title": "Ukrainian marine drone explodes at Romanian port",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-05T13:22:40.000Z",
+          "description": "A malfunctioning Ukrainian naval drone has caused an explosion at a key Black Sea port in Romania."
+        },
+        {
+          "title": "Naval drone explodes in the Romanian port of Constanta",
+          "url": "https://www.yahoo.com/news/world/articles/naval-drone-explodes-romanian-port-092543988.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-05T10:49:49.000Z",
+          "image": "https://media.zenfs.com/en/euronews_us_news_articles_566/936aba45c8b65bfe893966854433c056"
+        },
+        {
+          "title": "Ukraine: Marine drone explodes in Romanian port",
+          "url": "https://www.dw.com/en/ukraine-marine-drone-explodes-in-romanian-port/live-77428478",
+          "source": "Deutsche Welle",
+          "published_at": "2026-06-05T03:50:00.000Z",
+          "description": "A naval drone exploded near an oil terminal in the Romanian Black Sea port of Constanta on Friday morning, causing no injuries. The Russian embassy in Bucharest claimed the device was Ukrainian. DW has more."
+        },
+        {
+          "title": "Ukrainian drone explodes in Romanian sea port",
+          "url": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-05T15:09:00.000Z",
+          "image": "https://s.france24.com/media/display/70418610-60f0-11f1-87d6-005056bf30b7/w:1024/p:16x9/Vignette-Romania.png",
+          "description": "A sea #drone self-destroyed in the Romanian port of Constanta. #Ukraine's navy said it had been knocked off course by Russian jamming."
+        }
+      ],
+      "summary": "A naval drone exploded near an oil terminal at the Black Sea port of Constanta, Romania. Officials reported no injuries."
+    },
+    {
+      "id": "topic_f73a038e9a9b5969",
+      "title": "Anthropic Calls for Discussion of a Pause in AI Development",
+      "headline": "Anthropic Urges Global Pause in AI Development",
+      "label": [
+        "urges",
+        "pause",
+        "anthropic",
+        "ai",
+        "development",
+        "risk"
+      ],
+      "category": "new",
+      "theme": "theme_b0b64976075a94cc",
+      "entities": [
+        "Anthropic Urges Global Pause",
+        "AI Development",
+        "Anthropic",
+        "AI",
+        "The Guardian"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Anthropic Urges Global Pause in AI Development",
+          "url": "https://politicalwire.com/2026/06/05/anthropic-urges-global-pause-in-ai-development",
+          "source": "Political Wire",
+          "published_at": "2026-06-05T09:00:00.000Z",
+          "description": "“Anthropic is calling for top artificial intelligence labs to weigh slowing the pace of development, suggesting that AI systems are advancing so rapidly that they may soon be able to improve themselves without human intervention in ways that could pose significant societal risks,” the Wall Street J…"
+        },
+        {
+          "title": "Anthropic urges AI labs to pause development, warns humans risk losing control",
+          "url": "https://www.yahoo.com/news/science/articles/anthropic-urges-ai-labs-pause-140302668.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-05T14:03:02.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/12efa84250c90a8f21fa343b5e8af820"
+        },
+        {
+          "title": "Anthropic urges AI labs to pause, warns humans risk losing control",
+          "url": "https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-05T19:13:55.000Z",
+          "description": "It warned that rapid advances in technology could soon allow AI systems to improve themselves faster than human control."
+        },
+        {
+          "title": "Anthropic urges AI development ‘pause’ and conversation about risks",
+          "url": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-06-05T15:35:24.000Z",
+          "image": "https://i.guim.co.uk/img/media/0a7b44261f5b2b24aa135203d751ef17e69f8c34/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=3bb9953472579abdd1fed5a298486225",
+          "description": "US firm says it will convene policymakers, in post detailing progress of its Claude model towards ‘recursive self-improvement’ Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI –…"
+        },
+        {
+          "title": "Anthropic urges AI pause, sees risk of losing control",
+          "url": "https://www.perthnow.com.au/news/technology/anthropic-urges-ai-pause-sees-risk-of-losing-control-c-22392455",
+          "source": "PerthNow",
+          "published_at": "2026-06-05T18:52:41.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22392455/38afdc99383750ea5bef5963ef699c27d9116b53-16x9-x0y0w1280h720.jpg",
+          "description": "Anthropic says artificial intelligence could soon improve without human intervention and wants to co-ordinate a way to pause development of advanced AI systems."
+        }
+      ],
+      "summary": "Anthropic urged leading AI labs to consider a temporary pause in advanced AI development and coordinate with policymakers. The company cited concerns that AI systems could advance beyond human control."
+    },
+    {
+      "id": "topic_f6e32f286e277088",
+      "title": "Audit Finds Andrew Earned Income From Royal Estate Cottages",
+      "headline": "Former Prince Andrew made money subletting cottages on his rent-free estate, report shows",
+      "label": [
+        "andrew",
+        "cottages",
+        "prince",
+        "rent",
+        "sublet",
+        "estate"
+      ],
+      "category": "new",
+      "theme": "theme_8b2bae197127487e",
+      "entities": [
+        "Former Prince Andrew",
+        "Ex",
+        "Prince Andrew",
+        "Audit",
+        "Andrew"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Former Prince Andrew made money subletting cottages on his rent-free estate, report shows",
+          "url": "https://www.thehindu.com/news/international/former-prince-andrew-made-money-subletting-cottages-on-his-rent-free-estate-report-shows/article71065174.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-05T11:24:35.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/gosxnz/article71065276.ece/alternates/LANDSCAPE_1200/AFP_B63P9CQ.jpg",
+          "description": "It also disclosed that his daughters, Princess Beatrice and Princess Eugenie, live in rent-controlled palace properties paid for by their uncle, King Charles III"
+        },
+        {
+          "title": "Ex-Prince Andrew made money subletting cottages on royal estate: Audit",
+          "url": "https://torontosun.com/news/world/ex-prince-andrew-made-money-subletting-cottages-on-royal-estate-audit",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-06-05T15:36:23.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2025/10/2243737455_299611902-e1761931688315.jpg?quality=100&strip=all",
+          "description": "King's younger brother pocketed an undisclosed amount and his daughters’ rent is also paid by Charles"
+        },
+        {
+          "title": "Andrew made money subletting cottages on his rent-free estate, report shows",
+          "url": "https://www.theage.com.au/world/europe/andrew-made-money-subletting-cottages-on-his-rent-free-estate-report-shows-20260606-p604gl.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-06-05T23:18:40.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1.1031%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/d438caebe25c4e3c3e32a49a116b2a83e6a5db46",
+          "description": "The audit office review was requested by MPs after Mountbatten-Windsor was stripped of his royal titles and evicted from Royal Lodge by the King."
+        },
+        {
+          "title": "Former prince Andrew made money on cottage sublets at his rent-free estate",
+          "url": "https://globalnews.ca/news/11891802/prince-andrew-made-money-renting-cottages-royal-lodge",
+          "published_at": "2026-06-05T16:05:00.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/06/Andrew-Mountbatten-Windsor.jpg?quality=65&strip=all",
+          "description": "The National Audit Office report said Mountbatten-Windsor had received income from renting out three cottages on the Royal Lodge estate, his former home near Windsor Castle."
+        },
+        {
+          "title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+          "url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-06-05T10:48:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/06/multimedia/06UK-Andrew-01-kzgm/06UK-Andrew-01-kzgm-mediumSquareAt3X.jpg",
+          "description": "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found."
+        }
+      ],
+      "summary": "Britain’s National Audit Office found that Andrew Mountbatten-Windsor received income from renting out three cottages on the Royal Lodge estate, where he paid no rent."
+    },
+    {
+      "id": "topic_da3a4d6119a368bf",
+      "title": "US House Passes Ukraine Aid and Russia Sanctions",
+      "headline": "House Passes Ukraine Aid Over Objections of GOP Leaders",
+      "label": [
+        "aid",
+        "passes",
+        "ukraine",
+        "house",
+        "leaders",
+        "gop"
+      ],
+      "category": "new",
+      "theme": "theme_aa0c44c80b40f902",
+      "entities": [
+        "House Passes Ukraine Aid",
+        "Over Objections",
+        "GOP Leaders",
+        "Rebuke",
+        "Opposing Republican Leaders"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "House Passes Ukraine Aid Over Objections of GOP Leaders",
+          "url": "https://www.realclearpolitics.com/2026/06/05/house_passes_ukraine_aid_over_objections_of_gop_leaders_701734.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-06-05T18:23:39.000Z",
+          "image": "https://assets.realclear.com/images/71/718959_1_.jpeg",
+          "description": "It is the latest legislative rebuke of Trump as a small number of Republicans increasingly break away from the president and GOP leaders."
+        },
+        {
+          "title": "House Passes Ukraine Aid in Rebuke of GOP Leaders",
+          "url": "https://politicalwire.com/2026/06/05/house-passes-ukraine-aid-in-rebuke-of-gop-leaders",
+          "source": "Political Wire",
+          "published_at": "2026-06-05T06:28:28.000Z",
+          "description": "NOTUS: “The House passed bipartisan legislation on Thursday leveling new economic sanctions on Russia and strengthening Ukraine’s defenses despite opposition from Republican leaders.” “The measure passed by a vote of 226-195, with 18 Republicans and one independent joining Democrats in support. Com…"
+        },
+        {
+          "title": "House Passes Ukraine Aid, Opposing Republican Leaders",
+          "url": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-05T00:11:31.000Z",
+          "image": "https://static01.nyt.com/images/2026/06/04/multimedia/04dc-CONG-ukraine-wcgf/04dc-CONG-ukraine-wcgf-mediumSquareAt3X.jpg",
+          "description": "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda."
+        },
+        {
+          "title": "House passes Ukraine aid bill in another GOP rebuke of Trump’s foreign policy",
+          "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589",
+          "source": "NBC News World News",
+          "published_at": "2026-06-05T00:47:00.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260604-ukraine-conflict-vsb-2042-8e277a.jpg",
+          "description": "The vote comes after the House passed a resolution earlier this week against President Donald Trump’s war against Iran."
+        },
+        {
+          "title": "House passes Ukraine aid bill in another GOP rebuke of Trump’s foreign policy",
+          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxpywxpne4wdxczq0zmquhtcflmel8ta240ak0tngrwmu5ryut1r0cxvznkwmwza2hwatzptkqzq2datxr1nhi4t21yznzwbli5thzkr05rx0fqaurqwwi0nvdfvy1mufpyversrnbpa05oew5qdgdsyvhnwnppuzrmai05b09nbfjkwldiu3h2ee5jzlfjq3bqbjn4ww1tbenid1lmelnlznzimlvovnvkv211tkwxckytlxlrmflbadk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-05T00:47:00.000Z",
+          "description": "House passes Ukraine aid bill in another GOP rebuke of Trump’s foreign policy NBC News House approves Ukraine aid and Russian sanctions, defying Trump and GOP leaders CNN House Republicans break with Trump again to approve Ukraine aid BBC US House backs Russia sanctions, Ukraine aid, in latest blow…"
+        }
+      ],
+      "summary": "The House passed legislation supporting Ukraine’s defenses and imposing new economic sanctions on Russia, despite opposition from Republican leaders. Eighteen Republicans joined Democrats in supporting the measure."
+    },
+    {
+      "id": "topic_777334d05dd44681",
+      "title": "Capcom Announces Resident Evil: Code Veronica Remake",
+      "headline": "Capcom's Resident Evil: Code Veronica remake is coming in 2027",
+      "label": [
+        "veronica",
+        "evil",
+        "resident",
+        "remake",
+        "code",
+        "capcom"
+      ],
+      "category": "new",
+      "theme": "theme_2af502ac09ad2041",
+      "entities": [
+        "Capcom",
+        "Resident Evil",
+        "Code Veronica",
+        "Veronica Is",
+        "Code Veronica Remake And"
+      ],
+      "article_count": 15,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Capcom's Resident Evil: Code Veronica remake is coming in 2027",
+          "url": "https://www.engadget.com/2188677/capcom-s-resident-evil-code-veronica-remake-is-coming-in-2027",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-06-05T21:31:19.000Z",
+          "image": "https://www.engadget.com/img/gallery/capcom-s-resident-evil-code-veronica-remake-is-coming-in-2027/l-intro-1780696520.jpg",
+          "description": "It's just Resident Evil: Veronica now."
+        },
+        {
+          "title": "Resident Evil: Veronica Is A Code Veronica Remake And It Launches Next Year",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/05/resident-evil-veronica-is-a-code-veronica-remake-and-it-launches-next-year",
+          "source": "Game Informer",
+          "published_at": "2026-06-05T21:13:56.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/0245e4a4/veronica_01.jpg.webp",
+          "description": "Capcom has revealed Resident Evil: Veronica, a remake of Resident Evil – Code: Veronica, and it's launching next year, presumably on PlayStation 5, Xbox Series X/S, Nintendo Switch 2, and PC. It was revealed during today's Summer Game Fest showcase, and it follows Capcom's most recent Resident Evil…"
+        },
+        {
+          "title": "Resident Evil: Code Veronica Remake announced at Summer Game Fest, coming in 2027",
+          "url": "https://www.eurogamer.net/resident-evil-code-veronica-remake-summer-game-fest",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-06-05T21:14:25.000Z",
+          "image": "https://assetsio.gnwcdn.com/veronica_ZJZS02l.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "Resident Evil: Veronica has been announced at Summer Game Fest. The game will release in 2027 for PC, PS5, Xbox Series X/S, and Nintendo Switch 2. Read more"
+        },
+        {
+          "title": "Resident Evil Code Veronica remake trailer revealed at Summer Game Fest 2026",
+          "url": "https://www.polygon.com/capcoms-resurrecting-resident-evil-code-veronica-at-last",
+          "source": "Polygon.com",
+          "published_at": "2026-06-05T21:13:07.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/resident-evil-code-veronica-remake.jpg",
+          "description": "Capcom's Resident Evil Code Veronica remake is real, and the studio unveiled it during Summer Game Fest"
+        },
+        {
+          "title": "Resident Evil: Code Veronica Finally Gets a Remake",
+          "url": "https://www.cnet.com/tech/gaming/resident-evil-code-veronica-remake",
+          "source": "CNET",
+          "published_at": "2026-06-05T22:07:00.000Z",
+          "image": "https://www.cnet.com/a/img/resize/bd0e0466097a313c01e984a6a61bfffedfc3f4b8/hub/2026/06/05/13a7649b-9208-487c-822f-6d82b4a42746/screenshot-2026-06-05-at-5-26-21pm.png?auto=webp&fit=crop&height=614&width=1092",
+          "description": "The next Resident Evil remake is coming next year."
+        }
+      ],
+      "summary": "Capcom announced Resident Evil: Veronica, a remake of Resident Evil: Code Veronica, at Summer Game Fest. The game is due in 2027."
+    },
+    {
+      "id": "topic_dbf5ff04b6399c96",
+      "title": "49 Die After Truck Breaks Down in Niger Desert",
+      "headline": "49 die of thirst in Niger desert after truck breaks down",
+      "label": [
+        "desert",
+        "thirst",
+        "die",
+        "niger",
+        "truck",
+        "breaks"
+      ],
+      "category": "new",
+      "theme": "theme_a3c67e33c8c07e08",
+      "entities": [
+        "Niger",
+        "Sahara Desert",
+        "Euronews",
+        "Nearly",
+        "Sahara"
+      ],
+      "article_count": 10,
       "source_count": 9,
       "articles": [
         {
-          "title": "Vance slams ‘enraging’ and ‘tragic’ Henry Nowak murder in UK",
-          "url": "https://www.washingtonexaminer.com/news/world/4597227/vance-uk-henry-nowak-murder",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-05T21:45:14.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/vance-henry-nowak-murder.jpg?w=696"
+          "title": "49 die of thirst in Niger desert after truck breaks down",
+          "url": "https://www.iol.co.za/news/africa/49-die-of-thirst-in-niger-desert-after-truck-breaks-down-7328511a-46b0-419d-8fe6-1a1824c1d3a1",
+          "source": "IOL section feed for News",
+          "published_at": "2026-06-05T05:38:19.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/5c3df5a33fb922c507f4465bba75b24d0803ff26/565&operation=CROP&offset=0x196&resize=565x318"
         },
         {
-          "title": "JD Vance blames UK student murder on 'mass invasion of migrants'",
-          "url": "https://japantoday.com/category/world/jd-vance-blames-uk-student-murder-on-%27mass-invasion-of-migrants%27",
-          "source": "Japan Today",
-          "published_at": "2026-06-05T20:43:34.000Z"
+          "title": "At least 49 die of thirst after truck breaks down in Sahara Desert",
+          "url": "https://www.independent.co.uk/news/world/africa/sahara-desert-niger-dead-passengers-b2990710.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-05T17:53:06.000Z",
+          "image": "https://static.independent.co.uk/2026/06/05/18/1258549054..?width=1200&auto=webp&crop=3%3A2",
+          "description": "The victims were reportedly returning home from a religious festival"
         },
         {
-          "title": "\"Righteous Anger\": JD Vance Blames EU Migration Policy For UK Student's Murder",
-          "url": "https://www.ndtv.com/world-news/jd-vance-blames-eu-migration-policy-for-uk-students-murder-11598030",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-05T19:44:28.000Z",
-          "image": "https://c.ndtvimg.com/2026-04/69495jv8_jd-vance_625x300_15_April_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+          "title": "At least 49 die of thirst in Niger desert after truck breaks down",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxqmfjpwi1kuwqyrm1jd3plq1zav1h0wumtdjvezm1rmxjddkiyq01wotdutmq5oda4sgw1a2vouedwmtmxaer5m1bssvfoc2tymue0znb2athmanjgmvzxa21trzr0nxe2dfj0m0plullmqznwwvrhz1dooergwv9yb2xrt0eyr21hz0ixtdzqz0lyms0ztlk2qxvsznywa1nmbk9atvrsuxzzb1noqw1jbjn2q3byuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-05T14:05:56.000Z",
+          "description": "At least 49 die of thirst in Niger desert after truck breaks down Euronews.com Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert BBC Truck breakdown in Niger strands passengers and leaves at least 49 dead in the Sahara Desert Yahoo Dozens of people die of thirst after g…"
         },
         {
-          "title": "U.S. Vice President blames British student’s murder on migrant ‘invasion’",
-          "url": "https://www.digitaljournal.com/article/u-s-vice-president-blames-british-students-murder-on-migrant-invasion",
-          "source": "Digital Journal",
-          "published_at": "2026-06-05T19:15:06.000Z"
+          "title": "Nearly 50 die of thirst in Niger after truck breaks down in remote Sahara desert",
+          "url": "https://www.france24.com/en/africa/20260605-nearly-50-die-of-thirst-in-niger-after-truck-breaks-down-in-remote-sahara-desert",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-05T08:15:10.000Z",
+          "image": "https://s.france24.com/media/display/36afe6f0-60b2-11f1-b86e-005056a90284/w:1024/p:16x9/AP18353679365928.jpg",
+          "description": "Forty-nine people died of thirst in Niger when a truck broke down in a remote part of the Sahara desert, leaving its passengers stranded without water. Two survivors managed to walk 50 kilometres through the desert to a water source and then to the town of Assamaka, where they alerted authorities."
         },
         {
-          "title": "Downing Street hits back after JD Vance blames Henry Nowak murder on migrant ‘invasion’",
-          "url": "https://www.thejournal.ie/henry-nowak-7062200-jun2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-06-05T19:07:12.000Z",
-          "image": "https://c3.thejournal.ie/media/2026/06/image-05-06-2026-at-20-01-212f9845-707f-4249-a857-c6baf8fd5706-630x347.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_e6d412580a7b2771",
-      "label": [
-        "ipsec",
-        "arista eos",
-        "eos",
-        "arista",
-        "2379",
-        "2026 2379"
-      ],
-      "category": "new",
-      "theme": "theme_6404d964b44cc3be",
-      "entities": [
-        "CVE",
-        "Arista EOS",
-        "IPsec Feature",
-        "Arista EOS IPsec Tunnel",
-        "Sequence Number Mismatch"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "CVE-2026-2379 | Arista EOS up to 4.34.3M IPsec Feature operation after expiration",
-          "url": "https://vuldb.com/vuln/368965",
-          "source": "VulDB Recent Entries",
-          "published_at": "2026-06-05T18:23:42.000Z"
-        },
-        {
-          "title": "Arista EOS IPsec Tunnel Sequence Number Mismatch via Interface Flaps when Ant...",
-          "url": "https://cve.threatint.eu/cve/cve-2026-2379",
-          "source": "CVE: New",
-          "published_at": "2026-06-05T17:59:40.000Z"
-        },
-        {
-          "title": "CVE-2026-2379 Arista EOS IPsec Tunnel Sequence Number Mismatch via Interface Flaps when Anti-Replay is Disabled",
-          "url": "https://vulners.com/cvelist/cvelist:cve-2026-2379",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-06-05T17:59:40.000Z",
-          "image": "http://vulners.com/static/img/cvelist.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_6df64f355e011a9a",
-      "label": [
-        "putin reject",
-        "reject",
-        "offer meet",
-        "meet",
-        "reject zelensky",
-        "meet say"
-      ],
-      "category": "new",
-      "theme": "theme_3af11934f587cc5b",
-      "entities": [
-        "Putin",
-        "Zelensky",
-        "Russia",
-        "Ukraine",
-        "BBC News"
-      ],
-      "article_count": 7,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Putin rejects Zelensky meeting saying Russia “will achieve its goals” in Ukraine | BBC News",
-          "url": "https://www.youtube.com/watch?v=1k5kLgFDEzU",
-          "source": "BBC News",
-          "published_at": "2026-06-05T21:27:04.000Z",
-          "image": "https://i2.ytimg.com/vi/1k5kLgFDEzU/hqdefault.jpg"
-        },
-        {
-          "title": "Putin rejects Zelensky’s offer to meet saying he sees ‘no point’ in it",
-          "url": "https://www.breakingnews.ie/world/putin-rejects-zelenskys-offer-to-meet-saying-he-sees-no-point-in-it-1909809.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDUxNTQxNTRcXFwvZWRmMmQxOWIxOTVkNDI1Nzg5ZjRiYzMwOGQ3Njg3YWItMi5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjOWI5YWEwMDIyMmQ0YjA4NDFmZGU4OGUzMDEwY2FjZjNjZmIyZmQzIn0=/edf2d19b195d425789f4bc308d7687ab-2.jpg"
-        },
-        {
-          "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
-          "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
-          "source": "Europe | The Guardian",
-          "published_at": "2026-06-05T17:59:01.000Z",
-          "image": "https://i.guim.co.uk/img/media/a6b73f887a39038036202df5205dc0b2916a0904/291_0_2178_1744/master/2178.jpg?width=140&quality=85&auto=format&fit=max&s=59fb4ef5233b7979142064803b59c66f"
-        }
-      ]
-    },
-    {
-      "id": "topic_f59d4cba2a2cd13",
-      "label": [
-        "condamn 20",
-        "20 ans",
-        "mali",
-        "condamn",
-        "ais",
-        "fran ais"
-      ],
-      "category": "new",
-      "theme": "theme_3fac65f769f7202b",
-      "entities": [
-        "Un",
-        "Mali",
-        "Paris"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Un agent français au Mali condamné à 20 ans de prison, Paris dénonce des \"accusations sans fondement\"",
-          "url": "https://www.franceinfo.fr/monde/afrique/mali/un-agent-francais-au-mali-condamne-a-20-ans-de-prison-paris-denonce-des-accusations-sans-fondement_8047211.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-05T19:53:46.000Z",
-          "image": "https://www.franceinfo.fr/pictures/LZ_TyJee3BDntRVp_BDICOpMGI0/0x569:5472x3645/432x243/filters:format(jpg)/2025/08/17/000-426d8wr-68a1832047009490100828.jpg"
-        },
-        {
-          "title": "Un diplomate français condamné à 20 ans de prison au Mali, Paris dénonce des « accusations sans fondement »",
-          "url": "https://www.ouest-france.fr/monde/mali/un-diplomate-francais-condamne-a-20-ans-de-prison-au-mali-paris-denonce-des-accusations-sans-fondement-13d801b4-6105-11f1-8c24-b38534c94fba",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-06-05T18:49:50.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA2YTVkZDkwZGI1NjUwOGI2MTEzNmMyZTVmYWFkYjgxOTU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=869474865ac833ed94140975afc0466a8bd3b22c13755705b76f6bfd0d3f2214"
-        },
-        {
-          "title": "Mali : le diplomate français arrêté en 2025 condamné à 20 ans de prison pour « atteinte à la sûreté de l’État »",
-          "url": "https://www.sudouest.fr/international/afrique/mali/mali-le-diplomate-francais-arrete-en-2025-condamne-a-20-ans-de-prison-pour-atteinte-a-la-surete-de-l-etat-29367805.php",
-          "source": "L'essentiel",
-          "published_at": "2026-06-05T17:57:40.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_245b66b962526de4",
-      "label": [
-        "stranger",
-        "heaven",
-        "stranger heaven",
-        "tupac",
-        "release date",
-        "date"
-      ],
-      "category": "new",
-      "theme": "theme_6969a4f2d938a637",
-      "entities": [
-        "Tupac",
-        "Stranger Than Heaven",
-        "Stranger Than Heaven Release",
-        "Date Revealed",
-        "Tupac Confirmed"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Tupac is coming to Stranger Than Heaven and we're as confused as you are",
-          "url": "https://www.engadget.com/2188718/tupac-is-coming-to-stranger-than-heaven-and-we-re-as-confused-as-you-are",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-05T22:07:31.000Z",
-          "image": "https://www.engadget.com/img/gallery/tupac-is-coming-to-stranger-than-heaven-and-were-as-confused-as-you-are/l-intro-1780697174.jpg"
-        },
-        {
-          "title": "Stranger Than Heaven gets release date and adds Tupac to its cast",
-          "url": "https://www.polygon.com/stranger-than-heaven-tupac-snoop-dogg-release-date",
-          "source": "Polygon.com",
-          "published_at": "2026-06-05T21:54:13.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/stranger-than-heaven-tupac-screenshot.png"
-        },
-        {
-          "title": "Stranger Than Heaven Release Date Revealed; Tupac Confirmed as a Character",
-          "url": "https://www.ign.com/articles/stranger-than-heaven-release-date-revealed-tupac-confirmed-as-a-character",
-          "source": "IGN Articles",
-          "published_at": "2026-06-05T21:45:14.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/tupac-stranger-than-heaven-1780695704331.jpg"
-        },
-        {
-          "title": "Stranger Than Heaven Gets Even Stranger With The Addition Of A Very Alive Tupac",
-          "url": "https://www.gamespot.com/articles/stranger-than-heaven-gets-even-stranger-with-the-addition-of-a-very-alive-tupac",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-06-05T21:43:04.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Clipboard_06-05-2026_01.jpg?w=300"
-        },
-        {
-          "title": "Tupac Lives… in New Video Game Stranger than Heaven",
-          "url": "https://consequence.net/2026/06/tupac-lives-in-new-video-game-stranger-than-heaven",
-          "source": "Consequence",
-          "published_at": "2026-06-05T21:42:52.000Z",
-          "image": "https://consequence.net/wp-content/uploads/2026/06/stranger-than-heaven-tupac.jpg?quality=80"
-        }
-      ]
-    },
-    {
-      "id": "topic_bebf2ad52b9a7fe5",
-      "label": [
-        "strik",
-        "policy",
-        "judge strik",
-        "judge",
-        "strik trump",
-        "trump"
-      ],
-      "category": "new",
-      "theme": "theme_a5e0b195a673c770",
-      "entities": [
-        "US Court Strikes Down",
-        "Trump Policies Targeting Immigrants",
-        "Countries",
-        "Judge Strikes Down",
-        "Slate"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "US Court Strikes Down Trump Policies Targeting Immigrants From 39 Countries",
-          "url": "https://www.ndtv.com/world-news/us-court-strikes-down-trump-policies-targeting-immigrants-from-39-countries-11598195",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-05T22:26:09.000Z",
-          "image": "https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-        },
-        {
-          "title": "Judge Strikes Down a Slate of Trump’s Immigration Policies",
-          "url": "https://www.nytimes.com/2026/06/05/briefing/judge-trump-immigration-policies.html",
-          "source": "NYT > Top Stories",
-          "published_at": "2026-06-05T21:43:31.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05evening-nl-dc-immig-court/05evening-nl-dc-immig-court-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "US judge strikes down Trump policies targeting immigrants from 39 countries",
-          "url": "https://japantoday.com/category/world/us-judge-strikes-down-trump-policies-targeting-immigrants-from-39-countries",
-          "source": "Japan Today",
-          "published_at": "2026-06-05T20:44:03.000Z"
-        },
-        {
-          "title": "Judge rules Trump travel ban policies targeting immigrants unlawful",
-          "url": "https://www.ms.now/news/judge-trump-travel-ban-immigration-asylum",
-          "source": "MS NOW",
-          "published_at": "2026-06-05T20:02:36.000Z"
-        },
-        {
-          "title": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
-          "url": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries",
+          "title": "At least 49 people die of thirst after truck breakdown in Niger desert",
+          "url": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-06-05T18:50:31.000Z"
+          "published_at": "2026-06-05T15:17:14.000Z",
+          "description": "Two people managed to survive after walking more than 50km to a water source and then a nearby town."
         }
-      ]
+      ],
+      "summary": "At least 49 people died of thirst after a truck broke down in a remote part of Niger’s Sahara Desert. Two survivors reached water after walking more than 50 kilometres."
     },
     {
-      "id": "topic_cc1ca0230e842756",
+      "id": "topic_f805cac5167c253b",
+      "title": "Bear Injures Four and Escapes Factory in Japan",
+      "headline": "'Extremely intelligent' bear that attacked 4 escapes capture in Japan",
       "label": [
-        "visa",
-        "world cup",
-        "grant visa",
-        "cup",
-        "world",
-        "visa world"
+        "extremely",
+        "intelligent",
+        "bear",
+        "attacked",
+        "four",
+        "escapes"
       ],
       "category": "new",
-      "theme": "theme_a5694490785ead39",
+      "theme": "theme_1e24e75c0a119e5f",
       "entities": [
-        "Iran",
-        "World Cup",
-        "US",
-        "Iranian",
-        "Iran World Cup"
+        "Extremely",
+        "Japan",
+        "Extremely Intelligent",
+        "Bear Attacks",
+        "Escapes Factory Through Locked"
       ],
       "article_count": 7,
       "source_count": 7,
       "articles": [
         {
-          "title": "Iran players receive U.S. visas for World Cup",
-          "url": "https://www.espn.com/soccer/story/_/id/48977850/iran-players-receive-us-visas-2026-world-cup",
-          "source": "www.espn.com - SOCCER",
-          "published_at": "2026-06-05T23:04:09.000Z"
+          "title": "'Extremely intelligent' bear that attacked 4 escapes capture in Japan",
+          "url": "https://www.yahoo.com/news/world/articles/extremely-intelligent-bear-attacked-4-162021247.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-05T16:20:21.000Z",
+          "image": "https://media.zenfs.com/en/us.abcnews.gma.com/b49e21674993669f1a97c060aeccc291"
         },
         {
-          "title": "US envoy confirms Iranian footballers granted visas for World Cup",
-          "url": "https://www.lemonde.fr/en/sports/article/2026/06/06/us-envoy-confirms-iranian-footballers-granted-visas-for-world-cup_6754193_9.html",
-          "source": "World : Latest news on Le Monde.fr.",
-          "published_at": "2026-06-05T22:29:04.000Z",
-          "image": "https://img.lemde.fr/2026/06/03/159/0/5295/2647/644/322/60/0/d44d648_ftp-1-kmsvniu6qaob-5213457-01-06.jpg"
+          "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
+          "url": "https://www.bbc.com/news/videos/cx212p755z8o",
+          "source": "BBC News",
+          "published_at": "2026-06-05T09:08:57.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffc/live/fbeb6b20-60b6-11f1-b682-cf91850925ea.jpg",
+          "description": "Authorities said that a bear in north-east Japan has eluded capture by opening a window"
         },
         {
-          "title": "Iran World Cup players granted visas to enter the US, official says",
-          "url": "https://sports.yahoo.com/articles/irans-world-cup-players-granted-205516721.html",
-          "published_at": "2026-06-05T21:54:07.000Z"
+          "title": "'Extremely intelligent' bear on the run after brutally attacking 4 people",
+          "url": "https://www.express.co.uk/news/world/2213892/extremely-intelligent-bear-run-brutally",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-06-05T13:48:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2213892_1.jpg",
+          "description": "The bear injured two factory workers."
         },
         {
-          "title": "Iranian footballers have been granted visas for the World Cup next week, US envoy confirms",
-          "url": "https://www.thejournal.ie/iran-visas-world-cup-usa-7062362-jun2026",
-          "source": "TheJournal.ie",
-          "published_at": "2026-06-05T21:43:07.000Z",
-          "image": "https://c0.thejournal.ie/media/2026/06/tehran-iran-25th-mar-2025-players-and-staff-of-iran-celebrates-after-wining-promotion-for-world-cup-during-the-fifa-world-cup-2026-qualification-afc-group-a-round-8-match-between-iran-and-uzbekis-36c95640-380a-4ac6-a9b5-cbfeadc8074e-630x420.jpg"
+          "title": "'Extremely Intelligent' Bear Attacks 4, Escapes Factory Through Locked Window In Japan",
+          "url": "https://www.ndtv.com/world-news/extremely-intelligent-bear-attacks-4-escapes-factory-through-locked-window-in-japan-11596659",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-05T15:45:07.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/3co4j36o_viral-bear-video-japan_625x300_05_June_26.jpeg",
+          "description": "Authorities in Fukushima continue searching for a bear that injured four people before escaping an electronics factory by opening a locked window."
         },
         {
-          "title": "Iran's World Cup players granted visas to play in the US",
-          "url": "https://abcnews.com/us/irans-world-cup-players-granted-visas-play-us/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-06-05T20:59:07.000Z",
-          "image": "https://s.abcnews.com/images/US/wc-2-ap-gmh-260529_1780067987818_hpMain_2_4x3t_384.jpg"
+          "title": "‘Extremely intelligent’ bear at large after hurting four in Fukushima",
+          "url": "https://www.japantimes.co.jp/news/2026/06/05/japan/bear-at-large-fukushima",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-05T04:56:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/05/544522.jpg",
+          "description": "The bear apparently unlatched a window while evading capture and turned on a water tap to drink from."
         }
-      ]
+      ],
+      "summary": "Authorities in Fukushima are searching for a bear that injured four people at an electronics factory. The bear escaped by opening a window."
     },
     {
-      "id": "topic_a5c1a418ae17a79f",
+      "id": "topic_ee14655e5aacd28",
+      "title": "Final Fantasy VII Remake Finale Titled Revelation",
+      "headline": "Final Fantasy 7 Remake Part 3 is officially known as Final Fantasy 7 Revelation",
       "label": [
-        "cuphead",
-        "cuphead gam",
-        "gam",
-        "mdhr announc",
-        "mdhr",
-        "studio mdhr"
+        "fantasy",
+        "revelation",
+        "final",
+        "remake",
+        "vii",
+        "spring"
       ],
       "category": "new",
-      "theme": "theme_832b485a6ed91eb3",
+      "theme": "theme_d12f589af8d49da3",
       "entities": [
-        "Mighty Cuphead Adventure",
-        "Two New Cuphead Games",
-        "Revealed",
-        "And One Is",
-        "Pixel"
+        "Final Fantasy",
+        "Remake Part",
+        "Revelation",
+        "Final Fantasy VII Remake",
+        "Part"
       ],
-      "article_count": 6,
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Final Fantasy 7 Remake Part 3 is officially known as Final Fantasy 7 Revelation",
+          "url": "https://www.polygon.com/final-fantasy-7-part-3-reveal",
+          "source": "Polygon.com",
+          "published_at": "2026-06-05T22:53:41.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/image-9.png",
+          "description": "The new trailer for Final Fantasy 7 Revolution revealed the release date and showed off a bunch of jaw-dropping gameplay footage."
+        },
+        {
+          "title": "Final Fantasy VII Remake Part 3 Called Revelation, Out Simultaneously Across All Platforms",
+          "url": "https://www.ign.com/articles/final-fantasy-vii-remake-part-3-called-revelation-out-simultaneously-across-all-platforms",
+          "source": "IGN Articles",
+          "published_at": "2026-06-05T23:00:16.000Z",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfch3haiaax91h-1780700227262.jpg",
+          "description": "Square Enix has finally revealed Final Fantasy VII Remake part three, called Revelation. It’s due out simultaneously across PlayStation 5, Xbox Series X and S, and PC."
+        },
+        {
+          "title": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
+          "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+          "source": "The Verge",
+          "published_at": "2026-06-05T22:52:06.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-05-at-3.48.58PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown onstage at Summer Game Fes…"
+        },
+        {
+          "title": "Final Fantasy VII Revelation Officially Unveiled For Switch 2, Out Spring 2027",
+          "url": "https://www.nintendolife.com/news/2026/06/final-fantasy-vii-revelation-officially-unveiled-for-switch-2-out-spring-2027",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-06-05T23:05:00.000Z",
+          "image": "https://images.nintendolife.com/e054a270d7cc1/large.jpg",
+          "description": "\"The final chapter\" of the remake project. At the Summer Game Fest 2026, Square Enix has officially unveiled the third and final part in the Final Fantasy remake trilogy. It's officially titled Final VII Revelation. This next chapter, following Final Fantasy VII Remake Intergrade and Final Fantasy…"
+        },
+        {
+          "title": "The Third Final Fantasy VII Remake Subtitle Is Revelation And It's Coming To All Platforms Simultaneously",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/05/the-third-final-fantasy-vii-remake-subtitle-is-revelation-and-its-coming-to-all",
+          "source": "Game Informer",
+          "published_at": "2026-06-05T22:57:40.000Z",
+          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/ba77b6ca/ff03.jpg.webp",
+          "description": "After much speculation, we finally know the subtitle of the final entry in the Final Fantasy VII remake trilogy: Revelation. Surprisingly, the game will also release for all platforms simultaneously. The Final Fantasy VII remake series will no long start as a PlayStation exclusive. The game's direc…"
+        }
+      ],
+      "summary": "Square Enix announced Final Fantasy VII Revelation as the third and final game in its remake trilogy. The game is set to release simultaneously across multiple platforms."
+    },
+    {
+      "id": "topic_1091bdd710b54876",
+      "title": "Karnataka Minister Ramalinga Reddy Resigns Over Portfolio",
+      "headline": "Ramalinga Reddy to resign as Karnataka minister, unhappy with portfolio allocation",
+      "label": [
+        "ramalinga",
+        "reddy",
+        "karnataka",
+        "resigns",
+        "cabinet",
+        "portfolio"
+      ],
+      "category": "new",
+      "theme": "theme_34c0ce2a01c1a221",
+      "entities": [
+        "Ramalinga Reddy",
+        "Karnataka",
+        "Karnataka Cabinet",
+        "Ministry",
+        "Cabinet Trouble"
+      ],
+      "article_count": 12,
       "source_count": 6,
       "articles": [
         {
-          "title": "Mighty Cuphead Adventure makes the jump from hand-drawn animation to pixel art",
-          "url": "https://www.engadget.com/2188715/mighty-cuphead-adventure-makes-the-jump-from-hand-drawn-animation-to-pixel-art",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-05T21:56:53.000Z",
-          "image": "https://www.engadget.com/img/gallery/mighty-cuphead-adventure-makes-the-jump-from-hand-drawn-animation-to-pixel-art/l-intro-1780696550.jpg"
+          "title": "Ramalinga Reddy to resign as Karnataka minister, unhappy with portfolio allocation",
+          "url": "https://www.thehindu.com/news/national/karnataka/ramalinga-reddy-resigns-as-karnataka-minister-unhappy-with-portfolio-allocation/article71063999.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-05T04:59:09.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/ecspi5/article71064004.ece/alternates/LANDSCAPE_1200/Travel-fares-ofG7MG03EK8.3.jpg.jpg",
+          "description": "I cannot work against conscience,\" Mr. Reddy said at a press conference"
         },
         {
-          "title": "Two New Cuphead Games Revealed, And One Is A Pixel-Art Spin-Off",
-          "url": "https://www.gamespot.com/articles/two-new-cuphead-games-revealed-and-one-is-a-pixel-art-spin-off",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-06-05T21:35:16.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Mighty-Cuphead.png?w=300"
+          "title": "Karnataka cabinet faces first jolt as Ramalinga Reddy quits over portfolio allocation",
+          "url": "https://www.thehindubusinessline.com/news/national/karnataka-cabinet-faces-first-jolt-as-ramalinga-reddy-quits-over-portfolio-allocation/article71064589.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-05T08:47:19.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/r6szpp/article71064699.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-16%20at%2019.21.52.JPEG",
+          "description": "Ramalinga Reddy stated that he had previously been promised the Bengaluru Development portfolio, a key position that has now been given to Krishna Byre Gowda"
         },
         {
-          "title": "Studio MDHR Announces 2 New Cuphead Games Are in Development",
-          "url": "https://www.ign.com/articles/studio-mdhr-announces-2-new-cuphead-games-are-in-development",
-          "source": "IGN Articles",
-          "published_at": "2026-06-05T21:21:10.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/studio-mdhr-reveals-2-new-cuphead-games-summer-game-fest-1780694740409.png"
+          "title": "'Cannot Work Against Conscience': Congress leader Ramalinga Reddy Resigns As Karnataka Minister Over Portfolio Allocation Row | Video",
+          "url": "https://www.freepressjournal.in/india/cannot-work-against-conscience-congress-leader-ramalinga-reddy-resigns-as-karnataka-minister-over-portfolio-allocation-row-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-06-05T04:52:54.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-06-05/lvn2adu3/Untitled-design-2026-06-05T102150.894.jpg"
         },
         {
-          "title": "Studio MDHR Announces Two New Games: Mighty Cuphead Adventure And A Cuphead Sequel",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/05/studio-mdhr-announces-two-new-games-mighty-cuphead-adventure-and-a-cuphead",
-          "source": "Game Informer",
-          "published_at": "2026-06-05T21:21:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/538f71cc/mightycuphead02.jpg.webp"
+          "title": "Who is Ramalinga Reddy? Why did he resign days after joining Karnataka cabinet? CM DK Shivkumar reacts",
+          "url": "https://www.dnaindia.com/india/report-who-is-ramalinga-reddy-why-did-he-resign-days-after-joining-karnataka-cabinet-3212515",
+          "source": "India News",
+          "published_at": "2026-06-05T07:23:05.000Z",
+          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/06/05/2750715-phto-2026-06-05t123237.727.png",
+          "description": "He's a veteran leader and KPCC Working President with 40+ years of experience, having served as Transport, Home, Education & Food Minister in past Congress govts."
         },
         {
-          "title": "Two New Cuphead Games Are On The Way, And One’s An 8-Bit Platform Shooter",
-          "url": "https://kotaku.com/two-new-cuphead-games-hand-drawn-mighty-cuphead-adventure-2000703098",
-          "source": "Kotaku",
-          "published_at": "2026-06-05T21:16:45.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/06/cuphead-1280x720.jpg"
+          "title": "Karnataka minister resigns over portfolio allocation two days after Shivakumar Cabinet takes office",
+          "url": "https://scroll.in/latest/1093370/karnataka-minister-resigns-over-portfolio-allocation-two-days-after-shivakumar-cabinet-takes-office",
+          "source": "Scroll.in",
+          "published_at": "2026-06-05T08:24:19.000Z",
+          "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/213799-niawlzfksi-1780642144.jpg",
+          "description": "While Ramalinga Reddy said that he had been promised the Bengaluru development department, the chief minister said that the matter will be resolved."
         }
-      ]
+      ],
+      "summary": "Ramalinga Reddy resigned from Karnataka’s cabinet after a dispute over portfolio assignments. He said he had been promised the Bengaluru Development portfolio, which was assigned to another minister."
     },
     {
-      "id": "topic_6f0d5b6f9f67b3f5",
+      "id": "topic_ebba671953f94014",
+      "title": "Astronomers Detect Wind From Milky Way’s Central Black Hole",
+      "headline": "Wind from Milky Way's supermassive black hole is finally discovered",
       "label": [
-        "month",
-        "spacex",
-        "920",
-        "920 million",
-        "google",
-        "compute"
+        "hole",
+        "milky",
+        "black",
+        "wind",
+        "supermassive",
+        "way"
       ],
       "category": "new",
-      "theme": "theme_7fb39f3c7b9a85fb",
+      "theme": "theme_b60f89777ece2f9d",
       "entities": [
-        "Google Will Pay SpaceX",
-        "Million Per Month For",
-        "Compute",
-        "Google",
-        "SpaceX"
+        "Wind",
+        "Milky Way",
+        "Reuters",
+        "Yahoo",
+        "Scientists"
       ],
-      "article_count": 6,
+      "article_count": 8,
       "source_count": 6,
       "articles": [
         {
-          "title": "Google Will Pay SpaceX $920 Million Per Month For Compute",
-          "url": "https://hardware.slashdot.org/story/26/06/05/2017239/google-will-pay-spacex-920-million-per-month-for-compute",
-          "source": "Slashdot",
-          "published_at": "2026-06-05T22:00:00.000Z",
-          "image": "https://a.fsdn.com/sd/twitter_icon_large.png"
+          "title": "Wind from Milky Way's supermassive black hole is finally discovered",
+          "url": "https://www.yahoo.com/news/science/articles/wind-milky-ways-supermassive-black-090250591.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-05T09:02:50.000Z",
+          "image": "https://media.zenfs.com/en/reuters.com/4f3cd875d323dd5a52e3ea7aab75dd86"
         },
         {
-          "title": "Google to pay SpaceX $920 million a month for compute capacity",
-          "url": "https://www.businessinsider.com/google-spacex-deal-920-million-month-compute-capacity-gemini-enterprise-2026-6",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-06-05T21:31:48.000Z",
-          "image": "https://i.insider.com/6a233d10b4fb977f359850a2?format=jpeg"
+          "title": "Wind from Milky Way's supermassive black hole is finally discovered",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxnve1zr0xtvk1izdf4ekn2thh0cllwdkdpcgj5lvblb1bpsufzs09wtxkytdrgbfmzr0dsekd3rtjkdlvswxhcq1o2mtvpczbkakrlwe16uhqtexo3qznseu1lues0bku2ajbdzhjoy0czaxrxc0gzrm9lctjicfjfwkriadzucxownkxxtnnzb25qng4tttvzn0zxnxrrazrcukrjmvvsbhi",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-05T09:03:03.000Z",
+          "description": "Wind from Milky Way's supermassive black hole is finally discovered Reuters Even quiet black holes create winds, new Milky Way observations reveal Science News Astronomers just solved a 50-year-old mystery about the Milky Way’s black hole Scientific American Milky Way black hole's missing wind fina…"
         },
         {
-          "title": "Google buying computing from SpaceX in US$920-million-a-month deal",
-          "url": "https://financialpost.com/technology/tech-news/google-buying-cloud-computing-from-spacex",
-          "source": "Financial Post",
-          "published_at": "2026-06-05T20:09:04.000Z"
+          "title": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'",
+          "url": "https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is",
+          "source": "Latest from Space.com",
+          "published_at": "2026-06-05T20:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/xm4Rf6zZfpn2T4qkTJ3e76-1280-80.png",
+          "description": "After searching for 50 years, astronomers have finally discovered powerful winds blowing from Sagittarius A*, the supermassive black hole at the heart of our galaxy."
         },
         {
-          "title": "Google to buy computing from Spacex at $920 million per month; filing shows 90 days notice period",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-to-buy-computing-from-spacex-at-920-million-per-month-filing-shows-90-days-notice-period-and-says-agreement-may-be-terminated-by-/articleshow/131540500.cms",
-          "source": "Times of India",
-          "published_at": "2026-06-05T20:05:53.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131540492,imgsize-120264.cms"
-        },
-        {
-          "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-          "source": "International: Top News And Analysis",
-          "published_at": "2026-06-05T20:03:56.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_b3355c5ed833fc12",
-      "label": [
-        "cre",
-        "assassin cre",
-        "assassin",
-        "cre creator",
-        "creator",
-        "1666"
-      ],
-      "category": "new",
-      "theme": "theme_d4eccb661fe92c14",
-      "entities": [
-        "Assassin",
-        "Creed",
-        "Amsterdam",
-        "Ubisoft",
-        "Creed Creator Reveals New"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Assassin's Creed creator's forgotten fantasy game 1666: Amsterdam will finally release this year, over a decade after Ubisoft ripped it from his fingers",
-          "url": "https://www.rockpapershotgun.com/assassins-creed-creators-forgotten-fantasy-game-1666-amsterdam-will-finally-release-this-year-over-a-decade-after-ubisoft-ripped-it-from-his-fingers",
-          "source": "Rock Paper Shotgun Latest Articles Feed",
-          "published_at": "2026-06-05T23:13:04.000Z",
-          "image": "https://assetsio.gnwcdn.com/1666-amsterdam_tsssSlY.jpg?width=690&quality=85&format=jpg&auto=webp"
-        },
-        {
-          "title": "Assassin’s Creed Creator Reveals New Witch Game, Coming Before AC’s Witch-Focused Game",
-          "url": "https://www.gamespot.com/articles/assassins-creed-creator-reveals-new-witch-game-coming-before-acs-witch-focused-game",
-          "source": "GameSpot - All News",
-          "published_at": "2026-06-05T22:19:24.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/1666-Amsterdam.png?w=300"
-        },
-        {
-          "title": "1666: Amsterdam from the Assassin's Creed creator finally has a release window",
-          "url": "https://www.polygon.com/1666-amsterdam-trailer-prologue-demo",
-          "source": "Polygon.com",
-          "published_at": "2026-06-05T22:19:10.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1666-amsterdam-demo-trailer.jpg"
-        },
-        {
-          "title": "Assassin's Creed Creator Reveals Witchcraft Action Game 1666: Amsterdam",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/05/assassins-creed-creator-reveals-witchcraft-action-game-1666-amsterdam",
-          "source": "Game Informer",
-          "published_at": "2026-06-05T22:19:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/4acd8757/1666-amsterdam-2.jpg.webp"
-        },
-        {
-          "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
-          "url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
-          "source": "IGN Articles",
-          "published_at": "2026-06-05T22:16:51.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfqknlwaaafark-1780697087378.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_b31174ab0b4af855",
-      "label": [
-        "star wars",
-        "wars",
-        "zero company",
-        "zero",
-        "star",
-        "company"
-      ],
-      "category": "new",
-      "theme": "theme_9d26aa63cfaf63f3",
-      "entities": [
-        "Anakin Skywalker Joins Star",
-        "Wars Zero Company In",
-        "New Gameplay Trailer",
-        "That Upcoming Star Wars",
-        "XCOM"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Anakin Skywalker Joins Star Wars Zero Company In New Gameplay Trailer",
-          "url": "https://www.gamespot.com/articles/anakin-skywalker-joins-star-wars-zero-company-in-new-gameplay-trailer",
-          "source": "GameSpot - All News",
-          "published_at": "2026-06-05T22:23:13.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ss_e189b00e001ba776e3b5b2f06233dc8807af5720.1920x1080.jpg?w=300"
-        },
-        {
-          "title": "That Upcoming Star Wars XCOM-Like Game Will Feature Anakin Skywalker",
-          "url": "https://kotaku.com/that-upcoming-star-wars-xcom-like-game-will-feature-anakin-skywalker-2000703166",
-          "source": "Kotaku",
-          "published_at": "2026-06-05T22:21:26.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/06/anakinstarwars-1280x720.jpg"
-        },
-        {
-          "title": "Star Wars Zero Company release date officially confirmed",
-          "url": "https://www.polygon.com/star-wars-zero-company-release-date",
-          "source": "Polygon.com",
-          "published_at": "2026-06-05T22:09:23.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-zero-company.jpg"
-        },
-        {
-          "title": "Star Wars Zero Company, The Single-Player Tactics Game, Gets August Release Date And Anakin Skywalker In New Trailer",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/05/star-wars-zero-company-the-single-player-tactics-game-gets-august-release-date",
-          "source": "Game Informer",
-          "published_at": "2026-06-05T22:09:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/939b0e2e/zerocompany_03.jpg.webp"
-        },
-        {
-          "title": "Star Wars Strategy Game Zero Company Confirmed for August on PS5",
-          "url": "https://www.pushsquare.com/news/2026/06/star-wars-strategy-game-zero-company-confirmed-for-august-on-ps5",
-          "source": "Push Square | Latest Updates",
-          "published_at": "2026-06-05T21:14:00.000Z",
-          "image": "https://images.pushsquare.com/24fcb70e03195/large.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_92d11a2b97b87b8d",
-      "label": [
-        "jarrett",
-        "ned jarrett",
-        "ned",
-        "93",
-        "nascar",
-        "famer"
-      ],
-      "category": "new",
-      "theme": "theme_a5689330ae078c3c",
-      "entities": [
-        "NASCAR Hall",
-        "Famer Ned Jarrett",
-        "NASCAR Mourns",
-        "Loss",
-        "Hall"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "NASCAR Hall of Famer Ned Jarrett, legendary driver and broadcaster, dies at 93",
-          "url": "https://www.foxnews.com/sports/nascar-hall-famer-ned-jarrett-legendary-driver-broadcaster-dies-93-natural-causes",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-06-05T19:28:49.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/ned-jarrett.jpeg?ve=1&tl=1"
-        },
-        {
-          "title": "NASCAR Hall of Famer Ned Jarrett dies at 93",
-          "url": "https://www.espn.com/racing/nascar/story/_/id/48976519/nascar-hall-fame-driver-announcer-ned-jarrett-dies-93",
-          "source": "www.espn.com - TOP",
-          "published_at": "2026-06-05T19:02:01.000Z"
-        },
-        {
-          "title": "NASCAR Mourns the Loss of Hall of Famer Ned Jarrett at 93",
-          "url": "https://sports.yahoo.com/articles/nascar-mourns-loss-hall-famer-185348695.html",
-          "published_at": "2026-06-05T18:53:48.000Z"
-        },
-        {
-          "title": "Ned Jarrett, Champion Stock Car Racer in the 1960s, Dies at 93",
-          "url": "https://www.nytimes.com/2026/06/05/sports/ned-jarrett-dead.html",
-          "source": "NYT > Obituaries",
-          "published_at": "2026-06-05T18:51:39.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/05/multimedia/00jarrett-qklw/00jarrett-qklw-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_2e7ce50b6c04ed65",
-      "label": [
-        "phillip",
-        "wedd",
-        "harriet",
-        "sperl",
-        "harriet sperl",
-        "peter phillip"
-      ],
-      "category": "new",
-      "theme": "theme_8b3cf2e830b19ead",
-      "entities": [
-        "Best",
-        "Harriet Sperling",
-        "Peter Phillips",
-        "Cotswolds",
-        "Zara Phillips"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Best 5 photographs as Harriet Sperling and Peter Phillips joined by family before wedding",
-          "url": "https://www.express.co.uk/news/royal/2214029/best-5-photographs-harriet-peter-wedding",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-06-05T19:50:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2214029_1.jpg"
-        },
-        {
-          "title": "Peter Phillips and Harriet Sperling spotted with royals hours before wedding",
-          "url": "https://www.express.co.uk/news/royal/2214022/peter-phillips-harriet-sperling-spotted",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-06-05T18:54:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2214022_1.jpg"
-        },
-        {
-          "title": "Peter Phillips and Harriet Sperling's blended family arrive at Cotswolds church with Zara Phillips for Royal Wedding dress rehearsal",
-          "url": "https://www.dailymail.com/news/article-15877781/zara-phillips-takes-dress-rehearsal-wedding.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-06-05T18:11:25.000Z",
-          "image": "https://i.dailymail.com/1s/2026/06/05/17/109158489-0-image-a-30_1780678669462.jpg"
-        },
-        {
-          "title": "Zara Phillips Makes Heartwarming Visit to Cotswolds Church in Pre-Wedding Celebration for Brother",
-          "url": "https://internewscast.com/news/zara-phillips-makes-heartwarming-visit-to-cotswolds-church-in-pre-wedding-celebration-for-brother",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-05T18:08:20.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_519362582a81e03a",
-      "label": [
-        "salesforce",
-        "fluttershell",
-        "aspose",
-        "marpet",
-        "swn",
-        "587"
-      ],
-      "category": "new",
-      "theme": "theme_953ca3dd380952bf",
-      "entities": [
-        "Local AI",
-        "Salesforce",
-        "Fluttershell",
-        "Aspose",
-        "Cisco"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
-          "url": "https://www.youtube.com/watch?v=j0ev0cUO5ng",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-06-05T21:00:28.000Z",
-          "image": "https://i3.ytimg.com/vi/j0ev0cUO5ng/hqdefault.jpg"
-        },
-        {
-          "title": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
-          "url": "https://hntvvideo.libsyn.com/local-ai-salesforce-fluttershell-aspose-http2-cisco-used-tech-josh-marpet-swn-587",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-06-05T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_587_1--901dd993-46f1-48f7-8d91-84507232acd5--sd-converted--ec72e74c-d680-4e01-9d35-63b5bd062902.mp4?dest-id=376663"
-        },
-        {
-          "title": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
-          "url": "https://hntvaudio.libsyn.com/local-ai-salesforce-fluttershell-aspose-http2-cisco-used-tech-josh-marpet-swn-587",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-06-05T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_587_1--901dd993-46f1-48f7-8d91-84507232acd5--audio-converted--6ca89b12-772e-41c5-ba96-11a76909dd55.mp3?dest-id=376644"
-        },
-        {
-          "title": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
-          "url": "https://sw-all.libsyn.com/local-ai-salesforce-fluttershell-aspose-http-2-cisco-used-tech-josh-marpet-swn-587",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-06-05T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_587_1--901dd993-46f1-48f7-8d91-84507232acd5--audio-converted--6ca89b12-772e-41c5-ba96-11a76909dd55.mp3?dest-id=829103"
-        }
-      ]
-    },
-    {
-      "id": "topic_233939e4cab3cdbf",
-      "label": [
-        "sente",
-        "excus",
-        "famille",
-        "darmanin pr",
-        "pr sente",
-        "sente ses"
-      ],
-      "category": "new",
-      "theme": "theme_540a56eb11df4357",
-      "entities": [
-        "Disparition",
-        "Lyhanna",
-        "Darmanin",
-        "Justice",
-        "Le"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Disparition de Lyhanna, 11 ans: Gérald Darmanin \"présente ses excuses à la famille de la victime au nom de la Justice\", une nouvelle plainte déposée",
-          "url": "https://www.dhnet.be/actu/monde/2026/06/05/disparition-de-lyhanna-11-ans-gerald-darmanin-presente-ses-excuses-a-la-famille-de-la-victime-au-nom-de-la-justice-une-nouvelle-plainte-deposee-q5axmtuwpffidmk7bk5cmdukbm",
-          "source": "DH Les Sports+ - ACTU",
-          "published_at": "2026-06-05T20:15:46.000Z",
-          "image": "https://www.dhnet.be/resizer/v2/X6KOR4U6GRGQ7C6LNISESIIISY.jpg?auth=9d20e1c61285080337d162a9277700e3ffacc1c659c93382dfd22adacddc81f8&smart=true&width=1200&height=800"
-        },
-        {
-          "title": "Le corps retrouvé dans le Gers identifié comme celui de Lyhanna, Gérald Darmanin \"présente ses excuses à la famille\"",
-          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/gerald-darmanin-presente-ses-excuses-a-la-famille-de-lyhanna-et-denonce-des-defaillances-judiciaires_8047157.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-06-05T19:02:59.000Z",
-          "image": "https://www.franceinfo.fr/pictures/ahmgyTo4OE8yAL7UTgmMWlOlIVo/432x243/filters:format(jpg)/2026/06/03/6a205e3fb5b59773492170.jpg"
-        },
-        {
-          "title": "« Nous avons failli » : Gérald Darmanin présente ses excuses à la famille de Lyhanna",
-          "url": "https://www.huffingtonpost.fr/politique/article/nous-avons-failli-gerald-darmanin-presente-ses-excuses-a-la-famille-de-lyhanna_264496.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-06-05T18:58:47.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/04/13/0/0/1200/675/0/0/60/0/5953d8e_upload-1-r0cnvtxjvwer-afp-20260318-a3qe2r8-v1-midres-francepoliticsgovernmentcabinet.jpg"
-        },
-        {
-          "title": "EN DIRECT, affaire Lyhanna : Gérald Darmanin présente ses « excuses » à la famille pour les « défaillances » de la justice",
-          "url": "https://www.lemonde.fr/societe/live/2026/06/05/en-direct-affaire-lyhanna-gerald-darmanin-presente-ses-excuses-a-la-famille-pour-les-defaillances-de-la-justice_6697909_3224.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-06-05T18:34:00.000Z",
-          "image": "https://img.lemde.fr/2026/06/05/49/0/5792/2896/644/322/60/0/aa263f7_ftp-1-z5unxsefoxhn-5235436-01-06.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_715819a61cd529e6",
-      "label": [
-        "virtua",
-        "virtua fighter",
-        "fighter",
-        "crossroad",
-        "fighter crossroad",
-        "story"
-      ],
-      "category": "new",
-      "theme": "theme_422aa0c3b417420e",
-      "entities": [
-        "Virtua Fighter",
-        "Crossroads",
-        "Virtua Fighter Crossroads",
-        "Am Extremely Here For",
-        "Story"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Virtua Fighter: Crossroads gets a story-focused trailer and a 2027 release date",
-          "url": "https://www.polygon.com/virtua-fighter-crossroads-release-window-story-trailer",
-          "source": "Polygon.com",
-          "published_at": "2026-06-05T22:51:40.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/virtua-fighter-crossroads.jpg"
-        },
-        {
-          "title": "Virtua Fighter Crossroads is coming in 2027",
-          "url": "https://www.engadget.com/2188739/virtua-fighter-crossroads-is-coming-in-2027",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "published_at": "2026-06-05T22:49:05.000Z",
-          "image": "https://www.engadget.com/img/gallery/virtua-fighter-crossroads-is-coming-in-2027/l-intro-1780699498.jpg"
-        },
-        {
-          "title": "I Am Extremely Here For Story-Driven Virtua Fighter",
-          "url": "https://www.gamespot.com/articles/i-am-extremely-here-for-story-driven-virtua-fighter",
-          "source": "GameSpot - All News",
-          "published_at": "2026-06-05T22:40:51.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Clipboard_06-05-2026_01_4ce05a.jpg?w=300"
-        },
-        {
-          "title": "Take On The Chinese Mafia In Virtua Fighter Crossroads, Launching Next Year",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/05/take-on-the-chinese-mafia-in-virtua-fighter-crossroads-launching-next-year",
-          "source": "Game Informer",
-          "published_at": "2026-06-05T22:03:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/05/469feb21/virtuafighter02.jpg.webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_a9dbdc3b0da95ec6",
-      "label": [
-        "amaz",
-        "circu",
-        "amaz digital",
-        "digital circu",
-        "digital",
-        "ato"
-      ],
-      "category": "new",
-      "theme": "theme_54ffaaa4ccb853e4",
-      "entities": [
-        "Backrooms",
-        "Amazing Digital Circus",
-        "Thursday",
-        "The Amazing Digital Circus",
-        "Ato"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Backrooms gets beaten by Amazing Digital Circus for Thursday's box office",
-          "url": "https://www.polygon.com/amazing-digital-circus-box-office-beat-backrooms",
-          "source": "Polygon.com",
-          "published_at": "2026-06-05T19:49:12.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-amazing-digital-circus.jpg"
-        },
-        {
-          "title": "Oh Wow, ‘Amazing Digital Circus’ Is the Number One Movie at the Box Office",
-          "url": "https://gizmodo.com/oh-wow-amazing-digital-circus-is-the-number-one-movie-at-the-box-office-2000768132",
+          "title": "Massive Void Near Milky Way’s Black Hole Could Solve a 50-Year Mystery",
+          "url": "https://gizmodo.com/massive-void-near-milky-ways-black-hole-could-solve-a-50-year-mystery-2000768086",
           "source": "Gizmodo",
-          "published_at": "2026-06-05T18:00:00.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/06/Amazing-Digital-Circus-1280x853.jpg"
+          "published_at": "2026-06-05T15:55:41.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/sagittarius-a-black-hole-wind-e1780670784219-1280x853.jpg",
+          "description": "“There it is. There is the thing that everybody’s been looking for for 50 years.”"
+        },
+        {
+          "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
+          "source": "Latest Science News -- ScienceDaily",
+          "published_at": "2026-06-05T12:32:00.000Z",
+          "description": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spir…"
         }
-      ]
-    },
-    {
-      "id": "topic_e0219f4b7ef5726f",
-      "label": [
-        "bitcoin",
-        "60k",
-        "etf",
-        "outflow",
-        "etf outflow",
-        "bitcoin crash"
       ],
-      "category": "new",
-      "theme": "theme_ba8b8d6452ee0439",
-      "entities": [
-        "Bitcoin Price Hits Lowest",
-        "Level Since Before Trump",
-        "Election Win",
-        "Bitcoin",
-        "October"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Bitcoin Price Hits Lowest Level Since Before Trump’s 2024 Election Win",
-          "url": "https://gizmodo.com/bitcoin-price-hits-lowest-level-since-before-trumps-2024-election-win-2000768314",
-          "source": "Gizmodo",
-          "published_at": "2026-06-05T22:35:53.000Z",
-          "image": "https://gizmodo.com/app/uploads/2026/03/robot-hodling-bitcoin-1280x853.jpg"
-        },
-        {
-          "title": "Bitcoin falls below $60K, its lowest level since October 2024, amid a record streak of bitcoin ETF outflows following Strategy's bitcoin sale (CNBC)",
-          "url": "https://www.techmeme.com/260605/p28",
-          "source": "Techmeme",
-          "published_at": "2026-06-05T19:50:38.000Z",
-          "image": "http://www.techmeme.com/260605/i28.jpg"
-        },
-        {
-          "title": "Bitcoin crashes below $60K after 13 days of ETF outflows",
-          "url": "https://protos.com/bitcoin-crashes-below-60k-after-13-days-of-etf-outflows",
-          "source": "Protos",
-          "published_at": "2026-06-05T18:17:43.000Z",
-          "image": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/06/05164234/Protos-Artwork-BTCETF.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_eadc2d435e7969be",
-      "label": [
-        "discipline",
-        "transgender care",
-        "transgender",
-        "care",
-        "doj lawyer",
-        "lawyer"
-      ],
-      "category": "new",
-      "theme": "theme_a304c7d15cc6fdac",
-      "entities": [
-        "Rhode Island",
-        "DOJ",
-        "Sarah",
-        "Lynch",
-        "CBS News"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Rhode Island judge refers DOJ lawyers for possible discipline over handling of transgender care investigation (Sarah N. Lynch/CBS News)",
-          "url": "https://www.memeorandum.com/260605/p97",
-          "source": "memeorandum",
-          "published_at": "2026-06-05T21:50:01.000Z",
-          "image": "http://www.memeorandum.com/260605/i97.jpg"
-        },
-        {
-          "title": "Rhode Island Judge Calls for DOJ Lawyer Discipline in Transgender Care Probe Missteps",
-          "url": "https://internewscast.com/news/us/rhode-island-judge-calls-for-doj-lawyer-discipline-in-transgender-care-probe-missteps",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-05T20:00:22.000Z"
-        },
-        {
-          "title": "DOJ lawyers could face discipline over handling of transgender care probe",
-          "url": "https://www.cbsnews.com/news/rhode-island-judge-justice-department-transgender-care-investigation",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-06-05T19:09:56.000Z"
-        }
-      ]
+      "summary": "Astronomers reported detecting winds from Sagittarius A*, the supermassive black hole at the centre of the Milky Way, after a search spanning decades."
     }
   ]
 }

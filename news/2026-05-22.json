@@ -1,859 +1,910 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-23T00:15:30.062Z",
+  "generated_at": "2026-09-27T13:56:25.004Z",
   "topics": [
     {
-      "id": "topic_e95c09b4a1f123ce",
+      "id": "topic_8d8c9ca6b9211930",
+      "title": "Tulsi Gabbard Resigns as Director of National Intelligence",
+      "headline": "Tulsi Gabbard resigning as U.S. Director of National Intelligence",
       "label": [
-        "green card",
+        "gabbard",
+        "resigns",
+        "tulsi",
+        "intelligence",
+        "director",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_3b6f4573b22b9141",
+      "entities": [
+        "Tulsi Gabbard Resigns",
+        "Tulsi Gabbard",
+        "Director",
+        "National Intelligence",
+        "Trump"
+      ],
+      "article_count": 62,
+      "source_count": 48,
+      "articles": [
+        {
+          "title": "Tulsi Gabbard resigning as U.S. Director of National Intelligence",
+          "url": "https://torontosun.com/news/world/tulsi-gabbard-resign-us-director-national-intelligence",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-05-22T21:17:48.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/0523-tulsi-e1779478308964.jpg?quality=100&strip=all",
+          "description": "Former Democratic congresswoman says she needs to focus on her husband. who was diagnosed with 'extremely rare form of bone cancer'"
+        },
+        {
+          "title": "Tulsi Gabbard Resigns",
+          "url": "https://politicalwire.com/2026/05/22/tulsi-gabbard-resigns",
+          "source": "Political Wire",
+          "published_at": "2026-05-22T17:12:35.000Z",
+          "description": "Tulsi Gabbard is resigning from her post as Director of National Intelligence to support her husband through his battle with “an extremely rare form of bone cancer,” Fox News reports. Gabbard notified President Trump during a meeting in the Oval Office Friday."
+        },
+        {
+          "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
+          "url": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-05-22T17:56:58.000Z",
+          "description": "Gabbard said she is leaving her post to support her husband, who is battling a rare form of bone cancer."
+        },
+        {
+          "title": "Tulsi Gabbard Resigns as Trump's Director of National Intelligence",
+          "url": "https://time.com/article/2026/05/22/tulsi-gabbard-to-resign-as-trump-s-director-of-national-intelligence",
+          "source": "TIME",
+          "published_at": "2026-05-22T18:58:46.000Z",
+          "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltd02e14126277ab23/6a109410c98f00df83bc0d1b/GettyImages-2266686743.jpg?branch=production&format=jpg&width=1024",
+          "description": "Gabbard announced her resignation Friday, citing her husband's cancer diagnosis."
+        },
+        {
+          "title": "Tulsi Gabbard resigns as Trump’s US intelligence chief",
+          "url": "https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd",
+          "source": "International homepage",
+          "published_at": "2026-05-22T17:43:46.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F941ad04d-49c2-4606-9b8b-14d6288e77a2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Former congresswoman becomes the latest in a series of high-profile exits from the president’s cabinet"
+        }
+      ],
+      "summary": "Tulsi Gabbard announced she is resigning as Director of National Intelligence to support her husband, who has been diagnosed with a rare form of bone cancer."
+    },
+    {
+      "id": "topic_fa8ab4273a492d0c",
+      "title": "Green Card Applicants in the U.S. Must Apply From Abroad",
+      "headline": "US green card applicants will now have to return to home countries to apply, DHS says",
+      "label": [
         "card",
         "green",
         "apply",
         "home",
-        "country"
+        "countries",
+        "applicants"
       ],
       "category": "new",
-      "theme": "theme_1791c9a446e92023",
+      "theme": "theme_744dc7bd5768fd76",
       "entities": [
-        "Trump",
         "US",
-        "US Green Card",
-        "New US",
-        "Nigerians"
+        "DHS",
+        "The Guardian",
+        "Trump",
+        "US Green Card"
       ],
-      "article_count": 30,
-      "source_count": 20,
+      "article_count": 25,
+      "source_count": 22,
       "articles": [
         {
-          "title": "U.S. says foreigners now must apply for green card from their home country",
-          "url": "https://globalnews.ca/news/11861106/us-green-card-applications-home-country",
-          "published_at": "2026-05-22T22:57:03.000Z",
-          "image": "https://globalnews.ca/wp-content/uploads/2026/05/us-citizenship-file-may-22-e1779490322981.jpg?quality=65&strip=all"
+          "title": "US green card applicants will now have to return to home countries to apply, DHS says",
+          "url": "https://www.theguardian.com/us-news/2026/may/22/green-card-applicants-trump-administration",
+          "source": "World news | The Guardian",
+          "published_at": "2026-05-22T22:19:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/9e372b42aa32fa31168eefc0ac3f50e9c8b1db47/511_0_3886_3110/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=b7fde5a29ace2c712acd5e5dcf04a645",
+          "description": "Change criticized by advocates marks the latest significant move by the Trump administration on immigration policy Foreigners seeking to adjust their immigration status in the United States to secure green cards will have to do so from outside the country via the state department, the US Citizenshi…"
         },
         {
-          "title": "Trump administration to make foreigners leave US to apply for green cards",
-          "url": "https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a",
-          "source": "International homepage",
-          "published_at": "2026-05-22T22:48:37.000Z",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa6b484d4-e789-4095-97fa-b5321e5bed42.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+          "title": "US green card applicants will now have to return to home countries to apply, DHS says",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxpuwizn3rgq2npmmvawmfjzvpjsm43tgnxewkzuuxrnwmwrw5rwkrteupus00tumpgc19qt1d0z01acjjrtenhcxnta1futm15zvvymks2ttbxmg42r1pgwvlfts12tvbnnezeywvfm0hkewtwohmxne1xb2lux0jecerxukn6a3pbotgzunvrmvlfq1py",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-22T22:19:00.000Z",
+          "description": "US green card applicants will now have to return to home countries to apply, DHS says The Guardian Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says The New York Times Most people seeking green cards must now apply from outside the US BBC Non-immigrant visa holders must return…"
+        },
+        {
+          "title": "Trump administration orders green card applicants to leave the US, apply from their home countries",
+          "url": "https://www.foxnews.com/politics/trump-administration-orders-green-card-applicants-leave-us-apply-home-countries",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-05-22T17:49:54.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/new-citizen-swearing-in.jpg?ve=1&tl=1",
+          "description": "The Trump administration's USCIS announces noncitizens seeking green cards must leave the U.S. and apply through consular processing abroad."
         },
         {
           "title": "US Green Card seekers must now apply from home countries",
           "url": "https://globalnation.inquirer.net/324198/us-green-card-seekers-must-now-apply-from-home-countries",
           "source": "INQUIRER.net",
           "published_at": "2026-05-22T22:33:33.000Z",
-          "image": "https://globalnation.inquirer.net/files/2026/05/AFP__20260522__2277725388__v1__HighRes__PresidentTrumpCampaignsWithCongressmanMikeLa-620x413.jpg"
+          "image": "https://globalnation.inquirer.net/files/2026/05/AFP__20260522__2277725388__v1__HighRes__PresidentTrumpCampaignsWithCongressmanMikeLa-620x413.jpg",
+          "description": "WASHINGTON, United States — The Trump administration announced on Friday that most foreigners seeking a Green Card granting permanent US residency must apply from their home countries. “From now on, an alien who is in the US temporarily and wants a Green Card must return to their home country to ap…"
         },
         {
-          "title": "New US policy affects Nigerians seeking green cards under Trump directive, see details",
-          "url": "https://www.legit.ng/nigeria/1711324-us-president-trump-directive-nigerians-applying-green-cards",
-          "source": "Legit.ng",
-          "published_at": "2026-05-22T22:33:27.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/c8cec2154dd09861.jpeg?v=1"
-        },
-        {
-          "title": "US green card applicants will now have to return to home countries to apply, DHS says",
-          "url": "https://www.theguardian.com/us-news/2026/may/22/green-card-applicants-trump-administration",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-22T22:19:37.000Z",
-          "image": "https://i.guim.co.uk/img/media/9e372b42aa32fa31168eefc0ac3f50e9c8b1db47/511_0_3886_3110/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=b7fde5a29ace2c712acd5e5dcf04a645"
+          "title": "U.S. says foreigners now must apply for green card from their home country",
+          "url": "https://globalnews.ca/news/11861106/us-green-card-applications-home-country",
+          "published_at": "2026-05-22T22:57:03.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/us-citizenship-file-may-22-e1779490322981.jpg?quality=65&strip=all",
+          "description": "Officials said most foreigners who are in the U.S. temporarily and who want to apply to become lawful permanent residents will have to return home and apply there."
         }
-      ]
+      ],
+      "summary": "The Trump administration says most foreigners in the United States seeking permanent residency must return to their home countries and apply through consular processing."
     },
     {
-      "id": "topic_a54a0a7661098660",
+      "id": "topic_4f1a28c663c6ffc3",
+      "title": "Judge Dismisses Criminal Case Against Kilmar Abrego Garcia",
+      "headline": "Judge dismisses criminal case against Kilmar Abrego Garcia",
       "label": [
-        "wedd",
-        "trump",
-        "jr",
-        "donald",
-        "son",
-        "donald trump"
+        "abrego",
+        "garcia",
+        "kilmar",
+        "judge",
+        "dismisses",
+        "criminal"
       ],
       "category": "new",
-      "theme": "theme_4a1e9136f5f7bda6",
+      "theme": "theme_270a34507e3ff634",
       "entities": [
-        "Trump",
-        "Donald Trump Jnr",
-        "Bettina Anderson",
-        "Donald Trump Jr",
-        "Donald Trump"
-      ],
-      "article_count": 18,
-      "source_count": 12,
-      "articles": [
-        {
-          "title": "Trump says he won’t attend son Donald Trump Jnr’s wedding to Bettina Anderson",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3354592/trump-says-he-wont-attend-son-donald-trump-jnrs-wedding",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-22T20:57:04.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/23/dbdcd23c-3c08-4751-afc3-9013b8c989c6_3a3a55a9.jpg?itok=w_CCVFUx&v=1779483741"
-        },
-        {
-          "title": "Trump says he will not attend son Donald Trump Jr.'s wedding",
-          "url": "https://www.thehindu.com/news/international/trump-says-he-will-not-attend-son-donald-trump-jrs-wedding/article71012390.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-22T20:05:50.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/odliti/article71012391.ece/alternates/LANDSCAPE_1200/2026-05-22T191548Z_1874013783_RC2JELANNWZJ_RTRMADP_3_USA-TRUMP.JPG"
-        },
-        {
-          "title": "Donald Trump verpasst wohl Hochzeit seines ältesten Sohns Donald Trump Jr.",
-          "url": "https://www.spiegel.de/ausland/donald-trump-verpasst-wohl-hochzeit-seines-aeltesten-sohns-donald-trump-jr-a-2ceea28d-5158-41d2-b3be-6a0991c26d3e",
-          "source": "DER SPIEGEL - Schlagzeilen – Tops",
-          "published_at": "2026-05-22T19:28:00.000Z",
-          "image": "https://cdn.prod.www.spiegel.de/images/6b83d88e-1f72-4e4c-bafa-6d81287d5eb8_w520_r2.08_fpx57.99_fpy54.99.jpg"
-        },
-        {
-          "title": "Donald Trump Jr. and Bettina Anderson Wed in West Palm Beach",
-          "url": "https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html",
-          "source": "NYT > Style",
-          "published_at": "2026-05-22T19:27:44.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24ST-HFO-TRUMP-JR-WED-mlcj/24ST-HFO-TRUMP-JR-WED-mlcj-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Donald Trump Jr marries Bettina Anderson ahead of Bahamas wedding celebration",
-          "url": "https://www.foxnews.com/lifestyle/donald-trump-jr-marries-bettina-anderson-ahead-bahamas-wedding-celebration",
-          "source": "Latest & Breaking News on Fox News",
-          "published_at": "2026-05-22T19:26:05.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-jr-bettina-anderson-fox-news-001.jpeg?ve=1&tl=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_ee543d4adab008f7",
-      "label": [
-        "flotilla",
-        "israeli",
-        "flotilla activist",
-        "activist",
-        "israeli forc",
-        "activist allege"
-      ],
-      "category": "new",
-      "theme": "theme_4d2d5a705bf8923d",
-      "entities": [
-        "Gaza",
-        "Israeli",
-        "Flotilla",
-        "Freed Gazan",
-        "Deported Australians Claim Abuse"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-          "url": "https://www.yahoo.com/news/world/articles/gaza-flotilla-activists-allege-abuse-205242836.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-22T20:52:42.000Z",
-          "image": "https://media.zenfs.com/en/bbc_us_articles_995/23557ef43d1f600ad7fe174980cf6a69"
-        },
-        {
-          "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-          "url": "https://www.bbc.com/news/articles/cglp5z63k9no",
-          "source": "BBC News",
-          "published_at": "2026-05-22T20:52:35.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5af2/live/cb0e0810-55fc-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Flotilla activists describe beatings, tasers and mistreatment by Israeli forces",
-          "url": "https://japantoday.com/category/world/flotilla-activists-describe-beatings-tasers-and-mistreatment-by-israeli-forces",
-          "source": "Japan Today",
-          "published_at": "2026-05-22T20:46:10.000Z"
-        },
-        {
-          "title": "Freed Gazan flotilla activists allege Israeli abuse",
-          "url": "https://www.perthnow.com.au/news/conflict/freed-gazan-flotilla-activists-allege-israeli-abuse-c-22325612",
-          "source": "PerthNow",
-          "published_at": "2026-05-22T20:37:24.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22325612/670e23131219d2eb09f7063e49750e8213d8d43a-16x9-x0y0w1280h720.jpg"
-        },
-        {
-          "title": "Flotilla activists describe beatings, tasers and mistreatment by Israeli forces",
-          "url": "https://www.seattletimes.com/nation-world/world/flotilla-activists-describe-beatings-tasers-and-mistreatment-by-israeli-forces",
-          "source": "The Seattle Times World – The Seattle Times",
-          "published_at": "2026-05-22T19:44:11.000Z",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgf1101fc45ecf0d384c43e3562c3a1c61APTOPIX_Turkey_Gaza_Flotilla_36771.jpg?d=1200x630"
-        }
-      ]
-    },
-    {
-      "id": "topic_bed5f4398619c0c8",
-      "label": [
-        "beendet",
-        "seine",
-        "podolski beendet",
-        "beendet seine",
-        "weltmeister",
-        "podolski"
-      ],
-      "category": "new",
-      "theme": "theme_d1d2e7474f955cc6",
-      "entities": [
-        "Ikone",
-        "Kultfigur",
-        "Lukas Podolski",
-        "Karriere",
-        "Fu"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Köln-Ikone und Kultfigur: Lukas Podolski beendet seine Karriere",
-          "url": "https://www.morgenpost.de/sport/article412075742/koeln-ikone-und-kultfigur-lukas-podolski-beendet-seine-karriere.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-05-22T19:01:39.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412075793/412075793_1779476500_v16_9_600.jpeg"
-        },
-        {
-          "title": "Fußball-Weltmeister: Ex-Weltmeister Lukas Podolski beendet seine Profikarriere",
-          "url": "https://www.zeit.de/sport/2026-05/lukas-podolski-profifussballer-ende-karriere",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-05-22T18:03:35.000Z",
-          "image": "https://img.zeit.de/sport/2026-05/lukas-podolski-karriereende-gornik-zabrze-bild/original__640x360"
-        },
-        {
-          "title": "Weltmeister hört auf: Köln-Ikone und Kultfigur: Podolski beendet seine Karriere",
-          "url": "https://www.faz.net/aktuell/sport/fussball/fussballer-lukas-podolski-beendet-seine-karriere-200861139.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-05-22T17:54:53.000Z",
-          "image": "https://media0.faz.net/image/b77546a77ec8/w3395h1910x0y44/202605/43601.0.2122284498/lukas-podolski-rechts-beendet.webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_99b7172a4b387c07",
-      "label": [
-        "ctica",
-        "pr ctica",
-        "canad",
-        "pr",
-        "antonelli",
-        "lidera la"
-      ],
-      "category": "new",
-      "theme": "theme_c13b5a951abcda4a",
-      "entities": [
-        "GP",
-        "Canad",
-        "Checo",
-        "Antonelli",
-        "Domina Antonelli"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "GP de Canadá: Checo Pérez en el fondo de la tabla; Antonelli lidera la práctica libre",
-          "url": "https://vanguardia.com.mx/deportes/gp-de-canada-checo-perez-en-el-fondo-de-la-tabla-antonelli-lidera-la-practica-libre-an20879485",
-          "source": "Vanguardia",
-          "published_at": "2026-05-22T20:49:36.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/gp-canada_1-15517167_20260522205504.png"
-        },
-        {
-          "title": "Antonelli lidera la única práctica libre en Canadá",
-          "url": "https://www.informador.mx/deportes/f1-kimi-antonelli-lidera-la-unica-practica-libre-en-montreal-entre-banderas-rojas-y-problemas-en-pista-20260522-0102.html",
-          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
-          "published_at": "2026-05-22T18:55:00.000Z"
-        },
-        {
-          "title": "Domina Antonelli pr�ctica del GP de Canad�; Checo es 21",
-          "url": "https://www.elnorte.com/domina-antonelli-practica-del-gp-de-canada-checo-es-21/ar3209006",
-          "source": "ElNorte",
-          "published_at": "2026-05-22T17:59:36.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_d51b1fc0474e5a89",
-      "label": [
-        "mahmoud",
-        "khalil",
-        "mahmoud khalil",
-        "appeal",
-        "court",
-        "deportation"
-      ],
-      "category": "new",
-      "theme": "theme_bc1a5b169ac33ddf",
-      "entities": [
-        "Mahmoud Khalil",
+        "Judge",
+        "Kilmar Abrego Garcia",
+        "Judge Dismisses Charges Against",
         "US",
-        "Supreme Court",
-        "Appeals",
-        "Appeal"
+        "Kilmar"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 28,
+      "source_count": 22,
       "articles": [
         {
-          "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
-          "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court",
+          "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+          "url": "https://www.bbc.com/news/articles/cx21r04wg8qo",
+          "source": "BBC News",
+          "published_at": "2026-05-22T20:50:15.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3846/live/4abac000-5619-11f1-b583-4166f23228ea.jpg",
+          "description": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons."
+        },
+        {
+          "title": "Judge Dismisses Charges Against Kilmar Abrego Garcia",
+          "url": "https://politicalwire.com/2026/05/22/judge-dismisses-criminal-case-against-kilmar-abrego-garcia",
+          "source": "Political Wire",
+          "published_at": "2026-05-22T20:45:01.000Z",
+          "description": "New York Times: “A federal judge on Friday dismissed the criminal case against the immigrant Kilmar Abrego Garcia, ruling that the Trump administration had brought human smuggling charges against him as part of a vindictive effort to punish him for challenging his wrongful deportation to El Salvado…"
+        },
+        {
+          "title": "Judge dismisses human smuggling charges against Kilmar Abrego Garcia",
+          "url": "https://globalnews.ca/news/11860822/kilmar-abrego-garcia-human-smuggling-charges-dismissed",
+          "published_at": "2026-05-22T19:48:49.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/Kilmar-Abrego-Garcia-human-smuggling-case-dismissed.jpg?quality=65&strip=all",
+          "description": "U.S. District Judge Waverly Crenshaw granted Kilmar Abrego Garcia's motion to dismiss the human smuggling case for 'selective or vindictive prosecution.'"
+        },
+        {
+          "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+          "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-05-22T19:43:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/1d584f1b0c2aa2f70fd64f7ed4df9baeb1ca125a/219_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=392384b52770e94b952a873e2b079776",
+          "description": "Judge said Trump administration would not have prosecuted Ábrego García had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García on Friday, finding that the Trump administration would…"
+        },
+        {
+          "title": "US judge dismisses indictment against Kilmar Abrego Garcia",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-22T21:08:03.000Z"
-        },
-        {
-          "title": "Appeals court rejects Mahmoud Khalil's request for rehearing in detention case",
-          "url": "https://abcnews.com/us/appeals-court-rejects-mahmoud-khalils-request-rehearing-detention/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-05-22T20:32:59.000Z",
-          "image": "https://s.abcnews.com/images/US/Mahmoud-Khalil-ap-gmh-260522_1779472896569_hpMain_4x3t_384.jpg"
-        },
-        {
-          "title": "Mahmoud Khalil to Appeal to Supreme Court in Effort to Halt Deportation",
-          "url": "https://www.nytimes.com/2026/05/22/nyregion/mahmoud-khalil-supreme-court.html",
-          "source": "NYT > New York",
-          "published_at": "2026-05-22T17:53:28.000Z",
-          "image": "https://static01.nyt.com/images/2026/05/22/multimedia/22met-khalil-jgqz/22met-khalil-jgqz-mediumSquareAt3X.jpg"
+          "published_at": "2026-05-22T20:43:09.000Z",
+          "description": "Judge says the human smuggling probe was reopened after Salvadoran national filed his lawsuit against his deportation."
         }
-      ]
+      ],
+      "summary": "A federal judge dismissed human smuggling charges against Kilmar Abrego Garcia, ruling that the case involved selective or vindictive prosecution linked to his challenge of his deportation."
     },
     {
-      "id": "topic_d4fdb6f2eb0c5631",
+      "id": "topic_26fe3e904cf602e1",
+      "title": "Slow Food Founder Carlo Petrini Dies at 76",
+      "headline": "Slow Food founder Carlo Petrini dies aged 76",
       "label": [
-        "35",
-        "1956",
-        "thunderbird",
-        "35 year",
-        "year 1956",
-        "1956 ford"
+        "petrini",
+        "slow",
+        "food",
+        "carlo",
+        "gründer",
+        "gestorben"
       ],
       "category": "new",
-      "theme": "theme_8f16e9d56ba7b201",
+      "theme": "theme_b824326d8e0ae50d",
       "entities": [
-        "Years",
-        "Owned",
-        "Ford Thunderbird"
+        "Slow Food",
+        "Carlo Petrini",
+        "Im Alter",
+        "Jahren",
+        "Slow"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 10,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Польща отримала нові американські винищувачі F-35: відео",
-          "url": "https://tsn.ua/svit/polshcha-otrymala-novi-amerykanski-vynyshchuvachi-f-35-video-3089798.html",
-          "source": "Новини на tsn.ua",
-          "published_at": "2026-05-22T20:59:14.000Z",
-          "image": "https://img.tsn.ua/cached/279/tsn-7a7afafe7a64cd96a891771cf6bf5b51/thumbs/608xX/cd/33/9125e9bc6ea942ece626f7152f0933cd.jpeg"
+          "title": "Slow Food founder Carlo Petrini dies aged 76",
+          "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo",
+          "source": "BBC News",
+          "published_at": "2026-05-22T10:22:21.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/65df02d0-55bd-11f1-99e4-4d92e48ba181.jpg",
+          "description": "Petrini's movement rejected fast food to promote sustainable production and traditional cooking."
         },
         {
-          "title": "35-Years-Owned 1956 Ford Thunderbird",
-          "url": "https://bringatrailer.com/listing/1956-ford-thunderbird-224",
-          "source": "The best vintage and classic cars for sale online | Bring a Trailer",
-          "published_at": "2026-05-22T19:42:43.000Z",
-          "image": "https://bringatrailer.com/wp-content/uploads/2026/05/1956_ford_thunderbird_1956_ford_thunderbird_5fc44779-e352-4bf8-89c5-394260ba3848-yS8Emr-89713-89714-scaled.jpg?fit=940%2C627"
+          "title": "Im Alter von 76 Jahren: Slow-Food-Gründer Carlo Petrini gestorben",
+          "url": "https://www.zeit.de/news/2026-05/22/slow-food-gruender-carlo-petrini-mit-76-jahren-gestorben",
+          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
+          "published_at": "2026-05-22T06:49:28.000Z",
+          "image": "https://img.zeit.de/news/2026-05/22/slow-food-gruender-carlo-petrini-mit-76-jahren-gestorben-image-group/original__640x360"
         },
         {
-          "title": "Польща отримала перші винищувачі F-35, замовлені у США",
-          "url": "https://espreso.tv/svit-polshcha-otrimala-pershi-vinishchuvachi-f-35-zamovleni-u-ssha",
-          "source": "Український погляд: новини, відео, пояснення, репортажі, ексклюзиви ᐈ Еспресо",
-          "published_at": "2026-05-22T18:28:00.000Z"
+          "title": "Carlo Petrini, Slow Food movement founder, dies aged 76",
+          "url": "https://www.theguardian.com/world/2026/may/22/carlo-petrini-slow-food-movement-founder-dies-aged-76",
+          "source": "Italy | The Guardian",
+          "published_at": "2026-05-22T11:14:31.000Z",
+          "image": "https://i.guim.co.uk/img/media/3d71c19aaaaf8cb43832a501e233d20eaee85444/529_384_1837_1469/master/1837.jpg?width=140&quality=85&auto=format&fit=max&s=7d42f3851104f6339c2384d7723e43c2",
+          "description": "Italy’s president leads tributes to campaigner who spent four decades promoting sustainability and local cuisine Carlo Petrini, the journalist who founded the Slow Food movement in protest against the arrival of the first McDonald’s in Italy, has died aged 76. Petrini, who had been diagnosed with p…"
         },
         {
-          "title": "До Польщі прибули перші винищувачі F-35, закуплені у США",
-          "url": "https://www.pravda.com.ua/news/2026/05/22/8036013",
-          "source": "Українська правда",
-          "published_at": "2026-05-22T17:48:00.000Z"
+          "title": "Slow-Food-Gründer Petrini gestorben",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-slow-food-nachruf-carlo-petrini-100.html",
+          "source": "tagesschau.de - Die Nachrichten der ARD",
+          "published_at": "2026-05-22T13:57:52.000Z",
+          "description": "1986 hatte Carlo Petrini seine Bewegung aus Protest gegen eine Fast-Food-Kette gegründet. Heute ist sein Ansatz, beim Essen auf Nachhaltigkeit und Tradition zu achten, weltweit populär. Nun starb der Erfinder des Slow Food mit 76 Jahren. Von A. Giordano."
+        },
+        {
+          "title": "Lobbyist für gutes Essen: Slow-Food-Gründer Carlo Petrini gestorben",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/slow-food-gruender-carlo-petrini-gestorben-accg-200858959.html",
+          "source": "Aktuell - FAZ.NET",
+          "published_at": "2026-05-22T11:43:15.000Z",
+          "image": "https://media0.faz.net/image/3febf248a1e5/w3700h2081x0y193/202605/43601.0.2119481349/carlo-petrini-gruender-der.webp",
+          "description": "Der Gründer von Slow Food war ein unermüdlicher Lobbyist für gutes Essen und schonenden Anbau. Er hinterlässt eine weltweit wirksame Organisation zugunsten unentbehrlicher Entschleunigung."
         }
-      ]
+      ],
+      "summary": "Carlo Petrini, founder of the Slow Food movement, has died aged 76. The movement promotes sustainable food production, traditional cooking and local cuisine."
     },
     {
-      "id": "topic_6533ce62af0de0a9",
+      "id": "topic_a541c1ad002c2efd",
+      "title": "Meta Tests Reddit-Like Forum App",
+      "headline": "Meta quietly launches a new Reddit-like app called Forum",
       "label": [
-        "spacex",
-        "starship",
-        "launch",
-        "test",
-        "spacex launch",
-        "flight"
+        "reddit",
+        "app",
+        "forum",
+        "meta",
+        "like",
+        "called"
       ],
       "category": "new",
-      "theme": "theme_ef73d4365aaecbc3",
+      "theme": "theme_ce57d6127c7e6025",
       "entities": [
-        "SpaceX Launches Starship",
-        "Testing",
-        "Mightiest Rocket",
-        "Earth",
-        "SpaceX"
+        "Meta",
+        "Reddit",
+        "Forum",
+        "TechCrunch",
+        "Meta Quietly Released"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Meta quietly launches a new Reddit-like app called Forum",
+          "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum",
+          "source": "TechCrunch",
+          "published_at": "2026-05-22T14:24:16.000Z",
+          "description": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\""
+        },
+        {
+          "title": "Meta quietly released a new Reddit-like app called Forum",
+          "url": "https://www.engadget.com/2179165/meta-forum-groups-app",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-05-22T05:43:31.000Z",
+          "image": "https://www.engadget.com/img/gallery/meta-forum-groups-app/l-intro-1779428891.jpg",
+          "description": "Meta is testing a new dedicated app for Facebook Groups called Forum."
+        },
+        {
+          "title": "Meta quietly launches a new Reddit-like app called Forum",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxpbum1snfvby1mb0nushrtanvnv05hanp3mu8zr24tckxxmvhhwxfsejnvcwrqquznendsqvzdvw9plwvnt2rsd2duuhjorzmxaldynkvitdhmbexfvwxpdk5hb2lkselpy1y2x3uyreppwxz0dnvqohlecxitrmpkbmzmslbhrktryxpsszv6quljvvrstnc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-22T14:24:16.000Z",
+          "description": "Meta quietly launches a new Reddit-like app called Forum TechCrunch Meta Quietly Released A New Reddit-Like App Called Forum Engadget Report: OpenAI’s Q1 revenue was $5.7 billion, beating Anthropic Sherwood News Meta has released two new apps for iPhone this month 9to5Mac Meta launches Reddit-like…"
+        },
+        {
+          "title": "Meta launches Reddit-like Forum app",
+          "url": "https://seekingalpha.com/news/4596283-meta-launches-reddit-like-forum-app",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-05-22T13:55:21.000Z"
+        },
+        {
+          "title": "Meta’s Latest App Looks Like Reddit",
+          "url": "https://gizmodo.com/metas-latest-app-looks-like-reddit-2000762760",
+          "source": "Gizmodo",
+          "published_at": "2026-05-22T21:45:13.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/05/GettyImages-2243527585-e1779485911551-1280x853.jpg",
+          "description": "Forum is a standalone version of Facebook Groups plus AI assistants."
+        }
+      ],
+      "summary": "Meta has launched or is testing Forum, a standalone app based on Facebook Groups. The company describes it as a place for discussion, answers and communities."
+    },
+    {
+      "id": "topic_90bde255edffc008",
+      "title": "Olivia Rodrigo Releases New Song and Video, “The Cure”",
+      "headline": "Watch Olivia Rodrigo Unravel in New “The Cure” Video",
+      "label": [
+        "olivia",
+        "rodrigo",
+        "cure",
+        "unravel",
+        "stream",
+        "album"
+      ],
+      "category": "new",
+      "theme": "theme_bd0f91acfe34123e",
+      "entities": [
+        "Watch Olivia Rodrigo Unravel",
+        "The Cure",
+        "She Searches",
+        "Olivia Rodrigo Finds",
+        "Stream It Now"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Watch Olivia Rodrigo Unravel in New “The Cure” Video",
+          "url": "https://pitchfork.com/news/olivia-rodrigo-unravels-in-new-the-cure-video",
+          "source": "RSS: News",
+          "published_at": "2026-05-22T04:12:17.000Z",
+          "image": "https://media.pitchfork.com/photos/6a0fe190ac76c12718b2ca6c/master/pass/Screenshot%202026-05-22%20at%2012.53.47%E2%80%AFAM.png",
+          "description": "The latest single from You Seem Pretty Sad for a Girl So in Love is here"
+        },
+        {
+          "title": "Watch Olivia Rodrigo Unravel as She Searches for ‘The Cure’",
+          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-the-cure-song-video-1235566320",
+          "source": "Rolling Stone",
+          "published_at": "2026-05-22T04:12:22.000Z",
+          "description": "\"It’s my favorite song on the album and one of my favorite songs I’ve ever made,\" Rodrigo wrote on Instagram"
+        },
+        {
+          "title": "Olivia Rodrigo Finds ‘The Cure’: Stream It Now",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-releases-the-cure-stream-it-now-1236254015",
+          "source": "Billboard",
+          "published_at": "2026-05-22T04:01:39.000Z",
+          "description": "The second single from You Seem Pretty Sad for a Girl So in Love is here."
+        },
+        {
+          "title": "Olivia Rodrigo Unveils New Song “the cure”: Stream",
+          "url": "https://consequence.net/2026/05/olivia-rodrigo-the-cure-stream-review",
+          "source": "Consequence",
+          "published_at": "2026-05-22T05:20:31.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/Olivia-Rodrigo-in-the-cure.jpeg?quality=80",
+          "description": "Her new album, you seem pretty sad for a girl so in love, is out June 12th. Olivia Rodrigo Unveils New Song “the cure”: Stream Wren Graves"
+        },
+        {
+          "title": "Olivia Rodrigo releases music video for new track ‘The Cure’",
+          "url": "https://entertainment.inquirer.net/670664/olivia-rodrigo-releases-music-video-for-new-track-the-cure",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-22T07:24:28.000Z",
+          "image": "https://entertainment.inquirer.net/files/2026/05/Screenshot-2026-05-22-at-1.26.42-PM-700x446.png",
+          "description": "Ahead of the release of her third studio album, “You Seem Pretty Sad for a Girl So in Love,” Olivia Rodrigo has released her new single “The Cure,” along with its official music video. Rodrigo announced the release on Instagram on Friday, May 22, writing: “THE CURE SONG AND VIDEO IS OUT NOW!!!!! th…"
+        }
+      ],
+      "summary": "Olivia Rodrigo released “The Cure,” a new single accompanied by a music video. It is from her upcoming album, “You Seem Pretty Sad for a Girl So in Love.”"
+    },
+    {
+      "id": "topic_89ccee57217840de",
+      "title": "Tom Hardy Reportedly Won’t Return for MobLand Season 3",
+      "headline": "Why Tom Hardy Was Reportedly Just Fired From ‘Mobland’ Season 3",
+      "label": [
+        "hardy",
+        "mobland",
+        "tom",
+        "season",
+        "fired",
+        "reportedly"
+      ],
+      "category": "new",
+      "theme": "theme_72534df3e56bbbf7",
+      "entities": [
+        "Why Tom Hardy Was",
+        "Reportedly Just Fired From",
+        "Mobland",
+        "Season",
+        "Tom Hardy"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Why Tom Hardy Was Reportedly Just Fired From ‘Mobland’ Season 3",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/22/why-tom-hardy-was-reportedly-just-fired-from-mobland-season-3",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-22T14:42:32.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/685abb1a37d8cdfe584d4bb6/0x0.jpg",
+          "description": "Tom Hardy was reportedly just fired from Mobland season 3 ahead of season 2's release on Paramount Plus. Here's why."
+        },
+        {
+          "title": "Tom Hardy ‘Fired’ From MobLand After Season 2 — Report",
+          "url": "https://www.comingsoon.net/tv/news/2137322-mobland-season-2-3-tom-hardy-fired-report",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-05-22T10:57:50.000Z",
+          "description": "A new report offering some insight into Tom Hardy‘s future in MobLand beyond Season 2 has surfaced. It suggests the actor will not return for Season 3 of the series due to clashes with the show’s producers. Tom Hardy rumored to be fired from MobLand Season 3 Tom Hardy has been rumored to have been…"
+        },
+        {
+          "title": "Why Tom Hardy Was Fired From Paramount's MobLand Season 3",
+          "url": "https://www.slashfilm.com/2179346/why-tom-hardy-fired-mobland-season-3-paramount-plus",
+          "source": "/Film",
+          "published_at": "2026-05-22T14:09:10.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/why-tom-hardy-was-fired-from-paramounts-mobland-season-3/l-intro-1779458923.jpg",
+          "description": "Tom Hardy has apparently been let go from MobLand ahead of Season 3 after continually clashing with the Paramount+ crime drama series' creatives."
+        },
+        {
+          "title": "Tom Hardy Fired From ‘Mobland’ Season 3 After Season 2 Wraps Production",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxoalv5t1dmrvzgvxrsx3rznnrmownmnwrhoxpgathurdgwawtrunjgqzbmzk1oa0xls2oya3hsrhnhwwdxwghqmtvrb1lzuzllnu5zt1zga2pjmwtyr2qzofa2yknkdvzndu5pu3l1stvwajlxuc0xtkfts1rebhprvzc1na",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-22T14:13:00.000Z",
+          "description": "Tom Hardy Fired From ‘Mobland’ Season 3 After Season 2 Wraps Production Variety Tom Hardy’s ‘Mobland’ Future in Limbo Over On-Set Behavior The Hollywood Reporter Tom Hardy Leaving ‘MobLand’ After Season 2 As Paramount+ Drama Eyes Season 3 Renewal Deadline Tom Hardy Dropped From Paramount’s Hit Crim…"
+        },
+        {
+          "title": "Tom Hardy reportedly fired from MobLand",
+          "url": "https://www.avclub.com/tom-hardy-fired-mobland",
+          "source": "AV Club",
+          "published_at": "2026-05-22T09:34:56.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/06/02143014/MOBLAND-features-header.jpg",
+          "description": "Paramount let the actor go after he tried to quit."
+        }
+      ],
+      "summary": "Reports say Tom Hardy has been let go from the Paramount+ series MobLand ahead of its third season, citing clashes with the show’s creative team."
+    },
+    {
+      "id": "topic_3475f36b6d23bb71",
+      "title": "How to Watch the Canadian Grand Prix",
+      "headline": "How to watch the F1 Canadian Grand Prix",
+      "label": [
+        "prix",
+        "grand",
+        "canadian",
+        "f1",
+        "sprint",
+        "sj"
+      ],
+      "category": "new",
+      "theme": "theme_a74ae186a7f658eb",
+      "entities": [
+        "F1 Canadian Grand Prix",
+        "Canadian Grand Prix",
+        "Watch F1 Online",
+        "Free",
+        "Formula"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "How to watch the F1 Canadian Grand Prix",
+          "url": "https://9to5mac.com/2026/05/22/how-to-watch-the-f1-canadian-grand-prix",
+          "source": "9to5Mac",
+          "published_at": "2026-05-22T16:00:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-tv-formula-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "After a three-week break, Formula 1 racing is back this weekend with the peak of motorsport landing in Montreal, Canada. In the United States, Apple has exclusive streaming rights for all of F1 so you normally need an Apple TV subscription to watch. However, this weekend is an outlier, as Apple mad…"
+        },
+        {
+          "title": "Canadian Grand Prix 2026: Here’s Where to Watch F1 Online for Free",
+          "url": "https://variety.com/shop/how-to-watch-f1-2026-season-livestream-online-free-1235212614",
+          "source": "Variety",
+          "published_at": "2026-05-22T13:30:09.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/03/F1-Canadian-Grand-Prix-Getty-VR-Featured.jpg",
+          "description": "After a thrilling start of the F1 season in Miami, Andrea Kimi Antonelli of Team Mercedes won the race gaining 100 points after 57 laps. His teammate George Russell is in second with Mercedes at the top of the leaderboard. However, the season is only five rounds in, as F1 travels from Miami to Mont…"
+        },
+        {
+          "title": "Canadian Grand Prix: How to Watch the Formula 1 Race Live on Netflix",
+          "url": "https://www.cnet.com/tech/services-and-software/canadian-grand-prix-formula-1-race-netflix-how-to-watch",
+          "source": "CNET",
+          "published_at": "2026-05-22T09:00:41.000Z",
+          "image": "https://www.cnet.com/a/img/resize/d4ffac55da2ed1271bb069f9be13f8f6c354db02/hub/2026/05/21/73690b38-7433-4d96-bb95-9e7dcd42fb86/2025-canadian-grand-prix-qualifiers-shutterstock-2642126959.jpg?auto=webp&fit=crop&height=614&width=1092",
+          "description": "Get ready, race fans. Formula 1 action is coming to Netflix this weekend."
+        },
+        {
+          "title": "LIVE: F1 Canadian Grand Prix updates - sprint qualifying up next | Live text",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxqnudvd0dmdenzcmv5adzlvhfmbhuyz19qwmtfq1aysgo4cxd1dk9scxvudfrcadzgogjkbdbwbxvkys1nv0pfvdqwzc1gvtzws0v4rlpybjy3tmxvneprr0vkluxtwddmywpfr0r2y254afh2v1uwxzzxm3pgznprs1bynljpt1c0ndbvu0t4t1rbzkhmytfazvr6n2lvdmtwmtlpeupzx1hocezwbhc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-22T19:32:39.000Z",
+          "description": "LIVE: F1 Canadian Grand Prix updates - sprint qualifying up next | Live text Motorsport.com F1 Practice LIVE: Canadian Grand Prix 2026 times, results, radio & updates BBC F1 Canadian GP LIVE: Sprint Qualifying, Practice updates, results, stream, highlights from Montreal race weekend Sky Sports F1 C…"
+        },
+        {
+          "title": "How to Watch 2026 Canadian Grand Prix Sprint Qualifying Today in the US For Free",
+          "url": "https://sports.yahoo.com/articles/watch-2026-canadian-grand-prix-170509728.html",
+          "published_at": "2026-05-22T17:05:09.000Z",
+          "description": "Sprint Qualifying for the 2026 Canadian Grand Prix gets going tonight at Circuit Gilles Villeneuve in Montreal – and if you’re in the US, you’ve got more ways to watch than you probably realize. The session kicks off at 4:30…"
+        }
+      ],
+      "summary": "Formula 1 returns in Montreal for the Canadian Grand Prix, with coverage including sprint qualifying and the race. Viewing options vary by country."
+    },
+    {
+      "id": "topic_3b063759618fac8f",
+      "title": "Estée Lauder and Puig End Merger Talks",
+      "headline": "Why the Estée Lauder and Puig Deal Collapsed",
+      "label": [
+        "estée",
+        "lauder",
+        "puig",
+        "merger",
+        "fusión",
+        "romper"
+      ],
+      "category": "new",
+      "theme": "theme_bdcd9934aa27c8b3",
+      "entities": [
+        "Lauder",
+        "Puig Deal Collapsed",
+        "Puig",
+        "Ibex",
+        "Gaultier"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Why the Estée Lauder and Puig Deal Collapsed",
+          "url": "https://www.businessoffashion.com/articles/beauty/estee-lauder-puig-merger-failed-why",
+          "source": "The Business of Fashion",
+          "published_at": "2026-05-22T04:30:00.000Z",
+          "image": "https://img.businessoffashion.com/resizer/v2//7GKWXOVN5VHZHM26ISHPYF5JGM.png?auth=25bc643ffec913a4502a852506b904c6882a473499a4e09ac777a0d1562cdf53&smart=true&width=1800&height=1013",
+          "description": "The much-telegraphed potential merger fell apart after months of negotiations, the two companies confirmed on Thursday, as they face up to the limits of their strengths and weaknesses."
+        },
+        {
+          "title": "Puig se desfonda en el Ibex tras romper con Estée Lauder",
+          "url": "https://www.expansion.com/mercados/2026/05/22/6a100326468aebdb5d8b4594.html",
+          "source": "Portada // expansion",
+          "published_at": "2026-05-22T07:25:21.000Z",
+          "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/22/17794342329212.jpg",
+          "description": "La ruptura de las negociaciones de fusión entre Puig y Estée Lauder ha pillado por \"sorpresa\" a buena parte del mercado. El pinchazo que sufre hoy en el Ibex, hasta un 13%, apunta al escenario barajado por los analistas de una \"corrección hacia los niveles pre-rumores\". Leer"
+        },
+        {
+          "title": "Puig y Estée Lauder rompen las negociaciones para su posible fusión",
+          "url": "https://www.eldiario.es/economia/puig-estee-lauder-rompen-negociaciones-posible-fusion_1_13241386.html",
+          "source": "elDiario.es - elDiario.es",
+          "published_at": "2026-05-22T05:25:51.000Z",
+          "image": "https://static.eldiario.es/clip/95c74aac-bcb0-4986-8b2b-107f110fac98_16-9-discover-aspect-ratio_default_0.jpg",
+          "description": "La multinacional ha informado al mercado que seguirá con su estrategia y que la decisión de romper las negociaciones \"no altera la hoja de ruta\" del grupo Puig negocia con la estadounidense Estée Lauder una posible fusión La multinacional catalaa de fragancias, moda y cosmética Puig ha informado es…"
+        },
+        {
+          "title": "Estée Lauder ends merger talks with Gaultier owner Puig",
+          "url": "https://www.theguardian.com/business/2026/may/22/estee-lauder-ends-merger-talks-gaultier-owner-puig",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-05-22T08:42:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/a7c932d0154b2d6b5123ca6f643debfc85f92e7d/0_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=f9da8a4d18c8bb35f43b001541f1a186",
+          "description": "Sticking points to build beauty powerhouse included which family would hold balance of power, according to FT Business live – latest updates The US cosmetics company Estée Lauder has ended merger talks with its Spanish rival Puig to create a fashion and beauty retailer worth almost $40bn (£30bn/€34…"
+        },
+        {
+          "title": "Estée Lauder et Puig annoncent la fin des discussions sur une possible fusion",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/22/estee-lauder-et-puig-annoncent-la-fin-des-discussions-sur-une-possible-fusion_6692250_3234.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-05-22T08:23:22.000Z",
+          "image": "https://img.lemde.fr/2026/05/22/480/0/3837/1918/644/322/60/0/1f42fec_ftp-1-23izsmy1vtok-2026-05-22t064910z-1114883584-rc25elaxo244-rtrmadp-3-puig-m-a-estee-lauder.JPG",
+          "description": "Le groupe espagnol de luxe et cosmétiques et le géant américain des cosmétiques avaient dévoilé en mars l’existence de discussions."
+        }
+      ],
+      "summary": "Estée Lauder and Spanish beauty group Puig have ended negotiations over a possible merger after months of talks. Puig said the decision does not change its strategy."
+    },
+    {
+      "id": "topic_26919151c2d1483b",
+      "title": "Trailer Reveals The Boys Prequel Vought Rising",
+      "headline": "Vought Rising trailer reveals out first look at Prime Video's The Boys prequel",
+      "label": [
+        "vought",
+        "rising",
+        "boys",
+        "trailer",
+        "ackles",
+        "prequel"
+      ],
+      "category": "new",
+      "theme": "theme_bffdc3ffa2d563ed",
+      "entities": [
+        "Vought Rising",
+        "Prime Video",
+        "The Boys",
+        "Vought Rising Trailer Previews",
+        "Jensen Ackles"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Vought Rising trailer reveals out first look at Prime Video's The Boys prequel",
+          "url": "https://www.polygon.com/the-boys-spinoff-vought-rising-trailer",
+          "source": "Polygon.com",
+          "published_at": "2026-05-22T14:00:19.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/u2uaiu6tcfme1.jpeg",
+          "description": "Set in 1950s New York, the show explores Vought's dark experiments and the creation of the first superhero team."
+        },
+        {
+          "title": "Vought Rising Trailer Previews Jensen Ackles’ The Boys Prequel TV Show",
+          "url": "https://www.comingsoon.net/tv/trailers/2137484-vought-rising-trailer-jensen-ackles-the-boys-prequel-tv-show",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-05-22T14:58:30.000Z",
+          "description": "Fresh off The Boys finale, Amazon has released the Vought Rising trailer. The prequel series will follow Jensen Ackles’ Soldier Boy and Aya Cash‘s Liberty/Stormfront. Vought Rising is set in 1950s New York, exploring a world long before the events of The Boys. The series will explore the “twisted o…"
+        },
+        {
+          "title": "Vought Rising Teaser Trailer: Jensen Ackles And More Return In First Look At The Boys Prequel Series",
+          "url": "https://www.tvline.com/2179135/vought-rising-teaser-trailer-the-boys-prequel-prime-video",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-05-22T13:59:00.000Z",
+          "image": "https://www.tvline.com/img/gallery/vought-rising-teaser-trailer/l-intro-1779302521.jpg",
+          "description": "As one chapter of The Boys ends, another begins - watch the teaser trailer for Prime Video's prequel series Vought Rising, starring Jensen Ackles and Aya Cash."
+        },
+        {
+          "title": "Vought Rising Trailer: Prime Video Reveals First Look At Jensen Ackles-Led The Boys Spin-Off",
+          "url": "https://www.slashfilm.com/2179348/vought-rising-trailer-prime-video-jensen-ackles-the-boys-spin-off",
+          "source": "/Film",
+          "published_at": "2026-05-22T14:10:11.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/vought-rising-trailer-prime-video-reveals-first-look-at-jensen-ackles-led-the-boys-spin-off/l-intro-1779458879.jpg",
+          "description": "The Boys may have come to an end, but the show's universe lives on with the prequel series Vought Rising. Watch the trailer here."
+        },
+        {
+          "title": "Jensen Ackles and Aya Cash ascend to power in Vought Rising trailer",
+          "url": "https://www.avclub.com/prime-videos-vought-rising-trailer-jensen-ackles-aya-cash",
+          "source": "AV Club",
+          "published_at": "2026-05-22T10:35:38.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/22103005/soldier-boy.jpg",
+          "description": "Prime Video's The Boys prequel promises—what else—more oppression, brutality, and Supes."
+        }
+      ],
+      "summary": "Prime Video released a trailer for Vought Rising, a prequel to The Boys set in 1950s New York. The series features Jensen Ackles as Soldier Boy and Aya Cash as Liberty, later known as Stormfront."
+    },
+    {
+      "id": "topic_644e50ef4e199c8",
+      "title": "Stephen Colbert Signs Off From The Late Show",
+      "headline": "Watch Stephen Colberts final Late Show sign off",
+      "label": [
+        "colbert",
+        "stephen",
+        "show",
+        "late",
+        "final",
+        "mccartney"
+      ],
+      "category": "trending",
+      "theme": "theme_d7ae27d9f98159c5",
+      "entities": [
+        "Watch Stephen Colberts",
+        "Late Show",
+        "The Late Show",
+        "Stephen Colbert",
+        "Final Late Show Gets"
+      ],
+      "article_count": 65,
+      "source_count": 42,
+      "articles": [
+        {
+          "title": "Watch Stephen Colberts final Late Show sign off",
+          "url": "https://mashable.com/entertainment/stephen-colbert-final-late-show-sign-off",
+          "source": "Mashable",
+          "published_at": "2026-05-22T09:42:19.000Z",
+          "description": "Stephen Colbert's final episode of \"The Late Show\" ended with back-to-back musical performances."
+        },
+        {
+          "title": "‘The Late Show with Stephen Colbert’ airs final show",
+          "url": "https://www.thesouthafrican.com/culture/entertainment/the-late-show-with-stephen-colbert-airs-final-show",
+          "source": "The South African",
+          "published_at": "2026-05-22T12:18:40.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/05/image-2026-05-22T135906.647.jpg.optimal.jpg",
+          "description": "Stephen Colbert wrapped up his highly successful late night show after 11 years on television."
+        },
+        {
+          "title": "Stephen Colbert’s Final Late Show Gets the Same Reaction From Fans",
+          "url": "https://www.comingsoon.net/tv/news/2137106-stephen-colbert-final-late-show-reactions",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-05-22T03:55:38.000Z",
+          "description": "Stephen Colbert’s final Late Show brought fans to tears outside the Ed Sullivan Theater. Attendees shared emotional tributes and revealed what the host meant to them during his 11-year run. People react to Stephen Colbert’s final Late Show Fans gathered outside the Ed Sullivan Theater to bid farewe…"
+        },
+        {
+          "title": "Fans line up for Stephen Colbert’s final 'Late Show' taping",
+          "url": "https://www.thestar.com/entertainment/television/fans-line-up-for-stephen-colbert-s-final-late-show-taping/video_79ebb5e1-a211-4bb2-8c1d-ff9c9a5095f5.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-05-22T21:54:00.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/9e/79ebb5e1-a211-4bb2-8c1d-ff9c9a5095f5/6a10d1237a419.image.jpg?resize=300%2C169",
+          "description": "Fans lined up in the rain outside the Ed Sullivan Theater in New York on Thursday ahead of the final episode of “The Late Show with Stephen Colbert.” (May 22, 2026)"
+        },
+        {
+          "title": "Paul McCartney helps Stephen Colbert say goodbye to 'Late Show'",
+          "url": "https://www.france24.com/en/video/20260522-paul-mccartney-helps-stephen-colbert-say-goodbye-to-late-show",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-22T09:57:17.000Z",
+          "image": "https://s.france24.com/media/display/e0c4a6a4-55c1-11f1-aa88-005056bfb2b6/w:1024/p:16x9/EN-20260522-111255-111442-CS.jpg",
+          "description": "Comedian Stephen Colbert signed off from his late-night talk show on Thursday after 11 seasons with a sentimental chat with Beatles musician Paul McCartney and pointed jokes about his forced departure from CBS. The final installment of \"The Late Show with Stephen Colbert\" began with the comic thank…"
+        }
+      ],
+      "summary": "Stephen Colbert hosted the final episode of The Late Show after 11 years. The farewell included musical performances and a conversation with Paul McCartney."
+    },
+    {
+      "id": "topic_6cffad862fe3e22e",
+      "title": "Rubio Reports Slight Progress in Iran Talks",
+      "headline": "Rubio reports 'slight progress' in Iran talks",
+      "label": [
+        "progress",
+        "slight",
+        "talks",
+        "iran",
+        "rubio",
+        "war"
+      ],
+      "category": "new",
+      "theme": "theme_a464f377889b9b84",
+      "entities": [
+        "Rubio",
+        "Iran",
+        "Slight",
+        "US",
+        "DW"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Rubio reports 'slight progress' in Iran talks",
+          "url": "https://tass.com/world/2134975",
+          "source": "TASS",
+          "published_at": "2026-05-22T09:44:17.000Z",
+          "description": "According to the US secretary of state, the fundamentals remain the same"
+        },
+        {
+          "title": "Iran war: 'Slight progress' in peace talks, Rubio says",
+          "url": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-22T15:10:00.000Z",
+          "description": "US Secretary of State Rubio said there was \"a little bit of movement\" in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements. DW has more."
+        },
+        {
+          "title": "U.S. notes ‘slight progress’ in Iran talks, but uncertain deal will be made",
+          "url": "https://globalnews.ca/news/11860162/slight-progress-in-iran-talks-deal-uncertain",
+          "published_at": "2026-05-22T16:08:11.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/trump-iran-e1779453343839.jpg?quality=65&strip=all",
+          "description": "Rubio said he didn’t want to exaggerate the progress, saying there had been “a little bit of movement and that’s good.” He said the conversations were ongoing."
+        },
+        {
+          "title": "US says ‘slight progress’ in Iran talks amid uncertainty on deal to end war",
+          "url": "https://www.breakingnews.ie/world/us-says-slight-progress-in-iran-talks-amid-uncertainty-on-deal-to-end-war-1903464.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMjIxMjU0NDNcXFwvMDM1NzIzNzE1YjY4NDU0ZmE3YjU1MTNiMjRkZGVjY2MuanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNTc0ODI1M2RmNTAxNjhjZWVkOTczOTVlNDA3NTMzNmEyMWE2YTAyMyJ9/035723715b68454fa7b5513b24ddeccc.jpg",
+          "description": "US secretary of state Marco Rubio gave the update ahead of a meeting of Nato foreign ministers in Sweden."
+        },
+        {
+          "title": "US says ‘slight progress’ in Iran talks amid uncertainty about whether war will resume",
+          "url": "https://www.seattletimes.com/nation-world/nation/us-says-slight-progress-in-iran-talks-amid-uncertainty-on-whether-war-will-resume",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-05-22T11:17:09.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05222026_rubio_tzr_052941.jpg?d=1200x630",
+          "description": "U.S. Secretary of State Marco Rubio says there's been \"slight progress\" in talks with Iran, amid uncertainty about a potential deal or renewed conflict."
+        }
+      ],
+      "summary": "U.S. Secretary of State Marco Rubio said negotiations with Iran had made “slight progress,” while warning that a deal remained uncertain and discussions were continuing."
+    },
+    {
+      "id": "topic_701bbe8505cdc70a",
+      "title": "Reviews Assess Nicolas Cage’s Spider-Noir Series",
+      "headline": "Nicolas Cage’s ‘Spider-Noir’ Is a Beautiful Bore: TV Review",
+      "label": [
+        "spider",
+        "cage",
+        "noir",
+        "nicolas",
+        "review",
+        "prime"
+      ],
+      "category": "new",
+      "theme": "theme_b2f2b430c56c5e40",
+      "entities": [
+        "Nicolas Cage",
+        "Spider",
+        "Noir",
+        "Beautiful Bore",
+        "TV Review"
       ],
       "article_count": 11,
       "source_count": 11,
       "articles": [
         {
-          "title": "SpaceX Launches Starship 12: Testing the Mightiest Rocket on Earth",
-          "url": "https://internewscast.com/news/spacex-launches-starship-12-testing-the-mightiest-rocket-on-earth",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-22T22:57:52.000Z"
+          "title": "Nicolas Cage’s ‘Spider-Noir’ Is a Beautiful Bore: TV Review",
+          "url": "https://variety.com/2026/tv/reviews/spider-noir-review-prime-video-nicolas-cage-1236756324",
+          "source": "Variety",
+          "published_at": "2026-05-22T14:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/Spider-Noir_S1241120_EPSAAR_00034RC_f_3000.jpg",
+          "description": "Based on the Marvel Comics character Spider-Man Noir, and adapted for television by Oren Uziel, Prime Video’s latest superhero series, “Spider-Noir,” follows an older web-slinger living in New York City during the Great Depression. Fledgling private investigator Ben Riley (Nicholas Cage in his firs…"
         },
         {
-          "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-          "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return",
-          "source": "TechCrunch",
-          "published_at": "2026-05-22T22:55:57.000Z"
+          "title": "It’s Fucking Wild that Nicolas Cage’s Spider-Noir Exists: Review",
+          "url": "https://consequence.net/2026/05/spider-noir-review-nicolas-cage-prime-video",
+          "source": "Consequence",
+          "published_at": "2026-05-22T14:00:38.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/05/spider-noir-nicolas-cage-karen-rodriguez.jpg?quality=80",
+          "description": "The Prime Video series looks beautiful in either black-and-white or color. It’s Fucking Wild that Nicolas Cage’s Spider-Noir Exists: Review Liz Shannon Miller"
         },
         {
-          "title": "SpaceX launches its biggest rocket yet in test flight from Texas",
-          "url": "https://www.theguardian.com/science/2026/may/22/spacex-launch-texas-test-flight",
-          "source": "Space | The Guardian",
-          "published_at": "2026-05-22T22:52:07.000Z",
-          "image": "https://i.guim.co.uk/img/media/cf9e3f9111d9bf213a3072176653842f0913c9b5/556_0_5561_4449/master/5561.jpg?width=140&quality=85&auto=format&fit=max&s=bf73527775a3fd67c4c82816a4a80aea"
+          "title": "Nicolas Cage is the unexpected worst part of Prime Video's Spider-Noir",
+          "url": "https://www.avclub.com/spider-noir-review-nicolas-cage-prime-video",
+          "source": "AV Club",
+          "published_at": "2026-05-22T10:00:24.000Z",
+          "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/21005252/cage-spider-noir-feature.jpg",
+          "description": "Cage’s first regular TV gig is a series of impressions, not a performance."
         },
         {
-          "title": "SpaceX launches Starship test flight on second try",
-          "url": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
-          "source": "US Top News and Analysis",
-          "published_at": "2026-05-22T22:36:47.000Z"
+          "title": "Llega el estreno mundial de \"Spider-Noir\" con Nicolas Cage a Prime Video",
+          "url": "https://www.informador.mx/entretenimiento/llega-el-estreno-mundial-de-spider-noir-con-nicolas-cage-a-prime-video-20260522-0077.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-05-22T17:06:00.000Z",
+          "description": "La serie sitúa la acción en la Nueva York de la Gran Depresión y sigue al detective privado Ben Reilly, interpretado por el estaounidense Nicolas Cage"
         },
         {
-          "title": "SpaceX's upgraded Starship V3 blasts off in debut test flight from Texas",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-upgraded-starship-v3-blasts-223527373.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-22T22:35:27.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/2d64b22a99e3f8df25bdbbf051976394"
+          "title": "Spider-Noir review: Nicolas Cage's Spider-Man show nails the one thing WandaVision never could",
+          "url": "https://www.polygon.com/spider-noir-exposes-wandavision-missed-opportunity",
+          "source": "Polygon.com",
+          "published_at": "2026-05-22T14:00:19.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/nore_still_2_3000.jpg",
+          "description": "Spider-Noir successsfully immerses itself in a specific genre in a way that few superhero films and TV shows do"
         }
-      ]
+      ],
+      "summary": "Prime Video’s Spider-Noir stars Nicolas Cage as private detective Ben Reilly in Depression-era New York. Reviews praise the series’ visual style and genre atmosphere, while differing on Cage’s performance."
     },
     {
-      "id": "topic_9462649902850801",
+      "id": "topic_61020144ac51cff6",
+      "title": "How to Watch Oleksandr Usyk vs. Rico Verhoeven",
+      "headline": "Oleksandr Usyk Vs. Rico Verhoeven: Date, Time And How To Watch",
       "label": [
-        "rapper",
-        "rob base",
-        "tak two",
-        "rob",
-        "base",
-        "59"
+        "usyk",
+        "rico",
+        "oleksandr",
+        "verhoeven",
+        "vs",
+        "weigh"
       ],
       "category": "new",
-      "theme": "theme_98850d53fe076f6a",
+      "theme": "theme_62a7733e6e7a55e3",
       "entities": [
-        "Rapper Rob Base",
-        "It Takes Two",
-        "Rob Base",
-        "Rapper",
-        "Dead"
+        "Oleksandr Usyk Vs",
+        "Rico Verhoeven",
+        "Date",
+        "Time And How To",
+        "Usyk"
       ],
-      "article_count": 6,
+      "article_count": 16,
       "source_count": 6,
       "articles": [
         {
-          "title": "Rapper Rob Base, known for 'It Takes Two,' dies at 59",
-          "url": "https://abcnews.com/gma/culture/rapper-rob-base-takes-dies-59-after-private/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-05-22T23:05:33.000Z",
-          "image": "https://s.abcnews.com/images/GMA/ROBBASE-GTY-AB-260522_1779490513399_hpMain_4x3t_384.jpg"
+          "title": "Oleksandr Usyk Vs. Rico Verhoeven: Date, Time And How To Watch",
+          "url": "https://sports.yahoo.com/articles/oleksandr-usyk-vs-rico-verhoeven-074841223.html",
+          "published_at": "2026-05-22T07:48:41.000Z",
+          "description": "Oleksandr Usyk vs. Rico Verhoeven streams Saturday, May 23 on DAZN PPV from the Pyramids of Giza. Here's the date, start time, price and full how-to-watch."
         },
         {
-          "title": "Rob Base, ‘It Takes Two’ Rapper, Dead at 59",
-          "url": "https://www.rollingstone.com/music/music-news/rob-base-it-takes-two-rapper-dead-obituary-1235567888",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-22T23:04:09.000Z"
+          "title": "Paddy Power offer: Oleksandr Usyk vs Rico Verhoeven get 50/1 on Usyk to win",
+          "url": "https://talksport.com/betting/4276858/paddy-power-offer-oleksandr-usyk-vs-rico-verhoeven-win",
+          "source": "talkSPORT",
+          "published_at": "2026-05-22T10:44:11.000Z"
         },
         {
-          "title": "‘It Takes Two’ Rapper Rob Base Dead at 59",
-          "url": "https://www.billboard.com/music/rb-hip-hop/rob-base-death-it-takes-two-rapper-1236255578",
+          "title": "Oleksandr Usyk vs. Rico Verhoeven Livestream: How to Watch the Pay-Per-View Boxing Event Online",
+          "url": "https://www.billboard.com/culture/product-recommendations/usyk-vs-verhoeven-how-to-watch-live-boxing-ppv-online-1236251342",
           "source": "Billboard",
-          "published_at": "2026-05-22T22:50:29.000Z"
+          "published_at": "2026-05-22T19:56:50.000Z",
+          "description": "Livestream the PPV heavyweight title bout live from the Pyramids of Giza in Egypt, on Saturday, May 23."
         },
         {
-          "title": "‘It Takes Two’ rapper Rob Base dies at 59 - NBC News",
-          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxqx3pjwknec3pzewhuvtzbzgfxyjbbx0lyedy1dg50rf82d3bpmg0yb0tmutlmwjbdt1bhs0zouhrgmu9cx2pbm3zjsuzlovpiqxjdqktjsu5wz2tbnutyczlqdwrjaxlrnvbib2nozvn5dgnvaglwnnnlddzqmzbxmfzysjdarxllmezhc1dlnxzpoghur0dmszb3cg05sw8",
+          "title": "Oleksandr Usyk vs. Rico Verhoeven fight predictions, odds, undercard, start time for unique event",
+          "url": "https://www.cbssports.com/boxing/news/oleksandr-usyk-vs-rico-verhoeven-fight-predictions-odds-undercard-start-time",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-05-22T14:11:54.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/05/22/dc84e6a9-747a-478e-926e-f7149aad6aef/usyk-verhoeven-pyramids.jpg",
+          "description": "The unified heavyweight champion defends one of his titles in front of the Pyramids of Giza on Saturday"
+        },
+        {
+          "title": "Rico Verhoeven explains why he chose boxing Oleksandr Usyk over UFC offer, plans to ‘shock the world’",
+          "url": "https://news.google.com/rss/articles/cbmi4wfbvv95cuxqwtkxwnv1umj2aufwumtxq0zmal9qufdkq2e0oud5nxjvltdqujvhuhiyrezsa2jnvdvznhprz2hiwjvfnevvcvpusdytuv9syzhdrwfswwjfbxdnb0hhov9vqut0dnzzcknoyw9zclmtrfd1zelwswvitnh0a20wdw9urw1zekzjzu1zwvjgclrmqwdsr3kyblezquo2n1z2s2hrqvv3b3fuqv9br05zemzpnhzrddvnchbwaxptmu1nnhhjaxndrgnny2dud2hqqlf0mgvgmi1izxo4tkjiohbvcw",
           "source": "Top stories - Google News",
-          "published_at": "2026-05-22T22:17:49.000Z"
-        },
-        {
-          "title": "“It Takes Two” Rapper Rob Base Dead at 59",
-          "url": "https://consequence.net/2026/05/rob-base-dead-it-takes-two-rapper",
-          "source": "Consequence",
-          "published_at": "2026-05-22T21:54:56.000Z",
-          "image": "https://consequence.net/wp-content/uploads/2026/05/rob-base-dead-obituary.jpg?quality=80"
+          "published_at": "2026-05-22T13:00:00.000Z",
+          "description": "Rico Verhoeven explains why he chose boxing Oleksandr Usyk over UFC offer, plans to ‘shock the world’ MMA Fighting Alistair Overeem offers Rico Verhoeven two-fight deal: MMA and boxing MMA Junkie No chance! Rico Verhoeven’s jump to boxing spared him merciless beating from Francis Ngannou — ‘Stay aw…"
         }
-      ]
-    },
-    {
-      "id": "topic_8911238703387bf6",
-      "label": [
-        "flipper",
-        "flipper one",
-        "one",
-        "tvs",
-        "ubiquity",
-        "underminr"
       ],
-      "category": "new",
-      "theme": "theme_75605a9fe0a80831",
-      "entities": [
-        "TVs",
-        "Old York",
-        "Flipper One",
-        "Ubiquity",
-        "Underminr"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
-          "url": "https://www.youtube.com/watch?v=k6zeuayUNHc",
-          "source": "Security Weekly - A CRA Resource",
-          "published_at": "2026-05-22T21:00:29.000Z",
-          "image": "https://i4.ytimg.com/vi/k6zeuayUNHc/hqdefault.jpg"
-        },
-        {
-          "title": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
-          "url": "https://sw-all.libsyn.com/tvs-old-york-flipper-one-ubiquity-underminr-cisos-github-josh-marpet-swn-583",
-          "source": "Security Weekly (Download Only)",
-          "published_at": "2026-05-22T21:00:00.000Z",
-          "image": "https://traffic.libsyn.com/secure/sw-all/SWN_583_1--d218ad78-96a0-415a-8492-51f21916309e--audio-converted--d11c0bd6-9017-4d4a-b10a-75efb217dcba.mp3?dest-id=829103"
-        },
-        {
-          "title": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
-          "url": "https://hntvvideo.libsyn.com/tvs-old-york-flipper-one-ubiquity-underminr-cisos-github-josh-marpet-swn-583",
-          "source": "Security Weekly News (Video)",
-          "published_at": "2026-05-22T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_583_1--d218ad78-96a0-415a-8492-51f21916309e--sd-converted--8643c81a-a2d9-4520-956b-22b0ccd4eb90.mp4?dest-id=376663"
-        },
-        {
-          "title": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
-          "url": "https://hntvaudio.libsyn.com/tvs-old-york-flipper-one-ubiquity-underminr-cisos-github-josh-marpet-swn-583",
-          "source": "Security Weekly News (Audio)",
-          "published_at": "2026-05-22T21:00:00.000Z",
-          "image": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_583_1--d218ad78-96a0-415a-8492-51f21916309e--audio-converted--d11c0bd6-9017-4d4a-b10a-75efb217dcba.mp3?dest-id=376644"
-        },
-        {
-          "title": "What Is Flipper One?",
-          "url": "https://www.youtube.com/shorts/Qj2PyJR6VZo",
-          "source": "David Bombal",
-          "published_at": "2026-05-22T18:00:34.000Z",
-          "image": "https://i2.ytimg.com/vi/Qj2PyJR6VZo/hqdefault.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_bae1796033067a9f",
-      "label": [
-        "dick",
-        "parry",
-        "83",
-        "dick parry",
-        "pink floyd",
-        "floyd"
-      ],
-      "category": "new",
-      "theme": "theme_ea4b3d4290ddcb69",
-      "entities": [
-        "Dick Parry Dies",
-        "Sax Player On Pink",
-        "Floyd Classics",
-        "Dark Side",
-        "Moon"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Dick Parry Dies: Sax Player On Pink Floyd Classics ‘Dark Side of the Moon’ & ‘Wish You Were Here’ Was 83",
-          "url": "https://deadline.com/2026/05/dick-parry-dead-1236919440",
-          "source": "Deadline",
-          "published_at": "2026-05-22T21:46:55.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-85233584.jpg"
-        },
-        {
-          "title": "Dick Parry, Pink Floyd Saxophonist, Dead at 83",
-          "url": "https://consequence.net/2026/05/dick-parry-pink-floyd-saxophonist-dead",
-          "source": "Consequence",
-          "published_at": "2026-05-22T20:41:47.000Z",
-          "image": "https://consequence.net/wp-content/uploads/2026/05/Dick-Parry.jpg?quality=80"
-        },
-        {
-          "title": "Dick Parry, Saxophonist Who Played Classic Solos on Pink Floyd’s ‘Dark Side of the Moon’ and ‘Wish You Were Here’ Albums, Dies at 83",
-          "url": "https://variety.com/2026/music/obituaries-people-news/dick-parry-dead-pink-floyd-saxophonist-dark-side-moon-1236757358",
-          "source": "Variety",
-          "published_at": "2026-05-22T20:18:28.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-566791001.jpg"
-        },
-        {
-          "title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dead at 83",
-          "url": "https://www.rollingstone.com/music/music-news/dick-parry-pink-floyd-saxophonist-dead-obituary-1235567764",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-22T20:10:56.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_d2cc3cd84fc974f6",
-      "label": [
-        "microsoft 365",
-        "phish",
-        "365",
-        "fbi warn",
-        "fbi",
-        "warn"
-      ],
-      "category": "new",
-      "theme": "theme_e40b74f12fe60ace",
-      "entities": [
-        "FBI",
-        "Microsoft",
-        "Kali365",
-        "April Microsoft",
-        "FBI Warns"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "FBI warns about fast-growing phishing kit targeting Microsoft 365 users",
-          "url": "https://cyberscoop.com/fbi-phishing-kali365-microsoft365-access-tokens",
-          "source": "CyberScoop",
-          "published_at": "2026-05-22T20:41:20.000Z"
-        },
-        {
-          "title": "FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
-          "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
-          "source": "The Record from Recorded Future News",
-          "published_at": "2026-05-22T20:01:00.000Z",
-          "image": "http://cms.therecord.media/uploads/2022_03_phishing_fish_35426553f5.png"
-        },
-        {
-          "title": "FBI Warns of Kali365 Phishing Service Targeting Microsoft 365 Account",
-          "url": "https://hackread.com/fbi-kali365-phishing-service-microsoft-365-account",
-          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
-          "published_at": "2026-05-22T19:59:46.000Z"
-        },
-        {
-          "title": "FBI Warns of Kali365 Phishing Service Targeting Microsoft 365 Account",
-          "url": "https://vulners.com/hackread/hackread:45c003c5a59860bfa699bd566e6c693e",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-05-22T19:59:46.000Z",
-          "image": "http://vulners.com/static/img/hackread.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_67cd2304ca83b9f8",
-      "label": [
-        "wars",
-        "star wars",
-        "mandalorian",
-        "grogu",
-        "mandalorian grogu",
-        "star"
-      ],
-      "category": "new",
-      "theme": "theme_4ac7e135976a2d40",
-      "entities": [
-        "The Mandalorian And Grogu",
-        "Finally Gave This Lifelong",
-        "Fan",
-        "Star Wars Movie To",
-        "Hate"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "The Mandalorian And Grogu Finally Gave This Lifelong Fan A Star Wars Movie To Hate",
-          "url": "https://www.slashfilm.com/2178275/the-mandalorian-and-grogu-lifelong-fan-star-wars-movie-hate",
-          "source": "/Film",
-          "published_at": "2026-05-22T21:00:00.000Z",
-          "image": "https://www.slashfilm.com/img/gallery/the-mandalorian-and-grogu-finally-gave-this-lifelong-fan-a-star-wars-movie-to-hate/l-intro-1779324744.jpg"
-        },
-        {
-          "title": "The Mandalorian & Grogu Is A Good Star Wars Movie, But It’s Not What The Franchise Needed Right Now",
-          "url": "https://kotaku.com/the-mandalorian-grogu-is-a-good-star-wars-movie-but-its-not-what-the-franchise-needed-right-now-2000698715",
-          "source": "Kotaku",
-          "published_at": "2026-05-22T19:07:08.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/05/grogu-1280x720.jpg"
-        },
-        {
-          "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
-          "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
-          "source": "International: Top News And Analysis",
-          "published_at": "2026-05-22T18:48:51.000Z"
-        },
-        {
-          "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history - CNBC",
-          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxpvnc0mlzadlh1dnl6cwv2c1n6bg0wntnvae80dhytagytsxbnz0jwogp5c3nocwz1ahbdazrjrlpbq0k3t196vg9srxzzqtlmruxym3hzthhjmvddndvxqwlqeepwcemzmm04t1fsavrrbl9cd2loazjtdxfqvzqyb1hpv01fm2fere9hew1vwf9foghfdwzpmtruemi3nfda0ggmaufvx3lxte5jb243vgvgcgfxsl9jznbiwmrbmhhsrzntri1htervzmgxugpczuzwszzhc3dps215dvfyrxj5n3h6shztt1nstg1zamfpmhy5ejdduehvu2nbngxpdmexr3zmujjzm0y4nflumelhr3jncdrrv203vurnedgybu5rtuhhmwpyedlzazb0nzfpb1jjadlvnw9fcmgwcerkwxo3uvjkz2c",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-22T18:48:51.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_194a18fe45541185",
-      "label": [
-        "adviser",
-        "trump met",
-        "met top",
-        "top adviser",
-        "adviser iran",
-        "iran weigh"
-      ],
-      "category": "new",
-      "theme": "theme_4d61749f6b0ae5a1",
-      "entities": [
-        "Trump",
-        "Iran",
-        "Barak Ravid",
-        "Axios"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Trump met top advisers on Iran as he weighs return to war (Barak Ravid/Axios)",
-          "url": "https://www.memeorandum.com/260522/p38",
-          "source": "memeorandum",
-          "published_at": "2026-05-22T21:35:00.000Z",
-          "image": "http://www.memeorandum.com/260522/i38.jpg"
-        },
-        {
-          "title": "Trump met top advisers on Iran as he weighs return to war - Axios",
-          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxte4wcmjgafl5si0yaxrjsucxyld4mfvzatl2yw5vb2ppsnbwdvduegezx25kshbtawlod0jrqu03dtjzt0jvmxjuy0p5tmhkx0lunkhlwmppcthfnvrirxotwjfuafllv3pkulmyn2e2a3nvczd0ree",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-22T20:33:59.000Z"
-        },
-        {
-          "title": "Trump met top advisers on Iran as he weighs return to war",
-          "url": "https://www.axios.com/2026/05/22/trump-iran-meeting-resume-war-deal",
-          "source": "Axios",
-          "published_at": "2026-05-22T20:31:01.000Z",
-          "image": "https://images.axios.com/Ukp_j8YsnwBXC2xc2_YFQkZ7Caw=/0x81:4000x2331/1366x768/2026/05/22/1779481503534.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_c8cdb7fa2e8b732c",
-      "label": [
-        "animateur",
-        "pari deux",
-        "deux animateur",
-        "deux",
-        "pari",
-        "riscolaire"
-      ],
-      "category": "new",
-      "theme": "theme_864a128305adaf38",
-      "entities": [
-        "Paris",
-        "Saint",
-        "Dominique",
-        "Violences"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Paris : deux animateurs ayant exercé à l’école Saint-Dominique mis en examen pour viols et agressions sexuelles sur mineurs",
-          "url": "https://www.lemonde.fr/societe/article/2026/05/23/paris-deux-animateurs-ayant-exerce-a-l-ecole-saint-dominique-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs_6692356_3224.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-22T22:46:22.000Z",
-          "image": "https://img.lemde.fr/2026/05/20/675/0/8104/4052/644/322/60/0/1f7528a_ftp-1-3zgdyyu4civz-5090605-01-06.jpg"
-        },
-        {
-          "title": "Violences dans le périscolaire à Paris : deux animateurs mis en examen \"pour des faits à caractère sexuel\" et placés en détention provisoire",
-          "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-deux-animateurs-mis-en-examen-pour-des-faits-a-caractere-sexuel-et-places-en-detention-provisoire_8022545.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-22T22:22:38.000Z",
-          "image": "https://www.franceinfo.fr/pictures/bH5nviuGWorwCYgskdXh1KmKRhU/0x106:1024x682/432x243/filters:format(jpg)/2026/05/23/6a10d6c8e8606928506387.jpg"
-        },
-        {
-          "title": "Violences dans le périscolaire à Paris : deux animateurs placés en détention provisoire",
-          "url": "https://www.ouest-france.fr/faits-divers/violences/violences-dans-le-periscolaire-a-paris-deux-animateurs-places-en-detention-provisoire-72fb9860-5622-11f1-b3d6-3bcc124ee9cc",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-22T21:35:00.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1MjhhNTFiMjVmY2E0NjViZTNjZmI0OGU1NWYyZThkNGI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=36428e8976b74c46215fca87591f90e98efdb309c379189347500d730ca13633"
-        }
-      ]
-    },
-    {
-      "id": "topic_833ec6ce01d1989a",
-      "label": [
-        "brawl",
-        "kindergarten",
-        "kindergarten graduation",
-        "graduation ceremony",
-        "graduation",
-        "ceremony"
-      ],
-      "category": "new",
-      "theme": "theme_19e8f3e9f15eaf16",
-      "entities": [
-        "Moment",
-        "Brawl",
-        "Ohio",
-        "Hair",
-        "KINDERGARTEN"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Moment huge brawl breaks out between parents at kindergarten graduation ceremony as punches thrown and hair pulled",
-          "url": "https://www.thesun.co.uk/news/39191942/parents-brawl-kindergarten-graduation-punches-thrown",
-          "source": "World News - Latest International & World News Today | The Sun",
-          "published_at": "2026-05-22T21:33:05.000Z",
-          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F05%2Fcrop-39193416.jpg?quality%3D90%26strip%3Dall%261779489145"
-        },
-        {
-          "title": "Brawl breaks out at Ohio kindergarten graduation ceremony over seat dispute",
-          "url": "https://torontosun.com/news/world/brawl-kindergarten-graduation-ceremony-seat-dispute-ohio",
-          "source": "Toronto Sun - RSS Feed",
-          "published_at": "2026-05-22T20:05:25.000Z",
-          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/05/brawl_kindergarten_grad-e1779473266474.jpg?quality=100&strip=all"
-        },
-        {
-          "title": "Hair-pulling brawl erupts at KINDERGARTEN graduation ceremony after mom, 28, was accused of hogging seats",
-          "url": "https://www.dailymail.com/news/article-15840557/kindergarten-graduation-ceremony-mom-fight-video-ohio-toledo.html",
-          "source": "News | Mail Online",
-          "published_at": "2026-05-22T19:05:03.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/22/19/108811783-0-image-a-73_1779476134935.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7d0c1b0834a7b6af",
-      "label": [
-        "carburanti",
-        "decreto",
-        "nuovo decreto",
-        "nuovo",
-        "via libera",
-        "al nuovo"
-      ],
-      "category": "new",
-      "theme": "theme_8ad116924045b424",
-      "entities": [
-        "Carburanti",
-        "Benzina",
-        "Cdm",
-        "Via",
-        "Consiglio"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Carburanti, via libera al nuovo decreto: taglio delle accise e non solo, tutte le novità",
-          "url": "https://www.liberoquotidiano.it/news/economia/47833623/carburanti-via-libera-nuovo-decreto-taglio-accise-e-non-solo-tutte-novita-",
-          "source": "Libero Quotidiano",
-          "published_at": "2026-05-22T18:20:00.000Z",
-          "image": "https://media.liberoquotidiano.it/1x2KPnipIdfYdlVByrTnnbkK7MA5zCXtLzzEXvbn4aI/width:800/quality:90/aW1hZ2VzLzIwMjYvMDUvMjIvMTgzOTAzOTQ1LWE4NGE0NTA2LTZkYTgtNDM5NS04YjQ2LTYwZWFlNzk4MDg0Yi5qcGc.webp"
-        },
-        {
-          "title": "Benzina, nuovo decreto carburanti dal Cdm: proroga taglio delle accise e 200 milioni per l'autotrasporto",
-          "url": "https://www.ilmattino.it/primopiano/politica/benzina_nuovo_decreto_carburanti_taglio_accise_ultime_notizie_oggi-9548737.html",
-          "source": "Il Mattino",
-          "published_at": "2026-05-22T18:15:28.000Z",
-          "image": "https://statics.cedscdn.it/photos/MED/2026/05/22/9548713_22200355_onecms_1r8n22nhgkd71z82u19.jpg"
-        },
-        {
-          "title": "Via libera del Consiglio dei ministri al nuovo decreto carburanti",
-          "url": "https://www.ansa.it/sito/notizie/politica/2026/05/22/-via-libera-del-consiglio-dei-ministri-al-nuovo-decreto-carburanti_be3c57d6-e530-43db-9230-7972c28785d4.html",
-          "source": "Primo piano ANSA - ANSA.it",
-          "published_at": "2026-05-22T18:06:08.000Z"
-        }
-      ]
+      "summary": "Oleksandr Usyk is set to face Rico Verhoeven in a heavyweight title bout at the Pyramids of Giza on May 23. The pay-per-view event will stream on DAZN."
     }
   ]
 }

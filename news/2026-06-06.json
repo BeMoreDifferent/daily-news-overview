@@ -1,899 +1,961 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-07T00:15:28.134Z",
+  "generated_at": "2026-09-27T14:00:00.038Z",
   "topics": [
     {
-      "id": "topic_ab63c8c35ca7133f",
+      "id": "topic_4b7435fa9c112d3e",
+      "title": "Israeli Troops Kill Seven-Month-Old Palestinian Baby in West Bank",
+      "headline": "Israeli Forces Kill Palestinian Baby In Occupied West Bank",
       "label": [
-        "krishnan",
-        "sriram",
-        "sriram krishnan",
-        "ai",
-        "adviser",
-        "white house"
+        "israeli",
+        "palestinian",
+        "baby",
+        "bank",
+        "west",
+        "killed"
       ],
       "category": "new",
-      "theme": "theme_142fb47c916f499c",
+      "theme": "theme_b3045fec821fdfac",
       "entities": [
-        "White House AI",
-        "Sriram Krishnan",
-        "Trump AI",
-        "Trump AI Policy Adviser",
-        "Krishnan Is Giving Up"
+        "Israeli Forces Kill Palestinian",
+        "Baby In Occupied West",
+        "Bank",
+        "Israeli",
+        "Palestinian"
+      ],
+      "article_count": 22,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Israeli Forces Kill Palestinian Baby In Occupied West Bank",
+          "url": "https://www.ndtv.com/world-news/israeli-forces-kill-palestinian-baby-in-occupied-west-bank-11599645",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-06-06T10:17:50.000Z",
+          "image": "https://c.ndtvimg.com/2026-06/4smdni4c_gaza_625x300_06_June_26.jpeg",
+          "description": "The official Palestinian news agency WAFA said the baby was critically wounded after being struck in the face by the same bullet that injured his mother."
+        },
+        {
+          "title": "Israeli troops kill seven-month-old Palestinian baby in occupied West Bank",
+          "url": "https://www.irishexaminer.com/world/arid-41857992.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-06-06T11:43:00.000Z",
+          "description": "The Israeli military said the victims were uninvolved civilians and that the shooting remains under review"
+        },
+        {
+          "title": "Israeli Troops Kill 7-Month-Old Baby In West Bank, Palestinian Officials Say",
+          "url": "https://www.huffpost.com/entry/ap-ml-mideast-wars-west-bank-baby-killed_n_6a246f9be4b012c51770ab6f",
+          "source": "World News",
+          "published_at": "2026-06-06T19:09:57.000Z",
+          "description": "Palestinian officials say Israeli troops have killed a 7-month-old Palestinian baby in the occupied West Bank as violence surges there."
+        },
+        {
+          "title": "Palestinian baby shot dead by Israeli troops in occupied West Bank",
+          "url": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-06-06T11:08:51.000Z",
+          "image": "https://i.guim.co.uk/img/media/7b1502f4737fba2035091024af186e1793036a8a/582_0_5802_4644/master/5802.jpg?width=140&quality=85&auto=format&fit=max&s=def2c18c4627d177a6ae1afd950d5166",
+          "description": "The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when he was hit in the incident in Hebron Israeli troops killed a seven-month-old Palestinian baby in the occupied West Bank and injured one of the child’s parents on Friday after opening fire on the family’s car, despite it having…"
+        },
+        {
+          "title": "Israeli troops kill 7-month-old Palestinian baby in West Bank car shooting",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3356199/israeli-troops-kill-7-month-old-palestinian-baby-west-bank-car-shooting",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-06T07:14:30.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/06/99718b2f-78d0-4a55-8d61-ef513badcb6a_8200bb82.jpg?itok=DFlFvFw0&v=1780730066",
+          "description": "Israeli troops killed a seven-month-old Palestinian baby boy after firing at his parents’ vehicle in the occupied West Bank, the Palestinian health ministry said. Sam Fahd Abu Haikal was killed on Friday evening, and his parents were wounded while driving in the Tel Rumeida area south of Hebron Cit…"
+        }
+      ],
+      "summary": "Palestinian officials said seven-month-old Sam Fahd Abu Haikal was shot and killed when Israeli troops fired at his parents’ vehicle in the occupied West Bank. The Israeli military said the victims were uninvolved civilians and that the shooting was under review."
+    },
+    {
+      "id": "topic_f01a8efbb9a46c04",
+      "title": "Trump Pardons Former Congressman Convicted of Insider Trading",
+      "headline": "Trump Pardons Former Congressman Convicted of Insider Trading",
+      "label": [
+        "pardon",
+        "trading",
+        "insider",
+        "congressman",
+        "former",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_16fa7cc3bd3622dd",
+      "entities": [
+        "Trump Pardons Former Congressman",
+        "Convicted",
+        "Insider Trading",
+        "Trump",
+        "Republican"
+      ],
+      "article_count": 21,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Trump Pardons Former Congressman Convicted of Insider Trading",
+          "url": "https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-06-06T05:32:49.000Z",
+          "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05trump-news-buyer-pardon-mqlf/05trump-news-buyer-pardon-mqlf-mediumSquareAt3X.jpg",
+          "description": "Stephen Buyer, a former Republican representative from Indiana, was convicted of trading stock related to two deals before they were made public."
+        },
+        {
+          "title": "Trump pardons former Republican congressman convicted of insider trading",
+          "url": "https://www.theguardian.com/us-news/2026/jun/06/trump-pardons-stephen-buyer-insider-trading",
+          "source": "The Guardian",
+          "published_at": "2026-06-06T20:23:35.000Z",
+          "image": "https://i.guim.co.uk/img/media/eeee189ea48f010ce1cd54edbd30fd060cb40485/229_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=098965555ab7f8f67cb359064e936a3a",
+          "description": "Donald Trump pardoned Stephen Buyer of Indiana, who served nearly two years in prison after conviction As his administration promotes what it calls a crackdown on fraud in states run by Democrats, Donald Trump once again used the pardon power to excuse financial crimes committed by a Republican, gr…"
+        },
+        {
+          "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4597996/trump-pardon-stephen-buyer-insider-trading",
+          "source": "Washington Examiner",
+          "published_at": "2026-06-06T18:24:11.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26157429960210.jpg?w=696",
+          "description": "President Donald Trump has issued a pardon to Stephen Buyer, a former Republican congressman from Indiana who served nearly two years in prison for making illegal stock trades based on inside information after he left office. Buyer was sentenced to 22 months in prison in 2023 for trades made while…"
+        },
+        {
+          "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
+          "url": "https://news.google.com/rss/articles/cbmisafbvv95cuxnttm1v1zeatqtzlatzxnswgpxcniwbzfgzvfacwffoersuzmznkjix1m0svzvcevbuzjuoe5sywprv3b1vtrps3lpsxjjefbrzmz1ethranvpcmn3dlj6d3o2dmg2ofbrqzl0mndpytb2v2hfmvrvrxriqvlznlfhdkplugzkmkxnvzheeexjsnfslw5srzhwaxzfyxhklue1edbatlj1bzfiadfzrhdtmw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T16:28:00.000Z",
+          "description": "Trump issues pardon to former Republican congressman convicted of insider trading AP News Trump Pardons Former Congressman Convicted of Insider Trading The New York Times Trump pardons former Republican congressman convicted of insider trading The Guardian Trump pardons former GOP congressman convi…"
+        },
+        {
+          "title": "Trump grants pardon to former US congressman convicted of insider trading",
+          "url": "https://www.investing.com/news/world-news/trump-grants-pardon-to-former-us-congressman-convicted-of-insider-trading-4729532",
+          "source": "All News",
+          "published_at": "2026-06-06T00:06:29.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5500Z_L.jpg"
+        }
+      ],
+      "summary": "President Donald Trump pardoned Stephen Buyer, a former Republican congressman from Indiana who was convicted of making illegal stock trades using inside information. Buyer had served nearly two years in prison."
+    },
+    {
+      "id": "topic_c1e247dd32a045cd",
+      "title": "Israeli Strikes in Lebanon Kill Nine, Including Lebanese Army Officers",
+      "headline": "Lebanese army officer, soldiers killed in Israeli strike amid ceasefire tensions",
+      "label": [
+        "israeli",
+        "lebanese",
+        "killed",
+        "soldiers",
+        "army",
+        "officers"
+      ],
+      "category": "new",
+      "theme": "theme_62d712c43bd773b",
+      "entities": [
+        "Lebanese",
+        "Israeli",
+        "Three Lebanese",
+        "NPR",
+        "Several Lebanese"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Lebanese army officer, soldiers killed in Israeli strike amid ceasefire tensions",
+          "url": "https://tribune.com.pk/story/2611744/lebanese-army-officer-soldiers-killed-in-israeli-strike-amid-ceasefire-tensions",
+          "source": "express tribune",
+          "published_at": "2026-06-06T05:29:22.000Z",
+          "description": "Israeli strike targets Lebanese army vehicle in southern Lebanon amid Tel Aviv's continued truce violations"
+        },
+        {
+          "title": "Lebanese army officers killed in Israeli air strikes",
+          "url": "https://www.perthnow.com.au/news/conflict/lebanese-army-officers-killed-in-israeli-air-strikes-c-22394290",
+          "source": "PerthNow",
+          "published_at": "2026-06-06T10:12:20.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22394290/68f3c96c7102c50099cc82a25b6bb568578599d9-16x9-x0y0w1280h720.jpg",
+          "description": "Israeli has launched air strikes on southern Lebanon, killing at least nine people including two Lebanese army officers, just days after a ceasefire deal."
+        },
+        {
+          "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+          "url": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
+          "source": "NPR Topics: World",
+          "published_at": "2026-06-06T10:54:34.000Z",
+          "description": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sovereignty and international law.\""
+        },
+        {
+          "title": "Israeli airstrikes kill nine, including Lebanese army officers after ceasefire deal",
+          "url": "https://www.thehindu.com/news/international/israeli-airstrikes-kill-nine-including-lebanese-army-officers-after-ceasefire-deal/article71069541.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-06-06T11:40:24.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/kdkn5n/article71069563.ece/alternates/LANDSCAPE_1200/Lebanon_Israel_Hezbollah_82642.jpg",
+          "description": "The continued, deliberate, and repeated Israeli aggression against Lebanon, its people and its army only strengthens our resolve, faith and determination, the Lebanese army said in a statement"
+        },
+        {
+          "title": "Three Lebanese soldiers killed in latest Israeli strikes",
+          "url": "https://www.iol.co.za/news/world/three-lebanese-soldiers-killed-in-latest-israeli-strikes-1c19b689-67d5-42ee-b251-e8f627748608",
+          "source": "IOL section feed for News",
+          "published_at": "2026-06-06T12:58:44.000Z",
+          "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/a2b23c5c2183501d7b7058516eb87436d93b3c0a/2000&operation=CROP&offset=0x44&resize=2000x1125"
+        }
+      ],
+      "summary": "Israeli airstrikes in southern Lebanon killed at least nine people, including Lebanese army officers, days after a ceasefire deal. The Israeli military said it struck a vehicle and was reviewing the incident."
+    },
+    {
+      "id": "topic_ebccc36701ef0c4a",
+      "title": "Mirra Andreeva Wins French Open for First Grand Slam Title",
+      "headline": "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam title",
+      "label": [
+        "andreeva",
+        "french",
+        "open",
+        "mirra",
+        "wins",
+        "slam"
+      ],
+      "category": "trending",
+      "theme": "theme_6c9dc76cdb3c3c24",
+      "entities": [
+        "Russian",
+        "Mirra Andreeva",
+        "French Open",
+        "Grand Slam",
+        "AP News"
+      ],
+      "article_count": 41,
+      "source_count": 26,
+      "articles": [
+        {
+          "title": "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam title",
+          "url": "https://abcnews.com/sports/wirestory/polish-qualifier-maja-chwalinska-plays-russian-teenager-mirra-133644405",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-06-06T16:06:28.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_f29087527d2a068cfaa1bd42e196bf09_4x3_384.jpg",
+          "description": "Russian teenager Mirra Andreeva was already a tennis phenom at age 15"
+        },
+        {
+          "title": "Mirra Andreeva wins French Open",
+          "url": "https://tass.com/sports/2143571",
+          "source": "TASS",
+          "published_at": "2026-06-06T15:35:53.000Z",
+          "description": "She defeated Poland’s Maja Chwalinska"
+        },
+        {
+          "title": "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam",
+          "url": "https://www.aljazeera.com/sports/2026/6/6/russian-teenager-mirra-andreeva-wins-french-open-to-claim-first-grand-slam",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-06T16:35:01.000Z",
+          "description": "Eighth-ranked Mirra Andreeva ended the run of 114th-ranked Polish qualifier Maja Chwalinska in 6-3, 6-2 win in final."
+        },
+        {
+          "title": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxnzvdzoevpbfjxnuq0efzynlvpzvjbng41r0nrednpexjbz3fmenrmddkyrxpcwupjcuk1z3latdnmadywrfrbutfywmrumkj2vwgwqwd0cjf0y2p2eedyvkfpa2rhoxpowdexrljnmnp5vk9utxfbcfpubjvjaep0mvp5xzlry3pwrwiwmwzimhk3oefymha0ymfeuznrnfi1rmlmnlhrody",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T16:32:00.000Z",
+          "description": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Teenager Mirra Andreeva wins French Open women's s...",
+          "url": "https://www.espn.com/tennis/scoreboard/tournament/_/eventid/172-2026/competitiontype/2",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-06-06T15:58:39.000Z",
+          "description": "null"
+        }
+      ],
+      "summary": "Russian player Mirra Andreeva defeated Polish qualifier Maja Chwalinska 6-3, 6-2 in the French Open final to claim her first Grand Slam title."
+    },
+    {
+      "id": "topic_179b7ca7d3ebf569",
+      "title": "Bernadette Chirac Dies at 93",
+      "headline": "Bernadette Chirac, veuve du président Chirac, est décédée à l’âge de 93 ans",
+      "label": [
+        "chirac",
+        "bernadette",
+        "ans",
+        "décédée",
+        "veuve",
+        "âge"
+      ],
+      "category": "new",
+      "theme": "theme_a405f5d44b4f8f21",
+      "entities": [
+        "Bernadette Chirac",
+        "Chirac",
+        "Jacques Chirac",
+        "France",
+        "Premi"
+      ],
+      "article_count": 15,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Bernadette Chirac, veuve du président Chirac, est décédée à l’âge de 93 ans",
+          "url": "https://www.levif.be/international/europe/france/bernadette-chirac-veuve-du-president-chirac-est-decedee-a-lage-de-93-ans",
+          "source": "Le Vif",
+          "published_at": "2026-06-06T10:14:04.000Z",
+          "image": "https://img.static-rmg.be/a/view/q75/w680/h0/7775692/belgaimage-22092989-jpg.jpg",
+          "description": "Bernadette Chirac, veuve de l'ancien président de la République française Jacques Chirac, est décédée vendredi soir à l'âge de 93 ans, a annoncé samedi à l'AFP sa fille Claude Chirac. The post Bernadette Chirac, veuve du président Chirac, est décédée à l’âge de 93 ans appeared first on Le Vif."
+        },
+        {
+          "title": "Bernadette Chirac, veuve de l’ancien président français Jacques Chirac, est décédée à l'âge de 93 ans",
+          "url": "https://www.rtbf.be/article/bernadette-chirac-veuve-de-l-ancien-president-francais-jacques-chirac-est-decedee-a-l-age-de-93-ans-11736255",
+          "source": "- Info",
+          "published_at": "2026-06-06T09:50:03.000Z",
+          "image": "https://static-content.rtbf.be/article/image/770x433/a/b/7/b5c726975009434e8d27006de21c2fe3.jpg",
+          "description": "Longtemps restée dans l’ombre de son mari, Jacques Chirac, Bernadette Chirac aura fini par imposer sa propre silhouette..."
+        },
+        {
+          "title": "Bernadette Chirac est morte : la veuve de Jacques Chirac est décédée à l’âge de 93 ans",
+          "url": "https://www.huffingtonpost.fr/politique/article/bernadette-chirac-est-morte-la-veuve-de-jacques-chirac-est-decedee-a-l-age-de-93-ans_264507.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-06-06T09:08:52.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/06/06/52/0/1024/576/0/0/60/0/f6db932_upload-1-vpw0mlslwppn-afp-20150616-04643741-v1-midres-belgiumbrusselspsychiatricaidcenter.jpg",
+          "description": "La veuve de l’ancien président de la République Jacques Chirac était retirée de la vie publique depuis plusieurs années."
+        },
+        {
+          "title": "Bernadette Chirac, veuve de l’ancien président Jacques Chirac, est décédée à 93 ans",
+          "url": "https://www.sudouest.fr/politique/bernadette-chirac-veuve-de-l-ancien-president-jacques-chirac-est-decedee-a-93-ans-29372720.php",
+          "source": "L'essentiel",
+          "published_at": "2026-06-06T09:03:15.000Z",
+          "description": "Bernadette Chirac, née Bernadette Chodron de Courcel, « s’est éteinte dans la soirée, paisiblement, entourée des siens », a annoncé sa fille"
+        },
+        {
+          "title": "Bernadette Chirac, veuve du président Chirac, est décédée à 93 ans",
+          "url": "https://www.dhnet.be/actu/monde/2026/06/06/bernadette-chirac-veuve-du-president-chirac-est-decedee-a-93-ans-dlx3s6zxebfarl422sxkilto6y",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-06-06T08:59:03.000Z",
+          "image": "https://www.dhnet.be/resizer/v2/XLWGRJIQE5BSZPEKMCZCTBCQTQ.jpg?auth=a63136301359f56d65f8291007d902283bc12628093d91cb5cb37cc85c138794&smart=true&width=1200&height=800",
+          "description": "Mme Chirac, née Bernadette Chodron de Courcel, \"s'est éteinte dans la soirée, paisiblement, entourée des siens\". ..."
+        }
+      ],
+      "summary": "Bernadette Chirac, widow of former French president Jacques Chirac, has died at age 93. Her daughter Claude announced that she died peacefully, surrounded by family."
+    },
+    {
+      "id": "topic_cfa20842a72ee022",
+      "title": "Kimi Antonelli Takes Pole for Monaco Grand Prix",
+      "headline": "Formula One: Monaco Grand Prix qualifying – live",
+      "label": [
+        "prix",
+        "monaco",
+        "grand",
+        "antonelli",
+        "pole",
+        "formula"
+      ],
+      "category": "new",
+      "theme": "theme_357dc2a5b6c3224c",
+      "entities": [
+        "Formula One",
+        "Monaco Grand Prix",
+        "Antonelli",
+        "Verstappen",
+        "Formula"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Formula One: Monaco Grand Prix qualifying – live",
+          "url": "https://www.theguardian.com/sport/live/2026/jun/06/formula-one-monaco-grand-prix-qualifying-live",
+          "source": "The Guardian",
+          "published_at": "2026-06-06T14:09:42.000Z",
+          "image": "https://i.guim.co.uk/img/media/643bc29118f3a744846c7900b846b07a4f142f3d/221_0_4973_3978/master/4973.jpg?width=140&quality=85&auto=format&fit=max&s=83668c9c64dad254fe689f4922247e3f",
+          "description": "Live qualifying updates from 3pm UK time Russell refuses to feel pressure amid title battle You can email Philip | Sign up for The Recap Everyone is in his car, ready to go. It’s the tensest of times. The man on pole has won 33 out of 71 races, David Croft intones, and not since David Coulthard ove…"
+        },
+        {
+          "title": "How to Watch the Formula 1 Monaco Grand Prix for Free",
+          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxonjj1twvotdg3zvewbegzakhiwdnnumj2ufdmnunnwgnlduutltzin0roqmvbwkkxdjfpstaxc1juzuc0ctjkadywektomfbzeulabhhlmkpprjvpwxnkcmvzttm0wmxvtjzbv0dfuzdjajnldxjrnfh6v3vowm04awmycvboz0e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T10:58:45.000Z",
+          "description": "How to Watch the Formula 1 Monaco Grand Prix for Free PCMag F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates BBC Formula One: Monaco grand prix qualifying – live The Guardian Monaco GP: Kimi Antonelli tops final practice as Mercedes dislodge Ferrari, Oliver Bearman crashes…"
+        },
+        {
+          "title": "Antonelli fastest in Monaco Grand Prix final practice",
+          "url": "https://sports.yahoo.com/articles/antonelli-fastest-monaco-grand-prix-115619381.html",
+          "published_at": "2026-06-06T11:56:19.000Z",
+          "description": "Kimi Antonelli ended Ferrari’s run at the top of the leaderboard in Monaco as he finished fastest in the concluding practice session on Saturday. After Charles Leclerc and then team-mate Lewis Hamilton set the pace in Friday’s two sessions, Mercedes championship leader Antonelli responded with the…"
+        },
+        {
+          "title": "Antonelli takes pole for Monaco F1 Grand Prix",
+          "url": "https://www.citizen.co.za/sport/antonelli-takes-pole-for-monaco-grand-prix",
+          "source": "The Citizen",
+          "published_at": "2026-06-06T16:20:08.000Z",
+          "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/AFP__20260606__B68L9BY__v1__HighRes__AutoPrixF1MonQualifying-2500x1666.jpg",
+          "description": "Antonelli's pole was the first by a Mercedes driver since Hamilton in 2019 and he became the first Italian to take pole in Monaco since Jarno Trulli in 2004."
+        },
+        {
+          "title": "Kimi Antonelli's 'magic lap' beats Max Verstappen to pole at Monaco Grand Prix",
+          "url": "https://japantoday.com/category/sports/kimi-antonelli-beats-max-verstappen-to-pole-at-monaco-grand-prix",
+          "source": "Japan Today",
+          "published_at": "2026-06-06T21:10:42.000Z",
+          "description": "Kimi Antonelli mastered one of Formula 1's most intense challenges to take pole position for Formula 1's Monaco Grand Prix and bolster his credentials as the title favorite…"
+        }
+      ],
+      "summary": "Kimi Antonelli set the fastest time in final practice and took pole position for the Monaco Grand Prix. He became the first Italian to claim the race’s pole since Jarno Trulli in 2004."
+    },
+    {
+      "id": "topic_4203c0a2cb566559",
+      "title": "David Sullivan Steps Down as West Ham Chairman",
+      "headline": "David Sullivan steps down as West Ham chairman to fight historic allegations",
+      "label": [
+        "ham",
+        "allegations",
+        "west",
+        "steps",
+        "sullivan",
+        "david"
+      ],
+      "category": "new",
+      "theme": "theme_9fefafad67a40011",
+      "entities": [
+        "David Sullivan",
+        "West Ham",
+        "Sullivan"
       ],
       "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "David Sullivan steps down as West Ham chairman to fight historic allegations",
+          "url": "https://www.the42.ie/david-sullivan-west-ham-7062548-jun2026",
+          "source": "The 42",
+          "published_at": "2026-06-06T12:59:33.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/06/file-photo-dated-06-04-2024-of-west-ham-united-chairman-david-sullivan-david-sullivan-has-announced-his-resignation-as-joint-chair-and-director-of-west-ham-with-immediate-effect-in-a-statement-issue-0eaaea52-0485-44af-b46c-79f6bf2ae843-630x413.jpg",
+          "description": "The 77-year-old says he is leaving his role to fight “false allegations” about his private life."
+        },
+        {
+          "title": "David Sullivan steps down as West Ham chairman to fight &#8216;serious historic allegations&#8217;",
+          "url": "https://talksport.com/football/4308997/david-sullivan-west-ham-chairman-historic-allegations",
+          "source": "talkSPORT",
+          "published_at": "2026-06-06T11:28:28.000Z"
+        },
+        {
+          "title": "David Sullivan steps down as West Ham joint-chair over ‘serious historic allegations’",
+          "url": "https://sports.yahoo.com/articles/david-sullivan-steps-down-west-114307235.html",
+          "published_at": "2026-06-06T11:51:24.000Z",
+          "description": "The 77-year-old is leaving his role after 16 years"
+        },
+        {
+          "title": "Sullivan steps down at West Ham over historical allegations",
+          "url": "https://www.bbc.com/news/articles/clypyk2e7vyo",
+          "source": "BBC Sport",
+          "published_at": "2026-06-06T11:17:07.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e528/live/bf8a1470-60c4-11f1-ba0c-494087e54831.jpg",
+          "description": "West Ham United co-owner David Sullivan steps down from his position as joint chairman and director of the club."
+        },
+        {
+          "title": "David Sullivan steps down at West Ham to fight claims about private life",
+          "url": "https://www.theguardian.com/football/2026/jun/06/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
+          "source": "The Guardian",
+          "published_at": "2026-06-06T11:26:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/2e297a13aa557a266856a13976504f23101911c5/940_0_6012_4809/master/6012.jpg?width=140&quality=85&auto=format&fit=max&s=db33afaf6e4eef538f45e91d641a147c",
+          "description": "Joint-chair and director of relegated club to tackle ‘false allegations’ ‘I am absolutely not the person the media has decided to paint me as’ David Sullivan has announced his resignation as a joint-chair and director of West Ham with immediate effect in a statement. Sullivan and his legal represen…"
+        }
+      ],
+      "summary": "West Ham co-owner David Sullivan has stepped down as the club’s joint chairman and director after 16 years. He said he was leaving to fight what he called false allegations about his private life."
+    },
+    {
+      "id": "topic_a7dced1f34caf16e",
+      "title": "OpenAI Adds ChatGPT Lockdown Mode to Limit Data Exfiltration Risks",
+      "headline": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "label": [
+        "lockdown",
+        "mode",
+        "exfiltration",
+        "data",
+        "chatgpt",
+        "tools"
+      ],
+      "category": "new",
+      "theme": "theme_da33d703a59a3c0c",
+      "entities": [
+        "Lockdown Mode",
+        "New ChatGPT Lockdown Mode",
+        "Limits Tools That Could",
+        "Enable Data Exfiltration",
+        "The Hacker News"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+          "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+          "source": "The Hacker News",
+          "published_at": "2026-06-06T13:36:57.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
+          "description": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarant…"
+        },
+        {
+          "title": "Lockdown Mode",
+          "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-06-06T03:36:15.000Z",
+          "description": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode Comments URL: https://news.ycombinator.com/item?id=48421145 Points: 12 # Comments: 3"
+        },
+        {
+          "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxqzm10ofvwngtlcxzcxzrvsnqyyju4euvrdhhwawrey0i3t3noze05q2jmukm1z245r19fdzdnwfc2bjbinjk1shjrzm92m01jvnjucgvtclfdz1utndqxnxbbqme0lxriodlccjl5evfwzw1tdkvyxzrhakf0b2rhngzadw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T13:36:00.000Z",
+          "description": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration The Hacker News OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks TechCrunch OpenAI Rolls Out A Lockdown Mode For Extra Protection Against Prompt Injection Attacks Engadget OpenAI Security…"
+        },
+        {
+          "title": "New ChatGPT Lockdown Mode to Mitigate Prompt Injection and Data Exfiltration Attacks",
+          "url": "https://cybersecuritynews.com/chatgpt-lockdown-mode",
+          "source": "Cyber Security News",
+          "published_at": "2026-06-06T16:53:36.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/ChatGPT-Lockdown-Mode.webp",
+          "description": "OpenAI has released ChatGPT Lockdown Mode, a new security feature designed to limit outbound network access and reduce the risk of data exfiltration from prompt-injection attacks. The feature is now available to eligible personal accounts, self-serve ChatGPT Business users, and managed enterprise w…"
+        },
+        {
+          "title": "OpenAI Built a Lockdown Mode Because Tool-Based Data Exfiltration Is Real — Here's What Catches It Earlier",
+          "url": "https://dev.to/coridev/openai-built-a-lockdown-mode-because-tool-based-data-exfiltration-is-real-heres-what-catches-it-342e",
+          "source": "DEV Community",
+          "published_at": "2026-06-06T23:56:34.000Z",
+          "description": "OpenAI doesn't ship defensive product features out of nowhere. When they announced Lockdown Mode for ChatGPT — a setting that explicitly restricts connected tools and integrations to prevent data exfiltration — that's a product team responding to something they've seen happen, or credibly modeled a…"
+        }
+      ],
+      "summary": "OpenAI is rolling out Lockdown Mode for eligible personal ChatGPT accounts. The security feature restricts connected tools and network access to reduce risks from prompt-injection attacks and data exfiltration."
+    },
+    {
+      "id": "topic_8ecbe60b55d60513",
+      "title": "Missing American Student Found Dead Near Kyoto",
+      "headline": "Missing Auburn student found dead in Japan, mother says",
+      "label": [
+        "found",
+        "japan",
+        "missing",
+        "student",
+        "dead",
+        "auburn"
+      ],
+      "category": "new",
+      "theme": "theme_620ae317e441e41f",
+      "entities": [
+        "Missing Auburn",
+        "Japan",
+        "Missing US",
+        "Missing American",
+        "Kyoto"
+      ],
+      "article_count": 12,
       "source_count": 8,
       "articles": [
         {
-          "title": "White House AI policy adviser Sriram Krishnan announces departure from role without giving reason",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/sriram-krishnan-white-house-ai-adviser-b2991147.html",
-          "source": "The Independent World",
-          "published_at": "2026-06-06T20:43:22.000Z",
-          "image": "https://static.independent.co.uk/2026/06/06/21/2026-06-06T172902Z_1511850379_RC2PEIA715WQ_RTRMADP_3_USA-TRUMP-AI.JPG?width=1200&auto=webp&crop=3%3A2"
+          "title": "Missing Auburn student found dead in Japan, mother says",
+          "url": "https://www.yahoo.com/news/world/articles/missing-auburn-student-found-dead-in-japan-mother-says-155434170.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-06-06T15:54:34.000Z",
+          "image": "https://media.zenfs.com/en/usa_today_news_641/833f90cc76487f7c1784c1c609a57434"
+        },
+        {
+          "title": "Missing US student found dead in Japan",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3356229/missing-us-student-found-dead-japan",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-06-06T20:15:47.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/07/e8c25fd9-44f7-47a9-9f99-b5af03958941_f814f289.jpg?itok=5kUHKRnW&v=1780776941",
+          "description": "An ⁠American student ⁠who disappeared while on ⁠a family holiday in Japan was found dead outside Kyoto, his mother wrote in a social media post on Saturday. The body of James ‌Higginbotham, 20, was discovered in a mountainous area by a volunteer search-and-rescue group, Nancy Higginbotham wrote. A…"
+        },
+        {
+          "title": "Missing US student found dead near Kyoto, Japan, mother says",
+          "url": "https://www.investing.com/news/world-news/missing-us-student-found-dead-near-kyoto-japan-mother-says-4729613",
+          "source": "All News",
+          "published_at": "2026-06-06T18:06:29.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550I2_L.jpg"
+        },
+        {
+          "title": "Missing American student found dead in Japan after dayslong search",
+          "url": "https://news.google.com/rss/articles/cbmiekfvx3lxte95ddlqdjribmpxb0j4otdirnbbsf9zswhhvti3c2vzwhbmaduxqlpycus5sxpitwtuwwf2vmxpqwwzzevsd0poyxniunbwyxczuldmb21vnhpxvtletjnvwnd5q0jywwthetn1ynhvmnnnnjl4muhctwn3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T15:37:45.000Z",
+          "description": "Missing American student found dead in Japan after dayslong search CNN Missing Auburn University student found dead in Japan WBRC Alabama college student found dead in Japan after days-long search AL.com Mom of Auburn college student missing in Japan says they argued over ChatGPT before he disappea…"
+        },
+        {
+          "title": "Missing U.S. student found dead near Kyoto, mother says",
+          "url": "https://www.japantimes.co.jp/news/2026/06/07/japan/society/missing-us-student-found-dead-kyoto",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-06T23:47:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/07/544663.jpeg",
+          "description": "The body of James Higginbotham, ‌20, ‌was discovered in a mountainous area ​by a volunteer search-and-rescue group, Nancy Higginbotham wrote."
+        }
+      ],
+      "summary": "James Higginbotham, a 20-year-old American student who went missing during a family holiday in Japan, was found dead in a mountainous area near Kyoto. His mother announced the discovery after a volunteer search-and-rescue group located his body."
+    },
+    {
+      "id": "topic_35150718ebb7690f",
+      "title": "White House AI Adviser Sriram Krishnan to Leave Role",
+      "headline": "Trump's AI policy adviser Sriram Krishnan to step down",
+      "label": [
+        "krishnan",
+        "adviser",
+        "sriram",
+        "ai",
+        "house",
+        "white"
+      ],
+      "category": "new",
+      "theme": "theme_1cf04d362e305db2",
+      "entities": [
+        "Trump",
+        "AI",
+        "Sriram Krishnan",
+        "Trump AI",
+        "Trump AI Policy Adviser"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Trump's AI policy adviser Sriram Krishnan to step down",
+          "url": "https://www.indiatoday.in/world/us-news/story/sriram-krishnan-white-house-ai-adviser-leaves-june-us-ai-security-testing-2923049-2026-06-06",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-06-06T18:15:46.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/sriram-krishnan--senior-white-house-policy-advisor-on-artificial-intelligence-061220575-16x9_0.jpg?VersionId=_zanNf6NXOw7a.Waa3si89m9Foiw_u5K",
+          "description": "Trumps AI policy adviser Sriram Krishnan to step down"
         },
         {
           "title": "Trump AI policy adviser Sriram Krishnan to leave position",
           "url": "https://www.scmp.com/news/world/united-states-canada/article/3356228/trump-ai-policy-adviser-sriram-krishnan-leave-position",
           "source": "News - South China Morning Post",
           "published_at": "2026-06-06T19:44:25.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/07/0d4ef2cc-7c5a-42b5-acc1-00a39ae039ce_65b26361.jpg?itok=ERDdX_CW&v=1780775061"
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/07/0d4ef2cc-7c5a-42b5-acc1-00a39ae039ce_65b26361.jpg?itok=ERDdX_CW&v=1780775061",
+          "description": "A top White House artificial intelligence policy adviser on Saturday said he will leave his position at the end of June, marking the exit of a leading ‌figure helping craft policies for frontier technologies. “This journey has been the privilege of a lifetime,” the adviser, Sriram Krishnan, posted…"
         },
         {
           "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
           "url": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
           "source": "Bloomberg Technology",
           "published_at": "2026-06-06T19:10:09.000Z",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i301bRq8LjfQ/v1/1200x-1.jpg"
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i301bRq8LjfQ/v1/1200x-1.jpg",
+          "description": "Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post."
         },
         {
-          "title": "Krishnan steps down as White House AI adviser after 18 months",
-          "url": "https://www.investing.com/news/economy-news/krishnan-steps-down-as-white-house-ai-adviser-after-18-months-93ch-4729616",
+          "title": "White House AI policy adviser Krishnan to leave position, the Information reports",
+          "url": "https://www.investing.com/news/stock-market-news/white-house-ai-policy-adviser-krishnan-to-leave-position-the-information-reports-4729601",
           "source": "All News",
-          "published_at": "2026-06-06T18:45:45.000Z",
-          "image": "https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg"
+          "published_at": "2026-06-06T14:42:38.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550FB_L.jpg"
         },
         {
-          "title": "Trump's AI policy adviser Sriram Krishnan to step down",
-          "url": "https://www.indiatoday.in/world/us-news/story/sriram-krishnan-white-house-ai-adviser-leaves-june-us-ai-security-testing-2923049-2026-06-06",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-06-06T18:15:46.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/sriram-krishnan--senior-white-house-policy-advisor-on-artificial-intelligence-061220575-16x9_0.jpg?VersionId=_zanNf6NXOw7a.Waa3si89m9Foiw_u5K"
+          "title": "White House AI policy adviser Sriram Krishnan announces departure from role without giving reason",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/sriram-krishnan-white-house-ai-adviser-b2991147.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-06T20:43:22.000Z",
+          "image": "https://static.independent.co.uk/2026/06/06/21/2026-06-06T172902Z_1511850379_RC2PEIA715WQ_RTRMADP_3_USA-TRUMP-AI.JPG?width=1200&auto=webp&crop=3%3A2",
+          "description": "His departure comes as the president looks at the possibility of the U.S. government acquiring stakes in AI firms"
         }
-      ]
+      ],
+      "summary": "Sriram Krishnan, a senior White House adviser on artificial intelligence policy, said he will leave his position at the end of June. He did not give a reason for his departure."
     },
     {
-      "id": "topic_9f9cac6f0ab57bd2",
+      "id": "topic_e6f87ea53fd84550",
+      "title": "U.S. Strikes Iranian Coastal Sites After Drone Launches",
+      "headline": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
       "label": [
-        "93",
-        "dies",
-        "godfrey",
-        "patrick godfrey",
-        "patrick",
-        "dies aged"
+        "sites",
+        "drones",
+        "iranian",
+        "flare",
+        "iran",
+        "launches"
       ],
       "category": "new",
-      "theme": "theme_aff173dab8e29406",
+      "theme": "theme_2d93897023beab2e",
       "entities": [
-        "Former",
-        "France",
-        "Bernadette Chirac",
-        "Veteran",
-        "Patrick Godfrey"
+        "Iranian",
+        "Iran",
+        "Gulf",
+        "US",
+        "CNBC"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+          "url": "https://japantoday.com/category/world/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up",
+          "source": "Japan Today",
+          "published_at": "2026-06-06T03:59:27.000Z",
+          "description": "U.S. forces struck Iranian coastal radar sites on Saturday after shooting down drones launched by Iran toward the Strait of Hormuz, the U.S. military said, in the latest…"
+        },
+        {
+          "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+          "url": "https://tribune.com.pk/story/2611749/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up",
+          "source": "express tribune",
+          "published_at": "2026-06-06T06:19:05.000Z",
+          "description": "Iran’s Revolutionary Guard Corps said it had targeted US bases in Kuwait and Bahrain in retaliation for US strikes"
+        },
+        {
+          "title": "U.S. strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
+          "url": "https://news.google.com/rss/articles/cbmisgfbvv95cuxnemt1wmrym01frgd3njfhalz6ovlqdvl5tnnxrjvic2lwoxjyoevizi1renjjc2mxmvjhx2szdwnxrgvjqxvhzmjta1bltmhpbljiuf9jeulzwg1fv1l1zlvoudrwcdrbzeq4vmtsszz5vufly3hum0vks24ts1k1s2w1m3p6uffwx1pjegjptgvtzln6y2zzcm84eejvndh4thhkxzy3zlbmejjnm2rjnulb0gg3aufvx3lxtfaydi1tq0rhn1r6yvjhynffvupowhn2v2sxmudiwjfzz0fzmgvrvnzotldkexzprlpxrgv1uwpooujtz2ytnzl0tggtbhzyq1e5qwdfzmvyv2j1q2pkv1h5rulzvnfmwhjvczzaqml0qvjdzwjbowe2qwc4ehazujhknhkwd0pocxbam3ftru9ssgv3vkx2wud1twj2yxhytgzmzem4nkdftjnkaup3svp1q2tfrddtzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-06-06T11:09:52.000Z",
+          "description": "U.S. strikes Iranian sites after Iran launches drones, in latest Gulf flare-up CNBC Live updates: Tehran targets Gulf neighbors after US attack on Iranian military sites CNN A new exchange of fire with Iran in the Gulf tests the fragile ceasefire AP News U.S., Iran Exchange Fire as Hormuz Tensions…"
+        },
+        {
+          "title": "U.S. attacks Iranian coastal sites after Iran launches drones in latest flare-up",
+          "url": "https://www.japantimes.co.jp/news/2026/06/06/world/us-iran-flareup",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-06-06T02:06:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/06/544647.JPG",
+          "description": "U.S. forces struck Iranian coastal radar sites on Saturday after shooting down drones launched by Iran toward the Strait of Hormuz."
+        },
+        {
+          "title": "US strikes Iranian sites, shoots down four drones",
+          "url": "https://dailypost.ng/2026/06/06/us-strikes-iranian-sites-shoots-down-four-drones",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-06-06T11:14:27.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2026/05/US-strike.jpg",
+          "description": "The United States military has shot down four Iranian drones that were launched towards the Strait of Hormuz. The US Central Command, CENTCOM, made this disclosure in a statement on Friday. According to CENTCOM, the US forces struck Iranian coastal surveillance radar sites in the city of Goruk and…"
+        }
+      ],
+      "summary": "U.S. forces struck Iranian coastal radar sites after shooting down Iranian drones launched toward the Strait of Hormuz, according to the U.S. military. Iran’s Revolutionary Guard said it targeted U.S. bases in Kuwait and Bahrain in retaliation."
+    },
+    {
+      "id": "topic_e1065030074d5eae",
+      "title": "U.S. Says Iran Fired Ballistic Missiles Toward Kuwait and Bahrain",
+      "headline": "US says Iran fired seven ballistic missiles at Kuwait and Bahrain",
+      "label": [
+        "ballistic",
+        "kuwait",
+        "missiles",
+        "bahrain",
+        "iran",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_1b78cb3ffb3fdab5",
+      "entities": [
+        "US",
+        "Iran",
+        "Kuwait",
+        "Bahrain",
+        "Middle East"
       ],
       "article_count": 7,
-      "source_count": 7,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Former first lady of France, Bernadette Chirac, dies aged 93",
-          "url": "https://www.thestar.com/news/world/europe/former-first-lady-of-france-bernadette-chirac-dies-aged-93/video_0455fbde-db1d-4179-beff-3e6c1608c5a4.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-06-06T22:55:00.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/45/0455fbde-db1d-4179-beff-3e6c1608c5a4/6a24a5bdb30c4.image.jpg?resize=300%2C169"
+          "title": "US says Iran fired seven ballistic missiles at Kuwait and Bahrain",
+          "url": "https://www.thehindubusinessline.com/news/world/us-says-iran-fired-seven-ballistic-missiles-at-kuwait-and-bahrain/article71068373.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-06-06T03:48:14.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/sb40kx/article71068443.ece/alternates/LANDSCAPE_1200/2025-04-16T153239Z_927762784_RC22ZDAHL3K1_RTRMADP_3_IRAN-NUCLEAR.JPG",
+          "description": "The incident marks a further escalation in tensions around the Strait of Hormuz, a critical global energy shipping route."
         },
         {
-          "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
-          "url": "https://www.theguardian.com/world/2026/jun/06/bernadette-chirac-former-first-lady-france-dies",
-          "source": "World news | The Guardian",
-          "published_at": "2026-06-06T21:55:37.000Z",
-          "image": "https://i.guim.co.uk/img/media/fb9a45b155a0362983cc154cad1c9fc537911925/780_797_2463_1971/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=bb035d7ed04e01637957d51d2772f5ce"
-        },
-        {
-          "title": "Veteran actor Patrick Godfrey, best known for his Leonardo Da Vinci role in Ever After, dies at 93",
-          "url": "https://www.legit.ng/entertainment/celebrities/1713354-veteran-actor-patrick-godfrey-playing-leonardo-da-vinci-dies-93",
-          "source": "Legit.ng",
-          "published_at": "2026-06-06T20:22:48.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/d203ea929c66d33a.jpeg?v=1"
-        },
-        {
-          "title": "Bernadette Chirac, formidable French first lady dubbed ‘last queen of France’, dies at 93",
-          "url": "https://www.scmp.com/news/world/europe/article/3356227/bernadette-chirac-formidable-french-first-lady-dubbed-last-queen-france-dies-93",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-06-06T19:31:22.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/07/0b1516d0-4c6d-4d8f-8eec-b010f0b9127b_e5653694.jpg?itok=hBHYQfEo&v=1780774277"
-        },
-        {
-          "title": "Patrick Godfrey Dies: ‘Ever After’ & ‘Les Misérables’ Actor Was 93",
-          "url": "https://deadline.com/2026/06/patrick-godfrey-dies-1236942828",
-          "source": "Deadline",
-          "published_at": "2026-06-06T18:54:42.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/slack-imgs.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_42a8d64de78c1c84",
-      "label": [
-        "hegseth",
-        "europe",
-        "speech",
-        "ideology",
-        "hegseth warn",
-        "dangerou ideology"
-      ],
-      "category": "new",
-      "theme": "theme_8634653a12629f0e",
-      "entities": [
-        "Hegseth",
-        "Europe",
-        "Day",
-        "Hegseth Uses",
-        "Day Anniversary Speech"
-      ],
-      "article_count": 12,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Hegseth warns Europe faces 'invasion of dangerous ideologies' in D-Day speech",
-          "url": "https://www.express.co.uk/news/world/2214292/hegseth-warns-europe-faces-invasion-d-day",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-06-06T21:00:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2214292_1.jpg"
-        },
-        {
-          "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-          "url": "https://www.bbc.com/news/articles/c802e7jk458o",
-          "source": "BBC News",
-          "published_at": "2026-06-06T20:10:20.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/00068510-61dd-11f1-a211-b739dafd566d.png"
-        },
-        {
-          "title": "Europe being invaded by ‘dangerous ideologies,’ Hegseth warns in D-Day speech - politico.eu",
-          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxqn0lkthawzudlulv0cghrng1qmk5sa21wrtrfztzlmza4zgfrv2lxnhy1svhpztqxqkhyunrmuu5ydwnnyxh3tu5paknimeyxrwnuuee3ahyyzgdnehjmulnqyjlwwmzfrnznxzezrzbowf9wbzlvzjrdbucyrxd3dhzfm2vzylpvd2hwd183lwtuuu1rdetounkxsc1vwkrjqxkybhpnafvryxm",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-06T19:18:00.000Z"
-        },
-        {
-          "title": "Europe being invaded by ‘dangerous ideologies,’ Hegseth warns in D-Day speech",
-          "url": "https://www.politico.eu/article/europe-being-invaded-by-dangerous-ideologies-hegseth-warns-in-d-day-speech",
-          "source": "POLITICO",
-          "published_at": "2026-06-06T18:18:29.000Z"
-        },
-        {
-          "title": "Hegseth warns Europe faces 'invasion of dangerous ideologies'",
-          "url": "https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447",
-          "source": "World News - Breaking international news and headlines | Sky News",
-          "published_at": "2026-06-06T17:23:00.000Z",
-          "image": "https://e3.365dm.com/26/06/1920x1080/skynews-pete-hegseth-d-day_7266933.jpg?20260606182749"
-        }
-      ]
-    },
-    {
-      "id": "topic_284cf9e6adbc9668",
-      "label": [
-        "bjp chief",
-        "youth",
-        "bjp",
-        "chief",
-        "puppet",
-        "india youth"
-      ],
-      "category": "new",
-      "theme": "theme_3d18f5a05d33d6a1",
-      "entities": [
-        "BJP",
-        "Nitin Nabin",
-        "CJP",
-        "India",
-        "Youth Not Puppets Of"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Some forces trying to push country’s youths towards ‘negative politics’: BJP chief Nitin Nabin",
-          "url": "https://www.thehindu.com/news/national/some-forces-trying-to-push-countrys-youths-towards-negative-politics-bjp-chief-nitin-nabin/article71071107.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-06T20:54:06.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/pgu0zf/article71071108.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000306B.jpg"
-        },
-        {
-          "title": "BJP chief Nitin Nabin issues first reaction to CJP protest: 'India's youth not puppets in hands of few people'",
-          "url": "https://www.dnaindia.com/india/report-bjp-chief-nitin-nabin-issues-first-reaction-to-cjp-protest-at-jantar-mantar-delhi-indian-youth-not-puppets-in-hands-of-few-people-bharatiya-janata-party-cockroach-janta-party-abhijeet-dipke-3212642",
-          "source": "India News",
-          "published_at": "2026-06-06T16:55:00.000Z",
-          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/06/06/2750855-nitin-nabin-ani.png"
-        },
-        {
-          "title": "'India's Youth Not Puppets Of Some People On Foreign Soil': BJP Chief",
-          "url": "https://www.ndtv.com/india-news/india-youth-not-puppets-of-some-people-on-foreign-soil-bjp-chief-nitin-nabin-11601102",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-06-06T16:45:58.000Z",
-          "image": "https://c.ndtvimg.com/2026-06/hr0ml924_nitin-nabin_625x300_06_June_26.jpeg"
-        },
-        {
-          "title": "Youth won't be puppets: BJP chief jabs Cockroach party for 'negative politics'",
-          "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-bjp-chief-youth-wont-be-puppets-targets-negative-politics-2923017-2026-06-06",
+          "title": "Live: Iran launches 7 ballistic missiles at Bahrain and Kuwait, says US military",
+          "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-middle-east-conlfict-crude-oil-price-hike-khamenei-trump-ceasefire-talks-lebanon-hezbollah-2922681-2026-06-06",
           "source": "India Today | Latest Stories",
-          "published_at": "2026-06-06T16:32:21.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/bjp-national-president-nitin-nabin-121924512-16x9.png?VersionId=hufsWtMi3DpiZGpG7R7oUEelDVsSVRIP"
-        }
-      ]
-    },
-    {
-      "id": "topic_99de3b70b40f6892",
-      "label": [
-        "kelce",
-        "travi kelce",
-        "travi",
-        "swift",
-        "taylor swift",
-        "taylor"
-      ],
-      "category": "new",
-      "theme": "theme_f6496859506d7ded",
-      "entities": [
-        "Andy Reid Jokes He",
-        "Attend Travis Kelce",
-        "Taylor Swift",
-        "Wedding",
-        "One Condition"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Andy Reid Jokes He’ll Attend Travis Kelce and Taylor Swift’s Wedding on One Condition",
-          "url": "https://sports.yahoo.com/articles/andy-reid-jokes-ll-attend-195529777.html",
-          "published_at": "2026-06-06T19:55:29.000Z"
+          "published_at": "2026-06-06T01:42:14.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202606/iran-denies-attack-on-kuwait-064452347-16x9_0.jpg?VersionId=Glf9CFERBWN9yb0J8TiKIrmqAiVOdeJ3",
+          "description": "Live Iran launches ballistic missiles at Bahrain and Kuwait says US military"
         },
         {
-          "title": "Taylor Swift & Travis Kelce’s Lavish Madison Square Garden Wedding Projected to Exceed $20 Million, According to Luxury Planner",
-          "url": "https://internewscast.com/news/taylor-swift-travis-kelces-lavish-madison-square-garden-wedding-projected-to-exceed-20-million-according-to-luxury-planner",
+          "title": "US says Iran fired seven ballistic missiles toward Kuwait, Bahrain",
+          "url": "https://www.gmanetwork.com/news/topstories/world/990423/us-says-iran-fired-seven-ballistic-missiles-toward-kuwait-bahrain/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-06-06T03:13:15.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/06/KuwaitInternationalAirport_2026_06_06_11_12_25.jpg",
+          "description": "US forces intercepted multiple Iranian ballistic missiles and drones launched toward the Strait of Hormuz and the Gulf, Central Command said on Friday."
+        },
+        {
+          "title": "Middle East live: US military says Iran launched seven ballistic missiles at Kuwait, Bahrain",
+          "url": "https://www.france24.com/en/middle-east/20260606-middle-east-live-us-military-says-iran-launched-seven-ballistic-missiles-at-kuwait-bahrain",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-06-06T05:02:18.000Z",
+          "image": "https://s.france24.com/media/display/e6546e7c-6162-11f1-b305-005056a97e36/w:1024/p:16x9/000-B4QL2AT.jpg",
+          "description": "US military officials on Saturday said Iran launched seven ballistic missiles toward the neighboring Gulf nations of Kuwait and Bahrain, with US forces intercepting six of the missiles and a seventh failing to reach its target. Iran's Revolutionary Guards said they had hit \"enemy bases\" in the Gulf…"
+        },
+        {
+          "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-06-06T15:09:56.000Z",
+          "description": "Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties."
+        }
+      ],
+      "summary": "The U.S. military said Iran launched seven ballistic missiles toward Kuwait and Bahrain, and that U.S. forces intercepted six. Kuwait said it intercepted seven missiles over residential areas; debris fell, but there were no reported casualties."
+    },
+    {
+      "id": "topic_764daa8fcd62458f",
+      "title": "Pope Leo XIV Jokes About Sharing Spain Spotlight With Bad Bunny",
+      "headline": "Pope acknowledges stiff competition with Bad Bunny this weekend in Spain",
+      "label": [
+        "bunny",
+        "competition",
+        "bad",
+        "pope",
+        "stiff",
+        "acknowledges"
+      ],
+      "category": "new",
+      "theme": "theme_7e02b0ad44e542a",
+      "entities": [
+        "Pope",
+        "Bad Bunny",
+        "Spain",
+        "Pope Leo XIV",
+        "Pope Leo"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Pope acknowledges stiff competition with Bad Bunny this weekend in Spain",
+          "url": "https://www.breakingnews.ie/world/pope-acknowledges-stiff-competition-with-bad-bunny-this-weekend-in-spain-1910012.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMDYxMDE4MzJcXFwvMzk2NDQ0MzRhZjRiNGE4YWJkYmE5Y2JhYmEyNGIxMDguanBnXCIsXCJ3aWR0aFwiOjEwMjQsXCJoZWlnaHRcIjpudWxsLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMTYxOGFlZGQxZjAwNzA0OGRiYmM3OTU2NWJhMGMwYjkwYzEyOGU2ZCJ9/39644434af4b4a8abdba9cbaba24b108.jpg",
+          "description": "Pope Leo XIV is opening a week-long visit to Spain that, after Madrid, will also take him to Barcelona and the Canary Islands."
+        },
+        {
+          "title": "Pope acknowledges stiff competition from Bad Bunny this weekend",
+          "url": "https://www.independent.co.uk/news/world/europe/pope-spain-madrid-bad-bunny-b2990989.html",
+          "source": "The Independent World",
+          "published_at": "2026-06-06T12:21:56.000Z",
+          "image": "https://static.independent.co.uk/2026/06/06/10/Spain_Pope_71373.jpg?width=1200&auto=webp&crop=3%3A2",
+          "description": "Pope Leo XIV also waded into the Real Madrid Barcelona debate"
+        },
+        {
+          "title": "Pope Leo XIV acknowledges stiff competition with Bad Bunny in Spain and weighs in on soccer rivalry",
+          "url": "https://www.seattletimes.com/nation-world/pope-leo-xiv-acknowledges-stiff-competition-with-bad-bunny-in-spain-and-weighs-in-on-soccer-rivalry",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-06-06T22:10:12.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgfc7e50facea6a5e8c07038f1eee20a82Spain_Pope_71373.jpg?d=1200x630",
+          "description": "Pope Leo XIV acknowledges that he's competing with another VIP in Madrid this weekend."
+        },
+        {
+          "title": "Pope Leo concedes he’s got stiff competition from Bad Bunny on Spain trip",
+          "url": "https://www.ms.now/news/pope-leo-bad-bunny-spain-world-cup",
+          "source": "MS NOW",
+          "published_at": "2026-06-06T13:26:57.000Z",
+          "description": "Pope Leo XIV wonders who young people in Madrid will choose this weekend: “Bad Bunny or do you want to go to see the pope?” The post Pope Leo concedes he’s got stiff competition from Bad Bunny on Spain trip appeared first on MS NOW."
+        },
+        {
+          "title": "Pope Leo XIV Comments on Intense Competition with Bad Bunny in Spain and Offers Insights on Soccer Rivalry",
+          "url": "https://internewscast.com/local-news/pope-leo-xiv-comments-on-intense-competition-with-bad-bunny-in-spain-and-offers-insights-on-soccer-rivalry",
           "source": "Internewscast Journal",
-          "published_at": "2026-06-06T19:18:24.000Z"
-        },
+          "published_at": "2026-06-06T22:00:24.000Z",
+          "description": "Internewscast Journal Internewscast Pope Leo XIV humorously remarked on Saturday about sharing the spotlight with… This Post: Pope Leo XIV Comments on Intense Competition with Bad Bunny in Spain and Offers Insights on Soccer Rivalry first appeared on Internewscast Journal"
+        }
+      ],
+      "summary": "Pope Leo XIV joked about competing for attention with singer Bad Bunny during his visit to Spain. He also weighed in on the rivalry between Real Madrid and Barcelona."
+    },
+    {
+      "id": "topic_4c088476f3f08c70",
+      "title": "SoFi Stadium Workers Authorize Strike Ahead of World Cup",
+      "headline": "SoFi Stadium workers authorize strike days ahead of World Cup",
+      "label": [
+        "strike",
+        "sofi",
+        "authorize",
+        "stadium",
+        "workers",
+        "cup"
+      ],
+      "category": "new",
+      "theme": "theme_1c9721fb05f3092f",
+      "entities": [
+        "SoFi Stadium",
+        "World Cup",
+        "SoFi Stadium Workers Vote",
+        "Authorize Strike Ahead",
+        "SoFi"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
         {
-          "title": "Why Taylor Swift & Travis Kelce’s MSG nuptials could cost $20M",
-          "url": "https://nypost.com/2026/06/06/us-news/taylor-swift-travis-kelces-madison-square-garden-wedding-could-cost-over-20m-luxury-planner-says",
+          "title": "SoFi Stadium workers authorize strike days ahead of World Cup",
+          "url": "https://nypost.com/2026/06/05/us-news/sofi-stadium-workers-authorize-strike-days-ahead-of-world-cup",
           "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-06T19:15:03.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FGettyImages-2275933616.jpg?w%3D1024"
+          "published_at": "2026-06-06T03:02:22.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnewcomp-1-1.jpg?quality%3D90%26strip%3Dall",
+          "description": "Unite Here Local 11 represents the stadium's cooks, dishwashers, concession workers, bartenders and servers. They had been voting Thursday and Friday on whether to strike."
         },
         {
-          "title": "Why Taylor Swift and Travis Kelce are linked to a July MSG wedding",
-          "url": "https://timesofindia.indiatimes.com/sports/nfl/news/why-are-taylor-swift-and-travis-kelce-reportedly-getting-married-at-madison-square-garden-this-july/articleshow/131554170.cms",
-          "source": "Times of India",
-          "published_at": "2026-06-06T16:05:23.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131555133,imgsize-87728.cms"
+          "title": "SoFi Stadium Workers Vote to Authorize Strike Ahead of 2026 World Cup",
+          "url": "https://sports.yahoo.com/articles/sofi-stadium-workers-vote-authorize-215937747.html",
+          "published_at": "2026-06-06T21:59:37.000Z",
+          "description": "Nearly 2,000 food and beverage workers at SoFi Stadium voted to authorize a strike on Friday. Ninety-six percent of voters were in favor of the strike ahead of the 2026 FIFA World Cup. The workers are demanding salary increases and protection against subcontracting and job loss through automation.…"
+        },
+        {
+          "title": "SoFi workers authorize strike days before WCup",
+          "url": "https://www.espn.com/espn/story/_/id/48980083/sofi-stadium-workers-authorize-strike-ahead-usa-world-cup-opener",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-06-06T04:51:01.000Z",
+          "description": "Service workers at SoFi Stadium have voted to authorize a potential strike just days before the venue is scheduled to host the United States opening World Cup match against Paraguay on June 12."
+        },
+        {
+          "title": "Stadium workers near Los Angeles vote to authorize a strike days before the World Cup begins",
+          "url": "https://japantoday.com/category/2026-fifa-world-cup/stadium-workers-near-los-angeles-vote-to-authorize-a-strike-days-before-the-world-cup-begins",
+          "source": "Japan Today",
+          "published_at": "2026-06-06T21:02:00.000Z",
+          "description": "Stadium workers near Los Angeles have voted to authorize a strike as the venue prepares to host the U.S. men’s soccer team’s opening World Cup match. It doesn’t…"
+        },
+        {
+          "title": "World Cup stadium workers vote to authorize strike days before tournament citing ICE concerns",
+          "url": "https://www.foxnews.com/sports/world-cup-stadium-workers-vote-authorize-strike-days-tournament-citing-ice-concerns",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-06-06T14:57:36.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/sofi-stadium-world-cup-protest-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "SoFi Stadium workers voted to authorize a strike one week before the World Cup, citing stalled contract talks and fears over ICE presence at matches."
         }
-      ]
+      ],
+      "summary": "Food and beverage workers at SoFi Stadium voted to authorize a strike ahead of the World Cup. The workers’ union cited stalled contract talks and concerns about immigration enforcement at matches."
     },
     {
-      "id": "topic_899e626d90b9b935",
+      "id": "topic_7cc1bf6ac68d9422",
+      "title": "CISA Flags Actively Exploited SolarWinds Serv-U Vulnerability",
+      "headline": "CISA Warns of Actively Exploited SolarWinds Serv-U Flaw",
       "label": [
-        "pokal",
-        "bayern",
-        "fc bayern",
-        "osnabr",
-        "ck",
-        "osnabr ck"
+        "cisa",
+        "solarwinds",
+        "serv",
+        "exploited",
+        "flaw",
+        "actively"
       ],
       "category": "new",
-      "theme": "theme_eb42e3ee6e8ed1d9",
+      "theme": "theme_4cc3fa52236d56f0",
       "entities": [
-        "DFB",
-        "Pokal",
-        "FC Bayern",
-        "Osnabr",
-        "BVB"
+        "CISA Warns",
+        "Actively Exploited SolarWinds Serv",
+        "Flaw",
+        "CISA Adds Actively Exploited",
+        "SolarWinds Serv"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 6,
+      "source_count": 6,
       "articles": [
         {
-          "title": "DFB-Pokal: FC Bayern muss in Osnabrück antreten – BVB reist nach Hamburg",
-          "url": "https://www.morgenpost.de/sport/article412206167/dfb-pokal-fc-bayern-muss-in-osnabrueck-antreten-bvb-reist-nach-hamburg.html",
-          "source": "Berliner Morgenpost",
-          "published_at": "2026-06-06T18:00:06.000Z",
-          "image": "https://img.sparknews.funkemedien.de/412206192/412206192_1780768631_v16_9_600.jpeg"
+          "title": "CISA Warns of Actively Exploited SolarWinds Serv-U Flaw",
+          "url": "https://securityonline.info/serv-u-vulnerability-cve-2026-28318",
+          "source": "Daily CyberSecurity",
+          "published_at": "2026-06-06T02:10:39.000Z",
+          "description": "Severe Infrastructure Exposure Discovered The Cybersecurity and Infrastructure Security Agency (CISA) recently added a new threat to its The post CISA Warns of Actively Exploited SolarWinds Serv-U Flaw appeared first on Daily CyberSecurity. Related posts: The ‘Must-Patch’ List: CISA Adds Actively E…"
         },
         {
-          "title": "auslosung zum DFB-Pokal: Bayern in Osnabrück, brisantes Derby im Südwesten",
-          "url": "https://www.faz.net/aktuell/sport/fussball/auslosung-zur-ersten-runde-im-dfb-pokal-fc-bayern-in-osnabrueck-derby-in-mannheim-accg-200904869.html",
-          "source": "Aktuell - FAZ.NET",
-          "published_at": "2026-06-06T17:04:38.000Z",
-          "image": "https://media0.faz.net/image/8d164a4db27e/w6144h3456x0y320/202605/43601.0.2167900655/die-erste-runde-des-dfb-pokals.webp"
+          "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+          "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+          "source": "The Hacker News",
+          "published_at": "2026-06-06T08:14:31.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1600/solarwinds-serv-u.jpg",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-20…"
         },
         {
-          "title": "DFB-Pokal: FC Bayern in der ersten Pokal-Runde zum VfL Osnabrück",
-          "url": "https://www.zeit.de/news/2026-06/06/fc-bayern-in-der-ersten-pokal-runde-zum-vfl-osnabrueck",
-          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
-          "published_at": "2026-06-06T16:54:49.000Z",
-          "image": "https://img.zeit.de/news/2026-06/06/fc-bayern-in-der-ersten-pokal-runde-zum-vfl-osnabrueck-image-group/original__640x360"
+          "title": "U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog",
+          "url": "https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+          "source": "Security Affairs",
+          "published_at": "2026-06-06T21:44:53.000Z",
+          "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added SolarWinds Serv-U flaw, tracked as CVE-2026-28318 (CVSS ver 3.1 score of 7.5), to its Known…"
         },
         {
-          "title": "Oberligist zieht BVB: FC Bayern muss im Pokal zu Zweitliga-Aufsteiger",
-          "url": "https://www.n-tv.de/sport/fussball/fc-bayern-muss-im-pokal-zu-zweitliga-aufsteiger-id30899849.html",
-          "source": "n-tv.de - Startseite",
-          "published_at": "2026-06-06T16:51:51.000Z",
-          "image": "https://www.n-tv.de/img/30853974/1779620412/Img_4_3/250/Chef-Trainer-Vincent-Kompany-FC-Bayern-Muenchen-haelt-den-DFB-Pokal-in-den-Haenden-die-Mannschaft-feiert-bei-den-Fans-der-FC-Bayern-Muenchen-feiert-den-Gewinn-des-83-DFB-Pokalfinale-FC-Bayern-Muenchen-vs-VfB-Stuttgart-Fussball-83-DFB-Pokalfinale-23-05.jpg"
+          "title": "CISA Warns of SolarWinds Serv-U Vulnerability Exploited in Attacks",
+          "url": "https://cybersecuritynews.com/cisa-solarwinds-serv-u-vulnerability",
+          "source": "Cyber Security News",
+          "published_at": "2026-06-06T07:23:57.000Z",
+          "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/cisa-SolarWinds-Serv-U-Vulnerability.webp",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical SolarWinds Serv-U vulnerability to its Known Exploited Vulnerabilities (KEV) catalog, warning that threat actors are actively exploiting the flaw in the wild. Tracked as CVE-2026-28318, the vulnerability affects S…"
         }
-      ]
-    },
-    {
-      "id": "topic_57938ed7c09931f9",
-      "label": [
-        "aeropuerto",
-        "hora en",
-        "en aeropuerto",
-        "aeropuerto de",
-        "de eu",
-        "hora"
       ],
-      "category": "new",
-      "theme": "theme_64f8d6a785bb3bd1",
-      "entities": [
-        "Aymen Hussein",
-        "Irak",
-        "Mundial",
-        "EU",
-        "Interrogan"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Aymen Hussein, futbolista que clasificó a Irak al Mundial 2026, fue detenido 7 horas en aeropuerto de EU",
-          "url": "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/06/06/aymen-hussein-futbolista-que-clasifico-a-irak-la-copa-del-mundo-fue-detenido-en-eu",
-          "source": "El Financiero",
-          "published_at": "2026-06-06T20:17:02.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/NvK22N2fSAwXkpd4OICyYbmAFhs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SPUBF4X43RDTLFL6WGSBRLWVRQ.jpg"
-        },
-        {
-          "title": "Interrogan a delantero iraqu� 7 horas en aeropuerto de EU",
-          "url": "https://www.elnorte.com/interrogan-a-delantero-iraqui-7-horas-en-aeropuerto-de-eu/ar3217739",
-          "source": "ElNorte",
-          "published_at": "2026-06-06T17:08:05.000Z"
-        },
-        {
-          "title": "Interrogan a delantero iraqu� 7 horas en aeropuerto de EU",
-          "url": "https://www.reforma.com/interrogan-a-delantero-iraqui-7-horas-en-aeropuerto-de-eu/ar3217738",
-          "source": "Reforma",
-          "published_at": "2026-06-06T17:06:52.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_c97a624612073fe6",
-      "label": [
-        "amid exit",
-        "exit",
-        "amid",
-        "exit rumour",
-        "rumour",
-        "amarinder"
-      ],
-      "category": "new",
-      "theme": "theme_30711bca9ffe73b4",
-      "entities": [
-        "Amarinder",
-        "Shah",
-        "Nadda",
-        "NPFL",
-        "Rangers"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Amarinder meets Shah, Nadda amid exit rumours",
-          "url": "https://www.thehindu.com/news/national/punjab/amarinder-meets-shah-nadda-amid-exit-rumours/article71070614.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-06-06T21:30:30.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/leyeow/article71071117.ece/alternates/LANDSCAPE_1200/PTI06_06_2026_000463B.jpg"
-        },
-        {
-          "title": "NPFL: Rangers confirm Ilechukwu remains technical adviser amid exit rumours",
-          "url": "https://dailypost.ng/2026/06/06/npfl-rangers-confirm-ilechukwu-remains-technical-adviser-amid-exit-rumours",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-06-06T18:11:13.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2025/05/1-1-1.jpg"
-        },
-        {
-          "title": "‘Discussed various issues’: Capt Amarinder Singh meets Shah, Nadda amid exit buzz",
-          "url": "https://timesofindia.indiatimes.com/india/discussed-various-issues-capt-amarinder-singh-meets-amit-shah-nadda-in-delhi-amid-exit-buzz/articleshow/131554983.cms",
-          "source": "Times of India",
-          "published_at": "2026-06-06T16:00:23.000Z",
-          "image": "https://static.toiimg.com/photo/msid-131555053,imgsize-713326.cms"
-        }
-      ]
-    },
-    {
-      "id": "topic_64d3e3636cb5a98a",
-      "label": [
-        "bortoleto",
-        "larga",
-        "naco bortoleto",
-        "em 16",
-        "16",
-        "gp de"
-      ],
-      "category": "new",
-      "theme": "theme_8a77389a20a0e286",
-      "entities": [
-        "Antonelli",
-        "GP",
-        "Bortoleto",
-        "Kimi Antonelli"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Kimi Antonelli larga na pole no GP de Mônaco; Bortoleto bate e fica em 16º",
-          "url": "https://jornaldebrasilia.com.br/torcida/kimi-antonelli-larga-na-pole-no-gp-de-monaco-bortoleto-bate-e-fica-em-16o",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-06-06T16:45:44.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/06/06134512/AFP__20260606__B68L9BY__v1__MidRes__AutoPrixF1MonQualifying.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_83efa7aa79045258",
-      "label": [
-        "espionage",
-        "sees grow",
-        "grow espionage",
-        "espionage threat",
-        "threat israel",
-        "grow"
-      ],
-      "category": "new",
-      "theme": "theme_803b03359257ff0f",
-      "entities": [
-        "Pentagon Sees Growing Espionage",
-        "Threat From Israel",
-        "New York Times",
-        "Trump",
-        "Defense Department Sees Growing"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Pentagon Sees Growing Espionage Threat From Israel (New York Times)",
-          "url": "https://www.memeorandum.com/260606/p38",
-          "source": "memeorandum",
-          "published_at": "2026-06-06T20:20:02.000Z",
-          "image": "http://www.memeorandum.com/260606/i38.jpg"
-        },
-        {
-          "title": "Trump’s Defense Department Sees Growing Espionage Threat From Israel - The New York Times",
-          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxpq2niavbralzjbm9ebmpvms1yclhrzglkbmtssnhvsvjvexk5tvpcng4tovu3ltczsgcztwppbe56x2lwc0naqulbvvl1zc1bbutjrellve1othrdtzbpzhdgrgjptdvvbe1gmlvzcw1lenjrntytrhrebvl1c3vbzun6rumyqxvis3nsbkvrmmcxavhqcwp0mu84blvhuhbttmzsdg",
-          "source": "Top stories - Google News",
-          "published_at": "2026-06-06T16:41:48.000Z"
-        },
-        {
-          "title": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
-          "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
-          "source": "NYT > U.S. > Politics",
-          "published_at": "2026-06-06T16:41:48.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/05/multimedia/05dc-intel-fjhw/05dc-intel-fjhw-mediumSquareAt3X.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_625c72c5e145e5b8",
-      "label": [
-        "ghostbuster",
-        "ghostbuster animat",
-        "animat",
-        "sery",
-        "animat sery",
-        "netflix"
-      ],
-      "category": "new",
-      "theme": "theme_df5327ef197119c8",
-      "entities": [
-        "Netflix",
-        "Ghostbusters",
-        "Animated Netflix Series Reveals",
-        "Title",
-        "Logo Art"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Netflix's new Ghostbusters animated series gets release date and first look",
-          "url": "https://www.polygon.com/ghostbusters-animated-series-netflix-reveal-night-shift",
-          "source": "Polygon.com",
-          "published_at": "2026-06-06T19:38:44.000Z",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ghostbusters-night-shift.jpg"
-        },
-        {
-          "title": "‘Ghostbusters’ Animated Netflix Series Reveals Title, Logo Art",
-          "url": "https://deadline.com/2026/06/ghostbusters-animated-netflix-series-title-logo-art-1236942813",
-          "source": "Deadline",
-          "published_at": "2026-06-06T17:57:23.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/06/TSDGHOS_EC002.jpg"
-        },
-        {
-          "title": "Ghostbusters Animated Series Will Be Working the \"Night Shift\" in 2027",
-          "url": "https://bleedingcool.com/tv/ghostbusters-animated-series-will-be-working-the-night-shift-in-2027",
-          "source": "Movies",
-          "published_at": "2026-06-06T17:15:11.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bb64407064551956",
-      "label": [
-        "hilton",
-        "becerra",
-        "steve hilton",
-        "xavier becerra",
-        "steve",
-        "xavier"
-      ],
-      "category": "new",
-      "theme": "theme_dc3d0e2b5eb2d157",
-      "entities": [
-        "Steve Hilton",
-        "Xavier Becerra",
-        "California",
-        "Steve Hilton Criticizes Xavier",
-        "Becerra"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Steve Hilton launches ad mocking Xavier Becerra's '36 years' as a career politician in California gov race",
-          "url": "https://www.foxnews.com/politics/steve-hilton-launches-ad-mocking-xavier-becerras-36-years-career-politician-california-gov-race",
-          "source": "Latest Political News on Fox News",
-          "published_at": "2026-06-06T21:37:11.000Z",
-          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/becerra-debate.jpg?ve=1&tl=1"
-        },
-        {
-          "title": "Steve Hilton Criticizes Xavier Becerra in Anticipated California Governor Runoff",
-          "url": "https://internewscast.com/news/us/steve-hilton-criticizes-xavier-becerra-in-anticipated-california-governor-runoff",
-          "source": "Internewscast Journal",
-          "published_at": "2026-06-06T17:18:21.000Z"
-        },
-        {
-          "title": "Steve Hilton roasts Xavier Becerra with sitcom-style ad after Dem gov. candidate advances to runoff: ‘Is this a joke?’",
-          "url": "https://nypost.com/2026/06/06/us-news/steve-hilton-roasts-xavier-becerra-in-likely-california-governor-runoff-matchup",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-06-06T17:13:25.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fx-com-stevehiltonx-status-2063260393439433053-129977149.jpg?w%3D1024"
-        }
-      ]
-    },
-    {
-      "id": "topic_9f4a7d968e1eb22c",
-      "label": [
-        "petersburg",
-        "st petersburg",
-        "ukraine",
-        "st",
-        "ukraine strik",
-        "strik st"
-      ],
-      "category": "new",
-      "theme": "theme_8ff90c050519907b",
-      "entities": [
-        "Ukraine Strikes St",
-        "Petersburg",
-        "Long",
-        "Range Drone Attack",
-        "Ukraine"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
-          "url": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
-          "source": "NYT > World > Europe",
-          "published_at": "2026-06-06T22:01:57.000Z",
-          "image": "https://static01.nyt.com/images/2026/06/06/multimedia/06int-ukraine-strikes-qbpt/06int-ukraine-strikes-qbpt-mediumSquareAt3X.jpg"
-        },
-        {
-          "title": "Ukraine launches 'large-scale' drone strike on St Petersburg",
-          "url": "https://www.express.co.uk/news/world/2214271/ukraine-launches-large-scale-drone-strike-st-petersburg",
-          "source": "Daily Express :: News Feed",
-          "published_at": "2026-06-06T19:56:00.000Z",
-          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2214271_1.jpg"
-        },
-        {
-          "title": "Ukraine strikes St. Petersburg as city hosts Putin’s flagship economic forum",
-          "url": "https://www.washingtonexaminer.com/news/world/4597938/ukraine-strike-st-petersburg-putin-economic-forum",
-          "source": "Washington Examiner",
-          "published_at": "2026-06-06T17:15:07.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26090593578432.jpg?w=696"
-        }
-      ]
-    },
-    {
-      "id": "topic_c2f238fdbb0fe48b",
-      "label": [
-        "stellar",
-        "blade",
-        "blood",
-        "stellar blade",
-        "blade blood",
-        "blood rain"
-      ],
-      "category": "new",
-      "theme": "theme_14bc0a07cc50ad6e",
-      "entities": [
-        "Stellar Blade",
-        "Blood Rain",
-        "Reveal Is Allegedly Riddled",
-        "Generative AI",
-        "Reveal Trailer Is Raising"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Stellar Blade: Blood Rain's Reveal Is Allegedly Riddled with Generative AI",
-          "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
-          "source": "Push Square | Latest Updates",
-          "published_at": "2026-06-06T23:00:00.000Z",
-          "image": "https://images.pushsquare.com/819425a793272/large.jpg"
-        },
-        {
-          "title": "Stellar Blade: Blood Rain’s Reveal Trailer Is Raising Some People’s GenAI Alarm Bells",
-          "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
-          "source": "Kotaku",
-          "published_at": "2026-06-06T19:51:19.000Z",
-          "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1280x720.jpg"
-        },
-        {
-          "title": "Stellar Blade: Blood Rain Dev Comments on Launch Platform Plans",
-          "url": "https://www.ign.com/articles/stellar-blade-blood-rain-dev-comments-on-launch-platform-plans",
-          "source": "IGN Articles",
-          "published_at": "2026-06-06T16:13:38.000Z",
-          "image": "https://assets-prd.ignimgs.com/2026/06/06/sbbr-sgf-screenshots-01-1780762320495.png"
-        }
-      ]
-    },
-    {
-      "id": "topic_4c8da28435e1c8b1",
-      "label": [
-        "vii",
-        "fantasy vii",
-        "vii revelation",
-        "revelation",
-        "final fantasy",
-        "fantasy"
-      ],
-      "category": "new",
-      "theme": "theme_8a9bf3f786e387a8",
-      "entities": [
-        "Final Fantasy VII Revelation",
-        "Coming",
-        "XBOX Spring",
-        "Arrives",
-        "Spring"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Final Fantasy VII Revelation: Coming to XBOX Spring 2027",
-          "url": "https://youtu.be/E84ZmKiPYJM#new_tab",
-          "source": "XBOX Wire",
-          "published_at": "2026-06-06T22:21:24.000Z"
-        },
-        {
-          "title": "Final Fantasy VII Revelation Arrives in Spring 2027 for All Current Game Platforms",
-          "url": "https://phandroid.com/2026/06/06/final-fantasy-vii-revelation-arrives-in-spring-2027-for-all-current-game-platforms",
-          "source": "Phandroid",
-          "published_at": "2026-06-06T20:26:11.000Z"
-        },
-        {
-          "title": "Final Fantasy VII Revelation: Sephiroth's English Voice Actor Has Been Replaced By Critical Role's Travis Willingham",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/06/final-fantasy-vii-revelation-sephiroths-english-voice-actor-has-been-replaced",
-          "source": "Game Informer",
-          "published_at": "2026-06-06T17:12:00.000Z",
-          "image": "https://www.gameinformer.com/sites/default/files/styles/body_default/public/2026/06/06/90454325/Final%20Fantasy%20VII%20Revelation%20Sephiroth.jpg.webp"
-        }
-      ]
-    },
-    {
-      "id": "topic_f715574105211a0",
-      "label": [
-        "lilly",
-        "drug",
-        "obesity",
-        "obesity drug",
-        "eli lilly",
-        "eli"
-      ],
-      "category": "new",
-      "theme": "theme_52c4b678cea3db68",
-      "entities": [
-        "Eli Lilly",
-        "STAT",
-        "Lilly"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Eli Lilly reports broad benefits for experimental obesity drug retatrutide",
-          "url": "https://seekingalpha.com/news/4601217-eli-lilly-reports-broad-benefits-for-experimental-obesity-drug-retatrutide",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-06-06T21:37:02.000Z"
-        },
-        {
-          "title": "Eli Lilly says next-gen obesity drug curbs sleep apnea, among other benefits",
-          "url": "https://www.yahoo.com/news/science/articles/eli-lilly-says-next-gen-183355035.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-06-06T18:33:55.000Z",
-          "image": "https://media.zenfs.com/en/reuters.com/835d02f8498246821edce5c18931a788"
-        },
-        {
-          "title": "STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug",
-          "url": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada",
-          "source": "STAT",
-          "published_at": "2026-06-06T18:32:27.000Z",
-          "image": "https://www.statnews.com/wp-content/uploads/2024/05/AdobeStock_517947710_Editorial_Use_Only-1024x576.jpeg"
-        },
-        {
-          "title": "Eli Lilly shares phase 3 data on triple agonist weight loss drug retatrutide",
-          "url": "https://www.investing.com/news/stock-market-news/eli-lilly-shares-phase-3-data-on-triple-agonist-weight-loss-drug-retatrutide-4729608",
-          "source": "All News",
-          "published_at": "2026-06-06T17:15:28.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_46fd114eaa53d3e7",
-      "label": [
-        "infec",
-        "ainda",
-        "pai",
-        "menino",
-        "tubar",
-        "de infec"
-      ],
-      "category": "new",
-      "theme": "theme_5bcdf393341f8e64",
-      "entities": [
-        "Risco",
-        "Pernambuco",
-        "PE"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "‘Risco de infecção ainda é alto’, diz pai de menino atacado por tubarão em PE",
-          "url": "https://jornaldebrasilia.com.br/nahorah/risco-de-infeccao-ainda-e-alto-diz-pai-de-menino-atacado-por-tubarao-em-pe",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-06-06T17:15:49.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/06/06141510/menino-tubarao.jpeg"
-        },
-        {
-          "title": "'Risco de infec��o ainda � alto', diz pai de menino atacado por tubar�o em PE",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/risco-de-infeccao-ainda-e-alto-diz-pai-de-menino-atacado-por-tubarao-em-pe.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-06-06T16:21:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_57521a56fa6f6b86",
-      "label": [
-        "spooky",
-        "thank spooky",
-        "spooky time",
-        "capsule tip",
-        "epsom",
-        "capsule"
-      ],
-      "category": "new",
-      "theme": "theme_c3a226167506b017",
-      "entities": [
-        "Builder",
-        "Epsom Derby",
-        "Construction"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Builder wins bet on Epsom Derby thanks to 'spooky' time capsule tip",
-          "url": "https://sports.yahoo.com/articles/builder-wins-bet-epsom-derby-204950894.html",
-          "published_at": "2026-06-06T20:49:50.000Z"
-        },
-        {
-          "title": "Builder wins bet on Epsom Derby thanks to 'spooky' time capsule tip",
-          "url": "https://www.bbc.com/news/articles/ced41gy95y1o",
-          "source": "BBC News",
-          "published_at": "2026-06-06T20:49:44.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f198/live/529fdb50-6034-11f1-9792-c579e9d62a5f.jpg"
-        },
-        {
-          "title": "Construction worker backs Epsom Derby winner thanks to ‘spooky’ time capsule tip",
-          "url": "https://www.theguardian.com/sport/2026/jun/06/construction-worker-backs-epsom-derby-winner-thanks-to-spooky-time-capsule-tip",
-          "source": "The Guardian",
-          "published_at": "2026-06-06T17:47:17.000Z",
-          "image": "https://i.guim.co.uk/img/media/668854338c3f2da5118bdc3e2fb700444ffefecc/771_55_3711_2969/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=5f34397d105dd2845657916d3734775a"
-        }
-      ]
-    },
-    {
-      "id": "topic_243d74fb69f70499",
-      "label": [
-        "sister",
-        "adelabu",
-        "adelabu sister",
-        "ex power",
-        "power minister",
-        "children"
-      ],
-      "category": "new",
-      "theme": "theme_1a1a96634419bc6b",
-      "entities": [
-        "Ex",
-        "Power Minister Adelabu",
-        "Police",
-        "Adelabu",
-        "Official"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Ex-Power Minister Adelabu’s sister, her two children rescued",
-          "url": "https://www.nigerianeye.com/2026/06/ex-power-minister-adelabus-sister-her.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-06-06T21:05:25.168Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY_NiSmkSoSlz969zXA7q3nYLV7VIKuxwzOKpzR-b_6vOT6nZxLpp2Vi2BqDa3sjnnoRjNJAd3dC4oj4HSP5pngskEOzV5-LIxOFboY-fSTbKF9p79dpHhQR6d3YXNVGBTtM93aVFmz7eqD1J1KsK6YHq-HlAwaNa2x3jsUnpJdAX2K-AcaCxnqBSeEC3k/s72-w400-h400-c/1dd.jpg"
-        },
-        {
-          "title": "Police rescue Adelabu’s sister, twin sons – Official",
-          "url": "https://www.premiumtimesng.com/regional/ssouth-west/885611-police-rescue-adelabus-sister-twin-sons-official.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-06-06T21:02:33.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/F4p1bWdWMAAotyP-e1776886213629.jpg?fit=1278%2C720&amp;ssl=1"
-        },
-        {
-          "title": "BREAKING: Nigerian Police Rescue Ex-Minister Adelabu’s Sister, Twin Sons, Kill Two Suspected Kidnappers",
-          "url": "https://saharareporters.com/2026/06/06/breaking-nigerian-police-rescue-ex-minister-adelabus-sister-twin-sons-kill-two-suspected",
-          "source": "Articles",
-          "published_at": "2026-06-06T20:13:31.000Z"
-        },
-        {
-          "title": "Breaking: Police rescue ex-power minister’s sister, her 2 children",
-          "url": "https://www.legit.ng/nigeria/1713355-breaking-police-rescue-power-ministers-sister-2-children",
-          "source": "Legit.ng",
-          "published_at": "2026-06-06T20:09:12.000Z",
-          "image": "https://cdn.legit.ng/images/1200x675/96ef8f90b4b169c4.jpeg?v=1"
-        },
-        {
-          "title": "BREAKING: Ex-Power Minister Adelabu’s sister, her two children rescued",
-          "url": "https://dailypost.ng/2026/06/06/ex-power-minister-adelabus-sister-her-two-children-rescued",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-06-06T20:07:12.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2022/08/Adebayo-Adelabu.jpg"
-        }
-      ]
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency added a SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog, warning that it is being exploited in attacks."
     }
   ]
 }

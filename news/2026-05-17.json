@@ -1,960 +1,899 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-18T00:15:18.834Z",
+  "generated_at": "2026-09-27T13:55:06.342Z",
   "topics": [
     {
-      "id": "topic_eb60dbd1fea26a7d",
+      "id": "topic_6c1b8d098ab52f3d",
+      "title": "Drone Strike Sparks Fire at UAE Nuclear Plant",
+      "headline": "Fire breaks out after drone strike on UAE nuclear power plant",
       "label": [
-        "ebola",
-        "outbreak",
-        "ebola outbreak",
-        "emergency",
-        "declar",
-        "health emergency"
+        "nuclear",
+        "plant",
+        "uae",
+        "drone",
+        "strike",
+        "fire"
       ],
       "category": "new",
-      "theme": "theme_ac9bc90ab4cfbca2",
+      "theme": "theme_288e24f02cafc32d",
       "entities": [
-        "Ebola",
-        "Americans",
-        "DR Congo",
-        "US",
-        "In Ebola"
+        "Fire",
+        "UAE",
+        "Drone Strike Sparks Fire",
+        "Outside UAE",
+        "Barakah Nuclear Power Plant"
       ],
-      "article_count": 17,
-      "source_count": 17,
+      "article_count": 41,
+      "source_count": 34,
       "articles": [
+        {
+          "title": "Fire breaks out after drone strike on UAE nuclear power plant",
+          "url": "https://globalnation.inquirer.net/323430/fire-breaks-out-after-drone-strike-on-uae-nuclear-power-plant",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-17T10:56:32.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/04/Fire-at-Abu-Dhabi-petrochemical-plant-after-attack-intercepted-620x413.jpg",
+          "description": "ABU DHABI, United Arab Emirates — A fire broke out following a drone strike on a nuclear power plant in the emirate of Abu Dhabi on Sunday, authorities said, reporting no injuries or impact on radiation levels. “Authorities in Abu Dhabi responded to a fire incident that broke out in an electrical g…"
+        },
+        {
+          "title": "UAE reports drone strike at nuclear power plant",
+          "url": "https://www.perthnow.com.au/news/conflict/uae-reports-drone-strike-at-nuclear-power-plant-c-22297491",
+          "source": "PerthNow",
+          "published_at": "2026-05-17T16:10:34.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22297491/7dc4ab5182bf5123f8e699c2988bb593d8eb3eed-16x9-x0y0w1280h720.jpg",
+          "description": "A drone strike has targeted the United Arab Emirates' sole nuclear power plant, sparking a fire, officials say."
+        },
+        {
+          "title": "Drone Strike Sparks Fire Outside UAE’s Barakah Nuclear Power Plant",
+          "url": "https://www.nigerianeye.com/2026/05/drone-strike-sparks-fire-outside-uaes.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-05-17T16:53:41.964Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO2kU3lg0QcXplw-52iGtEinW1rbS9H3hRbgaktZ-9fzFxVeWkpB8Fw2GTL8UjBCBi2_HVD7o9Dy-BUGKqgv-Gu-T-8b5wpCbwANUy3W2Hxf6MBi0tQ3xatgZY4Z4Jfoc_oxoQ7hO53FTdH9aC8BKxdMPWtYhwYgjHQ0uyQDgCCbMNftTqqX4SpN1E7z0/s72-w400-h266-c/1001920200.jpg",
+          "description": "A drone strike on Sunday triggered a fire near the Barakah Nuclear Power Plant in Abu Dhabi’s Al Dhafra region, authorities in the United Arab Emirates have confirmed. The projectile hit an electrical generator outside the inner perimeter of the plant, sparking the blaze. Officials reported no inju…"
+        },
+        {
+          "title": "Fire sparked after drone strike at UAE nuclear plant",
+          "url": "https://www.politico.eu/article/fire-drone-strike-united-arab-emirates-uae-barakah-nuclear-plant",
+          "source": "POLITICO",
+          "published_at": "2026-05-17T16:37:57.000Z",
+          "description": "The defense ministry said investigations were under way \"to determine the source of the attacks.\""
+        },
+        {
+          "title": "Drone strike sparks fire at UAE nuclear power plant in latest blow to Iran ceasefire",
+          "url": "https://www.manilatimes.net/2026/05/17/news/world/drone-strike-sparks-fire-at-uae-nuclear-power-plant-in-latest-blow-to-iran-ceasefire/2345743",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-05-17T15:59:59.000Z",
+          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/18/1060483.jpg",
+          "description": "DUBAI, United Arab Emirates — A drone strike targeted the United Arab Emirates’ sole nuclear power plant on Sunday, sparking a fire on its perimeter. There were no reports of injuries or radiological release, but it highlighted the risk of renewed war as the Iran ceasefire remains tenuous. No one i…"
+        }
+      ],
+      "summary": "A drone strike caused a fire near the Barakah Nuclear Power Plant in Abu Dhabi, authorities said. No injuries or radiological impact were reported, and officials said they were investigating the source of the attack."
+    },
+    {
+      "id": "topic_ab59b0288d01d78c",
+      "title": "WHO Declares Ebola Outbreak in Congo and Uganda a Global Emergency",
+      "headline": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "label": [
+        "emergency",
+        "ebola",
+        "outbreak",
+        "declares",
+        "health",
+        "global"
+      ],
+      "category": "trending",
+      "theme": "theme_a795c7cb8922a835",
+      "entities": [
+        "Declares Ebola Outbreak",
+        "Global Health Emergency",
+        "Ebola",
+        "Congo",
+        "Uganda"
+      ],
+      "article_count": 72,
+      "source_count": 50,
+      "articles": [
+        {
+          "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+          "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+          "source": "NYT > World News",
+          "published_at": "2026-05-17T05:48:22.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/17/multimedia/17xp-ebola-lhqf/17xp-ebola-lhqf-mediumSquareAt3X.jpg",
+          "description": "Just a day after the outbreak was announced, cases were confirmed in the capitals of Uganda and the Democratic Republic of Congo. There is no approved vaccine for the strain."
+        },
         {
           "title": "WHO declares global health emergency for Ebola outbreak",
           "url": "https://www.perthnow.com.au/news/coronavirus/who-declares-global-health-emergency-for-ebola-outbreak-c-22298010",
           "source": "PerthNow",
           "published_at": "2026-05-17T23:07:19.000Z",
-          "image": "https://images.perthnow.com.au/publication/C-22298010/2adaa6016838bb3f388e7273650af91069c718b9-16x9-x0y0w1280h720.jpg"
+          "image": "https://images.perthnow.com.au/publication/C-22298010/2adaa6016838bb3f388e7273650af91069c718b9-16x9-x0y0w1280h720.jpg",
+          "description": "The United Nations health agency says 80 suspected deaths, eight laboratory-confirmed cases and 246 suspected cases of Ebola have been reported."
         },
         {
-          "title": "Americans in DR Congo may have had exposure to Ebola in outbreak, US media reports",
-          "url": "https://www.scmp.com/news/world/africa/article/3353907/americans-dr-congo-may-have-had-exposure-ebola-outbreak-us-media-reports",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-05-17T22:50:37.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/18/6976bf7f-b917-4d4d-8898-64065d88848a_52c2ab06.jpg?itok=-lhSTnrd&v=1779057959"
+          "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
+          "url": "https://www.ms.now/news/ebola-outbreak-congo-uganda-global-health-emergency",
+          "source": "MS NOW",
+          "published_at": "2026-05-17T09:50:38.000Z",
+          "description": "Though the virus is highly contagious, the outbreak does not meet the criteria of a pandemic emergency like COVID-19, according to the World Health Organization. The post WHO declares global health emergency over Ebola outbreak in Congo and Uganda appeared first on MS NOW."
         },
         {
-          "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
-          "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases",
-          "source": "STAT",
-          "published_at": "2026-05-17T21:45:09.000Z",
-          "image": "https://www.statnews.com/wp-content/uploads/2026/05/AP26136413586187-1024x576.jpg"
+          "title": "WHO declares Ebola outbreak in Congo, Uganda a global health emergency",
+          "url": "https://globalnews.ca/news/11853464/who-declares-ebola-outbreak-in-congo-uganda-a-global-health-emergency",
+          "published_at": "2026-05-17T13:58:34.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/05/ebola-testing-kibuli.jpg?quality=65&strip=all",
+          "description": "Ebola is highly contagious and can be contracted via bodily fluids such as vomit, blood or semen. The disease it causes is rare, but severe and often fatal."
         },
         {
-          "title": "Deadly Ebola virus outbreak “a health emergency of international concern” says WHO | BBC News",
-          "url": "https://www.youtube.com/watch?v=0MHkepHN4uM",
-          "source": "BBC News",
-          "published_at": "2026-05-17T21:29:39.000Z",
-          "image": "https://i1.ytimg.com/vi/0MHkepHN4uM/hqdefault.jpg"
-        },
-        {
-          "title": "DOH coordinating with WHO amid Ebola outbreak in Congo, Uganda",
-          "url": "https://www.gmanetwork.com/news/topstories/nation/987969/doh-who-ebola-outbreak-congo-uganda/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-05-17T21:21:56.000Z",
-          "image": "https://images.gmanews.tv/webpics/2023/06/doh_building_2023_06_07_17_21_20.jpg"
+          "title": "WHO declares global health emergency over Ebola outbreak in DR Congo",
+          "url": "https://www.france24.com/en/who-declares-global-health-emergency-over-ebola-outbreak-in-dr-congo",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-05-17T09:23:26.000Z",
+          "image": "https://s.france24.com/media/display/0420d642-51ce-11f1-8aac-005056a90284/w:1024/p:16x9/EN-20260517-081808-082004-CS.jpg",
+          "description": "General Tedros Adhanom Ghebreyesus declared the Ebola disease outbreak in Congo and neighboring Uganda a public health emergency of international concern on Sunday after more than 300 suspected cases and 88 deaths. In a post on X, the World Health Organization said the outbreak does not meet the cr…"
         }
-      ]
+      ],
+      "summary": "The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern. Reports cited suspected cases and deaths, along with laboratory-confirmed cases."
     },
     {
-      "id": "topic_5733277a9e31e2f7",
+      "id": "topic_6e1eab520f9e2a52",
+      "title": "Conor McGregor to Fight Max Holloway at UFC 329",
+      "headline": "Conor McGregor returns against Max Holloway at UFC 329",
       "label": [
-        "nuclear",
-        "drone strike",
-        "plant",
-        "drone",
-        "strike",
-        "uae"
+        "mcgregor",
+        "holloway",
+        "conor",
+        "ufc",
+        "max",
+        "return"
       ],
       "category": "new",
-      "theme": "theme_2f36533691664b5b",
+      "theme": "theme_b3acf1a30e7979c7",
       "entities": [
-        "UAE Nuclear Power Plant",
-        "Targeted",
-        "Drone Strike Amidst Trump",
-        "Warning",
-        "Iran"
+        "Conor McGregor",
+        "Max Holloway",
+        "UFC",
+        "July",
+        "Holloway"
       ],
-      "article_count": 14,
+      "article_count": 29,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Conor McGregor returns against Max Holloway at UFC 329",
+          "url": "https://sports.yahoo.com/articles/conor-mcgregor-returns-against-max-044726375.html",
+          "published_at": "2026-05-17T04:47:26.000Z",
+          "description": "Conor McGregor's long-awaited octagon return now has a date and an opponent. UFC CEO Dana White announced on Saturday that the former two-division champion will face Max Holloway in the UFC 329 main event on July 11 at T-Mobile Arena in Las Vegas. The former two-division UFC champion hasn’t fought…"
+        },
+        {
+          "title": "Conor McGregor to fight Max Holloway in UFC return on July 11",
+          "url": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-05-17T09:09:09.000Z",
+          "description": "MMA legend will compete for the first time in five years at UFC 329 in the United States."
+        },
+        {
+          "title": "Conor McGregor to make UFC return with Max Holloway rematch",
+          "url": "https://sports.inquirer.net/676900/conor-mcgregor-to-make-ufc-return-with-max-holloway-rematch",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-17T14:12:14.000Z",
+          "image": "https://sports.inquirer.net/files/2026/05/AFP__20240907__1327901739__v2__HighRes__Ufc264WeighIn-620x413.jpg",
+          "description": "Conor McGregor will return to the Ultimate Fighting Championship Octagon for the first time in five years when he takes on Max Holloway in a non-title rematch on July 11 in Las Vegas, UFC said Saturday. Ireland’s McGregor, a former two-weight champion and still one of UFC’s most famous and bankable…"
+        },
+        {
+          "title": "Conor McGregor to make UFC return with Holloway rematch in July",
+          "url": "https://www.the42.ie/conor-mcgregor-ufc-return-7042407-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-17T11:40:42.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/05/conor-mcgregor-prepare-to-fight-dustin-poirier-in-a-ufc-264-lightweight-mixed-martial-arts-bout-saturday-july-10-2021-in-las-vegas-ap-photojohn-locher-74104431-fab8-44c7-b8e4-495052bd8f67-630x420.jpg",
+          "description": "McGregor hasn’t fought since suffering a broken leg in a loss to Dustin Poirier in July 2021."
+        },
+        {
+          "title": "Conor McGregor to make UFC comeback with Max Holloway rematch in July",
+          "url": "https://www.theguardian.com/sport/2026/may/17/conor-mcgregor-to-make-ufc-comeback-with-max-holloway-rematch-in-july",
+          "source": "The Guardian",
+          "published_at": "2026-05-17T09:21:29.000Z",
+          "image": "https://i.guim.co.uk/img/media/57f22e4b74900a75b5c8c0bfcf36d3022cf20d31/180_0_4275_3420/master/4275.jpg?width=140&quality=85&auto=format&fit=max&s=ebb77e697aa364872f96c566da26724a",
+          "description": "Dana White announces McGregor’s return for UFC329 Controversial Irishman has not fought since 2021 The former two-weight mixed martial arts world champion Conor McGregor will make his return to the UFC octagon on 11 July in Las Vegas, UFC president Dana White has announced. The Irishman, who has no…"
+        }
+      ],
+      "summary": "Conor McGregor will return to the UFC to face Max Holloway in a non-title rematch on July 11 in Las Vegas. It will be McGregor’s first fight in five years."
+    },
+    {
+      "id": "topic_c1d0fe97f579c513",
+      "title": "Qantas Flight Diverted After Passenger Allegedly Bites Crew Member",
+      "headline": "Qantas flight diverted after man bites flight attendant",
+      "label": [
+        "flight",
+        "qantas",
+        "bites",
+        "diverted",
+        "passenger",
+        "attendant"
+      ],
+      "category": "new",
+      "theme": "theme_e9a1b8b0ff867d01",
+      "entities": [
+        "Qantas",
+        "BITES",
+        "Melbourne",
+        "US Qantas",
+        "Qantas Melbourne"
+      ],
+      "article_count": 21,
       "source_count": 14,
       "articles": [
         {
-          "title": "UAE Nuclear Power Plant Targeted by Drone Strike Amidst Trump’s Warning on Iran",
-          "url": "https://internewscast.com/news/au/uae-nuclear-power-plant-targeted-by-drone-strike-amidst-trumps-warning-on-iran",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-17T22:39:25.000Z"
+          "title": "Qantas flight diverted after man bites flight attendant",
+          "url": "https://www.gmanetwork.com/news/topstories/world/987928/qantas-flight-diverted-after-man-bites-flight-attendant/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-17T06:45:04.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/Qantas_2026_05_17_14_43_46.jpg",
+          "description": "Australia's Qantas was forced to divert a flight bound for the United States over a disruptive passenger, with local media reporting the man bit a flight attendant."
         },
         {
-          "title": "UAE reports drone strike at nuclear power plant as Iran war deadlock persists",
-          "url": "https://www.dailymaverick.co.za/article/2026-05-17-uae-reports-drone-strike-at-nuclear-power-plant-as-iran-war-deadlock-persists",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-05-17T21:40:55.000Z",
-          "image": "https://cdn.dailymaverick.co.za/attachments/2992/11458347_920857.jpg"
+          "title": "Qantas flight diverted after passenger BITES flight attendant – WATCH",
+          "url": "https://www.thesouthafrican.com/travel/qantas-flight-diverted-after-passenger-bites-flight-attendant-watch",
+          "source": "The South African",
+          "published_at": "2026-05-17T10:43:11.000Z",
+          "image": "https://www.thesouthafrican.com/wp-content/uploads/2026/05/Qantas.jpg.optimal.jpg",
+          "description": "Australia's Qantas was forced to divert a flight bound for the United States thanks to a disruptive passenger."
         },
         {
-          "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
-          "url": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-05-17T20:46:52.000Z",
-          "image": "https://s.france24.com/media/display/38637d0a-522e-11f1-b1dc-005056bfb2b6/w:1024/p:16x9/000-B33V9G3.jpg"
+          "title": "Qantas flight diverted after man ‘bites crew member’",
+          "url": "https://www.smh.com.au/national/qantas-flight-diverted-after-man-bites-crew-member-20260517-p5zxxb.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-17T09:04:44.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/745b3cbd191c4b9fa97bb6166c7666c9eddf9899",
+          "description": "A passenger has forced a Qantas flight from Melbourne to the US to divert to Tahiti after allegedly biting a crew member."
         },
         {
-          "title": "Drone strike reported near Abu Dhabi nuclear plant | BBC News",
-          "url": "https://www.youtube.com/watch?v=oDNnt5iPeuU",
-          "source": "BBC News",
-          "published_at": "2026-05-17T20:21:56.000Z",
-          "image": "https://i4.ytimg.com/vi/oDNnt5iPeuU/hqdefault.jpg"
-        },
-        {
-          "title": "Oil rises more than 1% after drone attack on UAE nuclear power plant",
-          "url": "https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570",
-          "source": "All News",
-          "published_at": "2026-05-17T20:12:51.000Z",
-          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G0FI_L.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_6fb6a52186dede20",
-      "label": [
-        "taiwan",
-        "trad",
-        "says",
-        "trad away",
-        "sal",
-        "away"
-      ],
-      "category": "new",
-      "theme": "theme_5e985510903d328",
-      "entities": [
-        "Reaction",
-        "Taiwan",
-        "Donald Trump",
-        "China",
-        "US"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "Reaction in Taiwan to Donald Trump's remarks on arms sales as bargaining chip for negotiations with China",
-          "url": "https://www.thestar.com/news/world/asia/reaction-in-taiwan-to-donald-trumps-remarks-on-arms-sales-as-bargaining-chip-for-negotiations/video_b7dada34-04bf-473a-8389-0d27820f6de6.html",
-          "source": "www.thestar.com - RSS Results",
-          "published_at": "2026-05-17T22:04:00.000Z",
-          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/7d/b7dada34-04bf-473a-8389-0d27820f6de6/6a0a3bce0c5dd.image.jpg?resize=300%2C169"
-        },
-        {
-          "title": "Taiwan's leader says island will not be 'traded away'",
-          "url": "https://japantoday.com/category/world/taiwan%27s-leader-says-island-will-not-be-%27traded-away%27",
-          "source": "Japan Today",
-          "published_at": "2026-05-17T21:21:50.000Z"
-        },
-        {
-          "title": "Taiwan's leader says US arms sales, security cooperation key to peace",
-          "url": "https://www.manilatimes.net/2026/05/18/news/world/taiwans-leader-says-us-arms-sales-security-cooperation-key-to-peace/2345765",
-          "source": "https://www.manilatimes.net",
-          "published_at": "2026-05-17T20:42:33.000Z",
-          "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/05/18/1060515.jpg"
-        },
-        {
-          "title": "Lai says Taiwan will not be 'sacrificed or traded away' after Trump remarks (Focus Taiwan)",
-          "url": "https://www.memeorandum.com/260517/p37",
-          "source": "memeorandum",
-          "published_at": "2026-05-17T18:30:01.000Z",
-          "image": "http://www.memeorandum.com/260517/i37.jpg"
-        },
-        {
-          "title": "Taiwan’s president says the U.S. arms sales that Trump called a bargaining chip with China are ‘the most important deterrent’ of regional conflict",
-          "url": "https://fortune.com/2026/05/17/taiwan-president-us-arms-sales-trump-china-bargaining-chip-deterrent-regional-conflict",
-          "source": "Fortune | FORTUNE",
-          "published_at": "2026-05-17T18:13:40.000Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26131420591068_fbeca7.jpg?w=2048"
-        }
-      ]
-    },
-    {
-      "id": "topic_e74b3559cd2368af",
-      "label": [
-        "patrick",
-        "patrick bruel",
-        "bruel",
-        "jamai",
-        "viol",
-        "de viol"
-      ],
-      "category": "new",
-      "theme": "theme_bcca95b4540057f0",
-      "entities": [
-        "Patrick Bruel",
-        "Jamais",
-        "Accusations",
-        "Flavie Flament",
-        "Je"
-      ],
-      "article_count": 6,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Patrick Bruel : le chanteur réaffirme son innocence face aux accusations de viols",
-          "url": "https://www.ouest-france.fr/culture/musiques/patrick-bruel/patrick-bruel-le-chanteur-reaffirme-son-innocence-face-aux-accusations-de-viols-38a1852a-5218-11f1-a581-dbcdabdf1915",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-17T18:32:15.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1NGVkYzI4ZTViZTM5NGViOTUwYjYxMDg5YTJmNWQwZDM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=be4a5abe9d44b14b912559e681ebfc63e4b3e17bafb21f3b3dcb235cfe5d823d"
-        },
-        {
-          "title": "Patrick Bruel accusé de viols : « Jamais je n’ai forcé une femme », le chanteur réaffirme son innocence",
-          "url": "https://www.sudouest.fr/faits-divers/patrick-bruel-accuse-de-viols-jamais-je-n-ai-force-une-femme-le-chanteur-reaffirme-son-innocence-29111205.php",
-          "source": "L'essentiel",
-          "published_at": "2026-05-17T18:17:39.000Z"
-        },
-        {
-          "title": "Accusations de viols et de violences sexuelles visant Patrick Bruel : le chanteur assure n'avoir \"jamais forcé une femme\"",
-          "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/accusations-de-viols-et-de-violences-sexuelles-visant-patrick-bruel-le-chanteur-assure-n-avoir-jamais-force-une-femme_8010122.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-17T18:08:38.000Z",
-          "image": "https://www.franceinfo.fr/pictures/t1XISqyjJk3rYgpic1BUq_Y30gc/0x388:7453x4581/432x243/filters:format(jpg)/2026/05/17/6a0a037b3eb83366308495.jpg"
-        },
-        {
-          "title": "Patrick Bruel nie les accusations de viol de Flavie Flament et affirme n’avoir \"jamais forcé\", \"drogué\" ou \"manipulé qui que ce soit\"",
-          "url": "https://www.rtbf.be/article/patrick-bruel-nie-les-accusations-de-viol-de-flavie-flament-et-affirme-n-avoir-jamais-force-drogue-ou-manipule-qui-que-ce-soit-11725367",
-          "source": "- Info",
-          "published_at": "2026-05-17T18:07:32.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/4/c/5/e5aa3d4b21e13493ff2528f0063bd38c.jpg"
-        },
-        {
-          "title": "\"Jamais je n’ai forcé une femme\" : Patrick Bruel sort du silence et répond aux accusations de violences sexuelles",
-          "url": "https://www.ladepeche.fr/2026/05/17/jamais-je-nai-force-une-femme-patrick-bruel-sort-du-silence-et-repond-aux-accusations-de-violences-sexuelles-13375787.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-05-17T18:03:07.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a0a01a6ee313af3810ae642/standard/image.jpg?v=1"
-        }
-      ]
-    },
-    {
-      "id": "topic_c5201a55fd478188",
-      "label": [
-        "cate",
-        "blanchett",
-        "metoo",
-        "cate blanchett",
-        "movement",
-        "metoo movement"
-      ],
-      "category": "new",
-      "theme": "theme_476e30c389754822",
-      "entities": [
-        "Cate Blanchett",
-        "MeToo",
-        "Hollywood",
-        "Cate Blanchett Reveals",
-        "Untold Story"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Cate Blanchett laments that the #MeToo movement 'got killed very quickly' in Hollywood",
-          "url": "https://japantoday.com/category/entertainment/cate-blanchett-laments-that-the-metoo-movement-%27got-killed-very-quickly%27-in-hollywood",
-          "source": "Japan Today",
-          "published_at": "2026-05-17T21:25:15.000Z"
-        },
-        {
-          "title": "Cate Blanchett Reveals the Untold Story: How Hollywood Silenced the #MeToo Movement",
-          "url": "https://internewscast.com/local-news/cate-blanchett-reveals-the-untold-story-how-hollywood-silenced-the-metoo-movement",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-17T18:25:42.000Z"
-        },
-        {
-          "title": "Cate Blanchett laments that the #MeToo movement 'got killed very quickly' in Hollywood",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/cate-blanchett-laments-metoo-movement-181846196.html",
-          "source": "Yahoo News - Latest News & Headlines",
-          "published_at": "2026-05-17T18:18:46.000Z",
-          "image": "https://media.zenfs.com/en/ap.org/fa293922d56d71f39afd5c7ff5a7d1db"
-        },
-        {
-          "title": "Cate Blanchett laments that the #MeToo movement 'got killed very quickly' in Hollywood",
-          "url": "https://www.independent.co.uk/news/world/europe/cate-blanchett-hollywood-cannes-france-b2978262.html",
+          "title": "Qantas flight diverted after passenger allegedly bites crew member",
+          "url": "https://www.independent.co.uk/news/world/australasia/qantas-flight-passenger-bites-attendant-b2978075.html",
           "source": "The Independent World",
-          "published_at": "2026-05-17T18:18:46.000Z",
-          "image": "https://static.independent.co.uk/2026/05/17/19/France_Cannes_2_26_Paper_Tiger_Red_Carpet_47485.jpg?width=1200&auto=webp&crop=3%3A2"
+          "published_at": "2026-05-17T05:33:11.000Z",
+          "image": "https://static.independent.co.uk/2026/05/17/4/25/Qantas-Boeing-787-9-Dreamliner-takes-off-from-Melbourne-Airport.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+          "description": "Passenger banned from travelling on all Qantas Group flights"
         },
         {
-          "title": "Cate Blanchett Says, “MeToo Got Killed Very Quickly” And That “A Systemic Layer Of Abuse” Remains",
-          "url": "https://deadline.com/2026/05/cate-blanchett-metoo-got-killed-very-quickly-1236913583",
-          "source": "Deadline",
-          "published_at": "2026-05-17T17:23:05.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_a224e8b4f8f581ef",
-      "label": [
-        "italian",
-        "italian open",
-        "open",
-        "jannik sinner",
-        "sinner",
-        "jannik"
-      ],
-      "category": "new",
-      "theme": "theme_c37cdccfac977ad5",
-      "entities": [
-        "Sinner",
-        "Italian",
-        "Italian Open",
-        "Djokovic",
-        "Masters"
-      ],
-      "article_count": 5,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Sinner becomes 1st Italian man to win Italian Open in 50 years and matches Djokovic's Masters sweep",
-          "url": "https://japantoday.com/category/sports/sinner-becomes-1st-italian-man-to-win-italian-open-in-50-years-and-matches-djokovic%27s-masters-sweep",
-          "source": "Japan Today",
-          "published_at": "2026-05-17T21:22:53.000Z"
-        },
-        {
-          "title": "Jannik Sinner clinches Italian Open title, becomes youngest to Career Golden Masters",
-          "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-italian-open-2026-rome-title-career-golden-masters-2913123-2026-05-17",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-17T17:57:22.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jannik-sinner-175518863-16x9_0.jpg?VersionId=ry_8MHU_LgvUn.cLqJygh_knRkwcV4AV"
-        },
-        {
-          "title": "Jannik Sinner overpowers Casper Ruud to make history with Italian Open title",
-          "url": "https://www.theguardian.com/sport/2026/may/17/jannik-sinner-overpowers-casper-ruud-to-make-history-with-italian-open-title",
-          "source": "The Guardian",
-          "published_at": "2026-05-17T17:27:24.000Z",
-          "image": "https://i.guim.co.uk/img/media/2900bf8c4fe20f5134c46d56672a9fb769de4046/679_201_4044_3235/master/4044.jpg?width=140&quality=85&auto=format&fit=max&s=0402a560cd60f90d849f798cb600cc57"
-        },
-        {
-          "title": "Jannik Sinner defeats Casper Ruud to win Italian Open, joining Novak Djokovic as only man to win all 9 Masters 1000 titles",
-          "url": "https://sports.yahoo.com/tennis/article/jannik-sinner-defeats-casper-ruud-to-win-italian-open-joining-novak-djokovic-as-only-man-to-win-all-9-masters-1000-titles-171307552.html",
-          "published_at": "2026-05-17T17:13:07.000Z"
-        },
-        {
-          "title": "Jannik Sinner Captures Italian Open, Joins Novak Djokovic In Historic Club",
-          "url": "https://www.forbes.com/sites/adamzagoria/2026/05/17/jannik-sinner-captures-italian-open-joins-novak-djokovic-in-historic-club",
-          "source": "Forbes - Business",
-          "published_at": "2026-05-17T17:10:12.000Z",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a09eb93924667a450684f1a/0x0.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_5dd2e1f72a89769d",
-      "label": [
-        "bastien",
-        "lecornu",
-        "sentera",
-        "jeudi",
-        "juin",
-        "bastien lecornu"
-      ],
-      "category": "new",
-      "theme": "theme_ef372339341f4c5b",
-      "entities": [
-        "Prix",
-        "Premier",
-        "Lecornu",
-        "Carburants",
-        "Hausse"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Prix des carburants : le Premier ministre Sébastien Lecornu présentera de nouvelles aides ce jeudi pour le mois de juin",
-          "url": "https://www.ouest-france.fr/economie/transports/carburants-essence-diesel/prix-des-carburants-le-premier-ministre-sebastien-lecornu-presentera-de-nouvelles-aides-ce-jeudi-pour-le-mois-de-juin-d754aa72-5226-11f1-a581-dbcdabdf1915",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-05-17T19:40:18.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1ZjA5NTU2YjQzMjBkOGM5NTIzODY3NjFkMDM2NmEwMmM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=f023b864776c9a357bcb7910780563cc74d36a7307db560d4d25ead1371814f7"
-        },
-        {
-          "title": "Carburants : Sébastien Lecornu présentera jeudi les nouvelles aides pour le mois de juin",
-          "url": "https://www.ladepeche.fr/2026/05/17/carburants-sebastien-lecornu-presentera-jeudi-les-nouvelles-aides-pour-le-mois-de-juin-13375805.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-05-17T17:53:13.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6a09fa72b2ff00b3ac0bfaf4/standard/image.jpg?v=1"
-        },
-        {
-          "title": "Prix des carburants : Sébastien Lecornu présentera jeudi un « nouveau paquet » d’aides pour le mois de juin",
-          "url": "https://www.lemonde.fr/politique/article/2026/05/17/prix-des-carburants-sebastien-lecornu-presentera-jeudi-un-nouveau-paquet-d-aides-pour-le-mois-de-juin_6690266_823448.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-05-17T17:44:33.000Z",
-          "image": "https://img.lemde.fr/2026/04/29/180/0/8000/4000/644/322/60/0/cbaa715_ftp-1-jhpzn3h0t3zw-5895395-01-06.jpg"
-        },
-        {
-          "title": "Hausse des prix des carburants : Sébastien Lecornu présentera jeudi les nouvelles aides pour le mois de juin",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-sebastien-lecornu-presentera-jeudi-les-nouvelles-aides-pour-le-mois-de-juin_8010110.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-17T17:42:05.000Z",
-          "image": "https://www.franceinfo.fr/pictures/rm7p5AOl8c48Q4wzh0QV0Wf8nz4/0x53:1024x629/432x243/filters:format(jpg)/2026/05/17/6a09fbb894973766012832.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_2dc042e6aedeaf38",
-      "label": [
-        "ceremony",
-        "barbra",
-        "streisand",
-        "barbra streisand",
-        "injury",
-        "knee injury"
-      ],
-      "category": "new",
-      "theme": "theme_ccb92424c695c305",
-      "entities": [
-        "Barbra Streisand",
-        "Miss Cannes Closing Ceremony",
-        "Honoring Her Due",
-        "Knee Injury",
-        "Cannes Palme"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Barbra Streisand to Miss Cannes Closing Ceremony Honoring Her Due to Knee Injury",
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/barbra-streisand-miss-cannes-closing-ceremony-knee-injury-1235564212",
-          "source": "Rolling Stone",
-          "published_at": "2026-05-17T19:51:35.000Z"
-        },
-        {
-          "title": "Barbra Streisand won't attend Cannes Palme d'Or ceremony after a knee injury",
-          "url": "https://www.independent.co.uk/news/world/europe/barbra-streisand-cannes-france-john-travolta-peter-jackson-b2978268.html",
-          "source": "The Independent World",
-          "published_at": "2026-05-17T18:35:52.000Z",
-          "image": "https://static.independent.co.uk/2026/05/17/19/Cannes-Barbra_Streisand_41_46.jpg?width=1200&auto=webp&crop=3%3A2"
-        },
-        {
-          "title": "Barbra Streisand Will Not Attend Cannes Closing Ceremony To Accept Honorary Palme D’Or Due To Injury",
-          "url": "https://deadline.com/2026/05/barbra-streisand-no-cannes-palme-dor-1236913628",
-          "source": "Deadline",
-          "published_at": "2026-05-17T17:54:40.000Z",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/streisand.png"
-        },
-        {
-          "title": "Barbra Streisand Unable to Attend Cannes Closing Ceremony to Accept Honorary Palme d’Or After Knee Injury",
-          "url": "https://variety.com/2026/film/festivals/barbra-streisand-cant-attend-cannes-palme-dor-knee-injury-1236751729",
-          "source": "Variety",
-          "published_at": "2026-05-17T17:43:26.000Z",
-          "image": "https://variety.com/wp-content/uploads/2026/03/barbra.jpeg"
-        }
-      ]
-    },
-    {
-      "id": "topic_23fc0c0f3b782af",
-      "label": [
-        "epstein",
-        "victim",
-        "france",
-        "prosecutor",
-        "suspect",
-        "suspect victim"
-      ],
-      "category": "new",
-      "theme": "theme_5cd5604e898d5a76",
-      "entities": [
-        "Epstein",
-        "France",
-        "Prosecutor",
-        "France Epstein",
-        "Around"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "10 new suspected Epstein victims come forward in France amid probe",
-          "url": "https://www.indiatoday.in/world/story/jeffrey-epstein-france-probe-10-new-suspected-victims-contact-authorities-2913132-2026-05-18",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-17T19:19:33.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/jeffrey-epstein-095129937-16x9.jpg?VersionId=kSulN13NkJPMIR7RMGETKCra58NHV2.o"
-        },
-        {
-          "title": "France listening to 10 ‘new’ suspected victims of Epstein: Prosecutor",
-          "url": "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-05-17T17:44:07.000Z"
-        },
-        {
-          "title": "France Epstein probe uncovers ‘new’ suspected victims, prosecutor says",
-          "url": "https://nationalpost.com/news/world/france-epstein-probe-new-victims",
-          "source": "National Post",
-          "published_at": "2026-05-17T17:03:32.000Z"
-        },
-        {
-          "title": "Around 10 ‘new’ victims in France’s Epstein investigation, Paris prosecutor says",
-          "url": "https://www.scmp.com/news/world/europe/article/3353899/around-10-new-victims-frances-epstein-investigation-paris-prosecutor-says",
+          "title": "Melbourne-US Qantas flight diverted after man bites crew member",
+          "url": "https://www.scmp.com/news/asia/australasia/article/3353854/melbourne-us-qantas-flight-diverted-after-man-bites-flight-attendant",
           "source": "News - South China Morning Post",
-          "published_at": "2026-05-17T16:36:11.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/18/b145cfc5-48a8-4713-8a68-ebe8e86f393f_4b641705.jpg?itok=w3eBDyzm&v=1779035666"
+          "published_at": "2026-05-17T04:02:55.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/17/a1bdf73b-b4e1-4352-943a-64e91c186e6e_0adcf9d1.jpg?itok=CRisRpPv&v=1778990569",
+          "description": "Australia’s Qantas was forced to divert a flight bound for the United States over a disruptive passenger, with local media reporting the man bit a flight attendant. The flight from Melbourne was headed to Dallas on Friday when it was forced to make a stop-off in Papeete, the capital of French Polyn…"
         }
-      ]
+      ],
+      "summary": "A Qantas flight from Melbourne to the United States diverted to Tahiti after a passenger allegedly bit a crew member. Qantas banned the passenger from its flights, according to reports."
     },
     {
-      "id": "topic_5f585e0c9bab6ca6",
+      "id": "topic_53d1c0f44e69db61",
+      "title": "Two Military Jets Collide at Idaho Air Show",
+      "headline": "Military Jets Collide At Idaho Air Show",
       "label": [
-        "familia en",
-        "en puebla",
-        "familia",
-        "puebla",
-        "una",
-        "de una"
+        "air",
+        "idaho",
+        "show",
+        "jets",
+        "collide",
+        "navy"
       ],
       "category": "new",
-      "theme": "theme_cb2188ce0b352834",
+      "theme": "theme_b98c5eb9ba9209c1",
       "entities": [
-        "Masacre",
-        "Puebla",
-        "Comando",
-        "Tehuitzingo",
-        "Asesinan"
+        "Military Jets Collide At",
+        "Idaho Air Show",
+        "US Navy",
+        "Idaho",
+        "Idaho Air Force"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 38,
+      "source_count": 24,
       "articles": [
         {
-          "title": "Masacre de familia en Puebla: asesinan a 10 personas, incluida una bebé; apuntan a conflicto familiar",
-          "url": "https://vanguardia.com.mx/noticias/masacre-de-familia-en-puebla-asesinan-a-10-personas-incluida-una-bebe-apuntan-a-conflicto-familiar-fa20750476",
-          "source": "Vanguardia",
-          "published_at": "2026-05-17T19:43:54.000Z",
-          "image": "https://vanguardia.com.mx/binrepository/1011502-temixco-homicidio-policiaca_1-15448333_20260517193922.jpg"
+          "title": "Military Jets Collide At Idaho Air Show",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/17/apparent-military-jets-collide-at-idaho-air-show",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-17T20:08:52.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/62499fdeb85d6719dc85cb1a/0x0.jpg?width=960",
+          "description": "Military officials confirmed an “aircraft incident” took place during the Gunfighter Skies Air Show on Sunday."
         },
         {
-          "title": "Masacre en Puebla: Comando armado asesina a 10 integrantes de una familia en Tehuitzingo",
-          "url": "https://www.elfinanciero.com.mx/estados/2026/05/17/masacre-en-puebla-comando-armado-asesina-a-10-integrantes-de-una-familia-en-tehuitzingo",
-          "source": "El Financiero",
-          "published_at": "2026-05-17T17:18:12.000Z",
-          "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/PdL43gZvssv0PJ-YPxPrbOhG1TM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LRRXZQEZJVH3DKERNEMA2AO3UM.png"
+          "title": "US Navy jets collide in mid air at Idaho air show",
+          "url": "https://www.brisbanetimes.com.au/world/us-navy-jets-collide-in-mid-air-at-idaho-air-show-20260518-p5zxyr.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-05-17T21:09:34.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/93f3f1a6f233ed31a64f91244a79fb91bce42833"
         },
         {
-          "title": "Asesinan a 10 miembros de una familia en Puebla",
-          "url": "https://www.elnorte.com/asesinan-a-10-miembros-de-una-familia-en-puebla/ar3205759",
-          "source": "ElNorte",
-          "published_at": "2026-05-17T16:24:32.000Z"
+          "title": "Idaho Air Force base locked down after jets collide at air show",
+          "url": "https://www.yahoo.com/news/articles/idaho-air-force-locked-down-200208632.html",
+          "source": "Yahoo News - Latest News & Headlines",
+          "published_at": "2026-05-17T20:02:08.000Z",
+          "image": "https://media.zenfs.com/en/usa_today_news_641/d53019e6eedb94978d53e332ad5cade9"
         },
         {
-          "title": "Asesinan a 10 miembros de una familia en Puebla",
-          "url": "https://www.reforma.com/asesinan-a-10-miembros-de-una-familia-en-puebla/ar3205758",
-          "source": "Reforma",
-          "published_at": "2026-05-17T16:23:46.000Z"
+          "title": "Two Military Jets Collide in Midair at Idaho Air Show",
+          "url": "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-05-17T20:34:20.000Z",
+          "image": "https://static01.nyt.com/images/2026/05/17/multimedia/17xp-airshow/17xp-airshow-mediumSquareAt3X.jpg",
+          "description": "Video shared on social media showed the jets striking each other and spinning toward the ground. At least four parachutes were deployed before the planes crashed."
+        },
+        {
+          "title": "Jets collide at Idaho air show",
+          "url": "https://news.google.com/rss/articles/cbmi1gfbvv95cuxoofvywlzmqtnsdwffvmrpempiug9zavnlafbvujdomtjqs2pewvftrffmvteymm8zbxz4sdfyeucwuehwae9cyi1cwdbirjzzbgvlmtdkognqt2fjyunimzdivvdhqwxkrezpvhjjs01xmuttv1u3x294t0pzbhznutldcjjizefwmfi4chdkvmncr0k5vvlonnzdyxl3vxridxfvuxdet0v5wfezowhzsehsbhbct2czyjdjuvetmvlqq2rqwxpduhk5zvjvr2s0zfzfqu1r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T18:49:00.000Z",
+          "description": "Jets collide at Idaho air show KTVB Two jets crash during Idaho air show as emergency crews rush to scene Fox News Two F-18 fighter jets have crashed during an airshow at Mountain Home Air Force Base KBOI Air force base in Idaho locked down after air show incident, officials say The Guardian Midair…"
         }
-      ]
+      ],
+      "summary": "Two military jets collided during the Gunfighter Skies Air Show at Mountain Home Air Force Base in Idaho. At least four parachutes were deployed before the aircraft crashed, according to reports."
     },
     {
-      "id": "topic_c6a09a896c1a9aab",
+      "id": "topic_7b6de74286035fbd",
+      "title": "Ukrainian Drone Barrage Kills at Least Three in Moscow Region",
+      "headline": "Ukraine drone attack kills at least three in Moscow region, Governor says",
       "label": [
-        "fernand",
-        "assist record",
-        "equal",
-        "fernand equal",
-        "record man",
-        "assist"
+        "kills",
+        "drone",
+        "ukraine",
+        "moscow",
+        "region",
+        "barrage"
       ],
       "category": "new",
-      "theme": "theme_c0ec408a89769153",
+      "theme": "theme_dbc06c7261c028a9",
       "entities": [
-        "Fernandes",
-        "VAR",
-        "Man United",
-        "Forest",
-        "Man Utd"
+        "Ukraine",
+        "Moscow",
+        "Governor",
+        "Mass Ukraine Drone Barrage",
+        "Kills"
       ],
-      "article_count": 4,
-      "source_count": 4,
+      "article_count": 12,
+      "source_count": 10,
       "articles": [
         {
-          "title": "Fernandes ties assist record and another VAR controversy as Man United beat Forest",
-          "url": "https://www.thehindu.com/sport/football/fernandes-ties-assist-record-and-another-var-controversy-as-man-united-beat-forest/article70991412.ece",
+          "title": "Ukraine drone attack kills at least three in Moscow region, Governor says",
+          "url": "https://www.thehindu.com/news/international/ukraine-drone-attack-kills-at-least-three-in-moscow-region-governor-says/article70989743.ece",
           "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-17T19:18:00.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/nbr099/article70991414.ece/alternates/LANDSCAPE_1200/Britain_Premier_League_Soccer_16827.jpg"
+          "published_at": "2026-05-17T06:39:19.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/bfctxl/article70989779.ece/alternates/LANDSCAPE_1200/2026-05-17T060927Z_1453956728_RC2TALA4O5O5_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DRONES-MOSCOW.JPG",
+          "description": "Russia's Defence Ministry said 556 drones ‌had been downed over the ​country, including the Moscow region, overnight and ⁠into the morning"
+        },
+        {
+          "title": "Mass Ukraine Drone Barrage Kills 3 in Moscow Region",
+          "url": "https://www.themoscowtimes.com/2026/05/17/mass-ukraine-drone-barrage-kills-3-in-moscow-region-a92772",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-05-17T08:07:35.000Z",
+          "description": "Russian air defenses shot down 556 drones in more than a dozen regions in one of the largest Ukrainian barrages of the ongoing conflict so far."
+        },
+        {
+          "title": "Ukraine drone attack kills at least three in Moscow region, governor says",
+          "url": "https://news.google.com/rss/articles/cbmitafbvv95cuxoay12bvzix0tpeg5gvgphx3nncdkxtfq2vu5vu3dxymfmrvbfdnribu1ndw1kalbwb1vucs1rec1ermm4sgq4nm53ajjjmm9ummixqzbjzw5vs3fwc1dtywhwrw8tr1p0vdb3u0phm2o1sw1nm2vtqv9icexym3h0budnmhdxmuhtvtjvyjk1afp2s2dhwezsue1eee55yzbwelvzbnriq0ctsi05zdn2tl9gdwm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T04:43:00.000Z",
+          "description": "Ukraine drone attack kills at least three in Moscow region, governor says Reuters Ukraine war briefing: US allows Russian oil sanctions waiver to lapse; unexploded projectile lands in Romania The Guardian Record Drone Attack on Moscow Kills Three, Targets Refinery Bloomberg.com At least 3 killed, n…"
+        },
+        {
+          "title": "Ukraine drone attack kills at least three in Moscow",
+          "url": "https://www.perthnow.com.au/news/conflict/ukraine-drone-attack-kills-at-least-three-in-moscow-c-22295989",
+          "source": "PerthNow",
+          "published_at": "2026-05-17T05:33:24.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22295989/3b164c1138ec86eb7d124bde8a82631915cee6ef-16x9-x0y0w1280h720.jpg",
+          "description": "Russia is trying to fend off massive aerial attacks from Ukrainian drones which have killed at least three people in the Moscow region."
+        },
+        {
+          "title": "Mass Ukraine drone barrage kills four in Russia",
+          "url": "https://www.japantimes.co.jp/news/2026/05/17/world/ukraine-drone-barrage-russia",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-05-17T08:12:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/17/540923.jpg",
+          "description": "The attack was one one of the largest Ukrainian barrages on Russian soil of the conflict so far."
+        }
+      ],
+      "summary": "A Ukrainian drone attack killed at least three people in Russia’s Moscow region, according to the regional governor. Russia’s Defence Ministry said its forces downed 556 drones across the country."
+    },
+    {
+      "id": "topic_95e8dfc6eefd49cf",
+      "title": "Senate Ruling Jeopardizes Federal Funding for Trump Ballroom",
+      "headline": "Federal funding for Trump's ballroom in jeopardy after Senate ruling",
+      "label": [
+        "ballroom",
+        "funding",
+        "senate",
+        "ruling",
+        "jeopardy",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_5de37b4f65980017",
+      "entities": [
+        "Federal",
+        "Trump",
+        "Senate",
+        "The Guardian",
+        "Funding"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Federal funding for Trump's ballroom in jeopardy after Senate ruling",
+          "url": "https://www.gmanetwork.com/news/topstories/world/987954/federal-funding-for-trump-s-ballroom-in-jeopardy-after-senate-ruling/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-05-17T15:18:21.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/05/2026-05-17T023740Z_52035876_RC239LA9JD3A_RTRMADP_3_USA-CONGRESS-BALLROOM_2026_05_17_23_14_46.JPG",
+          "description": "A US Senate official removed security funding that could be used for Trump's planned White House ballroom, imperiling Republican efforts to devote taxpayer money to the project."
+        },
+        {
+          "title": "Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling",
+          "url": "https://www.theguardian.com/us-news/2026/may/17/federal-funding-trump-ballroom-jeopardy-senate-ruling",
+          "source": "The Guardian",
+          "published_at": "2026-05-17T04:11:02.000Z",
+          "image": "https://i.guim.co.uk/img/media/729f44c9306cfbeb78995b88a083757fd584e5d7/547_180_4277_3424/master/4277.jpg?width=140&quality=85&auto=format&fit=max&s=aa767770195094756db68ad2f3e02598",
+          "description": "Proposal to fund $1bn in security additions for White House campus and president’s new ballroom fails to meet procedural rules A US Senate official on Saturday removed security funding that could be used for Donald Trump’s planned $400m White House ballroom from a massive spending package, Democrat…"
+        },
+        {
+          "title": "Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxoq2zqn2e2dex5rex4wf9nywt2zv9kti02eg44cei2yzlfrllwtkiyy0xrbm96qvbtamljevlgtjrewdhiu1dylus1q2n4r0zwu3dzwdltmu9nzldqyvqwlurqwhzhz3pazzhxtlcyymdwbxlcvfliuunjcu82qmjwzvnla1nosexwtzhiefg4z1nmywhkrlbumdnbd2hhuwdnzxdv",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T04:11:00.000Z",
+          "description": "Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling The Guardian Senate parliamentarian nixes Trump’s ballroom fund in budget bill NBC News Democrats frame Trump ballroom as symbol of Republican disconnect from voters' affordability woes Reuters Republicans revise ballroom se…"
+        },
+        {
+          "title": "Funding for Trump's White House ballroom in jeopardy",
+          "url": "https://www.perthnow.com.au/news/politics/funding-for-trumps-white-house-ballroom-in-jeopardy-c-22295471",
+          "source": "PerthNow",
+          "published_at": "2026-05-17T02:55:55.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22295471/c4a3be4913bd137506cb57c8be468050233b680a-16x9-x0y0w1280h720.jpg",
+          "description": "Donald Trump's plan to build a grandiose ballroom at the White House has been dealt a blow as Democrats seek to block funds needed for the contentious project."
+        },
+        {
+          "title": "Funding for Trump’s White House ballroom jeopardized by Senate ruling",
+          "url": "https://www.ms.now/news/funding-trump-white-house-ballroom-senate",
+          "source": "MS NOW",
+          "published_at": "2026-05-17T21:33:09.000Z",
+          "description": "The Senate parliamentarian says the ballroom proposal “inappropriately funds activities outside the jurisdiction” of the appropriate committee. The post Funding for Trump’s White House ballroom jeopardized by Senate ruling appeared first on MS NOW."
+        }
+      ],
+      "summary": "A Senate parliamentarian removed proposed security funding that could have supported President Donald Trump’s planned White House ballroom, ruling that the proposal did not meet procedural requirements."
+    },
+    {
+      "id": "topic_58808df96858a2fb",
+      "title": "Trump Warns Iran That Time to Reach a Deal Is Running Out",
+      "headline": "Trump says ’clock is ticking’ for Iran",
+      "label": [
+        "clock",
+        "ticking",
+        "iran",
+        "trump",
+        "warns",
+        "stall"
+      ],
+      "category": "new",
+      "theme": "theme_808c6269c5897bac",
+      "entities": [
+        "Trump",
+        "Iran",
+        "Reuters",
+        "Clock",
+        "Won"
+      ],
+      "article_count": 16,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Trump says ’clock is ticking’ for Iran",
+          "url": "https://www.investing.com/news/world-news/trump-says-clock-is-ticking-for-iran-4694551",
+          "source": "All News",
+          "published_at": "2026-05-17T15:00:26.000Z",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G09Z_L.jpg"
+        },
+        {
+          "title": "Trump says 'clock is ticking' for Iran",
+          "url": "https://news.google.com/rss/articles/cbmijwfbvv95cuxoluxmufbudxlrdzhmv0r0vfdfr0poeuf3tjvqvgphuw5ubglxqu9vaw4xr0xycjzqowjhbw1hve40rk5fsmzfauitug1rr3dzmur3zfk0vnhxvxfjt1bhzun1x2rmnjjstjvxdwd1m2jszhbglwmxdvfhtjfer0jwz3phuue3tlzlu0o4qthgbw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T16:55:17.000Z",
+          "description": "Trump says 'clock is ticking' for Iran Reuters Iran war live: Trump says ‘clock is ticking’ for Iran to make deal with US | US-Israel war on Iran News Al Jazeera US and Iran Far From Hormuz Deal as Drone Hits UAE Power Plant Bloomberg.com Trump Threatens Bloodbath During His Big Faith Event The Dai…"
+        },
+        {
+          "title": "Trump's stark warning: 'Clock ticking' for Iran",
+          "url": "https://tribune.com.pk/story/2608743/trumps-stark-warning-clock-ticking-for-iran",
+          "source": "express tribune",
+          "published_at": "2026-05-17T21:00:15.000Z",
+          "description": "Regional tensions escalate after drone strike ignites fire near UAE N-site"
+        },
+        {
+          "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+          "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo",
+          "source": "BBC News",
+          "published_at": "2026-05-17T18:08:16.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/9ba8d540-5215-11f1-8b8c-6d33e1d5abb6.jpg",
+          "description": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals."
+        },
+        {
+          "title": "Trump says ‘clock is ticking’ for Iran to make a deal — or else",
+          "url": "https://www.ms.now/news/trump-says-clock-is-ticking-for-iran-to-make-a-deal-or-else",
+          "source": "MS NOW",
+          "published_at": "2026-05-17T19:25:20.000Z",
+          "description": "The president spoke by phone Sunday to Israeli Prime Minister Benjamin Netanyahu and made his threat on the heels of a strike on the U.A.E. The post Trump says ‘clock is ticking’ for Iran to make a deal — or else appeared first on MS NOW."
+        }
+      ],
+      "summary": "President Donald Trump said the clock was ticking for Iran to reach a deal with the United States. His warning came amid stalled progress on peace efforts and reports of a recent strike on the UAE."
+    },
+    {
+      "id": "topic_a59bdb01bf844117",
+      "title": "Adam Driver Declines to Address Lena Dunham’s Memoir Claims",
+      "headline": "Adam Driver On Lena Dunham Memoir Claims: “I’m Saving It All For My Book” – Cannes",
+      "label": [
+        "dunham",
+        "lena",
+        "adam",
+        "driver",
+        "memoir",
+        "saving"
+      ],
+      "category": "new",
+      "theme": "theme_3be8e7965a52f4c8",
+      "entities": [
+        "Adam Driver On Lena",
+        "Dunham Memoir Claims",
+        "Saving It All For",
+        "My Book",
+        "Cannes"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Adam Driver On Lena Dunham Memoir Claims: “I’m Saving It All For My Book” – Cannes",
+          "url": "https://deadline.com/2026/05/adam-driver-lena-dunham-claims-cannes-1236907875",
+          "source": "Deadline",
+          "published_at": "2026-05-17T11:35:33.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276683820.jpg",
+          "description": "Adam Driver got a question at the Cannes press conference for Paper Tiger about the acerbic claims made about him by Lena Dunham in her recent memoir Famesick and, well, he shut it down. “I have no comment on any of that. I’m saving it all for my book,” said the 2x Oscar nominee. (See […]"
+        },
+        {
+          "title": "Adam Driver Brushes Off Lena Dunham Memoir Question in Cannes: ‘I’m Saving It All for My Book’",
+          "url": "https://variety.com/2026/film/festivals/adam-driver-lena-dunham-memoir-question-cannes-1236751474",
+          "source": "Variety",
+          "published_at": "2026-05-17T11:20:59.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/adam.jpg",
+          "description": "Adam Driver may be known for leading critically acclaimed films like “BlacKkKlansman” and blockbusters like “Star Wars,” but his career first gained steam on TV in Lena Dunham’s HBO series “Girls.” The show has been in the news again recently as Dunham’s memoir, “Famesick,” revealed behind-the-scen…"
+        },
+        {
+          "title": "Adam Driver On Lena Dunham Memoir Claims: “I’m Saving It All For My Book” – Cannes",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxpmzzkm1hgnenxbwvteevsq1v2t0ziuev4rw1rwu05m2fhmmjqnuvztmdobzbouvnisjjbcmfjcwdtuw55odzsrmdhuunhbf81rgdjyufdtw9vqmjdtfl3u05ozwe5txntzu9wqlvtbjdqr05kbndjovdgrgfmeglyrenbt3y",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T11:35:00.000Z",
+          "description": "Adam Driver On Lena Dunham Memoir Claims: “I’m Saving It All For My Book” – Cannes Deadline Adam Driver Brushes Off Lena Dunham Memoir Question in Cannes: ‘I’m Saving It All for My Book’ Yahoo Adam Driver Reacts to Lena Dunham's 'Famesick' Allegations, Jokingly Explains Why He Won't Respond Just Ja…"
+        },
+        {
+          "title": "Adam Driver responds to Lena Dunham’s memoir allegations",
+          "url": "https://www.smh.com.au/culture/movies/adam-driver-responds-to-lena-dunham-s-memoir-allegations-20260518-p5zxz0.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-05-17T23:21:20.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.35%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/q_86%2Cf_auto/dd7632f2d837d332a6fcb1d30f0402fb6ad80740",
+          "description": "Dunham accused her Girls co-star and on-screen love interest of behaving “something feral … half-man, half-beast” on set. Now he has broken his silence."
+        },
+        {
+          "title": "Adam Driver saving response to Lena Dunham allegations ‘for my book’",
+          "url": "https://www.theguardian.com/film/2026/may/17/adam-driver-response-lena-dunham-allegations-book-cannes-film-festival",
+          "source": "Film | The Guardian",
+          "published_at": "2026-05-17T15:56:26.000Z",
+          "image": "https://i.guim.co.uk/img/media/8060cf3f74a0caa497a39d6beb51062ad3249856/949_5_3997_3198/master/3997.jpg?width=140&quality=85&auto=format&fit=max&s=4e178c17576b6874d1ee04fa2bb421bf",
+          "description": "Actor otherwise has ‘no comment’ on Girls creator’s claims about his on-set behaviour as he speaks at Cannes film festival For weeks, Adam Driver has avoided commenting on allegations made about his on-set behaviour by Lena Dunham in her hit new memoir, Famesick. But at a press conference for Paper…"
+        }
+      ],
+      "summary": "At the Cannes Film Festival, Adam Driver declined to comment on claims Lena Dunham made about his behavior on the set of “Girls,” saying he was saving his response for his book."
+    },
+    {
+      "id": "topic_f7898e5b8a9c1165",
+      "title": "Bruno Fernandes Equals Premier League Assist Record",
+      "headline": "Bruno Fernandes equals assist record as Man United edge out Nottingham Forest",
+      "label": [
+        "fernandes",
+        "equals",
+        "assist",
+        "record",
+        "forest",
+        "man"
+      ],
+      "category": "new",
+      "theme": "theme_5a5f8de9a4122138",
+      "entities": [
+        "Bruno Fernandes",
+        "Man United",
+        "Nottingham Forest",
+        "Fernandes",
+        "Forest"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Bruno Fernandes equals assist record as Man United edge out Nottingham Forest",
+          "url": "https://www.breakingnews.ie/sport/bruno-fernandes-equals-assist-record-as-man-united-edge-out-nottingham-forest-1901086.html",
+          "source": "All: BreakingNews",
+          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTcxNDQ4MzJcXFwvMi44NDY0OTAzNC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4NmY4NGU4ZmJhNzg5YTQzMzRjZmEyN2RjODA0OTUzYWNkYmUzZDhkIn0=/2-84649034.jpg",
+          "description": "Fernandes racked up his 20th assist of the season."
+        },
+        {
+          "title": "Fernandes equals assist record as Man United edge out Forest",
+          "url": "https://sports.yahoo.com/articles/fernandes-equals-assist-record-man-135427135.html",
+          "published_at": "2026-05-17T13:54:27.000Z",
+          "description": "Bruno Fernandes equalled the Premier League assist record for a single season as Manchester United wrapped up third spot with Sunday’s entertaining 3-2 victory against Nottingham Forest. The 31-year-old has sparkled since turning down overtures from Saudi Arabia last summer, helping the Red Devils…"
         },
         {
           "title": "Fernandes equals assist record as Man Utd beat Forest",
           "url": "https://www.bbc.com/news/videos/cn8p59e3dz4o",
           "source": "BBC Sport",
           "published_at": "2026-05-17T19:04:56.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9c833610-521d-11f1-89a3-d1f559421220.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9c833610-521d-11f1-89a3-d1f559421220.jpg",
+          "description": "Bruno Fernandes earns his 20th Premier League assist of the season, equalling the record set by Kevin De Bruyne and Thierry Henry, as Manchester United defeat Nottingham Forest 3-2 in their final home game of the campaign at Old Trafford."
         },
         {
-          "title": "Bruno Fernandes equals Premier League record as Man Utd win VAR-marred clash",
-          "url": "https://www.indiatoday.in/sports/football/story/premier-league-bruno-fernandes-assist-record-man-united-nottingham-var-2913107-2026-05-17",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-17T16:19:40.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/manchester-united-17095459-16x9_0.jpg?VersionId=2CNjo_eDvumTGLya_FTKgQy0qN5vK8H6"
-        },
-        {
-          "title": "Bruno Fernandes equals assist record as Man United edge out Nottingham Forest",
-          "url": "https://www.breakingnews.ie/sport/bruno-fernandes-equals-assist-record-as-man-united-edge-out-nottingham-forest-1901086.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTcxNDQ4MzJcXFwvMi44NDY0OTAzNC5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4NmY4NGU4ZmJhNzg5YTQzMzRjZmEyN2RjODA0OTUzYWNkYmUzZDhkIn0=/2-84649034.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_7aa4bbace0b4dea2",
-      "label": [
-        "house ballroom",
-        "ballroom",
-        "white house",
-        "senate",
-        "fund",
-        "house"
-      ],
-      "category": "new",
-      "theme": "theme_9b0d78a68807e85d",
-      "entities": [
-        "Funding",
-        "Trump",
-        "White House",
-        "Senate",
-        "Senate Republicans"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "Funding for Trump’s White House ballroom jeopardized by Senate ruling",
-          "url": "https://www.ms.now/news/funding-trump-white-house-ballroom-senate",
-          "source": "MS NOW",
-          "published_at": "2026-05-17T21:33:09.000Z"
-        },
-        {
-          "title": "White House ballroom loses federal funding for security proposed by Senate Republicans - BBC",
-          "url": "https://news.google.com/rss/articles/cbmiwkfvx3lxte5rrlnfn3rkvldrvuttyvk5ohnrvvc4mfb6m2xtvktrz0f1q1llceo1y3rbvnzzbdz0zc1lm0e4cevqqy1ycg1xqvzmmkxpt0o1tnlyvezmyvl2zw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-17T20:20:05.000Z"
-        },
-        {
-          "title": "Senate GOP Overhauls White House Ballroom Security Funding Strategy Following Parliamentarian Decision",
-          "url": "https://internewscast.com/news/us/senate-gop-overhauls-white-house-ballroom-security-funding-strategy-following-parliamentarian-decision",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-17T19:21:38.000Z"
-        },
-        {
-          "title": "Senate GOP revising White House ballroom security funds plan",
-          "url": "https://www.cbsnews.com/news/senate-gop-revising-white-house-ballroom-security-funding-plan-after-parliamentarian-ruling",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-05-17T17:14:04.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_dd1318e2744cd414",
-      "label": [
-        "polar",
-        "royal order",
-        "order polar",
-        "polar star",
-        "pm modi",
-        "sweden"
-      ],
-      "category": "new",
-      "theme": "theme_2011f11f343051a9",
-      "entities": [
-        "PM Modi",
-        "Sweden",
-        "Royal Order",
-        "Polar Star",
-        "PM Modi Receives Sweden"
-      ],
-      "article_count": 4,
-      "source_count": 4,
-      "articles": [
-        {
-          "title": "PM Modi conferred with Sweden's Royal Order of Polar Star; his 31st global honour",
-          "url": "https://www.dnaindia.com/india/report-prime-minister-narendra-modi-conferred-with-sweden-top-award-royal-order-of-polar-star-commander-grand-cross-his-31st-global-honour-so-far-ulf-kristersson-european-tour-news-updates-3210685",
-          "source": "India News",
-          "published_at": "2026-05-17T18:27:00.000Z",
-          "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/05/18/2749163-pm-modi-sweden-ani.png"
-        },
-        {
-          "title": "PM Modi receives Sweden's Royal Order of Polar Star, his 31st global honour",
-          "url": "https://www.indiatoday.in/india/story/pm-modi-receives-swedens-royal-order-of-polar-star-his-31st-global-honour-2913122-2026-05-17",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-05-17T18:06:58.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/pm-modi--sweden-175938114-16x9_0.jpg?VersionId=27G0hM2EpeKr5VP9E4q11M40z6qDMSA4"
-        },
-        {
-          "title": "PM Modi receives Sweden’s prestigious award Royal Order of Polar Star",
-          "url": "https://www.thehindu.com/news/national/pm-modi-receives-swedens-prestigious-award-royal-order-of-polar-star/article70991325.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-05-17T17:23:22.000Z",
-          "image": "https://th-i.thgim.com/public/incoming/wvfo79/article70991351.ece/alternates/LANDSCAPE_1200/20260517502L.jpg"
-        },
-        {
-          "title": "PM Modi Receives Sweden's Top Honour, Royal Order Of Polar Star",
-          "url": "https://www.ndtv.com/world-news/pm-modi-receives-swedens-top-honour-royal-order-of-polar-star-11508986",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-05-17T16:28:11.000Z",
-          "image": "https://c.ndtvimg.com/2026-05/0bghup1s_pm-modi-sweden_625x300_17_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
-        }
-      ]
-    },
-    {
-      "id": "topic_5c62617f04633328",
-      "label": [
-        "aliado",
-        "reenviar",
-        "indica",
-        "messia",
-        "lula diz",
-        "diz aliado"
-      ],
-      "category": "new",
-      "theme": "theme_8cd83063a1b67aa4",
-      "entities": [
-        "Lula",
-        "Senado",
-        "Messias",
-        "STF"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Lula diz a aliados que vai reenviar ao Senado indicação de Messias para vaga do STF",
-          "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-diz-a-aliados-que-vai-reenviar-ao-senado-indicacao-de-messias-para-vaga-do-stf",
-          "source": "Jornal de Brasília",
-          "published_at": "2026-05-17T16:53:28.000Z",
-          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/05/17135251/AFP__20250926__76WM9TU__v1__MidRes__BrazilPoliticsMiningDisasterEnvironmentBrumadinh.jpg"
-        },
-        {
-          "title": "Lula diz a aliados que vai reenviar ao Senado indica��o de Messias para vaga do STF",
-          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-diz-a-aliados-que-vai-reenviar-ao-senado-indicacao-de-messias-para-vaga-do-stf.shtml",
-          "source": "Folha de S.Paulo - Em cima da hora - Principal",
-          "published_at": "2026-05-17T16:14:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_341076eae2bfb03c",
-      "label": [
-        "cubana",
-        "priest",
-        "cubana chief",
-        "chief priest",
-        "chief",
-        "apc primary"
-      ],
-      "category": "new",
-      "theme": "theme_5610bcbbd0b7a58d",
-      "entities": [
-        "Cubana Chief",
-        "Structure",
-        "Loyalty",
-        "APC",
-        "Never Participated In APC"
-      ],
-      "article_count": 6,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Cubana Chief priest: Structure, Loyalty, grassroots base override online popularity in lmo APC primaries",
-          "url": "https://dailypost.ng/2026/05/17/cubana-chief-priest-structure-loyalty-grassroots-base-override-online-popularity-in-lmo-apc-primaries",
+          "title": "EPL: Bruno Fernandes equals assist record as Man Utd beat Nottingham Forest",
+          "url": "https://dailypost.ng/2026/05/17/epl-bruno-fernandes-equals-assist-record-as-man-utd-beat-nottingham-forest",
           "source": "Daily Post Nigeria",
-          "published_at": "2026-05-17T18:37:35.000Z",
-          "image": "https://dailypost.ng/wp-content/uploads/2022/04/Cubana-Chief-Priest.jpg"
+          "published_at": "2026-05-17T14:55:21.000Z",
+          "image": "https://dailypost.ng/wp-content/uploads/2025/08/Bruno-fernandes-man-utd_6982279.jpg",
+          "description": "Manchester United captain, Bruno Fernandes, has equalled the Premier League record of 20 assists in a season. Fernandes is now level with Kevin De Bruyne and Thierry Henry. He hit the milestone, after laying across a pass that Bryan Mbeumo scored United’s third. The win ensured that the Red Devils…"
         },
         {
-          "title": "“I Never Participated In APC Primary” – Cubana Chief Priest",
-          "url": "https://www.informationng.com/2026/05/i-never-participated-in-apc-primary-cubana-chief-priest.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-05-17T17:20:37.000Z"
-        },
-        {
-          "title": "Cubana Chief Priest: I Stepped Down Before APC Primary, Did Not Participate",
-          "url": "https://www.nigerianeye.com/2026/05/cubana-chief-priest-i-stepped-down.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-05-17T17:07:49.390Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotG7QwdFkp_whqFkXUByBkkUQg7vncN0NnWt0bQgzcmjLDzPqpzWIa8cvNheUa2QakI6gM1nHdGyN_jZCL7LnAH-GfW9VR5KMiIosLJsLZAkt-WCLogzrog-MaCO3C3w_VHsjEtLOA4o3EXg6uAG64DIkMpOlXY_L9uA21eMm7Fn4TPoxYJSY_7U5JJM/s72-w400-h225-c/1001920314.jpg"
+          "title": "Fernandes equals assist record as United edge Forest in thriller",
+          "url": "https://www.the42.ie/fernandes-assist-record-7042502-may2026",
+          "source": "The 42",
+          "published_at": "2026-05-17T13:48:19.000Z",
+          "image": "https://c1.thejournal.ie/media/2026/05/manchester-uk-17th-may-2026-neco-williams-of-nottingham-forest-dives-in-to-attempt-to-block-matheus-cunha-of-manchester-united-during-the-manchester-united-vs-nottingham-forest-premier-league-matc-cfa6c25d-25ee-4d7b-a5cc-744df5947958-630x469.jpg",
+          "description": "The recently crowned football writers’ player of the season now has 20 assists this term."
         }
-      ]
+      ],
+      "summary": "Bruno Fernandes recorded his 20th Premier League assist of the season, equaling the single-season record held by Kevin De Bruyne and Thierry Henry. Manchester United beat Nottingham Forest 3-2."
     },
     {
-      "id": "topic_6ffcfaf6a2d9b059",
+      "id": "topic_94813ea74e92e600",
+      "title": "New Potential Victims Come Forward in French Epstein Investigation",
+      "headline": "Affaire Epstein : une « dizaine » de nouvelles victimes se sont manifestées auprès du parquet de Paris",
       "label": [
-        "hawaiian",
-        "rock hawaiian",
-        "hawaiian seal",
-        "tourist",
-        "rock",
-        "seal"
+        "affaire",
+        "dizaine",
+        "nouvelles",
+        "epstein",
+        "victimes",
+        "parquet"
       ],
       "category": "new",
-      "theme": "theme_484c711b71deeef5",
+      "theme": "theme_4c4460523362e00",
       "entities": [
-        "Arrogant",
-        "Hawaiian",
-        "Shocking Excuse",
-        "Tourist Caught",
-        "Camera Throwing Rock"
+        "Affaire Epstein",
+        "Paris",
+        "Affaire Jeffrey Epstein",
+        "Epstein"
       ],
-      "article_count": 3,
-      "source_count": 3,
+      "article_count": 9,
+      "source_count": 9,
       "articles": [
         {
-          "title": "Arrogant tourist who threw huge rock at Hawaiian seal gives ridiculous reason for attack",
-          "url": "https://nypost.com/2026/05/17/us-news/arrogant-tourist-who-threw-huge-rock-at-hawaiian-seal-gives-ridiculous-reason-for-attack",
-          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
-          "published_at": "2026-05-17T20:31:44.000Z",
-          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2FAP_Hawaii_Endangered_Seal_Harassment_56495-a2d65-0.jpg?w%3D1024"
+          "title": "Affaire Epstein : une « dizaine » de nouvelles victimes se sont manifestées auprès du parquet de Paris",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-epstein/affaire-epstein-une-dizaine-de-nouvelles-victimes-se-sont-manifestees-aupres-du-parquet-de-paris-29104908.php",
+          "source": "L'essentiel",
+          "published_at": "2026-05-17T12:11:32.000Z",
+          "description": "Le parquet de Paris poursuit ses investigations sur le réseau du criminel sexuel Jeffrey Epstein après l’identification de nouvelles victimes potentielles"
         },
         {
-          "title": "Shocking Excuse: Tourist Caught on Camera Throwing Rock at Hawaiian Seal",
-          "url": "https://internewscast.com/news/shocking-excuse-tourist-caught-on-camera-throwing-rock-at-hawaiian-seal",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-17T18:47:25.000Z"
-        },
-        {
-          "title": "Vile tourist filmed hurling rock at Hawaiian seal then bragging 'I'm rich' offers astonishing excuse for his behavior",
-          "url": "https://www.dailymail.com/news/article-15824047/tourist-filmed-rock-hawaii-seal-excuse.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-05-17T17:58:55.000Z",
-          "image": "https://i.dailymail.com/1s/2026/05/17/18/108674547-0-image-a-66_1779039379642.jpg"
-        }
-      ]
-    },
-    {
-      "id": "topic_d6eff07c05938a55",
-      "label": [
-        "national mall",
-        "mall",
-        "national",
-        "gather national",
-        "gather",
-        "prayer rally"
-      ],
-      "category": "new",
-      "theme": "theme_b3471b13443f7979",
-      "entities": [
-        "Massive Gathering",
-        "National Mall Celebrates Religious",
-        "Festival",
-        "Thousands",
-        "National Mall"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Massive Gathering at National Mall Celebrates Religious Festival",
-          "url": "https://internewscast.com/news/massive-gathering-at-national-mall-celebrates-religious-festival",
-          "source": "Internewscast Journal",
-          "published_at": "2026-05-17T20:15:30.000Z"
-        },
-        {
-          "title": "Thousands gather on National Mall for daylong prayer rally",
-          "url": "https://www.theguardian.com/us-news/2026/may/17/dc-national-mall-prayer-rally",
-          "source": "World news | The Guardian",
-          "published_at": "2026-05-17T19:47:23.000Z",
-          "image": "https://i.guim.co.uk/img/media/e338a80952672574623b9646923dddfae28d05a8/309_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=7a58700727004c4c999cbbc94d3cfde9"
-        },
-        {
-          "title": "Crowds pack into Washington's National Mall for prayer rally - PBS",
-          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxpaxjxx3z4tkhzrdbquey3vknfoffytgyzzw83z0k0ctzfeefcus1immvndklrt2rsdej2yzlksudawky4sjvgcjrrd2dquefoeufztkzubdbkqzvjdkrpywzqvfh3eknwzju4lupwtuhcsmrvz3yzz19zzfngdm92rk1jq1vvvkpslwgtqm9nbzj1me9yx2ntn1r3v3czqq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-05-17T16:55:42.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_fccaef141d00d25c",
-      "label": [
-        "sunderland",
-        "everton",
-        "alive",
-        "keep",
-        "hop alive",
-        "hop"
-      ],
-      "category": "new",
-      "theme": "theme_c1586ba8b00a2ce7",
-      "entities": [
-        "Sunderland",
-        "European",
-        "Everton",
-        "Europe",
-        "Le Bris"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Sunderland comeback keeps European hopes alive at Everton’s expense",
-          "url": "https://www.breakingnews.ie/sport/sunderland-comeback-keeps-european-hopes-alive-at-evertons-expense-1901131.html",
-          "source": "All: BreakingNews",
-          "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDVcXFwvMTcxODA5MzRcXFwvMi44NDY1MTUzOS1lMTc3OTAzNzk0MjM0OS5qcGdcIixcIndpZHRoXCI6MTAyNCxcImhlaWdodFwiOm51bGwsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiNmU0MmYyYTY2N2EyM2JlNWJmYTg5Mjc0ZjQ5YjQ3ZjhjY2I1YjRkIn0=/2-84651539-e1779037942349.jpg"
-        },
-        {
-          "title": "Sunderland keep Europe hopes alive with win at Everton",
-          "url": "https://www.bbc.com/news/videos/c072pz447geo",
-          "source": "BBC Sport",
-          "published_at": "2026-05-17T19:01:20.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe9/live/16b1c620-521b-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Le Bris provides update on injured star after Sunderland keep European dream alive with win over Everton",
-          "url": "https://sports.yahoo.com/articles/le-bris-provides-injured-star-175000064.html",
-          "published_at": "2026-05-17T17:50:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "topic_bc122c9a911dfab7",
-      "label": [
-        "une",
-        "frappe",
-        "frappe de",
-        "drone pr",
-        "de drone",
-        "centrale"
-      ],
-      "category": "new",
-      "theme": "theme_a7e24317c6ab3a23",
-      "entities": [
-        "Les",
-        "Frappe",
-        "Barakah",
-        "Emirats",
-        "Une"
-      ],
-      "article_count": 3,
-      "source_count": 3,
-      "articles": [
-        {
-          "title": "Les Émirats s’alarment d’une « escalade dangereuse » après une frappe de drone près d’une centrale",
-          "url": "https://www.huffingtonpost.fr/international/article/les-emirats-s-alarment-d-une-escalade-dangereuse-apres-une-frappe-de-drone-pres-d-une-centrale_263819.html",
-          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
-          "published_at": "2026-05-17T21:08:37.000Z",
-          "image": "https://focus.huffingtonpost.fr/2026/05/17/309/0/5923/3331/0/0/60/0/1d13ef9_upload-1-g6nztvsewapn-afp-20260305-2264958756-v3-highres-gulfstatescondemniranattacksandvowfirmrespon.jpg"
-        },
-        {
-          "title": "Frappe de drone près de la centrale nucléaire de Barakah, les Emirats dénoncent une escalade dangereuse",
-          "url": "https://www.rtbf.be/article/frappe-de-drone-pres-de-la-centrale-nucleaire-de-barakah-les-emirats-denoncent-une-escalade-dangereuse-11725338",
-          "source": "- Info",
-          "published_at": "2026-05-17T17:05:22.000Z",
-          "image": "https://static-content.rtbf.be/article/image/770x433/9/9/8/767b7d6d19e89b8b0b4e959322e4a35e.jpg"
-        },
-        {
-          "title": "Une frappe de drone près d'une centrale nucléaire aux Emirats arabes unis provoque un incendie sans faire de blessés",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/une-frappe-de-drone-pres-d-une-centrale-nucleaire-aux-emirats-arabes-unis-provoque-un-incendie-sans-faire-de-blesses_8010002.html",
+          "title": "Affaire Jeffrey Epstein : \"une dizaine\" de nouvelles victimes se sont manifestées auprès du parquet de Paris",
+          "url": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-jeffrey-epstein-une-dizaine-de-nouvelles-victimes-se-sont-manifestees-aupres-du-parquet-de-paris_8009807.html",
           "source": "franceinfo - Les Titres",
-          "published_at": "2026-05-17T16:32:20.000Z",
-          "image": "https://www.franceinfo.fr/pictures/sBz3020abKeOzUByG02OWkMjmoM/0x93:1024x669/432x243/filters:format(jpg)/2026/05/17/6a09e9bf772bd502816406.jpg"
+          "published_at": "2026-05-17T11:52:25.000Z",
+          "image": "https://www.franceinfo.fr/pictures/E9uPe_12lpVDBTUjS_icaJgZq2I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/17/6a09abf25b1b7473746887.jpg",
+          "description": "C'est ce qu'a fait savoir la procureure de Paris, Laure Beccuau, dimanche sur Public Sénat et RTL."
+        },
+        {
+          "title": "Dans l’affaire Epstein, une dizaine de nouvelles victimes se sont déclarées à la justice",
+          "url": "https://www.huffingtonpost.fr/france/article/dans-l-affaire-epstein-une-dizaine-de-nouvelles-victimes-se-sont-declarees-a-la-justice_263812.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-05-17T16:59:34.000Z",
+          "image": "https://focus.huffingtonpost.fr/2026/02/10/107/0/1200/675/0/0/60/0/228316a_upload-1-jrctngdhk0q0-afp-20260209-96rl2gl-v1-midres-uspoliticsjusticeepstein.jpg",
+          "description": "Cela porte à une vingtaine le nombre de victimes qui se sont manifestées dans le cadre de l’enquête pour « traite des êtres humains » après la publication des dossiers Epstein."
+        },
+        {
+          "title": "Affaire Epstein : le parquet de Paris recense une dizaine de nouvelles victimes présumées",
+          "url": "https://www.ladepeche.fr/2026/05/17/affaire-epstein-le-parquet-de-paris-recense-une-dizaine-de-nouvelles-victimes-presumees-13375497.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-05-17T13:50:14.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a09c73b4c6da574030203c2/standard/image.jpg?v=1",
+          "description": "Une dizaine de nouvelles victimes présumées se sont manifestées auprès du parquet de Paris dans le cadre de l’enquête française liée à Jeffrey Epstein. Sur \"RTL\", ce dimanche 17 mai, la procureure de Paris, Laure..."
         }
-      ]
+      ],
+      "summary": "About ten additional potential victims have come forward to the Paris prosecutor’s office in its investigation linked to Jeffrey Epstein. The new reports bring the number of people who have come forward to around 20."
+    },
+    {
+      "id": "topic_47c4afad3cfe2508",
+      "title": "Napoleon Solo Wins Preakness Stakes",
+      "headline": "Napoleon Solo wins Preakness Stakes",
+      "label": [
+        "napoleon",
+        "preakness",
+        "solo",
+        "stakes",
+        "iron",
+        "honor"
+      ],
+      "category": "new",
+      "theme": "theme_1483833875ace04a",
+      "entities": [
+        "Napoleon Solo",
+        "Preakness Stakes",
+        "Iron Honor",
+        "Preakness",
+        "NPR"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Napoleon Solo wins Preakness Stakes",
+          "url": "https://sports.yahoo.com/articles/napoleon-solo-wins-preakness-stakes-004950115.html",
+          "published_at": "2026-05-17T00:49:50.000Z",
+          "description": "Napoleon Solo won Saturday's Preakness Stakes, as none of the three Kentucky Derby starters hit the board in the second leg of the Triple Crown."
+        },
+        {
+          "title": "Napoleon Solo bests Iron Honor to win Preakness",
+          "url": "https://www.espn.com/horse-racing/story/_/id/48790815/napoleon-solo-holds-iron-honor-win-preakness",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-05-17T00:51:32.000Z",
+          "description": "Napoleon Solo held off Iron Honor down the stretch to win the Preakness Stakes on Saturday, rebounding from a pair of fifth-place showings for his first victory of the year."
+        },
+        {
+          "title": "Napoleon Solo holds off Iron Honor to win the Preakness",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxou2rvaupwt2twalrmsdfhv0xsmhdqnvpmdwiyzkpru0xldxp1sfe2btdzwe42rjrudmixu0tyz0hjrfzywmkxckdsehhvbvu1cmlkq1bxq1dqrufszkx1v2hawww3bum2yvf5ywfvr19rt3nxrjezx042ujbltjz3mfzmazi",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T00:52:20.000Z",
+          "description": "Napoleon Solo holds off Iron Honor to win the Preakness NPRSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Napoleon Solo Triumphs in Preakness Stakes Victory at Laurel Park",
+          "url": "https://internewscast.com/news/us/napoleon-solo-triumphs-in-preakness-stakes-victory-at-laurel-park",
+          "source": "Internewscast Journal",
+          "published_at": "2026-05-17T07:17:32.000Z",
+          "description": "Internewscast Journal Internewscast In a thrilling showdown at the 151st Preakness Stakes, Napoleon Solo surged… This Post: Napoleon Solo Triumphs in Preakness Stakes Victory at Laurel Park first appeared on Internewscast Journal"
+        },
+        {
+          "title": "Napoleon Solo holds off Iron Honor by 1 1/4 lengths to win the Preakness at Laurel Park",
+          "url": "https://japantoday.com/category/sports/preakness-day-is-underway-in-a-quiet-scene-at-laurel-park-which-replaces-pimlico-as-host-this-year",
+          "source": "Japan Today",
+          "published_at": "2026-05-17T01:54:58.000Z",
+          "description": "Napoleon Solo reemerged as a colt to watch with a victory in the Preakness Stakes. Now trainer Chad Summers wants a shot at Kentucky Derby winner Golden Tempo,…"
+        }
+      ],
+      "summary": "Napoleon Solo won the Preakness Stakes, holding off Iron Honor by 1¼ lengths. None of the three Kentucky Derby starters finished among the top contenders."
+    },
+    {
+      "id": "topic_fc5d8857df84f95d",
+      "title": "Venezuela Deports Alex Saab to the United States",
+      "headline": "Venezuela deports Maduro ally Alex Saab to US",
+      "label": [
+        "venezuela",
+        "saab",
+        "maduro",
+        "alex",
+        "ally",
+        "deports"
+      ],
+      "category": "new",
+      "theme": "theme_1dd2148bb539b17c",
+      "entities": [
+        "Venezuela",
+        "Maduro",
+        "Alex Saab",
+        "US",
+        "DW"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Venezuela deports Maduro ally Alex Saab to US",
+          "url": "https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876",
+          "source": "Deutsche Welle",
+          "published_at": "2026-05-17T02:53:00.000Z",
+          "description": "Alex Saab fell out of favor with the new administration that took power since Maduro’s ouster and capture by US forces in January."
+        },
+        {
+          "title": "Venezuela deports Maduro ally Alex Saab to US",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxocmhvnej1ns00oevmewpvmgx5euxpzngyd0deuerxz0vebwtkset4ehy3avnjx1f6s3vicmzqzkrnmnnmowj4x2t6dzllvuvpbze3bkxvvhm4teg5x2q3skxom3qxdffzctu4b29yank0auviyvktuzr6ry0ts0hqvmtruhlsayqbqvvfexfmuhzwsgv5zjzozdjvn0k4bnjfzlr6wwxnt2z4zwlzwjjiwwxsog81zk5muu93rnpztvvmz0o0clmtwxczbvdrdujra1cxt2rocljvzflxq3otthp2v0dlr2nfqmplmnjuc1vpcg54thnwcex3njjnqzjpywy3lwnitlvpa1rv",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T03:27:17.000Z",
+          "description": "Venezuela deports Maduro ally Alex Saab to US DW.com Venezuela Extradites Billionaire Tycoon to the U.S. The New York Times Venezuela says it deported a close ally of Maduro to face criminal proceedings in US AP News Venezuelan official Alex Saab, a Maduro ally, deported to US Reuters Maduro's alle…"
+        },
+        {
+          "title": "Venezuela expels Maduro ally Alex Saab to US again",
+          "url": "https://www.lemonde.fr/en/international/article/2026/05/17/venezuela-expels-maduro-ally-alex-saab-to-us-again_6753531_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-05-17T03:57:31.000Z",
+          "image": "https://img.lemde.fr/2026/05/16/63/0/5508/2754/644/322/60/0/931150a_ftp-1-90oql6azzut2-ba3d0f1735234cd6b5c16a3d186d67bb-0-8926b73436f74908bbbd8f7b25bd699a.jpg",
+          "description": "While the extradition of a Venezuelan citizen is technically prohibited under the constitution, the country's immigration authority determined that Alex Saab, an ally of Venezuela's captured former president Nicolas Maduro, was a Colombian national and ordered him 'deported' to the United States."
+        },
+        {
+          "title": "Venezuela Deports Maduro’s Top Financier Alex Saab to the U.S.",
+          "url": "https://www.riotimesonline.com/venezuela-deports-maduros-top-financier-alex-saab-to-the-us",
+          "source": "The Rio Times",
+          "published_at": "2026-05-17T19:40:05.000Z",
+          "description": "Venezuela deported Alex Saab, Maduro's longtime financier, to Miami on Saturday. He may now testify against Maduro in his New York narcoterrorism trial. The post Venezuela Deports Maduro’s Top Financier Alex Saab to the U.S. appeared first on The Rio Times."
+        },
+        {
+          "title": "Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.",
+          "url": "https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-05-17T01:26:02.000Z",
+          "image": "https://static01.nyt.com/images/2026/01/10/multimedia/16int-venezuela-saab/16int-venezuela-saab-mediumSquareAt3X.jpg",
+          "description": "The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power."
+        }
+      ],
+      "summary": "Venezuela deported Alex Saab, a close ally and longtime financier of former president Nicolás Maduro, to the United States. Saab is expected to face criminal proceedings there, according to reports."
+    },
+    {
+      "id": "topic_c20c0dff0bc34c82",
+      "title": "Mike Perry Stops Nate Diaz in Two-Round Fight",
+      "headline": "Mike Perry bloodies, beats Nate Diaz in two rounds",
+      "label": [
+        "diaz",
+        "perry",
+        "nate",
+        "mike",
+        "bloody",
+        "vs"
+      ],
+      "category": "new",
+      "theme": "theme_a3797af25d970ddf",
+      "entities": [
+        "Mike Perry",
+        "Nate Diaz",
+        "Mike Perry Batters Nate",
+        "Diaz In Bloody TKO",
+        "Win"
+      ],
+      "article_count": 15,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Mike Perry bloodies, beats Nate Diaz in two rounds",
+          "url": "https://sports.inquirer.net/676875/mike-perry-bloodies-beats-nate-diaz-in-two-rounds",
+          "source": "INQUIRER.net",
+          "published_at": "2026-05-17T09:15:41.000Z",
+          "image": "https://sports.inquirer.net/files/2026/05/AP26137129604923-620x413.jpg",
+          "description": "INGLEWOOD, California — Mike Perry beat Nate Diaz in a two-round welterweight brawl Saturday night on the undercard of Ronda Rousey’s comeback fight against Gina Carano. Perry (15-8) earned his first victory in mixed martial arts since June 2020 with 10 minutes of steady punishment for the 41-year-…"
+        },
+        {
+          "title": "Mike Perry Batters Nate Diaz In Bloody TKO Win",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/05/16/mike-perry-batters-nate-diaz-into-bloody-tko-win",
+          "source": "Forbes - Business",
+          "published_at": "2026-05-17T03:44:45.000Z",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a093844545897855e79bbea/0x0.jpg?width=960",
+          "description": "Mike Perry battered Nate Diaz over two bloody rounds at MVP MMA 1, with Diaz's corner pulling him out at the end of Round 2 for an official doctor's stoppage TKO at 5:00."
+        },
+        {
+          "title": "Nate Diaz vs. Mike Perry full fight video highlights",
+          "url": "https://sports.yahoo.com/articles/nate-diaz-vs-mike-perry-033123699.html",
+          "published_at": "2026-05-17T03:31:23.000Z",
+          "description": "Mike Perry rolls against Nate Diaz in the MVP MMA co-main event"
+        },
+        {
+          "title": "Nate Diaz vs Mike Perry Netflix blockbuster stopped early due to nasty cuts in bloody war",
+          "url": "https://talksport.com/mma/4264204/nate-diaz-mike-perry-netflix-fight-result-rousey-carano",
+          "source": "talkSPORT",
+          "published_at": "2026-05-17T03:49:53.000Z"
+        },
+        {
+          "title": "Nate Diaz answers retirement calls after brutal beatdown against Mike Perry on Netflix",
+          "url": "https://news.google.com/rss/articles/cbmivwfbvv95cuxot2dta1jmsu5nbwd5vtlsaxrkwwdtqv96muzmovg3dgf2cfuwsmjzthdav0hqajg2adfzd21omhy1ohhgnnpsuhfhn3z4zfdsmno1uzlpx1bvwe5bqlnpmuctmex3wko0bejtwnbjc0rnbw5negs2bfdnbddkazvfcgnvwlbfnwdix3lgm2hxsvrrqja3ewdnm2j1rmmwsdvfdhpsx2jncvr1udbcvxytvfbgmhutqzhla3v4rgmxwq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-05-17T14:00:00.000Z",
+          "description": "Nate Diaz answers retirement calls after brutal beatdown against Mike Perry on Netflix Bloody Elbow Mike Perry batters, bloodies Nate Diaz into corner stoppage ESPN Rousey vs. Carano results: Mike Perry dominates Nate Diaz for bloody victory, immediately calls out Jake Paul Yahoo Sports Nate Diaz R…"
+        }
+      ],
+      "summary": "Mike Perry defeated Nate Diaz in a bloody welterweight bout at MVP MMA 1. Diaz’s corner stopped the fight after the second round, and it was ruled a doctor’s-stoppage TKO."
     }
   ]
 }
