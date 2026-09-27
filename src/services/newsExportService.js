@@ -126,7 +126,24 @@ function applySummaries(topicObjects, summaries) {
 }
 
 /**
- * Export top topics for `date` to news/<date>.json.
+ * Rewrite news/index.json: the sorted list of exported dates. The viewer reads it to find the
+ * latest day and prev/next neighbours, so gaps in the archive don't break navigation.
+ */
+export async function writeNewsIndex() {
+  const files = await fs.readdir(NEWS_DIR);
+  const dates = files
+    .map(file => /^(\d{4}-\d{2}-\d{2})\.json$/.exec(file)?.[1])
+    .filter(Boolean)
+    .sort();
+  const indexPath = path.join(NEWS_DIR, 'index.json');
+  const tmpPath = path.join(NEWS_DIR, '.index.json.tmp');
+  await fs.writeFile(tmpPath, `${JSON.stringify({ dates }, null, 2)}\n`, 'utf8');
+  await fs.rename(tmpPath, indexPath);
+  return dates;
+}
+
+/**
+ * Export top topics for `date` to news/<date>.json (and refresh news/index.json).
  * `db` must implement getTopicsBetweenDates(start, end) and getArticlesForTopic(topicId, limit).
  * Returns number of articles written, or null if file already existed and force=false.
  */
@@ -161,5 +178,6 @@ export async function exportNewsForDate(db, date, { force = false, summarize = t
 
   await fs.writeFile(tmpPath, JSON.stringify(output, null, 2), 'utf8');
   await fs.rename(tmpPath, outPath);
+  await writeNewsIndex();
   return topicObjects.reduce((sum, topic) => sum + topic.articles.length, 0);
 }

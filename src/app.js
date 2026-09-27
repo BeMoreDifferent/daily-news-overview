@@ -267,7 +267,7 @@ async function exportYesterdayIfMissing() {
     const articleCount = await Promise.race([exportNewsForDate(duckDBService, yesterday), exportTimeout]);
     if (articleCount) {
       console.log(`News export: wrote ${relPath} in ${Date.now() - startedAt}ms`);
-      await gitCommitAndPush(relPath, yesterday);
+      await gitCommitAndPush([relPath, 'news/index.json'], yesterday);
     } else {
       console.warn(`News export: no topics for ${yesterday}`);
     }
@@ -330,13 +330,13 @@ async function mapConcurrent(items, concurrency, mapper) {
   return results;
 }
 
-async function gitCommitAndPush(filePath, date) {
+async function gitCommitAndPush(filePaths, date) {
   const GIT_TIMEOUT_MS = 60_000;
   try {
-    await execFile('git', ['add', filePath], { timeout: GIT_TIMEOUT_MS });
+    await execFile('git', ['add', ...filePaths], { timeout: GIT_TIMEOUT_MS });
     await execFile('git', ['commit', '-m', `news: add ${date} daily topics export`], { timeout: GIT_TIMEOUT_MS });
     await execFile('git', ['push'], { timeout: GIT_TIMEOUT_MS });
-    console.log(`News export: committed and pushed ${filePath}`);
+    console.log(`News export: committed and pushed ${filePaths.join(', ')}`);
   } catch (err) {
     console.warn(`News export git push failed: ${err.stderr || err.message}`);
   }

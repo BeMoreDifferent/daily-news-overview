@@ -33,7 +33,23 @@ async function fileExists(date) {
   }
 }
 
+// news/index.json lists every exported date; null when missing (older deployments), in which
+// case the viewer falls back to probing files day by day.
+let indexPromise = null;
+function loadIndex() {
+  if (!indexPromise) {
+    indexPromise = fetch('news/index.json', { cache: 'no-cache' })
+      .then(res => (res.ok ? res.json() : null))
+      .then(data => (Array.isArray(data?.dates) ? data.dates.filter(d => DATE_RE.test(d)).sort() : null))
+      .catch(() => null);
+  }
+  return indexPromise;
+}
+
 async function findLatestDate() {
+  const dates = await loadIndex();
+  if (dates?.length) return dates[dates.length - 1];
+
   const cached = sessionStorage.getItem(CACHE_KEY);
   if (cached) return cached;
 
@@ -53,14 +69,14 @@ function hashDate() {
   return DATE_RE.test(h) ? h : null;
 }
 
-function setNav(date, prevExists, nextExists) {
+function setNav(date, prevDate, nextDate) {
   document.getElementById('nav-date').textContent = date;
 
   const prev = document.getElementById('nav-prev');
   const next = document.getElementById('nav-next');
 
-  if (prevExists) {
-    prev.href = '#' + shiftDate(date, -1);
+  if (prevDate) {
+    prev.href = '#' + prevDate;
     prev.classList.remove('disabled');
     prev.removeAttribute('aria-disabled');
   } else {
@@ -69,8 +85,8 @@ function setNav(date, prevExists, nextExists) {
     prev.setAttribute('aria-disabled', 'true');
   }
 
-  if (nextExists) {
-    next.href = '#' + shiftDate(date, 1);
+  if (nextDate) {
+    next.href = '#' + nextDate;
     next.classList.remove('disabled');
     next.removeAttribute('aria-disabled');
   } else {
@@ -268,17 +284,22 @@ async function loadDate(date) {
     content.innerHTML = isNotFound
       ? `<p class="error-msg">No news found for ${formatDate(date)}. <a href="#">Go to latest</a></p>`
       : `<p class="error-msg">Failed to load news for ${date}. Try refreshing.</p>`;
-    setNav(date, false, false);
+    setNav(date, null, null);
     return;
   }
 
   renderTopics(data, content);
 
-  // Probe prev/next in parallel
+  // Prev/next: nearest exported dates from the index (skips gaps); otherwise probe adjacent days.
+  const dates = await loadIndex();
+  if (dates) {
+    setNav(date, dates.filter(d => d < date).pop() || null, dates.find(d => d > date) || null);
+    return;
+  }
   const prevDate = shiftDate(date, -1);
   const nextDate = shiftDate(date, 1);
   const [prevExists, nextExists] = await Promise.all([fileExists(prevDate), fileExists(nextDate)]);
-  setNav(date, prevExists, nextExists);
+  setNav(date, prevExists ? prevDate : null, nextExists ? nextDate : null);
 }
 
 async function route() {
