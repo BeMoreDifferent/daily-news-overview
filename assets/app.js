@@ -127,7 +127,7 @@ function renderTopics(data, content) {
 
     const titleEl = document.createElement('div');
     titleEl.className = 'topic-title';
-    titleEl.textContent = capitalize(topic.label?.[0] || 'Topic');
+    titleEl.textContent = topic.title || topic.headline || capitalize(topic.label?.[0] || 'Topic');
 
     const metaEl = document.createElement('div');
     metaEl.className = 'topic-meta';
@@ -140,6 +140,13 @@ function renderTopics(data, content) {
 
     metaEl.append(sources, count);
     header.append(titleEl, metaEl);
+
+    if (topic.summary) {
+      const summaryEl = document.createElement('p');
+      summaryEl.className = 'topic-summary';
+      summaryEl.textContent = topic.summary;
+      header.appendChild(summaryEl);
+    }
 
     // ── Lead article ──────────────────────────────────
     const articleEl = document.createElement('div');

@@ -185,7 +185,12 @@ export function mapFeedItemToArticleRow(item, feed, feedData = {}, now = new Dat
   const summary = rawSummary
     ? cleanText(String(rawSummary).slice(0, 2000))?.slice(0, 500) ?? null
     : null;
-  const publishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
+  const parsedPublishedAt = parseDate(item.isoDate || item.pubDate || item.published || item.publishedAt);
+  // Some feeds emit far-future dates (up to year 3018), which would pin an article to a day that
+  // never gets clustered; trust the fetch time instead.
+  const publishedAt = parsedPublishedAt && parsedPublishedAt.getTime() > now.getTime() + 86_400_000
+    ? now
+    : parsedPublishedAt;
   const tags = extractTags(item);
 
   return {

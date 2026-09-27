@@ -14,29 +14,54 @@ const STOPWORDS = new Set([
   'theirs', 'them', 'themselves', 'then', 'there', 'these', 'they', 'this',
   'those', 'through', 'to', 'too', 'under', 'until', 'up', 'very', 'was',
   'we', 'were', 'what', 'when', 'where', 'which', 'while', 'who', 'whom',
-  'why', 'will', 'with', 'you', 'your', 'yours', 'yourself', 'yourselves'
+  'why', 'will', 'with', 'you', 'your', 'yours', 'yourself', 'yourselves',
+  // News boilerplate that links unrelated headlines
+  'say', 'says', 'said', 'live', 'video', 'watch', 'breaking', 'latest', 'update',
+  'updates', 'exclusive', 'opinion', 'analysis', 'photos', 'podcast', 'amp',
+  // German
+  'der', 'das', 'und', 'ist', 'im', 'mit', 'von', 'zu', 'den', 'dem', 'des', 'ein',
+  'eine', 'einer', 'eines', 'auf', 'fur', 'nicht', 'sich', 'bei', 'nach', 'aus',
+  'als', 'auch', 'es', 'wie', 'wird', 'werden', 'hat', 'sind', 'vom', 'zum', 'zur',
+  'um', 'uber', 'noch', 'jetzt',
+  // French
+  'le', 'la', 'les', 'un', 'une', 'du', 'de', 'et', 'en', 'au', 'aux', 'pour', 'par',
+  'sur', 'dans', 'est', 'qui', 'que', 'pas', 'avec', 'ce', 'cette', 'se', 'ses',
+  'il', 'elle', 'ils', 'apres', 'sont', 'selon',
+  // Spanish / Portuguese / Italian
+  'el', 'los', 'las', 'del', 'al', 'por', 'con', 'para', 'una', 'uno', 'su', 'sus',
+  'como', 'mas', 'lo', 'tras', 'os', 'um', 'uma', 'do', 'da', 'dos', 'das', 'no',
+  'na', 'nos', 'nas', 'em', 'ao', 'il', 'gli', 'della', 'delle', 'dei', 'di', 'per',
+  'che', 'nel', 'nella', 'sobre', 'entre'
 ]);
 
 const DEFAULT_OPTIONS = {
   historyDays: 14,
   minTopicSize: 3,
-  minSources: 2,
-  headlineSimilarityThreshold: 0.28,
-  historicalSimilarityThreshold: 0.65,
+  minSources: 3,
+  headlineSimilarityThreshold: 0.30,
+  clusterMergeThreshold: 0.50,
+  maxCandidateDfRatio: 0.01,
+  historicalSimilarityThreshold: 0.40,
   labelKeywordCount: 8,
-  themeThreshold: 0.10
+  sampleHeadlineCount: 10,
+  centroidTermCount: 60,
+  maxStoredTopics: 200,
+  themeThreshold: 0.30
 };
 
 export async function detectTopicsForDate(duckDBService, date, options = {}) {
-  const config = { maxArticles: 4000, ...DEFAULT_OPTIONS, ...options };
+  const config = { maxArticles: 40000, ...DEFAULT_OPTIONS, ...options };
 
   const articles = await duckDBService.getArticlesForDate(date, config.maxArticles);
   const historyStartDate = shiftDate(date, -config.historyDays);
   const historicalTopics = await duckDBService.getTopicsBetweenDates(historyStartDate, shiftDate(date, -1));
 
   const currentTopics = detectTopicsFromArticles(articles, config);
+  // Only the top of the ranking is ever exported or useful as history; storing the long tail of
+  // small clusters just bloats the topics tables.
   const scoredTopics = scoreTopics(currentTopics, historicalTopics, config)
     .sort(compareTopics)
+    .slice(0, config.maxStoredTopics)
     .map((topic, index) => ({ ...topic, rank: index + 1 }));
 
   await duckDBService.replaceTopicsForDate(date, scoredTopics);
@@ -46,24 +71,18 @@ export async function detectTopicsForDate(duckDBService, date, options = {}) {
 
 export function detectTopicsFromArticles(articles, options = {}) {
   const config = { ...DEFAULT_OPTIONS, ...options };
-  const documents = articles
-    .map(article => createHeadlineDocument(article))
-    .filter(document => document.terms.length);
-
+  const documents = dedupeSyndicated(articles);
   if (!documents.length) return [];
 
   const vectors = buildTfidfVectors(documents.map(document => document.terms));
-  const vectorized = documents.map((document, index) => ({
-    ...document,
-    vector: vectors[index]
-  }));
-  const clusters = clusterHeadlines(vectorized, config.headlineSimilarityThreshold);
+  documents.forEach((document, index) => { document.vector = vectors[index]; });
+  const clusters = clusterHeadlines(documents, config.headlineSimilarityThreshold, config);
   const topics = clusters
     .map(cluster => createTopic(cluster, config))
     .filter(topic => topic.articleCount >= config.minTopicSize)
     .filter(topic => topic.uniqueSourceCount >= config.minSources);
 
-  const themeGroups = clusterHeadlines(topics.map(t => ({ t, vector: t.centroidVector })), config.themeThreshold);
+  const themeGroups = clusterHeadlines(topics.map(t => ({ t, vector: t.centroidVector })), config.themeThreshold, config);
   for (const group of themeGroups) {
     const themeVector = averageVectors(group.map(g => g.vector));
     const themeLabel = [...themeVector.entries()].filter(([k]) => !k.includes(' ')).sort((a, b) => b[1] - a[1]).map(([k]) => k).slice(0, 4);
@@ -73,23 +92,60 @@ export function detectTopicsFromArticles(articles, options = {}) {
   return topics;
 }
 
-export function normalizeHeadline(headline) {
+// Collapse syndicated copies (same normalized headline) into one document so wire stories
+// don't dominate TF-IDF or appear repeatedly; every copy still counts as an article/source.
+// Documents are returned oldest-first, which is the order the leader clustering expects.
+function dedupeSyndicated(articles) {
+  const byKey = new Map();
+  for (const article of articles) {
+    const analyzed = analyzeHeadline(article.title || article.summary || '');
+    if (!analyzed.stems.length) continue;
+    const key = analyzed.stems.join(' ');
+    const existing = byKey.get(key);
+    if (existing) {
+      existing.articles.push(article);
+    } else {
+      byKey.set(key, { article, articles: [article], terms: analyzed.terms, surfaces: analyzed.surfaces });
+    }
+  }
+  return [...byKey.values()].sort((a, b) => articleTime(a.article) - articleTime(b.article));
+}
+
+function articleTime(article) {
+  const time = new Date(article.published_at || article.fetched_at).getTime();
+  return Number.isNaN(time) ? 0 : time;
+}
+
+// Tokens keep their accented surface form for labels; matching uses an accent-free stem.
+function tokenizeHeadline(headline) {
   return String(headline || '')
+    .normalize('NFC')
     .toLowerCase()
-    .replace(/['']s\b/g, '')
-    .replace(/[^a-z0-9\s-]/g, ' ')
-    .replace(/-/g, ' ')
-    .split(/\s+/)
-    .map(token => token.trim())
+    .replace(/['’]s\b/g, '')
+    .split(/[^\p{L}\p{N}]+/u)
     .filter(Boolean)
-    .filter(token => !STOPWORDS.has(token))
-    .map(stemToken)
-    .filter(token => token.length > 1 && !STOPWORDS.has(token));
+    .map(surface => ({ surface, key: surface.normalize('NFKD').replace(/\p{M}+/gu, '') }))
+    .filter(({ key }) => key.length > 1 && !STOPWORDS.has(key) && !/^\d+$/.test(key))
+    .map(({ surface, key }) => ({ surface, stem: stemToken(key) }))
+    .filter(({ stem }) => stem.length > 1 && !STOPWORDS.has(stem));
+}
+
+export function normalizeHeadline(headline) {
+  return tokenizeHeadline(headline).map(token => token.stem);
 }
 
 export function extractHeadlineTerms(headline) {
-  const tokens = normalizeHeadline(headline);
-  return [...tokens, ...extractNgrams(tokens, 2)];
+  return analyzeHeadline(headline).terms;
+}
+
+function analyzeHeadline(headline) {
+  const tokens = tokenizeHeadline(headline);
+  const stems = tokens.map(token => token.stem);
+  const surfaces = new Map(tokens.map(token => [token.stem, token.surface]));
+  for (let index = 0; index < tokens.length - 1; index += 1) {
+    surfaces.set(`${stems[index]} ${stems[index + 1]}`, `${tokens[index].surface} ${tokens[index + 1].surface}`);
+  }
+  return { stems, surfaces, terms: [...stems, ...extractNgrams(stems, 2)] };
 }
 
 export function buildTfidfVectors(termLists) {
@@ -139,42 +195,108 @@ export function cosineSimilarity(vectorA, vectorB) {
   return dot / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-export function clusterHeadlines(documents, threshold = DEFAULT_OPTIONS.headlineSimilarityThreshold) {
+// Centroid-guarded leader clustering. Each document joins the most similar existing cluster
+// (cosine to the cluster's summed vector ≥ threshold) or starts a new one; a second pass merges
+// clusters whose centroids are close. Unlike single-link union-find this cannot chain unrelated
+// stories through one shared bigram. Candidate clusters come from an inverted index that skips
+// very common terms, keeping the work near-linear for a full day (~25k headlines).
+export function clusterHeadlines(documents, threshold = DEFAULT_OPTIONS.headlineSimilarityThreshold, options = {}) {
+  const mergeThreshold = options.clusterMergeThreshold ?? DEFAULT_OPTIONS.clusterMergeThreshold;
+  const maxDfRatio = options.maxCandidateDfRatio ?? DEFAULT_OPTIONS.maxCandidateDfRatio;
   const n = documents.length;
-  const parent = documents.map((_, index) => index);
+  if (!n) return [];
 
-  // Inverted index → only compare pairs that share ≥1 term (cosine of non-overlapping vectors = 0)
-  const termIndex = new Map();
-  for (let i = 0; i < n; i++) {
-    for (const term of documents[i].vector.keys()) {
-      if (!termIndex.has(term)) termIndex.set(term, []);
-      termIndex.get(term).push(i);
+  const documentFrequency = new Map();
+  for (const document of documents) {
+    for (const term of document.vector.keys()) {
+      documentFrequency.set(term, (documentFrequency.get(term) || 0) + 1);
     }
   }
+  const maxDf = Math.max(50, Math.ceil(n * maxDfRatio));
+  const isIndexable = term => documentFrequency.get(term) <= maxDf;
 
+  const clusters = [];
+  const termIndex = new Map();
+  const indexTerm = (term, clusterId) => {
+    if (!isIndexable(term)) return;
+    let ids = termIndex.get(term);
+    if (!ids) termIndex.set(term, ids = new Set());
+    ids.add(clusterId);
+  };
+
+  for (const document of documents) {
+    const normDoc = vectorNorm(document.vector);
+    if (!normDoc) continue;
+    const candidates = new Set();
+    for (const term of document.vector.keys()) {
+      const ids = termIndex.get(term);
+      if (ids) for (const id of ids) candidates.add(id);
+    }
+
+    let best = null;
+    let bestSimilarity = threshold;
+    for (const id of candidates) {
+      const cluster = clusters[id];
+      const similarity = dotProduct(document.vector, cluster.sum) / (normDoc * Math.sqrt(cluster.normSq));
+      if (similarity >= bestSimilarity) { best = cluster; bestSimilarity = similarity; }
+    }
+
+    if (!best) {
+      best = { id: clusters.length, members: [], sum: new Map(), normSq: 0 };
+      clusters.push(best);
+    }
+    best.members.push(document);
+    addToSum(best, document.vector);
+    for (const term of document.vector.keys()) indexTerm(term, best.id);
+  }
+
+  // Merge pass over multi-member clusters only (singletons were already offered every cluster).
+  const parent = clusters.map((_, index) => index);
   const checked = new Set();
-  for (const docList of termIndex.values()) {
-    for (let a = 0; a < docList.length; a++) {
-      for (let b = a + 1; b < docList.length; b++) {
-        const i = docList[a], j = docList[b];
-        const key = i * n + j;
+  for (const cluster of clusters) {
+    if (cluster.members.length < 2) continue;
+    for (const term of cluster.sum.keys()) {
+      for (const otherId of termIndex.get(term) || []) {
+        const other = clusters[otherId];
+        if (otherId <= cluster.id || other.members.length < 2) continue;
+        const key = `${cluster.id}:${otherId}`;
         if (checked.has(key)) continue;
         checked.add(key);
-        if (cosineSimilarity(documents[i].vector, documents[j].vector) >= threshold) {
-          union(parent, i, j);
-        }
+        const similarity = dotProduct(cluster.sum, other.sum) / Math.sqrt(cluster.normSq * other.normSq);
+        if (similarity >= mergeThreshold) union(parent, cluster.id, otherId);
       }
     }
   }
 
   const groups = new Map();
-  for (let index = 0; index < n; index++) {
-    const root = find(parent, index);
+  for (const cluster of clusters) {
+    const root = find(parent, cluster.id);
     if (!groups.has(root)) groups.set(root, []);
-    groups.get(root).push(documents[index]);
+    groups.get(root).push(...cluster.members);
   }
-
   return [...groups.values()];
+}
+
+function addToSum(cluster, vector) {
+  for (const [term, value] of vector.entries()) {
+    const previous = cluster.sum.get(term) || 0;
+    const next = previous + value;
+    cluster.sum.set(term, next);
+    cluster.normSq += next * next - previous * previous;
+  }
+}
+
+function dotProduct(vectorA, vectorB) {
+  const [smaller, larger] = vectorA.size < vectorB.size ? [vectorA, vectorB] : [vectorB, vectorA];
+  let dot = 0;
+  for (const [term, value] of smaller.entries()) dot += value * (larger.get(term) || 0);
+  return dot;
+}
+
+function vectorNorm(vector) {
+  let sum = 0;
+  for (const value of vector.values()) sum += value * value;
+  return Math.sqrt(sum);
 }
 
 export function scoreTopics(topics, historicalTopics = [], options = {}) {
@@ -185,6 +307,8 @@ export function scoreTopics(topics, historicalTopics = [], options = {}) {
     ...h,
     _vector: vectorFromObject(h.centroidVector)
   }));
+
+  const maxSources = Math.max(1, ...topics.map(topic => topic.uniqueSourceCount || 0));
 
   return topics.map(topic => {
     const matches = parsedHistorical
@@ -202,12 +326,16 @@ export function scoreTopics(topics, historicalTopics = [], options = {}) {
     const sourceDiversity = topic.articleCount ? topic.uniqueSourceCount / topic.articleCount : 0;
     const persistenceScore = topic.activeWindows.length / 4;
     const entityImportance = clamp(topic.entities.length / 4);
+    // Significance first: how many independent outlets cover the story (log-scaled against the
+    // day's biggest story), then burst vs. its own history, then novelty.
+    const significance = maxSources > 1
+      ? Math.log1p(topic.uniqueSourceCount || 0) / Math.log1p(maxSources)
+      : sourceDiversity;
     const finalScore = clamp(
-      0.35 * noveltyScore
-      + 0.30 * burst.normalized
-      + 0.20 * sourceDiversity
+      0.45 * significance
+      + 0.25 * burst.normalized
+      + 0.20 * noveltyScore
       + 0.10 * persistenceScore
-      + 0.05 * entityImportance
     );
 
     return {
@@ -228,14 +356,16 @@ export function scoreTopics(topics, historicalTopics = [], options = {}) {
         maxHistoricalSimilarity: maxSimilarity,
         persistenceScore,
         articleCount: topic.articleCount,
-        minTopicSize: config.minTopicSize
+        minTopicSize: config.minTopicSize,
+        historicalSimilarityThreshold: config.historicalSimilarityThreshold
       })
     };
   });
 }
 
 export function classifyTopic(topic) {
-  if (topic.maxHistoricalSimilarity >= DEFAULT_OPTIONS.historicalSimilarityThreshold) {
+  const historicalThreshold = topic.historicalSimilarityThreshold ?? DEFAULT_OPTIONS.historicalSimilarityThreshold;
+  if (topic.maxHistoricalSimilarity >= historicalThreshold) {
     if (topic.burstZScore >= 2 || topic.burstScore >= 0.8) return 'trending';
     return 'ongoing';
   }
@@ -244,42 +374,63 @@ export function classifyTopic(topic) {
   return 'monitor';
 }
 
-function createHeadlineDocument(article) {
-  const text = article.title || article.summary || '';
-  return {
-    article,
-    terms: extractHeadlineTerms(text)
-  };
-}
-
 function createTopic(cluster, config) {
-  const centroidVector = averageVectors(cluster.map(document => document.vector));
-  const labelKeywords = [...centroidVector.entries()]
-    .filter(([term]) => !term.includes(' ') || term.length <= 40)
+  const fullCentroid = averageVectors(cluster.map(document => document.vector));
+  // Stored centroids keep only their strongest terms; the tail barely moves cosine similarity.
+  const centroidVector = new Map([...fullCentroid.entries()]
     .sort((a, b) => b[1] - a[1])
-    .map(([term]) => term)
-    .slice(0, config.labelKeywordCount);
-  const articles = cluster.map(document => document.article);
-  const entities = unique(articles.flatMap(a => extractEntities(a.title || a.summary || ''))).slice(0, 12);
-  const articleHashes = articles.map(article => String(article.url_hash));
-  const activeWindows = getActiveWindows(articles);
+    .slice(0, config.centroidTermCount));
+  const ranked = cluster
+    .map(document => ({ document, similarity: cosineSimilarity(document.vector, centroidVector) }))
+    .sort((a, b) => b.similarity - a.similarity || b.document.articles.length - a.document.articles.length)
+    .map(({ document }) => document);
+  const articles = ranked.flatMap(document => document.articles);
+  const labelKeywords = readableLabel(centroidVector, cluster, config.labelKeywordCount);
+  const entities = unique(ranked.flatMap(document => extractEntities(document.article.title || ''))).slice(0, 12);
+  // Centrality order, except that sampleHeadlines[0] (the topic's representative headline) is the
+  // most central title that reads as a sentence; bare names like "Light Flip" score high on
+  // centrality but say little.
+  const titles = unique(ranked.map(document => document.article.title));
+  const headlineIndex = Math.max(0, titles.findIndex(title => title.split(/\s+/).length >= 5));
+  const sampleHeadlines = [titles[headlineIndex], ...titles.filter((_, index) => index !== headlineIndex)]
+    .filter(Boolean)
+    .slice(0, config.sampleHeadlineCount);
 
   return {
     id: createTopicId(articles, labelKeywords),
     date: null,
-    articleHashes,
+    headline: sampleHeadlines[0] || null,
+    articleHashes: articles.map(article => String(article.url_hash)),
     articleCount: articles.length,
     uniqueSourceCount: unique(articles.map(article => article.feed_url || article.feed_title || 'unknown')).length,
     labelKeywords,
     entities,
     centroidVector,
-    activeWindows,
-    sampleHeadlines: articles
-      .map(article => article.title || article.summary)
-      .filter(Boolean)
-      .slice(0, 5),
+    activeWindows: getActiveWindows(articles),
+    sampleHeadlines,
     topSources: unique(articles.map(article => article.feed_title || article.feed_url || 'unknown')).slice(0, 5)
   };
+}
+
+// Top centroid unigrams rendered with their most common surface form ("gates", not "gat").
+// The human-readable story name is `headline`; the label is just the keyword list.
+function readableLabel(centroidVector, cluster, count) {
+  const surfaceCounts = new Map();
+  for (const document of cluster) {
+    for (const [term, surface] of document.surfaces) {
+      const counts = surfaceCounts.get(term) || new Map();
+      counts.set(surface, (counts.get(surface) || 0) + document.articles.length);
+      surfaceCounts.set(term, counts);
+    }
+  }
+  return unique([...centroidVector.entries()]
+    .filter(([term]) => !term.includes(' '))
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, count)
+    .map(([term]) => {
+      const counts = surfaceCounts.get(term);
+      return counts ? [...counts.entries()].sort((a, b) => b[1] - a[1])[0][0] : term;
+    }));
 }
 
 function calculateBurst(todayCount, baselineCounts) {

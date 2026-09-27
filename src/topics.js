@@ -15,7 +15,7 @@ async function main() {
   const topics = await detectTopicsForDate(duckDBService, date, {
     historyDays: positiveInteger(options.historyDays, 14),
     minTopicSize: positiveInteger(options.minTopicSize, 3),
-    minSources: positiveInteger(options.minSources, 2)
+    minSources: positiveInteger(options.minSources, 3)
   });
   const limit = positiveInteger(options.limit, DEFAULT_LIMIT);
   printTopics(date, topics.slice(0, limit), topics.length);

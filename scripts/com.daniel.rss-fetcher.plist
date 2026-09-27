@@ -20,6 +20,8 @@
     <string>--max-old-space-size=512</string>
     <key>DUCKDB_THREADS</key>
     <string>2</string>
+    <key>DUCKDB_MEMORY_LIMIT</key>
+    <string>1GB</string>
     <key>PATH</key>
     <string>/opt/homebrew/bin:/usr/bin:/bin</string>
   </dict>
@@ -30,12 +32,25 @@
 
   <!-- Minimum seconds between restarts (prevents tight crash loops) -->
   <key>ThrottleInterval</key>
-  <integer>30</integer>
+  <integer>300</integer>
+
+  <!-- Keep the machine responsive: background QoS, low CPU/IO priority -->
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>Nice</key>
+  <integer>10</integer>
+  <key>LowPriorityIO</key>
+  <true/>
 
   <!-- Start immediately when loaded -->
   <key>RunAtLoad</key>
   <true/>
 
-  <!-- App writes directly to logs/rss_fetch.log with 5 MB rotation; no launchd capture needed -->
+  <!-- App writes logs/rss_fetch.log itself; launchd captures anything emitted before/after that
+       (e.g. startup failures) outside ~/Documents so it is always writable -->
+  <key>StandardOutPath</key>
+  <string>/Users/daniel/Library/Logs/rss-fetcher.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/daniel/Library/Logs/rss-fetcher.launchd.log</string>
 </dict>
 </plist>

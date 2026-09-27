@@ -79,7 +79,7 @@ test('classifies new, trending, ongoing, and monitor topics', () => {
     noveltyScore: 0.5,
     burstZScore: 0,
     burstScore: 0,
-    maxHistoricalSimilarity: 0.5,
+    maxHistoricalSimilarity: 0.3,
     persistenceScore: 0.25,
     articleCount: 3
   }), 'monitor');
@@ -104,6 +104,71 @@ test('source diversity improves ranking against one-source duplicates', () => {
 
   assert.equal(diverse.sourceDiversity > duplicate.sourceDiversity, true);
   assert.equal(diverse.finalScore > duplicate.finalScore, true);
+});
+
+test('tokenizer keeps accented words and drops non-English stopwords', () => {
+  const tokens = normalizeHeadline('La France prohíbe las redes sociales à des menores de 15 años');
+  assert.equal(tokens.includes('la'), false);
+  assert.equal(tokens.includes('de'), false);
+  assert.equal(tokens.includes('des'), false);
+  assert.equal(tokens.includes('15'), false);
+  assert.equal(tokens.includes('prohibe'), true);
+});
+
+test('labels use readable surface forms instead of stems', () => {
+  const topics = detectTopicsFromArticles([
+    article('Bill Gates says Epstein used affairs as leverage', '2026-04-27T08:00:00Z', 'source-a', 1),
+    article('Gates: Epstein used affairs as leverage against me', '2026-04-27T09:00:00Z', 'source-b', 2),
+    article('Bill Gates tells of Epstein leverage over affairs', '2026-04-27T10:00:00Z', 'source-c', 3)
+  ], { minTopicSize: 3, minSources: 3 });
+  assert.equal(topics.length, 1);
+  assert.equal(topics[0].labelKeywords.includes('gates'), true);
+  assert.equal(topics[0].labelKeywords.includes('gat'), false);
+  assert.equal(topics[0].sampleHeadlines[0].split(' ').length >= 5, true);
+});
+
+test('syndicated copies collapse but still count as articles and sources', () => {
+  const topics = detectTopicsFromArticles([
+    article('Storm Bertha forms near the Gulf Coast', '2026-04-27T08:00:00Z', 'source-a', 1),
+    article('Storm Bertha forms near the Gulf Coast', '2026-04-27T08:05:00Z', 'source-b', 2),
+    article('Storm Bertha forms near the Gulf Coast', '2026-04-27T08:10:00Z', 'source-c', 3)
+  ], { minTopicSize: 3, minSources: 3 });
+  assert.equal(topics.length, 1);
+  assert.equal(topics[0].articleCount, 3);
+  assert.equal(topics[0].uniqueSourceCount, 3);
+  assert.deepEqual(topics[0].sampleHeadlines, ['Storm Bertha forms near the Gulf Coast']);
+});
+
+test('unrelated stories sharing one phrase do not chain into one cluster', () => {
+  const titles = [
+    'White House announces new tariffs on Chinese steel imports',
+    'Tariffs on Chinese steel imports announced by White House',
+    'White House steel tariffs target Chinese imports',
+    'White House hosts state dinner for Japanese prime minister',
+    'Japanese prime minister attends White House state dinner',
+    'State dinner at White House honours Japanese prime minister'
+  ];
+  const topics = detectTopicsFromArticles(
+    titles.map((title, index) => article(title, `2026-04-27T0${index}:00:00Z`, `source-${index}`, index)),
+    { minTopicSize: 3, minSources: 3 }
+  );
+  assert.equal(topics.length, 2);
+  assert.deepEqual(topics.map(topic => topic.articleCount), [3, 3]);
+});
+
+test('widely covered stories outrank small novel clusters', () => {
+  const big = Array.from({ length: 20 }, (_, index) =>
+    article(`Earthquake strikes Japan coast report ${['early', 'late', 'major', 'strong', 'deadly'][index % 5]}`,
+      '2026-04-27T08:00:00Z', `wire-${index}`, index));
+  const small = [
+    article('Local bakery wins regional bread award', '2026-04-27T08:00:00Z', 'small-a', 100),
+    article('Regional bread award goes to local bakery', '2026-04-27T09:00:00Z', 'small-b', 101),
+    article('Local bakery takes bread award in region', '2026-04-27T10:00:00Z', 'small-c', 102)
+  ];
+  const topics = scoreTopics(detectTopicsFromArticles([...big, ...small], { minTopicSize: 3, minSources: 3 }));
+  const quake = topics.find(topic => topic.labelKeywords.includes('earthquake'));
+  const bakery = topics.find(topic => topic.labelKeywords.includes('bakery'));
+  assert.equal(quake.finalScore > bakery.finalScore, true);
 });
 
 test('detects and stores new, trending, and ongoing topics through DuckDB', async () => {

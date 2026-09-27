@@ -19,6 +19,8 @@ npm run news:export          # Export yesterday's topics to news/YYYY-MM-DD.json
 npm run news:backfill        # Export all historical dates missing a JSON file
 node scripts/exportDailyTopics.js --date 2026-05-01  # Export a specific date
 node scripts/exportDailyTopics.js --backfill --force # Overwrite all existing files
+node scripts/exportDailyTopics.js --recluster [--date D|--from D] [--no-summary]
+                             # Re-run topic detection + export (daemon must be stopped: needs DB write lock)
 ```
 
 ### Code Quality
@@ -49,12 +51,17 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 - Opens DuckDB once at startup; keeps it open for the process lifetime.
 - `setInterval` triggers `runOnce()` every 60 min; launchd `KeepAlive: true` restarts on crash.
 - `isRunning` guard prevents overlapping runs. Graceful shutdown on SIGINT/SIGTERM/SIGQUIT.
+- Fatal DuckDB errors (OOM, aborted transaction) exit the process so launchd starts a fresh instance.
+- Topic detection runs once per day, not hourly: while `news/<yesterday>.json` is missing, each run re-clusters yesterday, exports it (one OpenAI call), commits and pushes. Retries next run on failure.
+- Logs: `logs/rss_fetch.log` rotated at 5 MB (checked every run); only slow feeds (≥5 s) are logged individually.
 
 **Services**:
 - `feedProcessor.js` — RSS fetch + parse. `fetchXml` retries once on transient network errors (ECONNRESET, EPIPE). Redirect race fixed (marks settled before recursing). Single-pass `cleanText`. Short-circuit `extractImageUrl`.
-- `duckdbService.js` — DuckDB storage. Persistent TEMP staging table (created once per connection). `INSERT OR IGNORE … RETURNING url_hash` gives insert count without full table scans. Topics stored per-date and replaced on each run.
+- `duckdbService.js` — DuckDB storage, capped by `memory_limit` (default 1GB) with spill to `data/rss.duckdb.tmp`. Persistent TEMP staging table (created once per connection). `INSERT OR IGNORE … RETURNING url_hash` gives insert count without full table scans. Only the articles PK index exists (secondary ART indexes cost memory, no query used them). Topics stored per-date (top 200) and replaced on re-run; `compactTopicTables()` rewrites topic tables without tombstones.
 - `feedCacheService.js` — TTL-based cache (`data/feed_cache.json`). Dirty flag prevents disk write when nothing changed. `shouldProcess()` skips feeds fetched within their `intervalMinutes` window.
-- `topicDetectionService.js` — Two-tier TF-IDF clustering (unigrams + bigrams). Historical centroid vectors parsed once per run. Entity extraction deferred to cluster creation.
+- `topicDetectionService.js` — TF-IDF (unigrams + bigrams) over all news headlines of a day (source_type 1). Unicode tokenizer with multilingual stopwords; syndicated identical headlines collapsed; centroid-guarded leader clustering (no single-link chaining) + centroid merge pass. Ranking: 0.45 source coverage (log) + 0.25 burst + 0.20 novelty + 0.10 persistence. `sampleHeadlines` are in centrality order; `[0]` is the representative headline.
+- `newsExportService.js` — picks ≤15 topics (one per theme), ≤5 articles per topic (one per outlet, central first, descriptions trimmed), writes `news/<date>.json`.
+- `newsSummaryService.js` — one batched OpenAI Responses call per exported day (`SUMMARY_MODEL`, default `gpt-6-luna`, low reasoning, 2000 output-token cap, no retries, hard €0.02/day budget; typical ~$0.001/day) for English `title`/`summary` and cross-language duplicate merging. Falls back to extractive headlines on any failure.
 
 **Utilities**:
 - `utils/hash.js` — `hash64(str)`: BigInt SHA-256 for url_hash and topic IDs
@@ -71,8 +78,8 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 3. **Concurrent Fetch**: `mapConcurrent` worker pool (concurrency=10) calls `processFeed()` per feed
 4. **Parse & Map**: `rss-parser` + `mapFeedItemToArticleRow()` produces article rows with `url_hash`
 5. **Dedup & Insert**: DuckDB `INSERT OR IGNORE` on `url_hash` primary key
-6. **Topic Detection**: TF-IDF clustering on today's article headlines → stored in `topics` table
-7. **Run Summary**: printed to stdout with counts, timing, and top 10 topics
+6. **Daily Topics + Export** (once per day): cluster yesterday's headlines → `topics` table → `news/<date>.json` with GPT titles/summaries → git commit + push
+7. **Run Summary**: logged with counts and timing
 
 ### Configuration
 
@@ -81,7 +88,12 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 # No required vars — DuckDB path and defaults are hardcoded with env overrides
 FEED_CONCURRENCY=10          # parallel feed fetches (default: 10)
 FEED_TIMEOUT_MS=5000         # per-feed HTTP timeout (default: 5000)
-DB_PATH=data/rss.duckdb      # DuckDB file path
+DUCKDB_PATH=data/rss.duckdb  # DuckDB file path
+DUCKDB_MEMORY_LIMIT=1GB      # DuckDB buffer cap (default 1GB)
+OPENAI_API_KEY=...           # enables daily GPT titles/summaries (never commit .env)
+SUMMARY_MODEL=gpt-6-luna     # optional override
+SUMMARY_ENABLED=0            # optional: disable summaries
+SUMMARY_DAILY_BUDGET_EUR=0.02 # hard cap: request skipped if worst-case cost exceeds today's remainder (ledger: data/summary_usage.json)
 ```
 
 **Data Files**:
@@ -104,7 +116,9 @@ launchctl kickstart -k gui/$UID/com.daniel.rss-fetcher  # restart now
 launchctl bootout gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist  # stop & unload
 ```
 
-`KeepAlive: true` + `ThrottleInterval: 30` means launchd respawns within 30 s of any exit. Stdout/stderr go to `logs/rss_fetch.log`.
+`KeepAlive: true` + `ThrottleInterval: 300` means launchd respawns within 5 min of any exit. Runs as `ProcessType=Background`, `Nice=10`, `LowPriorityIO`. The app writes `logs/rss_fetch.log`; launchd stdout/stderr (startup failures) go to `~/Library/Logs/rss-fetcher.launchd.log`.
+
+Because the repo lives in `~/Documents` (TCC-protected), `/opt/homebrew/bin/node` needs **Full Disk Access** (System Settings → Privacy & Security). Without it the agent crash-loops with `EPERM: operation not permitted` in the launchd log; re-check after macOS upgrades or Homebrew node upgrades.
 
 
 ### Network Tuning (macOS)

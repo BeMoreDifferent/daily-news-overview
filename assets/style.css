@@ -159,6 +159,13 @@ main {
   content: " · ";
 }
 
+.topic-summary {
+  font-size: 0.95rem;
+  color: var(--fg);
+  line-height: 1.5;
+  margin: 8px 0 0;
+}
+
 /* ── Lead Article ── */
 
 .article {

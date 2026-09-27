@@ -1,10 +1,9 @@
-import { createWriteStream, statSync, renameSync, mkdirSync } from 'node:fs';
+import { createWriteStream, statSync, renameSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { execFile as execFileCb } from 'node:child_process';
 import { promisify } from 'node:util';
 
 const execFile = promisify(execFileCb);
-import dotenv from 'dotenv';
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
 import { processFeed } from './services/feedProcessor.js';
 import { feedCache } from './services/feedCacheService.js';
@@ -12,27 +11,60 @@ import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
 import { exportNewsForDate } from './services/newsExportService.js';
 
-dotenv.config();
+// Write timestamped logs directly to file with size-based rotation (5 MB → .1), checked at startup
+// and before every run. Errors also go to stderr, which launchd captures outside ~/Documents.
+const LOG_DIR = 'logs';
+const LOG_FILE = join(LOG_DIR, 'rss_fetch.log');
+const LOG_MAX_BYTES = 5 * 1024 * 1024;
+let logStream = null;
 
-// Write timestamped logs directly to file with size-based rotation (5 MB → .1).
-// The app owns the log file; launchd plist has no StandardOutPath.
-(function setupFileLogger() {
-  const LOG_DIR = 'logs';
-  const LOG_FILE = join(LOG_DIR, 'rss_fetch.log');
+function openLogStream() {
   try { mkdirSync(LOG_DIR, { recursive: true }); } catch {}
   try {
-    if (statSync(LOG_FILE).size > 5 * 1024 * 1024) renameSync(LOG_FILE, `${LOG_FILE}.1`);
+    if (statSync(LOG_FILE).size > LOG_MAX_BYTES) renameSync(LOG_FILE, `${LOG_FILE}.1`);
   } catch {}
   const stream = createWriteStream(LOG_FILE, { flags: 'a' });
-  // If the file stream errors (e.g. disk full), fall back to stderr so writes don't silently vanish.
   stream.on('error', err => process.stderr.write(`[LOG STREAM ERROR] ${err.message}\n`));
+  return stream;
+}
+
+function rotateLogIfNeeded() {
+  try {
+    if (statSync(LOG_FILE).size <= LOG_MAX_BYTES) return;
+  } catch { return; }
+  const previous = logStream;
+  previous.end(() => {});
+  logStream = openLogStream();
+}
+
+// Resolves once buffered log lines are on disk; used before process.exit so the reason for an
+// exit is never lost.
+function flushLogs() {
+  return new Promise(resolve => {
+    if (!logStream || logStream.writableEnded) return resolve();
+    logStream.end(resolve);
+    setTimeout(resolve, 2000).unref();
+  });
+}
+
+(function setupFileLogger() {
+  logStream = openLogStream();
   const ts = () => new Date().toISOString();
   const fmt = args => args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ');
-  const write = line => { if (!stream.write(line)) stream.once('drain', () => {}); };
+  const write = line => { if (!logStream.writableEnded) logStream.write(line); };
   console.log   = (...a) => write(`${ts()} [LOG]  ${fmt(a)}\n`);
   console.warn  = (...a) => write(`${ts()} [WARN] ${fmt(a)}\n`);
-  console.error = (...a) => write(`${ts()} [ERR]  ${fmt(a)}\n`);
+  console.error = (...a) => {
+    const line = `${ts()} [ERR]  ${fmt(a)}\n`;
+    write(line);
+    process.stderr.write(line);
+  };
 })();
+
+// DuckDB errors after which the instance is unusable; the old behaviour kept a poisoned instance
+// alive and failed every hourly run for two months. Exiting lets launchd start a fresh process.
+const FATAL_DB_ERROR = /Out of Memory|TransactionContext|FATAL|database has been invalidated/i;
+const SLOW_FEED_MS = 5000;
 
 const FLUSH_INTERVAL_MS = 30_000;
 const FLUSH_SIZE_THRESHOLD = 500;
@@ -41,7 +73,6 @@ const FLUSH_SIZE_THRESHOLD = 500;
 const TRANSIENT_CODES = new Set(['ECONNRESET', 'ETIMEDOUT', 'ECONNREFUSED', 'EPIPE', 'ECONNABORTED', 'EREDIRECT']);
 
 let isRunning = false;
-let lastNewsExportDate = null;
 
 function createFlusher(db) {
   const pending = [];
@@ -90,6 +121,7 @@ export async function runOnce() {
   }
 
   isRunning = true;
+  rotateLogIfNeeded();
   const startedAt = Date.now();
   const timing = {};
 
@@ -120,15 +152,15 @@ export async function runOnce() {
     const results = await mapConcurrent(runFeeds, DEFAULT_FEED_CONCURRENCY, async feed => {
       try {
         const result = await processFeed(feed);
-        console.log([
-          'Feed timing',
-          `url=${feed.url}`,
-          `items=${result.itemCount}`,
-          `candidates=${result.candidateCount}`,
-          `fetch_parse=${result.timing.fetchParseMs}ms`,
-          `map=${result.timing.mapMs}ms`,
-          `total=${result.timing.totalMs}ms`
-        ].join(' '));
+        if (result.timing.totalMs >= SLOW_FEED_MS) {
+          console.log([
+            'Slow feed',
+            `url=${feed.url}`,
+            `items=${result.itemCount}`,
+            `fetch_parse=${result.timing.fetchParseMs}ms`,
+            `total=${result.timing.totalMs}ms`
+          ].join(' '));
+        }
         flusher.push(result.rows || []);
         feedCache.updateSuccess(feed, { itemCount: result.itemCount, insertedCount: 0 });
         await flusher.maybeFlush();
@@ -155,34 +187,13 @@ export async function runOnce() {
     await feedCache.save();
     timing.cacheUpdateMs = Date.now() - cacheUpdateStartedAt;
 
-    const topicsStartedAt = Date.now();
-    const today = new Date().toISOString().slice(0, 10);
-    const topics = await detectTopicsForDate(duckDBService, today);
-    timing.topicsMs = Date.now() - topicsStartedAt;
-
     const total = await duckDBService.countArticles();
 
-    // Export yesterday's top topics to news/<date>.json once per calendar day, then commit+push.
-    if (!lastNewsExportDate || lastNewsExportDate !== today) {
-      const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
-      const exportTimeout = new Promise((_, reject) =>
-        setTimeout(() => reject(new Error('news export timed out after 2 min')), 120_000)
-      );
-      try {
-        const articleCount = await Promise.race([
-          exportNewsForDate(duckDBService, yesterday),
-          exportTimeout,
-        ]);
-        if (articleCount !== null && articleCount > 0) {
-          console.log(`News export: wrote news/${yesterday}.json`);
-          await gitCommitAndPush(`news/${yesterday}.json`, yesterday);
-        }
-        lastNewsExportDate = today;
-      } catch (err) {
-        console.warn(`News export failed: ${err.message}`);
-        lastNewsExportDate = today; // don't retry the same date on the next run
-      }
-    }
+    // Topic clustering runs once per day for the completed day, not hourly: hourly
+    // replace-all of today's topics left ~15x dead rows in the topics tables.
+    const topicsStartedAt = Date.now();
+    const topics = await exportYesterdayIfMissing();
+    timing.topicsMs = Date.now() - topicsStartedAt;
 
     // Checkpoint WAL into the main DB file so the WAL stays small between runs.
     await duckDBService.checkpoint();
@@ -223,6 +234,10 @@ export async function runOnce() {
     return { feeds, runFeeds, results, insertResult, timing };
   } catch (error) {
     console.error(`RSS run failed: ${error.message}`);
+    if (FATAL_DB_ERROR.test(error.message)) {
+      await feedCache.save().catch(() => {});
+      await exitWithLogs(1, 'Fatal database error; exiting so launchd restarts a fresh process.');
+    }
     return { error };
   } finally {
     if (flushTimer) clearInterval(flushTimer);
@@ -232,6 +247,41 @@ export async function runOnce() {
     await feedCache.save().catch(err => console.warn('Cache save failed in finally:', err.message));
     isRunning = false;
   }
+}
+
+// Once per day (retried every run until it succeeds): re-cluster yesterday with the complete day
+// of articles, export news/<yesterday>.json (one OpenAI summary call), then commit and push.
+// Returns the day's detected topics (empty when nothing was due).
+async function exportYesterdayIfMissing() {
+  const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
+  const relPath = `news/${yesterday}.json`;
+  if (existsSync(relPath)) return [];
+
+  let topics = [];
+  try {
+    const startedAt = Date.now();
+    topics = await detectTopicsForDate(duckDBService, yesterday);
+    const exportTimeout = new Promise((_, reject) =>
+      setTimeout(() => reject(new Error('news export timed out after 3 min')), 180_000).unref()
+    );
+    const articleCount = await Promise.race([exportNewsForDate(duckDBService, yesterday), exportTimeout]);
+    if (articleCount) {
+      console.log(`News export: wrote ${relPath} in ${Date.now() - startedAt}ms`);
+      await gitCommitAndPush(relPath, yesterday);
+    } else {
+      console.warn(`News export: no topics for ${yesterday}`);
+    }
+  } catch (err) {
+    console.warn(`News export failed (will retry next run): ${err.message}`);
+    if (FATAL_DB_ERROR.test(err.message)) throw err;
+  }
+  return topics;
+}
+
+async function exitWithLogs(code, message) {
+  if (message) console.error(message);
+  await flushLogs();
+  process.exit(code);
 }
 
 function printRunSummary({ total, insertResult, failed, runFeeds, skipped, topics }) {
@@ -251,10 +301,10 @@ function printRunSummary({ total, insertResult, failed, runFeeds, skipped, topic
   const topTopics = topics.slice(0, 10);
   if (topTopics.length) {
     console.log(bar);
-    console.log(' Top 10 Topics');
+    console.log(' Top 10 Topics (yesterday)');
     for (let i = 0; i < topTopics.length; i++) {
       const t = topTopics[i];
-      const label = (t.labelKeywords || []).slice(0, 5).join(', ');
+      const label = t.sampleHeadlines?.[0] || (t.labelKeywords || []).slice(0, 5).join(', ');
       const score = typeof t.finalScore === 'number' ? t.finalScore.toFixed(2) : '—';
       const n = String(i + 1).padStart(2);
       console.log(`  ${n}. [${label}]  ${t.articleCount} arts  score=${score}`);
@@ -297,7 +347,7 @@ async function shutdown() {
   clearInterval(interval);
   setTimeout(() => process.exit(1), 10_000).unref();
   await Promise.allSettled([feedCache.save(), duckDBService.close()]);
-  process.exit(0);
+  await exitWithLogs(0);
 }
 
 process.on('SIGINT', shutdown);
@@ -306,12 +356,10 @@ process.on('SIGQUIT', shutdown);
 
 // Exit non-zero on unhandled errors so launchd KeepAlive respawns the process.
 process.on('uncaughtException', err => {
-  console.error('Uncaught exception:', err.message, err.stack);
-  process.exit(1);
+  exitWithLogs(1, `Uncaught exception: ${err.message} ${err.stack}`);
 });
 process.on('unhandledRejection', (reason) => {
-  console.error('Unhandled rejection:', reason instanceof Error ? reason.message : reason);
-  process.exit(1);
+  exitWithLogs(1, `Unhandled rejection: ${reason instanceof Error ? reason.message : reason}`);
 });
 
 // Open DB once at startup; it stays open for the process lifetime.

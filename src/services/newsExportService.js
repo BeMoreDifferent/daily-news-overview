@@ -1,55 +1,61 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import { summarizeTopics } from './newsSummaryService.js';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
-const MAX_TOPICS = 20;
+const MAX_TOPICS = 15;
 const MIN_TOPICS = 5;
-const SCORE_FLOOR_RATIO = 0.5;
+const SCORE_FLOOR_RATIO = 0.4;
+const DESCRIPTION_CHARS = 300;
+const TOPIC_ARTICLE_POOL = 200;
 
-// Adaptive topic selection: top 10 → drop below score floor → merge by themeId → floor 5
+// Topics arrive sorted by finalScore. Keep the best topic per theme (sub-stories of one theme
+// would otherwise crowd the page), drop anything under the score floor, but always show MIN_TOPICS.
 function selectTopics(allTopics) {
   if (!allTopics.length) return [];
 
-  const candidates = allTopics.slice(0, MAX_TOPICS);
-  const topScore = candidates[0].finalScore ?? 0;
-  const floor = topScore * SCORE_FLOOR_RATIO;
-
-  const themeMap = new Map();
-  const unthemed = [];
-
-  for (const t of candidates) {
-    if (!t.finalScore || t.finalScore < floor) continue;
-    if (t.themeId) {
-      if (!themeMap.has(t.themeId)) {
-        themeMap.set(t.themeId, { ...t });
-      } else {
-        const existing = themeMap.get(t.themeId);
-        existing.articleCount = (existing.articleCount || 0) + (t.articleCount || 0);
-        existing.uniqueSourceCount = Math.max(existing.uniqueSourceCount || 0, t.uniqueSourceCount || 0);
-      }
-    } else {
-      unthemed.push(t);
-    }
+  const floor = (allTopics[0].finalScore ?? 0) * SCORE_FLOOR_RATIO;
+  const seenThemes = new Set();
+  const selected = [];
+  for (const topic of allTopics) {
+    if (selected.length >= MAX_TOPICS) break;
+    if ((topic.finalScore ?? 0) < floor && selected.length >= MIN_TOPICS) break;
+    if (topic.themeId && seenThemes.has(topic.themeId)) continue;
+    if (topic.themeId) seenThemes.add(topic.themeId);
+    selected.push(topic);
   }
+  return selected;
+}
 
-  const merged = [...themeMap.values(), ...unthemed]
-    .sort((a, b) => (b.finalScore ?? 0) - (a.finalScore ?? 0))
-    .slice(0, MAX_TOPICS);
-
-  if (merged.length < MIN_TOPICS) {
-    const seen = new Set(merged.map(t => t.id));
-    for (const t of allTopics) {
-      if (merged.length >= MIN_TOPICS) break;
-      if (!seen.has(t.id)) { merged.push(t); seen.add(t.id); }
-    }
+// Most central articles first (sampleHeadlines is stored in centrality order), one per outlet,
+// no repeated headlines.
+function pickArticles(topic, rows) {
+  const rank = new Map((topic.sampleHeadlines || []).map((title, index) => [title, index]));
+  const ordered = [...rows].sort((a, b) => (rank.get(a.title) ?? Infinity) - (rank.get(b.title) ?? Infinity));
+  const seenTitles = new Set();
+  const seenSources = new Set();
+  const picked = [];
+  for (const row of ordered) {
+    const titleKey = String(row.title || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+    const sourceKey = row.feed_title || row.feed_url || row.url;
+    if (!titleKey || seenTitles.has(titleKey) || seenSources.has(sourceKey)) continue;
+    seenTitles.add(titleKey);
+    seenSources.add(sourceKey);
+    picked.push(row);
+    if (picked.length >= ARTICLES_PER_TOPIC) break;
   }
+  return picked;
+}
 
-  return merged;
+// Google News appends " - Publisher" to every title; drop it (the source is shown separately).
+function cleanTitle(row) {
+  const title = String(row.title || '');
+  return /google news/i.test(row.feed_title || '') ? title.replace(/\s[-–|]\s[^-–|]{2,60}$/, '') : title;
 }
 
 function buildArticleObj(row) {
-  const obj = { title: row.title, url: row.url };
+  const obj = { title: cleanTitle(row), url: row.url };
   if (row.feed_title) obj.source = row.feed_title;
   if (row.published_at) {
     obj.published_at = row.published_at instanceof Date
@@ -57,13 +63,23 @@ function buildArticleObj(row) {
       : new Date(row.published_at).toISOString();
   }
   if (row.image_url) obj.image = row.image_url;
-  if (row.summary) obj.description = row.summary;
+  const description = cleanDescription(row.summary, row.title);
+  if (description) obj.description = description;
   return obj;
 }
 
+function cleanDescription(summary, title) {
+  const text = String(summary || '').replace(/\s+/g, ' ').trim();
+  if (!text || text === String(title || '').trim()) return null;
+  return text.length > DESCRIPTION_CHARS ? `${text.slice(0, DESCRIPTION_CHARS - 1).trimEnd()}…` : text;
+}
+
 function buildTopicObj(topic, articles) {
+  const headline = topic.sampleHeadlines?.[0] || null;
   const obj = {
     id: topic.id,
+    title: headline,
+    headline,
     label: (topic.labelKeywords || []).slice(0, 6),
     category: topic.status || 'new',
   };
@@ -84,12 +100,37 @@ function buildTopicObj(topic, articles) {
   return obj;
 }
 
+// Apply model titles/summaries; fold clusters the model flags as the same story into the earlier one.
+function applySummaries(topicObjects, summaries) {
+  if (!summaries) return topicObjects;
+  const byId = new Map(topicObjects.map(topic => [topic.id, topic]));
+  const kept = [];
+  for (const topic of topicObjects) {
+    const result = summaries.get(topic.id);
+    const target = result?.duplicateOf ? byId.get(result.duplicateOf) : null;
+    if (target && target !== topic && kept.includes(target)) {
+      const titles = new Set(target.articles.map(a => a.title));
+      for (const article of topic.articles) {
+        if (target.articles.length >= ARTICLES_PER_TOPIC) break;
+        if (!titles.has(article.title)) target.articles.push(article);
+      }
+      continue;
+    }
+    if (result) {
+      topic.title = result.title;
+      if (result.summary) topic.summary = result.summary;
+    }
+    kept.push(topic);
+  }
+  return kept;
+}
+
 /**
  * Export top topics for `date` to news/<date>.json.
  * `db` must implement getTopicsBetweenDates(start, end) and getArticlesForTopic(topicId, limit).
  * Returns number of articles written, or null if file already existed and force=false.
  */
-export async function exportNewsForDate(db, date, { force = false } = {}) {
+export async function exportNewsForDate(db, date, { force = false, summarize = true, summaryOptions = {} } = {}) {
   await fs.mkdir(NEWS_DIR, { recursive: true });
 
   const outPath = path.join(NEWS_DIR, `${date}.json`);
@@ -102,14 +143,14 @@ export async function exportNewsForDate(db, date, { force = false } = {}) {
   const allTopics = await db.getTopicsBetweenDates(date, date);
   if (!allTopics.length) return 0;
 
-  const selected = selectTopics(allTopics);
-  const topicObjects = [];
-  let totalArticles = 0;
+  let topicObjects = [];
+  for (const topic of selectTopics(allTopics)) {
+    const rows = await db.getArticlesForTopic(topic.id, TOPIC_ARTICLE_POOL);
+    topicObjects.push(buildTopicObj(topic, pickArticles(topic, rows)));
+  }
 
-  for (const topic of selected) {
-    const articles = await db.getArticlesForTopic(topic.id, ARTICLES_PER_TOPIC);
-    topicObjects.push(buildTopicObj(topic, articles));
-    totalArticles += articles.length || Math.min(topic.sampleHeadlines?.length ?? 0, ARTICLES_PER_TOPIC);
+  if (summarize) {
+    topicObjects = applySummaries(topicObjects, await summarizeTopics(topicObjects, summaryOptions));
   }
 
   const output = {
@@ -120,5 +161,5 @@ export async function exportNewsForDate(db, date, { force = false } = {}) {
 
   await fs.writeFile(tmpPath, JSON.stringify(output, null, 2), 'utf8');
   await fs.rename(tmpPath, outPath);
-  return totalArticles;
+  return topicObjects.reduce((sum, topic) => sum + topic.articles.length, 0);
 }

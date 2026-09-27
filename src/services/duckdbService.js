@@ -6,9 +6,46 @@ import { vectorToObject } from './topicDetectionService.js';
 
 const STAGE_TABLE = 'article_stage';
 
+const topicsTableSql = name => `
+      CREATE TABLE IF NOT EXISTS ${name} (
+        id VARCHAR PRIMARY KEY,
+        topic_date DATE NOT NULL,
+        status VARCHAR NOT NULL,
+        label_keywords VARCHAR[],
+        entities VARCHAR[],
+        centroid_vector VARCHAR NOT NULL,
+        article_count UINTEGER NOT NULL,
+        unique_source_count UINTEGER NOT NULL,
+        novelty_score DOUBLE NOT NULL,
+        burst_score DOUBLE NOT NULL,
+        burst_z_score DOUBLE NOT NULL,
+        source_diversity DOUBLE NOT NULL,
+        persistence_score DOUBLE NOT NULL,
+        entity_importance DOUBLE NOT NULL,
+        final_score DOUBLE NOT NULL,
+        max_historical_similarity DOUBLE NOT NULL,
+        active_windows VARCHAR[],
+        matched_historical_topic_ids VARCHAR[],
+        sample_headlines VARCHAR[],
+        top_sources VARCHAR[],
+        created_at TIMESTAMP NOT NULL,
+        theme_id VARCHAR,
+        theme_label VARCHAR[]
+      )
+    `;
+
+const topicArticlesTableSql = name => `
+      CREATE TABLE IF NOT EXISTS ${name} (
+        topic_id VARCHAR NOT NULL,
+        url_hash UBIGINT NOT NULL,
+        PRIMARY KEY (topic_id, url_hash)
+      )
+    `;
+
 class DuckDBService {
-  constructor(dbPath = DEFAULT_DB_PATH) {
+  constructor(dbPath = DEFAULT_DB_PATH, { readOnly = false } = {}) {
     this.dbPath = dbPath;
+    this.readOnly = readOnly;
     this.instance = null;
     this.connection = null;
   }
@@ -18,11 +55,18 @@ class DuckDBService {
     if (this._opening) return this._opening;
     this._opening = (async () => {
       await fs.mkdir(path.dirname(this.dbPath), { recursive: true });
+      // Hard caps keep the daemon from eating the machine: DuckDB's default memory_limit is 80% of
+      // RAM, which is what the process sat at (6.3 GiB) for two months of OOM failures.
       this.instance = await DuckDBInstance.create(this.dbPath, {
-        threads: String(process.env.DUCKDB_THREADS || 2)
+        threads: String(process.env.DUCKDB_THREADS || 2),
+        memory_limit: process.env.DUCKDB_MEMORY_LIMIT || '1GB',
+        preserve_insertion_order: 'false',
+        temp_directory: `${this.dbPath}.tmp`,
+        max_temp_directory_size: process.env.DUCKDB_MAX_TEMP_SIZE || '2GB',
+        ...(this.readOnly ? { access_mode: 'READ_ONLY' } : {})
       });
       this.connection = await this.instance.connect();
-      await this.initializeSchema();
+      if (!this.readOnly) await this.initializeSchema();
       return this.connection;
     })().finally(() => { this._opening = null; });
     return this._opening;
@@ -70,44 +114,13 @@ class DuckDBService {
       await connection.run('ALTER TABLE articles DROP COLUMN raw_fingerprint');
     }
 
-    await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_published_at ON articles(published_at)');
-    await connection.run('CREATE INDEX IF NOT EXISTS idx_articles_feed_url ON articles(feed_url)');
+    // Secondary ART indexes on 1.6M+ articles cost memory and insert time and no query uses them;
+    // DuckDB's zonemaps handle the date range scans. Only the primary key is kept.
+    await connection.run('DROP INDEX IF EXISTS idx_articles_published_at');
+    await connection.run('DROP INDEX IF EXISTS idx_articles_feed_url');
 
-    await connection.run(`
-      CREATE TABLE IF NOT EXISTS topics (
-        id VARCHAR PRIMARY KEY,
-        topic_date DATE NOT NULL,
-        status VARCHAR NOT NULL,
-        label_keywords VARCHAR[],
-        entities VARCHAR[],
-        centroid_vector VARCHAR NOT NULL,
-        article_count UINTEGER NOT NULL,
-        unique_source_count UINTEGER NOT NULL,
-        novelty_score DOUBLE NOT NULL,
-        burst_score DOUBLE NOT NULL,
-        burst_z_score DOUBLE NOT NULL,
-        source_diversity DOUBLE NOT NULL,
-        persistence_score DOUBLE NOT NULL,
-        entity_importance DOUBLE NOT NULL,
-        final_score DOUBLE NOT NULL,
-        max_historical_similarity DOUBLE NOT NULL,
-        active_windows VARCHAR[],
-        matched_historical_topic_ids VARCHAR[],
-        sample_headlines VARCHAR[],
-        top_sources VARCHAR[],
-        created_at TIMESTAMP NOT NULL,
-        theme_id VARCHAR,
-        theme_label VARCHAR[]
-      )
-    `);
-
-    await connection.run(`
-      CREATE TABLE IF NOT EXISTS topic_articles (
-        topic_id VARCHAR NOT NULL,
-        url_hash UBIGINT NOT NULL,
-        PRIMARY KEY (topic_id, url_hash)
-      )
-    `);
+    await connection.run(topicsTableSql('topics'));
+    await connection.run(topicArticlesTableSql('topic_articles'));
 
     await connection.run('CREATE INDEX IF NOT EXISTS idx_topics_topic_date ON topics(topic_date)');
     await connection.run('CREATE INDEX IF NOT EXISTS idx_topic_articles_url_hash ON topic_articles(url_hash)');
@@ -194,10 +207,26 @@ class DuckDBService {
         timing: { totalMs: Date.now() - totalStartedAt, stageMs, insertMs }
       };
     } catch (error) {
-      await connection.run('ROLLBACK');
+      // A failed statement may already have aborted the transaction; never let the ROLLBACK
+      // error replace the original one.
+      await connection.run('ROLLBACK').catch(() => {});
       await connection.run(`DELETE FROM ${STAGE_TABLE}`).catch(() => {});
       throw error;
     }
+  }
+
+  // UTC days that have enough news articles to be worth clustering, oldest first.
+  async getArticleDates(minArticles = 1) {
+    const connection = await this.open();
+    const reader = await connection.runAndReadAll(`
+      SELECT CAST(CAST(COALESCE(published_at, fetched_at) AS DATE) AS VARCHAR) AS d
+      FROM articles
+      WHERE source_type = 1
+      GROUP BY 1
+      HAVING COUNT(*) >= ${Number(minArticles)}
+      ORDER BY 1
+    `);
+    return reader.getRowObjectsJS().map(row => row.d);
   }
 
   async countArticles() {
@@ -234,23 +263,23 @@ class DuckDBService {
     };
   }
 
+  // News articles (source_type 1) for one UTC day, by published_at, falling back to fetched_at
+  // when a feed gives no date. Range predicates (not CAST) let DuckDB skip row groups, and only the
+  // narrow columns clustering needs are read (summary/url/tags are fetched later per topic).
   async getArticlesForDate(date, limit = 0) {
     const connection = await this.open();
     const limitClause = limit > 0 ? `LIMIT ${Number(limit)}` : '';
+    const start = `TIMESTAMP '${escapeSql(date)} 00:00:00'`;
+    const end = `(${start} + INTERVAL 1 DAY)`;
     const reader = await connection.runAndReadAll(`
-      SELECT
-        url_hash,
-        url,
-        feed_url,
-        feed_title,
-        title,
-        summary,
-        published_at,
-        fetched_at,
-        source_type,
-        tags
+      SELECT url_hash, feed_url, feed_title, title, published_at, fetched_at
       FROM articles
-      WHERE COALESCE(CAST(published_at AS DATE), CAST(fetched_at AS DATE)) = DATE '${escapeSql(date)}'
+      WHERE source_type = 1
+        AND title IS NOT NULL
+        AND (
+          (published_at >= ${start} AND published_at < ${end})
+          OR (published_at IS NULL AND fetched_at >= ${start} AND fetched_at < ${end})
+        )
       ORDER BY COALESCE(published_at, fetched_at) DESC, feed_url, title
       ${limitClause}
     `);
@@ -290,44 +319,30 @@ class DuckDBService {
     return reader.getRowObjectsJS();
   }
 
-  async getArticlesForTopic(topicId, limit = 5) {
+  // All articles linked to a topic (bounded by `limit`); callers order them by centrality.
+  async getArticlesForTopic(topicId, limit = 200) {
     const connection = await this.open();
     const hasArchive = await this._checkHasArchive();
-    let sql;
-    if (hasArchive) {
-      sql = `
-        SELECT
-          a.title,
-          a.url,
-          COALESCE(a.feed_title,  arch.feed_title)  AS feed_title,
-          a.published_at,
-          COALESCE(a.image_url,   arch.image_url)   AS image_url
-        FROM topic_articles ta
-        JOIN articles a ON a.url_hash = ta.url_hash
-        LEFT JOIN read_parquet('data/archive/*.parquet', union_by_name=true) arch
-          ON arch.url_hash = ta.url_hash
-        WHERE ta.topic_id = '${escapeSql(topicId)}'
-          AND a.title IS NOT NULL
-        ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
-        LIMIT ${Number(limit)}
-      `;
-    } else {
-      sql = `
-        SELECT
-          a.title,
-          a.url,
-          a.feed_title,
-          a.published_at,
-          a.image_url
-        FROM topic_articles ta
-        JOIN articles a ON a.url_hash = ta.url_hash
-        WHERE ta.topic_id = '${escapeSql(topicId)}'
-          AND a.title IS NOT NULL
-        ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
-        LIMIT ${Number(limit)}
-      `;
-    }
-    const reader = await connection.runAndReadAll(sql);
+    const archiveJoin = hasArchive
+      ? 'LEFT JOIN read_parquet(\'data/archive/*.parquet\', union_by_name=true) arch ON arch.url_hash = ta.url_hash'
+      : '';
+    const reader = await connection.runAndReadAll(`
+      SELECT
+        a.title,
+        a.url,
+        a.feed_url,
+        ${hasArchive ? 'COALESCE(a.feed_title, arch.feed_title)' : 'a.feed_title'} AS feed_title,
+        a.published_at,
+        ${hasArchive ? 'COALESCE(a.image_url, arch.image_url)' : 'a.image_url'} AS image_url,
+        a.summary
+      FROM topic_articles ta
+      JOIN articles a ON a.url_hash = ta.url_hash
+      ${archiveJoin}
+      WHERE ta.topic_id = '${escapeSql(topicId)}'
+        AND a.title IS NOT NULL
+      ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
+      LIMIT ${Number(limit)}
+    `);
     return reader.getRowObjectsJS();
   }
 
@@ -408,17 +423,18 @@ class DuckDBService {
           )
         `);
 
-        for (const urlHash of topic.articleHashes || []) {
-          await connection.run(`
-            INSERT OR IGNORE INTO topic_articles (topic_id, url_hash)
-            VALUES ('${escapeSql(topic.id)}', ${String(urlHash)})
-          `);
+        const hashes = [...new Set((topic.articleHashes || []).map(String))];
+        for (let index = 0; index < hashes.length; index += 500) {
+          const values = hashes.slice(index, index + 500)
+            .map(urlHash => `('${escapeSql(topic.id)}', ${BigInt(urlHash)})`)
+            .join(', ');
+          await connection.run(`INSERT OR IGNORE INTO topic_articles (topic_id, url_hash) VALUES ${values}`);
         }
       }
 
       await connection.run('COMMIT');
     } catch (error) {
-      await connection.run('ROLLBACK');
+      await connection.run('ROLLBACK').catch(() => {});
       throw error;
     }
   }
@@ -444,9 +460,36 @@ class DuckDBService {
       await connection.run('COMMIT');
       return result.getRowsJS().length;
     } catch (error) {
-      await connection.run('ROLLBACK');
+      await connection.run('ROLLBACK').catch(() => {});
       throw error;
     }
+  }
+
+  // Rewrites topics/topic_articles without their deleted rows. DuckDB keeps tombstones from the
+  // per-date replace (the old hourly replace left ~15x dead rows), and they make every topic
+  // DELETE load far more blocks than needed. Cheap: both tables hold only a few MB of live data.
+  async compactTopicTables() {
+    const connection = await this.open();
+    await connection.run('DROP INDEX IF EXISTS idx_topics_topic_date');
+    await connection.run('DROP INDEX IF EXISTS idx_topic_articles_url_hash');
+    const tables = [['topics', topicsTableSql], ['topic_articles', topicArticlesTableSql]];
+    for (const [table, ddl] of tables) {
+      await connection.run('BEGIN TRANSACTION');
+      try {
+        await connection.run(`DROP TABLE IF EXISTS ${table}_compact`);
+        await connection.run(ddl(`${table}_compact`));
+        await connection.run(`INSERT INTO ${table}_compact BY NAME SELECT * FROM ${table}`);
+        await connection.run(`DROP TABLE ${table}`);
+        await connection.run(`ALTER TABLE ${table}_compact RENAME TO ${table}`);
+        await connection.run('COMMIT');
+      } catch (error) {
+        await connection.run('ROLLBACK').catch(() => {});
+        throw error;
+      }
+    }
+    await connection.run('CREATE INDEX IF NOT EXISTS idx_topics_topic_date ON topics(topic_date)');
+    await connection.run('CREATE INDEX IF NOT EXISTS idx_topic_articles_url_hash ON topic_articles(url_hash)');
+    await connection.run('CHECKPOINT');
   }
 
   async checkpoint() {

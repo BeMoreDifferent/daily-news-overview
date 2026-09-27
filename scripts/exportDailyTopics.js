@@ -5,115 +5,101 @@
 //   node scripts/exportDailyTopics.js --date YYYY-MM-DD
 //   node scripts/exportDailyTopics.js --backfill  # all dates not yet exported
 //   node scripts/exportDailyTopics.js --backfill --force
+//   node scripts/exportDailyTopics.js --recluster [--date YYYY-MM-DD] [--from YYYY-MM-DD]
+//       Re-run topic detection before exporting (overwrites files). Needs write access, so the
+//       fetcher daemon must be stopped. Without --date it walks every article date oldest-first
+//       so each day's novelty/history is computed from already-reclustered days.
+//   --no-summary  skip the OpenAI title/summary call
 
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { DuckDBInstance } from '@duckdb/node-api';
+import { DuckDBService } from '../src/services/duckdbService.js';
 import { exportNewsForDate } from '../src/services/newsExportService.js';
+import { detectTopicsForDate } from '../src/services/topicDetectionService.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DB_PATH = process.env.DUCKDB_PATH || path.join(ROOT, 'data', 'rss.duckdb');
 const NEWS_DIR = path.join(ROOT, 'news');
+// Days below this are feed backlog (old items first seen later), not a real crawl day.
+const MIN_ARTICLES_PER_DAY = 2000;
 
 function yesterdayUTC() {
   return new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
 }
 
-function escapeSql(value) {
-  return String(value ?? '').replace(/'/g, '\'\'');
-}
-
 function parseArgs() {
   const args = process.argv.slice(2);
-  const backfill = args.includes('--backfill');
-  const force = args.includes('--force');
-  const dateIdx = args.indexOf('--date');
-  const date = dateIdx !== -1 ? args[dateIdx + 1] : null;
-  return { backfill, force, date };
-}
-
-// Minimal adapter: wraps a raw DuckDB connection to match the db interface expected by exportNewsForDate
-function makeDbAdapter(conn) {
+  const valueOf = flag => {
+    const index = args.indexOf(flag);
+    return index !== -1 ? args[index + 1] : null;
+  };
   return {
-    async getTopicsBetweenDates(startDate, endDate) {
-      const esc = v => String(v ?? '').replace(/'/g, '\'\'');
-      const reader = await conn.runAndReadAll(`
-        SELECT
-          id,
-          status,
-          label_keywords      AS labelKeywords,
-          entities,
-          article_count       AS articleCount,
-          unique_source_count AS uniqueSourceCount,
-          final_score         AS finalScore,
-          sample_headlines    AS sampleHeadlines,
-          theme_id            AS themeId,
-          theme_label         AS themeLabel
-        FROM topics
-        WHERE topic_date BETWEEN DATE '${esc(startDate)}' AND DATE '${esc(endDate)}'
-        ORDER BY topic_date DESC, final_score DESC
-      `);
-      return reader.getRowObjectsJS();
-    },
-    async getArticlesForTopic(topicId, limit = 5) {
-      const esc = v => String(v ?? '').replace(/'/g, '\'\'');
-      const reader = await conn.runAndReadAll(`
-        SELECT a.title, a.url, a.feed_title, a.published_at, a.image_url, a.summary
-        FROM topic_articles ta
-        JOIN articles a ON a.url_hash = ta.url_hash
-        WHERE ta.topic_id = '${esc(topicId)}' AND a.title IS NOT NULL
-        ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
-        LIMIT ${Number(limit)}
-      `);
-      return reader.getRowObjectsJS();
-    }
+    backfill: args.includes('--backfill'),
+    recluster: args.includes('--recluster'),
+    force: args.includes('--force'),
+    summarize: !args.includes('--no-summary'),
+    date: valueOf('--date'),
+    from: valueOf('--from')
   };
 }
 
-async function getAllTopicDates(conn) {
-  const reader = await conn.runAndReadAll(`
+async function getAllTopicDates(db) {
+  const connection = await db.open();
+  const reader = await connection.runAndReadAll(`
     SELECT DISTINCT CAST(topic_date AS VARCHAR) AS d FROM topics ORDER BY d
   `);
   return reader.getRowObjectsJS().map(r => r.d);
 }
 
-async function main() {
-  const { backfill, force, date } = parseArgs();
+async function resolveDates(db, { backfill, recluster, force, date, from }) {
+  if (date) return [date];
+  if (recluster) {
+    const today = new Date().toISOString().slice(0, 10);
+    return (await db.getArticleDates(MIN_ARTICLES_PER_DAY))
+      .filter(d => d < today && (!from || d >= from));
+  }
+  if (!backfill) return [yesterdayUTC()];
 
-  // Open read-only — safe to run while the fetcher daemon holds the DB write lock.
-  const inst = await DuckDBInstance.create(DB_PATH, { access_mode: 'READ_ONLY', threads: '2' });
-  const conn = await inst.connect();
-  const db = makeDbAdapter(conn);
+  const allDates = await getAllTopicDates(db);
+  if (force) return allDates;
+  const pending = [];
+  for (const d of allDates) {
+    try { await fs.access(path.join(NEWS_DIR, `${d}.json`)); } catch { pending.push(d); }
+  }
+  return pending;
+}
+
+async function main() {
+  const options = parseArgs();
+  process.chdir(ROOT);
+
+  // Plain exports open read-only; reclustering rewrites the topics table.
+  const db = new DuckDBService(DB_PATH, { readOnly: !options.recluster });
+  await db.open();
 
   try {
-    let dates;
-
-    if (backfill) {
-      const allDates = await getAllTopicDates(conn);
-      if (!force) {
-        const pending = [];
-        for (const d of allDates) {
-          try { await fs.access(path.join(NEWS_DIR, `${d}.json`)); }
-          catch { pending.push(d); }
-        }
-        dates = pending;
-      } else {
-        dates = allDates;
-      }
-    } else {
-      dates = [date || yesterdayUTC()];
-    }
-
+    const dates = await resolveDates(db, options);
     if (!dates.length) {
       console.log('Nothing to export.');
       return;
     }
 
+    // Drop dead rows first so each per-date replace touches only live data.
+    if (options.recluster) await db.compactTopicTables();
+
     let written = 0;
     for (const d of dates) {
-      const articleCount = await exportNewsForDate(db, d, { force });
+      if (options.recluster) {
+        const startedAt = Date.now();
+        const topics = await detectTopicsForDate(db, d);
+        console.log(`topics ${d} — ${topics.length} topics in ${Date.now() - startedAt}ms`);
+      }
+      const articleCount = await exportNewsForDate(db, d, {
+        force: options.force || options.recluster,
+        summarize: options.summarize
+      });
       if (articleCount === null) {
         console.log(`skip  news/${d}.json — already exists`);
       } else if (articleCount === 0) {
@@ -125,10 +111,10 @@ async function main() {
       }
     }
 
-    if (backfill) console.log(`\nBackfill complete: ${written}/${dates.length} date(s) written.`);
+    if (options.recluster) await db.compactTopicTables();
+    if (dates.length > 1) console.log(`\nDone: ${written}/${dates.length} date(s) written.`);
   } finally {
-    conn.closeSync();
-    inst.closeSync();
+    await db.close();
   }
 }
 
