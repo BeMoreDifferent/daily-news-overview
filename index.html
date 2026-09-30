@@ -31,7 +31,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=7">
+  <link rel="stylesheet" href="assets/style.css?v=8">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -70,16 +70,16 @@
         <details id="overview" class="overview" open hidden>
           <summary>
             <span class="overview-heading">The day in brief</span>
-            <span class="overview-tag">AI summary</span>
+            <span class="overview-tag">AI<span class="tag-long"> summary</span></span>
           </summary>
           <ul id="overview-list" class="overview-list" role="list"></ul>
         </details>
-      </section>
 
-      <details id="toc-inline" class="toc-inline" hidden>
-        <summary>In this briefing <span id="toc-count" class="toc-count"></span></summary>
-        <ol id="toc-list" class="toc" role="list"></ol>
-      </details>
+        <details id="toc-inline" class="toc-inline" hidden>
+          <summary>All stories <span id="toc-count" class="toc-count"></span></summary>
+          <ol id="toc-list" class="toc" role="list"></ol>
+        </details>
+      </section>
 
       <ol id="stories" class="stories" role="list" aria-busy="true" tabindex="-1"></ol>
 
@@ -111,7 +111,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=7"></script>
+  <script type="module" src="assets/app.js?v=8"></script>
 
   <!-- Service worker registration -->
   <script>

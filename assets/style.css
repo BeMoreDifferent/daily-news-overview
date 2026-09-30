@@ -381,6 +381,10 @@ img {
   font-variant-numeric: tabular-nums;
 }
 
+.briefing-meta > span + span::before {
+  content: " · ";
+}
+
 .briefing-note {
   margin-top: 4px;
   font-size: 0.8125rem;
@@ -533,7 +537,7 @@ img {
 }
 
 .toc-inline {
-  margin-bottom: 24px;
+  margin-top: 16px;
   border: 1px solid var(--border);
   border-radius: var(--radius);
 }
@@ -571,6 +575,161 @@ img {
 .toc-inline .toc a {
   min-height: var(--tap);
   align-items: center;
+}
+
+/* ── Phone masthead ───────────────────────────────────────────────────────── */
+/* The header already names the day. Phones get one meta line with the "All stories" dropdown at
+   its end (the list floats over the page, so it costs no space), then the day in brief, always
+   shown, as a row of cards that swipe sideways: the first point is read in full and the next
+   one peeks in, so the lead story still starts in the upper half of the screen. */
+
+@media (max-width: 639.98px) {
+  .intro {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-rows: auto auto;
+    align-items: center;
+    column-gap: 12px;
+    padding: 12px 0 20px;
+  }
+
+  .intro-text {
+    grid-row: 1;
+    grid-column: 1;
+  }
+
+  .eyebrow,
+  .briefing-date {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .briefing-meta {
+    margin-top: 0;
+    font-size: 0.8125rem;
+    line-height: 1.45;
+  }
+
+  .briefing-note,
+  .meta-count {
+    display: none;
+  }
+
+  .briefing-meta > .meta-count + span::before {
+    content: none;
+  }
+
+  /* Contents dropdown */
+  .toc-inline {
+    display: contents;
+  }
+
+  .toc-inline summary {
+    grid-row: 1;
+    grid-column: 2;
+    min-height: 40px;
+    padding: 0 12px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface);
+    font-size: 0.8125rem;
+  }
+
+  .toc-inline summary::after {
+    width: 6px;
+    height: 6px;
+    margin-left: 2px;
+  }
+
+  .toc-inline[open] summary {
+    border-color: var(--fg-muted);
+  }
+
+  /* Anchored to the second grid row, i.e. just below the meta line, over the day in brief. */
+  .toc-inline::details-content {
+    position: absolute;
+    z-index: 20;
+    grid-row: 2;
+    grid-column: 1 / -1;
+    top: 6px;
+    left: 0;
+    right: 0;
+    max-block-size: min(70dvh, 560px);
+    border-radius: var(--radius);
+    background: var(--bg);
+  }
+
+  .toc-inline[open]::details-content {
+    outline: 1px solid var(--border);
+    box-shadow: 0 12px 32px rgb(0 0 0 / 0.18);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  .toc-inline .toc {
+    padding: 0 14px;
+    border-top: 0;
+  }
+
+  /* Day in brief */
+  .overview {
+    grid-row: 2;
+    grid-column: 1 / -1;
+    margin-top: 16px;
+    background: none;
+  }
+
+  .overview summary {
+    min-height: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    cursor: default;
+  }
+
+  .overview summary::after {
+    display: none;
+  }
+
+  .overview-list {
+    display: flex;
+    gap: 10px;
+    margin-inline: calc(-1 * var(--gutter));
+    padding: 0 var(--gutter);
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: var(--gutter);
+    scrollbar-width: none;
+  }
+
+  .overview-list li {
+    flex: 0 0 min(84%, 330px);
+    padding: 12px 14px;
+    border-radius: var(--radius);
+    background: var(--surface);
+    font-size: 1rem;
+    line-height: 1.45;
+    scroll-snap-align: start;
+  }
+
+  .overview-list li + li {
+    border-top: 0;
+  }
+
+  .overview-list li::before {
+    display: none;
+  }
+}
+
+@media (min-width: 640px) {
+  .meta-ai {
+    display: none;
+  }
 }
 
 /* ── Stories ──────────────────────────────────────────────────────────────── */

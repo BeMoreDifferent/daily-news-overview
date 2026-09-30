@@ -263,11 +263,16 @@ function renderIntro(date, data, stories) {
   $('briefing-date').textContent = formatDate(date);
   const outlets = new Set(stories.flatMap(t => t.articles.map(a => domainOf(a.url)).filter(Boolean)));
   const updated = formatUpdated(data?.generated_at);
-  $('briefing-meta').textContent = stories.length
-    ? [`${stories.length} ${stories.length === 1 ? 'story' : 'stories'}`, `${outlets.size} outlets`, updated && `Updated ${updated}`]
-      .filter(Boolean).join(' · ')
-    : '';
-  $('briefing-note').hidden = !stories.some(t => t.summary);
+  const aiWritten = stories.some(t => t.summary);
+  // Separators come from CSS. On phones the count moves to the "All stories" toggle and "AI
+  // summaries" stands in for the longer note.
+  $('briefing-meta').replaceChildren(...(stories.length ? [
+    el('span', { class: 'meta-count' }, `${stories.length} ${stories.length === 1 ? 'story' : 'stories'}`),
+    el('span', {}, `${outlets.size} outlets`),
+    aiWritten && el('span', { class: 'meta-ai' }, 'AI summaries'),
+    updated && el('span', {}, `Updated ${updated}`),
+  ].filter(Boolean) : []));
+  $('briefing-note').hidden = !aiWritten;
   $('footer-meta').textContent = updated ? `Briefing generated ${updated}` : '';
 }
 
@@ -558,11 +563,38 @@ function setupRankLinks() {
 
 function setupOverviewToggle() {
   const box = $('overview');
-  // Open by default where there is room beside or above the stories; on phones it starts as one
-  // line so the first story stays near the top. The reader's own choice is remembered.
+  const summary = box.querySelector('summary');
+  // Tablet and desktop: open by default, and the reader's own choice is remembered. Phones always
+  // show it (as a row of swipeable cards), so there the summary is only a label.
   const pref = readPref('overview-open');
   box.open = pref ? pref === '1' : tablet.matches;
-  box.addEventListener('toggle', () => writePref('overview-open', box.open ? '1' : '0'));
+  box.addEventListener('toggle', () => { if (tablet.matches) writePref('overview-open', box.open ? '1' : '0'); });
+  summary.addEventListener('click', event => { if (!tablet.matches) event.preventDefault(); });
+  const pin = () => {
+    if (tablet.matches) {
+      summary.removeAttribute('tabindex');
+      box.open = readPref('overview-open') !== '0';
+    } else {
+      summary.tabIndex = -1;
+      box.open = true;
+    }
+  };
+  pin();
+  tablet.addEventListener('change', pin);
+}
+
+// "All stories" is a dropdown on phones: it closes after a pick, on a tap outside, or on Escape.
+function setupContentsDropdown() {
+  const box = $('toc-inline');
+  const close = () => { box.open = false; };
+  box.addEventListener('click', event => { if (event.target.closest('a')) close(); });
+  document.addEventListener('pointerdown', event => { if (box.open && !box.contains(event.target)) close(); });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && box.open) {
+      close();
+      box.querySelector('summary').focus();
+    }
+  });
 }
 
 // Touch screens: swipe right for the previous day, left for the next. Swipes starting at the
@@ -573,7 +605,7 @@ function setupSwipe() {
     const touch = event.touches[0];
     const edge = 24;
     start = event.touches.length === 1 && touch.clientX > edge && touch.clientX < innerWidth - edge
-      && !event.target.closest('input, .date-picker')
+      && !event.target.closest('input, .date-picker, .overview-list')
       ? { x: touch.clientX, y: touch.clientY, time: event.timeStamp }
       : null;
   }, { passive: true });
@@ -718,6 +750,7 @@ function setupRouting() {
 setupDatePicker();
 setupRankLinks();
 setupOverviewToggle();
+setupContentsDropdown();
 setupSwipe();
 setupRouting();
 updateNotice();
