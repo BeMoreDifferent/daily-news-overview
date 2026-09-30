@@ -1,0 +1,948 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T21:54:53.387Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Russia warned it could use nuclear weapons if NATO members tried to cut off Kaliningrad, accusing the alliance of risking direct conflict.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "The US military completed its withdrawal from Iraq, ending its mission there against the Islamic State and relocating its headquarters to Jordan.",
+        "stories": [
+          10
+        ]
+      },
+      {
+        "text": "UK Prime Minister Andy Burnham said Iran may have played a part in an incident near RAF Fairford; five men arrested on suspicion of explosives offenses were released on bail.",
+        "stories": [
+          7
+        ]
+      },
+      {
+        "text": "A Flydubai flight from Dubai to Israel made an emergency landing in Saudi Arabia after reports of a cockpit fight and emergency alert.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Burnham said the UK should consider options including rejoining the EU, with the government set to outline options at a November summit.",
+        "stories": [
+          11
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_4783f8973e8727a3",
+      "title": "Dubai-to-Israel Flight Diverts to Saudi Arabia After Cockpit Fight",
+      "headline": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, official says",
+      "label": [
+        "arabia",
+        "saudi",
+        "diverted",
+        "israel",
+        "flight",
+        "bound"
+      ],
+      "category": "new",
+      "theme": "theme_40faa475bf372a3a",
+      "entities": [
+        "Israel",
+        "Saudi Arabia",
+        "FlyDubai",
+        "Israeli",
+        "Flydubai"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, official says",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1004294/israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots-official-says/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-09-30T09:16:53.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/09/2026-09-30T071701Z_992527813_RC2JTNAOET5D_RTRMADP_3_ISRAEL-GULF-FLIGHT_2026_09_30_17_14_02.jpg",
+          "description": "One of the passengers told her mother that she had heard screaming and that a man holding a knife had forced one of the pilots onto the floor, and that there was blood everywhere."
+        },
+        {
+          "title": "FlyDubai flight to Israel diverted to Saudi Arabia after incident in cockpit",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3369318/flydubai-flight-israel-diverted-saudi-arabia-after-incident-cockpit",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-09-30T07:54:04.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/532c207e-c128-4b47-8a0e-88c0da36e528_f1f49386.jpg?itok=ZfclrUC8&v=1790756272",
+          "description": "A commercial plane travelling from Dubai in the United Arab Emirates to Israel was forced to make an emergency landing in Saudi Arabia on Wednesday, briefly raising concerns about a possible hijacking and prompting Israel to scramble warplanes. Israeli media, citing security officials, said the inc…"
+        },
+        {
+          "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-30-israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots-israeli-official-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-09-30T11:53:48.000Z",
+          "image": "https://cdn.dailymaverick.co.za/i/uocBVKamHZoMnJQ9UKnjcpjP_Eg=/800x0/smart/filters:strip_exif()/file/attachments/2998/10315418_811873.jpg",
+          "description": "A flight bound for Israel from the United Arab Emirates diverted to Saudi Arabia after transmitting emergency signals following a fight between the pilots, an Israeli official said on Wednesday."
+        },
+        {
+          "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-09-30T10:29:39.000Z",
+          "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia."
+        },
+        {
+          "title": "Commercial flight from Dubai to Israel diverted to Saudi Arabia after distress call",
+          "url": "https://www.thehindubusinessline.com/news/world/a-commercial-plane-travelling-from-dubai-to-israel-diverted-to-saudi-arabia-after-distress-call/article71527377.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-09-30T07:42:15.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/361yky/article71473618.ece/alternates/LANDSCAPE_1200/IMG_BL31_Flight_Honey_2_1_59AEOA4R.jpg",
+          "description": "The diverted flight briefly raised concerns about a possible hijacking"
+        }
+      ],
+      "summary": "A Flydubai flight traveling from Dubai to Israel made an emergency landing in Saudi Arabia after an onboard cockpit incident. Reports described a fight between the pilots and an emergency alert."
+    },
+    {
+      "id": "topic_a3d55ed9189c9e34",
+      "title": "Bear Backpack Wins Alaska’s Fat Bear Week",
+      "headline": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
+      "label": [
+        "bear",
+        "fat",
+        "backpack",
+        "alaska",
+        "week",
+        "winner"
+      ],
+      "category": "new",
+      "theme": "theme_7c19483e70cdacf8",
+      "entities": [
+        "Alaska",
+        "Fat Bear Week Winner",
+        "Backpack",
+        "Fat Bear Week",
+        "Meet Backpack"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
+          "url": "https://www.nytimes.com/2026/09/29/style/fat-bear-week-winner.html",
+          "source": "NYT > Style",
+          "published_at": "2026-09-30T01:15:52.000Z",
+          "description": "Alaska’s Fat Bear Week finds its newest champion in a bear that overcame an injury in 2007 that nearly killed him."
+        },
+        {
+          "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+          "url": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o",
+          "source": "BBC News",
+          "published_at": "2026-09-30T05:01:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028c/live/57071760-bc89-11f1-bc1f-3f186ca4140c.jpg",
+          "description": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition."
+        },
+        {
+          "title": "Meet Backpack, the winner of Fat Bear Week 2026 in Alaska",
+          "url": "https://torontosun.com/news/meet-backpack-the-winner-of-fat-bear-week-2026-in-alaska",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-09-30T20:14:21.000Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/09/89-Backpack-Fat_9.8.2026_Courtesy-explore.org_-scaled.jpg?quality=100&strip=all",
+          "description": "Judged as the heftiest of the brown bears, Backpack beats out 15 rivals after a week of voting at Katmai National Park"
+        },
+        {
+          "title": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
+          "url": "https://www.aljazeera.com/news/2026/9/30/gentle-giant-backpack-declared-the-winner-of-alaskas-fat-bear-week",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-09-30T06:57:52.000Z",
+          "description": "The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula."
+        },
+        {
+          "title": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxnx3hzuu54muvqwtznddvst3h4mg9arg00s0pcbej3nhm5sk9smdblzwjtmthioulwoun2ngwxq1jwzxfjmtlynexqbdjlqjrmqxq5c2ldau0zlu9uzw1kc2wwudc5zjruveforlzzyuxmslatd0jsd0kzmektvgc5x1uxoedxvjbiqw8tmnllzgs1enprnzjun2ttejlcvuvzdfrgzgf6u1rzugvsababqvvfexfmudjmahlqzu1ou0plegdywxrkngxps0puczllt0z2a2o3t3fxbf9bbdk4rzhptxnsn3zubzlqa1vpemc5x3dor3qtthzqs09ivzbpmhhzbfjubdn1a2tidmzundnktwdrcgrky0jdlvi4x2tdz000nzm1zxm2bnpyv1ffmu1ur2tcbvvyd2v3ndljstywvg1zz0ndvfkybnfnyzhgb3fiv2tyagjtyi1eu3k",
+          "source": "Top stories - Google News",
+          "published_at": "2026-09-30T07:09:58.000Z",
+          "description": "Gentle giant Backpack wins Alaska’s Fat Bear Week Al Jazeera Gentle giant ‘Backpack’ declared winner of Alaska’s Fat Bear Week NBC News The fattest bear in Alaska? 'Backpack' takes 2026 Fat Bear title Yahoo Fat Bear Week: Backpack packs on pounds to be crowned champion The Times Backpack Is the Fat…"
+        }
+      ],
+      "summary": "Backpack won the annual Fat Bear Week competition at Katmai National Park, defeating a bear known as 910 in the final round. The contest celebrates the park’s brown bears."
+    },
+    {
+      "id": "topic_d7a5b1f6f60761bf",
+      "title": "Ken Griffin Pledges $3 Billion to Carnegie Mellon University",
+      "headline": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+      "label": [
+        "mellon",
+        "carnegie",
+        "griffin",
+        "ken",
+        "billion",
+        "university"
+      ],
+      "category": "new",
+      "theme": "theme_15b2be2727b68433",
+      "entities": [
+        "Ken Griffin",
+        "Carnegie Mellon University",
+        "CNBC",
+        "Ken Griffin Is Giving",
+        "Carnegie Mellon"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+          "url": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-09-30T09:00:01.000Z",
+          "description": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus."
+        },
+        {
+          "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxnowlybufoem1rckxxvg0zvwjuluzbswo2yl90cuzyeehkzwjvt0lixzzbvnbkv0lpn2vmbznrrnjscuitmthwzdjhsvdin1p1qwrmwfljsm5vmv8xahrxn2f2cjlychlkwv9hy19ysgzou0jkvtzivl9fym1lru5tnedhwth3b0i2mjlzvenesdbvzzhimuxjv3jxshk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-09-30T09:00:01.000Z",
+          "description": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift CNBC Donor Gives $3 Billion to Carnegie Mellon, the Largest University Gift Ever The New York Times Hedge fund CEO Ken Griffin donates $3 billion to Carnegie Mellon as part of his bet on Florida CNN Exclusive | Ken Grif…"
+        },
+        {
+          "title": "Ken Griffin Is Giving Carnegie Mellon $3 Billion. Most of It Is Going to Miami",
+          "url": "https://www.inc.com/victoria-salves/ken-griffin-giving-carnegie-mellon-3-billion-dollars-most-of-it-going-to-miami/91412605",
+          "source": "Inc.com",
+          "published_at": "2026-09-30T16:11:30.000Z",
+          "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/ken-griffin-carnegie-donation-inc-2244690638.jpg",
+          "description": "A new campus in Miami will host more than 3,500 students and create 300 faculty and 600 staff positions"
+        },
+        {
+          "title": "Ken Griffin donates $3bn to Carnegie Mellon as university plots Miami campus",
+          "url": "https://www.ft.com/content/3b5b46d7-2dcf-40f0-82f3-65ab6e4be76b",
+          "source": "International homepage",
+          "published_at": "2026-09-30T08:30:05.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b4301ef-3a07-4d32-b98f-318cbf8db873.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Record contribution comes as the billionaire seeks to reshape the Florida city to rival the likes of New York and London"
+        },
+        {
+          "title": "Ken Griffin's USD 3 billion gift brings Carnegie Mellon campus to Miami",
+          "url": "https://www.indiatoday.in/world/story/ken-griffin-carnegie-mellon-usd-3-billion-donation-miami-campus-ptag-3006516-2026-09-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-09-30T10:06:44.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-3-original_398-sixteen_nine.png?VersionId=mkgn09pi.mAaOxm_.GCuiuFDD4J4Uviz",
+          "description": "Ken Griffins USD billion gift brings Carnegie Mellon campus to Miami"
+        }
+      ],
+      "summary": "Citadel CEO Ken Griffin pledged $3 billion to Carnegie Mellon University, including $2 billion for a new campus in Miami. The campus is expected to host more than 3,500 students."
+    },
+    {
+      "id": "topic_29f0e839867844d1",
+      "title": "Russia Warns NATO It Could Use Nuclear Weapons Over Kaliningrad",
+      "headline": "Russia sends nuclear warning to NATO as tensions rise in Baltic",
+      "label": [
+        "nuclear",
+        "nato",
+        "warning",
+        "baltic",
+        "russia",
+        "tensions"
+      ],
+      "category": "new",
+      "theme": "theme_5b4f9678a63aed00",
+      "entities": [
+        "Russia",
+        "NATO",
+        "Baltic",
+        "Moscow Sends Nuclear Warning",
+        "Tensions Rise"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Russia sends nuclear warning to NATO as tensions rise in Baltic",
+          "url": "https://japantoday.com/category/world/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic2",
+          "source": "Japan Today",
+          "published_at": "2026-09-30T21:38:21.000Z",
+          "description": "Russia has warned NATO it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the…"
+        },
+        {
+          "title": "Russia issues nuclear warning to NATO as tensions rise in the Baltic",
+          "url": "https://www.thehindu.com/news/international/russia-issues-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/article71527829.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-09-30T10:46:18.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/tz7rqy/article71528043.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Banners__2_1_TDCAFA4A.jpg",
+          "description": "“Russia will be ready to use the entire arsenal of forces and ‌capabilities ⁠at its disposal, including nuclear weapons, to defend its ⁠territory should NATO countries undertake any attempt aimed at isolating the Kaliningrad Region from the rest of the country,” says document sent to NATO"
+        },
+        {
+          "title": "Moscow Sends Nuclear Warning to NATO as Tensions Rise in the Baltic",
+          "url": "https://www.themoscowtimes.com/2026/09/30/moscow-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic-a93828",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-09-30T13:33:00.000Z",
+          "description": "Moscow accused the alliance of a \"dangerous and reckless course\" that entailed \"high risks of the outbreak of a direct armed conflict.\""
+        },
+        {
+          "title": "Russia issues nuclear warning to NATO as tensions rise in the Baltic",
+          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxnntjvnu5aaklysdnswxrmmuvbd2vwavlhywtmuzbfslncm3dfm2swcenvd3hsota1zedpujrtymvly0lfnwdfvmm3cw1knuixaurqcgnyetb4djq3nkc3c2z5me5an1bxnwlla1zjqkf2us03x0lmehnitejjblpytvjmy19wszlbenjkdgdqnnleblfhnhitqjbxwwlya0hmqxzpy3yxbnrhvwpbm29fqjfjwumytzljuke",
+          "source": "Top stories - Google News",
+          "published_at": "2026-09-30T09:51:16.000Z",
+          "description": "Russia issues nuclear warning to NATO as tensions rise in the Baltic Reuters Ukraine war briefing: Nato condemns Moscow’s ‘irresponsible nuclear rhetoric’ as strikes on Kyiv intensify The Guardian NATO’s front line now stretches across Europe, top commander warns stripes.com Why Moscow Is Raising t…"
+        },
+        {
+          "title": "Russia sends nuclear warning to Nato over its Kaliningrad enclave",
+          "url": "https://www.scmp.com/news/world/europe/article/3369374/russia-sends-nuclear-warning-nato-over-its-kaliningrad-enclave",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-09-30T14:19:35.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/880717cd-da49-4cca-90bd-54379268aa2d_b3af1e1b.jpg?itok=g8-Lqzc1&v=1790777972",
+          "description": "Russia has warned Nato it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea. In a document sent to Nato and seen by Reuters, Moscow accused the alliance of a “dangerous and reckless course” that entail…"
+        }
+      ],
+      "summary": "Russia warned NATO that it could use nuclear weapons if alliance members tried to cut off Kaliningrad. Moscow accused the alliance of pursuing a dangerous course that risked direct conflict."
+    },
+    {
+      "id": "topic_64f505985bc3b600",
+      "title": "Chad Lowe and Kim Painter Announce Death of Daughter Fiona",
+      "headline": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "label": [
+        "fiona",
+        "lowe",
+        "chad",
+        "daughter",
+        "death",
+        "actor"
+      ],
+      "category": "new",
+      "theme": "theme_e2f974028a9699b1",
+      "entities": [
+        "US",
+        "Chad Lowe",
+        "Fiona",
+        "BBC",
+        "Actor Chad Lowe"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o",
+          "source": "BBC News",
+          "published_at": "2026-09-30T08:59:38.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+          "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
+        },
+        {
+          "title": "US actor Chad Lowe 'heartbroken' after death of daughter Fiona aged 13",
+          "url": "https://news.google.com/rss/articles/cbmiw0fvx3lxtfbiu180rk1kyuf0athvaxp2ohzjnujwsunfsuy5ykxhvgjimglqrmy0y2rqvs1vzetvsvrlv20ts3bnaepgqnvqrexsmdfgqmhyzzvgdfzrykttzek",
+          "source": "Top stories - Google News",
+          "published_at": "2026-09-30T08:59:38.000Z",
+          "description": "US actor Chad Lowe 'heartbroken' after death of daughter Fiona aged 13 BBC Chad Lowe and Kim Painter’s Daughter Fiona Dies at 13: ‘She Was the Light of Our Lives’ People.com Fiona Lowe, Daughter of Chad Lowe and Kim Painter, Dies at 13 Variety Chad Lowe’s daughter Fiona dead at 13: ‘We are deeply h…"
+        },
+        {
+          "title": "Actor Chad Lowe & Family Confirm Death of Daughter Fiona, 13",
+          "url": "https://www.comingsoon.net/movies/news/2199591-chad-lowe-wife-confirm-death-daughter-fiona-13",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-09-30T04:45:49.000Z",
+          "description": "Chad Lowe and his family shared a devastating announcement that has left fans heartbroken. The actor and his wife Kim Painter confirmed the passing of their youngest daughter in an emotional statement. Chad Lowe and his family confirmed the passing of his daughter, Fiona Chad Lowe and Kim Painter c…"
+        },
+        {
+          "title": "Chad Lowe and Kim Painter Announce the Death of Daughter Fiona at 13",
+          "url": "https://247newsaroundtheworld.com/people/chad-lowe-daughter-fiona-hepler-lowe-dies-at-13",
+          "source": "247 News Around The World",
+          "published_at": "2026-09-30T18:31:16.000Z",
+          "description": "247 News Around The World 247 News Around The World Actor Chad Lowe and producer Kim Painter have announced the death of… The post Chad Lowe and Kim Painter Announce the Death of Daughter Fiona at 13 appeared first on %%247newsaroundtheworld.com%%."
+        },
+        {
+          "title": "Chad Lowe's daughter Fiona dies aged 13 as actor and wife share heartbreaking statement",
+          "url": "https://www.irishmirror.ie/showbiz/celebrity-news/fiona-harper-aged-13-dies-37716827",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-09-30T05:10:35.000Z",
+          "image": "https://i2-prod.irishmirror.ie/showbiz/celebrity-news/article37716826.ece/ALTERNATES/s615/1_MIRROR-BREAKING-Rob-Lowes-niece-tragically-dies-at-just-13-years-old-as-family-mourns-light-of-our.jpg",
+          "description": "Fiona Harper Lowe, the daughter of actor Chad Lowe and niece of Rob Lowe, has died at the age of just 13, her parents have confirmed"
+        }
+      ],
+      "summary": "Actor Chad Lowe and his wife, Kim Painter, announced that their daughter Fiona has died at age 13. They described her as the light of their lives."
+    },
+    {
+      "id": "topic_d2f0ccead6c951f2",
+      "title": "Apple Pay Launches in India",
+      "headline": "Apple Pay is now available in India",
+      "label": [
+        "pay",
+        "apple",
+        "india",
+        "finally",
+        "launches",
+        "available"
+      ],
+      "category": "new",
+      "theme": "theme_817e45ee73685988",
+      "entities": [
+        "Apple Pay",
+        "India",
+        "Apple Pay In India",
+        "Where It Works",
+        "How To Pay And"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Apple Pay is now available in India",
+          "url": "https://www.gsmarena.com/apple_pay_is_now_available_in_india-news-74830.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-09-30T05:15:02.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-pay-india-launch/-184x111/gsmarena_00.jpg",
+          "description": "Twelve years after first launching its payment service in the US, Apple has finally brought Apple Pay to India, although the service is currently limited to select bank cards. Apple Pay is available to users in India across Apple devices, except Mac, although support for macOS is confirmed to be co…"
+        },
+        {
+          "title": "Apple Pay launched in India, here is how you can use it on your iPhone",
+          "url": "https://www.indiatoday.in/technology/news/story/apple-pay-launched-in-india-here-is-how-you-can-use-it-on-your-iphone-3006191-2026-09-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-09-30T02:48:36.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/apple-pay-india-304758195-16x9_0.png?VersionId=xb_To2QvfsxxS3xtoFu2YzdptOlfLqBQ",
+          "description": "Apple Pay launched in India here is how you can use it on your iPhone"
+        },
+        {
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
+          "source": "TechCrunch",
+          "published_at": "2026-09-30T04:08:00.000Z",
+          "description": "Some of India's largest banks are holding off on supporting Apple Pay initially."
+        },
+        {
+          "title": "Apple Pay In India: Where It Works, How To Pay And What You Need",
+          "url": "https://www.ndtv.com/world-news/apple-pay-in-india-your-card-wallet-and-upi-questions-answered-12118400",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-09-30T07:23:33.000Z",
+          "image": "https://c.ndtvimg.com/2026-09/f9avbti_apple-pay-comes-to-india_625x300_30_September_26.png",
+          "description": "Apple Pay launched in India on Wednesday, September 30. It allows your iPhone to be turned into a contactless card."
+        },
+        {
+          "title": "Apple Pay launches in India to take on PhonePe, Google",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/apple-pay-launches-in-india-to-take-on-phonepe-google/article71526688.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-09-30T14:39:36.000Z",
+          "image": "https://bl-i.thgim.com/public/incoming/kgluud/article70678732.ece/alternates/LANDSCAPE_1200/2021-07-20T152303Z_720376738_RC2FOO994MS8_RTRMADP_3_RUSSIA-PAYMENTS.JPG",
+          "description": "Customers can make payments across merchants using their iPhone, Apple Watch and iPad, with support for Mac coming soon"
+        }
+      ],
+      "summary": "Apple Pay has launched in India, initially with support for select bank cards. Customers can use compatible Apple devices to make contactless payments, with support from some major banks still pending."
+    },
+    {
+      "id": "topic_a3268531976dfcc7",
+      "title": "UK Prime Minister Says Iran May Have Played Part in Fairford Incident",
+      "headline": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "label": [
+        "base",
+        "air",
+        "iran",
+        "incident",
+        "fairford",
+        "uk"
+      ],
+      "category": "new",
+      "theme": "theme_4f4b465fd510174a",
+      "entities": [
+        "UK Believes Iran Played",
+        "Part",
+        "RAF Fairford Air Base",
+        "Incident",
+        "Burnham Says"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+          "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-09-30T21:31:42.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-uk-airbase-plot-1-wfgc/30int-uk-airbase-plot-1-wfgc-mediumSquareAt3X.jpg",
+          "description": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why."
+        },
+        {
+          "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxpbwdire9xym5ox3hnrfb2dwm4yth4eeprywpioxa1qktreul2zjzgwvpodfpvu3v5d00tee9rc19jyxfjehu1dlbyt0zhlwtbn1zvwjbkutczvwndduniwnlmrm11c1dizi05zzmyakdns25zy2dmrmnltgr2tl9nc0hgnw1qnuxw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-09-30T18:12:27.000Z",
+          "description": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says The New York Times Iran war live: Trump says ‘you’ll see things happening very soon’ Al Jazeera UK PM says 'strong indications' Iran involved in airbase incident Yahoo UK believes Iran involved in RAF Fairford incident,…"
+        },
+        {
+          "title": "Iran may have played part in U.S.-run Fairford air base incident, U.K. says",
+          "url": "https://globalnews.ca/news/12082985/iran-us-fairford-air-base-uk",
+          "source": ": World",
+          "published_at": "2026-09-30T16:59:45.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/09/Fairford-air-base.jpg?quality=65&strip=all",
+          "description": "Five British men in their 20s were arrested Sunday on suspicion of explosives offenses and planning an act of terror, before being released on bail a day later."
+        },
+        {
+          "title": "UK PM links Iran to RAF Fairford air base 'plot'",
+          "url": "https://www.perthnow.com.au/news/crime/uk-pm-links-iran-to-raf-fairford-air-base-plot-c-22951054",
+          "source": "PerthNow",
+          "published_at": "2026-09-30T18:25:48.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22951054/73398781ff0f230b5d266b01a77fd54712c0de79-16x9-x0y0w1280h720.jpg",
+          "description": "Intrigue remains surrounding events near RAF Fairford in England where five UK men in their 20s were arrested on suspected terrorism and explosive offences."
+        },
+        {
+          "title": "UK prime minister links Iran to air base incident",
+          "url": "https://www.smh.com.au/world/uk-prime-minister-links-iran-to-air-base-incident-20261001-p611wp.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-09-30T20:00:30.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1c06e6e08cd93369f562c28019b923f4e043e084",
+          "description": "UK Prime Minister Andy Burnham says Iran played a part in the security incident near an air force base."
+        }
+      ],
+      "summary": "UK Prime Minister Andy Burnham said there were strong indications Iran played a part in an incident near RAF Fairford. Five British men were arrested on suspicion of explosives offenses and planning an act of terror, then released on bail."
+    },
+    {
+      "id": "topic_cc5af5a9c5762d63",
+      "title": "Cristiano Ronaldo Leaves Portugal Camp After Being Dropped",
+      "headline": "Ronaldo leaves Portugal camp after coach says he'd be benched again",
+      "label": [
+        "camp",
+        "portugal",
+        "leaves",
+        "ronaldo",
+        "coach",
+        "rift"
+      ],
+      "category": "new",
+      "theme": "theme_3bea41d982899c93",
+      "entities": [
+        "Ronaldo",
+        "Portugal",
+        "Jorge Jesus",
+        "Norway",
+        "UNL"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Ronaldo leaves Portugal camp after coach says he'd be benched again",
+          "url": "https://www.espn.com/soccer/story/_/id/50069045/cristiano-ronaldo-portugal-coach-leave-camp-jorge-jesus-bench-denmark",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-09-30T22:12:04.000Z",
+          "description": "Coach Jorge Jesus said he's not planning to start Cristiano Ronaldo in Portugal's game against Denmark in the Nations League on Thursday but said there is no feud between the pair."
+        },
+        {
+          "title": "Ronaldo leaves Portugal training camp after coach says he is dropped",
+          "url": "https://sports.yahoo.com/articles/ronaldo-leaves-portugal-training-camp-191251773.html",
+          "published_at": "2026-09-30T21:42:57.000Z",
+          "description": "Portugal captain Cristiano Ronaldo announced on Wednesday that he had left the team's training camp in Denmark after coach Jorge Jesus told reporters that the striker would be dropped for their next match.\"There was no incident whatsoever,\" Jesus told reporters."
+        },
+        {
+          "title": "Ronaldo leaves Portugal camp after coach denies rift",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo",
+          "source": "BBC Sport",
+          "published_at": "2026-09-30T19:33:07.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg",
+          "description": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player."
+        },
+        {
+          "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
+          "url": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-09-30T19:14:33.000Z",
+          "image": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg",
+          "description": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player would be dropped from the team's next match against Denmark."
+        },
+        {
+          "title": "Ronaldo leaves Portugal camp amid reports of rift with coach Jorge Jesus",
+          "url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-09-30T18:39:04.000Z",
+          "description": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and will now miss the game against Denmark."
+        }
+      ],
+      "summary": "Cristiano Ronaldo said he had left Portugal’s training camp after coach Jorge Jesus said he would not start against Denmark. Jesus denied there was a rift with the player."
+    },
+    {
+      "id": "topic_abb84ac8728cc6a6",
+      "title": "Apple’s Smart Home Hub Reportedly Set to Launch October 13",
+      "headline": "Apple's smart home hub could arrive next month",
+      "label": [
+        "hub",
+        "apple",
+        "home",
+        "smart",
+        "oct",
+        "reportedly"
+      ],
+      "category": "new",
+      "theme": "theme_d2bc29f352d4bb31",
+      "entities": [
+        "Apple",
+        "HomePad",
+        "Oct",
+        "Bloomberg",
+        "Apple Is Reportedly Ready"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Apple's smart home hub could arrive next month",
+          "url": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-09-30T12:27:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/apples-smart-home-hub-could-arrive-next-month/l-intro-1790771105.jpg",
+          "description": "Apple's smart home hub with a six-inch display may finally be ready to go."
+        },
+        {
+          "title": "Apple’s HomePad smart home hub launching on Oct 13 – Bloomberg",
+          "url": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg",
+          "source": "9to5Mac",
+          "published_at": "2026-09-30T10:52:30.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-rainbow-hello-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "Apple’s long-awaited smart home hub, which we’ve been referring to as the HomePad, is set to launch on October 13, according to Bloomberg. The device is said to feature a 6-inch display and a design inspired by the iMac G4 … more…"
+        },
+        {
+          "title": "Apple’s long-awaited smart home hub finally gets a launch date",
+          "url": "https://www.cultofmac.com/news/apple-smart-home-release-date-rumors",
+          "source": "Cult of Mac",
+          "published_at": "2026-09-30T14:40:18.000Z",
+          "image": "https://www.cultofmac.com/wp-content/uploads/2026/09/Apple-Home-Hub-concept_51.jpg.webp",
+          "description": "Apple is reportedly ready to launch its long-awaited smart home hub in just a few weeks, alongside a new HomePod mini and Apple TV. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)"
+        },
+        {
+          "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks",
+          "url": "https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report",
+          "source": "News – CNET",
+          "published_at": "2026-09-30T21:26:36.000Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/apple-home-hub-imac-g4-homepod.png"
+        },
+        {
+          "title": "Apple’s iMac G4-like smart home hub is reportedly coming in two weeks",
+          "url": "https://www.macworld.com/article/3247540/apples-imac-g4-like-smart-home-hub-is-reportedly-coming-in-two-weeks.html",
+          "source": "Macworld",
+          "published_at": "2026-09-30T13:16:53.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/09/3247540-0-76498500-1790774224-imac-g4-2.jpg?quality=50&strip=all",
+          "description": "Macworld If you’ve been saving up to get an iPhone Duo when it launches on October 23, you might need to scrounge together a few more dollars. According to a new report from Bloomberg’s Mark Gurman, Apple is gearing up to make its “long-delayed push into the smart-home market” before its new foldin…"
+        }
+      ],
+      "summary": "Apple’s long-awaited smart home hub is reportedly set to launch October 13. Reports describe a device with a six-inch display, potentially arriving alongside a new HomePod mini and Apple TV."
+    },
+    {
+      "id": "topic_6692ef9db1f7eef3",
+      "title": "US Military Completes Withdrawal of Troops From Iraq",
+      "headline": "U.S. military says its withdrawal of troops from Iraq complete",
+      "label": [
+        "troops",
+        "iraq",
+        "withdrawal",
+        "military",
+        "completes",
+        "last"
+      ],
+      "category": "new",
+      "theme": "theme_f48c1b35b1bd008d",
+      "entities": [
+        "Iraq",
+        "US",
+        "Pentagon",
+        "Donald Trump"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "U.S. military says its withdrawal of troops from Iraq complete",
+          "url": "https://www.thehindu.com/news/international/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/article71526553.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-09-30T09:56:58.000Z",
+          "image": "https://th-i.thgim.com/public/incoming/f86ja0/article71526566.ece/alternates/LANDSCAPE_1200/2026-09-29T172322Z_447707787_RC25TNAHKER9_RTRMADP_3_IRAQ-USA-COALITION.JPG",
+          "description": "Iran, which says its ultimate aim is to force American forces to leave the entire West Asia, casts the U.S. withdrawal from Iraq as a victory for its “axis of resistance” of allied armed groups across the region"
+        },
+        {
+          "title": "US military completes withdrawal of troops from Iraq after 12-year mission",
+          "url": "https://www.foxnews.com/world/us-ends-operation-inherent-resolve-mission-iraq-final-forces-leave-erbil",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-09-30T10:16:23.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/us-troops-iraq-kirkuk.jpg?ve=1&tl=1",
+          "description": "The U.S. military completed its withdrawal from Erbil Air Base, ending Operation Inherent Resolve in Iraq while relocating its headquarters to Jordan."
+        },
+        {
+          "title": "Pentagon says it has formally completed withdrawal of US troops from Iraq",
+          "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-09-30T18:40:36.000Z",
+          "image": "https://i.guim.co.uk/img/media/5e2a74a437bad0047903cae2c881d2fb1024ad31/1071_914_3858_3086/master/3858.jpg?width=140&quality=85&auto=format&fit=max&s=e78be45471ae9dce108ecedd438878b9",
+          "description": "Twelve years after US mission against IS began, Trump hails ‘great day for America’ and calls Iraq war ‘a quagmire’ The Pentagon has announced it has formally completed its withdrawal of US troops from Iraq, two years after the withdrawal was agreed to and 12 years since the US mission to fight the…"
+        },
+        {
+          "title": "U.S. military says the last of its troops in Iraq have withdrawn",
+          "url": "https://globalnews.ca/news/12082783/us-military-troops-iraq-withdrawn",
+          "source": ": World",
+          "published_at": "2026-09-30T12:30:06.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/09/Iraq-troops-withdrawal.jpg?quality=65&strip=all",
+          "description": "The withdrawal, agreed on two years ago, comes against the backdrop of the ongoing war between the United States and Iran that has also sometimes spilled over into Iraq."
+        },
+        {
+          "title": "No longer a caliphate: Donald Trump announces withdrawal of last US troops from Iraq",
+          "url": "https://www.indiatoday.in/world/story/we-are-going-home-trump-says-us-leaves-iraq-with-new-prime-minister-to-handle-things-3006988-2026-09-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-09-30T17:46:22.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-announcement-also-came-days-after-donald-trump-pitched-replacing-the-term-artificial-intelligen-305039892-16x9_0.jpg?VersionId=JnMsNETwYsevS9Q.r8uI.JsQO7h5812l",
+          "description": "No longer a caliphate Donald Trump announces withdrawal of last US troops from Iraq"
+        }
+      ],
+      "summary": "The US military said it had completed its withdrawal from Iraq, ending its mission there against the Islamic State. Its headquarters has been relocated to Jordan."
+    },
+    {
+      "id": "topic_a6a2fb9d3a45c46a",
+      "title": "UK Prime Minister Says Rejoining EU Should Be Considered",
+      "headline": "Burnham says rejoining EU an option for the UK",
+      "label": [
+        "burnham",
+        "eu",
+        "rejoining",
+        "options",
+        "britain",
+        "weigh"
+      ],
+      "category": "new",
+      "theme": "theme_7c5c964160315c23",
+      "entities": [
+        "Burnham",
+        "EU",
+        "UK",
+        "Britain",
+        "Brexit EU"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Burnham says rejoining EU an option for the UK",
+          "url": "https://www.ft.com/content/d740f13d-38bc-4460-bcd5-2922472fc209",
+          "source": "International homepage",
+          "published_at": "2026-09-30T07:17:24.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff673c49e-bd9f-49db-a472-129b4216c917.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Prime minister says ‘going all the way’ is an option as government reviews relations with 27-country bloc"
+        },
+        {
+          "title": "Burnham says Britain should weigh EU options",
+          "url": "https://www.perthnow.com.au/news/politics/burnham-says-britain-should-weigh-eu-options-c-22948658",
+          "source": "PerthNow",
+          "published_at": "2026-09-30T05:26:35.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22948658/97fb2cf4f077ab97c73087cbd3d7941b479fccc2-16x9-x0y0w1280h720.jpg",
+          "description": "Andy ​Burnham ​says he will outline options for Britain's ‌long-term relationship with the European Union at a UK-EU summit in November."
+        },
+        {
+          "title": "Burnham says Britain could rejoin the EU after next election",
+          "url": "https://www.japantimes.co.jp/news/2026/09/30/world/burnham-britain-eu-rejoin",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-09-30T09:01:00.000Z",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/566062.jpg",
+          "description": "The remarks are the first time since the exit referendum a decade ago that a prime minister has suggested to take the country back into the EU."
+        },
+        {
+          "title": "Burnham puts idea of Britain rejoining EU on the table",
+          "url": "https://japantoday.com/category/world/%27welcome-back-%27-says-macron-as-uk-pm-opens-door-to-eu-return",
+          "source": "Japan Today",
+          "published_at": "2026-09-30T21:38:30.000Z",
+          "description": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and leading French President Emmanuel Macron…"
+        },
+        {
+          "title": "Burnham says UK should weigh post-Brexit EU options, including rejoining",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1004343/burnham-says-uk-should-weigh-post-brexit-eu-options-including-rejoining/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-09-30T14:49:41.000Z",
+          "image": "https://images.gmanews.tv/webpics/2026/09/2026-09-30T133754Z_1205281876_RC2NTNAECOZ5_RTRMADP_3_BRITAIN-POLITICS-LABOUR_2026_09_30_22_46_45.jpg",
+          "description": "Prime Minister Andy Burnham said Britain should consider options for its future relationship with the EU, including rejoining it, saying that Brexit had \"done more harm than good.\""
+        }
+      ],
+      "summary": "Andy Burnham said the UK should consider options for its long-term relationship with the European Union, including rejoining. He said the government would set out options at a UK-EU summit in November."
+    },
+    {
+      "id": "topic_c8a7e2eb5e0c1df",
+      "title": "Cornell Faces Outside Review Over Handling of Sexual Assault Allegation",
+      "headline": "Students at Cornell Divided Over Sexual Assault Investigation",
+      "label": [
+        "sexual",
+        "assault",
+        "cornell",
+        "case",
+        "students",
+        "divided"
+      ],
+      "category": "new",
+      "theme": "theme_8327bd7b3222b403",
+      "entities": [
+        "Cornell",
+        "Sexual Assault Case",
+        "Students",
+        "Cornell Divided Over Sexual",
+        "Assault Investigation"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Students at Cornell Divided Over Sexual Assault Investigation",
+          "url": "https://www.nytimes.com/video/podcasts/the-daily/100000011184378/students-at-cornell-divided-over-sexual-assault-investigation.html",
+          "source": "NYT > New York",
+          "published_at": "2026-09-30T15:29:24.000Z",
+          "description": "In this episode of “The Call,” host Natalie Kitroeff calls the reporter Emma Goldberg, who’s on Cornell’s campus interviewing students as they grapple with the explosive news that prosecutors are reopening a 2024 sexual assault investigation into seven members of Cornell’s Chi Phi fraternity."
+        },
+        {
+          "title": "Cornell’s Sexual Assault Case",
+          "url": "https://www.nytimes.com/2026/09/30/briefing/cornells-sexual-assault-case.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-09-30T10:48:46.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30themorning-nl-cornell-01-bzcl/30themorning-nl-cornell-01-bzcl-mediumSquareAt3X-v3.jpg",
+          "description": "We talk to a reporter on campus about what we know."
+        },
+        {
+          "title": "Cornell agrees to outside review of how it handled alleged sexual assault: Governor",
+          "url": "https://abcnews.com/us/cornell-agrees-independent-review-handled-fraternity-sexual-assault/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-09-30T21:48:19.000Z",
+          "image": "https://s.abcnews.com/images/US/cornell-frat-abc-bh-280926_1790619105024_hpMain_4x3t_384.jpg",
+          "description": "New York Gov. Kathy Hochul called for the outside review, saying what happened raised \"serious questions about Cornell campus culture.\""
+        },
+        {
+          "title": "Florence Pugh Says ‘Instagram Censored Me’ Over Cornell 7 Posts Addressing Sexual Assault Case: ‘Another Shock That Women Are Censored’",
+          "url": "https://variety.com/2026/tv/news/florence-pugh-cornell-7-instagram-posts-censored-sexual-assault-1236893808",
+          "source": "Variety",
+          "published_at": "2026-09-30T21:07:21.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/P106D6HJ.jpg",
+          "description": "Florence Pugh’s press tour for Netflix’s “East of Eden” brought her to “The View,” where co-host Sara Haines brought up the Oscar nominee’s recent social media posts speaking out on the sexual assault case at Cornell University. “Even in modern times, women have to bear the consequences of sexual v…"
+        }
+      ],
+      "summary": "New York Governor Kathy Hochul called for an outside review of Cornell’s handling of an alleged sexual assault, saying the case raised serious questions about campus culture. Students have been discussing the investigation."
+    },
+    {
+      "id": "topic_15f7941bb85fd160",
+      "title": "Samsung Unveils Galaxy Tab S12+ and S12 Ultra Tablets",
+      "headline": "Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut",
+      "label": [
+        "tab",
+        "s12",
+        "galaxy",
+        "samsung",
+        "ultra",
+        "tablets"
+      ],
+      "category": "new",
+      "theme": "theme_dcb1e761b4759c80",
+      "entities": [
+        "Samsung Galaxy Tab S12",
+        "Ultra",
+        "Galaxy Tab S12",
+        "Android",
+        "Galaxy Tab S12 Series"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut",
+          "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_and_galaxy_tab_s12_debut-news-74834.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-09-30T12:00:03.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-tab-s12-ultra-plus-ofic/-184x111/gsmarena_00.jpg",
+          "description": "Samsung has unveiled its latest flagship Android tablets, the Galaxy Tab S12 Ultra and Galaxy Tab S12+. The tablets will go on sale in select markets starting October 7. The new Galaxy Tab S12 series tablets share several specifications, although the Ultra model gets a larger display, more RAM and…"
+        },
+        {
+          "title": "Samsung Galaxy Tab S12 Ultra review: The apex Android tablet",
+          "url": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-09-30T12:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg",
+          "description": "Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that's the price you'll have to pay for the best Android tablet."
+        },
+        {
+          "title": "Galaxy Tab S12 Series Announced, Starts at $1199",
+          "url": "https://www.droid-life.com/2026/09/30/galaxy-tab-s12-series-announced-starts-at-1199",
+          "source": "Droid Life",
+          "published_at": "2026-09-30T16:54:05.000Z",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Galaxy-Tab-S12-Ultra-980x551.jpg",
+          "description": "Samsung has two new tablets to choose from, Galaxy Tab S12+ and Galaxy Tab S12 Ultra. Both models will be available starting October 8, priced starting at $1,199 for Tab S12+ and $1,399 for Tab S12 Ultra. For $1,399, the Tab S12 Ultra does appear to pack a decent punch, sporting a 14.6-inch display…"
+        },
+        {
+          "title": "Samsung's new Galaxy Tab S12 tablets are thinner, faster and more expensive",
+          "url": "https://www.androidcentral.com/tablets/samsung-galaxy-tab/samsung-announces-galaxy-tab-s12-ultra-and-tab-s12-plus",
+          "source": "Latest from Android Central",
+          "published_at": "2026-09-30T12:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/kramYbFugDmHxX3jkANdRF-1920-80.jpg",
+          "description": "Samsung's latest Galaxy Tab S12 Ultra is ridiculously thin."
+        },
+        {
+          "title": "Samsung launches Galaxy Tab S12 series, and the base model is nowhere to be found",
+          "url": "https://www.androidauthority.com/samsung-galaxy-tab-s12-launch-3716488",
+          "source": "Android Authority",
+          "published_at": "2026-09-30T12:00:55.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/tab-s12-size-compare.jpg",
+          "description": "The Plus model is back."
+        }
+      ],
+      "summary": "Samsung announced the Galaxy Tab S12+ and Galaxy Tab S12 Ultra, its latest flagship Android tablets. The models are scheduled to go on sale in select markets in October, with prices starting at $1,199."
+    },
+    {
+      "id": "topic_16e3f1e22964b5ce",
+      "title": "Amazon Unveils Faster Fire TV Stick 4K and New Remote",
+      "headline": "Amazon unveils faster Fire TV Stick 4K (2026) and a new Fire TV Remote",
+      "label": [
+        "4k",
+        "stick",
+        "tv",
+        "fire",
+        "amazon",
+        "remote"
+      ],
+      "category": "new",
+      "theme": "theme_22fd06195ece6700",
+      "entities": [
+        "Amazon",
+        "Fire TV Stick",
+        "Fire TV Remote",
+        "TV",
+        "The Verge"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Amazon unveils faster Fire TV Stick 4K (2026) and a new Fire TV Remote",
+          "url": "https://www.gsmarena.com/amazon_unveils_faster_fire_tv_stick_4k_2026_and_a_new_fire_tv_remote-news-74843.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-09-30T18:02:02.000Z",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/09/amazon-fire-tv-stick-4k-2026-fire-tv-remote/-184x111/gsmarena_000.jpg",
+          "description": "Amazon just unveiled a slimmer and faster Fire TV Stick 4K (2026) and a new Fire TV Remote. The stick is 20%-40% faster than similarly priced 4K sticks from other brands, says Amazon. The pricing is $60, by the way, but you can have it for half that – see below. The new Amazon Fire TV Stick 4K (202…"
+        },
+        {
+          "title": "Amazon just refreshed its Fire TV Stick 4K — here's what's new",
+          "url": "https://www.androidcentral.com/streaming-tv/amazon-fire-tv/amazon-new-fire-tv-stick-4k-2026-launched",
+          "source": "Latest from Android Central",
+          "published_at": "2026-09-30T13:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/cAduYNCv8MbKWki6oson59-1920-80.jpg",
+          "description": "Amazon's most popular streaming stick just got faster, and it's already 50% off."
+        },
+        {
+          "title": "Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote",
+          "url": "https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-09-30T13:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/l-intro-1790724983.jpg",
+          "description": "It will cost just $30 during the Prime Day deals event next week, and retail for $60 otherwise."
+        },
+        {
+          "title": "Amazon unveils a new Fire TV Stick 4K and a remote you can navigate by feel",
+          "url": "https://www.androidauthority.com/amazon-fire-tv-stick-4k-remote-2026-3717268",
+          "source": "Android Authority",
+          "published_at": "2026-09-30T13:00:03.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Amazon-fire-tv-stick-4k-remote-hero-1.jpg",
+          "description": "With the new launch, Amazon is simplifying its Fire TV Stick lineup to three distinct models."
+        },
+        {
+          "title": "Amazon launches faster 4K Fire TV Stick with an all-new remote",
+          "url": "https://www.techspot.com/news/114047-amazon-launches-faster-4k-fire-tv-stick-all.html",
+          "source": "TechSpot",
+          "published_at": "2026-09-30T15:58:00.000Z",
+          "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/09/2026-09-30-ts3_thumbs-525.jpg",
+          "description": "The new Fire TV Stick 4K is powered by a quad-core 1.7GHz processor alongside 8GB of internal storage. The media streamer supports Wi-Fi 6, Bluetooth 5.3, and Bluetooth LE wireless, as well as HDR10+, HLG, H.265, H.264, VP9, and AV1 video formats. Read Entire Article"
+        }
+      ],
+      "summary": "Amazon introduced a thinner, faster Fire TV Stick 4K and a redesigned remote. The device supports Wi-Fi 6 and HDR10+, and is listed at $60, with a promotional price of $30 during a Prime Day event."
+    }
+  ]
+}
