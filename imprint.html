@@ -2,18 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Imprint — Daily News</title>
+  <meta name="theme-color" content="#fbfaf8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111214" media="(prefers-color-scheme: dark)">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <header>
+  <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="site-title">Daily News</a>
+      <a href="./" class="wordmark">Daily News</a>
     </div>
   </header>
 
-  <main id="content">
+  <main id="content" class="page">
     <div class="imprint">
       <h1>Imprint</h1>
 
@@ -61,10 +64,12 @@
     </div>
   </main>
 
-  <footer>
+  <footer class="site-footer">
     <div class="footer-inner">
-      <span>Powered by <a href="https://www.filipa.ai/en/" target="_blank" rel="noopener noreferrer">filipa.ai</a></span>
-      <span><a href="imprint.html">Imprint</a></span>
+      <p class="footer-links">
+        <a href="./">Back to the briefing</a>
+        <span>Powered by <a href="https://www.filipa.ai/en/" target="_blank" rel="noopener noreferrer">filipa.ai</a></span>
+      </p>
     </div>
   </footer>
 </body>

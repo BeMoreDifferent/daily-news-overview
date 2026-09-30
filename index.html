@@ -2,19 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Daily News</title>
+  <meta name="description" content="The day's top stories from 2,400+ news sources, clustered daily and summarised.">
 
   <!-- PWA manifest -->
   <link rel="manifest" href="manifest.json">
 
-  <!-- Theme colour — adapts to colour scheme, matches header -->
-  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#0e0e0e" media="(prefers-color-scheme: dark)">
+  <!-- Theme colour — matches the header surface in each colour scheme -->
+  <meta name="theme-color" content="#fbfaf8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111214" media="(prefers-color-scheme: dark)">
 
   <!-- iOS / Safari PWA -->
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Daily News">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 
@@ -24,38 +25,76 @@
 
   <!-- Open Graph / share preview -->
   <meta property="og:title" content="Daily News">
-  <meta property="og:description" content="Top news topics from 2400+ sources, clustered daily.">
+  <meta property="og:description" content="The day's top stories from 2,400+ news sources, clustered daily and summarised.">
   <meta property="og:image" content="icons/icon-512.png">
   <meta property="og:type" content="website">
 
+  <!-- The index decides which day to show; start fetching it before the script runs -->
+  <link rel="preload" href="news/index.json" as="fetch" crossorigin>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <header>
+  <a class="skip-link" href="#stories">Skip to stories</a>
+
+  <header class="site-header">
     <div class="header-inner">
-      <a href="#" class="site-title">Daily News</a>
-      <nav class="date-nav" aria-label="Date navigation">
-        <a id="nav-prev" href="#" aria-label="Previous day">&#8592; Prev</a>
-        <span id="nav-date"></span>
-        <a id="nav-next" href="#" aria-label="Next day">Next &#8594;</a>
+      <a href="#" class="wordmark">Daily News</a>
+      <nav class="date-nav" aria-label="Choose day">
+        <a id="nav-prev" class="icon-btn" aria-label="Previous day" aria-disabled="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <div class="date-picker">
+          <button id="date-button" class="date-button" type="button">&nbsp;</button>
+          <input id="date-input" class="date-input" type="date" aria-label="Choose a date" tabindex="-1">
+        </div>
+        <a id="nav-next" class="icon-btn" aria-label="Next day" aria-disabled="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <a id="nav-latest" class="chip" href="#" hidden>Latest</a>
       </nav>
     </div>
   </header>
 
-  <main id="content">
-    <p class="status">Loading&hellip;</p>
-  </main>
+  <div class="layout">
 
-  <footer>
+    <main id="main" class="main">
+      <p id="notice" class="notice" role="status" hidden></p>
+
+      <section class="intro" aria-labelledby="briefing-date">
+        <p class="eyebrow">Daily briefing</p>
+        <h1 id="briefing-date" class="briefing-date">&nbsp;</h1>
+        <p id="briefing-meta" class="briefing-meta"></p>
+        <p id="briefing-note" class="briefing-note" hidden>Summaries are written by AI from the linked reporting. Follow the links for the full stories.</p>
+      </section>
+
+      <details id="toc-inline" class="toc-inline" hidden>
+        <summary>In this briefing <span id="toc-count" class="toc-count"></span></summary>
+        <ol id="toc-list" class="toc" role="list"></ol>
+      </details>
+
+      <ol id="stories" class="stories" role="list" aria-busy="true" tabindex="-1"></ol>
+    </main>
+
+    <aside class="rail" aria-labelledby="rail-heading">
+      <div class="rail-inner">
+        <h2 id="rail-heading" class="rail-heading">In this briefing</h2>
+        <ol id="toc-rail" class="toc" role="list"></ol>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="site-footer">
     <div class="footer-inner">
-      <span id="footer-meta"></span>
-      <span class="footer-links">
-        Powered by <a href="https://www.filipa.ai/en/" target="_blank" rel="noopener noreferrer">filipa.ai</a>
-        &nbsp;&middot;&nbsp;
+      <p class="footer-about">Every day, headlines from 2,400+ news feeds are grouped into the top stories. An AI model writes each summary, and every link goes to the original publisher.</p>
+      <p class="footer-links">
+        <span id="footer-meta"></span>
+        <span>Powered by <a href="https://www.filipa.ai/en/" target="_blank" rel="noopener noreferrer">filipa.ai</a></span>
         <a href="imprint.html">Imprint</a>
-      </span>
+      </p>
     </div>
   </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
   <script type="module" src="assets/app.js"></script>
 
