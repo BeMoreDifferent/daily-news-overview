@@ -2,20 +2,25 @@
  * Service Worker — Daily News PWA
  *
  * Strategy:
- *  - App shell (HTML, CSS, JS, icons, manifest): Cache-first, update in background
+ *  - Page navigations (HTML): Network-first, so a deploy shows up on the next load
  *  - News JSON files (news/*.json): Network-first with cache fallback
- *  - Everything else: Network-first
+ *  - Static assets (CSS, JS, icons): Cache-first, update in background. index.html
+ *    references CSS/JS with a ?v= query, so a new page never pairs with old assets.
+ *
+ * When changing assets/style.css or assets/app.js, bump ASSET_VERSION here and the
+ * ?v= query in index.html together.
  */
 
-const CACHE_VERSION = 'v5';
+const CACHE_VERSION = 'v6';
+const ASSET_VERSION = '6';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 
 const SHELL_ASSETS = [
   './',
   './index.html',
-  './assets/style.css',
-  './assets/app.js',
+  `./assets/style.css?v=${ASSET_VERSION}`,
+  `./assets/app.js?v=${ASSET_VERSION}`,
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
@@ -26,7 +31,9 @@ const SHELL_ASSETS = [
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
-      .then(cache => cache.addAll(SHELL_ASSETS))
+      // cache: 'reload' bypasses the HTTP cache (GitHub Pages: max-age=600), which could
+      // otherwise hand the new service worker the previous deploy's files.
+      .then(cache => cache.addAll(SHELL_ASSETS.map(url => new Request(url, { cache: 'reload' }))))
       .then(() => self.skipWaiting())
   );
 });
@@ -56,18 +63,21 @@ self.addEventListener('fetch', event => {
 
   const path = url.pathname;
 
-  if (path.includes('/news/') && path.endsWith('.json')) {
+  if (request.mode === 'navigate') {
+    // HTML — network first, cached shell when offline
+    event.respondWith(networkFirstWithCache(request, SHELL_CACHE, './'));
+  } else if (path.includes('/news/') && path.endsWith('.json')) {
     // News JSON — network first, cache fallback
     event.respondWith(networkFirstWithCache(request, NEWS_CACHE));
   } else {
-    // App shell — cache first, revalidate in background
+    // Static assets — cache first, revalidate in background
     event.respondWith(cacheFirstWithRevalidate(request, SHELL_CACHE));
   }
 });
 
 // ── Strategies ────────────────────────────────────────────────────────────────
 
-async function networkFirstWithCache(request, cacheName) {
+async function networkFirstWithCache(request, cacheName, fallbackUrl) {
   try {
     const response = await fetch(request);
     if (response.ok) {
@@ -76,7 +86,7 @@ async function networkFirstWithCache(request, cacheName) {
     }
     return response;
   } catch {
-    const cached = await caches.match(request);
+    const cached = await caches.match(request) || (fallbackUrl && await caches.match(fallbackUrl));
     if (cached) return cached;
     return new Response(JSON.stringify({ error: 'offline' }), {
       status: 503,
