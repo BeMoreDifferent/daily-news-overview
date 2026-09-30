@@ -1,0 +1,944 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-30T10:55:15.401Z",
+  "topics": [
+    {
+      "id": "topic_9ecf1731581da460",
+      "title": "OpenAI Introduces Always-On Dots AI Agents",
+      "headline": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "label": [
+        "dots",
+        "openai",
+        "muse",
+        "meta",
+        "agents",
+        "always"
+      ],
+      "category": "new",
+      "theme": "theme_6790d2832b34b63",
+      "entities": [
+        "OpenAI",
+        "Dots Are Always",
+        "On AI Agents",
+        "Its Answer",
+        "Meta"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+          "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
+          "source": "Feed: All Latest",
+          "published_at": "2026-09-29T17:15:00.000Z",
+          "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png",
+          "description": "These cute agents are designed to connect to your apps and tackle multistep tasks."
+        },
+        {
+          "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+          "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+          "source": "NYT > Cybersecurity",
+          "published_at": "2026-09-29T18:29:40.000Z",
+          "description": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology."
+        },
+        {
+          "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+          "url": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse",
+          "source": "The Decoder",
+          "published_at": "2026-09-29T17:14:45.000Z",
+          "image": "http://the-decoder.com/wp-content/uploads/2026/09/OAI_DevDay_OrbitBlog_Demo_1_16x9.mp4",
+          "description": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways to help in the backg…"
+        },
+        {
+          "title": "OpenAI’s Dots are always-on AI agents for work",
+          "url": "https://www.pcworld.com/article/3246780/openais-dots-are-always-on-ai-agents-for-work.html",
+          "source": "PCWorld",
+          "published_at": "2026-09-29T19:10:32.000Z",
+          "image": "https://www.pcworld.com/wp-content/uploads/2026/09/3246780-0-12128900-1790713924-OpenAI-Dots.jpg?quality=50&strip=all",
+          "description": "Meta’s Muse agent was born to shop, while Gemini’s Spark can help you book airline tickets or plan your weekly meals. But while Muse and Spark act like personal assistants, OpenAI’s new AI agents are designed to be, well, another “you” in the office. Dots, which OpenAI boss Sam Altman just unveiled…"
+        },
+        {
+          "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
+          "url": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots",
+          "source": "Slashdot",
+          "published_at": "2026-09-29T18:00:00.000Z",
+          "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+          "description": "In addition to the company's GPT-6.1 Astra announcement, OpenAI announced always-on AI agents called \"Dots\" that can proactively use a computer and connected apps to research, draft documents, write software and handle other tasks on a user's behalf. \"OpenAI said it would roll out Dots to paid user…"
+        }
+      ],
+      "summary": "OpenAI unveiled Dots, always-on agents that can use connected apps and computers to handle tasks such as fixing bugs, sending invoices, researching and drafting documents. The agents are positioned as rivals to Meta’s Muse."
+    },
+    {
+      "id": "topic_15dfa37f32b73654",
+      "title": "OpenAI Withholds GPT-6.1 Astra Over Safety Concerns",
+      "headline": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+      "label": [
+        "concerns",
+        "safety",
+        "openai",
+        "model",
+        "release",
+        "astra"
+      ],
+      "category": "new",
+      "theme": "theme_bc5ba94c2331c272",
+      "entities": [
+        "OpenAI Says It Will",
+        "Not Release Newest Astra",
+        "Model Over Safety Concerns",
+        "OpenAI Delays Release",
+        "Latest Model Over Safety"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+          "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+          "source": "NYT > Cybersecurity",
+          "published_at": "2026-09-29T00:32:19.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
+          "description": "The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra."
+        },
+        {
+          "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+          "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns",
+          "source": "Feed: All Latest",
+          "published_at": "2026-09-29T10:36:22.000Z",
+          "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/master/pass/092926-OpenAI%20Scrap.jpg",
+          "description": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
+        },
+        {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
+          "source": "BBC News",
+          "published_at": "2026-09-29T09:14:13.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+          "description": "The firm also issued an update on incidents in which its models accessed Australian government systems."
+        },
+        {
+          "title": "OpenAI cancels release of Astra 6.1 model due to safety concerns",
+          "url": "https://techxplore.com/news/2026-09-openai-cancels-astra-due-safety.html",
+          "source": "Security News - Software vulnerabilities, data leaks, malware, viruses",
+          "published_at": "2026-09-29T15:10:05.000Z",
+          "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/openai-withheld-its-la.jpg",
+          "description": "OpenAI will not release its newest artificial intelligence model, known as Astra 6.1, after internal testing showed it did not meet safety standards, the company confirmed Monday."
+        },
+        {
+          "title": "OpenAI says it won’t release new GPT-6.1 Astra over safety concerns",
+          "url": "https://www.siliconrepublic.com/business/openai-says-it-wont-release-new-gpt-6-1-astra-over-safety-concerns",
+          "source": "Silicon Republic",
+          "published_at": "2026-09-29T10:48:50.000Z",
+          "image": "https://www.siliconrepublic.com/wp-content/uploads/2025/05/AdobeStock_564087424_Editorial_Use_Only.jpeg",
+          "description": "The new iteration was reportedly better at completing challenging, multi-step tasks without human assistance but was worse off in personality-related tests. Read more: OpenAI says it won’t release new GPT-6.1 Astra over safety concerns"
+        }
+      ],
+      "summary": "OpenAI said it will not release its GPT-6.1 Astra model after internal testing raised safety concerns. The company said the model needs more work and also issued an update on incidents involving access to Australian government systems."
+    },
+    {
+      "id": "topic_6b62bdfafebc89b4",
+      "title": "Trump Launches AI-Powered America.gov Services Portal",
+      "headline": "Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims",
+      "label": [
+        "gov",
+        "america",
+        "trump",
+        "ai",
+        "minecraft",
+        "powered"
+      ],
+      "category": "new",
+      "theme": "theme_df66e11868970817",
+      "entities": [
+        "America",
+        "Trump Launches America",
+        "AI Chatbot That Contradicts",
+        "His Claims",
+        "Trump Airbnb"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-09-29T23:39:49.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-chatbot-gcbv/29dc-chatbot-gcbv-mediumSquareAt3X.jpg",
+          "description": "Democrats amplified statements from America.gov that frequently contradict the president on tariffs, election fraud and other topics."
+        },
+        {
+          "title": "America.gov",
+          "url": "https://america.gov",
+          "source": "Hacker News: Newest",
+          "published_at": "2026-09-29T14:04:57.000Z",
+          "description": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 580 # Comments: 488"
+        },
+        {
+          "title": "Trump Airbnb-ifies Government Services with AI-Powered America.gov",
+          "url": "https://gizmodo.com/trump-airbnb-ifies-government-services-with-ai-powered-america-gov-2000818962",
+          "source": "Gizmodo",
+          "published_at": "2026-09-29T19:00:17.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2297178434-1280x853.jpg",
+          "description": "America, Online."
+        },
+        {
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29T23:30:55.000Z",
+          "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+        },
+        {
+          "title": "Trump unveils America.gov as AI-powered hub for passports, Medicare enrollment and more",
+          "url": "https://www.foxnews.com/politics/trump-unveils-america-gov-ai-powered-hub-passports-medicare-enrollment",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-09-29T16:41:46.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-order-america-website.jpg?ve=1&tl=1",
+          "description": "President Donald Trump launched America.gov, an AI-powered site that consolidates federal services from passport applications to Medicare enrollment in one place."
+        }
+      ],
+      "summary": "President Donald Trump launched America.gov, an AI-powered site that brings federal services such as passport applications and Medicare enrollment together. Reports also say answers from the site have contradicted some of Trump’s claims on tariffs and election fraud."
+    },
+    {
+      "id": "topic_36b4c9271059445d",
+      "title": "Naughty Dog Confirms Two New The Last of Us Projects",
+      "headline": "Naughty Dog is working on new The Last Of Us 'projects'",
+      "label": [
+        "last",
+        "naughty",
+        "projects",
+        "dog",
+        "us",
+        "working"
+      ],
+      "category": "new",
+      "theme": "theme_8de78f61103731bb",
+      "entities": [
+        "Naughty Dog",
+        "The Last Of Us",
+        "Naughty Dog Is Working",
+        "On Two New The",
+        "Last Of Us Projects"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Naughty Dog is working on new The Last Of Us 'projects'",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "source": "gamedeveloper",
+          "published_at": "2026-09-29T17:52:48.000Z",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltbd927294190d00a6/6abc04478ce0256a2e48de13/lastofuselliespacesuitgun.jpg?width=720&quality=80&disable=upscale",
+          "description": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic."
+        },
+        {
+          "title": "Naughty Dog Is Working On Two New The Last Of Us Projects",
+          "url": "https://www.gamespot.com/articles/naughty-dog-is-working-on-two-new-the-last-of-us-projects",
+          "source": "GameSpot - All News",
+          "published_at": "2026-09-29T08:05:44.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/3649875-eunpbyrwaamcy4m.jpg?w=300",
+          "description": "Naughty Dog studio head Neil Druckmann has dropped some tantalizing news for fans of The Last of Us, confirming the studio is currently working on not one, but two new The Last of Us projects. Druckmann also gave an update on Intergalactic, saying Naughty Dog will fully reveal the sci-fi game in 20…"
+        },
+        {
+          "title": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-09-29T08:36:23.000Z",
+          "image": "https://assetsio.gnwcdn.com/TLOU-Intergalactic-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "Naughty Dog fans, pick up your ears - it's been a busy night for fans of the PlayStation studio. First of all, in a letter celebrating The Last of Us Day 2026, studio head Neil Druckmann confirmed that two new projects within The Last of Us universe are in the \"very early stages\" of development at…"
+        },
+        {
+          "title": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
+          "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+          "source": "Push Square | Latest Updates",
+          "published_at": "2026-09-29T23:30:00.000Z",
+          "image": "https://images.pushsquare.com/eac1a7618f0b2/large.jpg",
+          "description": "Which means... Who is Shaun Escayg and why should you care? Well, he’s the Creative Director of Uncharted: The Lost Legacy who’s currently working on an unannounced Naughty Dog project. Read the full article on pushsquare.com"
+        },
+        {
+          "title": "The Last Of Us: Naughty Dog Is Working On Two Projects That Will Expand The Canon Of The Series Beyond Part I And Part II",
+          "url": "https://gameinformer.com/2026/09/29/the-last-of-us-naughty-dog-is-working-on-two-projects-that-will-expand-the-canon-of-the",
+          "source": "Game Informer",
+          "published_at": "2026-09-29T13:53:00.000Z",
+          "image": "https://gameinformer.com/sites/default/files/styles/body_default/public/2025/04/01/b125eed1/ss_d6a77fb3099174f9f2234944573728646043d150.jpg.webp",
+          "description": "Naughty Dog kicked off The Last of Us with the launch of the first game on PlayStation 3 way back in 2013. Since then, it has released a beloved DLC, Left Behind; a remaster of the PS3 release for PlayStation 4; The Last of Us Part II on PS4; a remake of the first game on PlayStation 5; and a remas…"
+        }
+      ],
+      "summary": "Naughty Dog head Neil Druckmann confirmed the studio is working on two new projects connected to The Last of Us. The projects are expected to expand the series beyond its first two main games."
+    },
+    {
+      "id": "topic_51e55f5cb4e9ca55",
+      "title": "Manchester City Found Guilty of Premier League Financial Breaches",
+      "headline": "Man City found guilty of all charges related to Premier League financial breaches",
+      "label": [
+        "city",
+        "man",
+        "premier",
+        "league",
+        "guilty",
+        "charges"
+      ],
+      "category": "new",
+      "theme": "theme_846518fc8f82f473",
+      "entities": [
+        "Man City",
+        "Premier League",
+        "Sham",
+        "Man City CEO"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Man City found guilty of all charges related to Premier League financial breaches",
+          "url": "https://www.the42.ie/man-city-found-guilty-of-breaches-7177145-sep2026",
+          "source": "The 42",
+          "published_at": "2026-09-29T16:55:00.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/09/a-manchester-city-logo-corner-flag-during-the-premier-league-match-manchester-city-vs-sunderland-at-etihad-stadium-manchester-united-kingdom-on-20-september-2026photo-by-mark-cosgrovenews-images-c10b4d2a-ab93-49f8-ac08-77a56e6d8040-630x420.jpg",
+          "description": "Manchester City have since revealed that they will pursue an appeal."
+        },
+        {
+          "title": "What have Man City been found guilty of doing?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o",
+          "source": "BBC Sport",
+          "published_at": "2026-09-29T18:09:34.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg",
+          "description": "Manchester City are found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons. BBC sports editor Dan Roan explains what it means for the club and the league."
+        },
+        {
+          "title": "Premier League confirms Man City guilty of all financial breach charges",
+          "url": "https://www.nigerianeye.com/2026/09/premier-league-confirms-man-city-guilty.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-09-29T18:45:45.063Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW_WN0oBJiIsmN1SrwXmSw6EwBfv4-j0oSENEWiYVnAUugwdYx9DWipN2gCyBtl3N59Ytay9LKUZcWHi_9Ub1JfOejXzj0jKnxBrhUr_r6arhUOmsYeDieIEYqmJI7aNX1zR9SeAr34f5EX2dRB8Ni0_EbfNxYeA1fxfutgIp8PZDNggZi-zqcZeeN0iZS/s72-w400-h268-c/00.jpg",
+          "description": "The English Premier League (EPL) has confirmed that an independent commission found Manchester City guilty of all charges related to breaching the league’s financial rules. The EPL confirmed the ruling in a statement released on Tuesday, adding that the Cityzens were found guilty of serious breache…"
+        },
+        {
+          "title": "Man City found guilty of ALL charges over serious breaches of Premier League financial rules in bombshell ruling",
+          "url": "https://talksport.com/football/4613364/man-city-found-guilty-all-charges",
+          "source": "talkSPORT",
+          "published_at": "2026-09-29T16:12:38.000Z"
+        },
+        {
+          "title": "'Sham' deals and €1bn of inflated revenue: Man City found guilty on all Premier League charges",
+          "url": "https://www.thejournal.ie/man-city-found-guilty-of-breaches-2-7177233-sep2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-09-29T18:50:00.000Z",
+          "image": "https://c3.thejournal.ie/media/2026/09/a-manchester-city-logo-corner-flag-during-the-premier-league-match-manchester-city-vs-sunderland-at-etihad-stadium-manchester-united-kingdom-on-20-september-2026photo-by-mark-cosgrovenews-images-c10b4d2a-ab93-49f8-ac08-77a56e6d8040-630x420.jpg",
+          "description": "Manchester City have since revealed that they will pursue an appeal."
+        }
+      ],
+      "summary": "An independent commission found Manchester City guilty of all charges related to breaches of Premier League financial rules from 2009-10 to 2017-18. The club has said it will appeal."
+    },
+    {
+      "id": "topic_fcfa29e3367c825e",
+      "title": "Final Cut Camera Adds iPhone 18 Pro Variable Aperture Support",
+      "headline": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "label": [
+        "cut",
+        "final",
+        "camera",
+        "support",
+        "iphone",
+        "pro"
+      ],
+      "category": "new",
+      "theme": "theme_c8c900120199c044",
+      "entities": [
+        "Final Cut Camera",
+        "Pro",
+        "Apple",
+        "Variable",
+        "Final Cut Camera App"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+          "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro",
+          "source": "Apple Newsroom",
+          "published_at": "2026-09-29T17:00:57.163Z",
+          "description": "Final Cut Camera gets a major update with a new design, support for variable aperture on iPhone 18 Pro, and more pro options with iOS 27."
+        },
+        {
+          "title": "Apple updates Final Cut Camera to support the iPhone 18 Pro's variable aperture",
+          "url": "https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-09-29T20:17:31.000Z",
+          "image": "https://www.engadget.com/img/gallery/apple-updates-final-cut-camera-to-support-the-iphone-18-pros-variable-aperture/l-intro-1790712982.jpg",
+          "description": "The company is also rolling out new features across several of its Creator Studio apps."
+        },
+        {
+          "title": "Variable aperture iPhone 18 Pro now supported by Final Cut Camera",
+          "url": "https://appleinsider.com/articles/26/09/29/variable-aperture-iphone-18-pro-now-supported-by-final-cut-camera",
+          "source": "AppleInsider News",
+          "published_at": "2026-09-29T17:46:04.000Z",
+          "image": "https://media.appleinsider.com/gallery/69157-145834-68135-143613-000-lead-Final-Cut-Camera-xl-xl.jpg",
+          "description": "The latest update to Final Cut Camera for iOS can take advantage of the iPhone 18 Pro variable aperture system, giving video professionals more control over the shot. Final Cut Camera in the iOS App Store Final Cut Camera is a companion app for Final Cut Pro for iPad, enabling users to capture live…"
+        },
+        {
+          "title": "Final Cut Camera updated with support for iPhone 18 Pro features, more",
+          "url": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features",
+          "source": "9to5Mac",
+          "published_at": "2026-09-29T17:00:40.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/final-cut-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "Apple is rolling out a big update to Final Cut Camera today, the pro video app it first released for iPhone back in 2024. The update introduces a new design along with support for variable aperture on iPhone 18 Pro. more…"
+        },
+        {
+          "title": "Apple’s Final Cut Camera App Gets Updated for iPhone 18 Pro’s Signature Feature",
+          "url": "https://www.cnet.com/tech/mobile/apples-final-cut-camera-app-gets-updated-for-iphone-18-pros-signature-feature",
+          "source": "News – CNET",
+          "published_at": "2026-09-29T19:05:23.000Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Final-Cut-Camera-CNET-BG.jpg"
+        }
+      ],
+      "summary": "Apple updated Final Cut Camera with a redesigned interface and support for the iPhone 18 Pro’s variable aperture. The company also rolled out features across other Creator Studio apps."
+    },
+    {
+      "id": "topic_1849d6f66d0e4ac9",
+      "title": "Supreme Court Allows Third-Country Deportations to Resume",
+      "headline": "US Supreme Court lifts limits on third-country deportations",
+      "label": [
+        "third",
+        "deportations",
+        "country",
+        "supreme",
+        "court",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_718d78b2b2544695",
+      "entities": [
+        "US Supreme Court",
+        "Supreme Court",
+        "Trump",
+        "Supreme Court Allows Trump",
+        "Administration"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "US Supreme Court lifts limits on third-country deportations",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/29/us-supreme-court-lifts-limits-on-third-country-deportations_6758087_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-09-29T21:37:52.000Z",
+          "image": "https://img.lemde.fr/2026/09/29/0/0/8243/4121/644/322/60/0/ec616e9_ftp-1-dacoxjhk20ti-2026-09-29t100119z-1927729860-rc2hqnay7x58-rtrmadp-3-usa-court-term.JPG",
+          "description": "The Trump administration has defended third-country deportations as necessary since the home nations of some of those who are targeted for removal sometimes refuse to accept them."
+        },
+        {
+          "title": "US Supreme Court lifts restrictions on third-country deportations",
+          "url": "https://www.france24.com/en/americas/20260929-us-supreme-court-lifts-restrictions-on-third-country-deportations",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-09-29T23:17:13.000Z",
+          "image": "https://s.france24.com/media/display/b3dfdf88-8270-11f1-9005-005056bfb2b6/w:1024/p:16x9/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86.jpg",
+          "description": "The US Supreme Court on Tuesday cleared the Trump administration to resume deporting migrants to countries other than their own while it considers the legality of the practice. The court’s conservative majority temporarily blocked safeguards requiring deportees to receive notice of where they would…"
+        },
+        {
+          "title": "Supreme Court green-lights Trump's third-country deportations",
+          "url": "https://www.axios.com/2026/09/29/supreme-court-trump-third-country-deportations",
+          "source": "Axios",
+          "published_at": "2026-09-29T20:40:17.000Z",
+          "image": "https://images.axios.com/Rv5H5fk2wy2Pq9ttpiFwgSG56Zo=/0x0:1920x1080/1366x768/2025/09/19/1758307492061.jpeg",
+          "description": "The Supreme Court will allow the Trump administration to resume rapidly deporting immigrants to \"third countries\" and will consider the legal question at a later date. The big picture: The policy of expelling migrants to countries that are not their home country has faced legal challenges from earl…"
+        },
+        {
+          "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
+          "url": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-09-29T22:20:50.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/28/multimedia/00-dc-scotus-deport-mqjp/00-dc-scotus-deport-mqjp-mediumSquareAt3X.jpg",
+          "description": "The court also announced it would hear arguments in December on the legality of the Trump administration policy to swiftly deport immigrants to countries not their own."
+        },
+        {
+          "title": "Inside the Business of Trump’s Third-Country Deportations",
+          "url": "https://theintercept.com/2026/09/29/ice-third-country-deportation-flights",
+          "source": "The Intercept",
+          "published_at": "2026-09-29T15:00:00.000Z",
+          "image": "https://theintercept.com/wp-content/uploads/2026/09/AP26052625703817-e1790622911418.jpg?fit=4843%2C2420",
+          "description": "As the Trump administration fights to keep deporting immigrants to countries where they have no connections, we studied the system that profits from these grave abuses. The post Inside the Business of Trump’s Third-Country Deportations appeared first on The Intercept."
+        }
+      ],
+      "summary": "The Supreme Court allowed the Trump administration to resume deporting migrants to countries other than their own while the justices consider the policy’s legality. The court is set to hear arguments in December."
+    },
+    {
+      "id": "topic_40161d2d9a4a0624",
+      "title": "Reviews Divide Over Tom Cruise’s Film Digger",
+      "headline": "Digger Review: Alejandro G. Iñárritu's Audacious Satire Is Saved By Tom Cruise",
+      "label": [
+        "tom",
+        "digger",
+        "cruise",
+        "alejandro",
+        "iñárritu",
+        "review"
+      ],
+      "category": "new",
+      "theme": "theme_d0e7797882602a80",
+      "entities": [
+        "Digger Review",
+        "Alejandro",
+        "Audacious Satire Is Saved",
+        "By Tom Cruise",
+        "Tom Cruise"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Digger Review: Alejandro G. Iñárritu's Audacious Satire Is Saved By Tom Cruise",
+          "url": "https://www.slashfilm.com/2271749/digger-review-tom-cruise",
+          "source": "/Film",
+          "published_at": "2026-09-29T16:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/digger-review-alejandro-g-irritus-audacious-satire-is-saved-by-tom-cruise/l-intro-1790682527.jpg",
+          "description": "Digger nearly falls prey to director Alejandro G. Iñárritu's indulgences, but is ultimately saved by star Tom Cruise. Here's our review."
+        },
+        {
+          "title": "Digger Review: Tom Cruise’s Boldest, Most Political Movie Ever",
+          "url": "https://consequence.net/2026/09/digger-review-movie-tom-cruise",
+          "source": "Consequence",
+          "published_at": "2026-09-29T16:00:46.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/09/digger-movie-review-tom-cruise-4.jpg?quality=80",
+          "description": "The Dr. Strangelove-esque comedy from director Alejandro G. Iñárritu is full of surprises. Digger Review: Tom Cruise’s Boldest, Most Political Movie Ever Liz Shannon Miller"
+        },
+        {
+          "title": "« Digger », d’Alejandro Gonzalez Iñarritu : Tom Cruise en vieillard misanthrope et obscène",
+          "url": "https://www.lemonde.fr/culture/article/2026/09/29/digger-d-alejandro-gonzalez-inarritu-tom-cruise-en-vieillard-misanthrope-et-obscene_6785664_3246.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-09-29T16:30:03.000Z",
+          "image": "https://img.lemde.fr/2026/09/23/680/0/8150/4075/644/322/60/0/4eddff7_upload-1-w0t5hftyy8q3-rev-1-4-feb-19-91-seoju-fin4-high-res-jpeg.jpeg",
+          "description": "Le réalisateur mexicain livre une farce apocalyptique en même temps qu’une charge anti-MAGA d’une verte crudité."
+        },
+        {
+          "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
+          "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+          "source": "Film | The Guardian",
+          "published_at": "2026-09-29T16:00:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=461ee56ec21d178eabc1d40fc1e12d83",
+          "description": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disap…"
+        },
+        {
+          "title": "Tom Cruise Bloviates His Way Through the Aggressively Unfunny Digger",
+          "url": "https://time.com/article/2026/09/29/digger-review",
+          "source": "TIME",
+          "published_at": "2026-09-29T19:02:13.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt118a10f935cdc43a/6abc035d9e7344a792076a63/rev-1-judy_r5_v6.0c_260709_DCDM_g1051_stills_0723_004_rec709_gamma_2-4_20260806.0441908_High_Res_JPEG.jpeg?branch=production",
+          "description": "Alejandro G. Iñárritu's latest film has a million moving parks and nothing to say"
+        }
+      ],
+      "summary": "Alejandro G. Iñárritu’s film Digger stars Tom Cruise as an oil tycoon and is described in reviews as an environmental satire. Critics differed on the film, with some praising Cruise’s performance and others calling it laborious or unfunny."
+    },
+    {
+      "id": "topic_65d9b12b24ad2f0d",
+      "title": "Attackers Exploit Citrix NetScaler Zero-Day Vulnerabilities",
+      "headline": "Citrix NetScaler RCE zero-day Vulnerabilities",
+      "label": [
+        "netscaler",
+        "citrix",
+        "exploited",
+        "rce",
+        "zero",
+        "vulnerabilities"
+      ],
+      "category": "new",
+      "theme": "theme_8829dfb1fa88953",
+      "entities": [
+        "Citrix NetScaler RCE",
+        "Vulnerabilities",
+        "Citrix NetScaler",
+        "Citrix NetScaler ADC",
+        "NetScaler Gateway RCE"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Citrix NetScaler RCE zero-day Vulnerabilities",
+          "url": "https://fortiguard.fortinet.com/threat-signal-report/6533",
+          "source": "FortiGuard Labs | FortiGuard Center - Threat Signal Report",
+          "published_at": "2026-09-29T04:04:29.000Z",
+          "description": "What is the Attack? Threat actors are actively exploiting two critical remote code execution vulnerabilities, CVE-2026-88771 and CVE-2026-88772, affecting Citrix NetScaler ADC and NetScaler Gateway appliances. Citrix confirmed that both vulnerabilities were exploited in the wild before security upd…"
+        },
+        {
+          "title": "Citrix NetScaler vulnerabilities being actively exploited",
+          "url": "https://www.itpro.com/cloud/cloud-security/citrix-netscaler-vulnerabilities-being-actively-exploited",
+          "source": "Latest from ITPro in Security",
+          "published_at": "2026-09-29T12:46:47.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/xzCeNYys2nDws2RtKa7pyb-1920-80.jpg",
+          "description": "Organizations are urged to move fast and mitigate vulnerabilities affecting Citrix NetScaler ADC and Gateway"
+        },
+        {
+          "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells",
+          "source": "BleepingComputer",
+          "published_at": "2026-09-29T18:37:12.000Z",
+          "description": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]"
+        },
+        {
+          "title": "Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected",
+          "url": "https://cyberscoop.com/citrix-netscaler-zero-day-attacks-three-weeks-undetected",
+          "source": "CyberScoop",
+          "published_at": "2026-09-29T21:30:22.000Z",
+          "description": "Mandiant researchers said dozens of organizations have been impacted by attacks attributed to advanced and suspected state-sponsored threat groups. They expect more attacks to come. The post Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected appeared first on CyberSco…"
+        },
+        {
+          "title": "Citrix NetScaler exploitation began days before public notification",
+          "url": "https://www.cybersecuritydive.com/news/citrix-netscaler-exploitation-days-before-notification/831634",
+          "source": "Cybersecurity Dive - Latest News",
+          "published_at": "2026-09-29T15:06:19.000Z",
+          "image": "https://imgproxy.divecdn.com/HFBcZE697hnWVVsiq3ZzHgbWInQBGNsQAa7SGOd_36w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjE3LmpwZw==.webp",
+          "description": "Customers need to check systems for compromise prior to patching, because the security upgrade may not fully resolve an infected system."
+        }
+      ],
+      "summary": "Attackers have actively exploited critical zero-day vulnerabilities in Citrix NetScaler ADC and Gateway systems. Reports say intruders deployed web shells and other malware, and organizations are urged to check for compromise as well as apply security updates."
+    },
+    {
+      "id": "topic_c47f5ed18f2d5ddb",
+      "title": "Dennis Haskins, Saved by the Bell Actor, Dies at 75",
+      "headline": "Dennis Haskins, Saved By The Bell's Mr. Belding, Dead At 75",
+      "label": [
+        "dennis",
+        "haskins",
+        "bell",
+        "saved",
+        "belding",
+        "mr"
+      ],
+      "category": "new",
+      "theme": "theme_c11716f552ba8f0a",
+      "entities": [
+        "Dennis Haskins",
+        "Saved By The Bell",
+        "Mr",
+        "Belding",
+        "Dead At"
+      ],
+      "article_count": 6,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Dennis Haskins, Saved By The Bell's Mr. Belding, Dead At 75",
+          "url": "https://www.tvline.com/2271566/dennis-haskins-dead-saved-by-the-bell-obituary",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-09-29T02:47:41.000Z",
+          "image": "https://www.tvline.com/img/gallery/dennis-haskins-saved-by-the-bells-mr-belding-dead-at-75/l-intro-1790647057.jpg",
+          "description": "Dennis Haskins, best remembered for playing Principal Richard Belding on Saved by the Bell, has died. He was 75."
+        },
+        {
+          "title": "Dennis Haskins, Mr. Belding on ‘Saved by the Bell,’ Dies at 75",
+          "url": "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-09-29T18:26:51.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/29/obituaries/29haskins/29haskins-mediumSquareAt3X.jpg",
+          "description": "He played the exasperated but well-meaning principal on the popular high school sitcom. He reprised the role in a long-running spinoff."
+        },
+        {
+          "title": "R.I.P. Dennis Haskins, Saved By The Bell's Principal Belding",
+          "url": "https://www.avclub.com/dennis-haskins-obituary",
+          "source": "AV Club",
+          "published_at": "2026-09-29T16:21:42.000Z",
+          "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/dennis-haskins-saved-by-the-bell-featured.jpg",
+          "description": "The actor died at 75."
+        },
+        {
+          "title": "Dennis Haskins Career Earnings and Saved by the Bell Legacy",
+          "url": "https://247newsaroundtheworld.com/people/dennis-haskins-career-earnings-saved-by-the-bell-legacy",
+          "source": "247 News Around The World",
+          "published_at": "2026-09-29T12:40:06.000Z",
+          "description": "247 News Around The World Idowu solomon There are very few television characters who become permanent residents in the… The post Dennis Haskins Career Earnings and Saved by the Bell Legacy appeared first on %%247newsaroundtheworld.com%%."
+        }
+      ],
+      "summary": "Dennis Haskins, best known for playing Principal Richard Belding on Saved by the Bell, has died at 75. He also reprised the role in the series’ spinoff."
+    },
+    {
+      "id": "topic_7b97f4411955c01f",
+      "title": "Estonia Accuses Russia of Arson at Defense Company",
+      "headline": "Estonia blames Russia for arson attack on defense company",
+      "label": [
+        "arson",
+        "estonia",
+        "russia",
+        "company",
+        "defense",
+        "blames"
+      ],
+      "category": "new",
+      "theme": "theme_9452674751bac2e0",
+      "entities": [
+        "Estonia",
+        "Russia",
+        "Ukraine",
+        "Estonia Says Arson",
+        "Defense Company Was"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Estonia blames Russia for arson attack on defense company",
+          "url": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937",
+          "source": "Deutsche Welle",
+          "published_at": "2026-09-29T18:08:00.000Z",
+          "description": "The Estonian government accused Moscow of an \"act of sabotage\" that is part of Russia's broader campaign across Europe. The Baltic state has received support from EU and NATO leaders."
+        },
+        {
+          "title": "Estonia blames Russia for arson attack on defense company that provides vehicles to Ukraine",
+          "url": "https://www.seattletimes.com/nation-world/world/estonia-blames-russia-for-arson-attack-on-defense-company-that-provides-vehicles-to-ukraine",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-09-29T10:25:17.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orgddac8265d7a71fbee7f4077203ca92a5Estonia_Russia_Sabotage_22242.jpg?d=1200x630",
+          "description": "Estonian authorities say they have concluded that an arson attack in mid-August on a defense company that provides military vehicles to Ukraine was an act of sabotage commissioned by Russian security services."
+        },
+        {
+          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo",
+          "source": "BBC News",
+          "published_at": "2026-09-29T19:36:41.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f7/live/b696a7d0-bbfe-11f1-90b9-913e4354ed35.jpg",
+          "description": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine."
+        },
+        {
+          "title": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-09-29T13:39:00.000Z",
+          "description": "A fire broke out at Milrem Robotics, which manufactures and supplies unmanned vehicles for Ukraine, in August."
+        }
+      ],
+      "summary": "Estonia said an arson attack at Milrem Robotics, a defense company that supplies unmanned vehicles to Ukraine, was deliberate sabotage commissioned by Russian security services. The fire took place in August."
+    },
+    {
+      "id": "topic_1fb0e7dcad6c790d",
+      "title": "AMD to Acquire Fei-Fei Li’s World Labs for $8.2 Billion",
+      "headline": "AMD buys Fei-Fei Li’s World Labs for $8.2bn",
+      "label": [
+        "labs",
+        "amd",
+        "world",
+        "fei",
+        "2bn",
+        "buys"
+      ],
+      "category": "new",
+      "theme": "theme_c4e7bac65ec4ce87",
+      "entities": [
+        "AMD",
+        "Fei",
+        "Fei Li",
+        "World Labs",
+        "AI"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "AMD buys Fei-Fei Li’s World Labs for $8.2bn",
+          "url": "https://www.siliconrepublic.com/business/amd-buys-fei-fei-lis-world-labs-for-8-2bn",
+          "source": "Silicon Republic",
+          "published_at": "2026-09-29T07:41:12.000Z",
+          "image": "https://www.siliconrepublic.com/wp-content/uploads/2026/09/AMD-World-Labs.jpg",
+          "description": "Li will become AMD's new chief scientist and executive vice-president. Read more: AMD buys Fei-Fei Li’s World Labs for $8.2bn"
+        },
+        {
+          "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+          "url": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion",
+          "source": "The Decoder",
+          "published_at": "2026-09-29T17:13:51.000Z",
+          "image": "http://the-decoder.com/wp-content/uploads/2026/09/world-labs-atlas-01-overview.mp4",
+          "description": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, which generates and si…"
+        },
+        {
+          "title": "AMD to acquire AI research lab World Labs for $8.2bn",
+          "url": "https://www.techmonitor.ai/news/amd-to-acquire-ai-research-lab-world-labs-for-8-2bn",
+          "source": "Tech Monitor",
+          "published_at": "2026-09-29T08:55:59.000Z",
+          "description": "AMD to acquire World Labs, the AI research lab co-founded by Dr Fei-Fei Li, in an all-stock transaction valued at roughly $8.2bn."
+        },
+        {
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-09-29T21:14:49.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
+          "description": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+        }
+      ],
+      "summary": "AMD agreed to acquire AI research startup World Labs in an all-stock deal valued at about $8.2 billion. Co-founder Fei-Fei Li will join AMD as executive vice president and chief scientist."
+    },
+    {
+      "id": "topic_65a438a0a760fcc7",
+      "title": "Nothing Unveils Headphone (1) Pro for $399",
+      "headline": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
+      "label": [
+        "nothing",
+        "headphone",
+        "pro",
+        "studio",
+        "available",
+        "today"
+      ],
+      "category": "new",
+      "theme": "theme_1edba911a82edd6b",
+      "entities": [
+        "Nothing",
+        "New Headphone",
+        "Pro Are Made",
+        "Studio",
+        "Nothing Headphone"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
+          "url": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio",
+          "source": "WIRED",
+          "published_at": "2026-09-29T01:00:00.000Z",
+          "image": "https://media.wired.com/photos/6aba12206b20363d66df2428/master/pass/Headphone%201%20(Pro)_case.jpg",
+          "description": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical."
+        },
+        {
+          "title": "Nothing Headphone (1) Pro Available Today for $399",
+          "url": "https://www.droid-life.com/2026/09/29/nothing-headphone-1-pro",
+          "source": "Droid Life",
+          "published_at": "2026-09-29T16:20:20.000Z",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Headphone-1-Pro-980x551.jpg",
+          "description": "Nothing announced an upgrade to its Headphone lineup this week, the Headphone (1) Pro. Priced at $399, these headphones are designed to be your ultimate listening companion, complete with all sorts of high-end hardware and smart software features. Headphone (1) Pro offers a triple driver architectu…"
+        },
+        {
+          "title": "Studio sound meets serious ANC in Nothing’s $399 Headphone (1) Pro",
+          "url": "https://www.talkandroid.com/532145-nothing-headphone-1-pro-announced",
+          "source": "TalkAndroid",
+          "published_at": "2026-09-29T10:46:49.000Z",
+          "description": "Tuned with Metropolis Studios, it weighs 327g and runs up to 68 hours with noise cancellation off."
+        },
+        {
+          "title": "Nothing's new Headphone (1) Pro wants to rival Bose and Sony, not just look cool doing it",
+          "url": "https://www.techspot.com/news/114019-nothing-new-headphone-1-pro-wants-rival-bose.html",
+          "source": "TechSpot",
+          "published_at": "2026-09-29T01:02:00.000Z",
+          "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/09/2026-09-28-ts3_thumbs-b56.jpg",
+          "description": "The biggest change in the new model is a three-driver audio system. It includes a bass dynamic driver designed to add more punch and sensitivity to low frequencies, a precision dynamic driver that adds more texture to vocals and instruments, and a new treble xMEMS driver that Nothing says delivers.…"
+        }
+      ],
+      "summary": "Nothing introduced the Headphone (1) Pro, a $399 over-ear model featuring a three-driver audio system tuned with Metropolis Studios. The company says the headphones offer up to 68 hours of battery life with noise cancellation off."
+    },
+    {
+      "id": "topic_be695d63540c20eb",
+      "title": "Senate Passes Protect College Sports Act",
+      "headline": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+      "label": [
+        "passes",
+        "college",
+        "sports",
+        "senate",
+        "protect",
+        "act"
+      ],
+      "category": "new",
+      "theme": "theme_9e2763a4329b6ce5",
+      "entities": [
+        "Senate",
+        "Protect College Sports Act",
+        "Senate Passes The Protect",
+        "College Sports Act",
+        "What It Means For"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+          "url": "https://abcnews.com/politics/wirestory/now-passed-senate-protect-college-sports-act-136871434",
+          "source": "ABC News: Politics",
+          "published_at": "2026-09-29T21:11:10.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_6daad95b402fb37f142a7cc018080f0c_4x3_384.jpg",
+          "description": "The Senate has passed a bill aimed at controlling spending and addressing issues in college sports"
+        },
+        {
+          "title": "Senate passes sweeping college sports package",
+          "url": "https://www.axios.com/2026/09/29/protect-college-sports-act-nil-senate",
+          "source": "Axios",
+          "published_at": "2026-09-29T02:09:03.000Z",
+          "image": "https://images.axios.com/T4X5oywy09wuL2mpFVubw3JDWEU=/0x742:8640x5602/1366x768/2026/09/29/1790647542581.jpeg",
+          "description": "The Senate passed the bipartisan Protect College Sports Act on Monday, voting 77 to 22 in favor of the sweeping overhaul of college athletics. Why it matters: It is a massive piece of legislation, setting national rules on everything from name, image and likeness compensation and the transfer porta…"
+        },
+        {
+          "title": "Senate Passes The Protect College Sports Act: What It Means For NIL Money And Families",
+          "url": "https://thecollegeinvestor.com/89459/senate-passes-the-protect-college-sports-act",
+          "source": "The College Investor",
+          "published_at": "2026-09-29T03:04:27.000Z",
+          "description": "The Senate passed the Protect College Sports Act 77-22. Here's what it changes for NIL pay, agents, transfers, and families footing the bill. The post Senate Passes The Protect College Sports Act: What It Means For NIL Money And Families appeared first on The College Investor."
+        },
+        {
+          "title": "College Sports Reform Bill Passes Senate, Heads for House",
+          "url": "https://www.realclearpolitics.com/2026/09/29/college_sports_reform_bill_passes_senate_heads_for_house_712486.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-09-29T13:14:48.000Z",
+          "image": "https://assets.realclear.com/images/72/727707_1_.jpeg",
+          "description": "The Protect College Sports Act passed the Senate on Monday in a major milestone for the federal regulation of college athletics. The legislation will now head to the House."
+        }
+      ],
+      "summary": "The Senate passed the Protect College Sports Act by a 77-22 vote. The legislation addresses college athletics and is headed to the House for consideration."
+    },
+    {
+      "id": "topic_bd1aa29418173994",
+      "title": "OpenAI Releases GPT-6.1 Sol at Lower API Prices",
+      "headline": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
+      "label": [
+        "sol",
+        "gpt",
+        "introducing",
+        "openai",
+        "astra",
+        "を公開"
+      ],
+      "category": "new",
+      "theme": "theme_e16dcf16a0e2a31f",
+      "entities": [
+        "Introducing GPT",
+        "Sol",
+        "OpenAI",
+        "GPT",
+        "Astra"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
+          "url": "https://thenewstack.io/openai-gpt-6-1-sol",
+          "source": "The New Stack",
+          "published_at": "2026-09-29T17:15:00.000Z",
+          "image": "https://cdn.thenewstack.io/media/2026/09/955703ec-screenshot-2026-09-29-at-13.50.11-1024x510.png",
+          "description": "OpenAI on Tuesday launched GPT-6.1 Sol, the newest version of its workhorse model, only a week after launching GPT-6 Sol. The post OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship appeared first on The New Stack."
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI News",
+          "published_at": "2026-09-29T10:00:00.000Z",
+          "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+        },
+        {
+          "title": "OpenAI「GPT-6.1 Sol」を公開、Astraに迫る性能を5分の1の料金で",
+          "url": "https://thebridge.jp/2026/09/openai-gpt-6-1-sol-near-astra-one-fifth-price",
+          "source": "BRIDGE（ブリッジ）",
+          "published_at": "2026-09-29T22:15:46.000Z",
+          "description": "OpenAI は現地時間29日、開発者向けイベント「DevDay 2026」に合わせて、新しい AI モデル「GPT-6.1 Sol」を発表した。複雑なコーディングやコンピューター操作（computer use）、専門的 […]"
+        },
+        {
+          "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model",
+          "url": "https://gizmodo.com/with-no-astra-to-release-openai-pivots-to-new-gpt-6-1-sol-model-2000819044",
+          "source": "Gizmodo",
+          "published_at": "2026-09-29T20:59:36.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/09/OpenAIlogo-1280x853.jpg",
+          "description": "Different name, supposedly less risk."
+        }
+      ],
+      "summary": "OpenAI introduced GPT-6.1 Sol, a model aimed at coding, computer use and professional work. The company says its performance approaches Astra’s at one-fifth of Astra’s standard API token prices."
+    }
+  ]
+}
