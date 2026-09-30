@@ -31,7 +31,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=6">
+  <link rel="stylesheet" href="assets/style.css?v=7">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -56,15 +56,24 @@
   </header>
 
   <div class="layout">
-
     <main id="main" class="main">
       <p id="notice" class="notice" role="status" hidden></p>
 
-      <section class="intro" aria-labelledby="briefing-date">
-        <p class="eyebrow">Daily briefing</p>
-        <h1 id="briefing-date" class="briefing-date">&nbsp;</h1>
-        <p id="briefing-meta" class="briefing-meta"></p>
-        <p id="briefing-note" class="briefing-note" hidden>Summaries are written by AI from the linked reporting. Follow the links for the full stories.</p>
+      <section id="intro" class="intro" aria-labelledby="briefing-date">
+        <div class="intro-text">
+          <p class="eyebrow">Daily briefing</p>
+          <h1 id="briefing-date" class="briefing-date">&nbsp;</h1>
+          <p id="briefing-meta" class="briefing-meta"></p>
+          <p id="briefing-note" class="briefing-note" hidden>Summaries are written by AI from the linked reporting. Follow the links for the full stories.</p>
+        </div>
+
+        <details id="overview" class="overview" open hidden>
+          <summary>
+            <span class="overview-heading">The day in brief</span>
+            <span class="overview-tag">AI summary</span>
+          </summary>
+          <ul id="overview-list" class="overview-list" role="list"></ul>
+        </details>
       </section>
 
       <details id="toc-inline" class="toc-inline" hidden>
@@ -73,14 +82,20 @@
       </details>
 
       <ol id="stories" class="stories" role="list" aria-busy="true" tabindex="-1"></ol>
-    </main>
 
-    <aside class="rail" aria-labelledby="rail-heading">
-      <div class="rail-inner">
-        <h2 id="rail-heading" class="rail-heading">In this briefing</h2>
-        <ol id="toc-rail" class="toc" role="list"></ol>
-      </div>
-    </aside>
+      <nav id="day-pager" class="day-pager" aria-label="Other days" hidden>
+        <a id="pager-prev" class="pager-link pager-link--prev" hidden>
+          <span class="pager-dir">&larr; Earlier</span>
+          <span class="pager-date"></span>
+          <span class="pager-lead"></span>
+        </a>
+        <a id="pager-next" class="pager-link pager-link--next" hidden>
+          <span class="pager-dir">Later &rarr;</span>
+          <span class="pager-date"></span>
+          <span class="pager-lead"></span>
+        </a>
+      </nav>
+    </main>
   </div>
 
   <footer class="site-footer">
@@ -96,7 +111,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=6"></script>
+  <script type="module" src="assets/app.js?v=7"></script>
 
   <!-- Service worker registration -->
   <script>

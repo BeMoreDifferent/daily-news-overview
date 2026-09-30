@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { summarizeTopics } from './newsSummaryService.js';
+import { summarizeDay, summarizeTopics } from './newsSummaryService.js';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
@@ -166,18 +166,43 @@ export async function exportNewsForDate(db, date, { force = false, summarize = t
     topicObjects.push(buildTopicObj(topic, pickArticles(topic, rows)));
   }
 
+  let overview = null;
   if (summarize) {
-    topicObjects = applySummaries(topicObjects, await summarizeTopics(topicObjects, summaryOptions));
+    const summaries = await summarizeTopics(topicObjects, summaryOptions);
+    topicObjects = applySummaries(topicObjects, summaries);
+    // The overview is written from the final titles, so it is skipped when those are extractive.
+    if (summaries) overview = await summarizeDay(topicObjects, summaryOptions);
   }
 
   const output = {
     date,
     generated_at: new Date().toISOString(),
-    topics: topicObjects,
   };
+  if (overview) output.overview = { points: overview };
+  output.topics = topicObjects;
 
   await fs.writeFile(tmpPath, JSON.stringify(output, null, 2), 'utf8');
   await fs.rename(tmpPath, outPath);
   await writeNewsIndex();
   return topicObjects.reduce((sum, topic) => sum + topic.articles.length, 0);
+}
+
+/**
+ * Add (or replace) the AI "day in brief" of an existing news/<date>.json, leaving its topics
+ * untouched. Returns the number of points written, or null when no overview could be made.
+ */
+export async function addOverviewToExport(date, { force = false, summaryOptions = {} } = {}) {
+  const outPath = path.join(NEWS_DIR, `${date}.json`);
+  const tmpPath = path.join(NEWS_DIR, `.${date}.json.tmp`);
+  const data = JSON.parse(await fs.readFile(outPath, 'utf8'));
+  if (data.overview && !force) return null;
+  if (!(data.topics || []).some(topic => topic.summary)) return null;
+
+  const points = await summarizeDay(data.topics, summaryOptions);
+  if (!points) return null;
+  const { topics, ...rest } = data;
+  const output = { ...rest, overview: { points }, topics };
+  await fs.writeFile(tmpPath, JSON.stringify(output, null, 2), 'utf8');
+  await fs.rename(tmpPath, outPath);
+  return points.length;
 }

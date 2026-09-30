@@ -11,8 +11,8 @@
  * ?v= query in index.html together.
  */
 
-const CACHE_VERSION = 'v6';
-const ASSET_VERSION = '6';
+const CACHE_VERSION = 'v7';
+const ASSET_VERSION = '7';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 

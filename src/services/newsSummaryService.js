@@ -1,4 +1,5 @@
-// Daily topic titles + summaries via one batched OpenAI Responses API call.
+// Daily topic titles + summaries via one batched OpenAI Responses API call, plus one small call for
+// the day's overview ("the day in brief") written from the final titles and summaries.
 // Cost controls: called once per exported day (never on hourly runs), compact input (≤5 titles and
 // 200-char descriptions per topic), low reasoning effort, capped output, no retries on failure, and
 // a hard daily budget: a request is only sent if its worst-case cost fits in what is left of today's
@@ -52,6 +53,37 @@ const RESPONSE_SCHEMA = {
   }
 };
 
+const OVERVIEW_MAX_OUTPUT_TOKENS = 800;
+const OVERVIEW_MAX_POINTS = 5;
+const OVERVIEW_INSTRUCTIONS = [
+  'You write the opening "day in brief" of a neutral daily news digest. Below are the day\'s stories,',
+  'numbered by importance. Return 3-5 points covering the most important developments, most important',
+  'first. Each point:',
+  '- text: English, one sentence, at most 28 words, only facts stated in the given stories, neutral',
+  '  wording, no speculation, no source names. Combine closely related stories into one point.',
+  '- stories: the numbers of the stories the point is based on.'
+].join('\n');
+
+const OVERVIEW_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  required: ['points'],
+  properties: {
+    points: {
+      type: 'array',
+      items: {
+        type: 'object',
+        additionalProperties: false,
+        required: ['text', 'stories'],
+        properties: {
+          text: { type: 'string' },
+          stories: { type: 'array', items: { type: 'integer' } }
+        }
+      }
+    }
+  }
+};
+
 export function isSummaryEnabled(env = process.env) {
   return Boolean(env.OPENAI_API_KEY) && env.SUMMARY_ENABLED !== '0';
 }
@@ -79,6 +111,68 @@ export async function summarizeTopics(topics, {
     return `[t${index + 1}]\n${lines.join('\n')}`;
   }).join('\n\n');
 
+  const parsed = await requestJson({
+    instructions: INSTRUCTIONS,
+    input,
+    schemaName: 'daily_topics',
+    schema: RESPONSE_SCHEMA,
+    maxOutputTokens: MAX_OUTPUT_TOKENS,
+    label: `topics=${topics.length}`
+  }, { env, fetchImpl, logger, ledgerPath, now });
+  if (!parsed) return null;
+
+  const results = new Map();
+  for (const item of parsed.topics || []) {
+    const id = keyToId.get(item.key);
+    if (!id || !item.title) continue;
+    results.set(id, {
+      title: item.title.trim(),
+      summary: (item.summary || '').trim() || null,
+      duplicateOf: item.duplicate_of && item.duplicate_of !== item.key ? keyToId.get(item.duplicate_of) || null : null
+    });
+  }
+  return results.size ? results : null;
+}
+
+/**
+ * topics: the final exported topics in rank order ({ title, summary? }).
+ * Returns [{ text, stories: [rank, ...] }] (3-5 points, ranks are 1-based), or null when disabled,
+ * on any failure, or when the model returns nothing usable. One small request (~$0.0003).
+ */
+export async function summarizeDay(topics, {
+  env = process.env,
+  fetchImpl = globalThis.fetch,
+  logger = console,
+  ledgerPath = LEDGER_PATH,
+  now = new Date()
+} = {}) {
+  if (topics.length < 3 || !isSummaryEnabled(env)) return null;
+
+  const input = topics.map((topic, index) =>
+    `[${index + 1}] ${truncate(topic.title, 160)}${topic.summary ? ` — ${truncate(topic.summary, 320)}` : ''}`
+  ).join('\n');
+
+  const parsed = await requestJson({
+    instructions: OVERVIEW_INSTRUCTIONS,
+    input,
+    schemaName: 'daily_overview',
+    schema: OVERVIEW_SCHEMA,
+    maxOutputTokens: OVERVIEW_MAX_OUTPUT_TOKENS,
+    label: 'overview'
+  }, { env, fetchImpl, logger, ledgerPath, now });
+
+  const points = (parsed?.points || [])
+    .map(point => ({
+      text: String(point.text || '').replace(/\s+/g, ' ').trim(),
+      stories: [...new Set((point.stories || []).filter(rank => Number.isInteger(rank) && rank >= 1 && rank <= topics.length))].sort((a, b) => a - b)
+    }))
+    .filter(point => point.text && point.stories.length)
+    .slice(0, OVERVIEW_MAX_POINTS);
+  return points.length >= 2 ? points : null;
+}
+
+// One structured-output request under the daily budget. Returns the parsed JSON or null.
+async function requestJson({ instructions, input, schemaName, schema, maxOutputTokens, label }, { env, fetchImpl, logger, ledgerPath, now }) {
   const pricing = {
     input: positiveNumber(env.SUMMARY_PRICE_INPUT_PER_M, DEFAULT_PRICE_INPUT_PER_M),
     output: positiveNumber(env.SUMMARY_PRICE_OUTPUT_PER_M, DEFAULT_PRICE_OUTPUT_PER_M)
@@ -89,21 +183,21 @@ export async function summarizeTopics(topics, {
   const spent = ledger[day] || 0;
   // Worst case: generous token estimate for the prompt (3 chars/token) + the full output cap, doubled
   // for the possible no-reasoning resend.
-  const estimatedInputTokens = Math.ceil((INSTRUCTIONS.length + input.length) / 3) + 500;
-  const worstCase = 2 * cost(pricing, estimatedInputTokens, MAX_OUTPUT_TOKENS);
+  const estimatedInputTokens = Math.ceil((instructions.length + input.length) / 3) + 500;
+  const worstCase = 2 * cost(pricing, estimatedInputTokens, maxOutputTokens);
   if (spent + worstCase > budget) {
-    logger.warn(`Summary skipped: daily budget ${budget} EUR (spent ${spent.toFixed(4)}, worst case ${worstCase.toFixed(4)})`);
+    logger.warn(`Summary skipped (${label}): daily budget ${budget} EUR (spent ${spent.toFixed(4)}, worst case ${worstCase.toFixed(4)})`);
     return null;
   }
 
   const model = env.SUMMARY_MODEL || DEFAULT_MODEL;
   const body = {
     model,
-    instructions: INSTRUCTIONS,
+    instructions,
     input,
     reasoning: { effort: 'low' },
-    max_output_tokens: MAX_OUTPUT_TOKENS,
-    text: { format: { type: 'json_schema', name: 'daily_topics', strict: true, schema: RESPONSE_SCHEMA } }
+    max_output_tokens: maxOutputTokens,
+    text: { format: { type: 'json_schema', name: schemaName, strict: true, schema } }
   };
 
   try {
@@ -115,7 +209,7 @@ export async function summarizeTopics(topics, {
       response = await post(fetchImpl, env.OPENAI_API_KEY, body);
     }
     if (!response.ok) {
-      logger.warn(`Summary request failed: HTTP ${response.status} ${await peekError(response)}`);
+      logger.warn(`Summary request failed (${label}): HTTP ${response.status} ${await peekError(response)}`);
       return null;
     }
 
@@ -125,23 +219,11 @@ export async function summarizeTopics(topics, {
       ? cost(pricing, usage.input_tokens, usage.output_tokens)
       : worstCase;
     await recordSpend(ledgerPath, day, callCost);
-    logger.log(`Summary request ok model=${model} topics=${topics.length} input_tokens=${usage.input_tokens ?? '?'} output_tokens=${usage.output_tokens ?? '?'} cost≈${callCost.toFixed(5)} day_total≈${(spent + callCost).toFixed(5)}`);
+    logger.log(`Summary request ok model=${model} ${label} input_tokens=${usage.input_tokens ?? '?'} output_tokens=${usage.output_tokens ?? '?'} cost≈${callCost.toFixed(5)} day_total≈${(spent + callCost).toFixed(5)}`);
 
-    const text = extractOutputText(payload);
-    const parsed = JSON.parse(text);
-    const results = new Map();
-    for (const item of parsed.topics || []) {
-      const id = keyToId.get(item.key);
-      if (!id || !item.title) continue;
-      results.set(id, {
-        title: item.title.trim(),
-        summary: (item.summary || '').trim() || null,
-        duplicateOf: item.duplicate_of && item.duplicate_of !== item.key ? keyToId.get(item.duplicate_of) || null : null
-      });
-    }
-    return results.size ? results : null;
+    return JSON.parse(extractOutputText(payload));
   } catch (error) {
-    logger.warn(`Summary request failed: ${error.name === 'TimeoutError' ? 'timeout' : error.message}`);
+    logger.warn(`Summary request failed (${label}): ${error.name === 'TimeoutError' ? 'timeout' : error.message}`);
     return null;
   }
 }

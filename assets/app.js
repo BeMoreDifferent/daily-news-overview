@@ -1,8 +1,10 @@
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
 const MAX_PROBE = 60;
-// Coverage rows visible per story on phones before "Show more"; the rest stay one tap away.
-const COMPACT_SOURCES = 3;
+// Show the loading skeleton only when a day takes this long; faster loads swap in place.
+const SKELETON_DELAY_MS = 200;
+// A horizontal swipe of at least this many px (on touch screens) moves one day.
+const SWIPE_MIN_PX = 70;
 // Feed "images" that are video files, icons or logos would render as broken or meaningless boxes.
 const NON_PHOTO_RE = /\.(mp4|webm|mov|m3u8|gif|svg)$|(^|[/_-])(icon|logo|avatar|favicon|sprite|pixel)s?([/_.-]|$)/i;
 
@@ -11,7 +13,6 @@ const tablet = window.matchMedia('(min-width: 640px)');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
 let current = { date: null, data: null };
-let spy = null;
 
 // ── Dates ────────────────────────────────────────────────────────────────────
 
@@ -87,6 +88,27 @@ async function findLatestDate() {
   return null;
 }
 
+// One request per day and session. Neighbouring days are prefetched here, so stepping between
+// days swaps content without a network wait. Failed loads are forgotten, so Retry refetches.
+const dayCache = new Map();
+function getDay(date) {
+  if (!dayCache.has(date)) {
+    const promise = fetch(`news/${date}.json`).then(res => {
+      if (res.status === 503) throw new Error('offline');
+      if (!res.ok) throw new Error('not_found');
+      return res.json();
+    }, () => { throw new Error('offline'); });
+    promise.catch(() => dayCache.delete(date));
+    dayCache.set(date, promise);
+  }
+  return dayCache.get(date);
+}
+
+function prefetchDays(...dates) {
+  const idle = window.requestIdleCallback || (fn => setTimeout(fn, 300));
+  idle(() => dates.filter(Boolean).forEach(date => getDay(date).catch(() => {})));
+}
+
 async function neighbours(date) {
   const dates = await loadIndex();
   if (dates) {
@@ -131,6 +153,36 @@ function el(tag, attrs = {}, ...children) {
   return node;
 }
 
+// Page position decides a story's weight: the lead, two secondary stories beside it, four
+// picture features, then text briefs. The CSS grid places each tier.
+function tierOf(rank) {
+  if (rank === 1) return 'lead';
+  if (rank <= 3) return 'secondary';
+  if (rank <= 7) return 'feature';
+  return 'brief';
+}
+
+// Coverage rows shown before "Show more": 3 on phones; in the multi-column layouts the lead
+// shows all and the narrower columns 2.
+function coverageLimit(tier) {
+  if (!tablet.matches) return 3;
+  return tier === 'lead' ? Infinity : 2;
+}
+
+function readPref(key) {
+  try {
+    return localStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
+
+function writePref(key, value) {
+  try {
+    localStorage.setItem(key, value);
+  } catch { /* storage unavailable (private mode) */ }
+}
+
 const SHARE_ICON = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 002 2h10a2 2 0 002-2v-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
 function storyHash(date, rank) {
@@ -158,28 +210,53 @@ function setNavLink(link, date) {
   }
 }
 
-async function renderNav(date) {
+// Where a day sits in the archive: its neighbours and the full date range.
+async function navContext(date) {
+  const [{ prev, next }, dates] = await Promise.all([neighbours(date), loadIndex()]);
+  return { prev, next, first: dates?.[0] || null, latest: dates?.[dates.length - 1] || null };
+}
+
+// Synchronous, so the header changes inside the same view transition as the page.
+function renderNav(date, { prev, next, first, latest }) {
   const button = $('date-button');
   button.textContent = formatDate(date, 'short');
   button.setAttribute('aria-label', `Choose a date. Showing ${formatDate(date)}`);
   $('date-input').value = date;
 
-  const [{ prev, next }, dates] = await Promise.all([neighbours(date), loadIndex()]);
-  if (date !== current.date) return; // user navigated on while we were waiting
   setNavLink($('nav-prev'), prev);
   setNavLink($('nav-next'), next);
   $('nav-prev').setAttribute('aria-label', prev ? `Previous day, ${formatDate(prev)}` : 'Previous day');
   $('nav-next').setAttribute('aria-label', next ? `Next day, ${formatDate(next)}` : 'Next day');
+  // There is nothing after the newest briefing, so its forward arrow is not shown at all.
+  $('nav-next').classList.toggle('is-end', !next);
 
-  const latest = dates?.[dates.length - 1];
   $('nav-latest').hidden = !latest || latest === date;
-  if (dates?.length) {
-    $('date-input').min = dates[0];
+  if (first) {
+    $('date-input').min = first;
     $('date-input').max = latest;
   }
 
-  // Warm the cache so stepping back a day is instant.
-  if (prev) (window.requestIdleCallback || setTimeout)(() => fetch(`news/${prev}.json`).catch(() => {}));
+  renderPager(prev, next);
+  prefetchDays(prev, next);
+}
+
+// End-of-page links to the neighbouring days, with each day's top story once it has loaded.
+function renderPager(prev, next) {
+  const fill = (link, date) => {
+    link.hidden = !date;
+    if (!date) return link.removeAttribute('href');
+    link.href = '#' + date;
+    link.querySelector('.pager-date').textContent = formatDate(date);
+    const lead = link.querySelector('.pager-lead');
+    lead.textContent = '';
+    getDay(date).then(data => {
+      const top = (data.topics || []).find(t => t.articles?.length);
+      if (top && link.getAttribute('href') === '#' + date) lead.textContent = storyTitle(top);
+    }).catch(() => {});
+  };
+  fill($('pager-prev'), prev);
+  fill($('pager-next'), next);
+  $('day-pager').hidden = !prev && !next;
 }
 
 function renderIntro(date, data, stories) {
@@ -194,6 +271,32 @@ function renderIntro(date, data, stories) {
   $('footer-meta').textContent = updated ? `Briefing generated ${updated}` : '';
 }
 
+// The AI "day in brief": 3-5 points, each linking to the stories it draws on.
+function renderOverview(date, data, stories) {
+  const box = $('overview');
+  const rankOf = new Map(stories.map((topic, i) => [topic, i + 1]));
+  const points = (Array.isArray(data?.overview?.points) ? data.overview.points : [])
+    .filter(point => typeof point?.text === 'string' && point.text.trim())
+    .map(point => ({
+      text: point.text.trim(),
+      ranks: (point.stories || []).map(n => rankOf.get(data.topics?.[n - 1])).filter(Boolean),
+    }));
+
+  box.hidden = points.length === 0;
+  $('intro').classList.toggle('has-overview', points.length > 0);
+  $('overview-list').replaceChildren(...points.map(point => el('li', {},
+    point.text,
+    point.ranks.length > 0 && el('span', { class: 'overview-refs' },
+      ...point.ranks.map(rank => el('a', {
+        class: 'ref',
+        href: storyHash(date, rank),
+        'data-rank': rank,
+        'aria-label': `Story ${rank}: ${storyTitle(stories[rank - 1])}`,
+      }, String(rank))),
+    ),
+  )));
+}
+
 function renderToc(date, stories) {
   const build = () => stories.map((topic, i) => el('li', {},
     el('a', { href: storyHash(date, i + 1), 'data-rank': i + 1 },
@@ -201,12 +304,11 @@ function renderToc(date, stories) {
       el('span', { class: 'toc-title' }, storyTitle(topic)),
     ),
   ));
-  $('toc-rail').replaceChildren(...build());
   $('toc-list').replaceChildren(...build());
   $('toc-count').textContent = `(${stories.length})`;
   const inline = $('toc-inline');
   inline.hidden = stories.length === 0;
-  inline.open = tablet.matches;
+  inline.open = false;
 }
 
 function storyTitle(topic) {
@@ -226,7 +328,7 @@ function renderMedia(topic, isLead) {
   const img = el('img', {
     src: candidates[0].src,
     alt: '',
-    loading: isLead ? 'eager' : 'lazy',
+    loading: isLead ? 'eager' : 'lazy', // hidden images (briefs on wide screens) are never fetched
     fetchpriority: isLead ? 'high' : null,
     decoding: 'async',
     referrerpolicy: 'no-referrer',
@@ -246,7 +348,7 @@ function renderMedia(topic, isLead) {
 }
 
 function renderCoverage(topic, story) {
-  const items = topic.articles.map((article, i) => {
+  const items = topic.articles.map(article => {
     const time = formatTime(article.published_at);
     const inner = [
       el('span', { class: 'coverage-meta' },
@@ -259,32 +361,44 @@ function renderCoverage(topic, story) {
       ? el('a', { class: 'coverage-link', href: article.url, target: '_blank', rel: 'noopener noreferrer' },
         ...inner, el('span', { class: 'visually-hidden' }, ' (opens in new tab)'))
       : el('div', { class: 'coverage-link' }, ...inner);
-    return el('li', { class: i >= COMPACT_SOURCES ? 'is-extra' : null }, row);
+    return el('li', {}, row);
   });
 
   const list = el('ul', { class: 'coverage', role: 'list', 'aria-label': 'Coverage' }, ...items);
-  const extra = items.length - COMPACT_SOURCES;
-  if (extra <= 0) return [list];
-
   const more = el('button', {
     class: 'coverage-more',
     type: 'button',
     'aria-expanded': 'false',
     onclick: () => {
-      const expanded = story.classList.toggle('is-expanded');
-      more.setAttribute('aria-expanded', String(expanded));
-      more.textContent = expanded ? 'Show fewer' : `Show ${extra} more ${extra === 1 ? 'outlet' : 'outlets'}`;
-      if (expanded) items[COMPACT_SOURCES].querySelector('a, div')?.focus();
+      const firstHidden = list.querySelector('li[hidden]');
+      story.classList.toggle('is-expanded');
+      applyCoverageLimit(story);
+      if (firstHidden) firstHidden.querySelector('a, div')?.focus();
     },
-  }, `Show ${extra} more ${extra === 1 ? 'outlet' : 'outlets'}`);
+  });
   return [list, more];
+}
+
+function applyCoverageLimit(story) {
+  const items = story.querySelectorAll('.coverage > li');
+  const more = story.querySelector('.coverage-more');
+  if (!more) return;
+  const limit = coverageLimit(story.dataset.tier);
+  const expanded = story.classList.contains('is-expanded');
+  items.forEach((item, i) => { item.hidden = !expanded && i >= limit; });
+  const extra = items.length - limit;
+  more.hidden = extra <= 0;
+  more.setAttribute('aria-expanded', String(expanded));
+  more.textContent = expanded ? 'Show fewer' : `Show ${extra} more ${extra === 1 ? 'outlet' : 'outlets'}`;
 }
 
 function renderStory(date, topic, rank) {
   const title = storyTitle(topic);
-  const isLead = rank === 1;
+  const tier = tierOf(rank);
+  const isLead = tier === 'lead';
   const story = el('article', {
-    class: `story${isLead ? ' story--lead' : ''}`,
+    class: `story story--${tier}`,
+    'data-tier': tier,
     id: `story-${rank}`,
     tabindex: '-1',
     'aria-labelledby': `story-${rank}-title`,
@@ -316,18 +430,19 @@ function renderStory(date, topic, rank) {
     topic.summary && el('p', { class: 'story-summary' }, topic.summary),
     ...renderCoverage(topic, story),
   );
-  return el('li', {}, story);
+  applyCoverageLimit(story);
+  return el('li', { class: `slot slot--${tier}` }, story);
 }
 
 function renderSkeleton() {
   const block = cls => el('span', { class: `skeleton ${cls}` });
-  const card = () => el('li', { 'aria-hidden': 'true' },
+  const card = (_, i) => el('li', { class: `slot slot--${tierOf(i + 1)}`, 'aria-hidden': 'true' },
     el('div', { class: 'story story--skeleton' },
       block('sk-kicker'), block('sk-title'), block('sk-title sk-short'),
       block('sk-line'), block('sk-line'), block('sk-line sk-short'),
     ),
   );
-  $('stories').replaceChildren(card(), card(), card());
+  $('stories').replaceChildren(...Array.from({ length: tablet.matches ? 7 : 3 }, card));
   $('stories').setAttribute('aria-busy', 'true');
 }
 
@@ -336,7 +451,7 @@ async function renderMissing(date, reason) {
   stories.setAttribute('aria-busy', 'false');
   renderIntro(date, null, []);
   renderToc(date, []);
-  $('rail-heading').parentElement.hidden = true;
+  renderOverview(date, null, []);
 
   if (reason === 'not_found') {
     const { prev, next } = await neighbours(date);
@@ -367,7 +482,7 @@ function renderStories(date, data) {
   const stories = (data.topics || []).filter(t => t.articles?.length);
   renderIntro(date, data, stories);
   renderToc(date, stories);
-  $('rail-heading').parentElement.hidden = stories.length === 0;
+  renderOverview(date, data, stories);
 
   const list = $('stories');
   list.setAttribute('aria-busy', 'false');
@@ -377,7 +492,6 @@ function renderStories(date, data) {
   }
   list.replaceChildren(...stories.map((topic, i) => renderStory(date, topic, i + 1)));
   document.title = `${storyTitle(stories[0])} — Daily News, ${formatDate(date, 'short')}`;
-  watchScroll(stories.length);
 }
 
 // ── Interaction ──────────────────────────────────────────────────────────────
@@ -406,22 +520,6 @@ function focusStory(rank, { instant = false } = {}) {
   story.focus({ preventScroll: true });
 }
 
-// Scroll-spy: highlight the story currently being read in the desktop contents rail.
-function watchScroll(count) {
-  spy?.disconnect();
-  const links = [...$('toc-rail').querySelectorAll('a')];
-  const setCurrent = rank => links.forEach(a => {
-    if (a.dataset.rank === String(rank)) a.setAttribute('aria-current', 'true');
-    else a.removeAttribute('aria-current');
-  });
-  setCurrent(1);
-  spy = new IntersectionObserver(entries => {
-    const visible = entries.filter(e => e.isIntersecting).map(e => +e.target.id.split('-')[1]);
-    if (visible.length) setCurrent(Math.min(...visible));
-  }, { rootMargin: '-20% 0px -70% 0px' });
-  for (let rank = 1; rank <= count; rank++) spy.observe($(`story-${rank}`));
-}
-
 function setupDatePicker() {
   const button = $('date-button');
   const input = $('date-input');
@@ -447,17 +545,51 @@ function setupDatePicker() {
   });
 }
 
-// Following the same contents link twice fires no hashchange; scroll anyway.
-function setupTocClicks() {
-  for (const list of [$('toc-rail'), $('toc-list')]) {
-    list.addEventListener('click', event => {
-      const link = event.target.closest('a[data-rank]');
-      if (link && link.getAttribute('href') === location.hash) {
-        event.preventDefault();
-        focusStory(link.dataset.rank);
-      }
-    });
-  }
+// Following the same story link twice (contents, overview) fires no navigation; scroll anyway.
+function setupRankLinks() {
+  document.addEventListener('click', event => {
+    const link = event.target.closest('a[data-rank]');
+    if (link && link.getAttribute('href') === location.hash) {
+      event.preventDefault();
+      focusStory(link.dataset.rank);
+    }
+  });
+}
+
+function setupOverviewToggle() {
+  const box = $('overview');
+  // Open by default where there is room beside or above the stories; on phones it starts as one
+  // line so the first story stays near the top. The reader's own choice is remembered.
+  const pref = readPref('overview-open');
+  box.open = pref ? pref === '1' : tablet.matches;
+  box.addEventListener('toggle', () => writePref('overview-open', box.open ? '1' : '0'));
+}
+
+// Touch screens: swipe right for the previous day, left for the next. Swipes starting at the
+// screen edges belong to the browser's own back/forward gestures.
+function setupSwipe() {
+  let start = null;
+  addEventListener('touchstart', event => {
+    const touch = event.touches[0];
+    const edge = 24;
+    start = event.touches.length === 1 && touch.clientX > edge && touch.clientX < innerWidth - edge
+      && !event.target.closest('input, .date-picker')
+      ? { x: touch.clientX, y: touch.clientY, time: event.timeStamp }
+      : null;
+  }, { passive: true });
+  addEventListener('touchcancel', () => { start = null; }, { passive: true });
+  addEventListener('touchend', event => {
+    if (!start) return;
+    const touch = event.changedTouches[0];
+    const dx = touch.clientX - start.x;
+    const dy = touch.clientY - start.y;
+    const quick = event.timeStamp - start.time < 700;
+    start = null;
+    if (!quick || Math.abs(dx) < SWIPE_MIN_PX || Math.abs(dx) < 2 * Math.abs(dy)) return;
+    if (!document.getSelection()?.isCollapsed) return;
+    const target = $(dx > 0 ? 'nav-prev' : 'nav-next').getAttribute('href');
+    if (target) location.hash = target.slice(1);
+  }, { passive: true });
 }
 
 function updateNotice() {
@@ -468,34 +600,81 @@ function updateNotice() {
 
 // ── Routing: #YYYY-MM-DD or #YYYY-MM-DD/<rank> ───────────────────────────────
 
+// Hashes the router owns: none (latest), a date, or a date and story. Anything else is an
+// in-page anchor such as the skip link.
+function isRoute(hash) {
+  return hash === '' || hash === '#' || DATE_RE.test(hash.slice(1).split('/')[0]);
+}
+
 function parseHash() {
   const [date, rank] = location.hash.slice(1).split('/');
   return { date: DATE_RE.test(date) ? date : null, rank: /^\d{1,2}$/.test(rank || '') ? +rank : null };
 }
 
-async function loadDate(date) {
-  current = { date, data: null };
-  document.title = `Daily News — ${formatDate(date, 'short')}`;
-  renderSkeleton();
-  renderNav(date);
-
-  let data;
-  try {
-    const res = await fetch(`news/${date}.json`);
-    if (res.status === 503) throw new Error('offline');
-    if (!res.ok) throw new Error('not_found');
-    data = await res.json();
-  } catch (err) {
-    if (current.date === date) await renderMissing(date, err.message);
-    return false;
+// Day changes slide in the direction of travel (View Transitions API with transition types);
+// the sticky header keeps its own snapshot and only cross-fades its date. Browsers without
+// support, and readers who prefer reduced motion, get an instant swap.
+function swapDay(direction, update) {
+  if (!document.startViewTransition || reducedMotion.matches || document.visibilityState !== 'visible') {
+    update();
+    return Promise.resolve();
   }
-  if (current.date !== date) return false;
-  current.data = data;
-  renderStories(date, data);
-  return true;
+  // Snapshot names (header, date) are set only for the transition; see .is-sliding in the CSS.
+  const root = document.documentElement;
+  root.classList.add('is-sliding');
+  let transition;
+  try {
+    transition = document.startViewTransition({ update, types: [direction] });
+  } catch {
+    transition = document.startViewTransition(update); // no transition types: plain cross-fade
+  }
+  transition.finished.finally(() => root.classList.remove('is-sliding'));
+  return transition.updateCallbackDone.catch(() => {});
 }
 
-async function route() {
+async function loadDate(date, { restoreScroll } = {}) {
+  const previous = current.date;
+  current = { date, data: null };
+  document.title = `Daily News — ${formatDate(date, 'short')}`;
+
+  // First visit: skeleton right away. Later day changes keep the old day on screen and only
+  // fall back to the skeleton if the new one is slow (it is usually prefetched).
+  const nav = navContext(date);
+  let skeleton = false;
+  const showSkeleton = () => {
+    skeleton = true;
+    renderSkeleton();
+    window.scrollTo({ top: 0 });
+    nav.then(context => current.date === date && renderNav(date, context));
+  };
+  const timer = previous ? setTimeout(showSkeleton, SKELETON_DELAY_MS) : (showSkeleton(), null);
+
+  let data = null;
+  let error = null;
+  try {
+    data = await getDay(date);
+  } catch (err) {
+    error = err.message;
+  }
+  const context = await nav;
+  clearTimeout(timer);
+  if (current.date !== date) return false;
+  current.data = data;
+
+  const update = () => {
+    renderNav(date, context);
+    if (data) renderStories(date, data);
+    else renderMissing(date, error);
+    if (restoreScroll) restoreScroll();
+    else if (previous) window.scrollTo({ top: 0 });
+  };
+  if (previous && !skeleton) await swapDay(date > previous ? 'forward' : 'backward', update);
+  else update();
+  return Boolean(data);
+}
+
+async function route({ restoreScroll } = {}) {
+  if (!isRoute(location.hash)) return;
   let { date, rank } = parseHash();
   const toLatest = !date;
   if (!date) {
@@ -505,24 +684,44 @@ async function route() {
       $('stories').replaceChildren(el('li', { class: 'empty' }, el('h2', {}, 'No briefings yet'), el('p', {}, 'Check back tomorrow.')));
       return;
     }
-    history.replaceState(null, '', '#' + date);
+    history.replaceState(history.state, '', '#' + date);
   }
 
   if (date !== current.date) {
-    const isNewDay = current.date !== null;
-    const loaded = await loadDate(date);
-    if (loaded && rank) return focusStory(rank, { instant: true });
-    if (isNewDay) window.scrollTo({ top: 0 });
+    const loaded = await loadDate(date, { restoreScroll: rank ? null : restoreScroll });
+    if (loaded && rank) focusStory(rank, { instant: true });
     return;
   }
   if (rank) focusStory(rank);
+  else if (restoreScroll) restoreScroll();
   else if (toLatest) window.scrollTo({ top: 0, behavior: reducedMotion.matches ? 'auto' : 'smooth' });
 }
 
+// Navigation API where available: one listener for links, the date picker, swipes and the
+// back/forward buttons, with the browser's own loading indicator and scroll restoration when
+// going back. Older browsers use hashchange.
+function setupRouting() {
+  if ('navigation' in window) {
+    navigation.addEventListener('navigate', event => {
+      if (!event.hashChange || !event.canIntercept || !isRoute(new URL(event.destination.url).hash)) return;
+      const traverse = event.navigationType === 'traverse';
+      event.intercept({
+        scroll: 'manual',
+        handler: () => route({ restoreScroll: traverse ? () => event.scroll() : null }),
+      });
+    });
+  } else {
+    window.addEventListener('hashchange', () => route());
+  }
+}
+
 setupDatePicker();
-setupTocClicks();
+setupRankLinks();
+setupOverviewToggle();
+setupSwipe();
+setupRouting();
 updateNotice();
 window.addEventListener('online', updateNotice);
 window.addEventListener('offline', updateNotice);
-window.addEventListener('hashchange', route);
+tablet.addEventListener('change', () => document.querySelectorAll('.story[data-tier]').forEach(applyCoverageLimit));
 route();

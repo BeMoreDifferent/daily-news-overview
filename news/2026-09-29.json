@@ -1,6 +1,42 @@
 {
   "date": "2026-09-29",
   "generated_at": "2026-09-30T10:55:15.401Z",
+  "overview": {
+    "points": [
+      {
+        "text": "The Supreme Court allowed the Trump administration to resume deporting migrants to third countries while it considers the policy’s legality; arguments are set for December.",
+        "stories": [
+          7
+        ]
+      },
+      {
+        "text": "OpenAI introduced always-on Dots agents and GPT-6.1 Sol, while withholding GPT-6.1 Astra after internal testing raised safety concerns.",
+        "stories": [
+          1,
+          2,
+          15
+        ]
+      },
+      {
+        "text": "An independent commission found Manchester City guilty of all charges involving Premier League financial-rule breaches from 2009-10 to 2017-18; the club plans to appeal.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "Attackers are exploiting critical zero-day vulnerabilities in Citrix NetScaler systems, deploying web shells and other malware; organizations are urged to check for compromise and apply updates.",
+        "stories": [
+          9
+        ]
+      },
+      {
+        "text": "AMD agreed to acquire AI research startup World Labs in an all-stock deal valued at about $8.2 billion; co-founder Fei-Fei Li will join AMD as executive vice president and chief scientist.",
+        "stories": [
+          12
+        ]
+      }
+    ]
+  },
   "topics": [
     {
       "id": "topic_9ecf1731581da460",

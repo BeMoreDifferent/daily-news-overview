@@ -10,12 +10,15 @@
 //       fetcher daemon must be stopped. Without --date it walks every article date oldest-first
 //       so each day's novelty/history is computed from already-reclustered days.
 //   --no-summary  skip the OpenAI title/summary call
+//   node scripts/exportDailyTopics.js --overview [--date YYYY-MM-DD] [--force]
+//       Add the AI "day in brief" to existing exports that lack one (the latest export when no
+//       --date is given). Reads and rewrites only the JSON files; no database access.
 
 import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { DuckDBService } from '../src/services/duckdbService.js';
-import { exportNewsForDate } from '../src/services/newsExportService.js';
+import { addOverviewToExport, exportNewsForDate } from '../src/services/newsExportService.js';
 import { detectTopicsForDate } from '../src/services/topicDetectionService.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -40,6 +43,7 @@ function parseArgs() {
     recluster: args.includes('--recluster'),
     force: args.includes('--force'),
     summarize: !args.includes('--no-summary'),
+    overview: args.includes('--overview'),
     date: valueOf('--date'),
     from: valueOf('--from')
   };
@@ -71,9 +75,19 @@ async function resolveDates(db, { backfill, recluster, force, date, from }) {
   return pending;
 }
 
+async function addOverviews({ date, force }) {
+  const { dates = [] } = JSON.parse(await fs.readFile(path.join(NEWS_DIR, 'index.json'), 'utf8'));
+  const targets = date ? [date] : dates.slice(-1);
+  for (const d of targets) {
+    const points = await addOverviewToExport(d, { force });
+    console.log(points ? `wrote overview news/${d}.json — ${points} points` : `skip  news/${d}.json — overview exists or could not be made`);
+  }
+}
+
 async function main() {
   const options = parseArgs();
   process.chdir(ROOT);
+  if (options.overview) return addOverviews(options);
 
   // Plain exports open read-only; reclustering rewrites the topics table.
   const db = new DuckDBService(DB_PATH, { readOnly: !options.recluster });

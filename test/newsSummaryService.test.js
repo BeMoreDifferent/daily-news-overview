@@ -3,7 +3,7 @@ import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
-import { summarizeTopics } from '../src/services/newsSummaryService.js';
+import { summarizeDay, summarizeTopics } from '../src/services/newsSummaryService.js';
 
 const KEY = 'sk-test-secret-key';
 const TOPICS = [
@@ -113,4 +113,36 @@ test('skips the request when the daily budget would be exceeded', async () => {
   assert.equal(result, null);
   assert.equal(called, false);
   assert.equal(logger.lines.some(line => line.includes('daily budget')), true);
+});
+
+test('day overview keeps only valid story references and needs two usable points', async () => {
+  const stories = [
+    { title: 'France Bans Social Media for Under-15s', summary: 'Lawmakers approved a ban.' },
+    { title: 'Tropical Storm Bertha Forms', summary: 'A storm formed in the Gulf.' },
+    { title: 'Markets Rise', summary: 'Stocks gained.' }
+  ];
+  const reply = points => async (url, init) => {
+    const body = JSON.parse(init.body);
+    assert.equal(body.text.format.name, 'daily_overview');
+    assert.match(body.input, /^\[1\] France Bans/);
+    return jsonResponse(200, {
+      usage: { input_tokens: 90, output_tokens: 40 },
+      output: [{ type: 'message', content: [{ type: 'output_text', text: JSON.stringify({ points }) }] }]
+    });
+  };
+  const options = fetchImpl => ({ env: { OPENAI_API_KEY: KEY }, fetchImpl, logger: recordingLogger() });
+
+  const points = await summarizeDay(stories, { ...options(reply([
+    { text: ' France bans  social media for children. ', stories: [1, 1, 9] },
+    { text: 'A storm forms and markets rise.', stories: [3, 2] },
+    { text: 'Unreferenced claim.', stories: [0] }
+  ])), ledgerPath: await tempLedger() });
+  assert.deepEqual(points, [
+    { text: 'France bans social media for children.', stories: [1] },
+    { text: 'A storm forms and markets rise.', stories: [2, 3] }
+  ]);
+
+  const tooFew = await summarizeDay(stories, { ...options(reply([{ text: 'Only one.', stories: [1] }])), ledgerPath: await tempLedger() });
+  assert.equal(tooFew, null);
+  assert.equal(await summarizeDay(stories.slice(0, 2), { env: { OPENAI_API_KEY: KEY }, fetchImpl: async () => assert.fail('no request') }), null);
 });
