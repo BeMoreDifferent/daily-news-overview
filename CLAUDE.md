@@ -21,6 +21,7 @@ node scripts/exportDailyTopics.js --date 2026-05-01  # Export a specific date
 node scripts/exportDailyTopics.js --backfill --force # Overwrite all existing files
 node scripts/exportDailyTopics.js --recluster [--date D|--from D] [--no-summary]
                              # Re-run topic detection + export (daemon must be stopped: needs DB write lock)
+                             # All export commands commit + push changes under news/ (--no-push to skip)
 ```
 
 ### Code Quality
@@ -52,7 +53,8 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 - `setInterval` triggers `runOnce()` every 60 min; launchd `KeepAlive: true` restarts on crash.
 - `isRunning` guard prevents overlapping runs. Graceful shutdown on SIGINT/SIGTERM/SIGQUIT.
 - Fatal DuckDB errors (OOM, aborted transaction) exit the process so launchd starts a fresh instance.
-- Topic detection runs once per day, not hourly: while `news/<yesterday>.json` is missing, each run re-clusters yesterday, exports it (one OpenAI call), commits and pushes. Retries next run on failure.
+- Topic detection runs once per day, not hourly: while `news/<yesterday>.json` is missing, each run re-clusters yesterday and exports it (one OpenAI call). Retries next run on failure.
+- Every run then calls `publishNews()` (`services/newsPublisher.js`): commits any change under `news/` (only those paths) and pushes while a news commit is missing upstream, so a failed push is retried hourly. Only acts on `master`, the branch the site is served from.
 - Logs: `logs/rss_fetch.log` rotated at 5 MB (checked every run); only slow feeds (≥5 s) are logged individually.
 
 **Services**:
@@ -61,6 +63,7 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 - `feedCacheService.js` — TTL-based cache (`data/feed_cache.json`). Dirty flag prevents disk write when nothing changed. `shouldProcess()` skips feeds fetched within their `intervalMinutes` window.
 - `topicDetectionService.js` — TF-IDF (unigrams + bigrams) over all news headlines of a day (source_type 1). Unicode tokenizer with multilingual stopwords; syndicated identical headlines collapsed; centroid-guarded leader clustering (no single-link chaining) + centroid merge pass. Ranking: 0.45 source coverage (log) + 0.25 burst + 0.20 novelty + 0.10 persistence. `sampleHeadlines` are in centrality order; `[0]` is the representative headline.
 - `newsExportService.js` — picks ≤15 topics (one per theme), ≤5 articles per topic (one per outlet, central first, descriptions trimmed), writes `news/<date>.json`.
+- `newsPublisher.js` — `publishNews()`: idempotent commit + push of `news/` on `master`; used by the daemon (hourly) and `exportDailyTopics.js`.
 - `newsSummaryService.js` — one batched OpenAI Responses call per exported day (`SUMMARY_MODEL`, default `gpt-6-luna`, low reasoning, 2000 output-token cap, no retries, hard €0.02/day budget; typical ~$0.001/day) for English `title`/`summary` and cross-language duplicate merging. Falls back to extractive headlines on any failure.
 
 **Utilities**:

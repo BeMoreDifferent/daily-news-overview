@@ -10,6 +10,7 @@
 //       fetcher daemon must be stopped. Without --date it walks every article date oldest-first
 //       so each day's novelty/history is computed from already-reclustered days.
 //   --no-summary  skip the OpenAI title/summary call
+//   --no-push     write files only; by default changes under news/ are committed and pushed
 //   node scripts/exportDailyTopics.js --overview [--date YYYY-MM-DD] [--force]
 //       Add the AI "day in brief" to existing exports that lack one (the latest export when no
 //       --date is given). Reads and rewrites only the JSON files; no database access.
@@ -20,6 +21,7 @@ import { fileURLToPath } from 'url';
 import { DuckDBService } from '../src/services/duckdbService.js';
 import { addOverviewToExport, exportNewsForDate } from '../src/services/newsExportService.js';
 import { detectTopicsForDate } from '../src/services/topicDetectionService.js';
+import { publishNews } from '../src/services/newsPublisher.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -43,6 +45,7 @@ function parseArgs() {
     recluster: args.includes('--recluster'),
     force: args.includes('--force'),
     summarize: !args.includes('--no-summary'),
+    push: !args.includes('--no-push'),
     overview: args.includes('--overview'),
     date: valueOf('--date'),
     from: valueOf('--from')
@@ -87,7 +90,23 @@ async function addOverviews({ date, force }) {
 async function main() {
   const options = parseArgs();
   process.chdir(ROOT);
-  if (options.overview) return addOverviews(options);
+  if (options.overview) await addOverviews(options);
+  else await exportDates(options);
+  if (options.push) await publish();
+}
+
+async function publish() {
+  try {
+    const result = await publishNews({ cwd: ROOT });
+    if (result.skipped) console.warn(`\nNot published: ${result.skipped}`);
+    else console.log(result.pushed ? '\nPublished: news/ pushed' : '\nPublished: nothing new to push');
+  } catch (err) {
+    console.error(`\nPublish failed (the daemon retries hourly): ${err.stderr || err.message}`);
+    process.exitCode = 1;
+  }
+}
+
+async function exportDates(options) {
 
   // Plain exports open read-only; reclustering rewrites the topics table.
   const db = new DuckDBService(DB_PATH, { readOnly: !options.recluster });

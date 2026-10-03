@@ -1,15 +1,12 @@
 import { createWriteStream, statSync, renameSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { execFile as execFileCb } from 'node:child_process';
-import { promisify } from 'node:util';
-
-const execFile = promisify(execFileCb);
 import { loadFeedConfigs, DEFAULT_FEED_CONCURRENCY, DEFAULT_RUN_INTERVAL_MINUTES } from './config.js';
 import { processFeed } from './services/feedProcessor.js';
 import { feedCache } from './services/feedCacheService.js';
 import { duckDBService } from './services/duckdbService.js';
 import { detectTopicsForDate } from './services/topicDetectionService.js';
 import { exportNewsForDate } from './services/newsExportService.js';
+import { publishNews } from './services/newsPublisher.js';
 
 // Write timestamped logs directly to file with size-based rotation (5 MB → .1), checked at startup
 // and before every run. Errors also go to stderr, which launchd captures outside ~/Documents.
@@ -194,6 +191,8 @@ export async function runOnce() {
     const topicsStartedAt = Date.now();
     const topics = await exportYesterdayIfMissing();
     timing.topicsMs = Date.now() - topicsStartedAt;
+    // Every run, not only after an export, so a push that failed earlier is retried hourly.
+    await publishNewsSafely();
 
     // Checkpoint WAL into the main DB file so the WAL stays small between runs.
     await duckDBService.checkpoint();
@@ -250,7 +249,7 @@ export async function runOnce() {
 }
 
 // Once per day (retried every run until it succeeds): re-cluster yesterday with the complete day
-// of articles, export news/<yesterday>.json (one OpenAI summary call), then commit and push.
+// of articles and export news/<yesterday>.json (one OpenAI summary call); publishNewsSafely pushes it.
 // Returns the day's detected topics (empty when nothing was due).
 async function exportYesterdayIfMissing() {
   const yesterday = new Date(Date.now() - 86_400_000).toISOString().slice(0, 10);
@@ -267,7 +266,6 @@ async function exportYesterdayIfMissing() {
     const articleCount = await Promise.race([exportNewsForDate(duckDBService, yesterday), exportTimeout]);
     if (articleCount) {
       console.log(`News export: wrote ${relPath} in ${Date.now() - startedAt}ms`);
-      await gitCommitAndPush([relPath, 'news/index.json'], yesterday);
     } else {
       console.warn(`News export: no topics for ${yesterday}`);
     }
@@ -330,15 +328,13 @@ async function mapConcurrent(items, concurrency, mapper) {
   return results;
 }
 
-async function gitCommitAndPush(filePaths, date) {
-  const GIT_TIMEOUT_MS = 60_000;
+async function publishNewsSafely() {
   try {
-    await execFile('git', ['add', ...filePaths], { timeout: GIT_TIMEOUT_MS });
-    await execFile('git', ['commit', '-m', `news: add ${date} daily topics export`], { timeout: GIT_TIMEOUT_MS });
-    await execFile('git', ['push'], { timeout: GIT_TIMEOUT_MS });
-    console.log(`News export: committed and pushed ${filePaths.join(', ')}`);
+    const result = await publishNews();
+    if (result.skipped) console.warn(`News publish skipped: ${result.skipped}`);
+    else if (result.pushed) console.log(`News publish: ${result.committed ? 'committed and ' : ''}pushed news/`);
   } catch (err) {
-    console.warn(`News export git push failed: ${err.stderr || err.message}`);
+    console.warn(`News publish failed (will retry next run): ${err.stderr || err.message}`);
   }
 }
 
