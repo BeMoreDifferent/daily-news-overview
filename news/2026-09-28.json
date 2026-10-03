@@ -1,0 +1,751 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-10-03T08:13:12.285Z",
+  "overview": {
+    "points": [
+      {
+        "text": "NVIDIA introduced an open software platform and reference design intended to enforce security boundaries around AI agents, with safeguards from testing through deployment.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Authorities urged organizations to address Citrix NetScaler vulnerabilities, including two critical flaws reported to be actively exploited and potentially enabling unauthenticated remote code execution.",
+        "stories": [
+          2,
+          12
+        ]
+      },
+      {
+        "text": "SpaceX’s Starship reached orbit for the first time on its 14th test flight, which ended earlier than planned with the spacecraft returning to Earth.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "The Trump administration set a fleet-average fuel-economy requirement of 34.9 miles per gallon, down from the previous 50.4 mpg standard, and said the change will reduce vehicle prices.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_60169ac2554a8d6d",
+      "title": "NVIDIA Launches Open Platform to Secure AI Agents",
+      "headline": "NVIDIA Launches Open Agent Safety Platform to Secure AI Agents",
+      "label": [
+        "agent",
+        "platform",
+        "nvidia",
+        "safety",
+        "open",
+        "launches"
+      ],
+      "category": "new",
+      "theme": "theme_f20351a3b45ca51d",
+      "entities": [
+        "NVIDIA Launches Open Agent",
+        "Safety Platform",
+        "Secure AI Agents",
+        "Nvidia",
+        "Open Agent Safety Platform"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "NVIDIA Launches Open Agent Safety Platform to Secure AI Agents",
+          "url": "https://techgenyz.com/nvidia-open-agent-safety-platform",
+          "source": "Techgenyz",
+          "published_at": "2026-09-28T16:08:04.000Z",
+          "image": "https://techgenyz.com/wp-content/uploads/2026/09/Nvidia-4.webp",
+          "description": "NVIDIA has introduced its Open Agent Safety Platform, an open software platform and reference system design aimed at putting enforceable security boundaries around AI agents from testing through deployment. Rather than relying only on safeguards inside an AI model or agent framework, NVIDIA is exte…"
+        },
+        {
+          "title": "Nvidia launches Open Agent Safety Platform to lock down rogue AI agents",
+          "url": "https://thenewstack.io/nvidia-openshell-sentry-agents",
+          "source": "The New Stack",
+          "published_at": "2026-09-28T10:00:00.000Z",
+          "image": "https://cdn.thenewstack.io/media/2026/09/f0f0ea15-img_3479-1024x768.jpg",
+          "description": "OpenAI, Anthropic, Meta, and Google have all recently disclosed that their models broke out of their test environments and reached The post Nvidia launches Open Agent Safety Platform to lock down rogue AI agents appeared first on The New Stack."
+        },
+        {
+          "title": "Nvidia Open Agent Safety Platform Launch: OpenShell, Sentry",
+          "url": "https://www.cyberkendra.com/2026/09/nvidia-open-agent-safety-platform-openshell-sentry.html",
+          "source": "Cyber Kendra",
+          "published_at": "2026-09-28T17:04:17.000Z",
+          "description": "Nvidia on Monday, 28 September 2026, launched the Open Agent Safety Platform, an open software stack and reference hardware design built to stop AI agents from acting outside the limits set by the people running them. The platform combines OpenShell, Nvidia’s open-source agent sandbox, which is now…"
+        },
+        {
+          "title": "CSA Welcomes NVIDIA Open Agent Safety Platform",
+          "url": "https://cloudsecurityalliance.org/articles/cloud-security-alliance-welcomes-nvidia-open-agent-safety-platform-to-advance-its-mission-of-securing-the-agentic-control-plane",
+          "source": "Cloud Security Alliance",
+          "published_at": "2026-09-28T20:52:00.000Z",
+          "description": "Cloud Security Alliance is building industry consensus around governance and security controls for autonomous AI. We welcome the launch of the NVIDIA Open Agent Safety Platform and NVIDIA’s commitment to making autonomous AI safer to deploy at enterprise scale. NVIDIA is bringing its engineering ca…"
+        },
+        {
+          "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+          "source": "NVIDIA Technical Blog",
+          "published_at": "2026-09-28T08:56:55.000Z",
+          "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/agentic-ai-openshell-logo-ver-a-5746677-1920x1080-3-768x432.png",
+          "description": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of... To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and…"
+        }
+      ],
+      "summary": "NVIDIA introduced an open software platform and reference design intended to enforce security boundaries around AI agents. The system is designed to support safeguards from testing through deployment."
+    },
+    {
+      "id": "topic_536a23d4d67ad965",
+      "title": "Citrix Warns of Exploited NetScaler Vulnerabilities",
+      "headline": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+      "label": [
+        "netscaler",
+        "citrix",
+        "exploitation",
+        "zero",
+        "adc",
+        "gateway"
+      ],
+      "category": "new",
+      "theme": "theme_dbdc520c128d1ca8",
+      "entities": [
+        "Exploitation",
+        "Citrix NetScaler ADC",
+        "Citrix NetScaler Gateway",
+        "Zero",
+        "Day Exploitation"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+          "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
+          "source": "All Feed",
+          "published_at": "2026-09-28T12:00:00.000Z",
+          "description": "The NCSC is urging UK organisations to promptly mitigate vulnerabilities affecting Citrix NetScaler ADC and Gateway, two of which are being actively exploited."
+        },
+        {
+          "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
+          "url": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772",
+          "source": "Rapid7 Cybersecurity Blog",
+          "published_at": "2026-09-28T10:05:00.000Z",
+          "image": "https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt65a432ba319f4043/6846abddaf18306debe6cf4d/ETR.webp",
+          "description": "Overview On September 27, 2026, Citrix disclosed eight new vulnerabilities affecting NetScaler ADC and NetScaler Gateway, including two critical remote code execution (RCE) vulnerabilities: CVE-2026-88771 and CVE-2026-88772. Both of these RCE vulnerabilities carry a critical CVSSv4 score of 9.5, an…"
+        },
+        {
+          "title": "CC-4858 - Exploitation of Zero-Day Vulnerabilities affecting Citrix NetScaler",
+          "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4858",
+          "source": "Cyber Alert Feed",
+          "published_at": "2026-09-28T09:40:00.000Z",
+          "description": "Severity: High CVE-2026-88771 & CVE-2026-88772 could allow an unauthenticated attacker to perform remote code execution CVE-2026-88771 & CVE-2026-88772 could allow an unauthenticated attacker to perform remote code execution Updated: 28 Sep 2026"
+        },
+        {
+          "title": "CVE-2026-19490 | Citrix NetScaler ADC and NetScaler Gateway Authentication Bypass Vulnerability",
+          "url": "https://horizon3.ai/attack-research/vulnerabilities/cve-2026-19490",
+          "source": "Horizon3",
+          "published_at": "2026-09-28T16:35:40.000Z",
+          "description": "CVE-2026-19490 is a critical Citrix NetScaler ADC and Gateway authentication bypass vulnerability included in CISA’s Known Exploited Vulnerabilities catalog. NodeZero® Rapid Response safely validates exposure."
+        },
+        {
+          "title": "Citrix confirms exploitation of Netscaler zero-day bugs",
+          "url": "https://www.itnews.com.au/news/citrix-confirms-exploitation-of-netscaler-zero-day-bugs-629232",
+          "source": "iTnews",
+          "published_at": "2026-09-28T00:43:00.000Z",
+          "description": "Updates issued."
+        }
+      ],
+      "summary": "Authorities are urging organizations to address vulnerabilities in Citrix NetScaler ADC and Gateway, including two critical flaws reported to be actively exploited. The vulnerabilities may enable unauthenticated remote code execution."
+    },
+    {
+      "id": "topic_4e83ecd3268500f",
+      "title": "Minecraft Dungeons II Introduces a New Dimension",
+      "headline": "Minecraft Dungeons II Review - Built Better Than Before",
+      "label": [
+        "minecraft",
+        "dungeons",
+        "ii",
+        "review",
+        "blasting",
+        "bliss"
+      ],
+      "category": "new",
+      "theme": "theme_e08be359dee1a9c6",
+      "entities": [
+        "Minecraft Dungeons II Review",
+        "Built Better Than Before",
+        "Minecraft Dungeons II Opens",
+        "Door",
+        "Minecraft"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Minecraft Dungeons II Review - Built Better Than Before",
+          "url": "https://gameinformer.com/review/minecraft-dungeons-ii/built-better-than-before",
+          "source": "Game Informer",
+          "published_at": "2026-09-28T13:00:00.000Z",
+          "image": "https://gameinformer.com/sites/default/files/styles/body_default/public/2026/09/25/8ebf6817/md2.jpg.webp",
+          "description": "Reviewed on: Xbox Series X/S Platform: PlayStation 5, Xbox Series X/S, Switch, PC Publisher: Xbox Game Studios Developer: Mojang, Double Eleven Release: September 29, 2026 Rating: Everyone 10+ Minecraft Dungeons II truly sang when I reached its endgame and settled on a character build I loved. I wi…"
+        },
+        {
+          "title": "Minecraft Dungeons II Opens the Door to Minecraft’s First New Dimension in 14 Years",
+          "url": "https://techgenyz.com/minecraft-dungeons-ii-minecraft-dimension-14-years",
+          "source": "Techgenyz",
+          "published_at": "2026-09-28T09:22:41.000Z",
+          "image": "https://techgenyz.com/wp-content/uploads/2026/09/Minecraft-Dungeons-II-main.webp",
+          "description": "Minecraft Dungeons II arrives on September 29, showcasing more than the traditional boundaries of a dungeon-crawler sequel. Rather than merely offering an expanded roster of missions, the release grants players a pioneering preview of The Sift – Minecraft’s first new realm in over 14 years. Mojang…"
+        },
+        {
+          "title": "Minecraft Dungeons 2 Deliberately Moves Closer To Vanilla Minecraft",
+          "url": "https://www.gamespot.com/articles/minecraft-dungeons-2-deliberately-moves-closer-to-vanilla-minecraft",
+          "source": "GameSpot - All News",
+          "published_at": "2026-09-28T14:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/dungeons-2-vanilla.jpg?w=300",
+          "description": "Minecraft Dungeons 2 is taking a different approach to its relationship with vanilla Minecraft than its predecessor did. According to the game's developers, the sequel deliberately moves closer to the mechanics and feel of the original sandbox game, in part because the Dungeons franchise is now est…"
+        },
+        {
+          "title": "Minecraft Dungeons 2 review - block-blasting bliss",
+          "url": "https://www.pcgamesn.com/minecraft-dungeons-2/review",
+          "source": "PCGamesN",
+          "published_at": "2026-09-28T13:00:00.000Z",
+          "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/09/minecraft-dungeons-2-review-block-blasting-bliss-pcgamesn.jpg",
+          "description": "Minecraft Dungeons 2 is a smart evolution of its ARPG predecessor, with plenty of loot to chase in its gorgeous new dimension, the Sift."
+        },
+        {
+          "title": "How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure",
+          "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure",
+          "source": "XBOX Wire",
+          "published_at": "2026-09-28T13:00:00.000Z",
+          "description": "Minecraft Dungeons II is paving the way for a bold new chapter for Minecraft as a whole. Not only is it giving us a new and robust ARPG that levels up the original dungeon crawler, but also a vibrant new dimension to explore with the Sift when it launches tomorrow, September 29. Going hands-on with…"
+        }
+      ],
+      "summary": "Minecraft Dungeons II launches September 29 on major consoles and PC. The sequel adds a new dimension and an interconnected world, and its developers say it moves closer to the main Minecraft game."
+    },
+    {
+      "id": "topic_4589103bdd123caf",
+      "title": "SpaceX Starship Reaches Orbit for the First Time",
+      "headline": "SpaceX’s Starship reaches orbit for the first time",
+      "label": [
+        "orbit",
+        "spacex",
+        "reaches",
+        "starship",
+        "time",
+        "first"
+      ],
+      "category": "new",
+      "theme": "theme_a8f02a2527a4d4bc",
+      "entities": [
+        "SpaceX",
+        "Starship",
+        "Spaceship",
+        "SpaceX Starship Rocket Officially",
+        "Reached Orbit"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "SpaceX’s Starship reaches orbit for the first time",
+          "url": "https://www.euronews.com/video/2026/09/28/spacexs-starship-reaches-orbit-for-the-first-time",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-09-28T18:06:20.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/93/11/41/696x392_cmsv2_4b551ea4-31a0-5f69-9c10-da663eb6e8f5-9931141.jpg",
+          "description": "SpaceX’s Starship reached orbit for the first time, but the test flight ended earlier than planned."
+        },
+        {
+          "title": "SpaceX's Spaceship reaches orbit for first time despite engine failure – video",
+          "url": "https://www.theguardian.com/science/video/2026/sep/28/spacex-spaceship-orbit-launch-video",
+          "source": "Space | The Guardian",
+          "published_at": "2026-09-28T16:53:57.000Z",
+          "image": "https://i.guim.co.uk/img/media/e4c1a6c236976cf7cb7c7dff1907cfdb6a47a9e8/403_0_4044_3234/master/4044.jpg?width=140&quality=85&auto=format&fit=max&s=91a3937d251dbf74abf39c0a7b9dc197",
+          "description": "SpaceX's spaceship blasted off from its Starbase launch facility in Texas on 28 September morning, marking its 14th test flight and first attempt to circle the planet before falling back to Earth, despite an engine failure. Continue reading..."
+        },
+        {
+          "title": "A SpaceX Starship Rocket Officially Reached Orbit. Why That's So Significant",
+          "url": "https://time.com/article/2026/09/28/spacex-starship-orbit-what-to-know",
+          "source": "TIME",
+          "published_at": "2026-09-28T19:22:46.000Z",
+          "image": "https://cdn.jwplayer.com/v2/media/rhswhkPW/poster.jpg?width=720",
+          "description": "SpaceX achieves a long-promised orbit—with the moon and Mars the long-term goal."
+        },
+        {
+          "title": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
+          "url": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+          "source": "NYT > Science",
+          "published_at": "2026-09-28T21:29:08.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/28/science/space/spacex-thumb/spacex-thumb-mediumSquareAt3X.jpg",
+          "description": "The 14th test flight marks a crucial milestone toward the company’s ambitions of sending people to the moon and Mars, but it was not a complete success."
+        }
+      ],
+      "summary": "SpaceX’s Starship reached orbit during its 14th test flight, a first for the vehicle. The flight ended earlier than planned, and the spacecraft returned to Earth."
+    },
+    {
+      "id": "topic_9948c8ee6e7b5094",
+      "title": "Trump Administration Lowers Fuel-Economy Standard",
+      "headline": "Trump Administration Slashes Fuel-Economy Standards",
+      "label": [
+        "standards",
+        "economy",
+        "fuel",
+        "trump",
+        "back",
+        "relaxed"
+      ],
+      "category": "new",
+      "theme": "theme_697e484e7f374c0e",
+      "entities": [
+        "Trump Administration Slashes Fuel",
+        "Economy Standards",
+        "Trump",
+        "Trump Rolls Back Fuel",
+        "Will Cars Really Get"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Trump Administration Slashes Fuel-Economy Standards",
+          "url": "https://www.caranddriver.com/news/a73924927/trump-administration-new-corporate-fuel-economy-rules-announced",
+          "source": "Latest Content - Car and Driver",
+          "published_at": "2026-09-28T15:47:46.000Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/2630cfd5-d717-4fb7-8404-5057f341db28.jpeg",
+          "description": "The new rule will require automakers to meet a fleet-average fuel economy of 34.9 mpg, down from the 50.4 mpg required under the Biden administration."
+        },
+        {
+          "title": "Trump announces relaxed fuel economy standards",
+          "url": "https://www.scientificamerican.com/article/trump-announces-relaxed-fuel-economy-standards",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-09-28T18:00:00.000Z",
+          "description": "Environmental advocates have decried the move"
+        },
+        {
+          "title": "Trump cuts fuel economy standards back to 2014 levels",
+          "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-09-28T19:35:51.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-1152x648.jpg",
+          "description": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg."
+        },
+        {
+          "title": "Trump Rolls Back Fuel Economy Standards. Will Cars Really Get Cheaper?",
+          "url": "https://time.com/article/2026/09/28/trump-rolls-back-fuel-economy-standards-will-cars-really-get-cheaper-",
+          "source": "TIME",
+          "published_at": "2026-09-28T20:00:39.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd86b25322069feac/6abad2a244523fbf43b9410b/GettyImages-2296179822.jpg?branch=production",
+          "description": "The Trump Administration says its new rule will reduce car prices. But Americans’ savings down the road will depend on broader economic conditions and fuel costs."
+        }
+      ],
+      "summary": "The Trump administration announced a fleet-average fuel-economy requirement of 34.9 miles per gallon, down from the 50.4 mpg standard under the Biden administration. The administration says the change will reduce vehicle prices."
+    },
+    {
+      "id": "topic_f6495690ab5a33ea",
+      "title": "God of War Laufey Preorders Begin September 29",
+      "headline": "God of War Laufey Pre-Orders Open September 29",
+      "label": [
+        "god",
+        "laufey",
+        "war",
+        "pre",
+        "orders",
+        "september"
+      ],
+      "category": "new",
+      "theme": "theme_26db2bbec3bfcefa",
+      "entities": [
+        "God",
+        "War Laufey Pre",
+        "Orders Open September",
+        "War Laufey",
+        "September"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "God of War Laufey Pre-Orders Open September 29",
+          "url": "https://techgenyz.com/god-of-war-laufey-preorders",
+          "source": "Techgenyz",
+          "published_at": "2026-09-28T14:45:37.000Z",
+          "image": "https://techgenyz.com/wp-content/uploads/2026/09/Playstation.webp",
+          "description": "Pre-orders for God of War Laufey open tomorrow, giving PS5 players their first chance to secure a copy ahead of the game’s February 2027 launch. Sony has confirmed that pre-orders officially go live September 29 at 10:00 a.m. local time, with Sony detailing the pre-order bonus and Digital Deluxe Ed…"
+        },
+        {
+          "title": "God of War Laufey pre-orders available starting September 29, editions detailed",
+          "url": "https://blog.playstation.com/2026/09/28/god-of-war-laufey-pre-orders-available-starting-september-29-editions-detailed",
+          "source": "PlayStation.Blog",
+          "published_at": "2026-09-28T12:00:14.000Z",
+          "image": "https://blog.playstation.com/uploads/2026/09/254eb34604b011e523c806c3e4b59fc8bc82ba3e.mp4",
+          "description": "God of War Laufey is coming to PlayStation 5 consoles on February 16, 2027. We’re excited to announce that tomorrow, September 29 at 10:00am local time pre-orders officially go live. To get you ready, we’re breaking down what comes with the God of War Laufey pre-order bonus and Digital Deluxe Editi…"
+        },
+        {
+          "title": "New God Of War Laufey Weapon Revealed Alongside Pre-Order Details",
+          "url": "https://gameinformer.com/2026/09/28/new-god-of-war-laufey-weapon-revealed-alongside-pre-order-details",
+          "source": "Game Informer",
+          "published_at": "2026-09-28T15:24:00.000Z",
+          "image": "https://gameinformer.com/sites/default/files/styles/body_default/public/2026/08/31/8c847a6e/god-of-war-laufey-wm-screenshot-battle-en-30may26.jpg.webp",
+          "description": "Santa Monica Studio has revealed new combat details for God of War Laufey, chiefly a new weapon for the titular protagonist. With the game slated to launch in February, pre-order details and a Digital Deluxe Edition have also been announced. God of War Laufey stars Kratos' wife, Faye, as she battle…"
+        },
+        {
+          "title": "God Of War Laufey Preorders Go Live September 29, Here’s What Each Edition Includes",
+          "url": "https://www.gamespot.com/articles/god-of-war-laufey-preorders-go-live-september-29-heres-what-each-edition-includes",
+          "source": "GameSpot - All News",
+          "published_at": "2026-09-28T12:31:44.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Laufey-3.jpg?w=300",
+          "description": "Ahead of its release on February 16, 2027, Sony has announced that God of War Laufey preorders will go live on September 29. The Standard Edition will be available in both physical and digital formats, but the Deluxe Edition will be a digital exclusive. Pricing hasn't been revealed yet, but Sony ty…"
+        }
+      ],
+      "summary": "Sony announced that preorders for God of War Laufey begin September 29, with the game scheduled to launch on PlayStation 5 on February 16, 2027. The studio also revealed a new weapon and details about available editions."
+    },
+    {
+      "id": "topic_6867443e9d529a1f",
+      "title": "Recent Book Reviews Cover Science Fiction and Other Titles",
+      "headline": "Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆",
+      "label": [
+        "book",
+        "review",
+        "briefly",
+        "ply",
+        "hernan",
+        "diaz"
+      ],
+      "category": "new",
+      "theme": "theme_d833c8481c0c4577",
+      "entities": [
+        "Briefly Noted Book Reviews",
+        "Book Review",
+        "Bobiverse Books",
+        "Dennis",
+        "Taylor"
+      ],
+      "article_count": 4,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆",
+          "url": "https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor",
+          "source": "Terence Eden’s Blog",
+          "published_at": "2026-09-28T11:34:52.000Z",
+          "description": "Like sticky popcorn, this is a moreish but ultimately unsatisfying set of stories. After I flamed out of Dungeon Crawler Carl, someone suggested I try this series. I can see why! It's campy sci-fi fun, with enough tropes to keep you chuckling and enough tension to keep you turning the pages. Bob's…"
+        },
+        {
+          "title": "Briefly Noted Book Reviews",
+          "url": "https://www.newyorker.com/magazine/2026/10/05/the-radiance-cloudthief-dear-dealer-citizen-beast",
+          "source": "Everything",
+          "published_at": "2026-09-28T10:00:00.000Z",
+          "image": "https://media.newyorker.com/photos/6ab4201678f9662e446137bf/master/pass/r50313.jpg",
+          "description": "“The Radiance,” “Cloudthief,” “Dear Dealer,” and “Citizen Beast.”"
+        },
+        {
+          "title": "Book Review: ‘Ply,’ by Hernan Diaz",
+          "url": "https://www.nytimes.com/2026/09/28/books/review/hernan-diaz-ply.html",
+          "source": "NYT > Books",
+          "published_at": "2026-09-28T09:05:11.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/27/books/27TBR-Diaz-review/27TBR-Diaz-review-mediumSquareAt3X.jpg",
+          "description": "“Ply,” by Hernan Diaz, is set in a dystopian future where the state has been dismantled and one company controls the energy supply."
+        }
+      ],
+      "summary": "The reviews include Dennis E. Taylor’s first three Bobiverse books, Hernan Diaz’s Ply, and several other titles. The Bobiverse review describes the stories as entertaining but ultimately unsatisfying."
+    },
+    {
+      "id": "topic_f46c4dae1295f02",
+      "title": "Bose Debuts New Wired Noise-Cancelling Earbuds",
+      "headline": "Bose Launches New Wired Earbuds After More Than a Decade",
+      "label": [
+        "bose",
+        "wired",
+        "earbuds",
+        "decade",
+        "launches",
+        "biggest"
+      ],
+      "category": "new",
+      "theme": "theme_8a2f64795e0c3d31",
+      "entities": [
+        "Bose Launches New Wired",
+        "Earbuds After More Than",
+        "Decade",
+        "Bose",
+        "Bluetooth"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Bose Launches New Wired Earbuds After More Than a Decade",
+          "url": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years",
+          "source": "WIRED",
+          "published_at": "2026-09-28T13:00:00.000Z",
+          "image": "https://media.wired.com/photos/6ab70043d3514249479bb32e/master/pass/Bose-NC-Wired-Earbuds_Credit-HR_02-2.jpg",
+          "description": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen."
+        },
+        {
+          "title": "I miss wired earbuds, and Bose just fixed my biggest problem with them",
+          "url": "https://www.androidcentral.com/accessories/earbuds/bose-just-made-a-pair-of-wired-earbuds-with-anc",
+          "source": "Latest from Android Central",
+          "published_at": "2026-09-28T21:15:18.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/9zw8LEXqS8uxwdVMUmHh3M-1920-80.jpg",
+          "description": "Wired earbuds are back, now with active noise cancellation"
+        },
+        {
+          "title": "Bose is bringing back wired earbuds as teens ditch Bluetooth",
+          "url": "https://www.techspot.com/news/114015-bose-bringing-back-wired-earbuds-teens-ditch-bluetooth.html",
+          "source": "TechSpot",
+          "published_at": "2026-09-28T16:39:00.000Z",
+          "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/09/2026-09-28-ts3_thumbs-802.jpg",
+          "description": "Bose said the new earbuds come at a time when wired listening is gaining popularity. Wireless Bluetooth connectivity has been all the rage in personal audio products over the last several years, but it's not foolproof. While most modern devices support Bluetooth, older audio gear often does not. Wh…"
+        }
+      ],
+      "summary": "Bose introduced new wired noise-cancelling earbuds, its first new wired headphones since 2015. The company says the design was inspired by teen preferences as interest in wired listening grows."
+    },
+    {
+      "id": "topic_ca9bd926875bc0ff",
+      "title": "Eviction of Elderly Woman Spurs Madrid Housing Protests",
+      "headline": "Eviction of 87-Year-Old Sparks Protest Encampment Over Spain’s Housing Crisis",
+      "label": [
+        "eviction",
+        "sparks",
+        "year",
+        "protests",
+        "old",
+        "housing"
+      ],
+      "category": "new",
+      "theme": "theme_c21b1f03e254c7bf",
+      "entities": [
+        "Eviction",
+        "Year",
+        "Old Sparks Protest Encampment",
+        "Over Spain",
+        "Housing Crisis"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Eviction of 87-Year-Old Sparks Protest Encampment Over Spain’s Housing Crisis",
+          "url": "https://truthout.org/video/eviction-of-87-year-old-sparks-protest-encampment-over-spains-housing-crisis",
+          "source": "Truthout",
+          "published_at": "2026-09-28T19:41:54.000Z",
+          "image": "https://truthout.org/app/uploads/2026/09/SEG1-Madrid-Eviction-Camp-3-1200x900.jpg",
+          "description": "“We want to change the whole model of housing in Spain,” says Sabina Carrau of the Madrid Tenants’ Union."
+        },
+        {
+          "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+          "url": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
+          "source": "NPR Topics: World",
+          "published_at": "2026-09-28T07:20:18.000Z",
+          "description": "Tens of thousands marched through Madrid on Saturday to protest Spain's housing crisis and the eviction of an 87-year-old woman, camping overnight in Madrid's historic Puerta del Sol plaza."
+        },
+        {
+          "title": "87-Year-Old Woman’s Eviction From Home Of 70 Years Sparks Protests In Spain",
+          "url": "https://www.huffpost.com/entry/spain-maria-del-carmen-eviction-protests_n_6aba4322e4b0cdca1abd24e6",
+          "source": "World News",
+          "published_at": "2026-09-28T10:45:38.000Z",
+          "description": "The dramatic eviction has unleashed what one tenants’ advocate called an “unstoppable” wave of anger."
+        }
+      ],
+      "summary": "The eviction of an 87-year-old woman from her longtime home has fueled protests in Madrid over Spain’s housing crisis. Demonstrators gathered in the city, with some camping overnight in Puerta del Sol."
+    },
+    {
+      "id": "topic_f823e313082317fa",
+      "title": "Amazon Discounts Apple M5 MacBooks and Displays",
+      "headline": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
+      "label": [
+        "m5",
+        "macbook",
+        "air",
+        "pro",
+        "dips",
+        "deals"
+      ],
+      "category": "new",
+      "theme": "theme_2535545c14e878f1",
+      "entities": [
+        "Deals",
+        "M5 Pro MacBook Pro",
+        "M5 MacBook Air",
+        "Studio Display",
+        "M5 Max MacBook Pro"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
+          "url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display",
+          "source": "9to5Mac",
+          "published_at": "2026-09-28T15:25:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-Studio-Display.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "Amazon has once again updated its early fall Prime Day sale with new deals, but today’s 9to5Toys Lunch Break is headlined by a giant $500 price drop on this 2TB M5 Pro MacBook Pro, alongside a series of M5 MacBook Air models at up to $150 off. We also have the return of M6 Mac mini and Mac Studio l…"
+        },
+        {
+          "title": "Deals: $600 Off 16″ M5 Max MacBook Pro 36GB/2TB, & $150 Off M5 MacBook Air 15″",
+          "url": "https://osxdaily.com/2026/09/28/deals-600-off-16-m5-max-macbook-pro-36gb-2tb-150-off-m5-macbook-air-15",
+          "source": "OS X Daily",
+          "published_at": "2026-09-28T08:43:55.000Z",
+          "description": "16″ M5 Max MacBook Pro – 36GB – 2TB – $3799 ($600 Off) If a MacBook Pro is too much for your needs or budget, the fantastic M5 MacBook Air is also discounted 150% in both 13″ and 15″ display sizes and in most configuration and color options. $150 Off M5 MacBook Air 15″ 15″ ... Read More The post De…"
+        },
+        {
+          "title": "Apple's M5 15-inch MacBook Air dips to $1,399 at Amazon",
+          "url": "https://appleinsider.com/articles/26/09/28/apples-m5-15-inch-macbook-air-dips-to-1399-at-amazon",
+          "source": "AppleInsider News",
+          "published_at": "2026-09-28T15:09:10.000Z",
+          "image": "https://media.appleinsider.com/gallery/69141-145793-m5-macbook-air-1399-deal-xl.jpg",
+          "description": "Amazon continues to unveil month-end deals, with Apple's M5 15-inch MacBook Air falling to $1,399, and upgraded models up to $150 off. Grab month-end MacBook Air deals at Amazon - Image credit: Apple If you're looking for the lowest 15-inch MacBook Air price, Amazon's month-end $1,399 deal is worth…"
+        }
+      ],
+      "summary": "Amazon is offering discounts on Apple’s M5 MacBook Air and MacBook Pro models, as well as the 2026 Studio Display. Reported price cuts include up to $600 on a MacBook Pro and $150 on a MacBook Air."
+    },
+    {
+      "id": "topic_d343afe9d320c635",
+      "title": "AI Security Agent Finds Android Vulnerabilities",
+      "headline": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "label": [
+        "source",
+        "open",
+        "donating",
+        "security",
+        "agents",
+        "ai"
+      ],
+      "category": "new",
+      "theme": "theme_cf6a8a6b7abc52cd",
+      "entities": [
+        "Donating",
+        "Android",
+        "AI",
+        "Nvidia",
+        "Answer"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "The latest security news for developers - The GitHub Blog",
+          "published_at": "2026-09-28T19:00:00.000Z",
+          "description": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog."
+        },
+        {
+          "title": "Donating to open source",
+          "url": "https://entropicthoughts.com/open-source-donation",
+          "source": "Entropic Thoughts",
+          "published_at": "2026-09-28T22:00:00.000Z",
+          "description": "I have decided to start donating a small amount of my fun money to open source projects. After some research, the initial set of recipients are Magit Perl 5 Core Maintenance Fund XMonad (Continue reading the full article on the web.)"
+        },
+        {
+          "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+          "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system",
+          "source": "Business Latest",
+          "published_at": "2026-09-28T09:00:00.000Z",
+          "image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg",
+          "description": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment."
+        }
+      ],
+      "summary": "A report describes how an open-source AI security agent found 24 Android vulnerabilities using targeted task flows. It outlines how others can run the agent on their own applications."
+    },
+    {
+      "id": "topic_2c9a3394b7fd4e43",
+      "title": "Security Advisories Cover SharePoint, VHD Driver and NetScaler Flaws",
+      "headline": "CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660",
+      "label": [
+        "execution",
+        "code",
+        "remote",
+        "vulnerability",
+        "cve",
+        "netscaler"
+      ],
+      "category": "new",
+      "theme": "theme_1aa6dd3fe1a6fce1",
+      "entities": [
+        "CC",
+        "Exploitation",
+        "Microsoft SharePoint Remote Code",
+        "Execution Vulnerability CVE",
+        "CVE"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "CC-4859 - Exploitation of Microsoft SharePoint Remote Code Execution Vulnerability CVE-2026-65660",
+          "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4859",
+          "source": "Cyber Alert Feed",
+          "published_at": "2026-09-28T12:55:00.000Z",
+          "description": "Severity: Medium Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to execute code on the server Exploitation of CVE-2026-65660 could allow an authenticated attacker with low-level access to an affected server the ability to…"
+        },
+        {
+          "title": "CVE-2026-81355 Virtual Hard Disk (VHD) Miniport Driver Remote Code Execution Vulnerability",
+          "url": "https://msrc.microsoft.com/update-guide/vulnerability/cve-2026-81355",
+          "source": "MSRC Security Update Guide",
+          "published_at": "2026-09-28T14:00:00.000Z",
+          "description": "Updated an acknowledgement. This is an informational change only."
+        },
+        {
+          "title": "Multiple Vulnerabilities in NetScaler ADC and NetScaler Gateway Could Allow for Remote Code Execution",
+          "url": "https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-netscaler-adc-and-netscaler-gateway-could-allow-for-remote-code-execution_2026-103",
+          "source": "Cyber Security Advisories - MS-ISAC",
+          "published_at": "2026-09-28T14:15:14.000Z",
+          "description": "Multiple vulnerabilities have been discovered in NetScaler ADC and NetScaler Gateway, the most severe of which could allow for remote code execution. NetScaler ADC is a networking product that functions as an Application Delivery Controller (ADC), optimizing, securing, and ensuring reliable availab…"
+        }
+      ],
+      "summary": "Security notices describe a SharePoint remote-code-execution vulnerability, a VHD miniport driver vulnerability, and multiple NetScaler vulnerabilities. The notices provide separate details about potential impacts and exploitation conditions."
+    },
+    {
+      "id": "topic_40285f9b003b953c",
+      "title": "Five Men Bailed After Arrest Near UK Air Base",
+      "headline": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+      "label": [
+        "run",
+        "base",
+        "near",
+        "bailed",
+        "arrested",
+        "police"
+      ],
+      "category": "ongoing",
+      "theme": "theme_1267ea8e57bd2d6b",
+      "entities": [
+        "UK",
+        "Iran",
+        "US",
+        "Men Released On Bail",
+        "After Arrest Near"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+          "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+          "source": "NPR Topics: World",
+          "published_at": "2026-09-28T10:51:25.000Z",
+          "description": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups."
+        },
+        {
+          "title": "5 men arrested near a US-run air base are bailed as UK police probe whether there’s a link to Iran",
+          "url": "https://www.seattletimes.com/nation-world/nation/british-police-investigate-whether-arrests-near-us-run-air-base-foiled-an-iran-linked-attack",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-09-28T08:12:10.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/09/09282026_Fairford_tzr_054938.jpg?d=1200x630",
+          "description": "British police say that five men arrested under counterterrorism laws near a U.S.-run air base in England will be released on bail but are still under investigation."
+        },
+        {
+          "title": "5 Men Released On Bail After Arrest Near U.S.-Run Air Base In England, Police Say",
+          "url": "https://www.huffpost.com/entry/five-men-released-us-air-base-england-police-counterterrorism_n_6aba83a8e4b00588e1d560e5",
+          "source": "World News",
+          "published_at": "2026-09-28T15:23:26.000Z",
+          "description": "British police say the five men are still under investigation after being arrested under counterterrorism laws outside a base used by American bombers."
+        }
+      ],
+      "summary": "Five men arrested under counterterrorism laws near a U.S.-run air base in England have been released on bail while the investigation continues. Police are examining possible links to Iran, Russia, or non-state militant groups."
+    }
+  ]
+}

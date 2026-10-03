@@ -1,36 +1,30 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T21:54:53.387Z",
+  "generated_at": "2026-10-03T08:13:30.602Z",
   "overview": {
     "points": [
       {
-        "text": "Russia warned it could use nuclear weapons if NATO members tried to cut off Kaliningrad, accusing the alliance of risking direct conflict.",
-        "stories": [
-          4
-        ]
-      },
-      {
-        "text": "The US military completed its withdrawal from Iraq, ending its mission there against the Islamic State and relocating its headquarters to Jordan.",
+        "text": "The US military completed its withdrawal from Iraq, ending its 12-year mission against the Islamic State and relocating its headquarters to Jordan.",
         "stories": [
           10
         ]
       },
       {
-        "text": "UK Prime Minister Andy Burnham said Iran may have played a part in an incident near RAF Fairford; five men arrested on suspicion of explosives offenses were released on bail.",
+        "text": "Russia warned it could use its full range of capabilities, including nuclear weapons, if NATO countries tried to cut off Kaliningrad.",
         "stories": [
-          7
+          4
         ]
       },
       {
-        "text": "A Flydubai flight from Dubai to Israel made an emergency landing in Saudi Arabia after reports of a cockpit fight and emergency alert.",
+        "text": "A Flydubai flight bound for Israel made an emergency landing in Saudi Arabia after an onboard incident and distress signals; reports described a fight between the pilots.",
         "stories": [
           1
         ]
       },
       {
-        "text": "Burnham said the UK should consider options including rejoining the EU, with the government set to outline options at a November summit.",
+        "text": "UK Prime Minister Andy Burnham said there were strong indications Iran played a part in an incident near RAF Fairford, where five men were arrested and later released on bail.",
         "stories": [
-          11
+          7
         ]
       }
     ]
@@ -54,8 +48,8 @@
         "Israel",
         "Saudi Arabia",
         "FlyDubai",
-        "Israeli",
-        "Flydubai"
+        "Flydubai",
+        "Israeli"
       ],
       "article_count": 14,
       "source_count": 13,
@@ -77,19 +71,19 @@
           "description": "A commercial plane travelling from Dubai in the United Arab Emirates to Israel was forced to make an emergency landing in Saudi Arabia on Wednesday, briefly raising concerns about a possible hijacking and prompting Israel to scramble warplanes. Israeli media, citing security officials, said the inc…"
         },
         {
+          "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-09-30T10:29:39.000Z",
+          "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia."
+        },
+        {
           "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says",
           "url": "https://www.dailymaverick.co.za/article/2026-09-30-israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots-israeli-official-says",
           "source": "Daily Maverick - Latest News",
           "published_at": "2026-09-30T11:53:48.000Z",
           "image": "https://cdn.dailymaverick.co.za/i/uocBVKamHZoMnJQ9UKnjcpjP_Eg=/800x0/smart/filters:strip_exif()/file/attachments/2998/10315418_811873.jpg",
           "description": "A flight bound for Israel from the United Arab Emirates diverted to Saudi Arabia after transmitting emergency signals following a fight between the pilots, an Israeli official said on Wednesday."
-        },
-        {
-          "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-09-30T10:29:39.000Z",
-          "description": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia."
         },
         {
           "title": "Commercial flight from Dubai to Israel diverted to Saudi Arabia after distress call",
@@ -100,11 +94,11 @@
           "description": "The diverted flight briefly raised concerns about a possible hijacking"
         }
       ],
-      "summary": "A Flydubai flight traveling from Dubai to Israel made an emergency landing in Saudi Arabia after an onboard cockpit incident. Reports described a fight between the pilots and an emergency alert."
+      "summary": "A Flydubai flight traveling from Dubai to Israel made an emergency landing in Saudi Arabia after an onboard incident and distress signals. Reports described a fight between the pilots and briefly raised concerns about a possible hijacking."
     },
     {
       "id": "topic_a3d55ed9189c9e34",
-      "title": "Bear Backpack Wins Alaska’s Fat Bear Week",
+      "title": "Backpack Wins Alaska’s Fat Bear Week",
       "headline": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
       "label": [
         "bear",
@@ -164,11 +158,11 @@
           "description": "Gentle giant Backpack wins Alaska’s Fat Bear Week Al Jazeera Gentle giant ‘Backpack’ declared winner of Alaska’s Fat Bear Week NBC News The fattest bear in Alaska? 'Backpack' takes 2026 Fat Bear title Yahoo Fat Bear Week: Backpack packs on pounds to be crowned champion The Times Backpack Is the Fat…"
         }
       ],
-      "summary": "Backpack won the annual Fat Bear Week competition at Katmai National Park, defeating a bear known as 910 in the final round. The contest celebrates the park’s brown bears."
+      "summary": "Backpack won Alaska’s Fat Bear Week after defeating a bear known as 910 in the final round. The annual competition celebrates brown bears at Katmai National Park, and Backpack had previously survived a serious injury."
     },
     {
       "id": "topic_d7a5b1f6f60761bf",
-      "title": "Ken Griffin Pledges $3 Billion to Carnegie Mellon University",
+      "title": "Ken Griffin Pledges $3 Billion to Carnegie Mellon",
       "headline": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
       "label": [
         "mellon",
@@ -229,11 +223,11 @@
           "description": "Ken Griffins USD billion gift brings Carnegie Mellon campus to Miami"
         }
       ],
-      "summary": "Citadel CEO Ken Griffin pledged $3 billion to Carnegie Mellon University, including $2 billion for a new campus in Miami. The campus is expected to host more than 3,500 students."
+      "summary": "Citadel CEO Ken Griffin has pledged $3 billion to Carnegie Mellon University, including $2 billion for a new Miami campus. Plans for the campus include more than 3,500 students, 300 faculty members and 600 staff positions."
     },
     {
       "id": "topic_29f0e839867844d1",
-      "title": "Russia Warns NATO It Could Use Nuclear Weapons Over Kaliningrad",
+      "title": "Russia Warns NATO Against Attempts to Cut Off Kaliningrad",
       "headline": "Russia sends nuclear warning to NATO as tensions rise in Baltic",
       "label": [
         "nuclear",
@@ -293,11 +287,11 @@
           "description": "Russia has warned Nato it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea. In a document sent to Nato and seen by Reuters, Moscow accused the alliance of a “dangerous and reckless course” that entail…"
         }
       ],
-      "summary": "Russia warned NATO that it could use nuclear weapons if alliance members tried to cut off Kaliningrad. Moscow accused the alliance of pursuing a dangerous course that risked direct conflict."
+      "summary": "Russia warned NATO that it could use its full range of capabilities, including nuclear weapons, if alliance countries tried to cut off Kaliningrad. Moscow accused NATO of pursuing a course that risks direct armed conflict."
     },
     {
       "id": "topic_64f505985bc3b600",
-      "title": "Chad Lowe and Kim Painter Announce Death of Daughter Fiona",
+      "title": "Chad Lowe and Kim Painter Announce Daughter’s Death at 13",
       "headline": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
       "label": [
         "fiona",
@@ -423,11 +417,11 @@
           "description": "Customers can make payments across merchants using their iPhone, Apple Watch and iPad, with support for Mac coming soon"
         }
       ],
-      "summary": "Apple Pay has launched in India, initially with support for select bank cards. Customers can use compatible Apple devices to make contactless payments, with support from some major banks still pending."
+      "summary": "Apple Pay has launched in India, allowing users to make contactless payments with supported Apple devices. The service is initially available with select bank cards, with some major banks not participating at launch."
     },
     {
       "id": "topic_a3268531976dfcc7",
-      "title": "UK Prime Minister Says Iran May Have Played Part in Fairford Incident",
+      "title": "UK Prime Minister Says Iran May Be Linked to Fairford Incident",
       "headline": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
       "label": [
         "base",
@@ -438,7 +432,7 @@
         "uk"
       ],
       "category": "new",
-      "theme": "theme_4f4b465fd510174a",
+      "theme": "theme_ec9599a74a433e90",
       "entities": [
         "UK Believes Iran Played",
         "Part",
@@ -489,7 +483,7 @@
           "description": "UK Prime Minister Andy Burnham says Iran played a part in the security incident near an air force base."
         }
       ],
-      "summary": "UK Prime Minister Andy Burnham said there were strong indications Iran played a part in an incident near RAF Fairford. Five British men were arrested on suspicion of explosives offenses and planning an act of terror, then released on bail."
+      "summary": "Prime Minister Andy Burnham said there were strong indications that Iran played a part in an incident near RAF Fairford. Five British men were arrested on suspicion of explosives offenses and planning a terror act, then released on bail, according to reports."
     },
     {
       "id": "topic_cc5af5a9c5762d63",
@@ -552,11 +546,11 @@
           "description": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and will now miss the game against Denmark."
         }
       ],
-      "summary": "Cristiano Ronaldo said he had left Portugal’s training camp after coach Jorge Jesus said he would not start against Denmark. Jesus denied there was a rift with the player."
+      "summary": "Cristiano Ronaldo said he had left Portugal’s training camp after coach Jorge Jesus indicated he would not start in the upcoming match against Denmark. Jesus denied there was a rift with the player."
     },
     {
       "id": "topic_abb84ac8728cc6a6",
-      "title": "Apple’s Smart Home Hub Reportedly Set to Launch October 13",
+      "title": "Apple’s Smart Home Hub Reportedly Set for October Launch",
       "headline": "Apple's smart home hub could arrive next month",
       "label": [
         "hub",
@@ -618,7 +612,7 @@
           "description": "Macworld If you’ve been saving up to get an iPhone Duo when it launches on October 23, you might need to scrounge together a few more dollars. According to a new report from Bloomberg’s Mark Gurman, Apple is gearing up to make its “long-delayed push into the smart-home market” before its new foldin…"
         }
       ],
-      "summary": "Apple’s long-awaited smart home hub is reportedly set to launch October 13. Reports describe a device with a six-inch display, potentially arriving alongside a new HomePod mini and Apple TV."
+      "summary": "Apple is reportedly preparing to launch a smart home hub with a six-inch display on October 13. Reports also say a new HomePod mini and Apple TV could be announced around the same time."
     },
     {
       "id": "topic_6692ef9db1f7eef3",
@@ -684,11 +678,11 @@
           "description": "No longer a caliphate Donald Trump announces withdrawal of last US troops from Iraq"
         }
       ],
-      "summary": "The US military said it had completed its withdrawal from Iraq, ending its mission there against the Islamic State. Its headquarters has been relocated to Jordan."
+      "summary": "The US military said it had completed its withdrawal from Iraq, ending its mission there against the Islamic State after 12 years. Its headquarters has relocated to Jordan, according to reports."
     },
     {
-      "id": "topic_a6a2fb9d3a45c46a",
-      "title": "UK Prime Minister Says Rejoining EU Should Be Considered",
+      "id": "topic_15519da572360e27",
+      "title": "Burnham Says UK Could Consider Rejoining the European Union",
       "headline": "Burnham says rejoining EU an option for the UK",
       "label": [
         "burnham",
@@ -699,7 +693,7 @@
         "weigh"
       ],
       "category": "new",
-      "theme": "theme_7c5c964160315c23",
+      "theme": "theme_c7082dd70df97824",
       "entities": [
         "Burnham",
         "EU",
@@ -750,11 +744,11 @@
           "description": "Prime Minister Andy Burnham said Britain should consider options for its future relationship with the EU, including rejoining it, saying that Brexit had \"done more harm than good.\""
         }
       ],
-      "summary": "Andy Burnham said the UK should consider options for its long-term relationship with the European Union, including rejoining. He said the government would set out options at a UK-EU summit in November."
+      "summary": "UK Prime Minister Andy Burnham said the country should consider options for its long-term relationship with the European Union, including rejoining. He plans to outline options at a UK-EU summit in November."
     },
     {
       "id": "topic_c8a7e2eb5e0c1df",
-      "title": "Cornell Faces Outside Review Over Handling of Sexual Assault Allegation",
+      "title": "Cornell Faces Outside Review of Sexual Assault Case Handling",
       "headline": "Students at Cornell Divided Over Sexual Assault Investigation",
       "label": [
         "sexual",
@@ -808,11 +802,11 @@
           "description": "Florence Pugh’s press tour for Netflix’s “East of Eden” brought her to “The View,” where co-host Sara Haines brought up the Oscar nominee’s recent social media posts speaking out on the sexual assault case at Cornell University. “Even in modern times, women have to bear the consequences of sexual v…"
         }
       ],
-      "summary": "New York Governor Kathy Hochul called for an outside review of Cornell’s handling of an alleged sexual assault, saying the case raised serious questions about campus culture. Students have been discussing the investigation."
+      "summary": "New York Governor Kathy Hochul called for an outside review of Cornell’s handling of an alleged sexual assault, saying the case raised serious questions about campus culture. Students have been divided over the investigation."
     },
     {
       "id": "topic_15f7941bb85fd160",
-      "title": "Samsung Unveils Galaxy Tab S12+ and S12 Ultra Tablets",
+      "title": "Samsung Unveils Galaxy Tab S12+ and S12 Ultra",
       "headline": "Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut",
       "label": [
         "tab",
@@ -875,7 +869,7 @@
           "description": "The Plus model is back."
         }
       ],
-      "summary": "Samsung announced the Galaxy Tab S12+ and Galaxy Tab S12 Ultra, its latest flagship Android tablets. The models are scheduled to go on sale in select markets in October, with prices starting at $1,199."
+      "summary": "Samsung announced the Galaxy Tab S12+ and Galaxy Tab S12 Ultra, its latest flagship Android tablets. The models are scheduled to go on sale in select markets in October, with prices starting at $1,199 for the S12+."
     },
     {
       "id": "topic_16e3f1e22964b5ce",
@@ -942,7 +936,7 @@
           "description": "The new Fire TV Stick 4K is powered by a quad-core 1.7GHz processor alongside 8GB of internal storage. The media streamer supports Wi-Fi 6, Bluetooth 5.3, and Bluetooth LE wireless, as well as HDR10+, HLG, H.265, H.264, VP9, and AV1 video formats. Read Entire Article"
         }
       ],
-      "summary": "Amazon introduced a thinner, faster Fire TV Stick 4K and a redesigned remote. The device supports Wi-Fi 6 and HDR10+, and is listed at $60, with a promotional price of $30 during a Prime Day event."
+      "summary": "Amazon introduced a slimmer, faster Fire TV Stick 4K with a quad-core processor, 8GB of storage and Wi-Fi 6 support, alongside a new remote. The device is listed at $60, with a promotional price of $30 during Prime Day deals."
     }
   ]
 }

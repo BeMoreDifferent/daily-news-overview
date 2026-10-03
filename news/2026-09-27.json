@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-10-03T08:12:54.563Z",
+  "overview": {
+    "points": [
+      {
+        "text": "U.K. police arrested five men on suspicion of preparing a terrorist act and explosives offenses after vehicles were spotted near RAF Fairford; investigators are examining a possible Iran connection.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "South Africa beat Australia by 32 runs in Johannesburg to secure the ODI series, with centuries from Temba Bavuma and David Miller.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "Team Europe defeated Team World 13-5 to win the Laver Cup after Alexander Zverev beat Learner Tien on the final day.",
+        "stories": [
+          2
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_77627a5608ee3bfb",
+      "title": "Five Arrested Near RAF Fairford in Terrorism Probe",
+      "headline": "British Police Arrest 5 Near Air Base Used By U.S. In Potential Terror Probe",
+      "label": [
+        "near",
+        "base",
+        "arrest",
+        "terror",
+        "air",
+        "probe"
+      ],
+      "category": "new",
+      "theme": "theme_c4f0437f64a73687",
+      "entities": [
+        "British Police Arrest",
+        "Near Air Base Used",
+        "In Potential Terror Probe",
+        "Five",
+        "UK"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "British Police Arrest 5 Near Air Base Used By U.S. In Potential Terror Probe",
+          "url": "https://www.huffpost.com/entry/british-police-arrest-five-air-base-terror-probe_n_6ab9544ee4b0d1543f549e3c",
+          "source": "World News",
+          "published_at": "2026-09-27T17:51:09.000Z",
+          "description": "The men were arrested on suspicion of preparing a terrorist act and explosives offenses after three vans were seen heading to RAF Fairford."
+        },
+        {
+          "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+          "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+          "source": "NPR Topics: World",
+          "published_at": "2026-09-27T21:14:44.000Z",
+          "description": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran."
+        },
+        {
+          "title": "Five arrested near UK-US base in Iran terror probe",
+          "url": "https://www.salon.com/2026/09/27/five-arrested-near-uk-us-base-in-iran-terror-probe",
+          "source": "Salon.com",
+          "published_at": "2026-09-27T20:42:57.000Z",
+          "image": "https://www.salon.com/app/uploads/2026/09/GettyImages-2297371405.jpg",
+          "description": "Investigators are examining a possible Iran connection after suspicious vehicles were stopped near RAF Fairford"
+        },
+        {
+          "title": "U.K. police arrest 5 men near air base, suspected of preparing terror act",
+          "url": "https://globalnews.ca/news/12074940/explosives-arrests-air-base-us-uk-counterterror-police",
+          "source": ": World",
+          "published_at": "2026-09-27T13:11:46.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/09/uk-explosives-arrests.jpg?quality=65&strip=all",
+          "description": "Police said Sunday that the men were detained on suspicion of offenses under the Explosives Act, and that army bomb-disposal experts were examining several vehicles."
+        }
+      ],
+      "summary": "U.K. police arrested five men on suspicion of preparing a terrorist act and explosives offenses after three vehicles were spotted near RAF Fairford. Army bomb-disposal experts examined several vehicles, and investigators are examining a possible Iran connection."
+    },
+    {
+      "id": "topic_ef86ee7144ae49b6",
+      "title": "Team Europe Wins Laver Cup After Zverev’s Final-Day Victory",
+      "headline": "Zverev comeback leads Europe to Laver Cup victory",
+      "label": [
+        "europe",
+        "laver",
+        "cup",
+        "zverev",
+        "lead",
+        "victory"
+      ],
+      "category": "new",
+      "theme": "theme_e85f385ee3378911",
+      "entities": [
+        "Zverev",
+        "Europe",
+        "Laver Cup",
+        "Alcaraz",
+        "ATP"
+      ],
+      "article_count": 5,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Zverev comeback leads Europe to Laver Cup victory",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo",
+          "source": "BBC Sport",
+          "published_at": "2026-09-27T16:55:10.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d10/live/87b8fae0-ba90-11f1-8b67-d15ca96e4c99.jpg",
+          "description": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day."
+        },
+        {
+          "title": "Alcaraz helps Europe to 3-1 Laver Cup lead after opening day",
+          "url": "https://www.espn.com/tennis/story/_/id/50029830/alcaraz-mensik-doubles-win-gives-team-europe-3-1-laver-cup-lead-team-world",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-09-27T13:31:06.000Z",
+          "description": "Team Europe took a 3-1 lead over Team World on Friday's opening day of the Laver Cup after Carlos Alcaraz and Jakub Mensik sealed the final point with a doubles victory in London."
+        },
+        {
+          "title": "ATP roundup: Alexander Zverev, Europe sail to Laver Cup victory",
+          "url": "http://www.hongkongnews.net/news/279335947/atp-roundup-alexander-zverev-europe-sail-to-laver-cup-victory",
+          "source": "www.hongkongnews.net latest rss headlines",
+          "published_at": "2026-09-27T20:05:12.000Z",
+          "description": "(Photo credit: Geoff Burke) World No. 2 Alexander Zverev of Germany finished off Learner Tien 7-6 (3), 6-3, and Team Europe clinched a dominant 13-5 win over Team World at the Laver Cup on Sunday in London. Europe led the competition 7-5 after two days, and each match was worth three points on the…"
+        }
+      ],
+      "summary": "Team Europe defeated Team World 13-5 to win the Laver Cup. Alexander Zverev beat Learner Tien on the final day to clinch the title."
+    },
+    {
+      "id": "topic_7b8a45783531900d",
+      "title": "South Africa Beats Australia to Win ODI Series",
+      "headline": "Superb South Africa seal series win over Australia",
+      "label": [
+        "africa",
+        "south",
+        "series",
+        "win",
+        "seal",
+        "australia"
+      ],
+      "category": "new",
+      "theme": "theme_390dd72f636ec7a",
+      "entities": [
+        "Superb South Africa",
+        "Australia",
+        "Miller",
+        "Bavuma",
+        "South Africa"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Superb South Africa seal series win over Australia",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o",
+          "source": "BBC Sport",
+          "published_at": "2026-09-27T16:39:52.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/ed4373f0-ba8a-11f1-8b67-d15ca96e4c99.jpg",
+          "description": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg."
+        },
+        {
+          "title": "Miller, Bavuma, spinners seal South Africa's series win",
+          "url": "https://www.cricinfo.com/ci/content/story/1555929.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-09-27T17:35:48.000Z",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423124.jpg",
+          "description": "Ellis suffered a side injury and bowled just four overs, leaving Australia's attack depleted"
+        },
+        {
+          "title": "South Africa power to ODI series win as Australia’s middle order struggles again",
+          "url": "https://www.theguardian.com/sport/2026/sep/27/south-africa-australia-second-mens-cricket-odi-report",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-09-27T17:17:57.000Z",
+          "image": "https://i.guim.co.uk/img/media/5e7c0c0703ccdd8c205a94bc469b78b51faf0e16/203_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=0891278831c3cbb2d46bdd44a3d31362",
+          "description": "Bavuma and Miller smash centuries in second ODI Australia batters fall 32 runs short despite strong start Temba Bavuma and David Miller both struck centuries as South Africa defeated Australia by 32 runs in the ⁠second one-day international in Johannesburg, securing victory in the three-match serie…"
+        }
+      ],
+      "summary": "South Africa defeated Australia by 32 runs in the second ODI in Johannesburg to secure the series. Centuries from Temba Bavuma and David Miller set up the win."
+    }
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-03T08:13:50.678Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Christa Pike was hospitalized after surviving two doses during a failed lethal injection attempt in Tennessee.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "An international law enforcement operation seized KillSec’s servers and leak site, leading to three arrests; authorities said the group targeted hundreds of victims.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "A SpaceX Falcon 9 launched four astronauts to the International Space Station, with Jessica Watkins leading the crew as the first Black woman to do so.",
+        "stories": [
+          10
+        ]
+      },
+      {
+        "text": "A critical authentication-bypass flaw in Cisco Catalyst SD-WAN Manager is being exploited to gain administrator access; Cisco says it has fixed the flaw.",
+        "stories": [
+          11
+        ]
+      },
+      {
+        "text": "High school protests over overcrowded classes and teacher shortages have spread across France, prompting the prime minister to convene a crisis meeting.",
+        "stories": [
+          13
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_395b535f8b8ce429",
+      "title": "Christa Pike Survives Failed Tennessee Lethal Injection Attempt",
+      "headline": "Christa Pike's execution failed. Here's how lethal injection works",
+      "label": [
+        "christa",
+        "pike",
+        "lethal",
+        "injections",
+        "execution",
+        "surviving"
+      ],
+      "category": "trending",
+      "theme": "theme_2f59e0693953e22f",
+      "entities": [
+        "Christa Pike",
+        "US",
+        "How Did Christa Pike",
+        "Survive Two Lethal Injections",
+        "Pentobarbital"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Christa Pike's execution failed. Here's how lethal injection works",
+          "url": "https://www.axios.com/2026/10/01/christa-pike-lethal-injections-drugs-pentobarbital",
+          "source": "Axios",
+          "published_at": "2026-10-01T18:49:38.000Z",
+          "image": "https://images.axios.com/2PIG-Ocv3JXoWPDDHUzJ95TWUog=/1366x768/smart/2025/03/11/174311-1741714991653.jpg",
+          "description": "Lethal injections are under scrutiny after Christa Pike survived two rounds of drugs during Tennessee's failed attempt to execute her. Why it matters: Lethal injection has been the dominant U.S. execution method for decades, accounting for roughly 89% of the 1,683 executions carried out since 1976,…"
+        },
+        {
+          "title": "US death row inmate Christa Pike in hospital after surviving two lethal injections, lawyers say",
+          "url": "https://www.euronews.com/2026/10/01/us-death-row-inmate-christa-pike-in-hospital-after-surviving-two-lethal-injections-lawyers",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-01T05:31:26.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/93/46/21/696x392_cmsv2_c9188931-4094-548e-9b69-5a3fbbf1d4b2-9934621.jpg",
+          "description": "Pike was 18 when she and her boyfriend beat and killed Colleen Slemmer, 19, at a job training camp for young people."
+        },
+        {
+          "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+          "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+          "source": "NYT > Health",
+          "published_at": "2026-10-01T22:30:28.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+          "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
+        },
+        {
+          "title": "Christa Pike Hospitalized After Surviving 2 Lethal Injection Doses in Tennessee",
+          "url": "https://truthout.org/articles/christa-pike-hospitalized-after-surviving-2-lethal-injection-doses-in-tennessee",
+          "source": "Truthout",
+          "published_at": "2026-10-01T17:42:10.000Z",
+          "description": "This represents the second failed attempt at an execution via lethal injection in Tennessee this year alone."
+        },
+        {
+          "title": "What we know about Christa Pike’s condition after failed execution",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po",
+          "source": "BBC News",
+          "published_at": "2026-10-01T20:09:34.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae55/live/83794cf0-bdd3-11f1-babe-4199b0e7ccea.jpg",
+          "description": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts."
+        }
+      ],
+      "summary": "Christa Pike was hospitalized after surviving two doses during a failed execution attempt in Tennessee. Experts cited in reports said the catheter may not have delivered the drugs into her bloodstream or the drug may have degraded."
+    },
+    {
+      "id": "topic_a83b7d840271e86e",
+      "title": "Gears of War: E-Day Reviews Praise Campaign Ahead of Launch",
+      "headline": "Gears Of War: E-Day Review In Progress",
+      "label": [
+        "gears",
+        "war",
+        "day",
+        "review",
+        "progress",
+        "campaign"
+      ],
+      "category": "new",
+      "theme": "theme_e209fe70a6f031db",
+      "entities": [
+        "Gears Of War",
+        "Day Review In Progress",
+        "Gears",
+        "War",
+        "Day"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Gears Of War: E-Day Review In Progress",
+          "url": "https://gameinformer.com/review-in-progress/2026/10/01/gears-of-war-e-day-review-in-progress",
+          "source": "Game Informer",
+          "published_at": "2026-10-01T13:00:00.000Z",
+          "image": "https://gameinformer.com/sites/default/files/styles/body_default/public/2026/09/30/eab1b5d0/05_gow_eday_playslikenew_4k.jpg.webp",
+          "description": "The last time we played through a new mainline Gears of War game was 2019, which feels like a lifetime ago. In that time, The Coalition has been churning away at Gears of War: E-Day, a prequel story to the original Gears of War games. Marcus Fenix and Dom Santiago stepping back into the spotlight a…"
+        },
+        {
+          "title": "Gears of War: E-Day campaign review - A spectacular first act",
+          "url": "https://www.pcgamesn.com/gears-of-war-e-day/campaign-review",
+          "source": "PCGamesN",
+          "published_at": "2026-10-01T13:00:00.000Z",
+          "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/gears-e-day-main-1-1.jpg",
+          "description": "The Gears of War: E-Day campaign is a great modernization of the series, with a spectacular first hour than no Gears or shooter fan should miss."
+        },
+        {
+          "title": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-10-01T13:00:33.000Z",
+          "image": "https://assetsio.gnwcdn.com/gears-review-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+          "description": "\"Look ma, no face,\" growls Marcus Fenix as I land a headshot on an Elite Sniper from across the map. The foley, wet with viscera and meat, drips and gloops in my ears. A nearby Locust roars its outrage, a chainsaw revs up to my left, and there's a big meaty slap of muscle on flesh as a Drone ambush…"
+        },
+        {
+          "title": "How Long Is Gears of War: E-Day – Mission List And Hours Played",
+          "url": "https://www.gamespot.com/articles/how-long-is-gears-of-war-e-day-mission-list-and-hours-played",
+          "source": "GameSpot - All News",
+          "published_at": "2026-10-01T13:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day.jpg?w=300",
+          "description": "Gears of War: E-Day is almost here--unless you're hopping in a few days early with the Premium Edition--and if you're looking to try out the campaign, you can settle in for a few days of action and chainsaw executions. While Gears of War: E-Day is primarily a linear cover-based shooter, the game al…"
+        },
+        {
+          "title": "Gears of War: E-Day is Available in Early Access Today, Watch the Launch Gameplay Trailer",
+          "url": "https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox",
+          "source": "XBOX Wire",
+          "published_at": "2026-10-01T15:00:00.000Z",
+          "description": "Today, Gears of War: E-Day Early Access begins for Premium Edition players and Game Pass subscribers with the Premium Upgrade. To mark the occasion, we’re releasing the Launch Gameplay Trailer, featuring Metallica’s “For Whom the Bell Tolls.” Today is a moment we’ve been looking forward to for a lo…"
+        }
+      ],
+      "summary": "Reviews describe Gears of War: E-Day’s campaign as a strong modernization of the series. Early access has begun for players with the Premium Edition or a Premium Upgrade."
+    },
+    {
+      "id": "topic_9064398d35a1abaa",
+      "title": "International Police Operation Disrupts KillSec Ransomware Group",
+      "headline": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "label": [
+        "ransomware",
+        "killsec",
+        "old",
+        "dismantle",
+        "year",
+        "group"
+      ],
+      "category": "new",
+      "theme": "theme_41f3712e654d9f04",
+      "entities": [
+        "Police",
+        "KillSec",
+        "Operation KillSwitch",
+        "Police Dismantle KillSec Ransomware",
+        "Group"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+          "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old",
+          "source": "BleepingComputer",
+          "published_at": "2026-10-01T14:25:14.000Z",
+          "description": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]"
+        },
+        {
+          "title": "Operation KillSwitch: Police Dismantle KillSec Ransomware Group",
+          "url": "https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html",
+          "source": "Security Affairs",
+          "published_at": "2026-10-01T18:08:47.000Z",
+          "description": "Operation KillSwitch: Europol says the KillSec ransomware group, allegedly led by a 16-year-old, was dismantled after attacks on about 1,000 victims. Law enforcement seized control of KillSec ‘s dark web leak site, the Tor website the group used to threaten victims with publishing stolen files unle…"
+        },
+        {
+          "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+          "source": "darkreading",
+          "published_at": "2026-10-01T21:37:50.000Z",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+          "description": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
+        },
+        {
+          "title": "KillSec Ransomware Group Dismantled, 16-Year-Old Suspected Admin Arrested",
+          "url": "https://hackread.com/killsec-ransomware-group-dismantled-admin-arrested",
+          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
+          "published_at": "2026-10-01T19:57:27.000Z",
+          "description": "An international police operation has disrupted the KillSec ransomware group, with three suspects arrested, five servers seized and…"
+        }
+      ],
+      "summary": "An international law enforcement operation seized KillSec’s servers and data leak site and led to three arrests. Authorities said the group targeted hundreds of victims, and identified a 16-year-old as its alleged leader."
+    },
+    {
+      "id": "topic_b4ff128fd3f6ca6f",
+      "title": "Netanyahu Says Flydubai Co-Pilot Was Religiously Radicalized",
+      "headline": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+      "label": [
+        "co",
+        "netanyahu",
+        "pilot",
+        "islamic",
+        "indoctrination",
+        "radical"
+      ],
+      "category": "new",
+      "theme": "theme_74789003591fd968",
+      "entities": [
+        "Co",
+        "Islamic",
+        "Netanyahu",
+        "Omani",
+        "Netanyahu Says Co"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+          "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-10-01T16:04:48.000Z",
+          "image": "https://i.guim.co.uk/img/media/b870998eeaf70dab6f49c2eb5b9a5b094baf1bde/353_0_2191_1753/master/2191.jpg?width=140&quality=85&auto=format&fit=max&s=1a6672be57d90f57c2b0d6abde159f33",
+          "description": "Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opens The Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai had previously undergone radical Islamist indoctrination and was suicidal…"
+        },
+        {
+          "title": "Netanyahu: Omani co-pilot went through Islamic radicalization",
+          "url": "https://www.axios.com/2026/10/01/netanyahu-flydubai-omani-co-pilot-islamic-radicalization",
+          "source": "Axios",
+          "published_at": "2026-10-01T17:44:42.000Z",
+          "image": "https://images.axios.com/X_yAA2TXNAXhaKu4JeLJ1CkSZ9Q=/0x0:4100x2306/1366x768/2026/10/01/1790864075142.jpeg",
+          "description": "The initial investigation into the attempted hijacking of the FlyDubai flight from the UAE to Israel found that the co-pilot went through religious Islamic radicalization in recent months, Israeli Prime Minister Benjamin Netanyahu told Fox News Thursday. Why it matters: Netanyahu's remarks, confirm…"
+        },
+        {
+          "title": "Netanyahu Says Co-Pilot Of FlyDubai Plane Underwent Radical Islamist Indoctrination",
+          "url": "https://www.huffpost.com/entry/israel-flydubai-attack-investigation_n_6abe2d4ce4b0ecc03a1f099d",
+          "source": "World News",
+          "published_at": "2026-10-01T10:05:22.000Z",
+          "description": "Two Israeli security officials said Israel‘s initial assessment is that the co-pilot, identified by Israeli officials as an Omani national, was likely acting alone."
+        }
+      ],
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said an initial investigation found that the Omani co-pilot of a Flydubai flight had undergone recent Islamist radicalization. Israeli officials said their initial assessment was that he likely acted alone."
+    },
+    {
+      "id": "topic_e14075d0f761aa7e",
+      "title": "Samsung Unveils Clip-On Galaxy Buds On Earphones",
+      "headline": "Here’s the Samsung Galaxy Buds On and Their Features",
+      "label": [
+        "galaxy",
+        "buds",
+        "samsung",
+        "features",
+        "clip",
+        "first"
+      ],
+      "category": "new",
+      "theme": "theme_59938aad32ff1b55",
+      "entities": [
+        "Samsung Galaxy Buds On",
+        "Their Features",
+        "Samsung",
+        "Shokz",
+        "Galaxy Buds"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Here’s the Samsung Galaxy Buds On and Their Features",
+          "url": "https://www.droid-life.com/2026/09/30/heres-the-samsung-galaxy-buds-on-and-their-features",
+          "source": "Droid Life",
+          "published_at": "2026-10-01T00:41:12.000Z",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Galaxy-Buds-On-1-980x646.jpg",
+          "description": "Samsung announced two new devices in the US today, the Galaxy Tab S12 series and the new SmartTag 3. Weirdly, they didn’t mention their long-rumored Galaxy Buds On audio product, at least not here. Just so everyone knows, they did announce the Galaxy Buds On today and we have official imagery for y…"
+        },
+        {
+          "title": "Samsung finally takes on Shokz with first clip-on Galaxy Buds",
+          "url": "https://www.androidcentral.com/accessories/earbuds/samsung-finally-takes-on-shokz-with-its-first-clip-on-galaxy-buds",
+          "source": "Latest from Android Central",
+          "published_at": "2026-10-01T08:09:10.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/4jbs7AgRFrXMQe84vuyECb-1920-80.jpg",
+          "description": "Samsung's Galaxy Buds On abandon the traditional in-ear seal for a clip-on, open-ear design optimized for workout stability and spatial awareness."
+        },
+        {
+          "title": "Samsung Electronics Unveils 'Galaxy Buds On,' Galaxy's First Clip-on Wireless Earphones",
+          "url": "https://www.reddit.com/r/android/comments/1wum1iz/samsung_electronics_unveils_galaxy_buds_on",
+          "source": "Android",
+          "published_at": "2026-10-01T01:00:03.000Z",
+          "image": "https://external-preview.redd.it/kQJrszrk7KfzdLAtVlXaO_5N6wIuHDP89o2W4OtaNQA.jpeg?width=640&crop=smart&auto=webp&s=8e65a022b5f7882cb5f533db391e34a85af572cc",
+          "description": "submitted by /u/FragmentedChicken [link] [comments]"
+        }
+      ],
+      "summary": "Samsung announced the Galaxy Buds On, its first clip-on wireless earphones. The open-ear design is intended to provide workout stability and spatial awareness."
+    },
+    {
+      "id": "topic_560816da150911e4",
+      "title": "HP Launches OmniBook 5 Laptops Starting at $699",
+      "headline": "MacBook Neo’s Next Competitor Is HP’s $700 OmniBook 5",
+      "label": [
+        "hp",
+        "neo",
+        "macbook",
+        "competitor",
+        "omnibook",
+        "plenty"
+      ],
+      "category": "new",
+      "theme": "theme_3ca626c6b506b498",
+      "entities": [
+        "MacBook Neo",
+        "Next Competitor Is HP",
+        "OmniBook",
+        "HP",
+        "OLED"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "MacBook Neo’s Next Competitor Is HP’s $700 OmniBook 5",
+          "url": "https://www.cnet.com/tech/computing/macbook-neos-next-competitor-is-hps-700-omnibook-5",
+          "source": "News – CNET",
+          "published_at": "2026-10-01T13:00:00.000Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/HP-OmniBook-5-14_Lifestyle.png"
+        },
+        {
+          "title": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
+          "url": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches",
+          "source": "9to5Mac",
+          "published_at": "2026-10-01T15:40:02.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HP_20OmniBook_205_2014_Soft_20Honey_20Dew_Front-copy.png?w=1600",
+          "description": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors. Today,…"
+        },
+        {
+          "title": "HP joins the MacBook Neo fight with colorful OmniBook 5 laptops starting at $699",
+          "url": "https://www.techspot.com/news/114064-hp-joins-macbook-neo-fight-colorful-omnibook-5.html",
+          "source": "TechSpot",
+          "published_at": "2026-10-01T18:06:00.000Z",
+          "image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-01-ts3_thumbs-56e.jpg",
+          "description": "The new HP OmniBook 5 is described as a premium consumer Windows laptop for those who \"want more\" from their everyday device. The base model features a 14-inch, 1,920 x 1,200 OLED multi-touch display coated in Gorilla Glass 3 that covers 100% of the DCI-P3 color space. It is driven... Read Entire A…"
+        }
+      ],
+      "summary": "HP’s OmniBook 5 laptops start at $699 and are positioned as competitors to Apple’s MacBook Neo. The base model has a 14-inch OLED touchscreen with a 1,920-by-1,200 resolution."
+    },
+    {
+      "id": "topic_3c6325d7aba81281",
+      "title": "Kena: Scars of Kosmora Delayed to 2027",
+      "headline": "Kena: Scars of Kosmora Delayed to 2027",
+      "label": [
+        "kosmora",
+        "kena",
+        "scars",
+        "delayed",
+        "ember",
+        "lab"
+      ],
+      "category": "new",
+      "theme": "theme_970b1bc4fa1fe9fa",
+      "entities": [
+        "Kena",
+        "Scars",
+        "Kosmora Delayed",
+        "Kosmora",
+        "Ember Lab"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Kena: Scars of Kosmora Delayed to 2027",
+          "url": "https://techgenyz.com/kena-scars-of-kosmora-2027",
+          "source": "Techgenyz",
+          "published_at": "2026-10-01T15:17:19.000Z",
+          "image": "https://techgenyz.com/wp-content/uploads/2026/10/Kena_-Scars-of-Kosmora.webp",
+          "description": "Kena: Scars of Kosmora will no longer launch in 2026. Ember Lab has officially pushed its upcoming action-adventure game into 2027, giving the studio additional time to polish what it describes as a significantly expanded experience. The announcement is more than a release-window change, however. A…"
+        },
+        {
+          "title": "Kena: Scars of Kosmora launches 2027, Ember Lab shares story overview",
+          "url": "https://blog.playstation.com/2026/10/01/kena-scars-of-kosmora-launches-2027-ember-lab-shares-story-overview",
+          "source": "PlayStation.Blog",
+          "published_at": "2026-10-01T11:59:54.000Z",
+          "image": "https://blog.playstation.com/uploads/2028/10/9a75834cd3298836b0bb49983c0bbf69a2f23bfd.mp4",
+          "description": "Since our announcement trailer in February, we’ve been heads down bringing Kena: Scars of Kosmora to the finish line. It’s been exciting to see all the anticipation and passion from fans. We can’t wait to share a new installment of Kena’s story with you! At the same time, we want to deliver a top-n…"
+        }
+      ],
+      "summary": "Ember Lab has pushed the release of Kena: Scars of Kosmora from 2026 to 2027. The studio said it needs more time to polish the action-adventure game."
+    },
+    {
+      "id": "topic_8680dbc04c0fdbe0",
+      "title": "MetaMask Security Incident Prompts Ethereum Validator Exits",
+      "headline": "MetaMask Security Incident: Staking Validators Exited",
+      "label": [
+        "metamask",
+        "exited",
+        "incident",
+        "security",
+        "validators",
+        "staking"
+      ],
+      "category": "new",
+      "theme": "theme_f9342c8024670266",
+      "entities": [
+        "MetaMask Security Incident",
+        "Staking Validators Exited",
+        "MetaMask Security Incident Prompts",
+        "Exit",
+        "Affected Ethereum Validators"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "MetaMask Security Incident: Staking Validators Exited",
+          "url": "https://www.cyberkendra.com/2026/10/metamask-security-incident-staking-validators-exited.html",
+          "source": "Cyber Kendra",
+          "published_at": "2026-10-01T02:09:30.000Z",
+          "description": "MetaMask disclosed on 30 September 2026 that it is responding to an ongoing security incident affecting part of its infrastructure, and that its staking business has begun pulling Ethereum validators out of service as a precaution. In a brief user update, the company said it has found no immediate…"
+        },
+        {
+          "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+          "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-01T05:10:09.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
+          "description": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet…"
+        },
+        {
+          "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+          "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "published_at": "2026-10-01T07:06:30.000Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ef086b18446966ac8edf22c629a6b92f11c0549-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+          "description": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH."
+        }
+      ],
+      "summary": "MetaMask said it is responding to an ongoing security incident affecting part of its infrastructure and is exiting affected Ethereum staking validators. A security researcher estimated that about 0.36 ETH in rewards was diverted; the exits cover validators holding roughly 523,000 ETH."
+    },
+    {
+      "id": "topic_dbba0efad06d41e7",
+      "title": "Rapper Rick Ross Arrested on Battery Allegations",
+      "headline": "Rick Ross arrested on 2 battery charges",
+      "label": [
+        "rick",
+        "ross",
+        "battery",
+        "arrested",
+        "charges",
+        "girlfriend"
+      ],
+      "category": "new",
+      "theme": "theme_2b6388474aeb2d35",
+      "entities": [
+        "Rick Ross",
+        "Rick Ross Is Arrested",
+        "Battery Charges After Ex",
+        "Girlfriend Reports Abuse",
+        "Rapper Rick Ross Arrested"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Rick Ross arrested on 2 battery charges",
+          "url": "https://www.avclub.com/rick-ross-arrested-battery-charges",
+          "source": "AV Club",
+          "published_at": "2026-10-01T21:01:56.000Z",
+          "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/rick-ross-featured.jpg",
+          "description": "The rapper said that he's \"totally innocent\" of the allegations made against him."
+        },
+        {
+          "title": "Rick Ross Is Arrested on Battery Charges After Ex-Girlfriend Reports Abuse",
+          "url": "https://www.nytimes.com/2026/10/01/arts/music/rick-ross-arrested-domestic-violence.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-10-01T17:04:44.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/03/multimedia/01xp-rickross-live-zwpb/01xp-rickross-live-zwpb-mediumSquareAt3X.jpg",
+          "description": "The rapper, whose legal name is William Leonard Roberts, is accused of attacking a woman who was his girlfriend at the time at their home on Aug. 28, the authorities said."
+        },
+        {
+          "title": "Rapper Rick Ross Arrested For Alleged Battery Of Ex-Girlfriend",
+          "url": "https://www.informationng.com/2026/10/rapper-rick-ross-arrested-for-alleged-battery-of-ex-girlfriend.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-10-01T15:37:07.000Z",
+          "description": "Rapper Rick Ross, whose real name is William Roberts II, has been arrested in Miami-Dade County after voluntarily surrendering to police over allegations made by an ex-girlfriend. According to law enforcement sources, the woman contacted police on Tuesday and alleged that Ross became violent toward…"
+        }
+      ],
+      "summary": "Rick Ross was arrested after allegations that he attacked a former girlfriend at their home. He has said he is innocent of the allegations."
+    },
+    {
+      "id": "topic_e9c672c6d4792ffe",
+      "title": "SpaceX Launches Four Astronauts to the International Space Station",
+      "headline": "SpaceX launches crew to ISS",
+      "label": [
+        "spacex",
+        "crew",
+        "iss",
+        "launches",
+        "describes",
+        "surgical"
+      ],
+      "category": "new",
+      "theme": "theme_6d09719cd0b7b3e3",
+      "entities": [
+        "SpaceX",
+        "ISS",
+        "Thanks"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "SpaceX launches crew to ISS",
+          "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo",
+          "source": "BBC News",
+          "published_at": "2026-10-01T16:32:17.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/809f/live/1b9fbe20-bdb5-11f1-babe-4199b0e7ccea.jpg",
+          "description": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station."
+        },
+        {
+          "title": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
+          "source": "Space | The Guardian",
+          "published_at": "2026-10-01T16:22:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/6231a3945ccafdb5e0a1e2229d52219baf56e78e/949_882_3138_2510/master/3138.jpg?width=140&quality=85&auto=format&fit=max&s=6336abfd735538f2ea6830f10a69959c",
+          "description": "Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the space station Four astronauts rocketed into orbit on Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he is away. SpaceX launche…"
+        },
+        {
+          "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+          "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-10-01T22:07:33.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg",
+          "description": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space."
+        }
+      ],
+      "summary": "A SpaceX Falcon 9 launched four astronauts from Cape Canaveral on a mission to the International Space Station, where they are expected to spend up to six months. Jessica Watkins is leading the crew, becoming the first Black woman to do so."
+    },
+    {
+      "id": "topic_a71fb0676003482f",
+      "title": "Cisco SD-WAN Manager Zero-Day Exploited for Administrator Access",
+      "headline": "Cisco says no workaround for exploited SD-WAN Manager flaw",
+      "label": [
+        "sd",
+        "wan",
+        "cisco",
+        "manager",
+        "exploited",
+        "catalyst"
+      ],
+      "category": "ongoing",
+      "theme": "theme_d45f999c27df2fb0",
+      "entities": [
+        "Cisco",
+        "SD",
+        "WAN Manager",
+        "Critical Cisco Catalyst SD",
+        "WAN Zero"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Cisco says no workaround for exploited SD-WAN Manager flaw",
+          "url": "https://www.itnews.com.au/news/cisco-says-no-workaround-for-exploited-sd-wan-manager-flaw-629349",
+          "source": "iTnews",
+          "published_at": "2026-10-01T02:08:00.000Z",
+          "description": "Attackers abuse easy authentication bypass in software."
+        },
+        {
+          "title": "Critical Cisco Catalyst SD-WAN Zero-Day Under Active Exploitation",
+          "url": "https://www.infosecurity-magazine.com/news/critical-cisco-catalyst-sdwan",
+          "published_at": "2026-10-01T14:17:00.000Z",
+          "description": "Vulnerability in Cisco Catalyst SD-WAN Manager allows an unauthenticated, remote attacker to access systems with admin privileges"
+        },
+        {
+          "title": "U.S. CISA adds Cisco Catalyst SD-WAN Manager flaw to its Known Exploited Vulnerabilities catalog",
+          "url": "https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+          "source": "Security Affairs",
+          "published_at": "2026-10-01T08:35:37.000Z",
+          "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Cisco Catalyst SD-WAN Manager flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a Cisco Catalyst SD-WAN Manager flaw, tracked as CVE-2026-76504 (CVSS score of…"
+        },
+        {
+          "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+          "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-01T10:33:16.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVS…"
+        },
+        {
+          "title": "Cisco SD-WAN Manager hit by zero-day admin access attack",
+          "url": "https://www.csoonline.com/article/4229603/cisco-sd-wan-manager-hit-by-zero-day-admin-access-attack-2.html",
+          "source": "CSO Online",
+          "published_at": "2026-10-01T13:36:47.000Z",
+          "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4229603-0-93811700-1790866133-shutterstock_180216653.jpg?quality=50&strip=all",
+          "description": "Cisco’s SD-WAN management software has been letting some attackers walk through an authentication check without having to prove who they are. The company says it has now fixed the flaw that was allowing it. The affected platform, Cisco Catalyst SD-WAN Manager, is used to configure and operate softw…"
+        }
+      ],
+      "summary": "A critical authentication-bypass flaw in Cisco Catalyst SD-WAN Manager is being exploited, allowing unauthenticated remote attackers to gain administrator access. Cisco says it has fixed the flaw, and CISA added it to its Known Exploited Vulnerabilities catalog."
+    },
+    {
+      "id": "topic_d6e66d2a21acb8e9",
+      "title": "Google Releases Gemini 4 Argon to Vetted Cyber Defenders",
+      "headline": "Gemini 4 Argon Starts With Trusted Cyber Defenders Before a Wider Release",
+      "label": [
+        "argon",
+        "defenders",
+        "gemini",
+        "cyber",
+        "trusted",
+        "google"
+      ],
+      "category": "ongoing",
+      "theme": "theme_1e758bdea975515f",
+      "entities": [
+        "Gemini",
+        "Argon Starts With Trusted",
+        "Cyber Defenders Before",
+        "Wider Release",
+        "Google Unveils Gemini"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Gemini 4 Argon Starts With Trusted Cyber Defenders Before a Wider Release",
+          "url": "https://techgenyz.com/gemini-4-argon-trusted-cyber-defenders-wider-release",
+          "source": "Techgenyz",
+          "published_at": "2026-10-01T08:06:14.000Z",
+          "image": "https://techgenyz.com/wp-content/uploads/2026/10/gemini-argon.webp",
+          "description": "Google announced Gemini 4 Argon on September 30, calling it a frontier model engineered for long, complex workflows – real-world software engineering, enterprise knowledge work across legal and finance, and cybersecurity defense. It already runs inside Google, where thousands of Googlers use it for…"
+        },
+        {
+          "title": "Google Unveils Gemini 4 Argon, First for Cyber Defenders",
+          "url": "https://www.cyberkendra.com/2026/10/google-unveils-gemini-4-argon-first-for-cyber-defenders.html",
+          "source": "Cyber Kendra",
+          "published_at": "2026-10-01T04:03:17.000Z",
+          "description": "On 30 September 2026, Google announced Gemini 4 Argon, its new frontier AI model, and is releasing it first to vetted cybersecurity defenders through its Fairwind Program rather than to the public. The model leads OpenAI’s GPT-6 Astra and Anthropic’s Claude Opus 5.5 and Claude Fable 5.1 on most of…"
+        },
+        {
+          "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+          "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-01T07:49:36.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg",
+          "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, ent…"
+        }
+      ],
+      "summary": "Google announced Gemini 4 Argon, a frontier AI model, and is initially making it available to vetted cybersecurity defenders through its Fairwind Program. The company described it as designed for complex workflows, including software engineering and enterprise work."
+    },
+    {
+      "id": "topic_738ac9e7210b060c",
+      "title": "Student Protests Over School Conditions Spread Across France",
+      "headline": "Why are students protesting at schools in France?",
+      "label": [
+        "student",
+        "protests",
+        "france",
+        "schools",
+        "violent",
+        "loom"
+      ],
+      "category": "ongoing",
+      "theme": "theme_ef346988d1903a6b",
+      "entities": [
+        "France",
+        "Violent Student Protests Loom",
+        "Over France",
+        "Budget Proposal",
+        "PM"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "Why are students protesting at schools in France?",
+          "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o",
+          "source": "BBC News",
+          "published_at": "2026-10-01T12:31:18.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a0/live/d4becb50-bd90-11f1-babe-4199b0e7ccea.jpg",
+          "description": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France."
+        },
+        {
+          "title": "Violent Student Protests Loom Over France’s Budget Proposal",
+          "url": "https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-student-protests-lecornu-macron",
+          "source": "Foreign Policy",
+          "published_at": "2026-10-01T21:26:25.000Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/FranceProtestsBudget-GettyImages-2297475032.jpg",
+          "description": "Paris is hoping to rein in the country’s deficit and avoid another no-confidence vote."
+        },
+        {
+          "title": "France gripped by spreading student protests as PM calls crisis meeting",
+          "url": "https://www.seattletimes.com/nation-world/world/france-gripped-by-spreading-student-protests-as-pm-calls-crisis-meeting",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-10-01T14:42:03.000Z",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/10/urnpublicidap.org0d1dc395f7e69ebcd115eca632c6165dAPTOPIX_France_High_School_Protests_55769.jpg?d=1200x630",
+          "description": "France's prime minister has convened a crisis meeting to address nationwide protests by high school students."
+        }
+      ],
+      "summary": "High school student protests have spread across France over overcrowded classes and teacher shortages. The prime minister convened a crisis meeting as the demonstrations grew."
+    },
+    {
+      "id": "topic_ce9bd4554d1d03eb",
+      "title": "Tom Cruise’s Film Digger Draws Mixed Reviews",
+      "headline": "‘Digger’ Review: Even Tom Cruise Can’t Save This Strained Satire",
+      "label": [
+        "cruise",
+        "tom",
+        "palooza",
+        "digger",
+        "review",
+        "strained"
+      ],
+      "category": "ongoing",
+      "theme": "theme_7cdb314ef6dc0349",
+      "entities": [
+        "Tom Cruise",
+        "Palooza",
+        "Digger",
+        "Review",
+        "Even Tom Cruise Can"
+      ],
+      "article_count": 3,
+      "source_count": 3,
+      "articles": [
+        {
+          "title": "‘Digger’ Review: Even Tom Cruise Can’t Save This Strained Satire",
+          "url": "https://www.nytimes.com/2026/10/01/movies/digger-review-tom-cruise-alejandro-inarritu.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-10-01T09:02:06.000Z",
+          "description": "Though mightily he does try. The star brings his usual high energy to the role of a Texas oil tycoon in Alejandro G. Iñárritu’s ponderous climate comedy."
+        },
+        {
+          "title": "Tom Cruise-a-Palooza",
+          "url": "https://www.newyorker.com/podcast/critics-at-large/tom-cruise-a-palooza",
+          "source": "Everything",
+          "published_at": "2026-10-01T10:00:00.000Z",
+          "image": "https://media.newyorker.com/photos/650b59e2f49b447c4924fa7b/master/pass/CAL-WEB.png",
+          "description": "Iconic roles and death-defying stunts have made Tom Cruise’s name synonymous with movie magic. In “Digger,” he breaks his action streak to show us something new—for better or for worse."
+        },
+        {
+          "title": "Review: 'Digger' - Tom Cruise Digs Deep Into Climate Change Idiocy",
+          "url": "https://www.firstshowing.net/2026/review-digger-tom-cruise-digs-deep-into-climate-change-idiocy",
+          "source": "FirstShowing.net",
+          "published_at": "2026-10-01T13:00:38.000Z",
+          "description": "\"When all else fails, you hit 'em with the truth. Hit 'em with the hard truth. Just bang, bang, bang!\" Yep. Get the truth out there, never be afraid to say it. But will the truth piss off people? Will it upset viewers? Of course it will! That is why the truth is so scary. Unless, like Digger Rockwe…"
+        }
+      ],
+      "summary": "Tom Cruise stars as a Texas oil tycoon in Digger, a climate-focused satire directed by Alejandro G. Iñárritu. Reviews described the film as strained and ponderous, while noting Cruise’s energetic performance."
+    },
+    {
+      "id": "topic_6b1cc05c69889ba2",
+      "title": "Early Deals Arrive Ahead of Amazon’s October Prime Day Sale",
+      "headline": "These Are the Best October Prime Day Deals on Power Banks",
+      "label": [
+        "prime",
+        "day",
+        "deals",
+        "best",
+        "october",
+        "sale"
+      ],
+      "category": "ongoing",
+      "theme": "theme_b0949aa14267b475",
+      "entities": [
+        "These Are",
+        "Best October Prime Day",
+        "Deals",
+        "Power Banks",
+        "Best Laptop Deals From"
+      ],
+      "article_count": 12,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "These Are the Best October Prime Day Deals on Power Banks",
+          "url": "https://lifehacker.com/tech/best-power-bank-deals-early-october-prime-day-2026",
+          "source": "Lifehacker",
+          "published_at": "2026-10-01T13:30:00.000Z",
+          "image": "https://lifehacker.com/imagery/articles/01M3TAKZTS16Z1R58YG0MWMTBQ/hero-image.png",
+          "description": "Here are the best October Prime Day deals on power banks, portable chargers, and battery packs."
+        },
+        {
+          "title": "Do Not Miss These Home Deals During October Prime Day",
+          "url": "https://www.elle.com/fashion/shopping/g73983355/best-amazon-prime-big-deal-days-home-sales-october-2026",
+          "source": "Fashion - ELLE",
+          "published_at": "2026-10-01T22:30:17.000Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/91th363i8hl-ac-sl1500-68dedc253f5de.jpg",
+          "description": "Right this way for record-low prices."
+        },
+        {
+          "title": "18 Best Prime Day Furniture Deals 2026: What to Shop Early Now",
+          "url": "https://www.architecturaldigest.com/story/prime-day-furniture-deals-10-01-2026",
+          "source": "Architectural Digest",
+          "published_at": "2026-10-01T20:05:46.000Z",
+          "image": "https://media.architecturaldigest.com/photos/68e43b7722cd0bce72d1ca33/master/pass/AD1122_CHENG_8%20copy.jpg",
+          "description": "A cheat sheet on what to look out for and shop ahead of Amazon’s fall sale"
+        },
+        {
+          "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+          "url": "https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026",
+          "source": "WIRED",
+          "published_at": "2026-10-01T20:53:32.000Z",
+          "image": "https://media.wired.com/photos/6abeb44859f7d99889340660/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Early%20APD%20Deals%20Update%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+          "description": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends."
+        }
+      ],
+      "summary": "Deal guides highlight early discounts and shopping recommendations ahead of Amazon’s Prime Big Deal Days, scheduled for October 6 and 7. Featured categories include power banks, home goods, and furniture."
+    }
+  ]
+}
