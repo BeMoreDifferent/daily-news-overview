@@ -216,10 +216,81 @@ async function navContext(date) {
   return { prev, next, first: dates?.[0] || null, latest: dates?.[dates.length - 1] || null };
 }
 
+// Header motion for a day change. The header is shown live during the page's view transition
+// (see the CSS), so these run inside it as well as without one. The label slides within the
+// pill, which clips it; the pill and the Latest chip resize in layout, so the arrows follow.
+const NAV_MOTION = { duration: 280, easing: 'cubic-bezier(0.2, 0, 0, 1)' };
+const canAnimate = () => typeof Element.prototype.animate === 'function' && !reducedMotion.matches;
+
+function setDateLabel(date) {
+  const button = $('date-button');
+  const previous = button.dataset.date;
+  if (previous === date) return;
+  button.dataset.date = date;
+  const label = el('span', { class: 'date-label' }, formatDate(date, 'short'));
+  const old = button.querySelector('.date-label:not(.is-leaving)');
+
+  if (!previous || !old || !canAnimate()) {
+    button.getAnimations({ subtree: true }).forEach(a => a.cancel());
+    button.replaceChildren(label);
+    return;
+  }
+
+  // Measure mid-flight, so a quick second swipe continues from where the pill is now.
+  const from = button.getBoundingClientRect().width;
+  button.getAnimations({ subtree: true }).forEach(a => a.cancel());
+  button.querySelectorAll('.is-leaving').forEach(node => node.remove());
+  old.classList.add('is-leaving');
+  button.append(label);
+  const to = button.getBoundingClientRect().width;
+
+  const dir = date > previous ? 1 : -1;
+  button.animate({ width: [`${from}px`, `${to}px`] }, NAV_MOTION);
+  old.animate(
+    [{ opacity: 1, transform: 'none' }, { opacity: 0, transform: `translateX(${-dir * 1.2}em)` }],
+    { duration: 140, easing: 'ease-in', fill: 'forwards' },
+  ).finished.then(() => old.remove(), () => {});
+  label.animate(
+    [{ opacity: 0, transform: `translateX(${dir * 1.2}em)` }, { opacity: 1, transform: 'none' }],
+    { ...NAV_MOTION, delay: 90, fill: 'backwards' },
+  );
+}
+
+function setLatestChip(show) {
+  const chip = $('nav-latest');
+  const animate = Boolean($('date-button').dataset.date) && canAnimate();
+  const shown = !chip.hidden;
+  if (shown === show) return;
+  chip.getAnimations().forEach(a => a.cancel());
+  chip.classList.remove('is-resizing');
+  chip.hidden = !show;
+  if (!animate) return;
+
+  // Collapsing width, padding and margin to zero lets the date controls glide over.
+  chip.classList.add('is-resizing');
+  const style = getComputedStyle(chip);
+  const open = {
+    minWidth: '0px',
+    width: `${chip.getBoundingClientRect().width}px`,
+    paddingLeft: style.paddingLeft,
+    paddingRight: style.paddingRight,
+    marginLeft: style.marginLeft,
+    borderLeftWidth: style.borderLeftWidth,
+    borderRightWidth: style.borderRightWidth,
+    opacity: 1,
+  };
+  const closed = {
+    minWidth: '0px', width: '0px', paddingLeft: '0px', paddingRight: '0px', marginLeft: '0px',
+    borderLeftWidth: '0px', borderRightWidth: '0px', opacity: 0,
+  };
+  const anim = chip.animate(show ? [closed, open] : [open, closed], NAV_MOTION);
+  anim.finished.then(() => chip.classList.remove('is-resizing'), () => {});
+}
+
 // Synchronous, so the header changes inside the same view transition as the page.
 function renderNav(date, { prev, next, first, latest }) {
   const button = $('date-button');
-  button.textContent = formatDate(date, 'short');
+  setDateLabel(date);
   button.setAttribute('aria-label', `Choose a date. Showing ${formatDate(date)}`);
   $('date-input').value = date;
 
@@ -230,7 +301,7 @@ function renderNav(date, { prev, next, first, latest }) {
   // There is nothing after the newest briefing, so its forward arrow is not shown at all.
   $('nav-next').classList.toggle('is-end', !next);
 
-  $('nav-latest').hidden = !latest || latest === date;
+  setLatestChip(Boolean(latest) && latest !== date);
   if (first) {
     $('date-input').min = first;
     $('date-input').max = latest;
@@ -624,6 +695,22 @@ function setupSwipe() {
   }, { passive: true });
 }
 
+// During a slide Chrome hit-tests the transition overlay (it reports the root as the target), so
+// a quick second tap on the arrows would be lost. The header never moves, so hand the tap to the
+// header control under the pointer.
+function setupTapsDuringSlide() {
+  const root = document.documentElement;
+  root.addEventListener('click', event => {
+    if (event.target !== root || !root.classList.contains('is-sliding')) return;
+    const control = ['nav-prev', 'nav-next', 'nav-latest', 'date-button'].map($).find(node => {
+      const box = node.getBoundingClientRect();
+      return !node.hidden && box.width > 0 && event.clientX >= box.left && event.clientX <= box.right
+        && event.clientY >= box.top && event.clientY <= box.bottom;
+    });
+    control?.click();
+  });
+}
+
 function updateNotice() {
   const notice = $('notice');
   notice.hidden = navigator.onLine;
@@ -644,8 +731,9 @@ function parseHash() {
 }
 
 // Day changes slide in the direction of travel (View Transitions API with transition types);
-// the sticky header keeps its own snapshot and only cross-fades its date. Browsers without
+// the sticky header stays live on top and animates its own date (setDateLabel). Browsers without
 // support, and readers who prefer reduced motion, get an instant swap.
+let activeSlide = null;
 function swapDay(direction, update) {
   if (!document.startViewTransition || reducedMotion.matches || document.visibilityState !== 'visible') {
     update();
@@ -655,12 +743,20 @@ function swapDay(direction, update) {
   const root = document.documentElement;
   root.classList.add('is-sliding');
   let transition;
+  activeSlide?.skipTransition();
   try {
     transition = document.startViewTransition({ update, types: [direction] });
   } catch {
     transition = document.startViewTransition(update); // no transition types: plain cross-fade
   }
-  transition.finished.finally(() => root.classList.remove('is-sliding'));
+  activeSlide = transition;
+  // A skipped slide settles after the next one has started; only the latest clears the class,
+  // or the header would lose its own snapshot and slide away with the page.
+  transition.finished.finally(() => {
+    if (activeSlide !== transition) return;
+    activeSlide = null;
+    root.classList.remove('is-sliding');
+  });
   return transition.updateCallbackDone.catch(() => {});
 }
 
@@ -752,6 +848,7 @@ setupRankLinks();
 setupOverviewToggle();
 setupContentsDropdown();
 setupSwipe();
+setupTapsDuringSlide();
 setupRouting();
 updateNotice();
 window.addEventListener('online', updateNotice);

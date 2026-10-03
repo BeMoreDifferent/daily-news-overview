@@ -9,10 +9,13 @@
  *
  * When changing assets/style.css or assets/app.js, bump ASSET_VERSION here and the
  * ?v= query in index.html together.
+ *
+ * Updates: a changed sw.js installs, activates at once (skipWaiting + claim) and the page
+ * reloads on controllerchange (index.html). Installed apps also re-check on resume and hourly.
  */
 
-const CACHE_VERSION = 'v8';
-const ASSET_VERSION = '8';
+const CACHE_VERSION = 'v9';
+const ASSET_VERSION = '9';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 
@@ -79,7 +82,9 @@ self.addEventListener('fetch', event => {
 
 async function networkFirstWithCache(request, cacheName, fallbackUrl) {
   try {
-    const response = await fetch(request);
+    // Pages are revalidated with the server instead of read from the HTTP cache (GitHub Pages:
+    // max-age=600), so a deploy is live on the next load rather than up to 10 minutes later.
+    const response = await fetch(request, request.mode === 'navigate' ? { cache: 'no-cache' } : undefined);
     if (response.ok) {
       const cache = await caches.open(cacheName);
       cache.put(request, response.clone());

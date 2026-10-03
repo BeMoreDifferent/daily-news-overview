@@ -31,7 +31,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=8">
+  <link rel="stylesheet" href="assets/style.css?v=9">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -111,15 +111,35 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=8"></script>
+  <script type="module" src="assets/app.js?v=9"></script>
 
   <!-- Service worker registration -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js', { scope: './' })
+        navigator.serviceWorker.register('./sw.js', { scope: './', updateViaCache: 'none' })
+          .then(reg => {
+            // An installed app can stay open for days: look for a new deploy whenever it comes
+            // back to the foreground, and hourly while it stays open.
+            const check = () => reg.update().catch(() => {});
+            document.addEventListener('visibilitychange', () => {
+              if (document.visibilityState === 'visible') check();
+            });
+            setInterval(check, 60 * 60 * 1000);
+          })
           .catch(err => console.warn('SW registration failed:', err));
       });
+
+      // A new deploy's worker takes over at once (skipWaiting + clients.claim); reload so the
+      // page runs the new code too. Skipped on the very first install, when nothing changes.
+      if (navigator.serviceWorker.controller) {
+        let reloading = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+          if (reloading) return;
+          reloading = true;
+          location.reload();
+        });
+      }
     }
   </script>
 </body>

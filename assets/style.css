@@ -158,8 +158,6 @@ img {
 /* Snapshot names are only set while a day change animates (app.js adds .is-sliding): a named
    element is a backdrop root, which would stop the glass controls from blurring the page. */
 .is-sliding .site-header { view-transition-name: site-header; }
-.is-sliding .date-button { view-transition-name: date-label; }
-.is-sliding .chip { view-transition-name: nav-latest; }
 
 /* Reading progress along the header's bottom edge (scroll-driven animation, no script). */
 @supports (animation-timeline: scroll()) {
@@ -196,7 +194,12 @@ img {
     position: absolute;
     inset: 0;
     z-index: -1;
-    background: color-mix(in srgb, var(--bg) 85%, transparent);
+    /* Opaque at the top edge, matching the native bar (theme-color is --bg), easing into the
+       translucent glass, so the status/browser bar and the blurred header meet without a seam. */
+    background: linear-gradient(to bottom,
+      var(--bg) 0,
+      var(--bg) var(--safe-top),
+      color-mix(in srgb, var(--bg) 85%, transparent) calc(var(--safe-top) + 20px));
     -webkit-backdrop-filter: saturate(1.4) blur(12px);
     backdrop-filter: saturate(1.4) blur(12px);
   }
@@ -273,7 +276,13 @@ img {
     inset 0 -1px 0 var(--glass-hi);
 }
 
+/* The label slides inside the pill on a day change (app.js); the pill clips it to its rounded
+   shape. Leaving labels are laid over the new one, centred, so only the new one sets the width. */
 .date-button {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  overflow: hidden;
   min-height: 36px;
   padding: 0 14px;
   border-radius: 999px;
@@ -316,6 +325,28 @@ img {
 
 .chip[hidden] {
   display: none;
+}
+
+.date-label {
+  display: block;
+}
+
+.date-label.is-leaving {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+}
+
+/* Latest is opening or collapsing (app.js): clipped while narrow, drawn until it has closed. */
+.chip.is-resizing {
+  display: inline-flex;
+  overflow: hidden;
+}
+
+.chip[hidden].is-resizing {
+  pointer-events: none;
 }
 
 @media (max-width: 379.98px) {
@@ -1292,7 +1323,7 @@ img {
 }
 
 /* ── Day-to-day transitions (View Transitions API) ────────────────────────── */
-/* The page slides the way the reader travels; the header stays put and cross-fades its date. */
+/* The page slides the way the reader travels; the header stays put and slides only its date. */
 
 @media (prefers-reduced-motion: no-preference) {
   html:active-view-transition-type(forward)::view-transition-old(root) {
@@ -1311,42 +1342,28 @@ img {
     animation: 280ms 60ms ease-out both vt-in-left;
   }
 
+  /* The header is not part of the slide: it is drawn live on top (its old snapshot is dropped,
+     so nothing cross-fades or gets clipped) and animates its own date label in app.js. */
   ::view-transition-group(site-header),
-  ::view-transition-group(nav-latest) {
-    animation-duration: 280ms;
+  ::view-transition-new(site-header) {
+    animation: none;
   }
 
-  /* The date in the header slides with the page, same direction and timing. */
-  html:active-view-transition-type(forward)::view-transition-old(date-label) {
-    animation: 180ms ease-in both vt-out-left-short;
+  ::view-transition-old(site-header) {
+    display: none;
   }
+}
 
-  html:active-view-transition-type(forward)::view-transition-new(date-label) {
-    animation: 280ms 60ms ease-out both vt-in-right-short;
-  }
-
-  html:active-view-transition-type(backward)::view-transition-old(date-label) {
-    animation: 180ms ease-in both vt-out-right-short;
-  }
-
-  html:active-view-transition-type(backward)::view-transition-new(date-label) {
-    animation: 280ms 60ms ease-out both vt-in-left-short;
-  }
-
-  ::view-transition-group(date-label) {
-    animation-duration: 280ms;
-    overflow: clip;
-  }
+/* Taps during a slide reach the page instead of the transition overlay where the browser
+   honours this; Chrome does not, and app.js forwards header taps there (setupTapsDuringSlide). */
+::view-transition {
+  pointer-events: none;
 }
 
 @keyframes vt-out-left { to { opacity: 0; transform: translateX(-48px); } }
 @keyframes vt-out-right { to { opacity: 0; transform: translateX(48px); } }
 @keyframes vt-in-right { from { opacity: 0; transform: translateX(48px); } }
 @keyframes vt-in-left { from { opacity: 0; transform: translateX(-48px); } }
-@keyframes vt-out-left-short { to { opacity: 0; transform: translateX(-16px); } }
-@keyframes vt-out-right-short { to { opacity: 0; transform: translateX(16px); } }
-@keyframes vt-in-right-short { from { opacity: 0; transform: translateX(16px); } }
-@keyframes vt-in-left-short { from { opacity: 0; transform: translateX(-16px); } }
 
 /* ── Hover (pointer devices only) ─────────────────────────────────────────── */
 
