@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=13';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=14';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -334,20 +334,9 @@ function renderPager(prev, next) {
   $('day-pager').hidden = !prev && !next;
 }
 
-function renderIntro(date, data, stories) {
+function renderIntro(date, data) {
   $('briefing-date').textContent = formatDate(date);
-  const outlets = new Set(stories.flatMap(t => t.articles.map(a => domainOf(a.url)).filter(Boolean)));
   const updated = formatUpdated(data?.generated_at);
-  const aiWritten = stories.some(t => t.summary);
-  // Separators come from CSS. On phones the count moves to the "All stories" toggle and "AI
-  // summaries" stands in for the longer note.
-  $('briefing-meta').replaceChildren(...(stories.length ? [
-    el('span', { class: 'meta-count' }, `${stories.length} ${stories.length === 1 ? 'story' : 'stories'}`),
-    el('span', {}, `${outlets.size} outlets`),
-    aiWritten && el('span', { class: 'meta-ai' }, 'AI summaries'),
-    updated && el('span', {}, `Updated ${updated}`),
-  ].filter(Boolean) : []));
-  $('briefing-note').hidden = !aiWritten;
   $('footer-meta').textContent = updated ? `Briefing generated ${updated}` : '';
 }
 
@@ -530,7 +519,7 @@ async function renderMissing(date, reason) {
   trackReading([]);
   const stories = $('stories');
   stories.setAttribute('aria-busy', 'false');
-  renderIntro(date, null, []);
+  renderIntro(date, null);
   renderToc(date, []);
   renderOverview(date, null, []);
 
@@ -561,7 +550,7 @@ async function renderMissing(date, reason) {
 
 function renderStories(date, data) {
   const stories = (data.topics || []).filter(t => t.articles?.length);
-  renderIntro(date, data, stories);
+  renderIntro(date, data);
   renderToc(date, stories);
   renderOverview(date, data, stories);
 

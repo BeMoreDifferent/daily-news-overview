@@ -425,21 +425,18 @@ img {
   text-wrap: balance;
 }
 
-.briefing-meta {
+/* How the stories are chosen: the reason the site exists, in place of a stats line. */
+.intro-why {
+  max-width: 62ch;
   margin-top: 10px;
   font-size: 0.875rem;
+  line-height: 1.5;
   color: var(--fg-muted);
-  font-variant-numeric: tabular-nums;
+  text-wrap: pretty;
 }
 
-.briefing-meta > span + span::before {
-  content: " · ";
-}
-
-.briefing-note {
-  margin-top: 4px;
-  font-size: 0.8125rem;
-  color: var(--fg-subtle);
+.why-short {
+  display: none;
 }
 
 /* ── Day in brief (AI overview) ───────────────────────────────────────────── */
@@ -660,19 +657,18 @@ img {
     white-space: nowrap;
   }
 
-  .briefing-meta {
+  .intro-why {
     margin-top: 0;
     font-size: 0.8125rem;
     line-height: 1.45;
   }
 
-  .briefing-note,
-  .meta-count {
+  .why-long {
     display: none;
   }
 
-  .briefing-meta > .meta-count + span::before {
-    content: none;
+  .why-short {
+    display: inline;
   }
 
   /* Contents dropdown */
@@ -773,12 +769,6 @@ img {
   }
 
   .overview-list li::before {
-    display: none;
-  }
-}
-
-@media (min-width: 640px) {
-  .meta-ai {
     display: none;
   }
 }
@@ -1205,9 +1195,12 @@ img {
   }
 
   .intro-aside {
-    flex: 0 1 380px;
+    flex: 0 1 520px;
     padding-bottom: 6px;
-    text-align: right;
+  }
+
+  .intro-why {
+    margin-top: 0;
   }
 
   .overview {

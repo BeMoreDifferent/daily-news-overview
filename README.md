@@ -1,134 +1,46 @@
-# Daily News Overview
+# Daily News
 
-A Node.js daemon that crawls 2,400+ RSS feeds, deduplicates articles, clusters them into topics using TF-IDF, and stores everything in a local DuckDB database. Runs continuously via launchd on macOS, triggering a full fetch cycle every 60 minutes.
+**Read it:** https://bemoredifferent.github.io/daily-news-overview/
 
-## How it works
+One page a day with the stories the world's newsrooms are covering most, chosen without an editor and without a feed tuned to you.
 
-1. **Feed fetch** — reads `data/rss_feeds.json` (2,400+ sources), skips feeds within their TTL window, then fetches the rest in parallel (concurrency = 10)
-2. **Dedup** — every article gets a 64-bit SHA-256 hash of its URL; `INSERT OR IGNORE` on the primary key discards duplicates without table scans
-3. **Topic detection** — TF-IDF clustering (unigrams + bigrams) over today's headlines produces ranked topic clusters with novelty, burst, and persistence scores
-4. **Archive** — articles older than 30 days are offloaded to date-partitioned ZSTD Parquet files; URL-hash stubs remain in the hot DB so dedup keeps working
+## Why
 
-## Project structure
+Most news reaches us through a single outlet's editorial choices or through feeds that learn what we click and show us more of it. Either way, we end up seeing a narrow slice of the world, filtered by someone else's priorities or by our own habits.
 
-```
-src/
-├── app.js                      # Daemon entry point — setInterval + isRunning guard
-├── services/
-│   ├── feedProcessor.js        # RSS fetch, parse, retry on ECONNRESET/EPIPE
-│   ├── duckdbService.js        # DuckDB storage, schema init, topic upserts
-│   ├── feedCacheService.js     # TTL cache (data/feed_cache.json), dirty-flag writes
-│   └── topicDetectionService.js # Two-tier TF-IDF clustering, centroid vectors
-├── utils/
-│   ├── hash.js                 # hash64(str) — BigInt SHA-256
-│   └── urlNormalizer.js        # Strip tracking params, YouTube/BBC special cases
-├── info.js                     # CLI: DB + cache stats
-├── dryRun.js                   # CLI: fetch feeds without writing to DB
-└── topics.js                   # CLI: run topic detection for today
+Daily News takes the opposite approach. It reads headlines from more than 2,400 news sources across countries and languages and asks one question: which events are being reported most widely today? Those stories make the front page, and everyone sees the same front page.
 
-scripts/
-├── archiveArticles.js          # Offload old articles to Parquet, keep url_hash stubs
-├── expandFeeds.js              # Expand/migrate rss_feeds.json entries
-└── setup-network.sh            # macOS TCP tuning for 2400+ concurrent connections
+## How a day's briefing is made
 
-data/
-├── rss_feeds.json              # Feed config objects (url, intervalMinutes, maxItems, …)
-├── feed_cache.json             # Per-feed TTL state (auto-managed)
-├── rss.duckdb                  # Hot database — articles + topics
-└── archive/                    # ZSTD Parquet exports by month
-```
+1. **Collect.** Every hour, headlines are gathered from 2,400+ news feeds worldwide.
+2. **Group.** Once a day, the previous day's headlines are grouped by the event they describe, so 40 articles about the same story count as one story covered by 40 outlets.
+3. **Rank.** Stories are ranked mainly by how many different outlets cover them. Sudden spikes in coverage, new developments and stories that keep running also count. No person picks or reorders them.
+4. **Summarise.** An AI model writes a short headline and summary for each story, plus "The day in brief", using only the linked reporting.
+5. **Compare.** Every story links to several original articles from different outlets, so you can read how each one tells it.
 
-## Quick start
+The result is the top 15 stories of the day, published every morning, with an archive of earlier days.
+
+## What to keep in mind
+
+- **Coverage is not importance.** A story ranks high because many outlets report it, which reflects what newsrooms find newsworthy, not what is objectively most important.
+- **The source list shapes the result.** The sources span many countries and languages, but no list is perfectly balanced. Regions and languages with more feeds carry more weight.
+- **AI summaries can be wrong.** They are written from the linked articles and marked as AI-generated. For anything that matters, follow the links to the original reporting.
+
+## Privacy
+
+There are no accounts and no personalisation. Optional, consent-based analytics count which stories are read so the briefing can be improved. Details are in the [privacy policy](https://bemoredifferent.github.io/daily-news-overview/privacy.html).
+
+## Running it yourself
+
+The collector is a small Node.js service that runs on a single machine, and the website is a static page served from this repository (`index.html`, with one JSON file per day in `news/`).
 
 ```bash
-# Install dependencies
 npm install
-
-# Optional: tune macOS TCP settings (prevents port exhaustion)
-sudo bash scripts/setup-network.sh
-
-# Run once (no daemon)
-node src/app.js
-
-# Run as daemon (triggers every 60 min)
-npm start
+npm start      # collect feeds hourly and publish the daily briefing
+npm test       # run the tests
 ```
 
-## Useful commands
-
-```bash
-npm run info           # Feed cache stats + DB article count
-npm run dry-run        # Fetch and parse feeds without writing to DB
-npm run topics         # Run topic detection for today
-npx eslint src/        # Lint
-npm test               # Unit tests (node:test)
-npm run test:smoke:live  # Live integration test against real feeds
-```
-
-## Configuration
-
-**Environment variables** (`.env`, all optional):
-
-| Variable | Default | Description |
-|---|---|---|
-| `DB_PATH` | `data/rss.duckdb` | DuckDB file path |
-| `FEED_CONCURRENCY` | `10` | Parallel feed fetches |
-| `FEED_TIMEOUT_MS` | `5000` | Per-feed HTTP timeout |
-
-## launchd daemon (macOS)
-
-Install once to auto-start on login and restart on crash:
-
-```bash
-cp scripts/com.daniel.rss-fetcher.plist ~/Library/LaunchAgents/
-launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist
-```
-
-Manage:
-
-```bash
-launchctl print gui/$UID/com.daniel.rss-fetcher      # status
-launchctl kickstart -k gui/$UID/com.daniel.rss-fetcher  # restart now
-launchctl bootout gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist  # stop
-```
-
-Logs go to `logs/rss_fetch.log`. `KeepAlive: true` + `ThrottleInterval: 30` means launchd respawns within 30 s of any crash.
-
-## Querying the database
-
-DuckDB is locked while the daemon runs. To query, either stop the daemon or copy the file:
-
-```bash
-cp data/rss.duckdb /tmp/rss_copy.duckdb
-duckdb /tmp/rss_copy.duckdb
-```
-
-Useful queries:
-
-```sql
--- Top topics today
-SELECT label_keywords, article_count, final_score
-FROM topics
-WHERE topic_date = current_date
-ORDER BY final_score DESC
-LIMIT 20;
-
--- Articles for a topic
-SELECT a.title, a.url
-FROM topic_articles ta
-JOIN articles a ON a.url_hash = ta.url_hash
-WHERE ta.topic_id = 'topic_xxx';
-
--- Article counts by day
-SELECT DATE_TRUNC('day', published_at) AS day, COUNT(*) AS n
-FROM articles
-GROUP BY 1
-ORDER BY 1 DESC;
-
--- Query archived articles
-SELECT * FROM read_parquet('data/archive/*.parquet')
-WHERE published_at > '2026-01-01';
-```
+Technical details (architecture, configuration, the macOS background service and maintenance commands) are in [CLAUDE.md](CLAUDE.md).
 
 ## License
 
