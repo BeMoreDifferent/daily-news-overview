@@ -14,8 +14,8 @@
  * reloads on controllerchange (index.html). Installed apps also re-check on resume and hourly.
  */
 
-const CACHE_VERSION = 'v11';
-const ASSET_VERSION = '11';
+const CACHE_VERSION = 'v12';
+const ASSET_VERSION = '12';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 

@@ -131,3 +131,72 @@ export function setupAnalytics() {
   else showBanner(banner);
   openFromHash();
 }
+
+// ── Reading time per story ───────────────────────────────────────────────────
+// A story counts as being read while it crosses the reading band (30-60% of the viewport height),
+// the page is visible and the reader was active (scroll, pointer, key) in the last 30 s. When
+// several stories share the band (desktop columns), the time is split between them.
+//  - story_read: once per story and day view, after READ_THRESHOLD_MS. Counts readers per story.
+//  - story_time: the seconds read since the last report (read_seconds), sent when the day changes
+//    or the page is hidden. Summed in GA, it gives the total reading time per story.
+const READ_THRESHOLD_MS = 5000;
+const IDLE_AFTER_MS = 30000;
+const TICK_MS = 1000;
+
+let reading = null;
+
+export function trackReading(items) {
+  reading?.stop();
+  reading = items.length ? readingTracker(items) : null;
+}
+
+function readingTracker(items) {
+  const params = new Map(items.map(item => [item.el, item.params]));
+  const pendingMs = new Map();
+  const totalMs = new Map();
+  const inBand = new Set();
+  let lastActivity = performance.now();
+
+  const observer = new IntersectionObserver(entries => {
+    for (const entry of entries) {
+      if (entry.isIntersecting) inBand.add(entry.target);
+      else inBand.delete(entry.target);
+    }
+  }, { rootMargin: '-30% 0px -40% 0px' });
+  items.forEach(item => observer.observe(item.el));
+
+  const active = () => { lastActivity = performance.now(); };
+  const activity = ['scroll', 'pointerdown', 'pointermove', 'keydown', 'wheel', 'touchstart'];
+  activity.forEach(type => addEventListener(type, active, { passive: true }));
+
+  const tick = setInterval(() => {
+    if (!loaded || !inBand.size || document.visibilityState !== 'visible') return;
+    if (performance.now() - lastActivity > IDLE_AFTER_MS) return;
+    const share = TICK_MS / inBand.size;
+    for (const story of inBand) {
+      pendingMs.set(story, (pendingMs.get(story) || 0) + share);
+      const total = (totalMs.get(story) || 0) + share;
+      totalMs.set(story, total);
+      if (total >= READ_THRESHOLD_MS && total - share < READ_THRESHOLD_MS) gtag('event', 'story_read', params.get(story));
+    }
+  }, TICK_MS);
+
+  const flush = () => {
+    for (const [story, ms] of pendingMs) {
+      if (ms >= 1000) gtag('event', 'story_time', { ...params.get(story), read_seconds: Math.round(ms / 1000) });
+    }
+    pendingMs.clear();
+  };
+  const onHide = () => { if (document.visibilityState === 'hidden') flush(); };
+  document.addEventListener('visibilitychange', onHide);
+
+  return {
+    stop() {
+      flush();
+      clearInterval(tick);
+      observer.disconnect();
+      document.removeEventListener('visibilitychange', onHide);
+      activity.forEach(type => removeEventListener(type, active));
+    },
+  };
+}

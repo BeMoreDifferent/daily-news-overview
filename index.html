@@ -31,7 +31,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=11">
+  <link rel="stylesheet" href="assets/style.css?v=12">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -61,10 +61,14 @@
 
       <section id="intro" class="intro" aria-labelledby="briefing-date">
         <div class="intro-text">
-          <p class="eyebrow">Daily briefing</p>
-          <h1 id="briefing-date" class="briefing-date">&nbsp;</h1>
-          <p id="briefing-meta" class="briefing-meta"></p>
-          <p id="briefing-note" class="briefing-note" hidden>Summaries are written by AI from the linked reporting. Follow the links for the full stories.</p>
+          <div class="intro-heading">
+            <p class="eyebrow">Daily briefing</p>
+            <h1 id="briefing-date" class="briefing-date">&nbsp;</h1>
+          </div>
+          <div class="intro-aside">
+            <p id="briefing-meta" class="briefing-meta"></p>
+            <p id="briefing-note" class="briefing-note" hidden>Summaries are written by AI from the linked reporting. Follow the links for the full stories.</p>
+          </div>
         </div>
 
         <details id="overview" class="overview" open hidden>
@@ -122,7 +126,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=11"></script>
+  <script type="module" src="assets/app.js?v=12"></script>
 
   <!-- Service worker registration -->
   <script>

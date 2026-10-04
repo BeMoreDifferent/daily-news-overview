@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView } from './analytics.js?v=11';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=12';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -15,6 +15,8 @@ const tablet = window.matchMedia('(min-width: 640px)');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
 let current = { date: null, data: null };
+// Analytics parameters per rendered story element, for reading time and clicks.
+let storyParams = new WeakMap();
 
 // ── Dates ────────────────────────────────────────────────────────────────────
 
@@ -370,7 +372,7 @@ function renderOverview(date, data, stories) {
         href: storyHash(date, rank),
         'data-rank': rank,
         'aria-label': `Story ${rank}: ${storyTitle(stories[rank - 1])}`,
-      }, String(rank))),
+      }, String(rank).padStart(2, '0'))),
     ),
   )));
 }
@@ -525,6 +527,7 @@ function renderSkeleton() {
 }
 
 async function renderMissing(date, reason) {
+  trackReading([]);
   const stories = $('stories');
   stories.setAttribute('aria-busy', 'false');
   renderIntro(date, null, []);
@@ -564,19 +567,41 @@ function renderStories(date, data) {
 
   const list = $('stories');
   list.setAttribute('aria-busy', 'false');
+  trackReading([]);
   if (!stories.length) {
     list.replaceChildren(el('li', { class: 'empty' }, el('h2', {}, 'No stories'), el('p', {}, 'This day’s briefing has no stories.')));
     return;
   }
   list.replaceChildren(...stories.map((topic, i) => renderStory(date, topic, i + 1)));
   document.title = `${storyTitle(stories[0])} — Daily News, ${formatDate(date, 'short')}`;
+
+  storyParams = new WeakMap();
+  trackReading(stories.map((topic, i) => {
+    const story = $(`story-${i + 1}`);
+    const params = analyticsParams(date, topic, i + 1);
+    storyParams.set(story, params);
+    return { el: story, params };
+  }));
+}
+
+// GA4 event parameters describing a story (register them as custom dimensions in GA).
+// Keywords are the topic's top TF-IDF terms, the closest thing to a subject per story.
+function analyticsParams(date, topic, rank) {
+  return {
+    story_date: date,
+    story_rank: rank,
+    story_title: storyTitle(topic).slice(0, 100),
+    story_category: topic.category || 'none',
+    story_keywords: (topic.label || []).slice(0, 4).join(' ').slice(0, 100),
+    story_outlets: topic.source_count,
+  };
 }
 
 // ── Interaction ──────────────────────────────────────────────────────────────
 
 async function shareStory(date, rank, title) {
   const url = location.href.split('#')[0] + storyHash(date, rank);
-  trackEvent('share', { content_type: 'story', item_id: `${date}/${rank}` });
+  trackEvent('share', { ...storyParams.get($(`story-${rank}`)), content_type: 'story', item_id: `${date}/${rank}` });
   if (navigator.share) {
     try {
       await navigator.share({ title, url });
@@ -625,6 +650,24 @@ function setupDatePicker() {
 }
 
 // Following the same story link twice (contents, overview) fires no navigation; scroll anyway.
+// Interest signals: which publisher links are opened, which stories are jumped to from the day in
+// brief or the contents, and where readers want more coverage.
+function setupClickTracking() {
+  document.addEventListener('click', event => {
+    const target = event.target.closest('a, button');
+    const story = target?.closest('.story');
+    if (!target) return;
+    if (story && target.matches('a.coverage-link')) {
+      trackEvent('article_click', { ...storyParams.get(story), outlet: domainOf(target.href) });
+    } else if (story && target.matches('.coverage-more') && story.classList.contains('is-expanded')) {
+      trackEvent('coverage_expand', storyParams.get(story));
+    } else if (target.matches('a[data-rank]')) {
+      const params = storyParams.get($(`story-${target.dataset.rank}`));
+      trackEvent('story_jump', { ...params, jump_source: target.closest('.overview') ? 'brief' : 'contents' });
+    }
+  });
+}
+
 function setupRankLinks() {
   document.addEventListener('click', event => {
     const link = event.target.closest('a[data-rank]');
@@ -848,6 +891,7 @@ function setupRouting() {
 }
 
 setupAnalytics();
+setupClickTracking();
 setupDatePicker();
 setupRankLinks();
 setupOverviewToggle();

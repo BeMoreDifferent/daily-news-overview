@@ -1167,16 +1167,93 @@ img {
 }
 
 @media (min-width: 1100px) {
-  /* Masthead: date on the left, the day in brief beside it. */
-  .intro.has-overview {
-    display: grid;
-    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
-    column-gap: var(--col-gap);
-    align-items: start;
+  /* Masthead: the date on the left with the meta line opposite it, then the day in brief as one
+     row of columns across the full width, set like a newspaper's news-in-brief strip: each point
+     leads with the story number it links to and columns are divided by rules, so the whole
+     summary is read in one sweep and the lead story still starts high on the screen. */
+  .intro {
+    padding: 32px 0 28px;
   }
 
-  .intro.has-overview .overview {
-    margin-top: 0;
+  .intro-text {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: var(--col-gap);
+  }
+
+  .intro-aside {
+    flex: 0 1 380px;
+    padding-bottom: 6px;
+    text-align: right;
+  }
+
+  .overview {
+    margin-top: 24px;
+    border-top: 1px solid var(--border);
+    border-radius: 0;
+    background: none;
+  }
+
+  .overview summary {
+    justify-content: flex-start;
+    padding: 0;
+  }
+
+  .overview summary::after {
+    margin-left: 4px;
+  }
+
+  .overview-list {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    padding: 4px 0 0;
+  }
+
+  .overview-list li {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 0 20px;
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .overview-list li + li {
+    border-top: 0;
+    border-left: 1px solid var(--border);
+  }
+
+  .overview-list li:first-child {
+    padding-left: 0;
+  }
+
+  .overview-list li:last-child {
+    padding-right: 0;
+  }
+
+  .overview-list li::before {
+    display: none;
+  }
+
+  /* The story numbers become each column's kicker, styled like the story rank they point to. */
+  .overview-refs {
+    order: -1;
+    margin: 0 0 0 -4px;
+  }
+
+  .overview-refs .ref {
+    padding: 0 4px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+  }
+
+  .overview-refs .ref:hover {
+    background: var(--accent-soft);
   }
 
   .briefing-date {
