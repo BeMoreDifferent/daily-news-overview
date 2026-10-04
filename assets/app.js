@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=12';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=13';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';

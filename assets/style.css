@@ -57,8 +57,27 @@
   :root { --gutter: 24px; --content-w: 960px; --col-gap: 32px; }
 }
 
+@media (min-width: 900px) {
+  :root { --content-w: 1100px; }
+}
+
 @media (min-width: 1100px) {
   :root { --gutter: 32px; --content-w: 1280px; --col-gap: 40px; }
+}
+
+/* Large screens: the page widens in steps and the type grows with it (sizes are in rem), so the
+   front page fills the screen at a comfortable reading size instead of floating in wide margins.
+   Measures stay readable: four columns of 360-460px, body copy capped at 65ch. */
+@media (min-width: 1600px) {
+  :root { --gutter: 40px; --content-w: 1440px; --col-gap: 48px; }
+}
+
+@media (min-width: 1920px) {
+  :root { --content-w: 1600px; font-size: 106.25%; }
+}
+
+@media (min-width: 2400px) {
+  :root { --gutter: 48px; --content-w: 1840px; --col-gap: 56px; font-size: 118.75%; }
 }
 
 /* Moving between pages (index ↔ imprint) cross-fades instead of flashing. */
@@ -369,7 +388,8 @@ img {
   min-width: 0;
 }
 
-@media (min-width: 1100px) {
+/* From 900px every story is on the front page, so the contents list is not needed. */
+@media (min-width: 900px) {
   .toc-inline { display: none; }
 }
 
@@ -1166,7 +1186,9 @@ img {
   }
 }
 
-@media (min-width: 1100px) {
+/* ── Front page (900px and up) ───────────────────────────────────────────── */
+
+@media (min-width: 900px) {
   /* Masthead: the date on the left with the meta line opposite it, then the day in brief as one
      row of columns across the full width, set like a newspaper's news-in-brief strip: each point
      leads with the story number it links to and columns are divided by rules, so the whole
@@ -1260,54 +1282,9 @@ img {
     font-size: clamp(2.25rem, 1rem + 1.8vw, 3rem);
   }
 
-  .stories {
-    grid-template-columns: repeat(12, minmax(0, 1fr));
-  }
-
-  .stories > .slot {
-    grid-column: span 3;
-    border-left: 0;
-  }
-
-  .stories > .slot--lead {
-    grid-column: 1 / span 8;
-    grid-row: span 2;
-  }
-
-  .stories > .slot--secondary {
-    grid-column: 9 / span 4;
-    border-left: 1px solid var(--border);
-  }
-
-  /* Four-up rows (ranks 4-7, 8-11, 12-15): rules left of every column but the first. */
-  .stories > .slot:nth-child(n + 4):not(:nth-child(4n)) {
-    border-left: 1px solid var(--border);
-  }
-
-  .stories > li + li .story {
-    border-top: 0;
-  }
-
-  .stories > .slot--secondary + .slot--secondary .story,
-  .stories > .slot:nth-child(n + 8) .story {
-    border-top: 1px solid var(--border);
-  }
-
-  .stories > .slot--feature .story {
-    border-top: 1px solid var(--rule);
-  }
-
-  .story--lead .story-title {
-    font-size: clamp(2rem, 0.9rem + 1.6vw, 2.75rem);
-  }
-
-  .story--lead .story-summary {
-    font-size: 1.1875rem;
-  }
-
   /* Secondary stories beside the lead: a small square thumbnail next to the headline. */
   .story--secondary.has-media {
-    grid-template-columns: minmax(0, 1fr) 112px;
+    grid-template-columns: minmax(0, 1fr) 96px;
     grid-template-areas:
       "kicker kicker"
       "title media"
@@ -1328,6 +1305,36 @@ img {
     display: none;
   }
 
+  .stories {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .stories > .slot--lead {
+    grid-column: 1 / span 8;
+    grid-row: span 2;
+  }
+
+  .stories > .slot--secondary {
+    grid-column: 9 / span 4;
+    border-left: 1px solid var(--border);
+  }
+
+  .stories > li + li .story {
+    border-top: 0;
+  }
+
+  .stories > .slot--feature .story {
+    border-top: 1px solid var(--rule);
+  }
+
+  .story--lead .story-title {
+    font-size: clamp(2rem, 0.9rem + 1.6vw, 2.75rem);
+  }
+
+  .story--lead .story-summary {
+    font-size: 1.1875rem;
+  }
+
   .story--secondary .story-title {
     font-size: 1.4375rem;
   }
@@ -1340,6 +1347,89 @@ img {
   .story--feature .story-summary,
   .story--brief .story-summary {
     font-size: 0.9375rem;
+  }
+}
+
+/* Landscape tablets and small laptops: the same front page, three across. Story 7 drops its
+   picture so the picture row (4-6) stays even and the text briefs (7-15) fill three rows. */
+@media (min-width: 900px) and (max-width: 1099.98px) {
+  .stories > .slot--feature,
+  .stories > .slot--brief {
+    grid-column: span 4;
+    border-left: 0;
+  }
+
+  .stories > .slot:nth-child(n + 4):not(:nth-child(3n + 1)) {
+    border-left: 1px solid var(--border);
+  }
+
+  /* Overrides the two-column tablet rule (left rule on every odd slot). */
+  .stories > .slot:nth-child(3n + 4) {
+    border-left: 0;
+  }
+
+  .stories > .slot--secondary + .slot--secondary .story,
+  .stories > .slot:nth-child(n + 7) .story {
+    border-top: 1px solid var(--border);
+  }
+
+  .stories > .slot:nth-child(7) .story-media {
+    display: none;
+  }
+
+  /* Five summary columns would be too narrow here: three per row, rows divided by a rule. */
+  .overview-list {
+    grid-auto-flow: row;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    row-gap: 16px;
+  }
+
+  .overview-list li:nth-child(3n + 1) {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .overview-list li:nth-child(3n) {
+    padding-right: 0;
+  }
+
+  .overview-list li:nth-child(n + 4) {
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+}
+
+@media (min-width: 1100px) {
+  .stories > .slot--feature,
+  .stories > .slot--brief {
+    grid-column: span 3;
+    border-left: 0;
+  }
+
+  /* Four-up rows (ranks 4-7, 8-11, 12-15): rules left of every column but the first. */
+  .stories > .slot:nth-child(n + 4):not(:nth-child(4n)) {
+    border-left: 1px solid var(--border);
+  }
+
+  .stories > .slot--secondary + .slot--secondary .story,
+  .stories > .slot:nth-child(n + 8) .story {
+    border-top: 1px solid var(--border);
+  }
+
+  .story--secondary.has-media {
+    grid-template-columns: minmax(0, 1fr) 112px;
+  }
+}
+
+/* Wide screens: a slightly flatter lead picture keeps the lead's headline and summary on screen,
+   and the secondary thumbnails grow with the column. */
+@media (min-width: 1600px) {
+  .story--lead .story-media img {
+    aspect-ratio: 2 / 1;
+  }
+
+  .story--secondary.has-media {
+    grid-template-columns: minmax(0, 1fr) 136px;
   }
 }
 
@@ -1699,6 +1789,12 @@ img {
 }
 
 /* ── Imprint and privacy pages ─────────────────────────────────────────────────────────── */
+
+/* Text pages keep header and footer on the reading column, so nothing drifts apart on wide screens. */
+.doc-page .header-inner,
+.doc-page .footer-inner {
+  max-width: calc(720px + 2 * var(--gutter));
+}
 
 .page {
   flex: 1;
