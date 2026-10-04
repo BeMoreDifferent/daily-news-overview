@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=14';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=15';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -400,7 +400,11 @@ function renderMedia(topic, isLead) {
     loading: isLead ? 'eager' : 'lazy', // hidden images (briefs on wide screens) are never fetched
     fetchpriority: isLead ? 'high' : null,
     decoding: 'async',
+    // Privacy: no referrer, and an anonymous (CORS) request, so no cookies are sent to or set by
+    // the publisher. Servers that do not allow anonymous loading fail like a broken image and the
+    // next outlet's picture is tried; there is deliberately no fallback to a credentialed request.
     referrerpolicy: 'no-referrer',
+    crossorigin: 'anonymous',
   });
   const figure = el('figure', { class: 'story-media' }, img, caption);
   img.addEventListener('error', () => {

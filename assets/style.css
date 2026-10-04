@@ -425,13 +425,13 @@ img {
   text-wrap: balance;
 }
 
-/* How the stories are chosen: the reason the site exists, in place of a stats line. */
+/* How the stories are chosen: background, set as the quietest text on the page. */
 .intro-why {
-  max-width: 62ch;
-  margin-top: 10px;
-  font-size: 0.875rem;
+  max-width: 60ch;
+  margin-top: 8px;
+  font-size: 0.8125rem;
   line-height: 1.5;
-  color: var(--fg-muted);
+  color: var(--fg-subtle);
   text-wrap: pretty;
 }
 
@@ -1187,16 +1187,22 @@ img {
     padding: 32px 0 28px;
   }
 
+  /* The masthead uses the story grid's columns: the date over the lead (8 of 12), the note on
+     how stories are chosen over the right-hand column, sitting on the date's baseline. */
   .intro-text {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    gap: var(--col-gap);
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: var(--col-gap);
+    align-items: end;
+  }
+
+  .intro-heading {
+    grid-column: 1 / span 8;
   }
 
   .intro-aside {
-    flex: 0 1 520px;
-    padding-bottom: 6px;
+    grid-column: 9 / span 4;
+    padding-bottom: 0.45em;
   }
 
   .intro-why {

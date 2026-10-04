@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <!-- No request from this site (images, links, scripts) tells the receiving server which page it came from -->
+  <meta name="referrer" content="no-referrer">
   <title>Daily News</title>
   <meta name="description" content="The day's top stories from 2,400+ news sources, clustered daily and summarised.">
 
@@ -31,7 +33,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=14">
+  <link rel="stylesheet" href="assets/style.css?v=15">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -67,8 +69,8 @@
           </div>
           <div class="intro-aside">
             <p class="intro-why">
-              <span class="why-long">No editor and no algorithm tuned to you picks these stories. Each day, headlines from 2,400+ news sources worldwide are grouped by event and ranked by how widely they are reported, so everyone sees the same picture of what the world is covering. Every story links to several outlets to compare how they tell it; the summaries are written by AI from that reporting.</span>
-              <span class="why-short">Ranked by how widely 2,400+ sources report each story, not by an editor or your feed. AI summaries.</span>
+              <span class="why-long">No editor, no personal feed: stories are ranked by how many of 2,400+ news sources worldwide report them, each with links to several outlets. Summaries are AI-written.</span>
+              <span class="why-short">Ranked by coverage across 2,400+ sources. No editor, no personal feed. AI summaries.</span>
             </p>
           </div>
         </div>
@@ -128,7 +130,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=14"></script>
+  <script type="module" src="assets/app.js?v=15"></script>
 
   <!-- Service worker registration -->
   <script>
