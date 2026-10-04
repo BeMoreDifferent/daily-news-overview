@@ -1,3 +1,5 @@
+import { setupAnalytics, trackEvent, trackPageView } from './analytics.js?v=11';
+
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
 const MAX_PROBE = 60;
@@ -574,6 +576,7 @@ function renderStories(date, data) {
 
 async function shareStory(date, rank, title) {
   const url = location.href.split('#')[0] + storyHash(date, rank);
+  trackEvent('share', { content_type: 'story', item_id: `${date}/${rank}` });
   if (navigator.share) {
     try {
       await navigator.share({ title, url });
@@ -817,6 +820,7 @@ async function route({ restoreScroll } = {}) {
 
   if (date !== current.date) {
     const loaded = await loadDate(date, { restoreScroll: rank ? null : restoreScroll });
+    if (current.date === date) trackPageView();
     if (loaded && rank) focusStory(rank, { instant: true });
     return;
   }
@@ -843,6 +847,7 @@ function setupRouting() {
   }
 }
 
+setupAnalytics();
 setupDatePicker();
 setupRankLinks();
 setupOverviewToggle();

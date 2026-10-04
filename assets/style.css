@@ -1552,7 +1552,76 @@ img {
   text-underline-offset: 3px;
 }
 
-/* ── Imprint page ─────────────────────────────────────────────────────────── */
+.footer-button {
+  color: var(--fg-muted);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
+}
+
+/* ── Consent banner ───────────────────────────────────────────────────────── */
+
+/* Both choices look the same: declining must be as easy as accepting. */
+.consent {
+  position: fixed;
+  right: max(var(--gutter), env(safe-area-inset-right));
+  bottom: calc(var(--gutter) + env(safe-area-inset-bottom, 0px));
+  left: max(var(--gutter), env(safe-area-inset-left));
+  z-index: 60;
+  max-width: 440px;
+  margin-left: auto;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg);
+  box-shadow: var(--glass-lift);
+}
+
+.consent[hidden] {
+  display: none;
+}
+
+.consent-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--fg-muted);
+}
+
+.consent-text {
+  margin-top: 6px;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.consent-text a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.consent-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.consent-btn {
+  min-height: var(--tap);
+  padding: 0 16px;
+  border: 1px solid var(--fg);
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.consent-btn[aria-pressed="true"] {
+  background: var(--fg);
+  color: var(--bg);
+}
+
+/* ── Imprint and privacy pages ─────────────────────────────────────────────────────────── */
 
 .page {
   flex: 1;
@@ -1582,7 +1651,22 @@ img {
   margin: 28px 0 6px;
 }
 
-.imprint p {
+.imprint p + p,
+.imprint ul,
+.imprint ul + p {
+  margin-top: 10px;
+}
+
+.imprint ul {
+  padding-left: 1.25em;
+}
+
+.imprint li + li {
+  margin-top: 6px;
+}
+
+.imprint p,
+.imprint li {
   max-width: 65ch;
   font-size: 1rem;
   line-height: 1.65;

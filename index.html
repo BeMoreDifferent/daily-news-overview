@@ -31,7 +31,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=10">
+  <link rel="stylesheet" href="assets/style.css?v=11">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -105,13 +105,24 @@
         <span id="footer-meta"></span>
         <span>Powered by <a href="https://www.filipa.ai/en/" target="_blank" rel="noopener noreferrer">filipa.ai</a></span>
         <a href="imprint.html">Imprint</a>
+        <a href="privacy.html">Privacy</a>
+        <button id="privacy-settings" class="footer-button" type="button">Privacy settings</button>
       </p>
     </div>
   </footer>
 
+  <section id="consent" class="consent" aria-labelledby="consent-title" hidden>
+    <h2 id="consent-title" class="consent-title">Analytics</h2>
+    <p class="consent-text">May we use Google Analytics to see which briefings are read? If you accept, Google sets cookies that recognise repeat visits. If you decline, no cookies are set and only anonymous, cookieless page counts are sent. You can change this any time under Privacy settings. <a href="privacy.html">Privacy policy</a></p>
+    <div class="consent-actions">
+      <button class="consent-btn" type="button" data-consent="denied">Decline</button>
+      <button class="consent-btn" type="button" data-consent="granted">Accept</button>
+    </div>
+  </section>
+
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=10"></script>
+  <script type="module" src="assets/app.js?v=11"></script>
 
   <!-- Service worker registration -->
   <script>
