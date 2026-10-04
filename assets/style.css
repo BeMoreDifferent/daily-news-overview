@@ -284,7 +284,6 @@ img {
     inset 0 1px 0 var(--glass-hi),
     inset 0 -2px 4px var(--glass-lo),
     var(--glass-lift);
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
 .date-button:active,
@@ -558,6 +557,19 @@ img {
 
     details[open]::details-content {
       block-size: auto;
+    }
+
+    @media (max-width: 639.98px) {
+      .toc-inline::details-content {
+        outline: 1px solid transparent;
+        box-shadow: 0 12px 32px rgb(0 0 0 / 0);
+        transition: block-size 0.25s ease, content-visibility 0.25s allow-discrete,
+          box-shadow 0.25s ease, outline-color 0.25s ease;
+      }
+
+      .toc-inline[open]::details-content {
+        outline-color: var(--border);
+      }
     }
   }
 }
@@ -931,6 +943,12 @@ img {
   margin-top: 6px;
 }
 
+.story-media-frame {
+  display: block;
+  border-radius: 8px;
+  background: var(--surface);
+}
+
 .story-media img {
   width: 100%;
   aspect-ratio: 1;
@@ -965,6 +983,7 @@ img {
     margin-right: calc(-1 * var(--gutter));
   }
 
+  .story--lead .story-media-frame,
   .story--lead .story-media img {
     border-radius: 0;
   }
@@ -1538,6 +1557,69 @@ img {
 @keyframes vt-out-right { to { opacity: 0; transform: translateX(48px); } }
 @keyframes vt-in-right { from { opacity: 0; transform: translateX(48px); } }
 @keyframes vt-in-left { from { opacity: 0; transform: translateX(-48px); } }
+
+/* ── Interaction motion ───────────────────────────────────────────────────── */
+/* Short and purposeful: colour eases on hover so pointer movement does not strobe, controls dip
+   when pressed to confirm the tap, chevrons turn with their panel, pictures fade in only when they
+   arrive late, and the consent banner rises instead of popping in. Movement is skipped when the
+   reader prefers reduced motion. Nothing animates on first render or inside a day change, so
+   content never flickers. */
+
+.icon-btn,
+.share-btn,
+.ref,
+.toc a,
+.pager-link,
+.coverage-title,
+.btn,
+.consent-btn {
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.date-button,
+.chip {
+  transition: box-shadow 0.15s ease, transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .icon-btn:active,
+  .share-btn:active,
+  .ref:active,
+  .btn:active,
+  .consent-btn:active {
+    transform: scale(0.94);
+    transition-duration: 0.08s;
+  }
+
+  .overview summary::after,
+  .toc-inline summary::after {
+    transition: transform 0.25s ease;
+  }
+
+  .story-media img {
+    transition: opacity 0.3s ease;
+  }
+
+  .story-media img.is-loading {
+    opacity: 0;
+  }
+
+  .consent {
+    transition: opacity 0.25s ease, transform 0.25s ease, display 0.25s allow-discrete;
+  }
+
+  .consent[hidden] {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  @starting-style {
+    .consent:not([hidden]) {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+  }
+}
 
 /* ── Hover (pointer devices only) ─────────────────────────────────────────── */
 

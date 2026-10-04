@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=16';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=18';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -394,10 +394,13 @@ function renderMedia(topic, isLead) {
 
   let index = 0;
   const caption = el('figcaption', {}, `Image: ${candidates[0].credit || 'publisher'}`);
+  // `src` must come last: browsers may start the request as soon as it is set, before the lazy
+  // loading, CORS and referrer attributes below would apply.
   const img = el('img', {
-    src: candidates[0].src,
     alt: '',
-    loading: isLead ? 'eager' : 'lazy', // hidden images (briefs on wide screens) are never fetched
+    // The lead is the largest thing on first paint; every other picture waits until it is near
+    // the viewport. Hidden images (briefs on wide screens) are never fetched.
+    loading: isLead ? 'eager' : 'lazy',
     fetchpriority: isLead ? 'high' : null,
     decoding: 'async',
     // Privacy: no referrer, and an anonymous (CORS) request, so no cookies are sent to or set by
@@ -405,11 +408,14 @@ function renderMedia(topic, isLead) {
     // next outlet's picture is tried; there is deliberately no fallback to a credentialed request.
     referrerpolicy: 'no-referrer',
     crossorigin: 'anonymous',
+    src: candidates[0].src,
   });
-  const figure = el('figure', { class: 'story-media' }, img, caption);
+  waitForPicture(img);
+  const figure = el('figure', { class: 'story-media' }, el('span', { class: 'story-media-frame' }, img), caption);
   img.addEventListener('error', () => {
     index += 1;
     if (index < candidates.length) {
+      waitForPicture(img);
       img.src = candidates[index].src;
       caption.textContent = `Image: ${candidates[index].credit || 'publisher'}`;
     } else {
@@ -418,6 +424,22 @@ function renderMedia(topic, isLead) {
     }
   });
   return figure;
+}
+
+// Pictures that arrive late fade in (CSS .is-loading); ones that load straight away, from the
+// cache or when revisiting a day, appear without a fade so nothing blinks. `complete` cannot tell
+// the two apart: lazy images report false until they are fetched, cached or not. The frame
+// behind the picture keeps the placeholder tint, so the fade never dips through to the page.
+const LATE_PICTURE_MS = 120;
+function waitForPicture(img) {
+  if (img.complete && img.naturalWidth) return;
+  const start = performance.now();
+  img.style.transition = '';
+  img.classList.add('is-loading');
+  img.addEventListener('load', () => {
+    if (performance.now() - start < LATE_PICTURE_MS) img.style.transition = 'none';
+    img.classList.remove('is-loading');
+  }, { once: true });
 }
 
 function renderCoverage(topic, story) {
@@ -443,10 +465,16 @@ function renderCoverage(topic, story) {
     type: 'button',
     'aria-expanded': 'false',
     onclick: () => {
-      const firstHidden = list.querySelector('li[hidden]');
+      const revealed = [...list.querySelectorAll('li[hidden]')];
       story.classList.toggle('is-expanded');
       applyCoverageLimit(story);
-      if (firstHidden) firstHidden.querySelector('a, div')?.focus();
+      if (revealed[0]) revealed[0].querySelector('a, div')?.focus();
+      if (story.classList.contains('is-expanded') && canAnimate()) {
+        revealed.forEach((item, i) => item.animate(
+          [{ opacity: 0, transform: 'translateY(-4px)' }, { opacity: 1, transform: 'none' }],
+          { duration: 200, delay: Math.min(i, 4) * 30, easing: 'ease-out', fill: 'backwards' },
+        ));
+      }
     },
   });
   return [list, more];
@@ -613,7 +641,7 @@ async function shareStory(date, rank, title) {
 function focusStory(rank, { instant = false } = {}) {
   const story = $(`story-${rank}`);
   if (!story) return;
-  story.scrollIntoView({ behavior: instant || reducedMotion.matches ? 'auto' : 'smooth', block: 'start' });
+  story.scrollIntoView({ behavior: instant || reducedMotion.matches ? 'instant' : 'smooth', block: 'start' });
   story.focus({ preventScroll: true });
 }
 
@@ -855,7 +883,7 @@ async function loadDate(date, { restoreScroll } = {}) {
   const showSkeleton = () => {
     skeleton = true;
     renderSkeleton();
-    window.scrollTo({ top: 0 });
+    window.scrollTo({ top: 0, behavior: 'instant' });
     nav.then(context => current.date === date && renderNav(date, context));
   };
   const timer = previous ? setTimeout(showSkeleton, SKELETON_DELAY_MS) : (showSkeleton(), null);
@@ -877,7 +905,9 @@ async function loadDate(date, { restoreScroll } = {}) {
     if (data) renderStories(date, data);
     else renderMissing(date, error);
     if (restoreScroll) restoreScroll();
-    else if (previous) window.scrollTo({ top: 0 });
+    // 'instant': html has scroll-behavior: smooth, which would scroll the whole new day past
+    // the reader while it slides in.
+    else if (previous) window.scrollTo({ top: 0, behavior: 'instant' });
   };
   if (previous && !skeleton) await swapDay(date > previous ? 'forward' : 'backward', update);
   else update();
