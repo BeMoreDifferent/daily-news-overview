@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=15';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=16';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -573,7 +573,7 @@ function renderStories(date, data) {
     const story = $(`story-${i + 1}`);
     const params = analyticsParams(date, topic, i + 1);
     storyParams.set(story, params);
-    return { el: story, params };
+    return { el: story, params, onRead: topic.id ? () => toWorker({ type: 'story-read', date, id: topic.id }) : null };
   }));
 }
 
@@ -750,6 +750,50 @@ function setupTapsDuringSlide() {
   });
 }
 
+// ── Unread badge (installed app) ─────────────────────────────────────────────
+// The service worker keeps the read stories and sets the app icon badge (see sw.js). The page
+// reports reads and asks for a refresh when it opens, returns to the foreground and hourly.
+
+const UNREAD_REFRESH_MS = 60 * 60 * 1000;
+const standalone = window.matchMedia('(display-mode: standalone)');
+
+// `ready` resolves to the active worker even when it does not control this page (hard reload).
+function toWorker(message) {
+  navigator.serviceWorker?.ready.then(reg => reg.active?.postMessage(message)).catch(() => {});
+}
+
+async function setupUnreadBadge() {
+  if (!('serviceWorker' in navigator)) return;
+  const refresh = () => toWorker({ type: 'refresh-unread' });
+  refresh();
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') refresh(); });
+  setInterval(refresh, UNREAD_REFRESH_MS);
+
+  // Background refresh while the app is closed. Chromium grants it to installed apps only; the
+  // browser decides the actual interval from how often the app is used.
+  try {
+    const reg = await navigator.serviceWorker.ready;
+    if (reg.periodicSync) await reg.periodicSync.register('refresh-unread', { minInterval: UNREAD_REFRESH_MS });
+  } catch { /* not installed or not permitted */ }
+
+  // Safari and macOS only show a badge with notification permission, which must be asked from a
+  // tap. Offer it in the installed app until the reader has decided.
+  const button = $('badge-settings');
+  const update = () => {
+    button.hidden = !(standalone.matches && 'setAppBadge' in navigator
+      && 'Notification' in window && Notification.permission === 'default');
+  };
+  button.addEventListener('click', async () => {
+    try {
+      await Notification.requestPermission();
+    } catch { /* dismissed */ }
+    update();
+    refresh();
+  });
+  standalone.addEventListener('change', update);
+  update();
+}
+
 function updateNotice() {
   const notice = $('notice');
   notice.hidden = navigator.onLine;
@@ -892,6 +936,7 @@ setupContentsDropdown();
 setupSwipe();
 setupTapsDuringSlide();
 setupRouting();
+setupUnreadBadge();
 updateNotice();
 window.addEventListener('online', updateNotice);
 window.addEventListener('offline', updateNotice);

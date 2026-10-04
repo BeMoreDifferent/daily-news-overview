@@ -33,7 +33,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=15">
+  <link rel="stylesheet" href="assets/style.css?v=16">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -115,6 +115,7 @@
         <a href="imprint.html">Imprint</a>
         <a href="privacy.html">Privacy</a>
         <button id="privacy-settings" class="footer-button" type="button">Privacy settings</button>
+        <button id="badge-settings" class="footer-button" type="button" hidden>Show unread count on app icon</button>
       </p>
     </div>
   </footer>
@@ -130,7 +131,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=15"></script>
+  <script type="module" src="assets/app.js?v=16"></script>
 
   <!-- Service worker registration -->
   <script>

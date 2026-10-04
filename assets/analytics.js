@@ -139,6 +139,9 @@ export function setupAnalytics() {
 //  - story_read: once per story and day view, after READ_THRESHOLD_MS. Counts readers per story.
 //  - story_time: the seconds read since the last report (read_seconds), sent when the day changes
 //    or the page is hidden. Summed in GA, it gives the total reading time per story.
+// Time is measured whatever the analytics choice: an item's onRead callback fires at the same
+// threshold to mark the story read on this device (the unread badge). Only the GA events need
+// consent; reading state never leaves the device.
 const READ_THRESHOLD_MS = 5000;
 const IDLE_AFTER_MS = 30000;
 const TICK_MS = 1000;
@@ -152,6 +155,7 @@ export function trackReading(items) {
 
 function readingTracker(items) {
   const params = new Map(items.map(item => [item.el, item.params]));
+  const onRead = new Map(items.map(item => [item.el, item.onRead]));
   const pendingMs = new Map();
   const totalMs = new Map();
   const inBand = new Set();
@@ -170,18 +174,22 @@ function readingTracker(items) {
   activity.forEach(type => addEventListener(type, active, { passive: true }));
 
   const tick = setInterval(() => {
-    if (!loaded || !inBand.size || document.visibilityState !== 'visible') return;
+    if (!inBand.size || document.visibilityState !== 'visible') return;
     if (performance.now() - lastActivity > IDLE_AFTER_MS) return;
     const share = TICK_MS / inBand.size;
     for (const story of inBand) {
       pendingMs.set(story, (pendingMs.get(story) || 0) + share);
       const total = (totalMs.get(story) || 0) + share;
       totalMs.set(story, total);
-      if (total >= READ_THRESHOLD_MS && total - share < READ_THRESHOLD_MS) gtag('event', 'story_read', params.get(story));
+      if (total >= READ_THRESHOLD_MS && total - share < READ_THRESHOLD_MS) {
+        onRead.get(story)?.();
+        if (loaded) gtag('event', 'story_read', params.get(story));
+      }
     }
   }, TICK_MS);
 
   const flush = () => {
+    if (!loaded) return pendingMs.clear();
     for (const [story, ms] of pendingMs) {
       if (ms >= 1000) gtag('event', 'story_time', { ...params.get(story), read_seconds: Math.round(ms / 1000) });
     }

@@ -28,7 +28,7 @@ The result is the top 15 stories of the day, published every morning, with an ar
 
 ## Privacy
 
-There are no accounts and no personalisation. Optional, consent-based analytics count which stories are read so the briefing can be improved. Details are in the [privacy policy](https://bemoredifferent.github.io/daily-news-overview/privacy.html).
+There are no accounts and no personalisation. Optional, consent-based analytics count which stories are read so the briefing can be improved. When the site is installed as an app, its icon shows how many of the latest briefing's stories are still unread. Which stories have been read is stored only on the device. Details are in the [privacy policy](https://bemoredifferent.github.io/daily-news-overview/privacy.html).
 
 ## Running it yourself
 
