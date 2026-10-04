@@ -857,17 +857,25 @@ img {
   font-variant-numeric: tabular-nums;
 }
 
+/* Status pill: set apart from the plain metadata by its tint, so it takes no "·" separator.
+   The separator's ::before slot is reused for the status dot. */
 .badge {
   display: inline-flex;
   align-items: center;
+  gap: 6px;
+  margin-left: 10px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, currentColor 12%, transparent);
+  line-height: 1.4;
 }
 
-.badge::after {
+.story-kicker-text > .badge::before {
   content: "";
-  order: -1;
+  flex-shrink: 0;
   width: 6px;
   height: 6px;
-  margin-right: 6px;
+  margin: 0;
   border-radius: 50%;
   background: currentColor;
 }
