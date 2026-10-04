@@ -22,6 +22,7 @@ node scripts/exportDailyTopics.js --backfill --force # Overwrite all existing fi
 node scripts/exportDailyTopics.js --recluster [--date D|--from D] [--no-summary]
                              # Re-run topic detection + export (daemon must be stopped: needs DB write lock)
                              # All export commands commit + push changes under news/ (--no-push to skip)
+node scripts/checkNewsImages.js [--date D] [--dry-run]  # Drop pictures the site cannot load from existing exports
 ```
 
 ### Code Quality
@@ -63,6 +64,7 @@ Node.js RSS feed fetcher that crawls 2400+ feeds, deduplicates via DuckDB primar
 - `feedCacheService.js` — TTL-based cache (`data/feed_cache.json`). Dirty flag prevents disk write when nothing changed. `shouldProcess()` skips feeds fetched within their `intervalMinutes` window.
 - `topicDetectionService.js` — TF-IDF (unigrams + bigrams) over all news headlines of a day (source_type 1). Unicode tokenizer with multilingual stopwords; syndicated identical headlines collapsed; centroid-guarded leader clustering (no single-link chaining) + centroid merge pass. Ranking: 0.45 source coverage (log) + 0.25 burst + 0.20 novelty + 0.10 persistence. `sampleHeadlines` are in centrality order; `[0]` is the representative headline.
 - `newsExportService.js` — picks ≤15 topics (one per theme), ≤5 articles per topic (one per outlet, central first, descriptions trimmed), writes `news/<date>.json`.
+- `imageCheckService.js` — run by the export: each article picture is requested once as the page would (anonymous CORS from `SITE_ORIGIN`, https) and dropped unless it is an image that allows the origin, so the site never logs failed image loads.
 - `newsPublisher.js` — `publishNews()`: idempotent commit + push of `news/` on `master`; used by the daemon (hourly) and `exportDailyTopics.js`.
 - `newsSummaryService.js` — one batched OpenAI Responses call per exported day (`SUMMARY_MODEL`, default `gpt-6-luna`, low reasoning, 2000 output-token cap, no retries, hard €0.02/day budget; typical ~$0.001/day) for English `title`/`summary` and cross-language duplicate merging. Falls back to extractive headlines on any failure.
 

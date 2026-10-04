@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { summarizeDay, summarizeTopics } from './newsSummaryService.js';
+import { dropUnloadableImages } from './imageCheckService.js';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
@@ -146,8 +147,9 @@ export async function writeNewsIndex() {
  * Export top topics for `date` to news/<date>.json (and refresh news/index.json).
  * `db` must implement getTopicsBetweenDates(start, end) and getArticlesForTopic(topicId, limit).
  * Returns number of articles written, or null if file already existed and force=false.
+ * Pictures the site could not load are dropped (imageCheckService); `imageCheck: false` skips it.
  */
-export async function exportNewsForDate(db, date, { force = false, summarize = true, summaryOptions = {} } = {}) {
+export async function exportNewsForDate(db, date, { force = false, summarize = true, summaryOptions = {}, imageCheck = true } = {}) {
   await fs.mkdir(NEWS_DIR, { recursive: true });
 
   const outPath = path.join(NEWS_DIR, `${date}.json`);
@@ -165,6 +167,7 @@ export async function exportNewsForDate(db, date, { force = false, summarize = t
     const rows = await db.getArticlesForTopic(topic.id, TOPIC_ARTICLE_POOL);
     topicObjects.push(buildTopicObj(topic, pickArticles(topic, rows)));
   }
+  if (imageCheck) await dropUnloadableImages(topicObjects, imageCheck === true ? {} : imageCheck);
 
   let overview = null;
   if (summarize) {

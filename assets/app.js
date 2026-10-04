@@ -1,4 +1,4 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=18';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=19';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -19,6 +19,13 @@ let current = { date: null, data: null };
 let storyParams = new WeakMap();
 
 // ── Dates ────────────────────────────────────────────────────────────────────
+
+// The pattern alone lets through days like 2026-13-45, which no briefing or date input accepts.
+function isDate(str) {
+  if (!DATE_RE.test(str)) return false;
+  const d = new Date(str + 'T00:00:00Z');
+  return !isNaN(d) && d.toISOString().slice(0, 10) === str;
+}
 
 function todayUTC() {
   return new Date().toISOString().slice(0, 10);
@@ -51,11 +58,23 @@ function formatUpdated(iso) {
 }
 
 // ── Data ─────────────────────────────────────────────────────────────────────
+// Requests are only made for files that exist: every failed load (a 404, or the service worker's
+// 503 for a day not saved offline) is logged as an error in the page console.
+
+// Offline, the saved copy is read directly from the service worker's cache; a missing one fails
+// as 'offline' without a request.
+async function fetchNews(path) {
+  if (!navigator.onLine && 'caches' in window) {
+    const cached = await caches.match(new URL(path, location.href).href).catch(() => null);
+    if (cached) return cached;
+    throw new Error('offline');
+  }
+  return fetch(path).catch(() => { throw new Error('offline'); });
+}
 
 async function fileExists(date) {
   try {
-    const res = await fetch(`news/${date}.json`, { method: 'GET' });
-    return res.ok;
+    return (await fetchNews(`news/${date}.json`)).ok;
   } catch {
     return false;
   }
@@ -66,7 +85,7 @@ async function fileExists(date) {
 let indexPromise = null;
 function loadIndex() {
   if (!indexPromise) {
-    indexPromise = fetch('news/index.json')
+    indexPromise = fetchNews('news/index.json')
       .then(res => (res.ok ? res.json() : null))
       .then(data => (Array.isArray(data?.dates) ? data.dates.filter(d => DATE_RE.test(d)).sort() : null))
       .catch(() => null);
@@ -94,14 +113,18 @@ async function findLatestDate() {
 
 // One request per day and session. Neighbouring days are prefetched here, so stepping between
 // days swaps content without a network wait. Failed loads are forgotten, so Retry refetches.
+// Days missing from the index are not requested at all.
 const dayCache = new Map();
 function getDay(date) {
   if (!dayCache.has(date)) {
-    const promise = fetch(`news/${date}.json`).then(res => {
+    const promise = loadIndex().then(dates => {
+      if (dates && !dates.includes(date)) throw new Error('not_found');
+      return fetchNews(`news/${date}.json`);
+    }).then(res => {
       if (res.status === 503) throw new Error('offline');
       if (!res.ok) throw new Error('not_found');
       return res.json();
-    }, () => { throw new Error('offline'); });
+    });
     promise.catch(() => dayCache.delete(date));
     dayCache.set(date, promise);
   }
@@ -394,7 +417,7 @@ function renderMedia(topic, isLead) {
 
   let index = 0;
   const caption = el('figcaption', {}, `Image: ${candidates[0].credit || 'publisher'}`);
-  // `src` must come last: browsers may start the request as soon as it is set, before the lazy
+  // `src` is set last: browsers may start the request as soon as it is set, before the lazy
   // loading, CORS and referrer attributes below would apply.
   const img = el('img', {
     alt: '',
@@ -408,9 +431,11 @@ function renderMedia(topic, isLead) {
     // next outlet's picture is tried; there is deliberately no fallback to a credentialed request.
     referrerpolicy: 'no-referrer',
     crossorigin: 'anonymous',
-    src: candidates[0].src,
   });
   waitForPicture(img);
+  // Offline, a picture request can only fail (and log an error); it waits for the connection.
+  if (navigator.onLine) img.src = candidates[0].src;
+  else img.dataset.src = candidates[0].src;
   const figure = el('figure', { class: 'story-media' }, el('span', { class: 'story-media-frame' }, img), caption);
   img.addEventListener('error', () => {
     index += 1;
@@ -661,7 +686,7 @@ function setupDatePicker() {
 
   input.addEventListener('change', async () => {
     const picked = input.value;
-    if (!DATE_RE.test(picked) || picked === current.date) return;
+    if (!isDate(picked) || picked === current.date) return;
     const dates = await loadIndex();
     // Snap to the closest earlier briefing (or the first one) when the picked day has none.
     const target = dates ? (dates.filter(d => d <= picked).pop() || dates[0]) : picked;
@@ -838,7 +863,7 @@ function isRoute(hash) {
 
 function parseHash() {
   const [date, rank] = location.hash.slice(1).split('/');
-  return { date: DATE_RE.test(date) ? date : null, rank: /^\d{1,2}$/.test(rank || '') ? +rank : null };
+  return { date: isDate(date) ? date : null, rank: /^\d{1,2}$/.test(rank || '') ? +rank : null };
 }
 
 // Day changes slide in the direction of travel (View Transitions API with transition types);
@@ -968,7 +993,13 @@ setupTapsDuringSlide();
 setupRouting();
 setupUnreadBadge();
 updateNotice();
-window.addEventListener('online', updateNotice);
+window.addEventListener('online', () => {
+  updateNotice();
+  document.querySelectorAll('.story-media img[data-src]').forEach(img => {
+    img.src = img.dataset.src;
+    delete img.dataset.src;
+  });
+});
 window.addEventListener('offline', updateNotice);
 tablet.addEventListener('change', () => document.querySelectorAll('.story[data-tier]').forEach(applyCoverageLimit));
 route();

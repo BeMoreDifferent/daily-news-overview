@@ -19,8 +19,8 @@
  * returns to the foreground, and hourly while it stays open (`refresh-unread` messages).
  */
 
-const CACHE_VERSION = 'v18';
-const ASSET_VERSION = '18';
+const CACHE_VERSION = 'v19';
+const ASSET_VERSION = '19';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 
@@ -31,6 +31,7 @@ const SHELL_ASSETS = [
   `./assets/app.js?v=${ASSET_VERSION}`,
   `./assets/analytics.js?v=${ASSET_VERSION}`,
   './manifest.json',
+  './icons/favicon-32.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
 ];
