@@ -1,0 +1,918 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-05T00:35:00.434Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Japanese police arrested a U.S. Marine on suspicion of robbing and murdering a woman in Okinawa, prompting a formal protest from Japan’s government.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "German Chancellor Friedrich Merz visited Kyiv to reaffirm support for Ukraine and announce further measures as Russian attacks on the city intensified.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "Iran’s parliament speaker said the Strait of Hormuz would remain closed until the U.S. naval blockade and economic pressure end and Iranian assets are released.",
+        "stories": [
+          12
+        ]
+      },
+      {
+        "text": "Brazil began voting in its presidential election, with incumbent Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro polling nearly evenly.",
+        "stories": [
+          13
+        ]
+      },
+      {
+        "text": "Thousands of Imran Khan supporters began marching toward Islamabad to demand his release as authorities set up roadblocks.",
+        "stories": [
+          8
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_bb9cb22e2ebb934a",
+      "title": "US Marine Arrested in Okinawa Woman’s Murder",
+      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "label": [
+        "marine",
+        "arrested",
+        "japan",
+        "murder",
+        "okinawa",
+        "woman"
+      ],
+      "category": "new",
+      "theme": "theme_37e9b0472e692c1c",
+      "entities": [
+        "US Marine",
+        "Okinawa",
+        "Japan",
+        "Marine",
+        "US"
+      ],
+      "article_count": 32,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do",
+          "source": "BBC News",
+          "published_at": "2026-10-04T14:36:57.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg",
+          "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
+        },
+        {
+          "title": "US Marine arrested on suspicion of murdering woman in Japan",
+          "url": "https://www.thejournal.ie/us-marine-arrested-murder-woman-japan-7181875-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-04T08:32:14.000Z",
+          "description": "Devin Jacob Ballard, 20, is suspected of killing 39-year-old Anna Yagi at a hotel in Okinawa."
+        },
+        {
+          "title": "US Marine arrested in Japan for alleged murder of a woman",
+          "url": "https://globalnews.ca/news/12087172/us-marine-arrested-in-japan",
+          "published_at": "2026-10-04T17:01:55.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/Japan-aircraft-e1791133293373.jpg?quality=65&strip=all",
+          "description": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday. American troop presence is a sensitive issue on the island."
+        },
+        {
+          "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+          "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-04T15:15:09.000Z",
+          "description": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
+        },
+        {
+          "title": "US Marine arrested on suspicion of murder in Japan’s Okinawa",
+          "url": "https://www.investing.com/news/world-news/us-marine-arrested-on-suspicion-of-murder-in-japans-okinawa-4930901",
+          "source": "All News",
+          "published_at": "2026-10-04T01:48:07.000Z"
+        }
+      ],
+      "summary": "Japanese police arrested a 20-year-old U.S. Marine on suspicion of robbing and murdering a 39-year-old woman in Okinawa. Japan’s government lodged a formal protest with the United States."
+    },
+    {
+      "id": "topic_b5bfec0d836a20fd",
+      "title": "Taylor Swift Makes Surprise Cameo in Dakota Johnson’s SNL Monologue",
+      "headline": "Watch Taylor Swift crash Dakota Johnsons SNL monologue",
+      "label": [
+        "dakota",
+        "swift",
+        "johnson",
+        "taylor",
+        "snl",
+        "monologue"
+      ],
+      "category": "new",
+      "theme": "theme_641c443499d558c2",
+      "entities": [
+        "Watch Taylor Swift",
+        "Dakota Johnsons SNL",
+        "Taylor Swift",
+        "Dakota Johnson",
+        "SNL"
+      ],
+      "article_count": 15,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Watch Taylor Swift crash Dakota Johnsons SNL monologue",
+          "url": "https://mashable.com/entertainment/snl-taylor-swift-dakota-johnson",
+          "source": "Mashable",
+          "published_at": "2026-10-04T13:49:25.000Z",
+          "description": "Taylor Swift popped into Dakota Johnson's \"SNL\" monologue. The pair recently collaborated on Swift's \"Patient Zero\" music video."
+        },
+        {
+          "title": "Taylor Swift crashes Dakota Johnson's SNL monologue, jokes about her exes",
+          "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-crashes-dakota-johnsons-snl-monologue-jokes-about-her-exes-3009347-2026-10-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T13:15:03.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/dakota-johnson-and-taylor-swift-on-snl-040824986-16x9_0.jpg?VersionId=yqHKWpuRZDPvwVt4.JnEUJFMP5ft7Mqb",
+          "description": "Taylor Swift crashes Dakota Johnsons SNL monologue jokes about her exes"
+        },
+        {
+          "title": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue",
+          "url": "https://www.billboard.com/culture/tv-film/taylor-swift-dakota-johnson-snl-monologue-1236353893",
+          "source": "Billboard",
+          "published_at": "2026-10-04T04:24:47.000Z",
+          "description": "The bit ended with Swift noting she sends Johnson home with \"a Pedialyte\" and a security escort."
+        },
+        {
+          "title": "Taylor Swift Surprises SNL as Dakota Johnson’s Breakup Therapist",
+          "url": "https://internewscast.com/news/taylor-swift-surprises-snl-as-dakota-johnsons-breakup-therapist",
+          "source": "Internewscast",
+          "published_at": "2026-10-04T06:35:43.000Z",
+          "description": "Internewscast Internewscast Taylor Swift made a surprise appearance on Saturday Night Live Saturday, backing… This Post: Taylor Swift Surprises SNL as Dakota Johnson’s Breakup Therapist first appeared on Internewscast"
+        },
+        {
+          "title": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
+          "url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411",
+          "source": "Variety",
+          "published_at": "2026-10-04T03:49:52.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Taylor.jpeg",
+          "description": "Predictions that Taylor Swift would make a cameo on “Saturday Night Live” with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said “I have really good friends. They don’t judge me, they’re really…"
+        }
+      ],
+      "summary": "Taylor Swift appeared during Dakota Johnson’s opening monologue on Saturday Night Live, joining a bit about breakups and exes. The two recently collaborated on Swift’s “Patient Zero” music video."
+    },
+    {
+      "id": "topic_80e4c7c7b8fb2153",
+      "title": "US Withdraws Bombers from UK Base After Suspected Terror Plot",
+      "headline": "U.S. Air Force removes all bombers from British air base targeted in a suspected terror plot",
+      "label": [
+        "bombers",
+        "base",
+        "removes",
+        "terror",
+        "uk",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_c77be0deeae13239",
+      "entities": [
+        "Air Force",
+        "British",
+        "US",
+        "UK",
+        "Iran"
+      ],
+      "article_count": 16,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terror plot",
+          "url": "https://www.nbcnews.com/news/us-news/air-force-removes-bombers-british-base-targeted-suspected-terror-plot-rcna601484",
+          "source": "NBC News World News",
+          "published_at": "2026-10-04T22:14:47.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260927-fairford-england-bomb-threat-ww-1255-2a604f.jpg",
+          "description": "The U.S. Air Force has brought home all of its bombers stationed at RAF Fairford, a U.S.-run military air base in England used to strike Iran, following an investigation into a planned terror attack at the base."
+        },
+        {
+          "title": "US removes B-1 bombers from UK base after suspected Iran-linked terror plot",
+          "url": "https://www.indiatoday.in/world/story/b-1-bombers-withdrawn-from-raf-fairford-after-alleged-iran-linked-plot-3009529-2026-10-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T21:50:20.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/a-usaf-b-1-bomber-04431971-16x9_0.jpg?VersionId=_SDEh0bi9eEkFFfHKe1BkWAaL36ZzdoZ",
+          "description": "US removes B bombers from UK base after suspected Iranlinked terror plot"
+        },
+        {
+          "title": "US removes all B-1 bombers from UK air base amid safety concerns after suspected terror plot",
+          "url": "https://www.dailymail.com/news/article-16182599/us-removes-b-1-bombers-uk-air-base-suspected-terror-plot.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-04T21:05:22.000Z",
+          "description": "The air base in England was used as a hub for launching American bomber strikes in Iran. The withdrawal comes just one week after an alleged terror plot was uncovered at the base."
+        },
+        {
+          "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+          "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-04T22:30:39.000Z",
+          "description": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base"
+        },
+        {
+          "title": "US withdraws all bombers from UK's Fairford base after suspected terror plot",
+          "url": "https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-04T21:32:59.000Z",
+          "description": "The United States has withdrawn all bombers from RAF Fairford following an investigation into a suspected terror plot. The withdrawal occurred shortly after several people were arrested in connection with the alleged attack plans. British authorities indicated potential Iranian involvement, while T…"
+        }
+      ],
+      "summary": "The U.S. Air Force withdrew all its bombers from RAF Fairford in England after an investigation into a suspected terror plot at the base. Several people were arrested in connection with the alleged plot."
+    },
+    {
+      "id": "topic_5295f9f98b22ea96",
+      "title": "UK Green Party Adopts Motion Calling Zionism Racism",
+      "headline": "Green Party members back 'Zionism is racism' motion",
+      "label": [
+        "zionism",
+        "racism",
+        "green",
+        "party",
+        "uk",
+        "adopts"
+      ],
+      "category": "new",
+      "theme": "theme_4197cbd3c4876611",
+      "entities": [
+        "Green Party",
+        "Zionism",
+        "Green",
+        "UK Green Party Says",
+        "Zionism Is Racism"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Green Party members back 'Zionism is racism' motion",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go",
+          "source": "BBC News",
+          "published_at": "2026-10-04T15:00:23.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/6d89be10-bfdc-11f1-b4e6-d96c2bf27b65.jpg",
+          "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
+        },
+        {
+          "title": "Green party votes to adopt policy that equates Zionism with racism",
+          "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-10-04T14:58:27.000Z",
+          "image": "https://i.guim.co.uk/img/media/646c5bd0acff2a6e80dc86cc72551c0b2a11e17a/0_0_3874_3099/master/3874.jpg?width=140&quality=85&auto=format&fit=max&s=78253a859de013fc77725bc9dc3dc4d6",
+          "description": "Motion calling for single Palestinian state, which is opposed by most Green MPs, passes by 1,022 votes to 813 at party’s conference UK politics live – latest updates The Greens have formally adopted a policy which equates Zionism with racism and calls for Israel to be replaced by a single Palestini…"
+        },
+        {
+          "title": "UK Green Party Says ‘Zionism Is Racism,’ Backs Ending Israel",
+          "url": "https://internewscast.com/news/us/uk-green-party-says-zionism-is-racism-backs-ending-israel",
+          "source": "Internewscast",
+          "published_at": "2026-10-04T21:44:57.000Z",
+          "description": "Internewscast Internewscast The UK Green Party has adopted a policy declaring “Zionism is Racism,”… This Post: UK Green Party Says ‘Zionism Is Racism,’ Backs Ending Israel first appeared on Internewscast"
+        },
+        {
+          "title": "Green Party members back 'Zionism is racism' motion",
+          "url": "https://news.google.com/rss/articles/cbmiw0fvx3lxtfbwt2lftdyzug1zqnzjzwrqbgdlt2ngtklnn25achn3evfgtznzq0gyunjmqnnraknjwucytfznz3l2bi1kogr1qklbbgfsunl3adz5tmxwu0ngz1u",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T20:51:36.000Z",
+          "description": "Green Party members back 'Zionism is racism' motion BBC Britain’s Greens have voted, shamefully, to say Zionism is racism The Economist Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’ Al Jazeera Britain's Green Party votes to class Zionism as a form of racism Reuters Gree…"
+        },
+        {
+          "title": "UK Green Party adopts 'Zionism is racism' policy; Israel responds",
+          "url": "https://www.indiatoday.in/world/uk-news/story/britain-green-party-adopts-zionism-is-racism-policy-israel-responds-to-controversial-motion-3009478-2026-10-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T16:40:40.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/green-party-043915335-16x9_0.png?VersionId=j6MEiI6uWf67qjaHlfl5Io848e8rszvz",
+          "description": "UK Green Party adopts Zionism is racism policy Israel responds"
+        }
+      ],
+      "summary": "Members of the UK Green Party passed a motion declaring “Zionism is racism” at the party’s conference. The motion also called for a single Palestinian state and prompted divisions within the party."
+    },
+    {
+      "id": "topic_72533916979029b7",
+      "title": "Germany’s Merz Visits Kyiv as Russia Strikes City",
+      "headline": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "label": [
+        "visits",
+        "kyiv",
+        "merz",
+        "germany",
+        "russia",
+        "strikes"
+      ],
+      "category": "new",
+      "theme": "theme_9eed6ca3ab7d7656",
+      "entities": [
+        "Germany",
+        "Merz",
+        "Kyiv",
+        "Russia",
+        "Ukrainian"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+          "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-04T08:13:00.000Z",
+          "description": "A Kyiv bridge was hit by a Russian drone shortly after Chancellor Merz arrived in the Ukrainian capital. During his visit, Merz is set to announce new measures to support Ukraine, including plans for drone production."
+        },
+        {
+          "title": "Germany’s Merz visits Kyiv amid fears of ‘hardest’ winter in war",
+          "url": "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war",
+          "source": "POLITICO",
+          "published_at": "2026-10-04T05:22:13.000Z",
+          "description": "The visit is overshadowed by heavy Russian attacks on Kyiv as well as tensions over Ukraine's EU membership prospects"
+        },
+        {
+          "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/04/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities_6758230_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-04T08:16:48.000Z",
+          "description": "The German chancellor was visiting Kyiv as Moscow has intensified attacks on the Ukrainian capital."
+        },
+        {
+          "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+          "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-04T11:58:14.000Z",
+          "description": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital."
+        },
+        {
+          "title": "Russia strikes Kyiv bridge as Germany’s Merz visits, pledges aid",
+          "url": "https://www.scmp.com/news/world/europe/article/3369698/russia-strikes-kyiv-bridge-germanys-merz-visits-pledges-aid",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-04T09:55:12.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/04/acd1bb41-d44f-4a3a-83cf-a3a3ec4129b5_6716404f.jpg?itok=zA52Vn5a&v=1791107710",
+          "description": "Russia struck a bridge in Kyiv on Sunday soon after Germany’s chancellor arrived in Ukraine’s capital on a surprise visit to demonstrate European support in the face of an upsurge in attacks. Air raid sirens blared across Kyiv, urging residents to shelter soon after Friedrich Merz arrived under tig…"
+        }
+      ],
+      "summary": "German Chancellor Friedrich Merz made a surprise visit to Kyiv to reaffirm support for Ukraine and announce further measures, including arms agreements. The visit came amid intensified Russian attacks, including a strike on a Kyiv bridge."
+    },
+    {
+      "id": "topic_fdb19b577fa0b163",
+      "title": "Nikola Bartunkova Stuns Aryna Sabalenka at China Open",
+      "headline": "Aryna Sabalenka swept by Nikola Bartunkova in China Open third round",
+      "label": [
+        "sabalenka",
+        "bartunkova",
+        "china",
+        "open",
+        "aryna",
+        "swept"
+      ],
+      "category": "new",
+      "theme": "theme_e9761aa51a06bfe2",
+      "entities": [
+        "Aryna Sabalenka",
+        "Nikola Bartunkova",
+        "China Open",
+        "Sabalenka",
+        "Bartunkova"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Aryna Sabalenka swept by Nikola Bartunkova in China Open third round",
+          "url": "https://sports.inquirer.net/700057/aryna-sabalenka-swept-by-nikola-bartunkova-in-china-open-third-round",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-04T07:15:55.000Z",
+          "image": "https://sports.inquirer.net/files/2026/10/AP26277177586246-620x413.jpg",
+          "description": "Aryna Sabalenka was swatted aside in straight sets by 34th-ranked Nikola Bartunkova in the third round of the China Open on Sunday, leaving the event without its top two seeds. Czech player Bartunkova, 20, sent down four aces to beat the former world number one 6-4, 6-3 in one hour and 35 minutes.…"
+        },
+        {
+          "title": "Aryna Sabalenka swept out of China Open in straight-sets defeat by Nikola Bartunkova",
+          "url": "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
+          "source": "The Guardian",
+          "published_at": "2026-10-04T09:34:43.000Z",
+          "image": "https://i.guim.co.uk/img/media/c2ca323377a0c4d8972e5a57902de3508e7eddab/271_0_4122_3298/master/4122.jpg?width=140&quality=85&auto=format&fit=max&s=8d38f462c3580a5f8cd8046ed5d06fc8",
+          "description": "Second seed loses to 34th-ranked player from Czechia Top seed Elena Rybakina also lost in Beijing Aryna Sabalenka was swatted aside in straight sets by 34th-ranked Nikola Bartunkova in the third round of the China Open on Sunday, leaving the event without its top two seeds. Czech player Bartunkova,…"
+        },
+        {
+          "title": "Aryna Sabalenka slammed for what she did straight after losing to Nikola Bartunkova at the China Open",
+          "url": "https://sports.yahoo.com/articles/aryna-sabalenka-slammed-she-did-090000765.html",
+          "published_at": "2026-10-04T09:00:00.000Z",
+          "description": "Aryna Sabalenka suffered a shock defeat to Nikola Bartunkova in just her second match at the China Open. Sabalenka lost in the US Open final..."
+        },
+        {
+          "title": "Sabalenka stunned by Bartunkova at China Open",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo",
+          "source": "BBC Sport",
+          "published_at": "2026-10-04T07:30:23.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cfa/live/8e473cf0-bfc2-11f1-be90-73414311d321.jpg",
+          "description": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova."
+        },
+        {
+          "title": "Sabalenka swept out of China Open in third round",
+          "url": "https://tribune.com.pk/story/2632921/sabalenka-swept-out-of-china-open-in-third-round",
+          "source": "express tribune",
+          "published_at": "2026-10-04T02:34:21.000Z",
+          "description": "Bartunkova stuns the second seed 6-4, 6-3 to reach the last 16"
+        }
+      ],
+      "summary": "Czech player Nikola Bartunkova defeated second seed Aryna Sabalenka in straight sets in the China Open’s third round. Top seed Elena Rybakina had also been eliminated, leaving the tournament without its top two seeds."
+    },
+    {
+      "id": "topic_630f1c0c9b44aa1c",
+      "title": "Ireland Faces Israel in Nations League Match",
+      "headline": "LIVE: Ireland v Israel, Nations League",
+      "label": [
+        "ireland",
+        "league",
+        "nations",
+        "israel",
+        "clash",
+        "overshadowed"
+      ],
+      "category": "new",
+      "theme": "theme_1fe5c80eec3e9d68",
+      "entities": [
+        "Ireland",
+        "Israel",
+        "Nations League",
+        "Wales",
+        "Denmark"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "LIVE: Ireland v Israel, Nations League",
+          "url": "https://www.the42.ie/live-ireland-v-israel-nations-league-7182215-oct2026",
+          "source": "The 42",
+          "published_at": "2026-10-04T18:16:31.000Z",
+          "description": "Ireland face Israel, in their final match of this four-game window."
+        },
+        {
+          "title": "Wales v Denmark, Republic of Ireland v Israel and more: Nations League – live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/04/wales-v-denmark-republic-of-ireland-v-israel-and-more-nations-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-10-04T18:31:33.000Z",
+          "image": "https://i.guim.co.uk/img/media/6d136bb94e346c6851fbf33374308fb5fab1a12c/499_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=33542aa72e73d8e69960e6b1b8a37a05",
+          "description": "⚽️ Nations League updates from 7.45pm kick-offs ⚽️ Live scoreboard | And mail Daniel Ronaldo may have thrown his toys out the cot and stormed off in a huff, but he remains the greatest player his country has ever produced. Bruno Fernandes says the tantrum doesn’t dilute big Ron’s legacy: The 2 “jou…"
+        },
+        {
+          "title": "Ireland–Israel nations League clash overshadowed by political tensions",
+          "url": "https://www.france24.com/en/video/20261004-ireland%e2%80%93israel-nations-league-clash-overshadowed-by-political-tensions",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-04T08:27:07.000Z",
+          "description": "Ireland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players wore black armbands in support of Gaza and pointedly lowered their heads during the Israeli national…"
+        },
+        {
+          "title": "What time and TV channel is Ireland v Israel on in the UEFA Nations League?",
+          "url": "https://www.irishmirror.ie/sport/soccer/soccer-news/what-time-tv-channel-ireland-37733728",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-04T17:37:49.000Z",
+          "description": "Heimir Hallgrímsson’s men wrap up their four-game window on Sunday night when they play Israel in Backa Topola"
+        },
+        {
+          "title": "Is Republic of Ireland v Israel on TV? Channel, kick-off time and how to watch Nations League clash",
+          "url": "https://sports.yahoo.com/articles/republic-ireland-v-israel-tv-050000454.html",
+          "published_at": "2026-10-04T05:00:00.000Z",
+          "description": "Everything you need to know as the two sides meet again"
+        }
+      ],
+      "summary": "Ireland is set to play Israel in the Nations League, completing its four-game window. The match follows their previous meeting in Bulgaria and is taking place amid political tensions."
+    },
+    {
+      "id": "topic_859f0e0ff749887d",
+      "title": "Imran Khan Supporters Begin March Toward Islamabad",
+      "headline": "Imran Khan supporters march on Islamabad to demand his release after talks failed",
+      "label": [
+        "imran",
+        "khan",
+        "march",
+        "islamabad",
+        "talks",
+        "supporters"
+      ],
+      "category": "new",
+      "theme": "theme_f6b53dd4ac0be800",
+      "entities": [
+        "Imran Khan",
+        "Islamabad",
+        "PTI",
+        "Pakistan",
+        "Supporters"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Imran Khan supporters march on Islamabad to demand his release after talks failed",
+          "url": "https://www.thestar.com/news/world/asia/imran-khan-supporters-march-on-islamabad-to-demand-his-release-after-talks-failed/video_4c29a6d9-3596-4813-a953-11f4a10c1479.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-10-04T22:20:00.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/c2/4c29a6d9-3596-4813-a953-11f4a10c1479/6ac2d15f8650a.image.jpg?resize=300%2C169",
+          "description": "More than 5,000 supporters of imprisoned former Pakistani Prime Minister Imran Khan began a dayslong march toward Islamabad on Sunday to demand his release, after talks between the government and the opposition fell through. (Oct. 4, 2026)"
+        },
+        {
+          "title": "PTI to march on Islamabad after Imran Khan access talks collapse",
+          "url": "https://www.indiatoday.in/world/story/imran-khan-pti-protest-march-islamabad-talks-collapse-ptag-3009145-2026-10-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T06:28:33.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/pti-international-3-original_37-sixteen_nine.png?VersionId=rLC1XjBO6FVS1HY_q9MdQyJW0ZCU0.r."
+        },
+        {
+          "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-04T19:53:55.000Z",
+          "description": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad."
+        },
+        {
+          "title": "Supporters of Imran Khan begin ‘long march’ to Islamabad",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3369723/supporters-imran-khan-begin-long-march-islamabad",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-04T15:23:05.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/04/8af93a1d-8778-49b8-8f63-e4579414d954_e10a7f60.jpg?itok=gpxYVt7y&v=1791127376",
+          "description": "A march protesting against the imprisonment of former Pakistani prime minister Imran Khan kicked off in northwest Pakistan on Sunday after talks to avoid the demonstration stalled. Authorities have been preparing for weeks for the possible arrival of demonstrators in Islamabad, with the march plann…"
+        },
+        {
+          "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
+          "url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-04T18:22:00.000Z",
+          "description": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay."
+        }
+      ],
+      "summary": "Thousands of supporters of imprisoned former Pakistani Prime Minister Imran Khan began marching toward Islamabad to demand his release. The demonstration followed stalled talks, and authorities set up roadblocks."
+    },
+    {
+      "id": "topic_115967813531ab3a",
+      "title": "Trump Announces AI “Super Intelligence Force”",
+      "headline": "Trump announces AI \"Super Intelligence Force\"",
+      "label": [
+        "force",
+        "intelligence",
+        "super",
+        "trump",
+        "announces",
+        "ai"
+      ],
+      "category": "trending",
+      "theme": "theme_4b75e47dae9b834e",
+      "entities": [
+        "Trump",
+        "AI",
+        "Super Intelligence Force",
+        "Trump Announces Super Intelligence",
+        "Force Led"
+      ],
+      "article_count": 21,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Trump announces AI \"Super Intelligence Force\"",
+          "url": "https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-04T13:25:08.000Z",
+          "description": "President Trump announced the formation of a \"Super Intelligence Force\" after meeting with leaders of the country's largest artificial intelligence companies last week."
+        },
+        {
+          "title": "Trump announces establishment of Super Intelligence Force",
+          "url": "https://tass.com/world/2197421",
+          "source": "TASS",
+          "published_at": "2026-10-04T17:38:32.000Z",
+          "description": "According to the US leader, the Force will coordinate the efforts by the federal authorities, consumers, public and religious organizations, critical infrastructure providers, and technology companies"
+        },
+        {
+          "title": "Trump unveils his new Super Intelligence Force",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
+          "source": "TechCrunch",
+          "published_at": "2026-10-04T15:15:10.000Z",
+          "description": "This new task force is Trump's latest response to the debate over AI safety."
+        },
+        {
+          "title": "Trump Announces Super Intelligence Force Led by Four Officials",
+          "url": "https://www.unite.ai/trump-announces-super-intelligence-force-led-by-four-officials",
+          "source": "Unite.AI",
+          "published_at": "2026-10-04T15:48:01.000Z",
+          "description": "President Donald Trump on October 4, 2026, announced the formation of the Super Intelligence Force in a post on his Truth Social account, naming four administration officials to lead a body he said will coordinate the federal government's effort to ensure America continues to lead the world in supe…"
+        },
+        {
+          "title": "Trump announces formation of AI \"Super Intelligence Force\"",
+          "url": "https://news.google.com/rss/articles/cbmigafbvv95cuxpbzn5afk5yxq1bxndrvbtc25ismg1mkjxqja3nznls3nrmum2nlvxtfdnvghzuw1iewg3swvrbwhaqjnhwmrnufbydxgtzehbcfrmzxe1amfkeewtcg1zafl6nxdmn3lzwng2rtiymzc4wvppd1n3r0jlvnlimtnhra",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T16:40:35.000Z",
+          "description": "Trump announces formation of AI \"Super Intelligence Force\" CBS News Trump announces leadership of AI task force CNN President Donald Trump announces creation of 'Super Intelligence Force' AI task force ABC News - Breaking News, Latest News and Videos Exclusive | New AI Czar Unveils Goals, Members o…"
+        }
+      ],
+      "summary": "President Donald Trump announced the formation of a “Super Intelligence Force” after meeting with leaders of major artificial intelligence companies. He named four administration officials to lead the body."
+    },
+    {
+      "id": "topic_aac27d0da766c3d3",
+      "title": "Avengers: Endgame Reclaims Highest-Grossing Film Title",
+      "headline": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History - Variety",
+      "label": [
+        "endgame",
+        "avengers",
+        "avatar",
+        "grossing",
+        "highest",
+        "movie"
+      ],
+      "category": "new",
+      "theme": "theme_8be7a4bc301d4a1e",
+      "entities": [
+        "Avengers",
+        "Endgame",
+        "Overtakes",
+        "Avatar",
+        "Highest"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History",
+          "url": "https://news.google.com/rss/articles/cbmipwfbvv95cuxqrehpc1f0bm53yxjqs0tubwdor1fnnvlumkr3ywlfzkhmbzzstdjnwkxmcezznezvrvm1y0vjq0dovhfgwxpnv2dwrgkytkfjunrmqkmzr0q0mmp3d3itbmkxym1kcjb0tmjoz011yln1tg42tw9jdhvsbmy4tmlku3lvmtzosi00rktgc0m5nerjwjjpvkrsyvramvj2ylexy1hrswfobw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T14:46:00.000Z",
+          "description": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History Variety ‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office Deadline Russo Brothers Call This Avengers: Endgame Encore Stinger \"The Most Profound\" MCU Moment Ever SYFY ‘Avengers:…"
+        },
+        {
+          "title": "Avengers: Endgame Passes Avatar To Reclaim All-Time Highest-Grossing Movie Title",
+          "url": "https://www.slashfilm.com/2276741/avengers-endgame-encore-avatar-highest-grossing-movie-all-time",
+          "source": "/Film",
+          "published_at": "2026-10-04T15:08:55.000Z",
+          "description": "Avengers: Endgame has officially regained the title of the highest-grossing movie of all time, unadjusted for inflation, stealing the crown back from Avatar."
+        },
+        {
+          "title": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
+          "url": "https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168",
+          "source": "Deadline",
+          "published_at": "2026-10-04T15:11:23.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2019/07/avengers-endgame-avatar.jpg",
+          "description": "Disney/Marvel Studio’s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter’s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse…"
+        },
+        {
+          "title": "Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)",
+          "url": "https://www.ign.com/articles/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movie-of-all-time-again",
+          "source": "IGN Articles",
+          "published_at": "2026-10-04T17:34:34.000Z",
+          "description": "Marvel Studios' Encore re-release has helped Avengers: Endgame beat Avatar to become the highest-grossing movie at the box office of all time…again."
+        },
+        {
+          "title": "'Avengers: Endgame' dethrones 'Avatar' as highest-grossing film of all time",
+          "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-dethrones-avatar-officially-reclaims-title-of-highest-grossing-film-of-all-time-with-usd-2-925-billion-haul/articleshow/134680612.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-04T22:25:26.000Z",
+          "description": "Avengers: Endgame has reclaimed its position as the highest-grossing film following a re-release. The film surpassed Avatar's total box office earnings by a narrow margin after its Encore re-release. Despite a drop to seventh place domestically, additional earnings helped Endgame regain the crown.…"
+        }
+      ],
+      "summary": "Avengers: Endgame has again become the highest-grossing film worldwide, surpassing Avatar after a re-release. Its reported global box office total narrowly exceeded Avatar’s."
+    },
+    {
+      "id": "topic_6b23061ad328217c",
+      "title": "Djokovic Beats Zverev to Reach China Open Semifinals",
+      "headline": "China Open: Alexander Zverev sets up Novak Djokovic quarterfinal",
+      "label": [
+        "novak",
+        "djokovic",
+        "zverev",
+        "alexander",
+        "china",
+        "open"
+      ],
+      "category": "new",
+      "theme": "theme_e9a51eba85c41d2f",
+      "entities": [
+        "China Open",
+        "Alexander Zverev",
+        "Novak Djokovic",
+        "Tennis",
+        "Jagd"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "China Open: Alexander Zverev sets up Novak Djokovic quarterfinal",
+          "url": "https://sports.inquirer.net/700029/china-open-alexander-zverev-sets-up-novak-djokovic-quarterfinal",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-04T04:52:05.000Z",
+          "image": "https://sports.inquirer.net/files/2026/10/AP26276466419704-620x413.jpg",
+          "description": "Big-serving Alexander Zverev trounced home hopeful Shang Juncheng 6-0, 6-3 at the China Open on Saturday to set up a quarterfinal clash with Novak Djokovic. The German top seed needed just 55 minutes to brush aside the Chinese wildcard, ranked 250th, firing nine aces along the way. “Happy with the…"
+        },
+        {
+          "title": "What happened the last time Novak Djokovic faced Alexander Zverev as they meet again at the China Open",
+          "url": "https://sports.yahoo.com/articles/happened-last-time-novak-djokovic-020000186.html",
+          "published_at": "2026-10-04T02:00:00.000Z",
+          "description": "Novak Djokovic’s 17-year-long undefeated streak at the China Open is in danger of coming to an end, as Alexander Zverev now awaits him in the..."
+        },
+        {
+          "title": "Tennis: Novak Djokovic bremst Alexander Zverev bei der Jagd auf die Weltranglistenspitze aus",
+          "url": "https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-bremst-alexander-zverev-bei-der-jagd-auf-die-weltranglistenspitze-aus-a-fc47a7c4-9e02-4440-b964-1ed99b1f236f",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-10-04T15:21:00.000Z",
+          "description": "Rückschlag für den deutschen Tennisprofi Alexander Zverev: Der zweifache Grand-Slam-Sieger verlor gegen Altmeister Novak Djokovic und muss nun länger auf sein großes Ziel warten. Der siegreiche Serbe lobte Zverev."
+        },
+        {
+          "title": "Novak Djokovic breaks Nadal's record with epic comeback win vs Alexander Zverev",
+          "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-beats-alexander-zverev-china-open-record-breaks-rafael-nadal-3009401-2026-10-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T14:15:18.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/novak-djokovic-041503810-16x9_0.jpg?VersionId=uMxk2yG6pNZfUd7_SIDfrC.ojOOkxEo_",
+          "description": "Novak Djokovic breaks Nadals record with epic comeback win vs Alexander Zverev"
+        },
+        {
+          "title": "ATP 500 de Pékin. Renversant, Novak Djokovic s’offre Alexander Zverev et se hisse en demi-finales",
+          "url": "https://www.ouest-france.fr/sport/tennis/novak-djokovic/atp-500-de-pekin-renversant-novak-djokovic-soffre-alexander-zverev-et-se-hisse-en-demi-finales-4e522394-bff9-11f1-b7db-555e86a524f6",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-10-04T13:53:11.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwOGNmYTk2Y2Q5MjkyNDk2N2Q2NDVmODU5ZGZiYzkwNTU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7f693ae66a17e73a7279fd3db7c19f9067879c64d926214faf0059e0bc24bb6a",
+          "description": "Au bout d’un combat intense en quarts de finale de l’ATP 500 de Pékin, Novak Djokovic (11e) a fait tomber le numéro 2 mondial Alexander Zverev en trois sets (4-6, 6-4, 6-4), ce dimanche 4 octobre. Une victoire de prestige pour le Serbe, de retour sur le circuit cette semaine après un mois d’absence…"
+        }
+      ],
+      "summary": "Novak Djokovic defeated Alexander Zverev in three sets in the China Open quarterfinals to advance to the semifinals. The win came after Zverev had set up the matchup with a third-round victory."
+    },
+    {
+      "id": "topic_9bc57dd749b2d7cb",
+      "title": "Iran Sets Conditions for Reopening Strait of Hormuz",
+      "headline": "Iran says Strait of Hormuz will not reopen until conditions are met",
+      "label": [
+        "reopen",
+        "conditions",
+        "strait",
+        "hormuz",
+        "iran",
+        "met"
+      ],
+      "category": "new",
+      "theme": "theme_63fcd65476bc4dda",
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz",
+        "Middle East",
+        "CNBC"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1004744/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-04T18:48:32.000Z",
+          "description": "The Strait of Hormuz will not reopen until seven Iranian conditions set out in a June interim agreement with the US are met, state media reported Iran's parliament speaker Mohammad Baqer Qalibaf as saying on Sunday."
+        },
+        {
+          "title": "Iran says Strait of Hormuz will not reopen until conditions are met, says reports",
+          "url": "https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-04T07:31:36.000Z",
+          "description": "The position of the Islamic Republic of ‌Iran is completely clear and ​firm, says Iran's Parliament Speaker Mohammad ‌Baqer Qalibaf"
+        },
+        {
+          "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-10-04T12:03:09.000Z",
+          "description": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets."
+        },
+        {
+          "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxqujewrgxotll0b2zcwkrzzl9iuzbkbln5txjnm0y5rxpzumywmw1yvw0wcfzycel1utk0q3vptl9qzxbtykg1qzdbwdzia0wwdwzjz0tsbu5dbhg1lwhor2hcwwrzuvv4qy1wd1pwvw9zq3nrdme4rkpjukrjyxk0eknzvxqzalply3atuu1mb3flcnrnc1beui1kadveuwfivuhf0ggoaufvx3lxtfbmndgynfd0zwdgbhlrrgnsuetgbux2ci1kakxlmxpurks0nl9jy2pjdc1ptkrvyxjrajfmdvzqahvqz2lmtmtzvkjam1jnwwi3vlbtzhhymdbrujd5r0nznez0s2w5bvj5nkpvzhzqawfpd0v0t2frx1v1bw1vafpiyuytnhjoyko3ztnxqw1ztvv1rlngn2zzrmjvwuziuwfxcgnrswj0ua",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T12:02:51.000Z",
+          "description": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz CNBC Iran tells US there is no military solution to Middle East war Yahoo Iran says Strait of Hormuz will not reopen until conditions are met Reuters Live - Iran warns of stronger military respon…"
+        },
+        {
+          "title": "Iran sets 7 conditions for reopening Strait of Hormuz, rules out nuclear talks",
+          "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-reopening-iran-says-us-must-meet-seven-conditions-3009280-2026-10-04",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-04T11:07:05.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/business-war-045024720-16x9_0.jpg?VersionId=AXkkXpkde6VpIgfZc4j4l95jbyzI6rlf",
+          "description": "Iran sets conditions for reopening Strait of Hormuz rules out nuclear talks"
+        }
+      ],
+      "summary": "Iranian parliament speaker Mohammad Baqer Qalibaf said the Strait of Hormuz would not reopen until Iran’s conditions were met. The demands include an end to the U.S. naval blockade and economic pressure, and the release of Iranian assets."
+    },
+    {
+      "id": "topic_804f0396e2f33c92",
+      "title": "Brazil Begins Voting in Presidential Election",
+      "headline": "Brazil presidential election 2026: first-round live results",
+      "label": [
+        "presidential",
+        "brazil",
+        "election",
+        "voting",
+        "begins",
+        "bolsonaro"
+      ],
+      "category": "new",
+      "theme": "theme_b151ee764ff09f01",
+      "entities": [
+        "Brazil",
+        "Voting",
+        "Lula",
+        "Bolsonaro"
+      ],
+      "article_count": 7,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Brazil presidential election 2026: first-round live results",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-10-04T19:01:28.000Z",
+          "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9c00a21e71375914289846c3d01d7179",
+          "description": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil…"
+        },
+        {
+          "title": "Voting begins in Brazil’s presidential election",
+          "url": "https://tass.com/world/2197361",
+          "source": "TASS",
+          "published_at": "2026-10-04T12:44:41.000Z",
+          "description": "The main presidential contest is between incumbent President Luiz Inacio Lula da Silva and right-wing candidate Senator Flavio Bolsonaro"
+        },
+        {
+          "title": "Brazil presidential election 2026: first-round live results",
+          "url": "https://news.google.com/rss/articles/cbmiuwfbvv95cuxnt0fbullhnwvmdejkd2w5m3yzyvr6zgfzx09nvtnrotrkuy1msupsq3e3nkzwt1jxwnv0nzmyzvzszwl1dmhrwlp3ref5m1zbx1lxr0lpwfzcohppa3p2zhpgckw2ztzzq1hyt0s0r0jzmerrrtr1mgluznrqmkj1njjonw8wzxa1ow80budya2jlvw54bwg3ylb1ogm4qmduzhpmdwe3cgp5vmg4mdvuwu9crfg5mudltex3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T20:28:00.000Z",
+          "description": "Brazil presidential election 2026: first-round live results theguardian.com Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows Reuters Brazil votes, with Lula facing Bolsonaro's son NPR Brazil elections: Trump, crime and corruption loom over presidential vote CNN Lula Is…"
+        },
+        {
+          "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+          "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-04T11:28:00.000Z",
+          "description": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff."
+        }
+      ],
+      "summary": "Brazil began voting in the 2026 presidential election, with incumbent Luiz Inácio Lula da Silva facing Senator Flávio Bolsonaro. Polls showed the candidates nearly tied, and coverage indicated the race could proceed to a runoff."
+    },
+    {
+      "id": "topic_32cb3dc1ec65853f",
+      "title": "12-Year-Old Girl Killed in Baltimore Shooting",
+      "headline": "12-Year-Old Girl Killed, 3 Adults Wounded in Shooting Near Baltimore Youth Football Event",
+      "label": [
+        "girl",
+        "baltimore",
+        "old",
+        "year",
+        "shooting",
+        "youth"
+      ],
+      "category": "new",
+      "theme": "theme_e3a2c8f5d5eb1a3b",
+      "entities": [
+        "Year",
+        "Old Girl Killed",
+        "Adults Wounded",
+        "Shooting Near Baltimore Youth",
+        "Football Event"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "12-Year-Old Girl Killed, 3 Adults Wounded in Shooting Near Baltimore Youth Football Event",
+          "url": "https://internewscast.com/news/us/12-year-old-girl-killed-3-adults-wounded-in-shooting-near-baltimore-youth-football-event",
+          "source": "Internewscast",
+          "published_at": "2026-10-04T04:39:03.000Z",
+          "description": "Internewscast Internewscast A 12-year-old girl was killed and three adults were injured when two… This Post: 12-Year-Old Girl Killed, 3 Adults Wounded in Shooting Near Baltimore Youth Football Event first appeared on Internewscast"
+        },
+        {
+          "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+          "url": "https://nypost.com/2026/10/04/us-news/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-04T05:33:22.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ftwo-men-allegedly-opened-fire-143691310.jpg?w%3D1024",
+          "description": "A 12-year-old girl was killed and three adults were wounded after two gunmen allegedly opened fire during a dispute near a youth football game in Baltimore, Maryland, authorities said Saturday."
+        },
+        {
+          "title": "Baltimore shooting: 12-year-old girl killed in crossfire after parking dispute",
+          "url": "https://timesofindia.indiatimes.com/world/us/baltimore-shooting-12-year-old-girl-killed-in-crossfire-after-parking-dispute/articleshow/134677289.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-10-04T15:59:06.000Z"
+        },
+        {
+          "title": "12-year-old girl killed in Baltimore shooting sparked by apparent parking dispute",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxns0zqnvpwsmv1qvlpvfrdeuhdyxnewhvdc1bddldfzejiy2vnsxlhbud1zvzjdfm0dgpfv3rrsnjyutgydeh0nfnsren1s3jhsvlylufdmmvyrzk1adj6nxlovw5bu3k1dgxpmufmn3ngx0drbxrqczhrbmp0mw1jb211dknpdwxbdvvonw9uotrnyw15",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-04T01:45:00.000Z",
+          "description": "12-year-old girl killed in Baltimore shooting sparked by apparent parking dispute NBC News Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded Fox News Girl killed, 3 injured in crossfire of parking lot dispute at youth football game WBFF Girl, 12, killed, ot…"
+        },
+        {
+          "title": "12-year-old girl fatally shot in park where youth football game was being played",
+          "url": "https://abcnews.com/us/wirestory/police-12-year-girl-fatally-shot-baltimore-park-136985255",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-04T13:51:29.000Z",
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+          "description": "Two men arguing over a parking spot began shooting at each other."
+        }
+      ],
+      "summary": "A 12-year-old girl was killed and three adults were wounded in a shooting near a youth football event in Baltimore. Authorities said two men began shooting during an apparent dispute over a parking spot."
+    }
+  ]
+}
