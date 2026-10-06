@@ -1,0 +1,987 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-06T00:35:26.433Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Karl Deisseroth, Peter Hegemann and Georg Nagel won the Nobel Prize in Physiology or Medicine for research on optogenetics.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Pedro Sánchez called a November 29 snap election in Spain after public anger over housing and parliament’s rejection of a housing decree.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Flavio Bolsonaro led Luiz Inácio Lula da Silva in Brazil’s first presidential election round, with the candidates set to face each other in an October 25 runoff.",
+        "stories": [
+          12
+        ]
+      },
+      {
+        "text": "Middle East crude exports exceeded pre-war levels as at least seven tanker attacks were reported in the past week.",
+        "stories": [
+          15
+        ]
+      },
+      {
+        "text": "US authorities accuse Wanying Zhang of surveilling the Taiwanese president’s son and family and sending information to Chinese officials.",
+        "stories": [
+          3
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_7b4c506cc00b837a",
+      "title": "Three Scientists Win Medicine Nobel for Optogenetics Research",
+      "headline": "Nobel Prize in Physiology or Medicine 2026",
+      "label": [
+        "prize",
+        "nobel",
+        "medicine",
+        "optogenetics",
+        "awarded",
+        "scientists"
+      ],
+      "category": "new",
+      "theme": "theme_d6c1087e547d7e11",
+      "entities": [
+        "Nobel Prize",
+        "Physiology",
+        "Medicine",
+        "Medicine Awarded",
+        "Scientists"
+      ],
+      "article_count": 49,
+      "source_count": 40,
+      "articles": [
+        {
+          "title": "Nobel Prize in Physiology or Medicine 2026",
+          "url": "https://www.nobelprize.org/prizes/medicine",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-10-05T11:17:20.000Z",
+          "description": "Article URL: https://www.nobelprize.org/prizes/medicine/ Comments URL: https://news.ycombinator.com/item?id=49963386 Points: 6 # Comments: 2"
+        },
+        {
+          "title": "Nobel Prize in medicine awarded to trio for optogenetics work",
+          "url": "https://www.lemonde.fr/en/health/article/2026/10/05/nobel-prize-in-medicine-awarded-to-trio-for-optogenetics-work_6758259_14.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-05T09:51:59.000Z",
+          "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel won the prize for their work that helps researchers understand how specific cell types contribute to behaviors like learning, fear, addiction and movement."
+        },
+        {
+          "title": "Nobel Prize in Medicine Awarded to 3 Scientists for Brain Research",
+          "url": "https://internewscast.com/news/nobel-prize-in-medicine-awarded-to-3-scientists-for-brain-research",
+          "source": "Internewscast",
+          "published_at": "2026-10-05T12:23:15.000Z",
+          "description": "Internewscast Internewscast The Nobel Prize in Medicine was awarded Monday to three scientists whose… This Post: Nobel Prize in Medicine Awarded to 3 Scientists for Brain Research first appeared on Internewscast"
+        },
+        {
+          "title": "3 Scientists Awarded Nobel Prize in Medicine",
+          "url": "https://www.bd24live.com/3-scientists-awarded-nobel-prize-in-medicine",
+          "source": "Bangla Online News Portal",
+          "published_at": "2026-10-05T10:05:17.000Z",
+          "description": "Three scientists have been awarded this year’s Nobel Prize in Medicine in recognition of their significant research into how individual nerve cells in the brain activate and deactivate. The laureates… The post 3 Scientists Awarded Nobel Prize in Medicine appeared first on Bangla Online News Portal."
+        },
+        {
+          "title": "Nobel Prize for Medicine awarded to three scientists for their work in optogenetics",
+          "url": "https://tass.com/science/2197619",
+          "source": "TASS",
+          "published_at": "2026-10-05T10:05:01.000Z",
+          "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were selected as the winners"
+        }
+      ],
+      "summary": "Karl Deisseroth, Peter Hegemann and Georg Nagel won the Nobel Prize in Physiology or Medicine for work on optogenetics, which helps researchers study how specific cell types function."
+    },
+    {
+      "id": "topic_eec4cfb6b42e50a4",
+      "title": "Spain Calls Snap Election Amid Housing Crisis",
+      "headline": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+      "label": [
+        "election",
+        "snap",
+        "spain",
+        "calls",
+        "pm",
+        "sanchez"
+      ],
+      "category": "new",
+      "theme": "theme_c6296f1ba197267e",
+      "entities": [
+        "Spain",
+        "PM Pedro Sanchez",
+        "PM Sanchez",
+        "Spanish PM Sanchez",
+        "Spain PM Pedro"
+      ],
+      "article_count": 46,
+      "source_count": 32,
+      "articles": [
+        {
+          "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-05T08:55:21.000Z",
+          "description": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29."
+        },
+        {
+          "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
+          "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-05T07:15:31.000Z",
+          "description": "Pedro Sánchez has been Europe's voice of dissent on U.S. foreign policy. Back home, the plight of an 87-year-old woman has ignited public anger."
+        },
+        {
+          "title": "Spanish PM Sanchez calls snap election amid housing crisis",
+          "url": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-05T08:42:29.000Z",
+          "description": "Spanish Prime Minister Pedro Sanchez called ⁠an early election ​for November 29 on Monday, in a bid to strengthen his mandate after a fragmented parliament rejected the government's key housing decrees last week amid widespread protests. France 24's correspondent in Madrid Sarah Morris has the deet…"
+        },
+        {
+          "title": "Spain PM Pedro Sánchez Calls Snap Election Amid Housing Crisis Anger",
+          "url": "https://internewscast.com/news/spain-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis-anger",
+          "source": "Internewscast",
+          "published_at": "2026-10-05T07:46:00.000Z",
+          "description": "Internewscast Internewscast Spanish Prime Minister Pedro Sánchez has called an early general election after… This Post: Spain PM Pedro Sánchez Calls Snap Election Amid Housing Crisis Anger first appeared on Internewscast"
+        },
+        {
+          "title": "Why has Spain's PM called a snap election?",
+          "url": "https://www.thelocal.es/20261005/why-has-spains-pm-called-a-snap-election",
+          "source": "The Local Spain",
+          "published_at": "2026-10-05T09:34:06.000Z",
+          "description": "Spanish Prime Minister Pedro Sánchez on Monday called a general election nine months before the end of his mandate. Why has he done this, and why now?"
+        }
+      ],
+      "summary": "Prime Minister Pedro Sánchez called an early general election for November 29. The decision follows public anger over housing and a fragmented parliament’s rejection of a key housing decree."
+    },
+    {
+      "id": "topic_30adfa633eec1a8c",
+      "title": "California Woman Accused of Spying on Taiwan Leader’s Family",
+      "headline": "California woman arrested and accused of spying on Taiwan president’s son for China",
+      "label": [
+        "spying",
+        "taiwan",
+        "accused",
+        "arrests",
+        "china",
+        "woman"
+      ],
+      "category": "new",
+      "theme": "theme_697bf10c18510f9c",
+      "entities": [
+        "California",
+        "Taiwan",
+        "China",
+        "US Woman Accused Of",
+        "Spying For China"
+      ],
+      "article_count": 27,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "California woman arrested and accused of spying on Taiwan president’s son for China",
+          "url": "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
+          "source": "Asia news | The Guardian",
+          "published_at": "2026-10-05T05:39:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/c9e8dd6383d8b970db482cd4e076e1c12a67b343/0_467_949_758/master/949.jpg?width=140&quality=85&auto=format&fit=max&s=a1c0524602a273cc58221d797a62ca3c",
+          "description": "The FBI ⁠arrested Wanying Zhang, also known as Heather, at Los Angeles International Airport before she left for China, the agency said US authorities arrested a California ⁠woman on ​Sunday, accusing her of spying on the son of Taiwan’s president at the behest of Chinese officials, the FBI said. T…"
+        },
+        {
+          "title": "US Woman Accused Of Spying For China, Surveilling Taiwan President's Son",
+          "url": "https://www.ndtv.com/world-news/us-woman-accused-of-spying-for-china-surveilling-taiwan-presidents-son-12139369",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-05T05:35:57.000Z",
+          "description": "The Justice Department said Zhang travelled to Seattle in 2025 at the direction of Chinese officials and subsequently sent them photos, video and licence plate information of the Taiwanese leader's son and his family."
+        },
+        {
+          "title": "FBI arrests woman accused of spying on Taiwan leader’s family for China",
+          "url": "https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan",
+          "source": "The Guardian",
+          "published_at": "2026-10-05T12:37:51.000Z",
+          "image": "https://i.guim.co.uk/img/media/09a52d1cd7ed205568cef256652a219fc8fc1cea/81_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=72cfd0a46b9456f54a7e1d0ba627fce2",
+          "description": "Wanying Zhang surveilled Taiwanese president’s son and family for China while in US, according to FBI The FBI arrested a woman at Los Angeles international airport (LAX) as she was leaving the country and accused her of spying on the Taiwan president’s family for China. Wanying Zhang, also know as…"
+        },
+        {
+          "title": "California woman arrested and accused of spying on Taiwan president’s son for China",
+          "url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxnvjrkamowowffcks4telfn0lvyjnvtutfoxnrvwplbtzanu5bnxporw5kbwlcrxlrz2h3wgi3vu9mrwxyn00wzw9uvnnfyw9vne5awtmza0vamvdbr0jabgtgmefkx2rotudrv1ziakpane9xujffqnvorfvzseztt1hnawpqae5mbdhlbvnms19srk9vsgxvzk1yvfdjvgwysjryug5qu2lxcfnozvzrbznun1pnev9fv1rpsc02lxlmbuh5q2k4",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-05T05:39:00.000Z",
+          "description": "California woman arrested and accused of spying on Taiwan president’s son for China The Guardian FBI arrests alleged Chinese agent at LAX after she allegedly surveilled son of Taiwanese president CBS News FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader WSJ California wom…"
+        },
+        {
+          "title": "FBI arrests woman accused of spying on Taiwan President Lai's family in US",
+          "url": "https://www.indiatoday.in/world/story/taiwan-president-lai-family-spying-case-fbi-arrests-woman-at-lax-over-china-links-ptag-3009710-2026-10-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-05T07:04:38.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/pti-international-3-original_45-sixteen_nine.png?VersionId=YbvP3Jgs72t0y7FGKU9U82rc_PfOB9y3",
+          "description": "FBI arrests woman accused of spying on Taiwan President Lais family in US"
+        }
+      ],
+      "summary": "The FBI arrested Wanying Zhang at Los Angeles International Airport as she was leaving for China. US authorities accuse her of surveilling the Taiwanese president’s son and family and sending information to Chinese officials."
+    },
+    {
+      "id": "topic_13130803cc0453e6",
+      "title": "Karoline Leavitt to Join Fox News as Contributor",
+      "headline": "Karoline Leavitt joining Fox News as a contributor",
+      "label": [
+        "leavitt",
+        "karoline",
+        "fox",
+        "join",
+        "contributor",
+        "secretary"
+      ],
+      "category": "new",
+      "theme": "theme_254cdcbe3f704386",
+      "entities": [
+        "Karoline Leavitt",
+        "Fox News",
+        "Karoline Leavitt Joins Fox",
+        "What To Know",
+        "Trump"
+      ],
+      "article_count": 24,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Karoline Leavitt joining Fox News as a contributor",
+          "url": "https://www.cbsnews.com/news/karoline-leavitt-fox-news",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-05T14:52:23.000Z",
+          "description": "Former White House press secretary Karoline Leavitt will begin her new role at Fox News on Nov. 1."
+        },
+        {
+          "title": "Karoline Leavitt Joins Fox News: What To Know",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/05/karoline-leavitt-joins-fox-news-what-to-know",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-05T15:19:11.000Z",
+          "description": "Leavitt, 29, has worked in conservative politics her entire career."
+        },
+        {
+          "title": "Trump’s former press secretary Karoline Leavitt to join Fox News",
+          "url": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-05T13:51:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/7248cf39501e5303aec3bfcaa3b316a85d3e29d1/483_0_3502_2801/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=e9d7db1f10f740c289b47d0b924b6b4d",
+          "description": "Youngest press secretary in White House history left earlier this year after the birth of her second child Karoline Leavitt, who stepped down as White House press secretary in August, is joining Fox News as an on-air contributor, according to the New York Times, citing a network announcement. Leavi…"
+        },
+        {
+          "title": "Former White House press secretary Karoline Leavitt to join Fox News",
+          "url": "https://globalnews.ca/news/12088260/former-white-house-press-secretary-karoline-leavitt-to-join-fox-news",
+          "published_at": "2026-10-05T18:25:29.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/karoline-leavitt-fox-news.jpg?quality=65&strip=all",
+          "description": "Trump's former White House press secretary Karoline Leavitt will serve as an on-air contributor beginning Nov. 1, the network said Monday."
+        },
+        {
+          "title": "Karoline Leavitt Joining Fox News As Contributor After White House Exit",
+          "url": "https://deadline.com/2026/10/karoline-leavitt-fox-news-white-house-press-secretary-1237146659",
+          "source": "Deadline",
+          "published_at": "2026-10-05T13:57:18.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2273405814.jpg",
+          "description": "Karoline Leavitt has a new gig. The former White House press secretary has joined Fox News as a contributor, the network said Monday. She’ll begin her new role providing commentary and analysis on November 1. “Karoline’s firsthand experience in the White House and on the presidential campaign trail…"
+        }
+      ],
+      "summary": "Former White House press secretary Karoline Leavitt will join Fox News as an on-air contributor, beginning November 1."
+    },
+    {
+      "id": "topic_44af0e0176500171",
+      "title": "FBI Director Kash Patel Announces Engagement to Alexis Wilkins",
+      "headline": "FBI director Kash Patel gets engaged to country singer Alexis Wilkins",
+      "label": [
+        "kash",
+        "patel",
+        "wilkins",
+        "alexis",
+        "singer",
+        "engaged"
+      ],
+      "category": "new",
+      "theme": "theme_19d061dbcae432f2",
+      "entities": [
+        "FBI",
+        "Kash Patel",
+        "Alexis Wilkins",
+        "FBI Director Kash Patel",
+        "Kash Patel Is Engaged"
+      ],
+      "article_count": 15,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "FBI director Kash Patel gets engaged to country singer Alexis Wilkins",
+          "url": "https://timesofindia.indiatimes.com/world/us/fbi-director-kash-patel-gets-engaged-to-country-singer-alexis-wilkins/articleshow/134689624.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-05T07:24:52.000Z",
+          "description": "FBI director Kash Patel took to social media to announce his engagement to country singer Alexis Wilkins. In a playful post, Wilkins showcased her engagement ring while lightheartedly mentioning Patel's job. The couple, who met at a Nashville event, has been together for over three years. Wilkins i…"
+        },
+        {
+          "title": "FBI Director Kash Patel gets engaged to longtime girlfriend, country singer Alexis Wilkins",
+          "url": "https://www.thehindu.com/news/international/fbi-director-kash-patel-gets-engaged-to-longtime-girlfriend-country-singer-alexis-wilkins/article71545672.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-05T02:07:17.000Z",
+          "description": "Ms. Wilkins, 27, posted a black-and-white photo of herself standing with Mr. Patel, 46, flashing her hand in front of them to show off her ring"
+        },
+        {
+          "title": "Kash Patel Is Engaged to Country Singer Alexis Wilkins",
+          "url": "https://www.nytimes.com/2026/10/05/us/politics/kash-patel-engaged-alexis-wilkins.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-10-05T14:46:18.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05xp-patel1-ftjh/05xp-patel1-ftjh-mediumSquareAt3X.jpg",
+          "description": "The director of the F.B.I. and his girlfriend announced their engagement on social media over the weekend."
+        },
+        {
+          "title": "FBI Director Kash Patel gets engaged to longtime girlfriend, country singer Alexis Wilkins",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxorffivtvjmdnwd0y2qtzunm5ud2qwsjnts2xcqtnxrkfqejvzdzhjzjm0egluntf5qmytykpja1ayyuxlns1wtfhvrmfzd3nwbej0n1fpnxdbbxjyeut1ytnpz1h6a2syywfhtknprgj3wmzwq3o5ti1eqw9vzezvslplsw9rtk5mrlnzs3fitu1iu2dkwg01rklsbtk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-05T00:55:00.000Z",
+          "description": "FBI Director Kash Patel gets engaged to longtime girlfriend, country singer Alexis Wilkins AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "FBI Director Kash Patel engaged to country singer Alexis Wilkins (New York Post)",
+          "url": "https://www.memeorandum.com/261004/p62",
+          "source": "memeorandum",
+          "published_at": "2026-10-05T01:40:03.000Z",
+          "description": "New York Post: FBI Director Kash Patel engaged to country singer Alexis Wilkins — WASHINGTON — FBI Director Kash Patel is engaged to his country singer girlfriend Alexis Wilkins, the pair revealed in an announcement Sunday. — Wilkins, 27, broke the news with a photo posted to social media of her sh…"
+        }
+      ],
+      "summary": "FBI Director Kash Patel and country singer Alexis Wilkins announced their engagement on social media. Wilkins shared a photo showing her engagement ring."
+    },
+    {
+      "id": "topic_bf12bd2158319007",
+      "title": "Sam Altman Says Society Should Accept Some AI Harms",
+      "headline": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "label": [
+        "altman",
+        "sam",
+        "bad",
+        "things",
+        "accept",
+        "benefits"
+      ],
+      "category": "new",
+      "theme": "theme_99ac290839ac4af",
+      "entities": [
+        "Sam Altman",
+        "The World Should Accept",
+        "Some Bad Things Happening",
+        "Benefits",
+        "AI"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot",
+          "published_at": "2026-10-05T16:00:00.000Z",
+          "description": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about wher…"
+        },
+        {
+          "title": "Sam Altman says world should accept some bad things for AI benefits",
+          "url": "https://www.indiatoday.in/technology/news/story/sam-altman-says-world-should-accept-some-bad-things-for-ai-benefits-3009559-2026-10-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-05T02:54:01.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/sam-altman-openai-265647108-16x9.png?VersionId=Yfms9Ifz6T1341PH4yKHt7yGgaYbVs4c"
+        },
+        {
+          "title": "OpenAI’s Sam Altman Says World Should Accept ‘Some Bad Things’ From AI",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/10/04/openais-sam-altman-says-world-should-accept-some-bad-things-from-ai",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-05T02:52:23.000Z",
+          "description": "Altman said unlike rival Anthropic, his company believes in a “lighter-touch regulatory stance” on AI and that it will be used for more “good stuff than bad stuff.”"
+        },
+        {
+          "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "The Guardian",
+          "published_at": "2026-10-05T12:13:36.000Z",
+          "image": "https://i.guim.co.uk/img/media/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/master/7005.jpg?width=140&quality=85&auto=format&fit=max&s=66dddb395b88cb2ab9a079c64b6b93cc",
+          "description": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks, scams and “other bad…"
+        },
+        {
+          "title": "Sam Altman to Decoded: 'The world should accept some bad things happening' for the benefits of AI (Politico)",
+          "url": "https://www.memeorandum.com/261004/p68",
+          "source": "memeorandum",
+          "published_at": "2026-10-05T03:25:00.000Z",
+          "description": "Politico: Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI — OpenAI CEO Sam Altman said there remains a fundamental difference in worldview between his company and rival Anthropic on artificial intelligence regulation, arguing in an exclusive intervi…"
+        }
+      ],
+      "summary": "OpenAI CEO Sam Altman said society should accept some negative consequences of AI in exchange for its benefits. He also advocated a lighter-touch approach to AI regulation."
+    },
+    {
+      "id": "topic_3a1772c419b27cc4",
+      "title": "Author and Former Politician Jeffrey Archer Dies at 86",
+      "headline": "Author and former politician Jeffrey Archer dies aged 86",
+      "label": [
+        "archer",
+        "jeffrey",
+        "dies",
+        "politician",
+        "author",
+        "aged"
+      ],
+      "category": "new",
+      "theme": "theme_ab03c92e52dba791",
+      "entities": [
+        "Author",
+        "Jeffrey Archer",
+        "British",
+        "Conservative",
+        "UK Author And Former"
+      ],
+      "article_count": 21,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Author and former politician Jeffrey Archer dies aged 86",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo",
+          "source": "BBC News",
+          "published_at": "2026-10-05T21:23:03.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea93/live/d670e5f0-bd81-11f1-add9-b18e6ea43b60.jpg",
+          "description": "His last book, Adam and Eve, is set to release this month."
+        },
+        {
+          "title": "British author and disgraced politician Jeffrey Archer dies aged 86",
+          "url": "https://www.smh.com.au/culture/celebrity/british-author-and-disgraced-politician-jeffrey-archer-dies-aged-86-20261006-p61330.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-05T21:26:07.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.4777%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_20/t_crop_custom/q_86%2Cf_auto/feaa8e70d24d544aef01124ffa2f9c78e90549a6",
+          "description": "The novelist was best known for pacy thrillers such as Not a Penny More, Not a Penny Less and the Kane and Abel series."
+        },
+        {
+          "title": "Jeffrey Archer, U.K. author and politician, dies aged 86",
+          "url": "https://www.thehindu.com/profile/author/jeffrey-archer-uk-author-and-politician-dies-aged-86/article71548902.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-05T20:59:18.000Z",
+          "description": "Mr. Archer ⁠was ⁠a best-selling author and sold ​over ‌300 million copies worldwide"
+        },
+        {
+          "title": "British novelist and former politician Jeffrey Archer dies aged 86",
+          "url": "https://www.thehindubusinessline.com/news/variety/british-novelist-and-former-politician-jeffrey-archer-dies-aged-86/article71549037.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-05T22:32:11.000Z",
+          "description": "Archer became a prominent Conservative politician before a 2001 conviction for perjury and perverting the course of justice"
+        },
+        {
+          "title": "British novelist and former Conservative politician Jeffrey Archer dies aged 86",
+          "url": "https://www.thejournal.ie/jeffrey-archer-dies-aged-86-7183272-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-05T20:56:28.000Z",
+          "description": "His editor at Harper Collins said he was “phenomenally hard-working”."
+        }
+      ],
+      "summary": "British novelist and former Conservative politician Jeffrey Archer has died aged 86. He was known for bestselling thrillers including the Kane and Abel series."
+    },
+    {
+      "id": "topic_c65ec85e60322eb",
+      "title": "Production on The Batman Part II Paused",
+      "headline": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons",
+      "label": [
+        "batman",
+        "ii",
+        "part",
+        "reeves",
+        "paused",
+        "matt"
+      ],
+      "category": "new",
+      "theme": "theme_a26f8c3d63ecd048",
+      "entities": [
+        "The Batman Part II",
+        "Production Paused As Matt",
+        "Reeves Steps Away For",
+        "Personal Reasons",
+        "Deadline"
+      ],
+      "article_count": 16,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons",
+          "url": "https://deadline.com/2026/10/the-batman-part-ii-production-pause-matt-reeves-1237146807",
+          "source": "Deadline",
+          "published_at": "2026-10-05T17:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2024/07/matt-reeves-the-batman.jpg",
+          "description": "EXCLUSIVE: Production is pausing on the Warner Bros and DC Studios pic The Batman Part II due to director Matt Reeves stepping away for personal reasons. The studio on Monday released a statement on the matter. “Production on The Batman Part II has been temporarily paused while Matt Reeves focuses…"
+        },
+        {
+          "title": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons",
+          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxnswp6t2cwrvvpm3bizghywmfknvb5nv9ymhbfcjy3bmdwqtjfuzrzbvbytwfzz1i0wvlpauxvwnz1cnp3uwf5ajetdv95wlzoddzwrm56rmzzwvbsmc1gzgpqynq1oxfzu1didurkalp5bhbncs1qcv9gsfl6q1vmbuxuztzaovnzqwhhy2ppdjfozw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-05T17:00:00.000Z",
+          "description": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons Deadline ‘The Batman Part II’ Production Paused as Filmmaker Matt Reeves Steps Away for “Family Matter” The Hollywood Reporter Robert Pattinson-led Batman sequel ‘paused’ after director forced to step away Yahoo ‘…"
+        },
+        {
+          "title": "The Batman: Part II &#8211; Matt Reeves Steps Away Due To Personal Reasons",
+          "url": "https://bleedingcool.com/movies/the-batman-part-ii-matt-reeves-steps-away-due-to-personal-reasons",
+          "source": "Movies",
+          "published_at": "2026-10-05T18:58:10.000Z",
+          "description": "Production on The Batman: Part II has been temporarily paused after writer-director Matt Reeves stepped away for personal reasons."
+        },
+        {
+          "title": "The Batman Part II Production Put On Hold As Director Matt Reeves Steps Away For Personal Reasons",
+          "url": "https://www.slashfilm.com/2277743/the-batman-part-ii-production-paused-matt-reeves-personal-reasons",
+          "source": "/Film",
+          "published_at": "2026-10-05T18:04:39.000Z",
+          "description": "Director Matt Reeves has, for now, stepped away from production on The Batman Part II in order to deal with a personal family matter."
+        },
+        {
+          "title": "‘The Batman Part II’ Has Paused Its Production",
+          "url": "https://gizmodo.com/the-batman-part-ii-has-paused-its-production-2000821784",
+          "source": "Gizmodo",
+          "published_at": "2026-10-05T17:38:51.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/10/Matt-Reeves-The-Batman-1280x853.jpg",
+          "description": "Director Matt Reeves has to step away from the DC film for personal reasons."
+        }
+      ],
+      "summary": "Production on The Batman Part II has been temporarily paused after director Matt Reeves stepped away for personal reasons."
+    },
+    {
+      "id": "topic_b99eb30df35649ee",
+      "title": "India-US Trade Talks Reach a Plateau, Sitharaman Says",
+      "headline": "Why does FM Sitharaman say India-US trade talks have reached a 'plateau'?",
+      "label": [
+        "plateau",
+        "trade",
+        "talks",
+        "sitharaman",
+        "india",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_f60d99db00e262d0",
+      "entities": [
+        "FM Sitharaman",
+        "India",
+        "US",
+        "Finance",
+        "Nirmala Sitharaman"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Why does FM Sitharaman say India-US trade talks have reached a 'plateau'?",
+          "url": "https://www.dnaindia.com/india/report-why-does-fm-sitharaman-say-india-us-trade-talks-have-reached-a-plateau-3221736",
+          "source": "India News",
+          "published_at": "2026-10-05T06:37:00.000Z",
+          "description": "She said the agreement was still being \"hard and very rigorously negotiated\", while highlighting the trade imbalance as a key feature of India-US economic relations."
+        },
+        {
+          "title": "India-US trade talks have reached plateau: Finance minister Nirmala Sitharaman",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-have-reached-plateau-finance-minister-nirmala-sitharaman/articleshow/134720078.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-05T23:29:13.000Z",
+          "description": "Negotiations regarding the bilateral trade agreement between India and the US have stalled, reaching a plateau. Finance Minister Nirmala Sitharaman stated that both sides face difficulties in making further concessions. The US aims to reduce its trade imbalance with India, while recent laws have co…"
+        },
+        {
+          "title": "'India-US Trade Talks May Have Reached Plateau': Nirmala Sitharaman",
+          "url": "https://www.ndtv.com/india-news/india-us-trade-talks-may-have-reached-plateau-nirmala-sitharaman-12140367",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-05T09:34:08.000Z",
+          "description": "Finance Minister Nirmala Sitharaman said the two countries could still explore whether there was any room for further negotiations."
+        },
+        {
+          "title": "Very very difficult to give more: FM Sitharaman says India-US trade talks hit plateau",
+          "url": "https://www.indiatoday.in/business/story/india-us-trade-talks-plateau-nirmala-sitharaman-says-more-concessions-difficult-3009604-2026-10-05",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-05T04:36:03.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/india-us-trade-deal-05350979-16x9_0.png?VersionId=mSyPV5rIyVjX.VZsXayLOaH_TUAY1OM9",
+          "description": "Very very difficult to give more FM Sitharaman says IndiaUS trade talks hit plateau"
+        },
+        {
+          "title": "India-US Trade Deal Talks Reach ‘Plateau’, Further Concessions Difficult: Nirmala Sitharaman",
+          "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-reach-plateau-further-concessions-difficult-nirmala-sitharaman",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-05T06:02:00.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-03-18/7zdlpwrb/Nirmala-Sitharaman-7.jpg"
+        }
+      ],
+      "summary": "Indian Finance Minister Nirmala Sitharaman said trade negotiations with the United States had reached a plateau and that further concessions were difficult. She said the agreement was still being negotiated."
+    },
+    {
+      "id": "topic_3c1ec95ac3897bcc",
+      "title": "Google Pauses Open-Source Bug Bounty Program Amid AI Reports",
+      "headline": "Google Suspends Open Source Bug Bounty Over AI-Generated Reports",
+      "label": [
+        "bounty",
+        "bug",
+        "source",
+        "google",
+        "open",
+        "ai"
+      ],
+      "category": "new",
+      "theme": "theme_cf9e16d2de6060be",
+      "entities": [
+        "Google Suspends Open Source",
+        "Bug Bounty Over AI",
+        "Generated Reports",
+        "Google",
+        "AI"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Google Suspends Open Source Bug Bounty Over AI-Generated Reports",
+          "url": "https://buaq.net/go-446417.html",
+          "source": "unSafe.sh - 不安全",
+          "published_at": "2026-10-05T07:34:02.000Z",
+          "description": "Google has suspended its Ope"
+        },
+        {
+          "title": "Google pauses open source bug bounty program after rise in AI submissions",
+          "url": "https://malware.news/t/google-pauses-open-source-bug-bounty-program-after-rise-in-ai-submissions/126142",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-05T15:30:40.000Z",
+          "description": "Companies like Google and Microsoft are find much bigger numbers of vulnerabilities in their own products as a result of AI. But the same technology is leading to public reporting programs becoming overwhelmed by the mass submission of speculative, duplicated, or hallucinated findings. Now, Google’…"
+        },
+        {
+          "title": "Google Pauses Open-Source Bug Bounty Program After Flood of Invalid AI-Generated Reports",
+          "url": "https://cybersecuritynews.com/google-pauses-open-source-bug-bounty-program",
+          "source": "Cyber Security News",
+          "published_at": "2026-10-05T11:44:27.000Z",
+          "description": "Google has temporarily stopped accepting new product vulnerability reports through its Open Source Software Vulnerability Reward Program(OSS VRP) following a major increase in automated submissions that were mostly invalid. The change took effect on October 1, 2026, and Google said it will provide…"
+        },
+        {
+          "title": "Google pauses open source bug bounty scheme over AI slop submissions",
+          "url": "https://www.itpro.com/software/open-source/this-pause-is-due-to-a-significant-rise-in-automated-submissions-the-vast-majority-of-which-are-not-valid-google-pauses-open-source-bug-bounty-scheme-over-ai-slop-submissions",
+          "source": "Latest from ITPro in Security",
+          "published_at": "2026-10-05T09:23:36.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/Xgf4wAPDzHdvXoZKH9P9yA-1920-80.jpg",
+          "description": "The Google open source scheme is the latest bug bounty to fall victim to AI-generated submissions"
+        },
+        {
+          "title": "Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports",
+          "url": "https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug",
+          "published_at": "2026-10-05T10:30:00.000Z",
+          "description": "Google has paused its Open Source Vulnerability Rewards Program due to a flood of AI submissions"
+        }
+      ],
+      "summary": "Google has temporarily stopped accepting new reports through its Open Source Software Vulnerability Reward Program. The pause follows a rise in automated and AI-generated submissions, including invalid reports."
+    },
+    {
+      "id": "topic_4ed8a210d12db250",
+      "title": "Huawei and Qualcomm Sign Multi-Year Patent Licensing Deal",
+      "headline": "Huawei and Qualcomm sign multi-year patent licensing deal for 5G and AI",
+      "label": [
+        "patent",
+        "qualcomm",
+        "huawei",
+        "licensing",
+        "multi",
+        "deal"
+      ],
+      "category": "new",
+      "theme": "theme_1e87b67e0f847b5",
+      "entities": [
+        "Huawei",
+        "Qualcomm",
+        "AI",
+        "Qualcomm Struck",
+        "Broad Multi"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Huawei and Qualcomm sign multi-year patent licensing deal for 5G and AI",
+          "url": "https://english.pravda.ru/news/business/169568-huawei-qualcomm-patent-licensing-agreement",
+          "source": "PravdaReport",
+          "published_at": "2026-10-05T11:06:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/5/6/8/169568_amp.jpeg",
+          "description": "Huawei Technologies has entered into a comprehensive, multi-year patent licensing agreement with Qualcomm, signaling a strategic truce between two of the world's most influential players in telecommunications infrastructure and semiconductor design. The broad agreement covers critical intellectual…"
+        },
+        {
+          "title": "Huawei, Qualcomm sign multi-year patent licensing deal",
+          "url": "https://www.siliconrepublic.com/business/huawei-qualcomm-sign-multi-year-licensing-deal",
+          "source": "Silicon Republic",
+          "published_at": "2026-10-05T10:17:17.000Z",
+          "description": "Huawei paid Qualcomm $1.8bn in 2020 to settle a long-standing patent infringement dispute. Read more: Huawei, Qualcomm sign multi-year patent licensing deal"
+        },
+        {
+          "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+          "url": "https://www.investing.com/news/stock-market-news/huawei-agrees-to-a-multiyear-patent-licensing-deal-with-qualcomm-4931052",
+          "source": "All News",
+          "published_at": "2026-10-05T19:06:55.000Z"
+        },
+        {
+          "title": "Huawei and Qualcomm Struck a Broad Multi-Year Patent Licensing Deal",
+          "url": "https://yro.slashdot.org/story/26/10/05/1412251/huawei-and-qualcomm-struck-a-broad-multi-year-patent-licensing-deal",
+          "source": "Slashdot",
+          "published_at": "2026-10-05T15:00:00.000Z",
+          "description": "An anonymous reader quotes a report from Quartz: Huawei and Qualcomm on Monday announced a multi-year, broad patent license agreement covering 5G, artificial intelligence, compute, and networking technologies, along with Qualcomm's purchase of certain Huawei U.S. patents in those same fields. The d…"
+        },
+        {
+          "title": "Huawei and Qualcomm sign patent cross-licensing deal for 5G, AI and other tech",
+          "url": "https://www.gsmarena.com/huawei_and_qualcomm_sign_patent_crosslicensing_deal_for_5g_ai_and_other_tech-news-74900.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-10-05T13:11:02.000Z",
+          "description": "Huawei and Qualcomm just signed a broad, multi-year cross-licensing agreement that covers 5G, compute, AI and networking technologies developed by the two companies. This is the first 5G licensing agreement between the two. As part of the deal, Qualcomm will buy several US patents from Huawei – the…"
+        }
+      ],
+      "summary": "Huawei and Qualcomm announced a broad, multi-year patent licensing agreement covering technologies including 5G, artificial intelligence, computing and networking."
+    },
+    {
+      "id": "topic_7a1a2e5be2ff7f44",
+      "title": "Flavio Bolsonaro Leads Lula in Brazil’s First-Round Vote",
+      "headline": "Présidentielle au Brésil : Flavio Bolsonaro crée la surprise et devance Lula au premier tour",
+      "label": [
+        "présidentielle",
+        "brésil",
+        "lula",
+        "bolsonaro",
+        "flavio",
+        "tour"
+      ],
+      "category": "new",
+      "theme": "theme_24557d48e08e5d6b",
+      "entities": [
+        "Pr",
+        "Br",
+        "Flavio Bolsonaro",
+        "Lula",
+        "Grosse"
+      ],
+      "article_count": 14,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Présidentielle au Brésil : Flavio Bolsonaro crée la surprise et devance Lula au premier tour",
+          "url": "https://www.rtbf.be/article/presidentielle-au-bresil-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour-11794933",
+          "source": "- Info",
+          "published_at": "2026-10-05T04:15:03.000Z",
+          "description": "Le sénateur conservateur Flavio Bolsonaro a créé la surprise dimanche au premier tour de la présidentielle au Brésil en..."
+        },
+        {
+          "title": "Présidentielle au Brésil : le conservateur Flavio Bolsonaro crée la surprise et devance Lula au premier tour",
+          "url": "https://www.franceinfo.fr/monde/bresil/presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour_8222773.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-10-05T04:09:43.000Z",
+          "description": "Le fils de l'ancien chef d'Etat a recueilli plus de 47% des suffrages, contre près de 45% pour le président sortant. Les deux hommes s'affronteront au second tour le 25 octobre."
+        },
+        {
+          "title": "Présidentielle au Brésil. Grosse surprise, Flavio Bolsonaro devance Lula au premier tour",
+          "url": "https://www.ouest-france.fr/monde/bresil/presidentielle-au-bresil-grosse-surprise-flavio-bolsonaro-devance-lula-au-premier-tour-59865a76-c04b-11f1-bc1c-de747933f8a6",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-10-05T00:45:24.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwOWVlNzhjYzU4MDc4YzgwYmJmMDNmN2MzNjFkNDg4YTY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=1e5593b7731f2c157cbb98b1a0dee5c5b0f82fe4114c65ef910c7fe745ab23a7",
+          "description": "Le premier tour de l’élection présidentielle au Brésil avait lieu ce dimanche 4 octobre. Contrairement à ce qu’indiquaient les sondages, le candidat d’extrême droite, Flavio Bolsonaro, arrive en tête. Second tour, le 25 octobre."
+        },
+        {
+          "title": "Présidentielle au Brésil : Flavio Bolsonaro crée la surprise en devançant Lula au premier tour, et se place en favori du scrutin",
+          "url": "https://www.sudouest.fr/international/bresil/bresil-flavio-bolsonaro-cree-la-surprise-en-devancant-lula-un-second-tour-decisif-s-annonce-30921712.php",
+          "source": "L'essentiel",
+          "published_at": "2026-10-05T04:25:45.000Z",
+          "description": "Avec 47 % des voix, le sénateur conservateur Flavio Bolsonaro, fils de l’ancien président en prison, devance le président sortant de gauche Luiz Inacio Lula da Silva à 45 % au premier tour de la présidentielle"
+        },
+        {
+          "title": "Élection présidentielle au Brésil : le conservateur Flavio Bolsonaro crée la surprise en devançant le président sortant Lula, second tour le 25 octobre",
+          "url": "https://www.ladepeche.fr/2026/10/05/election-presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-en-devancant-le-president-sortant-lula-second-tour-le-25-octobre-13584101.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-10-05T04:52:28.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6ac32c38aaee47df8f062825/standard/image.jpg?v=1",
+          "description": "Le candidat conservateur Flavio Bolsonaro, fils de l'ancien président Jair Bolsonaro, est arrivé en tête de la présidentielle au Brésil dimanche avec 47,06 % des voix. Le président de gauche sortant Lula a obtenu..."
+        }
+      ],
+      "summary": "Conservative candidate Flavio Bolsonaro received about 47% of the vote in Brazil’s first presidential election round, ahead of incumbent Luiz Inácio Lula da Silva at about 45%. They are due to face each other in a runoff on October 25."
+    },
+    {
+      "id": "topic_34517d88a7626619",
+      "title": "Amazon Promotes Prime Big Deal Days With Early Discounts",
+      "headline": "Here’s Everything You Need to Know About Amazon’s Prime Big Deal Days",
+      "label": [
+        "deal",
+        "days",
+        "big",
+        "prime",
+        "amazon",
+        "discounts"
+      ],
+      "category": "new",
+      "theme": "theme_6e3ce85e212c80e4",
+      "entities": [
+        "Everything You Need",
+        "Know About Amazon",
+        "Prime Big Deal Days",
+        "ASUS Announces Amazon Prime",
+        "Big Deal Days Offers"
+      ],
+      "article_count": 12,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Here’s Everything You Need to Know About Amazon’s Prime Big Deal Days",
+          "url": "https://www.billboard.com/culture/product-recommendations/amazon-prime-big-deal-days-dates-oct-2026-best-discounts-online-1236354096",
+          "source": "Billboard",
+          "published_at": "2026-10-05T20:10:07.000Z",
+          "description": "To save big before the holidays, shop the 48-hour sale event on Amazon with deep discounts up to 50% off, sitewide."
+        },
+        {
+          "title": "ASUS Announces Amazon Prime Big Deal Days Offers with Up to 54% Off",
+          "url": "https://financialpost.com/globe-newswire/asus-announces-amazon-prime-big-deal-days-offers-with-up-to-54-off",
+          "source": "Financial Post",
+          "published_at": "2026-10-05T13:09:46.000Z",
+          "description": "October 6–8 on Amazon.ca with Chromebooks from C$229, Windows laptops from C$329, and RTX 5060 gaming from C$1,999 KEY POINTS More time to save: ASUS offers run October 6–8 on Amazon.ca, covering Prime Big Deal Days on October 6–7 Everyday value: Chromebooks from C$229 with up to 54% off, and Windo…"
+        },
+        {
+          "title": "Apple Deals: Early Prime Big Deal Days Discounts Are Live",
+          "url": "https://www.ign.com/articles/apple-amazon-prime-big-deal-days-2026",
+          "source": "IGN Articles",
+          "published_at": "2026-10-05T20:07:25.000Z",
+          "description": "Amazon has already pushed its Apple deals live ahead of Prime Big Deal Days 2026."
+        },
+        {
+          "title": "Amazon Prime Big Deal Days 2026 Canada: Dates, deals and everything you need to know",
+          "url": "https://globalnews.ca/news/12058901/amazon-prime-big-deal-days-2026",
+          "published_at": "2026-10-05T15:30:40.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/09/earlydeals.png",
+          "description": "Amazon Prime Big Deal Days runs Oct. 6–7 in Canada. Here’s what Canadian shoppers need to know, plus the early deals and products actually worth buying."
+        },
+        {
+          "title": "Amazon Prime Big Deal Days 2026: 5 Of The Best Early Tech Deals Available Now",
+          "url": "https://www.slashgear.com/2277904/amazon-prime-big-deal-days-2026-best-early-tech-discounts-lower-prices",
+          "source": "SlashGear - Tech, Cars, Gaming, Science, & Reviews",
+          "published_at": "2026-10-05T19:08:40.000Z",
+          "description": "If you're looking to score some deep discounts on some new tech items for your home, Amazon's Prime Day has some great deals. Here's what caught our eye."
+        }
+      ],
+      "summary": "Amazon’s Prime Big Deal Days sale is scheduled for early October, with dates varying by market. Early offers include discounts on electronics and other products."
+    },
+    {
+      "id": "topic_6a96ad89e163df73",
+      "title": "Teenager Loses Hand During French School Protest",
+      "headline": "Teenager has hand blown off during French school protests, official says - Reuters",
+      "label": [
+        "blown",
+        "teenager",
+        "hand",
+        "school",
+        "france",
+        "protests"
+      ],
+      "category": "new",
+      "theme": "theme_8907f4e2bcbeb7c2",
+      "entities": [
+        "Teenager",
+        "French",
+        "Reuters",
+        "France",
+        "BBC"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Teenager has hand blown off during French school protests, official says",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxqbtdmmdztafpmsufozwx6azb2x1rklwjwvfjsq3zku1zpenbmdki5vgzvounodfutadrdy2jfoghxclrlzxpan3nkcwr1ctftbv8ychl5ttfsdg5ky3brlwz2njnfwehzqtrrze1mrll3uljutm9at25hnzrtzhq3nmzmdlc3zg1rm25dr2p0rwu1wupenhgzbwdontr3chlcbgxumldkzupzv0zpru9wberft3rkrddqdflwx3bb",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-05T11:37:42.000Z",
+          "description": "Teenager has hand blown off during French school protests, official says Reuters Teenager's hand blown off during confrontation between France school protesters and police BBC 15-year-old loses hand during French schools protest as clashes with police continue – Europe live The Guardian Live: Stude…"
+        },
+        {
+          "title": "France school protests: teenager’s hand blown off after picking up grenade",
+          "url": "https://www.scmp.com/news/world/europe/article/3369829/france-school-protests-teenagers-hand-blown-after-picking-grenade",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-05T14:20:36.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/05/10fdb7a4-b5f3-4d7b-b382-7908927e2efa_f6da11d4.jpg?itok=WNmvdSxh&v=1791210031",
+          "description": "A 15-year-old student lost a hand on Monday picking up a police grenade as part of nationwide protests in France over classroom conditions that have disrupted lessons at hundreds of schools since last week. Some students returned to classrooms but others maintained actions outside their schools, ah…"
+        },
+        {
+          "title": "Teenager's hand blown off as French school protests enter third week",
+          "url": "https://japantoday.com/category/world/teenager%27s-hand-blown-off-as-french-school-protests-enter-third-week",
+          "source": "Japan Today",
+          "published_at": "2026-10-05T22:20:37.000Z",
+          "description": "A teenager's hand was blown off as high-school protesters clashed with riot police in northern France on Monday, a local official said, on the eve of a ‌national…"
+        },
+        {
+          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o",
+          "source": "BBC News",
+          "published_at": "2026-10-05T12:29:45.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca95/live/91853390-c0b7-11f1-9475-67b7bb314be1.jpg",
+          "description": "The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday."
+        },
+        {
+          "title": "Teenager’s hand blown off as French school protests enter 3rd week",
+          "url": "https://globalnews.ca/news/12088419/high-school-students-french-protest",
+          "published_at": "2026-10-05T19:39:50.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/France-Protests.jpg?quality=65&strip=all",
+          "description": "Rights groups accuse police in France ​of using heavy-handed tactics against minors, including batons, tear gas and flash-ball guns."
+        }
+      ],
+      "summary": "A 15-year-old lost a hand after picking up a police grenade during school protests in northern France, according to local officials. The teenager’s life was not in danger, a prefect said."
+    },
+    {
+      "id": "topic_8c68ffec49c81624",
+      "title": "Middle East Oil Exports Top Pre-War Levels as Tanker Attacks Rise",
+      "headline": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase",
+      "label": [
+        "pre",
+        "exports",
+        "levels",
+        "oil",
+        "war",
+        "middle"
+      ],
+      "category": "new",
+      "theme": "theme_b733c1f748678a59",
+      "entities": [
+        "Middle East",
+        "Al Jazeera",
+        "Oil",
+        "West Asian",
+        "Iran"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase",
+          "url": "https://bworldonline.com/world/2026/10/05/784388/middle-east-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-10-05T01:59:26.000Z",
+          "description": "SINGAPORE — Crude oil exports from the Middle East rose above pre-war levels in four of the seven…"
+        },
+        {
+          "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-05T05:20:57.000Z",
+          "description": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’."
+        },
+        {
+          "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxpoehhbulvx0rozf9xn2jhcezndmhhewpfm3dyve13ylnlbm9mx2uzy2ttmlkxm3rhmff0exp5v25rulhhwdbqywdxbnozu01rulrjtth2czc0zzrvvwkzbmnxulktbnd5mddnvejtqtzqsnriwnnhuw1du2rqbge3dulewvvobfz3dvrstgf3wmdix0juu1rwchaxmeiwruntoek2mhzrtnlmmi1zzhg1tnbcqlr4udibuwfbvv95cuxpbfdjzgzrwjjox29laezqnvvhrhoyzvpsauzbwwpynvlct2dex0lzatdhnfznenpkwffteg5qwmuzb0f4zwnhn2t0nxk2n1hoohjhbgmtn24xcul3dew1bfpteuttev9maghqztq4cxjfrjcxcxljdexzwk9fnhqzzvzsdec1aml1x0hua28yqvrgmlhpz2pmlxzaykharu02vlpnb3nsynl2zkjzugvqrgryxzdhvzgzr28w",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-05T06:11:15.000Z",
+          "description": "Middle East oil exports surpass pre-war levels despite tensions, data shows Al Jazeera The Return of Middle East Oil The New York Times Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist WSJ Oil falls as Middle East crude exports rise, G7 to release stocks Reuters…"
+        },
+        {
+          "title": "Oil exports top pre-war levels, tanker attacks increase",
+          "url": "https://www.perthnow.com.au/news/conflict/oil-exports-top-pre-war-levels-tanker-attacks-increase-c-22972484",
+          "source": "PerthNow",
+          "published_at": "2026-10-05T21:50:56.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22972484/c59f6573cbfa9c56cd0eac2762dad83971f1959b-16x9-x0y0w1280h720.jpg",
+          "description": "Attacks on oil tankers in the Middle East continue, with at least seven incidents reported in the past week, as oil and petrol prices skyrocket."
+        },
+        {
+          "title": "West Asian crude oil exports exceed pre-war levels but tanker attacks increase",
+          "url": "https://www.thehindu.com/news/international/west-asian-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase/article71545667.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-05T01:36:40.000Z",
+          "description": "Exports averaged 18 million bpd between March 2025 and February this year before the U.S.-Israeli war with Iran began"
+        }
+      ],
+      "summary": "Middle East crude oil exports have exceeded pre-war levels, according to the reports. Tanker attacks have also increased, with at least seven incidents reported in the past week."
+    }
+  ]
+}
