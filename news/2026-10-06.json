@@ -1,0 +1,990 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-07T00:35:42.701Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Trump said Iran could strike Los Angeles or San Diego, drawing condemnation from California leaders.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Trump approved a firing-squad execution for Nidal Hasan, convicted in the 2009 Fort Hood shooting; it would be the first U.S. military execution since 1961.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Kenya confirmed its first Ebola case after a traveler from the Democratic Republic of Congo died in Nairobi, and officials identified 28 contacts.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Former German foreign-intelligence chief August Hanning was arrested on suspicion of espionage and treason over alleged disclosures of classified information to a foreign power.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "South Korean police are investigating cyberattacks that exposed bank customers’ information, while President Lee said AI may have been used.",
+        "stories": [
+          15
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_aef3d5b841e50d79",
+      "title": "Trump Says Iran Could Strike Los Angeles or San Diego",
+      "headline": "Trump Says Iran Could ‘Take Out’ Los Angeles, San Diego",
+      "label": [
+        "diego",
+        "san",
+        "iran",
+        "take",
+        "trump",
+        "angeles"
+      ],
+      "category": "new",
+      "theme": "theme_4d792eb3005293ea",
+      "entities": [
+        "Trump Says Iran Could",
+        "Take Out",
+        "Los Angeles",
+        "San Diego",
+        "Trump"
+      ],
+      "article_count": 48,
+      "source_count": 34,
+      "articles": [
+        {
+          "title": "Trump Says Iran Could ‘Take Out’ Los Angeles, San Diego",
+          "url": "https://politicalwire.com/2026/10/06/trump-says-iran-could-take-out-los-angeles-san-diego",
+          "source": "Political Wire",
+          "published_at": "2026-10-06T10:19:15.000Z",
+          "description": "“President Donald Trump suggested that Iran could ‘take out’ Los Angeles and San Diego during a political rally in Nebraska on Monday, drawing condemnation from California leaders, including Gov. Gavin Newsom, who called the remarks ‘deranged and dangerous,'” ABC News reports. New York Times: Fury…"
+        },
+        {
+          "title": "Trump suggests Iran could 'take out' Los Angeles and San Diego",
+          "url": "https://abcnews.com/politics/trump-suggests-iran-los-angeles-san-diego/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-06T09:31:35.000Z",
+          "image": "https://s.abcnews.com/images/Politics/trump-nebraska-arrival_1791268968033_hpMain_4x3t_384.jpg",
+          "description": "President Donald Trump suggested Monday during a political rally in Nebraska that Iran could “take out” Los Angeles and San Diego, comments that drew condemnation."
+        },
+        {
+          "title": "Trump says Iran could ‘take out’ Los Angeles or San Diego, drawing backlash",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3369961/trump-says-iran-could-take-out-los-angeles-or-san-diego-drawing-backlash",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-06T17:34:35.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/07/da063eeb-4777-4ab7-a97e-cce20c58cc18_fcfb4b76.jpg?itok=Qe4acVa3&v=1791310974",
+          "description": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm be…"
+        },
+        {
+          "title": "Newsom Blasts Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego",
+          "url": "https://internewscast.com/news/us/newsom-blasts-trump-for-saying-iran-could-take-out-los-angeles-and-san-diego",
+          "source": "Internewscast",
+          "published_at": "2026-10-06T13:50:06.000Z",
+          "description": "Internewscast Internewscast WASHINGTON — California Gov. Gavin Newsom on Monday night called President Trump… This Post: Newsom Blasts Trump for Saying Iran Could ‘Take Out’ Los Angeles and San Diego first appeared on Internewscast"
+        },
+        {
+          "title": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-06T08:04:20.000Z",
+          "image": "https://i.guim.co.uk/img/media/fd40d434d1e0df2e771fb7691d587ca8e2ef7371/1571_322_4264_3412/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=168afb62396618f5d11ae8bd5eea43e8",
+          "description": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ Leaders in California have sharply denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and San Diego – two liberal…"
+        }
+      ],
+      "summary": "Donald Trump said at a Nebraska rally that Iran could “take out” Los Angeles or San Diego, drawing condemnation from California leaders."
+    },
+    {
+      "id": "topic_2dc724d1d08bc09a",
+      "title": "Trump Approves Firing-Squad Execution of Nidal Hasan",
+      "headline": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
+      "label": [
+        "squad",
+        "firing",
+        "hood",
+        "fort",
+        "shooter",
+        "approves"
+      ],
+      "category": "new",
+      "theme": "theme_89fec40c0ac147b0",
+      "entities": [
+        "Trump",
+        "Fort Hood",
+        "Nidal Hasan",
+        "Pentagon",
+        "Politico"
+      ],
+      "article_count": 40,
+      "source_count": 32,
+      "articles": [
+        {
+          "title": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
+          "url": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-06T04:46:04.000Z",
+          "description": "The Army psychiatrist walked into a medical building where soldiers were getting medical checkups, shouted “Allahu akbar” — Arabic for “God is great!” — and opened fire with a laser-sighted handgun. Thirteen people were killed and more than 30 injured"
+        },
+        {
+          "title": "Trump approves firing-squad execution of 2009 Fort Hood shooter",
+          "url": "https://tass.com/society/2197903",
+          "source": "TASS",
+          "published_at": "2026-10-06T03:40:48.000Z",
+          "description": "Nidal Hasan carried out the deadliest shooting of its kind ever carried out at a US military base"
+        },
+        {
+          "title": "Trump approves firing-squad execution of Fort Hood shooter, Pentagon says",
+          "url": "https://www.theguardian.com/us-news/2026/oct/05/trump-fort-hood-shooter-execution",
+          "source": "The Guardian",
+          "published_at": "2026-10-06T01:33:44.000Z",
+          "image": "https://i.guim.co.uk/img/media/c0952271cd81ce4f54268f4f822d02dcd6f898ec/409_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=a50744e410e3a236b651c7628c724540",
+          "description": "Nidal Hasan sentenced to death by military jury in 2013 for carrying out deadly shooting attack at army base in Texas Donald Trump has approved the execution by US army firing squad of Nidal Hasan, who was sentenced to death for killing 13 soldiers at Fort Hood in 2009, chief Pentagon spokesperson…"
+        },
+        {
+          "title": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan (Politico)",
+          "url": "https://www.memeorandum.com/261005/p130",
+          "source": "memeorandum",
+          "published_at": "2026-10-06T02:15:01.000Z",
+          "description": "Politico: Trump approves firing squad execution for Fort Hood shooter Nidal Hasan — President Donald Trump has approved the execution by firing squad of Army Maj. Nidal Malik Hasan for the 2009 shooting rampage at Fort Hood, Texas. — The U.S. military has not carried out the death penalty since 196…"
+        },
+        {
+          "title": "Trump approves firing squad execution for Fort Hood mass shooter",
+          "url": "https://www.thejournal.ie/nidal-hasan-firing-squad-7183537-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-06T10:07:38.000Z",
+          "description": "Nidal Hasan’s execution will be the first carried out by the US military since 1961."
+        }
+      ],
+      "summary": "Trump approved a firing-squad execution for Nidal Hasan, the Army psychiatrist convicted of the 2009 Fort Hood shooting. It would be the first U.S. military execution since 1961, according to the headlines."
+    },
+    {
+      "id": "topic_420ada8db4d0497f",
+      "title": "Former German Intelligence Chief Arrested on Espionage Suspicions",
+      "headline": "Former German spy chief arrested for espionage and treason",
+      "label": [
+        "spy",
+        "chief",
+        "arrested",
+        "german",
+        "espionage",
+        "treason"
+      ],
+      "category": "new",
+      "theme": "theme_5c6fec4b128787be",
+      "entities": [
+        "Former German",
+        "Former German Spy Chief",
+        "Arrested",
+        "Ex",
+        "German Spy Chief Arrested"
+      ],
+      "article_count": 36,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Former German spy chief arrested for espionage and treason",
+          "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o",
+          "source": "BBC News",
+          "published_at": "2026-10-06T10:05:42.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/890e8b20-c167-11f1-ae7b-cfc528a6c828.jpg",
+          "description": "August Hanning is accused of obtaining classified information for a foreign power."
+        },
+        {
+          "title": "Former German Spy Chief Arrested",
+          "url": "https://politicalwire.com/2026/10/06/former-german-spy-chief-arrested",
+          "source": "Political Wire",
+          "published_at": "2026-10-06T13:11:00.000Z",
+          "description": "“German police on Tuesday detained the country’s former head of its foreign-intelligence service on suspicion of espionage and attempted treason in one of the biggest scandals to engulf the spy agency since its creation in the mid-1950s,” the Wall Street Journal reports. “August Hanning, who led th…"
+        },
+        {
+          "title": "Former German spy chief arrested for treason and espionage",
+          "url": "https://www.politico.eu/article/former-german-spy-chief-bnd-arrested-for-treason-and-espionage-august-hanning",
+          "source": "POLITICO",
+          "published_at": "2026-10-06T09:40:33.000Z",
+          "description": "The allegations amount to a huge embarrassment for Berlin's foreign intelligence agency."
+        },
+        {
+          "title": "Former German spy chief arrested for treason",
+          "url": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec",
+          "source": "International homepage",
+          "published_at": "2026-10-06T09:11:14.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F820e84e6-85d2-4ee6-9ada-a9a32cdb52c4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Former intelligence head August Hanning suspected of selling state secrets to a foreign power"
+        },
+        {
+          "title": "Former German spy chief arrested over espionage allegations",
+          "url": "https://news.sky.com/story/former-german-spy-chief-arrested-over-espionage-allegations-13595660",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-06T08:48:00.000Z",
+          "description": "A former German intelligence chief has been arrested on suspicion of passing state secrets to a foreign intelligence service, federal prosecutors said."
+        }
+      ],
+      "summary": "Former German foreign-intelligence chief August Hanning was arrested on suspicion of espionage and treason. Prosecutors allege he passed classified information to a foreign power."
+    },
+    {
+      "id": "topic_9d8935856b5c1120",
+      "title": "Kenya Confirms First Ebola Case After Patient Dies",
+      "headline": "Kenya confirms first Ebola case imported from Congo",
+      "label": [
+        "kenya",
+        "ebola",
+        "first",
+        "case",
+        "confirms",
+        "congo"
+      ],
+      "category": "new",
+      "theme": "theme_6bf72c72e4a9ff5a",
+      "entities": [
+        "Kenya",
+        "Ebola",
+        "Congo",
+        "Kenya Confirms First Ebola",
+        "Case After Man Dies"
+      ],
+      "article_count": 23,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Kenya confirms first Ebola case imported from Congo",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-06-kenya-confirms-first-ebola-case-imported-from-congo",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-10-06T12:45:17.000Z",
+          "description": "Kenya confirmed its first Ebola case on Tuesday after a Kenyan citizen who had travelled from the Democratic Republic of Congo died in Nairobi."
+        },
+        {
+          "title": "Kenya Confirms First Ebola Case After Man Dies In Nairobi",
+          "url": "https://www.huffpost.com/entry/ebola-outbreak-kenya-first-case_n_6ac508d2e4b024c9b49302de",
+          "source": "World News",
+          "published_at": "2026-10-06T14:54:59.000Z",
+          "description": "The patient had been ill for about a month before traveling by road from Congo to Uganda’s capital, and then flying to Nairobi."
+        },
+        {
+          "title": "Kenya confirms first Ebola case and says patient has died",
+          "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-06T08:47:51.000Z",
+          "image": "https://i.guim.co.uk/img/media/7ede8ff970717866698f77b694a00dd375607d4a/447_0_4339_3473/master/4339.jpg?width=140&quality=85&auto=format&fit=max&s=abb6f70235fa8ea2a180b012987ef78d",
+          "description": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya ⁠has recorded its ⁠first confirmed ​Ebola case, a Kenyan citizen who had been living in the Democratic ⁠Republic of the Congo and arrived in Nairobi on Saturday, the health minister, Aden ⁠Dual…"
+        },
+        {
+          "title": "Kenya confirms first Ebola case imported from Congo after patient dies in Nairobi",
+          "url": "https://www.thehindu.com/news/international/kenya-confirms-first-ebola-case-imported-from-congo-after-patient-dies-in-nairobi/article71550957.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-06T10:54:29.000Z",
+          "description": "Health Minister Aden Duale said 28 contacts have been identified and placed in isolation, as Kenya becomes the fourth country to record a case in the fastest-growing Ebola outbreak in history"
+        },
+        {
+          "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+          "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-06T17:00:52.000Z",
+          "description": "More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300."
+        }
+      ],
+      "summary": "Kenya confirmed its first Ebola case after a citizen who had traveled from the Democratic Republic of Congo died in Nairobi. Health officials said 28 contacts had been identified."
+    },
+    {
+      "id": "topic_fd7e0e112d6d337e",
+      "title": "Trump Says Super PAC Will Pay for Taxpayer-Funded Ads",
+      "headline": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry",
+      "label": [
+        "ads",
+        "taxpayer",
+        "trump",
+        "funded",
+        "pay",
+        "pac"
+      ],
+      "category": "new",
+      "theme": "theme_768579462e235276",
+      "entities": [
+        "Trump",
+        "Super Pac",
+        "The Guardian",
+        "PAC",
+        "Facing Backlash"
+      ],
+      "article_count": 18,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry",
+          "url": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-06T01:04:58.000Z",
+          "image": "https://i.guim.co.uk/img/media/bad53d7d437a13e2cb35c20b0164574d495cd66d/176_0_773_618/master/773.jpg?width=140&quality=85&auto=format&fit=max&s=1e9082fd48227f452ff2460b9be5499b",
+          "description": "President’s U-turn comes after Democrats and Republicans condemned use of tax dollars for pro-Trump ads Donald Trump said on Monday he would pay for taxpayer-funded, pro-Trump ads “with money I raised for MAGA, Inc.”, a political action committee, after the television advertisements glorifying hims…"
+        },
+        {
+          "title": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry",
+          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxte0xcjjuou12tdvrvfjfeglxr3lhlxp5rmqyb0viejzzc3y5b1btmlvkundzmfdmevhflvrhnuhynlpkavllbexzbnz2v0tjn25llxntb1lat0thbllvlxb4bxptsv9rqzfrofr5ythlq1hxa3jltgc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-06T01:04:00.000Z",
+          "description": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry The Guardian Trump says he will stop using US taxpayer funds for ads BBC Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads The New York Times Trump says taxpayers will no longer fund TV ads that prais…"
+        },
+        {
+          "title": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him",
+          "url": "https://www.thehindu.com/news/international/trump-says-his-super-pac-will-pay-for-taxpayer-funded-ads-that-sparked-backlash-for-glorifying-him/article71549746.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-06T01:12:35.000Z",
+          "description": "Donald Trump provided no details on reimbursing taxpayers for ads that had already aired, nor on how he would go about having his political organisation pay for such future advertising"
+        },
+        {
+          "title": "Trump says he will personally pay for taxpayer-funded ads after bipartisan backlash",
+          "url": "https://www.ms.now/news/trump-says-hell-personally-pay-for-taxpayer-funded-ads-after-bipartisan-backlash",
+          "source": "MS NOW",
+          "published_at": "2026-10-06T00:41:32.000Z",
+          "description": "The president’s announcement comes after Republicans joined Democrats in questioning whether taxpayers should foot the bill for campaign-style ads. The post Trump says he will personally pay for taxpayer-funded ads after bipartisan backlash appeared first on MS NOW."
+        },
+        {
+          "title": "Trump says he will use Maga Inc to pay for taxpayer-funded ads",
+          "url": "https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694",
+          "source": "International homepage",
+          "published_at": "2026-10-06T00:54:30.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90e2bcd1-fa99-4807-a4a9-b26fb2de947b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "US president reverses course after defending television spots that ran during National Football League games and ‘Saturday Night Live’"
+        }
+      ],
+      "summary": "Trump said his super PAC would pay for ads that had been funded with taxpayer money, reversing course after bipartisan criticism. He gave no details on reimbursing taxpayers for ads that had already aired."
+    },
+    {
+      "id": "topic_8b9a7601379bb6a7",
+      "title": "Televangelist Jim Bakker Dies at 86",
+      "headline": "Jim Bakker Dies: Televangelist Was 86",
+      "label": [
+        "bakker",
+        "jim",
+        "televangelist",
+        "dies",
+        "ptl",
+        "scandal"
+      ],
+      "category": "new",
+      "theme": "theme_96c930a5328bd239",
+      "entities": [
+        "Jim Bakker Dies",
+        "Televangelist Was",
+        "Scandal",
+        "Jim Bakker",
+        "Jim Bakker Is Dead"
+      ],
+      "article_count": 19,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Jim Bakker Dies: Televangelist Was 86",
+          "url": "https://deadline.com/2026/10/jim-bakker-dead-televangelist-1237147619",
+          "source": "Deadline",
+          "published_at": "2026-10-06T03:20:05.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/jim-bakker.jpg",
+          "description": "Jim Bakker, the televangelist who built a media empire with former wife Tammy Faye Bakker, has died. He was 86. In a social media post, Bakker’s wife Lori Bakker shared the news of his death. “It is with a broken heart that I share that my beloved husband, Jim Bakker, went home to be with […]"
+        },
+        {
+          "title": "Scandal-plagued televangelist Jim Bakker dies at 86",
+          "url": "https://torontosun.com/news/world/scandal-plagued-televangelist-jim-bakker-dies-at-86",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-10-06T13:20:00.000Z",
+          "description": "Bakker resigned from the PTL ministry in 1987 amid the financial and sex scandal involving church secretary, Jessica Hahn"
+        },
+        {
+          "title": "Jim Bakker Is Dead",
+          "url": "https://politicalwire.com/2026/10/06/jim-bakker-is-dead",
+          "source": "Political Wire",
+          "published_at": "2026-10-06T12:42:42.000Z",
+          "description": "“Jim Bakker, a television evangelist who lost his popular and prosperous ministry in a 1980s sex scandal and then lost his freedom for five years, imprisoned for having violated federal laws with his conflation of God and mammon, died on Monday. He was 86,” the New York Times reports. MS NOW: Jim B…"
+        },
+        {
+          "title": "Televangelist Jim Bakker, Convicted in Fraud Scandal, Dies at 86",
+          "url": "https://internewscast.com/news/us/televangelist-jim-bakker-convicted-in-fraud-scandal-dies-at-86",
+          "source": "Internewscast",
+          "published_at": "2026-10-06T04:31:13.000Z",
+          "description": "Internewscast Internewscast Jim Bakker, the once-prominent televangelist whose career was marked by both Christian… This Post: Televangelist Jim Bakker, Convicted in Fraud Scandal, Dies at 86 first appeared on Internewscast"
+        },
+        {
+          "title": "Televangelist and convicted fraudster Jim Bakker dies at 86",
+          "url": "https://www.avclub.com/jim-bakker-televangelist-fraud-dead",
+          "source": "AV Club",
+          "published_at": "2026-10-06T13:38:54.000Z",
+          "description": "The disgraced television preacher was portrayed by Andrew Garfield in the 2021 biopic The Eyes Of Tammy Faye ."
+        }
+      ],
+      "summary": "Jim Bakker, the televangelist who built a media ministry with his former wife Tammy Faye Bakker, has died at 86. His career was marked by a sex and financial scandal and a fraud conviction."
+    },
+    {
+      "id": "topic_542eccd41064f03c",
+      "title": "Harmanpreet Kaur Steps Down as India Women’s Cricket Captain",
+      "headline": "Harmanpreet Kaur steps down as India captain",
+      "label": [
+        "harmanpreet",
+        "captain",
+        "kaur",
+        "india",
+        "steps",
+        "women"
+      ],
+      "category": "new",
+      "theme": "theme_b2f45f80ec044215",
+      "entities": [
+        "Harmanpreet Kaur",
+        "India",
+        "Kaur",
+        "Smriti Mandhana Appointed India",
+        "Women"
+      ],
+      "article_count": 21,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Harmanpreet Kaur steps down as India captain",
+          "url": "https://www.cricinfo.com/ci/content/story/1557275.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-10-06T06:14:07.000Z",
+          "description": "Harmanpreet Kaur, 37, led India in five Tests, 51 ODIs and 155 T20Is"
+        },
+        {
+          "title": "Harmanpreet Kaur steps down as captain of India women's team",
+          "url": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-steps-down-as-captain-of-india-womens-team/article71550199.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-06T06:24:37.000Z",
+          "description": "The 37-year-old led the Indian T20 side for a decade, taking over the position in 2016, and was elevated to ODI captaincy in 2022 before becoming the all-format leader in 2023"
+        },
+        {
+          "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
+          "url": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-06T07:49:48.000Z",
+          "description": "The 37-year-old is longest-serving cricket captain, among both men and women, to have captained in over 150 T20I games."
+        },
+        {
+          "title": "'I have done my duty': Harmanpreet Kaur steps down as India captain",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-steps-down-as-india-captain-in-all-formats/articleshow/134724345.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-06T05:38:41.000Z",
+          "description": "India women’s captain Harmanpreet Kaur has stepped down from captaincy in all formats, bringing an end to her stint as the team’s leader. Harmanpreet said the decision was not easy but felt she had fulfilled her responsibility as captain."
+        },
+        {
+          "title": "Kaur steps down as India women’s cricket captain",
+          "url": "https://tribune.com.pk/story/2633278/kaur-steps-down-as-india-womens-cricket-captain",
+          "source": "express tribune",
+          "published_at": "2026-10-06T05:25:31.000Z",
+          "description": "World Cup-winning skipper ends decade-long leadership tenure but will continue playing for India"
+        }
+      ],
+      "summary": "Harmanpreet Kaur has stepped down as captain of India’s women’s team across all formats, ending a decade-long leadership tenure. She will continue playing for India."
+    },
+    {
+      "id": "topic_23044bf8bf1c6540",
+      "title": "FBI Removes Accenture Contractor After Employee Data Breach",
+      "headline": "Accenture Contractor Removed After FBI Data Breach Exposes Thousands of Employees",
+      "label": [
+        "contractor",
+        "fbi",
+        "accenture",
+        "breach",
+        "removes",
+        "data"
+      ],
+      "category": "new",
+      "theme": "theme_bb9d2bb4fafac3ef",
+      "entities": [
+        "Accenture Contractor Removed After",
+        "FBI Data Breach Exposes",
+        "Thousands",
+        "Employees",
+        "Accenture"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Accenture Contractor Removed After FBI Data Breach Exposes Thousands of Employees",
+          "url": "https://gbhackers.com/accenture-contractor-removed-after-fbi-data-breach",
+          "source": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform",
+          "published_at": "2026-10-06T12:14:21.000Z",
+          "description": "On October 5, the Federal Bureau of Investigation (FBI) terminated an Accenture employee’s contract after a security breach exposed sensitive information belonging to thousands of workers, according to Reuters. The incident involved an allegedly unpatched human resources platform, raising concerns…"
+        },
+        {
+          "title": "Accenture contractor removed from FBI after unpatched system led to breach",
+          "url": "https://thenextweb.com/news/fbi-removes-accenture-contractor-data-breach",
+          "source": "The Next Web",
+          "published_at": "2026-10-06T08:23:15.000Z",
+          "image": "https://media.thenextweb.com/2026/10/accenture-sign.avif",
+          "description": "An Accenture contractor has been removed from FBI work following a breach that exposed the personal data of thousands of bureau staff. The FBI acted on Monday, Reuters reported, citing two people familiar with the matter. A senior FBI official told Reuters that an unnamed contractor had not applied…"
+        },
+        {
+          "title": "FBI Removes Accenture Contractor Over ShinyHunters Job Site Data Breach",
+          "url": "https://hackread.com/fbi-removes-accenture-contractor-shinyhunters-data-breach",
+          "source": "Hackread – Cybersecurity News, Data Breaches, AI and More",
+          "published_at": "2026-10-06T16:41:44.000Z",
+          "description": "The FBI removed a contractor over a ShinyHunters-linked breach. Reuters sources identified Accenture and an unpatched Oracle PeopleSoft system."
+        },
+        {
+          "title": "FBI removes Accenture contractor after missed security patch led to breach",
+          "url": "https://malware.news/t/fbi-removes-accenture-contractor-after-missed-security-patch-led-to-breach/126185",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-06T15:21:00.000Z",
+          "description": "The FBI has severed ties with a contractor working for Accenture amid a massive cybercrime intrusion that may have exposed data on thousands of bureau employees, according to a person with knowledge of the matter. Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills?…"
+        },
+        {
+          "title": "FBI Removes Accenture Contractor After Unpatched PeopleSoft Flaw Exposes Thousands of Employees",
+          "url": "https://cybersecuritynews.com/fbi-removes-accenture-contractor",
+          "source": "Cyber Security News",
+          "published_at": "2026-10-06T09:07:34.000Z",
+          "description": "The FBI removed an Accenture contractor on October 5, 2026, after a missed security patch led to a data breach exposing sensitive personal details of thousands of employees. According to Reuters, two sources identified Oracle’s PeopleSoft human resources platform as the affected system and Accentur…"
+        }
+      ],
+      "summary": "The FBI removed an Accenture contractor after a breach exposed personal information belonging to thousands of bureau employees. Reports linked the incident to an unpatched PeopleSoft system."
+    },
+    {
+      "id": "topic_4f123d4bb49d09e4",
+      "title": "Oscar-Winning Actor Eva Marie Saint Dies at 102",
+      "headline": "Eva Marie Saint, Oscar-Winning ‘On the Waterfront’ and ‘North by Northwest’ Star, Dead at 102",
+      "label": [
+        "eva",
+        "marie",
+        "saint",
+        "waterfront",
+        "oscar",
+        "northwest"
+      ],
+      "category": "new",
+      "theme": "theme_271a5a18871deb14",
+      "entities": [
+        "Eva Marie Saint",
+        "Oscar",
+        "Winning",
+        "Waterfront",
+        "North"
+      ],
+      "article_count": 17,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Eva Marie Saint, Oscar-Winning ‘On the Waterfront’ and ‘North by Northwest’ Star, Dead at 102",
+          "url": "https://www.indiewire.com/news/obituary/eva-marie-saint-dead-1235220490",
+          "source": "IndieWire",
+          "published_at": "2026-10-06T22:08:49.000Z",
+          "description": "The Hollywood icon enjoyed a stage and screen acting career that lasted eight decades."
+        },
+        {
+          "title": "Eva Marie Saint, Oscar-Winning North by Northwest Star, Dies at 102",
+          "url": "https://internewscast.com/news/eva-marie-saint-oscar-winning-north-by-northwest-star-dies-at-102",
+          "source": "Internewscast",
+          "published_at": "2026-10-06T23:35:02.000Z",
+          "description": "Internewscast Internewscast Eva Marie Saint, the Oscar-winning actress celebrated for classic films such as… This Post: Eva Marie Saint, Oscar-Winning North by Northwest Star, Dies at 102 first appeared on Internewscast"
+        },
+        {
+          "title": "Eva Marie Saint, Oscar-winning star of 'On the Waterfront' and 'North by Northwest,' dies at 102",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-10-06/eva-marie-saint-dead-north-by-northwest-on-the-waterfront",
+          "source": "L.A. Times - Movie Reviews",
+          "published_at": "2026-10-06T21:15:20.000Z",
+          "description": "Eva Marie Saint, a graceful actor best known for her Oscar-winning film debut in 'On the Waterfront' and for her turn as a sultry spy in 'North by Northwest,' died Tuesday. She was 102."
+        },
+        {
+          "title": "Eva Marie Saint, Oscar Winner for ‘On the Waterfront,’ Is Dead at 102",
+          "url": "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html",
+          "source": "NYT > Movies",
+          "published_at": "2026-10-06T21:26:54.000Z",
+          "image": "https://static01.nyt.com/images/2026/04/22/obituaries/00saint-eva-marie/00saint-eva-marie-mediumSquareAt3X.jpg",
+          "description": "A luminous beauty with dramatic depth, she brought a layered intensity to harrowing roles and seduced Cary Grant in the romantic thriller “North by Northwest.”"
+        },
+        {
+          "title": "Eva Marie Saint, star of 'North by Northwest,' 'On the Waterfront,' dies at 102",
+          "url": "https://abcnews.com/entertainment/wirestory/eva-marie-saint-star-north-northwest-waterfront-dies-137048981",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-06T22:27:19.000Z",
+          "image": "https://s.abcnews.com/images/US/eva-marie-saint-gty-jt-261006_1791324778650_hpMain_4x3t_384.jpg",
+          "description": "She won an Academy Award for her first movie, \"On the Waterfront.\""
+        }
+      ],
+      "summary": "Eva Marie Saint, known for “On the Waterfront” and “North by Northwest,” has died at 102. She won an Academy Award for her film debut in “On the Waterfront.”"
+    },
+    {
+      "id": "topic_219253865e4443c9",
+      "title": "Coco Gauff Reports Racist Abuse After China Open Match",
+      "headline": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
+      "label": [
+        "gauff",
+        "china",
+        "open",
+        "racist",
+        "coco",
+        "abuse"
+      ],
+      "category": "new",
+      "theme": "theme_2c373247610bd533",
+      "entities": [
+        "Coco Gauff",
+        "China Open",
+        "Gauff",
+        "Cheater Or",
+        "Thief"
+      ],
+      "article_count": 16,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
+          "url": "https://www.theguardian.com/sport/2026/oct/06/coco-gauff-racist-abuse-disputed-point-china-open-tennis",
+          "source": "The Guardian",
+          "published_at": "2026-10-06T08:28:27.000Z",
+          "image": "https://i.guim.co.uk/img/media/e8c207c3d59a213cdb8179f598678a87bfefd8c4/282_0_3135_2508/master/3135.jpg?width=140&quality=85&auto=format&fit=max&s=4adad8716568a9ff2c144a3dc2042992",
+          "description": "American stopped rally after being distracted in match Sinner confirms he is out for rest of year due to injury Coco Gauff said she received an “insane” amount of racist comments on social media following a controversial point in her China Open match against home player Sun Xinran. Gauff stopped a…"
+        },
+        {
+          "title": "Coco Gauff calls out online racism after China Open video review",
+          "url": "https://sports.inquirer.net/700205/coco-gauff-calls-out-online-racism-after-china-open-video-review",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-06T11:33:43.000Z",
+          "image": "https://sports.inquirer.net/files/2026/10/AFP__20261005__D2AQ7YZ__v1__HighRes__TennisChnOpen-620x413.jpg",
+          "description": "American tennis star Coco Gauff said Tuesday she faced an “insane” amount of online racist abuse after defeating Chinese teenager Sun Xinran in a match that included a video review. During Monday’s China Open match against 16-year-old Sun Xinran in Beijing, the former US Open champion requested a v…"
+        },
+        {
+          "title": "Gauff calls out online racism after China Open win",
+          "url": "https://tribune.com.pk/story/2633294/gauff-calls-out-online-racism-after-china-open-win",
+          "source": "express tribune",
+          "published_at": "2026-10-06T06:21:10.000Z",
+          "description": "The American says she receives an “insane” amount of racist messages following her disputed challenge against Sun"
+        },
+        {
+          "title": "Coco Gauff calls out online racism following China Open video review",
+          "url": "https://hongkongfp.com/2026/10/06/coco-gauff-calls-out-online-racism-following-china-open-video-review",
+          "source": "Hong Kong Free Press HKFP",
+          "published_at": "2026-10-06T08:52:37.000Z",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/10/gauff-1024x576.jpg",
+          "description": "American tennis star Coco Gauff said Tuesday she faced an “insane” amount of online racist abuse after defeating Chinese teenager Sun Xinran in a match that included a video review. During Monday’s China Open match against 16-year-old Sun Xinran in Beijing, the former US Open champion requested a v…"
+        },
+        {
+          "title": "Gauff says an 'insane' wave of racist abuse followed a disputed point at China Open",
+          "url": "https://sports.yahoo.com/articles/gauff-says-insane-wave-racist-081251434.html",
+          "published_at": "2026-10-06T08:12:51.000Z",
+          "description": "BEIJING (AP) — Coco Gauff said she received an “insane” amount of racist comments on social media following a controversial point in her China Open match against home player Sun Xinran.Gauff stopped a rally after electronic advertising boards lining the court flickered during a point late in the fi…"
+        }
+      ],
+      "summary": "Coco Gauff said she received a wave of racist comments online after a disputed point in her China Open match against Sun Xinran. Gauff won the match."
+    },
+    {
+      "id": "topic_7d5ff9964a35b2e7",
+      "title": "Francis Halzen Wins Nobel Prize in Physics for Neutrino Research",
+      "headline": "Le prix Nobel de physique 2026 est décerné au Belge Francis Halzen pour ses travaux sur les neutrinos",
+      "label": [
+        "physique",
+        "halzen",
+        "francis",
+        "prix",
+        "nobel",
+        "belge"
+      ],
+      "category": "new",
+      "theme": "theme_4ddded9c5f6f43cf",
+      "entities": [
+        "Nobel",
+        "Belge Francis Halzen",
+        "Prix Nobel",
+        "Francis Halzen",
+        "Antarctique"
+      ],
+      "article_count": 15,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Le prix Nobel de physique 2026 est décerné au Belge Francis Halzen pour ses travaux sur les neutrinos",
+          "url": "https://www.lemonde.fr/sciences/article/2026/10/06/le-prix-nobel-de-physique-2026-est-decerne-au-belge-francis-halzen-pour-ses-travaux-sur-les-neutrinos_6788974_1650684.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-10-06T09:56:34.000Z",
+          "description": "La distinction est la deuxième de la saison des Nobel, après le prix de médecine décerné lundi à un trio américano-allemand pour leurs recherches visant à percer les mystères du cerveau."
+        },
+        {
+          "title": "Prix Nobel de physique 2026 : le Belge Francis Halzen récompensé pour ses travaux sur les neutrinos",
+          "url": "https://www.sudouest.fr/international/prix-nobel-de-physique-2026-le-belge-francis-halzen-recompense-pour-ses-travaux-sur-les-neutrinos-30942241.php",
+          "source": "L'essentiel",
+          "published_at": "2026-10-06T11:23:48.000Z",
+          "description": "Le physicien belge Francis Halzen a reçu le prestigieux prix pour ses contributions décisives à l’observatoire IceCube et la détection de particules venues de l’univers lointain"
+        },
+        {
+          "title": "Le prix Nobel de physique a été décerné au Belge Francis Halzen",
+          "url": "https://www.dhnet.be/actu/monde/2026/10/06/le-prix-nobel-de-physique-a-ete-decerne-au-belge-francis-halzen-zaybuqi2ofb55ds3imw3bekwju",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-10-06T09:53:31.000Z",
+          "description": "Le Belge Francis Halzen a reçu le prix Nobel de physique. ..."
+        },
+        {
+          "title": "Prix Nobel de physique | Francis Halzen l’emporte pour ses travaux sur les neutrinos",
+          "url": "https://www.lapresse.ca/actualites/sciences/2026-10-06/prix-nobel-de-physique/francis-halzen-l-emporte-pour-ses-travaux-sur-les-neutrinos.php",
+          "source": "LaPresse.ca - Actualités",
+          "published_at": "2026-10-06T10:24:25.000Z",
+          "description": "Le prix Nobel de physique 2026 a été décerné mardi au Belge Francis Halzen pour ses travaux sur des particules appelées « neutrinos »."
+        },
+        {
+          "title": "« Une grande surprise » : le prix Nobel de physique décerné au Belge Francis Halzen pour ses travaux sur les neutrinos",
+          "url": "https://www.ouest-france.fr/monde/prix-nobel/le-prix-nobel-de-physique-decerne-au-belge-francis-halzen-4cd5b38e-c164-11f1-a107-88e926908e5f",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-10-06T13:13:54.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwNzAxMDY2NzUyODM0Y2FhZmQ2OTYzZGJmMjcwOTg3MDI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=85d7b13aec2cb8a464036d0995c6f40ceea1347355fdd0c40b1ffaceae3bc2d3",
+          "description": "Le Belge Francis Halzen a remporté le prix Nobel de physique ce mardi 6 octobre pour ses travaux sur des neutrinos, dans les profondeurs de l’Antarctique, qui aident notamment à mieux comprendre les origines de l’univers.. Le physicien succède au trio composé du Britannique John Clarke, de l’Améric…"
+        }
+      ],
+      "summary": "Belgian physicist Francis Halzen received the 2026 Nobel Prize in Physics for his work on neutrinos and the IceCube observatory in Antarctica."
+    },
+    {
+      "id": "topic_5e897fac52833370",
+      "title": "Paramount Completes Warner Bros. Discovery Acquisition",
+      "headline": "Paramount Closes Its Deal for Warner Bros. Discovery",
+      "label": [
+        "warner",
+        "paramount",
+        "bros",
+        "skydance",
+        "discovery",
+        "merger"
+      ],
+      "category": "trending",
+      "theme": "theme_38cb30e302466f8c",
+      "entities": [
+        "Paramount Closes Its Deal",
+        "Warner Bros",
+        "Discovery",
+        "Paramount",
+        "Skydance"
+      ],
+      "article_count": 34,
+      "source_count": 29,
+      "articles": [
+        {
+          "title": "Paramount Closes Its Deal for Warner Bros. Discovery",
+          "url": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
+          "source": "NYT > Business",
+          "published_at": "2026-10-06T13:25:02.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-paramount-closure-1-pmvl/05biz-paramount-closure-1-pmvl-mediumSquareAt3X.jpg",
+          "description": "After a legal battle, Paramount has finally acquired Warner Bros. Discovery. The new company, Skydance, combines Hollywood studios, streaming services and cable networks."
+        },
+        {
+          "title": "Paramount completes Warner Bros takeover, creating Skydance",
+          "url": "https://cebudailynews.inquirer.net/772853/paramount-completes-warner-bros-takeover-creating-skydance",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-06T23:24:44.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/10/AFP__20261006__D2F83ZQ__v1__HighRes__StreamingAndCommunicationGiantsFightToBuyWarner-620x413.jpg",
+          "description": "LOS ANGELES, United States — Paramount on Tuesday completed its takeover of Warner Bros. Discovery, uniting two of Hollywood’s most storied studios in a media empire spanning television, news and cinema under the control of David Ellison. The combined company, renamed Skydance, brings together Para…"
+        },
+        {
+          "title": "Paramount Completes Acquisition of Warner Bros.",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-06/paramount-completes-acquisition-of-warner-bros-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-10-06T15:12:45.000Z",
+          "description": "Paramount Skydance closed its $110 billion acquisition of Warner Bros. Discovery on Tuesday, completing one of the biggest media mergers of all time. Hannah Miller reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)"
+        },
+        {
+          "title": "Paramount completes $81bn takeover of Warner Bros Discovery",
+          "url": "https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-06T17:56:00.000Z",
+          "description": "Skydance-owned Paramount has completed its $81bn (£61bn) takeover of Warner Bros Discovery - bringing together the two media giants under a combined company."
+        },
+        {
+          "title": "It’s Official: Paramount and Warner Bros. Discovery Merge in Skydance Mega-Merger",
+          "url": "https://www.indiewire.com/news/breaking-news/paramount-warner-bros-discovery-merger-closes-1235219729",
+          "source": "IndieWire",
+          "published_at": "2026-10-06T13:02:00.000Z",
+          "description": "Enter the Skydance Era. The $111 billion transaction closes after first agreeing to a deal back in February."
+        }
+      ],
+      "summary": "Paramount completed its acquisition of Warner Bros. Discovery, combining the companies’ studios, streaming services and television networks under the Skydance-led company."
+    },
+    {
+      "id": "topic_7f3b2ade75373293",
+      "title": "Christa Pike Is Conscious and Speaking After Failed Execution",
+      "headline": "Christa Pike is conscious and speaking after botched execution",
+      "label": [
+        "christa",
+        "pike",
+        "execution",
+        "botched",
+        "speaking",
+        "failed"
+      ],
+      "category": "trending",
+      "theme": "theme_bfacd1d454bc3244",
+      "entities": [
+        "Christa Pike",
+        "Attorneys",
+        "Tennessee",
+        "The Guardian",
+        "NBC News"
+      ],
+      "article_count": 37,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Christa Pike is conscious and speaking after botched execution",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/07/christa-pike-is-conscious-and-speaking-after-botched-execution_6758334_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-06T22:43:55.000Z",
+          "description": "According to the Death Penalty Information Center, which publishes data and analysis on capital punishment in the United States, Pike is the first inmate ever to survive 'after being injected with lethal doses of execution drugs.'"
+        },
+        {
+          "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-06T21:21:48.000Z",
+          "image": "https://i.guim.co.uk/img/media/027762e10a255e4badc86d398cfcd3c0b35fe3cd/100_0_2039_1632/master/2039.jpg?width=140&quality=85&auto=format&fit=max&s=9256d660c66d68072ae7eb7206fb3085",
+          "description": "The prisoner received two doses of pentobarbital last Wednesday as authorities tried to put her to death Christa Pike, a Tennessee prisoner who survived the state’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her attorneys said on Tuesday. Pike, 50, surviv…"
+        },
+        {
+          "title": "Christa Pike conscious and speaking after botched execution: Attorneys",
+          "url": "https://abcnews.com/us/christa-pike-conscious-speaking-after-botched-execution-attorneys/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-06T21:15:56.000Z",
+          "image": "https://s.abcnews.com/images/US/Christa-Pike-2-ap-gmh-261003_1791047245169_hpMain_4x3t_384.jpg",
+          "description": "Christa Pike is conscious and speaking nearly a week after a botched execution left her critically injured and temporarily on a ventilator, her attorneys said Tuesday."
+        },
+        {
+          "title": "Christa Pike conscious and speaking after failed execution in Tennessee",
+          "url": "https://www.thejournal.ie/christa-pike-failed-execution-update-7184972-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-06T21:29:49.000Z",
+          "description": "The statement from her lawyers is the first indication that Pike has improved since an ambulance took her from a Nashville prison last Wednesday."
+        },
+        {
+          "title": "Christa Pike conscious and speaking after Tennessee failed execution",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3369962/christa-pike-conscious-and-speaking-after-tennessee-failed-execution",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-06T21:33:51.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/07/690c57d3-cea7-4b02-9b7b-e2a37ed813ba_f359b030.jpg?itok=URVdNN4u&v=1791322422",
+          "description": "Christa Pike, a Tennessee inmate who survived Tennessee’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her lawyers said on Tuesday. “Against all odds, Christa Pike is conscious, speaking and continues to receive critical medical care. “Despite the severe da…"
+        }
+      ],
+      "summary": "Christa Pike is conscious and speaking while receiving hospital treatment, her lawyers said. She survived Tennessee’s attempt to execute her and had been critically injured."
+    },
+    {
+      "id": "topic_df9a866aba1d10d4",
+      "title": "Vivo Launches V80 Smartphone",
+      "headline": "Watch the vivo V80 announcement live here",
+      "label": [
+        "vivo",
+        "v80",
+        "announcement",
+        "review",
+        "200mah",
+        "battery"
+      ],
+      "category": "new",
+      "theme": "theme_a5e332444672cbf6",
+      "entities": [
+        "AO VIVO",
+        "V80",
+        "Vivo V80 Review",
+        "Preserves",
+        "Vivo V80"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Watch the vivo V80 announcement live here",
+          "url": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-10-06T02:30:01.000Z",
+          "description": "After announcing the V80 Lite at the start of September, vivo started teasing the V80 with promises of a phone that can capture “cinematic moments”. The date was set for October 6, so it’s finally time to reveal the new model. vivo V80's color options The company has already confirmed some key deta…"
+        },
+        {
+          "title": "AO VIVO",
+          "url": "https://noticias.uol.com.br/ao-vivo/2026/10/06/fim-da-escala-6x1-senado-discute-e-vota-pec-que-reduz-jornada-de-trabalho.htm",
+          "source": "UOL - Seu universo online",
+          "description": "Fim da escala 6x1: Senado discute PEC que reduz jornada de trabalho"
+        },
+        {
+          "title": "Vivo V80 Review | Preserves the strengths of V series",
+          "url": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-v80-review-preserves-the-strengths-of-v-series/article71550285.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-06T08:26:44.000Z",
+          "description": "The V series has built a strong identity around sleek designs, capable cameras, and a strong focus on photography, with ZEISS playing a key role in its imaging credentials"
+        },
+        {
+          "title": "Vivo V80 debuts with a 6.59-inch display, a 7,200mAh battery",
+          "url": "https://www.reddit.com/r/android/comments/1wz3fd3/vivo_v80_debuts_with_a_659inch_display_a_7200mah",
+          "source": "Android",
+          "published_at": "2026-10-06T14:03:01.000Z",
+          "description": "submitted by /u/ControlCAD [link] [comments]"
+        },
+        {
+          "title": "Vivo V80, Vivo S2 FE With 50-Megapixel Rear Cameras Launched in India: Price & Specifications",
+          "url": "https://www.freepressjournal.in/tech/vivo-v80-vivo-s2-fe-with-50-megapixel-rear-cameras-launched-in-india-price-specifications",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-06T09:32:09.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-06/8l2290w1/Six-Vivo-Phones-on-Ice-Blue.png"
+        }
+      ],
+      "summary": "Vivo launched the V80 in India, with reports highlighting its 6.59-inch display and 7,200mAh battery. The phone is part of the company’s photography-focused V series."
+    },
+    {
+      "id": "topic_1759100b00304c94",
+      "title": "South Korea Investigates Possible AI Use in Bank Hacks",
+      "headline": "South Korea’s Lee says AI appears to have been used in bank hacks",
+      "label": [
+        "korea",
+        "hacks",
+        "south",
+        "bank",
+        "ai",
+        "used"
+      ],
+      "category": "new",
+      "theme": "theme_cba28171b7d4f81",
+      "entities": [
+        "South Korea",
+        "Lee",
+        "AI",
+        "Signs AI"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "South Korea’s Lee says AI appears to have been used in bank hacks",
+          "url": "https://www.japantimes.co.jp/business/2026/10/06/south-korea-bank-hacks",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-10-06T06:53:00.000Z",
+          "description": "The president called for the country to develop cybersecurity methods suited to the AI era."
+        },
+        {
+          "title": "Signs AI 'may have been used' in South Korea bank hacks",
+          "url": "https://www.perthnow.com.au/news/technology/signs-ai-may-have-been-used-in-south-korea-bank-hacks-c-22974149",
+          "source": "PerthNow",
+          "published_at": "2026-10-06T02:27:19.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-22974149/76134ffd1a54f75789c7affe3a2030ed5848c61b-16x9-x0y0w1280h720.jpg",
+          "description": "South Korean ‌police have launched ‌an investigation ⁠into hacking attacks against commercial banks that led ​to a breach of customers' personal information."
+        },
+        {
+          "title": "South Korea warns of possible AI use in banking hacks",
+          "url": "https://techxplore.com/news/2026-10-south-korea-ai-banking-hacks.html",
+          "source": "Security News - Software vulnerabilities, data leaks, malware, viruses",
+          "published_at": "2026-10-06T10:18:26.000Z",
+          "description": "Artificial intelligence may have been used in a string of cyberattacks targeting South Korea's financial sector, the president said Tuesday, as police announced the launch of an investigation."
+        },
+        {
+          "title": "South Korea’s bank hacks offer a warning about AI-powered cyberattacks",
+          "url": "https://www.fastcompany.com/91619252/south-koreas-bank-hacks-offer-a-warning-about-ai-powered-cyberattacks",
+          "source": "Fast Company",
+          "published_at": "2026-10-06T15:53:26.000Z",
+          "description": "Attackers used an open-source security agent to help breach financial firms, a sign that AI is changing the economics of hacking. Some of South Korea’s biggest banks have been hacked with the assistance of an artificial intelligence agent, opening up a new front in the AI and cybersecurity worlds."
+        },
+        {
+          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-10-06T23:50:33.000Z",
+          "description": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 9 # Comments: 1"
+        }
+      ],
+      "summary": "South Korean police are investigating cyberattacks on commercial banks that exposed customer information. President Lee said AI may have been used in the attacks and called for cybersecurity measures suited to the AI era."
+    }
+  ]
+}
