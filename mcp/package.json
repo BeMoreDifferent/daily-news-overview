@@ -1,0 +1,20 @@
+{
+  "name": "daily-news-mcp",
+  "private": true,
+  "type": "module",
+  "description": "Stateless MCP server (Streamable HTTP, 2026-07-28) over the daily news JSON on GitHub Pages",
+  "scripts": {
+    "dev": "wrangler dev",
+    "whoami": "set -a && . ../.env && set +a && wrangler whoami",
+    "deploy": "set -a && . ../.env && set +a && wrangler deploy",
+    "ga:setup": "set -a && . ../.env && set +a && node scripts/setupGa4.js",
+    "ga:push": "set -a && . ../.env && set +a && printf %s \"$GA_MEASUREMENT_ID\" | wrangler secret put GA_MEASUREMENT_ID && printf %s \"$GA_API_SECRET\" | wrangler secret put GA_API_SECRET"
+  },
+  "devDependencies": {
+    "wrangler": "^4.149.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "workerd@1.20261006.1": true
+  }
+}

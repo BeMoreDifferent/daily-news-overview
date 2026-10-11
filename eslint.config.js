@@ -1,6 +1,6 @@
 export default [
   {
-    files: ['src/**/*.js', 'test/**/*.js'],
+    files: ['src/**/*.js', 'test/**/*.js', 'mcp/src/**/*.js', 'mcp/scripts/**/*.js'],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'module',
@@ -10,7 +10,16 @@ export default [
         process: 'readonly',
         URL: 'readonly',
         setInterval: 'readonly',
-        clearInterval: 'readonly'
+        clearInterval: 'readonly',
+        fetch: 'readonly',
+        Request: 'readonly',
+        Response: 'readonly',
+        Headers: 'readonly',
+        TextDecoder: 'readonly',
+        AbortSignal: 'readonly',
+        atob: 'readonly',
+        btoa: 'readonly',
+        structuredClone: 'readonly'
       }
     },
     rules: {

@@ -1,0 +1,19 @@
+# Account id and API token come from CLOUDFLARE_ACCOUNT_ID / CLOUDFLARE_API_TOKEN in the
+# repo-root .env (gitignored); never put them in this file.
+name = "daily-news-mcp"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[vars]
+NEWS_BASE_URL = "https://bemoredifferent.github.io/daily-news-overview/news/"
+ALLOWED_ORIGINS = "https://claude.ai,https://claude.com,https://bemoredifferent.github.io,http://localhost:6274"
+
+# 60 tools/call requests per minute per client IP.
+[[ratelimits]]
+name = "RATE_LIMITER"
+namespace_id = "1001"
+
+  [ratelimits.simple]
+  limit = 60
+  period = 60

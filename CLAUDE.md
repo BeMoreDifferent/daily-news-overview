@@ -126,6 +126,12 @@ launchctl bootout gui/$UID ~/Library/LaunchAgents/com.daniel.rss-fetcher.plist  
 Because the repo lives in `~/Documents` (TCC-protected), `/opt/homebrew/bin/node` needs **Full Disk Access** (System Settings → Privacy & Security). Without it the agent crash-loops with `EPERM: operation not permitted` in the launchd log; re-check after macOS upgrades or Homebrew node upgrades.
 
 
+### MCP server (`mcp/`, Cloudflare Worker)
+GitHub Pages rejects POST (405), so it cannot host an MCP server itself. `mcp/` is a stateless Streamable HTTP MCP endpoint (protocol 2026-07-28 + session-less legacy `initialize`) on Cloudflare Workers Free that reads the published `news/*.json` from Pages: `https://daily-news-mcp.bemoredifferent.workers.dev/mcp`. Tools (barebone by design, no listing or search): `get_daily_news` (date defaults to today UTC, falling back to yesterday until it is published) and `get_topic`; each call reads one `news/<date>.json` directly. `protocol.js`/`tools.js` are pure (tests: `test/mcpServer.test.js`); `worker.js` adds edge caching + per-isolate memo to stay within the free 10 ms CPU limit. `analytics.js` sends GA4 Measurement Protocol events (no PII: client_id = client *product*, country only, no free-text arguments) via `waitUntil`; active only when Worker secrets `GA_MEASUREMENT_ID` + `GA_API_SECRET` exist (`npm run ga:setup` / `ga:push` in `mcp/`, see `mcp/README.md`).
+```bash
+cd mcp && npm run deploy     # reads CLOUDFLARE_ACCOUNT_ID / CLOUDFLARE_API_TOKEN from root .env (gitignored)
+```
+
 ### Network Tuning (macOS)
 Run once with sudo to persist TCP settings across reboots (prevents port exhaustion with 2400+ feeds):
 ```bash
