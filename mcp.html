@@ -72,7 +72,7 @@
     <div class="imprint">
       <h1>Use Daily News in your AI assistant</h1>
       <p>
-        The daily briefings are available through a Model Context Protocol (MCP) server, so assistants such as Claude can read and search them directly. It is free, read-only and needs no account or API key.
+        The daily briefings are available through a Model Context Protocol (MCP) server, so assistants such as Claude can read them directly. It is free, read-only and needs no account or API key.
       </p>
 
       <h2>Server URL</h2>
@@ -101,17 +101,15 @@
 
       <h2>Tools</h2>
       <ul>
-        <li><code>list_dates</code> — the days for which a briefing exists, newest first.</li>
-        <li><code>get_daily_news</code> — one day's briefing (the latest if no date is given): overview and up to 15 top stories with their sources.</li>
-        <li><code>get_topic</code> — one story in full, with article descriptions, entities and keywords.</li>
-        <li><code>search_news</code> — find stories from the last days (up to 14) that contain all words of a query.</li>
+        <li><code>get_daily_news</code> — the briefing for a date (YYYY-MM-DD), today by default: overview and up to 15 top stories with their sources. A day's briefing is published the next morning (UTC), so until then you get yesterday's.</li>
+        <li><code>get_topic</code> — one story of that date in full, with article descriptions, entities and keywords.</li>
       </ul>
 
       <h2>Example prompts</h2>
       <ul>
         <li>"What are today's top stories?"</li>
-        <li>"Summarise yesterday's news about the economy."</li>
-        <li>"Has there been anything about climate policy this week?"</li>
+        <li>"Summarise the news from 1 October 2026."</li>
+        <li>"Tell me more about the second story."</li>
       </ul>
 
       <h2>Limits and privacy</h2>
