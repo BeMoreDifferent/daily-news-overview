@@ -1,0 +1,859 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-12T00:40:02.023Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A boat carrying about 350 people from Djibouti toward Yemen capsized, leaving at least 109 dead and 116 missing; more than 80 survived.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "Saudi Arabia reported another attack on Riyadh airport, a day after a strike killed at least 12 people and injured more than 300.",
+        "stories": [
+          6
+        ]
+      },
+      {
+        "text": "Donald Trump said Russia and Ukraine agreed to halt attacks on energy infrastructure; Ukrainian President Volodymyr Zelensky said the announcement was news to him.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Flash floods along Nepal’s Budhi Gandaki River swept away homes, buildings and bridges; at least five people were missing and residents were evacuated by helicopter.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "Pope Leo XIV said he would undergo surgery in the coming days to remove a nodule detected on his lung.",
+        "stories": [
+          1
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_eba60d846077fa87",
+      "title": "Pope Leo XIV to Undergo Surgery for Lung Nodule",
+      "headline": "Pope Leo XIV says he will undergo surgery to remove nodule on his lung",
+      "label": [
+        "lung",
+        "pope",
+        "leo",
+        "surgery",
+        "undergo",
+        "nodule"
+      ],
+      "category": "new",
+      "theme": "theme_64a2440b2d86225d",
+      "entities": [
+        "Pope Leo XIV",
+        "Pope Leo",
+        "Undergo Surgery",
+        "Remove",
+        "Lung Nodule"
+      ],
+      "article_count": 56,
+      "source_count": 43,
+      "articles": [
+        {
+          "title": "Pope Leo XIV says he will undergo surgery to remove nodule on his lung",
+          "url": "https://japantoday.com/category/world/pope-leo-xiv-says-he-will-undergo-surgery-to-remove-a-nodule-on-his-lung",
+          "source": "Japan Today",
+          "published_at": "2026-10-11T21:20:56.000Z",
+          "description": "Pope Leo XIV announced Sunday he will undergo surgery “in the coming days” to remove a nodule on his lung, in the first major health event of his…"
+        },
+        {
+          "title": "Pope Leo to undergo surgery to remove nodule on lung",
+          "url": "https://www.thejournal.ie/pope-leo-lung-surgery-7189719-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-11T11:21:46.000Z",
+          "description": "The operation is planned for the coming days."
+        },
+        {
+          "title": "Pope Leo XIV to Undergo Surgery to Remove a Lung Nodule",
+          "url": "https://internewscast.com/news/us/pope-leo-xiv-to-undergo-surgery-to-remove-a-lung-nodule",
+          "source": "Internewscast",
+          "published_at": "2026-10-11T12:36:23.000Z",
+          "description": "Internewscast Internewscast VATICAN CITY — Pope Leo XIV said Sunday that he will undergo… This Post: Pope Leo XIV to Undergo Surgery to Remove a Lung Nodule first appeared on Internewscast"
+        },
+        {
+          "title": "Pope Leo to undergo surgery to remove lung nodule",
+          "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-11T14:59:38.000Z",
+          "description": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square."
+        },
+        {
+          "title": "Pope Leo to undergo lung surgery",
+          "url": "https://www.smh.com.au/national/pope-leo-to-undergo-lung-surgery-20261012-p614mi.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-11T19:34:21.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/15803c1016c6b77b1c9790a9f0948848edf83d40",
+          "description": "Pope Leo will have surgery this week after a small growth was detected on his lung."
+        }
+      ],
+      "summary": "Pope Leo XIV said he will undergo surgery in the coming days to remove a nodule detected on his lung."
+    },
+    {
+      "id": "topic_38fb86bb35bcdd1b",
+      "title": "Trump Announces Russia-Ukraine Energy Ceasefire",
+      "headline": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "label": [
+        "energy",
+        "ceasefire",
+        "russia",
+        "ukraine",
+        "trump",
+        "announces"
+      ],
+      "category": "new",
+      "theme": "theme_fc1552c8bc8dff15",
+      "entities": [
+        "Trump",
+        "Russia",
+        "Ukraine",
+        "Trump Says Russia And",
+        "Ukraine Have Reached"
+      ],
+      "article_count": 50,
+      "source_count": 39,
+      "articles": [
+        {
+          "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+          "url": "https://www.thejournal.ie/trump-russia-ukraine-energy-ceasefire-7189909-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-11T15:38:20.000Z",
+          "description": "The US president said both parties have agreed to the deal"
+        },
+        {
+          "title": "Trump says Russia, Ukraine agree to ‘energy ceasefire’",
+          "url": "https://www.scmp.com/news/world/europe/article/3370510/trump-says-russia-ukraine-agree-energy-ceasefire",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-11T15:12:04.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/11/cab78d88-88cc-4ce0-8dac-f5b0ae421cba_c4f14152.jpg?itok=0e7-mye9&v=1791731514",
+          "description": "US President Donald Trump said in a brief statement on Sunday that Russia and Ukraine had agreed to halt strikes on each other’s energy infrastructure. “Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!” he wrote on…"
+        },
+        {
+          "title": "Trump claims Russia and Ukraine agree to energy ceasefire",
+          "url": "https://www.axios.com/2026/10/11/trump-russia-ukraine-energy-ceasefire-zelensky",
+          "source": "Axios",
+          "published_at": "2026-10-11T14:55:01.000Z",
+          "description": "President Trump claimed Sunday that Russia and Ukraine agreed to an \"energy ceasefire\" and will halt attacks on each other's energy facilities. Ukrainian President Zelensky tells Axios the announcement \"was news for me. But if Russians agree to an energy ceasefire, Ukraine will agree.\" Why it matte…"
+        },
+        {
+          "title": "Trump Says Russia And Ukraine Have Reached ‘Energy Ceasefire’",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/11/trump-says-russia-and-ukraine-have-reached-energy-ceasefire",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-11T15:10:22.000Z",
+          "description": "The president did not provide any further details about the agreement."
+        },
+        {
+          "title": "Trump says Russia and Ukraine agree to 'energy ceasefire,' Zelensky says 'news for me'",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/trump-says-russia-and-ukraine-agree-to-energy-ceasefire-zelensky-says-news-for-me_6758483_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-11T16:04:02.000Z",
+          "description": "Donald Trump said Russia and Ukraine had agreed to halt strikes on each other's energy infrastructure. Russia did not comment."
+        }
+      ],
+      "summary": "Donald Trump said Russia and Ukraine had agreed to halt attacks on each other’s energy infrastructure. Ukrainian President Volodymyr Zelensky said the announcement was news to him, and Russia did not comment."
+    },
+    {
+      "id": "topic_3064209efda73517",
+      "title": "Migrant Boat Capsizes off Djibouti, Leaving Scores Dead and Missing",
+      "headline": "109 migrants dead, 116 missing after boat capsizes off Djibouti, UN says",
+      "label": [
+        "boat",
+        "capsizes",
+        "djibouti",
+        "migrants",
+        "dead",
+        "least"
+      ],
+      "category": "new",
+      "theme": "theme_fcee4ec77796ac43",
+      "entities": [
+        "Djibouti",
+        "Yemen",
+        "Migrants Are Dead After",
+        "Boat Capsizes Near Djibouti",
+        "Nearly"
+      ],
+      "article_count": 17,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "109 migrants dead, 116 missing after boat capsizes off Djibouti, UN says",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/11/109-migrants-dead-116-missing-after-boat-capsizes-off-djibouti-un-says_6758475_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-11T09:48:00.000Z",
+          "description": "A vessel carrying 350 people from Djibouti to Yemen capsized overnight on October 8-9, a UN agency said. More than 80 people survived the shipwreck, all Ethiopian."
+        },
+        {
+          "title": "At least 109 migrants dead, more than 100 missing after boat capsizes off Djibouti",
+          "url": "https://www.france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-11T09:24:40.000Z",
+          "description": "At least 109 migrants, including 15 children, died and 116 went missing after a boat carrying 350 people capsized off Djibouti en route to Yemen, the International Organisation for Migration said on Sunday."
+        },
+        {
+          "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-11T11:34:40.000Z",
+          "description": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere."
+        },
+        {
+          "title": "At least 139 migrants dead after boat capsizes off Djibouti, UN says",
+          "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-11T13:22:12.000Z",
+          "description": "The UN's IOM agency says tens of thousands of migrants travel from the Horn of Africa through Djibouti each year as they look to cross the Bab el-Mandeb Strait to Yemen and eventually reach the Gulf countries."
+        },
+        {
+          "title": "Some 139 dead after migrant boat capsizes off Djibouti",
+          "url": "https://www.perthnow.com.au/news/immigration/some-139-dead-after-migrant-boat-capsizes-off-djibouti-c-23002055",
+          "source": "PerthNow",
+          "published_at": "2026-10-11T14:37:25.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23002055/0f28b9ea66baa28a01cd2fd72a83e4e30944e279-16x9-x0y0w1280h720.jpg",
+          "description": "At least 15 children are among the 139 migrants confirmed dead after a boat capsized off the coast of Djibouti in east Africa on its way to Yemen."
+        }
+      ],
+      "summary": "A boat carrying about 350 people from Djibouti toward Yemen capsized, leaving at least 109 people dead and 116 missing, according to the UN’s migration agency. More than 80 people survived."
+    },
+    {
+      "id": "topic_ade7bdb9aea67918",
+      "title": "UK Prime Minister Says Russia Interfered in Brexit Vote",
+      "headline": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
+      "label": [
+        "brexit",
+        "interfered",
+        "vote",
+        "russia",
+        "burnham",
+        "uk"
+      ],
+      "category": "new",
+      "theme": "theme_6a5598bd4b6abf01",
+      "entities": [
+        "UK PM Burnham",
+        "Russia",
+        "Brexit",
+        "Andy Burnham",
+        "Burnham"
+      ],
+      "article_count": 17,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1005562/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-11T17:29:00.000Z",
+          "description": "British Prime Minister Andy Burnham said Russia interfered in the 2016 Brexit vote, as he warned voters in France and Germany about Moscow-backed efforts to influence their politics."
+        },
+        {
+          "title": "Andy Burnham says it is clear Russia interfered in Brexit vote",
+          "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-10-11T15:15:43.000Z",
+          "image": "https://i.guim.co.uk/img/media/33bd484b3049da09d96757ddf4d6de04f7f8ef2c/946_127_2878_2302/master/2878.jpg?width=140&quality=85&auto=format&fit=max&s=08a6eab4156d74a86b3cd2a70cec7f51",
+          "description": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ that Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing Street. Burnham…"
+        },
+        {
+          "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
+          "url": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de",
+          "source": "International homepage",
+          "published_at": "2026-10-11T14:50:05.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0518b836-cf44-4849-9f17-3dbafb3b60ba.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "UK prime minister calls for European voters to be better informed about efforts to disrupt democratic process"
+        },
+        {
+          "title": "UK PM says Russia interfered in 2016 Brexit vote",
+          "url": "https://www.perthnow.com.au/news/politics/uk-pm-says-russia-interfered-in-2016-brexit-vote-c-23002137",
+          "source": "PerthNow",
+          "published_at": "2026-10-11T17:17:52.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23002137/29a40d297b59c04baa503ebaf12728b6a05a4e9f-16x9-x0y0w1280h720.jpg",
+          "description": "Andy Burnham has become the first British prime ‌minister to say openly there was evidence of Russian interference in the Brexit referendum."
+        },
+        {
+          "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko",
+          "source": "BBC News",
+          "published_at": "2026-10-11T18:00:30.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg",
+          "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
+        }
+      ],
+      "summary": "Prime Minister Andy Burnham said Russia interfered in the 2016 Brexit referendum. He called for European voters to be better informed about efforts by foreign actors to influence democratic processes."
+    },
+    {
+      "id": "topic_30f6a537b13721dc",
+      "title": "Flash Floods Sweep Away Homes and Bridges in Nepal",
+      "headline": "Flash flood sweeps away houses, bridges in Nepal's Gorkha",
+      "label": [
+        "flood",
+        "nepal",
+        "flash",
+        "away",
+        "swept",
+        "houses"
+      ],
+      "category": "new",
+      "theme": "theme_cea7182d61fa4c1d",
+      "entities": [
+        "Flash",
+        "Nepal",
+        "Gorkha",
+        "Buildings",
+        "Nepal Flash Flood"
+      ],
+      "article_count": 18,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Flash flood sweeps away houses, bridges in Nepal's Gorkha",
+          "url": "https://www.thehindubusinessline.com/news/world/flash-flood-sweeps-away-houses-bridges-in-nepals-gorkha/article71570705.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-11T05:06:39.000Z",
+          "description": "The cause of the sudden surge remains unclear"
+        },
+        {
+          "title": "Flash flood sweeps away buildings in Nepal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-11T06:34:31.000Z",
+          "description": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday."
+        },
+        {
+          "title": "Nepal flash floods sweep away houses, five people missing",
+          "url": "https://cebudailynews.inquirer.net/774376/nepal-flash-floods-sweep-away-houses-five-people-missing",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-11T15:58:00.000Z",
+          "image": "https://cebudailynews.inquirer.net/files/2026/10/AFP__20261011__D2WE8KV__v2__MidRes__TopshotNepalEnvironmentClimateFlood-620x349.jpg",
+          "description": "Kathmandu, Nepal—Flash floods hit central Nepal on Sunday, sweeping away houses and leaving at least five people missing, officials said, weeks after devastating flooding that killed hundreds. Videos circulating online showed a dark, debris-filled river surging through the hills in Gorkha district.…"
+        },
+        {
+          "title": "Buildings swept away as flash floods hit central Nepal",
+          "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o",
+          "source": "BBC News",
+          "published_at": "2026-10-11T10:34:02.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f39a/live/5ededcd0-c552-11f1-a64c-550be9e3c66b.jpg",
+          "description": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country."
+        },
+        {
+          "title": "Flash flooding destroys homes in Nepal",
+          "url": "https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-11T07:46:00.000Z",
+          "description": "Flash flooding has destroyed homes along a river in the central part of Nepal, with residents being evacuated by helicopter."
+        }
+      ],
+      "summary": "Flash floods along Nepal’s Budhi Gandaki River swept away homes, buildings and bridges. At least five people were reported missing, and residents were evacuated by helicopter."
+    },
+    {
+      "id": "topic_7e80801c265d2e98",
+      "title": "Riyadh Airport Hit Again After Deadly Attack",
+      "headline": "Nouvelle attaque contre l’aéroport de Ryad",
+      "label": [
+        "aéroport",
+        "attaque",
+        "ryad",
+        "contre",
+        "arabie",
+        "saoudite"
+      ],
+      "category": "new",
+      "theme": "theme_7d87c03b8ff6b8df",
+      "entities": [
+        "Nouvelle",
+        "Ryad",
+        "Douze",
+        "Arabie",
+        "En Arabie"
+      ],
+      "article_count": 16,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Nouvelle attaque contre l’aéroport de Ryad",
+          "url": "https://www.levif.be/international/live/le-fils-ancien-chah-appelle-les-forces-de-securite-a-rejoindre-le-peuple/nouvelle-attaque-contre-laeroport-de-ryad-1358253",
+          "source": "Le Vif",
+          "published_at": "2026-10-11T15:43:18.000Z",
+          "description": "Suivez en direct les dernières informations sur l'attaque israélo-américaine en Iran et les répercussions dans la région. The post Nouvelle attaque contre l’aéroport de Ryad appeared first on Le Vif."
+        },
+        {
+          "title": "Douze morts dans une attaque contre l’aéroport de Ryad",
+          "url": "https://www.nouvelobs.com/monde/20261011.obs119103/douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-10-11T06:16:29.000Z",
+          "description": "Pour la coalition militaire menée par l’Arabie saoudite en soutien au gouvernement du Yémen, les combattants pro-iraniens houtis sont responsables de l’attaque contre l’aéroport de Ryad, qui a fait 12 morts."
+        },
+        {
+          "title": "Arabie saoudite : nouvelle attaque contre l'aéroport de Ryad, au lendemain d'une frappe meurtrière",
+          "url": "https://www.rtbf.be/article/arabie-saoudite-nouvelle-attaque-contre-l-aeroport-de-ryad-au-lendemain-d-une-frappe-meurtriere-11798505",
+          "source": "- Info",
+          "published_at": "2026-10-11T15:12:03.000Z",
+          "description": "Le porte-parole de la coalition, le général Turki Al-Malki, a fait état dans un communiqué d'une \"attaque au moyen d'un..."
+        },
+        {
+          "title": "En Arabie saoudite, au moins douze morts dans une attaque contre l'aéroport de Ryad imputée aux houthis",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-10-11T05:24:11.000Z",
+          "description": "Il s'agit de l'attaque la plus meurtrière depuis plus de dix ans commise dans le royaume. \"Ce qui s'est passé n'est pas inacceptable\", a réagi Donald Trump."
+        },
+        {
+          "title": "Nouvelle attaque contre l'aéroport de Ryad en Arabie saoudite après celle meurtrière de samedi",
+          "url": "https://www.dhnet.be/actu/monde/2026/10/11/nouvelle-attaque-contre-laeroport-de-ryad-en-arabie-saoudite-apres-celle-meurtriere-de-samedi-va4ifd5yvbajvifzj5b2ieihuq",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-10-11T15:16:39.000Z",
+          "description": "L'Arabie saoudite a de nouveau été frappée ce dimanche. ..."
+        }
+      ],
+      "summary": "Saudi Arabia reported another attack on Riyadh airport on Sunday, following a Saturday strike that killed at least 12 people and injured more than 300. The Saudi-led coalition blamed Houthi fighters for the attack."
+    },
+    {
+      "id": "topic_e06804ab23916c20",
+      "title": "Raphaël Glucksmann Wins French Social-Democratic Primary",
+      "headline": "Primaire de la gauche sociale-démocrate : Raphaël Glucksmann l’emporte dès le premier tour",
+      "label": [
+        "glucksmann",
+        "raphaël",
+        "primaire",
+        "gauche",
+        "tour",
+        "premier"
+      ],
+      "category": "new",
+      "theme": "theme_6655ef5242f39c84",
+      "entities": [
+        "Primaire",
+        "Rapha",
+        "Glucksmann",
+        "Victoire",
+        "Pr"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Primaire de la gauche sociale-démocrate : Raphaël Glucksmann l’emporte dès le premier tour",
+          "url": "https://www.sudouest.fr/politique/primaire-de-la-gauche-sociale-democrate-raphael-glucksmann-elu-candidat-a-la-presidentielle-des-le-premier-tour-31025227.php",
+          "source": "L'essentiel",
+          "published_at": "2026-10-11T16:30:25.000Z",
+          "description": "Raphaël Glucksmann a recueilli plus de 66 % des voix lors du premier tour de la primaire PS/Place publique"
+        },
+        {
+          "title": "Raphaël Glucksmann désigné dès le premier tour comme le candidat de la gauche sociale-démocrate",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate_8232970.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-10-11T17:57:57.000Z",
+          "description": "Le leader de Place publique devance très nettement Olivier Faure, le patron du Parti socialiste et tend la main aux autres forces de gauche hors LFI."
+        },
+        {
+          "title": "Raphaël Glucksmann remporte la primaire sociale-démocrate au premier tour",
+          "url": "https://www.nouvelobs.com/politique/20261011.obs119125/primaire-de-la-gauche-raphael-glucksmann-elu-candidat-a-la-presidentielle-des-le-premier-tour.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-10-11T16:34:00.000Z",
+          "description": "Quelque 140 000 votants avaient jusqu’à ce dimanche 18h pour choisir parmi les cinq prétendants."
+        },
+        {
+          "title": "Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale-démocrate",
+          "url": "https://www.ouest-france.fr/politique/raphael-glucksmann/raphael-glucksmann-enfarine-apres-sa-victoire-a-la-primaire-de-la-gauche-sociale-democrate-6a49b536-c5c5-11f1-bba2-d026901fbfe4",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-10-11T22:54:33.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwYWMxOTdiYzNlYjI4MjNkMGQ2NjFiMzM0N2JlMDIwYzU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4f0462515e9b2033bae78d425e5e4b3094350cf8faac345c81f8d097cbdad63e",
+          "description": "Le candidat à l’élection présidentielle Raphaël Glucksmann a été enfariné dimanche soir à Paris à l’issue de sa victoire à la primaire de la gauche sociale-démocrate, d’après des images diffusées par plusieurs médias."
+        },
+        {
+          "title": "Présidentielle française : Glucksmann désigné dès le premier tour comme le candidat de la gauche sociale-démocrate",
+          "url": "https://www.rtbf.be/article/presidentielle-francaise-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate-11798550",
+          "source": "- Info",
+          "published_at": "2026-10-11T16:37:44.000Z",
+          "description": "Avec 66,13% des voix (79.613 voix), l'eurodéputé, partisan d'une rupture avec LFI remporte les faveurs des 120.587..."
+        }
+      ],
+      "summary": "Raphaël Glucksmann won the first round of the social-democratic primary with more than 66% of the vote, securing the nomination. He called on other left-wing groups outside France Unbowed to join him."
+    },
+    {
+      "id": "topic_b414e96fbfaa237",
+      "title": "Kelly Clarkson Criticizes Brooklyn Store Over Shopping Experience",
+      "headline": "Kelly Clarkson slams Brooklyn store over ‘Pretty Woman’ treatment",
+      "label": [
+        "clarkson",
+        "kelly",
+        "pretty",
+        "brooklyn",
+        "store",
+        "woman"
+      ],
+      "category": "new",
+      "theme": "theme_a7a4174c9a8c2811",
+      "entities": [
+        "Kelly Clarkson",
+        "Brooklyn",
+        "Pretty Woman",
+        "Fox News",
+        "Kelly Clarkson Slams Brooklyn"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Kelly Clarkson slams Brooklyn store over ‘Pretty Woman’ treatment",
+          "url": "https://www.foxnews.com/entertainment/kelly-clarkson-slams-brooklyn-store-pretty-woman-treatment",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-11T13:26:32.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kelly-clarkson-pretty-woman.jpg?ve=1&tl=1",
+          "description": "Kelly Clarkson claims a Brooklyn store employee treated her like she couldn't afford the merchandise, comparing the experience to \"Pretty Woman.\""
+        },
+        {
+          "title": "Kelly Clarkson slams Brooklyn store over ‘Pretty Woman’ treatment",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxoynbpx3k3yzdatnn0wmpkq2vpug1yqtllqutld0fytedbzurwmu54vde3wxrmc3qzujjwwwvqngfsv0utuzn2m2vumktvdvetzm4wofnjtkvjc3piuwzwntzsewrkbtbyr19ad3nlvjhosg85ck91nc1yr2h3uurudtdsahk0vgffy3djb01vvmzwavq5yzboc1uzzg7saaibqvvfexfmt0jvxzzpcvngbzfidtrosxctuhfvcmxqt3hycf9vsnbtntg3mxlusfgyajuwr2fjnnfznujgzlo1twj2rjv5rjrmogpirflzaxjsswjawhhltlfczfdlbzhra2dqngf4wvbqzglosvlkuezhdm5pamrhmufem2vwv3c0y2vjbzzrz3iwdlzazm5cttixudetahvrvhjys0hwrwhn",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-11T13:26:32.000Z",
+          "description": "Kelly Clarkson slams Brooklyn store over ‘Pretty Woman’ treatment Fox News Kelly Clarkson Claims She Got the Pretty Woman Treatment at N.Y.C. Store: ‘You Just Lost a Huge Sale’ People.com Brooklyn Store at the Center of Kelly Clarkson Controversy Promotes Staff’s ‘Kindness’ Amid Scandal Us Weekly K…"
+        },
+        {
+          "title": "Kelly Clarkson Slams Brooklyn Store for Giving Her the ‘Pretty Woman’ Treatment: ‘Just Lost a Huge Sale’",
+          "url": "https://www.billboard.com/music/music-news/kelly-clarkson-brooklyn-store-pretty-woman-snub-1236358775",
+          "source": "Billboard",
+          "published_at": "2026-10-11T19:26:12.000Z",
+          "description": "The singer called out the NYC's Art of Play on social media after the alleged shopping snub."
+        },
+        {
+          "title": "Kelly Clarkson Criticizes Brooklyn Shop Over Alleged ‘Pretty Woman’ Treatment",
+          "url": "https://internewscast.com/news/kelly-clarkson-criticizes-brooklyn-shop-over-alleged-pretty-woman-treatment",
+          "source": "Internewscast",
+          "published_at": "2026-10-11T05:08:56.000Z",
+          "description": "Internewscast Internewscast Kelly Clarkson has lashed out at a Brooklyn store after claiming staff… This Post: Kelly Clarkson Criticizes Brooklyn Shop Over Alleged ‘Pretty Woman’ Treatment first appeared on Internewscast"
+        },
+        {
+          "title": "Demütigung in Laden : Kelly Clarkson erlebt in Brooklyn einen \"Pretty Woman\"-Moment",
+          "url": "https://www.n-tv.de/leute/kelly-clarkson-erlebt-in-brooklyn-einen-pretty-woman-moment-id31406105.html",
+          "source": "n-tv.de - Startseite",
+          "published_at": "2026-10-11T21:41:52.000Z",
+          "description": "Kelly Clarkson will in einem Brooklyner Geschäft shoppen und hat bereits mehrere Artikel im Blick. Doch die Mitarbeiter halten sie ihrer Ansicht nach für nicht zahlkräftig genug. Auf X vergleicht sie die Situation mit einer ikonischen Szene aus \"Pretty Woman\"."
+        }
+      ],
+      "summary": "Kelly Clarkson said a Brooklyn store employee treated her as though she could not afford its merchandise. She compared the experience to the film “Pretty Woman” in a social media post."
+    },
+    {
+      "id": "topic_4f4d8c2db1b0b82a",
+      "title": "Vinícius Júnior Sent Off, Could Miss El Clásico",
+      "headline": "Vinicius apologises after red card: Could Real Madrid star miss El Clasico?",
+      "label": [
+        "vinicius",
+        "madrid",
+        "card",
+        "real",
+        "red",
+        "apologises"
+      ],
+      "category": "new",
+      "theme": "theme_1467b4d9918e48d2",
+      "entities": [
+        "Vinicius",
+        "Could Real Madrid",
+        "El Clasico",
+        "Mourinho",
+        "Real Madrid"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Vinicius apologises after red card: Could Real Madrid star miss El Clasico?",
+          "url": "https://www.indiatoday.in/sports/football/story/vinicius-junior-red-card-real-madrid-vs-villarreal-el-clasico-ban-risk-3014562-2026-10-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-11T02:26:44.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/vinicius-jr-112534243-16x9_0.jpg?VersionId=z77PfKgnOJdB0kJ0l4zWx6Z7HYo9wVxH",
+          "description": "Vinicius apologises after red card Could Real Madrid star miss El Clasico"
+        },
+        {
+          "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-11T05:57:00.000Z",
+          "description": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games."
+        },
+        {
+          "title": "Vinicius apologises for red card as Mourinho skips Real Madrid press conference",
+          "url": "https://www.soccernews.com/vinicius-apologises-for-red-card-as-mourinho-skips-real-madrid-press-conference/406108",
+          "source": "SoccerNews",
+          "published_at": "2026-10-11T11:33:54.000Z",
+          "description": "Real Madrid earned a 1-0 win over Villarreal despite finishing with 10 men, after Vinicius Junior was sent off for a hair pull. The post Vinicius apologises for red card as Mourinho skips Real Madrid press conference appeared first on SoccerNews."
+        },
+        {
+          "title": "Red Card Alert! Vinicius Jr Sent Off For Pulling Opponent's Hair, Real Madrid Star Could Miss El Clasico | Video",
+          "url": "https://www.freepressjournal.in/sports/red-card-alert-vinicius-jr-sent-off-for-pulling-opponents-hair-real-madrid-star-could-miss-el-clasico-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-11T04:48:16.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-11/c39gy83e/Untitled-design-2026-10-11T101304.526.png"
+        },
+        {
+          "title": "Real Madrid forward Vinicius Jr could miss El Clasico vs Barcelona after a mindless red card for hair-pulling",
+          "url": "https://sports.yahoo.com/articles/real-madrid-forward-vinicius-jr-061000607.html",
+          "published_at": "2026-10-11T06:10:00.000Z",
+          "description": "Real Madrid winger Vinicius Jr could miss their El Clasico showdown with Barcelona after receiving a straight red card for pulling Nathan Saliba’s hair during Saturday’s win over Villarreal.The Br..."
+        }
+      ],
+      "summary": "Real Madrid forward Vinícius Júnior was sent off for pulling an opponent’s hair during a win over Villarreal. He apologized, and the red card could lead to a suspension that rules him out of the El Clásico against Barcelona."
+    },
+    {
+      "id": "topic_bf63274c014476a0",
+      "title": "Shane Gillis Accidentally Swears During SNL Sketch",
+      "headline": "Shane Gillis Drops F-Bomb on SNL",
+      "label": [
+        "bomb",
+        "gillis",
+        "shane",
+        "snl",
+        "drops",
+        "sketch"
+      ],
+      "category": "new",
+      "theme": "theme_f859431de7d1b802",
+      "entities": [
+        "Shane Gillis Drops",
+        "Bomb",
+        "SNL",
+        "Shane Gillis",
+        "Dr"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Shane Gillis Drops F-Bomb on SNL",
+          "url": "https://consequence.net/2026/10/shane-gillis-drops-f-bomb-on-snl",
+          "source": "Consequence",
+          "published_at": "2026-10-11T04:28:55.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/Shane-Gillis-SNL.jpeg?quality=80",
+          "description": "Gillis flubbed a line during a Dr. Seuss parody sketch and accidentally let an F-bomb fly. Shane Gillis Drops F-Bomb on SNL Alex Young"
+        },
+        {
+          "title": "SNL host Shane Gillis drops the F-bomb in this Dr. Seuss skit",
+          "url": "https://mashable.com/entertainment/shane-gillis-snl-green-eggs-and-ham-skit",
+          "source": "Mashable",
+          "published_at": "2026-10-11T14:34:07.000Z",
+          "description": "'SNL' host Shane Gillis drops the F-bomb in this Dr. Seuss skit"
+        },
+        {
+          "title": "‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch",
+          "url": "https://variety.com/2026/tv/news/shane-gillis-drops-accidental-f-bomb-snl-dr-seuss-sketch-1236907951",
+          "source": "Variety",
+          "published_at": "2026-10-11T04:22:19.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-12.09.47-AM.png",
+          "description": "Shane Gillis accidentally dropped an F-bomb during a Dr. Seuss-inspired sketch during his “SNL” hosting stint. The comedian was playing Zackary, an aggressively protective son who interrupts a reading of “Green Eggs and Ham” to defend his elderly father from the relentless questioning of Sam-I-Am.…"
+        },
+        {
+          "title": "Shane Gillis Drops F-Bomb In ‘SNL’ “Green Eggs & Ham” Sketch",
+          "url": "https://deadline.com/2026/10/shane-gillis-drops-f-bomb-snl-green-eggs-ham-sketch-1237154194",
+          "source": "Deadline",
+          "published_at": "2026-10-11T04:09:59.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-9.01.02-PM.png",
+          "description": "Shane Gillis’ return to Saturday Night Live featured a not-safe-to-air slip in a Dr. Seuss-inspired sketch. On this weekend’s episode, the comedian accidentally dropped an F-bomb while playing the Cat in the Hat’s (Mikey Day) defensive son who is suspicious of Sam I Am’s (Andrew Dismukes) pressurin…"
+        },
+        {
+          "title": "‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxprdlrsmltde1ddffvdknwsmw1ujrwqug5mhlxlwc0terxegdvbg41evy1vxvqsxpzctnpcnu5s21huk1wmtm4ckheexi3d2jwvlr0t2rvdhrkb3nhtey5twttzwi1uk95dhp6dlzvtld6zxjxwflflvn2tlpkttrrrnnnrdixd2dwt1n3dgd2wdhfmxzhwxvfy2u4s29aag9ysfhv",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-11T04:22:00.000Z",
+          "description": "‘SNL’ Host Shane Gillis Drops Accidental ‘F-Bomb’ During Dr. Seuss Sketch Variety ‘Saturday Night Live’ recap: Shane Gillis hosts, Rosalía performs The Boston Globe Shane Gillis Drops the F-Bomb on ‘SNL’ During Dr. Seuss-Inspired Sketch People.com Shane Gillis Bombs ‘SNL’ Monologue (Again): ‘You’re…"
+        }
+      ],
+      "summary": "Comedian Shane Gillis accidentally said an expletive during a Dr. Seuss-inspired sketch while hosting Saturday Night Live."
+    },
+    {
+      "id": "topic_7445e0f8ef706a0c",
+      "title": "Trump Says He Would Welcome John Fetterman as a Republican",
+      "headline": "Trump Says He’d Love Pennsylvania Sen. John Fetterman as a Republican",
+      "label": [
+        "fetterman",
+        "republican",
+        "love",
+        "john",
+        "trump",
+        "sen"
+      ],
+      "category": "new",
+      "theme": "theme_65ad5c6a0b3f582a",
+      "entities": [
+        "Trump Says He",
+        "Love Pennsylvania Sen",
+        "John Fetterman",
+        "Republican",
+        "Trump"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump Says He’d Love Pennsylvania Sen. John Fetterman as a Republican",
+          "url": "https://internewscast.com/news/us/trump-says-hed-love-pennsylvania-sen-john-fetterman-as-a-republican",
+          "source": "Internewscast",
+          "published_at": "2026-10-11T06:09:08.000Z",
+          "description": "Internewscast Internewscast President Donald Trump said Saturday that he would welcome Sen. John Fetterman,… This Post: Trump Says He’d Love Pennsylvania Sen. John Fetterman as a Republican first appeared on Internewscast"
+        },
+        {
+          "title": "Trump says he’d ‘love’ to have Sen. John Fetterman as a Republican amid growing speculation",
+          "url": "https://nypost.com/2026/10/11/us-news/trump-would-love-to-have-fetterman-as-a-republican",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-11T05:37:12.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpresident-donald-trump-passes-sen-144578570.jpg?w%3D1024",
+          "description": "President Donald Trump praised Sen. John Fetterman, D-Pa., as a \"great guy\" on Saturday, saying he would welcome the Pennsylvania Democrat into the Republican Party."
+        },
+        {
+          "title": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation (Michael Sinkewicz/New York Post)",
+          "url": "https://www.memeorandum.com/261011/p3",
+          "source": "memeorandum",
+          "published_at": "2026-10-11T11:25:00.000Z",
+          "description": "Michael Sinkewicz / New York Post: Trump says he'd ‘love’ to have Sen. John Fetterman as a Republican amid growing speculation — President Donald Trump praised Sen. John Fetterman, D-Pa., as a “great guy” on Saturday, saying he would welcome the Pennsylvania Democrat into the Republican Party."
+        },
+        {
+          "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-11T13:25:44.000Z",
+          "image": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=599a21a70952fbfef6ddd57bbc979a9a",
+          "description": "Comments were among the most direct overtures by Trump to woo Democratic senator into his Republican party Donald Trump on Saturday openly encouraged Democratic US senator John Fetterman to switch parties and become a Republican just weeks before the federal midterm elections could reshape control…"
+        },
+        {
+          "title": "Trump Would Love to Have Fetterman as a Republican",
+          "url": "https://politicalwire.com/2026/10/11/trump-would-love-to-have-fetterman-as-a-republican",
+          "source": "Political Wire",
+          "published_at": "2026-10-11T10:11:53.000Z",
+          "description": "“President Donald Trump praised Sen. John Fetterman (D-PA) as a ‘great guy’ on Saturday, saying he would welcome the Pennsylvania Democrat into the Republican Party,” the New York Post reports. Said Trump: “I’d love to see it. I think he’s great. It’s going to be hard for him to get the nomination…"
+        }
+      ],
+      "summary": "Donald Trump praised Democratic Senator John Fetterman and said he would welcome him into the Republican Party, amid speculation about Fetterman’s political affiliation."
+    },
+    {
+      "id": "topic_80ecd55885884987",
+      "title": "Modi Opens Chennai Metro Phase II Stretch with Tamil Nadu Chief Minister",
+      "headline": "Watch: PM Modi inaugurates Chennai Metro Phase II stretch, rides train with CM Vijay",
+      "label": [
+        "chennai",
+        "metro",
+        "stretch",
+        "vijay",
+        "pm",
+        "modi"
+      ],
+      "category": "new",
+      "theme": "theme_36f89c3764372e17",
+      "entities": [
+        "PM Modi",
+        "Chennai Metro Phase II",
+        "CM Vijay",
+        "Chennai Metro",
+        "Poonamallee"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Watch: PM Modi inaugurates Chennai Metro Phase II stretch, rides train with CM Vijay",
+          "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-inaugurates-rs-4900-crore-chennai-metro-phase-ii-stretch-rides-train-with-cm-vijay/articleshow/134867581.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-11T08:52:56.000Z",
+          "description": "Prime Minister Narendra Modi launched the Poonamallee-Vadapalani stretch of the Chennai Metro Rail Project on Sunday, a major endeavor costing about Rs 4,900 crore with an innovative 3.7-km double-decker design. Daily services will kick off from October 12, operating from 7 am to 9 pm with a start…"
+        },
+        {
+          "title": "PM Modi, CM Vijay inaugurate first stretch of chennai metro phase 2",
+          "url": "https://www.thehindu.com/videos/pm-modi-cm-vijay-inaugurate-first-stretch-of-chennai-metro-phase-2/article71571173.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-11T10:24:21.000Z"
+        },
+        {
+          "title": "PM Modi inaugurates Chennai Metro’s Poonamallee-Vadapalani stretch, rides along with CM Vijay",
+          "url": "https://www.thehindubusinessline.com/news/pm-modi-inaugurates-chennai-metros-poonamallee-vadapalani-stretch-rides-along-with-cm-vijay/article71570874.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-11T07:07:45.000Z",
+          "description": "There are a total of 11 elevated Metro Stations covering approximately 15 km in the newly inaugurated stretch"
+        },
+        {
+          "title": "Video: PM Modi Inaugurates Chennai Metro Phase II, Takes Ride With Chief Minister Vijay",
+          "url": "https://www.ndtv.com/india-news/tamil-nadu-pm-modi-inaugurates-chennai-metro-phase-ii-stretch-built-at-rs-4-900-crore-12168937",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-11T08:14:25.000Z",
+          "description": "PM Modi took a ride on the Chennai Metro from Porur Bypass Station to Poonamallee Bypass Station and back. Tamil Nadu Chief Minister C Joseph Vijay was also present."
+        },
+        {
+          "title": "PM Modi rides Chennai Metro alongside CM Vijay as ₹4,900 crore Poonamallee-Vadapalani stretch opens",
+          "url": "https://swarajyamag.com/news-brief/pm-modi-rides-chennai-metro-alongside-cm-vijay-as-4900-crore-poonamallee-vadapalani-stretch-opens",
+          "source": "Swarajya",
+          "published_at": "2026-10-11T07:58:38.000Z"
+        }
+      ],
+      "summary": "Prime Minister Narendra Modi and Tamil Nadu Chief Minister C. Joseph Vijay inaugurated the Poonamallee–Vadapalani stretch of Chennai Metro Phase II. Modi rode the train on the newly opened line."
+    },
+    {
+      "id": "topic_7992c2ae95040b7b",
+      "title": "IndiGo Flight Diverts After Passenger Device Emits Smoke",
+      "headline": "IndiGo Delhi-Chennai flight diverted to Hyderabad after smoke from passenger device",
+      "label": [
+        "flight",
+        "diverted",
+        "indigo",
+        "hyderabad",
+        "smoke",
+        "chennai"
+      ],
+      "category": "new",
+      "theme": "theme_a273c1fd9b3648c",
+      "entities": [
+        "IndiGo Delhi",
+        "Chennai",
+        "Hyderabad",
+        "Smoke",
+        "Delhi"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "IndiGo Delhi-Chennai flight diverted to Hyderabad after smoke from passenger device",
+          "url": "https://www.dnaindia.com/india/report-indigo-delhi-chennai-flight-diverted-to-hyderabad-after-smoke-from-passenger-device-3222131",
+          "source": "India News",
+          "published_at": "2026-10-11T13:07:16.000Z",
+          "description": "IndiGo flight 6E 6115 from Delhi to Chennai diverted to Hyderabad on October 11 after smoke from passenger's electronic device; cabin crew brings situation under control, lands safely at RGIA."
+        },
+        {
+          "title": "Smoke detected from electronic device, Delhi-Chennai IndiGo flight diverted to Hyderabad",
+          "url": "https://www.thehindu.com/news/cities/hyderabad/smoke-detected-from-electronic-device-delhi-chennai-indigo-flight-diverted-to-hyderabad/article71571354.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-11T14:01:32.000Z"
+        },
+        {
+          "title": "Delhi-Chennai flight diverted to Hyderabad after smoke detected on board",
+          "url": "https://timesofindia.indiatimes.com/india/delhi-chennai-flight-diverted-to-hyderabad-after-smoke-detected-on-board-report/articleshow/134870210.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-11T12:02:46.000Z"
+        },
+        {
+          "title": "Smoke From Passenger’s Power Bank Forces IndiGo Flight To Divert To Hyderabad",
+          "url": "https://www.freepressjournal.in/india/smoke-from-passengers-power-bank-forces-indigo-flight-to-divert-to-hyderabad",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-11T12:48:27.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-05/5syku32l/indigo-flight.jpg"
+        },
+        {
+          "title": "Power bank catches fire mid-air, Delhi-Chennai IndiGo flight diverted to Hyderabad",
+          "url": "https://www.indiatoday.in/india/story/delhi-chennai-indigo-flight-makes-emergency-landing-in-hyderabad-after-power-bank-catches-fire-onboard-3014878-2026-10-11",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-11T11:55:34.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/indigo-flight-fire-115916906-16x9_0.jpg?VersionId=ZNG7tqhdRXdWqWnZQILmNdxKiIyy3D_d",
+          "description": "Power bank catches fire midair DelhiChennai IndiGo flight diverted to Hyderabad"
+        }
+      ],
+      "summary": "An IndiGo flight from Delhi to Chennai diverted to Hyderabad after smoke came from a passenger’s electronic device, reported as a power bank. The plane landed safely, and the crew brought the situation under control."
+    }
+  ]
+}
