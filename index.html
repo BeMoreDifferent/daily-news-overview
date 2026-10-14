@@ -33,7 +33,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=19">
+  <link rel="stylesheet" href="assets/style.css?v=20">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -116,6 +116,7 @@
         <a href="privacy.html">Privacy</a>
         <a href="mcp.html">MCP server</a>
         <button id="privacy-settings" class="footer-button" type="button">Privacy settings</button>
+        <button id="install-app" class="footer-button" type="button" hidden>Install app</button>
         <button id="badge-settings" class="footer-button" type="button" hidden>Show unread count on app icon</button>
       </p>
     </div>
@@ -130,9 +131,27 @@
     </div>
   </section>
 
+  <section id="install-banner" class="install-banner" aria-labelledby="install-banner-title" hidden>
+    <img class="install-banner-icon" src="icons/icon-192.png" alt="" width="48" height="48">
+    <div class="install-banner-text">
+      <h2 id="install-banner-title" class="install-banner-title">Get Daily News on your home screen</h2>
+      <p class="install-banner-copy">Today’s briefing in one tap, full screen, and readable offline.</p>
+    </div>
+    <div class="install-banner-actions">
+      <button id="install-banner-close" class="consent-btn" type="button">Not now</button>
+      <button id="install-banner-action" class="consent-btn consent-btn--primary" type="button">Install</button>
+    </div>
+  </section>
+
+  <dialog id="install-help" class="install-help" aria-labelledby="install-help-title">
+    <h2 id="install-help-title" class="install-help-title">Add Daily News to your home screen</h2>
+    <div id="install-help-body"></div>
+    <button class="consent-btn consent-btn--primary install-help-done" type="button" data-close>Done</button>
+  </dialog>
+
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=19"></script>
+  <script type="module" src="assets/app.js?v=20"></script>
 
   <!-- Service worker registration -->
   <script>

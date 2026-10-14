@@ -7,8 +7,9 @@
  *  - Static assets (CSS, JS, icons): Cache-first, update in background. index.html
  *    references CSS/JS with a ?v= query, so a new page never pairs with old assets.
  *
- * When changing assets/style.css, assets/app.js or assets/analytics.js, bump ASSET_VERSION here,
- * the ?v= queries in index.html, imprint.html and privacy.html, and the analytics import in app.js.
+ * When changing assets/style.css, assets/app.js, assets/analytics.js or assets/install.js, bump
+ * ASSET_VERSION here, the ?v= queries in index.html, imprint.html, privacy.html and mcp.html, and
+ * the imports in app.js and install.js.
  *
  * Updates: a changed sw.js installs, activates at once (skipWaiting + claim) and the page
  * reloads on controllerchange (index.html). Installed apps also re-check on resume and hourly. *
@@ -19,8 +20,8 @@
  * returns to the foreground, and hourly while it stays open (`refresh-unread` messages).
  */
 
-const CACHE_VERSION = 'v19';
-const ASSET_VERSION = '19';
+const CACHE_VERSION = 'v20';
+const ASSET_VERSION = '20';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 
@@ -30,6 +31,7 @@ const SHELL_ASSETS = [
   `./assets/style.css?v=${ASSET_VERSION}`,
   `./assets/app.js?v=${ASSET_VERSION}`,
   `./assets/analytics.js?v=${ASSET_VERSION}`,
+  `./assets/install.js?v=${ASSET_VERSION}`,
   './manifest.json',
   './icons/favicon-32.png',
   './icons/icon-192.png',

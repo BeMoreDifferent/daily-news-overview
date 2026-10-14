@@ -1,4 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=19';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=20';
+import { noteStoryRead, setupInstall } from './install.js?v=20';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -626,7 +627,11 @@ function renderStories(date, data) {
     const story = $(`story-${i + 1}`);
     const params = analyticsParams(date, topic, i + 1);
     storyParams.set(story, params);
-    return { el: story, params, onRead: topic.id ? () => toWorker({ type: 'story-read', date, id: topic.id }) : null };
+    const onRead = () => {
+      if (topic.id) toWorker({ type: 'story-read', date, id: topic.id });
+      noteStoryRead();
+    };
+    return { el: story, params, onRead };
   }));
 }
 
@@ -992,6 +997,7 @@ setupSwipe();
 setupTapsDuringSlide();
 setupRouting();
 setupUnreadBadge();
+setupInstall();
 updateNotice();
 window.addEventListener('online', () => {
   updateNotice();
