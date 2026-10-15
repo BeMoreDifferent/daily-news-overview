@@ -1,0 +1,977 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-15T00:44:03.537Z",
+  "overview": {
+    "points": [
+      {
+        "text": "An attack on Saudi Aramco’s headquarters in Dhahran caused a limited fire, and authorities said they responded at the site.",
+        "stories": [
+          10
+        ]
+      },
+      {
+        "text": "Donald Trump announced planned oil, gas and mineral exploration in Greenland and said Taiwan agreed to buy gas from a planned Alaska LNG project.",
+        "stories": [
+          1,
+          7
+        ]
+      },
+      {
+        "text": "A federal judge extended an order preventing the Trump administration from barring CNN, MS NOW and Politico reporters from the White House.",
+        "stories": [
+          9
+        ]
+      },
+      {
+        "text": "The Justice Department gave California 48 hours to review a list of suspected noncitizens who received mail ballots and threatened legal action.",
+        "stories": [
+          13
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_17a9e75275f59284",
+      "title": "Trump Announces Planned Oil and Mineral Exploration in Greenland",
+      "headline": "Trump says ‘massive’ oil, gas and mineral exploration to begin in Greenland",
+      "label": [
+        "greenland",
+        "exploration",
+        "oil",
+        "gas",
+        "trump",
+        "massive"
+      ],
+      "category": "new",
+      "theme": "theme_33451f6ea502cd3a",
+      "entities": [
+        "Trump",
+        "Greenland",
+        "Massive",
+        "Al Jazeera",
+        "Massive Oil"
+      ],
+      "article_count": 27,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Trump says ‘massive’ oil, gas and mineral exploration to begin in Greenland",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3370906/trump-says-massive-oil-gas-and-mineral-exploration-begin-greenland",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-14T13:08:29.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/a3998dc1-e431-48d4-a6f0-45d60ef54495_80ff31c7.jpg?itok=tvW_JrwV&v=1791983293",
+          "description": "US President Donald Trump said “massive” oil, gas and mineral exploration is set to begin in “our new and beautiful Greenland” early on Wednesday. It was not immediately clear what exploration or developments the US president was referring to in his post, and Greenland is a self-governing territory…"
+        },
+        {
+          "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+          "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-14T08:08:42.000Z",
+          "description": "The US president also praises the security advantages of last month's deal with Denmark and Greenland."
+        },
+        {
+          "title": "Trump says ‘massive’ oil and gas exploration to begin in Greenland",
+          "url": "https://www.ms.now/news/trump-greenland-alaska-oil-dan-sullivan-election",
+          "source": "MS NOW",
+          "published_at": "2026-10-14T17:18:53.000Z",
+          "description": "The president’s announcement came after he stumped for Alaska GOP Sen. Dan Sullivan, who is battling for re-election in a state where energy is central to politics. The post Trump says ‘massive’ oil and gas exploration to begin in Greenland appeared first on MS NOW."
+        },
+        {
+          "title": "Trump: 'Massive' oil, gas and mineral exploration set for Greenland",
+          "url": "https://seekingalpha.com/news/4652760-trump-massive-oil-gas-and-mineral-exploration-set-for-greenland",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-14T07:29:16.000Z"
+        },
+        {
+          "title": "Trump says major oil, gas, mineral exploration to begin in Greenland",
+          "url": "https://tribune.com.pk/story/2634763/trump-says-major-oil-gas-mineral-exploration-to-begin-in-greenland",
+          "source": "express tribune",
+          "published_at": "2026-10-14T00:54:50.000Z",
+          "description": "US president touts Greenland's oil potential while global energy prices remain high more than 7 months into Iran war"
+        }
+      ],
+      "summary": "Donald Trump said oil, gas and mineral exploration would begin in Greenland, though the headlines say details of the activity were unclear."
+    },
+    {
+      "id": "topic_34385f2c76ce7bce",
+      "title": "Sally Rooney’s Books Withdrawn From UK Over Palestine Action Support",
+      "headline": "Sally Rooney’s books pulled from UK over Palestine Action support",
+      "label": [
+        "sally",
+        "rooney",
+        "palestine",
+        "books",
+        "action",
+        "support"
+      ],
+      "category": "new",
+      "theme": "theme_28c1ea99d750201f",
+      "entities": [
+        "Sally Rooney",
+        "UK",
+        "Palestine Action",
+        "Sally Rooney Books No",
+        "Longer Sold"
+      ],
+      "article_count": 21,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-14T19:23:27.000Z",
+          "description": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action"
+        },
+        {
+          "title": "Sally Rooney Books No Longer Sold in U.K. Due to Palestine Action Support",
+          "url": "https://www.rollingstone.com/culture/culture-news/sally-rooney-palestine-action-royalties-ban-1235642539",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-14T17:04:24.000Z",
+          "description": "The author and her publisher say the UK's ban of Palestine Action means Rooney's work must leave shelves."
+        },
+        {
+          "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+          "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo",
+          "source": "BBC News",
+          "published_at": "2026-10-14T16:00:06.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ade/live/73ec5110-c7d3-11f1-9e10-4dcbd31d4273.jpg",
+          "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends."
+        },
+        {
+          "title": "Sally Rooney’s books pulled from UK shelves over Palestine Action support",
+          "url": "https://www.theage.com.au/culture/books/sally-rooney-s-books-pulled-from-uk-shelves-over-palestine-action-support-20261015-p615q4.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-14T21:41:09.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.5265%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_313%2C$y_252/t_crop_custom/q_86%2Cf_jpg/2ef1a508d09374a2c520a060349734479eba8e2c",
+          "description": "The bestselling Irish author’s publisher made the decision with Rooney’s “full agreement”."
+        },
+        {
+          "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
+          "url": "https://www.irishexaminer.com/news/arid-41924080.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-10-14T13:28:00.000Z",
+          "description": "Writer of Normal People says she can no longer receive royalties from British sales and she cancelled UK trip due to fear of arrest"
+        }
+      ],
+      "summary": "Sally Rooney and her publisher agreed to withdraw her books from UK sales because of her support for Palestine Action. Rooney said she could no longer receive royalties from British sales and cancelled a UK trip over fear of arrest."
+    },
+    {
+      "id": "topic_9db85b69fbe94d89",
+      "title": "Roma and Real Madrid Meet in Champions League",
+      "headline": "How to watch Roma vs. Real Madrid online for free",
+      "label": [
+        "roma",
+        "madrid",
+        "real",
+        "vs",
+        "champions",
+        "league"
+      ],
+      "category": "new",
+      "theme": "theme_8ccde01420146355",
+      "entities": [
+        "Roma",
+        "Real Madrid",
+        "Probable Formation",
+        "Champions League",
+        "Predicted"
+      ],
+      "article_count": 16,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "How to watch Roma vs. Real Madrid online for free",
+          "url": "https://mashable.com/entertainment/roma-real-madrid-champions-league-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-10-14T05:00:00.000Z",
+          "description": "How to watch Champions League for free. Live stream Roma vs. Real Madrid in the Champions League for free."
+        },
+        {
+          "title": "Probable Formation: Roma vs Real Madrid",
+          "url": "https://sports.yahoo.com/articles/probable-formation-roma-vs-real-020844270.html",
+          "published_at": "2026-10-14T02:08:44.000Z",
+          "description": "Not many changes are expected from Sunday’s XI that held Como goalless last weekend."
+        },
+        {
+          "title": "Champions: Roma-Real Madrid 1-0 DIRETTA e FOTO",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-real-madrid-0-0-diretta-e-foto_d32e57f1-7e06-4727-a272-394e02130a10.html",
+          "source": "Primo piano ANSA - ANSA.it",
+          "published_at": "2026-10-14T19:27:05.000Z",
+          "description": "All'Olimpico il match valido per la seconda giornata della fase campionato"
+        },
+        {
+          "title": "What time and TV channel is Roma vs Real Madrid on tonight?",
+          "url": "https://www.irishmirror.ie/sport/soccer/what-time-tv-channel-roma-37772855",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-14T16:17:57.000Z",
+          "description": "Roma welcome Real Madrid to the Stadio Olimpico for a heavyweight UEFA Champions League clash this evening, with José Mourinho returning to face his former club."
+        },
+        {
+          "title": "Espectacular remontada del Real Madrid ante la Roma",
+          "url": "https://www.reforma.com/espectacular-remontada-del-real-madrid-ante-la-roma/ar3294814",
+          "source": "Reforma",
+          "published_at": "2026-10-14T21:00:40.000Z",
+          "description": "Gracias a tres goles en los últimos 10 minutos, el Real Madrid vino de atrás para vencer 4-3 a la Roma en la J2 de la Champions League."
+        }
+      ],
+      "summary": "Roma hosted Real Madrid in a Champions League match at the Stadio Olimpico. One report said Real Madrid came back to win 4–3 with three goals in the final 10 minutes."
+    },
+    {
+      "id": "topic_917ce5fff944848a",
+      "title": "Ancient Shipwreck Found Off Turkey’s Mediterranean Coast",
+      "headline": "World's oldest shipwreck found off coast of Turkey",
+      "label": [
+        "shipwreck",
+        "oldest",
+        "world",
+        "coast",
+        "found",
+        "turkey"
+      ],
+      "category": "new",
+      "theme": "theme_eb674c787cf7fcfa",
+      "entities": [
+        "World",
+        "Turkey",
+        "Turkiye",
+        "Turkish",
+        "Oldest Shipwreck"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "World's oldest shipwreck found off coast of Turkey",
+          "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko",
+          "source": "BBC News",
+          "published_at": "2026-10-14T05:00:35.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
+          "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
+        },
+        {
+          "title": "World’s oldest shipwreck found off coast of Turkiye",
+          "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-14T20:33:20.000Z",
+          "description": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley."
+        },
+        {
+          "title": "World's oldest shipwreck found off Turkish coast",
+          "url": "https://news.sky.com/story/worlds-oldest-shipwreck-found-off-turkish-coast-archaeologists-say-13599286",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-14T14:26:00.000Z",
+          "description": "The world's oldest shipwreck has been discovered off the coast of Turkey, according to archaeologists."
+        },
+        {
+          "title": "World’s Oldest Shipwreck, 4,700 Years Old, Found Off Turkey",
+          "url": "https://internewscast.com/news/worlds-oldest-shipwreck-4700-years-old-found-off-turkey",
+          "source": "Internewscast",
+          "published_at": "2026-10-14T15:47:55.000Z",
+          "description": "Internewscast Internewscast While the pyramids were rising in ancient Egypt, a small trading vessel… This Post: World’s Oldest Shipwreck, 4,700 Years Old, Found Off Turkey first appeared on Internewscast"
+        },
+        {
+          "title": "World’s oldest shipwreck discovered off Turkey’s Mediterranean coast",
+          "url": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-14T08:22:48.000Z",
+          "description": "Archaeologists say a 4,400- to 4,700-year-old shipwreck found near Kekova Island in southern Turkey carried ceramic storage pots and stone anchors across the Mediterranean."
+        }
+      ],
+      "summary": "Archaeologists found a shipwreck off Turkey that they date to between 4,400 and 4,700 years ago. The vessel carried ceramic storage pots and stone anchors."
+    },
+    {
+      "id": "topic_f293c4c6a0ba89c2",
+      "title": "Epic Games Previews AI-Built Launcher, Says It Is Faster",
+      "headline": "Epic&#8217;s new games launcher is ‘vibe coded’",
+      "label": [
+        "epic",
+        "launcher",
+        "vibe",
+        "coded",
+        "games",
+        "faster"
+      ],
+      "category": "new",
+      "theme": "theme_26412f321594246",
+      "entities": [
+        "Epic",
+        "Epic Games Launcher",
+        "Steam",
+        "The Verge",
+        "Epic Games"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
+          "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+          "source": "The Verge",
+          "published_at": "2026-10-14T13:55:02.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\" \"Programming i…"
+        },
+        {
+          "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+          "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
+          "source": "Gaming - Ars Technica",
+          "published_at": "2026-10-14T21:15:56.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png",
+          "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns."
+        },
+        {
+          "title": "Epic’s new games launcher is ‘vibe coded’",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxqtflmu0nbztbrqupqvev1zunjzzjor3izn0jgu3o0zjd6z1jdngnjvxm3z05us2plym1ywhhib2c4ddzfufjomgzkodrpz2c3zk1ra1lvegdvvvpxmmtvx3vjv3bpdvqyathoylzynmjjb3bkmzbrrja1sdfhrvbavxnps3i",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-14T13:55:02.000Z",
+          "description": "Epic’s new games launcher is ‘vibe coded’ The Verge The new Epic Games Launcher is finally here in Preview Epic Games Epic Games vibe codes new launcher because 'programming is hard,' claims it starts 46% faster than Steam — Preview is available now but not recommended for competitive players Tom's…"
+        },
+        {
+          "title": "Epic Games' New Vibe-Coded Launcher Is 46% Faster Than Steam",
+          "url": "https://games.slashdot.org/story/26/10/14/1928203/epic-games-new-vibe-coded-launcher-is-46-faster-than-steam",
+          "source": "Slashdot",
+          "published_at": "2026-10-14T21:00:00.000Z",
+          "description": "Epic has launched a preview of a new AI-generated Games Launcher that it says cold-starts 46% faster than Steam. Neowin reports: Epic commissioned a third-party company to benchmark this new launcher in its current Preview build versus the Steam client on Windows machines. The results reported that…"
+        },
+        {
+          "title": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
+          "url": "https://www.ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
+          "source": "IGN Articles",
+          "published_at": "2026-10-14T14:33:23.000Z",
+          "description": "Following reports of an AI push, Epic Games has revealed that the new EGS Launcher was \"vibe coded\" using artificial intelligence."
+        }
+      ],
+      "summary": "Epic Games unveiled a preview of a redesigned PC games launcher, which it says was built using AI and runs faster than its previous version. The preview supports Linux, and Epic warned it may contain bugs."
+    },
+    {
+      "id": "topic_d69c37486085d10c",
+      "title": "YouTube Music Adds Labels for AI-Generated Songs",
+      "headline": "YouTube Music Rolls Out Labels for AI-Generated Content",
+      "label": [
+        "labels",
+        "youtube",
+        "music",
+        "generated",
+        "ai",
+        "songs"
+      ],
+      "category": "new",
+      "theme": "theme_5ba44f3c247bb22a",
+      "entities": [
+        "YouTube Music Rolls Out",
+        "Labels",
+        "AI",
+        "Generated Content",
+        "YouTube Music"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "YouTube Music Rolls Out Labels for AI-Generated Content",
+          "url": "https://www.billboard.com/pro/youtube-music-adding-labels-ai-music",
+          "source": "Billboard",
+          "published_at": "2026-10-14T22:51:07.000Z",
+          "description": "The streamer will add the labels to music deemed to have been \"created primarily using generative AI.\""
+        },
+        {
+          "title": "YouTube Music adds new labels for AI-generated content",
+          "url": "https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-10-14T17:01:12.000Z",
+          "description": "Now please let us hide all of it."
+        },
+        {
+          "title": "YouTube sticks new labels on AI-generated songs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "source": "The Verge",
+          "published_at": "2026-10-14T18:22:56.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it in…"
+        },
+        {
+          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+          "source": "TechCrunch",
+          "published_at": "2026-10-14T18:23:46.000Z",
+          "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals."
+        },
+        {
+          "title": "YouTube Rolls Out New Labeling System for AI-Generated Music",
+          "url": "https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music",
+          "source": "News – CNET",
+          "published_at": "2026-10-14T23:18:37.000Z",
+          "image": "https://www.cnet.com/wp-content/uploads/sites/2/326819bf-395a-4f53-afec-59ca50c498cb.jpg"
+        }
+      ],
+      "summary": "YouTube Music is introducing labels for tracks created primarily or partly with generative AI. The labels will appear on music player pages."
+    },
+    {
+      "id": "topic_db6e5df8b902db32",
+      "title": "Trump Says Taiwan Will Buy Gas From Planned Alaska LNG Project",
+      "headline": "Trump says Taiwan to buy gas from Alaska LNG export project",
+      "label": [
+        "taiwan",
+        "alaska",
+        "buy",
+        "lng",
+        "trump",
+        "gas"
+      ],
+      "category": "new",
+      "theme": "theme_a8557dd335ba3b22",
+      "entities": [
+        "Trump",
+        "Taiwan",
+        "Alaska LNG",
+        "Trump Says Taiwan",
+        "Buy Gas From Alaska"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Trump says Taiwan to buy gas from Alaska LNG export project",
+          "url": "https://www.moneyweb.co.za/news/international/trump-says-taiwan-to-buy-gas-from-alaska-lng-export-project",
+          "source": "Moneyweb",
+          "published_at": "2026-10-14T11:30:01.000Z",
+          "description": "Trump also said Taiwan would invest an additional $4.4bn to see the project completed."
+        },
+        {
+          "title": "Trump Says Taiwan to Buy Gas From Alaska",
+          "url": "https://politicalwire.com/2026/10/13/trump-says-taiwan-to-buy-gas-from-alaska",
+          "source": "Political Wire",
+          "published_at": "2026-10-14T01:01:00.000Z",
+          "description": "“President Donald Trump said Taiwan agreed to buy 30% of the gas from a liquefied natural gas pipeline project in Alaska over the next 20 years, touting the initiative ahead of midterm elections,” Bloomberg reports. “Trump also said Taiwan would invest an additional $4.4 billion to see the project…"
+        },
+        {
+          "title": "Trump Says Taiwan to Buy Gas From Alaska LNG Export Project (Bloomberg)",
+          "url": "https://www.memeorandum.com/261013/p152",
+          "source": "memeorandum",
+          "published_at": "2026-10-14T02:10:00.000Z",
+          "description": "Bloomberg: Trump Says Taiwan to Buy Gas From Alaska LNG Export Project — President Donald Trump said Taiwan had agreed to buy 30% of the liquefied natural gas from a planned project in Alaska over the next 20 years, touting the initiative ahead of US midterm elections."
+        },
+        {
+          "title": "Trump says Taiwan to buy 30% of gas from Alaska pipeline",
+          "url": "https://www.thehindu.com/news/international/trump-says-taiwan-to-buy-30-of-gas-from-alaska-pipeline/article71582181.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-14T03:39:44.000Z",
+          "description": "Trump said Taiwan would also invest $4.4 billion into the project, and comes as Taipei seeks to secure Washington's favour amid tensions with China"
+        },
+        {
+          "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+          "url": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-14T02:09:00.000Z",
+          "description": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska."
+        }
+      ],
+      "summary": "Donald Trump said Taiwan agreed to buy 30% of the gas from a planned Alaska liquefied natural gas project over 20 years. He also said Taiwan would invest $4.4 billion in the project."
+    },
+    {
+      "id": "topic_24c67c95198e79c3",
+      "title": "Manchester City Hosts Paris Saint-Germain in Champions League",
+      "headline": "Manchester City vs PSG Live: Champions League",
+      "label": [
+        "city",
+        "psg",
+        "vs",
+        "manchester",
+        "betting",
+        "predictions"
+      ],
+      "category": "new",
+      "theme": "theme_8405324b2dc1c416",
+      "entities": [
+        "Manchester City",
+        "PSG Live",
+        "Champions League",
+        "PSG",
+        "TV"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Manchester City vs PSG Live: Champions League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/14/manchester-city-vs-psg-live-champions-league",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-14T15:00:00.000Z",
+          "description": "Follow updates from the league stage clash, including the buildup, analysis and live text commentary of the game."
+        },
+        {
+          "title": "Manchester City vs PSG betting tips and predictions",
+          "url": "https://talksport.com/betting/4640820/manchester-city-vs-psg-tips-predictions-2026",
+          "source": "talkSPORT",
+          "published_at": "2026-10-14T07:00:00.000Z"
+        },
+        {
+          "title": "What time and TV channel Manchester City vs PSG on tonight?",
+          "url": "https://www.irishmirror.ie/sport/soccer/what-time-tv-channel-manchester-37772813",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-14T16:04:39.000Z",
+          "description": "Manchester City host Paris Saint-Germain at the Etihad Stadium on Wednesday night in a mouth-watering Champions League league phase clash."
+        },
+        {
+          "title": "Alineaciones Manchester City vs PSG: Formaciones probables; Champions League 2026",
+          "url": "https://www.informador.mx/deportes/alineaciones-manchester-city-vs-psg-formaciones-probables-champions-league-2026-20261014-0075.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-10-14T16:11:00.000Z",
+          "description": "Man City, en medio de escándalo, vuelve a la Jornada 2 de la Champions League; no te pierdas el encuentro EN VIVO"
+        },
+        {
+          "title": "Manchester City vs PSG: Latest City team news and predicted City starting eleven",
+          "url": "https://sports.yahoo.com/articles/manchester-city-vs-psg-latest-051000584.html",
+          "published_at": "2026-10-14T05:10:00.000Z",
+          "description": "Following on from their 3-0 win over Liverpool, Manchester City return to action tonight when they take on PSG at the Etihad Stadium. Tonight’s match is the second UEFA Champions League league phase..."
+        }
+      ],
+      "summary": "Manchester City hosted Paris Saint-Germain in a Champions League league-stage match at the Etihad Stadium. Coverage included team news, predicted lineups and live updates."
+    },
+    {
+      "id": "topic_bcb4f8a6493f0298",
+      "title": "Judge Extends Order Protecting CNN, MS NOW and Politico White House Access",
+      "headline": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+      "label": [
+        "judge",
+        "white",
+        "house",
+        "ms",
+        "cnn",
+        "politico"
+      ],
+      "category": "trending",
+      "theme": "theme_3cd14caacc5fd517",
+      "entities": [
+        "Judge",
+        "White House",
+        "CNN",
+        "MS Now",
+        "Politico"
+      ],
+      "article_count": 24,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+          "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-14T04:34:29.000Z",
+          "image": "https://i.guim.co.uk/img/media/8eeeccbb67b79fe20efeef6b9aaa834c81948498/641_0_5512_4413/master/5512.jpg?width=140&quality=85&auto=format&fit=max&s=b5e232d03a3c3395b3d3fb10abdae35b",
+          "description": "District court judge Timothy Kelly was ruling after the Trump administration blocked access to the three outlets in September A federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition’s lawsuit aga…"
+        },
+        {
+          "title": "Judge Extends Block on Trump’s White House Ban on CNN, MS NOW and Politico",
+          "url": "https://variety.com/2026/tv/news/judge-blocks-trump-administrations-ban-cnn-ms-now-politico-1236910947",
+          "source": "Variety",
+          "published_at": "2026-10-14T03:59:35.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg",
+          "description": "Following President Donald Trump’s White House ban on CNN, MS NOW and Politico last month, a federal judge has once again blocked him from doing so. U.S. District Judge Timothy J. Kelly wrote in the ruling issued Tuesday evening that the outlets are “likely to succeed not only on their due process…"
+        },
+        {
+          "title": "Judge Blocks Trump Administration's Ban on CNN, MS NOW, and Politico White House Access",
+          "url": "https://english.pravda.ru/news/world/170009-judge-blocks-white-house-access-ban-cnn-nyt-politico",
+          "source": "PravdaReport",
+          "published_at": "2026-10-14T14:51:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/0/0/9/170009_amp.jpeg",
+          "description": "U.S. District Judge Timothy Kelly, a Trump appointee, has granted a preliminary injunction blocking the Trump administration's ban on White House access for journalists from CNN, MS NOW, and Politico. In a 26-page decision issued on Tuesday, the court ruled that the revocation of these news organiz…"
+        },
+        {
+          "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+          "url": "https://news.google.com/rss/articles/cbmimwfbvv95cuxnne84dtlmaurmag9obkvky2tpyzdoshruqjfrzuq4szh0dzffofpnevlkcvrdnxvxqxvryu1lztnhq2h4cknlc01hszdjwmizqufzthdjufo1otn1bgjovwvwrllrzfhldutvztvalujnn0rnudhwcwpvugx6avljc3leeghiqunxnflnrkrqzgfxmhuwovvquensdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-14T04:35:46.000Z",
+          "description": "Judge extends White House access to banned media outlets CNN, MS Now and Politico The Guardian Judge says Trump press ban likely violates First Amendment CNN Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House Yahoo Judge orders White House to reinsta…"
+        },
+        {
+          "title": "White House access for CNN, MS NOW, Politico extended",
+          "url": "https://www.perthnow.com.au/news/business/white-house-access-for-cnn-ms-now-politico-extended-c-23017874",
+          "source": "PerthNow",
+          "published_at": "2026-10-14T04:21:41.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23017874/78d2832cb8fc137d7a19413dd471176c2d1268d6-16x9-x0y0w1280h720.jpg",
+          "description": "A US judge has extended an order blocking the Trump administration from banning reporters for three news outlets from the White House."
+        }
+      ],
+      "summary": "A federal judge extended an order preventing the Trump administration from barring reporters from CNN, MS NOW and Politico from the White House. The ruling followed the administration’s restrictions on access to the outlets."
+    },
+    {
+      "id": "topic_2d5a2a84d1707618",
+      "title": "Attack on Saudi Aramco Headquarters Causes Limited Fire",
+      "headline": "Saudi Aramco headquarters attacked, limited fire reported",
+      "label": [
+        "aramco",
+        "fire",
+        "saudi",
+        "limited",
+        "reported",
+        "attacked"
+      ],
+      "category": "new",
+      "theme": "theme_6beed6e3c52d18b3",
+      "entities": [
+        "Saudi Aramco",
+        "Saudi Aramco Dhahran HQ",
+        "Houthis",
+        "Saudi Ministry Of Energy",
+        "Reports Limited Fire In"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Saudi Aramco headquarters attacked, limited fire reported",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-14-saudi-aramco-headquarters-attacked-limited-fire-reported",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-10-14T11:24:45.000Z",
+          "description": "The headquarters of Saudi Arabia's state-owned oil company Saudi Aramco 2223.SE in the eastern city of Dhahran was attacked on Tuesday night, causing what the kingdom's energy ministry said in a statement was a limited fire, as fighting between Yemen's Iran-allied Houthis and the kingdom intensifie…"
+        },
+        {
+          "title": "Saudi Aramco administrative building attacked, limited fire reported",
+          "url": "https://tribune.com.pk/story/2634770/saudi-aramco-administrative-building-attacked-limited-fire-reported",
+          "source": "express tribune",
+          "published_at": "2026-10-14T01:25:14.000Z",
+          "description": "Authorities responded to the incident late on Tuesday and took necessary measures, the Energy Ministry said,"
+        },
+        {
+          "title": "Saudi Aramco Dhahran HQ attacked; limited fire reported",
+          "url": "https://seekingalpha.com/news/4652738-saudi-aramco-dhahran-hq-attacked-limited-fire-reported",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-14T04:36:33.000Z"
+        },
+        {
+          "title": "Houthis target Saudi Aramco compound, limited fire reported",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-target-saudi-aramco-compound-limited-fire-reported/articleshow/134929854.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-14T01:58:08.000Z",
+          "description": "A missile attack targeted Saudi Aramco's administrative building, damaging upper floors of the headquarters complex. Authorities reported intercepting multiple missiles and drones aimed at various regions, including Riyadh. In Riyadh, fragments from intercepted missiles injured four individuals and…"
+        },
+        {
+          "title": "Saudi Ministry Of Energy Reports Limited Fire In Building At Aramco Compound Targeted In Attack",
+          "url": "https://www.huffpost.com/entry/saudi-arabia-yemen_n_6acee88ce4b064943479761a",
+          "source": "World News",
+          "published_at": "2026-10-14T02:43:57.000Z",
+          "description": "The Saudi Ministry of Energy says a limited fire broke out in an administrative building in Aramco, one of the world’s largest oil facilities, that was targeted in the country's Eastern Province."
+        }
+      ],
+      "summary": "An attack targeted an administrative building at Saudi Aramco’s headquarters in Dhahran, causing a limited fire, according to Saudi authorities. Reports said officials responded and took measures at the site."
+    },
+    {
+      "id": "topic_817caf3ae0a04e00",
+      "title": "Social Security Benefits to Rise 3.6% in 2027",
+      "headline": "Social Security COLA for 2027 Will Be 3.6%",
+      "label": [
+        "social",
+        "security",
+        "cola",
+        "adjustment",
+        "living",
+        "cost"
+      ],
+      "category": "new",
+      "theme": "theme_d8fd773079346af3",
+      "entities": [
+        "Social Security COLA",
+        "Will Be",
+        "Social Security Administration",
+        "Social Security",
+        "CNBC"
+      ],
+      "article_count": 13,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Social Security COLA for 2027 Will Be 3.6%",
+          "url": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-10-14T13:38:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-ss-cola-qlfw/14biz-ss-cola-qlfw-mediumSquareAt3X.jpg",
+          "description": "The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January."
+        },
+        {
+          "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+          "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-10-14T13:38:50.000Z",
+          "description": "The Social Security Administration has announced a 3.6% cost-of-living adjustment for 2027."
+        },
+        {
+          "title": "Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027",
+          "url": "https://abcnews.com/business/social-security-administration-cost-living-adjustment-rise-36/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-14T14:09:09.000Z",
+          "image": "https://s.abcnews.com/images/Business/social-security-1-as-gmh-261013_1791919374095_hpMain_4x3t_384.jpg",
+          "description": "The cost-of-living adjustment ensures benefits keep pace with inflation."
+        },
+        {
+          "title": "Social Security gets 3.6% cost-of-living adjustment for 2027",
+          "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4765555/social-security-cost-of-living-adjustment-2027",
+          "source": "Washington Examiner",
+          "published_at": "2026-10-14T15:32:28.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/03/iStock-1126187659-e1781197025439.jpg?w=696",
+          "description": "Social Security beneficiaries will receive a 3.6% cost-of-living adjustment in 2027, the Social Security Administration announced Wednesday, as rising prices strain older Americans’ finances. The increase will raise average monthly retirement benefits by about $75 and apply to nearly 72 million peo…"
+        },
+        {
+          "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+          "url": "https://news.google.com/rss/articles/cbmib0fvx3lxte9lv21jufpqvll5u0fzow5ot210budkrfpxuuddq0kzvhdxzdhsegzhckryx0pwmnhnr2etvvg0ywj3mtliz3n4btg3lxq3aenyzhitzzvcdvv2szbvntvkv0przhvomtznwtditmxyc9ibdefvx3lxte5wowh0dtnmngzjtjdoa3pwbllxqzvubllqmvlhd2fus1bzys1awhpyckhommtxutm2r2zyx1dku3bmd2zfoe83mgwxrxnxqnr1wk1jz0zxy3pdu28zuxuwufbcutbvdkjwnhlsrhn0wmhawgnd",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-14T13:28:43.000Z",
+          "description": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027 CNBC Social Security Says Retirees Will Get a 3.6% Raise for 2027 The New York Times Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027 ABC News - Breaking News, Latest News and Videos…"
+        }
+      ],
+      "summary": "The Social Security Administration announced a 3.6% cost-of-living adjustment for 2027. Beneficiaries are due to receive the increase in their checks starting in January."
+    },
+    {
+      "id": "topic_6deab3c31cfc97be",
+      "title": "India Approves Fairfax Purchase of 60.72% Stake in IDBI Bank",
+      "headline": "Govt approves IDBI Bank stake sale to Fairfax for Rs 52,878 crore",
+      "label": [
+        "idbi",
+        "stake",
+        "bank",
+        "fairfax",
+        "crore",
+        "sale"
+      ],
+      "category": "new",
+      "theme": "theme_54f0a8ccd03c5072",
+      "entities": [
+        "Govt",
+        "IDBI Bank",
+        "Fairfax",
+        "Rs",
+        "Fairfax To Acquire"
+      ],
+      "article_count": 13,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Govt approves IDBI Bank stake sale to Fairfax for Rs 52,878 crore",
+          "url": "https://www.indiatoday.in/business/story/govt-approves-idbi-bank-stake-sale-to-fairfax-for-rs-52878-crore-3017225-2026-10-14",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-14T11:35:50.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/idbi-bank-14333398-16x9_0.png?VersionId=tK5HYBGVvmCIEoOj3YQ7SJHTaOffWVrK",
+          "description": "Govt approves IDBI Bank stake sale to Fairfax for Rs crore"
+        },
+        {
+          "title": "Fairfax To Acquire 60.72% Stake In IDBI Bank For ₹52,878 Crore",
+          "url": "https://www.freepressjournal.in/business/fairfax-to-acquire-6072-stake-in-idbi-bank-for-52878-crore",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-14T12:03:54.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2025-06-30/e1l5zdqe/IDBI-BANK-IDBI-BANK.jpg"
+        },
+        {
+          "title": "Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore",
+          "url": "https://www.ndtv.com/india-news/centre-approves-60-72-stake-sale-in-idbi-bank-to-fairfax-for-rs-52-878-crore-12184710",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-14T12:05:28.000Z",
+          "description": "The 60.72 per cent stake being acquired by Fairfax will comprise a 30.48 per cent holding of the government and a 30.24 per cent stake held by the Life Insurance Corporation of India (LIC)."
+        },
+        {
+          "title": "Cabinet approves sale of 60.72% stake in IDBI Bank to Fairfax for ₹52,878 crore",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/cabinet-approves-sale-of-6072-stake-in-idbi-bank-to-fairfax-for-52878-crore/article71583485.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-14T11:30:25.000Z",
+          "description": "The transaction brings a five-year disinvestment process closer to completion and is expected to be finalised before the current fiscal ends."
+        },
+        {
+          "title": "Fairfax To Acquire 60.72 Per Cent Stake In IDBI Bank For Rs 52,878 Crore As Cabinet Approves The 'Strategic Restructuring'",
+          "url": "https://swarajyamag.com/business/fairfax-to-acquire-6072-per-cent-stake-in-idbi-bank-for-rs-52878-crore-as-cabinet-approves-landmark-disinvestment",
+          "source": "Swarajya",
+          "published_at": "2026-10-14T11:55:05.807Z"
+        }
+      ],
+      "summary": "India’s cabinet approved the sale of a 60.72% stake in IDBI Bank to Fairfax for ₹52,878 crore. The stake comprises holdings from the government and the Life Insurance Corporation of India."
+    },
+    {
+      "id": "topic_95704e253afe66c1",
+      "title": "Justice Department Threatens California Over Suspected Noncitizen Voters",
+      "headline": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
+      "label": [
+        "california",
+        "voters",
+        "noncitizen",
+        "department",
+        "justice",
+        "threatens"
+      ],
+      "category": "new",
+      "theme": "theme_1ea2664c3003d6d9",
+      "entities": [
+        "Justice Department",
+        "California",
+        "KCRA",
+        "US Justice Department",
+        "Reuters"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
+          "url": "https://japantoday.com/category/world/justice-department-threatens-california-with-legal-action-over-claim-of-noncitizens-on-voter-rolls",
+          "source": "Japan Today",
+          "published_at": "2026-10-14T21:37:29.000Z",
+          "description": "The U.S. Department of Justice has threatened California with possible legal action over what it says are noncitizens believed to have received mail ballots for next month’s midterm…"
+        },
+        {
+          "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxnceh5vtmxrzfhd1jns3j3uu1eahv2ck5vdetkqmrvy3i1qmz6ufzjqjhprmdptwfis2tks3zbz2g0oe5fqvvtqmxywwiwdg4xuf9htnr6u24tvvv0zfd3d3hmrupyznnxaegtb0ronw5tb1vjbhz6rdrxc1vyywr0wmpudhvku2l6nu5sx3z3enhsc3z4",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-14T19:50:00.000Z",
+          "description": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls KCRA Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots CBS News DOJ threatens California over alleged noncitizen voters Honolulu Star-Advertiser…"
+        },
+        {
+          "title": "US Justice Department gives California 48 hours to review list of 'noncitizen voters', threatens legal action",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-justice-department-gives-california-48-hours-to-review-list-of-noncitizen-voters-threatens-legal-action/articleshow/134941175.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-10-14T11:37:17.000Z"
+        },
+        {
+          "title": "US Justice Department threatens California over alleged noncitizen voters, letter shows (Reuters)",
+          "url": "https://www.memeorandum.com/261014/p57",
+          "source": "memeorandum",
+          "published_at": "2026-10-14T14:50:01.000Z",
+          "description": "Reuters: US Justice Department threatens California over alleged noncitizen voters, letter shows — The US Justice Department on Tuesday gave California officials 48 hours to review a list of alleged noncitizen voters or face legal action, according to a letter reviewed by Reuters …"
+        },
+        {
+          "title": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
+          "url": "https://www.foxnews.com/politics/doj-threatens-emergency-legal-action-california-suspected-noncitizen-voters",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-14T22:33:37.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/los-angeles-election-division-office.jpg?ve=1&tl=1",
+          "description": "The Justice Department threatens emergency legal action against California over suspected noncitizens on voter rolls ahead of midterm elections."
+        }
+      ],
+      "summary": "The U.S. Justice Department gave California 48 hours to review a list of people it suspects are noncitizens who received mail ballots, and threatened legal action. The dispute comes ahead of the midterm elections."
+    },
+    {
+      "id": "topic_f2c0132eba403024",
+      "title": "New York City Moves to Ban Horse-Drawn Carriages",
+      "headline": "New York City moves to ban horse-drawn carriages",
+      "label": [
+        "drawn",
+        "horse",
+        "carriages",
+        "ban",
+        "york",
+        "moves"
+      ],
+      "category": "new",
+      "theme": "theme_2bd4563c0d648ede",
+      "entities": [
+        "New York City",
+        "The Guardian",
+        "New York",
+        "Central Park",
+        "June"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "New York City moves to ban horse-drawn carriages",
+          "url": "https://www.theguardian.com/us-news/2026/oct/14/new-york-city-horse-drawn-carriages-ban",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-14T14:14:20.000Z",
+          "image": "https://i.guim.co.uk/img/media/63aae6944c89b3a2e9dc13e16dd648a769e1e9d4/292_0_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=f2931bf1f192a5a0e8aa5a00a4de7111",
+          "description": "Mamdani and city council leader agree on ban that would make it illegal to operate horse-drawn carriages in the city Mayor Zohran Mamdani and the leader of the New York City council have agreed to ban horse-drawn carriages from the city, a popular tourist attraction that has faced widespread scruti…"
+        },
+        {
+          "title": "New York City moves to ban horse-drawn carriages",
+          "url": "https://news.google.com/rss/articles/cbmikafbvv95cuxodjnzoxu1zg9aclhnlwfpynyzethea081nvy5ng5nn1hxx3o5af9bzeo2d2y4renwvzfpswd6zdrxa3ngmfpazwxsekziqzjhzudgrc1ntmdqmwl1ttrpzvvhmurucnn3ohutr2jxznhithrfzwh3zuxmejuwt050t01alxpteevun1dtnzhoyju",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-14T15:06:00.000Z",
+          "description": "New York City moves to ban horse-drawn carriages The Guardian NYC Council, Mayor Mamdani agree to end Central Park's carriage horse industry Gothamist New York City to end iconic horse-drawn carriage rides after teenager's death Sky News City Council Speaker and Mamdani Agree on Horse-Drawn Carriag…"
+        },
+        {
+          "title": "New York’s famous Central Park horse-drawn carriages set to be banned",
+          "url": "https://www.theage.com.au/world/north-america/new-york-s-famous-central-park-horse-drawn-carriages-set-to-be-banned-20261014-p615bz.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-14T00:24:59.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.26475%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/10e4a42fc13d0d871c7c1e07ef9687e6918827ac",
+          "description": "The move – sparked by animal rights concerns and the recent death of a teenager in a runaway carriage – would put an end to a tourist magnet that began operating more than 150 years ago."
+        },
+        {
+          "title": "New York City to ban iconic horse-drawn carriages from June 1, 2028; decision comes after Indian tourist Romanch Mahajan's death",
+          "url": "https://timesofindia.indiatimes.com/world/us/new-york-city-to-ban-iconic-horse-drawn-carriages-from-june-1-2028-decision-comes-after-indian-tourist-romanch-mahajans-death/articleshow/134945753.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-10-14T15:07:35.000Z"
+        },
+        {
+          "title": "‘Betrayed’ horse-drawn carriage drivers fear homelessness as NYC moves to ban industry",
+          "url": "https://nypost.com/2026/10/14/us-news/betrayed-horse-drawn-carriage-drivers-fear-homelessness-as-nyc-moves-to-ban-industry",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-14T21:17:23.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fhorse-carriage-driver-jill-adamski-145027952.jpg?w%3D1024",
+          "description": "Who exactly is being sent out to pasture?"
+        }
+      ],
+      "summary": "New York City Mayor Zohran Mamdani and a City Council leader agreed to pursue a ban on horse-drawn carriages. Reports say the proposed ban would take effect June 1, 2028."
+    },
+    {
+      "id": "topic_d360e35a14128cb7",
+      "title": "Mark Zuckerberg’s Guinness Tasting Draws Online Mockery",
+      "headline": "WATCH: Mark Zuckerberg goes viral after sipping a pint of Guinness",
+      "label": [
+        "guinness",
+        "zuckerberg",
+        "mark",
+        "pint",
+        "sipping",
+        "repulsed"
+      ],
+      "category": "new",
+      "theme": "theme_5f5c8f3367f45fac",
+      "entities": [
+        "Mark Zuckerberg",
+        "Guinness",
+        "WHAT WOULD",
+        "REAL HUMAN DO"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "WATCH: Mark Zuckerberg goes viral after sipping a pint of Guinness",
+          "url": "https://www.irishcentral.com/culture/craic/mark-zuckerberg-guinness-reaction",
+          "source": "IrishCentral.com - Top Stories",
+          "published_at": "2026-10-14T10:26:45.000Z",
+          "description": "Mark Zuckerberg has been ruthlessly mocked online for the hilarious faces he made after sipping from a pint of Guinness."
+        },
+        {
+          "title": "'That's just my face': Mark Zuckerberg responds to video of him sipping a pint of Guinness",
+          "url": "https://www.thejournal.ie/mark-zuckerberg-guinnes-7192967-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-14T12:50:23.000Z",
+          "description": "The 12-second clip has racked up more than 13 million views."
+        },
+        {
+          "title": "Mark Zuckerberg secretly repulsed by Guinness",
+          "url": "https://www.theage.com.au/world/mark-zuckerberg-secretly-repulsed-by-guinness-20261015-p615ra.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-14T22:44:55.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/f521d46bd4e2e8f9813d0599512c339964813063",
+          "description": "Mark Zuckerberg has had his first and possibly his last Guinness during a podcast."
+        },
+        {
+          "title": "Was this Mark Zuckerberg’s first – and last – taste of Guinness?",
+          "url": "https://www.theguardian.com/food/2026/oct/14/mark-zuckerberg-guinness",
+          "source": "The Guardian",
+          "published_at": "2026-10-14T15:33:52.000Z",
+          "image": "https://i.guim.co.uk/img/media/92f1fda20f2c01242b97a2623f3a110f4e8f0311/256_0_2054_1644/master/2054.jpg?width=140&quality=85&auto=format&fit=max&s=02f57705a2b04e49996a3a43a04774db",
+          "description": "The Meta boss looked traumatised when he sipped stout on the Cheeky Pint podcast. An hour later, his glass was still half full Name: Guinness. Age: Arthur Guinness began brewing porter in the 1770s. Guinness draft was first poured in 1959. Continue reading..."
+        },
+        {
+          "title": "Mark Zuckerberg mocked over his awkward reaction to pint of Guinness: 'WHAT WOULD A REAL HUMAN DO?'",
+          "url": "https://torontosun.com/news/world/mark-zuckerberg-mocked-reaction-guinness",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-10-14T16:54:57.000Z",
+          "description": "The 134-minute conversation covered Meta’s AI ambitions, including its Muse product and future plans for personal AI agents"
+        }
+      ],
+      "summary": "A video of Mark Zuckerberg sipping Guinness on a podcast went viral, with viewers mocking his facial expression. Zuckerberg responded, “That’s just my face.”"
+    }
+  ]
+}
