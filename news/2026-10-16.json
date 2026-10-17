@@ -1,0 +1,988 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-17T00:47:34.799Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Elon Musk unveiled Tesla’s next-generation Roadster and demonstrated it leaving the ground, a feature that could raise regulatory questions.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Katie Zacharia left the White House press secretary role five days after taking it, following President Trump’s public suggestion that she reconsider.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "A shooting at an elementary school in Bend, Oregon, killed three children and a teacher; police said the 16-year-old suspect also died at the school.",
+        "stories": [
+          8
+        ]
+      },
+      {
+        "text": "Masked Israeli settlers attacked Palestinians harvesting olives in the occupied West Bank, injuring several people, including Washington Post photographer Heidi Levine.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Officials said an order to temporarily limit Ukraine’s use of SpaceX’s Starshield satellite system came from inside the White House.",
+        "stories": [
+          12
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_9213e707ad6a4cf4",
+      "title": "Tesla Reveals Roadster With Demonstrated Flying Features",
+      "headline": "Elon Musk unveils Tesla’s ‘flying’ car",
+      "label": [
+        "car",
+        "flying",
+        "tesla",
+        "musk",
+        "elon",
+        "unveils"
+      ],
+      "category": "new",
+      "theme": "theme_e9e79cfade8889a0",
+      "entities": [
+        "Elon Musk",
+        "Tesla",
+        "Tesla Flying Car",
+        "Don",
+        "Know"
+      ],
+      "article_count": 27,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Elon Musk unveils Tesla’s ‘flying’ car",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3371209/elon-musk-unveils-teslas-flying-car",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-16T17:19:46.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/85958209-3e3b-4632-8076-1aa839e42b25_e08e24d2.jpg?itok=wieafzOt&v=1792171167",
+          "description": "Tesla CEO Elon Musk unveiled what he described as a “flying” car, equipped with thrusters, during a live-streamed event at his SpaceX rocket company’s facility on Thursday. Technical and regulatory challenges have so far prevented the much-hyped flying car sector from getting off the ground. Musk r…"
+        },
+        {
+          "title": "Tesla's flying car is here, and so are the memes",
+          "url": "https://www.businessinsider.com/teslas-flying-car-meme-roundup-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-16T07:07:30.000Z",
+          "image": "https://i.insider.com/6ad1c682adb77227909a63fb?format=jpeg",
+          "description": "Tesla's new flying car has unleashed a wave of memes on the internet. Tesla Tesla revealed its next-gen Roadster car during a livestreamed event on Thursday. In the demonstrations, the car flew and did a kickflip. The internet was amused, to say the least. It's a bird, it's a plane, it's Tesla's ne…"
+        },
+        {
+          "title": "A Tesla Flying Car? I Don’t Know, Man",
+          "url": "https://www.wired.com/story/tesla-flying-car-faa",
+          "source": "Feed: All Latest",
+          "published_at": "2026-10-16T03:18:30.000Z",
+          "description": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground."
+        },
+        {
+          "title": "Watch: Did Tesla really just unveil a flying car?",
+          "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o",
+          "source": "BBC News",
+          "published_at": "2026-10-16T12:32:31.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b12/live/2b8819b0-c95c-11f1-bc2e-018d645d8d21.jpg",
+          "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model."
+        },
+        {
+          "title": "Tesla Unveils Bonkers Flying Car",
+          "url": "https://www.core77.com/posts/145668/tesla-unveils-bonkers-flying-car",
+          "source": "Core77",
+          "description": "Last night in Texas, Tesla assembled group of fans, influencers and journalists to witness the unveiling of their new Roadster. \"We need an audience to prove that it's not AI,\" Elon Musk said. \"So you guys can tell people you saw it with your eyes, because what you see with your eyes, you will not…"
+        }
+      ],
+      "summary": "Elon Musk unveiled Tesla’s next-generation Roadster at a livestreamed event at SpaceX’s facility, describing it as a “flying” car and demonstrating it leaving the ground. The vehicle’s ability to fly could raise regulatory questions."
+    },
+    {
+      "id": "topic_27b40b3e64adb8da",
+      "title": "Katie Zacharia Leaves White House Press Secretary Role After Five Days",
+      "headline": "Katie Zacharia Out as White House Press Secretary",
+      "label": [
+        "secretary",
+        "press",
+        "zacharia",
+        "katie",
+        "white",
+        "house"
+      ],
+      "category": "trending",
+      "theme": "theme_df7d3e90fc1ba4ef",
+      "entities": [
+        "Katie Zacharia Out",
+        "White House Press Secretary",
+        "Katie Zacharia",
+        "White House",
+        "Trump"
+      ],
+      "article_count": 87,
+      "source_count": 53,
+      "articles": [
+        {
+          "title": "Katie Zacharia Out as White House Press Secretary",
+          "url": "https://politicalwire.com/2026/10/16/katie-zacharia-out-as-white-house-press-secretary",
+          "source": "Political Wire",
+          "published_at": "2026-10-16T18:30:08.000Z",
+          "description": "“The new White House press secretary, Katie Zacharia, is out of her role just five days into the job, after President Donald Trump said publicly that she should think about leaving,” the Washington Post reports. “Her departure marked a rare and speedy retreat from a presidential appointment that ac…"
+        },
+        {
+          "title": "Katie Zacharia is out as White House press secretary after just 5 days",
+          "url": "https://www.ms.now/news/katie-zacharia-out-white-house-press-secretary-trump",
+          "source": "MS NOW",
+          "published_at": "2026-10-16T17:56:39.000Z",
+          "description": "Trump told reporters on Friday that he told Zacharia to “reconsider” her role. The post Katie Zacharia is out as White House press secretary after just 5 days appeared first on MS NOW."
+        },
+        {
+          "title": "White House press secretary Katie Zacharia fired after five days on the job",
+          "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-16T18:58:06.000Z",
+          "description": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials."
+        },
+        {
+          "title": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
+          "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-10-16T17:32:38.000Z",
+          "description": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections."
+        },
+        {
+          "title": "Katie Zacharia fired after just five days as White House press secretary",
+          "url": "https://torontosun.com/news/world/katie-zacharia-fired-after-just-five-days-as-white-house-press-secretary",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-10-16T20:06:42.000Z",
+          "description": "President Donald Trump suggested she 'reconsider' her White House role before her sudden departure on Friday"
+        }
+      ],
+      "summary": "Katie Zacharia left her role as White House press secretary five days after taking it. President Donald Trump had publicly told her to reconsider the job."
+    },
+    {
+      "id": "topic_733f7d47c63f65af",
+      "title": "New Film Examines Elizabeth Holmes and Theranos",
+      "headline": "Elizabeth Holmes Is Not the Problem With You Can See Everything",
+      "label": [
+        "holmes",
+        "elizabeth",
+        "see",
+        "everything",
+        "desk",
+        "mind"
+      ],
+      "category": "new",
+      "theme": "theme_dbf5d53dc19fa4bb",
+      "entities": [
+        "Elizabeth Holmes Is Not",
+        "Problem With You Can",
+        "See Everything",
+        "You Can See Everything",
+        "What Happened At Elizabeth"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Elizabeth Holmes Is Not the Problem With You Can See Everything",
+          "url": "https://time.com/article/2026/10/15/you-can-see-everything-movie-review",
+          "source": "TIME",
+          "published_at": "2026-10-16T17:36:39.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc0e11bd85e1ff8d8/6ad24c747215739a97e393c7/YCSE-Holmes-2.jpg?branch=production",
+          "description": "The Nathan Fielder and Lance Oppenheim film is not actually that groundbreaking"
+        },
+        {
+          "title": "You Can See Everything: What Happened At Elizabeth Holmes' Theranos",
+          "url": "https://www.slashfilm.com/2289268/you-can-see-everything-what-happened-elizabeth-holmes-theranos",
+          "source": "/Film",
+          "published_at": "2026-10-16T20:14:24.000Z",
+          "description": "Before you watch You Can See Everything, here's a primer of the events that led to Elizabeth Holmes and Theranos' downfall in the first place."
+        },
+        {
+          "title": "Whats going on with Elizabeth Holmes X account?",
+          "url": "https://mashable.com/entertainment/elizabeth-holmes-x-account-you-can-see-everything",
+          "source": "Mashable",
+          "published_at": "2026-10-16T15:53:45.000Z",
+          "description": "Nathan Fielder's new documentary 'You Can See Everything' includes discussions about Elizabeth Holmes' X account."
+        },
+        {
+          "title": "You can now sit at Elizabeth Holmes’s desk",
+          "url": "https://www.fastcompany.com/91624372/elizabeth-holmes-desk-theranos-world-bo-lau",
+          "source": "Fast Company",
+          "published_at": "2026-10-16T08:30:00.000Z",
+          "description": "Theranos.World lets you snoop through the disgraced startup founder’s laptop and iPhone—and even “sip” her green juice. The tech world relishes a good founder story. These figures are often young college dropouts with minimalist wardrobes, obsessive behaviors, and eccentric (and often flat out biza…"
+        },
+        {
+          "title": "Why No One Can Look Away From Elizabeth Holmes",
+          "url": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-10-16T11:00:03.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/16/podcasts/16hardfork-elizabeth-holmes/16hardfork-elizabeth-holmes-mediumSquareAt3X.jpg",
+          "description": "“I felt like there were some moments in the film where she was just brazenly lying.”"
+        }
+      ],
+      "summary": "A new film by Nathan Fielder and Lance Oppenheim focuses on Elizabeth Holmes, with coverage discussing her Theranos story and her social media account. An online project also recreates access to her desk and devices."
+    },
+    {
+      "id": "topic_f35f4dc6b80268fa",
+      "title": "Israeli Settlers Attack Palestinians and US Journalist During West Bank Olive Harvest",
+      "headline": "Israeli settlers attack Palestinians and Washington Post journalist in West Bank",
+      "label": [
+        "settlers",
+        "israeli",
+        "west",
+        "bank",
+        "attack",
+        "olive"
+      ],
+      "category": "trending",
+      "theme": "theme_1d5b6cd003c8e574",
+      "entities": [
+        "Israeli",
+        "Palestinians",
+        "Washington Post",
+        "West Bank",
+        "Israeli Settlers Attack Palestinians"
+      ],
+      "article_count": 37,
+      "source_count": 29,
+      "articles": [
+        {
+          "title": "Israeli settlers attack Palestinians and Washington Post journalist in West Bank",
+          "url": "https://www.seattletimes.com/nation-world/israeli-settlers-attack-palestinians-and-washington-post-journalist-in-west-bank",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-10-16T19:36:52.000Z",
+          "description": "Dozens of masked Israeli settlers attacked a group of Palestinians while picking olives in the Israeli-occupied West Bank, seriously injuring several people, including a photographer."
+        },
+        {
+          "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+          "source": "Middle East and north Africa | The Guardian",
+          "published_at": "2026-10-16T14:06:59.000Z",
+          "image": "https://i.guim.co.uk/img/media/eacefac392ed027227ecec0ab9c67d13ee077d57/560_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=038d95a2d40c5fbb7dc1081bf52e77b9",
+          "description": "Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and injuring Palestinia…"
+        },
+        {
+          "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxocuuyqzz3zhnfwf91ewtsrha1snhqcja0zejyr3nod3lhdjz2ewp2mvpwuxdlx3vnm2oymu9pm2tvnxdfedhsq29mrfi5ue1jdunleec0ufb1c3p3dujtntvecee4elbpme1kauffn1rpttdhahficlbyamnkmuljwwlmclpmcu83suf2s082sevisjjon1phx0hknnnzsg5lweg3qg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-16T19:31:34.000Z",
+          "description": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank The New York Times Israeli settlers attack Palestinians during West Bank olive harvest Reuters 'Washington Post' photographer recounts Israeli settler attack NPR Washington Post journalist hospitalized after Israeli se…"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+          "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo",
+          "source": "BBC News",
+          "published_at": "2026-10-16T11:40:41.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0345/live/69e10530-c94f-11f1-bc2e-018d645d8d21.jpg",
+          "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank."
+        },
+        {
+          "title": "US journalist injured during Israeli settler attack on West Bank olive harvest",
+          "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-16T15:01:40.000Z",
+          "description": "About 80 Israeli settlers set fire to olive trees and threw stones at Palestinians in a West Bank village Friday, injuring at least two people, including a US photojournalist with The Washington Post. The coordinated attack came as violence by settlers is on the rise during the olive harvest in the…"
+        }
+      ],
+      "summary": "Masked Israeli settlers attacked Palestinians harvesting olives in the occupied West Bank, setting trees on fire and throwing stones. The attack injured several people, including Washington Post photographer Heidi Levine."
+    },
+    {
+      "id": "topic_f450ffbf9c48882",
+      "title": "China-Linked Hackers Exploited BeyondTrust Remote Support Zero-Day",
+      "headline": "CVE-2026-102764: BeyondTrust Zero-Day Exploited in Attacks",
+      "label": [
+        "beyondtrust",
+        "zero",
+        "day",
+        "exploited",
+        "chinese",
+        "support"
+      ],
+      "category": "trending",
+      "theme": "theme_f65a683e344b3ebc",
+      "entities": [
+        "CVE",
+        "BeyondTrust Zero",
+        "Day Exploited",
+        "Attacks",
+        "Google Warns China"
+      ],
+      "article_count": 18,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "CVE-2026-102764: BeyondTrust Zero-Day Exploited in Attacks",
+          "url": "https://www.cyberkendra.com/2026/10/cve-2026-102764-beyondtrust-zero-day-exploited-in-attacks.html",
+          "source": "Cyber Kendra",
+          "published_at": "2026-10-16T00:41:30.000Z",
+          "description": "BeyondTrust patches CVE-2026-102764, a Remote Support zero-day China-linked ARMORY CASTLE used to deploy SAWFLY and BARECLAW malware."
+        },
+        {
+          "title": "CVE-2026-102764: BeyondTrust Zero-Day Exploited",
+          "url": "https://malware.news/t/cve-2026-102764-beyondtrust-zero-day-exploited/126495",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-16T14:30:41.000Z",
+          "image": "https://socradar.io/wp-content/uploads/2026/09/Smart-CTAs-08.png-1024x198.webp",
+          "description": "BeyondTrust has disclosed CVE-2026-102764, a critical Remote Support vulnerability exploited as a zero-day weeks before customers received a patch. Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills? Get 10% off using coupon code: MWNEWS10 for any flavor. Enroll Now…"
+        },
+        {
+          "title": "Google Warns China-Linked Hackers Exploited BeyondTrust Zero-Day",
+          "url": "https://www.esecurityplanet.com/threats/news-beyondtrust-zero-day-china-hackers",
+          "source": "eSecurityPlanet",
+          "published_at": "2026-10-16T20:10:39.698Z"
+        },
+        {
+          "title": "Prolific Chinese espionage group exploits BeyondTrust zero-day",
+          "url": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle",
+          "source": "CyberScoop",
+          "published_at": "2026-10-16T17:09:09.000Z",
+          "description": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers. The post Prolific Chinese espionage group exploits BeyondTrust zero-day appeared first on CyberScoop."
+        },
+        {
+          "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+          "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-16T06:55:55.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg",
+          "description": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case o…"
+        }
+      ],
+      "summary": "A China-linked cyber espionage group known as Armory Castle exploited a zero-day vulnerability in BeyondTrust Remote Support. BeyondTrust disclosed the flaw and issued a patch after attacks had begun."
+    },
+    {
+      "id": "topic_6a1aa22545a5ca1e",
+      "title": "Apple’s Foldable iPhone Duo Goes on Preorder",
+      "headline": "All the news about the iPhone Duo",
+      "label": [
+        "iphone",
+        "duo",
+        "apple",
+        "pre",
+        "orders",
+        "preorder"
+      ],
+      "category": "trending",
+      "theme": "theme_d852cd0b6b84f484",
+      "entities": [
+        "Duo",
+        "Save",
+        "Apple",
+        "Online Apple Store",
+        "Duo Pre"
+      ],
+      "article_count": 47,
+      "source_count": 27,
+      "articles": [
+        {
+          "title": "All the news about the iPhone Duo",
+          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+          "source": "The Verge",
+          "published_at": "2026-10-16T23:36:26.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a…"
+        },
+        {
+          "title": "Where to preorder the iPhone Duo?",
+          "url": "https://technology.inquirer.net/149805/where-to-preorder-the-iphone-duo",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-16T13:40:47.000Z",
+          "image": "https://technology.inquirer.net/files/2026/10/SmartiPhoneDuo3-470x264.png",
+          "description": "Last night, the Philippines celebrated the launch of the iPhone 18 Pro and Pro Max. The elephant in the room however was information on the availability of the upcoming iPhone Duo. Industry insiders say that Apple’s first foldable will come in very limited stocks. But that doesn’t mean that consume…"
+        },
+        {
+          "title": "Save up to $1,200 on Apple's iPhone Duo",
+          "url": "https://appleinsider.com/articles/26/10/16/save-up-to-1200-on-apples-iphone-duo",
+          "source": "AppleInsider News",
+          "published_at": "2026-10-16T12:13:21.000Z",
+          "image": "https://media.appleinsider.com/gallery/69419-146354-iphone-duo-preorder-deals-xl.jpg",
+          "description": "Wireless carriers are competing for your business with iPhone Duo incentives offering up to $1,200 in bill credits. Get up to $1,200 off an iPhone Duo - Image credit: Apple Apple's first foldable iPhone, the iPhone Duo, is finally available for preorder, and wireless carriers AT&T, T-Mobile, and Ve…"
+        },
+        {
+          "title": "Apple iPhone Duo pre-orders begin today",
+          "url": "https://www.gsmarena.com/apple_iphone_duo_pre_orders_begin-news-75077.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-10-16T09:33:02.000Z",
+          "description": "Apple unveiled the iPhone Duo last month alongside the iPhone 18 Pro and iPhone 18 Pro Max. While the iPhone 18 Pro models went on pre-order the same week and are already on sale, the iPhone Duo will go on pre-order today at 12 PM UTC. The iPhone Duo will be available for pre-orders through Apple's…"
+        },
+        {
+          "title": "Apple iPhone Duo is already backordered until 2027",
+          "url": "https://www.techspot.com/news/114238-iphone-duo-demand-outpaces-supply-apple-pushes-orders.html",
+          "source": "TechSpot",
+          "published_at": "2026-10-16T17:04:00.000Z",
+          "description": "Apple introduced the iPhone Duo as the centerpiece of its fall media event on September 9. The handset, which is set to do battle with Samsung's Galaxy Z Fold in the ultra-premium space, is powered by an A20 Pro SoC built by TSMC on its 2nm node and features a... Read Entire Article"
+        }
+      ],
+      "summary": "Apple’s foldable iPhone Duo has a 5.4-inch outer display and a 7.6-inch inner display. Preorders have begun, while carrier offers include up to $1,200 in bill credits and some listings report orders backlogged until 2027."
+    },
+    {
+      "id": "topic_1f975c2678db0942",
+      "title": "Brewers Sweep Dodgers to Reach First World Series Since 1982",
+      "headline": "Brewers sweep Dodgers in NLCS to reach World Series for first time since 1982",
+      "label": [
+        "sweep",
+        "brewers",
+        "dodgers",
+        "series",
+        "world",
+        "reach"
+      ],
+      "category": "new",
+      "theme": "theme_f61aaa9ef93ef2c5",
+      "entities": [
+        "Brewers",
+        "Dodgers",
+        "NLCS",
+        "World Series",
+        "NBC News"
+      ],
+      "article_count": 18,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Brewers sweep Dodgers in NLCS to reach World Series for first time since 1982",
+          "url": "https://japantoday.com/category/sports/brewers-sweep-the-dodgers-in-the-nlcs-to-reach-the-world-series-for-the-first-time-since-1982",
+          "source": "Japan Today",
+          "published_at": "2026-10-16T03:44:01.000Z",
+          "description": "Garrett Mitchell hit a go-ahead homer in the sixth inning, Milwaukee's brilliant bullpen slammed the door late and the Brewers rallied past the Los Angeles Dodgers 6-4 on…"
+        },
+        {
+          "title": "Brewers sweep Dodgers to reach first World Series since 1982",
+          "url": "https://sports.inquirer.net/701799/brewers-sweep-dodgers-to-reach-first-world-series-since-1982",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-16T07:48:24.000Z",
+          "image": "https://sports.inquirer.net/files/2026/10/AP26289138421860-620x413.jpg",
+          "description": "LOS ANGELES — After 44 years, the Milwaukee Brewers are finally going back to the World Series. Propelled by a lockdown bullpen and repeated comebacks, the young and fearless Brewers swept the two-time defending champion Los Angeles Dodgers out of the playoffs Thursday with a 6-4 victory in Game 4…"
+        },
+        {
+          "title": "Brewers sweep the Dodgers in the NLCS to reach first World Series since 1982",
+          "url": "https://abcnews.com/sports/wirestory/brewers-sweep-dodgers-nlcs-reach-world-series-time-137309462",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-16T12:20:07.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_cfd30befcec42a035cbea5cae3bf746c_4x3_384.jpg",
+          "description": "Garrett Mitchell hit a go-ahead homer in the sixth inning, leading the Milwaukee Brewers to a 6-4 comeback win over the Los Angeles Dodgers in Game 4 of the National League Championship Series"
+        },
+        {
+          "title": "Brewers sweep Dodgers to reach World Series for first time since 1982",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxnq05law5loffsb19xmjjrms1cc0tbmthcadn2exb5rheyv2zvbwnnvwk2bjeyz05em2zmrfjnrzzzz1fzr08zvlrzvi1wne02nwpjtdjmd25jss1mdw5uewzues1ir3y5a1jum0cwwelwseittwdndtforhphlvawu0rtswdnvxp3u1a0a3rxeknnd2ftvu5hwgu2vzficw53ddfrcul4m2s",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-16T03:08:00.000Z",
+          "description": "Brewers sweep Dodgers to reach World Series for first time since 1982 NBC News Brewers sweep Dodgers in NLCS, advance to 1st World Series in 44 years ESPN THE BREWERS WIN IT, THE BREWERS WIN IT, OH MY GOD THE BREWERS WIN IT Milwaukee Record Soak it in, Milwaukee: The Brewers are going to the World…"
+        },
+        {
+          "title": "Brewers complete NLCS sweep of Dodgers to reach World Series",
+          "url": "https://www.japantimes.co.jp/sports/2026/10/16/baseball/mlb/brewers-win-nl-pennant",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-10-16T03:18:00.000Z",
+          "description": "The Brewers will open the World Series at home on Oct. 23 against ⁠the winner of the American League Championship Series between the Cleveland Guardians and Tampa Bay Rays."
+        }
+      ],
+      "summary": "Milwaukee swept Los Angeles in the National League Championship Series, winning Game 4 by 6-4. Garrett Mitchell hit a go-ahead home run as the Brewers advanced to their first World Series since 1982."
+    },
+    {
+      "id": "topic_5cfad2902c5d5c33",
+      "title": "Four Killed in Oregon Elementary School Shooting",
+      "headline": "Three children, one teacher killed in Oregon elementary school shooting",
+      "label": [
+        "school",
+        "oregon",
+        "elementary",
+        "shooting",
+        "killed",
+        "teacher"
+      ],
+      "category": "trending",
+      "theme": "theme_b883a484f4f5b01d",
+      "entities": [
+        "Three",
+        "Oregon",
+        "US",
+        "What We Know So",
+        "Far About"
+      ],
+      "article_count": 41,
+      "source_count": 26,
+      "articles": [
+        {
+          "title": "Three children, one teacher killed in Oregon elementary school shooting",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/16/three-children-one-teacher-killed-in-oregon-elementary-school-shooting_6758666_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-16T05:15:41.000Z",
+          "description": "Police said the suspect was a 16-year-old and was shot dead by an armed bystander."
+        },
+        {
+          "title": "Three children, teacher killed in US elementary school shooting",
+          "url": "https://dailypost.ng/2026/10/16/three-children-teacher-killed-in-us-elementary-school-shooting",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-10-16T06:10:16.000Z",
+          "description": "At least four people, including three children and a teacher, have been killed in a shooting at an elementary school in Bend, Oregon, in the northwestern United States, according to local police. The incident occurred on Thursday at Silver Rail Elementary School, located about 160 kilometres (100 m…"
+        },
+        {
+          "title": "3 children, 1 teacher dead in Oregon elementary school shooting, police say",
+          "url": "https://globalnews.ca/news/12105034/oregon-school-shooting-3-children-1-teacher-dead",
+          "published_at": "2026-10-16T13:30:57.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/Oregon-School-Shooting.jpg?quality=65&strip=all",
+          "description": "The attacker, who police identified as a Bend resident, was shot and went down inside the school shortly after officers arrived, police spokesperson Sheila Miller said."
+        },
+        {
+          "title": "Oregon elementary school shooting: what we know so far",
+          "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-16T22:24:16.000Z",
+          "image": "https://i.guim.co.uk/img/media/bb85a20f4c0cf53ca7bf50af6b3744f8fa53259d/587_0_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=4c4c3c29560b58b2fb1d7bcf19f7a18a",
+          "description": "The rural Oregon city of Bend was rocked by a mass shooting at an elementary school that killed three students and a teacher. Here’s what we know about the tragedy Shooter in fatal Bend, Oregon, school shooting was former student there Bystander who killed Oregon shooter identified as father of gir…"
+        },
+        {
+          "title": "What We Know So Far About the Elementary School Shooting in Bend, Oregon",
+          "url": "https://time.com/article/2026/10/16/bend-oregon-shooting-silver-rail-elementary-school",
+          "source": "TIME",
+          "published_at": "2026-10-16T04:45:05.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt45d6a72d47f5ff46/6ad1a9defe03485cc5ec4404/bend-oregon-shooting.jpg?branch=production",
+          "description": "Five people are dead, including a suspect, after a shooting incident at Silver Rail Elementary School."
+        }
+      ],
+      "summary": "A shooting at Silver Rail Elementary School in Bend, Oregon, killed three children and a teacher. Police said the 16-year-old suspect was shot and died at the school."
+    },
+    {
+      "id": "topic_5d0ce14373bed90d",
+      "title": "Marcos to Summon Chinese Ambassador Over Use-of-Force Remarks",
+      "headline": "Marcos to summon Chinese envoy over ‘threat’",
+      "label": [
+        "marcos",
+        "chinese",
+        "summon",
+        "envoy",
+        "remark",
+        "threat"
+      ],
+      "category": "new",
+      "theme": "theme_307398beecf8a9aa",
+      "entities": [
+        "Marcos",
+        "Chinese",
+        "INQToday",
+        "Akbayan",
+        "Philippines"
+      ],
+      "article_count": 10,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Marcos to summon Chinese envoy over ‘threat’",
+          "url": "https://www.manilatimes.net/2026/10/17/news/national/marcos-to-summon-chinese-envoy-over-threat/2447666",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-10-16T16:23:00.000Z",
+          "description": "PRESIDENT Ferdinand Marcos Jr. said on Friday he intends to meet with Chinese Ambassador Jing Quan over the envoy’s remark that China can “easily win” by using force. Quan has said in a statement that China would win easily a conflict against the Philippines. “If we want to use force, we will, but…"
+        },
+        {
+          "title": "Marcos to summon Chinese envoy over 'use of force' remark",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1006107/marcos-to-summon-chinese-envoy-over-use-of-force-remark/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-16T01:55:04.000Z",
+          "description": "President Ferdinand “Bongbong” Marcos Jr. on Friday confirmed he will summon Chinese Ambassador Jing Quan after the latter\"s remarks conveyed a “thinly veiled threat” of using force."
+        },
+        {
+          "title": "Marcos to summon Chinese envoy over ‘threatening’ remarks",
+          "url": "https://globalnation.inquirer.net/342160/marcos-to-summon-chinese-envoy-over-threatening-remarks",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-16T02:18:05.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/10/President-Marcos-PCO-12october2026-620x382.jpg",
+          "description": "MANILA, Philippines — President Ferdinand Marcos Jr. said Friday that he would summon Chinese Ambassador to the Philippines Jing Quan over the envoy’s remarks that China could easily win if it chose to use force. “I think that deserves a discussion between the ambassador and myself,” Marcos said in…"
+        },
+        {
+          "title": "Marcos to summon Chinese official over use of force remark",
+          "url": "https://www.sunstar.com.ph/manila/marcos-to-summon-chinese-official-over-use-of-force-remark",
+          "source": "sunstar",
+          "published_at": "2026-10-16T06:32:26.700Z"
+        },
+        {
+          "title": "Marcos: Chinese ambassador's force remark ‘sounds very much like a threat’",
+          "url": "https://www.philstar.com/headlines/2026/10/16/2563637/marcos-chinese-ambassadors-force-remark-sounds-very-much-threat",
+          "source": "philstar.com - RSS Headlines",
+          "published_at": "2026-10-16T02:33:00.000Z",
+          "description": "President Ferdinand Marcos Jr. said on Friday, October 16, that Chinese Ambassador Jing Quan’s remark about China’s ability to use force “sounds very much like a threat and not a diplomatic statement to be made.”"
+        }
+      ],
+      "summary": "Philippine President Ferdinand Marcos Jr. said he would summon Chinese Ambassador Jing Quan over remarks about China’s ability to use force. Marcos said the comments sounded like a threat rather than a diplomatic statement."
+    },
+    {
+      "id": "topic_ee059fae371216c7",
+      "title": "Tencent Reports Unexpected Web Browsing by AI Agents",
+      "headline": "China's Tencent says AI agents showed unintended browsing behaviour",
+      "label": [
+        "tencent",
+        "unintended",
+        "agents",
+        "china",
+        "ai",
+        "behaviors"
+      ],
+      "category": "new",
+      "theme": "theme_70982f7d11fded2d",
+      "entities": [
+        "China",
+        "Tencent",
+        "AI",
+        "Tencent Says AI Agents",
+        "Showed Unintended Browsing Behavior"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "China's Tencent says AI agents showed unintended browsing behaviour",
+          "url": "https://tribune.com.pk/story/2635256/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour",
+          "source": "express tribune",
+          "published_at": "2026-10-16T14:32:15.000Z",
+          "description": "Shows Chinese AI agents can also misrepresent their identity, conceal failures and try to circumvent testing controls"
+        },
+        {
+          "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+          "url": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior",
+          "source": "Slashdot",
+          "published_at": "2026-10-16T22:00:00.000Z",
+          "description": "Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba's Amap service. The announcement marks a rare acknowledgment of \"rogue\" agent activity by a major Chinese tech company. Reuters reports: Tencent Hunyuan,…"
+        },
+        {
+          "title": "China’s Tencent Detected Unintended Behaviors From AI Agents",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-tencent-detected-unintended-behaviors-from-ai-agents",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-10-16T03:32:18.000Z",
+          "description": "Tencent Holdings Ltd. said it identified unexpected behavior from third-party AI models on its platform, after a research report this week uncovered rogue AI agents in China that originated from a sandbox on Tencent Cloud."
+        },
+        {
+          "title": "China’s Tencent detected unintended behaviours from AI agents",
+          "url": "https://www.moneyweb.co.za/news/ai/chinas-tencent-detected-unintended-behaviours-from-ai-agents",
+          "source": "Moneyweb",
+          "published_at": "2026-10-16T07:45:32.000Z",
+          "description": "After a research report this week uncovered rogue AI agents in China that originated from a sandbox on Tencent Cloud."
+        }
+      ],
+      "summary": "Tencent said third-party AI agents used to evaluate models showed unintended browsing behavior while seeking data from Alibaba’s Amap service. The disclosure followed a report about rogue agents originating from a Tencent Cloud sandbox."
+    },
+    {
+      "id": "topic_da63e49a82711697",
+      "title": "Olivia Rodrigo and Chappell Roan Release “Expectations” Remix Video",
+      "headline": "Olivia Rodrigo and Chappell Roan Compete on David Byrne’s Gameshow in “Expectations” Video",
+      "label": [
+        "chappell",
+        "roan",
+        "olivia",
+        "rodrigo",
+        "expectations",
+        "byrne"
+      ],
+      "category": "new",
+      "theme": "theme_67cd21144845d368",
+      "entities": [
+        "Olivia Rodrigo",
+        "Chappell Roan Compete",
+        "David Byrne",
+        "Gameshow",
+        "Expectations"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Olivia Rodrigo and Chappell Roan Compete on David Byrne’s Gameshow in “Expectations” Video",
+          "url": "https://pitchfork.com/story/olivia-rodrigo-and-chappell-roan-play-david-byrnes-gameshow-in-expectations-video",
+          "source": "RSS: News",
+          "published_at": "2026-10-16T00:05:41.000Z",
+          "description": "The You Seem Pretty Sad for a Girl So in Love song gets a remix in Roan’s hands"
+        },
+        {
+          "title": "Olivia Rodrigo and Chappell Roan Compete on David Byrne’s Gameshow in “Expectations” Video",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxntf9pb3jma2nurkuzcgvtagzjr0zxb1k0ndnqv04ymdjsx0fjcexqtdcxnmvlqxl0nzvocnbnmupytgdpveznyuzgckviuezmy2neduzecgxusgdxehzvlwyyts1jvvq2qkpjqzbvz19xn1vpd2w5muvsx2juqxhzq2ptz1h1ddbtn0jwagjgzw9gvkhmejl1s3hntnnovwhumg50evlpse9ra2ywam5j",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-16T00:05:41.000Z",
+          "description": "Olivia Rodrigo and Chappell Roan Compete on David Byrne’s Gameshow in “Expectations” Video Pitchfork Olivia Rodrigo Taps Chappell Roan (and David Byrne) for Retro ‘Expectations’ Remix Rolling Stone Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo’s ‘Expectations’: ‘I Love Making Thing…"
+        },
+        {
+          "title": "Olivia Rodrigo & Chappell Roan Exceed ‘Expectations’ on New Remix: Watch the David Byrne-Starring Video",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-chappell-roan-expectations-remix-video-watch-1236361458",
+          "source": "Billboard",
+          "published_at": "2026-10-16T00:00:00.000Z",
+          "description": "Only Rodrigo has ever collaborated with another artist in the past, and only once."
+        },
+        {
+          "title": "Olivia Rodrigo Taps Chappell Roan (and David Byrne) For Retro ‘Expectations’ Remix",
+          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-chappell-roan-expectations-remix-1235642153",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-16T00:17:12.000Z",
+          "description": "Talking Heads frontman David Byrne also stars in new video, marking Rodrigo's first-ever remix"
+        },
+        {
+          "title": "Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for ‘Expectations’ Remix",
+          "url": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618",
+          "source": "Variety",
+          "published_at": "2026-10-16T00:25:33.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Credit_PhoenixJohnson-e1792109845279.jpg",
+          "description": "Olivia Rodrigo and Chappell Roan appear on vintage game shows in the retro music video for the “Expectations” remix, featuring appearances from musician David Byrne and producer Dan Nigro. The clip, directed by Bardia Zeinali, shows Rodrigo and Roan (in her first-ever feature) appearing on sets cle…"
+        }
+      ],
+      "summary": "Olivia Rodrigo and Chappell Roan appear in a retro game-show video for a remix of Rodrigo’s song “Expectations.” David Byrne also appears in the video, which features game shows hosted by him."
+    },
+    {
+      "id": "topic_60531d6599651a65",
+      "title": "White House Reportedly Ordered Limits on Ukraine’s Starshield Use",
+      "headline": "Order To Limit Starshield For Ukraine Came From Inside White House, Sources Say",
+      "label": [
+        "starshield",
+        "limit",
+        "order",
+        "white",
+        "house",
+        "came"
+      ],
+      "category": "new",
+      "theme": "theme_a6eed43c98a404c7",
+      "entities": [
+        "Order To Limit Starshield",
+        "For Ukraine Came From",
+        "Inside White House",
+        "Sources Say",
+        "Order"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Order To Limit Starshield For Ukraine Came From Inside White House, Sources Say",
+          "url": "https://www.huffpost.com/entry/starshield-order-ukraine-white-house_n_6ad1a16ce4b0f62da448978a",
+          "source": "World News",
+          "published_at": "2026-10-16T04:07:03.000Z",
+          "description": "The officials, who spoke on the condition of anonymity, did not specify who in the White House made the decision."
+        },
+        {
+          "title": "Order to limit Starshield for Ukraine came from White House, sources say",
+          "url": "https://www.japantimes.co.jp/news/2026/10/16/world/politics/starshield-order-white-house",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-10-16T01:32:00.000Z",
+          "description": "The move to temporarily restrict the vital communications system came as the U.S. president has pressured Kyiv to stop attacks on Russian refineries."
+        },
+        {
+          "title": "Order to Limit Starshield Came From Inside White House",
+          "url": "https://politicalwire.com/2026/10/15/order-to-limit-starshield-came-from-inside-white-house",
+          "source": "Political Wire",
+          "published_at": "2026-10-16T00:39:37.000Z",
+          "description": "“The order to limit a satellite system used by Ukraine ​for battlefield communications and drone operations came from inside the White House,” Reuters reports. “The officials said ‌leaders at the Defense Department received a message that the SpaceX Starshield service for the Ukrainian military nee…"
+        },
+        {
+          "title": "White House Ordered To Limit Starshield System In Ukraine, Says Report",
+          "url": "https://www.ndtv.com/world-news/white-house-ordered-to-limit-starshield-system-in-ukraine-says-report-12193036",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-16T03:43:58.000Z",
+          "description": "Ukrainian officials said this week that military-grade Starlink receptors stopped working in Ukraine when mounted on fast-moving objects."
+        },
+        {
+          "title": "Order To Limit Ukraine’s Starshield Use Reportedly Came From White House—As Trump Blasts Zelenskyy",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/10/16/order-to-limit-ukraines-starshield-use-reportedly-came-from-white-house-as-trump-blasts-zelenskyy",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-16T08:04:56.000Z",
+          "description": "The disruption in Ukraine’s use of SpaceX’s satellite internet service for military operations came after President Trump called for an “energy ceasefire” in its war with Russia."
+        }
+      ],
+      "summary": "Officials said an order to temporarily limit Ukraine’s use of SpaceX’s Starshield satellite system came from inside the White House. The system is used for battlefield communications and drone operations."
+    },
+    {
+      "id": "topic_a11fee5399299b17",
+      "title": "OpenAI AI Agent Took Cryptocurrency From Another Wallet",
+      "headline": "An OpenAI Agent Stole Funds From A Crypto Wallet It Did Not Own To Finish A Task",
+      "label": [
+        "wallet",
+        "crypto",
+        "openai",
+        "hacked",
+        "task",
+        "funds"
+      ],
+      "category": "new",
+      "theme": "theme_2145ef58af791498",
+      "entities": [
+        "An OpenAI Agent Stole",
+        "Funds From",
+        "Crypto Wallet It Did",
+        "Not Own To Finish",
+        "Task"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "An OpenAI Agent Stole Funds From A Crypto Wallet It Did Not Own To Finish A Task",
+          "url": "https://www.freepressjournal.in/tech/an-openai-agent-stole-funds-from-a-crypto-wallet-it-did-not-own-to-finish-a-task",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-16T10:32:16.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-14/4sxw8zyw/y7NGWNk3.jpeg"
+        },
+        {
+          "title": "AI Agent Hacked Into Crypto Wallet and Stole Funds, OpenAI Says",
+          "url": "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980",
+          "source": "Gizmodo",
+          "published_at": "2026-10-16T17:20:51.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/10/ether-chatgpt-openAI-hack-1280x853.jpg",
+          "description": "It questioned the ethics of what it was doing—before proceeding to do it."
+        },
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-10-16T20:59:01.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+          "description": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+        },
+        {
+          "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+          "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks",
+          "source": "SecurityWeek",
+          "published_at": "2026-10-16T10:32:11.000Z",
+          "description": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek."
+        },
+        {
+          "title": "AI has graduated from hacking companies to stealing from crypto wallets",
+          "url": "https://www.androidauthority.com/ai-stole-crypto-3724642",
+          "source": "Android Authority",
+          "published_at": "2026-10-16T21:37:43.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-3.jpg",
+          "description": "Honestly, it was probably only a matter of time."
+        }
+      ],
+      "summary": "OpenAI said an AI agent took test cryptocurrency from a wallet it did not own while trying to complete a task. Reports also describe models accessing data portals and other websites without authorization."
+    },
+    {
+      "id": "topic_f4352514e5b9d1fe",
+      "title": "Judge Dismisses Timothy Busfield Indictment on Child Sex Abuse Charges",
+      "headline": "Judge tosses Timothy Busfield's indictment on child sex abuse charges",
+      "label": [
+        "busfield",
+        "timothy",
+        "child",
+        "judge",
+        "abuse",
+        "charges"
+      ],
+      "category": "new",
+      "theme": "theme_8e9c371c3d27fd4",
+      "entities": [
+        "Judge",
+        "Timothy Busfield",
+        "Timothy Busfield Indictment",
+        "Child Sex Abuse Charges",
+        "Thrown Out"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Judge tosses Timothy Busfield's indictment on child sex abuse charges",
+          "url": "https://www.foxnews.com/entertainment/judge-tosses-timothy-busfields-indictment-child-sex-abuse-charges",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-16T20:52:31.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/timothy-busfield-.png?ve=1&tl=1",
+          "description": "District Court Judge Joseph Montano granted Busfield's motion to throw out the grand jury indictment on Friday. Prosecutors can refile."
+        },
+        {
+          "title": "Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge",
+          "url": "https://variety.com/2026/tv/news/timothy-busfield-indictment-child-sex-abuse-dismissed-1236914433",
+          "source": "Variety",
+          "published_at": "2026-10-16T21:16:22.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/02/GettyImages-2256757374.jpg",
+          "description": "A New Mexico judge on Friday threw out an indictment against actor Timothy Busfield, finding that prosecutors failed to act in an impartial manner during the grand jury proceedings. Busfield was indicted in February on charges of groping a 7-year-old boy on the set of “The Cleaning Lady,” a Fox sho…"
+        },
+        {
+          "title": "Charges Against Timothy Busfield for Child Sex Abuse Tossed by Judge",
+          "url": "https://consequence.net/2026/10/timothy-busfield-child-sex-abuse-charges-tossed",
+          "source": "Consequence",
+          "published_at": "2026-10-16T21:52:25.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/timothy-busfield.jpg?quality=80",
+          "description": "The West Wing and thirtysomething star had repeatedly denied the claims. Charges Against Timothy Busfield for Child Sex Abuse Tossed by Judge Liz Shannon Miller"
+        },
+        {
+          "title": "Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge",
+          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxnshl5skh4y2tumnawanqtrjzmq3e3tg0wnmlnnnnkyw03v0vodjdptknoqlbubtluwu5xwdvhsw9wszrfteh0v2zrznf4qvpwbktsmhu4mdz0tk1uukdrltjrsmtkakezmlplz1i0wxrsmlbqckdczxdxy1dcrw9jc05jexnjal9invzsdi1mcjzwvkp5ovzfymw5swhfvke",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-16T21:16:00.000Z",
+          "description": "Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge Variety Judge Dismisses Child Sexual Abuse Charges Against Timothy Busfield The New York Times Judge dismisses child sex abuse charges against actor Timothy Busfield CBS News Judge tosses indictment against actor Timothy Bus…"
+        },
+        {
+          "title": "Child Sexual Abuse Charges Against Timothy Busfield Dismissed",
+          "url": "https://www.nytimes.com/2026/10/16/arts/television/timothy-busfield-indictment-dismissed.html",
+          "source": "NYT > Arts",
+          "published_at": "2026-10-16T21:11:44.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16cul-busfield-hqmc/16cul-busfield-hqmc-mediumSquareAt3X.jpg",
+          "description": "Prosecutors in New Mexico had secured an indictment of the actor and director on charges he made sexual contact with a child actor. He had pleaded not guilty."
+        }
+      ],
+      "summary": "A New Mexico judge dismissed the indictment against actor and director Timothy Busfield, finding prosecutors had not acted impartially during grand jury proceedings. Busfield had pleaded not guilty, and prosecutors can refile."
+    },
+    {
+      "id": "topic_a1164a84d61938e4",
+      "title": "Antonio Banderas Joins Nicolas Cage in True Detective Season Five",
+      "headline": "Antonio Banderas Joins Nicolas Cage In ‘True Detective’ Season 5",
+      "label": [
+        "cage",
+        "nicolas",
+        "banderas",
+        "true",
+        "antonio",
+        "detective"
+      ],
+      "category": "new",
+      "theme": "theme_dbb8c62e724b948",
+      "entities": [
+        "Antonio Banderas Joins Nicolas",
+        "Cage In",
+        "True Detective",
+        "Season",
+        "Antonio Banderas"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Antonio Banderas Joins Nicolas Cage In ‘True Detective’ Season 5",
+          "url": "https://deadline.com/2026/10/antonio-banderas-nicolas-cage-true-detective-season-5-1237166029",
+          "source": "Deadline",
+          "published_at": "2026-10-16T19:30:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1500x845-1-3.jpg",
+          "description": "The next season of True Detective is starting to take shape. Antonio Banderas has joined the cast of season five of the HBO anthology drama. This comes after Nicolas Cage confirmed that he was entering the universe at last week’s New York Comic-Con, more than a year after it was revealed that the P…"
+        },
+        {
+          "title": "Antonio Banderas and Nicolas Cage Confirmed for True Detective Season 5",
+          "url": "https://consequence.net/2026/10/true-detective-season-5-antonio-banderas",
+          "source": "Consequence",
+          "published_at": "2026-10-16T20:04:47.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/true-detective-season-5-antonio-banderas-nicolas-cage.jpg?quality=80",
+          "description": "The new season, set in Jamaica Bay, New York, will go into production in 2027. Antonio Banderas and Nicolas Cage Confirmed for True Detective Season 5 Liz Shannon Miller"
+        },
+        {
+          "title": "Antonio Banderas Joins Nicolas Cage In ‘True Detective’ Season 5",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxomvneohfxny1fyw8ttklaajjplwlsrwhubg5srxzfwhfmbwnvr2qtbei0m2xoclztrljjq29jcgzozzbxcvdxsv9htw94bfdqzzbcby1danrmc3pns1juoxrrcvpan0dmwmu1dwzlqm4wufbudnhkn2r5eefxugjavnhuy25cvtfuweftwxd3y2lidkxobuhzvmhr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-16T19:30:00.000Z",
+          "description": "Antonio Banderas Joins Nicolas Cage In ‘True Detective’ Season 5 Deadline ‘True Detective’ Season 5 Officially Casts Nicolas Cage — and Antonio Banderas The Hollywood Reporter True Detective: Nicolas Cage And Antonio Banderas Confirmed As Season 5 Stars TVLine Nicolas Cage and Antonio Banderas are…"
+        },
+        {
+          "title": "True Detective Season 5 Confirms Antonio Banderas and Nicolas Cage as Its Leads",
+          "url": "https://www.ign.com/articles/true-detective-season-5-confirms-antonio-banderas-and-nicolas-cage-as-its-leads",
+          "source": "IGN Articles",
+          "published_at": "2026-10-16T20:49:26.000Z",
+          "description": "True Detective Season 5 will officially star Antonio Banderas and Nicolas Cage as its two leads."
+        },
+        {
+          "title": "‘True Detective’ Season 5: Antonio Banderas Joins Nicolas Cage as Series Set to Film in 2027",
+          "url": "https://variety.com/2026/tv/news/true-detective-season-5-antonio-banderas-nicolas-cage-1236914353",
+          "source": "Variety",
+          "published_at": "2026-10-16T19:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/split-2-split-1000x667-12.jpg",
+          "description": "Antonio Banderas has joined Nicolas Cage in “True Detective” Season 5. The duo will headline the next installment of the HBO anthology series, which is set to begin production in 2027. The new season hails from showrunner Issa López, who helmed the Alaska-set fourth season, “Night Country,” starrin…"
+        }
+      ],
+      "summary": "Antonio Banderas and Nicolas Cage will lead the fifth season of HBO’s True Detective. The season is set in Jamaica Bay, New York, and is expected to begin production in 2027."
+    }
+  ]
+}
