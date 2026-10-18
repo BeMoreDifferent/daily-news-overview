@@ -1,0 +1,853 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-18T00:46:36.031Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A fire at a seaside resort in Bangladesh’s Cox’s Bazar killed at least 10 people and injured nine others; children were among the dead.",
+        "stories": [
+          7
+        ]
+      },
+      {
+        "text": "Hundreds of thousands protested rising living costs and school conditions across France, where clashes, fires and looting were reported and police used tear gas in Paris.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "President Donald Trump signed a waiver suspending new sanctions approved by Congress, citing U.S. national interests; Ukrainian President Volodymyr Zelenskyy called the decision unfortunate.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "A Mexican judge sentenced three men to 158 years in prison each for the 2024 murders of two Australian brothers and their American friend.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "A crowd surge at a Durga Puja pandal in north Kolkata injured at least 25 people, with reports varying on the toll and whether deaths occurred.",
+        "stories": [
+          11
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_dd0085e941612904",
+      "title": "Trump Puts New Russia Sanctions on Hold",
+      "headline": "Trump puts new Russia sanctions passed by Congress on hold",
+      "label": [
+        "sanctions",
+        "russia",
+        "hold",
+        "puts",
+        "trump",
+        "congress"
+      ],
+      "category": "new",
+      "theme": "theme_bf37f549f6ffd1e1",
+      "entities": [
+        "Trump",
+        "Russia",
+        "Congress",
+        "US",
+        "AP News"
+      ],
+      "article_count": 24,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "Trump puts new Russia sanctions passed by Congress on hold",
+          "url": "https://www.brisbanetimes.com.au/world/north-america/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-20261017-p616df.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-17T02:56:26.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1348%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_73/t_crop_custom/q_86%2Cf_auto/c9ce4b5be0f7fbd018ee0a696bdff98cf342b6c0",
+          "description": "Trump’s unexpected move comes a week after he stunningly said the US had agreed to purchase diesel from Russia to try to bring down global energy prices."
+        },
+        {
+          "title": "Trump puts new Russia sanctions on hold",
+          "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-17T02:09:00.000Z",
+          "description": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia."
+        },
+        {
+          "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxpznjqrmxjvthxtzvhd0pfz1kwcwtlm0z1swuxnvbnrdffnzbszmp0tmnfykewai0xsw8xcdnvbxpmru5ru2hozk1dz2fuemtfdgvytlpxn3qwzjv5emvoqlhza0tdq0txm2d1emjrnjjvshfjytkwc0pbc1nyc2vyavvrb2teb0veuw9ka0dhrjm1wer1",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-17T01:53:00.000Z",
+          "description": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+          "url": "https://abcnews.com/international/wirestory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-17T15:30:13.000Z",
+          "image": "https://s.abcnews.com/images/International/wirestory_07e1dfc41bdad7b3292c6c263005fabc_4x3_384.jpg",
+          "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\""
+        },
+        {
+          "title": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest (Associated Press)",
+          "url": "https://www.memeorandum.com/261016/p99",
+          "source": "memeorandum",
+          "published_at": "2026-10-17T02:20:00.000Z",
+          "description": "Associated Press: Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest — President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the…"
+        }
+      ],
+      "summary": "President Donald Trump signed a waiver suspending new sanctions approved by Congress, citing U.S. national interests. Ukrainian President Volodymyr Zelenskyy called the decision unfortunate."
+    },
+    {
+      "id": "topic_4cd38b16e844a357",
+      "title": "Harry Styles Debuts Song Honoring Liam Payne",
+      "headline": "Harry Styles debuts new track in memory of Liam Payne",
+      "label": [
+        "payne",
+        "liam",
+        "styles",
+        "harry",
+        "song",
+        "debuts"
+      ],
+      "category": "new",
+      "theme": "theme_9cfe6a048be27928",
+      "entities": [
+        "Harry Styles",
+        "Liam Payne",
+        "Harry Styles Debuts New",
+        "Song Written",
+        "Second Anniversary"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Harry Styles debuts new track in memory of Liam Payne",
+          "url": "https://www.bbc.co.uk/news/articles/c34g180knv91o",
+          "source": "BBC News",
+          "published_at": "2026-10-17T11:57:19.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a168/live/0fb29030-ca24-11f1-9a39-31b474234113.jpg",
+          "description": "The pop star performed the song on the second anniversary of Liam Payne's death."
+        },
+        {
+          "title": "Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death",
+          "url": "https://consequence.net/2026/10/harry-styles-debuts-new-song-written-for-liam-payne-on-second-anniversary-of-his-death",
+          "source": "Consequence",
+          "published_at": "2026-10-17T15:04:21.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/Harry-Styles.jpeg?quality=80",
+          "description": "Styles introduced “What Is Enough” with a moving tribute to Payne before performing the song at Madison Square Garden. Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death Alex Krinsky"
+        },
+        {
+          "title": "Harry Styles Performs New Song Written for Liam Payne at MSG",
+          "url": "https://www.rollingstone.com/music/music-news/harry-styles-liam-payne-new-song-msg-1235644335",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-17T03:46:48.000Z",
+          "description": "\"So many people who have touched my life in such special ways, I wouldn't be here without,\" Styles told the sold out crowd on Friday"
+        },
+        {
+          "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
+          "url": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307",
+          "source": "Billboard",
+          "published_at": "2026-10-17T05:07:06.000Z",
+          "description": "Styles premiered the unreleased tribute “What Is Enough” on the second anniversary of his former One Direction bandmate’s death."
+        },
+        {
+          "title": "Harry Styles performs new song in memory of former bandmate Liam Payne",
+          "url": "https://www.thejournal.ie/harry-styles-liam-payne-tribute-7196519-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-17T16:32:49.000Z",
+          "description": "Liam Payne died two years ago after falling from a balcony in Argentina."
+        }
+      ],
+      "summary": "Styles performed an unreleased song, “What Is Enough,” in memory of his former One Direction bandmate Liam Payne on the second anniversary of Payne’s death."
+    },
+    {
+      "id": "topic_bf6fa8406d9579",
+      "title": "Clashes Erupt During Nationwide Protests in France",
+      "headline": "Clashes, fires and looting break out as protesters rally across France, joining students",
+      "label": [
+        "protesters",
+        "rally",
+        "across",
+        "france",
+        "joining",
+        "break"
+      ],
+      "category": "new",
+      "theme": "theme_a0a0ffc4ad94a3e3",
+      "entities": [
+        "Clashes",
+        "France",
+        "AP News",
+        "Scuffles",
+        "Protesters"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+          "url": "https://japantoday.com/category/world/protesters-across-france-rally-over-rising-living-costs-joining-students%27-grievances",
+          "source": "Japan Today",
+          "published_at": "2026-10-17T21:17:29.000Z",
+          "description": "Violent clashes, fires and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against rising living costs and poor conditions in schools. About…"
+        },
+        {
+          "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+          "url": "https://news.google.com/rss/articles/cbmimgfbvv95cuxnwmrhbhlmzuhgb2xmvfzxefbmntfodej3u2xmukzmzdhzdgr2atezthrxovriwmx1retwbhpgy2nqqufvsk9pahy3dfrjsuvqzum3luroswlqq3ddnletmnpmqmy3bvjtzejwnv9vd0hdczg4ogv3ugj0qmfwx0xlthpzq2c3me5xce9pn3zidl9tv0xesxy5aw9r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-17T19:59:00.000Z",
+          "description": "Clashes, fires and looting break out as protesters rally across France, joining students AP News Half a million protesters sweep France in major show of youth unrest CNN Hundreds of thousands protest across France over schools, cost of living, and fuel prices WJLA Hundreds arrested in France as pol…"
+        },
+        {
+          "title": "Scuffles break out as protesters rally across France, joining students",
+          "url": "https://globalnews.ca/news/12106365/france-student-protests",
+          "source": ": World",
+          "published_at": "2026-10-17T13:13:35.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/France-protests-1-e1792242790862.jpg?quality=65&strip=all",
+          "description": "Police used tear gas to push back people wearing hoods and masks and throwing fireworks at officers in the Place de la République, northeast of the Paris city center."
+        },
+        {
+          "title": "Scuffles and fires break out as protesters rally across France, joining students",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-17T15:57:40.000Z",
+          "description": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens."
+        },
+        {
+          "title": "Clashes, fires and looting break out as protesters rally across France",
+          "url": "https://www.smh.com.au/world/clashes-fires-and-looting-break-out-as-protesters-rally-across-france-20261018-p616fc.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-17T20:59:00.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c7e48af6d3d32d338bcfd8faa24a07c8637b8040",
+          "description": "Violent clashes, fires and looting marred demonstrations in France as hundreds of thousands of people marched against rising living costs and school conditions."
+        }
+      ],
+      "summary": "Hundreds of thousands of people demonstrated across France against rising living costs and conditions in schools. Clashes, fires and looting were reported, and police used tear gas in Paris."
+    },
+    {
+      "id": "topic_e1b968fb204d934",
+      "title": "Three Men Sentenced for Murders of Surfers in Mexico",
+      "headline": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "label": [
+        "australian",
+        "surfers",
+        "mexican",
+        "sentenced",
+        "men",
+        "years"
+      ],
+      "category": "trending",
+      "theme": "theme_31ffbcd32fdba405",
+      "entities": [
+        "Mexican",
+        "Australian",
+        "US",
+        "Three",
+        "Mexico"
+      ],
+      "article_count": 22,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-10-17T02:52:59.000Z",
+          "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/201_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=63953268ca6673aa7647702fcd6065c4",
+          "description": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email, free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each f…"
+        },
+        {
+          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo",
+          "source": "BBC News",
+          "published_at": "2026-10-17T03:11:10.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+          "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
+        },
+        {
+          "title": "3 Mexican men jailed for over 158 years for Australian, US surfer murders",
+          "url": "https://www.scmp.com/news/world/americas/article/3371227/3-mexican-men-jailed-over-158-years-australian-us-surfer-murders",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-17T03:39:33.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/64bf97c8-066c-4e80-bfd3-320ac44c9008_6f983eeb.jpg?itok=9RaF9oeX&v=1792208369",
+          "description": "A judge has sentenced three Mexican men to more than 158 years in prison each for the 2024 murders of two Australian brothers and their American friend, a case that tarnished Mexico’s image by exposing the risks foreigners face when visiting the tourism-dependent country. Friday’s sentencing, which…"
+        },
+        {
+          "title": "Mexican men sentenced to 158 years in prison for murdering Australian brothers",
+          "url": "https://www.theage.com.au/world/north-america/mexican-men-sentenced-to-158-years-in-prison-for-murder-of-australian-brothers-20261017-p616dl.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-17T02:57:41.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_259/t_crop_custom/q_86%2Cf_auto/588f81f9209b8ee46533529edf5f4ddf8d9ce3c6",
+          "description": "The Robinson brothers’ parents attended every day of the trial and were present last week when the men were found guilty."
+        },
+        {
+          "title": "Mexican Killers of U.S. and Australian Surfers Sentenced to 158 Years",
+          "url": "https://internewscast.com/news/us/mexican-killers-of-u-s-and-australian-surfers-sentenced-to-158-years",
+          "source": "Internewscast",
+          "published_at": "2026-10-17T13:12:35.000Z",
+          "description": "Internewscast Internewscast A Mexican judge on Friday sentenced three men to 158 years and… This Post: Mexican Killers of U.S. and Australian Surfers Sentenced to 158 Years first appeared on Internewscast"
+        }
+      ],
+      "summary": "A Mexican judge sentenced three men to 158 years in prison each for the 2024 murders of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad."
+    },
+    {
+      "id": "topic_9ad85d6e60cc76dd",
+      "title": "Delhi Police Detain Protester, Release Another",
+      "headline": "CEC protest: Abhijeet Dipke under preventive arrest, Neha Bora released",
+      "label": [
+        "dipke",
+        "abhijeet",
+        "released",
+        "bora",
+        "preventive",
+        "neha"
+      ],
+      "category": "new",
+      "theme": "theme_428f406e8ef79b7e",
+      "entities": [
+        "CEC",
+        "Abhijeet Dipke",
+        "Neha Bora",
+        "SEM",
+        "Delhi Police"
+      ],
+      "article_count": 13,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "CEC protest: Abhijeet Dipke under preventive arrest, Neha Bora released",
+          "url": "https://scroll.in/latest/1096457/cec-protest-abhijeet-dipke-under-preventive-arrest-neha-bora-released",
+          "source": "Scroll.in",
+          "published_at": "2026-10-17T01:57:06.000Z",
+          "description": "Dipke and Bora had been detained on Friday in connection with separate demonstrations in central Delhi."
+        },
+        {
+          "title": "Neha Bora released, Abhijeet Dipke to be produced before SEM court: Delhi Police",
+          "url": "https://www.thehindu.com/news/national/neha-bora-released-abhijeet-dipke-to-be-produced-before-sem-court-delhi-police/article71595229.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-17T01:37:16.000Z",
+          "description": "Both were taken into preventive custody ahead of the 'Lehra Do Tiranga' protest march at Connaught Place in New Delhi on Oct. 16"
+        },
+        {
+          "title": "CJP's Abhijeet Dipke Under Preventive Arrest, AISA Chief Neha Bora Released Over Protests In Delhi",
+          "url": "https://www.ndtv.com/india-news/cjps-abhijeet-dipke-under-preventive-arrest-aisa-chief-neha-bora-released-over-protests-in-delhi-12197504",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-17T01:43:25.000Z",
+          "description": "AISA chief Neha Bohra was released after the authorities completed the required detention formalities under Section 65 of the Delhi Police Act."
+        },
+        {
+          "title": "Delhi Protest: AISA Chief Neha Bora Released, CJP Founder Abhijeet Dipke To Appear Before SEM Court | Video",
+          "url": "https://www.freepressjournal.in/india/delhi-protest-aisa-chief-neha-bora-released-cjp-founder-abhijeet-dipke-to-appear-before-sem-court-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-17T02:48:40.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-17/44jwjput/Untitled-design-2026-10-17T081819.902.jpg"
+        },
+        {
+          "title": "CJP's Dipke under preventive arrest for breach of peace bond, Neha Bora released",
+          "url": "https://www.indiatoday.in/india/story/cjps-dipke-under-preventive-arrest-for-breach-of-peace-bond-neha-bora-released-3019362-2026-10-17",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-17T00:38:36.000Z",
+          "description": "CJPs Dipke under preventive arrest for breach of peace bond Neha Bora released"
+        }
+      ],
+      "summary": "Abhijeet Dipke was placed under preventive arrest, while AISA chief Neha Bora was released. The two had been detained ahead of a protest march in central Delhi."
+    },
+    {
+      "id": "topic_6dc7d075fd388c46",
+      "title": "Ohio State Ends Indiana’s 22-Game Winning Streak",
+      "headline": "Week 7 live: Ohio State-Indiana, injury updates and more",
+      "label": [
+        "ohio",
+        "indiana",
+        "state",
+        "game",
+        "vs",
+        "football"
+      ],
+      "category": "new",
+      "theme": "theme_3afcba3289fb083d",
+      "entities": [
+        "Week",
+        "Ohio State",
+        "Indiana",
+        "Ohio State QB Julian",
+        "Sayin"
+      ],
+      "article_count": 28,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Week 7 live: Ohio State-Indiana, injury updates and more",
+          "url": "https://www.espn.com/college-football/story/_/id/50197419/week-7-live-highlights",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-10-17T17:09:23.000Z",
+          "description": "null"
+        },
+        {
+          "title": "Ohio State vs. Indiana live score, updates, highlights from 2026 college football game",
+          "url": "https://sports.yahoo.com/articles/ohio-state-vs-indiana-live-133002939.html",
+          "published_at": "2026-10-17T13:30:02.000Z",
+          "description": "The Sporting News is tracking live updates from Ohio State's clash with Indiana."
+        },
+        {
+          "title": "Ohio State vs. Indiana odds, picks, predictions, line: Betting preview for college football Week 7 on Saturday",
+          "url": "https://www.cbssports.com/betting/news/ohio-state-vs-indiana-odds-picks-predictions-line-betting-preview-college-football-week-7-saturday",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-10-17T12:38:00.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/10/07/541f9269-69f3-4183-917d-c4fa4b0389e5/jeremiah-smith-ohio-state.jpg",
+          "description": "Indiana hosts Ohio State on Saturday for a Week 7 college football matchup"
+        },
+        {
+          "title": "Ohio State shatters Indiana’s 22-game winning streak, but questions linger about Julian Sayin's health",
+          "url": "https://www.foxnews.com/outkick-sports/ohio-state-shatters-indianas-22-game-winning-streak-questions-linger-julian-sayins-health",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-17T21:57:58.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/RyanDay5.jpg?ve=1&tl=1",
+          "description": "Ohio State's Jeremiah Smith scored the game-winning touchdown after admitting he ran the wrong route, ending Indiana's 22-game winning streak."
+        },
+        {
+          "title": "Ohio State-Indiana live and the best plays and top moments from Week 7",
+          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxpujcyogtjmwnrcwpby0dqnkc0ctrzrdvmoeetevprv0jfc2zsnlrqx002s29kohrocu1qb2ywrtvtq1hvderubkxfm2fcc3oxnjviwmp1otlhckzjznlbyvvccxvpzlvyx0ljltfny3zvzejkoufiyvbhenrjtnbxlwg5zen6b0e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-17T20:02:00.000Z",
+          "description": "Ohio State-Indiana live and the best plays and top moments from Week 7 ESPN 2026 College Football Week 7 Expert Picks: Can BYU Keep Up With Notre Dame? FOX Sports College football Week 7: Live updates, schedule, scores, rankings NCAA.com College football Week 7 top 10 games: Ohio State-Indiana, Not…"
+        }
+      ],
+      "summary": "Ohio State defeated Indiana in a Week 7 college football game, ending Indiana’s 22-game winning streak. Jeremiah Smith scored the game-winning touchdown."
+    },
+    {
+      "id": "topic_4af619df99cfa414",
+      "title": "Fire at Bangladesh Beach Resort Kills at Least 10",
+      "headline": "Bangladesh tourist resort fire kills 10",
+      "label": [
+        "bangladesh",
+        "resort",
+        "fire",
+        "killed",
+        "beach",
+        "tourist"
+      ],
+      "category": "new",
+      "theme": "theme_96ab357a71be190",
+      "entities": [
+        "Bangladesh",
+        "Children Among",
+        "Killed In Bangladesh Beach",
+        "Resort Fire",
+        "Ten"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Bangladesh tourist resort fire kills 10",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371264/bangladesh-tourist-resort-fire-kills-10",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-17T11:18:20.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/acfbbbc6-ee7f-4de7-8555-8dd517e7dffc_25ce2e88.jpg?itok=p7IGGNFW&v=1792235895",
+          "description": "At least 10 tourists have been killed in a fire at a seaside resort in the southeastern Bangladeshi district of Cox’s Bazar, the country’s largest travel destination, officials said on Saturday. Dolon Acharya, an officer at the Fire Service and Civil Defence department, said the fire broke out in t…"
+        },
+        {
+          "title": "Bangladesh resort fire kills at least 10, injures 9 others",
+          "url": "https://tribune.com.pk/story/2635358/bangladesh-resort-fire-kills-at-least-10-injures-9-others",
+          "source": "express tribune",
+          "published_at": "2026-10-17T04:10:09.000Z",
+          "description": "Fire erupts at a resort in Cox’s Bazar, tourist hub in southeastern Bangladesh, fire service confirms"
+        },
+        {
+          "title": "Children Among 10 Killed In Bangladesh Beach Resort Fire",
+          "url": "https://www.ndtv.com/world-news/bangladesh-beach-resort-fire-news-children-among-10-killed-in-bangladesh-beach-resort-fire-12198823",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-17T09:39:00.000Z",
+          "description": "The blaze erupted in the morning and quickly spread through the three-story wooden resort, he said. Children were among the dead"
+        },
+        {
+          "title": "10 killed, including 6 of a family, in Bangladesh seaside resort fire",
+          "url": "https://www.indiatoday.in/world/story/coxs-bazar-resort-bangladesh-fire-kills-10-after-fire-safety-warning-3019661-2026-10-17",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-17T12:14:08.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/asifmahmud36-175753262-16x9_0.jpg?VersionId=aQkAiNxmL1fjARbuJAUs7AqPTXkZVyyM",
+          "description": "killed including of a family in Bangladesh seaside resort fire"
+        },
+        {
+          "title": "Ten killed in fire at beach resort in Bangladesh",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-17T20:50:01.000Z",
+          "description": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh."
+        }
+      ],
+      "summary": "A fire at a seaside resort in Cox’s Bazar, Bangladesh, killed at least 10 people and injured nine others. Children were among the dead, and six victims were reported to be members of one family."
+    },
+    {
+      "id": "topic_c9ff908aeb714963",
+      "title": "Champions Cup Matches Open Across Europe and South Africa",
+      "headline": "LIVE: Munster v Racing 92, Champions Cup",
+      "label": [
+        "champions",
+        "cup",
+        "munster",
+        "racing",
+        "stormers",
+        "bristol"
+      ],
+      "category": "new",
+      "theme": "theme_9176f68469e2430e",
+      "entities": [
+        "Munster",
+        "Racing",
+        "Champions Cup",
+        "LIVE SCORING",
+        "Stormers"
+      ],
+      "article_count": 13,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "LIVE: Munster v Racing 92, Champions Cup",
+          "url": "https://www.the42.ie/munster-v-racing-liveblog-7196704-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-17T18:16:34.000Z",
+          "description": "The action at Páirc UÍ Chaoimh will begin at 8pm."
+        },
+        {
+          "title": "LIVE SCORING | Champions Cup: Stormers v Bristol Bears",
+          "url": "https://www.thesouthafrican.com/sport/rugby/live-scoring-champions-cup-stormers-bristol-bears",
+          "source": "The South African",
+          "published_at": "2026-10-17T05:30:00.000Z",
+          "description": "Keep an eye on the live scoring as the Stormers tackle the Bristol Bears in a Champions Cup clash in Cape Town."
+        },
+        {
+          "title": "Munster v Racing 92, Champions Cup, live minute-by-minute updates",
+          "url": "https://www.irishexaminer.com/sport/rugby/arid-41925169.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-10-17T18:30:00.000Z",
+          "description": "The southern province host the Top 14 outfit at Páirc Uí Chaoimh on Saturday evening"
+        },
+        {
+          "title": "Bristol beaten by Stormers in Champions Cup opener",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0mz64j16o",
+          "source": "BBC Sport",
+          "published_at": "2026-10-17T16:44:10.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecce/live/7a0894e0-ca3b-11f1-9ab2-b325ce61f9d2.jpg",
+          "description": "Bristol Bears lose their Champions Cup pool-stage opener against Stormers, with Jonathan Roche and Leolin Zas both scoring twice for the South African side."
+        },
+        {
+          "title": "Tributes to Andrews before Champions Cup matches",
+          "url": "https://sports.yahoo.com/articles/tributes-andrews-champions-cup-matches-191224791.html",
+          "published_at": "2026-10-17T19:30:02.000Z",
+          "description": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31."
+        }
+      ],
+      "summary": "Munster faced Racing 92 in Ireland, while the Stormers hosted Bristol Bears in Cape Town. Bristol lost its pool-stage opener to the Stormers."
+    },
+    {
+      "id": "topic_a78b86f069318b04",
+      "title": "Daniel Dubois and Fabio Wardley Meet in WBO Title Fight",
+      "headline": "Daniel Dubois vs. Fabio Wardley LIVE: Latest updates, results and analysis",
+      "label": [
+        "wardley",
+        "dubois",
+        "fabio",
+        "daniel",
+        "round",
+        "vs"
+      ],
+      "category": "new",
+      "theme": "theme_80d34d233e8114e6",
+      "entities": [
+        "Daniel Dubois",
+        "Fabio Wardley LIVE",
+        "Fabio Wardley",
+        "Results",
+        "Boxing"
+      ],
+      "article_count": 12,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Daniel Dubois vs. Fabio Wardley LIVE: Latest updates, results and analysis",
+          "url": "https://www.espn.com/boxing/story/_/id/50195087/daniel-dubois-fabio-wardley-live-boxing-latest-updates-results-analysis-news",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-10-17T18:30:19.000Z",
+          "description": "Daniel Dubois and Fabio Wardley face off in arguably the most anticipated rematch of the year, and you can follow all the action live with ESPN."
+        },
+        {
+          "title": "Daniel Dubois vs. Fabio Wardley 2: LIVE round-by-round updates",
+          "url": "https://sports.yahoo.com/articles/daniel-dubois-vs-fabio-wardley-100000873.html",
+          "published_at": "2026-10-17T21:26:07.000Z",
+          "description": "Daniel Dubois, Fabio Wardley clash again in London on Saturday"
+        },
+        {
+          "title": "Daniel Dubois vs Fabio Wardley 2 LIVE: Results, round-by-round updates and reaction",
+          "url": "https://talksport.com/boxing/4650302/daniel-dubois-fabio-wardley-live-blog-updates-reaction",
+          "source": "talkSPORT",
+          "published_at": "2026-10-17T15:38:04.000Z"
+        },
+        {
+          "title": "Daniel Dubois vs. Fabio Wardley LIVE: Boxing latest updates, results and analysis",
+          "url": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxoq2haskjcvtrzzlpkwuzmqs10zg11muhwyvjgbmlnexfvz2lnudbmoxfhoecydkqyqtdvn1npcxhfb0x5y1ppms1xv0vusegtunpmyjrqvmtkvfe5znvymxbsmknomu1pwulfrme3nlr4uvnkvky4zhlkehqzmujwa2xurnpnzepyd3ffykvxm0i5a002uex6tnncrmhyqmtutkjhuxzqnhdstjjxvg9qnvnrmwlmlwjxtfrhn1lyx2nqqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-17T18:48:00.000Z",
+          "description": "Daniel Dubois vs. Fabio Wardley LIVE: Boxing latest updates, results and analysis ESPN Dubois vs Wardley 2 predictions for heavyweight WBO title fight from fighters and pundits BBC Daniel Dubois and Fabio Wardley both career heaviest for heavyweight title rematch | 'Definitely not going the distanc…"
+        },
+        {
+          "title": "Daniel Dubois vs. Fabio Wardley 2: Here’s Where to Watch the WBO Title Boxing Match Live Online",
+          "url": "https://variety.com/2026/shopping/news/how-to-watch-dubois-vs-wardley-2-boxing-live-online-1236909686",
+          "source": "Variety",
+          "published_at": "2026-10-17T15:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Boxing-Daniel-Dubois-vs.-Fabio-Wardley-2-Getty-VR-Featured.jpg",
+          "description": "In a title fight, Queensberry Promotions sets up in England for a prime re-match between two elite boxers. In the main event, English boxer Daniel Dubois defends his WBO heavyweight title belts against English fighter Fabio Wardley. It’s a scheduled for 12 rounds. On Saturday, Oct. 17, Dubois (23-3…"
+        }
+      ],
+      "summary": "Daniel Dubois and Fabio Wardley faced off in a heavyweight rematch in London, with Dubois defending his WBO title. Live coverage reported round-by-round updates and results."
+    },
+    {
+      "id": "topic_95ea5985e83b299a",
+      "title": "Miley Cyrus Honors Dolly Parton at Hollywood Bowl Concert",
+      "headline": "Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert",
+      "label": [
+        "dolly",
+        "parton",
+        "miley",
+        "cyrus",
+        "hollywood",
+        "bowl"
+      ],
+      "category": "new",
+      "theme": "theme_f59f822d8a851466",
+      "entities": [
+        "Miley Cyrus Pays Tribute",
+        "Dolly Parton",
+        "Hollywood Bowl Comeback Concert",
+        "Miley Cyrus Tearfully Remembers",
+        "Dolly Parton At Hollywood"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert",
+          "url": "https://consequence.net/2026/10/miley-cyrus-pays-tribute-to-dolly-parton-at-hollywood-bowl-comeback-concert",
+          "source": "Consequence",
+          "published_at": "2026-10-17T14:25:58.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/Miley-and-Dolly.jpeg?quality=80",
+          "description": "The Hollywood Bowl show marked Cyrus' full public concert in four years. Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert Alex Young"
+        },
+        {
+          "title": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs ‘Jolene’",
+          "url": "https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419",
+          "source": "Deadline",
+          "published_at": "2026-10-17T18:26:36.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-1097571114-e1792261493615.jpg",
+          "description": "Miley Cyrus delivered a teary tribute to her godmother Dolly Parton at the Hollywood Bowl last night, sitting on the edge of the stage and lamenting the fact that she’d only got to see the country music icon perform just once at that very venue. “I only got to see Dolly Parton live in concert […]"
+        },
+        {
+          "title": "Miley Cyrus Honors Godmother Dolly Parton in Powerful Tribute",
+          "url": "https://internewscast.com/news/miley-cyrus-honors-godmother-dolly-parton-in-powerful-tribute",
+          "source": "Internewscast",
+          "published_at": "2026-10-17T06:12:38.000Z",
+          "description": "Internewscast Internewscast Miley Cyrus was overcome with emotion on Friday as she honored her… This Post: Miley Cyrus Honors Godmother Dolly Parton in Powerful Tribute first appeared on Internewscast"
+        },
+        {
+          "title": "Miley Showcases New Era, Remembers ‘Aunt Dolly’ Parton at Hollywood Bowl",
+          "url": "https://www.rollingstone.com/music/music-live-reviews/miley-cyrus-hollywood-bowl-show-concert-2026-1235644375",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-17T17:47:48.000Z",
+          "description": "The singer covers \"Jolene\" and brings out Flaming Lips' Wayne Coyne at her first full concert in nearly four years"
+        },
+        {
+          "title": "Miley Cyrus: Sängerin ehrt Dolly Parton mit bewegender »Jolene«-Hommage",
+          "url": "https://www.spiegel.de/panorama/leute/miley-cyrus-saengerin-ehrt-dolly-parton-mit-bewegender-jolene-hommage-a-83c32169-e6b2-410a-98dd-6d94eed22249",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-10-17T11:08:00.000Z",
+          "description": "Im August starb die US-amerikanische Sängerin Dolly Parton. Nun hat sich Miley Cyrus bei einem Konzert vor ihr verneigt – und erinnerte an einen Abend, als sie selbst in Partons Publikum saß."
+        }
+      ],
+      "summary": "Cyrus paid tribute to her godmother Dolly Parton at the Hollywood Bowl, performing “Jolene.” The concert was her first full public performance in nearly four years."
+    },
+    {
+      "id": "topic_7e6fa04d54182914",
+      "title": "Crowd Surge at Kolkata Durga Puja Pandal Injures Dozens",
+      "headline": "At least 35 injured in stampede-like situation at Kolkata Durga Puja pandal",
+      "label": [
+        "puja",
+        "kolkata",
+        "durga",
+        "stampede",
+        "pandal",
+        "least"
+      ],
+      "category": "new",
+      "theme": "theme_a944264f39906a56",
+      "entities": [
+        "Kolkata Durga Puja",
+        "West Bengal",
+        "At Least",
+        "Injured In Stampede",
+        "Like Situation At North"
+      ],
+      "article_count": 15,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "At least 35 injured in stampede-like situation at Kolkata Durga Puja pandal",
+          "url": "https://timesofindia.indiatimes.com/city/kolkata/at-least-25-injured-in-stampede-like-situation-at-kolkata-durga-puja-pandal/articleshow/135016891.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-17T16:15:50.000Z",
+          "description": "At least 35 individuals sustained injuries during a stampede-like incident at Chorbagan Sarbojanin Durga Puja pandal. The injured victims were quickly transported to Calcutta Medical College for immediate medical attention. Chief Minister Suvendu Adhikari and Chief Secretary Manoj Agarwal arrived a…"
+        },
+        {
+          "title": "Kolkata Durga Puja pandal stampede: 17 feared dead",
+          "url": "https://www.thehindubusinessline.com/news/national/17-dead-in-kolkata-durga-puja-stampede/article71597616.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-17T17:36:43.000Z",
+          "description": "Rain triggered a rush among people waiting outside the Chorbagan pandal, with several falling on the road as the crowd surged forward"
+        },
+        {
+          "title": "At least 35 injured, many feared dead in stampede at Kolkata Durga Puja pandal",
+          "url": "https://www.indiatoday.in/india/story/stampede-like-situation-at-kolkatas-chorbagan-puja-pandal-after-section-collapses-several-injured-3019834-2026-10-17",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-17T15:57:06.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/chorbagan-stampede-172309932-16x9_0.jpg?VersionId=bPhaOaY0lJRQGHvkyAJaAO6kvgi.OROf",
+          "description": "At least injured many feared dead in stampede at Kolkata Durga Puja pandal"
+        },
+        {
+          "title": "West Bengal: At Least 25 Injured In Stampede-Like Situation At North Kolkata Community Durga Puja Pandal | VIDEO",
+          "url": "https://www.freepressjournal.in/india/west-bengal-at-least-25-injured-in-stampede-like-situation-at-north-kolkata-community-durga-puja-pandal-video",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-17T16:51:25.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-17/jdidq074/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-10-17T222051.611.jpg"
+        },
+        {
+          "title": "At least 17 dead in stampede-like situation at north Kolkata community Durga Puja pandal | LIVE",
+          "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-bengal-pandal-collapse-stampede-injured-death-updates-on-october-17-2026/article71597549.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-17T17:32:37.000Z",
+          "description": "West Bengal Chief Minister Suvendu Adhikari said that the stampede broke out after a misleading announcement made at the puja pandal"
+        }
+      ],
+      "summary": "A crowd surge at the Chorbagan Sarbojanin Durga Puja pandal in north Kolkata injured at least 25 people, with some reports putting the number at 35. Reports also said deaths were feared or confirmed."
+    },
+    {
+      "id": "topic_89154d432f536921",
+      "title": "Notre Dame Faces BYU in College Football",
+      "headline": "How to watch Notre Dame vs. BYU online for free",
+      "label": [
+        "dame",
+        "byu",
+        "notre",
+        "vs",
+        "football",
+        "college"
+      ],
+      "category": "new",
+      "theme": "theme_fcd8c6a42de62fb9",
+      "entities": [
+        "Notre Dame",
+        "BYU",
+        "BYU Livestream",
+        "College Football Game Online",
+        "Free"
+      ],
+      "article_count": 10,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "How to watch Notre Dame vs. BYU online for free",
+          "url": "https://mashable.com/entertainment/notre-dame-byu-college-football-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-10-17T09:00:00.000Z",
+          "description": "How to watch college football for free. Live stream Notre Dame vs. BYU in 2026 without cable."
+        },
+        {
+          "title": "Notre Dame vs. BYU Livestream: Where to Watch the College Football Game Online for Free",
+          "url": "https://www.rollingstone.com/product-recommendations/lifestyle/watch-notre-dame-byu-game-online-free-date-time-predictions-1235644149",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-17T17:30:00.000Z",
+          "description": "The No. 2 Fighting Irish and the No. 8 Cougars face off at LaVell Edwards Stadium — here's how to stream the game"
+        },
+        {
+          "title": "Three things I want to see during Notre Dame VS BYU",
+          "url": "https://sports.yahoo.com/articles/three-things-want-see-during-031944597.html",
+          "published_at": "2026-10-17T03:19:44.000Z",
+          "description": "Three of the things I most want to see when Notre Dame takes on BYU in Provo."
+        },
+        {
+          "title": "Notre Dame vs. BYU prediction, odds, time: Week 7 college football picks from proven model",
+          "url": "https://www.cbssports.com/betting/news/notre-dame-byu-prediction-odds-time-2026-week-7-college-football-picks-bets",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-10-17T12:32:33.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/10/16/5251cc27-a18a-44d0-a907-cdb83301bfad/c-j-carr-notre-dame-fighting-irish-imagn-images.jpg",
+          "description": "SportsLine's model revealed its best bets for Saturday's college football matchup of the Notre Dame Fighting Irish vs. BYU Cougars"
+        }
+      ],
+      "summary": "Notre Dame and BYU met in a Week 7 college football matchup at LaVell Edwards Stadium. Coverage included streaming information, predictions and game previews."
+    },
+    {
+      "id": "topic_7b2a64933b35a1f1",
+      "title": "Everton Hosts Chelsea in Premier League Match",
+      "headline": "Everton vs. Chelsea, Premier League: Preview, team news, how to watch",
+      "label": [
+        "chelsea",
+        "everton",
+        "premier",
+        "league",
+        "vs",
+        "xis"
+      ],
+      "category": "new",
+      "theme": "theme_2bddfd9a67b7955a",
+      "entities": [
+        "Everton",
+        "Chelsea",
+        "Premier League",
+        "Preview",
+        "Confirmed Starting XIs"
+      ],
+      "article_count": 11,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Everton vs. Chelsea, Premier League: Preview, team news, how to watch",
+          "url": "https://sports.yahoo.com/articles/everton-vs-chelsea-premier-league-042425602.html",
+          "published_at": "2026-10-17T04:24:25.000Z",
+          "description": "Blues on Blues on blues"
+        },
+        {
+          "title": "Everton v Chelsea: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-10-17T10:40:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/ae6030e6f60207024424a3e410376b86c3d4c1ed/1123_0_4512_3609/master/4512.jpg?width=140&quality=85&auto=format&fit=max&s=9c8cca6adde94fb59c194423f4cfc41a",
+          "description": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Live scoreboard | Tables | Top scorers | Email Scott Fun: Chelsea have it. But for how long? Everton make two changes in the wake of their 2-2 draw at Hull City. Merlin Röhl and Vitalii Mykolenko replace Micheal Keane and Brennan Johnson, the…"
+        },
+        {
+          "title": "Premier League: Mysterious cat predicts Everton vs Chelsea",
+          "url": "https://www.legit.ng/sports/football/1736603-everton-chelsea-mysterious-cat-predicts-premier-league-early-kickoff",
+          "source": "Legit.ng",
+          "published_at": "2026-10-17T08:31:27.000Z",
+          "description": "Nimbus Pronos backs Chelsea to beat Everton at Hill Dickinson Stadium, where the Blues are winless in nine visits, as both chase top-four places on Saturday."
+        },
+        {
+          "title": "Everton vs Chelsea betting tips and predictions",
+          "url": "https://talksport.com/betting/4645105/everton-vs-chelsea-tips-predictions-2026",
+          "source": "talkSPORT",
+          "published_at": "2026-10-17T05:00:00.000Z"
+        },
+        {
+          "title": "🔴 Premier League live updates: Everton host Chelsea in early match",
+          "url": "https://www.espn.com/soccer/story/_/id/50190266/premier-league-live-updates-everton-chelsea-liverpool-manchester-city",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-10-17T11:12:25.000Z",
+          "description": "Chelsea are in Merseyside as they take on Everton in the Premier League's early match as another weekend of European soccer is underway."
+        }
+      ],
+      "summary": "Everton hosted Chelsea in a Premier League match at Hill Dickinson Stadium. Coverage included live updates, team news and match previews."
+    }
+  ]
+}
