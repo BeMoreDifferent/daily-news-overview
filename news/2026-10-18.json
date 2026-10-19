@@ -1,0 +1,844 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-19T00:47:40.374Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A fire at Canadian Forces Base Wainwright in Alberta killed four people and injured dozens.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "A large Ukrainian drone attack targeted St. Petersburg, damaging infrastructure including an oil facility; Russian authorities reported casualties and intercepted drones.",
+        "stories": [
+          10
+        ]
+      },
+      {
+        "text": "A truck drove into a youth soccer game in Wichita, killing a six-year-old boy and a 35-year-old man and sending at least 10 others to hospital.",
+        "stories": [
+          11
+        ]
+      },
+      {
+        "text": "Protests in France over living costs and school conditions turned violent, with demonstrators targeting buildings and shops and clashing with police.",
+        "stories": [
+          9
+        ]
+      },
+      {
+        "text": "Super Typhoon Champi is expected to enter the Philippine Area of Responsibility on October 20, bringing forecast strong winds and heavy rain.",
+        "stories": [
+          13
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_af88943543a57d0a",
+      "title": "Deadly Fire at Alberta Military Base Kills Four",
+      "headline": "Deadly incident and fire at Canadian military base",
+      "label": [
+        "base",
+        "military",
+        "fire",
+        "canadian",
+        "canada",
+        "incident"
+      ],
+      "category": "new",
+      "theme": "theme_2302f2113ec5bee8",
+      "entities": [
+        "Deadly",
+        "Canadian",
+        "Major",
+        "Alberta",
+        "Deaths"
+      ],
+      "article_count": 51,
+      "source_count": 34,
+      "articles": [
+        {
+          "title": "Deadly incident and fire at Canadian military base",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/serious-and-tragic-major-fire-at-canada-military-base-c-23037204",
+          "source": "PerthNow",
+          "published_at": "2026-10-18T02:12:11.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23037204/1e9eeeadb115b48190291f1368c0e72a9e263fb4-16x9-x0y0w1280h720.jpg",
+          "description": "People have been killed and injured in \"a serious incident\" that's sparked a major fire at a military base in Alberta, Canada."
+        },
+        {
+          "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base",
+          "url": "https://japantoday.com/category/world/canada%27s-prime-minister-says-%27serious-incident%27-caused-a-major-fire-at-a-military-base-in-alberta",
+          "source": "Japan Today",
+          "published_at": "2026-10-18T10:22:36.000Z",
+          "description": "Canada’s defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said…"
+        },
+        {
+          "title": "Deaths, Injuries Reported in Major Fire at Canadian Military Base",
+          "url": "https://internewscast.com/news/deaths-injuries-reported-in-major-fire-at-canadian-military-base",
+          "source": "Internewscast",
+          "published_at": "2026-10-18T07:26:30.000Z",
+          "description": "Internewscast Internewscast A deadly incident at one of Canada’s busiest military installations sparked a… This Post: Deaths, Injuries Reported in Major Fire at Canadian Military Base first appeared on Internewscast"
+        },
+        {
+          "title": "Four dead in fire at Canadian military base",
+          "url": "https://www.theage.com.au/world/four-dead-in-fire-at-canadian-military-base-20261019-p616kb.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-18T19:25:10.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5e1d1eee2c70a1e1496f9044f1775079d1d84e8d",
+          "description": "At least four people have been killed during a major fire at a military base in Canada."
+        },
+        {
+          "title": "Four killed and dozens injured in major fire at Canadian military base",
+          "url": "https://www.express.co.uk/news/world/2258299/canada-military-base-fire-killed-dozens-injured",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-10-18T17:33:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2258299_1.jpg",
+          "description": "Canada's PM Mark Carney described the incident as \"one of the worst tragedies\" for the country's military in peacetime"
+        }
+      ],
+      "summary": "A serious incident sparked a major fire at Canadian Forces Base Wainwright in Alberta. Four people were reported killed and dozens injured."
+    },
+    {
+      "id": "topic_c4feff53248b3d17",
+      "title": "Ecuadorian Priest Dies After Crucifix Falls During Livestreamed Mass",
+      "headline": "Priest Killed by Falling Crucifix During Livestreamed Mass",
+      "label": [
+        "priest",
+        "crucifix",
+        "falling",
+        "mass",
+        "ecuador",
+        "livestreamed"
+      ],
+      "category": "new",
+      "theme": "theme_77f5ac39af7f528e",
+      "entities": [
+        "Priest Killed",
+        "Falling Crucifix During Livestreamed",
+        "Mass",
+        "Catholic",
+        "Priest"
+      ],
+      "article_count": 18,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Priest Killed by Falling Crucifix During Livestreamed Mass",
+          "url": "https://internewscast.com/news/us/priest-killed-by-falling-crucifix-during-livestreamed-mass",
+          "source": "Internewscast",
+          "published_at": "2026-10-18T23:02:20.000Z",
+          "description": "Internewscast Internewscast A Communion service in Ecuador turned tragic when a large crucifix fell… This Post: Priest Killed by Falling Crucifix During Livestreamed Mass first appeared on Internewscast"
+        },
+        {
+          "title": "Watch video: Catholic priest killed by falling crucifix during livestreamed Mass",
+          "url": "https://www.legit.ng/world/1736783-catholic-priest-father-sanchez-molinari-killed-by-falling-crucifix-livestreamed-mass",
+          "source": "Legit.ng",
+          "published_at": "2026-10-18T20:22:03.000Z",
+          "description": "Ecuadorian priest Father Patricio Sánchez died after a wooden crucifix fell on him during a live-streamed Mass in Guayaquil, with the cause remains unknown"
+        },
+        {
+          "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
+          "url": "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-18T21:00:55.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/catholic-communion-wafers-church-file-photo.png?ve=1&tl=1",
+          "description": "Video captures the moment a large wooden crucifix fell on Father Patricio Alfredo Sánchez Molinari during a livestreamed Mass in Guayaquil, Ecuador."
+        },
+        {
+          "title": "Priest killed by falling cross during livestreamed Mass",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/priest-killed-by-falling-cross-during-livestreamed-mass-c-23039788",
+          "source": "PerthNow",
+          "published_at": "2026-10-18T19:56:09.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23039788/a428fd94d3f43f9d7ced4df3c9ad28801fb00594-16x9-x0y0w1280h720.jpg",
+          "description": "A priest in Ecuador has reportedly died after being struck by a cross while the ceremony was being broadcast live online."
+        },
+        {
+          "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
+          "url": "https://news.google.com/rss/articles/cbmiogfbvv95cuxoytdsenbweeitqkmyxznjbxjjrmhxzmpqthprdki1shnyoexqothfwljzb2xkzktkrudlsgttutc0qjaxdethdhfuyknxvfzsbhria3dozglas0k0enq0s2dynvzwn05vdgwzb2pnamz2supnctvnzdkwy2vmugpvv3hvn1dpyur5uk5ot0vrmmstmnfiu3hibedmnurhc0dky2fsaacbqvvfexfmugxdohj3qwruzwzmzg1dm0q5qw50mefsexdbvxzmuelhtmjcdzb5ww8wnfjvajhkullxws1zsmq3smlevdvtam43wkw1ceetn0xeotbvzulmu1hyvhjrdgftrec0rgt6ngkxqu9jbzhhns1ybedzsdzxskxfa1jcv01lm3nyuzfha21xvkpeaugwnwdmwwvlrmfsx0vnodrbdmvprw1zuda",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T21:00:55.000Z",
+          "description": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help Fox News Priest in Ecuador dies after crucifix falls on him during livestreamed Mass NBC News Catholic priest killed by falling cross during livestreamed Mass in Ecuador ABC News - Breaking News, Latest News and…"
+        }
+      ],
+      "summary": "Father Patricio Sánchez died after a large wooden crucifix fell on him during a livestreamed Mass in Guayaquil, Ecuador. The cause of the incident remains unknown."
+    },
+    {
+      "id": "topic_f0eeab11262dcfd3",
+      "title": "Trump Endorses Netanyahu Ahead of Israeli Election",
+      "headline": "Trump endorses Netanyahu in Israeli election",
+      "label": [
+        "endorses",
+        "netanyahu",
+        "election",
+        "trump",
+        "israeli",
+        "israel"
+      ],
+      "category": "new",
+      "theme": "theme_18ad2a50968502cf",
+      "entities": [
+        "Trump",
+        "Netanyahu",
+        "Israeli",
+        "Israel",
+        "Trump Endorses Netanyahu Ahead"
+      ],
+      "article_count": 17,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Trump endorses Netanyahu in Israeli election",
+          "url": "https://www.thehindu.com/news/international/trump-endorses-netanyahu-in-israeli-election/article71600598.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-18T15:22:15.000Z",
+          "description": "“This is the ⁠kind of Partner that the United States of America is demanding of Israel, ​a Country ‌for which it has done so much,” the U.S. President wrote on Truth Social"
+        },
+        {
+          "title": "Israel: Trump endorses Netanyahu ahead of elections",
+          "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-18T19:06:00.000Z",
+          "description": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right partners currently lack the majority to secure a new term."
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead of Israel’s Crucial Elections",
+          "url": "https://internewscast.com/news/us/trump-endorses-netanyahu-ahead-of-israels-crucial-elections",
+          "source": "Internewscast",
+          "published_at": "2026-10-18T15:20:34.000Z",
+          "description": "Internewscast Internewscast President Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu on Friday, throwing… This Post: Trump Endorses Netanyahu Ahead of Israel’s Crucial Elections first appeared on Internewscast"
+        },
+        {
+          "title": "Trump endorses Netanyahu ahead of Israel’s elections: ‘Will never let you down’",
+          "url": "https://nypost.com/2026/10/18/us-news/trump-endorses-netanyahu-ahead-of-israels-elections",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-18T15:08:28.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2025-hamas-handed-20-surviving-145148198_8498fc.jpg?w%3D1024",
+          "description": "Trump hailed Netanyahu, whose party is facing a tough race, as the right partner for the US to have against Iran as he called for Israelis to flock to the polls to support the prime minister."
+        },
+        {
+          "title": "Trump endorses Netanyahu in Israeli legislative elections",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-18T16:36:26.000Z",
+          "description": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader."
+        }
+      ],
+      "summary": "Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu ahead of Israel’s October 27 election, praising him as a strong partner. Polls cited in reports indicate Netanyahu and his allies may lack a majority."
+    },
+    {
+      "id": "topic_e1a422be48763e89",
+      "title": "Cindy Crawford and Rande Gerber Mourn Son Presley",
+      "headline": "Cindy Crawford and Rande Gerber break silence over death of son Presley: ‘Beyond heartbroken’",
+      "label": [
+        "gerber",
+        "cindy",
+        "presley",
+        "crawford",
+        "son",
+        "heartbroken"
+      ],
+      "category": "new",
+      "theme": "theme_262da7983d8a07d1",
+      "entities": [
+        "Cindy Crawford",
+        "Rande Gerber",
+        "Presley",
+        "Beyond",
+        "Page Six"
+      ],
+      "article_count": 15,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Cindy Crawford and Rande Gerber break silence over death of son Presley: ‘Beyond heartbroken’",
+          "url": "https://www.smh.com.au/culture/celebrity/cindy-crawford-and-rande-gerber-break-silence-over-death-of-son-presley-beyond-heartbroken-20261019-p616kk.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-18T20:57:26.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.20491486068111456%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3bb54b4ca903f1e2a0c2a7add811768a6431a85935d1acfe8e8156d798c82d5c",
+          "description": "Crawford, Gerber and daughter Kaia Gerber have made their first public comments since the 27-year-old’s sudden death last month."
+        },
+        {
+          "title": "Cindy Crawford and Rande Gerber break silence on son Presley's tragic death at 27: 'We are beyond heartbroken'",
+          "url": "https://www.dailymail.com/tvshowbiz/article-16218985/cindy-crawford-rande-gerber-break-silence-son-presleys-tragic-death-27-heartbroken.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-18T18:39:37.000Z",
+          "description": "Presley died of a suspected overdose after going into cardiac arrest on September 20 while staying at the Santa Monica rehab facility Resolutions Living."
+        },
+        {
+          "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+          "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo",
+          "source": "BBC News",
+          "published_at": "2026-10-18T19:53:27.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
+          "description": "Presley Gerber's death in September is being investigated as a suspected overdose."
+        },
+        {
+          "title": "Cindy Crawford and Rande Gerber break silence after son Presley’s tragic death: ‘We are beyond heartbroken’",
+          "url": "https://news.google.com/rss/articles/cbmiwgfbvv95cuxnue9am0f6swvgtgvzumvgn3nys05duxhtn0z6weg0nnvovhm3dkiyvgxiv29irujbwhvsavlechazrhbpr1rxytjqm2vus1zhcmtrvgr2yknoslzyoc1fywh5zjy0tlh3ni1lbk5mmzvtzjdmugvymdfyx3lqlwhcujrzvxpiazbrvxhzx2tzc1pzswviwee0ahgyenhfdgiyd1bfddr6vku3duexuvm1zkvtee95vvzxltlkodg4twtvdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T17:40:00.000Z",
+          "description": "Cindy Crawford and Rande Gerber break silence after son Presley’s tragic death: ‘We are beyond heartbroken’ Page Six Kaia Gerber Pens Painfully Raw Tribute to Older Brother Presley Following His Death: ‘I Was Born Loving You’ People.com Cindy Crawford Breaks Silence on Son’s Death The Daily Beast C…"
+        },
+        {
+          "title": "Cindy Crawford mourns son Presley Gerber in heartbreaking tribute",
+          "url": "https://www.foxnews.com/entertainment/cindy-crawford-mourns-son-presley-gerber-heartbreaking-tribute",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-18T19:51:16.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/presley-gerber-kaia-gerber-cindy-crawford-rande-gerber.jpg?ve=1&tl=1",
+          "description": "Cindy Crawford called Presley Gerber a \"sweet, beautiful soul\" in an emotional Instagram tribute weeks after his death at a rehabilitation facility."
+        }
+      ],
+      "summary": "Cindy Crawford and Rande Gerber publicly mourned their son Presley, who died at 27. His death is being investigated as a suspected overdose."
+    },
+    {
+      "id": "topic_9dc89bc1d7a99839",
+      "title": "Microsoft Reportedly Withdraws From UK Data Center Deal",
+      "headline": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
+      "label": [
+        "microsoft",
+        "data",
+        "uk",
+        "pulls",
+        "nscale",
+        "deal"
+      ],
+      "category": "new",
+      "theme": "theme_48392dfd4eb2ad64",
+      "entities": [
+        "Microsoft",
+        "UK",
+        "Nscale",
+        "Telegraph",
+        "Microsoft Pulls Out"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
+          "url": "https://tribune.com.pk/story/2635573/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports",
+          "source": "express tribune",
+          "published_at": "2026-10-18T13:50:47.000Z",
+          "description": "Nscale says its relationship with Microsoft remains strong despite the reported withdrawal"
+        },
+        {
+          "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+          "url": "https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
+          "source": "All News",
+          "published_at": "2026-10-18T07:22:53.000Z"
+        },
+        {
+          "title": "Microsoft Pulls Out of AI Deal With UK Data Centre Firm",
+          "url": "https://internewscast.com/news/microsoft-pulls-out-of-ai-deal-with-uk-data-centre-firm",
+          "source": "Internewscast",
+          "published_at": "2026-10-18T18:38:30.000Z",
+          "description": "Internewscast Internewscast Nscale, one of Britain’s most prominent artificial intelligence companies, has suffered a… This Post: Microsoft Pulls Out of AI Deal With UK Data Centre Firm first appeared on Internewscast"
+        },
+        {
+          "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-10-18T08:31:10.000Z",
+          "description": "Microsoft Corp. has pulled out of a UK data center deal with British neocloud Nscale at a critical time for the startup’s initial public offering hopes, the Telegraph reported."
+        },
+        {
+          "title": "Microsoft pulls out of UK's largest AI data centre",
+          "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+          "source": "BBC News",
+          "published_at": "2026-10-18T16:46:42.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
+          "description": "Tech firm Nscale says it is still committed to building the site in Essex."
+        }
+      ],
+      "summary": "Microsoft has reportedly pulled out of a UK data center deal with Nscale, according to the Telegraph. Nscale said its relationship with Microsoft remains strong and that it is committed to building the site in Essex."
+    },
+    {
+      "id": "topic_6a90ca3693cb480a",
+      "title": "Victoria’s Secret Fashion Show 2026 Set for Los Angeles",
+      "headline": "¿Quiénes cantarán en el Victoria’s Secret Fashion Show 2026?",
+      "label": [
+        "victoria",
+        "fashion",
+        "secret",
+        "show",
+        "vivo",
+        "cantarán"
+      ],
+      "category": "new",
+      "theme": "theme_b985e36587ba5f76",
+      "entities": [
+        "Victoria",
+        "Secret Fashion Show",
+        "Horarios",
+        "EN VIVO",
+        "When And Where To"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "¿Quiénes cantarán en el Victoria’s Secret Fashion Show 2026?",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/quienes-cantaran-en-el-victorias-secret-fashion-show-2026.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-10-18T23:11:29.000Z",
+          "description": "KATSEYE, Tate McRae, Megan Moroney y Megan Thee Stallion pondrán música al Victoria’s Secret Fashion Show 2026 este domingo 18 de octubre en Los Ángeles. Las cuatro propuestas compartirán escenario con las modelos en una edición que combinará pop, country y hip-hop. El cartel estará integrado compl…"
+        },
+        {
+          "title": "Victoria's Secret Fashion Show 2026: Horarios y donde ver en vivo",
+          "url": "https://www.informador.mx/entretenimiento/victorias-secret-fashion-show-2026-horarios-y-donde-ver-en-vivo-20261017-0073.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-10-18T00:48:00.000Z",
+          "description": "Uno de los desfiles de moda más populares regresa a Los Ángeles después de dos años en Nueva York y contará con la participación de modelos como Adriana Lima, Gigi Hadid y Barbara Palvin"
+        },
+        {
+          "title": "Victoria’s Secret Fashion Show 2026: When And Where To Watch Live In India; From Supermodels To Angels, Know Who Will Perform",
+          "url": "https://www.freepressjournal.in/lifestyle/victorias-secret-fashion-show-2026-when-and-where-to-watch-live-in-india-from-supermodels-to-angels-know-who-will-perform",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-18T11:40:28.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-18/qsy4hxgp/HUxVljYXkAEuJRf.jpg"
+        },
+        {
+          "title": "Após 17 anos afastada, Carol Trentini volta ao Victoria's Secret Fashion Show",
+          "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/10/apos-17-anos-afastada-carol-trentini-volta-ao-victorias-secret-fashion-show.shtml",
+          "source": "Folha de S.Paulo - Em cima da hora - Principal",
+          "published_at": "2026-10-18T21:27:00.000Z",
+          "description": "Mais uma brasileira foi confirmada no Victoria's Secret Fashion Show, que será realizado neste domingo (18) em Los Angeles, nos Estados Unidos. Trata-se da gaúcha Carol Trentini, 39, que retorna aos desfiles da marca após 17 anos. Leia mais (10/18/2026 - 18h27)"
+        },
+        {
+          "title": "2026 Victoria's Secret Fashion Show: How to watch today, where to stream live for free, musical guests and more",
+          "url": "https://news.google.com/rss/articles/cbmi_gfbvv95cuxnnnfrtzzxcgi3bzz5yjv3qxi1d2frcxnrclfitu55re9qoth4we55sfluoxhon0fhr1nky0rfr1her3bmmw0xu0v4whjjaenjnzdwr0ntdhdezhrlrgzxaglvohfcy0vlovffq0ffamqyz3hjvtluzlbdm3jivmvmdkrtm2llr3q0zvvwcezxuvlwqurwaxv0tmlnb1vitvvjznvqs2zfmxbmz19zsdfxov9jwi1sd3vjbzdpmzgtru5na2l1ufzwym45bvfqtkjmcznoevvszuhmve5us09jdws5ztfvcmzxznz3r0labhfobg8xnw4ty2fvvkvruq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T16:35:50.000Z",
+          "description": "2026 Victoria's Secret Fashion Show: How to watch today, where to stream live for free, musical guests and more Yahoo See All the Stars Arriving on the Pink Carpet at the 2026 Victoria’s Secret Fashion Show People.com Victoria’s Secret Fashion Show 2026 red carpet: See all the celebrity looks Page…"
+        }
+      ],
+      "summary": "The 2026 Victoria’s Secret Fashion Show is scheduled for Sunday in Los Angeles. Performers include KATSEYE, Tate McRae, Megan Moroney and Megan Thee Stallion, with models including Adriana Lima and Gigi Hadid."
+    },
+    {
+      "id": "topic_751cd042b3ae015a",
+      "title": "Japan’s MMX Mission to Collect Samples From Phobos",
+      "headline": "Japan To Launch World’s First Mission To Bring Back Samples From Mars Moon Phobos",
+      "label": [
+        "mars",
+        "moon",
+        "mission",
+        "japan",
+        "samples",
+        "phobos"
+      ],
+      "category": "new",
+      "theme": "theme_feb24e2875d0081f",
+      "entities": [
+        "Japan To Launch World",
+        "First Mission To Bring",
+        "Back Samples From Mars",
+        "Moon Phobos",
+        "Japan"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Japan To Launch World’s First Mission To Bring Back Samples From Mars Moon Phobos",
+          "url": "https://www.freepressjournal.in/world/japan-to-launch-worlds-first-mission-to-bring-back-samples-from-mars-moon-phobos",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-18T12:33:35.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-18/i3bck92p/Untitled-design-2026-10-18T180106.721.jpg"
+        },
+        {
+          "title": "Japan's MMX mission aims to swipe soil samples from Mars's moon Phobos",
+          "url": "https://phys.org/news/2026-10-japan-mmx-mission-aims-swipe.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-10-18T14:00:01.000Z",
+          "description": "A Japanese space mission is about to launch towards Mars. But it will not land on the planet itself. Instead, the Martian Moons Exploration (MMX) mission will focus on Phobos, the bigger of Mars's two small moons."
+        },
+        {
+          "title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+          "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+          "source": "Latest from Space.com",
+          "published_at": "2026-10-18T19:20:03.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/CaXZHsGkC3ELaPgT7WG92k-1920-80.png",
+          "description": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet."
+        },
+        {
+          "title": "Japan to launch historic round-trip mission to Mars moon",
+          "url": "https://japantoday.com/category/national/japan-to-launch-historic-round-trip-mission-to-mars-moon",
+          "source": "Japan Today",
+          "published_at": "2026-10-18T06:54:07.000Z",
+          "description": "Japanese scientists are readying a mission to Mars's moons to retrieve samples that could help unlock the origins of the solar system and life on Earth, in what…"
+        },
+        {
+          "title": "H3 Rocket on Mission to Collect Rocks From Mars Moon",
+          "url": "https://newsonjapan.com/article/151077.php",
+          "source": "News On Japan",
+          "published_at": "2026-10-18T20:51:02.000Z",
+          "description": "Japan will launch its H3 rocket No. 10 from the Tanegashima Space Center in Kagoshima Prefecture at 4:41 a.m. on October 20, carrying a spacecraft designed to collect rocks and sand from Phobos, one of Mars' two moons, and return them to Earth in what would be the world's first successful mission o…"
+        }
+      ],
+      "summary": "Japan is preparing to launch its Martian Moons Exploration mission to Phobos, one of Mars’s moons, aboard an H3 rocket. The mission is designed to collect samples and return them to Earth."
+    },
+    {
+      "id": "topic_b49a5dc3e28b4f10",
+      "title": "Anthropic Pledges 5% of Shares to Public Benefit Fund",
+      "headline": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
+      "label": [
+        "benefit",
+        "public",
+        "anthropic",
+        "fund",
+        "commits",
+        "shares"
+      ],
+      "category": "new",
+      "theme": "theme_b6abb16d3fa70d34",
+      "entities": [
+        "Anthropic Commits",
+        "Its Shares",
+        "New Public Benefit Fund",
+        "Anthropic",
+        "Commit"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
+          "url": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund",
+          "source": "Unite.AI",
+          "published_at": "2026-10-18T18:23:10.000Z",
+          "description": "Anthropic said on October 18, 2026 that it is committing a portion of its shares to the Anthropic Public Benefit Fund, a new entity designed so that its stake grows as the company grows. Subject to stockholder approval, 5% of Anthropic's shares will be committed, with an additional 2% added at the…"
+        },
+        {
+          "title": "Anthropic to commit to new 'public benefit fund'",
+          "url": "https://www.perthnow.com.au/news/technology/anthropic-to-commit-to-new-public-benefit-fund-c-23040324",
+          "source": "PerthNow",
+          "published_at": "2026-10-18T23:50:52.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23040324/aca85a3122cb97568ee89960bf29c3cae3a1b0e6-16x9-x0y0w1280h720.jpg",
+          "description": "Anthropic says it is committing five per cent of its shares to a new \"public benefit\" fund, with the amount potentially increasing as its shares grow in value."
+        },
+        {
+          "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxnnxpealntrtc3ms04dnvkr0vjrhbocdjvbvlkqliyauj4ahrhsvuwltmtelnvrxuxwmnulu9iunhpmmdws1v5duvqauzraxzmynrmegpzbwzfb2fkd3zqceloa0frvlm4txjoc2w2eg51efvqz2htnenfy1phszg5rjfnbxfemdnnel96t2hcvfjlaxn6dnpmevozthdpmzkz",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T23:23:00.000Z",
+          "description": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund WSJ Investing in the public benefit Anthropic Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund Bloomberg.com Anthropic commits 5% of its stock to a new ‘public benefit’ fund AP News Anthropic commits 5% of shares to n…"
+        },
+        {
+          "title": "Anthropic commits billions to a 'public benefit fund'",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-18T18:46:01.000Z",
+          "image": "https://i.insider.com/6ad51162e50b02f612be4b93?format=jpeg",
+          "description": "Anthropic said on Sunday that it wants to create a new LLC to fund public-interest initiatives. Kent NISHIMURA / AFP via Getty Images Anthropic said it wants to create a new LLC with the company's stock as its sole asset. The new LLC, a charitable organization, would receive larger stakes as the co…"
+        },
+        {
+          "title": "Anthropic to commit 5% stake to new public benefit fund",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+          "source": "All News",
+          "published_at": "2026-10-18T16:24:40.000Z"
+        }
+      ],
+      "summary": "Anthropic said it will commit 5% of its shares to a new public benefit fund intended to support public-interest initiatives. The fund’s stake could grow in value as the company grows."
+    },
+    {
+      "id": "topic_523c9c8976e3c328",
+      "title": "Protests Over Living Costs and Schools Escalate in France",
+      "headline": "Why Are There Protests in France?",
+      "label": [
+        "protests",
+        "france",
+        "spiral",
+        "worst",
+        "mass",
+        "riots"
+      ],
+      "category": "new",
+      "theme": "theme_550dc9ac9ccadd1a",
+      "entities": [
+        "Why Are There Protests",
+        "France",
+        "Mass Protests",
+        "France Spiral Into Worst",
+        "Riots"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Why Are There Protests in France?",
+          "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-10-18T15:15:49.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
+          "description": "Rioters attacked city halls and shops over the weekend amid protests over living costs and poor school conditions."
+        },
+        {
+          "title": "Mass Protests in France Spiral Into Worst Riots in Years",
+          "url": "https://www.businessoffashion.com/articles/news-analysis/mass-protests-in-france-spiral-into-worst-riots-in-years",
+          "source": "The Business of Fashion",
+          "published_at": "2026-10-18T13:31:29.000Z",
+          "description": "Protestors targeted public buildings, looted luxury boutiques and supermarkets and attacked police vehicles and officers in demonstrations against rising cost of living."
+        },
+        {
+          "title": "NFL Paris game to go ahead despite protests in France",
+          "url": "https://japantoday.com/category/sports/nfl-paris-game-to-go-ahead-despite-protests-in-france",
+          "source": "Japan Today",
+          "published_at": "2026-10-18T21:32:19.000Z",
+          "description": "The NFL game between the New Orleans Saints and Pittsburgh Steelers next week in Paris is scheduled to go ahead as planned despite protests and unrest in France,…"
+        }
+      ],
+      "summary": "Protests in France over living costs and poor school conditions turned violent, with demonstrators targeting public buildings and shops and clashing with police. An NFL game planned for Paris is still scheduled to go ahead."
+    },
+    {
+      "id": "topic_2f7e4380d22e4e34",
+      "title": "Ukrainian Drone Attack Targets St. Petersburg",
+      "headline": "St Petersburg endures biggest Ukrainian drone attack",
+      "label": [
+        "petersburg",
+        "st",
+        "attack",
+        "drone",
+        "ukrainian",
+        "facility"
+      ],
+      "category": "new",
+      "theme": "theme_27cdbae51a7e9196",
+      "entities": [
+        "St Petersburg",
+        "Ukrainian",
+        "Financial Times",
+        "Killed",
+        "Injured"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "St Petersburg endures biggest Ukrainian drone attack",
+          "url": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1",
+          "source": "International homepage",
+          "published_at": "2026-10-18T11:01:32.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa63efce5-a5bc-40d5-ac26-1ff5257aa1d4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine"
+        },
+        {
+          "title": "St Petersburg endures biggest Ukrainian drone attack",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxoyklzcuzdsmxzv29oylhmdulyzgxoue9wes03tjdwqlp2zdntt2u5zl95mdhey2hwdxvvewdnztq1rzrea1jotdbznulzwtllyzq5ugjsluj3yxdozeztmwpivmo5tdf5wmr2oxpmmerhsgpjancztkvjc2vdrnvwmdf4owk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T11:01:32.000Z",
+          "description": "St Petersburg endures biggest Ukrainian drone attack Financial Times Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year CNN Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure The Guardian Oil facilities hit in deadly over…"
+        },
+        {
+          "title": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+          "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-five-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-10-18T09:53:00.000Z",
+          "description": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said."
+        },
+        {
+          "title": "St Petersburg under attack from Ukrainian drone swarm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-18T04:51:01.000Z",
+          "description": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm."
+        },
+        {
+          "title": "Ukraine strikes oil facility in St. Petersburg as part of ‘massive’ drone attack",
+          "url": "https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack",
+          "source": "POLITICO",
+          "published_at": "2026-10-18T10:40:31.000Z",
+          "description": "Ukrainian President Volodymyr Zelenskyy said last week he had ordered the resumption of strikes on Russian oil refineries following a three-day pause."
+        }
+      ],
+      "summary": "A large Ukrainian drone attack targeted St. Petersburg, with reports of explosions and damage to infrastructure, including an oil facility. Russian authorities reported casualties and said air defenses intercepted drones."
+    },
+    {
+      "id": "topic_496b3c70728203d3",
+      "title": "Truck Drives Into Kansas Youth Soccer Game, Killing Two",
+      "headline": "Two killed, including 6-year-old, after truck drives through Kansas youth soccer game",
+      "label": [
+        "drives",
+        "truck",
+        "kansas",
+        "two",
+        "soccer",
+        "game"
+      ],
+      "category": "new",
+      "theme": "theme_14ee4b8b0fa10113",
+      "entities": [
+        "Two",
+        "Kansas",
+        "US",
+        "Truck",
+        "Six"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Two killed, including 6-year-old, after truck drives through Kansas youth soccer game",
+          "url": "https://japantoday.com/category/world/two-killed-including-6-year-old-when-truck-drives-through-kansas-youth-soccer-game-police-say",
+          "source": "Japan Today",
+          "published_at": "2026-10-18T02:23:00.000Z",
+          "description": "A truck drove into a youth soccer game ‌in Wichita, Kansas, leaving a six-year-old boy and a 35-year-old man dead, and 10 others hospitalized with traumatic injuries, police…"
+        },
+        {
+          "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game, police say",
+          "url": "https://tribune.com.pk/story/2635513/two-killed-including-6-year-old-when-truck-drives-through-kansas-youth-soccer-game-police-say",
+          "source": "express tribune",
+          "published_at": "2026-10-18T01:55:17.000Z",
+          "description": "10 people hospitalised with traumatic injuries as 34-year-old female driver taken into custody"
+        },
+        {
+          "title": "Kansas, US: Two dead after truck drives through soccer game",
+          "url": "https://www.perthnow.com.au/news/world/kansas-us-two-dead-after-truck-drives-through-soccer-game-c-23037189",
+          "source": "PerthNow",
+          "published_at": "2026-10-18T01:49:36.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23037189/0eb231aa38647b09055e7fb87ec9e34eea5f6abb-16x9-x0y75w800h450.jpg",
+          "description": "A soccer game has been interrupted by tragedy after a truck killed a six-year-old boy."
+        },
+        {
+          "title": "Two dead including 6-year-old as truck drives through pitch at youth football game",
+          "url": "https://www.irishmirror.ie/news/world-news/two-dead-including-6-year-37784913",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-18T14:49:48.000Z",
+          "description": "A 6-year-old boy and a 35-year-old man have died, while 11 more were injured, after a truck drove through a football pitch during a youth game in Wichita, Kansas"
+        },
+        {
+          "title": "Two dead including child as truck drives through pitch during youth game in Kansas",
+          "url": "https://www.express.co.uk/news/world/2258243/kansas-truck-soccer-pitch-game",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-10-18T13:30:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2258243_1.jpg",
+          "description": "People \"sprang into action\" to provide lifesaving assistance to the casualties, police said."
+        }
+      ],
+      "summary": "A truck drove into a youth soccer game in Wichita, Kansas, killing a six-year-old boy and a 35-year-old man. At least 10 others were hospitalized, and police took the female driver into custody."
+    },
+    {
+      "id": "topic_4a5ba1fbf0f6363f",
+      "title": "Trump Plans 15-Month Renovation of Historic Washington Golf Course",
+      "headline": "Trump says he will close historic DC golf course for 15 months of renovations - AP News",
+      "label": [
+        "golf",
+        "course",
+        "month",
+        "trump",
+        "renovations",
+        "dc"
+      ],
+      "category": "new",
+      "theme": "theme_3288bef8ba641a87",
+      "entities": [
+        "Trump",
+        "DC",
+        "AP News",
+        "Trump Shuttering Popular",
+        "Golf Course For"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump says he will close historic DC golf course for 15 months of renovations",
+          "url": "https://news.google.com/rss/articles/cbmilafbvv95cuxpaejluhbtm3vzdfoybw9zsjnamnr5zmy1dkfxdtrmefm1tuxyv0hwnemzce1rmfpwulqtqvpiy0jruk5xsxr5sdzdnvzyb2twnvkztdlwrkz2ukvzc21xdnrlsnbsuvzjngn3zvo3c2vieg4zd1vbzw9xmw5vqlrsznhyatrpwdhhque2yzq5zzhvnghl",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-18T16:37:00.000Z",
+          "description": "Trump says he will close historic DC golf course for 15 months of renovations AP News Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit The New York Times Tree-cutting equipment removed from East Potomac Park Golf Course NBC4 Washington A judge blocks the government's tree…"
+        },
+        {
+          "title": "Trump Shuttering Popular D.C. Golf Course For 15 Month Renovation",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/18/trump-shuttering-popular-dc-golf-course-for-15-month-renovation",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-18T15:00:22.000Z",
+          "description": "The president said the new course will be open to the public but capable of hosting “World Class Tournaments.”"
+        },
+        {
+          "title": "Trump unveils 15-month plan to renovate historic DC golf course",
+          "url": "https://nypost.com/2026/10/18/us-news/president-trump-unveils-plans-to-renovate-historic-dc-golf-course",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-18T20:23:36.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-extended-halt-tree-cutting-145603794.jpg?quality%3D90%26strip%3Dall",
+          "description": "\"The current Course is old, broken, dilapidated, and of no further use or effect. It is in very poor condition, with falling, dangerous, and disease infested trees and, importantly, a collapsing and hazardous seawall.\""
+        },
+        {
+          "title": "Trump to close historic DC golf course for 15 months of renovations, citing ‘disease infested trees,’ despite judge’s order to halt development plans",
+          "url": "https://fortune.com/2026/10/18/trump-historic-dc-golf-course-closure-renovations-judge-order-halt-development",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-10-18T21:41:22.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26286635206019-e1792359292569.jpg?w=2048",
+          "description": "The judge ordered the government to explain whether its position had changed from a court filing that said “at most” Trump has given “preliminary thought” to the rebuilding plan and “there is no final agency action.”"
+        },
+        {
+          "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
+          "url": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-10-18T23:22:18.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-truth-social-golf-course-rendering.png?ve=1&tl=1",
+          "description": "President Donald Trump announced Tom Fazio will redesign East Potomac Golf Links into a championship venue capable of hosting the U.S. Open."
+        }
+      ],
+      "summary": "Donald Trump announced plans to close East Potomac Golf Links in Washington, D.C., for 15 months of renovations. The proposed redesign by Tom Fazio would create a course capable of hosting major tournaments."
+    },
+    {
+      "id": "topic_de0d34025b0c3276",
+      "title": "Super Typhoon Champi Expected to Enter Philippine Area",
+      "headline": "Super Typhoon Champi to enter PAR on Oct. 20; to be named Rosal",
+      "label": [
+        "typhoon",
+        "champi",
+        "super",
+        "enter",
+        "rosal",
+        "oct"
+      ],
+      "category": "new",
+      "theme": "theme_e56ca3d6a6462600",
+      "entities": [
+        "Super Typhoon Champi",
+        "Oct",
+        "Rosal",
+        "PH Oct",
+        "Champi"
+      ],
+      "article_count": 6,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Super Typhoon Champi to enter PAR on Oct. 20; to be named Rosal",
+          "url": "https://newsinfo.inquirer.net/2325875/super-typhoon-champi-to-enter-par-tuesday-to-be-named-rosal",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-18T01:52:22.000Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/image-11-620x510.png",
+          "description": "MANILA, Philippines — Super Typhoon Champi is expected to enter the Philippine area of responsibility (PAR) on Tuesday, Oct. 20, and will be named Rosal, bringing strong winds and heavy rains to northern Luzon and Bicol, according to the weather bureau. In its 5 a.m. bulletin on Sunday, the Philipp…"
+        },
+        {
+          "title": "'Champi' seen entering PAR at super typhoon strength",
+          "url": "https://www.philstar.com/weather/2026/10/18/2564057/champi-seen-entering-par-super-typhoon-strength",
+          "source": "philstar.com - RSS Headlines",
+          "published_at": "2026-10-18T02:17:00.000Z",
+          "description": "The super typhoon may enter PAR at peak strength and will be locally named Rosal."
+        },
+        {
+          "title": "DSWD prepares for expected entry of Super Typhoon Champi this week",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1006302/dswd-prepares-for-expected-entry-of-super-typhoon-champi-this-week/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-18T07:20:28.000Z",
+          "description": "The Department of Social Welfare and Development (DSWD) said Sunday that it has been preparing for the expected entry of Super Typhoon Champi into the Philippine Area of Responsibility (PAR) this week."
+        },
+        {
+          "title": "Super Typhoon “Champi” posibleng pumasok sa PAR ngayong Martes",
+          "url": "https://tonite.abante.com.ph/super-typhoon-champi-posibleng-pumasok-sa-par-ngayong-martes/news",
+          "source": "Tonite – Abante",
+          "published_at": "2026-10-18T15:02:19.000Z",
+          "description": "Binabantayan ng PAGASA ang Super Typhoon Champi na papangalanang Rosal kapag pumasok sa PAR ngayong Martes. The post Super Typhoon “Champi” posibleng pumasok sa PAR ngayong Martes first appeared on Tonite - Abante."
+        }
+      ],
+      "summary": "Super Typhoon Champi is expected to enter the Philippine Area of Responsibility on October 20 and will be named Rosal there. Philippine agencies are preparing for its arrival, with strong winds and heavy rain forecast."
+    }
+  ]
+}
