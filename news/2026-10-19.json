@@ -1,0 +1,868 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-20T00:48:20.505Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Vladimir Putin proposed meeting Donald Trump and Xi Jinping next month to discuss a deal to end the Ukraine war.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Funding shortages prompted the World Food Programme to cut monthly food assistance for 700,000 people in Gaza and the West Bank.",
+        "stories": [
+          7
+        ]
+      },
+      {
+        "text": "The Department of Homeland Security ordered federal civilian agencies to remove DeepSeek products and stop buying them, citing security and information-technology risks.",
+        "stories": [
+          13
+        ]
+      },
+      {
+        "text": "The U.S. Supreme Court rejected a bid by Khalid Sheikh Mohammed and two alleged accomplices to revive plea deals that would have spared them the risk of execution.",
+        "stories": [
+          8
+        ]
+      },
+      {
+        "text": "Australian lawmaker Helen Haines was critically injured after being struck by a car outside her office; Prime Minister Anthony Albanese called the incident deliberate, and the driver was arrested.",
+        "stories": [
+          3
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_237ee0cad418e269",
+      "title": "Musk Says He Will Give SpaceX Shares to Every U.S. Child",
+      "headline": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+      "label": [
+        "spacex",
+        "musk",
+        "every",
+        "america",
+        "give",
+        "share"
+      ],
+      "category": "new",
+      "theme": "theme_eb0374368e44fa7",
+      "entities": [
+        "Elon Musk Says He",
+        "Will Give",
+        "SpaceX Share",
+        "Every Kid",
+        "America"
+      ],
+      "article_count": 47,
+      "source_count": 39,
+      "articles": [
+        {
+          "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+          "url": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+          "source": "NYT > Business",
+          "published_at": "2026-10-19T22:12:02.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-musk-shares-vfqm/19biz-musk-shares-vfqm-mediumSquareAt3X.jpg",
+          "description": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children."
+        },
+        {
+          "title": "Musk Will Give SpaceX Share to ‘Every Kid in America’",
+          "url": "https://politicalwire.com/2026/10/19/musk-will-give-spacex-share-to-every-kid-in-america",
+          "source": "Political Wire",
+          "published_at": "2026-10-19T10:34:49.000Z",
+          "description": "“Tech billionaire Elon Musk said on Monday that he would give every child in the United States a share in his SpaceX rocket company,” Agence France-Presse reports. Said Musk: “Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.”"
+        },
+        {
+          "title": "Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'",
+          "url": "https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america",
+          "source": "Slashdot",
+          "published_at": "2026-10-19T18:00:00.000Z",
+          "description": "An anonymous reader quotes a report from CNN: Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society. \"Next year, I will give one of my SpaceX shar…"
+        },
+        {
+          "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+          "url": "https://news.google.com/rss/articles/cbmilwfbvv95cuxqcke2dfr2rkx1nuu3sg42mgrcrndvr1b1tvbezhnzreqza1ziefk4nxroqkrdbuvvq05wmhyzx19sefrgsg1idzltmlzntfvyswphogc0dmjpqxdqugr4mdbxm0ytdjndmwpkt1hyqu9wndatvnjwa09yqwflc0dfutruow4yne0xmxfcdzviuhjxu21eslvr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-19T22:12:02.000Z",
+          "description": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ The New York TimesSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Elon Musk to give SpaceX share to ‘every kid in America’ – not South Africa",
+          "url": "https://www.thesouthafrican.com/technology/elon-musk-to-give-spacex-share-to-every-kid-in-america-not-south-africa",
+          "source": "The South African",
+          "published_at": "2026-10-19T10:02:14.000Z",
+          "description": "South Africa-born tech billionaire Elon Musk said on Monday that he would give every child in the United States a share in his SpaceX rocket company."
+        }
+      ],
+      "summary": "Elon Musk said he plans to give every child in the United States a share in SpaceX next year."
+    },
+    {
+      "id": "topic_4fad7b19e638475a",
+      "title": "Putin Proposes Ukraine Summit With Trump and Xi",
+      "headline": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
+      "label": [
+        "summit",
+        "putin",
+        "xi",
+        "trump",
+        "ukraine",
+        "proposes"
+      ],
+      "category": "new",
+      "theme": "theme_b559f7997c839a73",
+      "entities": [
+        "Putin",
+        "Trump",
+        "Xi",
+        "Ukraine",
+        "WSJ"
+      ],
+      "article_count": 21,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-19-putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-wsj-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-10-19T10:23:35.000Z",
+          "description": "Russian President Vladimir Putin has proposed a summit next month with US President Donald Trump and Chinese leader Xi Jinping to negotiate an end to the four-year-old Ukraine conflict that would favour Moscow, the Wall Street Journal reported on Sunday, citing people familiar with the discussions."
+        },
+        {
+          "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal: report",
+          "url": "https://www.thehindu.com/news/international/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-report/article71602034.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-19T03:50:46.000Z",
+          "description": "The proposed summit comes amid warming ‌ties between Mr. Trump and Mr. Putin especially after the U.S. President announced a deal to buy Russian ‌diesel"
+        },
+        {
+          "title": "Putin Proposes Summit with Trump and Xi",
+          "url": "https://politicalwire.com/2026/10/18/putin-proposes-summit-with-trump-and-xi",
+          "source": "Political Wire",
+          "published_at": "2026-10-19T01:14:02.000Z",
+          "description": "“Russian President Vladimir Putin has proposed that he, President Trump and Chinese leader Xi Jinping meet next month to talk about Ukraine in an attempt to negotiate an end to the four-year conflict that would favor Moscow,” the Wall Street Journal reports. “The plan represents an effort by Putin…"
+        },
+        {
+          "title": "Putin reportedly proposes summit with Trump and Xi to discuss Ukraine deal",
+          "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/politics/trump-xi-putin-summit-ukraine-taiwan-japan",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-10-19T03:53:00.000Z",
+          "description": "Any meeting could come as early as Nov. 18 and 19, on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China."
+        },
+        {
+          "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says (Reuters)",
+          "url": "https://www.memeorandum.com/261019/p106",
+          "source": "memeorandum",
+          "published_at": "2026-10-19T20:30:00.000Z",
+          "description": "Reuters: Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says — Russian President Vladimir Putin has proposed a summit next month with US President Donald Trump and Chinese leader Xi Jinping to negotiate an end to the four-year-old Ukraine conflict that would favour Moscow …"
+        }
+      ],
+      "summary": "Russian President Vladimir Putin has proposed meeting with U.S. President Donald Trump and Chinese leader Xi Jinping next month to discuss a deal to end the Ukraine war. The meeting could take place on the sidelines of the APEC summit in China."
+    },
+    {
+      "id": "topic_a7399e06f92b88d8",
+      "title": "Australian MP Helen Haines Critically Injured in Car Attack",
+      "headline": "Australian MP Helen Haines Critically Injured by Car Outside Office",
+      "label": [
+        "mp",
+        "car",
+        "australian",
+        "helen",
+        "haines",
+        "outside"
+      ],
+      "category": "new",
+      "theme": "theme_3da1148eb8d62b70",
+      "entities": [
+        "Australian MP Helen Haines",
+        "Critically Injured",
+        "Car Outside Office",
+        "Al Jazeera",
+        "Federal MP Helen Haines"
+      ],
+      "article_count": 28,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "Australian MP Helen Haines Critically Injured by Car Outside Office",
+          "url": "https://internewscast.com/news/australian-mp-helen-haines-critically-injured-by-car-outside-office",
+          "source": "Internewscast",
+          "published_at": "2026-10-19T09:41:24.000Z",
+          "description": "Internewscast Internewscast Independent MP Helen Haines is fighting for her life after being hit… This Post: Australian MP Helen Haines Critically Injured by Car Outside Office first appeared on Internewscast"
+        },
+        {
+          "title": "Australian MP Helen Haines critically injured in car ramming attack outside her office",
+          "url": "https://www.thejournal.ie/australian-mp-attacked-helen-haines-7197833-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-19T09:11:04.000Z",
+          "description": "The 43-year-old male driver was detained by civilians and then arrested by police."
+        },
+        {
+          "title": "Australian MP Helen Haines critically injured in ‘deliberate’ car ramming",
+          "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-19T10:35:48.000Z",
+          "description": "Lawmaker was struck by a car outside her office in what Prime Minister ⁠Anthony Albanese called a 'deliberate act'."
+        },
+        {
+          "title": "Australian MP Helen Haines critically injured in ‘deliberate’ car ramming",
+          "url": "https://news.google.com/rss/articles/cbmiswfbvv95cuxoqjzrvlvwyzbcqvrdy095emetannpnluwuw10aufsvhvprjzez3pkndfxce5vmzrobky0vnbknhvqm2fimc1jtulxvvncme5znhnzz2zasvzyt1j6thutvk45nkpqvustd1jbbujmttj1vudyznhsympiuhzetfzummwxnu9ecnlhsedibxu4cnvqzmh1s3nnrunrquk4tvhrmnpqz0thq2xrn3fzvndfuu5srdibuafbvv95cuxpa3fpnw1qvv9im241wgv0bfvmswvztdlnbzi3dwhdcuxyrgzfwhhsag52mevan1duqm9fujhfsxlgbthis05xzgixsgkxqxlmtwxtm3pov1poagixedfwb1burwz1eepxvdfswevkt1plnuzcv1d1a3pfb29yzvdxnkvnd1kxweozqtnaofliow9xwhqxue4znkxhmnrsvkncrvd3oe5gu3vnukjhx1byttg3z245mw9y",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-19T10:39:17.000Z",
+          "description": "Australian MP Helen Haines critically injured in ‘deliberate’ car ramming Al Jazeera Australian lawmaker Helen Haines hit by car outside electorate office in ‘deliberate act,’ PM says CNN Helen Haines: Australian MP critically injured after apparent car attack BBC Australian prime minister says law…"
+        },
+        {
+          "title": "Federal MP Helen Haines rushed to hospital after being hit by a car outside her office",
+          "url": "https://www.dailymail.com/news/article-16219909/helen-haines-hit-car-mp-office.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-19T07:40:30.000Z",
+          "description": "Victorian Independent MP Helen Haines was injured after being struck by a car outside her Wangaratta electoral office on Murphy Street at 3:30pm Monday afternoon."
+        }
+      ],
+      "summary": "Independent Australian lawmaker Helen Haines was critically injured after being struck by a car outside her Wangaratta office. Prime Minister Anthony Albanese described the incident as deliberate, and the driver was arrested."
+    },
+    {
+      "id": "topic_b7ad3ef5b1186037",
+      "title": "Christiane Amanpour to Leave CNN in 2027",
+      "headline": "Christiane Amanpour To Leave CNN In 2027 After 43 Years With Network",
+      "label": [
+        "cnn",
+        "christiane",
+        "amanpour",
+        "leave",
+        "years",
+        "network"
+      ],
+      "category": "new",
+      "theme": "theme_5012a478e5b50a8f",
+      "entities": [
+        "Christiane Amanpour To Leave",
+        "CNN In",
+        "Years With Network",
+        "Christiane Amanpour Says She",
+        "Is Leaving CNN After"
+      ],
+      "article_count": 23,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "Christiane Amanpour To Leave CNN In 2027 After 43 Years With Network",
+          "url": "https://deadline.com/2026/10/christiane-amanpour-to-leave-cnn-1237167533",
+          "source": "Deadline",
+          "published_at": "2026-10-19T15:21:57.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2025/10/P114DQXF-e1761275210207.jpg",
+          "description": "Christiane Amanpour will depart CNN next year, with plans to scale back her schedule at the end of this year before exiting in June. The network’s chief international anchor wrote in a memo to staffers, “After many months of thought and a few sleepless nights, I have decided to separate from CNN, m…"
+        },
+        {
+          "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
+          "url": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-10-19T19:21:56.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-amanpour-btmz/19biz-amanpour-btmz-mediumSquareAt3X.jpg",
+          "description": "The chief international anchor, one of the most famous names in broadcast news, started as an assistant at the network in 1983."
+        },
+        {
+          "title": "Christiane Amanpour To Leave CNN — Find Out When",
+          "url": "https://www.tvline.com/2290546/christiane-amanpour-leaving-cnn-date",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-10-19T17:03:56.000Z",
+          "description": "Get all the details about the award-winning journalist's exit plan."
+        },
+        {
+          "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo",
+          "source": "BBC News",
+          "published_at": "2026-10-19T16:48:36.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9c/live/c05e2df0-cbdb-11f1-b139-f77a8b036d06.jpg",
+          "description": "The network's chief international anchor has covered wars including Rwanda, Afghanistan, Ukraine and Iran."
+        },
+        {
+          "title": "CNN anchor Christiane Amanpour to leave after 43 years",
+          "url": "https://www.theage.com.au/business/companies/cnn-anchor-christiane-amanpour-to-leave-after-43-years-20261020-p616wp.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-19T18:54:35.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.8675%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_674%2C$y_510/t_crop_custom/q_86%2Cf_auto/ee0b97bae686e50adcf40e7f105b6d76b4062d1f",
+          "description": "The network’s chief international anchor will sign off next year as CNN comes under controversial new ownership after the biggest media deal in history."
+        }
+      ],
+      "summary": "CNN chief international anchor Christiane Amanpour plans to leave the network in June 2027, after 43 years. She is expected to scale back her schedule before departing."
+    },
+    {
+      "id": "topic_3a380554a8fbb4b",
+      "title": "Macron Rejects Interior Minister’s Resignation After French Riots",
+      "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+      "label": [
+        "resignation",
+        "macron",
+        "minister",
+        "interior",
+        "france",
+        "protests"
+      ],
+      "category": "new",
+      "theme": "theme_59b18625ac7f7a14",
+      "entities": [
+        "Macron",
+        "France",
+        "Emmanuel Macron",
+        "French",
+        "France Protests"
+      ],
+      "article_count": 14,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+          "url": "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-19T05:53:00.000Z",
+          "description": "France's president has refused the resignation of his interior minister, who says police \"lost control\" during protests that turned violent at the weekend. France's PM has called for limited curfews around the country."
+        },
+        {
+          "title": "Macron rejects interior minister’s resignation after French riots",
+          "url": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5",
+          "source": "International homepage",
+          "published_at": "2026-10-19T08:29:43.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F564bd1e6-670d-44a2-8c6a-28ee94578395.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Political recriminations fly as authorities admit that police botched oversight of protests"
+        },
+        {
+          "title": "France Protests: 1800 arrested as Macron refuses Interior minister’s resignation",
+          "url": "https://www.thehindu.com/videos/france-protests-1800-arrested-as-macron-refuses-interior-ministers-resignation/article71602406.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-19T09:45:20.000Z",
+          "description": "At least 1,800 people have been arrested as violent protests sweep France amid public anger over rising living costs and poor school conditions. President Emmanuel Macron has rejected Interior Minister Laurent Nuñez’s resignation and ordered a review of security failures."
+        },
+        {
+          "title": "Macron rejects interior minister's resignation after France-wide riots",
+          "url": "https://tribune.com.pk/story/2635684/macron-rejects-interior-ministers-resignation-after-france-wide-riots",
+          "source": "express tribune",
+          "published_at": "2026-10-19T02:49:46.000Z",
+          "description": "Violence targeted around 1,500 businesses, with nearly 2,400 arrested, according to official figures"
+        },
+        {
+          "title": "🔴 Live: Macron rejects French interior minister's resignation after weekend of unrest",
+          "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-19T05:18:07.000Z",
+          "description": "French President Emmanuel Macron slammed on Monday security \"failures\" that he said led to violent protests that rocked the country, but refused the resignation of Interior Minister Laurent Nunez over the crisis. At least 2,400 people were arrested following the unrest that saw town halls burned do…"
+        }
+      ],
+      "summary": "French President Emmanuel Macron rejected Interior Minister Laurent Nuñez’s resignation after violent protests and criticized security failures. The unrest included looting and property damage, while Prime Minister Sébastien Lecornu called for limited local curfews."
+    },
+    {
+      "id": "topic_fb9cd73ffbf52159",
+      "title": "Elina Svitolina Announces End of Marriage to Gaël Monfils",
+      "headline": "Elina Svitolina announces the end of her marriage to Gael Monfils",
+      "label": [
+        "svitolina",
+        "monfils",
+        "elina",
+        "gael",
+        "marriage",
+        "announces"
+      ],
+      "category": "new",
+      "theme": "theme_c8e77c9b08abd8",
+      "entities": [
+        "Elina Svitolina",
+        "Gael Monfils",
+        "Slowly",
+        "Ukraine",
+        "Need"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Elina Svitolina announces the end of her marriage to Gael Monfils",
+          "url": "https://www.thestar.com/elina-svitolina-announces-the-end-of-her-marriage-to-gael-monfils/image_c275eca7-1074-5001-94e4-aa5cee41110e.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-10-19T08:25:10.000Z",
+          "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/27/c275eca7-1074-5001-94e4-aa5cee41110e/6ad5d51dc9e71.image.jpg?resize=300%2C200",
+          "description": "FILE - Gael Monfils, of France, acknowledges fans after losing to Learner Tien, of the United States, during the second round of the U.S. Open tennis championships, Thursday, Sept. 3, 2026, in New York. (AP Photo/Adam Hunger, File)"
+        },
+        {
+          "title": "Elina Svitolina announces end of marriage to fellow tennis star Gael Monfils",
+          "url": "https://www.espn.com/tennis/story/_/id/50218032/elina-svitolina-gael-monfils-end-marriage",
+          "source": "www.espn.com - TENNIS",
+          "published_at": "2026-10-19T15:44:33.000Z",
+          "description": "The sixth-ranked Ukrainian said in an Instagram post on Monday that it is \"the most difficult thing I have ever had to share.\""
+        },
+        {
+          "title": "‘Slowly losing myself’: Elina Svitolina announces end of marriage to Gael Monfils amid Ukraine war",
+          "url": "https://www.smh.com.au/sport/slowly-losing-myself-svitolina-announces-end-of-marriage-to-monfils-amid-ukraine-war-20261020-p616z5.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-19T23:28:18.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.28217995060843243%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_219%2C$y_52/t_crop_custom/q_86%2Cf_auto/97731541ce47a53a4326455077154d84979234a5",
+          "description": "The Australian Open semi-finalist and the recently retired French crowd favourite had been married for five years."
+        },
+        {
+          "title": "Elina Svitolina splits from Gael Monfils: Need to find my way back to myself",
+          "url": "https://www.indiatoday.in/sports/tennis/story/elina-svitolina-gael-monfils-split-ukraine-war-personal-struggles-find-way-back-3020623-2026-10-19",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-19T08:01:31.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/elina-svitolina--gael-monfils-190056180-16x9_0.jpg?VersionId=.Lc.3jnFDLJVJLC4bmVXVllbeoLpxls_",
+          "description": "Elina Svitolina splits from Gael Monfils Need to find my way back to myself"
+        },
+        {
+          "title": "Tennis : Elina Svitolina annonce la fin de son mariage avec Gaël Monfils",
+          "url": "https://www.franceinfo.fr/sports/tennis/gael-monfils/tennis-elina-svitolina-annonce-la-fin-de-son-mariage-avec-gael-monfils_8244265.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-10-19T15:42:27.000Z",
+          "description": "La joueuse ukrainienne a annoncé la nouvelle lundi dans un long post sur ses réseaux sociaux."
+        }
+      ],
+      "summary": "Ukrainian tennis player Elina Svitolina announced that her marriage to French player Gaël Monfils has ended. The couple had been married for five years."
+    },
+    {
+      "id": "topic_b66a956aefafcb78",
+      "title": "UN Food Programme Cuts Assistance to Palestinians Amid Funding Shortages",
+      "headline": "World Food Program cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
+      "label": [
+        "palestinians",
+        "aid",
+        "cuts",
+        "gaza",
+        "food",
+        "funding"
+      ],
+      "category": "new",
+      "theme": "theme_4422a7997442a809",
+      "entities": [
+        "World Food Program",
+        "Palestinians",
+        "Gaza",
+        "WFP",
+        "World Food Programme"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "World Food Program cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
+          "url": "https://japantoday.com/category/world/world-food-programme-cuts-aid-to-500-000-palestinians-in-gaza-cites-funding-shortages",
+          "source": "Japan Today",
+          "published_at": "2026-10-19T21:40:51.000Z",
+          "description": "The UN World Food Program has said funding shortages are forcing major cuts to its aid program in Gaza, ‌leaving about 500,000 people without monthly food support in…"
+        },
+        {
+          "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+          "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-19T11:41:00.000Z",
+          "description": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency."
+        },
+        {
+          "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+          "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-19T10:08:06.000Z",
+          "description": "The UN agency says funding shortages threaten to reverse 'modest and fragile' progress on food security."
+        },
+        {
+          "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
+          "url": "https://www.thehindubusinessline.com/news/world/world-food-programme-cuts-aid-to-500000-palestinians-in-gaza-citing-funding-shortages/article71602360.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-19T10:39:58.000Z",
+          "description": "Programme reduces monthly support to 1.1 million people as two-thirds of the population face crisis-level food insecurity"
+        },
+        {
+          "title": "Short of funds, UN food agency cuts aid to 700,000 Palestinians",
+          "url": "https://www.seattletimes.com/nation-world/nation/short-of-funds-un-food-agency-cuts-aid-to-500000-palestinians-in-gaza-and-200000-in-the-west-bank",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-10-19T21:34:05.000Z",
+          "description": "The United Nations has cut food assistance to 500,000 Palestinians in Gaza and 200,000 in the West Bank due to a serious funding shortage."
+        }
+      ],
+      "summary": "The World Food Programme says funding shortages have forced it to cut monthly food assistance for 500,000 people in Gaza and 200,000 in the West Bank. The agency says the cuts threaten fragile progress on food security."
+    },
+    {
+      "id": "topic_6ad80d384558a394",
+      "title": "Supreme Court Rejects Bid to Revive 9/11 Plea Deal",
+      "headline": "Supreme Court Rejects Khalid Sheikh Mohammed Bid to Revive 9/11 Plea Deal",
+      "label": [
+        "revive",
+        "plea",
+        "supreme",
+        "court",
+        "deal",
+        "mastermind"
+      ],
+      "category": "new",
+      "theme": "theme_3e34799e98cf2ae",
+      "entities": [
+        "Supreme Court Rejects Khalid",
+        "Sheikh Mohammed Bid",
+        "Revive",
+        "Plea Deal",
+        "Supreme"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Supreme Court Rejects Khalid Sheikh Mohammed Bid to Revive 9/11 Plea Deal",
+          "url": "https://internewscast.com/news/supreme-court-rejects-khalid-sheikh-mohammed-bid-to-revive-9-11-plea-deal",
+          "source": "Internewscast",
+          "published_at": "2026-10-19T19:44:39.000Z",
+          "description": "Internewscast Internewscast WASHINGTON — The Supreme Court on Monday rejected Khalid Sheikh Mohammed’s bid… This Post: Supreme Court Rejects Khalid Sheikh Mohammed Bid to Revive 9/11 Plea Deal first appeared on Internewscast"
+        },
+        {
+          "title": "Supreme court rejects effort to revive plea deal for Khalid Sheikh Mohammed in 9/11 attacks",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-19T15:50:08.000Z",
+          "image": "https://i.guim.co.uk/img/media/3974fc6263b9555d1f99f65b0d741fd12f06f723/3_0_4081_3264/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=fe3930ad6b34c5711f13d1af0e57a945",
+          "description": "Agreement would have spared Mohammed risk of execution in exchange for guilty plea and life in prison The supreme court on Monday rejected an effort to revive a plea deal for Khalid Sheikh Mohammed, the accused mastermind of the attacks on 11 September 2001. The agreement would have spared Mohammed…"
+        },
+        {
+          "title": "Supreme Court rejects effort to revive Khalid Sheikh Mohammed plea deal",
+          "url": "https://abcnews.com/us/wirestory/supreme-court-rejects-effort-revive-khalid-sheikh-mohammed-137379605",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-19T16:11:25.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_824102b1eee6ced225e56d54ff230acb_4x3_384.jpg",
+          "description": "The Supreme Court has rejected an effort to revive a plea deal for Khalid Sheikh Mohammed, the accused mastermind of the September 11 attacks"
+        },
+        {
+          "title": "Supreme Court rejects bid by 9/11 mastermind Khalid Sheikh Mohammed to revive controversial plea deal",
+          "url": "https://nypost.com/2026/10/19/us-news/supreme-court-slaps-down-bid-by-notorious-9-11-mastermind-ksm-to-revive-infamous-plea-deal",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-19T19:04:42.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2017-photo-provided-lawyers-shows-145722682.jpg?w%3D727",
+          "description": "The Supreme Court rejected notorious 9/11 mastermind Khalid Sheikh Mohammed's bid to restore a controversial plea deal in 2024 that would've saved him from the death penalty."
+        },
+        {
+          "title": "US Supreme Court denies bid by accused 9/11 mastermind to revive plea deal",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3371419/us-supreme-court-denies-bid-accused-9/11-mastermind-revive-plea-deal",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-19T16:48:40.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/5b0dbe08-226c-4080-952b-a24bd1e0628a_b1bef850.jpg?itok=FTlSeJ63&v=1792428370",
+          "description": "The US Supreme Court on Monday rejected an appeal by accused September 11 mastermind Khalid Sheikh Mohammed and two alleged accomplices that sought to revive plea deals which were later revoked. Mohammed and two others charged with involvement in the 2001 September 11 attacks – Walid bin Attash and…"
+        }
+      ],
+      "summary": "The U.S. Supreme Court rejected an appeal by Khalid Sheikh Mohammed and two alleged accomplices seeking to revive plea deals that had been revoked. The agreements would have spared the defendants the risk of execution in exchange for guilty pleas and life sentences."
+    },
+    {
+      "id": "topic_7601d43a5e8074fd",
+      "title": "Actor Richard Riehle Dies at 78",
+      "headline": "Richard Riehle, Office Space Actor, Dead At 78",
+      "label": [
+        "riehle",
+        "richard",
+        "space",
+        "actor",
+        "office",
+        "dies"
+      ],
+      "category": "new",
+      "theme": "theme_fcf5e3329b08938f",
+      "entities": [
+        "Richard Riehle",
+        "Office Space Actor",
+        "Dead At",
+        "Office Space And Star",
+        "Trek Character Actor"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Richard Riehle, Office Space Actor, Dead At 78",
+          "url": "https://www.tvline.com/2290758/richard-riehle-dead-office-space-obituary",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-10-19T18:38:11.000Z",
+          "description": "Character actor Richard Riehle has died - read his obituary."
+        },
+        {
+          "title": "Richard Riehle, Office Space And Star Trek Character Actor, Dead At 78",
+          "url": "https://www.slashfilm.com/2290704/richard-riehle-office-space-star-trek-character-actor-dead-obituary",
+          "source": "/Film",
+          "published_at": "2026-10-19T18:19:28.000Z",
+          "description": "Richard Riehle, a beloved character actor with over 40 years of experience that included a memorable role in Office Space, has died."
+        },
+        {
+          "title": "Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78",
+          "url": "https://variety.com/2026/film/news/richard-riehle-dead-office-space-star-trek-bridesmaids-actor-1236916721",
+          "source": "Variety",
+          "published_at": "2026-10-19T19:17:38.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2187632495.jpg",
+          "description": "Richard Riehle, known for playing Tom Smykowski in “Office Space” and many other character actor roles, died of natural causes Oct. 15 in Los Angeles, Variety has confirmed. He was 78. Riehle was born in Menomonee Falls, Wisconsin, on May 12, 1948. He attended the University of Notre Dame before re…"
+        },
+        {
+          "title": "Richard Riehle, ‘Office Space’ And ‘The Fugitive’ Actor, Dies At 78",
+          "url": "https://www.forbes.com/sites/timlammers/2026/10/19/richard-riehle-office-space-and-casino-actor-dies-at-78",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-19T18:53:40.000Z",
+          "description": "Richard Riehle, a prolific character actor who appeared in such notable films as \"Office Space,\" \"Casino\" and \"The Fugitive,\" dies."
+        },
+        {
+          "title": "Richard Riehle Dies: ‘Office Space’ & ‘Bridesmaids’ Actor Was 78",
+          "url": "https://deadline.com/2026/10/richard-riehle-dead-office-space-actor-1237168053",
+          "source": "Deadline",
+          "published_at": "2026-10-19T20:51:49.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Richard-Riehle.jpg",
+          "description": "Richard Riehle, an actor in Office Space, Bridesmaids, Casino, Deuce Bigalow: Male Gigolo, and The Man From Earth, has died. He was 78. Riehle played Tom Smykowski, a cynical Initech product manager, in the Mike Judge satirical comedy, sharing credits with Ron Livingston, Jennifer Aniston, Stephen…"
+        }
+      ],
+      "summary": "Character actor Richard Riehle, known for roles in “Office Space,” “The Fugitive” and other films, has died at 78. He died of natural causes in Los Angeles on October 15."
+    },
+    {
+      "id": "topic_b950dfa421540354",
+      "title": "Apple Announces October 28 Event Titled “Pro and Tell”",
+      "headline": "Apple announces special event for October 28: ‘Pro and tell’",
+      "label": [
+        "tell",
+        "pro",
+        "event",
+        "apple",
+        "october",
+        "special"
+      ],
+      "category": "new",
+      "theme": "theme_568ae9a70375992b",
+      "entities": [
+        "Apple",
+        "October",
+        "Pro",
+        "Apple Announces October",
+        "Tell"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Apple announces special event for October 28: ‘Pro and tell’",
+          "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28",
+          "source": "9to5Mac",
+          "published_at": "2026-10-19T16:02:47.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.” Here’s what to expect. more…"
+        },
+        {
+          "title": "Apple Announces October 28 'Pro and Tell' Event",
+          "url": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event",
+          "source": "Slashdot",
+          "published_at": "2026-10-19T19:30:00.000Z",
+          "description": "Following its October 13 HomeView launch, Apple is gearing up for its second hardware event of the month. The event is scheduled for October 28 in Los Angeles and carries the tagline \"Pro and tell.\" 9to5Mac reports: Rumors say Apple has a slew of new products to announce at its next event, headlini…"
+        },
+        {
+          "title": "Apple announces special event for October 28: ‘Pro and tell’",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxpu1lvt2vhwnnhc3d5wg1qthq1b0zxc2psbxz6ewfwr0j2vejmbgqtsjj0du5dowjqa0c5ymywvwj6ogzylv9kvhp4m2hkcflrefvlsvd0ahngeudpa0c4yu4ts1hinndfbfk3enqwuwt3bvq5cez2wtfunw82rdg4se5r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-19T16:02:00.000Z",
+          "description": "Apple announces special event for October 28: ‘Pro and tell’ 9to5Mac Three Important MacBook Pro Touch Release Dates Forbes Apple still has one more product launch this month, and it’s a big one Macworld Touchscreen MacBook Pro Could Launch on November 6 MacRumors Apple’s next-gen Macs could hit th…"
+        },
+        {
+          "title": "Apple teases ‘Pro and Tell’ event on October 28",
+          "url": "https://www.macworld.com/article/3264015/apple-teases-pro-and-tell-event-on-october-28.html",
+          "source": "Macworld",
+          "published_at": "2026-10-19T17:12:17.000Z",
+          "image": "https://www.macworld.com/wp-content/uploads/2026/10/3264015-0-13345400-1792429950-apple-pro-and-tell-event.jpg?quality=50&strip=all",
+          "description": "Macworld Apple on Monday has announced that it is holding an event dubbed “Pro and Tell” in Los Angeles on October 28. The event is expected to spotlight the debut of the rumored touchscreen MacBook Pro, Apple’s first-ever Mac to feature touch input. Apple VP Greg Joswiak teased the event in an ani…"
+        },
+        {
+          "title": "Apple makes ‘Pro and Tell’ event official for October 28",
+          "url": "https://www.cultofmac.com/news/apple-pro-and-tell-event-october-28-touchscreen-macbook-pro",
+          "source": "Cult of Mac",
+          "published_at": "2026-10-19T17:30:23.000Z",
+          "description": "Apple makes its rumored October 28 event official with a “Pro and Tell” invitation. A touchscreen MacBook Pro could headline the announcements. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)"
+        }
+      ],
+      "summary": "Apple announced an event in Los Angeles for October 28 at 10 a.m. Pacific time, with the tagline “Pro and tell.” Reports say a touchscreen MacBook Pro could be among the products featured."
+    },
+    {
+      "id": "topic_cae63e703f4c6826",
+      "title": "Kenyan Court Finds Cult Leader Guilty in Deaths of 191 People",
+      "headline": "Kenyan starvation cult leader found guilty of murder of 191 children, 1 adult",
+      "label": [
+        "guilty",
+        "cult",
+        "murder",
+        "leader",
+        "children",
+        "adult"
+      ],
+      "category": "new",
+      "theme": "theme_397397f0f5532178",
+      "entities": [
+        "Kenyan",
+        "Doomsday",
+        "The Guardian",
+        "Kenya",
+        "Cult"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Kenyan starvation cult leader found guilty of murder of 191 children, 1 adult",
+          "url": "https://www.scmp.com/news/world/africa/article/3371417/kenyan-starvation-cult-leader-found-guilty-murder-191-children-1-adult",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-19T15:51:17.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/19/53432a21-0648-4791-9b97-63ab9c82a771_416f1a7f.jpg?itok=Svlo0SM3&v=1792425063",
+          "description": "A Kenyan court on Monday found starvation cult leader ⁠Paul Mackenzie and about 30 others guilty of ⁠murder over the deaths of 190 children and one adult in ⁠one of the world’s worst cult-related disasters in recent history. Mackenzie and his co-accused will be given their sentence on November 6. M…"
+        },
+        {
+          "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+          "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+          "source": "The Guardian",
+          "published_at": "2026-10-19T16:08:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
+          "description": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s wors…"
+        },
+        {
+          "title": "Doomsday cult leader found guilty of murdering 190 children and one adult",
+          "url": "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-19T09:21:00.000Z",
+          "description": "A doomsday cult leader has been found guilty of ordering his followers to starve themselves - leading to 191 deaths."
+        },
+        {
+          "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxpbg5tmw00yvfnltjezej6ufhsmudxbupgds1tn2rkbtniadntsexqmwlcefvhv0dwszhrmlpiwnfdbfhor2v1sxhizlltq181zepzy0ndrffhsgvoquxdumjtb2jtqul3c2lyrhlozfvbwjc3r2dxefvvrgp4emfpcw5zszbxvzzccjuzwnnuafdizdbsxznsck5utkzgvjhotvfj",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-19T16:17:00.000Z",
+          "description": "Kenyan starvation cult leader guilty of murder of 190 children and one adult The Guardian Shakahola cult leader Paul Mackenzie guilty of 191 murder charges in Kenya BBC Kenyan cult leader guilty of ordering followers to starve their children to death Sky News Kenyan court convicts starvation cult l…"
+        },
+        {
+          "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+          "url": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-19T15:49:00.000Z",
+          "description": "Preacher Paul Mackenzie was accused of encouraging his followers to starve themselves to death. He ran a Christian doomsday cult called the Good News International Church that claimed the end of the world was imminent."
+        }
+      ],
+      "summary": "A Kenyan court found Paul Mackenzie and about 30 others guilty of murder over the deaths of 190 children and one adult. Prosecutors said Mackenzie’s church urged followers to starve themselves and their children."
+    },
+    {
+      "id": "topic_37d484277d98c066",
+      "title": "Kylie Jenner Wears Fantasy Bra at Victoria’s Secret Fashion Show",
+      "headline": "Kylie Jenner Just Walked Her First Victoria’s Secret Fashion Show Wearing a $50 Million Fantasy Bra",
+      "label": [
+        "victoria",
+        "secret",
+        "fashion",
+        "show",
+        "jenner",
+        "kylie"
+      ],
+      "category": "trending",
+      "theme": "theme_3a95593f18639f43",
+      "entities": [
+        "Kylie Jenner Just Walked",
+        "Her First Victoria",
+        "Secret Fashion Show Wearing",
+        "Million Fantasy Bra",
+        "Victoria"
+      ],
+      "article_count": 50,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Kylie Jenner Just Walked Her First Victoria’s Secret Fashion Show Wearing a $50 Million Fantasy Bra",
+          "url": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-victorias-secret-fashion-show-2026",
+          "source": "Latest from Who What Wear",
+          "published_at": "2026-10-19T00:51:48.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/bX734wFPrfEguNnfPBw9aC-1920-80.jpg",
+          "description": "An iconic bra for an iconic girl"
+        },
+        {
+          "title": "Victoria’s Secret Fashion Show Fans Slam Kylie Jenner’s Bra Look",
+          "url": "https://internewscast.com/news/victorias-secret-fashion-show-fans-slam-kylie-jenners-bra-look",
+          "source": "Internewscast",
+          "published_at": "2026-10-19T08:09:30.000Z",
+          "description": "Internewscast Internewscast Kylie Jenner’s unexpected runway debut at the 2026 Victoria’s Secret Fashion Show… This Post: Victoria’s Secret Fashion Show Fans Slam Kylie Jenner’s Bra Look first appeared on Internewscast"
+        },
+        {
+          "title": "Kylie Jenner, a $70 million bra and nepo babies: The 2026 Victoria’s Secret Fashion Show",
+          "url": "https://www.theage.com.au/lifestyle/fashion/kylie-jenner-a-70-million-bra-and-nepo-babies-the-2026-victoria-s-secret-fashion-show-20261019-p616lp.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-19T04:39:16.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.24236718518518516%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_74%2C$y_211/t_crop_custom/q_86%2Cf_auto/ba18ca632be42d3d65180c37a97d032fe95eac52de804a14448e9456152d80f5",
+          "description": "Once a thriving lingerie empire, the Victoria’s Secret brand has been mired by controversy and falling profits. For their latest parade, they relied on star power and old favourites to entice young audiences."
+        },
+        {
+          "title": "The Fantasy Bra makes a comeback at Victoria’s Secret Fashion Show",
+          "url": "https://www.smh.com.au/culture/the-fantasy-bra-makes-a-comeback-at-victoria-s-secret-fashion-show-20261019-p616s2.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-19T03:08:28.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c252354f5842cc5c481bc9292f8cb1c4be73732a",
+          "description": "The Fantasy Bra has made its long-awaited return to the Victoria’s Secret Fashion Show - on Kylie Jenner, no less."
+        },
+        {
+          "title": "5 details you might have missed at the 2026 Victoria's Secret Fashion Show",
+          "url": "https://www.businessinsider.com/victorias-secret-fashion-show-details-you-missed-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-19T16:37:27.000Z",
+          "image": "https://i.insider.com/6ad63a6f2428f6b455813b51?format=jpeg",
+          "description": "Elsa Hosk walks the 2026 Victoria's Secret Fashion Show runway in Los Angeles. Frazer Harrison/Getty Images There was a lot to see at the Victoria's Secret Fashion Show on Sunday night. Kylie Jenner modeled a $50 million bra that featured no fabric. Adriana Lima, on the other hand, walked her 21st…"
+        }
+      ],
+      "summary": "Kylie Jenner made her runway debut at the 2026 Victoria’s Secret Fashion Show wearing the returning Fantasy Bra. The show took place in Los Angeles."
+    },
+    {
+      "id": "topic_798f4318d55fc5fd",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems",
+      "headline": "DHS Bans DeepSeek From Federal Civilian Agencies",
+      "label": [
+        "civilian",
+        "deepseek",
+        "federal",
+        "agencies",
+        "dhs",
+        "bans"
+      ],
+      "category": "new",
+      "theme": "theme_c550a8d3e133d41f",
+      "entities": [
+        "DHS Bans DeepSeek From",
+        "Federal Civilian Agencies",
+        "DHS",
+        "DeepSeek",
+        "Homeland Security"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "DHS Bans DeepSeek From Federal Civilian Agencies",
+          "url": "https://www.databreachtoday.co.uk/dhs-bans-deepseek-from-federal-civilian-agencies-a-33146",
+          "source": "DataBreachToday.co.uk RSS Syndication",
+          "description": "Supply-Chain Order Sweeps in Vendor Tools Running on DeepSeek Models Federal civilian agencies must scrub DeepSeek and any vendor tools running on its models from their networks under a U.S. Department of Homeland Security supply-chain order signed months before it surfaced Monday."
+        },
+        {
+          "title": "DHS to ban DeepSeek from federal civilian agencies",
+          "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies",
+          "source": "CyberScoop",
+          "published_at": "2026-10-19T15:27:20.000Z",
+          "description": "The order cites national security concerns, including sending data to servers in China, the potential malware and the overall risk to federal IT systems. The post DHS to ban DeepSeek from federal civilian agencies appeared first on CyberScoop."
+        },
+        {
+          "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+          "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-10-19T16:59:28.000Z",
+          "description": "The decision comes a couple of days after the release of Deepseek's latest AI model."
+        },
+        {
+          "title": "DHS orders DeepSeek removal from all federal civilian systems and bars future use",
+          "url": "https://seekingalpha.com/news/4654309-dhs-orders-deepseek-removal-from-all-federal-civilian-systems-and-bars-future-use",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-19T16:15:06.000Z"
+        },
+        {
+          "title": "US orders civilian federal agencies to remove DeepSeek from their systems",
+          "url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies",
+          "source": "The Next Web",
+          "published_at": "2026-10-19T15:47:09.000Z",
+          "image": "https://media.thenextweb.com/2026/08/Deepseek-chat-interface.avif",
+          "description": "The Department of Homeland Security has ordered US civilian federal agencies to remove DeepSeek products from their IT systems and stop buying them, under a 2018 supply chain security law. The order covers third-party tools built on DeepSeek’s models, and cites the risk that sensitive data could be…"
+        }
+      ],
+      "summary": "The Department of Homeland Security ordered federal civilian agencies to remove DeepSeek products and tools using its models from their systems and stop buying them. The order cites national security and information-technology risks."
+    }
+  ]
+}
