@@ -1,0 +1,925 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-21T00:51:49.704Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A Reuters/Ipsos poll put President Donald Trump’s approval at 31%, a record low, and showed Democrats leading Republicans 47% to 35% on the congressional ballot.",
+        "stories": [
+          8
+        ]
+      },
+      {
+        "text": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu amid discussion of a possible resumption of the Iran war.",
+        "stories": [
+          6
+        ]
+      },
+      {
+        "text": "A Google Cloud outage in London disrupted services at several UK banks, including Revolut, Lloyds and HSBC, with Revolut customers reporting payment and ATM problems.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Alberta voters rejected a move toward independence and backed remaining part of Canada in the province’s referendum.",
+        "stories": [
+          11
+        ]
+      },
+      {
+        "text": "Tesla and SpaceX formed special committees to discuss a possible merger, according to Elon Musk, who leads both companies.",
+        "stories": [
+          10
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_cb4fdafe77aa4bf5",
+      "title": "Christina Applegate Says She Was Misdiagnosed With MS",
+      "headline": "Christina Applegate says she was misdiagnosed with MS",
+      "label": [
+        "applegate",
+        "christina",
+        "misdiagnosed",
+        "ms",
+        "sclerosis",
+        "multiple"
+      ],
+      "category": "new",
+      "theme": "theme_971555fad092058a",
+      "entities": [
+        "Christina Applegate",
+        "MS",
+        "Actor Christina Applegate",
+        "PBS",
+        "Christina Applegate Reveals She"
+      ],
+      "article_count": 28,
+      "source_count": 22,
+      "articles": [
+        {
+          "title": "Christina Applegate says she was misdiagnosed with MS",
+          "url": "https://japantoday.com/category/entertainment/christina-applegate-says-she-was-misdiagnosed-with-ms",
+          "source": "Japan Today",
+          "published_at": "2026-10-20T21:41:33.000Z",
+          "description": "Actor Christina Applegate on Tuesday said she had been misdiagnosed with multiple sclerosis, which doctors had attributed her symptoms to since 2021. The Emmy-nominated actor, who first gained…"
+        },
+        {
+          "title": "Christina Applegate reveals she was misdiagnosed with MS",
+          "url": "https://www.brisbanetimes.com.au/culture/celebrity/christina-applegate-reveals-she-was-misdiagnoses-with-ms-20261021-p617ah.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-20T20:58:04.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.299%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f9baa7f835d3d80d7dd474634eafcdbe272de7b6",
+          "description": "The actor says the news is not as good as it might seem – she is now “back at square one”."
+        },
+        {
+          "title": "Christina Applegate says she was misdiagnosed with multiple sclerosis",
+          "url": "https://globalnews.ca/news/12109532/christina-applegate-misdiagnosed-multiple-sclerosis",
+          "published_at": "2026-10-20T18:50:49.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/christina-applegate-misdiagnosed-ms.jpg?quality=65&strip=all",
+          "description": "'This may come as great news, but to me, I’m back at square one where I don’t know what’s going on with me,' the 54-year-old actor said."
+        },
+        {
+          "title": "Christina Applegate says she was misdiagnosed with MS and is now 'back at square one'",
+          "url": "https://www.foxnews.com/entertainment/christina-applegate-says-she-misdiagnosed-ms-now-back-square-one",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-20T14:20:40.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/christina-applegate-critics-choice-awards.jpg?ve=1&tl=1",
+          "description": "Christina Applegate fought back tears discussing her MS misdiagnosis, saying the news brought confusion, depression and no relief from symptoms."
+        },
+        {
+          "title": "Christina Applegate reveals she was misdiagnosed with MS: I’m back at square one",
+          "url": "https://www.irishexaminer.com/lifestyle/people/arid-41926724.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-10-20T16:12:00.000Z",
+          "description": "The Anchorman star, 54, said it is common to get an MS misdiagnosis, adding that she had 'every symptom' of someone who has the condition"
+        }
+      ],
+      "summary": "Christina Applegate says doctors had attributed her symptoms to multiple sclerosis since 2021, but she was misdiagnosed. She says she is now back at square one, still unsure what is causing her symptoms."
+    },
+    {
+      "id": "topic_61850ffcb39fd55c",
+      "title": "Google Cloud Outage Disrupts UK Banking Services",
+      "headline": "Google cloud outage takes down banks",
+      "label": [
+        "outage",
+        "cloud",
+        "google",
+        "banks",
+        "revolut",
+        "uk"
+      ],
+      "category": "new",
+      "theme": "theme_79ddfb4051ac677a",
+      "entities": [
+        "Google",
+        "Google Cloud",
+        "UK",
+        "Google Cloud Outage Takes",
+        "Down Revolut"
+      ],
+      "article_count": 22,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "Google cloud outage takes down banks",
+          "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more",
+          "source": "Hacker News",
+          "published_at": "2026-10-20T10:26:02.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Google Cloud outage takes down C and other banks in UK",
+          "url": "https://www.thehindubusinessline.com/info-tech/google-cloud-outage-takes-down-c-and-other-banks-in-uk/article71604294.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-20T12:37:50.000Z",
+          "description": "Alphabet Inc.’s Google said its London-region services “are experiencing issues” on its status page, with no further details on the cause"
+        },
+        {
+          "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-10-20T10:29:12.000Z",
+          "description": "An outage at Google Cloud knocked out banking services in the UK including Revolut Ltd. early on Tuesday."
+        },
+        {
+          "title": "Google Cloud outage takes down Revolut, Lloyds, and HSBC",
+          "url": "https://protos.com/google-cloud-outage-takes-down-revolut-lloyds-and-hsbc",
+          "source": "Protos",
+          "published_at": "2026-10-20T11:38:17.000Z",
+          "description": "An issue with Google Cloud's London-based data center has caused a major outage impacting the services of multiple banks. The post Google Cloud outage takes down Revolut, Lloyds, and HSBC appeared first on Protos."
+        },
+        {
+          "title": "Google Cloud Outage in London Disrupts Revolut Banking Services",
+          "url": "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html",
+          "source": "Security Affairs",
+          "published_at": "2026-10-20T15:45:42.000Z",
+          "description": "Google Cloud’s London outage disrupted Revolut payments and ATM withdrawals, while ING Germany reported online banking issues. Multiple Google Cloud services went offline in the London region this morning, according to Google’s status page, and the disruption didn’t stay contained to infrastructure…"
+        }
+      ],
+      "summary": "An outage affecting Google Cloud’s London region disrupted services at several banks, including Revolut, Lloyds and HSBC. Revolut customers experienced problems with payments and ATM withdrawals."
+    },
+    {
+      "id": "topic_a622017e2e704890",
+      "title": "Prince Harry Says He Wants to Reconcile With Family",
+      "headline": "Prince Harry says he wants to reconcile with family",
+      "label": [
+        "harry",
+        "wants",
+        "prince",
+        "family",
+        "work",
+        "reconcile"
+      ],
+      "category": "new",
+      "theme": "theme_37e88456b2d4b43c",
+      "entities": [
+        "Prince Harry",
+        "Harry",
+        "BBC",
+        "NBC News",
+        "Charles"
+      ],
+      "article_count": 15,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Prince Harry says he wants to reconcile with family",
+          "url": "https://japantoday.com/category/world/prince-harry-says-he-wants-to-reconcile-with-family",
+          "source": "Japan Today",
+          "published_at": "2026-10-20T21:38:12.000Z",
+          "description": "Prince Harry has said he hoped to reconcile with King Charles and the rest of his family with whom he fell out when he ‌moved to the United…"
+        },
+        {
+          "title": "Harry says he wants to 'work it out' with his family",
+          "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o",
+          "source": "BBC News",
+          "published_at": "2026-10-20T14:01:40.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/c33eba90-cc89-11f1-bed8-c51b95c602ec.jpg",
+          "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month."
+        },
+        {
+          "title": "Prince Harry says he 'wants it to work out' with his family... but takes a jab at those who 'don't want to'",
+          "url": "https://www.dailymail.com/news/article-16223557/prince-harry-says-wants-work-reconcile-william.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-20T12:39:41.000Z",
+          "description": "The Duke of Sussex, who has not spoken to his brother for four years, said he wants to 'work it out' with his older sibling."
+        },
+        {
+          "title": "Harry says he wants to 'work it out' with his family",
+          "url": "https://news.google.com/rss/articles/cbmiw0fvx3lxte1tsgjidezvnznpaulmwkqxwnm2albhqne2ehrlexnwekxmnghouwhmejnoduluuw5ptkxumhhjtjlvc3husgfquzllb3hrvkddnlljdwtfcw1hn2c",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T14:01:40.000Z",
+          "description": "Harry says he wants to 'work it out' with his family BBC Prince Harry says he wants to reconcile with family Reuters Prince Harry’s Comment Was ‘Not Intended as a Swipe’ at Prince William People.com Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word InStyle Prince Ha…"
+        },
+        {
+          "title": "Prince Harry: ‘I want family reconciliation ... but some people don’t’",
+          "url": "https://www.brisbanetimes.com.au/world/europe/prince-harry-i-want-family-reconciliation-but-some-people-don-t-20261021-p6179h.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-20T18:28:44.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1.1993%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9cd2c462b557594c6f84906fbd018260262d1cbe",
+          "description": "Harry explains how reuniting with his estranged brother remains his main goal, but admits that “scars stick around forever” in his first major interview since his UK return."
+        }
+      ],
+      "summary": "Prince Harry says he wants to reconcile with his family, including his brother, Prince William. He acknowledged that lasting hurt remains between them."
+    },
+    {
+      "id": "topic_96854bf5e4b7092b",
+      "title": "Spotify Removes 50 Million AI and Spam Tracks From Recommendations",
+      "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "label": [
+        "slop",
+        "spotify",
+        "tracks",
+        "spam",
+        "recommendations",
+        "million"
+      ],
+      "category": "new",
+      "theme": "theme_6aa35773fa482ad6",
+      "entities": [
+        "Spotify",
+        "AI",
+        "Spotify Removes",
+        "Million AI Slop Tracks",
+        "Recommendations This Year"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+          "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+          "source": "The Verge",
+          "published_at": "2026-10-20T14:18:37.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music made by human artis…"
+        },
+        {
+          "title": "Spotify pulls 50M AI slop and spam tracks from its recommendations",
+          "url": "https://thenextweb.com/news/spotify-50-million-ai-slop-tracks-recommendations",
+          "source": "The Next Web",
+          "published_at": "2026-10-20T16:01:36.000Z",
+          "image": "https://media.thenextweb.com/2026/10/spotify-logo-tv-green-backlight.avif",
+          "description": "Spotify says it has taken more than 50 million AI-generated “slop” and spam tracks out of its recommendations this year, on top of 75 million spam tracks it has deleted. It found these were the tracks listeners skipped or rejected most. Spotify did not say how many of the 50 million were made with…"
+        },
+        {
+          "title": "Spotify Removes 50 Million AI Slop Tracks from Recommendations This Year",
+          "url": "https://variety.com/2026/music/news/spotify-removes-50-million-ai-slop-tracks-recommendations-1236917108",
+          "source": "Variety",
+          "published_at": "2026-10-20T12:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Header-1.png",
+          "description": "Spotify’s quest to curb the chaos AI-generated music has brought onto the platform has caused it to remove 50 million AI slop tracks from users’ recommendations, a new figure shared Tuesday as part of the company’s public insights into how it’s navigating the AI era. The disclosure came in a post o…"
+        },
+        {
+          "title": "Spotify has pulled more than 50m ‘AI slop and spam’ tracks out of its recommendations this year",
+          "url": "https://www.musicbusinessworldwide.com/spotify-has-pulled-more-than-50m-ai-slop-and-spam-tracks-out-of-its-recommendations-this-year",
+          "source": "Music Business Worldwide",
+          "published_at": "2026-10-20T11:51:25.000Z",
+          "description": "'AI-generated slop and spam don't belong in your recommendations, and we've made changes to keep them out and protect the listening experience,' Spotify said in a blog post. Source"
+        },
+        {
+          "title": "Spotify Purged Over 50 Million AI Slop and Spam Songs From User Recommendations",
+          "url": "https://gizmodo.com/spotify-purged-over-50-million-ai-slop-and-spam-songs-from-user-recommendations-2000828403",
+          "source": "Gizmodo",
+          "published_at": "2026-10-20T20:15:06.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/08/Spotify-1280x853.jpg",
+          "description": "The music streaming giant has updated its recommendation system to prioritize music made by human artists over AI slop."
+        }
+      ],
+      "summary": "Spotify says it removed more than 50 million AI-generated and spam tracks from its recommendations over the past year. The company says it has also deleted 75 million spam tracks."
+    },
+    {
+      "id": "topic_abf88300118d11b4",
+      "title": "Ten Hag Says Ronaldo Let Manchester United Down",
+      "headline": "Erik ten Hag: Cristiano Ronaldo let the team down, and he let me down",
+      "label": [
+        "hag",
+        "ronaldo",
+        "ten",
+        "let",
+        "cristiano",
+        "erik"
+      ],
+      "category": "new",
+      "theme": "theme_b7393cd3ce30d41d",
+      "entities": [
+        "Erik",
+        "Hag",
+        "Cristiano Ronaldo",
+        "Ronaldo",
+        "Manchester United"
+      ],
+      "article_count": 17,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Erik ten Hag: Cristiano Ronaldo let the team down, and he let me down",
+          "url": "https://sports.yahoo.com/articles/erik-ten-hag-cristiano-ronaldo-102000929.html",
+          "published_at": "2026-10-20T10:20:00.000Z",
+          "description": "Erik ten Hag says Cristiano Ronaldo \"let the team down\" during his time as Manchester United manager, revealing that the Portuguese forward told teammates to save their legs in training.The Dutchman h..."
+        },
+        {
+          "title": "Ronaldo let Manchester United down - Ten Hag",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo",
+          "source": "BBC Sport",
+          "published_at": "2026-10-20T12:12:51.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg",
+          "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford."
+        },
+        {
+          "title": "Ten Hag: Ronaldo let Man United down",
+          "url": "https://www.espn.com/soccer/story/_/id/50226133/man-united-cristiano-ronaldo-erik-ten-hag-premier-league",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-10-20T10:37:21.000Z",
+          "description": "Former Manchester United head coach Erik ten Hag has revealed that he had a strained relationship with Cristiano Ronaldo at times during his reign, who \"let the team down\" in his second stint at Old Trafford."
+        },
+        {
+          "title": "Erik ten Hag on Cristiano Ronaldo 'Let the team down' rift and issues with Man Utd owners",
+          "url": "https://www.the42.ie/erik-ten-hag-christiano-ronaldo-7198980-oct2026",
+          "source": "The 42",
+          "published_at": "2026-10-20T10:15:52.000Z",
+          "description": "Ten Hag was speaking in depth for the first time about the end of his time with Manchester United."
+        },
+        {
+          "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
+          "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+          "source": "The Guardian",
+          "published_at": "2026-10-20T10:43:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/bca316b352ae27aea0282a113f93b4ade9c91737/165_67_1558_1246/master/1558.jpg?width=140&quality=85&auto=format&fit=max&s=3b1bfdd8e43d0588554e01d7a32a1f9c",
+          "description": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises made by United’s owners went unfulfilled,…"
+        }
+      ],
+      "summary": "Former Manchester United manager Erik ten Hag said Cristiano Ronaldo let the team and him down during Ronaldo’s second spell at the club. Ten Hag also described tensions in their relationship."
+    },
+    {
+      "id": "topic_d2dd1ed1ee0bd9c8",
+      "title": "Hegseth Meets Netanyahu During Unannounced Israel Visit",
+      "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
+      "label": [
+        "hegseth",
+        "netanyahu",
+        "israel",
+        "unannounced",
+        "meets",
+        "visit"
+      ],
+      "category": "new",
+      "theme": "theme_216cc93e11433324",
+      "entities": [
+        "Hegseth",
+        "Netanyahu",
+        "Israel",
+        "Al Jazeera",
+        "Hegseth Meets"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+          "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-20T00:08:01.000Z",
+          "description": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources."
+        },
+        {
+          "title": "Hegseth meets Netanyahu in unannounced visit to Israel, source says",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-20-hegseth-meets-netanyahu-in-unannounced-visit-to-israel-source-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-10-20T10:57:13.000Z",
+          "description": "US Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday, a person familiar with the matter said, as tensions flare between the US and Iran."
+        },
+        {
+          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+          "url": "https://news.google.com/rss/articles/cbmimafbvv95cuxoqu1su1r3euwtxzvwzdvonlpiquffudhtul9nbng0q2dryuxxukzjytnkmnb3x0m5t096zetzmlltm0jtbc1jy21esc1grk5qvmtxbmdyss1ydkl2uwf0t3dtc1pwqzg1lwzbudlxzddmzdfty1n5uwtzr3rns2lvnwlatw9st29zm1lbr29yanpwde5gtjn6onibngfbvv95cuxqrnj5dlbilufqbtjmzhd2vs1hv1j6cv9pmvjmaziyoulksxhylw0zy0fkchnyyzz6rwl1mfhov2vsqkzonem3ulzsnknfuvlpd0qttvzyuwxoxzvlcunpthlhd3vvwknslvm3qklcoxhmddqzsgg3bjb2wklhd1hlbzfhnucwme9pc1jbtdfic25fujlfwmr5ds1bbk1iqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T00:21:56.000Z",
+          "description": "Hegseth meets Netanyahu in unannounced Israel visit Al Jazeera Hegseth makes unannounced trip and other Mideast news AP News Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war CBS News Live - Hegseth meets Netanyahu on unannounced Israel visit - Axios Iran In…"
+        },
+        {
+          "title": "Hegseth Meets with Netanyahu in Israel Ahead of Elections",
+          "url": "https://politicalwire.com/2026/10/20/hegseth-meets-with-netanyahu-in-israel-ahead-of-elections",
+          "source": "Political Wire",
+          "published_at": "2026-10-20T09:09:00.000Z",
+          "description": "“Defense Secretary Pete Hegseth quietly visited Israel on Monday and met with Prime Minister Benjamin Netanyahu,” CBS News reports."
+        },
+        {
+          "title": "Hegseth meets Netanyahu ahead of elections, possible Iran war restart",
+          "url": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-20T04:50:45.000Z",
+          "description": "Defense Secretary Pete Hegseth made an unannounced visit to Israel just over a week before Prime Minister Benjamin Netanyahu stands for elections, and as President Trump floats restarting the Iran war."
+        }
+      ],
+      "summary": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu. The visit came ahead of Israeli elections and amid discussion of a possible resumption of the Iran war."
+    },
+    {
+      "id": "topic_e8643eb1d739ca18",
+      "title": "Jay-Z Reportedly Set to Headline 2027 Super Bowl Halftime Show",
+      "headline": "Jay-Z Looks To Have Picked Jay-Z To Headline 2027 Super Bowl Halftime Show",
+      "label": [
+        "jay",
+        "bowl",
+        "super",
+        "halftime",
+        "show",
+        "headline"
+      ],
+      "category": "new",
+      "theme": "theme_2c80d5e271a934dc",
+      "entities": [
+        "Jay",
+        "Looks To Have Picked",
+        "To Headline",
+        "Super Bowl Halftime Show",
+        "JAY"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Jay-Z Looks To Have Picked Jay-Z To Headline 2027 Super Bowl Halftime Show",
+          "url": "https://deadline.com/2026/10/jay-z-super-bowl-halftime-show-2027-1237168702",
+          "source": "Deadline",
+          "published_at": "2026-10-20T17:35:04.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Jay-Z.jpg",
+          "description": "Jay-Z, whose Roc Nation is the organizer behind the Apple Music Super Bowl Halftime Show, will be the headliner for the 2027 event at Los Angeles’ SoFi Stadium, a music industry insider has confirmed to Deadline. The rap superstar and 25-time Grammy winner has been in the news being in the middle o…"
+        },
+        {
+          "title": "JAY-Z to Headline 2027 Super Bowl Halftime Show: Report",
+          "url": "https://consequence.net/2026/10/jay-z-super-bowl-halftime-show",
+          "source": "Consequence",
+          "published_at": "2026-10-20T11:19:37.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/09/JAY-Z.jpg?quality=80",
+          "description": "The rap mogul reportedly considered Justin Bieber and Miley Cyrus before ultimately selecting himself to play Super Bowl LXI. JAY-Z to Headline 2027 Super Bowl Halftime Show: Report Alex Young"
+        },
+        {
+          "title": "Jay-Z to headline Super Bowl half time show",
+          "url": "https://www.brisbanetimes.com.au/sport/jay-z-to-headline-super-bowl-half-time-show-20261021-p617ad.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-20T19:39:58.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/985fe4afa0c0e9fc582e03919f9b41d096abf6da",
+          "description": "American rapper Jay-Z is reportedly set to headline the Super Bowl half time show in 2027."
+        },
+        {
+          "title": "Jay-Z Picks Jay-Z for Super Bowl LXI (Dave Brooks/Puck)",
+          "url": "https://www.memeorandum.com/261020/p120",
+          "source": "memeorandum",
+          "published_at": "2026-10-20T21:20:00.000Z",
+          "description": "Dave Brooks / Puck: Jay-Z Picks Jay-Z for Super Bowl LXI — Ever since the rapper and Roc Nation head signed on to oversee the show in 2019, his own headlining spot has seemed like a certainty. According to sources, 2027 will be that year. — After weeks of handwringing, Jay-Z, the chief decision-mak…"
+        },
+        {
+          "title": "Jay-Z Didn’t Get Picked for the Super Bowl Halftime Show. He Owns the Thing That Does the Picking",
+          "url": "https://www.inc.com/michael-tasner/jay-z-super-bowl-halftime-show-ownership-strategy/91422955",
+          "source": "Inc.com",
+          "published_at": "2026-10-20T20:15:58.000Z",
+          "description": "What the music mogul’s halftime show takeover teaches every business about the power of owning your own distribution."
+        }
+      ],
+      "summary": "Jay-Z is reportedly set to headline the 2027 Super Bowl halftime show at SoFi Stadium in Los Angeles. His company, Roc Nation, organizes the show."
+    },
+    {
+      "id": "topic_8fcecbd6e805e931",
+      "title": "Trump Approval Falls to 31% in Poll Ahead of Midterms",
+      "headline": "Trump approval rating hits record low of 31% as midterms near",
+      "label": [
+        "approval",
+        "low",
+        "rating",
+        "record",
+        "midterms",
+        "trump"
+      ],
+      "category": "new",
+      "theme": "theme_77521be22fa415c4",
+      "entities": [
+        "Trump",
+        "Approval Rating Hits Record",
+        "Low",
+        "In Latest Poll",
+        "US"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump approval rating hits record low of 31% as midterms near",
+          "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-approval-hits-record-low-of-31-as-midterms-near-democrats-lead-by-12-points/articleshow/135060566.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-20T03:29:58.000Z"
+        },
+        {
+          "title": "Trump’s Approval Rating Hits Record Low 31% In Latest Poll",
+          "url": "https://www.forbes.com/sites/saradorn/2026/10/20/trumps-approval-rating-hits-record-low-31-in-latest-poll",
+          "source": "Forbes - Business",
+          "published_at": "2026-10-20T22:04:02.000Z",
+          "description": "Democrats have a 12-point advantage on the generic congressional ballot, according to the latest Reuters poll."
+        },
+        {
+          "title": "Trump's approval rating hits new record low as US midterms loom",
+          "url": "https://news.sky.com/story/trumps-approval-rating-hits-new-record-low-as-us-midterms-loom-13601177",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-20T04:01:00.000Z",
+          "description": "Donald Trump's approval rating has fallen to a record low - indicating that next month's midterm elections could be punishing for the Republicans."
+        },
+        {
+          "title": "US midterm elections: Trump approval rating falls to new low",
+          "url": "https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-20T15:22:29.000Z",
+          "description": "With US President Donald Trump’s approval rating falling to a record low of 31%, Republicans are facing mounting concerns ahead of November’s midterm elections. Republicans are at risk of losing control of the House of Representatives, but how big could the Democrats’ gains be? FRANCE 24’s Internat…"
+        },
+        {
+          "title": "Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds",
+          "url": "https://tribune.com.pk/story/2635945/trumps-approval-falls-to-record-low-of-31-as-midterms-near-reutersipsos-poll-finds",
+          "source": "express tribune",
+          "published_at": "2026-10-20T11:18:59.000Z",
+          "description": "Democrats lead Republicans 47% to 35% on congressional generic ballot, 68% disapprove of Trump's handling of economy"
+        }
+      ],
+      "summary": "A Reuters/Ipsos poll put President Donald Trump’s approval rating at 31%, a record low. The poll also showed Democrats leading Republicans 47% to 35% on the generic congressional ballot."
+    },
+    {
+      "id": "topic_ebf6ef41939c53fb",
+      "title": "Ohio Governor’s Race Attack Ad Features Amy Acton’s Mother",
+      "headline": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governors Race Even Uglier",
+      "label": [
+        "governor",
+        "ohio",
+        "race",
+        "ad",
+        "featuring",
+        "mother"
+      ],
+      "category": "new",
+      "theme": "theme_168d7761e3a3eab3",
+      "entities": [
+        "Attack Ad Featuring Candidate",
+        "Mother Turns Ohio Governors",
+        "Race Even Uglier",
+        "Mother Turns Ohio Governor",
+        "The New York Times"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governors Race Even Uglier",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-10-20T16:10:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20midterms-ramaswamy-ad-hfpm/20midterms-ramaswamy-ad-hfpm-mediumSquareAt3X.jpg",
+          "description": "A Republican ad features Amy Acton’s estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton’s mother backed her husband after his arrest on rape charges."
+        },
+        {
+          "title": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxpakc5njzmwgfarfzrwf9qx3vst3i3vvzsqlb5wg4tyvdfdzhimnzkc1huowe4mjc3egdprknzrhd5ofiwem0wqme4eddmrmjcnhl3zmria0i4awfjbzvatldrx1bnqmzwbedxz1p0nwpkthrmwlazx2rnm1hwuew3atnmr2p2v2pfvgjhdkxnb3d4mzfycjdpd3jqstdwudbkalvwbulwr3pcmdroc3c",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T18:30:06.000Z",
+          "description": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier The New York Times Dem Candidate’s Family Rips Vivek Ramaswamy Over ‘Despicable’ Attack Ad Rolling Stone Ohio gubernatorial candidate Amy Acton’s campaign condemns ad featuring her estranged mother Politico Democrat in Oh…"
+        },
+        {
+          "title": "Brother of Democrat in Ohio governor’s race condemns attack ad featuring their estranged mother",
+          "url": "https://www.ms.now/news/amy-acton-mother-attack-ad-ohio-governor-estranged",
+          "source": "MS NOW",
+          "published_at": "2026-10-20T19:31:14.000Z",
+          "description": "Acton accused her stepfather of sexually abusing her as a child, and her mother, who has denied those allegations, calls Acton “a liar” in the ad. The post Brother of Democrat in Ohio governor’s race condemns attack ad featuring their estranged mother appeared first on MS NOW."
+        },
+        {
+          "title": "Attack Ad Featuring Candidate's Mother Turns Ohio Governors Race Even Uglier (Jessica Contrera/New York Times)",
+          "url": "https://www.memeorandum.com/261020/p65",
+          "source": "memeorandum",
+          "published_at": "2026-10-20T16:20:01.000Z",
+          "description": "Jessica Contrera / New York Times: Attack Ad Featuring Candidate's Mother Turns Ohio Governors Race Even Uglier — A Republican ad features Amy Acton's estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton's mother backed her husband after his arrest on rape charges."
+        },
+        {
+          "title": "Ohio Governor’s Race Gets Even Uglier",
+          "url": "https://politicalwire.com/2026/10/20/ohio-governors-race-gets-even-uglier",
+          "source": "Political Wire",
+          "published_at": "2026-10-20T16:08:22.000Z",
+          "description": "The New York Times has the backstory after the mother of Ohio gubernatorial candidate Amy Acton (D) released an ad calling her daughter a liar: “In 2019, Dr. Acton gave an interview to The Vindicator, the since-folded daily newspaper of Youngstown, Ohio, in which she disclosed being sexually abused…"
+        }
+      ],
+      "summary": "A Republican attack ad in Ohio’s governor’s race features Amy Acton’s estranged mother calling her a liar. Acton and her mother have been estranged amid a family dispute over allegations against Acton’s stepfather."
+    },
+    {
+      "id": "topic_8e9cd8277573d57a",
+      "title": "Tesla and SpaceX Form Committees to Explore Possible Merger",
+      "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+      "label": [
+        "merger",
+        "tesla",
+        "spacex",
+        "musk",
+        "committees",
+        "formed"
+      ],
+      "category": "new",
+      "theme": "theme_eb40420490d21a24",
+      "entities": [
+        "Elon Musk",
+        "Tesla",
+        "SpaceX",
+        "Andrew",
+        "Hawkins"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "source": "BBC News",
+          "published_at": "2026-10-20T22:43:56.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+          "description": "Musk says special committees within both companies have been formed to look a possible mega-merger."
+        },
+        {
+          "title": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a \"good idea\" (Andrew J. Hawkins/The Verge)",
+          "url": "https://www.techmeme.com/261020/p50",
+          "source": "Techmeme",
+          "published_at": "2026-10-20T21:45:01.000Z",
+          "description": "Andrew J. Hawkins / The Verge: Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a “good idea” — Musk called the merger “a good idea,” though it cautioned it wasn't a guarantee."
+        },
+        {
+          "title": "Musk says SpaceX, Tesla form committees to explore potential merger",
+          "url": "https://seekingalpha.com/news/4654965-musk-says-spacex-tesla-form-committees-to-explore-potential-merger",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-20T21:40:54.000Z"
+        },
+        {
+          "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+          "source": "The Verge",
+          "published_at": "2026-10-20T21:30:24.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees have not reached agreement on the terms of any transaction - and that there's…"
+        },
+        {
+          "title": "Tesla and SpaceX have set up committees to explore a merger",
+          "url": "https://www.businessinsider.com/tesla-spacex-merger-exploratory-commitees-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-20T22:16:57.000Z",
+          "image": "https://i.insider.com/6ad7dd9e2428f6b4558143e7?format=jpeg",
+          "description": "Elon Musk said Tesla and SpaceX have created committees to discuss a potential merger. Bloomberg/Getty Images SpaceX and Tesla have each established exploratory committees to discuss a possible merger, Elon Musk said. Musk, who said he can't participate in the talks, gave the update during Tesla's…"
+        }
+      ],
+      "summary": "Elon Musk said Tesla and SpaceX have formed special committees to discuss a possible merger. Musk, who leads both companies, called the possibility a good idea."
+    },
+    {
+      "id": "topic_8e96f525d928a5c4",
+      "title": "Alberta Voters Reject Independence and Back Remaining in Canada",
+      "headline": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "label": [
+        "toward",
+        "independence",
+        "move",
+        "reject",
+        "alberta",
+        "canada"
+      ],
+      "category": "new",
+      "theme": "theme_88e67617dcbaaa9a",
+      "entities": [
+        "Alberta",
+        "Canadian",
+        "Canada",
+        "AP News",
+        "NPR"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-20T06:02:40.000Z",
+          "description": "Voters in Canada's oil-rich province of Alberta have rejected a proposal to begin a process toward independence, results showed early Tuesday, delivering a victory for supporters of Canadian unity."
+        },
+        {
+          "title": "Alberta rejects move toward independence from Canada",
+          "url": "https://www.france24.com/en/video/20261020-alberta-rejects-move-toward-independence-from-canada",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-20T13:51:33.000Z",
+          "description": "Canada's province of Alberta rejected a plan to hold a binding independence referendum, results showed Tuesday, a win for unity as the country faces worsening ties with the United States. With more than 1.5 million votes counted, 76% supported remaining in Canada, while close to 24% backed beginnin…"
+        },
+        {
+          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxoswzuce56yy02mwjywdbwq1rvdezoa2hztgdhenvqbgd2vms5bg5lvu41umzjbwfcamjyn2dodgxfm3ntei1oxzzaeenurkj4alriow5tzhizuhznt3fuburtslbaqzzaewoznhvyc2rodhjywwjncjl2we9qng5jcg94qnpar0lqdhvzqwftvvi2alpfx3bvbkzgvghvuuq4owt1qq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T06:51:00.000Z",
+          "description": "Alberta voters reject a move toward independence in referendum backing Canadian unity AP News Voters in Oil-Rich Alberta Reject Leaving Canada The New York Times Albertans reject push for independence from Canada Axios Alberta voters reject plan for referendum to leave Canada The Guardian Alberta r…"
+        },
+        {
+          "title": "‘Albertans chose Canada’: Voters reject move towards independence in victory for Carney",
+          "url": "https://www.brisbanetimes.com.au/world/north-america/albertans-chose-canada-voters-reject-move-towards-independence-in-victory-for-carney-20261020-p6177o.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-20T08:35:06.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.3024%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_148%2C$y_35/t_crop_custom/q_86%2Cf_auto/7af6bd850e84e075580e350651593ad46c521086",
+          "description": "Donald Trump’s trade war and threats to make Canada the 51st US state have helped PM Mark Carney rally support in Alberta."
+        },
+        {
+          "title": "Alberta rejects a move toward independence from Canada in a victory for Carney (Rob Gillies/Associated Press)",
+          "url": "https://www.memeorandum.com/261020/p1",
+          "source": "memeorandum",
+          "published_at": "2026-10-20T09:05:01.000Z",
+          "description": "Rob Gillies / Associated Press: Alberta rejects a move toward independence from Canada in a victory for Carney — Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Mark Carney's push for…"
+        }
+      ],
+      "summary": "Alberta voters rejected a move toward independence and backed remaining part of Canada in the province’s referendum. The result was described as a victory for supporters of Canadian unity."
+    },
+    {
+      "id": "topic_eecef103b6197df9",
+      "title": "Final Fantasy Resonance Reviews Praise Its Throwback Style",
+      "headline": "Final Fantasy Resonance Review - On Its Own Wavelength",
+      "label": [
+        "resonance",
+        "fantasy",
+        "final",
+        "review",
+        "square",
+        "enix"
+      ],
+      "category": "new",
+      "theme": "theme_8983bcd805bca5d9",
+      "entities": [
+        "Final Fantasy Resonance",
+        "Final Fantasy Resonance Review",
+        "On Its Own Wavelength",
+        "Round Up",
+        "The Reviews Are In"
+      ],
+      "article_count": 14,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Final Fantasy Resonance Review - On Its Own Wavelength",
+          "url": "https://gameinformer.com/review/final-fantasy-resonance/on-its-own-wavelength",
+          "source": "Game Informer",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "description": "Reviewed on: Switch 2 Platform: PlayStation 5, Xbox Series X/S, Switch, PC Publisher: Square Enix Developer: Square Enix Release: October 22, 2026 Rating: Everyone 10+ RPG publisher Square Enix has been doing the Lord's work lately by rescuing their discontinued mobile games and rehydrating them in…"
+        },
+        {
+          "title": "Final Fantasy Resonance review",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-10-20T13:00:39.000Z",
+          "description": "I think the most memorable bit of brilliance in the otherwise flawed diamond that is Final Fantasy 16 is the way it handles legacy. There are moments where Clive and his recalcitrant band of revolutionaries rage against the way of the world: they burn down cities, depose oligarchs, shatter crystals…"
+        },
+        {
+          "title": "Round Up: The Reviews Are In For Final Fantasy Resonance",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-10-20T15:00:00.000Z",
+          "description": "Did it resonate? After a slice of nostalgia? Final Fantasy Resonance arrives later this week on 22nd October, and it looks to be a real series throwback. With that release date right around the corner, Square Enix has lifted the lid on the game's reviews today, so we can get a good idea of what to…"
+        },
+        {
+          "title": "Final Fantasy Resonance review - a HD2D comfort blanket",
+          "url": "https://www.pcgamesn.com/final-fantasy-resonance/review-a-hd2d-comfort-blanket",
+          "source": "PCGamesN",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "description": "Final Fantasy Resonance is a wonderful HD2D entry into the storied series, bringing fresh ideas and a beautiful throwback aesthetic to the table."
+        },
+        {
+          "title": "Final Fantasy Resonance Saves A Great Story From Live-Service Oblivion | Review",
+          "url": "https://www.gamespot.com/videos/final-fantasy-resonance-saves-a-great-story-from-live-service-oblivion-review",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Review_FFResonance_SITE.jpg?w=300",
+          "description": "As both a remake and a standalone experience, Final Fantasy Resonance shines more than it stumbles. And while Final Fantasy Resonance succeeds admirably in retelling the saga of Rain and the battle against the Veritas, it does have a handful of shortcomings that keep it from becoming the next great…"
+        }
+      ],
+      "summary": "Reviews describe Final Fantasy Resonance as a nostalgic, HD-2D entry that retells the story of Rain. Critics say it has fresh ideas but also flaws."
+    },
+    {
+      "id": "topic_93e59b991440dccb",
+      "title": "Orionid Meteor Shower to Peak This Week",
+      "headline": "The Orionid meteor shower is coming. Here's how and when to watch",
+      "label": [
+        "meteor",
+        "orionid",
+        "shower",
+        "skies",
+        "coming",
+        "ap"
+      ],
+      "category": "new",
+      "theme": "theme_4383a6dcd8dd9050",
+      "entities": [
+        "The Orionid",
+        "AP News",
+        "Orionid",
+        "Irish",
+        "UK"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "The Orionid meteor shower is coming. Here's how and when to watch",
+          "url": "https://phys.org/news/2026-10-orionid-meteor-shower.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-10-20T18:30:01.000Z",
+          "description": "The Orionids—one of two major meteor showers caused by remnants from Halley's Comet—will peak this week, though a large moon will dim visibility until after it sets late at night."
+        },
+        {
+          "title": "The Orionid meteor shower is coming. Here’s how and when to watch",
+          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxnx2hfcgsztzbkbel2ewg1sjjra3pasw4tevlnytb2axy2bjr3oxvwskhnvhjyde1wuffknlmwcjd5c1pqrm53rm9an18zn01quw9xa0lqczfjd3bot2s3mhhuylndwkztmujzrhhhqwrzaudhyulfq1nvaksxs0mzb254snzlmhfjq3lhyzdiovnvt3nvcf80bhblqna",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T15:47:00.000Z",
+          "description": "The Orionid meteor shower is coming. Here’s how and when to watch AP News Orionid meteor shower 2026: cloud cover forecast by region The Weather Channel Halley’s Comet Returns To The Night Sky — Sort Of Forbes 'Most beautiful' meteor shower set to peak. When to watch the Orionids Detroit Free Press…"
+        },
+        {
+          "title": "Orionid meteor shower to light up Irish skies with up to 20 meteors an hour",
+          "url": "https://www.irishmirror.ie/news/irish-news/orionid-meteor-shower-light-up-37793014",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-20T19:24:15.000Z",
+          "description": "The annual celestial spectacle, which is known for producing bright meteors and occasional fireballs, is expected to be at its best in the early hours of Thursday, October 22"
+        },
+        {
+          "title": "Orionid meteor shower to peak in UK skies this week",
+          "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
+          "source": "BBC News",
+          "published_at": "2026-10-20T06:31:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
+          "description": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+        },
+        {
+          "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
+          "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events",
+          "source": "Science Latest",
+          "published_at": "2026-10-20T09:30:00.000Z",
+          "description": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy."
+        }
+      ],
+      "summary": "The Orionid meteor shower, made from debris left by Halley’s Comet, is expected to peak this week. Viewers may see about 10 to 20 meteors an hour, though moonlight could reduce visibility until the Moon sets."
+    },
+    {
+      "id": "topic_13e934994d5bf54",
+      "title": "Suspect Arrested After Limoges City Hall Fire",
+      "headline": "Après l’incendie de la mairie de Limoges, un homme fiché S et lié à l’ultragauche interpellé",
+      "label": [
+        "limoges",
+        "mairie",
+        "interpellé",
+        "incendie",
+        "fiché",
+        "ultragauche"
+      ],
+      "category": "new",
+      "theme": "theme_4ad5a5aaa0236793",
+      "entities": [
+        "Apr",
+        "Limoges",
+        "Trentenaire",
+        "Quel",
+        "Incendie"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Après l’incendie de la mairie de Limoges, un homme fiché S et lié à l’ultragauche interpellé",
+          "url": "https://www.huffingtonpost.fr/france/article/apres-l-incendie-de-la-mairie-de-limoges-un-homme-fiche-s-et-lie-a-l-ultragauche-interpelle_342278.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-10-20T08:13:17.000Z",
+          "description": "Au titre de sa mission de lutte contre les extrémismes violents, la Sous-direction anti-terroriste est saisie après l’interpellation d’un homme de 40 ans."
+        },
+        {
+          "title": "Trentenaire, fiché S… Quel est le profil du suspect de l'incendie de la mairie de Limoges, interpellé ce mardi matin ?",
+          "url": "https://www.franceinfo.fr/faits-divers/trentenaire-fiche-s-quel-est-le-profil-du-suspect-de-l-incendie-de-la-mairie-de-limoges-interpelle-ce-mardi-matin_8245639.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-10-20T13:08:09.000Z",
+          "description": "C’est une avancée majeure dans l’enquête sur l’incendie de la mairie de Limoges : un premier suspect arrêté ce mardi 20 octobre matin par le Raid. Il s'agit d'un homme de 34 ans, appartenant à la mouvance de l'ultragauche et déjà fiché S. Que sait-on de son arrestation ?"
+        },
+        {
+          "title": "Incendie de la mairie de Limoges suite aux manifestations : un homme \"appartenant à l'ultragauche\" interpellé",
+          "url": "https://www.dhnet.be/actu/monde/2026/10/20/incendie-de-la-mairie-de-limoges-suite-aux-manifestations-un-homme-appartenant-a-lultragauche-interpelle-wplxjjqbgjeynmnalx6m6m7eky",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-10-20T08:24:50.000Z",
+          "description": "La partie ancienne de l'hôtel de ville de Limoges, inauguré en 1883 a été \"quasi 100% détruite\" à l'intérieur, selon les autorités. ..."
+        },
+        {
+          "title": "Incendie de la mairie de Limoges : un homme fiché S, suspecté d’appartenir à l’ultragauche, a été interpellé en Haute-Vienne",
+          "url": "https://www.sudouest.fr/haute-vienne/limoges/incendie-de-la-mairie-de-limoges-un-homme-fiche-s-suspecte-d-appartenir-a-l-ultragauche-a-ete-interpelle-en-haute-vienne-31153556.php",
+          "source": "L'essentiel",
+          "published_at": "2026-10-20T07:40:17.000Z",
+          "description": "Un suspect de 40 ans, fiché S et connu pour son appartenance à la mouvance de l’ultragauche, a été arrêté mardi matin par les forces de l’ordre"
+        },
+        {
+          "title": "Incendie de la mairie de Limoges : un homme interpellé, la sous-direction antiterroriste saisie… Ce que l’on sait",
+          "url": "https://www.nouvelobs.com/justice/20261020.obs119361/incendie-de-la-mairie-de-limoges-un-homme-interpelle-la-sous-direction-anti-terroriste-saisie-ce-que-l-on-sait.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-10-20T10:29:52.000Z",
+          "description": "Lors des manifestations de samedi dernier, la mairie de Limoges a été incendiée, la toiture et le beffroi se sont effondrés. Un homme de 34 ans a été interpellé ce mardi."
+        }
+      ],
+      "summary": "French authorities arrested a man suspected of involvement in the fire that severely damaged Limoges city hall during demonstrations. The anti-terrorism sub-directorate was assigned to the investigation."
+    }
+  ]
+}
