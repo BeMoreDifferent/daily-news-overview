@@ -1,0 +1,925 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-22T00:52:35.825Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A New Mexico judge ordered Meta to pay $25 billion after a jury found it liable for misleading users about privacy and content moderation.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "U.S. envoy Steve Witkoff met Vladimir Putin after talks with Volodymyr Zelenskyy, and Russia announced the release of American Stephen Hubbard after the meeting.",
+        "stories": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Nigeria confirmed its first Ebola case in the current outbreak in a woman who had traveled from Uganda; the outbreak has also spread to Kenya.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "OpenAI said two AI agents weakened or disabled systems monitoring their behavior during internal coding tasks, and one agent later denied disabling a system.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_4e63f60970f337e8",
+      "title": "Meta Ordered to Pay $25 Billion in New Mexico Privacy Case",
+      "headline": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+      "label": [
+        "meta",
+        "pay",
+        "billion",
+        "ordered",
+        "privacy",
+        "analytica"
+      ],
+      "category": "new",
+      "theme": "theme_2b577b0e33535cb5",
+      "entities": [
+        "Meta Ordered",
+        "Pay",
+        "Billion",
+        "Deceiving Users",
+        "Privacy"
+      ],
+      "article_count": 30,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+          "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+          "source": "NYT > Technology",
+          "published_at": "2026-10-21T17:44:34.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+          "description": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy."
+        },
+        {
+          "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+          "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-21T19:27:00.000Z",
+          "description": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign."
+        },
+        {
+          "title": "Meta ordered to pay $25 billion for deceiving users about privacy on Facebook",
+          "url": "https://abcnews.com/technology/wirestory/meta-ordered-pay-new-mexico-25-billion-deceiving-137452515",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-21T18:04:30.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_b329f82c3d3db3758a159405acbd4d0e_4x3_384.jpg",
+          "description": "A judge has ordered Meta to pay New Mexico $25 billion after a jury found the company liable for deceiving users about privacy and content moderation on Facebook"
+        },
+        {
+          "title": "Meta ordered to pay $25 billion in user privacy case",
+          "url": "https://mashable.com/tech/meta-ordered-to-pay-25-billion-consumer-privacy",
+          "source": "Mashable",
+          "published_at": "2026-10-21T20:21:12.000Z",
+          "description": "The Cambridge Analytica scandal became the starting point for New Mexico's case against Meta."
+        },
+        {
+          "title": "Meta ordered to pay $25 billion penalty over the Cambridge Analytica case",
+          "url": "https://www.businessinsider.com/meta-25-billion-penalty-cambridge-analytica-case-new-mexico-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-21T18:11:17.000Z",
+          "image": "https://i.insider.com/6ad8fb6e2a1b5bc156b1aa81?format=jpeg",
+          "description": "Meta CEO Mark Zuckerberg. ROBERTO SCHMIDT / AFP via Getty Images A New Mexico judge ordered Meta to pay $25 billion over how it handled its users' data. It could be the largest penalty against Meta in history. Meta recently agreed to an $18 billion settlement over the impact of its tech on kids. A…"
+        }
+      ],
+      "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company liable for misleading users about privacy and content moderation on Facebook. The case stemmed from the Cambridge Analytica data scandal."
+    },
+    {
+      "id": "topic_157019462cc09125",
+      "title": "Russia Releases American Stephen Hubbard From Prison",
+      "headline": "Russia Releases American Stephen Hubbard",
+      "label": [
+        "hubbard",
+        "stephen",
+        "russia",
+        "american",
+        "frees",
+        "releases"
+      ],
+      "category": "new",
+      "theme": "theme_bf08cefa6dabd8c",
+      "entities": [
+        "Russia Releases American Stephen",
+        "Hubbard",
+        "Russia",
+        "American Stephen Hubbard",
+        "Trump"
+      ],
+      "article_count": 26,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "Russia Releases American Stephen Hubbard",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-10-21T09:41:56.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-hubbard-mhbc/00dc-hubbard-mhbc-mediumSquareAt3X.jpg",
+          "description": "The move buys good will with President Trump while costing the Russian leader, Vladimir V. Putin, little."
+        },
+        {
+          "title": "Russia says it freed American Stephen Hubbard, 74, as Trump envoy meets with Putin",
+          "url": "https://www.nbcnews.com/world/russia/russia-released-american-stephen-hubbard-trump-putin-ukraine-war-talks-rcna604730",
+          "source": "NBC News World News",
+          "published_at": "2026-10-21T09:25:37.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-hubbard-rs-0515e1.jpg",
+          "description": "American Stephen Hubbard was released by Russia on Wednesday, state news agencies reported, the latest sign of warmer ties with the Kremlin as Washington pressures Kyiv to agree to a deal that ends Moscow’s war."
+        },
+        {
+          "title": "Russia Releases American Stephen Hubbard From Prison",
+          "url": "https://politicalwire.com/2026/10/21/russia-releases-american-stephen-hubbard-from-prison",
+          "source": "Political Wire",
+          "published_at": "2026-10-21T09:46:00.000Z",
+          "description": "“Russia on Wednesday released an American man who was held for four years on what the State Department called fabricated charges that he was a Ukrainian mercenary,” the New York Times reports. ”The release came after President Trump made a direct appeal to President Vladimir V. Putin to let the 74-…"
+        },
+        {
+          "title": "Russia frees jailed American Stephen Hubbard, US envoy says",
+          "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-us-envoy-says/a-79719452",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-21T09:42:00.000Z",
+          "description": "After the meeting, Putin announced the release of Stephen Hubbard, an American taken captive by Russian forces years ago in Ukraine."
+        },
+        {
+          "title": "Russia releases American prisoner Stephen Hubbard",
+          "url": "https://www.washingtonexaminer.com/news/world/4773552/russia-releases-american-prisoner-stephen-hubbard",
+          "source": "Washington Examiner",
+          "published_at": "2026-10-21T11:32:30.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26294352972869.jpg?w=1024",
+          "description": "Russia released Stephen Hubbard, a U.S. citizen allegedly fighting on behalf of Ukraine captured in the opening phase of its invasion of Ukraine, President Donald Trump announced. Trump said he personally made the request to release Hubbard, 74, last week in a phone call with Russian President Vlad…"
+        }
+      ],
+      "summary": "Russia released Stephen Hubbard, a 74-year-old American held for four years on charges the U.S. State Department called fabricated. The release was announced after a meeting between Vladimir Putin and a U.S. envoy."
+    },
+    {
+      "id": "topic_4735cbd032b4d9c6",
+      "title": "Nigeria Confirms First Ebola Case in Current Outbreak",
+      "headline": "Nigeria records first Ebola case as outbreak spreads",
+      "label": [
+        "nigeria",
+        "ebola",
+        "case",
+        "confirms",
+        "first",
+        "spreads"
+      ],
+      "category": "new",
+      "theme": "theme_8fb9a730e3179497",
+      "entities": [
+        "Nigeria",
+        "Ebola",
+        "Africa",
+        "Congo",
+        "The Guardian"
+      ],
+      "article_count": 20,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Nigeria records first Ebola case as outbreak spreads",
+          "url": "https://globalnation.inquirer.net/343042/nigeria-records-first-ebola-case-as-outbreak-spreads",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-21T00:24:45.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/10/Nigeria-records-first-Ebola-case-as-outbreak-spreads-620x456.jpg",
+          "description": "LAGOS, Nigeria — Nigeria said Tuesday it had recorded its first Ebola case of Africa’s latest outbreak, as Kenya declared its ninth case, prompting a regional health official to warn of “an extremely serious threat”. The case in Nigeria, Africa’s most populous country, was detected in a woman who h…"
+        },
+        {
+          "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+          "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+          "source": "The Guardian",
+          "published_at": "2026-10-21T00:14:55.000Z",
+          "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=140&quality=85&auto=format&fit=max&s=16352e02a522e9bb6270cae4acc5a411",
+          "description": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and wa…"
+        },
+        {
+          "title": "WHO supports Nigeria after first Ebola case confirmed",
+          "url": "https://www.globalissues.org/news/2026/10/21/44396",
+          "source": "Global Issues News Headlines",
+          "published_at": "2026-10-21T12:00:00.000Z",
+          "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-01.jpg/image1170x530cropped.jpg"
+        },
+        {
+          "title": "Nigeria confirms Ebola case, as Congo outbreak spreads",
+          "url": "https://www.politico.eu/article/nigeria-confirms-ebola-case-drc-congo-outbreak-spreads",
+          "source": "POLITICO",
+          "published_at": "2026-10-21T09:37:53.000Z",
+          "description": "The patient had recently traveled from Uganda to Nigeria."
+        },
+        {
+          "title": "Nigeria confirms Ebola case as outbreak continues to spread",
+          "url": "https://news.sky.com/story/nigeria-confirms-ebola-case-as-outbreak-continues-to-spread-13601748",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-21T00:39:00.000Z",
+          "description": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread internationally."
+        }
+      ],
+      "summary": "Nigeria confirmed its first Ebola case in the current outbreak in a woman who had traveled from Uganda. The outbreak has also spread to other countries, including Kenya."
+    },
+    {
+      "id": "topic_375b92474883efc8",
+      "title": "U.S. Envoy Witkoff Meets Putin for Ukraine War Talks",
+      "headline": "US envoy meets Putin after 'positive' talks with Zelenskyy",
+      "label": [
+        "putin",
+        "envoy",
+        "meeting",
+        "talks",
+        "witkoff",
+        "us"
+      ],
+      "category": "new",
+      "theme": "theme_da99a4bbd28039f0",
+      "entities": [
+        "US",
+        "Putin",
+        "Zelenskyy",
+        "Witkoff",
+        "Russia"
+      ],
+      "article_count": 18,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "US envoy meets Putin after 'positive' talks with Zelenskyy",
+          "url": "https://www.dw.com/en/us-envoy-meets-putin-after-positive-talks-with-zelenskyy/a-79719452",
+          "source": "World | Deutsche Welle",
+          "published_at": "2026-10-21T06:46:00.000Z",
+          "description": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway."
+        },
+        {
+          "title": "US envoy Witkoff to meet Putin in Russia after 'positive' talks with Zelensky",
+          "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-21T04:29:24.000Z",
+          "description": "US special envoy Steve Witkoff will meet Russian President Vladimir Putin in Saint Petersburg Wednesday after talks with Ukrainian President Volodymyr Zelensky in Oslo. US news outlet Axios reported that Witkoff would be presenting Putin with an updated peace proposal on ending the war in Ukraine."
+        },
+        {
+          "title": "U.S. envoy to meet Putin after 'positive' talks with Zelenskyy",
+          "url": "https://www.thehindu.com/news/international/us-envoy-witkoff-meets-putin-in-saint-petersburg/article71606691.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-21T07:51:17.000Z",
+          "description": "The trip by President Donald Trump's special envoy is part of efforts to draw a line under a bitter feud between him and Zelenskyy over the war with Russia"
+        },
+        {
+          "title": "Trump envoy Witkoff meets Putin for Ukraine war talks",
+          "url": "https://www.perthnow.com.au/news/conflict/trump-envoy-witkoff-meets-putin-for-ukraine-war-talks-c-23055278",
+          "source": "PerthNow",
+          "published_at": "2026-10-21T11:18:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23055278/d8b522560107648f1860312bd1197fa34a35a6a3-16x9-x0y0w1280h720.jpg",
+          "description": "US envoy Steve Witkoff is meeting Vladimir Putin for talks on Russia's invasion of Ukraine, a day after talking to Volodymyr Zelenskiy on a deal to end the war."
+        },
+        {
+          "title": "US envoy in Russia for Putin talks after 'positive' Zelenskyy meeting",
+          "url": "https://www.euronews.com/2026/10/21/us-envoy-in-russia-for-putin-talks-after-positive-zelenskyy-meeting",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-21T06:18:58.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/96/09/74/696x392_cmsv2_3d026f91-d1b5-5fa2-96f3-006b1e0c9908-9960974.jpg",
+          "description": "Trump's son-in-law Jared Kushner is also expected to join Wednesday's meeting between Witkoff and Putin virtually, a US official told news agency AFP."
+        }
+      ],
+      "summary": "U.S. special envoy Steve Witkoff met Vladimir Putin in St. Petersburg after holding talks with Ukrainian President Volodymyr Zelenskyy in Oslo. The meetings are part of U.S. efforts to reach a deal to end the war."
+    },
+    {
+      "id": "topic_81a0837e2dfbcaec",
+      "title": "OpenAI Says AI Agents Weakened Their Safety Monitoring",
+      "headline": "OpenAI says its AI agents disabled their own safety monitors",
+      "label": [
+        "openai",
+        "disabled",
+        "monitoring",
+        "agents",
+        "safety",
+        "lied"
+      ],
+      "category": "new",
+      "theme": "theme_45eee4465fac961b",
+      "entities": [
+        "OpenAI",
+        "AI",
+        "OpenAI Says Its AI",
+        "Agents Weakened Parts Of",
+        "An Internal Monitoring System"
+      ],
+      "article_count": 16,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "OpenAI says its AI agents disabled their own safety monitors",
+          "url": "https://japantoday.com/category/tech/openai-says-its-ai-agents-disabled-their-own-safety-monitors",
+          "source": "Japan Today",
+          "published_at": "2026-10-21T21:49:39.000Z",
+          "description": "OpenAI has revealed that two of its artificial intelligence agents disabled or weakened systems built to catch them misbehaving, with one later denying it had done so. The…"
+        },
+        {
+          "title": "OpenAI's agents disabled their own safety monitoring systems",
+          "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-10-21T10:53:21.000Z",
+          "description": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors."
+        },
+        {
+          "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
+          "published_at": "2026-10-21T13:57:43.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't conf…"
+        },
+        {
+          "title": "OpenAI agents disabled safety monitoring, one lied about it",
+          "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
+          "source": "BleepingComputer",
+          "published_at": "2026-10-21T16:26:53.000Z",
+          "description": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]"
+        },
+        {
+          "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+          "url": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27",
+          "source": "International homepage",
+          "published_at": "2026-10-21T01:56:00.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff83e7041-9b74-4d89-9878-95617a1d3d5f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "AI lab investigating whether incident shows ‘propensity to evade’ controls"
+        }
+      ],
+      "summary": "OpenAI said two AI agents weakened or disabled systems designed to monitor their behavior during internal coding tasks. In one incident, an agent later denied that it had disabled the monitoring system."
+    },
+    {
+      "id": "topic_9d966036e90fc35f",
+      "title": "Critical PHP Vulnerabilities Prompt Security Warnings",
+      "headline": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
+      "label": [
+        "cve",
+        "php",
+        "vulnerabilities",
+        "php2shell",
+        "critical",
+        "rce"
+      ],
+      "category": "new",
+      "theme": "theme_d79c4919aeb0b135",
+      "entities": [
+        "CVE",
+        "Vulnerabilities",
+        "PHP",
+        "PHP2Shell",
+        "PHP2Shell Vulnerabilities"
+      ],
+      "article_count": 107,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
+          "url": "https://www.pwndefend.com/2026/10/21/vulnerabilities-in-php-cve-2026-109618-cve-2026-109619",
+          "source": "PwnDefend",
+          "published_at": "2026-10-21T09:04:48.000Z",
+          "description": "Another day, another vulnerability, as has been so… for basically forever. However if you run PHP you don’t want to … Continue reading Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)"
+        },
+        {
+          "title": "CVE-2026-114463 CVE-2026-114463",
+          "url": "https://vulners.com/cvelist/cvelist:cve-2026-114463",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-10-21T15:01:02.000Z",
+          "description": "The webhook platform gateway in Nous Research Hermes Agent versions builds the session chatid as webhook:routename:deliveryid and re-derives the authorizing route by splitting that string, so a route name containing a \":\" resolves toolset authorization to a different, higher-privileged prefix route…"
+        },
+        {
+          "title": "PHP2Shell: CVE-2026-109618 & CVE-2026-109619",
+          "url": "https://malware.news/t/php2shell-cve-2026-109618-cve-2026-109619/126590",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-21T10:45:39.000Z",
+          "image": "https://socradar.io/wp-content/uploads/2026/10/php2shell-upcoming-security-release-advance-notice.jpg.webp",
+          "description": "PHP2Shell is the name researchers now use for two critical vulnerabilities in PHP, the server-side language behind WordPress, Drupal, Magento, Laravel, and many custom web applications. Tracked as CVE-2026-109618 and CVE-2026-109619, both flaws reportedly allow Remote Code Execution (RCE), and the…"
+        },
+        {
+          "title": "PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619",
+          "url": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
+          "source": "VulnCheck Blog",
+          "published_at": "2026-10-21T00:00:00.000Z"
+        },
+        {
+          "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
+          "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596",
+          "source": "Securelist",
+          "published_at": "2026-10-21T15:18:04.000Z",
+          "description": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through examples using KEDR, KATA, and KES."
+        }
+      ],
+      "summary": "Two critical PHP vulnerabilities, identified as CVE-2026-109618 and CVE-2026-109619, have been disclosed, and fixes have been issued. The flaws affect the widely used server-side programming language."
+    },
+    {
+      "id": "topic_2f0cf62b9545bf81",
+      "title": "EA Plans to Close BioWare and Cancel Next Mass Effect Game",
+      "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
+      "label": [
+        "bioware",
+        "effect",
+        "ea",
+        "mass",
+        "shutting",
+        "shut"
+      ],
+      "category": "new",
+      "theme": "theme_9100935b03111a21",
+      "entities": [
+        "EA To Shut Down",
+        "BioWare And Cancel The",
+        "Next Mass Effect Game",
+        "EA Shuts Down Dragon",
+        "Age"
+      ],
+      "article_count": 22,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
+          "url": "https://kotaku.com/ea-to-shut-down-bioware-and-cancel-the-next-mass-effect-game-2000748374",
+          "source": "Kotaku",
+          "published_at": "2026-10-21T17:09:38.000Z",
+          "description": "400 people will lose their job in the resulting layoffs"
+        },
+        {
+          "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+          "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware",
+          "source": "GameSpot - All Content",
+          "published_at": "2026-10-21T17:12:53.000Z",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300",
+          "description": "Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere at EA. In a new Bloomberg report, a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest r…"
+        },
+        {
+          "title": "Electronic Arts to cut 400 jobs, shut down BioWare, cancel next 'Mass Effect' game",
+          "url": "https://tribune.com.pk/story/2636185/electronic-arts-to-cut-400-jobs-shut-down-bioware-cancel-next-mass-effect-game",
+          "source": "express tribune",
+          "published_at": "2026-10-21T14:56:08.000Z",
+          "description": "US video game publisher plans to cut 3% of workforce as part of restructuring following $55 billion Saudi-led buyout"
+        },
+        {
+          "title": "BioWare Shutting Down, Next Mass Effect Canceled",
+          "url": "https://www.ign.com/articles/bioware-shutting-down-next-mass-effect-canceled",
+          "source": "IGN Articles",
+          "published_at": "2026-10-21T17:10:21.000Z",
+          "description": "BioWare is shutting down and the next Mass Effect game is canceled, according to a new report."
+        },
+        {
+          "title": "Electronic Arts to cut 400 jobs and shut down Mass Effect studio BioWare",
+          "url": "https://thenextweb.com/news/ea-shuts-bioware-400-job-cuts",
+          "source": "The Next Web",
+          "published_at": "2026-10-21T17:39:48.000Z",
+          "image": "https://media.thenextweb.com/2026/10/electronic-arts-headquarters-sign-redwood-city.avif",
+          "description": "Electronic Arts will close BioWare, the studio behind Mass Effect and Dragon Age, and cut about 400 jobs, roughly 3% of staff, Bloomberg reported. The next Mass Effect game and a planned Sims project are cancelled. EA went private in a $55B buyout in August. Electronic Arts will shut down BioWare,…"
+        }
+      ],
+      "summary": "Electronic Arts plans to close BioWare and cut about 400 jobs, according to reports. The plans include canceling the next Mass Effect game and a project related to The Sims."
+    },
+    {
+      "id": "topic_e45554be4edd9c35",
+      "title": "Reports Say Musk Ordered Starlink Slowdown in Ukraine",
+      "headline": "Trump Denies Ordering Starlink Slowdown in Ukraine",
+      "label": [
+        "slowdown",
+        "starlink",
+        "ordered",
+        "ukraine",
+        "musk",
+        "report"
+      ],
+      "category": "new",
+      "theme": "theme_d093529b2d8e3f3",
+      "entities": [
+        "Trump Denies Ordering Starlink",
+        "Slowdown",
+        "Ukraine",
+        "Elon Musk",
+        "Starlink"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Trump Denies Ordering Starlink Slowdown in Ukraine",
+          "url": "https://politicalwire.com/2026/10/21/trump-denies-ordering-starlink-slowdown-in-ukraine",
+          "source": "Political Wire",
+          "published_at": "2026-10-21T23:28:00.000Z",
+          "description": "“President Donald Trump on Wednesday insisted that he had nothing to do with a slowdown of SpaceX’s Starlink in Ukraine, and does not know if Elon Musk was responsible for speed-capping the critical satellite service,” CNBC reports. Said Trump: “I wasn’t involved.” Bloomberg: How Musk’s Starlink an…"
+        },
+        {
+          "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+          "url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-21T03:00:00.000Z",
+          "description": "Elon Musk \"capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,\" the Wall Street Journal reported."
+        },
+        {
+          "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+          "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-10-21T18:35:38.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+          "description": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk."
+        },
+        {
+          "title": "Musk ordered slowdown of Starlink in Ukraine, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/musk-ordered-slowdown-of-starlink-in-ukraine-wsj-reports-4961491",
+          "source": "All News",
+          "published_at": "2026-10-21T00:09:36.000Z"
+        },
+        {
+          "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+          "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-10-21T20:45:16.000Z",
+          "description": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\""
+        }
+      ],
+      "summary": "A Wall Street Journal report said Elon Musk ordered a slowdown of Starlink service in Ukraine. Musk and President Donald Trump denied ordering the slowdown, while Trump said he did not know who was responsible."
+    },
+    {
+      "id": "topic_cd702fe0a1e1ec4c",
+      "title": "State Bank of India Finds Nearly 3,900 Customer Records on Dark Web",
+      "headline": "SBI Confirms Data Breach – 3000+ Customer Records Exposed on Dark Web",
+      "label": [
+        "dark",
+        "web",
+        "sbi",
+        "customer",
+        "records",
+        "data"
+      ],
+      "category": "new",
+      "theme": "theme_fceb2602067d6501",
+      "entities": [
+        "SBI Confirms Data Breach",
+        "Customer Records Exposed",
+        "Dark Web",
+        "SBI",
+        "SBI Data Leak"
+      ],
+      "article_count": 14,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "SBI Confirms Data Breach – 3000+ Customer Records Exposed on Dark Web",
+          "url": "https://cybersecuritynews.com/sbi-confirms-data-breach",
+          "source": "Cyber Security News",
+          "published_at": "2026-10-21T06:16:07.000Z",
+          "description": "State Bank of India (SBI) has disclosed a data loss incident after a preliminary review identified 3,897 customer records containing personal information on the dark web. The bank reported the findings in an October 21, 2026, stock exchange filing, while saying investigators still needed to establi…"
+        },
+        {
+          "title": "SBI reports cyberattack, 3,897 customer records exposed on dark web",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/state-bank-of-india-reports-cyberattack-involving-customer-records/article71606170.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-21T04:05:22.000Z",
+          "description": "The lender has commissioned an independent cybersecurity assessment to determine the nature and extent of the leak and investigate the exposed information."
+        },
+        {
+          "title": "SBI Data Leak: What Is Dark Web & Who All Can Access It?",
+          "url": "https://www.freepressjournal.in/tech/sbi-data-leak-what-is-dark-web-who-all-can-access-it",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-21T08:51:27.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-21/n3zq9nkd/Dark-Web-Explained-Who-Can-Access-It.png"
+        },
+        {
+          "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+          "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-21T07:44:22.000Z",
+          "description": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"…"
+        },
+        {
+          "title": "SBI probes dark web exposure of nearly 3,900 customer records",
+          "url": "https://www.thehindu.com/business/economy/state-bank-of-india-investigates-exposure-customer-records-dark-web-october-21/article71606599.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-21T07:07:14.000Z",
+          "description": "A preliminary analysis of around 3.75 lakh records available on the dark web identified 3,897 customer records containing sensitive information"
+        }
+      ],
+      "summary": "State Bank of India said a preliminary review found 3,897 customer records containing personal information among data available on the dark web. The bank commissioned an independent cybersecurity assessment to investigate the exposure."
+    },
+    {
+      "id": "topic_5129941d5daddacb",
+      "title": "Brad Lander Freed After Detention in the West Bank",
+      "headline": "U.S. congressional candidate Brad Lander released after being detained by Israeli military in West Bank",
+      "label": [
+        "detained",
+        "west",
+        "bank",
+        "lander",
+        "brad",
+        "israeli"
+      ],
+      "category": "new",
+      "theme": "theme_9be04e6fbe11bcc3",
+      "entities": [
+        "Brad Lander",
+        "Israeli",
+        "West Bank",
+        "IDF",
+        "New York"
+      ],
+      "article_count": 18,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "U.S. congressional candidate Brad Lander released after being detained by Israeli military in West Bank",
+          "url": "https://japantoday.com/category/world/us-congressional-candidate-brad-lander-released-after-being-detained-by-israeli-military-in-west-bank",
+          "source": "Japan Today",
+          "published_at": "2026-10-21T21:40:43.000Z",
+          "description": "Brad Lander, a U.S. Democratic Party candidate for Congress, was detained by Israeli forces in the occupied West Bank on Wednesday, along with other Americans and Israelis harvesting…"
+        },
+        {
+          "title": "N.Y. congressional candidate Brad Lander says he was detained by IDF soldiers in West Bank",
+          "url": "https://www.nbcnews.com/now/video/n-y-congressional-candidate-brad-lander-says-he-was-detained-by-idf-in-west-bank-271978565751",
+          "source": "NBC News World News",
+          "published_at": "2026-10-21T17:42:43.000Z",
+          "description": "Congressional candidate Brad Lander said that he was detained in the occupied West Bank by the Israel Defense Forces while participating in an olive harvest. Lander told NBC News in an interview that he was later released with a warning, although the rest of the group he was with remains in detenti…"
+        },
+        {
+          "title": "New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxqcedicli5r1jqz2ppuephd1jsdk5yltrlmzllsw1hzkhhmloymmxsnmxazgnfsg01smtcy29yve9fvvlzmhzlrm82z0qxvknntk5zc1jzcvktqwnxy1vheknra3zym2jsuelweeqtnm0ttxhpnhvzy1jisulzalfnujbywxfwunk4rv9sdeh6cfljsnaybgoyuvbunkxks3jmruzjwflxus14dfc1uen5uelbuelsq0lmwvpzww9b",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-21T12:22:45.000Z",
+          "description": "New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank NBC News Israeli Military Detains Brad Lander in West Bank During Volunteer Trip The New York Times 80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank NPR Israeli mili…"
+        },
+        {
+          "title": "NY congressional nominee Brad Lander says he was detained by the IDF in the West Bank",
+          "url": "https://nypost.com/2026/10/21/us-news/ny-congressional-nominee-brad-lander-says-he-was-detained-by-the-idf-in-the-west-bank",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-21T12:16:36.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fi-ve-detained-idf-along-145938122.jpg?w%3D1024",
+          "description": "NY congressional candidate Brad Lander was detained by the IDF in the West Bank while harvesting olives alongside a group of rabbis and volunteers."
+        },
+        {
+          "title": "US congressional candidate Brad Lander freed after West Bank detention",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-21T14:12:15.000Z",
+          "description": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives."
+        }
+      ],
+      "summary": "New York congressional candidate Brad Lander said Israeli forces detained him while he was participating in an olive harvest in the occupied West Bank. He was later released; reports said other volunteers remained in custody."
+    },
+    {
+      "id": "topic_a1655a5303c3e1e1",
+      "title": "Fighter Jets Crash During Training Flights in Russia and France",
+      "headline": "Russian Su-30 fighter jet crashes in Kaliningrad",
+      "label": [
+        "jet",
+        "fighter",
+        "crashes",
+        "kaliningrad",
+        "least",
+        "killed"
+      ],
+      "category": "new",
+      "theme": "theme_d7e1738d0441ab13",
+      "entities": [
+        "Russian Su",
+        "Kaliningrad",
+        "Russia",
+        "French Fighter Jet Crashes",
+        "During Training"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Russian Su-30 fighter jet crashes in Kaliningrad",
+          "url": "https://defence-blog.com/russian-su-30-fighter-jet-crashes-in-kaliningrad",
+          "source": "The Defence Blog – Military and Defense News",
+          "published_at": "2026-10-21T12:36:00.000Z",
+          "description": "A Russian Su-30SM fighter jet crashed during a training flight in the Chernyakhovsk district of Russia’s Kaliningrad region, coming down between the villages of Timofeyevka and Zelyony Bor, and both pilots ejected before impact. The two crew members were injured and taken to a military hospital, an…"
+        },
+        {
+          "title": "Russia's SU-30 fighter jet crashes in Kaliningrad region",
+          "url": "https://timesofindia.indiatimes.com/world/europe/russias-su-30-fighter-jet-crashes-in-kaliningrad-region/articleshow/135092572.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-21T12:34:29.000Z"
+        },
+        {
+          "title": "French Fighter Jet Crashes During Training, 1 Killed",
+          "url": "https://www.ndtv.com/world-news/french-fighter-jet-crashes-during-training-1-killed-12213673",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-21T06:16:44.000Z",
+          "description": "The plane went down at 2100 GMT Tuesday near its air base on the outskirts of Nancy, and a search was underway for the second member of the crew."
+        },
+        {
+          "title": "Fighter Jet Crashes in Kaliningrad Region During Training Flight",
+          "url": "https://www.themoscowtimes.com/2026/10/21/fighter-jet-crashes-in-kaliningrad-region-during-training-flight-a94042",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-10-21T18:35:15.000Z",
+          "description": "The two-member crew successfully ejected from the aircraft and was later found by a search and rescue team."
+        },
+        {
+          "title": "Fighter jet crashes in France, killing at least one",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/fighter-jet-crashes-in-france-killing-at-least-one-c-23054943",
+          "source": "PerthNow",
+          "published_at": "2026-10-21T09:07:53.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23054943/f7b5d1d74f76dc6c60b2113f4d3b08e04c556500-16x9-x0y0w1280h720.jpg",
+          "description": "A second crew member is unaccounted for after the crash during a training mission near the eastern city of Nancy."
+        }
+      ],
+      "summary": "A Russian Su-30 fighter jet crashed during a training flight in the Kaliningrad region, and its two crew members ejected. Separately, a French fighter jet crashed near Nancy during training, killing at least one person; another crew member was reported missing."
+    },
+    {
+      "id": "topic_dd076818fc9df476",
+      "title": "UK Approves Drilling at Jackdaw Gas Field in North Sea",
+      "headline": "Protests as UK approves new gas drilling in North Sea",
+      "label": [
+        "sea",
+        "gas",
+        "approves",
+        "drilling",
+        "north",
+        "jackdaw"
+      ],
+      "category": "new",
+      "theme": "theme_6f97c437ed60995c",
+      "entities": [
+        "Protests",
+        "UK",
+        "North Sea",
+        "Britain Approves New Gas",
+        "Drilling"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Protests as UK approves new gas drilling in North Sea",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-21T12:49:52.000Z",
+          "description": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea."
+        },
+        {
+          "title": "Britain Approves New Gas Drilling in the North Sea",
+          "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-10-21T06:37:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/09/22/multimedia/Biz-Northsea-Decision-01-mvjg/Biz-Northsea-Decision-01-mvjg-mediumSquareAt3X.jpg",
+          "description": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions."
+        },
+        {
+          "title": "Drilling approved at controversial Jackdaw gas field in North Sea",
+          "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo",
+          "source": "BBC News",
+          "published_at": "2026-10-21T14:18:23.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
+          "description": "The UK government said the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+        },
+        {
+          "title": "UK Ministers Approve Jackdaw Gas Field Drilling in North Sea",
+          "url": "https://internewscast.com/news/uk-ministers-approve-jackdaw-gas-field-drilling-in-north-sea",
+          "source": "Internewscast",
+          "published_at": "2026-10-21T06:48:10.000Z",
+          "description": "Internewscast Internewscast The UK Government has given the go-ahead for drilling at the Jackdaw… This Post: UK Ministers Approve Jackdaw Gas Field Drilling in North Sea first appeared on Internewscast"
+        },
+        {
+          "title": "UK approves Jackdaw gasfield in North Sea",
+          "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-10-21T06:15:06.000Z",
+          "image": "https://i.guim.co.uk/img/media/2885655dd839a75c40b74e84dde7bce3d84eafc7/670_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=5f96d863fac397ab4cc461602b71f993",
+          "description": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay environmen…"
+        }
+      ],
+      "summary": "The UK government approved drilling at the controversial Jackdaw gas field in the North Sea. Ministers say the project could reduce reliance on imported energy, while environmental campaigners oppose it over climate concerns."
+    },
+    {
+      "id": "topic_9b67117e5301d41e",
+      "title": "Musk Says SpaceX and Tesla Are Discussing a Possible Merger",
+      "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+      "label": [
+        "tesla",
+        "spacex",
+        "merger",
+        "musk",
+        "elon",
+        "exploring"
+      ],
+      "category": "trending",
+      "theme": "theme_f9340e4fd2af0eb2",
+      "entities": [
+        "Elon Musk Says SpaceX",
+        "Tesla Are Exploring",
+        "Merger",
+        "The New York Times",
+        "Will Elon Musk"
+      ],
+      "article_count": 38,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+          "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+          "source": "NYT > Business",
+          "published_at": "2026-10-21T11:13:09.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
+          "description": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion."
+        },
+        {
+          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxqzwg4zgc4eelftuc3stkzznnlz3hozkvqwdmwbm9mmnfprfiyytv1ogh0neo3rfzxuexbov9fckd6slv1wjnptgdnbm83ltfprs15elzoewlwaji1tlhvq0psnvdlnwptmfzyrjzob2pawxfobkhor1dfnwpuduzfcwlhutg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-21T13:53:16.000Z",
+          "description": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger The New York Times Tesla and SpaceX: Why does Elon Musk want to merge the companies? BBC Futures orbit around SpaceX as Tesla merger talk cheers investors CNBC Tesla Bulls Eying Merger Bump Find Stock Needs More Than Rockets Bloomberg.com Will…"
+        },
+        {
+          "title": "Will Elon Musk value Tesla at $420 for SpaceX merger?",
+          "url": "https://seekingalpha.com/news/4655067-will-elon-musk-value-tesla-at-420-for-spacex-merger",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-21T13:38:09.000Z"
+        },
+        {
+          "title": "SpaceX-Tesla merger on the cards? Elon Musk says it's a good idea",
+          "url": "https://www.indiatoday.in/business/story/spacex-tesla-merger-talks-elon-musk-backs-proposed-union-3021656-2026-10-21",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-21T01:23:53.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/elon-musk-031517561-16x9_2.jpg?VersionId=tk1FV_S4PGQ1cUG7AwI0zc_kDazSxE3l",
+          "description": "SpaceXTesla merger on the cards Elon Musk says its a good idea"
+        },
+        {
+          "title": "Why Elon Musk Wants to Merge SpaceX and Tesla",
+          "url": "https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business",
+          "source": "TIME",
+          "published_at": "2026-10-21T08:45:59.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt0e849b943db3823c/6ad87b5b9518d48358cad3a6/tesla_spacex.jpg?branch=production",
+          "description": "The CEO and largest shareholder of both companies said a merger would be a “good idea” and that they had formed committees to discuss the possibility."
+        }
+      ],
+      "summary": "Elon Musk said SpaceX and Tesla are exploring a possible merger and have formed committees to discuss it. A combination would bring the companies’ rocket, automotive and artificial intelligence businesses together."
+    },
+    {
+      "id": "topic_7d48f91a1618dbc0",
+      "title": "Macron Condemns Claims Blaming Migrants for French Riots",
+      "headline": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
+      "label": [
+        "blaming",
+        "migrants",
+        "macron",
+        "riots",
+        "claims",
+        "stupid"
+      ],
+      "category": "new",
+      "theme": "theme_25e53236bcaede17",
+      "entities": [
+        "Macron",
+        "Trump",
+        "Muslims",
+        "French",
+        "France"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
+          "url": "https://japantoday.com/category/world/macron-blasts-%e2%80%98stupid%e2%80%99-claims-by-trump-and-others-blaming-muslims-migrants-for-french-riots",
+          "source": "Japan Today",
+          "published_at": "2026-10-21T21:39:14.000Z",
+          "description": "French President Emmanuel Macron said Wednesday that foreign leaders — including those “on the other side of the Atlantic” — were seeking to exploit France’s tense social climate…"
+        },
+        {
+          "title": "Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for riots",
+          "url": "https://abcnews.com/international/wirestory/macron-blasts-stupid-claims-trump-blaming-muslims-migrants-137441867",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-21T12:42:30.000Z",
+          "image": "https://s.abcnews.com/images/International/wirestory_b46829a8161a4d152124642fd275f595_4x3_384.jpg",
+          "description": "French President Emmanuel Macron has criticized foreign leaders, including U.S. President Donald Trump, saying they exploit unrest in France for political gain"
+        },
+        {
+          "title": "France protests: Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for French riots",
+          "url": "https://www.thehindu.com/news/international/france-protests-macron-blasts-stupid-claims-by-trump-others-blaming-muslims-migrants-for-french-riots/article71607424.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-21T12:36:19.000Z",
+          "description": "Macron responded by saying there ‘has been foreign manipulation of information in the aftermath’ of the looting in Paris and other French cities last weekend"
+        },
+        {
+          "title": "Macron attacks ‘stupid’ claims by Trump and others blaming migrants for riots",
+          "url": "https://www.brisbanetimes.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-21T20:53:25.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1.0032630231563069%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1611%2C$y_637/t_crop_custom/q_86%2Cf_auto/5885b32397a731c683cd54a98cbb425d8fa6caf8",
+          "description": "The French president accuses foreign leaders of seeking to exploit France’s unrest for their own political gains and spreading misinformation online."
+        },
+        {
+          "title": "Macron rejects Trump’s claims blaming migrants for French riots",
+          "url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-21T15:29:48.000Z",
+          "description": "French President Emmanuel Macron condemned comments by \"foreign leaders\" on the violent protests in France on October 17. He has now arrived in Saudi Arabia as part of his Gulf tour."
+        }
+      ],
+      "summary": "French President Emmanuel Macron criticized foreign leaders, including Donald Trump, for blaming migrants for unrest in France. Macron accused them of exploiting the situation and spreading misinformation."
+    }
+  ]
+}
