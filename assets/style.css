@@ -1075,7 +1075,8 @@ img {
 }
 
 /* ── Videos ──────────────────────────────────────────────────────────────── */
-/* No grid-area: the strip auto-places in a full-width row after the coverage list. */
+/* No grid-area: the strip auto-places in a full-width row after the coverage list. Each video is a
+   row like the coverage links: thumbnail left, channel, time and title beside it. */
 
 .videos {
   grid-column: 1 / -1;
@@ -1090,14 +1091,23 @@ img {
 
 .video-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 12px;
-  margin-top: 8px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  column-gap: var(--col-gap, 24px);
+  margin-top: 4px;
   list-style: none;
 }
 
+.video-list li {
+  border-top: 1px solid var(--border);
+}
+
 .video-link {
-  display: block;
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+  min-height: var(--tap);
+  padding: 10px 0;
   color: var(--fg);
 }
 
@@ -1116,15 +1126,15 @@ img {
   object-fit: cover;
 }
 
-/* Play badge: a dark circle with a CSS triangle, no icon font or image. */
+/* Play badge in the corner, so it never covers the subject: a dark circle with a CSS triangle. */
 .video-play {
   position: absolute;
-  inset: 50% auto auto 50%;
-  width: 36px;
-  height: 36px;
+  left: 6px;
+  bottom: 6px;
+  width: 22px;
+  height: 22px;
   border-radius: 50%;
-  background: rgba(0, 0, 0, 0.65);
-  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 .video-play::after {
@@ -1133,23 +1143,29 @@ img {
   top: 50%;
   left: 54%;
   border-style: solid;
-  border-width: 7px 0 7px 12px;
+  border-width: 4px 0 4px 7px;
   border-color: transparent transparent transparent #fff;
   transform: translate(-50%, -50%);
 }
 
-.video-link .coverage-meta {
-  margin-top: 6px;
+.video-text {
+  min-width: 0;
 }
 
 .video-title {
   display: -webkit-box;
   margin-top: 2px;
   overflow: hidden;
-  font-size: 0.875rem;
-  line-height: 1.35;
-  -webkit-line-clamp: 2;
+  font-size: 0.9375rem;
+  line-height: 1.4;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+}
+
+.video-title::after {
+  content: " ↗";
+  color: var(--fg-subtle);
+  font-size: 0.8em;
 }
 
 /* ── Multi-column front page (tablet and up) ──────────────────────────────── */
@@ -1229,6 +1245,10 @@ img {
   .story--brief .story-media,
   .story--brief .video-thumb {
     display: none;
+  }
+
+  .story--brief .video-link {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .story--brief.has-media {

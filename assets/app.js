@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=21';
-import { noteStoryRead, setupInstall } from './install.js?v=21';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=22';
+import { noteStoryRead, setupInstall } from './install.js?v=22';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -524,12 +524,14 @@ function renderVideos(topic) {
     const item = el('li', {},
       el('a', { class: 'video-link', href: video.url, target: '_blank', rel: 'noopener noreferrer' },
         el('span', { class: 'video-thumb' }, img, el('span', { class: 'video-play', 'aria-hidden': 'true' })),
-        el('span', { class: 'coverage-meta' },
-          el('span', { class: 'coverage-source' }, video.channel || 'YouTube'),
-          time && el('time', { datetime: video.published_at }, time),
+        el('span', { class: 'video-text' },
+          el('span', { class: 'coverage-meta' },
+            el('span', { class: 'coverage-source' }, video.channel || 'YouTube'),
+            time && el('time', { datetime: video.published_at }, time),
+          ),
+          el('span', { class: 'video-title' }, video.title || 'Untitled video'),
+          el('span', { class: 'visually-hidden' }, ' (video on YouTube, opens in new tab)'),
         ),
-        el('span', { class: 'video-title' }, video.title || 'Untitled video'),
-        el('span', { class: 'visually-hidden' }, ' (video on YouTube, opens in new tab)'),
       ),
     );
     // A thumbnail that fails takes its card with it, and the last one the whole section.
@@ -591,14 +593,15 @@ function renderStory(date, topic, rank) {
   const media = renderMedia(topic, isLead);
   if (media) story.classList.add('has-media');
 
-  story.append(
+  // append() would print a skipped part (null/false) as text.
+  story.append(...[
     el('div', { class: 'story-kicker' }, el('p', { class: 'story-kicker-text' }, ...kickerParts), share),
     el('h2', { class: 'story-title', id: `story-${rank}-title` }, title),
     media,
     topic.summary && el('p', { class: 'story-summary' }, topic.summary),
     ...renderCoverage(topic, story),
     renderVideos(topic),
-  );
+  ].filter(Boolean));
   applyCoverageLimit(story);
   return el('li', { class: `slot slot--${tier}` }, story);
 }
