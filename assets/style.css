@@ -98,6 +98,8 @@ html {
   font-size: 100%;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
+  /* Taps show the controls' own pressed states (see Touch below), not the browser's grey flash. */
+  -webkit-tap-highlight-color: transparent;
   scroll-padding-top: calc(var(--header-h) + var(--safe-top) + 16px);
 }
 
@@ -393,6 +395,10 @@ img {
 }
 
 /* ── Intro ────────────────────────────────────────────────────────────────── */
+
+.notice[hidden] {
+  display: none;
+}
 
 .notice {
   margin-top: 16px;
@@ -1522,14 +1528,19 @@ img {
   color: var(--fg);
 }
 
-/* One row of chips above the stories; scrolls sideways on narrow phones instead of wrapping. */
+/* One row of chips above the stories; scrolls sideways on narrow phones instead of wrapping.
+   The scroll never chains into the page (no back gesture), and the edges fade where chips run on. */
 .section-filter {
   display: flex;
   gap: 8px;
   margin-inline: calc(var(--gutter) * -1);
-  padding: 0 var(--gutter) 16px;
+  padding: 2px var(--gutter) 16px;
   overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-padding-inline: var(--gutter);
   scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 var(--gutter), #000 calc(100% - var(--gutter)), transparent);
+  mask-image: linear-gradient(to right, transparent, #000 var(--gutter), #000 calc(100% - var(--gutter)), transparent);
 }
 
 .section-filter::-webkit-scrollbar {
@@ -1556,11 +1567,29 @@ img {
   font-weight: 600;
   white-space: nowrap;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease,
+    transform 120ms ease;
+}
+
+.section-chip:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 .section-chip-count {
   font-variant-numeric: tabular-nums;
   opacity: 0.7;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .section-chip {
+    transition: none;
+  }
 }
 
 .section-chip[aria-pressed="true"] {
@@ -1584,6 +1613,8 @@ img {
     padding-inline: 0;
     flex-wrap: wrap;
     overflow: visible;
+    -webkit-mask-image: none;
+    mask-image: none;
   }
 
   .stories.is-filtered > .slot.slot--row {
@@ -1800,6 +1831,11 @@ img {
     transition-duration: 0.08s;
   }
 
+  .section-chip:active {
+    transform: scale(0.96);
+    transition-duration: 0.08s;
+  }
+
   .overview summary::after,
   .toc-inline summary::after {
     transition: transform 0.25s ease;
@@ -1827,6 +1863,134 @@ img {
       opacity: 0;
       transform: translateY(12px);
     }
+  }
+
+  /* Banners, the offline notice and the chip row ease in and out instead of popping. */
+  .install-banner {
+    transition: opacity 0.25s ease, transform 0.25s ease, display 0.25s allow-discrete;
+  }
+
+  .install-banner[hidden] {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  @starting-style {
+    .install-banner:not([hidden]) {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+  }
+
+  .notice,
+  .section-filter {
+    transition: opacity 0.2s ease, display 0.2s allow-discrete;
+  }
+
+  .notice[hidden],
+  .section-filter[hidden] {
+    opacity: 0;
+  }
+
+  @starting-style {
+    .notice:not([hidden]),
+    .section-filter:not([hidden]) {
+      opacity: 0;
+    }
+  }
+
+  /* The install help sheet rises with its backdrop and sinks away when closed. */
+  .install-help,
+  .install-help::backdrop {
+    transition: opacity 0.22s ease, transform 0.22s ease, overlay 0.22s allow-discrete, display 0.22s allow-discrete;
+  }
+
+  .install-help:not([open]) {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  .install-help:not([open])::backdrop {
+    opacity: 0;
+  }
+
+  @starting-style {
+    .install-help[open] {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+
+    .install-help[open]::backdrop {
+      opacity: 0;
+    }
+  }
+}
+
+/* ── Touch ────────────────────────────────────────────────────────────────── */
+/* Like native lists: rows and links tint while pressed (touch screens only, where there is no
+   hover), taps fire without the double-tap-zoom wait, and controls are not selected or offer a
+   callout on a long press. Links keep their long-press preview. */
+
+a,
+button,
+summary,
+label {
+  touch-action: manipulation;
+}
+
+button,
+summary,
+.section-filter,
+.story-kicker,
+.date-button {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+button,
+summary {
+  -webkit-touch-callout: none;
+}
+
+@media (hover: none) {
+  .coverage-link,
+  .toc a,
+  .pager-link,
+  .coverage-more,
+  .overview summary,
+  .toc-inline summary {
+    transition: background-color 0.2s ease, color 0.15s ease;
+  }
+
+  /* The pressed tint reaches a little past the text, like a native list row. */
+  .coverage-link {
+    margin-inline: -8px;
+    padding-inline: 8px;
+    border-radius: 8px;
+  }
+
+  .coverage-link:active,
+  .toc a:active,
+  .overview summary:active,
+  .toc-inline summary:active {
+    background-color: color-mix(in srgb, var(--fg) 6%, transparent);
+    transition-duration: 0s;
+  }
+
+  .pager-link:active {
+    border-color: var(--accent);
+    background-color: var(--accent-soft);
+    transition-duration: 0s;
+  }
+
+  .coverage-more:active {
+    opacity: 0.6;
+    transition-duration: 0s;
+  }
+
+  .section-chip[aria-pressed="false"]:active {
+    border-color: var(--fg-muted);
+    color: var(--fg);
   }
 }
 

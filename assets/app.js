@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=24';
-import { noteStoryRead, setupInstall } from './install.js?v=24';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=25';
+import { noteStoryRead, setupInstall } from './install.js?v=25';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -261,6 +261,12 @@ async function navContext(date) {
 // pill, which clips it; the pill and the Latest chip resize in layout, so the arrows follow.
 const NAV_MOTION = { duration: 280, easing: 'cubic-bezier(0.2, 0, 0, 1)' };
 const canAnimate = () => typeof Element.prototype.animate === 'function' && !reducedMotion.matches;
+// Resolves when an exit animation ends, or shortly after its duration: `finished` can stall
+// (hidden tab, throttled timeline) and must never leave the control stuck.
+const settled = (animation, ms) => Promise.race([
+  animation.finished.catch(() => {}),
+  new Promise(resolve => setTimeout(resolve, ms + 80)),
+]);
 
 function setDateLabel(date) {
   const button = $('date-button');
@@ -510,15 +516,37 @@ function renderCoverage(topic, story) {
     class: 'coverage-more',
     type: 'button',
     'aria-expanded': 'false',
-    onclick: () => {
+    onclick: async () => {
+      if (more.dataset.busy) return;
+      const expanding = !story.classList.contains('is-expanded');
+      if (!expanding) {
+        // Rows fade out before they go, and the button stays where the reader's finger is.
+        const limit = coverageLimit(story.dataset.tier);
+        const leaving = [...list.children].slice(limit);
+        if (canAnimate() && leaving.length) {
+          more.dataset.busy = '1';
+          await Promise.all(leaving.map(item => settled(item.animate(
+            [{ opacity: 1 }, { opacity: 0 }],
+            { duration: 140, easing: 'ease-in', fill: 'forwards' },
+          ), 140)));
+          delete more.dataset.busy;
+        }
+        const before = more.getBoundingClientRect().top;
+        story.classList.remove('is-expanded');
+        applyCoverageLimit(story);
+        leaving.forEach(item => item.getAnimations().forEach(animation => animation.cancel()));
+        const shift = more.getBoundingClientRect().top - before;
+        if (shift < 0 && more.getBoundingClientRect().top < 0) window.scrollBy({ top: shift, behavior: 'instant' });
+        return;
+      }
       const revealed = [...list.querySelectorAll('li[hidden]')];
-      story.classList.toggle('is-expanded');
+      story.classList.add('is-expanded');
       applyCoverageLimit(story);
-      if (revealed[0]) revealed[0].querySelector('a, div')?.focus();
-      if (story.classList.contains('is-expanded') && canAnimate()) {
+      if (revealed[0]) revealed[0].querySelector('a, div')?.focus({ preventScroll: true });
+      if (canAnimate()) {
         revealed.forEach((item, i) => item.animate(
           [{ opacity: 0, transform: 'translateY(-4px)' }, { opacity: 1, transform: 'none' }],
-          { duration: 200, delay: Math.min(i, 4) * 30, easing: 'ease-out', fill: 'backwards' },
+          { duration: 220, delay: Math.min(i, 4) * 35, easing: 'cubic-bezier(0.2, 0, 0, 1)', fill: 'backwards' },
         ));
       }
     },
@@ -552,7 +580,10 @@ function renderVideoItem(video, story) {
       ),
     ),
   );
-  img.addEventListener('error', () => {
+  img.addEventListener('error', async () => {
+    if (canAnimate() && item.isConnected && item.getBoundingClientRect().height) {
+      await settled(item.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 160, fill: 'forwards' }), 160);
+    }
     item.remove();
     applyCoverageLimit(story);
   }, { once: true });
@@ -670,21 +701,29 @@ function renderStories(date, data) {
   renderIntro(date, data);
   renderToc(date, stories);
   renderOverview(date, data, stories);
-  renderSectionFilter(date, data, stories);
+  renderSectionFilter(date, stories);
 
   const list = $('stories');
   list.setAttribute('aria-busy', 'false');
-  trackReading([]);
   if (!stories.length) {
+    trackReading([]);
+    list.classList.remove('is-filtered');
     list.replaceChildren(el('li', { class: 'empty' }, el('h2', {}, 'No stories'), el('p', {}, 'This day’s briefing has no stories.')));
     return;
   }
-  // Stories keep their day rank (ids, share links and the day in brief point at it).
+  renderStoryList(date, stories);
+  document.title = `${storyTitle(stories[0])} — Daily News, ${formatDate(date, 'short')}`;
+}
+
+// The story list for the current section filter. Stories keep their day rank (ids, share links
+// and the day in brief point at it); a filtered view lays them out as rows.
+function renderStoryList(date, stories) {
+  const list = $('stories');
+  trackReading([]);
   const ranked = stories.map((topic, i) => ({ topic, rank: i + 1 }));
   const visible = sectionFilter ? ranked.filter(({ topic }) => topic.section === sectionFilter) : ranked;
   list.classList.toggle('is-filtered', Boolean(sectionFilter));
   list.replaceChildren(...visible.map(({ topic, rank }) => renderStory(date, topic, rank, sectionFilter ? 'row' : tierOf(rank))));
-  document.title = `${storyTitle(stories[0])} — Daily News, ${formatDate(date, 'short')}`;
 
   storyParams = new WeakMap();
   trackReading(visible.map(({ topic, rank }) => {
@@ -700,8 +739,9 @@ function renderStories(date, data) {
 }
 
 // Chips for the day's sections (only when there are at least two), in a fixed order. A filter
-// the day has no story for falls back to all.
-function renderSectionFilter(date, data, stories) {
+// the day has no story for falls back to all. Built once per day; a tap only flips the pressed
+// state, so the row keeps its scroll position.
+function renderSectionFilter(date, stories) {
   const box = $('section-filter');
   const counts = new Map();
   for (const topic of stories) {
@@ -717,19 +757,51 @@ function renderSectionFilter(date, data, stories) {
   const chip = (section, label, count) => el('button', {
     class: 'section-chip',
     type: 'button',
+    'data-section': section || '',
     'aria-pressed': String(sectionFilter === section),
-    onclick: () => {
-      if (sectionFilter === section) return;
-      sectionFilter = section;
-      trackEvent('section_filter', { section: section || 'all', story_date: date });
-      renderStories(date, data);
-    },
+    onclick: event => selectSection(date, stories, section, event.currentTarget),
   }, label, el('span', { class: 'section-chip-count' }, String(count)));
   box.replaceChildren(
     chip(null, 'All', stories.length),
     ...Object.keys(SECTION_LABELS).filter(section => counts.has(section))
       .map(section => chip(section, SECTION_LABELS[section], counts.get(section))),
   );
+  const active = box.querySelector('[aria-pressed="true"]');
+  if (active) centerChip(box, active, 'instant');
+}
+
+function selectSection(date, stories, section, chip) {
+  if (sectionFilter === section) return;
+  sectionFilter = section;
+  trackEvent('section_filter', { section: section || 'all', story_date: date });
+  const box = $('section-filter');
+  for (const button of box.children) button.setAttribute('aria-pressed', String(button === chip));
+  centerChip(box, chip, reducedMotion.matches ? 'instant' : 'smooth');
+
+  // The chips stay where they were on screen while the list below changes length.
+  const before = box.getBoundingClientRect().top;
+  renderStoryList(date, stories);
+  const shift = box.getBoundingClientRect().top - before;
+  if (Math.abs(shift) > 1) window.scrollBy({ top: shift, behavior: 'instant' });
+  revealStories();
+}
+
+// Horizontal scroll of the chip row only (scrollIntoView could also move the page).
+function centerChip(box, chip, behavior) {
+  if (box.scrollWidth <= box.clientWidth) return;
+  box.scrollTo({ left: chip.offsetLeft - (box.clientWidth - chip.offsetWidth) / 2, behavior });
+}
+
+// New list after a filter change: the first stories fade up in a short stagger.
+function revealStories() {
+  if (!canAnimate()) return;
+  [...$('stories').children].forEach((slot, i) => {
+    if (slot.getBoundingClientRect().top > innerHeight) return;
+    slot.animate(
+      [{ opacity: 0, transform: 'translateY(8px)' }, { opacity: 1, transform: 'none' }],
+      { duration: 240, delay: Math.min(i, 5) * 40, easing: 'cubic-bezier(0.2, 0, 0, 1)', fill: 'backwards' },
+    );
+  });
 }
 
 // GA4 event parameters describing a story (register them as custom dimensions in GA).
@@ -876,8 +948,9 @@ function setupSwipe() {
     const touch = event.touches[0];
     const edge = 24;
     start = event.touches.length === 1 && touch.clientX > edge && touch.clientX < innerWidth - edge
-      && !event.target.closest('input, .date-picker, .overview-list')
-      ? { x: touch.clientX, y: touch.clientY, time: event.timeStamp }
+      && !event.target.closest('input, .date-picker, .overview-list, .section-filter')
+      && !scrollsSideways(event.target)
+      ? { x: touch.clientX, y: touch.clientY, time: event.timeStamp, scrollY }
       : null;
   }, { passive: true });
   addEventListener('touchcancel', () => { start = null; }, { passive: true });
@@ -887,12 +960,23 @@ function setupSwipe() {
     const dx = touch.clientX - start.x;
     const dy = touch.clientY - start.y;
     const quick = event.timeStamp - start.time < 700;
+    // A vertical scroll that drifts sideways is not a swipe: it must be clearly horizontal and
+    // must not have moved the page.
+    const scrolled = Math.abs(scrollY - start.scrollY) > 8;
     start = null;
-    if (!quick || Math.abs(dx) < SWIPE_MIN_PX || Math.abs(dx) < 2 * Math.abs(dy)) return;
+    if (scrolled || !quick || Math.abs(dx) < SWIPE_MIN_PX || Math.abs(dx) < 3 * Math.abs(dy)) return;
     if (!document.getSelection()?.isCollapsed) return;
     const target = $(dx > 0 ? 'nav-prev' : 'nav-next').getAttribute('href');
     if (target) location.hash = target.slice(1);
   }, { passive: true });
+}
+
+// A swipe that starts in a sideways scroller (chips, wide tables) scrolls it, never changes the day.
+function scrollsSideways(node) {
+  for (let current = node instanceof Element ? node : null; current && current !== document.body; current = current.parentElement) {
+    if (current.scrollWidth > current.clientWidth + 1 && /auto|scroll/.test(getComputedStyle(current).overflowX)) return true;
+  }
+  return false;
 }
 
 // During a slide Chrome hit-tests the transition overlay (it reports the root as the target), so
@@ -1043,7 +1127,11 @@ async function loadDate(date, { restoreScroll } = {}) {
     else if (previous) window.scrollTo({ top: 0, behavior: 'instant' });
   };
   if (previous && !skeleton) await swapDay(date > previous ? 'forward' : 'backward', update);
-  else update();
+  else {
+    update();
+    // The skeleton gives way to the day with a short fade instead of a hard swap.
+    if (skeleton && data) revealStories();
+  }
   return Boolean(data);
 }
 

@@ -20,8 +20,8 @@
  * returns to the foreground, and hourly while it stays open (`refresh-unread` messages).
  */
 
-const CACHE_VERSION = 'v24';
-const ASSET_VERSION = '24';
+const CACHE_VERSION = 'v25';
+const ASSET_VERSION = '25';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 
