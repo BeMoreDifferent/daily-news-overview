@@ -33,7 +33,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=23">
+  <link rel="stylesheet" href="assets/style.css?v=24">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -88,6 +88,8 @@
           <ol id="toc-list" class="toc" role="list"></ol>
         </details>
       </section>
+
+      <div id="section-filter" class="section-filter" role="group" aria-label="Filter stories by section" hidden></div>
 
       <ol id="stories" class="stories" role="list" aria-busy="true" tabindex="-1"></ol>
 
@@ -151,7 +153,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=23"></script>
+  <script type="module" src="assets/app.js?v=24"></script>
 
   <!-- Service worker registration -->
   <script>

@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=23';
-import { noteStoryRead, setupInstall } from './install.js?v=23';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=24';
+import { noteStoryRead, setupInstall } from './install.js?v=24';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -16,6 +16,18 @@ const tablet = window.matchMedia('(min-width: 640px)');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
 let current = { date: null, data: null };
+// Section filter (null = all). Kept while moving between days, dropped on reload.
+let sectionFilter = null;
+
+const SECTION_LABELS = {
+  world: 'World',
+  politics: 'Politics',
+  business: 'Business',
+  technology: 'Tech',
+  'science-health': 'Science & Health',
+  sports: 'Sports',
+  culture: 'Culture',
+};
 // Analytics parameters per rendered story element, for reading time and clicks.
 let storyParams = new WeakMap();
 
@@ -191,7 +203,7 @@ function tierOf(rank) {
 }
 
 // Coverage rows shown before "Show more": 3 on phones; in the multi-column layouts the lead
-// shows all and the narrower columns 2.
+// shows all and the narrower columns (and filtered rows, which list coverage two across) 2.
 function coverageLimit(tier) {
   if (!tablet.matches) return 3;
   return tier === 'lead' ? Infinity : 2;
@@ -561,9 +573,9 @@ function applyCoverageLimit(story) {
   more.textContent = expanded ? 'Show fewer' : `Show ${extra} more ${extra === 1 ? 'outlet' : 'outlets'}`;
 }
 
-function renderStory(date, topic, rank) {
+// `tier` defaults to the front-page position; a filtered view lays every story out as a row.
+function renderStory(date, topic, rank, tier = tierOf(rank)) {
   const title = storyTitle(topic);
-  const tier = tierOf(rank);
   const isLead = tier === 'lead';
   const story = el('article', {
     class: `story story--${tier}`,
@@ -577,6 +589,7 @@ function renderStory(date, topic, rank) {
     el('span', { class: 'story-rank' }, el('span', { class: 'visually-hidden' }, 'Story '), String(rank).padStart(2, '0')),
     el('span', {}, `${topic.source_count} ${topic.source_count === 1 ? 'outlet' : 'outlets'}`),
   ];
+  if (SECTION_LABELS[topic.section]) kickerParts.push(el('span', { class: 'story-section' }, SECTION_LABELS[topic.section]));
   if (topic.category === 'trending' || topic.category === 'ongoing') {
     kickerParts.push(el('span', { class: `badge badge--${topic.category}` }, topic.category === 'trending' ? 'Trending' : 'Developing'));
   }
@@ -612,6 +625,7 @@ function renderSkeleton() {
       block('sk-line'), block('sk-line'), block('sk-line sk-short'),
     ),
   );
+  $('stories').classList.remove('is-filtered');
   $('stories').replaceChildren(...Array.from({ length: tablet.matches ? 7 : 3 }, card));
   $('stories').setAttribute('aria-busy', 'true');
 }
@@ -620,6 +634,8 @@ async function renderMissing(date, reason) {
   trackReading([]);
   const stories = $('stories');
   stories.setAttribute('aria-busy', 'false');
+  stories.classList.remove('is-filtered');
+  $('section-filter').hidden = true;
   renderIntro(date, null);
   renderToc(date, []);
   renderOverview(date, null, []);
@@ -654,6 +670,7 @@ function renderStories(date, data) {
   renderIntro(date, data);
   renderToc(date, stories);
   renderOverview(date, data, stories);
+  renderSectionFilter(date, data, stories);
 
   const list = $('stories');
   list.setAttribute('aria-busy', 'false');
@@ -662,13 +679,17 @@ function renderStories(date, data) {
     list.replaceChildren(el('li', { class: 'empty' }, el('h2', {}, 'No stories'), el('p', {}, 'This day’s briefing has no stories.')));
     return;
   }
-  list.replaceChildren(...stories.map((topic, i) => renderStory(date, topic, i + 1)));
+  // Stories keep their day rank (ids, share links and the day in brief point at it).
+  const ranked = stories.map((topic, i) => ({ topic, rank: i + 1 }));
+  const visible = sectionFilter ? ranked.filter(({ topic }) => topic.section === sectionFilter) : ranked;
+  list.classList.toggle('is-filtered', Boolean(sectionFilter));
+  list.replaceChildren(...visible.map(({ topic, rank }) => renderStory(date, topic, rank, sectionFilter ? 'row' : tierOf(rank))));
   document.title = `${storyTitle(stories[0])} — Daily News, ${formatDate(date, 'short')}`;
 
   storyParams = new WeakMap();
-  trackReading(stories.map((topic, i) => {
-    const story = $(`story-${i + 1}`);
-    const params = analyticsParams(date, topic, i + 1);
+  trackReading(visible.map(({ topic, rank }) => {
+    const story = $(`story-${rank}`);
+    const params = analyticsParams(date, topic, rank);
     storyParams.set(story, params);
     const onRead = () => {
       if (topic.id) toWorker({ type: 'story-read', date, id: topic.id });
@@ -676,6 +697,39 @@ function renderStories(date, data) {
     };
     return { el: story, params, onRead };
   }));
+}
+
+// Chips for the day's sections (only when there are at least two), in a fixed order. A filter
+// the day has no story for falls back to all.
+function renderSectionFilter(date, data, stories) {
+  const box = $('section-filter');
+  const counts = new Map();
+  for (const topic of stories) {
+    if (SECTION_LABELS[topic.section]) counts.set(topic.section, (counts.get(topic.section) || 0) + 1);
+  }
+  if (sectionFilter && !counts.has(sectionFilter)) sectionFilter = null;
+  box.hidden = counts.size < 2;
+  if (box.hidden) {
+    sectionFilter = null;
+    box.replaceChildren();
+    return;
+  }
+  const chip = (section, label, count) => el('button', {
+    class: 'section-chip',
+    type: 'button',
+    'aria-pressed': String(sectionFilter === section),
+    onclick: () => {
+      if (sectionFilter === section) return;
+      sectionFilter = section;
+      trackEvent('section_filter', { section: section || 'all', story_date: date });
+      renderStories(date, data);
+    },
+  }, label, el('span', { class: 'section-chip-count' }, String(count)));
+  box.replaceChildren(
+    chip(null, 'All', stories.length),
+    ...Object.keys(SECTION_LABELS).filter(section => counts.has(section))
+      .map(section => chip(section, SECTION_LABELS[section], counts.get(section))),
+  );
 }
 
 // GA4 event parameters describing a story (register them as custom dimensions in GA).
@@ -686,6 +740,7 @@ function analyticsParams(date, topic, rank) {
     story_rank: rank,
     story_title: storyTitle(topic).slice(0, 100),
     story_category: topic.category || 'none',
+    story_section: topic.section || 'none',
     story_keywords: (topic.label || []).slice(0, 4).join(' ').slice(0, 100),
     story_outlets: topic.source_count,
   };
@@ -712,6 +767,11 @@ async function shareStory(date, rank, title) {
 }
 
 function focusStory(rank, { instant = false } = {}) {
+  // A link to a story the section filter hides (day in brief, contents) shows all stories again.
+  if (!$(`story-${rank}`) && sectionFilter && current.data) {
+    sectionFilter = null;
+    renderStories(current.date, current.data);
+  }
   const story = $(`story-${rank}`);
   if (!story) return;
   story.scrollIntoView({ behavior: instant || reducedMotion.matches ? 'instant' : 'smooth', block: 'start' });

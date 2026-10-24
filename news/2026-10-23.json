@@ -1,36 +1,36 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-24T13:48:01.176Z",
+  "generated_at": "2026-10-24T15:08:58.634Z",
   "overview": {
     "points": [
       {
-        "text": "Gunmen killed seven people and wounded 40 during a funeral at a church in Jordan’s southern province of Karak.",
+        "text": "Gunmen killed at least seven people and wounded about 40 at a church funeral in Jordan; authorities were searching for suspects.",
         "stories": [
-          9
+          10
         ]
       },
       {
-        "text": "A multistorey building collapsed in Nairobi, with many feared trapped; officials said it lacked an occupation certificate as rescue efforts continued.",
+        "text": "A multistorey building collapsed in Nairobi, leaving many feared trapped as rescue operations began.",
+        "stories": [
+          12
+        ]
+      },
+      {
+        "text": "Israel ordered security forces to prepare for a full West Bank closure after the military said it killed two Palestinians accused of an attack.",
+        "stories": [
+          8
+        ]
+      },
+      {
+        "text": "Ukrainian officials said Starlink access remained limited despite Donald Trump’s claim that Elon Musk had restored service, with restrictions affecting military capabilities.",
         "stories": [
           11
         ]
       },
       {
-        "text": "Israel ordered preparations for a full West Bank closure after Israeli forces killed two Palestinians accused of an attack, including cordoning off Hebron.",
+        "text": "Two former FBI officials were charged with making false statements to Congress about their roles in work related to Hunter Biden’s laptop.",
         "stories": [
-          7
-        ]
-      },
-      {
-        "text": "The White House said Melania Trump helped secure a localized ceasefire in Russian-occupied Oleshky for evacuations, though Russia and Ukraine had not confirmed it.",
-        "stories": [
-          2
-        ]
-      },
-      {
-        "text": "Ukraine said Starlink access remained limited despite Donald Trump’s claim that Elon Musk had restored the service, with restrictions still affecting military capabilities.",
-        "stories": [
-          10
+          4
         ]
       }
     ]
@@ -38,7 +38,7 @@
   "topics": [
     {
       "id": "topic_8aa524b010ed07c0",
-      "title": "Meghan Markle Says Allegations Against Her Father Distress Her",
+      "title": "Meghan Markle Says She Is Distressed by Allegations About Her Father",
       "headline": "Meghan Markle ‘deeply distressed’ over claims her father had child abuse images",
       "label": [
         "child",
@@ -49,6 +49,7 @@
         "distressed"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_1f7dd91c51585d37",
       "entities": [
         "Meghan Markle",
@@ -99,6 +100,14 @@
       ],
       "videos": [
         {
+          "title": "What we know about Thomas Markle allegations",
+          "url": "https://www.youtube.com/shorts/U0Ogp24xNaU",
+          "video_id": "U0Ogp24xNaU",
+          "channel": "Sky News",
+          "published_at": "2026-10-23T21:39:35.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/U0Ogp24xNaU/hqdefault.jpg"
+        },
+        {
           "title": "Meghan Markle ‘distressed’ by allegations against her father",
           "url": "https://www.youtube.com/shorts/HvEMHPtLFdw",
           "video_id": "HvEMHPtLFdw",
@@ -107,7 +116,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HvEMHPtLFdw/hqdefault.jpg"
         }
       ],
-      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father, Thomas Markle, possessed child abuse images. She said she became aware of similar allegations in 2018."
+      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father possessed child sexual abuse images. She said she became aware of similar accusations in 2018."
     },
     {
       "id": "topic_2edec1cb9d398a8a",
@@ -122,6 +131,7 @@
         "oleshky"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_d7787696cc519470",
       "entities": [
         "Melania Trump",
@@ -154,21 +164,37 @@
           "published_at": "2026-10-23T11:42:26.000Z"
         },
         {
-          "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-          "url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxqzkvovkzpunl6z2d6swt4cwjdounrsw5fdmt6wxvutxjmrxfcmxvvswrzuwnhuxc3nk1mzhllngvhvznrmwdsszbyumthwfh4yznrvjvlt2dcbjh5um13c0kxt2pene1zs3hmbi15t1fechl1swgwnfviztdyaw1ldktvzjvveuixotezulzzznqzvmpsdgd6d0lytxnjwgutzerkvxm5n0vzefhtami3vgrsexfquljnbu81c2vlcglrq01mu1vr",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-23T13:35:56.000Z",
-          "description": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says Reuters Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says AP News Melania Trump Brokered Ceasefire to Allow for War Zone Evacuation Yahoo US announces ceasefire in Russia-occup…"
-        },
-        {
           "title": "First Lady Melania Trump secures ceasefire for Ukrainian city",
           "url": "https://www.nbcnews.com/nightly-news/video/first-lady-melania-trump-secures-ceasefire-for-ukrainian-city-272143941767",
           "source": "NBC News World News",
           "published_at": "2026-10-23T23:12:03.000Z",
           "description": "All sides are praising Melania Trump for securing a ceasefire for a war-torn Ukrainian city on the front lines to allow people there to evacuate. NBC News’ Chief Foreign Correspondent Richard Engel reports."
+        },
+        {
+          "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky (The White House)",
+          "url": "https://www.memeorandum.com/261023/p63",
+          "source": "memeorandum",
+          "published_at": "2026-10-23T16:00:06.000Z",
+          "description": "The White House: First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky — First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Olesh…"
         }
       ],
       "videos": [
+        {
+          "title": "News Wrap: White House says Melania Trump brokered localized ceasefire deal in Oleshky",
+          "url": "https://www.youtube.com/watch?v=xQcROlwLXUg",
+          "video_id": "xQcROlwLXUg",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-10-23T22:24:56.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/xQcROlwLXUg/hqdefault.jpg"
+        },
+        {
+          "title": "Melania Trump brokers ceasefire in Ukrainian city hit by food crisis",
+          "url": "https://www.youtube.com/watch?v=XLtz2VQoaVo",
+          "video_id": "XLtz2VQoaVo",
+          "channel": "Reuters",
+          "published_at": "2026-10-23T22:16:15.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/XLtz2VQoaVo/hqdefault.jpg"
+        },
         {
           "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine",
           "url": "https://www.youtube.com/shorts/rjnHvbngtKU",
@@ -178,11 +204,11 @@
           "thumbnail": "https://i.ytimg.com/vi/rjnHvbngtKU/hqdefault.jpg"
         }
       ],
-      "summary": "The White House says Melania Trump helped secure a localized ceasefire in Oleshky, a city under Russian occupation, to allow evacuations. Russia and Ukraine had not confirmed the ceasefire."
+      "summary": "The White House says Melania Trump helped secure a localized ceasefire in Oleshky, Ukraine, to allow evacuations. Russia and Ukraine have not confirmed the reported agreement."
     },
     {
       "id": "topic_2970711504c32d84",
-      "title": "Bayern Munich Coach Vincent Kompany Taken to Hospital",
+      "title": "Bayern Munich Coach Vincent Kompany Hospitalized After Collapsing at Training",
       "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
       "label": [
         "kompany",
@@ -193,6 +219,7 @@
         "training"
       ],
       "category": "new",
+      "section": "sports",
       "theme": "theme_635a2d5fdb1787e1",
       "entities": [
         "Bayern Munich",
@@ -241,11 +268,11 @@
           "description": "FC Bayern had a scare today with head coach Vincent Kompany."
         }
       ],
-      "summary": "Vincent Kompany was taken to hospital after collapsing or feeling unwell during training at Bayern Munich. The club said he was undergoing examinations."
+      "summary": "Bayern Munich coach Vincent Kompany was taken to hospital after collapsing or feeling unwell at the club’s training ground. The club said he was undergoing examinations."
     },
     {
       "id": "topic_9a17f7f64934bf5b",
-      "title": "Two Former FBI Officials Charged Over Hunter Biden Laptop Testimony",
+      "title": "Two Former FBI Officials Charged Over Statements About Hunter Biden Laptop",
       "headline": "2 ex-FBI officials charged with lying about Hunter Biden's laptop",
       "label": [
         "biden",
@@ -256,6 +283,7 @@
         "lying"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_440fbc005e7947eb",
       "entities": [
         "FBI",
@@ -316,11 +344,93 @@
           "thumbnail": "https://i.ytimg.com/vi/o3gcxMCnXN0/hqdefault.jpg"
         }
       ],
-      "summary": "Two former FBI officials have been charged with making false statements to Congress about their roles in the investigation of Hunter Biden’s laptop. Each faces one count."
+      "summary": "Two former FBI officials have been charged with making false statements to Congress about their roles in investigations or work related to Hunter Biden’s laptop."
+    },
+    {
+      "id": "topic_68b2125697182ac9",
+      "title": "Japan Plans Cyberattack Simulations Amid Exploitation of PHP Vulnerabilities",
+      "headline": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "label": [
+        "php",
+        "critical",
+        "flaws",
+        "vulnerability",
+        "patch",
+        "rce"
+      ],
+      "category": "trending",
+      "section": "technology",
+      "theme": "theme_dd06daa1ba7c4c7",
+      "entities": [
+        "Japan",
+        "PHP",
+        "Reuters",
+        "Critical Vulnerability Alert",
+        "PHP Core"
+      ],
+      "article_count": 27,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+          "url": "https://bworldonline.com/world/2026/10/23/788892/japan-to-simulate-cyberattacks-as-php-flaws-roil-global-internet",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-10-23T07:14:15.000Z",
+          "description": "TOKYO — Japan said on Friday it will set up a team to simulate cyberattacks using AI to…"
+        },
+        {
+          "title": "Critical Vulnerability Alert: PHP Core",
+          "url": "https://malware.news/t/critical-vulnerability-alert-php-core/126686",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-23T17:40:43.000Z",
+          "description": "Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills? Get 10% off using coupon code: MWNEWS10 for any flavor. Enroll Now and Save 10%: Coupon Code MWNEWS10 Note: Affiliate link – your enrollment helps support this platform at no extra cost to you. Article Link: Intern…"
+        },
+        {
+          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "url": "https://buaq.net/go-450348.html",
+          "source": "unSafe.sh - 不安全",
+          "published_at": "2026-10-23T09:25:43.000Z",
+          "description": "Vulnerability / Web SecurityPHP has warned of another way an attacker could run code on a web serv"
+        },
+        {
+          "title": "PHP2Shell: The Critical PHP RCE Vulnerability (CVE-2026-109618, CVE-2026-109619) and How to Fix It",
+          "url": "https://dev.to/ali_82f3409ed625e8ba8515b/php2shell-the-critical-php-rce-vulnerability-cve-2026-109618-cve-2026-109619-and-how-to-fix-it-4mff",
+          "source": "DEV Community",
+          "published_at": "2026-10-23T01:32:46.000Z",
+          "description": "PHP2Shell is the name for two critical vulnerabilities in PHP itself, CVE-2026-109618 and CVE-2026-109619, that let an unauthenticated attacker run code on a web server while PHP is still parsing the request, before any application code executes. Both flaws carry a CVSS v4.0 score of 9.2, emergency…"
+        },
+        {
+          "title": "Cloudflare sees millions of attempts to exploit critical PHP flaws",
+          "url": "https://thenextweb.com/news/cloudflare-php2shell-millions-exploit-attempts",
+          "source": "The Next Web",
+          "published_at": "2026-10-23T13:28:46.000Z",
+          "image": "https://media.thenextweb.com/2026/10/matthew-prince-smiling-armchair-portrait.avif",
+          "description": "Cloudflare has recorded millions of attempts to exploit two critical PHP vulnerabilities since details became public on Wednesday, according to CEO Matthew Prince. The flaws affect PHP, a programming language used to power much of the web. Some stats on #php2shell. In the 10 hours before it was pub…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Critical PHP Vulnerabilities: How to Patch and Verify Now",
+          "url": "https://www.youtube.com/watch?v=TtaW2s7KG60",
+          "video_id": "TtaW2s7KG60",
+          "channel": "HackerOne",
+          "published_at": "2026-10-23T14:01:53.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/TtaW2s7KG60/hqdefault.jpg"
+        },
+        {
+          "title": "Inside the Global PHP Flaw",
+          "url": "https://www.youtube.com/watch?v=ulc9-4GwQ-k",
+          "video_id": "ulc9-4GwQ-k",
+          "channel": "The Information",
+          "published_at": "2026-10-23T13:34:43.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ulc9-4GwQ-k/hqdefault.jpg"
+        }
+      ],
+      "summary": "Japan said it would establish a team to simulate cyberattacks using AI as critical PHP vulnerabilities drew widespread exploitation attempts. Cloudflare reported millions of attempts targeting the flaws."
     },
     {
       "id": "topic_fa5c69880aafa051",
-      "title": "Justice Department Seeks to Block Alaska Senate Certification if Sullivan Loses",
+      "title": "Justice Department Seeks to Block Alaska Senate Certification if Republican Loses",
       "headline": "DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses",
       "label": [
         "alaska",
@@ -331,6 +441,7 @@
         "sues"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_21b1ff2481c7c15",
       "entities": [
         "DOJ",
@@ -382,6 +493,22 @@
       ],
       "videos": [
         {
+          "title": "DOJ sues over Alaska Senate race certification, Kushner denies slush fund claims, more | The Takeout",
+          "url": "https://www.youtube.com/watch?v=5h40FB9OW3Q",
+          "video_id": "5h40FB9OW3Q",
+          "channel": "CBS News",
+          "published_at": "2026-10-23T23:17:17.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/5h40FB9OW3Q/hqdefault.jpg"
+        },
+        {
+          "title": "Trump says he ordered suit to block Alaska Senate results if GOP loses",
+          "url": "https://www.youtube.com/watch?v=OMgC-wjCykg",
+          "video_id": "OMgC-wjCykg",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-10-23T22:17:39.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/OMgC-wjCykg/hqdefault.jpg"
+        },
+        {
           "title": "Trump DOJ sues to block AK Senate result if Dem wins",
           "url": "https://www.youtube.com/watch?v=ntE0hryN0OE",
           "video_id": "ntE0hryN0OE",
@@ -390,7 +517,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ntE0hryN0OE/hqdefault.jpg"
         }
       ],
-      "summary": "The Justice Department filed a lawsuit seeking to block certification of Alaska’s Senate result if Republican incumbent Dan Sullivan loses. The filing cites confusion between candidates with the same surname."
+      "summary": "The Justice Department has filed a preemptive lawsuit seeking to block certification of Alaska’s Senate result if Republican incumbent Dan Sullivan loses. The dispute concerns alleged confusion between candidates’ names on ballots."
     },
     {
       "id": "topic_a475e03322efa8be",
@@ -405,6 +532,7 @@
         "test"
       ],
       "category": "new",
+      "section": "technology",
       "theme": "theme_b6d5596ee424dbe0",
       "entities": [
         "Knicks",
@@ -446,18 +574,18 @@
           "description": "Knicks coaches, meanwhile, received empty ring boxes during the opening-night ceremony this week"
         },
         {
-          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-          "url": "https://news.google.com/rss/articles/cbmiwafbvv95cuxnb0vtsxe4dzi0c0z4cfbmul94vmhbbxe2bjziwnlvamjfnerswtfwaurluujzoei1bzk1xzr3qwdtrknxv0xrcg9szklwymt4nwhtc2t2wlfnymjpdtvrtw85umjmnjhhyvptbnnxzlltudjsskjizdfwn0tvb2xua3hvc3lyeej0r0vschazqw5tewjjd1duzljirfqtnljtwufyrnhin1fsclpyzgl0m1j6edncvhbcdxywwg13ddk",
+          "title": "Knicks call championship ring phishing test with employees ‘unfortunate mistake’",
+          "url": "https://news.google.com/rss/articles/cbmiowfbvv95cuxovdfnvexyufewdhq1retnnvpqblj1ukjllw8ytvvbtll0ynozwuxsrenlogvmdkfiejazr0xrwev3eme4czhxz0jqzjfhddrsugtwy1q5ovnndlhvy1bsnen5dhllsla4detgec1tqu1mek4xvdhmmtbvy29nsxzkalexyxyzbkdktghwefh1zmzztxjqauvrn0zznwjolth5aetz",
           "source": "Top stories - Google News",
-          "published_at": "2026-10-23T16:51:59.000Z",
-          "description": "Knicks sent employees fake offer of championship rings in phishing test: Report Ars Technica Knicks coaches didn’t get rings on banner night; MSG staff received phishing email: Sources - The Athletic The New York Times Knicks ownership says it used employee championship rings email as phishing bait…"
+          "published_at": "2026-10-23T19:40:54.000Z",
+          "description": "Knicks call championship ring phishing test with employees ‘unfortunate mistake’ The New York Times Knicks coaches didn’t get rings on banner night; MSG staff received phishing email: Sources - The Athletic The New York Times Knicks call plan to use fake championship rings as employee phishing test…"
         }
       ],
-      "summary": "The New York Knicks sent employees a fake offer of championship rings as part of a phishing test. Employees who clicked the link were reportedly required to attend cybersecurity training."
+      "summary": "The New York Knicks reportedly sent employees a fake offer of championship rings as an internal phishing test. The team described the test as an “unfortunate mistake.”"
     },
     {
       "id": "topic_1a4b540f7bf24b64",
-      "title": "Israel Orders Preparations for Full West Bank Closure",
+      "title": "Israel Orders Preparation for Full West Bank Closure After Attack",
       "headline": "Israel orders army to prepare for full closure of West Bank",
       "label": [
         "west",
@@ -468,6 +596,7 @@
         "full"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_f802476adc279a88",
       "entities": [
         "Israel",
@@ -502,18 +631,18 @@
           "description": "The office of Israeli Prime Minister Benjamin Netanyahu ordered the army to prepare for a full closure of the occupied West Bank Friday after Israeli soldiers shot and killed two men who the military said had launched a \"terror attack\" near the city of Hebron. Emergency services said five people we…"
         },
         {
-          "title": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
-          "url": "https://news.google.com/rss/articles/cbmirafbvv95cuxnn3dwb0r4z1vva2vjenltt3b4wwezs0xsc2q5smy0eeewny1fn2j6rlzdze1dauhzotdkehnucketmkjvyk0ys2vfrmtbqmhut3vpcu5cmdfpwlbiywrdu25xau51shj5cvf2nhkxngdlb3atvkpuahhor2zpqjk3awd2ni1ny04zm1dlnuxyvlctdwznue1rr1n5q1dsuzf3em1pwjlquuxpqs1p",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-23T09:18:46.000Z",
-          "description": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack NBC News Benjamin Netanyahu orders West Bank’s closure after gun attack wounds five Israelis Financial Times Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Live: Netanyah…"
-        },
-        {
           "title": "Israel orders army to prepare to fully close West Bank after attack",
           "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577",
           "source": "World News - Breaking international news and headlines | Sky News",
           "published_at": "2026-10-23T08:03:00.000Z",
           "description": "Israel has ordered its army to prepare for a full closure of the West Bank following an attack."
+        },
+        {
+          "title": "Netanyahu Orders “Full Lockdown” of Occupied West Bank",
+          "url": "https://truthout.org/articles/netanyahu-orders-full-lockdown-of-occupied-west-bank",
+          "source": "Truthout",
+          "published_at": "2026-10-23T14:50:14.000Z",
+          "description": "Smotrich said the Palestinian Authority should be “dismantled” and called for increased demolition of Palestinian homes."
         }
       ],
       "videos": [
@@ -526,11 +655,11 @@
           "thumbnail": "https://i.ytimg.com/vi/Sz8cLLInL_4/hqdefault.jpg"
         }
       ],
-      "summary": "Israeli Prime Minister Benjamin Netanyahu’s office ordered security forces to prepare for a full closure of the West Bank after Israeli forces killed two Palestinians accused of an attack. The order also included cordoning off Hebron."
+      "summary": "Israeli Prime Minister Benjamin Netanyahu’s office ordered security forces to prepare for a full closure of the West Bank after the military said it killed two Palestinians accused of an attack."
     },
     {
       "id": "topic_5d7da3b77dcac95e",
-      "title": "Trump Calls on Ilhan Omar to Resign Over Name Allegation",
+      "title": "Trump Calls for Ilhan Omar to Resign Over Alleged Name Use",
       "headline": "Trump Demands Ilhan Omar ‘Resign’ for Using ‘Fake Name’",
       "label": [
         "name",
@@ -541,6 +670,7 @@
         "resign"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_8d2ba5d626c62688",
       "entities": [
         "Trump Demands Ilhan Omar",
@@ -588,11 +718,11 @@
           "description": "Trump suggests Omar resign ‘immediately’ over ‘fake name’ The Hill Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search PBS Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital Dispatch Ilhan Omar responds to immigration fraud a…"
         }
       ],
-      "summary": "Donald Trump called on Representative Ilhan Omar to resign, alleging she used a different or “fake” name when elected. The headlines report the allegation but do not substantiate it."
+      "summary": "Donald Trump called for Representative Ilhan Omar to resign, alleging she used a different or “fake” name when elected. Omar has rejected the basis of Trump’s claim in past disputes."
     },
     {
       "id": "topic_ffba489997928072",
-      "title": "Seven Killed in Shooting at Church in Jordan",
+      "title": "Gunmen Kill Seven at Church Funeral in Jordan",
       "headline": "Gunmen open fire inside church in Jordan, 7 killed",
       "label": [
         "gunmen",
@@ -603,6 +733,7 @@
         "open"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_5bc6323db75805d8",
       "entities": [
         "Gunmen",
@@ -653,6 +784,14 @@
       ],
       "videos": [
         {
+          "title": "CCTV footage shows moment gunmen fired at church in Jordan",
+          "url": "https://www.youtube.com/shorts/H_OSxcej9Dk",
+          "video_id": "H_OSxcej9Dk",
+          "channel": "Sky News",
+          "published_at": "2026-10-23T20:41:59.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/H_OSxcej9Dk/hqdefault.jpg"
+        },
+        {
           "title": "At least 7 people killed in shooting at church in Jordan",
           "url": "https://www.youtube.com/watch?v=Q5d6oub5ds8",
           "video_id": "Q5d6oub5ds8",
@@ -661,11 +800,11 @@
           "thumbnail": "https://i.ytimg.com/vi/Q5d6oub5ds8/hqdefault.jpg"
         }
       ],
-      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing seven people and wounding 40, according to authorities. The shooting took place in the southern province of Karak."
+      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing at least seven people and wounding about 40, according to reports. Authorities were searching for suspects."
     },
     {
       "id": "topic_ecbf919cffe9037f",
-      "title": "Ukraine Says Starlink Access Remains Limited Despite Trump’s Claims",
+      "title": "Ukraine Says Starlink Access Remains Restricted Despite Trump’s Claim",
       "headline": "Ukraine Says Starlink Is Still Limited After Trump Claimed Musk Restored Connection",
       "label": [
         "starlink",
@@ -676,6 +815,7 @@
         "musk"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_d3872e7f92c31216",
       "entities": [
         "Ukraine Says Starlink Is",
@@ -725,6 +865,14 @@
       ],
       "videos": [
         {
+          "title": "Zelenskyy Says Starlink Is Still Limited After Trump Claimed Musk Restored Connection",
+          "url": "https://www.youtube.com/shorts/X2ylDhWPTCM",
+          "video_id": "X2ylDhWPTCM",
+          "channel": "Forbes",
+          "published_at": "2026-10-23T23:00:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/X2ylDhWPTCM/hqdefault.jpg"
+        },
+        {
           "title": "Trump says Starshield is restored: Ukraine says not true",
           "url": "https://www.youtube.com/watch?v=k14HW74DPbQ",
           "video_id": "k14HW74DPbQ",
@@ -733,7 +881,7 @@
           "thumbnail": "https://i.ytimg.com/vi/k14HW74DPbQ/hqdefault.jpg"
         }
       ],
-      "summary": "Ukraine said Starlink access remained limited after Donald Trump said Elon Musk had restored the service. Reports said restrictions on satellite access were still affecting Ukrainian military capabilities."
+      "summary": "Ukrainian officials said Starlink access remained limited after Donald Trump said Elon Musk had restored service. Reports said restrictions on the satellite service affected Ukraine’s military capabilities."
     },
     {
       "id": "topic_98be86987d8da458",
@@ -748,6 +896,7 @@
         "kenya"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_f5ab3807375fd08e",
       "entities": [
         "Many",
@@ -797,71 +946,17 @@
           "description": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse looters."
         }
       ],
-      "summary": "A multistorey building collapsed in Nairobi’s Eastleigh area, and many people were feared trapped beneath the rubble. Officials said the building lacked an occupation certificate, and rescue efforts were underway."
-    },
-    {
-      "id": "topic_95ce13b726392b8e",
-      "title": "Deadly Shooting Near Paris Investigated by French Authorities",
-      "headline": "One person killed in shooting near Paris, French Prime Minister says",
-      "label": [
-        "near",
-        "shooting",
-        "paris",
-        "killed",
-        "person",
-        "condemns"
-      ],
-      "category": "new",
-      "theme": "theme_bf9dc64c017cb5a8",
-      "entities": [
-        "One",
-        "Paris",
-        "French Prime Minister",
-        "French",
-        "NBC News"
-      ],
-      "article_count": 8,
-      "source_count": 7,
-      "articles": [
+      "videos": [
         {
-          "title": "One person killed in shooting near Paris, French Prime Minister says",
-          "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183",
-          "source": "NBC News World News",
-          "published_at": "2026-10-23T11:37:09.000Z",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-paris-shooting-mb-1233-295fa0.jpg",
-          "description": "At least one person was killed and four people were injured in a shooting near Paris, the French Prime Minister Sébastien Lecornu said Friday."
-        },
-        {
-          "title": "One person killed in shooting near Paris, French prime minister says",
-          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxod25ryjletk9idvdwullhyuvidkpwmzvodndmzxlwanp4vfezedu4t1jfofpnz2xnaxv1twctctb3vflqowfjwtfeww1jbl9wlut4c1atzmrozkrtcwztbjfybepimg4wng1yzzd4vgfirknrchnkbvhvy3flt0zwvvq1rfrroe5fzfnhuk0xvdlxemjrsljmnzvowkxun1lsc3hxaxhdxzdqzlu",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-23T11:37:09.000Z",
-          "description": "One person killed in shooting near Paris, French prime minister says NBC News Deadly shooting near Paris investigated as 'crime of terrorism', minister says BBC Gunman fires from car near Paris, killing 1; police arrest suspect Reuters One killed, four injured in drive-by shooting near Paris CNN On…"
-        },
-        {
-          "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-          "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-10-23T16:08:04.000Z",
-          "description": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl."
-        },
-        {
-          "title": "France: 1 killed, 4 wounded after shooting near Paris",
-          "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256",
-          "source": "Deutsche Welle",
-          "published_at": "2026-10-23T11:22:00.000Z",
-          "description": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. One person was killed and four others were wounded in the shooting. The motive was not immediately clear."
-        },
-        {
-          "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
-          "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
-          "source": "News - South China Morning Post",
-          "published_at": "2026-10-23T18:13:09.000Z",
-          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/38117286-b7c8-4971-b699-3e6f411580c0_595e2549.jpg?itok=AklhP8rD&v=1792779180",
-          "description": "A gunman firing from his car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French presidency condemned as a “racist terrorist attack”. French President Emmanuel Macron visited the working-class town of Trappes southw…"
+          "title": "Multi-story building collapses in Nairobi | DW News",
+          "url": "https://www.youtube.com/shorts/PipCz75cwbA",
+          "video_id": "PipCz75cwbA",
+          "channel": "DW News",
+          "published_at": "2026-10-23T22:47:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PipCz75cwbA/hqdefault.jpg"
         }
       ],
-      "summary": "A shooting near Paris left one person dead and several others wounded. French authorities arrested a suspect, and reports said prosecutors were investigating a possible terrorist motive."
+      "summary": "A multistorey building collapsed in Nairobi’s Eastleigh area, with many people feared trapped beneath the rubble. Rescue operations were underway; reports said the unfinished building was under construction."
     },
     {
       "id": "topic_eea8fde3d51f6660",
@@ -876,6 +971,7 @@
         "children"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_70de0e442c9235a",
       "entities": [
         "Greece",
@@ -923,7 +1019,7 @@
           "description": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction."
         }
       ],
-      "summary": "Greece passed a law banning children under 15 from using social media, with the restrictions set to take effect on January 1, 2027. The law requires platforms to use age verification."
+      "summary": "Greece passed a law banning children under 15 from social media, with the restrictions set to take effect in January 2027. The measure requires platforms to verify users’ ages."
     },
     {
       "id": "topic_efbd3c5f0f813cc4",
@@ -938,6 +1034,7 @@
         "moonshot"
       ],
       "category": "new",
+      "section": "technology",
       "theme": "theme_341a1372c1b1b4a",
       "entities": [
         "Kimi K3",
@@ -985,71 +1082,72 @@
           "description": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…"
         }
       ],
-      "summary": "Moonshot AI introduced Kimi K3.1 Pro, the first model in its K3.1 series, along with a faster Highspeed version. The company described improvements in coding performance; full model weights were expected later."
+      "summary": "Moonshot AI introduced Kimi K3.1 Pro, the first model in its K3.1 series, along with a faster Highspeed variant. The company says the model improves on its predecessor in benchmark performance."
     },
     {
-      "id": "topic_eefadd163e9b7ec6",
-      "title": "Nollywood Actor Francis Duru Dies at 57",
-      "headline": "Nollywood Actor Francis Duru Dies At 57",
+      "id": "topic_70a838049c47867c",
+      "title": "Oura Sues Ultrahuman Again Over Smart Ring Patents",
+      "headline": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
       "label": [
-        "duru",
-        "francis",
-        "nollywood",
-        "actor",
-        "veteran",
-        "dies"
+        "oura",
+        "ring",
+        "ultrahuman",
+        "smart",
+        "sues",
+        "threatening"
       ],
       "category": "new",
-      "theme": "theme_a4d5521f752ff5ef",
+      "section": "business",
+      "theme": "theme_a3b412f11826807b",
       "entities": [
-        "Nollywood Actor Francis Duru",
-        "Dies At",
-        "Nollywood Veteran Actor",
-        "Francis Duru",
-        "Dies"
+        "Oura",
+        "Ultrahuman",
+        "US",
+        "Ring Pro",
+        "Smart"
       ],
-      "article_count": 10,
-      "source_count": 5,
+      "article_count": 6,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Nollywood Actor Francis Duru Dies At 57",
-          "url": "https://www.informationng.com/2026/10/nollywood-actor-francis-duru-dies-at-57.html",
-          "source": "Information Nigeria",
-          "published_at": "2026-10-23T09:28:05.000Z",
-          "description": "Veteran Nollywood actor, Francis Duru, has passed away. He died at the age of 57 following a brief illness. His family announced this in a statement published on the actor’s Instagram page in the early hours of Friday. “We, the family of Francis Duru, regret to announce his passing following a brie…"
+          "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
+          "url": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-10-23T09:59:15.000Z",
+          "description": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro."
         },
         {
-          "title": "Nollywood Veteran Actor, Francis Duru, Dies at 57",
-          "url": "https://www.nigerianeye.com/2026/10/nollywood-veteran-actor-francis-duru.html",
-          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
-          "published_at": "2026-10-23T05:12:06.311Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vufPzcjL-_fr4S7l5IKqplvxfTbzmHcO2wSLwZbfY2RJWVmTKgRIh-JJE9Hzg_HoeBz5AtaooHzDoRGI_UlVur6a-dxBbrR-nWJXag84c52paVi5NDwcmzqqe6oWV_Gn6YJ_t69iDU2wEAGysDMKWma3z4Wi_sfk23DK_6e2-n1YuoS5jsMbgOYPY00/s72-w400-h359-c/1002389840.jpg",
-          "description": "Veteran Nollywood actor Francis Duru has died at the age of 57 after a brief illness. His family announced the news on his official Instagram page in the early hours of Friday, October 23, 2026, thanking fans and well-wishers for their support. “We, the family of Francis Duru, regret to announce hi…"
+          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+          "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback",
+          "source": "TechCrunch",
+          "published_at": "2026-10-23T04:22:57.000Z",
+          "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
         },
         {
-          "title": "Veteran Nollywood actor, Francis Duru dies after brief illness",
-          "url": "https://dailypost.ng/2026/10/23/breaking-veteran-nollywood-actor-francis-duru-dies-after-brief-illness",
-          "source": "Daily Post Nigeria",
-          "published_at": "2026-10-23T05:19:40.000Z",
-          "description": "Veteran Nollywood actor, Francis Duru has reportedly passed away following a brief illness, according to an announcement attributed to his family. The family announced his death in the early hours of Friday, October 23, 2026, in a statement shared on the actor’s verified Instagram account, @francis…"
+          "title": "Oura sues Ultrahuman in the US once again, threatening the new Ring Pro",
+          "url": "https://www.gsmarena.com/oura_sues_ultrahuman_in_the_us_once_again_threating_the_new_ring_pro-news-75188.php",
+          "source": "GSMArena.com - Latest articles",
+          "published_at": "2026-10-23T15:01:03.000Z",
+          "description": "Last year, the Finnish company Oura sued the India-based Ultrahuman in the US over patent infringement. Oura argued that Ultrahuman violated a patent, and the court found the latter guilty. Subsequently, the Ultrahuman Ring Air was pulled out of the market. Ultrahuman then reworked and launched the…"
         },
         {
-          "title": "Actor Francis Duru dies at 57 months after addressing health rumours",
-          "url": "https://www.legit.ng/entertainment/celebrities/1737516-nollywood-actor-francis-duru-dies-57-years-losing-son",
-          "source": "Legit.ng",
-          "published_at": "2026-10-23T04:43:43.000Z",
-          "description": "Actor Francis Duru has died at the age of 57, with his family announcing his passing following a brief illness. His death comes two years after he lost his son."
+          "title": "Smart ring battle: Oura and Ultrahuman are in court again over a 'patent infringement'",
+          "url": "https://www.androidcentral.com/wearables/oura-ring/smart-ring-battle-oura-and-ultrahuman-are-in-court-again-over-a-patent-infringement",
+          "source": "Latest from Android Central",
+          "published_at": "2026-10-23T17:04:24.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/hPNiZ6z6UtttfQ5fgijdDY-1920-80.jpg",
+          "description": "Oura has reportedly sued Ultrahuman for allegedly infringing on two of its patents regarding ring design and \"internal components.\""
         },
         {
-          "title": "Nollywood actor Francis Duru dies",
-          "url": "https://www.premiumtimesng.com/entertainment/nollywood/919508-nollywood-actor-francis-duru-dies.html",
-          "source": "Premium Times Nigeria",
-          "published_at": "2026-10-23T08:06:42.000Z",
-          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/10/Francis-Duru-e1792742667757.webp?fit=800%2C451&amp;ssl=1",
-          "description": "Duru died months after he denied reports of him being critically ill. The post Nollywood actor Francis Duru dies appeared first on Premium Times Nigeria."
+          "title": "New Oura lawsuit threatens to once again disrupt smart ring market",
+          "url": "https://www.androidauthority.com/oura-ultrahuman-ring-pro-lawsuit-3727334",
+          "source": "Android Authority",
+          "published_at": "2026-10-23T16:38:57.000Z",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Oura-Ring-5-Sensors-scaled.jpg",
+          "description": "Another day, another Oura lawsuit against a key industry rival."
         }
       ],
-      "summary": "Nollywood actor Francis Duru has died at 57 after a brief illness, according to a statement from his family."
+      "summary": "Oura has filed another US lawsuit against smart-ring rival Ultrahuman, alleging that its Ring Pro infringes Oura patents. The case could affect Ultrahuman’s return to the US market."
     }
   ]
 }

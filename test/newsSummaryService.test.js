@@ -3,7 +3,7 @@ import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
-import { summarizeDay, summarizeTopics } from '../src/services/newsSummaryService.js';
+import { classifyTopics, summarizeDay, summarizeTopics } from '../src/services/newsSummaryService.js';
 
 const KEY = 'sk-test-secret-key';
 const TOPICS = [
@@ -145,4 +145,24 @@ test('day overview keeps only valid story references and needs two usable points
   const tooFew = await summarizeDay(stories, { ...options(reply([{ text: 'Only one.', stories: [1] }])), ledgerPath: await tempLedger() });
   assert.equal(tooFew, null);
   assert.equal(await summarizeDay(stories.slice(0, 2), { env: { OPENAI_API_KEY: KEY }, fetchImpl: async () => assert.fail('no request') }), null);
+});
+
+test('classifies candidate sections and ignores unknown or unmatched keys', async () => {
+  const fetchImpl = async () => jsonResponse(200, {
+    usage: { input_tokens: 80, output_tokens: 20 },
+    output: [{ type: 'message', content: [{ type: 'output_text', text: JSON.stringify({ topics: [
+      { key: 't1', section: 'technology' },
+      { key: 't2', section: 'weather' },
+      { key: 't9', section: 'sports' }
+    ] }) }] }]
+  });
+  const result = await classifyTopics([
+    { id: 'php', headlines: ['Critical PHP flaws put websites at risk'] },
+    { id: 'storm', headlines: ['Storm floods coastal towns'] }
+  ], { env: { OPENAI_API_KEY: KEY }, fetchImpl, logger: recordingLogger(), ledgerPath: await tempLedger() });
+  assert.deepEqual([...result], [['php', 'technology']]);
+
+  const failing = async () => jsonResponse(500, { error: { message: 'down' } });
+  assert.equal(await classifyTopics([{ id: 'php', headlines: ['x'] }], { env: { OPENAI_API_KEY: KEY }, fetchImpl: failing, logger: recordingLogger(), ledgerPath: await tempLedger() }), null);
+  assert.equal(await classifyTopics([{ id: 'php', headlines: ['x'] }], { env: {} }), null);
 });

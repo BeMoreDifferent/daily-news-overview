@@ -1,5 +1,6 @@
-// Daily topic titles + summaries via one batched OpenAI Responses API call, plus one small call for
-// the day's overview ("the day in brief") written from the final titles and summaries.
+// Daily topic titles + summaries via one batched OpenAI Responses API call, plus two small calls:
+// the candidates' sections (before the day's stories are picked) and the day's overview ("the day
+// in brief") written from the final titles and summaries.
 // Cost controls: called once per exported day (never on hourly runs), compact input (≤5 titles and
 // 200-char descriptions per topic), low reasoning effort, capped output, no retries on failure, and
 // a hard daily budget: a request is only sent if its worst-case cost fits in what is left of today's
@@ -8,6 +9,7 @@
 
 import { promises as fs } from 'fs';
 import path from 'path';
+import { SECTIONS, isSection } from './sectionService.js';
 
 const API_URL = 'https://api.openai.com/v1/responses';
 const DEFAULT_MODEL = 'gpt-6-luna';
@@ -25,7 +27,8 @@ const DEFAULT_DAILY_BUDGET_EUR = 0.02;
 const INSTRUCTIONS = [
   'You edit a neutral daily news digest. Each cluster below groups headlines (from many outlets and',
   'languages) about one story. For every cluster return:',
-  '- title: English, at most 12 words, factual, no clickbait, no source names.',
+  '- title: English, at most 12 words, factual, no clickbait, no source names. Name what most',
+  '  headlines of the cluster have in common, not a detail only one of them mentions.',
   '- summary: English, 1-2 sentences, at most 45 words, only facts supported by the given headlines',
   '  and descriptions; neutral wording; no speculation.',
   '- duplicate_of: the key of an EARLIER cluster that covers the same story, otherwise null.'
@@ -84,6 +87,42 @@ const OVERVIEW_SCHEMA = {
   }
 };
 
+const CLASSIFY_MAX_OUTPUT_TOKENS = 1200;
+const CLASSIFY_HEADLINES = 3;
+const CLASSIFY_INSTRUCTIONS = [
+  'You sort the candidate stories of a neutral daily news digest into sections. Each cluster below',
+  'groups headlines (many outlets and languages) about one story. For every cluster return its key and',
+  'one section:',
+  '- politics: elections, governments, parliaments, courts and law enforcement in a political context',
+  '- world: wars, diplomacy, disasters, crime, accidents and other general news',
+  '- business: companies, markets, economy, jobs, trade',
+  '- technology: tech companies and products, AI, software, cybersecurity, internet',
+  '- science-health: science, space, medicine, public health, climate research',
+  '- sports: sport events, athletes, teams, coaches',
+  '- culture: film, music, TV, games, celebrities, arts, lifestyle',
+  'Pick the section a reader would look in first.'
+].join('\n');
+
+const CLASSIFY_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  required: ['topics'],
+  properties: {
+    topics: {
+      type: 'array',
+      items: {
+        type: 'object',
+        additionalProperties: false,
+        required: ['key', 'section'],
+        properties: {
+          key: { type: 'string' },
+          section: { type: 'string', enum: SECTIONS }
+        }
+      }
+    }
+  }
+};
+
 export function isSummaryEnabled(env = process.env) {
   return Boolean(env.OPENAI_API_KEY) && env.SUMMARY_ENABLED !== '0';
 }
@@ -130,6 +169,44 @@ export async function summarizeTopics(topics, {
       summary: (item.summary || '').trim() || null,
       duplicateOf: item.duplicate_of && item.duplicate_of !== item.key ? keyToId.get(item.duplicate_of) || null : null
     });
+  }
+  return results.size ? results : null;
+}
+
+/**
+ * candidates: [{ id, headlines: [string] }], the stories the day's selection picks from.
+ * Returns Map<topicId, section>, or null when disabled or on any failure (callers fall back to the
+ * feed-category heuristic). One small request (~$0.0003).
+ */
+export async function classifyTopics(candidates, {
+  env = process.env,
+  fetchImpl = globalThis.fetch,
+  logger = console,
+  ledgerPath = LEDGER_PATH,
+  now = new Date()
+} = {}) {
+  if (!candidates.length || !isSummaryEnabled(env)) return null;
+
+  const keyToId = new Map(candidates.map((candidate, index) => [`t${index + 1}`, candidate.id]));
+  const input = candidates.map((candidate, index) => {
+    const lines = (candidate.headlines || []).slice(0, CLASSIFY_HEADLINES).map(headline => `- ${truncate(headline, 160)}`);
+    return `[t${index + 1}]\n${lines.join('\n')}`;
+  }).join('\n\n');
+
+  const parsed = await requestJson({
+    instructions: CLASSIFY_INSTRUCTIONS,
+    input,
+    schemaName: 'daily_sections',
+    schema: CLASSIFY_SCHEMA,
+    maxOutputTokens: CLASSIFY_MAX_OUTPUT_TOKENS,
+    label: `sections=${candidates.length}`
+  }, { env, fetchImpl, logger, ledgerPath, now });
+  if (!parsed) return null;
+
+  const results = new Map();
+  for (const item of parsed.topics || []) {
+    const id = keyToId.get(item.key);
+    if (id && isSection(item.section)) results.set(id, item.section);
   }
   return results.size ? results : null;
 }

@@ -38,6 +38,7 @@ const topicSummarySchema = {
     title: { type: 'string' },
     summary: { type: 'string' },
     category: { type: 'string' },
+    section: { type: 'string', enum: ['world', 'politics', 'business', 'technology', 'science-health', 'sports', 'culture'] },
     source_count: { type: 'integer' },
     article_count: { type: 'integer' },
     articles: { type: 'array', items: articleSchema },
@@ -51,7 +52,8 @@ export const TOOLS = [
     name: 'get_daily_news',
     title: 'Get daily news briefing',
     description: 'Get the news briefing for one day: overview bullet points and up to 15 top topics, each with an '
-      + 'English title, summary, links to the covering articles and any matching news videos. Defaults to today (UTC); a day\'s '
+      + 'English title, summary, section (world, politics, business, technology, science-health, sports, culture), '
+      + 'links to the covering articles and any matching news videos. Defaults to today (UTC); a day\'s '
       + 'briefing is published the morning after, so until then today falls back to yesterday.',
     inputSchema: {
       type: 'object',
@@ -120,6 +122,7 @@ function topicSummary(topic) {
     title: topic.title,
     summary: topic.summary || '',
     category: topic.category,
+    ...(topic.section ? { section: topic.section } : {}),
     source_count: topic.source_count,
     article_count: topic.article_count,
     articles: (topic.articles || []).map(article),

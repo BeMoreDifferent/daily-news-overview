@@ -1,7 +1,8 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { summarizeDay, summarizeTopics } from './newsSummaryService.js';
+import { classifyTopics, summarizeDay, summarizeTopics } from './newsSummaryService.js';
 import { dropUnloadableImages } from './imageCheckService.js';
+import { loadFeedSections, sectionFromSources } from './sectionService.js';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
@@ -12,27 +13,61 @@ const MIN_TOPICS = 5;
 const SCORE_FLOOR_RATIO = 0.4;
 const DESCRIPTION_CHARS = 300;
 const TOPIC_ARTICLE_POOL = 200;
+const CANDIDATE_POOL = 40;
+const MAX_PER_SECTION = 5;
+const SOFT_MIN_SECTIONS = ['technology', 'business', 'science-health', 'sports', 'culture'];
+const SOFT_MIN_SCORE_RATIO = 0.5;
 
-// Topics arrive sorted by finalScore. Keep the best topic per theme (sub-stories of one theme
-// would otherwise crowd the page), drop anything under the score floor, but always show MIN_TOPICS.
-function selectTopics(allTopics) {
+// Topics arrive sorted by finalScore. Candidates: the best topic per theme (sub-stories of one theme
+// would otherwise crowd the page) above the score floor, but always at least MIN_TOPICS.
+export function candidateTopics(allTopics) {
   if (!allTopics.length) return [];
 
   const floor = (allTopics[0].finalScore ?? 0) * SCORE_FLOOR_RATIO;
   const seenThemes = new Set();
-  const selected = [];
+  const candidates = [];
   for (const topic of allTopics) {
-    if (selected.length >= MAX_TOPICS) break;
-    if ((topic.finalScore ?? 0) < floor && selected.length >= MIN_TOPICS) break;
+    if (candidates.length >= CANDIDATE_POOL) break;
+    if ((topic.finalScore ?? 0) < floor && candidates.length >= MIN_TOPICS) break;
     if (topic.themeId && seenThemes.has(topic.themeId)) continue;
     if (topic.themeId) seenThemes.add(topic.themeId);
-    selected.push(topic);
+    candidates.push(topic);
   }
-  return selected;
+  return candidates;
+}
+
+// Balanced pick from the candidates (score order): each soft-minimum section gets its best story
+// when that scores at least SOFT_MIN_SCORE_RATIO of the top story, nothing weaker is forced in; the
+// rest is filled by score with at most MAX_PER_SECTION per section. Returned in score order.
+export function selectTopics(candidates, sectionOf = () => 'world') {
+  if (!candidates.length) return [];
+  const minScore = (candidates[0].finalScore ?? 0) * SOFT_MIN_SCORE_RATIO;
+  const picked = new Set();
+  const perSection = new Map();
+  const take = topic => {
+    picked.add(topic);
+    perSection.set(sectionOf(topic), (perSection.get(sectionOf(topic)) || 0) + 1);
+  };
+
+  for (const section of SOFT_MIN_SECTIONS) {
+    const best = candidates.find(topic => sectionOf(topic) === section);
+    if (best && (best.finalScore ?? 0) >= minScore && picked.size < MAX_TOPICS) take(best);
+  }
+  for (const topic of candidates) {
+    if (picked.size >= MAX_TOPICS) break;
+    if (picked.has(topic) || (perSection.get(sectionOf(topic)) || 0) >= MAX_PER_SECTION) continue;
+    take(topic);
+  }
+  // A one-section day must still show MIN_TOPICS stories.
+  for (const topic of candidates) {
+    if (picked.size >= MIN_TOPICS) break;
+    if (!picked.has(topic)) take(topic);
+  }
+  return candidates.filter(topic => picked.has(topic));
 }
 
 // Most central articles first (sampleHeadlines is stored in centrality order), one per outlet,
-// no repeated headlines.
+// no repeated headlines (compared without Google News' " - Publisher" suffix).
 function pickArticles(topic, rows) {
   const rank = new Map((topic.sampleHeadlines || []).map((title, index) => [title, index]));
   const ordered = [...rows].sort((a, b) => (rank.get(a.title) ?? Infinity) - (rank.get(b.title) ?? Infinity));
@@ -40,7 +75,7 @@ function pickArticles(topic, rows) {
   const seenSources = new Set();
   const picked = [];
   for (const row of ordered) {
-    const titleKey = String(row.title || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+    const titleKey = cleanTitle(row).toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
     const sourceKey = row.feed_title || row.feed_url || row.url;
     if (!titleKey || seenTitles.has(titleKey) || seenSources.has(sourceKey)) continue;
     seenTitles.add(titleKey);
@@ -118,7 +153,7 @@ function cleanDescription(summary, title) {
   return text.length > DESCRIPTION_CHARS ? `${text.slice(0, DESCRIPTION_CHARS - 1).trimEnd()}…` : text;
 }
 
-function buildTopicObj(topic, articles, videos = []) {
+function buildTopicObj(topic, articles, videos = [], section = null) {
   const headline = topic.sampleHeadlines?.[0] || null;
   const obj = {
     id: topic.id,
@@ -127,6 +162,7 @@ function buildTopicObj(topic, articles, videos = []) {
     label: (topic.labelKeywords || []).slice(0, 6),
     category: topic.status || 'new',
   };
+  if (section) obj.section = section;
   if (topic.themeId) obj.theme = topic.themeId;
   const entities = (topic.entities || []).slice(0, 5);
   if (entities.length) obj.entities = entities;
@@ -219,12 +255,30 @@ export async function exportNewsForDate(db, date, { force = false, summarize = t
   const allTopics = await db.getTopicsBetweenDates(date, date);
   if (!allTopics.length) return 0;
 
-  let topicObjects = [];
-  for (const topic of selectTopics(allTopics)) {
+  // Sections are known before the pick: the model's when summaries are on, else the feed vote.
+  const candidates = candidateTopics(allTopics);
+  const feedSections = await loadFeedSections();
+  const rowsById = new Map();
+  const sections = new Map();
+  for (const topic of candidates) {
     const rows = await db.getArticlesForTopic(topic.id, TOPIC_ARTICLE_POOL);
+    rowsById.set(topic.id, rows);
+    sections.set(topic.id, sectionFromSources(rows.filter(row => Number(row.source_type) !== VIDEO_SOURCE_TYPE), feedSections));
+  }
+  if (summarize) {
+    const modelSections = await classifyTopics(
+      candidates.map(topic => ({ id: topic.id, headlines: topic.sampleHeadlines || [] })),
+      summaryOptions
+    );
+    for (const [id, section] of modelSections || []) sections.set(id, section);
+  }
+
+  let topicObjects = [];
+  for (const topic of selectTopics(candidates, candidate => sections.get(candidate.id))) {
+    const rows = rowsById.get(topic.id);
     const videos = rows.filter(row => Number(row.source_type) === VIDEO_SOURCE_TYPE);
     const articles = rows.filter(row => Number(row.source_type) !== VIDEO_SOURCE_TYPE);
-    topicObjects.push(buildTopicObj(topic, pickArticles(topic, articles), pickVideos(videos)));
+    topicObjects.push(buildTopicObj(topic, pickArticles(topic, articles), pickVideos(videos), sections.get(topic.id)));
   }
   if (imageCheck) await dropUnloadableImages(topicObjects, imageCheck === true ? {} : imageCheck);
 

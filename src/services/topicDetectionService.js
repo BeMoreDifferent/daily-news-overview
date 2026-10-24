@@ -49,7 +49,14 @@ const DEFAULT_OPTIONS = {
   themeThreshold: 0.30,
   videoSimilarityThreshold: 0.30,
   minVideoSharedWords: 2,
-  maxVideosPerTopic: 3
+  maxVideosPerTopic: 3,
+  followUpDays: 2,
+  followUpRankLimit: 20,
+  followUpHeadlineShare: 0.6,
+  followUpMaxDfRatio: 0.005,
+  followUpMinLift: 5,
+  followUpMaxPerFeed: 3,
+  followUpBaselineDays: 7
 };
 
 export async function detectTopicsForDate(duckDBService, date, options = {}) {
@@ -60,7 +67,12 @@ export async function detectTopicsForDate(duckDBService, date, options = {}) {
   const historyStartDate = shiftDate(date, -config.historyDays);
   const historicalTopics = await duckDBService.getTopicsBetweenDates(historyStartDate, shiftDate(date, -1));
 
-  const currentTopics = detectTopicsFromArticles(articles, { ...config, videos });
+  const followUpTopics = topRankedPerDay(historicalTopics.filter(topic => topic.date >= shiftDate(date, -config.followUpDays)), config.followUpRankLimit);
+  // A week-old day tells story words ("php") apart from everyday ones ("west", "firm").
+  const followUpBaseline = followUpTopics.length && config.followUpRankLimit
+    ? (await duckDBService.getArticlesForDate(shiftDate(date, -config.followUpBaselineDays), config.maxArticles)).map(article => article.title)
+    : [];
+  const currentTopics = detectTopicsFromArticles(articles, { ...config, videos, followUpTopics, followUpBaseline });
   // Only the top of the ranking is ever exported or useful as history; storing the long tail of
   // small clusters just bloats the topics tables.
   const scoredTopics = scoreTopics(currentTopics, historicalTopics, config)
@@ -82,7 +94,7 @@ export function detectTopicsFromArticles(articles, options = {}) {
 
   const vectorize = createTfidfVectorizer(documents.map(document => document.terms));
   documents.forEach(document => { document.vector = vectorize(document.terms); });
-  const clusters = clusterHeadlines(documents, config.headlineSimilarityThreshold, config);
+  const clusters = groupFollowUps(clusterHeadlines(documents, config.headlineSimilarityThreshold, config), documents, config.followUpTopics || [], config);
   const topics = clusters
     .map(cluster => createTopic(cluster, config))
     .filter(topic => topic.articleCount >= config.minTopicSize)
@@ -141,6 +153,120 @@ export function attachVideos(topics, videos, vectorize, options = {}) {
     }
   }
   return topics;
+}
+
+// Day-2/3 coverage of a big story takes new angles ("Japan to simulate cyberattacks as PHP flaws
+// roil internet", "IT workers on frontline of PHP scramble") that share too little wording to
+// cluster, so the story falls apart into fragments. Each recent top story contributes one anchor:
+// one of its top label keywords that is in most of its headlines, still rare today, and at least
+// `followUpMinLift` times more frequent than in `baselineTitles` (headlines from a week before),
+// so everyday words never qualify. A headline counts for the story only if it also shares another
+// word with the story's centroid ("Macron" alone would join unrelated Macron news). Clusters mostly
+// made of such headlines are merged into one follow-up cluster; others stay untouched.
+export function followUpAnchors(followUpTopics, documents, baselineTitles = [], options = {}) {
+  const config = { ...DEFAULT_OPTIONS, ...options };
+  if (!baselineTitles.length) return [];
+  const documentFrequency = new Map();
+  for (const document of documents) {
+    for (const stem of documentStems(document)) documentFrequency.set(stem, (documentFrequency.get(stem) || 0) + 1);
+  }
+  const baselineFrequency = new Map();
+  for (const title of baselineTitles) {
+    for (const stem of new Set(normalizeHeadline(title))) baselineFrequency.set(stem, (baselineFrequency.get(stem) || 0) + 1);
+  }
+  const maxDf = Math.max(1, Math.floor(documents.length * config.followUpMaxDfRatio));
+  const lift = stem => (documentFrequency.get(stem) / documents.length)
+    / (((baselineFrequency.get(stem) || 0) + 1) / baselineTitles.length);
+
+  const anchors = [];
+  for (const topic of followUpTopics) {
+    const headlines = parseList(topic.sampleHeadlines).map(headline => new Set(normalizeHeadline(headline)));
+    if (!headlines.length) continue;
+    const candidates = unique(parseList(topic.labelKeywords).slice(0, 3).map(keyword => normalizeHeadline(keyword)[0]))
+      .map(stem => ({
+        stem,
+        share: headlines.filter(stems => stems.has(stem)).length / headlines.length,
+        df: documentFrequency.get(stem) || 0
+      }))
+      .filter(candidate => candidate.share >= config.followUpHeadlineShare && candidate.df > 0 && candidate.df <= maxDf)
+      .filter(candidate => lift(candidate.stem) >= config.followUpMinLift)
+      .sort((a, b) => b.share - a.share);
+    if (!candidates.length || anchors.some(anchor => anchor.stem === candidates[0].stem)) continue;
+    const stem = candidates[0].stem;
+    // Context words must be specific: not common today ("france" on a riot day) and not the other
+    // half of the anchor's name ("emmanuel" for "macron"), which every headline about them has.
+    const nameParts = new Set(parseList(topic.entities)
+      .map(entity => normalizeHeadline(entity))
+      .filter(stems => stems.length === 2 && stems.includes(stem))
+      .flat());
+    const context = new Set([...vectorFromObject(topic.centroidVector).keys()]
+      .filter(term => !term.includes(' ') && term !== stem && !nameParts.has(term))
+      .filter(term => (documentFrequency.get(term) || 0) <= maxDf));
+    anchors.push({ stem, context });
+  }
+  return anchors;
+}
+
+function groupFollowUps(clusters, documents, followUpTopics, config) {
+  if (!followUpTopics.length || !config.followUpRankLimit) return clusters;
+  const anchors = followUpAnchors(followUpTopics, documents, config.followUpBaseline || [], config);
+  if (!anchors.length) return clusters;
+
+  // Feeds that emit many headlines with the anchor in one day are templated firehoses ("WordPress
+  // … theme - PHP Object Injection"); their headlines never join a follow-up.
+  const anchorArticlesPerFeed = new Map();
+  for (const document of documents) {
+    const stems = documentStems(document);
+    for (const { stem } of anchors) {
+      if (!stems.has(stem)) continue;
+      for (const article of document.articles) {
+        const key = `${stem}|${articleFeed(article)}`;
+        anchorArticlesPerFeed.set(key, (anchorArticlesPerFeed.get(key) || 0) + 1);
+      }
+    }
+  }
+  const counts = (document, { stem, context }) => {
+    const stems = documentStems(document);
+    return stems.has(stem)
+      && [...stems].some(other => context.has(other))
+      && document.articles.some(article => (anchorArticlesPerFeed.get(`${stem}|${articleFeed(article)}`) || 0) <= config.followUpMaxPerFeed);
+  };
+
+  const groups = new Map(anchors.map(anchor => [anchor, []]));
+  const rest = [];
+  for (const cluster of clusters) {
+    const anchor = anchors.find(candidate => cluster.filter(document => counts(document, candidate)).length * 2 >= cluster.length);
+    if (anchor) groups.get(anchor).push(...cluster);
+    else rest.push(cluster);
+  }
+  return [...rest, ...[...groups.values()].filter(group => group.length)];
+}
+
+function articleFeed(article) {
+  return article.feed_url || article.feed_title || 'unknown';
+}
+
+function documentStems(document) {
+  return document.stems || (document.stems = new Set(document.terms.filter(term => !term.includes(' '))));
+}
+
+function topRankedPerDay(topics, limit) {
+  const byDate = new Map();
+  for (const topic of topics) {
+    if (!byDate.has(topic.date)) byDate.set(topic.date, []);
+    byDate.get(topic.date).push(topic);
+  }
+  return [...byDate.values()].flatMap(dayTopics => [...dayTopics]
+    .sort((a, b) => Number(b.finalScore || 0) - Number(a.finalScore || 0))
+    .slice(0, limit));
+}
+
+function parseList(value) {
+  if (Array.isArray(value)) return value;
+  if (typeof value === 'string') {
+    try { return JSON.parse(value); } catch { return []; }
+  }
+  return [];
 }
 
 // Short video titles ("I Google Myself") can score high on a single word; require real overlap.

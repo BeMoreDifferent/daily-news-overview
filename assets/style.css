@@ -1516,6 +1516,150 @@ img {
   }
 }
 
+/* ── Sections ────────────────────────────────────────────────────────────── */
+
+.story-section {
+  color: var(--fg);
+}
+
+/* One row of chips above the stories; scrolls sideways on narrow phones instead of wrapping. */
+.section-filter {
+  display: flex;
+  gap: 8px;
+  margin-inline: calc(var(--gutter) * -1);
+  padding: 0 var(--gutter) 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.section-filter::-webkit-scrollbar {
+  display: none;
+}
+
+.section-filter[hidden] {
+  display: none;
+}
+
+.section-chip {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: none;
+  color: var(--fg-muted);
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.section-chip-count {
+  font-variant-numeric: tabular-nums;
+  opacity: 0.7;
+}
+
+.section-chip[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+@media (hover: hover) {
+  .section-chip[aria-pressed="false"]:hover {
+    border-color: var(--fg-muted);
+    color: var(--fg);
+  }
+}
+
+/* A filtered view has no fixed 15-slot front page to fill, so every story is a full-width row
+   (picture beside the text and its coverage): any number of stories stays even. */
+@media (min-width: 640px) {
+  .section-filter {
+    margin-inline: 0;
+    padding-inline: 0;
+    flex-wrap: wrap;
+    overflow: visible;
+  }
+
+  .stories.is-filtered > .slot.slot--row {
+    grid-column: 1 / -1;
+    grid-row: auto;
+    border-left: 0;
+  }
+
+  .stories.is-filtered > li + li .story {
+    border-top: 1px solid var(--border);
+  }
+
+  /* Rows take their content's height and the picture spans them, so a tall picture adds space
+     below the text, never between title and summary. */
+  .story--row.has-media {
+    grid-template-columns: minmax(0, 1fr) clamp(200px, 30%, 320px);
+    grid-template-areas:
+      "kicker media"
+      "title media"
+      "summary media"
+      "coverage media"
+      "more media";
+    align-content: start;
+    column-gap: var(--col-gap);
+  }
+
+  .stories.is-filtered > .slot--row .story-media {
+    display: block;
+    align-self: start;
+    margin: 0;
+  }
+
+  .story--row .story-media img {
+    aspect-ratio: 3 / 2;
+  }
+
+  .story--row .story-title {
+    font-size: 1.4375rem;
+  }
+
+  .story--row .story-summary {
+    margin-top: 8px;
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  /* Coverage two across once its column is wide enough: beside a picture that takes a wider row. */
+  @container (min-width: 600px) {
+    .story--row:not(.has-media) .coverage {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      column-gap: var(--col-gap);
+      border-top: 0;
+    }
+
+    .story--row:not(.has-media) .coverage li,
+    .story--row:not(.has-media) .coverage li + li {
+      border-top: 1px solid var(--border);
+    }
+  }
+
+  @container (min-width: 1000px) {
+    .story--row.has-media .coverage {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      column-gap: var(--col-gap);
+      border-top: 0;
+    }
+
+    .story--row.has-media .coverage li,
+    .story--row.has-media .coverage li + li {
+      border-top: 1px solid var(--border);
+    }
+  }
+}
+
 /* ── Day pager ────────────────────────────────────────────────────────────── */
 
 /* Phones keep their single-column design; swiping moves between days there. */

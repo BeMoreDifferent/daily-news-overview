@@ -32,6 +32,7 @@ const NEWS = {
     topics: [
       topic('t_nobel', 'Navi Pillay Wins Nobel Peace Prize', {
         entities: ['Navi Pillay'],
+        section: 'world',
         videos: [{ title: 'Pillay wins', url: 'https://www.youtube.com/watch?v=p1', video_id: 'p1', channel: 'DW News', published_at: '2026-10-09T11:00:00Z', thumbnail: 'https://i.ytimg.com/vi/p1/hqdefault.jpg' }],
       }),
       topic('t_storm', 'Hurricane Isaias strengthens'),
@@ -201,6 +202,8 @@ test('get_daily_news reads a specific date directly, without an index', async ()
   assert.equal(day.topics[0].articles[0].description, undefined);
   assert.deepEqual(day.topics[0].videos, [{ title: 'Pillay wins', channel: 'DW News', url: 'https://www.youtube.com/watch?v=p1', published_at: '2026-10-09T11:00:00Z' }]);
   assert.deepEqual(day.topics[1].videos, []);
+  assert.equal(day.topics[0].section, 'world');
+  assert.equal('section' in day.topics[1], false);
 
   for (const date of ['2020-01-01', '2026-10-30', '10/08/2026']) {
     const res = (await call('get_daily_news', { date })).body.result;

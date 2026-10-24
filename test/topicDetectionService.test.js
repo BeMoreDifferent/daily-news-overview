@@ -13,6 +13,7 @@ import {
   extractHeadlineTerms,
   attachVideos,
   createTfidfVectorizer,
+  followUpAnchors,
   normalizeHeadline,
   scoreTopics
 } from '../src/services/topicDetectionService.js';
@@ -283,6 +284,52 @@ test('videos are stored with their topic but kept out of clustering', async () =
   } finally {
     await service.close();
   }
+});
+
+const PHP_STORY = {
+  labelKeywords: ['php', 'flaws', 'critical'],
+  sampleHeadlines: ['Critical PHP flaws put websites at risk', 'PHP flaws exploited by attackers', 'Cloudflare sees attacks on PHP flaws'],
+  centroidVector: { php: 0.6, flaw: 0.5, critical: 0.3, exploit: 0.2, cloudflare: 0.2 },
+  entities: ['PHP', 'Cloudflare']
+};
+const BASELINE = Array.from({ length: 30 }, (_, index) => `Ordinary headline number ${index} about weather and markets`);
+
+test('follow-up headlines with new angles join the previous days\' story', () => {
+  const articles = [
+    article('Japan to simulate cyberattacks as PHP flaws roil internet', '2026-10-23T08:00:00Z', 'reuters', 1),
+    article('IT workers on frontline of PHP flaws scramble', '2026-10-23T09:00:00Z', 'bbc', 2),
+    article('Foundation patches critical PHP bug again', '2026-10-23T10:00:00Z', 'zeit', 3),
+    article('Critical PHP issue: what admins must do now', '2026-10-23T11:00:00Z', 'register', 4),
+    article('PHP developer conference opens in Berlin', '2026-10-23T12:00:00Z', 'devnews', 5),
+    ...['Astra', 'Helion', 'Rhodos', 'Zen'].map((name, index) => article(`WordPress ${name} theme critical PHP object injection`, '2026-10-23T07:00:00Z', 'cvefeed', 10 + index)),
+    article('Storm floods coastal towns', '2026-10-23T06:00:00Z', 'ap', 20)
+  ];
+  const options = { followUpTopics: [PHP_STORY], followUpBaseline: BASELINE, followUpMaxDfRatio: 1 };
+
+  assert.equal(detectTopicsFromArticles(articles, { followUpRankLimit: 0 }).length, 0);
+  const [topic, ...rest] = detectTopicsFromArticles(articles, options);
+  assert.equal(rest.length, 0);
+  assert.equal(topic.articleCount, 4);
+  assert.equal(topic.uniqueSourceCount, 4);
+  assert.equal(topic.sampleHeadlines.some(title => /conference|WordPress/.test(title)), false);
+});
+
+test('follow-up anchors need a dominant, rare, newly frequent keyword', () => {
+  const documents = ['Tom Skerritt dies at 93', 'Tributes for Tom Skerritt', 'Alien sequel finds a writer', 'Weather turns cold']
+    .map(title => ({ terms: extractHeadlineTerms(title) }));
+  const skerritt = {
+    labelKeywords: ['skerritt', 'alien', 'weather'],
+    sampleHeadlines: ['Tom Skerritt, star of Alien, dies', 'Actor Tom Skerritt dies at 93', 'Tom Skerritt remembered'],
+    centroidVector: { skerritt: 0.7, alien: 0.3, dies: 0.3, weather: 0.1 },
+    entities: ['Tom Skerritt']
+  };
+  const anchors = followUpAnchors([skerritt], documents, BASELINE, { followUpMaxDfRatio: 1 });
+  assert.deepEqual(anchors.map(anchor => anchor.stem), ['skerritt']);
+  // "tom" is the other half of the name, so it never confirms a headline on its own.
+  assert.equal(anchors[0].context.has('tom'), false);
+
+  const everyday = { ...skerritt, labelKeywords: ['weather'], sampleHeadlines: ['Weather turns cold', 'Cold weather ahead'] };
+  assert.deepEqual(followUpAnchors([everyday], documents, BASELINE, { followUpMaxDfRatio: 1 }), []);
 });
 
 function video(title, channel, index) {
