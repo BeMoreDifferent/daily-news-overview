@@ -1075,40 +1075,14 @@ img {
 }
 
 /* ── Videos ──────────────────────────────────────────────────────────────── */
-/* No grid-area: the strip auto-places in a full-width row after the coverage list. Each video is a
-   row like the coverage links: thumbnail left, channel, time and title beside it. */
-
-.videos {
-  grid-column: 1 / -1;
-  margin-top: 12px;
-}
-
-.videos-heading {
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: var(--fg-muted);
-}
-
-.video-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
-  column-gap: var(--col-gap, 24px);
-  margin-top: 4px;
-  list-style: none;
-}
-
-.video-list li {
-  border-top: 1px solid var(--border);
-}
+/* A video is a coverage row (see renderVideoItem): same padding and rules as the links around it,
+   with a small thumbnail whose height matches a two-line text row. */
 
 .video-link {
   display: grid;
   grid-template-columns: 112px minmax(0, 1fr);
   align-items: center;
   gap: 12px;
-  min-height: var(--tap);
-  padding: 10px 0;
-  color: var(--fg);
 }
 
 .video-thumb {
@@ -1152,20 +1126,12 @@ img {
   min-width: 0;
 }
 
-.video-title {
-  display: -webkit-box;
-  margin-top: 2px;
-  overflow: hidden;
-  font-size: 0.9375rem;
-  line-height: 1.4;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+.coverage-kind {
+  color: var(--fg-subtle);
 }
 
-.video-title::after {
-  content: " ↗";
-  color: var(--fg-subtle);
-  font-size: 0.8em;
+.coverage-kind::before {
+  content: "· ";
 }
 
 /* ── Multi-column front page (tablet and up) ──────────────────────────────── */
@@ -1754,8 +1720,7 @@ img {
     border-color: var(--accent);
   }
 
-  .coverage-link:hover .coverage-title,
-  .video-link:hover .video-title {
+  .coverage-link:hover .coverage-title {
     color: var(--accent);
     text-decoration: underline;
     text-decoration-thickness: 1px;

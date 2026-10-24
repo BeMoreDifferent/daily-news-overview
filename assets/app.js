@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=22';
-import { noteStoryRead, setupInstall } from './install.js?v=22';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=23';
+import { noteStoryRead, setupInstall } from './install.js?v=23';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -484,6 +484,14 @@ function renderCoverage(topic, story) {
       : el('div', { class: 'coverage-link' }, ...inner);
     return el('li', {}, row);
   });
+  // The best video takes the second row, so it is visible without crowding out the lead article;
+  // others wait behind "Show more". Every story keeps the same visible row count, video or not,
+  // which keeps neighbouring cards level.
+  const videos = (topic.videos || [])
+    .filter(video => video.url && safeImage(video.thumbnail))
+    .map(video => renderVideoItem(video, story));
+  if (videos.length) items.splice(Math.min(1, items.length), 0, videos[0]);
+  items.push(...videos.slice(1));
 
   const list = el('ul', { class: 'coverage', role: 'list', 'aria-label': 'Coverage' }, ...items);
   const more = el('button', {
@@ -506,47 +514,38 @@ function renderCoverage(topic, story) {
   return [list, more];
 }
 
-// Matching news videos: thumbnails that link out to YouTube. Nothing is embedded, so YouTube only
-// sees the anonymous, referrer-less thumbnail request (i.ytimg.com), like any other picture.
-function renderVideos(topic) {
-  const videos = (topic.videos || []).filter(video => video.url && safeImage(video.thumbnail));
-  if (!videos.length) return null;
-  const section = el('section', { class: 'videos', 'aria-label': 'Videos' });
-  const items = videos.map(video => {
-    const time = formatTime(video.published_at);
-    const img = el('img', {
-      alt: '',
-      loading: 'lazy',
-      decoding: 'async',
-      referrerpolicy: 'no-referrer',
-      crossorigin: 'anonymous',
-    });
-    const item = el('li', {},
-      el('a', { class: 'video-link', href: video.url, target: '_blank', rel: 'noopener noreferrer' },
-        el('span', { class: 'video-thumb' }, img, el('span', { class: 'video-play', 'aria-hidden': 'true' })),
-        el('span', { class: 'video-text' },
-          el('span', { class: 'coverage-meta' },
-            el('span', { class: 'coverage-source' }, video.channel || 'YouTube'),
-            time && el('time', { datetime: video.published_at }, time),
-          ),
-          el('span', { class: 'video-title' }, video.title || 'Untitled video'),
-          el('span', { class: 'visually-hidden' }, ' (video on YouTube, opens in new tab)'),
-        ),
-      ),
-    );
-    // A thumbnail that fails takes its card with it, and the last one the whole section.
-    img.addEventListener('error', () => {
-      item.remove();
-      if (!section.querySelector('li')) section.remove();
-    }, { once: true });
-    img.src = safeImage(video.thumbnail);
-    return item;
+// A matching news video is one more coverage row: thumbnail left, channel, time and title beside
+// it. Nothing is embedded, so YouTube only sees the anonymous, referrer-less thumbnail request
+// (i.ytimg.com), like any other picture. A thumbnail that fails takes its row with it.
+function renderVideoItem(video, story) {
+  const time = formatTime(video.published_at);
+  const img = el('img', {
+    alt: '',
+    loading: 'lazy',
+    decoding: 'async',
+    referrerpolicy: 'no-referrer',
+    crossorigin: 'anonymous',
   });
-  section.append(
-    el('h3', { class: 'videos-heading' }, 'Watch'),
-    el('ul', { class: 'video-list', role: 'list' }, ...items),
+  const item = el('li', { class: 'coverage-video' },
+    el('a', { class: 'coverage-link video-link', href: video.url, target: '_blank', rel: 'noopener noreferrer' },
+      el('span', { class: 'video-thumb' }, img, el('span', { class: 'video-play', 'aria-hidden': 'true' })),
+      el('span', { class: 'video-text' },
+        el('span', { class: 'coverage-meta' },
+          el('span', { class: 'coverage-source' }, video.channel || 'YouTube'),
+          time && el('time', { datetime: video.published_at }, time),
+          el('span', { class: 'coverage-kind' }, 'Video'),
+        ),
+        el('span', { class: 'coverage-title' }, video.title || 'Untitled video'),
+        el('span', { class: 'visually-hidden' }, ' (video on YouTube, opens in new tab)'),
+      ),
+    ),
   );
-  return section;
+  img.addEventListener('error', () => {
+    item.remove();
+    applyCoverageLimit(story);
+  }, { once: true });
+  img.src = safeImage(video.thumbnail);
+  return item;
 }
 
 function applyCoverageLimit(story) {
@@ -600,7 +599,6 @@ function renderStory(date, topic, rank) {
     media,
     topic.summary && el('p', { class: 'story-summary' }, topic.summary),
     ...renderCoverage(topic, story),
-    renderVideos(topic),
   ].filter(Boolean));
   applyCoverageLimit(story);
   return el('li', { class: `slot slot--${tier}` }, story);
