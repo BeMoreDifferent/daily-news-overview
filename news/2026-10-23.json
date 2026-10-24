@@ -1,36 +1,36 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-24T01:56:26.245Z",
+  "generated_at": "2026-10-24T13:48:01.176Z",
   "overview": {
     "points": [
       {
-        "text": "Meghan Markle said allegations that her estranged father possessed child abuse images deeply distressed her and that she had heard similar accusations in 2018.",
+        "text": "Gunmen killed seven people and wounded 40 during a funeral at a church in Jordan’s southern province of Karak.",
         "stories": [
-          1
+          9
         ]
       },
       {
-        "text": "Two former FBI officials were charged with making false statements to Congress about their roles in the bureau’s Hunter Biden laptop investigation.",
+        "text": "A multistorey building collapsed in Nairobi, with many feared trapped; officials said it lacked an occupation certificate as rescue efforts continued.",
         "stories": [
-          3
+          11
         ]
       },
       {
-        "text": "The Justice Department filed a lawsuit seeking to block certification of Alaska’s Senate results if incumbent Dan Sullivan loses, citing confusion between candidates with the same surname.",
-        "stories": [
-          4
-        ]
-      },
-      {
-        "text": "Gunmen killed seven people and wounded about 40 during a funeral at a church in Jordan; authorities are searching for the suspects.",
+        "text": "Israel ordered preparations for a full West Bank closure after Israeli forces killed two Palestinians accused of an attack, including cordoning off Hebron.",
         "stories": [
           7
         ]
       },
       {
-        "text": "A building under construction collapsed in Nairobi’s Eastleigh area, prompting fears people were trapped as rescue operations began.",
+        "text": "The White House said Melania Trump helped secure a localized ceasefire in Russian-occupied Oleshky for evacuations, though Russia and Ukraine had not confirmed it.",
         "stories": [
-          9
+          2
+        ]
+      },
+      {
+        "text": "Ukraine said Starlink access remained limited despite Donald Trump’s claim that Elon Musk had restored the service, with restrictions still affecting military capabilities.",
+        "stories": [
+          10
         ]
       }
     ]
@@ -38,7 +38,7 @@
   "topics": [
     {
       "id": "topic_8aa524b010ed07c0",
-      "title": "Meghan Markle Says Allegations Against Father Distressed Her",
+      "title": "Meghan Markle Says Allegations Against Her Father Distress Her",
       "headline": "Meghan Markle ‘deeply distressed’ over claims her father had child abuse images",
       "label": [
         "child",
@@ -49,7 +49,7 @@
         "distressed"
       ],
       "category": "new",
-      "theme": "theme_9a54b65e7087e870",
+      "theme": "theme_1f7dd91c51585d37",
       "entities": [
         "Meghan Markle",
         "Distressed",
@@ -97,7 +97,88 @@
           "description": "Meghan Markle has shared a statement saying she is “deeply distressed” by allegations that her estranged father, Thomas Markle, possessed child sex abuse images. A report in The Sun claimed on Friday that child sex abuse images had allegedly been found in 82-year-old Thomas Markle’s former home in…"
         }
       ],
-      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father, Thomas Markle, possessed child abuse images. She said she had been made aware of similar accusations in 2018."
+      "videos": [
+        {
+          "title": "Meghan Markle ‘distressed’ by allegations against her father",
+          "url": "https://www.youtube.com/shorts/HvEMHPtLFdw",
+          "video_id": "HvEMHPtLFdw",
+          "channel": "CNN",
+          "published_at": "2026-10-23T20:19:11.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/HvEMHPtLFdw/hqdefault.jpg"
+        }
+      ],
+      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father, Thomas Markle, possessed child abuse images. She said she became aware of similar allegations in 2018."
+    },
+    {
+      "id": "topic_2edec1cb9d398a8a",
+      "title": "White House Says Melania Trump Helped Secure Oleshky Ceasefire",
+      "headline": "Melania Trump secures ceasefire between Russia, Ukraine in Oleshky",
+      "label": [
+        "ceasefire",
+        "melania",
+        "trump",
+        "ukraine",
+        "secures",
+        "oleshky"
+      ],
+      "category": "new",
+      "theme": "theme_d7787696cc519470",
+      "entities": [
+        "Melania Trump",
+        "Russia",
+        "Ukraine",
+        "Oleshky",
+        "Ukrainian"
+      ],
+      "article_count": 30,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Melania Trump secures ceasefire between Russia, Ukraine in Oleshky",
+          "url": "https://dailypost.ng/2026/10/23/melania-trump-secures-ceasefire-between-russia-ukraine-in-oleshky",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-10-23T18:16:34.000Z",
+          "description": "US First Lady Melania Trump says she has helped secure a ceasefire between Russia and Ukraine in the southern Ukrainian city of Oleshky, which has been under Russian occupation since February 2022. The White House announced the development on Friday, October 23, 2026. A senior Ukrainian official to…"
+        },
+        {
+          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+          "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-23T13:39:06.000Z",
+          "description": "No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky."
+        },
+        {
+          "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+          "url": "https://www.investing.com/news/world-news/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-4969702",
+          "source": "All News",
+          "published_at": "2026-10-23T11:42:26.000Z"
+        },
+        {
+          "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+          "url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxqzkvovkzpunl6z2d6swt4cwjdounrsw5fdmt6wxvutxjmrxfcmxvvswrzuwnhuxc3nk1mzhllngvhvznrmwdsszbyumthwfh4yznrvjvlt2dcbjh5um13c0kxt2pene1zs3hmbi15t1fechl1swgwnfviztdyaw1ldktvzjvveuixotezulzzznqzvmpsdgd6d0lytxnjwgutzerkvxm5n0vzefhtami3vgrsexfquljnbu81c2vlcglrq01mu1vr",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-23T13:35:56.000Z",
+          "description": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says Reuters Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says AP News Melania Trump Brokered Ceasefire to Allow for War Zone Evacuation Yahoo US announces ceasefire in Russia-occup…"
+        },
+        {
+          "title": "First Lady Melania Trump secures ceasefire for Ukrainian city",
+          "url": "https://www.nbcnews.com/nightly-news/video/first-lady-melania-trump-secures-ceasefire-for-ukrainian-city-272143941767",
+          "source": "NBC News World News",
+          "published_at": "2026-10-23T23:12:03.000Z",
+          "description": "All sides are praising Melania Trump for securing a ceasefire for a war-torn Ukrainian city on the front lines to allow people there to evacuate. NBC News’ Chief Foreign Correspondent Richard Engel reports."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine",
+          "url": "https://www.youtube.com/shorts/rjnHvbngtKU",
+          "video_id": "rjnHvbngtKU",
+          "channel": "CNN",
+          "published_at": "2026-10-23T21:34:40.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/rjnHvbngtKU/hqdefault.jpg"
+        }
+      ],
+      "summary": "The White House says Melania Trump helped secure a localized ceasefire in Oleshky, a city under Russian occupation, to allow evacuations. Russia and Ukraine had not confirmed the ceasefire."
     },
     {
       "id": "topic_2970711504c32d84",
@@ -112,7 +193,7 @@
         "training"
       ],
       "category": "new",
-      "theme": "theme_ac3e2e57a9ff2e57",
+      "theme": "theme_635a2d5fdb1787e1",
       "entities": [
         "Bayern Munich",
         "Vincent Kompany",
@@ -160,10 +241,10 @@
           "description": "FC Bayern had a scare today with head coach Vincent Kompany."
         }
       ],
-      "summary": "Vincent Kompany was taken to hospital after collapsing or feeling unwell at Bayern Munich’s training ground. The club said he was undergoing examinations."
+      "summary": "Vincent Kompany was taken to hospital after collapsing or feeling unwell during training at Bayern Munich. The club said he was undergoing examinations."
     },
     {
-      "id": "topic_8fc37cbd1415bb3f",
+      "id": "topic_9a17f7f64934bf5b",
       "title": "Two Former FBI Officials Charged Over Hunter Biden Laptop Testimony",
       "headline": "2 ex-FBI officials charged with lying about Hunter Biden's laptop",
       "label": [
@@ -175,7 +256,7 @@
         "lying"
       ],
       "category": "new",
-      "theme": "theme_731051c2f3b0e4f8",
+      "theme": "theme_440fbc005e7947eb",
       "entities": [
         "FBI",
         "Hunter Biden",
@@ -183,7 +264,7 @@
         "CBS News",
         "Two"
       ],
-      "article_count": 20,
+      "article_count": 22,
       "source_count": 16,
       "articles": [
         {
@@ -225,39 +306,42 @@
           "description": "Two ex-FBI officials have been charged with making false statements about Hunter Biden's laptop"
         }
       ],
-      "summary": "Two former FBI officials have been charged with making false statements to Congress about their roles in the bureau’s investigation of Hunter Biden’s laptop."
+      "videos": [
+        {
+          "title": "Former FBI officials charged with allegedly lying in Hunter Biden laptop probe",
+          "url": "https://www.youtube.com/shorts/o3gcxMCnXN0",
+          "video_id": "o3gcxMCnXN0",
+          "channel": "CNN",
+          "published_at": "2026-10-23T20:03:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/o3gcxMCnXN0/hqdefault.jpg"
+        }
+      ],
+      "summary": "Two former FBI officials have been charged with making false statements to Congress about their roles in the investigation of Hunter Biden’s laptop. Each faces one count."
     },
     {
-      "id": "topic_da6a2f7fdd0be0a",
-      "title": "Justice Department Seeks to Block Alaska Senate Result Certification",
-      "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
+      "id": "topic_fa5c69880aafa051",
+      "title": "Justice Department Seeks to Block Alaska Senate Certification if Sullivan Loses",
+      "headline": "DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses",
       "label": [
         "alaska",
         "block",
         "senate",
         "results",
-        "sues",
-        "doj"
+        "doj",
+        "sues"
       ],
       "category": "new",
-      "theme": "theme_4971386bb3f9edb5",
+      "theme": "theme_21b1ff2481c7c15",
       "entities": [
         "DOJ",
         "Alaska Senate",
-        "Sullivan",
         "Republican",
+        "Sullivan",
         "DOJ Seeks"
       ],
-      "article_count": 20,
+      "article_count": 19,
       "source_count": 15,
       "articles": [
-        {
-          "title": "DOJ sues to block Alaska Senate certification if Sullivan loses",
-          "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-10-23T15:44:32.000Z",
-          "description": "The Justice Department is asking the federal court to block certification if Sen. Sullivan loses, but would have won had the other Sullivan's votes been counted for him."
-        },
         {
           "title": "DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses",
           "url": "https://abcnews.com/us/doj-preemptively-sues-block-alaska-senate-results-republican/story",
@@ -265,6 +349,13 @@
           "published_at": "2026-10-23T16:09:28.000Z",
           "image": "https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_4x3t_384.jpg",
           "description": "The Trump administration has preemptively filed a lawsuit to block the certification of the Alaska Senate race, citing name confusion among the candidates."
+        },
+        {
+          "title": "DOJ sues to block Alaska Senate certification if Sullivan loses",
+          "url": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-23T15:44:32.000Z",
+          "description": "The Justice Department is asking the federal court to block certification if Sen. Sullivan loses, but would have won had the other Sullivan's votes been counted for him."
         },
         {
           "title": "DOJ Seeks to Block Alaska Senate Result if GOP Loses Narrowly",
@@ -289,44 +380,54 @@
           "description": "“The Justice Department has moved to preemptively block certification of the results of Alaska’s Senate race if Republican incumbent Sen. Dan S. Sullivan loses his tight race against Democrat Mary Peltola next month,” the Washington Post reports. “In a lawsuit filed in federal court Thursday, depar…"
         }
       ],
-      "summary": "The Justice Department has filed a preemptive lawsuit seeking to block certification of Alaska’s Senate race results if Republican incumbent Dan Sullivan loses. The suit cites confusion between candidates with the same surname."
+      "videos": [
+        {
+          "title": "Trump DOJ sues to block AK Senate result if Dem wins",
+          "url": "https://www.youtube.com/watch?v=ntE0hryN0OE",
+          "video_id": "ntE0hryN0OE",
+          "channel": "CNN",
+          "published_at": "2026-10-23T18:30:27.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ntE0hryN0OE/hqdefault.jpg"
+        }
+      ],
+      "summary": "The Justice Department filed a lawsuit seeking to block certification of Alaska’s Senate result if Republican incumbent Dan Sullivan loses. The filing cites confusion between candidates with the same surname."
     },
     {
-      "id": "topic_3733f868ce2584dd",
-      "title": "Knicks Used Championship Ring Offer in Employee Phishing Test",
-      "headline": "Knicks Sent Employees Fake Offer of Championship Rings In Phishing Test",
+      "id": "topic_a475e03322efa8be",
+      "title": "Knicks Used Fake Championship Ring Offer in Employee Phishing Test",
+      "headline": "Knicks tricked employees with championship ring phishing test",
       "label": [
-        "phishing",
         "rings",
         "knicks",
+        "phishing",
         "championship",
         "employees",
         "test"
       ],
       "category": "new",
-      "theme": "theme_3653e05e637af493",
+      "theme": "theme_b6d5596ee424dbe0",
       "entities": [
+        "Knicks",
         "Knicks Sent Employees Fake",
         "Offer",
         "Championship Rings In Phishing",
-        "Test",
-        "Knicks"
+        "Test"
       ],
-      "article_count": 13,
+      "article_count": 14,
       "source_count": 9,
       "articles": [
+        {
+          "title": "Knicks tricked employees with championship ring phishing test",
+          "url": "https://sports.yahoo.com/articles/knicks-tricked-employees-championship-ring-042119601.html",
+          "published_at": "2026-10-23T04:21:19.000Z",
+          "description": "The New York Knicks‘ title defense is off to an embarrassing start. The team is having a public spat with Karl-Anthony Towns over a contract extension. They lost their first game of the season to the Philadelphia 76ers after raising…"
+        },
         {
           "title": "Knicks Sent Employees Fake Offer of Championship Rings In Phishing Test",
           "url": "https://it.slashdot.org/story/26/10/23/193208/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test",
           "source": "Slashdot",
           "published_at": "2026-10-23T19:05:00.000Z",
           "description": "The New York Knicks reportedly sent employees a fake offer of complimentary NBA championship rings as part of an internal phishing test, requiring anyone who clicked the link to attend mandatory cybersecurity training. \"Congratulations, your Employee Championship Ring is here,\" the email said. Acco…"
-        },
-        {
-          "title": "Knicks tricked employees with championship ring phishing test",
-          "url": "https://sports.yahoo.com/articles/knicks-tricked-employees-championship-ring-042119601.html",
-          "published_at": "2026-10-23T04:21:19.000Z",
-          "description": "The New York Knicks‘ title defense is off to an embarrassing start. The team is having a public spat with Karl-Anthony Towns over a contract extension. They lost their first game of the season to the Philadelphia 76ers after raising…"
         },
         {
           "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
@@ -352,11 +453,84 @@
           "description": "Knicks sent employees fake offer of championship rings in phishing test: Report Ars Technica Knicks coaches didn’t get rings on banner night; MSG staff received phishing email: Sources - The Athletic The New York Times Knicks ownership says it used employee championship rings email as phishing bait…"
         }
       ],
-      "summary": "The New York Knicks reportedly sent employees a fake offer of complimentary championship rings as part of an internal phishing test. Employees who clicked the link were required to attend cybersecurity training."
+      "summary": "The New York Knicks sent employees a fake offer of championship rings as part of a phishing test. Employees who clicked the link were reportedly required to attend cybersecurity training."
+    },
+    {
+      "id": "topic_1a4b540f7bf24b64",
+      "title": "Israel Orders Preparations for Full West Bank Closure",
+      "headline": "Israel orders army to prepare for full closure of West Bank",
+      "label": [
+        "west",
+        "bank",
+        "israel",
+        "orders",
+        "attack",
+        "full"
+      ],
+      "category": "new",
+      "theme": "theme_f802476adc279a88",
+      "entities": [
+        "Israel",
+        "West Bank",
+        "Netanyahu",
+        "NBC News",
+        "Netanyahu Orders"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Israel orders army to prepare for full closure of West Bank",
+          "url": "https://www.irishexaminer.com/world/arid-41927963.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-10-23T08:04:00.000Z",
+          "description": "Israeli prime minister Benjamin Netanyahu’s office said it instructed security forces to immediately cordon off the city of Hebron and prepare to fully close all of the West Bank, starting on Friday"
+        },
+        {
+          "title": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
+          "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176",
+          "source": "NBC News World News",
+          "published_at": "2026-10-23T08:47:16.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-west-bank-shooting-rs-18d131.jpg",
+          "description": "Israeli Prime Minister Benjamin Netanyahu ordered a “full lockdown” of the occupied West Bank on Friday after Israel’s military said it killed two Palestinians accused of launching an attack that injured five people near the city of Hebron."
+        },
+        {
+          "title": "Netanyahu orders army to prepare for full West Bank closure after attack",
+          "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-23T08:35:17.000Z",
+          "description": "The office of Israeli Prime Minister Benjamin Netanyahu ordered the army to prepare for a full closure of the occupied West Bank Friday after Israeli soldiers shot and killed two men who the military said had launched a \"terror attack\" near the city of Hebron. Emergency services said five people we…"
+        },
+        {
+          "title": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
+          "url": "https://news.google.com/rss/articles/cbmirafbvv95cuxnn3dwb0r4z1vva2vjenltt3b4wwezs0xsc2q5smy0eeewny1fn2j6rlzdze1dauhzotdkehnucketmkjvyk0ys2vfrmtbqmhut3vpcu5cmdfpwlbiywrdu25xau51shj5cvf2nhkxngdlb3atvkpuahhor2zpqjk3awd2ni1ny04zm1dlnuxyvlctdwznue1rr1n5q1dsuzf3em1pwjlquuxpqs1p",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-23T09:18:46.000Z",
+          "description": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack NBC News Benjamin Netanyahu orders West Bank’s closure after gun attack wounds five Israelis Financial Times Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Live: Netanyah…"
+        },
+        {
+          "title": "Israel orders army to prepare to fully close West Bank after attack",
+          "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-23T08:03:00.000Z",
+          "description": "Israel has ordered its army to prepare for a full closure of the West Bank following an attack."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Israel orders closure of West Bank after two soldiers are killed",
+          "url": "https://www.youtube.com/shorts/Sz8cLLInL_4",
+          "video_id": "Sz8cLLInL_4",
+          "channel": "CNN",
+          "published_at": "2026-10-23T15:15:42.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sz8cLLInL_4/hqdefault.jpg"
+        }
+      ],
+      "summary": "Israeli Prime Minister Benjamin Netanyahu’s office ordered security forces to prepare for a full closure of the West Bank after Israeli forces killed two Palestinians accused of an attack. The order also included cordoning off Hebron."
     },
     {
       "id": "topic_5d7da3b77dcac95e",
-      "title": "Trump Calls for Ilhan Omar to Resign Over Name Allegation",
+      "title": "Trump Calls on Ilhan Omar to Resign Over Name Allegation",
       "headline": "Trump Demands Ilhan Omar ‘Resign’ for Using ‘Fake Name’",
       "label": [
         "name",
@@ -367,7 +541,7 @@
         "resign"
       ],
       "category": "new",
-      "theme": "theme_d8677d57f5879c9c",
+      "theme": "theme_8d2ba5d626c62688",
       "entities": [
         "Trump Demands Ilhan Omar",
         "Resign",
@@ -390,6 +564,7 @@
           "url": "https://www.nigerianeye.com/2026/10/trump-demands-ilhan-omars-resignation.html",
           "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
           "published_at": "2026-10-23T08:15:22.234Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidbyDC20-BPa-wS8TksqQSsvdWIMC1Qy_7Vv92EHGAayMgpdFYTqwnmAxnlrNMFjJakkDmqO9yzwYZeIRnBjYESB6kRnrFNb6ISX5aIJYYbsPSW-7hnYZ0B3YlNWdJqRY1-hNOs74tXF2HJ2lNi0R2QoeDNv7uSUyAcJwEVtju4n4Q4YFRcQ_JbbhMT3Rv/s72-w400-h269-c/Ilhan%20Omar2.jpeg",
           "description": "US President Donald Trump has renewed his attack on Congresswoman Ilhan Omar, alleging that she used a different name to get elected and sworn into the House of Representatives. Trump made the allegation in a post on his Truth Social account on Friday, claiming that Omar’s name was Ilhan Nur Said E…"
         },
         {
@@ -413,11 +588,11 @@
           "description": "Trump suggests Omar resign ‘immediately’ over ‘fake name’ The Hill Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search PBS Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital Dispatch Ilhan Omar responds to immigration fraud a…"
         }
       ],
-      "summary": "Donald Trump called on Representative Ilhan Omar to resign, alleging she used a different or “fake” name when elected. Omar has rejected the claim."
+      "summary": "Donald Trump called on Representative Ilhan Omar to resign, alleging she used a different or “fake” name when elected. The headlines report the allegation but do not substantiate it."
     },
     {
       "id": "topic_ffba489997928072",
-      "title": "Seven Killed in Shooting at Church Funeral in Jordan",
+      "title": "Seven Killed in Shooting at Church in Jordan",
       "headline": "Gunmen open fire inside church in Jordan, 7 killed",
       "label": [
         "gunmen",
@@ -476,11 +651,21 @@
           "description": "killed after gunmen open fire at church in Jordan hunt for suspects on"
         }
       ],
-      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing seven people and wounding about 40, according to reports. Authorities are searching for the suspects."
+      "videos": [
+        {
+          "title": "At least 7 people killed in shooting at church in Jordan",
+          "url": "https://www.youtube.com/watch?v=Q5d6oub5ds8",
+          "video_id": "Q5d6oub5ds8",
+          "channel": "CNN",
+          "published_at": "2026-10-23T15:45:05.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q5d6oub5ds8/hqdefault.jpg"
+        }
+      ],
+      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing seven people and wounding 40, according to authorities. The shooting took place in the southern province of Karak."
     },
     {
       "id": "topic_ecbf919cffe9037f",
-      "title": "Ukraine Says Starlink Access Remains Restricted",
+      "title": "Ukraine Says Starlink Access Remains Limited Despite Trump’s Claims",
       "headline": "Ukraine Says Starlink Is Still Limited After Trump Claimed Musk Restored Connection",
       "label": [
         "starlink",
@@ -538,7 +723,17 @@
           "description": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences A quick update from what the Ukrainian and Russian officials are saying this morning on overnight attacks: Ukraine says Russia targeted energy sites in six different regions. Currently more than 500,000 peopl…"
         }
       ],
-      "summary": "Ukrainian officials said Starlink access remained limited after Donald Trump said Elon Musk had restored the service. Reports said restrictions were affecting Ukraine’s military capabilities."
+      "videos": [
+        {
+          "title": "Trump says Starshield is restored: Ukraine says not true",
+          "url": "https://www.youtube.com/watch?v=k14HW74DPbQ",
+          "video_id": "k14HW74DPbQ",
+          "channel": "CNN",
+          "published_at": "2026-10-23T21:30:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/k14HW74DPbQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "Ukraine said Starlink access remained limited after Donald Trump said Elon Musk had restored the service. Reports said restrictions on satellite access were still affecting Ukrainian military capabilities."
     },
     {
       "id": "topic_98be86987d8da458",
@@ -602,22 +797,22 @@
           "description": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse looters."
         }
       ],
-      "summary": "A multistorey building under construction collapsed in Nairobi’s Eastleigh area, prompting fears that people were trapped beneath the rubble. Rescue operations were underway."
+      "summary": "A multistorey building collapsed in Nairobi’s Eastleigh area, and many people were feared trapped beneath the rubble. Officials said the building lacked an occupation certificate, and rescue efforts were underway."
     },
     {
-      "id": "topic_c021d3b582ce165b",
-      "title": "One Killed in Shooting Near Paris",
+      "id": "topic_95ce13b726392b8e",
+      "title": "Deadly Shooting Near Paris Investigated by French Authorities",
       "headline": "One person killed in shooting near Paris, French Prime Minister says",
       "label": [
-        "shooting",
         "near",
+        "shooting",
         "paris",
         "killed",
         "person",
         "condemns"
       ],
       "category": "new",
-      "theme": "theme_ecf08971caa1b6b5",
+      "theme": "theme_bf9dc64c017cb5a8",
       "entities": [
         "One",
         "Paris",
@@ -666,11 +861,11 @@
           "description": "A gunman firing from his car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French presidency condemned as a “racist terrorist attack”. French President Emmanuel Macron visited the working-class town of Trappes southw…"
         }
       ],
-      "summary": "A shooting in a town near Paris killed one person and wounded several others. French authorities arrested a suspect, and antiterrorism prosecutors were investigating the attack."
+      "summary": "A shooting near Paris left one person dead and several others wounded. French authorities arrested a suspect, and reports said prosecutors were investigating a possible terrorist motive."
     },
     {
       "id": "topic_eea8fde3d51f6660",
-      "title": "Greece Approves Social Media Ban for Children Under 15",
+      "title": "Greece Passes Social Media Ban for Children Under 15",
       "headline": "Greece passes social media ban for children under 15",
       "label": [
         "greece",
@@ -728,7 +923,69 @@
           "description": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction."
         }
       ],
-      "summary": "Greece passed a law barring children under 15 from using social media, with the restrictions set to take effect in January 2027. The legislation includes age-verification requirements for platforms."
+      "summary": "Greece passed a law banning children under 15 from using social media, with the restrictions set to take effect on January 1, 2027. The law requires platforms to use age verification."
+    },
+    {
+      "id": "topic_efbd3c5f0f813cc4",
+      "title": "Moonshot AI Introduces Kimi K3.1 Pro Model",
+      "headline": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "label": [
+        "k3",
+        "kimi",
+        "pro",
+        "introducing",
+        "highspeed",
+        "moonshot"
+      ],
+      "category": "new",
+      "theme": "theme_341a1372c1b1b4a",
+      "entities": [
+        "Kimi K3",
+        "Pro",
+        "K3",
+        "Pro Highspeed",
+        "Introducing Kimi K3"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News",
+          "published_at": "2026-10-23T16:59:08.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Introducing Kimi K3.1 Pro",
+          "url": "https://simonwillison.net/2026/oct/23/kimi-k31-pro",
+          "source": "Simon Willison's Weblog",
+          "published_at": "2026-10-23T19:40:54.000Z"
+        },
+        {
+          "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
+          "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series",
+          "source": "Unite.AI",
+          "published_at": "2026-10-23T17:26:02.000Z",
+          "description": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T-class open-weight model to date, with a 1-million-token context window. Accord…"
+        },
+        {
+          "title": "Moonshot releases Kimi K3.1 Pro and says it cut its hacking skills",
+          "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber",
+          "source": "The Next Web",
+          "published_at": "2026-10-23T18:19:34.000Z",
+          "image": "https://media.thenextweb.com/2026/10/kimi-logo-construction-grid-black-background.avif",
+          "description": "Moonshot has released Kimi K3.1 Pro, an upgraded version of its open-weight Kimi K3, with full weights due by 4 November. It says the model nearly matches Claude Opus 5.5 on a coding test. Moonshot also says it removed hacking-related training data to limit misuse of the open release. Chinese AI la…"
+        },
+        {
+          "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+          "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5",
+          "source": "The Decoder",
+          "published_at": "2026-10-23T19:00:07.000Z",
+          "description": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…"
+        }
+      ],
+      "summary": "Moonshot AI introduced Kimi K3.1 Pro, the first model in its K3.1 series, along with a faster Highspeed version. The company described improvements in coding performance; full model weights were expected later."
     },
     {
       "id": "topic_eefadd163e9b7ec6",
@@ -792,197 +1049,7 @@
           "description": "Duru died months after he denied reports of him being critically ill. The post Nollywood actor Francis Duru dies appeared first on Premium Times Nigeria."
         }
       ],
-      "summary": "Nigerian actor Francis Duru has died at 57 after a brief illness, according to an announcement from his family."
-    },
-    {
-      "id": "topic_5e756f0bf69ca648",
-      "title": "Storm Austen Cuts Power to Hundreds of Thousands in France",
-      "headline": "Tempête Austen : 161 000 foyers privés d'électricité dans le nord-ouest de la France",
-      "label": [
-        "foyers",
-        "privés",
-        "électricité",
-        "tempête",
-        "austen",
-        "ouest"
-      ],
-      "category": "new",
-      "theme": "theme_45bacbf1252272db",
-      "entities": [
-        "Temp",
-        "Austen",
-        "France",
-        "Morbihan",
-        "EN IMAGES"
-      ],
-      "article_count": 8,
-      "source_count": 5,
-      "articles": [
-        {
-          "title": "Tempête Austen : 161 000 foyers privés d'électricité dans le nord-ouest de la France",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html",
-          "source": "franceinfo - Les Titres",
-          "published_at": "2026-10-23T05:09:24.000Z",
-          "description": "Au total, 23 départements sont concernés par une vigilance orange \"vent\". D'autres pourraient suivre, prévient Météo-France."
-        },
-        {
-          "title": "Tempête Austen : 161.000 foyers privés d’électricité dans l’ouest de la France",
-          "url": "https://www.rtbf.be/article/tempete-austen-161-000-foyers-prives-d-electricite-dans-l-ouest-de-la-france-11804693",
-          "source": "- Info",
-          "published_at": "2026-10-23T06:18:18.000Z",
-          "description": "\"Dans une situation encore très évolutive, car la tempête est toujours en cours, les régions les plus touchées sont la..."
-        },
-        {
-          "title": "Tempête Austen : 45 500 foyers privés d’électricité dans le Morbihan, des arbres sur les routes…",
-          "url": "https://www.ouest-france.fr/meteo/tempete/tempete-austen-45-500-foyers-prives-delectricite-dans-le-morbihan-des-arbres-sur-les-routes-8216b248-ceaa-11f1-95ba-26d2045f6620",
-          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
-          "published_at": "2026-10-23T07:42:58.000Z",
-          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwMWYzYzBiMWQyNWM0ZjJiYTQwZDg1N2M3NTg1MTBiZjk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8ae7b923d7d6621c9e5356704d5222a9f14ade303c56a96d1fa56aeb0523dc44",
-          "description": "Après une nuit de fortes rafales, le département du Morbihan se réveille avec des coupures de courant, des arbres à terre mais assez peu de dégâts matériels à 7 h. À Groix, le vent a atteint 143 km/h."
-        },
-        {
-          "title": "Tempête Austen : 23 départements du nord et de l’ouest de la France en vigilance orange, plus de 160 000 foyers privés d’électricité",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-23-departements-du-nord-et-de-l-ouest-de-la-france-en-vigilance-orange-plus-de-160-000-foyers-prives-d-electricite_6799023_3244.html",
-          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "published_at": "2026-10-23T05:18:07.000Z",
-          "description": "La tempête Austen entraîne la fermeture du village de la Route du rhum, à Saint-Malo, et perturbe fortement la circulation ferroviaire dans l’ouest et le nord du pays."
-        },
-        {
-          "title": "Tempête Austen : près de 290 000 foyers privés d’électricité, 23 départements en alerte face aux vents violents",
-          "url": "https://www.ladepeche.fr/2026/10/23/tempete-austen-pres-de-290-000-foyers-prives-delectricite-23-departements-en-alerte-face-aux-vents-violents-13616972.php",
-          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
-          "published_at": "2026-10-23T13:11:03.000Z",
-          "image": "https://images.ladepeche.fr/api/v1/images/view/6adb5bb0b296f26c990bb1de/standard/image.jpg?v=1",
-          "description": "La tempête Austen a provoqué d’importantes perturbations ce vendredi 23 octobre dans le Nord et l’Ouest de la France. Plusieurs personnes ont été blessées et des centaines de milliers de foyers sont privés d’électricité."
-        }
-      ],
-      "summary": "Storm Austen brought strong winds to northern and western France, leaving more than 160,000 households without electricity in reports. The storm also disrupted transport and prompted weather alerts across 23 departments."
-    },
-    {
-      "id": "topic_2177a5878387a9b5",
-      "title": "Mumbai Police Investigate Threat Email Naming Public Figures",
-      "headline": "Mumbai Police probe threat email naming Amitabh Bachchan's home, Diljit Dosanjh concert",
-      "label": [
-        "bachchan",
-        "mumbai",
-        "email",
-        "amitabh",
-        "dosanjh",
-        "threat"
-      ],
-      "category": "new",
-      "theme": "theme_9eae43b6b817a1b8",
-      "entities": [
-        "Mumbai Police",
-        "Amitabh Bachchan",
-        "Diljit Dosanjh",
-        "Threat",
-        "Mumbai"
-      ],
-      "article_count": 7,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Mumbai Police probe threat email naming Amitabh Bachchan's home, Diljit Dosanjh concert",
-          "url": "https://tribune.com.pk/story/2636534/mumbai-police-probe-threat-email-naming-amitabh-bachchans-home-diljit-dosanjh-concert",
-          "source": "express tribune",
-          "published_at": "2026-10-23T08:51:42.000Z",
-          "description": "Email reportedly cites dates for attacks as Dosanjh's Delhi concert received police clearance after security concerns"
-        },
-        {
-          "title": "Threat email targets Mumbai mayor, Diljit Dosanjh concert, Amitabh Bachchan",
-          "url": "https://www.dnaindia.com/india/report-threat-email-targets-mumbai-mayor-diljit-dosanjh-concert-amitabh-bachchan-3222867",
-          "source": "India News",
-          "published_at": "2026-10-23T09:24:06.000Z",
-          "description": "Mumbai Mayor Ritu Rajesh Tawde received a threat email warning of attacks on her office, Diljit Dosanjh's November 27 concert at Mahalaxmi Racecourse and actor Amitabh Bachchan."
-        },
-        {
-          "title": "Email warns of attacks on Mumbai mayor’s office, Bachchan home, Diljit Dosanjh's concert",
-          "url": "https://www.thehindu.com/news/national/email-warns-of-attacks-on-mumbai-mayors-office-bachchan-home-diljit-dosanjhs-concert/article71616086.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-10-23T12:26:44.000Z",
-          "description": "Prompted by the threat, law enforcement authorities have launched a comprehensive investigation to verify the authenticity of the message"
-        },
-        {
-          "title": "Email Warns Of Attacks On Mumbai Mayor Office, Amitabh Bachchan Home",
-          "url": "https://www.ndtv.com/india-news/email-warns-of-attacks-on-mumbai-mayor-ritu-tawdes-office-amitabh-bachchan-home-12224571",
-          "source": "NDTV News Search Records Found 1000",
-          "published_at": "2026-10-23T09:11:26.000Z",
-          "description": "According to police, the mail, also marked to Deputy Mayor Sanjay Ghadi, warned of a grenade attack on a school on October 31."
-        },
-        {
-          "title": "Mumbai Police probe threat email to BMC and school naming Amitabh Bachchan",
-          "url": "https://www.indiatoday.in/movies/celebrities/story/mumbai-police-probe-threat-email-to-bmc-and-school-naming-amitabh-bachchan-3023437-2026-10-23",
-          "source": "India Today | Latest Stories",
-          "published_at": "2026-10-23T09:34:02.000Z",
-          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/mumbai-police-probe-threat-email-to-bmc-and-school-naming-amitabh-bachchan-23302355-16x9_0.jpg?VersionId=wr2vf7d30VOK6fdcs114RF.TpnXmxXYh"
-        }
-      ],
-      "summary": "Mumbai police are investigating an email threatening attacks involving the mayor’s office, actor Amitabh Bachchan’s home, a school and a Diljit Dosanjh concert. Authorities are checking the message’s authenticity."
-    },
-    {
-      "id": "topic_6bba6f0d7391171d",
-      "title": "Pete Buttigieg Endorses Independent Senate Candidate in Montana",
-      "headline": "Buttigieg Endorses Independent in Montana Senate Race",
-      "label": [
-        "buttigieg",
-        "montana",
-        "endorses",
-        "independent",
-        "senate",
-        "race"
-      ],
-      "category": "new",
-      "theme": "theme_a219c9def8e20976",
-      "entities": [
-        "Buttigieg Endorses Independent",
-        "Montana Senate Race",
-        "Buttigieg",
-        "Democratic",
-        "Montana Senate"
-      ],
-      "article_count": 7,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "Buttigieg Endorses Independent in Montana Senate Race",
-          "url": "https://politicalwire.com/2026/10/23/buttigieg-endorses-independent-in-montana-senate-race",
-          "source": "Political Wire",
-          "published_at": "2026-10-23T09:44:29.000Z",
-          "description": "“Pete Buttigieg, the former Transportation Secretary and popular Democratic Party surrogate who has confirmed considering a 2028 presidential bid, is endorsing independent Montana U.S. Senate candidate Seth Bodnar,” ABC News reports."
-        },
-        {
-          "title": "Buttigieg endorses independent over Democratic nominee in Montana Senate race",
-          "url": "https://abcnews.com/politics/buttigieg-endorses-independent-democratic-nominee-montana-senate-race/story",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-10-23T09:25:37.000Z",
-          "image": "https://s.abcnews.com/images/Politics/bodnar-buttigieg-ap-jt-261022_1792700028207_hpMain_4x3t_384.jpg",
-          "description": "Pete Buttigieg is endorsing independent Montana U.S. Senate candidate Seth Bodnar."
-        },
-        {
-          "title": "Buttigieg endorses independent Seth Bodnar in Montana Senate race",
-          "url": "https://www.cbsnews.com/news/buttigieg-endorses-independent-seth-bodnar-montana-senate-2026",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-10-23T16:23:05.000Z",
-          "description": "Pete Buttigieg chose to endorse independent Seth Bodnar over the Democratic Senate nominee, Alani Bankhead. Bodnar says he will not caucus with Democrats if he wins."
-        },
-        {
-          "title": "Pete Buttigieg endorses independent in Montana Senate race over Democratic candidate",
-          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777094/pete-buttigieg-endorses-independent-montana-senate-race",
-          "source": "Washington Examiner",
-          "published_at": "2026-10-23T12:09:32.000Z",
-          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/pete-buttigeig.webp?w=1024",
-          "description": "Former Transportation Secretary Pete Buttigieg has endorsed independent Senate candidate Seth Bodnar in Montana, bypassing the state’s Democratic nominee less than two weeks before the November election. Buttigieg, who is rumored to be weighing a possible 2028 presidential campaign, praised Bodnar’…"
-        },
-        {
-          "title": "Pete Buttigieg Endorses Independent Seth Bodnar Over Democrat in Montana Senate Race",
-          "url": "https://internewscast.com/news/us/pete-buttigieg-endorses-independent-seth-bodnar-over-democrat-in-montana-senate-race",
-          "source": "Internewscast",
-          "published_at": "2026-10-23T17:01:55.000Z",
-          "description": "Internewscast Internewscast Former U.S. Transportation Secretary Pete Buttigieg has endorsed independent Senate candidate Seth… This Post: Pete Buttigieg Endorses Independent Seth Bodnar Over Democrat in Montana Senate Race first appeared on Internewscast"
-        }
-      ],
-      "summary": "Former transportation secretary Pete Buttigieg endorsed independent Senate candidate Seth Bodnar in Montana, rather than the state’s Democratic nominee, Alani Bankhead. Bodnar has said he would not caucus with Democrats if elected."
+      "summary": "Nollywood actor Francis Duru has died at 57 after a brief illness, according to a statement from his family."
     }
   ]
 }
