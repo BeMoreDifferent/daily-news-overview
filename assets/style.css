@@ -29,6 +29,14 @@
   --radius: 10px;
   --tap: 44px;
 
+  /* Motion (mirrored by MOTION in app.js): decelerate for arriving and resizing, accelerate for
+     leaving; presses answer at once, exits are shorter than entrances. */
+  --ease-out: cubic-bezier(0.2, 0, 0, 1);
+  --ease-in: cubic-bezier(0.3, 0, 1, 1);
+  --dur-press: 80ms;
+  --dur-fast: 150ms;
+  --dur-base: 240ms;
+
   color-scheme: light dark;
 }
 
@@ -179,6 +187,10 @@ img {
 /* Snapshot names are only set while a day change animates (app.js adds .is-sliding): a named
    element is a backdrop root, which would stop the glass controls from blurring the page. */
 .is-sliding .site-header { view-transition-name: site-header; }
+/* Floating overlays stay where they are while the page slides beneath them. */
+.is-sliding .consent { view-transition-name: consent; }
+.is-sliding .install-banner { view-transition-name: install-banner; }
+.is-sliding .toast { view-transition-name: toast; }
 
 /* Reading progress along the header's bottom edge (scroll-driven animation, no script). */
 @supports (animation-timeline: scroll()) {
@@ -263,6 +275,7 @@ img {
 /* Newest briefing: the forward arrow keeps its space (nothing shifts) but is not shown. */
 .icon-btn.is-end {
   visibility: hidden;
+  opacity: 0;
 }
 
 .icon-btn[aria-disabled="true"] {
@@ -290,7 +303,6 @@ img {
 
 .date-button:active,
 .chip:active {
-  transform: scale(0.97);
   box-shadow:
     inset 0 2px 5px var(--glass-lo),
     inset 0 -1px 0 var(--glass-hi);
@@ -1069,10 +1081,46 @@ img {
 .coverage-more {
   grid-area: more;
   justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   min-height: var(--tap);
   color: var(--accent);
   font-size: 0.875rem;
   font-weight: 600;
+  transition: color var(--dur-fast) ease, opacity var(--dur-fast) ease;
+}
+
+/* The chevron turns with the list: down to open, up once open. */
+.coverage-more::after {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-2px) rotate(45deg);
+}
+
+.coverage-more[aria-expanded="true"]::after {
+  transform: translateY(2px) rotate(-135deg);
+}
+
+/* After a jump the story landed on glows once (app.js markArrival): a soft tint reaching a little
+   past the text, fading out. */
+.story.is-arriving {
+  border-radius: 8px;
+  animation: story-arrive 1.2s var(--ease-out) 1;
+}
+
+@keyframes story-arrive {
+  from {
+    background-color: var(--accent-soft);
+    box-shadow: 0 0 0 12px var(--accent-soft);
+  }
+  to {
+    background-color: transparent;
+    box-shadow: 0 0 0 12px transparent;
+  }
 }
 
 .coverage-more[hidden],
@@ -1760,25 +1808,31 @@ img {
 
 @media (prefers-reduced-motion: no-preference) {
   html:active-view-transition-type(forward)::view-transition-old(root) {
-    animation: 180ms ease-in both vt-out-left;
+    animation: 150ms var(--ease-in) both vt-out-left;
   }
 
   html:active-view-transition-type(forward)::view-transition-new(root) {
-    animation: 280ms 60ms ease-out both vt-in-right;
+    animation: 260ms 90ms var(--ease-out) both vt-in-right;
   }
 
   html:active-view-transition-type(backward)::view-transition-old(root) {
-    animation: 180ms ease-in both vt-out-right;
+    animation: 150ms var(--ease-in) both vt-out-right;
   }
 
   html:active-view-transition-type(backward)::view-transition-new(root) {
-    animation: 280ms 60ms ease-out both vt-in-left;
+    animation: 260ms 90ms var(--ease-out) both vt-in-left;
   }
 
   /* The header is not part of the slide: it is drawn live on top (its old snapshot is dropped,
      so nothing cross-fades or gets clipped) and animates its own date label in app.js. */
   ::view-transition-group(site-header),
-  ::view-transition-new(site-header) {
+  ::view-transition-new(site-header),
+  ::view-transition-group(consent),
+  ::view-transition-new(consent),
+  ::view-transition-group(install-banner),
+  ::view-transition-new(install-banner),
+  ::view-transition-group(toast),
+  ::view-transition-new(toast) {
     animation: none;
   }
 
@@ -1801,9 +1855,9 @@ img {
 /* ── Interaction motion ───────────────────────────────────────────────────── */
 /* Short and purposeful: colour eases on hover so pointer movement does not strobe, controls dip
    when pressed to confirm the tap, chevrons turn with their panel, pictures fade in only when they
-   arrive late, and the consent banner rises instead of popping in. Movement is skipped when the
-   reader prefers reduced motion. Nothing animates on first render or inside a day change, so
-   content never flickers. */
+   arrive late, banners rise and sink, and lists that change size glide (app.js). Movement is skipped
+   when the reader prefers reduced motion. The first paint shows the page at once; a day change
+   slides the whole page, so nothing inside it animates on its own. */
 
 .icon-btn,
 .share-btn,
@@ -1812,15 +1866,26 @@ img {
 .pager-link,
 .coverage-title,
 .btn,
-.consent-btn {
-  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+.consent-btn,
+.footer-button,
+.footer-inner a,
+.wordmark {
+  transition: color var(--dur-fast) ease, background-color var(--dur-fast) ease, border-color var(--dur-fast) ease,
+    opacity var(--dur-fast) ease, visibility var(--dur-fast), transform var(--dur-fast) var(--ease-out),
+    text-decoration-color var(--dur-fast) ease;
 }
 
 .date-button,
 .chip {
-  transition: box-shadow 0.15s ease, transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+  transition: box-shadow var(--dur-fast) ease, transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) ease, border-color var(--dur-fast) ease;
 }
 
+.pager-lead {
+  transition: opacity var(--dur-base) ease;
+}
+
+/* Pressed: controls dip at once and spring back on release. */
 @media (prefers-reduced-motion: no-preference) {
   .icon-btn:active,
   .share-btn:active,
@@ -1828,24 +1893,39 @@ img {
   .btn:active,
   .consent-btn:active {
     transform: scale(0.94);
-    transition-duration: 0.08s;
+    transition-duration: var(--dur-press);
   }
 
-  .section-chip:active {
+  .date-button:active,
+  .chip:active {
+    transform: scale(0.97);
+    transition-duration: var(--dur-press);
+  }
+
+  .section-chip:active,
+  .coverage-more:active,
+  .wordmark:active {
     transform: scale(0.96);
-    transition-duration: 0.08s;
+    transition-duration: var(--dur-press);
+  }
+
+  .coverage-more {
+    transition: color var(--dur-fast) ease, opacity var(--dur-fast) ease, transform var(--dur-fast) var(--ease-out);
   }
 
   .overview summary::after,
-  .toc-inline summary::after {
-    transition: transform 0.25s ease;
+  .toc-inline summary::after,
+  .coverage-more::after {
+    transition: transform 0.28s var(--ease-out);
   }
 
-  .story-media img {
+  .story-media img,
+  .video-thumb img {
     transition: opacity 0.3s ease;
   }
 
-  .story-media img.is-loading {
+  .story-media img.is-loading,
+  .video-thumb img.is-loading {
     opacity: 0;
   }
 
@@ -1882,19 +1962,18 @@ img {
     }
   }
 
-  .notice,
-  .section-filter {
+  /* The chip row fades when it comes or goes within a day (a day change slides it with the page,
+     and the first paint shows it at once). The offline notice is animated in app.js. */
+  .is-ready:not(.is-sliding) .section-filter {
     transition: opacity 0.2s ease, display 0.2s allow-discrete;
   }
 
-  .notice[hidden],
-  .section-filter[hidden] {
+  .is-ready:not(.is-sliding) .section-filter[hidden] {
     opacity: 0;
   }
 
   @starting-style {
-    .notice:not([hidden]),
-    .section-filter:not([hidden]) {
+    .is-ready:not(.is-sliding) .section-filter:not([hidden]) {
       opacity: 0;
     }
   }
@@ -2039,6 +2118,26 @@ summary {
   .footer-inner a:hover {
     text-decoration: underline;
   }
+
+  .footer-button:hover,
+  .footer-inner a:hover {
+    color: var(--fg);
+    text-decoration-color: currentColor;
+  }
+
+  .btn:not(.btn--primary):hover,
+  .consent-btn:not(.consent-btn--primary, [aria-pressed="true"]):hover {
+    background: var(--surface);
+  }
+
+  .btn--primary:hover,
+  .consent-btn--primary:hover {
+    background: color-mix(in srgb, var(--accent) 88%, var(--fg));
+  }
+
+  .wordmark:hover {
+    color: var(--accent);
+  }
 }
 
 /* ── States ───────────────────────────────────────────────────────────────── */
@@ -2126,7 +2225,11 @@ summary {
   opacity: 0;
   pointer-events: none;
   transform: translate(-50%, 8px);
-  transition: opacity 0.2s, transform 0.2s;
+  transition: opacity 0.2s ease, transform 0.2s var(--ease-out);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .toast { transform: translate(-50%, 0); }
 }
 
 .toast.is-visible {
@@ -2365,24 +2468,6 @@ summary {
 .install-help-done {
   width: 100%;
   margin-top: 20px;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .install-banner {
-    transition: opacity 0.25s ease, transform 0.25s ease, display 0.25s allow-discrete;
-  }
-
-  .install-banner[hidden] {
-    opacity: 0;
-    transform: translateY(12px);
-  }
-
-  @starting-style {
-    .install-banner:not([hidden]) {
-      opacity: 0;
-      transform: translateY(12px);
-    }
-  }
 }
 
 /* ── Imprint and privacy pages ─────────────────────────────────────────────────────────── */

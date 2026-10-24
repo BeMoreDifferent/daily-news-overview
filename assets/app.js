@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=25';
-import { noteStoryRead, setupInstall } from './install.js?v=25';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=26';
+import { noteStoryRead, setupInstall } from './install.js?v=26';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -259,7 +259,16 @@ async function navContext(date) {
 // Header motion for a day change. The header is shown live during the page's view transition
 // (see the CSS), so these run inside it as well as without one. The label slides within the
 // pill, which clips it; the pill and the Latest chip resize in layout, so the arrows follow.
-const NAV_MOTION = { duration: 280, easing: 'cubic-bezier(0.2, 0, 0, 1)' };
+const EASE_OUT = 'cubic-bezier(0.2, 0, 0, 1)'; // decelerate: things arriving or resizing
+const EASE_IN = 'cubic-bezier(0.3, 0, 1, 1)'; // accelerate: things leaving
+// Shared motion tokens (mirrored by --ease-* and --dur-* in the CSS). Exits are shorter than
+// entrances, so a change starts at once and settles softly.
+const MOTION = {
+  enter: { duration: 240, easing: EASE_OUT },
+  exit: { duration: 140, easing: EASE_IN },
+  resize: { duration: 280, easing: EASE_OUT },
+};
+const NAV_MOTION = MOTION.resize;
 const canAnimate = () => typeof Element.prototype.animate === 'function' && !reducedMotion.matches;
 // Resolves when an exit animation ends, or shortly after its duration: `finished` can stall
 // (hidden tab, throttled timeline) and must never leave the control stuck.
@@ -294,7 +303,7 @@ function setDateLabel(date) {
   button.animate({ width: [`${from}px`, `${to}px`] }, NAV_MOTION);
   old.animate(
     [{ opacity: 1, transform: 'none' }, { opacity: 0, transform: `translateX(${-dir * 1.2}em)` }],
-    { duration: 140, easing: 'ease-in', fill: 'forwards' },
+    { ...MOTION.exit, fill: 'forwards' },
   ).finished.then(() => old.remove(), () => {});
   label.animate(
     [{ opacity: 0, transform: `translateX(${dir * 1.2}em)` }, { opacity: 1, transform: 'none' }],
@@ -368,7 +377,9 @@ function renderPager(prev, next) {
     lead.textContent = '';
     getDay(date).then(data => {
       const top = (data.topics || []).find(t => t.articles?.length);
-      if (top && link.getAttribute('href') === '#' + date) lead.textContent = storyTitle(top);
+      if (!top || link.getAttribute('href') !== '#' + date) return;
+      lead.textContent = storyTitle(top);
+      if (canAnimate()) lead.animate([{ opacity: 0 }, { opacity: 1 }], MOTION.enter);
     }).catch(() => {});
   };
   fill($('pager-prev'), prev);
@@ -463,11 +474,34 @@ function renderMedia(topic, isLead) {
       img.src = candidates[index].src;
       caption.textContent = `Image: ${candidates[index].credit || 'publisher'}`;
     } else {
-      figure.closest('.story')?.classList.remove('has-media');
-      figure.remove();
+      // Off screen the layout change is invisible; on screen the picture fades and closes first.
+      const story = figure.closest('.story');
+      collapseAway(figure, { close: false }).then(() => story?.classList.remove('has-media'));
     }
   });
   return figure;
+}
+
+// Removes a node that is on screen by fading it out and (for list rows) closing the gap it
+// leaves; one that cannot be seen, or with reduced motion, goes at once.
+async function collapseAway(node, { close = true } = {}) {
+  const box = node.isConnected ? node.getBoundingClientRect() : null;
+  if (canAnimate() && box?.height && box.bottom > 0 && box.top < innerHeight) {
+    await settled(node.animate([{ opacity: 1 }, { opacity: 0 }], { ...MOTION.exit, fill: 'forwards' }), MOTION.exit.duration);
+    if (close) {
+      const style = getComputedStyle(node);
+      const closing = {
+        height: [`${box.height}px`, '0px'],
+        paddingTop: [style.paddingTop, '0px'],
+        paddingBottom: [style.paddingBottom, '0px'],
+        borderTopWidth: [style.borderTopWidth, '0px'],
+        opacity: [0, 0],
+        overflow: ['clip', 'clip'],
+      };
+      await settled(node.animate(closing, { ...MOTION.resize, duration: 200, fill: 'forwards' }), 200);
+    }
+  }
+  node.remove();
 }
 
 // Pictures that arrive late fade in (CSS .is-loading); ones that load straight away, from the
@@ -516,42 +550,70 @@ function renderCoverage(topic, story) {
     class: 'coverage-more',
     type: 'button',
     'aria-expanded': 'false',
-    onclick: async () => {
-      if (more.dataset.busy) return;
-      const expanding = !story.classList.contains('is-expanded');
-      if (!expanding) {
-        // Rows fade out before they go, and the button stays where the reader's finger is.
-        const limit = coverageLimit(story.dataset.tier);
-        const leaving = [...list.children].slice(limit);
-        if (canAnimate() && leaving.length) {
-          more.dataset.busy = '1';
-          await Promise.all(leaving.map(item => settled(item.animate(
-            [{ opacity: 1 }, { opacity: 0 }],
-            { duration: 140, easing: 'ease-in', fill: 'forwards' },
-          ), 140)));
-          delete more.dataset.busy;
-        }
-        const before = more.getBoundingClientRect().top;
-        story.classList.remove('is-expanded');
-        applyCoverageLimit(story);
-        leaving.forEach(item => item.getAnimations().forEach(animation => animation.cancel()));
-        const shift = more.getBoundingClientRect().top - before;
-        if (shift < 0 && more.getBoundingClientRect().top < 0) window.scrollBy({ top: shift, behavior: 'instant' });
-        return;
-      }
-      const revealed = [...list.querySelectorAll('li[hidden]')];
-      story.classList.add('is-expanded');
-      applyCoverageLimit(story);
-      if (revealed[0]) revealed[0].querySelector('a, div')?.focus({ preventScroll: true });
-      if (canAnimate()) {
-        revealed.forEach((item, i) => item.animate(
-          [{ opacity: 0, transform: 'translateY(-4px)' }, { opacity: 1, transform: 'none' }],
-          { duration: 220, delay: Math.min(i, 4) * 35, easing: 'cubic-bezier(0.2, 0, 0, 1)', fill: 'backwards' },
-        ));
-      }
-    },
+    onclick: () => toggleCoverage(story, list, more),
   });
   return [list, more];
+}
+
+// "Show more" / "Show fewer": the list grows or shrinks to its new height while the rows fade, so
+// the card and everything below it glide instead of jumping. A collapse that starts with the list
+// already scrolled under the header happens at once, keeping the button under the reader's finger.
+async function toggleCoverage(story, list, more) {
+  if (more.dataset.busy) return;
+  const expanding = !story.classList.contains('is-expanded');
+  const header = document.querySelector('.site-header')?.getBoundingClientRect().bottom || 0;
+
+  if (expanding) {
+    const from = list.offsetHeight;
+    const revealed = [...list.querySelectorAll('li[hidden]')];
+    story.classList.add('is-expanded');
+    applyCoverageLimit(story);
+    if (revealed[0]) revealed[0].querySelector('a, div')?.focus({ preventScroll: true });
+    if (!canAnimate()) return;
+    resizeTo(list, from, list.offsetHeight);
+    revealed.forEach((item, i) => item.animate(
+      [{ opacity: 0, transform: 'translateY(-4px)' }, { opacity: 1, transform: 'none' }],
+      { ...MOTION.enter, delay: 40 + Math.min(i, 4) * 30, fill: 'backwards' },
+    ));
+    return;
+  }
+
+  const collapse = () => {
+    story.classList.remove('is-expanded');
+    applyCoverageLimit(story);
+  };
+  if (!canAnimate() || list.getBoundingClientRect().top < header) {
+    const before = more.getBoundingClientRect().top;
+    collapse();
+    const shift = more.getBoundingClientRect().top - before;
+    if (shift < 0) window.scrollBy({ top: shift, behavior: 'instant' });
+    return;
+  }
+
+  const leaving = [...list.children].slice(coverageLimit(story.dataset.tier)).filter(item => !item.hidden);
+  const from = list.offsetHeight;
+  // Measure the collapsed height without painting it.
+  leaving.forEach(item => { item.hidden = true; });
+  const to = list.offsetHeight;
+  leaving.forEach(item => { item.hidden = false; });
+
+  more.dataset.busy = '1';
+  leaving.forEach(item => item.animate([{ opacity: 1 }, { opacity: 0 }], { ...MOTION.exit, fill: 'forwards' }));
+  await settled(resizeTo(list, from, to), MOTION.resize.duration);
+  collapse();
+  leaving.forEach(item => item.getAnimations().forEach(animation => animation.cancel()));
+  delete more.dataset.busy;
+}
+
+// Animates an element between two heights (px), clipped while it moves; it returns to its own
+// height afterwards. Neighbouring cards in the same grid row follow along.
+function resizeTo(node, from, to) {
+  node.getAnimations().forEach(animation => { if (animation.id === 'resize') animation.cancel(); });
+  const animation = node.animate(
+    { height: [`${from}px`, `${to}px`], overflow: ['clip', 'clip'] },
+    { ...MOTION.resize, id: 'resize' },
+  );
+  return animation;
 }
 
 // A matching news video is one more coverage row: thumbnail left, channel, time and title beside
@@ -581,12 +643,13 @@ function renderVideoItem(video, story) {
     ),
   );
   img.addEventListener('error', async () => {
-    if (canAnimate() && item.isConnected && item.getBoundingClientRect().height) {
-      await settled(item.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 160, fill: 'forwards' }), 160);
-    }
-    item.remove();
+    await collapseAway(item);
+    const hidden = [...story.querySelectorAll('.coverage > li[hidden]')];
     applyCoverageLimit(story);
+    // The row that moves up into the visible ones fades in rather than popping.
+    if (canAnimate()) hidden.filter(row => !row.hidden).forEach(row => row.animate([{ opacity: 0 }, { opacity: 1 }], MOTION.enter));
   }, { once: true });
+  waitForPicture(img);
   img.src = safeImage(video.thumbnail);
   return item;
 }
@@ -656,6 +719,12 @@ function renderSkeleton() {
       block('sk-line'), block('sk-line'), block('sk-line sk-short'),
     ),
   );
+  // The previous day's brief, story count and chips go too; the new day's fade in with its stories.
+  $('overview').hidden = true;
+  $('intro').classList.remove('has-overview');
+  $('toc-inline').open = false;
+  $('toc-count').textContent = '';
+  $('section-filter').hidden = true;
   $('stories').classList.remove('is-filtered');
   $('stories').replaceChildren(...Array.from({ length: tablet.matches ? 7 : 3 }, card));
   $('stories').setAttribute('aria-busy', 'true');
@@ -770,7 +839,10 @@ function renderSectionFilter(date, stories) {
   if (active) centerChip(box, active, 'instant');
 }
 
-function selectSection(date, stories, section, chip) {
+// The chip changes at once; the old list fades out quickly and the new one rises in. A second
+// tap during the fade takes over from wherever the first one is.
+let filterChange = 0;
+async function selectSection(date, stories, section, chip) {
   if (sectionFilter === section) return;
   sectionFilter = section;
   trackEvent('section_filter', { section: section || 'all', story_date: date });
@@ -778,11 +850,21 @@ function selectSection(date, stories, section, chip) {
   for (const button of box.children) button.setAttribute('aria-pressed', String(button === chip));
   centerChip(box, chip, reducedMotion.matches ? 'instant' : 'smooth');
 
+  const list = $('stories');
+  const change = ++filterChange;
+  if (canAnimate()) {
+    const opacity = getComputedStyle(list).opacity;
+    list.getAnimations().forEach(animation => animation.cancel());
+    await settled(list.animate([{ opacity }, { opacity: 0 }], { ...MOTION.exit, duration: 100, fill: 'forwards' }), 100);
+    if (change !== filterChange) return;
+  }
+
   // The chips stay where they were on screen while the list below changes length.
   const before = box.getBoundingClientRect().top;
   renderStoryList(date, stories);
   const shift = box.getBoundingClientRect().top - before;
   if (Math.abs(shift) > 1) window.scrollBy({ top: shift, behavior: 'instant' });
+  list.getAnimations().forEach(animation => animation.cancel());
   revealStories();
 }
 
@@ -792,14 +874,19 @@ function centerChip(box, chip, behavior) {
   box.scrollTo({ left: chip.offsetLeft - (box.clientWidth - chip.offsetWidth) / 2, behavior });
 }
 
-// New list after a filter change: the first stories fade up in a short stagger.
-function revealStories() {
+// New content (a filter change, or the day replacing its skeleton): the first stories fade up in
+// a short stagger; with `intro`, the heading, day in brief and chips fade in with them.
+function revealStories({ intro = false } = {}) {
   if (!canAnimate()) return;
+  if (intro) {
+    ['intro', 'section-filter'].map($).filter(node => !node.hidden)
+      .forEach(node => node.animate([{ opacity: 0 }, { opacity: 1 }], MOTION.enter));
+  }
   [...$('stories').children].forEach((slot, i) => {
     if (slot.getBoundingClientRect().top > innerHeight) return;
     slot.animate(
       [{ opacity: 0, transform: 'translateY(8px)' }, { opacity: 1, transform: 'none' }],
-      { duration: 240, delay: Math.min(i, 5) * 40, easing: 'cubic-bezier(0.2, 0, 0, 1)', fill: 'backwards' },
+      { ...MOTION.enter, delay: Math.min(i, 5) * 30, fill: 'backwards' },
     );
   });
 }
@@ -846,9 +933,37 @@ function focusStory(rank, { instant = false } = {}) {
   }
   const story = $(`story-${rank}`);
   if (!story) return;
-  story.scrollIntoView({ behavior: instant || reducedMotion.matches ? 'instant' : 'smooth', block: 'start' });
+  const smooth = !instant && !reducedMotion.matches;
+  const header = document.querySelector('.site-header')?.getBoundingClientRect().bottom || 0;
+  const moves = Math.abs(story.getBoundingClientRect().top - header) > 24;
+  story.scrollIntoView({ behavior: smooth ? 'smooth' : 'instant', block: 'start' });
   story.focus({ preventScroll: true });
+  markArrival(story, smooth && moves);
 }
+
+// After a jump (contents, day in brief, shared link) the story the reader landed on glows briefly,
+// once the scroll has come to rest. It is a colour change only, so it also shows with reduced motion.
+function markArrival(story, afterScroll) {
+  const show = () => {
+    story.classList.remove('is-arriving');
+    void story.offsetWidth; // restart the animation on a repeated jump
+    story.classList.add('is-arriving');
+  };
+  if (!afterScroll) return requestAnimationFrame(show);
+  let done = false;
+  const once = () => {
+    if (done) return;
+    done = true;
+    removeEventListener('scrollend', once);
+    show();
+  };
+  // No scrollend when the story was already in place (or in older browsers): a timeout stands in.
+  if ('onscrollend' in window) addEventListener('scrollend', once);
+  setTimeout(once, 'onscrollend' in window ? 2000 : 700);
+}
+document.addEventListener('animationend', event => {
+  if (event.animationName === 'story-arrive') event.target.classList.remove('is-arriving');
+});
 
 function setupDatePicker() {
   const button = $('date-button');
@@ -1039,10 +1154,38 @@ async function setupUnreadBadge() {
   update();
 }
 
+// The offline notice opens and closes in place (height and fade together), so the page below
+// glides instead of jumping by its height. It keeps its text until it has closed.
 function updateNotice() {
   const notice = $('notice');
-  notice.hidden = navigator.onLine;
-  notice.textContent = navigator.onLine ? '' : 'You’re offline — showing a saved copy.';
+  const offline = !navigator.onLine;
+  if (offline) notice.textContent = 'You’re offline — showing a saved copy.';
+  const shown = !notice.hidden && !notice.dataset.closing;
+  if (offline === shown) return;
+  notice.getAnimations().forEach(animation => animation.cancel());
+  delete notice.dataset.closing;
+  if (!canAnimate() || !current.date) {
+    notice.hidden = !offline;
+    return;
+  }
+  notice.hidden = false;
+  const style = getComputedStyle(notice);
+  const open = {
+    height: `${notice.offsetHeight}px`, marginTop: style.marginTop, paddingTop: style.paddingTop,
+    paddingBottom: style.paddingBottom, opacity: 1, overflow: 'clip',
+  };
+  const closed = { height: '0px', marginTop: '0px', paddingTop: '0px', paddingBottom: '0px', opacity: 0, overflow: 'clip' };
+  if (offline) {
+    notice.animate([closed, open], MOTION.resize);
+    return;
+  }
+  notice.dataset.closing = '1';
+  settled(notice.animate([open, closed], { ...MOTION.resize, duration: 220, fill: 'forwards' }), 220).then(() => {
+    if (!notice.dataset.closing) return;
+    delete notice.dataset.closing;
+    notice.hidden = true;
+    notice.getAnimations().forEach(animation => animation.cancel());
+  });
 }
 
 // ── Routing: #YYYY-MM-DD or #YYYY-MM-DD/<rank> ───────────────────────────────
@@ -1064,8 +1207,7 @@ function parseHash() {
 let activeSlide = null;
 function swapDay(direction, update) {
   if (!document.startViewTransition || reducedMotion.matches || document.visibilityState !== 'visible') {
-    update();
-    return Promise.resolve();
+    return Promise.resolve(update()).catch(() => {});
   }
   // Snapshot names (header, date) are set only for the transition; see .is-sliding in the CSS.
   const root = document.documentElement;
@@ -1092,18 +1234,26 @@ async function loadDate(date, { restoreScroll } = {}) {
   const previous = current.date;
   current = { date, data: null };
   document.title = `Daily News — ${formatDate(date, 'short')}`;
+  const direction = previous && date > previous ? 'forward' : 'backward';
+  if (!previous && !restoreScroll) restoreScroll = takeReloadScroll();
 
-  // First visit: skeleton right away. Later day changes keep the old day on screen and only
-  // fall back to the skeleton if the new one is slow (it is usually prefetched).
+  // The skeleton only appears when a day is slow, the first visit included: a day that arrives
+  // quickly (cached or prefetched) is shown directly instead of flashing a placeholder first.
+  // A slow day change slides the skeleton in, so the reader sees the move at once.
   const nav = navContext(date);
   let skeleton = false;
   const showSkeleton = () => {
+    if (current.date !== date) return;
     skeleton = true;
-    renderSkeleton();
-    window.scrollTo({ top: 0, behavior: 'instant' });
+    const show = () => {
+      renderSkeleton();
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    };
+    if (previous) swapDay(direction, show);
+    else show();
     nav.then(context => current.date === date && renderNav(date, context));
   };
-  const timer = previous ? setTimeout(showSkeleton, SKELETON_DELAY_MS) : (showSkeleton(), null);
+  const timer = setTimeout(showSkeleton, SKELETON_DELAY_MS);
 
   let data = null;
   let error = null;
@@ -1117,22 +1267,34 @@ async function loadDate(date, { restoreScroll } = {}) {
   if (current.date !== date) return false;
   current.data = data;
 
-  const update = () => {
+  const update = async () => {
     renderNav(date, context);
     if (data) renderStories(date, data);
-    else renderMissing(date, error);
+    else await renderMissing(date, error);
     if (restoreScroll) restoreScroll();
     // 'instant': html has scroll-behavior: smooth, which would scroll the whole new day past
     // the reader while it slides in.
     else if (previous) window.scrollTo({ top: 0, behavior: 'instant' });
   };
-  if (previous && !skeleton) await swapDay(date > previous ? 'forward' : 'backward', update);
+  if (previous && !skeleton) await swapDay(direction, update);
   else {
-    update();
+    await update();
     // The skeleton gives way to the day with a short fade instead of a hard swap.
-    if (skeleton && data) revealStories();
+    if (skeleton) revealStories({ intro: true });
   }
   return Boolean(data);
+}
+
+// A new deploy reloads the page while it is in the background (see index.html), saving where the
+// reader was; the reloaded page goes back there instead of starting at the top.
+function takeReloadScroll() {
+  let saved = null;
+  try {
+    saved = JSON.parse(sessionStorage.getItem('reload-scroll') || 'null');
+    sessionStorage.removeItem('reload-scroll');
+  } catch { /* storage unavailable */ }
+  if (!saved || saved.hash !== location.hash || !(saved.y > 0)) return null;
+  return () => window.scrollTo({ top: saved.y, behavior: 'instant' });
 }
 
 async function route({ restoreScroll } = {}) {
@@ -1151,6 +1313,8 @@ async function route({ restoreScroll } = {}) {
 
   if (date !== current.date) {
     const loaded = await loadDate(date, { restoreScroll: rank ? null : restoreScroll });
+    // From here on, things that appear within the page may animate (see .is-ready in the CSS).
+    requestAnimationFrame(() => document.documentElement.classList.add('is-ready'));
     if (current.date === date) trackPageView();
     if (loaded && rank) focusStory(rank, { instant: true });
     return;

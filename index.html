@@ -33,7 +33,7 @@
 
   <!-- The index decides which day to show; start fetching it before the script runs -->
   <link rel="preload" href="news/index.json" as="fetch" crossorigin>
-  <link rel="stylesheet" href="assets/style.css?v=25">
+  <link rel="stylesheet" href="assets/style.css?v=26">
 </head>
 <body>
   <a class="skip-link" href="#stories">Skip to stories</a>
@@ -153,7 +153,7 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script type="module" src="assets/app.js?v=25"></script>
+  <script type="module" src="assets/app.js?v=26"></script>
 
   <!-- Service worker registration -->
   <script>
@@ -174,12 +174,21 @@
 
       // A new deploy's worker takes over at once (skipWaiting + clients.claim); reload so the
       // page runs the new code too. Skipped on the very first install, when nothing changes.
+      // A reader in the middle of a page is never interrupted: the reload waits until the page
+      // is in the background, and the page returns to the same place (app.js takeReloadScroll).
       if (navigator.serviceWorker.controller) {
         let reloading = false;
-        navigator.serviceWorker.addEventListener('controllerchange', () => {
-          if (reloading) return;
+        const reload = () => {
+          if (reloading || document.visibilityState === 'visible') return;
           reloading = true;
+          try {
+            sessionStorage.setItem('reload-scroll', JSON.stringify({ hash: location.hash, y: scrollY }));
+          } catch (e) { /* storage unavailable */ }
           location.reload();
+        };
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+          if (document.visibilityState === 'visible') document.addEventListener('visibilitychange', reload);
+          else reload();
         });
       }
     }
