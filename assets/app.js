@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=20';
-import { noteStoryRead, setupInstall } from './install.js?v=20';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=21';
+import { noteStoryRead, setupInstall } from './install.js?v=21';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
@@ -506,6 +506,47 @@ function renderCoverage(topic, story) {
   return [list, more];
 }
 
+// Matching news videos: thumbnails that link out to YouTube. Nothing is embedded, so YouTube only
+// sees the anonymous, referrer-less thumbnail request (i.ytimg.com), like any other picture.
+function renderVideos(topic) {
+  const videos = (topic.videos || []).filter(video => video.url && safeImage(video.thumbnail));
+  if (!videos.length) return null;
+  const section = el('section', { class: 'videos', 'aria-label': 'Videos' });
+  const items = videos.map(video => {
+    const time = formatTime(video.published_at);
+    const img = el('img', {
+      alt: '',
+      loading: 'lazy',
+      decoding: 'async',
+      referrerpolicy: 'no-referrer',
+      crossorigin: 'anonymous',
+    });
+    const item = el('li', {},
+      el('a', { class: 'video-link', href: video.url, target: '_blank', rel: 'noopener noreferrer' },
+        el('span', { class: 'video-thumb' }, img, el('span', { class: 'video-play', 'aria-hidden': 'true' })),
+        el('span', { class: 'coverage-meta' },
+          el('span', { class: 'coverage-source' }, video.channel || 'YouTube'),
+          time && el('time', { datetime: video.published_at }, time),
+        ),
+        el('span', { class: 'video-title' }, video.title || 'Untitled video'),
+        el('span', { class: 'visually-hidden' }, ' (video on YouTube, opens in new tab)'),
+      ),
+    );
+    // A thumbnail that fails takes its card with it, and the last one the whole section.
+    img.addEventListener('error', () => {
+      item.remove();
+      if (!section.querySelector('li')) section.remove();
+    }, { once: true });
+    img.src = safeImage(video.thumbnail);
+    return item;
+  });
+  section.append(
+    el('h3', { class: 'videos-heading' }, 'Watch'),
+    el('ul', { class: 'video-list', role: 'list' }, ...items),
+  );
+  return section;
+}
+
 function applyCoverageLimit(story) {
   const items = story.querySelectorAll('.coverage > li');
   const more = story.querySelector('.coverage-more');
@@ -556,6 +597,7 @@ function renderStory(date, topic, rank) {
     media,
     topic.summary && el('p', { class: 'story-summary' }, topic.summary),
     ...renderCoverage(topic, story),
+    renderVideos(topic),
   );
   applyCoverageLimit(story);
   return el('li', { class: `slot slot--${tier}` }, story);

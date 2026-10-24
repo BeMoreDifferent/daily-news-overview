@@ -286,6 +286,26 @@ class DuckDBService {
     return reader.getRowObjectsJS();
   }
 
+  // YouTube videos (source_type 2) of one UTC day, same day rule as getArticlesForDate; they are
+  // attached to topics after clustering, never clustered themselves.
+  async getVideosForDate(date) {
+    const connection = await this.open();
+    const start = `TIMESTAMP '${escapeSql(date)} 00:00:00'`;
+    const end = `(${start} + INTERVAL 1 DAY)`;
+    const reader = await connection.runAndReadAll(`
+      SELECT url_hash, feed_url, feed_title, title, summary, published_at, fetched_at
+      FROM articles
+      WHERE source_type = 2
+        AND title IS NOT NULL
+        AND (
+          (published_at >= ${start} AND published_at < ${end})
+          OR (published_at IS NULL AND fetched_at >= ${start} AND fetched_at < ${end})
+        )
+      ORDER BY COALESCE(published_at, fetched_at) DESC, feed_url, title
+    `);
+    return reader.getRowObjectsJS();
+  }
+
   async getTopicsBetweenDates(startDate, endDate) {
     const connection = await this.open();
     const reader = await connection.runAndReadAll(`
@@ -319,7 +339,7 @@ class DuckDBService {
     return reader.getRowObjectsJS();
   }
 
-  // All articles linked to a topic (bounded by `limit`); callers order them by centrality.
+  // All articles and videos linked to a topic (bounded by `limit`); callers order them by centrality.
   async getArticlesForTopic(topicId, limit = 200) {
     const connection = await this.open();
     const hasArchive = await this._checkHasArchive();
@@ -334,13 +354,15 @@ class DuckDBService {
         ${hasArchive ? 'COALESCE(a.feed_title, arch.feed_title)' : 'a.feed_title'} AS feed_title,
         a.published_at,
         ${hasArchive ? 'COALESCE(a.image_url, arch.image_url)' : 'a.image_url'} AS image_url,
-        a.summary
+        a.summary,
+        a.source_type
       FROM topic_articles ta
       JOIN articles a ON a.url_hash = ta.url_hash
       ${archiveJoin}
       WHERE ta.topic_id = '${escapeSql(topicId)}'
         AND a.title IS NOT NULL
-      ORDER BY COALESCE(a.published_at, a.fetched_at) DESC
+      -- The few attached videos come first so a big topic's article pool cannot crowd them out.
+      ORDER BY a.source_type = 2 DESC, COALESCE(a.published_at, a.fetched_at) DESC
       LIMIT ${Number(limit)}
     `);
     return reader.getRowObjectsJS();
@@ -423,7 +445,7 @@ class DuckDBService {
           )
         `);
 
-        const hashes = [...new Set((topic.articleHashes || []).map(String))];
+        const hashes = [...new Set([...(topic.articleHashes || []), ...(topic.videoHashes || [])].map(String))];
         for (let index = 0; index < hashes.length; index += 500) {
           const values = hashes.slice(index, index + 500)
             .map(urlHash => `('${escapeSql(topic.id)}', ${BigInt(urlHash)})`)

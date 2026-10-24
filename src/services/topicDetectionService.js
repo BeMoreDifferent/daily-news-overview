@@ -46,17 +46,21 @@ const DEFAULT_OPTIONS = {
   sampleHeadlineCount: 10,
   centroidTermCount: 60,
   maxStoredTopics: 200,
-  themeThreshold: 0.30
+  themeThreshold: 0.30,
+  videoSimilarityThreshold: 0.30,
+  minVideoSharedWords: 2,
+  maxVideosPerTopic: 3
 };
 
 export async function detectTopicsForDate(duckDBService, date, options = {}) {
   const config = { maxArticles: 40000, ...DEFAULT_OPTIONS, ...options };
 
   const articles = await duckDBService.getArticlesForDate(date, config.maxArticles);
+  const videos = await duckDBService.getVideosForDate(date);
   const historyStartDate = shiftDate(date, -config.historyDays);
   const historicalTopics = await duckDBService.getTopicsBetweenDates(historyStartDate, shiftDate(date, -1));
 
-  const currentTopics = detectTopicsFromArticles(articles, config);
+  const currentTopics = detectTopicsFromArticles(articles, { ...config, videos });
   // Only the top of the ranking is ever exported or useful as history; storing the long tail of
   // small clusters just bloats the topics tables.
   const scoredTopics = scoreTopics(currentTopics, historicalTopics, config)
@@ -69,13 +73,15 @@ export async function detectTopicsForDate(duckDBService, date, options = {}) {
   return scoredTopics;
 }
 
+// `options.videos` (source_type 2 rows) are matched to the finished topics afterwards; they never
+// shape the clusters, counts or ranking.
 export function detectTopicsFromArticles(articles, options = {}) {
   const config = { ...DEFAULT_OPTIONS, ...options };
   const documents = dedupeSyndicated(articles);
   if (!documents.length) return [];
 
-  const vectors = buildTfidfVectors(documents.map(document => document.terms));
-  documents.forEach((document, index) => { document.vector = vectors[index]; });
+  const vectorize = createTfidfVectorizer(documents.map(document => document.terms));
+  documents.forEach(document => { document.vector = vectorize(document.terms); });
   const clusters = clusterHeadlines(documents, config.headlineSimilarityThreshold, config);
   const topics = clusters
     .map(cluster => createTopic(cluster, config))
@@ -89,7 +95,66 @@ export function detectTopicsFromArticles(articles, options = {}) {
     const themeId = `theme_${hash64(group.map(g => g.t.id).sort().join('|')).toString(16)}`;
     for (const { t } of group) { t.themeId = themeId; t.themeLabel = themeLabel; }
   }
+  attachVideos(topics, config.videos || [], vectorize, config);
   return topics;
+}
+
+// Each video joins the topic whose centroid it is most similar to (in the news corpus' TF-IDF
+// space), if that clears the threshold and shares at least two words with it; a topic keeps its best few, one per channel. The match uses
+// the better of the bare title and title + start of the description, since long descriptions dilute.
+export function attachVideos(topics, videos, vectorize, options = {}) {
+  const config = { ...DEFAULT_OPTIONS, ...options };
+  for (const topic of topics) topic.videoHashes = [];
+  if (!topics.length || !videos.length) return topics;
+
+  const matches = new Map(topics.map(topic => [topic, []]));
+  for (const video of videos) {
+    const title = stripChannelSuffix(video.title);
+    if (!title) continue;
+    const texts = [title, `${title} ${String(video.summary || '').slice(0, 200)}`];
+    const vectors = texts.map(text => vectorize(extractHeadlineTerms(text))).filter(vector => vector.size);
+    let best = null;
+    let bestSimilarity = 0;
+    for (const topic of topics) {
+      for (const vector of vectors) {
+        if (sharedWords(vector, topic.centroidVector) < config.minVideoSharedWords) continue;
+        const similarity = cosineSimilarity(vector, topic.centroidVector);
+        if (similarity > bestSimilarity) {
+          best = topic;
+          bestSimilarity = similarity;
+        }
+      }
+    }
+    if (best && bestSimilarity >= config.videoSimilarityThreshold) {
+      matches.get(best).push({ video, similarity: bestSimilarity });
+    }
+  }
+
+  for (const [topic, candidates] of matches) {
+    const channels = new Set();
+    for (const { video } of candidates.sort((a, b) => b.similarity - a.similarity)) {
+      const channel = video.feed_url || video.feed_title;
+      if (channels.has(channel)) continue;
+      channels.add(channel);
+      topic.videoHashes.push(String(video.url_hash));
+      if (topic.videoHashes.length >= config.maxVideosPerTopic) break;
+    }
+  }
+  return topics;
+}
+
+// Short video titles ("I Google Myself") can score high on a single word; require real overlap.
+function sharedWords(vector, centroid) {
+  let count = 0;
+  for (const term of vector.keys()) {
+    if (!term.includes(' ') && centroid.has(term)) count += 1;
+  }
+  return count;
+}
+
+// "Fire at Eagle's Nest | DW News" -> the channel name is noise for matching.
+function stripChannelSuffix(title) {
+  return String(title || '').replace(/\s+[|•]\s+[^|•]{2,40}$/, '').replace(/#\S+/g, '').trim();
 }
 
 // Collapse syndicated copies (same normalized headline) into one document so wire stories
@@ -149,6 +214,12 @@ function analyzeHeadline(headline) {
 }
 
 export function buildTfidfVectors(termLists) {
+  return termLists.map(createTfidfVectorizer(termLists));
+}
+
+// Document frequencies come from `termLists`; the returned function vectorizes any term list in
+// that space (terms the corpus never saw get the highest IDF).
+export function createTfidfVectorizer(termLists) {
   const documentCount = termLists.length;
   const documentFrequency = new Map();
   for (const terms of termLists) {
@@ -157,7 +228,7 @@ export function buildTfidfVectors(termLists) {
     }
   }
 
-  return termLists.map(terms => {
+  return terms => {
     const vector = new Map();
     const counts = new Map();
     for (const term of terms) {
@@ -165,11 +236,11 @@ export function buildTfidfVectors(termLists) {
     }
 
     for (const [term, count] of counts.entries()) {
-      const idf = Math.log((1 + documentCount) / (1 + documentFrequency.get(term))) + 1;
+      const idf = Math.log((1 + documentCount) / (1 + (documentFrequency.get(term) || 0))) + 1;
       vector.set(term, (count / terms.length) * idf);
     }
     return vector;
-  });
+  };
 }
 
 export function cosineSimilarity(vectorA, vectorB) {

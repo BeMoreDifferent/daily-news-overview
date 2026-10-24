@@ -11,6 +11,8 @@ import {
   detectTopicsForDate,
   detectTopicsFromArticles,
   extractHeadlineTerms,
+  attachVideos,
+  createTfidfVectorizer,
   normalizeHeadline,
   scoreTopics
 } from '../src/services/topicDetectionService.js';
@@ -171,6 +173,40 @@ test('widely covered stories outrank small novel clusters', () => {
   assert.equal(quake.finalScore > bakery.finalScore, true);
 });
 
+test('videos attach to the matching topic without changing its counts', () => {
+  const news = [
+    article('Wildfire destroys Eagle Nest historic site in Bavaria', '2026-04-27T08:00:00Z', 'source-a', 1),
+    article('Eagle Nest historic site in Bavaria hit by wildfire', '2026-04-27T09:00:00Z', 'source-b', 2),
+    article('Bavaria wildfire reaches Eagle Nest historic site', '2026-04-27T10:00:00Z', 'source-c', 3),
+    article('Central bank raises interest rates to fight inflation', '2026-04-27T08:00:00Z', 'source-a', 4),
+    article('Interest rates raised by central bank amid inflation', '2026-04-27T09:00:00Z', 'source-b', 5),
+    article('Inflation pushes central bank to raise interest rates', '2026-04-27T10:00:00Z', 'source-c', 6)
+  ];
+  const videos = [
+    video('Wildfire engulfs Eagle Nest historic site in Bavaria | DW News', 'dw', 1),
+    video('Eagle Nest wildfire: historic Bavaria site burns', 'dw', 2),
+    video('Bavaria wildfire at Eagle Nest historic site', 'sky', 3),
+    video('Top ten cooking tips for beginners', 'food', 4)
+  ];
+  const plain = detectTopicsFromArticles(news, { minTopicSize: 3, minSources: 3 });
+  const topics = detectTopicsFromArticles(news, { minTopicSize: 3, minSources: 3, videos });
+  const fire = topics.find(topic => topic.labelKeywords.includes('wildfire'));
+  const rates = topics.find(topic => topic.labelKeywords.includes('inflation'));
+
+  // One per channel: dw's closer first video wins over its second.
+  assert.deepEqual([...fire.videoHashes].sort(), [String(videos[0].url_hash), String(videos[2].url_hash)].sort());
+  assert.deepEqual(rates.videoHashes, []);
+  assert.deepEqual(topics.map(t => [t.id, t.articleCount, t.uniqueSourceCount]), plain.map(t => [t.id, t.articleCount, t.uniqueSourceCount]));
+});
+
+test('attachVideos caps videos per topic', () => {
+  const vectorize = createTfidfVectorizer([['storm', 'coast']]);
+  const topic = { centroidVector: vectorize(['storm', 'coast']) };
+  const videos = Array.from({ length: 5 }, (_, index) => video('Storm coast', `channel-${index}`, index));
+  attachVideos([topic], videos, vectorize, { maxVideosPerTopic: 2 });
+  assert.equal(topic.videoHashes.length, 2);
+});
+
 test('detects and stores new, trending, and ongoing topics through DuckDB', async () => {
   const dir = await mkdtemp(path.join(os.tmpdir(), 'rss-topics-'));
   const service = new DuckDBService(path.join(dir, 'rss.duckdb'));
@@ -223,6 +259,43 @@ test('detects and stores new, trending, and ongoing topics through DuckDB', asyn
     await service.close();
   }
 });
+
+test('videos are stored with their topic but kept out of clustering', async () => {
+  const dir = await mkdtemp(path.join(os.tmpdir(), 'rss-topics-'));
+  const service = new DuckDBService(path.join(dir, 'rss.duckdb'));
+
+  try {
+    const clip = { ...video('Storm Bertha makes landfall on Gulf Coast', 'dw', 1), published_at: new Date('2026-04-27T11:00:00Z'), fetched_at: new Date('2026-04-27T11:00:00Z'), source_type: 2, url: 'https://www.youtube.com/watch?v=abc123', image_url: null, author: null, tags: [] };
+    await service.insertArticles([
+      article('Storm Bertha makes landfall on Gulf Coast', '2026-04-27T08:00:00Z', 'source-a', 1),
+      article('Gulf Coast braces as Storm Bertha makes landfall', '2026-04-27T09:00:00Z', 'source-b', 2),
+      clip
+    ]);
+
+    assert.deepEqual((await service.getVideosForDate('2026-04-27')).map(row => row.title), [clip.title]);
+    assert.equal((await service.getArticlesForDate('2026-04-27')).length, 2);
+
+    const [topic] = await detectTopicsForDate(service, '2026-04-27', { minTopicSize: 2, minSources: 2 });
+    assert.equal(topic.articleCount, 2);
+    const rows = await service.getArticlesForTopic(topic.id);
+    assert.deepEqual(rows.map(row => Number(row.source_type)).sort(), [1, 1, 2]);
+    assert.equal(rows[0].url, clip.url);
+  } finally {
+    await service.close();
+  }
+});
+
+function video(title, channel, index) {
+  const url = `https://www.youtube.com/watch?v=${channel}${index}`;
+  return {
+    url_hash: hash64(url),
+    url,
+    feed_url: `https://www.youtube.com/feeds/videos.xml?channel_id=${channel}`,
+    feed_title: channel,
+    title,
+    summary: null
+  };
+}
 
 function article(title, isoDate, source, index) {
   const url = `https://example.com/${source}/${index}`;

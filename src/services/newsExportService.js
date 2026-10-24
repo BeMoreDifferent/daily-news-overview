@@ -5,6 +5,8 @@ import { dropUnloadableImages } from './imageCheckService.js';
 
 const NEWS_DIR = path.join('news');
 const ARTICLES_PER_TOPIC = 5;
+const VIDEOS_PER_TOPIC = 3;
+const VIDEO_SOURCE_TYPE = 2;
 const MAX_TOPICS = 15;
 const MIN_TOPICS = 5;
 const SCORE_FLOOR_RATIO = 0.4;
@@ -69,13 +71,54 @@ function buildArticleObj(row) {
   return obj;
 }
 
+// Videos are attached by topic detection already ranked; keep one per channel.
+function pickVideos(rows) {
+  const seenChannels = new Set();
+  const picked = [];
+  for (const row of rows) {
+    const channel = row.feed_title || row.feed_url;
+    if (!row.url || seenChannels.has(channel)) continue;
+    seenChannels.add(channel);
+    picked.push(row);
+    if (picked.length >= VIDEOS_PER_TOPIC) break;
+  }
+  return picked;
+}
+
+export function youtubeVideoId(url) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname === 'youtu.be') return parsed.pathname.slice(1) || null;
+    return parsed.searchParams.get('v') || parsed.pathname.match(/^\/(?:shorts|live|embed)\/([\w-]+)/)?.[1] || null;
+  } catch {
+    return null;
+  }
+}
+
+// i.ytimg.com serves every video's thumbnail with `Access-Control-Allow-Origin: *`, so it loads on
+// the site without the per-picture check articles need.
+export function buildVideoObj(row) {
+  const videoId = youtubeVideoId(row.url);
+  const obj = { title: row.title, url: row.url };
+  if (videoId) obj.video_id = videoId;
+  if (row.feed_title) obj.channel = row.feed_title;
+  if (row.published_at) {
+    obj.published_at = row.published_at instanceof Date
+      ? row.published_at.toISOString()
+      : new Date(row.published_at).toISOString();
+  }
+  const thumbnail = videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : row.image_url;
+  if (thumbnail) obj.thumbnail = thumbnail;
+  return obj;
+}
+
 function cleanDescription(summary, title) {
   const text = String(summary || '').replace(/\s+/g, ' ').trim();
   if (!text || text === String(title || '').trim()) return null;
   return text.length > DESCRIPTION_CHARS ? `${text.slice(0, DESCRIPTION_CHARS - 1).trimEnd()}…` : text;
 }
 
-function buildTopicObj(topic, articles) {
+function buildTopicObj(topic, articles, videos = []) {
   const headline = topic.sampleHeadlines?.[0] || null;
   const obj = {
     id: topic.id,
@@ -97,6 +140,7 @@ function buildTopicObj(topic, articles) {
   } else {
     obj.articles = [];
   }
+  if (videos.length) obj.videos = videos.map(buildVideoObj);
 
   return obj;
 }
@@ -115,6 +159,7 @@ function applySummaries(topicObjects, summaries) {
         if (target.articles.length >= ARTICLES_PER_TOPIC) break;
         if (!titles.has(article.title)) target.articles.push(article);
       }
+      mergeVideos(target, topic.videos);
       continue;
     }
     if (result) {
@@ -124,6 +169,18 @@ function applySummaries(topicObjects, summaries) {
     kept.push(topic);
   }
   return kept;
+}
+
+function mergeVideos(target, videos = []) {
+  const urls = new Set((target.videos || []).map(video => video.url));
+  const channels = new Set((target.videos || []).map(video => video.channel));
+  for (const video of videos) {
+    if ((target.videos || []).length >= VIDEOS_PER_TOPIC) break;
+    if (urls.has(video.url) || (video.channel && channels.has(video.channel))) continue;
+    (target.videos ||= []).push(video);
+    urls.add(video.url);
+    channels.add(video.channel);
+  }
 }
 
 /**
@@ -165,7 +222,9 @@ export async function exportNewsForDate(db, date, { force = false, summarize = t
   let topicObjects = [];
   for (const topic of selectTopics(allTopics)) {
     const rows = await db.getArticlesForTopic(topic.id, TOPIC_ARTICLE_POOL);
-    topicObjects.push(buildTopicObj(topic, pickArticles(topic, rows)));
+    const videos = rows.filter(row => Number(row.source_type) === VIDEO_SOURCE_TYPE);
+    const articles = rows.filter(row => Number(row.source_type) !== VIDEO_SOURCE_TYPE);
+    topicObjects.push(buildTopicObj(topic, pickArticles(topic, articles), pickVideos(videos)));
   }
   if (imageCheck) await dropUnloadableImages(topicObjects, imageCheck === true ? {} : imageCheck);
 

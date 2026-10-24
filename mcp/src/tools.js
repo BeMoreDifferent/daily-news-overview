@@ -20,6 +20,17 @@ const articleSchema = {
   required: ['title', 'url'],
 };
 
+const videoSchema = {
+  type: 'object',
+  properties: {
+    title: { type: 'string' },
+    channel: { type: 'string' },
+    url: { type: 'string' },
+    published_at: { type: 'string' },
+  },
+  required: ['title', 'url'],
+};
+
 const topicSummarySchema = {
   type: 'object',
   properties: {
@@ -30,6 +41,7 @@ const topicSummarySchema = {
     source_count: { type: 'integer' },
     article_count: { type: 'integer' },
     articles: { type: 'array', items: articleSchema },
+    videos: { type: 'array', items: videoSchema },
   },
   required: ['id', 'title'],
 };
@@ -39,7 +51,7 @@ export const TOOLS = [
     name: 'get_daily_news',
     title: 'Get daily news briefing',
     description: 'Get the news briefing for one day: overview bullet points and up to 15 top topics, each with an '
-      + 'English title, summary and links to the covering articles. Defaults to today (UTC); a day\'s '
+      + 'English title, summary, links to the covering articles and any matching news videos. Defaults to today (UTC); a day\'s '
       + 'briefing is published the morning after, so until then today falls back to yesterday.',
     inputSchema: {
       type: 'object',
@@ -100,6 +112,7 @@ export const TOOLS = [
 export class ToolInputError extends Error {}
 
 const article = ({ title, source, url, published_at: publishedAt }) => ({ title, source, url, published_at: publishedAt });
+const video = ({ title, channel, url, published_at: publishedAt }) => ({ title, channel, url, published_at: publishedAt });
 
 function topicSummary(topic) {
   return {
@@ -110,6 +123,7 @@ function topicSummary(topic) {
     source_count: topic.source_count,
     article_count: topic.article_count,
     articles: (topic.articles || []).map(article),
+    videos: (topic.videos || []).map(video),
   };
 }
 

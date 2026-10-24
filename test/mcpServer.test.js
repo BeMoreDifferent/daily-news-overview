@@ -29,7 +29,13 @@ const NEWS = {
     date: '2026-10-09',
     generated_at: '2026-10-10T02:00:00Z',
     overview: { points: [{ text: 'Pillay wins.', stories: [1] }, { text: 'Storm.', stories: [2, 9] }] },
-    topics: [topic('t_nobel', 'Navi Pillay Wins Nobel Peace Prize', { entities: ['Navi Pillay'] }), topic('t_storm', 'Hurricane Isaias strengthens')],
+    topics: [
+      topic('t_nobel', 'Navi Pillay Wins Nobel Peace Prize', {
+        entities: ['Navi Pillay'],
+        videos: [{ title: 'Pillay wins', url: 'https://www.youtube.com/watch?v=p1', video_id: 'p1', channel: 'DW News', published_at: '2026-10-09T11:00:00Z', thumbnail: 'https://i.ytimg.com/vi/p1/hqdefault.jpg' }],
+      }),
+      topic('t_storm', 'Hurricane Isaias strengthens'),
+    ],
   },
 };
 
@@ -193,6 +199,8 @@ test('get_daily_news reads a specific date directly, without an index', async ()
   assert.deepEqual(day.overview, [{ text: 'Pillay wins.', topic_ids: ['t_nobel'] }, { text: 'Storm.', topic_ids: ['t_storm'] }]);
   assert.equal(day.topics.length, 2);
   assert.equal(day.topics[0].articles[0].description, undefined);
+  assert.deepEqual(day.topics[0].videos, [{ title: 'Pillay wins', channel: 'DW News', url: 'https://www.youtube.com/watch?v=p1', published_at: '2026-10-09T11:00:00Z' }]);
+  assert.deepEqual(day.topics[1].videos, []);
 
   for (const date of ['2020-01-01', '2026-10-30', '10/08/2026']) {
     const res = (await call('get_daily_news', { date })).body.result;
