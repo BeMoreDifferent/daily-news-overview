@@ -21,7 +21,7 @@
  */
 
 const CACHE_VERSION = 'v27';
-const ASSET_VERSION = '26';
+const ASSET_VERSION = '27';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
 

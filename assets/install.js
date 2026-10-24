@@ -12,7 +12,7 @@
 // the footer is always there while installing is possible. Nothing is shown inside the installed
 // app. State stays in localStorage (see privacy.html) and never leaves the device.
 
-import { trackEvent } from './analytics.js?v=26';
+import { trackEvent } from './analytics.js?v=27';
 
 const STATE_KEY = 'install-prompt';
 const SNOOZE_DAYS = [30, 90];

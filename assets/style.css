@@ -278,6 +278,11 @@ img {
   opacity: 0;
 }
 
+/* Phones: the empty slot would leave a gap at the screen edge, so the date pill takes it. */
+@media (max-width: 639.98px) {
+  .icon-btn.is-end { display: none; }
+}
+
 .icon-btn[aria-disabled="true"] {
   color: var(--fg-subtle);
   opacity: 0.4;

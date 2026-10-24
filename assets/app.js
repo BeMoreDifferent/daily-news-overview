@@ -1,5 +1,5 @@
-import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=26';
-import { noteStoryRead, setupInstall } from './install.js?v=26';
+import { setupAnalytics, trackEvent, trackPageView, trackReading } from './analytics.js?v=27';
+import { noteStoryRead, setupInstall } from './install.js?v=27';
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const CACHE_KEY = 'latest-date';
