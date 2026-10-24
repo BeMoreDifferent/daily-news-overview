@@ -1,36 +1,36 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-24T15:08:58.634Z",
+  "generated_at": "2026-10-24T16:22:09.861Z",
   "overview": {
     "points": [
       {
-        "text": "Gunmen killed at least seven people and wounded about 40 at a church funeral in Jordan; authorities were searching for suspects.",
+        "text": "Meghan Markle said she was deeply distressed by allegations that her estranged father possessed child sexual abuse images and had been made aware of similar allegations in 2018.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "The White House said Melania Trump helped secure a localized Russia-Ukraine ceasefire in Oleshky to allow evacuations, but neither side had confirmed it.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Two former FBI officials were charged with making false statements to Congress about their roles in the investigation of Hunter Biden’s laptop.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Gunmen killed seven people and wounded about 40 during a funeral at a church in Jordan; authorities were searching for suspects.",
         "stories": [
           10
         ]
       },
       {
-        "text": "A multistorey building collapsed in Nairobi, leaving many feared trapped as rescue operations began.",
+        "text": "A building under construction collapsed in Nairobi’s Eastleigh area, with many people feared trapped as rescue operations began.",
         "stories": [
-          12
-        ]
-      },
-      {
-        "text": "Israel ordered security forces to prepare for a full West Bank closure after the military said it killed two Palestinians accused of an attack.",
-        "stories": [
-          8
-        ]
-      },
-      {
-        "text": "Ukrainian officials said Starlink access remained limited despite Donald Trump’s claim that Elon Musk had restored service, with restrictions affecting military capabilities.",
-        "stories": [
-          11
-        ]
-      },
-      {
-        "text": "Two former FBI officials were charged with making false statements to Congress about their roles in work related to Hunter Biden’s laptop.",
-        "stories": [
-          4
+          13
         ]
       }
     ]
@@ -50,7 +50,7 @@
       ],
       "category": "new",
       "section": "culture",
-      "theme": "theme_1f7dd91c51585d37",
+      "theme": "theme_9a54b65e7087e870",
       "entities": [
         "Meghan Markle",
         "Distressed",
@@ -116,11 +116,11 @@
           "thumbnail": "https://i.ytimg.com/vi/HvEMHPtLFdw/hqdefault.jpg"
         }
       ],
-      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father possessed child sexual abuse images. She said she became aware of similar accusations in 2018."
+      "summary": "Meghan Markle said she was deeply distressed by allegations that her estranged father possessed child sexual abuse images. She said she had been made aware of similar allegations in 2018."
     },
     {
       "id": "topic_2edec1cb9d398a8a",
-      "title": "White House Says Melania Trump Helped Secure Oleshky Ceasefire",
+      "title": "White House Says Melania Trump Secured Ceasefire in Ukrainian City",
       "headline": "Melania Trump secures ceasefire between Russia, Ukraine in Oleshky",
       "label": [
         "ceasefire",
@@ -204,11 +204,11 @@
           "thumbnail": "https://i.ytimg.com/vi/rjnHvbngtKU/hqdefault.jpg"
         }
       ],
-      "summary": "The White House says Melania Trump helped secure a localized ceasefire in Oleshky, Ukraine, to allow evacuations. Russia and Ukraine have not confirmed the reported agreement."
+      "summary": "The White House said Melania Trump helped secure a localized ceasefire between Russia and Ukraine in Oleshky to allow residents to evacuate. Russia and Ukraine had not confirmed the ceasefire, according to reports."
     },
     {
       "id": "topic_2970711504c32d84",
-      "title": "Bayern Munich Coach Vincent Kompany Hospitalized After Collapsing at Training",
+      "title": "Bayern Munich Coach Vincent Kompany Taken to Hospital After Collapse",
       "headline": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
       "label": [
         "kompany",
@@ -254,25 +254,25 @@
           "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/vincent-kompany-234148812-16x9_0.jpg?VersionId=MjOZY7h50u0aF3R1Xh0SIulOXVu5seVa"
         },
         {
+          "title": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
+          "url": "https://sports.yahoo.com/articles/breaking-bayern-munich-boss-vincent-152841252.html",
+          "published_at": "2026-10-23T15:35:21.000Z",
+          "description": "FC Bayern had a scare today with head coach Vincent Kompany."
+        },
+        {
           "title": "Vincent Kompany hospitalized after collapsing at Bayern Munich training ground",
           "url": "https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich",
           "source": "CBS Sports Headlines",
           "published_at": "2026-10-23T16:45:17.000Z",
           "image": "https://sportshub.cbsistatic.com/i/2026/10/23/4a70be1f-ddaa-4cfa-93e2-1b55c4c67277/vincentkompany.jpg",
           "description": "The manager was taken to the hospital for evaluation and the club did not yet offer an update on his status"
-        },
-        {
-          "title": "Breaking: Bayern Munich boss Vincent Kompany taken to hospital after collapse",
-          "url": "https://sports.yahoo.com/articles/breaking-bayern-munich-boss-vincent-152841252.html",
-          "published_at": "2026-10-23T15:35:21.000Z",
-          "description": "FC Bayern had a scare today with head coach Vincent Kompany."
         }
       ],
-      "summary": "Bayern Munich coach Vincent Kompany was taken to hospital after collapsing or feeling unwell at the club’s training ground. The club said he was undergoing examinations."
+      "summary": "Bayern Munich coach Vincent Kompany was taken to hospital after collapsing or feeling unwell during training. The club said he was undergoing examinations."
     },
     {
       "id": "topic_9a17f7f64934bf5b",
-      "title": "Two Former FBI Officials Charged Over Statements About Hunter Biden Laptop",
+      "title": "Two Former FBI Officials Charged Over Testimony on Hunter Biden Laptop",
       "headline": "2 ex-FBI officials charged with lying about Hunter Biden's laptop",
       "label": [
         "biden",
@@ -344,46 +344,46 @@
           "thumbnail": "https://i.ytimg.com/vi/o3gcxMCnXN0/hqdefault.jpg"
         }
       ],
-      "summary": "Two former FBI officials have been charged with making false statements to Congress about their roles in investigations or work related to Hunter Biden’s laptop."
+      "summary": "Two former FBI officials were charged with making false statements to Congress about their roles in the bureau’s investigation of Hunter Biden’s laptop and related matters."
     },
     {
-      "id": "topic_68b2125697182ac9",
-      "title": "Japan Plans Cyberattack Simulations Amid Exploitation of PHP Vulnerabilities",
-      "headline": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "id": "topic_366cb2c7e69f7948",
+      "title": "PHP Warns of Another Unpatched Remote-Code-Execution Vulnerability",
+      "headline": "Critical Vulnerability Alert: PHP Core",
       "label": [
         "php",
+        "patch",
+        "vulnerability",
         "critical",
         "flaws",
-        "vulnerability",
-        "patch",
-        "rce"
+        "php2shell"
       ],
       "category": "trending",
       "section": "technology",
-      "theme": "theme_dd06daa1ba7c4c7",
+      "theme": "theme_d1e2d3949a61750a",
       "entities": [
+        "Critical Vulnerability Alert",
+        "PHP Core",
         "Japan",
         "PHP",
-        "Reuters",
-        "Critical Vulnerability Alert",
-        "PHP Core"
+        "PHP Warns"
       ],
-      "article_count": 27,
-      "source_count": 24,
+      "article_count": 24,
+      "source_count": 23,
       "articles": [
-        {
-          "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-          "url": "https://bworldonline.com/world/2026/10/23/788892/japan-to-simulate-cyberattacks-as-php-flaws-roil-global-internet",
-          "source": "BusinessWorld Online",
-          "published_at": "2026-10-23T07:14:15.000Z",
-          "description": "TOKYO — Japan said on Friday it will set up a team to simulate cyberattacks using AI to…"
-        },
         {
           "title": "Critical Vulnerability Alert: PHP Core",
           "url": "https://malware.news/t/critical-vulnerability-alert-php-core/126686",
           "source": "Malware Analysis, News and Indicators - Latest topics",
           "published_at": "2026-10-23T17:40:43.000Z",
           "description": "Introduction to Malware Binary Triage (IMBT) Course Looking to level up your skills? Get 10% off using coupon code: MWNEWS10 for any flavor. Enroll Now and Save 10%: Coupon Code MWNEWS10 Note: Affiliate link – your enrollment helps support this platform at no extra cost to you. Article Link: Intern…"
+        },
+        {
+          "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+          "url": "https://bworldonline.com/world/2026/10/23/788892/japan-to-simulate-cyberattacks-as-php-flaws-roil-global-internet",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-10-23T07:14:15.000Z",
+          "description": "TOKYO — Japan said on Friday it will set up a team to simulate cyberattacks using AI to…"
         },
         {
           "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
@@ -393,19 +393,19 @@
           "description": "Vulnerability / Web SecurityPHP has warned of another way an attacker could run code on a web serv"
         },
         {
-          "title": "PHP2Shell: The Critical PHP RCE Vulnerability (CVE-2026-109618, CVE-2026-109619) and How to Fix It",
-          "url": "https://dev.to/ali_82f3409ed625e8ba8515b/php2shell-the-critical-php-rce-vulnerability-cve-2026-109618-cve-2026-109619-and-how-to-fix-it-4mff",
-          "source": "DEV Community",
-          "published_at": "2026-10-23T01:32:46.000Z",
-          "description": "PHP2Shell is the name for two critical vulnerabilities in PHP itself, CVE-2026-109618 and CVE-2026-109619, that let an unauthenticated attacker run code on a web server while PHP is still parsing the request, before any application code executes. Both flaws carry a CVSS v4.0 score of 9.2, emergency…"
+          "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+          "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability",
+          "source": "BleepingComputer",
+          "published_at": "2026-10-23T15:38:05.000Z",
+          "description": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]"
         },
         {
-          "title": "Cloudflare sees millions of attempts to exploit critical PHP flaws",
-          "url": "https://thenextweb.com/news/cloudflare-php2shell-millions-exploit-attempts",
-          "source": "The Next Web",
-          "published_at": "2026-10-23T13:28:46.000Z",
-          "image": "https://media.thenextweb.com/2026/10/matthew-prince-smiling-armchair-portrait.avif",
-          "description": "Cloudflare has recorded millions of attempts to exploit two critical PHP vulnerabilities since details became public on Wednesday, according to CEO Matthew Prince. The flaws affect PHP, a programming language used to power much of the web. Some stats on #php2shell. In the 10 hours before it was pub…"
+          "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-23T11:25:43.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
+          "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The proje…"
         }
       ],
       "videos": [
@@ -426,11 +426,11 @@
           "thumbnail": "https://i.ytimg.com/vi/ulc9-4GwQ-k/hqdefault.jpg"
         }
       ],
-      "summary": "Japan said it would establish a team to simulate cyberattacks using AI as critical PHP vulnerabilities drew widespread exploitation attempts. Cloudflare reported millions of attempts targeting the flaws."
+      "summary": "PHP warned of a new remote-code-execution vulnerability affecting systems with non-default configurations and shared mitigation measures while no patch was available. The warning followed emergency fixes for other PHP vulnerabilities."
     },
     {
       "id": "topic_fa5c69880aafa051",
-      "title": "Justice Department Seeks to Block Alaska Senate Certification if Republican Loses",
+      "title": "Justice Department Seeks to Block Alaska Senate Result if Sullivan Loses",
       "headline": "DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses",
       "label": [
         "alaska",
@@ -517,11 +517,11 @@
           "thumbnail": "https://i.ytimg.com/vi/ntE0hryN0OE/hqdefault.jpg"
         }
       ],
-      "summary": "The Justice Department has filed a preemptive lawsuit seeking to block certification of Alaska’s Senate result if Republican incumbent Dan Sullivan loses. The dispute concerns alleged confusion between candidates’ names on ballots."
+      "summary": "The Justice Department filed a lawsuit seeking to prevent certification of Alaska’s Senate results if Republican Sen. Dan Sullivan loses. The suit cites confusion involving candidates with the same surname."
     },
     {
       "id": "topic_a475e03322efa8be",
-      "title": "Knicks Used Fake Championship Ring Offer in Employee Phishing Test",
+      "title": "Knicks Used Fake Championship-Ring Offer in Employee Phishing Test",
       "headline": "Knicks tricked employees with championship ring phishing test",
       "label": [
         "rings",
@@ -581,11 +581,11 @@
           "description": "Knicks call championship ring phishing test with employees ‘unfortunate mistake’ The New York Times Knicks coaches didn’t get rings on banner night; MSG staff received phishing email: Sources - The Athletic The New York Times Knicks call plan to use fake championship rings as employee phishing test…"
         }
       ],
-      "summary": "The New York Knicks reportedly sent employees a fake offer of championship rings as an internal phishing test. The team described the test as an “unfortunate mistake.”"
+      "summary": "The New York Knicks sent employees a fake offer of championship rings as part of a phishing test. The team called the test an unfortunate mistake, according to reports."
     },
     {
       "id": "topic_1a4b540f7bf24b64",
-      "title": "Israel Orders Preparation for Full West Bank Closure After Attack",
+      "title": "Israel Orders Preparations for Full West Bank Closure After Attack",
       "headline": "Israel orders army to prepare for full closure of West Bank",
       "label": [
         "west",
@@ -597,7 +597,7 @@
       ],
       "category": "new",
       "section": "world",
-      "theme": "theme_f802476adc279a88",
+      "theme": "theme_f95dcfabedeeecec",
       "entities": [
         "Israel",
         "West Bank",
@@ -655,11 +655,11 @@
           "thumbnail": "https://i.ytimg.com/vi/Sz8cLLInL_4/hqdefault.jpg"
         }
       ],
-      "summary": "Israeli Prime Minister Benjamin Netanyahu’s office ordered security forces to prepare for a full closure of the West Bank after the military said it killed two Palestinians accused of an attack."
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered security forces to prepare for a full closure of the occupied West Bank after Israeli forces killed two Palestinians accused of carrying out an attack."
     },
     {
       "id": "topic_5d7da3b77dcac95e",
-      "title": "Trump Calls for Ilhan Omar to Resign Over Alleged Name Use",
+      "title": "Trump Calls for Ilhan Omar to Resign Over Alleged Fake Name",
       "headline": "Trump Demands Ilhan Omar ‘Resign’ for Using ‘Fake Name’",
       "label": [
         "name",
@@ -694,7 +694,6 @@
           "url": "https://www.nigerianeye.com/2026/10/trump-demands-ilhan-omars-resignation.html",
           "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
           "published_at": "2026-10-23T08:15:22.234Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidbyDC20-BPa-wS8TksqQSsvdWIMC1Qy_7Vv92EHGAayMgpdFYTqwnmAxnlrNMFjJakkDmqO9yzwYZeIRnBjYESB6kRnrFNb6ISX5aIJYYbsPSW-7hnYZ0B3YlNWdJqRY1-hNOs74tXF2HJ2lNi0R2QoeDNv7uSUyAcJwEVtju4n4Q4YFRcQ_JbbhMT3Rv/s72-w400-h269-c/Ilhan%20Omar2.jpeg",
           "description": "US President Donald Trump has renewed his attack on Congresswoman Ilhan Omar, alleging that she used a different name to get elected and sworn into the House of Representatives. Trump made the allegation in a post on his Truth Social account on Friday, claiming that Omar’s name was Ilhan Nur Said E…"
         },
         {
@@ -718,7 +717,7 @@
           "description": "Trump suggests Omar resign ‘immediately’ over ‘fake name’ The Hill Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search PBS Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital Dispatch Ilhan Omar responds to immigration fraud a…"
         }
       ],
-      "summary": "Donald Trump called for Representative Ilhan Omar to resign, alleging she used a different or “fake” name when elected. Omar has rejected the basis of Trump’s claim in past disputes."
+      "summary": "Donald Trump called on Rep. Ilhan Omar to resign, alleging she used a fake or different name when elected. Omar has not been shown responding to that allegation in the headlines."
     },
     {
       "id": "topic_ffba489997928072",
@@ -800,11 +799,11 @@
           "thumbnail": "https://i.ytimg.com/vi/Q5d6oub5ds8/hqdefault.jpg"
         }
       ],
-      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing at least seven people and wounding about 40, according to reports. Authorities were searching for suspects."
+      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing seven people and wounding about 40, according to reports. Authorities were searching for the suspects."
     },
     {
       "id": "topic_ecbf919cffe9037f",
-      "title": "Ukraine Says Starlink Access Remains Restricted Despite Trump’s Claim",
+      "title": "Ukraine Says Starlink Access Remains Limited Despite Trump’s Claims",
       "headline": "Ukraine Says Starlink Is Still Limited After Trump Claimed Musk Restored Connection",
       "label": [
         "starlink",
@@ -815,7 +814,7 @@
         "musk"
       ],
       "category": "new",
-      "section": "world",
+      "section": "technology",
       "theme": "theme_d3872e7f92c31216",
       "entities": [
         "Ukraine Says Starlink Is",
@@ -881,23 +880,86 @@
           "thumbnail": "https://i.ytimg.com/vi/k14HW74DPbQ/hqdefault.jpg"
         }
       ],
-      "summary": "Ukrainian officials said Starlink access remained limited after Donald Trump said Elon Musk had restored service. Reports said restrictions on the satellite service affected Ukraine’s military capabilities."
+      "summary": "Donald Trump said Elon Musk had restored Ukraine’s Starlink access, but Ukrainian officials said restrictions remained. Reports described a speed cap affecting the service."
     },
     {
-      "id": "topic_98be86987d8da458",
+      "id": "topic_cc943eaf4c524611",
+      "title": "Moonshot AI Releases Kimi K3.1 Pro Model",
+      "headline": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "label": [
+        "k3",
+        "kimi",
+        "pro",
+        "moonshot",
+        "model",
+        "introducing"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_ed8270bbf303461",
+      "entities": [
+        "Kimi K3",
+        "Pro",
+        "K3",
+        "Pro Highspeed",
+        "Introducing Kimi K3"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News",
+          "published_at": "2026-10-23T16:59:08.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Introducing Kimi K3.1 Pro",
+          "url": "https://simonwillison.net/2026/oct/23/kimi-k31-pro",
+          "source": "Simon Willison's Weblog",
+          "published_at": "2026-10-23T19:40:54.000Z"
+        },
+        {
+          "title": "Moonshot AI Launches New Kimi K3.1 Pro Model",
+          "url": "https://www.theinformation.com/briefings/moonshot-ai-launches-new-kimi-k3-1-pro-model",
+          "source": "The Information",
+          "published_at": "2026-10-23T22:26:12.000Z",
+          "description": "Moonshot AI on Friday announced its new model, Kimi K3.1 Pro, demonstrating performance that rivals that of top-tier U.S. frontier models on some benchmarks. Kimi K3.1 Pro, built on the architecture of its popular predecessor Kimi K3, is now ranked fourth on the Artificial Analysis Intelligence ..."
+        },
+        {
+          "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
+          "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series",
+          "source": "Unite.AI",
+          "published_at": "2026-10-23T17:26:02.000Z",
+          "description": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T-class open-weight model to date, with a 1-million-token context window. Accord…"
+        },
+        {
+          "title": "Moonshot releases Kimi K3.1 Pro and says it cut its hacking skills",
+          "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber",
+          "source": "The Next Web",
+          "published_at": "2026-10-23T18:19:34.000Z",
+          "image": "https://media.thenextweb.com/2026/10/kimi-logo-construction-grid-black-background.avif",
+          "description": "Moonshot has released Kimi K3.1 Pro, an upgraded version of its open-weight Kimi K3, with full weights due by 4 November. It says the model nearly matches Claude Opus 5.5 on a coding test. Moonshot also says it removed hacking-related training data to limit misuse of the open release. Chinese AI la…"
+        }
+      ],
+      "summary": "Moonshot AI announced Kimi K3.1 Pro, the first model in its new K3.1 series, along with a faster variant. The company said the model performed competitively on some benchmarks."
+    },
+    {
+      "id": "topic_d596b652e0380e7e",
       "title": "Building Collapse in Nairobi Leaves Many Feared Trapped",
       "headline": "Many feared trapped as building collapses in Kenya",
       "label": [
         "collapses",
-        "building",
         "trapped",
+        "building",
         "feared",
         "many",
         "kenya"
       ],
       "category": "new",
       "section": "world",
-      "theme": "theme_f5ab3807375fd08e",
+      "theme": "theme_a0c5fd8a63bc8dd1",
       "entities": [
         "Many",
         "Kenya",
@@ -956,137 +1018,77 @@
           "thumbnail": "https://i.ytimg.com/vi/PipCz75cwbA/hqdefault.jpg"
         }
       ],
-      "summary": "A multistorey building collapsed in Nairobi’s Eastleigh area, with many people feared trapped beneath the rubble. Rescue operations were underway; reports said the unfinished building was under construction."
+      "summary": "A multistorey building collapsed in Nairobi’s Eastleigh area, where many people were feared trapped. Reports said the unfinished structure was under construction and rescue operations were under way."
     },
     {
-      "id": "topic_eea8fde3d51f6660",
-      "title": "Greece Passes Social Media Ban for Children Under 15",
-      "headline": "Greece passes social media ban for children under 15",
+      "id": "topic_95ce13b726392b8e",
+      "title": "Deadly Shooting Near Paris Leaves Several Injured",
+      "headline": "One person killed in shooting near Paris, French Prime Minister says",
       "label": [
-        "greece",
-        "social",
-        "media",
-        "ban",
-        "passes",
-        "children"
+        "near",
+        "shooting",
+        "paris",
+        "killed",
+        "person",
+        "condemns"
       ],
       "category": "new",
-      "section": "politics",
-      "theme": "theme_70de0e442c9235a",
+      "section": "world",
+      "theme": "theme_bf9dc64c017cb5a8",
       "entities": [
-        "Greece",
-        "Greece Enacts Social Media",
-        "Ban For Kids Under",
-        "Greek"
+        "One",
+        "Paris",
+        "French Prime Minister",
+        "French",
+        "NBC News"
       ],
-      "article_count": 7,
+      "article_count": 8,
       "source_count": 7,
       "articles": [
         {
-          "title": "Greece passes social media ban for children under 15",
-          "url": "https://www.thehindu.com/news/international/greece-passes-social-media-ban-for-children-under-15/article71614919.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-10-23T06:36:34.000Z",
-          "description": "Greece is among seven European Union countries ‌seeking an age verification solution with ​the European Commission"
+          "title": "One person killed in shooting near Paris, French Prime Minister says",
+          "url": "https://www.nbcnews.com/world/france/one-person-killed-shooting-paris-french-prime-minister-says-rcna605183",
+          "source": "NBC News World News",
+          "published_at": "2026-10-23T11:37:09.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-paris-shooting-mb-1233-295fa0.jpg",
+          "description": "At least one person was killed and four people were injured in a shooting near Paris, the French Prime Minister Sébastien Lecornu said Friday."
         },
         {
-          "title": "Greece Enacts Social Media Ban For Kids Under 15",
-          "url": "https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15",
-          "source": "Slashdot",
-          "published_at": "2026-10-23T21:00:00.000Z",
-          "description": "Greece has passed a law banning children under 15 from social media platforms beginning January 1, 2027. The legislation requires platforms to implement reliable age verification and parents to use government-backed apps to restrict access, with penalties for noncompliance under the EU's Digital Se…"
-        },
-        {
-          "title": "Greek parliament greenlights under-15 social media ban",
-          "url": "https://www.siliconrepublic.com/business/greek-parliament-greenlights-under-15-social-media-ban",
-          "source": "Silicon Republic",
-          "published_at": "2026-10-23T11:11:28.000Z",
-          "description": "The new bill will come into force from January 2027. Read more: Greek parliament greenlights under-15 social media ban"
-        },
-        {
-          "title": "Greece passes law banning social media for children under 15",
-          "url": "https://thenextweb.com/news/greece-passes-law-banning-social-media",
-          "source": "The Next Web",
-          "published_at": "2026-10-23T07:12:22.000Z",
-          "image": "https://media.thenextweb.com/2026/10/social-media-apps-folder-smartphone-screen.avif",
-          "description": "Greece has passed a law banning children under 15 from using social media, with the restrictions set to take effect on January 1, 2027. Parliament approved the bill late on October 22, following a debate that lasted more than 16 hours, state broadcaster ERT reported. The governing New Democracy par…"
-        },
-        {
-          "title": "Greece joins push to ban social media for minors",
-          "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors",
+          "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+          "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-10-23T12:55:16.000Z",
-          "description": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction."
+          "published_at": "2026-10-23T16:08:04.000Z",
+          "description": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl."
+        },
+        {
+          "title": "France: 1 killed, 4 wounded after shooting near Paris",
+          "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-23T11:22:00.000Z",
+          "description": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. One person was killed and four others were wounded in the shooting. The motive was not immediately clear."
+        },
+        {
+          "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
+          "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-23T18:13:09.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/38117286-b7c8-4971-b699-3e6f411580c0_595e2549.jpg?itok=AklhP8rD&v=1792779180",
+          "description": "A gunman firing from his car killed one person and wounded five – including a 12-year-old girl shot eight times – in the Paris suburbs on Friday, in what the French presidency condemned as a “racist terrorist attack”. French President Emmanuel Macron visited the working-class town of Trappes southw…"
+        },
+        {
+          "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+          "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-10-23T19:23:14.000Z",
+          "image": "https://i.guim.co.uk/img/media/ed52b753a2b75c6d81fae075e1edfac4bc26ed44/438_0_4377_3502/master/4377.jpg?width=140&quality=85&auto=format&fit=max&s=f82d54c7ed9adfca5f49c60e6cf22489",
+          "description": "Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl Emmanuel Macron has condemned racism in French society after a gunman opened fire from a car west of Paris on Friday, killing one person, wounding a 12-year-old girl and injuring f…"
         }
       ],
-      "summary": "Greece passed a law banning children under 15 from social media, with the restrictions set to take effect in January 2027. The measure requires platforms to verify users’ ages."
-    },
-    {
-      "id": "topic_efbd3c5f0f813cc4",
-      "title": "Moonshot AI Introduces Kimi K3.1 Pro Model",
-      "headline": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "label": [
-        "k3",
-        "kimi",
-        "pro",
-        "introducing",
-        "highspeed",
-        "moonshot"
-      ],
-      "category": "new",
-      "section": "technology",
-      "theme": "theme_341a1372c1b1b4a",
-      "entities": [
-        "Kimi K3",
-        "Pro",
-        "K3",
-        "Pro Highspeed",
-        "Introducing Kimi K3"
-      ],
-      "article_count": 9,
-      "source_count": 8,
-      "articles": [
-        {
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News",
-          "published_at": "2026-10-23T16:59:08.000Z",
-          "description": "Comments"
-        },
-        {
-          "title": "Introducing Kimi K3.1 Pro",
-          "url": "https://simonwillison.net/2026/oct/23/kimi-k31-pro",
-          "source": "Simon Willison's Weblog",
-          "published_at": "2026-10-23T19:40:54.000Z"
-        },
-        {
-          "title": "Moonshot AI Releases Kimi K3.1 Pro, First Model in New K3.1 Series",
-          "url": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series",
-          "source": "Unite.AI",
-          "published_at": "2026-10-23T17:26:02.000Z",
-          "description": "Moonshot AI introduced Kimi K3.1 Pro on October 24, 2026, the first model in its new K3.1 series, alongside a faster companion variant called Kimi K3.1 Pro Highspeed. The company describes K3.1 Pro as its most capable 3T-class open-weight model to date, with a 1-million-token context window. Accord…"
-        },
-        {
-          "title": "Moonshot releases Kimi K3.1 Pro and says it cut its hacking skills",
-          "url": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber",
-          "source": "The Next Web",
-          "published_at": "2026-10-23T18:19:34.000Z",
-          "image": "https://media.thenextweb.com/2026/10/kimi-logo-construction-grid-black-background.avif",
-          "description": "Moonshot has released Kimi K3.1 Pro, an upgraded version of its open-weight Kimi K3, with full weights due by 4 November. It says the model nearly matches Claude Opus 5.5 on a coding test. Moonshot also says it removed hacking-related training data to limit misuse of the open release. Chinese AI la…"
-        },
-        {
-          "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-          "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5",
-          "source": "The Decoder",
-          "published_at": "2026-10-23T19:00:07.000Z",
-          "description": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models…"
-        }
-      ],
-      "summary": "Moonshot AI introduced Kimi K3.1 Pro, the first model in its K3.1 series, along with a faster Highspeed variant. The company says the model improves on its predecessor in benchmark performance."
+      "summary": "A shooting in the Paris suburbs killed one person and injured several others, including a child, according to reports. French authorities arrested a suspect, and prosecutors were investigating the motive."
     },
     {
       "id": "topic_70a838049c47867c",
-      "title": "Oura Sues Ultrahuman Again Over Smart Ring Patents",
+      "title": "Oura Sues Ultrahuman Again Over Its New Smart Ring",
       "headline": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
       "label": [
         "oura",
@@ -1147,7 +1149,7 @@
           "description": "Another day, another Oura lawsuit against a key industry rival."
         }
       ],
-      "summary": "Oura has filed another US lawsuit against smart-ring rival Ultrahuman, alleging that its Ring Pro infringes Oura patents. The case could affect Ultrahuman’s return to the US market."
+      "summary": "Oura filed another lawsuit against rival Ultrahuman in the United States, alleging that its new Ring Pro infringes Oura patents. The case could affect Ultrahuman’s return to the U.S. market."
     }
   ]
 }

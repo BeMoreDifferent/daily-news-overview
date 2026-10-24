@@ -1,43 +1,43 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-23T00:52:03.091Z",
+  "generated_at": "2026-10-24T16:21:21.017Z",
   "overview": {
     "points": [
       {
-        "text": "A magnitude 7 earthquake struck northern Tibet, killing at least 16 people and injuring 32, according to state media.",
+        "text": "The United States and Israel have drawn up plans for possible renewed strikes on Iran after elections, with energy, nuclear, missile and drone facilities cited as potential targets.",
         "stories": [
           10
         ]
       },
       {
-        "text": "France reported the first documented human Shamonda virus case; the patient died, though authorities said there was no public health risk.",
+        "text": "A magnitude 7.0 earthquake struck northern Tibet, with one report saying at least 16 people were killed and 32 injured.",
+        "stories": [
+          11
+        ]
+      },
+      {
+        "text": "France reported its first documented human Shamonda virus case; the patient died, but authorities said there was no public health risk.",
         "stories": [
           2
         ]
       },
       {
-        "text": "Barclays plans to cut 5,000 jobs by year-end as it adopts AI and seeks to reduce costs.",
-        "stories": [
-          7
-        ]
-      },
-      {
-        "text": "A judge ordered Donald Trump to give a deposition by December 11 in his defamation lawsuit against the BBC, or the case could be dismissed.",
+        "text": "Barclays plans to cut 5,000 jobs as it adopts AI and seeks to lower costs, with about 1,000 roles already eliminated.",
         "stories": [
           6
         ]
       },
       {
-        "text": "Actor Tom Skerritt, whose career spanned about 60 years and included roles in Alien and Top Gun, has died at 93.",
+        "text": "Moderna shares fell after partial cancer vaccine trial data leaked; full results later showed a 42% reduction in cancer recurrence and death, according to reports.",
         "stories": [
-          1
+          12
         ]
       }
     ]
   },
   "topics": [
     {
-      "id": "topic_f20453288be4bad1",
+      "id": "topic_cff3f64e73877e73",
       "title": "Actor Tom Skerritt Dies at 93",
       "headline": "Tom Skerritt, Alien and Top Gun Star, Dies at 93",
       "label": [
@@ -49,7 +49,8 @@
         "dies"
       ],
       "category": "new",
-      "theme": "theme_b88efdd361b3e3fd",
+      "section": "culture",
+      "theme": "theme_b3924b34ec950afc",
       "entities": [
         "Tom Skerritt",
         "Alien",
@@ -57,8 +58,8 @@
         "Dies",
         "Alien And Top Gun"
       ],
-      "article_count": 35,
-      "source_count": 32,
+      "article_count": 37,
+      "source_count": 34,
       "articles": [
         {
           "title": "Tom Skerritt, Alien and Top Gun Star, Dies at 93",
@@ -91,17 +92,17 @@
         },
         {
           "title": "Top Gun and Alien star Tom Skerritt dies aged 93",
-          "url": "https://www.smh.com.au/culture/celebrity/top-gun-and-alien-star-tom-skerritt-dies-aged-93-20261023-p617zc.html",
-          "source": "Sydney Morning Herald - Latest News",
+          "url": "https://www.theage.com.au/culture/celebrity/top-gun-and-alien-star-tom-skerritt-dies-aged-93-20261023-p617zc.html",
+          "source": "The Age - Latest News",
           "published_at": "2026-10-22T21:38:25.000Z",
           "image": "https://static.ffx.io/images/$zoom_0.6157%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_34%2C$y_0/t_crop_custom/q_86%2Cf_auto/f29a8f75a9d3cd483a8b74abaf291ca2e7f2c0c9887953ec91d45078f6736f17",
           "description": "The Emmy-winning actor who played a flight instructor in Top Gun and the doomed captain of Alien died of natural causes."
         }
       ],
-      "summary": "Tom Skerritt, known for roles in Alien and Top Gun, has died at 93. His acting career spanned about 60 years."
+      "summary": "Tom Skerritt, known for roles in Alien and Top Gun, has died at 93. Reports say he died of natural causes."
     },
     {
-      "id": "topic_dcf6539af0943194",
+      "id": "topic_230fd141903e1274",
       "title": "France Reports First Human Shamonda Virus Case",
       "headline": "France reports first human Shamonda virus case",
       "label": [
@@ -113,16 +114,17 @@
         "case"
       ],
       "category": "new",
-      "theme": "theme_2f09b9fef885bbf0",
+      "section": "science-health",
+      "theme": "theme_2abd2a0aff87c279",
       "entities": [
         "France",
         "Shamonda",
         "Reuters",
-        "France Reports First Ever",
-        "Case Of Human Shamonda"
+        "First",
+        "NBC News"
       ],
-      "article_count": 20,
-      "source_count": 19,
+      "article_count": 22,
+      "source_count": 20,
       "articles": [
         {
           "title": "France reports first human Shamonda virus case",
@@ -140,18 +142,18 @@
           "description": "The WHO said it was working with French authorities to establish the source of the infection, possible routes of transmission and any potential public health risks The post France reports first human case of Shamonda virus as patient dies appeared first on Premium Times Nigeria."
         },
         {
-          "title": "France reports first human Shamonda virus case",
-          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxqejbuxzcxohi0z0dyutbsehddcwdkqtc5wdlnvk4xeml4utjptjvir19hc1jtwtj4wjvfmxv6rdhxemywow94z2xwdxj3u19nr2ncv3npmwyyanuzs0e0avpxz29pbtnlewk3zkk4smtacujkm0g4enbrdgyydwvks0qxudnndg96wudur1ltnhljzeotallkrxlym1j2bmzscmrwvxh5nthhwudlvmr6zglhmmriuxmxd1e",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-22T11:16:58.000Z",
-          "description": "France reports first human Shamonda virus case Reuters France reports first Shamonda virus case in human who later died Sky News France reports first death of human from Shamonda virus RTE.ie Health authorities race to investigate first human death linked to rare cattle virus The Telegraph Deadly S…"
-        },
-        {
           "title": "France reports first human Shamonda virus case, says no health risk",
           "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "published_at": "2026-10-22T11:28:05.000Z",
           "description": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case."
+        },
+        {
+          "title": "First human case of Shamonda virus reported in France as patient dies",
+          "url": "https://www.globalissues.org/news/2026/10/22/44415",
+          "source": "Global Issues News Headlines",
+          "published_at": "2026-10-22T12:00:00.000Z",
+          "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-09-2020-Unsplash-fossil-fuel-France.jpg/image1170x530cropped.jpg"
         },
         {
           "title": "France reports first human case of Shamonda virus, but says there's no public health risk",
@@ -161,11 +163,11 @@
           "description": "France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been \"an exceptional case\" in…"
         }
       ],
-      "summary": "French health authorities reported the first documented human case of Shamonda virus, which usually affects livestock; the patient later died. Authorities said there was no public health risk, while the WHO is working with France to investigate the infection."
+      "summary": "French authorities reported the first documented human case of Shamonda virus, which usually affects livestock; the patient later died. Authorities said there was no public health risk, while the WHO is working with France to investigate the infection."
     },
     {
       "id": "topic_36827e3d70be4ba5",
-      "title": "Meta Reaches Deal to Keep Zuckerberg in California",
+      "title": "Meta Strikes Deal to Keep Zuckerberg in California",
       "headline": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
       "label": [
         "zuckerberg",
@@ -176,7 +178,8 @@
         "keep"
       ],
       "category": "new",
-      "theme": "theme_4e815919671515cc",
+      "section": "business",
+      "theme": "theme_5d10c97dba577d49",
       "entities": [
         "Meta",
         "Zuckerberg",
@@ -193,13 +196,6 @@
           "source": "Daily Maverick - Latest News",
           "published_at": "2026-10-22T04:50:55.000Z",
           "description": "Oct 21 (Reuters) - Meta Platforms has struck a deal with Mark Zuckerberg to keep him living in California after the CEO warned he was considering leaving the state that houses the company's headquarters if voters pass a wealth tax proposal next month."
-        },
-        {
-          "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
-          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxocjrzbwzvu2s3cxvzukr0y2o1q2picdnxb1dvrvzjstq0z3hommytujlra3ruu3hly1azn1btyjdqvufkrfjhaw9hsgpslu1bdda0chk3rxzbuhhlafrulwjcmtjzctlkae82zglxbko0blqwvjjycu9knhn6ddllq0zytl9zdwqychzsvhzkchnaufzsby1pn3rgdhr5bxnoeei3r1jzuhlda0hhbu5vdndpb0fyzw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-22T02:03:00.000Z",
-          "description": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns Reuters Meta Stock Split Deal Will Keep Mark Zuckerberg In California Amid Billionaire Tax Threat Forbes How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax The New York Times Mark Zuckerber…"
         },
         {
           "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
@@ -222,9 +218,34 @@
           "source": "Forbes - Business",
           "published_at": "2026-10-22T05:20:52.000Z",
           "description": "The billionaire considered leaving California over a proposed wealth tax that could have forced him to sell shares and weaken his voting control of Meta."
+        },
+        {
+          "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+          "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-22T20:37:32.000Z",
+          "description": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes."
         }
       ],
-      "summary": "Meta reached a deal with Mark Zuckerberg intended to keep him living in California amid concerns about a proposed one-off wealth tax on billionaires. Zuckerberg had considered leaving the state, where Meta is headquartered."
+      "videos": [
+        {
+          "title": "Meta Stock Split Deal Will Keep Billionaire Mark Zuckerberg In California",
+          "url": "https://www.youtube.com/watch?v=jO6a_iWq2Pg",
+          "video_id": "jO6a_iWq2Pg",
+          "channel": "Forbes",
+          "published_at": "2026-10-22T21:00:04.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/jO6a_iWq2Pg/hqdefault.jpg"
+        },
+        {
+          "title": "Meta Cuts Tax Deal to Keep Zuckerberg in California",
+          "url": "https://www.youtube.com/watch?v=uuTOMQi94B8",
+          "video_id": "uuTOMQi94B8",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-10-22T16:10:22.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/uuTOMQi94B8/hqdefault.jpg"
+        }
+      ],
+      "summary": "Meta reached a deal with Mark Zuckerberg intended to keep him living in California amid concerns about a proposed wealth tax. Reports say he had considered leaving the state."
     },
     {
       "id": "topic_e92d6fed48f181d9",
@@ -239,6 +260,7 @@
         "sundar"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_b330981addd4e6e6",
       "entities": [
         "Trump",
@@ -289,7 +311,25 @@
           "description": "He mused that he'll \"probably pass\" the idea of renaming the Atlantic Ocean before turning to the Pacific Ocean and said, \"We're going to call it the American Ocean. How do you think Europe would fit?\""
         }
       ],
-      "summary": "Donald Trump said he asked Google CEO Sundar Pichai about renaming the Atlantic Ocean on Google Maps, but Pichai opposed the idea. Trump also discussed calling the Pacific the “American Ocean.”"
+      "videos": [
+        {
+          "title": "Trump talked out of renaming the Atlantic Ocean #Vergecast",
+          "url": "https://www.youtube.com/shorts/2X6ASfgYRsM",
+          "video_id": "2X6ASfgYRsM",
+          "channel": "The Verge",
+          "published_at": "2026-10-22T22:04:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/2X6ASfgYRsM/hqdefault.jpg"
+        },
+        {
+          "title": "Trump says he called Google to rename Atlantic Ocean",
+          "url": "https://www.youtube.com/shorts/33mlrVERl3E",
+          "video_id": "33mlrVERl3E",
+          "channel": "CNN",
+          "published_at": "2026-10-22T08:36:58.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/33mlrVERl3E/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump said he asked Google CEO Sundar Pichai about renaming the Atlantic Ocean on Google Maps, but Pichai rejected the request."
     },
     {
       "id": "topic_467b0b4fbcdcf65",
@@ -304,6 +344,7 @@
         "disgrace"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_e2f7174f82980d3a",
       "entities": [
         "Trump",
@@ -337,25 +378,106 @@
           "description": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem."
         },
         {
-          "title": "Trump says LeBron James showed disrespect during US national anthem",
-          "url": "https://www.gmanetwork.com/news/topstories/world/1006885/trump-says-lebron-james-showed-disrespect-during-us-national-anthem/story",
-          "source": "GMA News Online / News",
-          "published_at": "2026-10-22T23:21:35.000Z",
-          "description": "US President Donald Trump criticized NBA superstar LeBron James on Thursday for what he called disrespectful behavior during the singing of the national anthem at a recent NBA game."
-        },
-        {
           "title": "Trump Attacks LeBron James For 'Disrespect' Of National Anthem",
           "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/22/trump-attacks-lebron-james-for-disrespect-of-national-anthem",
           "source": "Forbes - Business",
           "published_at": "2026-10-22T16:47:27.000Z",
           "description": "LeBron has repeatedly taken heat for his behavior during the national anthem before NBA games."
+        },
+        {
+          "title": "Trump says LeBron James showed disrespect during US national anthem",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1006885/trump-says-lebron-james-showed-disrespect-during-us-national-anthem/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-22T23:21:35.000Z",
+          "description": "US President Donald Trump criticized NBA superstar LeBron James on Thursday for what he called disrespectful behavior during the singing of the national anthem at a recent NBA game."
         }
       ],
-      "summary": "Donald Trump accused NBA star LeBron James of disrespecting the United States by continuing to warm up during the national anthem at a recent game."
+      "summary": "Donald Trump criticized NBA star LeBron James, accusing him of disrespecting the United States by continuing to warm up during the national anthem at a recent game."
+    },
+    {
+      "id": "topic_4a37cf03d77deefa",
+      "title": "Barclays Plans 5,000 Job Cuts in AI Cost-Cutting Push",
+      "headline": "Barclays to Cut 5,000 Jobs in AI Push",
+      "label": [
+        "barclays",
+        "jobs",
+        "cut",
+        "ai",
+        "push",
+        "cutting"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_e5456069c43600bf",
+      "entities": [
+        "Barclays",
+        "Cut",
+        "Jobs",
+        "AI Push",
+        "AI"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Barclays to Cut 5,000 Jobs in AI Push",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-22/barclays-to-cut-5-000-jobs-in-ai-push-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-10-22T13:50:41.000Z",
+          "description": "Barclays is cutting 5,000 as the bank adopts AI to cut costs and drive efficiency. Charlie Wells explains. (Source: Bloomberg)"
+        },
+        {
+          "title": "Barclays to cut 5 000 jobs in AI-fueled push to lower costs",
+          "url": "https://www.moneyweb.co.za/news/companies-and-deals/barclays-to-cut-5-000-jobs-in-ai-fueled-push-to-lower-costs",
+          "source": "Moneyweb",
+          "published_at": "2026-10-22T09:48:46.000Z",
+          "description": "The bank plans to complete the job cuts by year-end, with about 60% affecting support functions, as third-quarter fixed-income trading revenue fell 19% to $1.4bn."
+        },
+        {
+          "title": "Barclays to cut 5,000 jobs as AI drives cost-cutting push",
+          "url": "https://seekingalpha.com/news/4655718-barclays-to-cut-5000-jobs-as-ai-drives-cost-cutting-push",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-10-22T08:20:47.000Z"
+        },
+        {
+          "title": "Barclays is cutting 5,000 jobs in an AI push",
+          "url": "https://www.businessinsider.com/barclays-job-cuts-ai-push-layoffs-2026-10",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-10-22T08:38:35.000Z",
+          "image": "https://i.insider.com/6ad9c9dd510d67c758d85a59?format=jpeg",
+          "description": "Barclays is cutting around 5% of its workforce. KHemaz/GVN via Getty Images Barclays said it's cutting 5,000 jobs, or 5% of its workforce, in an AI push. The British bank made the announcement in its third-quarter earnings presentation. Wall Street at large is grappling with how AI will transform i…"
+        },
+        {
+          "title": "Barclays to cut 5,000 jobs this year in push towards AI",
+          "url": "https://www.dailymail.com/money/markets/article-16229053/barclays-cut-5-000-jobs-year-push-ai.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-22T08:05:38.000Z",
+          "description": "The lender, which reported another profit surge last quarter, said there had already been 1,000 roles axed, with a further 4,000 planned by the end of the fourth quarter."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Barclays to Cut 5,000 Jobs in AI Push",
+          "url": "https://www.youtube.com/shorts/_Nc5wrlCK3g",
+          "video_id": "_Nc5wrlCK3g",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-10-22T15:08:38.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_Nc5wrlCK3g/hqdefault.jpg"
+        },
+        {
+          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI | BBC News",
+          "url": "https://www.youtube.com/watch?v=dMELR_3wT-g",
+          "video_id": "dMELR_3wT-g",
+          "channel": "BBC News",
+          "published_at": "2026-10-22T14:15:13.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/dMELR_3wT-g/hqdefault.jpg"
+        }
+      ],
+      "summary": "Barclays plans to cut 5,000 jobs as it adopts AI and seeks to lower costs. Reports say about 1,000 roles have already been cut, with further reductions planned by year-end."
     },
     {
       "id": "topic_89c4ec121f84cbc8",
-      "title": "Judge Orders Trump to Give Deposition in BBC Lawsuit",
+      "title": "Judge Orders Trump to Sit for Deposition in BBC Lawsuit",
       "headline": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11",
       "label": [
         "bbc",
@@ -366,6 +488,7 @@
         "judge"
       ],
       "category": "trending",
+      "section": "politics",
       "theme": "theme_60b584d47958e69a",
       "entities": [
         "Judge",
@@ -414,70 +537,17 @@
           "description": "A federal judge on Thursday ordered President Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by December 11."
         }
       ],
-      "summary": "A judge ordered Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by December 11. The court could dismiss the lawsuit if he does not comply."
-    },
-    {
-      "id": "topic_4a37cf03d77deefa",
-      "title": "Barclays Plans 5,000 Job Cuts in AI Cost-Cutting Push",
-      "headline": "Barclays to Cut 5,000 Jobs in AI Push",
-      "label": [
-        "barclays",
-        "jobs",
-        "cut",
-        "ai",
-        "push",
-        "cutting"
-      ],
-      "category": "new",
-      "theme": "theme_e5456069c43600bf",
-      "entities": [
-        "Barclays",
-        "Cut",
-        "Jobs",
-        "AI Push",
-        "AI"
-      ],
-      "article_count": 13,
-      "source_count": 12,
-      "articles": [
+      "videos": [
         {
-          "title": "Barclays to Cut 5,000 Jobs in AI Push",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-22/barclays-to-cut-5-000-jobs-in-ai-push-video",
-          "source": "Bloomberg Technology",
-          "published_at": "2026-10-22T13:50:41.000Z",
-          "description": "Barclays is cutting 5,000 as the bank adopts AI to cut costs and drive efficiency. Charlie Wells explains. (Source: Bloomberg)"
-        },
-        {
-          "title": "Barclays to cut 5 000 jobs in AI-fueled push to lower costs",
-          "url": "https://www.moneyweb.co.za/news/companies-and-deals/barclays-to-cut-5-000-jobs-in-ai-fueled-push-to-lower-costs",
-          "source": "Moneyweb",
-          "published_at": "2026-10-22T09:48:46.000Z",
-          "description": "The bank plans to complete the job cuts by year-end, with about 60% affecting support functions, as third-quarter fixed-income trading revenue fell 19% to $1.4bn."
-        },
-        {
-          "title": "Barclays to cut 5,000 jobs as AI drives cost-cutting push",
-          "url": "https://seekingalpha.com/news/4655718-barclays-to-cut-5000-jobs-as-ai-drives-cost-cutting-push",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-10-22T08:20:47.000Z"
-        },
-        {
-          "title": "Barclays is cutting 5,000 jobs in an AI push",
-          "url": "https://www.businessinsider.com/barclays-job-cuts-ai-push-layoffs-2026-10",
-          "source": "All Content from Business Insider",
-          "published_at": "2026-10-22T08:38:35.000Z",
-          "image": "https://i.insider.com/6ad9c9dd510d67c758d85a59?format=jpeg",
-          "description": "Barclays is cutting around 5% of its workforce. KHemaz/GVN via Getty Images Barclays said it's cutting 5,000 jobs, or 5% of its workforce, in an AI push. The British bank made the announcement in its third-quarter earnings presentation. Wall Street at large is grappling with how AI will transform i…"
-        },
-        {
-          "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-          "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
-          "source": "NYT > World > Europe",
-          "published_at": "2026-10-22T12:45:53.000Z",
-          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Bank-AI-Jobs-tbkw/22Biz-Bank-AI-Jobs-tbkw-mediumSquareAt3X.jpg",
-          "description": "The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence."
+          "title": "President Trump ordered to answer questions under oath in BBC lawsuit | BBC News",
+          "url": "https://www.youtube.com/watch?v=2HiHQOy9PYA",
+          "video_id": "2HiHQOy9PYA",
+          "channel": "BBC News",
+          "published_at": "2026-10-22T23:00:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/2HiHQOy9PYA/hqdefault.jpg"
         }
       ],
-      "summary": "Barclays plans to cut 5,000 jobs, about 5% of its workforce, by year-end as it adopts AI and seeks to reduce costs. About 60% of the cuts are expected to affect support functions."
+      "summary": "A judge ordered Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by December 11. Reports say he could face penalties, including possible dismissal of the suit, if he does not comply."
     },
     {
       "id": "topic_2ec0dc501abf7be1",
@@ -492,6 +562,7 @@
         "famer"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_38fcb0abb9d2e49c",
       "entities": [
         "John Anderson",
@@ -533,17 +604,17 @@
           "description": "The country music legend was known for his distinctive voice and a songbook that included “Swingin’,” “Straight Tequila Night,” and “Seminole Wind.”"
         },
         {
-          "title": "John Anderson, Country Music Hall of Famer With Unmistakable Voice, Dead at 71",
-          "url": "https://news.google.com/rss/articles/cbmijafbvv95cuxpm2fjtdvyuevkce41b1y0tm10nxhuwlrwwxzudlzinfn1b0t1ti11bkpwmzjyazzitkhgbhhurmkyzhjgm2puqmdxy3nunxa0bjvtb1jjywlycw5fznhumujtchl0v09ockg4atfru2rewurnn3vuefjnmenjvgplcw5hchj0bzdhnnrkaq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-22T01:22:06.000Z",
-          "description": "John Anderson, Country Music Hall of Famer With Unmistakable Voice, Dead at 71 Rolling Stone Country Music Hall of Famer John Anderson dies at 71 WSMV John Anderson, country Hall of Famer known for ‘Swingin,’’ ‘Straight Tequila Night,’ dies Los Angeles Times Country singer John Anderson dies Yahoo…"
+          "title": "Country Music Star John Anderson Dies at 71, Family Mourns",
+          "url": "https://internewscast.com/news/country-music-star-john-anderson-dies-at-71-family-mourns",
+          "source": "Internewscast",
+          "published_at": "2026-10-22T05:03:59.000Z",
+          "description": "Internewscast Internewscast Country music star John Anderson has died at 71. The Orlando, Florida-born… This Post: Country Music Star John Anderson Dies at 71, Family Mourns first appeared on Internewscast"
         }
       ],
-      "summary": "Country Music Hall of Famer John Anderson has died at 71. He was known for his distinctive voice and songs including “Swingin’” and “Seminole Wind.”"
+      "summary": "Country Music Hall of Fame member John Anderson has died at 71. He was known for his distinctive voice and songs including “Swingin’” and “Seminole Wind.”"
     },
     {
-      "id": "topic_9a5217f66c3204ce",
+      "id": "topic_4c796ce8af0d9179",
       "title": "Influencer Clavicular Pleads Not Guilty to Rape Charge",
       "headline": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to rape charge",
       "label": [
@@ -555,15 +626,16 @@
         "rape"
       ],
       "category": "new",
-      "theme": "theme_53a04097d19a909b",
+      "section": "world",
+      "theme": "theme_f8308bac63db6986",
       "entities": [
         "Looksmaxxing",
         "Clavicular",
+        "BBC",
         "The Guardian",
-        "Influencer",
-        "Pleads Not Guilty"
+        "Influencer"
       ],
-      "article_count": 15,
+      "article_count": 16,
       "source_count": 12,
       "articles": [
         {
@@ -582,11 +654,11 @@
           "description": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular, pleaded not guilty Thursday to charges that he raped a 17-year-old girl at his family’s Mas…"
         },
         {
-          "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
-          "url": "https://news.google.com/rss/articles/cbmiiafbvv95cuxps2jpndlldmlsr2vrvtrnnk5rs1lmmjr5wtq4te83u2zhvgtyu091u3flutdjtkdfei1xq2lwse5pem9zstrodlj4znhhv2l5tlbnls1qz0zlyzdmb1dfu2w2otk2czjjemhfsljiovzhcwvwx0ezm09nluxxzfgwqu1zuzbxduvq",
+          "title": "Clavicular, the ‘Looksmaxxing’ Influencer, Pleads Not Guilty to Rape Charge",
+          "url": "https://news.google.com/rss/articles/cbmidefvx3lxte00zhytvm5xdvlomwlaawnqqljmqzi2d25zbzg4y2xkbdyxszn1qm5ix0q1c1yzwwvmm1znrhvka2ftcnkywwrqdxnqedd5des2cnbkexc3ttvtsvywbwxwazjsnekzejjlbho2dzq0tvlhvxnw",
           "source": "Top stories - Google News",
-          "published_at": "2026-10-22T15:17:00.000Z",
-          "description": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen The Guardian ‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge CNN Manosphere Influencer Clavicular Pleads Not Guilty to Rape Charge The New York Times 'Looksmaxxing' influencer Clavicular pleads not gu…"
+          "published_at": "2026-10-22T19:55:22.000Z",
+          "description": "Clavicular, the ‘Looksmaxxing’ Influencer, Pleads Not Guilty to Rape Charge The New York Times 'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge BBC ‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge CNN 'Looksmaxxing' influencer Clavicular pleads not g…"
         },
         {
           "title": "Looksmaxxing Influencer Clavicular in Court on Rape Charge With Dog",
@@ -604,10 +676,84 @@
           "description": "Looksmaxxing influencer Clavicular brought a dog on a leash to his court appearance on a rape charge in Cape Cod, Massachusetts, on Thursday."
         }
       ],
-      "summary": "Social media influencer Braden Peters, known as Clavicular, pleaded not guilty to a rape charge. He agreed to surrender his passport and not contact or post about the woman who accused him."
+      "videos": [
+        {
+          "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+          "url": "https://www.youtube.com/shorts/vZLAcg4M6co",
+          "video_id": "vZLAcg4M6co",
+          "channel": "CNN",
+          "published_at": "2026-10-22T18:02:24.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vZLAcg4M6co/hqdefault.jpg"
+        }
+      ],
+      "summary": "Social media influencer Braden Peters, known as Clavicular, pleaded not guilty to a rape charge. Reports say he agreed to surrender his passport and not contact or post about the woman accusing him."
     },
     {
-      "id": "topic_f47b64982b63b7f2",
+      "id": "topic_b3b52f2eff9b628f",
+      "title": "U.S. and Israel Prepare Plans for Possible Renewed Strikes on Iran",
+      "headline": "U.S. and Israel Plan Renewed Strikes On Iran",
+      "label": [
+        "israel",
+        "iran",
+        "strikes",
+        "renewed",
+        "plans",
+        "planning"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_6942313684c59f12",
+      "entities": [
+        "Israel Plan Renewed Strikes",
+        "On Iran",
+        "Israel Draw Up Plans",
+        "Renewed Strikes",
+        "Iran After Elections"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "U.S. and Israel Plan Renewed Strikes On Iran",
+          "url": "https://politicalwire.com/2026/10/22/u-s-and-israel-plan-renewed-strikes-on-iran",
+          "source": "Political Wire",
+          "published_at": "2026-10-22T09:32:25.000Z",
+          "description": "“The U.S. and Israeli militaries have developed specific plans for renewed strikes against Iran after the American midterm elections,” the New York Times reports. “As planning for a short but intensive operation progresses, the U.S. and Israeli militaries have stepped up exercises, flying planes ov…"
+        },
+        {
+          "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+          "url": "https://news.google.com/rss/articles/cbmiigfbvv95cuxoafnybflkmekywkpgzuhtnhuyd2v2y0jgqknunzdjvfhanlpmwu1fqxh6ng9pwwu0zlbsddbcuxuwcec0c1ljaxrfmzdnajvfdjn5mm43y2dbdmnst2lyy1jswja5dlvzzkzfcgvay1rluemws3poblf0rlvzrgtlym40twh2nep3ugc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-22T00:58:22.000Z",
+          "description": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections The New York Times Netanyahu made plans to restart Iran strikes earlier this month Financial Times Benjamin Netanyahu says IDF, Mossad ordered to overthrow Iranian regime over nukes The Jerusalem Post FT: Netanyahu pushing th…"
+        },
+        {
+          "title": "Reports show US and Israel are planning new strikes on Iran",
+          "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-22T15:34:34.000Z",
+          "description": "Reports claim that the US and Israel have ramped up military drills and planned new strikes in Iran, potentially targeting energy sites, drone facilities and missile arsenals. Details by FRANCE 24's correspondent in Jerusalem, Noga Tarnopolsky."
+        },
+        {
+          "title": "Report: U.S. and Israel Prepare Plans for Renewed Iran Strikes After Midterms",
+          "url": "https://internewscast.com/news/us/report-u-s-and-israel-prepare-plans-for-renewed-iran-strikes-after-midterms",
+          "source": "Internewscast",
+          "published_at": "2026-10-22T09:34:01.000Z",
+          "description": "Internewscast Internewscast The United States and Israel have drawn up detailed options for renewed… This Post: Report: U.S. and Israel Prepare Plans for Renewed Iran Strikes After Midterms first appeared on Internewscast"
+        },
+        {
+          "title": "US and Israel are planning to hit Iran again once elections are over",
+          "url": "https://www.smh.com.au/world/middle-east/us-and-israel-are-planning-to-hit-iran-again-once-elections-are-over-20261023-p617zv.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-10-22T22:33:42.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1858%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_455%2C$y_134/t_crop_custom/q_86%2Cf_auto/162e2e6854d3d1d9fe6b66f07d7bf0793880276d",
+          "description": "The targets are likely to include Iran’s energy infrastructure, nuclear facilities, and missile and drone arsenal. But analysts say the US midterms and general elections in Israel will dictate the next move."
+        }
+      ],
+      "summary": "Reports say the United States and Israel have drawn up plans for renewed strikes on Iran after elections. Potential targets cited in reports include energy, nuclear, missile and drone facilities."
+    },
+    {
+      "id": "topic_f2c70cca48f5fc39",
       "title": "Magnitude 7 Earthquake Strikes Tibet",
       "headline": "Earthquake of magnitude 7 strikes China's Tibet",
       "label": [
@@ -615,11 +761,12 @@
         "tibet",
         "magnitude",
         "china",
-        "hits",
-        "killing"
+        "killing",
+        "hits"
       ],
       "category": "trending",
-      "theme": "theme_d9b90d51f6da6f9",
+      "section": "world",
+      "theme": "theme_dc3f47f93086040e",
       "entities": [
         "Earthquake",
         "China",
@@ -627,7 +774,7 @@
         "Huge",
         "Magnitude"
       ],
-      "article_count": 23,
+      "article_count": 24,
       "source_count": 20,
       "articles": [
         {
@@ -666,10 +813,10 @@
           "published_at": "2026-10-22T14:52:10.000Z"
         }
       ],
-      "summary": "A magnitude 7 earthquake struck Nagqu in northern Tibet at a depth of about 10 kilometers. State media reported at least 16 deaths and 32 injuries."
+      "summary": "A magnitude 7.0 earthquake struck Tibet, with the epicenter reported in Nagqu in the region’s north. One report said at least 16 people were killed and 32 injured."
     },
     {
-      "id": "topic_7afaef8475d16ead",
+      "id": "topic_816d28beab814fde",
       "title": "Moderna Shares Fall After Cancer Vaccine Data Leak",
       "headline": "Moderna Shares Plunge After Leak of Cancer Vaccine Data",
       "label": [
@@ -677,11 +824,12 @@
         "vaccine",
         "cancer",
         "data",
-        "shares",
-        "merck"
+        "merck",
+        "recurrence"
       ],
       "category": "new",
-      "theme": "theme_da612f80fd16fce4",
+      "section": "business",
+      "theme": "theme_cd09866134af0a99",
       "entities": [
         "Moderna Shares Plunge After",
         "Leak",
@@ -689,7 +837,7 @@
         "Moderna",
         "CNBC"
       ],
-      "article_count": 13,
+      "article_count": 15,
       "source_count": 10,
       "articles": [
         {
@@ -707,11 +855,12 @@
           "description": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release."
         },
         {
-          "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
-          "url": "https://news.google.com/rss/articles/cbmigafbvv95cuxqyuhhrgf0n2pkdnnvcwjtsgm4dy1ubnhrc0jjm3hiuu9lcfpratgynhrmrc1pamdvb2jvr2hit2thzulmnnfleksydzfhr0ppyvdvn3r1ng83y0lmzepnrm1wc2feougyrexsqlvcotrea2tnndv1cfo0ylbvadytrtibhgfbvv95cuxny25jqmtvofdqt19bzhp1wwfrshlmrutudxfooxbrzdflaun4evy1tc1bnug2umm2n2o2shbkmum5metxqzbnejiysflrdfnhetvaznhwtlexazfotzu4auhrstdmc0u0vfdyv1m5tjrytg12dgs1ynj2uxv5qwtrnettyli3dw",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-22T18:28:40.000Z",
-          "description": "Moderna shares plunge after leak of cancer vaccine data despite positive results CNBC Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media WSJ Moderna shares sink after leaked cancer data missed expectations Financial Times Experimental mRNA vaccine cuts risk melanoma returns b…"
+          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+          "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-10-22T22:12:19.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
+          "description": "Markers released top-line results today after previously reporting the trial succeeded."
         },
         {
           "title": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
@@ -728,11 +877,11 @@
           "description": "The Moderna-Merck mRNA cancer vaccine helps prevent cancer recurrence and death, the new results show"
         }
       ],
-      "summary": "Moderna shares fell sharply after partial trial data for its personalized cancer vaccine with Merck leaked. Full results released later appeared positive against Wall Street expectations and showed reduced cancer recurrence and death, according to reports."
+      "summary": "Moderna shares fell after partial trial data for its personalized cancer vaccine with Merck leaked. Full results released later showed the vaccine reduced cancer recurrence and death by 42%, according to reports."
     },
     {
       "id": "topic_8acc06bb6ccab155",
-      "title": "Daft Punk and Lego Announce Set Based on 2007 Tour Stage",
+      "title": "Lego Announces Daft Punk Set Based on 2007 Stage Design",
       "headline": "Daft Punk Are Now Lego",
       "label": [
         "daft",
@@ -743,6 +892,7 @@
         "official"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_1060423ff93686f1",
       "entities": [
         "Daft Punk Are Now",
@@ -791,186 +941,134 @@
           "description": "French duo drop teaser video ahead of 2027 collaboration with toymakers"
         }
       ],
-      "summary": "Lego and Daft Punk announced an official set based on the duo’s pyramid stage design from their 2007 Alive tour. The collaboration is planned for 2027."
+      "summary": "Lego announced an official Daft Punk set based on the duo’s pyramid stage design from the Alive 2007 tour. The set originated as a fan-built Lego Ideas model."
     },
     {
-      "id": "topic_51a0a9e94a8ff080",
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-      "headline": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "id": "topic_929d19c98a96f1ee",
+      "title": "1Password Launches Secure Sign-Ins for AI Agents",
+      "headline": "1Password lets AI agents sign in for users without seeing their passwords",
       "label": [
-        "emudhra",
-        "business",
-        "exit",
-        "tls",
-        "certificate",
-        "global"
+        "1password",
+        "agents",
+        "passwords",
+        "without",
+        "seeing",
+        "ai"
       ],
       "category": "new",
-      "theme": "theme_6c2d04f51c35f8af",
+      "section": "technology",
+      "theme": "theme_8dc93333824fb947",
       "entities": [
-        "Exit Global SSL",
-        "TLS Certificate Business",
-        "Exits Global SSL",
-        "TLS Certificate Business Following",
-        "Vulnerability Disclosure"
+        "AI",
+        "Agents",
+        "TechCrunch"
       ],
       "article_count": 9,
       "source_count": 9,
       "articles": [
         {
-          "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-          "source": "Hacker News: Front Page",
-          "published_at": "2026-10-22T13:33:39.000Z",
-          "description": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 159 # Comments: 86"
+          "title": "1Password lets AI agents sign in for users without seeing their passwords",
+          "url": "https://thenextweb.com/news/1password-for-agents-ai-agent-logins",
+          "source": "The Next Web",
+          "published_at": "2026-10-22T13:45:28.000Z",
+          "image": "https://media.thenextweb.com/2026/10/1password-authorize-ai-agent-login-graphic.avif",
+          "description": "1Password has launched 1Password for Agents, a platform that lets personal AI agents sign in to accounts on a person’s behalf without ever seeing the password. Agents from Meta, OpenAI, Anthropic and SpaceXSI are among the first to plug in, the Toronto-based company said on Thursday. Agents now boo…"
         },
         {
-          "title": "eMudhra Exits Global SSL/TLS Certificate Business Following the Vulnerability Disclosure",
-          "url": "https://cybersecuritynews.com/emudhra-exits-global-ssl-tls-certificate",
-          "source": "Cyber Security News",
-          "published_at": "2026-10-22T14:52:11.000Z",
-          "description": "eMudhra Limited has announced it is exiting the global SSL/TLS certificate business after disclosing weak private keys in eight intermediate certificate authority certificates. The October 22, 2026, decision follows emergency browser protections and growing questions about the company’s certificate…"
+          "title": "1Password now lets AI agents sign in to websites without seeing your passwords",
+          "url": "https://www.techspot.com/downloads/5626-1password.html",
+          "source": "TechSpot",
+          "published_at": "2026-10-22T21:25:00.000Z",
+          "description": "1Password is expanding its AI integrations beyond Claude, allowing agents like ChatGPT Work, Dots, Meta Muse, and Grok Bot to securely sign in to websites on your behalf. 1Password for Agents feature requires user approval before filling in credentials, keeping passwords and authentication codes hi…"
         },
         {
-          "title": "eMudhra exits the global certificate business to focus on Core Enterprise Solutions",
-          "url": "https://www.thehindubusinessline.com/info-tech/emudhra-exits-the-global-certificate-business-to-focus-on-core-enterprise-solutions/article71612057.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-10-22T14:42:23.000Z",
-          "description": "The company will assist affected customers to replace any certificate free of cost from partners through the transition"
+          "title": "1Password lets AI agents use your passwords without seeing them",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+          "source": "The Verge",
+          "published_at": "2026-10-22T13:00:00.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in re…"
         },
         {
-          "title": "eMudhra Quits Global TLS Certificate Business After 8 of its CA Keys Compromised",
-          "url": "https://www.cyberkendra.com/2026/10/emudhra-hack-weak-ca-keys-tls-exit.html",
-          "source": "Cyber Kendra",
-          "published_at": "2026-10-22T18:18:49.000Z",
-          "description": "eMudhra is exiting global TLS after 8 CA keys, one literally the number 4, proved crackable. What happened, who's affected and what to patch."
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+          "source": "TechCrunch",
+          "published_at": "2026-10-22T19:07:09.000Z",
+          "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
         },
         {
-          "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-          "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-          "source": "The Hacker News",
-          "published_at": "2026-10-22T18:12:43.000Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg",
-          "description": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra said it will replace af…"
+          "title": "1Password for Agents",
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "Product Hunt — The best new products, every day",
+          "published_at": "2026-10-22T18:14:06.000Z",
+          "description": "Discussion | Link"
         }
       ],
-      "summary": "Indian certificate authority eMudhra plans to leave the global SSL/TLS certificate business after weak private keys were found in eight intermediate certificates. The company said it would help affected customers replace certificates at no cost through partners."
+      "summary": "1Password introduced a feature that lets AI agents sign in to users’ accounts without seeing or handling their passwords. The company says it supports agents from several AI providers."
     },
     {
-      "id": "topic_ad511ba4cb63b26a",
-      "title": "Retired Decorator’s Pokémon Cards Sell for £1.56 Million",
-      "headline": "Retired decorator's Pokémon cards sell for £1.5m",
+      "id": "topic_60b92ca907c264ff",
+      "title": "Patriots Face Bears on Thursday Night Football",
+      "headline": "Thursday Night Football: Patriots vs. Bears discussion",
       "label": [
-        "pokémon",
-        "cards",
-        "decorator",
-        "retired",
-        "sell",
-        "millionaire"
+        "bears",
+        "thursday",
+        "night",
+        "patriots",
+        "football",
+        "vs"
       ],
       "category": "new",
-      "theme": "theme_32a840b2c4991c2d",
+      "section": "sports",
+      "theme": "theme_791180dd2ca747bd",
       "entities": [
-        "Retired",
-        "Pok",
-        "Pokemon",
-        "Retired Decorator Becomes Multi",
-        "Millionaire After Selling Forgotten"
+        "Thursday Night Football",
+        "Patriots",
+        "Bears",
+        "FanDuel Promo Code",
+        "Get"
       ],
-      "article_count": 8,
-      "source_count": 7,
+      "article_count": 33,
+      "source_count": 6,
       "articles": [
         {
-          "title": "Retired decorator's Pokémon cards sell for £1.5m",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-          "source": "BBC News",
-          "published_at": "2026-10-22T10:13:49.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d5/live/f05841f0-cdfa-11f1-97f7-a7674fb562de.jpg",
-          "description": "He says he found treasure in his attic where the collection had been stored for 15 years."
+          "title": "Thursday Night Football: Patriots vs. Bears discussion",
+          "url": "https://sports.yahoo.com/articles/thursday-night-football-patriots-vs-234500777.html",
+          "published_at": "2026-10-22T23:45:00.000Z",
+          "description": "Watch this week’s TNF game here!"
         },
         {
-          "title": "Retired decorator's £300 Pokemon cards sell for £1.56M after 15 years",
-          "url": "https://timesofindia.indiatimes.com/world/uk/retired-decorator-becomes-an-overnight-millionaire-as-pokemon-cards-kept-in-attic-for-15-years-sell-for-1-56-million-at-auction-collector-bought-sets-for-as-little-as-300/articleshow/135121845.cms",
-          "source": "Times of India",
-          "published_at": "2026-10-22T15:20:36.000Z",
-          "description": "A retired decorator has become an overnight millionaire after his Pokemon card collection, stored in his attic for 15 years, fetched £1.56 million at auction. The collector, who bought complete sets for as little as £300, discovered their value after reading a newspaper report. A rare Charizard set…"
+          "title": "FanDuel Promo Code: Get $350 in Bonus Bets for Bears vs Patriots Thursday Night Football",
+          "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-350-bonus-bets-bears-vs-patriots-thursday-night-football",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-22T19:50:30.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/drake-maye-patriots-seahawks-lumen-field.jpg?ve=1&tl=1",
+          "description": "Bet on Bears-Patriots Thursday Night Football with FanDuel and earn up to $350 in bonus bets by wagering $5 each day for seven days."
         },
         {
-          "title": "Retired Decorator Becomes Multi-Millionaire After Selling Forgotten Pokémon Card Collection",
-          "url": "https://kotaku.com/pokemon-tcg-auction-skyridge-master-set-base-aquapolis-millionaire-2000748794",
-          "source": "Kotaku",
-          "published_at": "2026-10-22T15:00:39.000Z",
-          "description": "The British decorator auctioned off an extraordinary collection of master sets to raise over $2 million"
+          "title": "'Thursday Night Football' prediction, odds, time: Bears vs. Patriots picks by expert on 19-9 run",
+          "url": "https://www.cbssports.com/betting/news/thursday-night-football-prediction-odds-time-spread-bears-patriots-expert-picks",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-10-22T12:11:08.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/09/28/c9c5247a-51f1-4371-8586-9faf8199ed02/dandre-swift-chicago-bears-imagn-images.jpg",
+          "description": "David Bearman reveals his picks for New England Patriots vs. Chicago Bears in the 2026 Week 7 'Thursday Night Football' matchup"
         },
         {
-          "title": "Retired decorator becomes millionaire overnight as Pokémon cards he kept in his attic sell for £1.56MILLION",
-          "url": "https://www.dailymail.com/news/article-16229447/retired-decorator-millionaire-pok-mon-cards-attic.html",
-          "source": "Home | Mail Online",
-          "published_at": "2026-10-22T10:36:27.000Z",
-          "description": "The man, who wishes to remain anonymous, had the collection of cards sitting at home for 15 years - with no idea of their astonishing value."
+          "title": "‘Thursday Night Football’ 2026: Where to Livestream New England Patriots vs. Chicago Bears Game Online",
+          "url": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946",
+          "source": "Billboard",
+          "published_at": "2026-10-22T20:55:17.000Z",
+          "description": "Watch the Patriots take on the Bears on Thursday, Oct. 22 — keep an eye out for possible celebrity sightings at the game too."
         },
         {
-          "title": "Retiree’s Attic Pokémon Cards Sell for £1.56m at Auction",
-          "url": "https://internewscast.com/news/retirees-attic-pokemon-cards-sell-for-1-56m-at-auction",
+          "title": "Chicago Bears to Honor Mike Ditka at Soldier Field During Thursday Night Football vs. Patriots",
+          "url": "https://internewscast.com/news/us/chicago-bears-to-honor-mike-ditka-at-soldier-field-during-thursday-night-football-vs-patriots",
           "source": "Internewscast",
-          "published_at": "2026-10-22T11:19:54.000Z",
-          "description": "Internewscast Internewscast A retired decorator has made a life-changing fortune after selling a collection… This Post: Retiree’s Attic Pokémon Cards Sell for £1.56m at Auction first appeared on Internewscast"
+          "published_at": "2026-10-22T19:30:45.000Z",
+          "description": "Internewscast Internewscast CHICAGO () — The Chicago Bears return to prime time Thursday night,… This Post: Chicago Bears to Honor Mike Ditka at Soldier Field During Thursday Night Football vs. Patriots first appeared on Internewscast"
         }
       ],
-      "summary": "A retired British decorator sold a Pokémon card collection that had been stored in his attic for 15 years. The cards fetched about £1.56 million at auction."
-    },
-    {
-      "id": "topic_db2015bc8f5060e1",
-      "title": "Cloudflare Reports Millions of Exploit Attempts Against PHP",
-      "headline": "PHP vulnerabilities trigger millions of exploit attempts, Cloudflare says",
-      "label": [
-        "attempts",
-        "exploit",
-        "cloudflare",
-        "millions",
-        "php",
-        "trigger"
-      ],
-      "category": "new",
-      "theme": "theme_97e02bc4dd657dca",
-      "entities": [
-        "PHP",
-        "Cloudflare",
-        "Cloudflare CEO",
-        "Millions",
-        "Exploit Attempts Logged Against"
-      ],
-      "article_count": 7,
-      "source_count": 7,
-      "articles": [
-        {
-          "title": "PHP vulnerabilities trigger millions of exploit attempts, Cloudflare says",
-          "url": "https://seekingalpha.com/news/4655681-php-vulnerabilities-trigger-millions-of-exploit-attempts-cloudflare-says",
-          "source": "Breaking News on Seeking Alpha",
-          "published_at": "2026-10-22T05:16:11.000Z"
-        },
-        {
-          "title": "PHP security flaws trigger millions of exploit attempts, says Cloudflare CEO",
-          "url": "https://www.thehindubusinessline.com/info-tech/php-security-flaws-trigger-millions-of-exploit-attempts-says-cloudflare-ceo/article71610284.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-10-22T06:26:49.000Z",
-          "description": "The rapid surge in attempted exploits has prompted governments, financial institutions and website operators to strengthen security measures and apply urgent fixes"
-        },
-        {
-          "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
-          "url": "https://bworldonline.com/technology/2026/10/22/788617/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure",
-          "source": "BusinessWorld Online",
-          "published_at": "2026-10-22T05:31:43.000Z",
-          "description": "CLOUD services firm Cloudflare saw millions of exploitation attempts after the public disclosure of critical vulnerabilities in the…"
-        },
-        {
-          "title": "Millions of Exploit Attempts Logged Against PHP Servers",
-          "url": "https://www.govinfosecurity.com/millions-exploit-attempts-logged-against-php-servers-a-33179",
-          "source": "GovInfoSecurity.com RSS Syndication",
-          "description": "Urgent PHP Patching Advised as Experts See Widespread Exploit-Building Attempts Attacks targeting the critical PHP vulnerabilities dubbed PHP2Shell and patched Wednesday are continuing to mount as hundreds of proof-of-concept exploits appear online and technology giants log millions of attempted ex…"
-        }
-      ],
-      "summary": "Cloudflare reported millions of attempted exploits targeting critical PHP vulnerabilities after their disclosure. Security experts urged operators to apply the available fixes amid continued attacks."
+      "summary": "The New England Patriots and Chicago Bears are scheduled to meet in a Thursday Night Football game. The Bears also plan to honor Mike Ditka at Soldier Field during the event."
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-21T00:51:49.704Z",
+  "generated_at": "2026-10-24T16:20:06.675Z",
   "overview": {
     "points": [
       {
-        "text": "A Reuters/Ipsos poll put President Donald Trump’s approval at 31%, a record low, and showed Democrats leading Republicans 47% to 35% on the congressional ballot.",
+        "text": "Christina Applegate says doctors had attributed her symptoms to multiple sclerosis since 2021, but she was misdiagnosed and still has no explanation for them.",
         "stories": [
-          8
+          1
         ]
       },
       {
-        "text": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu amid discussion of a possible resumption of the Iran war.",
-        "stories": [
-          6
-        ]
-      },
-      {
-        "text": "A Google Cloud outage in London disrupted services at several UK banks, including Revolut, Lloyds and HSBC, with Revolut customers reporting payment and ATM problems.",
+        "text": "A Google Cloud outage in its London region disrupted services at several UK banks, including Revolut, Lloyds and HSBC.",
         "stories": [
           2
         ]
       },
       {
-        "text": "Alberta voters rejected a move toward independence and backed remaining part of Canada in the province’s referendum.",
+        "text": "Erik ten Hag says Cristiano Ronaldo let Manchester United down, and says the club’s leadership broke promises and undermined his authority.",
         "stories": [
-          11
+          3
         ]
       },
       {
-        "text": "Tesla and SpaceX formed special committees to discuss a possible merger, according to Elon Musk, who leads both companies.",
+        "text": "Prince Harry says he wants to work on relationships with his family, including King Charles and Prince William, while acknowledging they may not want reconciliation.",
         "stories": [
-          10
+          4
+        ]
+      },
+      {
+        "text": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu amid regional tensions and ahead of Israeli elections.",
+        "stories": [
+          5
         ]
       }
     ]
@@ -38,7 +38,7 @@
   "topics": [
     {
       "id": "topic_cb4fdafe77aa4bf5",
-      "title": "Christina Applegate Says She Was Misdiagnosed With MS",
+      "title": "Christina Applegate Says She Was Misdiagnosed With Multiple Sclerosis",
       "headline": "Christina Applegate says she was misdiagnosed with MS",
       "label": [
         "applegate",
@@ -49,6 +49,7 @@
         "multiple"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_971555fad092058a",
       "entities": [
         "Christina Applegate",
@@ -69,8 +70,8 @@
         },
         {
           "title": "Christina Applegate reveals she was misdiagnosed with MS",
-          "url": "https://www.brisbanetimes.com.au/culture/celebrity/christina-applegate-reveals-she-was-misdiagnoses-with-ms-20261021-p617ah.html",
-          "source": "Brisbane Times - Latest News",
+          "url": "https://www.smh.com.au/culture/celebrity/christina-applegate-reveals-she-was-misdiagnoses-with-ms-20261021-p617ah.html",
+          "source": "Sydney Morning Herald - Latest News",
           "published_at": "2026-10-20T20:58:04.000Z",
           "image": "https://static.ffx.io/images/$zoom_0.299%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f9baa7f835d3d80d7dd474634eafcdbe272de7b6",
           "description": "The actor says the news is not as good as it might seem – she is now “back at square one”."
@@ -98,31 +99,50 @@
           "description": "The Anchorman star, 54, said it is common to get an MS misdiagnosis, adding that she had 'every symptom' of someone who has the condition"
         }
       ],
-      "summary": "Christina Applegate says doctors had attributed her symptoms to multiple sclerosis since 2021, but she was misdiagnosed. She says she is now back at square one, still unsure what is causing her symptoms."
+      "videos": [
+        {
+          "title": "Christina Applegate reveals she was misdiagnosed with MS",
+          "url": "https://www.youtube.com/shorts/WF0vI9Ff4qQ",
+          "video_id": "WF0vI9Ff4qQ",
+          "channel": "CNN",
+          "published_at": "2026-10-20T20:45:11.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/WF0vI9Ff4qQ/hqdefault.jpg"
+        },
+        {
+          "title": "Christina Applegate says she was wrongly diagnosed with MS. #BBCNews",
+          "url": "https://www.youtube.com/shorts/Im5fvAi5EJc",
+          "video_id": "Im5fvAi5EJc",
+          "channel": "BBC News",
+          "published_at": "2026-10-20T19:30:00.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Im5fvAi5EJc/hqdefault.jpg"
+        }
+      ],
+      "summary": "Christina Applegate says doctors had attributed her symptoms to multiple sclerosis since 2021, but she was misdiagnosed. She says the news has left her without an explanation for her symptoms."
     },
     {
-      "id": "topic_61850ffcb39fd55c",
-      "title": "Google Cloud Outage Disrupts UK Banking Services",
+      "id": "topic_8fc2c0540f0b753f",
+      "title": "Google Cloud Outage Disrupts Services at UK Banks",
       "headline": "Google cloud outage takes down banks",
       "label": [
         "outage",
         "cloud",
         "google",
-        "banks",
         "revolut",
+        "banks",
         "uk"
       ],
       "category": "new",
-      "theme": "theme_79ddfb4051ac677a",
+      "section": "technology",
+      "theme": "theme_319f67c42c13d323",
       "entities": [
         "Google",
-        "Google Cloud",
-        "UK",
         "Google Cloud Outage Takes",
-        "Down Revolut"
+        "Down Revolut",
+        "Other Banks",
+        "UK"
       ],
-      "article_count": 22,
-      "source_count": 21,
+      "article_count": 21,
+      "source_count": 20,
       "articles": [
         {
           "title": "Google cloud outage takes down banks",
@@ -132,13 +152,6 @@
           "description": "Comments"
         },
         {
-          "title": "Google Cloud outage takes down C and other banks in UK",
-          "url": "https://www.thehindubusinessline.com/info-tech/google-cloud-outage-takes-down-c-and-other-banks-in-uk/article71604294.ece",
-          "source": "Business News Today: Latest Business News, Finance News",
-          "published_at": "2026-10-20T12:37:50.000Z",
-          "description": "Alphabet Inc.’s Google said its London-region services “are experiencing issues” on its status page, with no further details on the cause"
-        },
-        {
           "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
           "url": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
           "source": "Bloomberg Technology",
@@ -146,25 +159,106 @@
           "description": "An outage at Google Cloud knocked out banking services in the UK including Revolut Ltd. early on Tuesday."
         },
         {
+          "title": "Google Cloud outage takes down C and other banks in UK",
+          "url": "https://www.thehindubusinessline.com/info-tech/google-cloud-outage-takes-down-c-and-other-banks-in-uk/article71604294.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-20T12:37:50.000Z",
+          "description": "Alphabet Inc.’s Google said its London-region services “are experiencing issues” on its status page, with no further details on the cause"
+        },
+        {
+          "title": "The Outage",
+          "url": "https://thedailywtf.com/articles/the-outage",
+          "source": "The Daily WTF",
+          "published_at": "2026-10-20T06:30:00.000Z",
+          "description": "At my employer, we use a service called Coveralls, which is a code coverage reporting tool that hooks into your CI pipeline. It takes your lcov reports and gives you some insights, and also makes it easy to cause the CI pipeline to fail if newly added code doesn't have reasonable coverage. I have n…"
+        },
+        {
           "title": "Google Cloud outage takes down Revolut, Lloyds, and HSBC",
           "url": "https://protos.com/google-cloud-outage-takes-down-revolut-lloyds-and-hsbc",
           "source": "Protos",
           "published_at": "2026-10-20T11:38:17.000Z",
           "description": "An issue with Google Cloud's London-based data center has caused a major outage impacting the services of multiple banks. The post Google Cloud outage takes down Revolut, Lloyds, and HSBC appeared first on Protos."
-        },
-        {
-          "title": "Google Cloud Outage in London Disrupts Revolut Banking Services",
-          "url": "https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html",
-          "source": "Security Affairs",
-          "published_at": "2026-10-20T15:45:42.000Z",
-          "description": "Google Cloud’s London outage disrupted Revolut payments and ATM withdrawals, while ING Germany reported online banking issues. Multiple Google Cloud services went offline in the London region this morning, according to Google’s status page, and the disruption didn’t stay contained to infrastructure…"
         }
       ],
-      "summary": "An outage affecting Google Cloud’s London region disrupted services at several banks, including Revolut, Lloyds and HSBC. Revolut customers experienced problems with payments and ATM withdrawals."
+      "videos": [
+        {
+          "title": "What happened with the Google Cloud outage? #BBCNews",
+          "url": "https://www.youtube.com/shorts/Eu1SqIhKl7g",
+          "video_id": "Eu1SqIhKl7g",
+          "channel": "BBC News",
+          "published_at": "2026-10-20T15:30:10.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Eu1SqIhKl7g/hqdefault.jpg"
+        }
+      ],
+      "summary": "A Google Cloud outage affecting its London region disrupted services at several UK banks, including Revolut, Lloyds and HSBC."
+    },
+    {
+      "id": "topic_bf3416636c9be03f",
+      "title": "Ten Hag Says Ronaldo Let Manchester United Down",
+      "headline": "Ten Hag says Ronaldo let Manchester United down",
+      "label": [
+        "hag",
+        "ronaldo",
+        "ten",
+        "let",
+        "united",
+        "cristiano"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_2a5a433c1bcccb4",
+      "entities": [
+        "Ten Hag",
+        "Ronaldo",
+        "Manchester United",
+        "Erik",
+        "Hag"
+      ],
+      "article_count": 18,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Ten Hag says Ronaldo let Manchester United down",
+          "url": "https://tribune.com.pk/story/2636057/ten-hag-says-ronaldo-let-manchester-united-down",
+          "source": "express tribune",
+          "published_at": "2026-10-20T22:55:40.000Z",
+          "description": "The Dutchman also accuses United’s hierarchy of breaking promises and undermining his authority before his sacking"
+        },
+        {
+          "title": "Erik ten Hag: Cristiano Ronaldo let the team down, and he let me down",
+          "url": "https://sports.yahoo.com/articles/erik-ten-hag-cristiano-ronaldo-102000929.html",
+          "published_at": "2026-10-20T10:20:00.000Z",
+          "description": "Erik ten Hag says Cristiano Ronaldo \"let the team down\" during his time as Manchester United manager, revealing that the Portuguese forward told teammates to save their legs in training.The Dutchman h..."
+        },
+        {
+          "title": "Ronaldo let Manchester United down - Ten Hag",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo",
+          "source": "BBC Sport",
+          "published_at": "2026-10-20T12:12:51.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg",
+          "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford."
+        },
+        {
+          "title": "Ten Hag: Ronaldo let Man United down",
+          "url": "https://www.espn.com/soccer/story/_/id/50226133/man-united-cristiano-ronaldo-erik-ten-hag-premier-league",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-10-20T10:37:21.000Z",
+          "description": "Former Manchester United head coach Erik ten Hag has revealed that he had a strained relationship with Cristiano Ronaldo at times during his reign, who \"let the team down\" in his second stint at Old Trafford."
+        },
+        {
+          "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
+          "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+          "source": "The Guardian",
+          "published_at": "2026-10-20T10:43:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/bca316b352ae27aea0282a113f93b4ade9c91737/165_67_1558_1246/master/1558.jpg?width=140&quality=85&auto=format&fit=max&s=3b1bfdd8e43d0588554e01d7a32a1f9c",
+          "description": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises made by United’s owners went unfulfilled,…"
+        }
+      ],
+      "summary": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo let the team down during their time together. Ten Hag also says the club’s leadership broke promises and undermined his authority."
     },
     {
       "id": "topic_a622017e2e704890",
-      "title": "Prince Harry Says He Wants to Reconcile With Family",
+      "title": "Prince Harry Says He Wants to Reconcile With His Family",
       "headline": "Prince Harry says he wants to reconcile with family",
       "label": [
         "harry",
@@ -175,6 +269,7 @@
         "reconcile"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_37e88456b2d4b43c",
       "entities": [
         "Prince Harry",
@@ -209,22 +304,96 @@
           "description": "The Duke of Sussex, who has not spoken to his brother for four years, said he wants to 'work it out' with his older sibling."
         },
         {
-          "title": "Harry says he wants to 'work it out' with his family",
-          "url": "https://news.google.com/rss/articles/cbmiw0fvx3lxte1tsgjidezvnznpaulmwkqxwnm2albhqne2ehrlexnwekxmnghouwhmejnoduluuw5ptkxumhhjtjlvc3husgfquzllb3hrvkddnlljdwtfcw1hn2c",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-20T14:01:40.000Z",
-          "description": "Harry says he wants to 'work it out' with his family BBC Prince Harry says he wants to reconcile with family Reuters Prince Harry’s Comment Was ‘Not Intended as a Swipe’ at Prince William People.com Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word InStyle Prince Ha…"
-        },
-        {
           "title": "Prince Harry: ‘I want family reconciliation ... but some people don’t’",
           "url": "https://www.brisbanetimes.com.au/world/europe/prince-harry-i-want-family-reconciliation-but-some-people-don-t-20261021-p6179h.html",
           "source": "Brisbane Times - Latest News",
           "published_at": "2026-10-20T18:28:44.000Z",
           "image": "https://static.ffx.io/images/$zoom_1.1993%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/9cd2c462b557594c6f84906fbd018260262d1cbe",
           "description": "Harry explains how reuniting with his estranged brother remains his main goal, but admits that “scars stick around forever” in his first major interview since his UK return."
+        },
+        {
+          "title": "Prince Harry says he wants to work out relationship with brother and father",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxqs0jvm2sway0wogjfr3j2zwzsamrzcvhrrfftqvewmzzhse1oownlmtdzahjnmet2n3buef9sakvqdkttqthkohy2vvdwcuixdmc1exfxntbtanaxq3zuwnptce9kdtlbbvjxugyxy3leue1jdvfztwl3uffas0patulkadhhcmlfmkrssxnrt3nucfdxngzlqjbunjhyefbvoxrun09ztzjxvgjwntlyneh2vfiwck5r",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T17:52:42.000Z",
+          "description": "Prince Harry says he wants to work out relationship with brother and father NBC News Prince Harry opens up about returning to England, whether he wants to reconcile with Prince William, King Charles III ABC News - Breaking News, Latest News and Videos Exclusive | Prince Harry says reconciling with…"
         }
       ],
-      "summary": "Prince Harry says he wants to reconcile with his family, including his brother, Prince William. He acknowledged that lasting hurt remains between them."
+      "videos": [
+        {
+          "title": "Prince Harry says he wants to 'reconcile' with his family. #BBCNews",
+          "url": "https://www.youtube.com/shorts/gdRTJMJL6KU",
+          "video_id": "gdRTJMJL6KU",
+          "channel": "BBC News",
+          "published_at": "2026-10-20T20:15:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/gdRTJMJL6KU/hqdefault.jpg"
+        }
+      ],
+      "summary": "Prince Harry says he wants to work out his relationships with his family, including King Charles and his brother, Prince William. He also acknowledges that some people may not want reconciliation."
+    },
+    {
+      "id": "topic_ab1c2cbe73d1d64b",
+      "title": "Hegseth Meets Netanyahu During Unannounced Israel Visit",
+      "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
+      "label": [
+        "hegseth",
+        "netanyahu",
+        "israel",
+        "unannounced",
+        "meets",
+        "visit"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_a04e561d3a6a7e37",
+      "entities": [
+        "Hegseth",
+        "Netanyahu",
+        "Israel",
+        "Al Jazeera",
+        "Hegseth Meets"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+          "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-20T00:08:01.000Z",
+          "description": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources."
+        },
+        {
+          "title": "Hegseth meets Netanyahu in unannounced visit to Israel, source says",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-20-hegseth-meets-netanyahu-in-unannounced-visit-to-israel-source-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-10-20T10:57:13.000Z",
+          "description": "US Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday, a person familiar with the matter said, as tensions flare between the US and Iran."
+        },
+        {
+          "title": "Hegseth Meets with Netanyahu in Israel Ahead of Elections",
+          "url": "https://politicalwire.com/2026/10/20/hegseth-meets-with-netanyahu-in-israel-ahead-of-elections",
+          "source": "Political Wire",
+          "published_at": "2026-10-20T09:09:00.000Z",
+          "description": "“Defense Secretary Pete Hegseth quietly visited Israel on Monday and met with Prime Minister Benjamin Netanyahu,” CBS News reports."
+        },
+        {
+          "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+          "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+          "source": "NYT > World News",
+          "published_at": "2026-10-20T11:24:03.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-israel-hegseth-wzmj/20int-israel-hegseth-wzmj-mediumSquareAt3X.jpg",
+          "description": "Defense Secretary Pete Hegseth traveled to the region as diplomatic efforts to end the war with Iran have stalled, two people with knowledge of the trip said. Israel will hold elections in a week."
+        },
+        {
+          "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+          "url": "https://news.google.com/rss/articles/cbmiggfbvv95cuxqwwt2rursnezhous1qtvatjfluhuzn0vxumpmcznjmdlar3d5nhhpnex6z0hns3jeuti1uv90ejfgszmxwu56b0zpa2h0vkdey1jobmxomejrvk5zquxrwlfanlzrmnrknmq0nvpbb25pqmrumdnkdfjjumhxddr6b0f3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T06:37:52.000Z",
+          "description": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections Axios Hegseth meets Netanyahu in unannounced Israel visit Al Jazeera Trump's backing of Netanyahu, Hegseth's secret visit fuel Iran war fears ahead of Israel's election Ynetnews Live - Hegseth meets Netanyahu on unannounced Israe…"
+        }
+      ],
+      "summary": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu. Reports said the visit came ahead of Israeli elections and amid regional tensions."
     },
     {
       "id": "topic_96854bf5e4b7092b",
@@ -239,6 +408,7 @@
         "million"
       ],
       "category": "new",
+      "section": "technology",
       "theme": "theme_6aa35773fa482ad6",
       "entities": [
         "Spotify",
@@ -290,132 +460,17 @@
           "description": "The music streaming giant has updated its recommendation system to prioritize music made by human artists over AI slop."
         }
       ],
-      "summary": "Spotify says it removed more than 50 million AI-generated and spam tracks from its recommendations over the past year. The company says it has also deleted 75 million spam tracks."
-    },
-    {
-      "id": "topic_abf88300118d11b4",
-      "title": "Ten Hag Says Ronaldo Let Manchester United Down",
-      "headline": "Erik ten Hag: Cristiano Ronaldo let the team down, and he let me down",
-      "label": [
-        "hag",
-        "ronaldo",
-        "ten",
-        "let",
-        "cristiano",
-        "erik"
-      ],
-      "category": "new",
-      "theme": "theme_b7393cd3ce30d41d",
-      "entities": [
-        "Erik",
-        "Hag",
-        "Cristiano Ronaldo",
-        "Ronaldo",
-        "Manchester United"
-      ],
-      "article_count": 17,
-      "source_count": 11,
-      "articles": [
+      "videos": [
         {
-          "title": "Erik ten Hag: Cristiano Ronaldo let the team down, and he let me down",
-          "url": "https://sports.yahoo.com/articles/erik-ten-hag-cristiano-ronaldo-102000929.html",
-          "published_at": "2026-10-20T10:20:00.000Z",
-          "description": "Erik ten Hag says Cristiano Ronaldo \"let the team down\" during his time as Manchester United manager, revealing that the Portuguese forward told teammates to save their legs in training.The Dutchman h..."
-        },
-        {
-          "title": "Ronaldo let Manchester United down - Ten Hag",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo",
-          "source": "BBC Sport",
-          "published_at": "2026-10-20T12:12:51.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg",
-          "description": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford."
-        },
-        {
-          "title": "Ten Hag: Ronaldo let Man United down",
-          "url": "https://www.espn.com/soccer/story/_/id/50226133/man-united-cristiano-ronaldo-erik-ten-hag-premier-league",
-          "source": "www.espn.com - SOCCER",
-          "published_at": "2026-10-20T10:37:21.000Z",
-          "description": "Former Manchester United head coach Erik ten Hag has revealed that he had a strained relationship with Cristiano Ronaldo at times during his reign, who \"let the team down\" in his second stint at Old Trafford."
-        },
-        {
-          "title": "Erik ten Hag on Cristiano Ronaldo 'Let the team down' rift and issues with Man Utd owners",
-          "url": "https://www.the42.ie/erik-ten-hag-christiano-ronaldo-7198980-oct2026",
-          "source": "The 42",
-          "published_at": "2026-10-20T10:15:52.000Z",
-          "description": "Ten Hag was speaking in depth for the first time about the end of his time with Manchester United."
-        },
-        {
-          "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-          "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-          "source": "The Guardian",
-          "published_at": "2026-10-20T10:43:00.000Z",
-          "image": "https://i.guim.co.uk/img/media/bca316b352ae27aea0282a113f93b4ade9c91737/165_67_1558_1246/master/1558.jpg?width=140&quality=85&auto=format&fit=max&s=3b1bfdd8e43d0588554e01d7a32a1f9c",
-          "description": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises made by United’s owners went unfulfilled,…"
+          "title": "Spotify pulls AI slop #Vergecast",
+          "url": "https://www.youtube.com/shorts/9cGk0tnX68Q",
+          "video_id": "9cGk0tnX68Q",
+          "channel": "The Verge",
+          "published_at": "2026-10-20T20:36:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/9cGk0tnX68Q/hqdefault.jpg"
         }
       ],
-      "summary": "Former Manchester United manager Erik ten Hag said Cristiano Ronaldo let the team and him down during Ronaldo’s second spell at the club. Ten Hag also described tensions in their relationship."
-    },
-    {
-      "id": "topic_d2dd1ed1ee0bd9c8",
-      "title": "Hegseth Meets Netanyahu During Unannounced Israel Visit",
-      "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
-      "label": [
-        "hegseth",
-        "netanyahu",
-        "israel",
-        "unannounced",
-        "meets",
-        "visit"
-      ],
-      "category": "new",
-      "theme": "theme_216cc93e11433324",
-      "entities": [
-        "Hegseth",
-        "Netanyahu",
-        "Israel",
-        "Al Jazeera",
-        "Hegseth Meets"
-      ],
-      "article_count": 10,
-      "source_count": 9,
-      "articles": [
-        {
-          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
-          "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-10-20T00:08:01.000Z",
-          "description": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources."
-        },
-        {
-          "title": "Hegseth meets Netanyahu in unannounced visit to Israel, source says",
-          "url": "https://www.dailymaverick.co.za/article/2026-10-20-hegseth-meets-netanyahu-in-unannounced-visit-to-israel-source-says",
-          "source": "Daily Maverick - Latest News",
-          "published_at": "2026-10-20T10:57:13.000Z",
-          "description": "US Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday, a person familiar with the matter said, as tensions flare between the US and Iran."
-        },
-        {
-          "title": "Hegseth meets Netanyahu in unannounced Israel visit",
-          "url": "https://news.google.com/rss/articles/cbmimafbvv95cuxoqu1su1r3euwtxzvwzdvonlpiquffudhtul9nbng0q2dryuxxukzjytnkmnb3x0m5t096zetzmlltm0jtbc1jy21esc1grk5qvmtxbmdyss1ydkl2uwf0t3dtc1pwqzg1lwzbudlxzddmzdfty1n5uwtzr3rns2lvnwlatw9st29zm1lbr29yanpwde5gtjn6onibngfbvv95cuxqrnj5dlbilufqbtjmzhd2vs1hv1j6cv9pmvjmaziyoulksxhylw0zy0fkchnyyzz6rwl1mfhov2vsqkzonem3ulzsnknfuvlpd0qttvzyuwxoxzvlcunpthlhd3vvwknslvm3qklcoxhmddqzsgg3bjb2wklhd1hlbzfhnucwme9pc1jbtdfic25fujlfwmr5ds1bbk1iqq",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-20T00:21:56.000Z",
-          "description": "Hegseth meets Netanyahu in unannounced Israel visit Al Jazeera Hegseth makes unannounced trip and other Mideast news AP News Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war CBS News Live - Hegseth meets Netanyahu on unannounced Israel visit - Axios Iran In…"
-        },
-        {
-          "title": "Hegseth Meets with Netanyahu in Israel Ahead of Elections",
-          "url": "https://politicalwire.com/2026/10/20/hegseth-meets-with-netanyahu-in-israel-ahead-of-elections",
-          "source": "Political Wire",
-          "published_at": "2026-10-20T09:09:00.000Z",
-          "description": "“Defense Secretary Pete Hegseth quietly visited Israel on Monday and met with Prime Minister Benjamin Netanyahu,” CBS News reports."
-        },
-        {
-          "title": "Hegseth meets Netanyahu ahead of elections, possible Iran war restart",
-          "url": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu",
-          "source": "Politics - CBSNews.com",
-          "published_at": "2026-10-20T04:50:45.000Z",
-          "description": "Defense Secretary Pete Hegseth made an unannounced visit to Israel just over a week before Prime Minister Benjamin Netanyahu stands for elections, and as President Trump floats restarting the Iran war."
-        }
-      ],
-      "summary": "US Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Benjamin Netanyahu. The visit came ahead of Israeli elections and amid discussion of a possible resumption of the Iran war."
+      "summary": "Spotify says it removed more than 50 million AI-generated or spam tracks from user recommendations over the past year as it updated its system to keep them out."
     },
     {
       "id": "topic_e8643eb1d739ca18",
@@ -430,6 +485,7 @@
         "headline"
       ],
       "category": "new",
+      "section": "culture",
       "theme": "theme_2c80d5e271a934dc",
       "entities": [
         "Jay",
@@ -483,19 +539,212 @@
       "summary": "Jay-Z is reportedly set to headline the 2027 Super Bowl halftime show at SoFi Stadium in Los Angeles. His company, Roc Nation, organizes the show."
     },
     {
-      "id": "topic_8fcecbd6e805e931",
-      "title": "Trump Approval Falls to 31% in Poll Ahead of Midterms",
+      "id": "topic_4d93740f7f686da1",
+      "title": "Final Fantasy Resonance Reviews Praise Its Throwback Style",
+      "headline": "Final Fantasy Resonance Review - On Its Own Wavelength",
+      "label": [
+        "resonance",
+        "fantasy",
+        "final",
+        "review",
+        "square",
+        "enix"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_a290d0d7bc2f2986",
+      "entities": [
+        "Final Fantasy Resonance",
+        "Final Fantasy Resonance Review",
+        "On Its Own Wavelength",
+        "Round Up",
+        "The Reviews Are In"
+      ],
+      "article_count": 16,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Final Fantasy Resonance Review - On Its Own Wavelength",
+          "url": "https://gameinformer.com/review/final-fantasy-resonance/on-its-own-wavelength",
+          "source": "Game Informer",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "description": "Reviewed on: Switch 2 Platform: PlayStation 5, Xbox Series X/S, Switch, PC Publisher: Square Enix Developer: Square Enix Release: October 22, 2026 Rating: Everyone 10+ RPG publisher Square Enix has been doing the Lord's work lately by rescuing their discontinued mobile games and rehydrating them in…"
+        },
+        {
+          "title": "Final Fantasy Resonance review",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
+          "source": "Eurogamer.net Latest Articles Feed",
+          "published_at": "2026-10-20T13:00:39.000Z",
+          "description": "I think the most memorable bit of brilliance in the otherwise flawed diamond that is Final Fantasy 16 is the way it handles legacy. There are moments where Clive and his recalcitrant band of revolutionaries rage against the way of the world: they burn down cities, depose oligarchs, shatter crystals…"
+        },
+        {
+          "title": "Round Up: The Reviews Are In For Final Fantasy Resonance",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-10-20T15:00:00.000Z",
+          "description": "Did it resonate? After a slice of nostalgia? Final Fantasy Resonance arrives later this week on 22nd October, and it looks to be a real series throwback. With that release date right around the corner, Square Enix has lifted the lid on the game's reviews today, so we can get a good idea of what to…"
+        },
+        {
+          "title": "Final Fantasy Resonance review - a HD2D comfort blanket",
+          "url": "https://www.pcgamesn.com/final-fantasy-resonance/review-a-hd2d-comfort-blanket",
+          "source": "PCGamesN",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "description": "Final Fantasy Resonance is a wonderful HD2D entry into the storied series, bringing fresh ideas and a beautiful throwback aesthetic to the table."
+        },
+        {
+          "title": "The 6 best character cameos in Final Fantasy Resonance",
+          "url": "https://mashable.com/entertainment/final-fantasy-resonance-best-character-cameos",
+          "source": "Mashable",
+          "published_at": "2026-10-20T13:00:00.000Z",
+          "description": "'Final Fantasy Resonance' has characters from all throughout the series in it. Here are some of the coolest ones."
+        }
+      ],
+      "summary": "Reviews describe Final Fantasy Resonance as a nostalgic, HD-2D entry in the series, while noting flaws. The game features characters from across the franchise."
+    },
+    {
+      "id": "topic_29e8272ba857b3e6",
+      "title": "Rioting in France Prompts Curfews and Political Scrutiny",
+      "headline": "French soccer icon Emmanuel Petit condemns arson and looting, warns Macron to 'protect honest citizens'",
+      "label": [
+        "macron",
+        "emmanuel",
+        "french",
+        "gulf",
+        "failures",
+        "political"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_a663767af8cabe0",
+      "entities": [
+        "French",
+        "Emmanuel Petit",
+        "Macron",
+        "Fox News",
+        "The Failures"
+      ],
+      "article_count": 9,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "French soccer icon Emmanuel Petit condemns arson and looting, warns Macron to 'protect honest citizens'",
+          "url": "https://www.foxnews.com/outkick-sports/french-soccer-icon-emmanuel-petit-condemns-arson-looting-warns-macron-protect-honest-citizens",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-20T00:43:15.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/emmanuel-petit-rmc-sport-champions-league.jpg?ve=1&tl=1",
+          "description": "Emmanuel Petit posted a fiery Instagram video blasting rioters as \"thugs\" and telling those who reject France to leave after violent unrest swept Paris."
+        },
+        {
+          "title": "The Failures of Emmanuel Macron",
+          "url": "https://news.google.com/rss/articles/cbmigwfbvv95cuxnt2fqq2vwywj0nznxb2dvtujcodr0mkdkdklbmjzrsvk3qxltr1g4tfbpmllnodzvwjlay2zyd0hsu1vculb5r2xste1nt3lrbfrjmupfdjrnteezogrusmdemtbjm0hzzi1pnl9nzhrjotuwawhjzgxsskj1sxzvz25rwq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-20T07:07:30.000Z",
+          "description": "The Failures of Emmanuel Macron The New York Times France curfews calm unrest as Macron faces criticism over Gulf trip CNBC France in turmoil after riots and looting: What we know Reuters Rioting in France: What’s Fueling the Violence and What Happens Next WSJ France to consider new curfews as rest…"
+        },
+        {
+          "title": "Macron's Backroom Deal: Orchestrating a Political Comeback Through Riots",
+          "url": "https://english.pravda.ru/world/170388-french-election-macron-strategy-unrest",
+          "source": "PravdaReport",
+          "published_at": "2026-10-20T19:06:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article//3/8/8/170388_soc.jpeg",
+          "description": "France’s presidential election is just seven months away. The political struggle is intensifying, fueled by recent nationwide protests. Macron Seeks to Replicate the 2022 Scenario French President Emmanuel Macron has blamed the widespread unrest on “rioters from ultra-left groups joined by numerous…"
+        },
+        {
+          "title": "French protests: Is it game over for Macron’s centrists before elections?",
+          "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-20T08:46:25.000Z",
+          "description": "The protests have further polarised the French and turned the youth into a key, angry, voting bloc."
+        },
+        {
+          "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+          "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-20T08:34:18.000Z",
+          "description": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting."
+        }
+      ],
+      "summary": "Violent unrest and looting in France have prompted curfews in some areas. The protests have intensified political scrutiny of President Emmanuel Macron and polarized public debate ahead of elections."
+    },
+    {
+      "id": "topic_bdc5524b81ea04de",
+      "title": "Orionid Meteor Shower Expected to Peak This Week",
+      "headline": "The Orionid meteor shower is coming. Here's how and when to watch",
+      "label": [
+        "meteor",
+        "orionid",
+        "shower",
+        "skies",
+        "coming",
+        "peak"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_a2e03416490636b6",
+      "entities": [
+        "The Orionid",
+        "AP News",
+        "See",
+        "Orionids",
+        "Orionid"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "The Orionid meteor shower is coming. Here's how and when to watch",
+          "url": "https://phys.org/news/2026-10-orionid-meteor-shower.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-10-20T18:30:01.000Z",
+          "description": "The Orionids—one of two major meteor showers caused by remnants from Halley's Comet—will peak this week, though a large moon will dim visibility until after it sets late at night."
+        },
+        {
+          "title": "See the Orionids meteor shower at its peak this week",
+          "url": "https://www.scientificamerican.com/article/see-the-orionids-meteor-shower-at-its-peak-this-week",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-10-20T21:00:00.000Z",
+          "description": "The shower’s shooting stars originate from Halley’s Comet"
+        },
+        {
+          "title": "Orionid meteor shower to peak in UK skies this week",
+          "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
+          "source": "BBC News",
+          "published_at": "2026-10-20T06:31:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
+          "description": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+        },
+        {
+          "title": "Orionid meteor shower to light up Irish skies with up to 20 meteors an hour",
+          "url": "https://www.irishmirror.ie/news/irish-news/orionid-meteor-shower-light-up-37793014",
+          "source": "Irish Mirror - Home",
+          "published_at": "2026-10-20T19:24:15.000Z",
+          "description": "The annual celestial spectacle, which is known for producing bright meteors and occasional fireballs, is expected to be at its best in the early hours of Thursday, October 22"
+        },
+        {
+          "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
+          "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events",
+          "source": "Science Latest",
+          "published_at": "2026-10-20T09:30:00.000Z",
+          "description": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy."
+        }
+      ],
+      "summary": "The annual Orionid meteor shower, caused by debris from Halley’s Comet, is expected to peak this week. A bright moon may limit visibility until it sets late at night."
+    },
+    {
+      "id": "topic_2228f4ba8cad634d",
+      "title": "Trump Approval Rating Falls to 31% Ahead of Midterms",
       "headline": "Trump approval rating hits record low of 31% as midterms near",
       "label": [
         "approval",
         "low",
         "rating",
-        "record",
         "midterms",
+        "record",
         "trump"
       ],
       "category": "new",
-      "theme": "theme_77521be22fa415c4",
+      "section": "politics",
+      "theme": "theme_cdbc8bd08253e93e",
       "entities": [
         "Trump",
         "Approval Rating Hits Record",
@@ -541,11 +790,11 @@
           "description": "Democrats lead Republicans 47% to 35% on congressional generic ballot, 68% disapprove of Trump's handling of economy"
         }
       ],
-      "summary": "A Reuters/Ipsos poll put President Donald Trump’s approval rating at 31%, a record low. The poll also showed Democrats leading Republicans 47% to 35% on the generic congressional ballot."
+      "summary": "A Reuters/Ipsos poll puts Donald Trump’s approval rating at 31%, a record low in the reports. Democrats lead Republicans on the generic congressional ballot as midterm elections approach."
     },
     {
       "id": "topic_ebf6ef41939c53fb",
-      "title": "Ohio Governor’s Race Attack Ad Features Amy Acton’s Mother",
+      "title": "Ohio Governor’s Race Draws Backlash Over Attack Ad Featuring Candidate’s Mother",
       "headline": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governors Race Even Uglier",
       "label": [
         "governor",
@@ -556,6 +805,7 @@
         "mother"
       ],
       "category": "new",
+      "section": "politics",
       "theme": "theme_168d7761e3a3eab3",
       "entities": [
         "Attack Ad Featuring Candidate",
@@ -604,7 +854,7 @@
           "description": "The New York Times has the backstory after the mother of Ohio gubernatorial candidate Amy Acton (D) released an ad calling her daughter a liar: “In 2019, Dr. Acton gave an interview to The Vindicator, the since-folded daily newspaper of Youngstown, Ohio, in which she disclosed being sexually abused…"
         }
       ],
-      "summary": "A Republican attack ad in Ohio’s governor’s race features Amy Acton’s estranged mother calling her a liar. Acton and her mother have been estranged amid a family dispute over allegations against Acton’s stepfather."
+      "summary": "A Republican attack ad in Ohio’s governor’s race features Amy Acton’s estranged mother calling her a liar. Acton’s brother condemned the ad, which references the family’s disputed allegations about her stepfather."
     },
     {
       "id": "topic_8e9cd8277573d57a",
@@ -619,6 +869,7 @@
         "formed"
       ],
       "category": "new",
+      "section": "business",
       "theme": "theme_eb40420490d21a24",
       "entities": [
         "Elon Musk",
@@ -668,39 +919,33 @@
           "description": "Elon Musk said Tesla and SpaceX have created committees to discuss a potential merger. Bloomberg/Getty Images SpaceX and Tesla have each established exploratory committees to discuss a possible merger, Elon Musk said. Musk, who said he can't participate in the talks, gave the update during Tesla's…"
         }
       ],
-      "summary": "Elon Musk said Tesla and SpaceX have formed special committees to discuss a possible merger. Musk, who leads both companies, called the possibility a good idea."
+      "summary": "Elon Musk says Tesla and SpaceX have formed committees to discuss a possible merger. He called the idea a good one during SpaceX’s earnings call."
     },
     {
-      "id": "topic_8e96f525d928a5c4",
-      "title": "Alberta Voters Reject Independence and Back Remaining in Canada",
-      "headline": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "id": "topic_c78e97e95c1a5113",
+      "title": "Alberta Voters Reject Move Toward Independence From Canada",
+      "headline": "Alberta rejects move toward independence from Canada",
       "label": [
-        "toward",
         "independence",
-        "move",
+        "toward",
         "reject",
+        "move",
         "alberta",
         "canada"
       ],
       "category": "new",
-      "theme": "theme_88e67617dcbaaa9a",
+      "section": "politics",
+      "theme": "theme_dab865fa6c1d20a4",
       "entities": [
         "Alberta",
-        "Canadian",
         "Canada",
-        "AP News",
-        "NPR"
+        "Canadian",
+        "Carney",
+        "AP News"
       ],
-      "article_count": 11,
+      "article_count": 12,
       "source_count": 8,
       "articles": [
-        {
-          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-          "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-          "source": "NPR Topics: World",
-          "published_at": "2026-10-20T06:02:40.000Z",
-          "description": "Voters in Canada's oil-rich province of Alberta have rejected a proposal to begin a process toward independence, results showed early Tuesday, delivering a victory for supporters of Canadian unity."
-        },
         {
           "title": "Alberta rejects move toward independence from Canada",
           "url": "https://www.france24.com/en/video/20261020-alberta-rejects-move-toward-independence-from-canada",
@@ -710,10 +955,17 @@
         },
         {
           "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-          "url": "https://news.google.com/rss/articles/cbmipafbvv95cuxoswzuce56yy02mwjywdbwq1rvdezoa2hztgdhenvqbgd2vms5bg5lvu41umzjbwfcamjyn2dodgxfm3ntei1oxzzaeenurkj4alriow5tzhizuhznt3fuburtslbaqzzaewoznhvyc2rodhjywwjncjl2we9qng5jcg94qnpar0lqdhvzqwftvvi2alpfx3bvbkzgvghvuuq4owt1qq",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-20T06:02:40.000Z",
+          "description": "Voters in Canada's oil-rich province of Alberta have rejected a proposal to begin a process toward independence, results showed early Tuesday, delivering a victory for supporters of Canadian unity."
+        },
+        {
+          "title": "Alberta rejects a move toward independence from Canada in a victory for Carney",
+          "url": "https://news.google.com/rss/articles/cbmiqafbvv95cuxnam5eme1qam5lqmc2x3bhcdgzxzdmawjla1v2akvcc0c2dnjlzmo4bjz5nedxzmmxnhp6d1kxv3hey2qwbkzraktns1v5a3itmufvzmlxb0dazuppshdqdjbvdunrnvnuego0tlros21oegl4otbwm0rlanjut2pgzjllnwxhms0wovftrv9doha0tzzwbkottgjxmzjhcjjfohvfbkhnouk",
           "source": "Top stories - Google News",
-          "published_at": "2026-10-20T06:51:00.000Z",
-          "description": "Alberta voters reject a move toward independence in referendum backing Canadian unity AP News Voters in Oil-Rich Alberta Reject Leaving Canada The New York Times Albertans reject push for independence from Canada Axios Alberta voters reject plan for referendum to leave Canada The Guardian Alberta r…"
+          "published_at": "2026-10-20T13:42:00.000Z",
+          "description": "Alberta rejects a move toward independence from Canada in a victory for Carney AP News Alberta rejects secession referendum, chooses to remain part of Canada, CBC projects CNN Huge setback for Alberta's separatist movement after decisive defeat BBC Prime Minister Carney 'thrilled that Albertans hav…"
         },
         {
           "title": "‘Albertans chose Canada’: Voters reject move towards independence in victory for Carney",
@@ -731,137 +983,11 @@
           "description": "Rob Gillies / Associated Press: Alberta rejects a move toward independence from Canada in a victory for Carney — Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Mark Carney's push for…"
         }
       ],
-      "summary": "Alberta voters rejected a move toward independence and backed remaining part of Canada in the province’s referendum. The result was described as a victory for supporters of Canadian unity."
-    },
-    {
-      "id": "topic_eecef103b6197df9",
-      "title": "Final Fantasy Resonance Reviews Praise Its Throwback Style",
-      "headline": "Final Fantasy Resonance Review - On Its Own Wavelength",
-      "label": [
-        "resonance",
-        "fantasy",
-        "final",
-        "review",
-        "square",
-        "enix"
-      ],
-      "category": "new",
-      "theme": "theme_8983bcd805bca5d9",
-      "entities": [
-        "Final Fantasy Resonance",
-        "Final Fantasy Resonance Review",
-        "On Its Own Wavelength",
-        "Round Up",
-        "The Reviews Are In"
-      ],
-      "article_count": 14,
-      "source_count": 11,
-      "articles": [
-        {
-          "title": "Final Fantasy Resonance Review - On Its Own Wavelength",
-          "url": "https://gameinformer.com/review/final-fantasy-resonance/on-its-own-wavelength",
-          "source": "Game Informer",
-          "published_at": "2026-10-20T13:00:00.000Z",
-          "description": "Reviewed on: Switch 2 Platform: PlayStation 5, Xbox Series X/S, Switch, PC Publisher: Square Enix Developer: Square Enix Release: October 22, 2026 Rating: Everyone 10+ RPG publisher Square Enix has been doing the Lord's work lately by rescuing their discontinued mobile games and rehydrating them in…"
-        },
-        {
-          "title": "Final Fantasy Resonance review",
-          "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
-          "source": "Eurogamer.net Latest Articles Feed",
-          "published_at": "2026-10-20T13:00:39.000Z",
-          "description": "I think the most memorable bit of brilliance in the otherwise flawed diamond that is Final Fantasy 16 is the way it handles legacy. There are moments where Clive and his recalcitrant band of revolutionaries rage against the way of the world: they burn down cities, depose oligarchs, shatter crystals…"
-        },
-        {
-          "title": "Round Up: The Reviews Are In For Final Fantasy Resonance",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance",
-          "source": "Nintendo Life | Latest Updates",
-          "published_at": "2026-10-20T15:00:00.000Z",
-          "description": "Did it resonate? After a slice of nostalgia? Final Fantasy Resonance arrives later this week on 22nd October, and it looks to be a real series throwback. With that release date right around the corner, Square Enix has lifted the lid on the game's reviews today, so we can get a good idea of what to…"
-        },
-        {
-          "title": "Final Fantasy Resonance review - a HD2D comfort blanket",
-          "url": "https://www.pcgamesn.com/final-fantasy-resonance/review-a-hd2d-comfort-blanket",
-          "source": "PCGamesN",
-          "published_at": "2026-10-20T13:00:00.000Z",
-          "description": "Final Fantasy Resonance is a wonderful HD2D entry into the storied series, bringing fresh ideas and a beautiful throwback aesthetic to the table."
-        },
-        {
-          "title": "Final Fantasy Resonance Saves A Great Story From Live-Service Oblivion | Review",
-          "url": "https://www.gamespot.com/videos/final-fantasy-resonance-saves-a-great-story-from-live-service-oblivion-review",
-          "source": "GameSpot - All Content",
-          "published_at": "2026-10-20T13:00:00.000Z",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Review_FFResonance_SITE.jpg?w=300",
-          "description": "As both a remake and a standalone experience, Final Fantasy Resonance shines more than it stumbles. And while Final Fantasy Resonance succeeds admirably in retelling the saga of Rain and the battle against the Veritas, it does have a handful of shortcomings that keep it from becoming the next great…"
-        }
-      ],
-      "summary": "Reviews describe Final Fantasy Resonance as a nostalgic, HD-2D entry that retells the story of Rain. Critics say it has fresh ideas but also flaws."
-    },
-    {
-      "id": "topic_93e59b991440dccb",
-      "title": "Orionid Meteor Shower to Peak This Week",
-      "headline": "The Orionid meteor shower is coming. Here's how and when to watch",
-      "label": [
-        "meteor",
-        "orionid",
-        "shower",
-        "skies",
-        "coming",
-        "ap"
-      ],
-      "category": "new",
-      "theme": "theme_4383a6dcd8dd9050",
-      "entities": [
-        "The Orionid",
-        "AP News",
-        "Orionid",
-        "Irish",
-        "UK"
-      ],
-      "article_count": 7,
-      "source_count": 6,
-      "articles": [
-        {
-          "title": "The Orionid meteor shower is coming. Here's how and when to watch",
-          "url": "https://phys.org/news/2026-10-orionid-meteor-shower.html",
-          "source": "Phys.org - latest science and technology news stories",
-          "published_at": "2026-10-20T18:30:01.000Z",
-          "description": "The Orionids—one of two major meteor showers caused by remnants from Halley's Comet—will peak this week, though a large moon will dim visibility until after it sets late at night."
-        },
-        {
-          "title": "The Orionid meteor shower is coming. Here’s how and when to watch",
-          "url": "https://news.google.com/rss/articles/cbminafbvv95cuxnx2hfcgsztzbkbel2ewg1sjjra3pasw4tevlnytb2axy2bjr3oxvwskhnvhjyde1wuffknlmwcjd5c1pqrm53rm9an18zn01quw9xa0lqczfjd3bot2s3mhhuylndwkztmujzrhhhqwrzaudhyulfq1nvaksxs0mzb254snzlmhfjq3lhyzdiovnvt3nvcf80bhblqna",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-20T15:47:00.000Z",
-          "description": "The Orionid meteor shower is coming. Here’s how and when to watch AP News Orionid meteor shower 2026: cloud cover forecast by region The Weather Channel Halley’s Comet Returns To The Night Sky — Sort Of Forbes 'Most beautiful' meteor shower set to peak. When to watch the Orionids Detroit Free Press…"
-        },
-        {
-          "title": "Orionid meteor shower to light up Irish skies with up to 20 meteors an hour",
-          "url": "https://www.irishmirror.ie/news/irish-news/orionid-meteor-shower-light-up-37793014",
-          "source": "Irish Mirror - Home",
-          "published_at": "2026-10-20T19:24:15.000Z",
-          "description": "The annual celestial spectacle, which is known for producing bright meteors and occasional fireballs, is expected to be at its best in the early hours of Thursday, October 22"
-        },
-        {
-          "title": "Orionid meteor shower to peak in UK skies this week",
-          "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
-          "source": "BBC News",
-          "published_at": "2026-10-20T06:31:04.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
-          "description": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
-        },
-        {
-          "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
-          "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events",
-          "source": "Science Latest",
-          "published_at": "2026-10-20T09:30:00.000Z",
-          "description": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy."
-        }
-      ],
-      "summary": "The Orionid meteor shower, made from debris left by Halley’s Comet, is expected to peak this week. Viewers may see about 10 to 20 meteors an hour, though moonlight could reduce visibility until the Moon sets."
+      "summary": "Voters in Alberta rejected a proposal to begin a process toward independence, backing the province’s continued place in Canada."
     },
     {
       "id": "topic_13e934994d5bf54",
-      "title": "Suspect Arrested After Limoges City Hall Fire",
+      "title": "Man Arrested in Investigation Into Limoges City Hall Fire",
       "headline": "Après l’incendie de la mairie de Limoges, un homme fiché S et lié à l’ultragauche interpellé",
       "label": [
         "limoges",
@@ -872,6 +998,7 @@
         "ultragauche"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_4ad5a5aaa0236793",
       "entities": [
         "Apr",
@@ -919,7 +1046,7 @@
           "description": "Lors des manifestations de samedi dernier, la mairie de Limoges a été incendiée, la toiture et le beffroi se sont effondrés. Un homme de 34 ans a été interpellé ce mardi."
         }
       ],
-      "summary": "French authorities arrested a man suspected of involvement in the fire that severely damaged Limoges city hall during demonstrations. The anti-terrorism sub-directorate was assigned to the investigation."
+      "summary": "French authorities arrested a man suspected of involvement in the fire that heavily damaged Limoges city hall during demonstrations. Reports describe the suspect as linked to the far left, and the anti-terrorism sub-directorate is involved in the investigation."
     }
   ]
 }

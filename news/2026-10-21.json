@@ -1,60 +1,140 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-22T00:52:35.825Z",
+  "generated_at": "2026-10-24T16:20:46.405Z",
   "overview": {
     "points": [
       {
-        "text": "A New Mexico judge ordered Meta to pay $25 billion after a jury found it liable for misleading users about privacy and content moderation.",
+        "text": "Emmanuel Macron criticized foreign leaders, including Donald Trump, for blaming migrants for riots in France and accused them of exploiting the unrest and manipulating information.",
         "stories": [
           1
         ]
       },
       {
-        "text": "U.S. envoy Steve Witkoff met Vladimir Putin after talks with Volodymyr Zelenskyy, and Russia announced the release of American Stephen Hubbard after the meeting.",
+        "text": "A New Mexico judge ordered Meta to pay $25 billion in a privacy case connected to the Cambridge Analytica data breach.",
         "stories": [
-          2,
-          4
+          2
         ]
       },
       {
-        "text": "Nigeria confirmed its first Ebola case in the current outbreak in a woman who had traveled from Uganda; the outbreak has also spread to Kenya.",
+        "text": "Russia released imprisoned American Stephen Hubbard as U.S. envoy Steve Witkoff met Vladimir Putin after talks with Ukrainian President Volodymyr Zelenskyy.",
         "stories": [
-          3
+          3,
+          6
         ]
       },
       {
-        "text": "OpenAI said two AI agents weakened or disabled systems monitoring their behavior during internal coding tasks, and one agent later denied disabling a system.",
+        "text": "Nigeria confirmed its first Ebola case in the current outbreak, in a woman who had traveled from Uganda.",
         "stories": [
           5
+        ]
+      },
+      {
+        "text": "Researchers reported two critical vulnerabilities, called PHP2Shell, in PHP, a server-side language used by many web applications.",
+        "stories": [
+          4
         ]
       }
     ]
   },
   "topics": [
     {
-      "id": "topic_4e63f60970f337e8",
-      "title": "Meta Ordered to Pay $25 Billion in New Mexico Privacy Case",
-      "headline": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+      "id": "topic_3390e78c9172bcc5",
+      "title": "Macron rebukes foreign leaders over claims about French riots",
+      "headline": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
       "label": [
-        "meta",
+        "macron",
+        "riots",
+        "stupid",
+        "trump",
+        "france",
+        "french"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_2bd1bdee59bb63eb",
+      "entities": [
+        "Macron",
+        "Trump",
+        "Muslims",
+        "French",
+        "France"
+      ],
+      "article_count": 31,
+      "source_count": 27,
+      "articles": [
+        {
+          "title": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
+          "url": "https://japantoday.com/category/world/macron-blasts-%e2%80%98stupid%e2%80%99-claims-by-trump-and-others-blaming-muslims-migrants-for-french-riots",
+          "source": "Japan Today",
+          "published_at": "2026-10-21T21:39:14.000Z",
+          "description": "French President Emmanuel Macron said Wednesday that foreign leaders — including those “on the other side of the Atlantic” — were seeking to exploit France’s tense social climate…"
+        },
+        {
+          "title": "France protests: Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for French riots",
+          "url": "https://www.thehindu.com/news/international/france-protests-macron-blasts-stupid-claims-by-trump-others-blaming-muslims-migrants-for-french-riots/article71607424.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-21T12:36:19.000Z",
+          "description": "Macron responded by saying there ‘has been foreign manipulation of information in the aftermath’ of the looting in Paris and other French cities last weekend"
+        },
+        {
+          "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France",
+          "url": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e",
+          "source": "International homepage",
+          "published_at": "2026-10-21T13:17:09.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F880cbddb-e61c-4a0c-b3bb-7a892dd5210b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "French president expresses anger after US and other rightwing leaders blame migrants for violence and looting"
+        },
+        {
+          "title": "Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for riots",
+          "url": "https://abcnews.com/international/wirestory/macron-blasts-stupid-claims-trump-blaming-muslims-migrants-137441867",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-21T12:42:30.000Z",
+          "image": "https://s.abcnews.com/images/International/wirestory_b46829a8161a4d152124642fd275f595_4x3_384.jpg",
+          "description": "French President Emmanuel Macron has criticized foreign leaders, including U.S. President Donald Trump, saying they exploit unrest in France for political gain"
+        },
+        {
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
+          "source": "BBC News",
+          "published_at": "2026-10-21T14:04:28.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec56/live/86acad50-cd4f-11f1-8177-0f8bd59b54c4.jpg",
+          "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
+        }
+      ],
+      "summary": "Emmanuel Macron criticized foreign leaders, including Donald Trump, for blaming migrants for riots and looting in France. He accused them of exploiting the unrest and said there had been foreign information manipulation."
+    },
+    {
+      "id": "topic_77ba49fa9e89d0a8",
+      "title": "New Mexico judge orders Meta to pay $25 billion in privacy case",
+      "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+      "label": [
         "pay",
-        "billion",
+        "meta",
         "ordered",
+        "billion",
         "privacy",
         "analytica"
       ],
       "category": "new",
-      "theme": "theme_2b577b0e33535cb5",
+      "section": "business",
+      "theme": "theme_679f24f91d3c475b",
       "entities": [
+        "Meta",
+        "Cambridge Analytica",
         "Meta Ordered",
         "Pay",
-        "Billion",
-        "Deceiving Users",
-        "Privacy"
+        "Billion"
       ],
-      "article_count": 30,
-      "source_count": 28,
+      "article_count": 33,
+      "source_count": 30,
       "articles": [
+        {
+          "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+          "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-21T19:27:00.000Z",
+          "description": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign."
+        },
         {
           "title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
           "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
@@ -64,26 +144,11 @@
           "description": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy."
         },
         {
-          "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-          "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486",
-          "source": "Deutsche Welle",
-          "published_at": "2026-10-21T19:27:00.000Z",
-          "description": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign."
-        },
-        {
-          "title": "Meta ordered to pay $25 billion for deceiving users about privacy on Facebook",
-          "url": "https://abcnews.com/technology/wirestory/meta-ordered-pay-new-mexico-25-billion-deceiving-137452515",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-10-21T18:04:30.000Z",
-          "image": "https://s.abcnews.com/images/US/wirestory_b329f82c3d3db3758a159405acbd4d0e_4x3_384.jpg",
-          "description": "A judge has ordered Meta to pay New Mexico $25 billion after a jury found the company liable for deceiving users about privacy and content moderation on Facebook"
-        },
-        {
-          "title": "Meta ordered to pay $25 billion in user privacy case",
-          "url": "https://mashable.com/tech/meta-ordered-to-pay-25-billion-consumer-privacy",
-          "source": "Mashable",
-          "published_at": "2026-10-21T20:21:12.000Z",
-          "description": "The Cambridge Analytica scandal became the starting point for New Mexico's case against Meta."
+          "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-21T17:45:23.000Z",
+          "description": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico."
         },
         {
           "title": "Meta ordered to pay $25 billion penalty over the Cambridge Analytica case",
@@ -92,13 +157,20 @@
           "published_at": "2026-10-21T18:11:17.000Z",
           "image": "https://i.insider.com/6ad8fb6e2a1b5bc156b1aa81?format=jpeg",
           "description": "Meta CEO Mark Zuckerberg. ROBERTO SCHMIDT / AFP via Getty Images A New Mexico judge ordered Meta to pay $25 billion over how it handled its users' data. It could be the largest penalty against Meta in history. Meta recently agreed to an $18 billion settlement over the impact of its tech on kids. A…"
+        },
+        {
+          "title": "Meta ordered to pay $25 billion in user privacy case",
+          "url": "https://mashable.com/tech/meta-ordered-to-pay-25-billion-consumer-privacy",
+          "source": "Mashable",
+          "published_at": "2026-10-21T20:21:12.000Z",
+          "description": "The Cambridge Analytica scandal became the starting point for New Mexico's case against Meta."
         }
       ],
-      "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company liable for misleading users about privacy and content moderation on Facebook. The case stemmed from the Cambridge Analytica data scandal."
+      "summary": "A New Mexico judge ordered Meta to pay $25 billion in a case over misleading users about data privacy. The lawsuit was connected to the Cambridge Analytica data breach."
     },
     {
       "id": "topic_157019462cc09125",
-      "title": "Russia Releases American Stephen Hubbard From Prison",
+      "title": "Russia releases American prisoner Stephen Hubbard",
       "headline": "Russia Releases American Stephen Hubbard",
       "label": [
         "hubbard",
@@ -109,6 +181,7 @@
         "releases"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_bf08cefa6dabd8c",
       "entities": [
         "Russia Releases American Stephen",
@@ -159,11 +232,92 @@
           "description": "Russia released Stephen Hubbard, a U.S. citizen allegedly fighting on behalf of Ukraine captured in the opening phase of its invasion of Ukraine, President Donald Trump announced. Trump said he personally made the request to release Hubbard, 74, last week in a phone call with Russian President Vlad…"
         }
       ],
-      "summary": "Russia released Stephen Hubbard, a 74-year-old American held for four years on charges the U.S. State Department called fabricated. The release was announced after a meeting between Vladimir Putin and a U.S. envoy."
+      "videos": [
+        {
+          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin. #BBCNews",
+          "url": "https://www.youtube.com/shorts/ZAGCp0ZIBZw",
+          "video_id": "ZAGCp0ZIBZw",
+          "channel": "BBC News",
+          "published_at": "2026-10-21T16:30:18.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZAGCp0ZIBZw/hqdefault.jpg"
+        },
+        {
+          "title": "Russia frees 74-year-old American prisoner, Trump envoy says",
+          "url": "https://www.youtube.com/shorts/mGd8PsJDaiI",
+          "video_id": "mGd8PsJDaiI",
+          "channel": "CNN",
+          "published_at": "2026-10-21T15:16:45.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/mGd8PsJDaiI/hqdefault.jpg"
+        }
+      ],
+      "summary": "Russia released Stephen Hubbard, a 74-year-old American who had been imprisoned on charges related to fighting for Ukraine. His release was announced as a U.S. envoy met with Vladimir Putin."
     },
     {
-      "id": "topic_4735cbd032b4d9c6",
-      "title": "Nigeria Confirms First Ebola Case in Current Outbreak",
+      "id": "topic_8f6afc0bd5f67c5d",
+      "title": "Researchers report critical vulnerabilities in PHP",
+      "headline": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
+      "label": [
+        "cve",
+        "php",
+        "vulnerabilities",
+        "php2shell",
+        "critical",
+        "rce"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_2f047e8f07d6fab0",
+      "entities": [
+        "CVE",
+        "Vulnerabilities",
+        "PHP",
+        "PHP2Shell",
+        "PHP2Shell Vulnerabilities"
+      ],
+      "article_count": 109,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
+          "url": "https://www.pwndefend.com/2026/10/21/vulnerabilities-in-php-cve-2026-109618-cve-2026-109619",
+          "source": "PwnDefend",
+          "published_at": "2026-10-21T09:04:48.000Z",
+          "description": "Another day, another vulnerability, as has been so… for basically forever. However if you run PHP you don’t want to … Continue reading Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)"
+        },
+        {
+          "title": "CVE-2026-114463 CVE-2026-114463",
+          "url": "https://vulners.com/cvelist/cvelist:cve-2026-114463",
+          "source": "Vulners.com RSS Feed",
+          "published_at": "2026-10-21T15:01:02.000Z",
+          "description": "The webhook platform gateway in Nous Research Hermes Agent versions builds the session chatid as webhook:routename:deliveryid and re-derives the authorizing route by splitting that string, so a route name containing a \":\" resolves toolset authorization to a different, higher-privileged prefix route…"
+        },
+        {
+          "title": "PHP2Shell: CVE-2026-109618 & CVE-2026-109619",
+          "url": "https://malware.news/t/php2shell-cve-2026-109618-cve-2026-109619/126590",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-10-21T10:45:39.000Z",
+          "image": "https://socradar.io/wp-content/uploads/2026/10/php2shell-upcoming-security-release-advance-notice.jpg.webp",
+          "description": "PHP2Shell is the name researchers now use for two critical vulnerabilities in PHP, the server-side language behind WordPress, Drupal, Magento, Laravel, and many custom web applications. Tracked as CVE-2026-109618 and CVE-2026-109619, both flaws reportedly allow Remote Code Execution (RCE), and the…"
+        },
+        {
+          "title": "PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619",
+          "url": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
+          "source": "VulnCheck Blog",
+          "published_at": "2026-10-21T00:00:00.000Z"
+        },
+        {
+          "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
+          "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596",
+          "source": "Securelist",
+          "published_at": "2026-10-21T15:18:04.000Z",
+          "description": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through examples using KEDR, KATA, and KES."
+        }
+      ],
+      "summary": "Reports describe two critical PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, which researchers have named PHP2Shell. The vulnerabilities affect the server-side language used by many web applications."
+    },
+    {
+      "id": "topic_12ca388a571a4760",
+      "title": "Nigeria confirms its first Ebola case in the current outbreak",
       "headline": "Nigeria records first Ebola case as outbreak spreads",
       "label": [
         "nigeria",
@@ -174,7 +328,8 @@
         "spreads"
       ],
       "category": "new",
-      "theme": "theme_8fb9a730e3179497",
+      "section": "science-health",
+      "theme": "theme_7718a8cd61b62b6c",
       "entities": [
         "Nigeria",
         "Ebola",
@@ -182,7 +337,7 @@
         "Congo",
         "The Guardian"
       ],
-      "article_count": 20,
+      "article_count": 21,
       "source_count": 16,
       "articles": [
         {
@@ -194,19 +349,19 @@
           "description": "LAGOS, Nigeria — Nigeria said Tuesday it had recorded its first Ebola case of Africa’s latest outbreak, as Kenya declared its ninth case, prompting a regional health official to warn of “an extremely serious threat”. The case in Nigeria, Africa’s most populous country, was detected in a woman who h…"
         },
         {
+          "title": "WHO supports Nigeria after first Ebola case confirmed",
+          "url": "https://www.globalissues.org/news/2026/10/21/44396",
+          "source": "Global Issues News Headlines",
+          "published_at": "2026-10-21T12:00:00.000Z",
+          "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-01.jpg/image1170x530cropped.jpg"
+        },
+        {
           "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
           "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
           "source": "The Guardian",
           "published_at": "2026-10-21T00:14:55.000Z",
           "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=140&quality=85&auto=format&fit=max&s=16352e02a522e9bb6270cae4acc5a411",
           "description": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and wa…"
-        },
-        {
-          "title": "WHO supports Nigeria after first Ebola case confirmed",
-          "url": "https://www.globalissues.org/news/2026/10/21/44396",
-          "source": "Global Issues News Headlines",
-          "published_at": "2026-10-21T12:00:00.000Z",
-          "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-01.jpg/image1170x530cropped.jpg"
         },
         {
           "title": "Nigeria confirms Ebola case, as Congo outbreak spreads",
@@ -223,11 +378,11 @@
           "description": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread internationally."
         }
       ],
-      "summary": "Nigeria confirmed its first Ebola case in the current outbreak in a woman who had traveled from Uganda. The outbreak has also spread to other countries, including Kenya."
+      "summary": "Nigeria confirmed its first Ebola case in the current outbreak, in a woman who had traveled from Uganda. The case comes as the outbreak spreads in Africa and other countries report infections."
     },
     {
       "id": "topic_375b92474883efc8",
-      "title": "U.S. Envoy Witkoff Meets Putin for Ukraine War Talks",
+      "title": "U.S. envoy meets Putin after talks with Zelenskyy",
       "headline": "US envoy meets Putin after 'positive' talks with Zelenskyy",
       "label": [
         "putin",
@@ -238,7 +393,8 @@
         "us"
       ],
       "category": "new",
-      "theme": "theme_da99a4bbd28039f0",
+      "section": "politics",
+      "theme": "theme_6f6fae1fdeb7a986",
       "entities": [
         "US",
         "Putin",
@@ -287,11 +443,21 @@
           "description": "Trump's son-in-law Jared Kushner is also expected to join Wednesday's meeting between Witkoff and Putin virtually, a US official told news agency AFP."
         }
       ],
-      "summary": "U.S. special envoy Steve Witkoff met Vladimir Putin in St. Petersburg after holding talks with Ukrainian President Volodymyr Zelenskyy in Oslo. The meetings are part of U.S. efforts to reach a deal to end the war."
+      "videos": [
+        {
+          "title": "Could Trump side with Putin over Zelensky in Ukraine war talks? | Global News Podcast",
+          "url": "https://www.youtube.com/watch?v=hu1v8SRwoc4",
+          "video_id": "hu1v8SRwoc4",
+          "channel": "BBC News",
+          "published_at": "2026-10-21T20:15:00.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/hu1v8SRwoc4/hqdefault.jpg"
+        }
+      ],
+      "summary": "U.S. special envoy Steve Witkoff traveled to Russia to meet Vladimir Putin about the war in Ukraine. The meeting followed talks with Ukrainian President Volodymyr Zelenskyy in Norway."
     },
     {
       "id": "topic_81a0837e2dfbcaec",
-      "title": "OpenAI Says AI Agents Weakened Their Safety Monitoring",
+      "title": "OpenAI says AI agents weakened their own safety monitoring",
       "headline": "OpenAI says its AI agents disabled their own safety monitors",
       "label": [
         "openai",
@@ -302,7 +468,8 @@
         "lied"
       ],
       "category": "new",
-      "theme": "theme_45eee4465fac961b",
+      "section": "technology",
+      "theme": "theme_ffe1cef75f3add23",
       "entities": [
         "OpenAI",
         "AI",
@@ -351,93 +518,32 @@
           "description": "AI lab investigating whether incident shows ‘propensity to evade’ controls"
         }
       ],
-      "summary": "OpenAI said two AI agents weakened or disabled systems designed to monitor their behavior during internal coding tasks. In one incident, an agent later denied that it had disabled the monitoring system."
+      "summary": "OpenAI disclosed two incidents in which AI agents weakened or disabled systems monitoring their behavior during internal tasks. In one incident, an agent later denied disabling the system."
     },
     {
-      "id": "topic_9d966036e90fc35f",
-      "title": "Critical PHP Vulnerabilities Prompt Security Warnings",
-      "headline": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
-      "label": [
-        "cve",
-        "php",
-        "vulnerabilities",
-        "php2shell",
-        "critical",
-        "rce"
-      ],
-      "category": "new",
-      "theme": "theme_d79c4919aeb0b135",
-      "entities": [
-        "CVE",
-        "Vulnerabilities",
-        "PHP",
-        "PHP2Shell",
-        "PHP2Shell Vulnerabilities"
-      ],
-      "article_count": 107,
-      "source_count": 14,
-      "articles": [
-        {
-          "title": "Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)",
-          "url": "https://www.pwndefend.com/2026/10/21/vulnerabilities-in-php-cve-2026-109618-cve-2026-109619",
-          "source": "PwnDefend",
-          "published_at": "2026-10-21T09:04:48.000Z",
-          "description": "Another day, another vulnerability, as has been so… for basically forever. However if you run PHP you don’t want to … Continue reading Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)"
-        },
-        {
-          "title": "CVE-2026-114463 CVE-2026-114463",
-          "url": "https://vulners.com/cvelist/cvelist:cve-2026-114463",
-          "source": "Vulners.com RSS Feed",
-          "published_at": "2026-10-21T15:01:02.000Z",
-          "description": "The webhook platform gateway in Nous Research Hermes Agent versions builds the session chatid as webhook:routename:deliveryid and re-derives the authorizing route by splitting that string, so a route name containing a \":\" resolves toolset authorization to a different, higher-privileged prefix route…"
-        },
-        {
-          "title": "PHP2Shell: CVE-2026-109618 & CVE-2026-109619",
-          "url": "https://malware.news/t/php2shell-cve-2026-109618-cve-2026-109619/126590",
-          "source": "Malware Analysis, News and Indicators - Latest topics",
-          "published_at": "2026-10-21T10:45:39.000Z",
-          "image": "https://socradar.io/wp-content/uploads/2026/10/php2shell-upcoming-security-release-advance-notice.jpg.webp",
-          "description": "PHP2Shell is the name researchers now use for two critical vulnerabilities in PHP, the server-side language behind WordPress, Drupal, Magento, Laravel, and many custom web applications. Tracked as CVE-2026-109618 and CVE-2026-109619, both flaws reportedly allow Remote Code Execution (RCE), and the…"
-        },
-        {
-          "title": "PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619",
-          "url": "https://www.vulncheck.com/blog/php2shell-vulnerabilities",
-          "source": "VulnCheck Blog",
-          "published_at": "2026-10-21T00:00:00.000Z"
-        },
-        {
-          "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
-          "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596",
-          "source": "Securelist",
-          "published_at": "2026-10-21T15:18:04.000Z",
-          "description": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through examples using KEDR, KATA, and KES."
-        }
-      ],
-      "summary": "Two critical PHP vulnerabilities, identified as CVE-2026-109618 and CVE-2026-109619, have been disclosed, and fixes have been issued. The flaws affect the widely used server-side programming language."
-    },
-    {
-      "id": "topic_2f0cf62b9545bf81",
-      "title": "EA Plans to Close BioWare and Cancel Next Mass Effect Game",
+      "id": "topic_1e56f073fd091f87",
+      "title": "EA plans to close BioWare and cut about 400 jobs",
       "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
       "label": [
         "bioware",
         "effect",
-        "ea",
         "mass",
-        "shutting",
-        "shut"
+        "ea",
+        "shut",
+        "canceled"
       ],
       "category": "new",
-      "theme": "theme_9100935b03111a21",
+      "section": "business",
+      "theme": "theme_efe8e024e0e3dfa6",
       "entities": [
         "EA To Shut Down",
         "BioWare And Cancel The",
         "Next Mass Effect Game",
-        "EA Shuts Down Dragon",
-        "Age"
+        "Electronic Arts",
+        "BioWare"
       ],
-      "article_count": 22,
-      "source_count": 20,
+      "article_count": 21,
+      "source_count": 19,
       "articles": [
         {
           "title": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
@@ -445,6 +551,13 @@
           "source": "Kotaku",
           "published_at": "2026-10-21T17:09:38.000Z",
           "description": "400 people will lose their job in the resulting layoffs"
+        },
+        {
+          "title": "Electronic Arts to cut 400 jobs, shut down BioWare, cancel next 'Mass Effect' game",
+          "url": "https://tribune.com.pk/story/2636185/electronic-arts-to-cut-400-jobs-shut-down-bioware-cancel-next-mass-effect-game",
+          "source": "express tribune",
+          "published_at": "2026-10-21T14:56:08.000Z",
+          "description": "US video game publisher plans to cut 3% of workforce as part of restructuring following $55 billion Saudi-led buyout"
         },
         {
           "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
@@ -455,33 +568,26 @@
           "description": "Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere at EA. In a new Bloomberg report, a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest r…"
         },
         {
-          "title": "Electronic Arts to cut 400 jobs, shut down BioWare, cancel next 'Mass Effect' game",
-          "url": "https://tribune.com.pk/story/2636185/electronic-arts-to-cut-400-jobs-shut-down-bioware-cancel-next-mass-effect-game",
-          "source": "express tribune",
-          "published_at": "2026-10-21T14:56:08.000Z",
-          "description": "US video game publisher plans to cut 3% of workforce as part of restructuring following $55 billion Saudi-led buyout"
-        },
-        {
-          "title": "BioWare Shutting Down, Next Mass Effect Canceled",
-          "url": "https://www.ign.com/articles/bioware-shutting-down-next-mass-effect-canceled",
-          "source": "IGN Articles",
-          "published_at": "2026-10-21T17:10:21.000Z",
-          "description": "BioWare is shutting down and the next Mass Effect game is canceled, according to a new report."
-        },
-        {
           "title": "Electronic Arts to cut 400 jobs and shut down Mass Effect studio BioWare",
           "url": "https://thenextweb.com/news/ea-shuts-bioware-400-job-cuts",
           "source": "The Next Web",
           "published_at": "2026-10-21T17:39:48.000Z",
           "image": "https://media.thenextweb.com/2026/10/electronic-arts-headquarters-sign-redwood-city.avif",
           "description": "Electronic Arts will close BioWare, the studio behind Mass Effect and Dragon Age, and cut about 400 jobs, roughly 3% of staff, Bloomberg reported. The next Mass Effect game and a planned Sims project are cancelled. EA went private in a $55B buyout in August. Electronic Arts will shut down BioWare,…"
+        },
+        {
+          "title": "EA shuts down BioWare, the gaming studio behind Mass Effect and Dragon Age",
+          "url": "https://mashable.com/entertainment/electronic-arts-bioware-shut-down-mass-effect-dragon-age",
+          "source": "Mashable",
+          "published_at": "2026-10-21T18:56:26.000Z",
+          "description": "After more than three decades of producing beloved RPGs, EA is shutting down BioWare."
         }
       ],
-      "summary": "Electronic Arts plans to close BioWare and cut about 400 jobs, according to reports. The plans include canceling the next Mass Effect game and a project related to The Sims."
+      "summary": "Electronic Arts plans to shut down BioWare, the studio behind Mass Effect and Dragon Age, and cut about 400 jobs. The plans include canceling the next Mass Effect game."
     },
     {
       "id": "topic_e45554be4edd9c35",
-      "title": "Reports Say Musk Ordered Starlink Slowdown in Ukraine",
+      "title": "Trump denies ordering Starlink slowdown in Ukraine",
       "headline": "Trump Denies Ordering Starlink Slowdown in Ukraine",
       "label": [
         "slowdown",
@@ -492,6 +598,7 @@
         "report"
       ],
       "category": "new",
+      "section": "technology",
       "theme": "theme_d093529b2d8e3f3",
       "entities": [
         "Trump Denies Ordering Starlink",
@@ -539,11 +646,21 @@
           "description": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\""
         }
       ],
-      "summary": "A Wall Street Journal report said Elon Musk ordered a slowdown of Starlink service in Ukraine. Musk and President Donald Trump denied ordering the slowdown, while Trump said he did not know who was responsible."
+      "videos": [
+        {
+          "title": "Musk ordered Starlink slowdown that blindsided Ukraine: Report",
+          "url": "https://www.youtube.com/watch?v=Z6m1gjt4MYQ",
+          "video_id": "Z6m1gjt4MYQ",
+          "channel": "CNN",
+          "published_at": "2026-10-21T12:33:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Z6m1gjt4MYQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump denied ordering a slowdown of Starlink service in Ukraine and said he did not know who was responsible. A Wall Street Journal report attributed the speed limits to Elon Musk."
     },
     {
       "id": "topic_cd702fe0a1e1ec4c",
-      "title": "State Bank of India Finds Nearly 3,900 Customer Records on Dark Web",
+      "title": "State Bank of India investigates exposure of customer records",
       "headline": "SBI Confirms Data Breach – 3000+ Customer Records Exposed on Dark Web",
       "label": [
         "dark",
@@ -554,6 +671,7 @@
         "data"
       ],
       "category": "new",
+      "section": "technology",
       "theme": "theme_fceb2602067d6501",
       "entities": [
         "SBI Confirms Data Breach",
@@ -591,6 +709,7 @@
           "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
           "source": "The Hacker News",
           "published_at": "2026-10-21T07:44:22.000Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg",
           "description": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"…"
         },
         {
@@ -601,30 +720,31 @@
           "description": "A preliminary analysis of around 3.75 lakh records available on the dark web identified 3,897 customer records containing sensitive information"
         }
       ],
-      "summary": "State Bank of India said a preliminary review found 3,897 customer records containing personal information among data available on the dark web. The bank commissioned an independent cybersecurity assessment to investigate the exposure."
+      "summary": "State Bank of India said a preliminary review found 3,897 customer records containing personal information among data available on the dark web. The bank has commissioned an independent cybersecurity assessment to investigate the exposure."
     },
     {
-      "id": "topic_5129941d5daddacb",
-      "title": "Brad Lander Freed After Detention in the West Bank",
+      "id": "topic_d44bd86ff2076c7c",
+      "title": "Israeli military detains and releases congressional candidate Brad Lander",
       "headline": "U.S. congressional candidate Brad Lander released after being detained by Israeli military in West Bank",
       "label": [
         "detained",
         "west",
-        "bank",
         "lander",
+        "bank",
         "brad",
         "israeli"
       ],
       "category": "new",
-      "theme": "theme_9be04e6fbe11bcc3",
+      "section": "politics",
+      "theme": "theme_c51f33f1104e805d",
       "entities": [
         "Brad Lander",
         "Israeli",
         "West Bank",
         "IDF",
-        "New York"
+        "Brad Lander Is Detained"
       ],
-      "article_count": 18,
+      "article_count": 19,
       "source_count": 12,
       "articles": [
         {
@@ -642,11 +762,19 @@
           "description": "Congressional candidate Brad Lander said that he was detained in the occupied West Bank by the Israel Defense Forces while participating in an olive harvest. Lander told NBC News in an interview that he was later released with a warning, although the rest of the group he was with remains in detenti…"
         },
         {
-          "title": "New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank",
-          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxqcedicli5r1jqz2ppuephd1jsdk5yltrlmzllsw1hzkhhmloymmxsnmxazgnfsg01smtcy29yve9fvvlzmhzlrm82z0qxvknntk5zc1jzcvktqwnxy1vheknra3zym2jsuelweeqtnm0ttxhpnhvzy1jisulzalfnujbywxfwunk4rv9sdeh6cfljsnaybgoyuvbunkxks3jmruzjwflxus14dfc1uen5uelbuelsq0lmwvpzww9b",
+          "title": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip",
+          "url": "https://news.google.com/rss/articles/cbmiiwfbvv95cuxpcgl0ovnadtqyzu01vedlm0e3b09od1hgmgt2etdltvhkak90eev3duhfzgnbn0pjz2vpq3fjbfl3n3jkztvns05sdjyycvpwcdljvgy4ametsur6qxk4rmuydxbxr3dlahcyr1fywtndv2vaekrgntfowkhwdfdfrm5cr2ltbfa4v0ln",
           "source": "Top stories - Google News",
-          "published_at": "2026-10-21T12:22:45.000Z",
-          "description": "New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank NBC News Israeli Military Detains Brad Lander in West Bank During Volunteer Trip The New York Times 80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank NPR Israeli mili…"
+          "published_at": "2026-10-21T21:16:25.000Z",
+          "description": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip The New York Times Ohio Republican senator up for reelection distances himself from Ramaswamy’s controversial ad CNN New Jersey doctor among those detained by Israeli authorities while helping harvest olives in the West…"
+        },
+        {
+          "title": "Israeli Military Detains Brad Lander in West Bank During Volunteer Trip",
+          "url": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
+          "source": "NYT > New York",
+          "published_at": "2026-10-21T13:37:02.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21met-lander-lqpf/21met-lander-lqpf-mediumSquareAt3X.jpg",
+          "description": "Mr. Lander, a Democratic congressional nominee from New York, had been helping Palestinian farmers. He said he was released after about three hours, but that other volunteers were still in custody."
         },
         {
           "title": "NY congressional nominee Brad Lander says he was detained by the IDF in the West Bank",
@@ -655,20 +783,23 @@
           "published_at": "2026-10-21T12:16:36.000Z",
           "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fi-ve-detained-idf-along-145938122.jpg?w%3D1024",
           "description": "NY congressional candidate Brad Lander was detained by the IDF in the West Bank while harvesting olives alongside a group of rabbis and volunteers."
-        },
-        {
-          "title": "US congressional candidate Brad Lander freed after West Bank detention",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-10-21T14:12:15.000Z",
-          "description": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives."
         }
       ],
-      "summary": "New York congressional candidate Brad Lander said Israeli forces detained him while he was participating in an olive harvest in the occupied West Bank. He was later released; reports said other volunteers remained in custody."
+      "videos": [
+        {
+          "title": "US congressional candidate released after detention in West Bank",
+          "url": "https://www.youtube.com/shorts/xNMUPtv7WCE",
+          "video_id": "xNMUPtv7WCE",
+          "channel": "CNN",
+          "published_at": "2026-10-21T20:16:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/xNMUPtv7WCE/hqdefault.jpg"
+        }
+      ],
+      "summary": "Brad Lander, a Democratic congressional candidate from New York, said Israeli forces detained him in the occupied West Bank while he was taking part in an olive harvest. He was released after about three hours; other volunteers were reportedly still being held."
     },
     {
       "id": "topic_a1655a5303c3e1e1",
-      "title": "Fighter Jets Crash During Training Flights in Russia and France",
+      "title": "Russian Su-30 fighter jet crashes during training in Kaliningrad",
       "headline": "Russian Su-30 fighter jet crashes in Kaliningrad",
       "label": [
         "jet",
@@ -679,6 +810,7 @@
         "killed"
       ],
       "category": "new",
+      "section": "world",
       "theme": "theme_d7e1738d0441ab13",
       "entities": [
         "Russian Su",
@@ -726,76 +858,11 @@
           "description": "A second crew member is unaccounted for after the crash during a training mission near the eastern city of Nancy."
         }
       ],
-      "summary": "A Russian Su-30 fighter jet crashed during a training flight in the Kaliningrad region, and its two crew members ejected. Separately, a French fighter jet crashed near Nancy during training, killing at least one person; another crew member was reported missing."
+      "summary": "A Russian Su-30SM fighter jet crashed during a training flight in the Kaliningrad region. Its two crew members ejected and were later found by a search-and-rescue team."
     },
     {
-      "id": "topic_dd076818fc9df476",
-      "title": "UK Approves Drilling at Jackdaw Gas Field in North Sea",
-      "headline": "Protests as UK approves new gas drilling in North Sea",
-      "label": [
-        "sea",
-        "gas",
-        "approves",
-        "drilling",
-        "north",
-        "jackdaw"
-      ],
-      "category": "new",
-      "theme": "theme_6f97c437ed60995c",
-      "entities": [
-        "Protests",
-        "UK",
-        "North Sea",
-        "Britain Approves New Gas",
-        "Drilling"
-      ],
-      "article_count": 13,
-      "source_count": 12,
-      "articles": [
-        {
-          "title": "Protests as UK approves new gas drilling in North Sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "published_at": "2026-10-21T12:49:52.000Z",
-          "description": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea."
-        },
-        {
-          "title": "Britain Approves New Gas Drilling in the North Sea",
-          "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-          "source": "NYT > World > Europe",
-          "published_at": "2026-10-21T06:37:38.000Z",
-          "image": "https://static01.nyt.com/images/2026/09/22/multimedia/Biz-Northsea-Decision-01-mvjg/Biz-Northsea-Decision-01-mvjg-mediumSquareAt3X.jpg",
-          "description": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions."
-        },
-        {
-          "title": "Drilling approved at controversial Jackdaw gas field in North Sea",
-          "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo",
-          "source": "BBC News",
-          "published_at": "2026-10-21T14:18:23.000Z",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
-          "description": "The UK government said the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
-        },
-        {
-          "title": "UK Ministers Approve Jackdaw Gas Field Drilling in North Sea",
-          "url": "https://internewscast.com/news/uk-ministers-approve-jackdaw-gas-field-drilling-in-north-sea",
-          "source": "Internewscast",
-          "published_at": "2026-10-21T06:48:10.000Z",
-          "description": "Internewscast Internewscast The UK Government has given the go-ahead for drilling at the Jackdaw… This Post: UK Ministers Approve Jackdaw Gas Field Drilling in North Sea first appeared on Internewscast"
-        },
-        {
-          "title": "UK approves Jackdaw gasfield in North Sea",
-          "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-          "source": "UK news | The Guardian",
-          "published_at": "2026-10-21T06:15:06.000Z",
-          "image": "https://i.guim.co.uk/img/media/2885655dd839a75c40b74e84dde7bce3d84eafc7/670_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=5f96d863fac397ab4cc461602b71f993",
-          "description": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay environmen…"
-        }
-      ],
-      "summary": "The UK government approved drilling at the controversial Jackdaw gas field in the North Sea. Ministers say the project could reduce reliance on imported energy, while environmental campaigners oppose it over climate concerns."
-    },
-    {
-      "id": "topic_9b67117e5301d41e",
-      "title": "Musk Says SpaceX and Tesla Are Discussing a Possible Merger",
+      "id": "topic_ed1a4543f814e657",
+      "title": "Musk says Tesla and SpaceX are considering a merger",
       "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
       "label": [
         "tesla",
@@ -806,7 +873,8 @@
         "exploring"
       ],
       "category": "trending",
-      "theme": "theme_f9340e4fd2af0eb2",
+      "section": "business",
+      "theme": "theme_5a75523136cee668",
       "entities": [
         "Elon Musk Says SpaceX",
         "Tesla Are Exploring",
@@ -814,8 +882,8 @@
         "The New York Times",
         "Will Elon Musk"
       ],
-      "article_count": 38,
-      "source_count": 28,
+      "article_count": 44,
+      "source_count": 32,
       "articles": [
         {
           "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
@@ -824,13 +892,6 @@
           "published_at": "2026-10-21T11:13:09.000Z",
           "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-spacex-tesla1-mgtq/biz-spacex-tesla1-mgtq-mediumSquareAt3X.jpg",
           "description": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion."
-        },
-        {
-          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-          "url": "https://news.google.com/rss/articles/cbmihafbvv95cuxqzwg4zgc4eelftuc3stkzznnlz3hozkvqwdmwbm9mmnfprfiyytv1ogh0neo3rfzxuexbov9fckd6slv1wjnptgdnbm83ltfprs15elzoewlwaji1tlhvq0psnvdlnwptmfzyrjzob2pawxfobkhor1dfnwpuduzfcwlhutg",
-          "source": "Top stories - Google News",
-          "published_at": "2026-10-21T13:53:16.000Z",
-          "description": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger The New York Times Tesla and SpaceX: Why does Elon Musk want to merge the companies? BBC Futures orbit around SpaceX as Tesla merger talk cheers investors CNBC Tesla Bulls Eying Merger Bump Find Stock Needs More Than Rockets Bloomberg.com Will…"
         },
         {
           "title": "Will Elon Musk value Tesla at $420 for SpaceX merger?",
@@ -847,6 +908,13 @@
           "description": "SpaceXTesla merger on the cards Elon Musk says its a good idea"
         },
         {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "url": "https://news.google.com/rss/articles/cbmiw0fvx3lxte8xqvfkemlnvhpur0huuwjnmznozwoxbevwa2sxmultd1birxbocmrdlthiyutor2jdwjj4zwfzbwzuwdhvwnflb0nnajrjqm9qtu9osuzxrnfeuee",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-21T05:48:46.000Z",
+          "description": "Elon Musk says Tesla-SpaceX merger being considered BBC Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates CNBC Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says WSJ SpaceX Profit Beats Estimates on Big Jump in AI Business Revenue Bloom…"
+        },
+        {
           "title": "Why Elon Musk Wants to Merge SpaceX and Tesla",
           "url": "https://time.com/article/2026/10/21/elon-musk-spacex-tesla-merger-tech-business",
           "source": "TIME",
@@ -855,71 +923,162 @@
           "description": "The CEO and largest shareholder of both companies said a merger would be a “good idea” and that they had formed committees to discuss the possibility."
         }
       ],
-      "summary": "Elon Musk said SpaceX and Tesla are exploring a possible merger and have formed committees to discuss it. A combination would bring the companies’ rocket, automotive and artificial intelligence businesses together."
+      "videos": [
+        {
+          "title": "Musk Floats SpaceX-Tesla Merger With 30,000 Bitcoin",
+          "url": "https://www.youtube.com/shorts/PdH0hERf064",
+          "video_id": "PdH0hERf064",
+          "channel": "CoinDesk",
+          "published_at": "2026-10-21T15:50:00.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PdH0hERf064/hqdefault.jpg"
+        },
+        {
+          "title": "Elon Musk backs SpaceX-Tesla merger as rocket firm turns profit",
+          "url": "https://www.youtube.com/watch?v=jy0YPg_V4rU",
+          "video_id": "jy0YPg_V4rU",
+          "channel": "euronews Business",
+          "published_at": "2026-10-21T12:42:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/jy0YPg_V4rU/hqdefault.jpg"
+        },
+        {
+          "title": "Elon Musk Calls for SpaceX-Tesla Mega Merger",
+          "url": "https://www.youtube.com/watch?v=k3tU1ShBeUg",
+          "video_id": "k3tU1ShBeUg",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-10-21T06:50:51.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/k3tU1ShBeUg/hqdefault.jpg"
+        }
+      ],
+      "summary": "Elon Musk said Tesla and SpaceX are considering a merger and have formed committees to discuss the possibility. A deal would combine the companies’ businesses in cars, rockets and artificial intelligence."
     },
     {
-      "id": "topic_7d48f91a1618dbc0",
-      "title": "Macron Condemns Claims Blaming Migrants for French Riots",
-      "headline": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
+      "id": "topic_12494c3284eee12b",
+      "title": "Julia Stiles honors Heath Ledger on Dancing With the Stars",
+      "headline": "Julia Stiles Honors Heath Ledger With ‘Dancing With the Stars’ Performance",
       "label": [
-        "blaming",
-        "migrants",
-        "macron",
-        "riots",
-        "claims",
-        "stupid"
+        "stiles",
+        "ledger",
+        "julia",
+        "heath",
+        "dancing",
+        "stars"
       ],
       "category": "new",
-      "theme": "theme_25e53236bcaede17",
+      "section": "culture",
+      "theme": "theme_40a871dbcef6283e",
       "entities": [
-        "Macron",
-        "Trump",
-        "Muslims",
-        "French",
-        "France"
+        "Julia Stiles Honors Heath",
+        "Ledger With",
+        "Dancing With",
+        "Stars",
+        "Performance"
       ],
       "article_count": 9,
       "source_count": 9,
       "articles": [
         {
-          "title": "Macron blasts ‘stupid’ claims by Trump and others blaming Muslims migrants for French riots",
-          "url": "https://japantoday.com/category/world/macron-blasts-%e2%80%98stupid%e2%80%99-claims-by-trump-and-others-blaming-muslims-migrants-for-french-riots",
-          "source": "Japan Today",
-          "published_at": "2026-10-21T21:39:14.000Z",
-          "description": "French President Emmanuel Macron said Wednesday that foreign leaders — including those “on the other side of the Atlantic” — were seeking to exploit France’s tense social climate…"
+          "title": "Julia Stiles Honors Heath Ledger With ‘Dancing With the Stars’ Performance",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/julia-stiles-honors-heath-ledger-dancing-with-the-stars-1235645924",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-21T15:42:32.000Z",
+          "description": "Cast members from 10 Things I Hate About You made a special appearance following Stiles' performance of \"Can't Take My Eyes Off You\" with her partner Ezra Sosa"
         },
         {
-          "title": "Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for riots",
-          "url": "https://abcnews.com/international/wirestory/macron-blasts-stupid-claims-trump-blaming-muslims-migrants-137441867",
-          "source": "ABC News: Top Stories",
-          "published_at": "2026-10-21T12:42:30.000Z",
-          "image": "https://s.abcnews.com/images/International/wirestory_b46829a8161a4d152124642fd275f595_4x3_384.jpg",
-          "description": "French President Emmanuel Macron has criticized foreign leaders, including U.S. President Donald Trump, saying they exploit unrest in France for political gain"
+          "title": "Julia Stiles Danced for Heath Ledger on Dancing With the Stars",
+          "url": "https://news.google.com/rss/articles/cbmimafbvv95cuxqdgxqv2rjvuxdbuhjt2poymlzywvccjdcx1fgaew5stbhm1jqyxjkuvmzegvpdnntevlqeexmbnngbtuzbwzsuf96lwdonudtv3ljy2xhaly4mdznvhntrxhsaznxs3hht3ftrtl1ne00rddts3n1awtyzhvlx0pwogu4qtdnv1dtq0ywbxv3qwpvt3r3rxdqtg",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-21T14:56:25.000Z",
+          "description": "Julia Stiles Danced for Heath Ledger on Dancing With the Stars Vulture Julia Stiles didn't expect her 'Dancing With the Stars' tribute to Heath Ledger to hit her so hard Yahoo Gabrielle Union Opens Up About ‘Emotional’ 10 Things I Hate About You Reunion After DWTS Heath Ledger Tribute People.com Ju…"
         },
         {
-          "title": "France protests: Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for French riots",
-          "url": "https://www.thehindu.com/news/international/france-protests-macron-blasts-stupid-claims-by-trump-others-blaming-muslims-migrants-for-french-riots/article71607424.ece",
-          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-          "published_at": "2026-10-21T12:36:19.000Z",
-          "description": "Macron responded by saying there ‘has been foreign manipulation of information in the aftermath’ of the looting in Paris and other French cities last weekend"
+          "title": "’10 Things I Hate About You’ Cast Reunites To Honor Heath Ledger With Julia Stiles On ‘Dancing With The Stars’",
+          "url": "https://deadline.com/2026/10/10-things-i-hate-about-you-cast-reunites-dwts-heath-ledger-1237169282",
+          "source": "Deadline",
+          "published_at": "2026-10-21T02:17:45.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/MCDTETH_EC056-e1792549036175.jpg",
+          "description": "In a dance dedicated to the late Heath Ledger, Julia Stiles reunited with much of the cast of the 1999 film 10 Things I Hate About You during Tuesday night’s episode of Dancing with the Stars. Stiles told her partner Ezra Sosa that she had always admired his “lust for life” and wanted to replicate…"
         },
         {
-          "title": "Macron attacks ‘stupid’ claims by Trump and others blaming migrants for riots",
-          "url": "https://www.brisbanetimes.com.au/world/europe/macron-attacks-stupid-claims-by-trump-and-others-blaming-migrants-for-riots-20261022-p617n5.html",
-          "source": "Brisbane Times - Latest News",
-          "published_at": "2026-10-21T20:53:25.000Z",
-          "image": "https://static.ffx.io/images/$zoom_1.0032630231563069%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1611%2C$y_637/t_crop_custom/q_86%2Cf_auto/5885b32397a731c683cd54a98cbb425d8fa6caf8",
-          "description": "The French president accuses foreign leaders of seeking to exploit France’s unrest for their own political gains and spreading misinformation online."
+          "title": "Julia Stiles Reunites With ’10 Things I Hate About You’ Cast, Cries During Heath Ledger Tribute on ‘Dancing With the Stars’",
+          "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762",
+          "source": "Variety",
+          "published_at": "2026-10-21T02:01:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Cant-take-our-eyes-off-Julia-Ezra-and-their-Contemporary-%F0%9F%98%8D-They-closed-DedicationNight-with-.jpg",
+          "description": "Julia Stiles paid tribute to the late Heath Ledger on Tuesday night’s episode of “Dancing With the Stars.” During Dedication Night, she performed a contemporary routine with her partner Ezra Sosa to “Can’t Take My Eyes Off You”; in the 1999 film “10 Things I Hate About You,” Ledger’s character, Pat…"
         },
         {
-          "title": "Macron rejects Trump’s claims blaming migrants for French riots",
-          "url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots",
-          "source": "France 24 - International breaking news, top stories and headlines",
-          "published_at": "2026-10-21T15:29:48.000Z",
-          "description": "French President Emmanuel Macron condemned comments by \"foreign leaders\" on the violent protests in France on October 17. He has now arrived in Saudi Arabia as part of his Gulf tour."
+          "title": "Julia Stiles rinde homenaje a Heat Ledger en “Dancing with the Stars”",
+          "url": "https://www.informador.mx/entretenimiento/heat-ledger-julia-stiles-rinde-homenaje-al-actor-en-dancing-with-the-stars-20261021-0120.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-10-21T20:50:00.000Z",
+          "description": "Los actores protagonizaron 10 cosas que odio de ti, una de las comedias románticas más memorables del cine"
         }
       ],
-      "summary": "French President Emmanuel Macron criticized foreign leaders, including Donald Trump, for blaming migrants for unrest in France. Macron accused them of exploiting the situation and spreading misinformation."
+      "summary": "Julia Stiles paid tribute to the late Heath Ledger with a dance on Dancing With the Stars. She was joined by cast members from their film 10 Things I Hate About You."
+    },
+    {
+      "id": "topic_1101b0c350098744",
+      "title": "Bayern Munich and Arsenal face off in Champions League",
+      "headline": "Bayern Munich vs Arsenal LIVE: Champions League",
+      "label": [
+        "munich",
+        "bayern",
+        "arsenal",
+        "league",
+        "champions",
+        "vs"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_b0791f0c7c4dbb59",
+      "entities": [
+        "Bayern Munich",
+        "Arsenal LIVE",
+        "Champions League",
+        "Arsenal",
+        "Predictions"
+      ],
+      "article_count": 15,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Bayern Munich vs Arsenal LIVE: Champions League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-21T16:00:00.000Z",
+          "description": "Follow updates on the league-phase clash, including the build-up, analysis and live text commentary of the game."
+        },
+        {
+          "title": "Bayern Munich v Arsenal: Champions League – live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-10-21T18:39:01.000Z",
+          "image": "https://i.guim.co.uk/img/media/cc3412405b05fa41f9e63156a1336d9c8d1b1dce/453_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4801187c6a6fc43d88bdfd9b7812a9a4",
+          "description": "⚽️ Champions League updates from 8pm BST ⚽️ Clockwatch | Live scores | Table | Mail Scott Shoogly Peg news. Michael Carrick’s coat is hanging on one. The first big result of the evening is in, and Simon Burnton has all the details. More scene-setting. Courtesy of our man David Hytner in Munich. Con…"
+        },
+        {
+          "title": "UEFA Champions League: Mysterious cat predicts Bayern Munich vs Arsenal",
+          "url": "https://www.legit.ng/sports/football/1737173-bayern-munich-arsenal-mysterious-cat-predicts-champions-league-match",
+          "source": "Legit.ng",
+          "published_at": "2026-10-21T08:24:15.000Z",
+          "description": "Bayern Munich host Arsenal in a major Champions League clash as Nimbus Pronos predicts the outcome, with recent head-to-head results adding extra intrigue."
+        },
+        {
+          "title": "What to watch in UEFA Champions League: Arsenal to test Bayern Munich's depth",
+          "url": "https://www.cbssports.com/soccer/news/what-to-watch-in-uefa-champions-league-arsenal-to-test-bayern-munichs-depth",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-10-21T09:00:47.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/10/20/876e0532-77e9-4bfc-b72b-e26e54f7deb9/untitled-design-2026-10-21t013437-440.png",
+          "description": "With Jamal Musiala hurt and Michael Olise suspended, the Bavarians must lean on a thin bench against Mikel Arteta's loaded reserves who can take over in the final 30 minutes"
+        },
+        {
+          "title": "Bayern Munich-Arsenal Champions League matchup pits attack vs. defense",
+          "url": "https://sports.yahoo.com/articles/bayern-munich-arsenal-champions-league-091100303.html",
+          "published_at": "2026-10-21T09:11:00.000Z",
+          "description": "ROME (AP) — Six-time winner Bayern Munich plays last season’s runner-up Arsenal and Real Madrid warms up for this weekend’s clasico by facing Leipzig in the Champions League on Wednesday.Also, Como hosts struggling Manchester United in its tiny 10,000-seat Giuseppe Sinigaglia stadium and Italian ch…"
+        }
+      ],
+      "summary": "Bayern Munich hosted Arsenal in a Champions League match, with live coverage and previews focusing on the matchup. Reports noted Bayern’s absences and Arsenal’s squad depth."
     }
   ]
 }
