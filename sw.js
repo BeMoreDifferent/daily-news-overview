@@ -20,7 +20,7 @@
  * returns to the foreground, and hourly while it stays open (`refresh-unread` messages).
  */
 
-const CACHE_VERSION = 'v26';
+const CACHE_VERSION = 'v27';
 const ASSET_VERSION = '26';
 const SHELL_CACHE   = `shell-${CACHE_VERSION}`;
 const NEWS_CACHE    = `news-${CACHE_VERSION}`;
