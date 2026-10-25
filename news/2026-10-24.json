@@ -1,0 +1,1001 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-25T00:26:26.434Z",
+  "overview": {
+    "points": [
+      {
+        "text": "A fire broke out at Adolf Hitler’s former Eagle’s Nest retreat in Bavaria, and police detained a suspect.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "The U.S. intelligence chief warned that Iran has increased efforts to target U.S. personnel and that plots against Americans have advanced.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "A collision between two Philippine Air Force planes during a training flight killed four pilots.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "Gunmen opened fire during a funeral at a church in Jordan, killing people and injuring dozens; authorities increased security and searched for the attackers.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "Protests over school funding and the cost of living continued in France, where police used tear gas and major Paris museums closed.",
+        "stories": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_3d7cfde858dd57b1",
+      "title": "Fire at Germany’s Eagle’s Nest retreat leads to suspect’s arrest",
+      "headline": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
+      "label": [
+        "eagle",
+        "nest",
+        "retreat",
+        "hitler",
+        "fire",
+        "engulfs"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_f537ba968ec463d0",
+      "entities": [
+        "Suspect",
+        "Hitler",
+        "Eagle",
+        "Nest",
+        "Fire"
+      ],
+      "article_count": 23,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
+          "url": "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938",
+          "source": "World News - Breaking international news and headlines | Sky News",
+          "published_at": "2026-10-24T04:15:00.000Z",
+          "description": "Police have detained a suspect after a fire erupted at a historic Nazi mountain retreat known as \"Eagle's Nest\" in Germany."
+        },
+        {
+          "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+          "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+          "source": "BBC News",
+          "published_at": "2026-10-24T15:56:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
+          "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire."
+        },
+        {
+          "title": "Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat",
+          "url": "https://news.google.com/rss/articles/cbmiekfvx3lxtfblyvnjc1riwwrga1laskruekhxdll4b1jet2o3wg51zw5lyzlsajluedhlnl9xxzfzduzzekt3akplbtninwp1u3rqc2i0blzhb0jymun6bxbhddfyq2zivms4sek5mvrwaw5md3hvdehgu25ewdnivern",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-24T05:01:03.000Z",
+          "description": "Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat CNN Arrest made after fire at Hitler's famed Eagle's Nest retreat BBC Fire breaks out at Alpine retreat built for Hitler in Germany. A person is detained WRAL Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria The Guardian Suspect…"
+        },
+        {
+          "title": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
+          "url": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-24T14:11:34.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/96/58/81/696x392_cmsv2_a2f8d78b-7c7b-5dd9-a24d-991538ba1738-9965881.jpg",
+          "description": "A fire broke out at the Eagle's Nest, Adolf Hitler's former mountain retreat in southern Germany. Police say a suspect has been detained, and around 200 firefighters were deployed to tackle the blaze."
+        },
+        {
+          "title": "Hitler's Eagle's Nest retreat catches fire, police say",
+          "url": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-24T02:40:00.000Z",
+          "description": "Authorities have arrested a suspect as firemen try to put out the fire in Bavaria, near the Austrian border."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Fire devastates the Eagle's Nest retreat built for Hitler in Germany, one person detained",
+          "url": "https://www.youtube.com/watch?v=CIlf7WSg9Uk",
+          "video_id": "CIlf7WSg9Uk",
+          "channel": "Associated Press",
+          "published_at": "2026-10-24T17:29:38.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/CIlf7WSg9Uk/hqdefault.jpg"
+        },
+        {
+          "title": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
+          "url": "https://www.youtube.com/watch?v=Dske41FwRVI",
+          "video_id": "Dske41FwRVI",
+          "channel": "euronews",
+          "published_at": "2026-10-24T14:11:38.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Dske41FwRVI/hqdefault.jpg"
+        },
+        {
+          "title": "Fire devastates Adolf Hitler's Eagle's Nest retreat #AdolfHitler #EaglesNest #Germany #Tourism",
+          "url": "https://www.youtube.com/shorts/vWgblFnPOH0",
+          "video_id": "vWgblFnPOH0",
+          "channel": "Channel 4 News",
+          "published_at": "2026-10-24T13:42:41.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vWgblFnPOH0/hqdefault.jpg"
+        }
+      ],
+      "summary": "A fire broke out at the Eagle’s Nest, Adolf Hitler’s former mountain retreat in Bavaria. Police detained a suspect, and firefighters responded to the blaze."
+    },
+    {
+      "id": "topic_943b04677a426ece",
+      "title": "U.S. intelligence chief warns Iran is targeting U.S. personnel",
+      "headline": "Iran has ramped up efforts to target U.S. personnel, intelligence memo warns",
+      "label": [
+        "efforts",
+        "target",
+        "iran",
+        "personnel",
+        "warns",
+        "increased"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_9ccf130549a241c2",
+      "entities": [
+        "Iran",
+        "Iran Has",
+        "Increased Efforts",
+        "Target",
+        "Personnel"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Iran has ramped up efforts to target U.S. personnel, intelligence memo warns",
+          "url": "https://www.japantimes.co.jp/news/2026/10/25/world/iran-target-us-personnel",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-10-24T22:59:00.000Z",
+          "description": "The alert from Director of National Intelligence Jay Clayton came after Washington scaled back staffing at its mission in Saudi Arabia last week."
+        },
+        {
+          "title": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns",
+          "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-24T03:13:10.000Z",
+          "description": "Director of National Intelligence Jay Clayton warned in a memo to Secretary of State Rubio that Iran has \"substantially increased efforts to target U.S. personnel,\" and the plots have \"reached advanced stages.\""
+        },
+        {
+          "title": "Iran Has ‘Increased Efforts to Target U.S. Personnel’",
+          "url": "https://politicalwire.com/2026/10/24/iran-has-increased-efforts-to-target-u-s-personnel",
+          "source": "Political Wire",
+          "published_at": "2026-10-24T10:44:33.000Z",
+          "description": "“Director of National Intelligence Jay Clayton warned Friday that Iran has ‘substantially increased efforts to target U.S. personnel’ abroad, with plots to kill Americans reaching ‘advanced stages’ in the Middle East and other countries,” CBS News reports."
+        },
+        {
+          "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+          "url": "https://www.investing.com/news/commodities-news/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-4970887",
+          "source": "All News",
+          "published_at": "2026-10-24T14:06:41.000Z"
+        },
+        {
+          "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns (Reuters)",
+          "url": "https://www.memeorandum.com/261024/p56",
+          "source": "memeorandum",
+          "published_at": "2026-10-24T23:50:00.000Z",
+          "description": "Reuters: Iran has ramped up efforts to target US personnel, intelligence memo warns — Iran has ramped up efforts to target US personnel, and lethal plots by Tehran against American citizens have reached “advanced stages”, a senior intelligence official in the Trump administration warned in a memo s…"
+        }
+      ],
+      "summary": "Director of National Intelligence Jay Clayton warned in a memo that Iran has increased efforts to target U.S. personnel and that plots against Americans have advanced."
+    },
+    {
+      "id": "topic_a9959da67f538235",
+      "title": "Four pilots killed in Philippine military aircraft collision",
+      "headline": "Four pilots killed as two military planes crash mid-air in Philippines",
+      "label": [
+        "air",
+        "pilots",
+        "killed",
+        "mid",
+        "planes",
+        "philippine"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_6c12585adba71e8",
+      "entities": [
+        "Four",
+        "Philippines",
+        "Pilots Killed As",
+        "Planes Crash Mid",
+        "Air During Training In"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Four pilots killed as two military planes crash mid-air in Philippines",
+          "url": "https://dailypost.ng/2026/10/24/four-pilots-killed-as-two-military-planes-crash-mid-air-in-philippines",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-10-24T10:26:58.000Z",
+          "description": "Four pilots have died after two military aircraft collided mid-air during a training exercise at an air base in the Philippines, the country’s air force has confirmed. The incident occurred on Friday afternoon when two SF-260 single-propeller aircraft crashed within the grounds of Fernando Air Base…"
+        },
+        {
+          "title": "Video: 4 Pilots Killed As 2 Planes Crash Mid-Air During Training In Philippines",
+          "url": "https://www.ndtv.com/world-news/4-pilots-killed-as-2-planes-crash-mid-air-during-training-in-philippines-12229111",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-24T07:59:41.000Z",
+          "description": "The SF-260 single propeller planes crashed at Fernando Air Base, south of Manila, on Friday afternoon."
+        },
+        {
+          "title": "Moment two military planes crash into each other in mid-air as four pilots are killed in Philippines",
+          "url": "https://www.dailymail.com/news/article-16235175/moment-two-planes-crash-four-pilots-killed-philippines.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-10-24T09:24:01.000Z",
+          "description": "Footage showed the two planes colliding while flying low over Fernando air base, south of the capital Manila."
+        },
+        {
+          "title": "VIDEO: Philippines Air Force Planes Collide Mid-Air During Training, Killing Four Pilots",
+          "url": "https://www.freepressjournal.in/world/video-philippines-air-force-planes-collide-mid-air-during-training-killing-four-pilots",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-24T08:56:21.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-24/bgjhvtej/29.png"
+        },
+        {
+          "title": "4 pilots killed in mid-air collision of Philippine military planes",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372014/4-pilots-killed-mid-air-collision-philippine-military-planes",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-24T07:42:50.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/c8e207d6-645f-4417-a2b3-904dfd4e9145_537cfefc.jpg?itok=qVQJFPv4&v=1792828013",
+          "description": "Two Philippine Air ⁠Force ⁠aircraft crashed during ⁠a training flight at an air base south of the capital Manila, killing four pilots, the military said on Saturday. The aviation accident on Friday involved two SF-260 aircraft at the Fernando Air Base in Batangas province, the Philippine Air Force…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Manila: 4 Pilots Killed in Mid-Air Explosion | Jamia Protests: Classes Shifted Online | Headlines",
+          "url": "https://www.youtube.com/watch?v=_7xU-OlFGkA",
+          "video_id": "_7xU-OlFGkA",
+          "channel": "WION",
+          "published_at": "2026-10-24T10:50:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_7xU-OlFGkA/hqdefault.jpg"
+        }
+      ],
+      "summary": "Two Philippine Air Force planes collided during a training flight at an air base south of Manila, killing four pilots."
+    },
+    {
+      "id": "topic_f5d30da9407517f7",
+      "title": "European countries switch to winter time",
+      "headline": "Changement d’heure 2026 : la Belgique bascule à l’heure d’hiver cette nuit du 24 au 25 octobre",
+      "label": [
+        "heure",
+        "changement",
+        "hiver",
+        "nuit",
+        "passage",
+        "ou"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_a3fcdf4a0d95c2b2",
+      "entities": [
+        "Changement",
+        "Belgique",
+        "Passage",
+        "Dort",
+        "La France"
+      ],
+      "article_count": 12,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Changement d’heure 2026 : la Belgique bascule à l’heure d’hiver cette nuit du 24 au 25 octobre",
+          "url": "https://www.rtbf.be/article/changement-d-heure-2026-la-belgique-bascule-a-l-heure-d-hiver-cette-nuit-du-24-au-25-octobre-11801595",
+          "source": "- Info",
+          "published_at": "2026-10-24T06:20:19.000Z",
+          "description": "Le passage à l’heure d’hiver a lieu cette année dans la nuit du samedi 24 au dimanche 25 octobre 2026. Les..."
+        },
+        {
+          "title": "Passage à l’heure d’hiver : pourquoi le changement d’heure est si critiqué",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/24/passage-a-l-heure-d-hiver-pourquoi-le-changement-d-heure-est-si-critique_5348679_4355771.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-10-24T15:18:24.000Z",
+          "description": "La France passe à l’heure d’hiver dans la nuit de samedi à dimanche : à 3 heures, il sera 2 heures. La mesure a été réintroduite en 1975, à l’époque pour limiter la consommation d’énergie en plein choc pétrolier."
+        },
+        {
+          "title": "Dort-on une heure en plus ou en moins ? Le passage à l'heure d'hiver, c'est pour cette nuit !",
+          "url": "https://www.dhnet.be/actu/belgique/2026/10/24/dort-on-une-heure-en-plus-ou-en-moins-le-passage-a-lheure-dhiver-cest-pour-cette-nuit-amuoe67lrbaqvhaasagdtaqyhu",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-10-24T07:21:47.000Z",
+          "description": "Programmé un peu avant cette autre tradition de fin octobre qu'est Halloween, le passage à l'heure d'hiver se fera cette année pour les pays européens dans la nuit du samedi 24 au dimanche 25 octobre. ..."
+        },
+        {
+          "title": "Le passage à l'heure d'hiver s'effectuera la nuit de samedi",
+          "url": "https://www.lalibre.be/belgique/societe/2026/10/24/le-passage-a-lheure-dhiver-seffectuera-la-nuit-de-samedi-6czcnkbpm5epjpn4vm5r2etf7a",
+          "source": "Lalibre.be - BELGIQUE",
+          "published_at": "2026-10-24T11:42:42.000Z",
+          "description": "Programmé un peu avant cette autre tradition de fin octobre qu'est Halloween, le passage à l'heure d'hiver se fera cette année pour les pays européens dans la nuit du samedi 24 au dimanche 25 octobre. ..."
+        },
+        {
+          "title": "Changement d’heure : gagne-t-on ou perd-on une heure de sommeil ?",
+          "url": "https://www.lesoir.be/778850/article/2026-10-24/changement-dheure-gagne-t-ou-perd-une-heure-de-sommeil",
+          "source": "Actualité - Le Soir",
+          "published_at": "2026-10-24T07:02:56.000Z",
+          "description": "Dans la nuit de samedi à dimanche, les pays européens passeront à l’heure d’hiver : à 3 heures, il sera 2 heures, avec une heure de sommeil en plus mais une soirée qui tombera plus tôt."
+        }
+      ],
+      "summary": "European countries are moving to winter time overnight from Saturday to Sunday. In France, clocks move back from 3 a.m. to 2 a.m., giving people an extra hour."
+    },
+    {
+      "id": "topic_1e7f405a390c6d9c",
+      "title": "Jordan increases security after deadly church attack",
+      "headline": "Security ramped up in Jordan after deadly church attack",
+      "label": [
+        "church",
+        "jordan",
+        "deadly",
+        "attack",
+        "ramped",
+        "response"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_490485ee444760bb",
+      "entities": [
+        "Security",
+        "Jordan",
+        "US",
+        "King Abdullah",
+        "MEA"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Security ramped up in Jordan after deadly church attack",
+          "url": "https://www.perthnow.com.au/news/crime/security-ramped-up-in-jordan-after-deadly-church-attack-c-23066633",
+          "source": "PerthNow",
+          "published_at": "2026-10-24T07:12:13.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23066633/317c3d94cc44e0e2457382ee3b57955a512096a5-16x9-x0y0w1280h720.jpg",
+          "description": "Gunmen have opened fire during a funeral at a church in Jordan, killing seven people in an attack that's prompted increased security across the country."
+        },
+        {
+          "title": "U.S. embassy says security ramped up in Jordan after deadly church attack",
+          "url": "https://www.thehindu.com/news/international/us-embassy-reports-heightened-security-across-jordan-after-deadly-karak-church-attack/article71619254.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-24T06:31:34.000Z",
+          "description": "Seven people were killed and ​dozens ‌were injured when gunmen opened fire during a funeral at ‌a church"
+        },
+        {
+          "title": "US embassy says security ramped up in Jordan after deadly church attack",
+          "url": "https://www.investing.com/news/world-news/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack-4970654",
+          "source": "All News",
+          "published_at": "2026-10-24T04:36:39.000Z"
+        },
+        {
+          "title": "Jordan king orders 'iron fist' response to deadly church attack",
+          "url": "https://tribune.com.pk/story/2636709/jordan-king-orders-iron-fist-response-to-deadly-church-attack",
+          "source": "express tribune",
+          "published_at": "2026-10-24T11:42:18.000Z",
+          "description": "Authorities searched for gunmen who opened fire and killed nine people during a church funeral service"
+        },
+        {
+          "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
+          "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-24T13:02:51.000Z",
+          "description": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups."
+        }
+      ],
+      "summary": "Gunmen opened fire during a funeral at a church in Jordan, killing people and injuring dozens, according to reports. Authorities are searching for the attackers, and security has been increased."
+    },
+    {
+      "id": "topic_5e9237be16f148ad",
+      "title": "Rubio urges Cubans seeking change to work with CIA",
+      "headline": "Rubio calls for Cubans to partner with CIA",
+      "label": [
+        "cia",
+        "rubio",
+        "cubans",
+        "calls",
+        "change",
+        "partner"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_de77ef7de4189d0",
+      "entities": [
+        "Rubio",
+        "Cubans",
+        "CIA",
+        "Rubio Calls On Cubans",
+        "Work"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Rubio calls for Cubans to partner with CIA",
+          "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia",
+          "source": "Washington Examiner",
+          "published_at": "2026-10-24T00:43:12.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/rubio-taj-mahal.jpg?w=1024",
+          "description": "Secretary of State Marco Rubio made a direct appeal to Cubans on Friday, encouraging them to join a “discrete partnership” with the CIA if they want to see change in their country. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to…"
+        },
+        {
+          "title": "Rubio calls on Cubans seeking \"positive change\" to work with CIA",
+          "url": "https://www.cbsnews.com/news/rubio-cuban-work-with-cia",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-24T15:49:32.000Z",
+          "description": "The CIA posted a video on X showing the steps needed to contact the intelligence agency."
+        },
+        {
+          "title": "Rubio Calls On Cubans to Work with the CIA",
+          "url": "https://politicalwire.com/2026/10/24/rubio-calls-on-cubans-to-work-with-the-cia",
+          "source": "Political Wire",
+          "published_at": "2026-10-24T16:00:42.000Z",
+          "description": "“Secretary of State Marco Rubio called on Cubans seeking ‘positive change’ to work with the CIA, the latest ploy in the growing efforts from the Trump administration to remove Cuba’s communist regime from power,” CBS News reports."
+        },
+        {
+          "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
+          "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-24T08:28:24.000Z",
+          "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro."
+        },
+        {
+          "title": "Rubio calls on Cubans seeking change to partner with CIA",
+          "url": "https://news.google.com/rss/articles/cbmirwfbvv95cuxomktlt0izexlzdgf3lunlqlbbekrmt1vnymptuvlhvehilvzdwny3cky4dlnmsmrrte5wmzq4wdzkunkxrhr5cm92djruwlvlv3mzqvzjwtktoxleavg0anpsx0dmn0fma296ywlrrjhgqljtrej6s2n6ul9qd3nyz0dsrvzqdta0tvnvbw9stgpiwnm2zy00zgi1ee5iyzradlrsnvdwu1ddwxdhm2ew",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-24T07:28:46.000Z",
+          "description": "Rubio calls on Cubans seeking change to partner with CIA Euronews.com In Florida, Trump vows to deal with Cuba after Iran gets settled KSL Rubio calls on Cubans seeking \"positive change\" to work with CIA: \"Now is the time\" CBS News Rubio tells Cubans ‘now is the time’ to act to see political change…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Marco Rubio calls on Cuba dissidents to PARTNER with CIA",
+          "url": "https://www.youtube.com/watch?v=Nf5qNrlBeZA",
+          "video_id": "Nf5qNrlBeZA",
+          "channel": "Fox News",
+          "published_at": "2026-10-24T23:30:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Nf5qNrlBeZA/hqdefault.jpg"
+        }
+      ],
+      "summary": "Secretary of State Marco Rubio urged Cubans seeking change to partner with the CIA. The agency posted a video explaining how to contact it."
+    },
+    {
+      "id": "topic_e29c45b01571eb2c",
+      "title": "Ukraine says Starlink service has returned to normal",
+      "headline": "Ukraine says Starlink back to normal after week of throttling",
+      "label": [
+        "normal",
+        "ukraine",
+        "starlink",
+        "back",
+        "throttling",
+        "week"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_3fc507f98f785a4f",
+      "entities": [
+        "Ukraine",
+        "Starlink",
+        "Ukraine Back",
+        "Normal After Week",
+        "Throttling"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Ukraine says Starlink back to normal after week of throttling",
+          "url": "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-24T11:09:43.000Z",
+          "description": "Neither Elon Musk nor the U.S. government has ‌acknowledged responsibility for restricting Starlink or Starshield in Ukraine. Both have ​said publicly that any such decision could only have been taken by the other"
+        },
+        {
+          "title": "Starlink in Ukraine Back to Normal After Week of Throttling",
+          "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-10-24T15:18:06.000Z",
+          "description": "Ukrainian officials said the restrictions hampered the military's ability to intercept Russian attack drones and forced the cancelation of some operations."
+        },
+        {
+          "title": "Ukraine says Starlink is back to normal after disruptions",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-24T17:54:25.000Z",
+          "description": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions."
+        },
+        {
+          "title": "Starlink back to normal after throttling: Ukraine",
+          "url": "https://www.perthnow.com.au/news/conflict/starlink-back-to-normal-after-throttling-ukraine-c-23067123",
+          "source": "PerthNow",
+          "published_at": "2026-10-24T11:06:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23067123/023d2027cb105bf7af7d9202c6592a4b2303018b-16x9-x0y0w1280h720.jpg",
+          "description": "The speed of Starlink's communications is at regular speeds, Kyiv says, ending restrictions that officials said had disrupted operations for more than a week."
+        },
+        {
+          "title": "Ukraine says Starlink back to normal; Musk accuses Kyiv of violations",
+          "url": "https://japantoday.com/category/world/ukraine-says-starlink-back-to-normal-musk-accuses-kyiv-of-violations",
+          "source": "Japan Today",
+          "published_at": "2026-10-24T21:18:47.000Z",
+          "description": "Ukraine said on Saturday the Starlink satellite system and its military version Starshield were now fully functional after ‌over a week of restrictions that disrupted military operations and intensified…"
+        }
+      ],
+      "summary": "Ukrainian officials said Starlink and its military version, Starshield, were fully functional again after more than a week of restrictions and disruptions."
+    },
+    {
+      "id": "topic_16683ab792747a4",
+      "title": "Justice Department demands California counties verify ballots",
+      "headline": "DOJ demands that some California counties set aside alleged noncitizen ballots",
+      "label": [
+        "ballots",
+        "california",
+        "doj",
+        "noncitizen",
+        "counties",
+        "aside"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_c93a715653a5cbba",
+      "entities": [
+        "DOJ",
+        "California",
+        "CBS News",
+        "DOJ Orders California Counties",
+        "Preserve"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "DOJ demands that some California counties set aside alleged noncitizen ballots",
+          "url": "https://www.cbsnews.com/news/doj-california-counties-set-aside-verify-certain-ballots-noncitizens",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-10-24T02:54:30.000Z",
+          "description": "Federal prosecutors sent letters to county registrars across California demanding that local officials set aside and verify ballots that the Justice Department said may belong to noncitizens."
+        },
+        {
+          "title": "DOJ demands that some California counties set aside and verify alleged noncitizen ballots within 48 hours",
+          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxougtprwg2aefdt1pttk56vedzotd2umdqcfjenv9cbwdqngtyu0rtzha1a0rnvljeqjhbsgtka1c5evpfnmd6yul1snnvaknmtnq1ts1vmlbozvleng90zhfuztvic20wsna1yi1totjmdeduago3emfxsmlrdjvuwgnhb1gzvkvps3bcqzdoq0djdu5vm2liu1drz2tksfk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-24T02:54:30.000Z",
+          "description": "DOJ demands that some California counties set aside and verify alleged noncitizen ballots within 48 hours CBS News DOJ orders some California counties to verify ballots in 48 hours Yahoo Justice Dept. Demands That California Counties Help Identify Noncitizen Voters The New York Times ‘They wanted t…"
+        },
+        {
+          "title": "DOJ demands California counties separate alleged noncitizen ballots within 48 hours",
+          "url": "https://www.ms.now/news/trump-doj-california-ballots-voting-noncitizens-election",
+          "source": "MS NOW",
+          "published_at": "2026-10-24T15:45:29.000Z",
+          "description": "The Justice Department hand-delivered letters to local county registrars threatening “legal consequences” if they do not comply. The post DOJ demands California counties separate alleged noncitizen ballots within 48 hours appeared first on MS NOW."
+        },
+        {
+          "title": "DOJ Orders California Counties to Preserve and Verify Alleged Noncitizen Ballots Within 48 Hours",
+          "url": "https://internewscast.com/news/us/doj-orders-california-counties-to-preserve-and-verify-alleged-noncitizen-ballots-within-48-hours",
+          "source": "Internewscast",
+          "published_at": "2026-10-24T05:37:44.000Z",
+          "description": "Internewscast Internewscast The letters mark a new escalation in the legal dispute between California… This Post: DOJ Orders California Counties to Preserve and Verify Alleged Noncitizen Ballots Within 48 Hours first appeared on Internewscast"
+        },
+        {
+          "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+          "source": "World news | The Guardian",
+          "published_at": "2026-10-24T02:00:13.000Z",
+          "image": "https://i.guim.co.uk/img/media/aebb76f37b038e8c2f0a010d30ef60813487acd9/167_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8e758b86d081236dffbf9153ee54a3cc",
+          "description": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of Justice said may belong…"
+        }
+      ],
+      "summary": "The Justice Department sent letters to some California county registrars demanding that they set aside and verify ballots it alleges may belong to noncitizens, within 48 hours."
+    },
+    {
+      "id": "topic_55043d170b58a5d3",
+      "title": "France deploys police and closes Paris museums ahead of protests",
+      "headline": "Paris shuts museums and police deploy in big numbers for new protests across France - AP News",
+      "label": [
+        "deploy",
+        "museums",
+        "protests",
+        "police",
+        "paris",
+        "shuts"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_35272a05510d3ba9",
+      "entities": [
+        "Paris",
+        "France",
+        "AP News",
+        "Louvre",
+        "French"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Paris shuts museums and police deploy in big numbers for new protests across France",
+          "url": "https://news.google.com/rss/articles/cbmikgfbvv95cuxpwfhxb1vmdwxkrzjmznrpsgpjtk40b3jotldmr0fjtw9nwwxibmnbotjcn1nna1iyeniycmtuetvnvhhar19youu3tke2odbhrfflrwddyvzzvwy0mvlqv0dtohlkatdebmxkdnfnmnjicvfjskhyuvdoagfyyu5jveq5vehruu5twljjz1pzoe5gqq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-24T04:59:00.000Z",
+          "description": "Paris shuts museums and police deploy in big numbers for new protests across France AP News Ruins of Limoges city hall a symbol of France divided by national protests BBC Paris museums close, stores put up barricades as France prepares for more protests CBS News France's Macron tightens curbs on pr…"
+        },
+        {
+          "title": "Paris shuts Louvre and other museums as police deploy in big numbers for new protests across France",
+          "url": "https://www.nbcnews.com/world/france/paris-shuts-louvre-museums-police-deploy-big-numbers-new-protests-fran-rcna605174",
+          "source": "NBC News World News",
+          "published_at": "2026-10-24T14:09:07.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-paris-protests-mb-1608-1d7cec.jpg",
+          "description": "PARIS — Thousands of students and workers marched in Paris and other French cities Saturday over school funding and soaring living costs."
+        },
+        {
+          "title": "French police deploy in big numbers and Paris shuts major museums ahead of new protests",
+          "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-24T05:27:48.000Z",
+          "description": "France will deploy about 70,000 police nationwide and some of Paris' major museums will close Saturday as the country braces for a fresh wave of protests after looting and unrest erupted on the sidelines of demonstrations a week ago. Protests by high school students over learning conditions sparked…"
+        },
+        {
+          "title": "Police deploy in big numbers and museums shut as France braces for more protests",
+          "url": "https://www.thejournal.ie/french-braced-for-protests-this-weekend-7204030-oct2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-10-24T07:50:42.000Z",
+          "description": "Interior Minister Laurent Nunez said as many as 70,000 officers will be deployed nationwide."
+        },
+        {
+          "title": "France protests: 70,000 police deployed as Paris closes major museums",
+          "url": "https://euroweeklynews.com/2026/10/24/france-protests-70000-police-deployed-as-paris-closes-major-museums",
+          "source": "Euro Weekly News",
+          "published_at": "2026-10-24T07:05:35.000Z",
+          "image": "https://euroweeklynews.com/wp-content/uploads/2026/10/Sin-titulo-39-2-scaled-e1792825492927-1024x640.jpg?type=local",
+          "description": "France has deployed 70,000 police officers and gendarmes for a fresh day of protests on Saturday, October 24, as authorities […]"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Watch: French police deploy armoured vehicles in Paris and Marseille",
+          "url": "https://www.youtube.com/watch?v=JurXBantK1E",
+          "video_id": "JurXBantK1E",
+          "channel": "euronews",
+          "published_at": "2026-10-24T12:46:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JurXBantK1E/hqdefault.jpg"
+        },
+        {
+          "title": "Major museums in Paris closed as authorities deploy police ahead of protests",
+          "url": "https://www.youtube.com/watch?v=ZkrqiJnVKyc",
+          "video_id": "ZkrqiJnVKyc",
+          "channel": "Associated Press",
+          "published_at": "2026-10-24T12:41:56.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZkrqiJnVKyc/hqdefault.jpg"
+        }
+      ],
+      "summary": "France planned to deploy about 70,000 police and gendarmes as protests resumed over school funding and the cost of living. Major Paris museums, including the Louvre, closed."
+    },
+    {
+      "id": "topic_477ec369b2748cb0",
+      "title": "Police use tear gas as protests continue in France",
+      "headline": "Police fire tear gas as new French protests kick off",
+      "label": [
+        "tear",
+        "gas",
+        "fire",
+        "protests",
+        "police",
+        "french"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_663431abbd19723b",
+      "entities": [
+        "Police",
+        "French",
+        "France",
+        "Protests",
+        "Italian"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Police fire tear gas as new French protests kick off",
+          "url": "https://www.thehindu.com/news/international/police-fire-tear-gas-as-new-french-protests-kick-off/article71619959.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-24T12:18:14.000Z",
+          "description": "The capital’s police said officers had confiscated various forbidden items but described the situation as calm"
+        },
+        {
+          "title": "France: Protests continue while police fire tear gas at demonstrators",
+          "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-10-24T17:10:42.000Z",
+          "description": "A total of 410,000 people took part in demonstrations across France on Saturday – including 110,000 in Paris – as part of a day of rallies focussed on purchasing power and the defence of public services, the Interior Ministry told AFP. The turnout was slightly lower than last week, which saw 550,00…"
+        },
+        {
+          "title": "Italian police wield batons, French fire tear gas at latest protests",
+          "url": "https://www.brisbanetimes.com.au/world/europe/italian-police-wield-batons-french-fire-tear-gas-at-latest-protests-20261025-p618bn.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-10-24T20:31:04.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1444%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_124%2C$y_0/t_crop_custom/q_86%2Cf_auto/7ee05f5ea0403aa537e8db2998f5cdaf6c566bd1",
+          "description": "Police have clashed with protesters in both countries during massive rallies one week after similar gatherings descended into riots and looting in major cities."
+        },
+        {
+          "title": "Albanian police fire tear gas as anti-government student protests turn violent",
+          "url": "https://japantoday.com/category/world/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent",
+          "source": "Japan Today",
+          "published_at": "2026-10-24T21:19:25.000Z",
+          "description": "Albanian riot police used tear gas, water cannons and rubber ‌bullets to disperse protesters who threw rocks at officers and started a fire at the door of ‌the…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "France: Protests continue while police fire tear gas at demonstrators • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=6BCagWHn-P4",
+          "video_id": "6BCagWHn-P4",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-10-24T17:10:41.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/6BCagWHn-P4/hqdefault.jpg"
+        },
+        {
+          "title": "French police fire tear gas at protesters in Lyon",
+          "url": "https://www.youtube.com/shorts/PrqTvzsVn9k",
+          "video_id": "PrqTvzsVn9k",
+          "channel": "NBC News",
+          "published_at": "2026-10-24T16:10:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PrqTvzsVn9k/hqdefault.jpg"
+        },
+        {
+          "title": "French police fire tear gas to disperse protest in Lyon",
+          "url": "https://www.youtube.com/watch?v=xUg812fRcyQ",
+          "video_id": "xUg812fRcyQ",
+          "channel": "euronews",
+          "published_at": "2026-10-24T11:03:46.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/xUg812fRcyQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "French police used tear gas during protests, which reports said drew hundreds of thousands of demonstrators nationwide. Other headlines in the cluster also describe police clashes at protests in Italy and Albania."
+    },
+    {
+      "id": "topic_5d94368757d5c695",
+      "title": "Trump casts early midterm ballot in Florida",
+      "headline": "Trump casts his midterm ballot early in Florida",
+      "label": [
+        "early",
+        "voting",
+        "casts",
+        "ballot",
+        "midterm",
+        "florida"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_3da9a48636b7d661",
+      "entities": [
+        "Trump",
+        "Florida",
+        "Who Once Called Early",
+        "Voting",
+        "Ridiculous"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump casts his midterm ballot early in Florida",
+          "url": "https://abcnews.com/politics/wirestory/trump-casts-midterm-ballot-early-florida-137543344",
+          "source": "ABC News: Politics",
+          "published_at": "2026-10-24T22:58:14.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_2195b4226316fa8cb13b875f08d5df88_4x3_384.jpg",
+          "description": "President Donald Trump has cast his ballot in the midterm elections, voting for all Republicans in Florida before speaking at a Georgia rally"
+        },
+        {
+          "title": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-10-24T21:40:56.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-trump-voting-01-wczb/24pol-trump-voting-01-wczb-mediumSquareAt3X.jpg",
+          "description": "The president voted at a polling station in Palm Beach County, Fla."
+        },
+        {
+          "title": "Trump, a critic of early voting, votes early in Florida",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3372041/trump-critic-early-voting-votes-early-florida",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-24T21:58:09.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/5d07a714-4082-4455-80c2-f629c6cbb7bc_e6dc6f9d.jpg?itok=KRMzsG4E&v=1792879081",
+          "description": "US President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on November 3, Trump has been urging Republicans to cast their ballots early, reversing course on a practice he…"
+        },
+        {
+          "title": "Zohran Mamdani casts his midterm ballot as first day of early voting kicks off in NYC",
+          "url": "https://nypost.com/2026/10/24/us-news/zohran-mamdani-casts-his-midterm-ballot-as-first-day-of-early-voting-kicks-off-in-nyc",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-10-24T14:40:32.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FMAMDANI-LIVE-VOTING.jpg?quality%3D90%26strip%3Dall",
+          "description": "Early voting kicked off Saturday in New York with NYC Mayor Zohran Mamdani casting his ballot at the Metropolitan Museum of Art."
+        }
+      ],
+      "summary": "Donald Trump cast an early ballot in Florida for the midterm elections. He had previously criticized early voting."
+    },
+    {
+      "id": "topic_44c4445d1af2442b",
+      "title": "Bayern Munich coach Vincent Kompany hospitalized after collapse",
+      "headline": "Bayern Munich issue further Vincent Kompany update after collapse at training ground",
+      "label": [
+        "kompany",
+        "bayern",
+        "vincent",
+        "munich",
+        "weeks",
+        "training"
+      ],
+      "category": "trending",
+      "section": "sports",
+      "theme": "theme_600623763dda49ac",
+      "entities": [
+        "Bayern Munich",
+        "Vincent Kompany",
+        "Bayern",
+        "Kompany",
+        "Zusammenbruch"
+      ],
+      "article_count": 32,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Bayern Munich issue further Vincent Kompany update after collapse at training ground",
+          "url": "https://sports.yahoo.com/articles/bayern-munich-issue-further-vincent-103316829.html",
+          "published_at": "2026-10-24T10:41:03.000Z",
+          "description": "Bayern sporting director Max Eberl said the club would need to ‘protect’ their head coach and ensure he focuses on recovering"
+        },
+        {
+          "title": "Bayern’s Kompany in hospital",
+          "url": "https://tribune.com.pk/story/2636656/bayerns-kompany-in-hospital",
+          "source": "express tribune",
+          "published_at": "2026-10-24T01:41:24.000Z",
+          "description": "Coach collapses during a training session with FC Bayern's reserve team"
+        },
+        {
+          "title": "Vincent Kompany: Was über den Zusammenbruch des Bayern-Trainers bekannt ist",
+          "url": "https://www.zeit.de/sport/2026-10/vincent-kompany-fc-bayern-muenchen-trainer-krankenhaus",
+          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
+          "published_at": "2026-10-24T13:18:45.000Z",
+          "description": "FC-Bayern-Trainer Vincent Kompany ist nach seinem Zusammenbruch am Freitagabend weiterhin im Krankenhaus. Was ist passiert? Und was bedeutet das für die Mannschaft?"
+        },
+        {
+          "title": "Bayern Munich Boss Vincent Kompany Hospitalised After Collapsing During Training",
+          "url": "https://www.informationng.com/2026/10/bayern-munich-boss-vincent-kompany-hospitalised-after-collapsing-during-training.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-10-24T10:56:36.000Z",
+          "description": "Bayern Munich manager Vincent Kompany has been taken to hospital after collapsing while watching the club’s second team train on Friday. The 40-year-old had been unwell with a viral infection and missed the pre-match press conference on Tuesday ahead of Bayern Munich’s UEFA Champions League clash a…"
+        },
+        {
+          "title": "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
+          "url": "https://www.thehindu.com/sport/football/bayern-munich-says-coach-vincent-kompany-is-stable-after-collapsing-at-friday-training-session/article71619942.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-24T12:34:49.000Z",
+          "description": "Bayern Munich said on October 24 that coach Vincent Kompany will undergo more testing to determine why he collapsed during a training session the previous day"
+        }
+      ],
+      "summary": "Bayern Munich coach Vincent Kompany was hospitalized after collapsing while watching a training session. The club said he was stable and would undergo further tests."
+    },
+    {
+      "id": "topic_ebf81dd473e3bed6",
+      "title": "AU Small Finance Bank reports higher second-quarter profit",
+      "headline": "AU Small Finance Bank Q2 profit jumps 53% to 858 crore",
+      "label": [
+        "q2",
+        "profit",
+        "bank",
+        "kotak",
+        "jumps",
+        "finance"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_c55e3f48981add65",
+      "entities": [
+        "AU Small Finance Bank",
+        "Q2",
+        "Rs",
+        "Earnings",
+        "Kotak Mahindra Bank"
+      ],
+      "article_count": 11,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to 858 crore",
+          "url": "https://www.thehindu.com/business/industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-24T16:53:44.000Z",
+          "description": "“Total income rose to ₹6,382 crore in the quarter under review from ₹5,224 crore in the same period a year ago,” AU Small Finance Bank said in a regulatory filing"
+        },
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to ₹858 cr",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/au-small-finance-bank-q2-profit-jumps-53-to-858-cr/article71619821.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-24T11:24:55.000Z",
+          "description": "AU Small Finance Bank’s total income rises to ₹6,382 crore in Q2 FY27 from ₹5,224 crore in the same period a year ago"
+        },
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
+          "source": "Economic Times",
+          "published_at": "2026-10-24T11:51:56.000Z",
+          "description": "AU's gross non-performing assets ratio fell 42 basis points (bps) to 1.99% at the end of September. This helped in 25% lower provision at Rs 359 crore against Rs 481 crore. Net NPA ratio improved by 7 bps to 0.81%. Annualised credit cost improved by 45 bps to 0.8% from 1.2% over the year."
+        },
+        {
+          "title": "Earnings call transcript: AU Small Finance Bank posts strong Q2 2026 profit growth",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93ch-4970828",
+          "source": "All News",
+          "published_at": "2026-10-24T10:43:20.000Z"
+        },
+        {
+          "title": "Kotak Mahindra Bank Q2 Consolidated Net Profit Rises To ₹5,645.38 Crore, Total Income Up 18.17%",
+          "url": "https://www.freepressjournal.in/business/kotak-mahindra-bank-q2-consolidated-net-profit-rises-to-564538-crore-total-income-up-1817",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-24T08:12:22.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-24/2s7tfunk/55abba7f-96ab-4cdd-a3e8-7f37ecc0c19a.png"
+        }
+      ],
+      "summary": "AU Small Finance Bank reported a 53% increase in second-quarter profit to ₹858 crore, while total income rose to ₹6,382 crore. One headline in the cluster instead reports results for Kotak Mahindra Bank."
+    },
+    {
+      "id": "topic_d4bfb5b3d3d5b28",
+      "title": "Vanessa Trump says she is cancer-free after diagnosis",
+      "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "label": [
+        "vanessa",
+        "cancer",
+        "diagnosis",
+        "free",
+        "six",
+        "trump"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_a5ac87268b584e9f",
+      "entities": [
+        "Vanessa Trump",
+        "NBC News",
+        "Tiger Woods"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+          "source": "BBC News",
+          "published_at": "2026-10-24T14:45:30.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg",
+          "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
+        },
+        {
+          "title": "Vanessa Trump says she is ‘cancer-free’ six months after diagnosis",
+          "url": "https://news.google.com/rss/articles/cbmiwwfbvv95cuxnumllwlr5zxnwoxbdbkpynvjta3uztlnkbmext3drcmj3nhljmgrsd0lmuke0r1m2udhrc3k0anr5n0mwnkrlu0jmdk1elu9vqktssjvnm1dawevhbdrjtehhzestrvrpdtb1bmhjbk9yevnjag5ymdz5edleoel6q05tmwzlmevoutqtwnlvofhxq1nrtklwrklnenc4nzz4se9btmfganbrqkztz2tyc1drv29isu11rlrvnwnvwu81clu",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-24T02:33:00.000Z",
+          "description": "Vanessa Trump says she is ‘cancer-free’ six months after diagnosis NBC News Vanessa Trump reveals she’s cancer-free — six months after receiving devastating diagnosis New York Post Tiger Woods’ Girlfriend Vanessa Trump Reveals Emotional Health Update After Cancer Battle Yahoo Vanessa Trump 'finally…"
+        },
+        {
+          "title": "Vanessa Trump is cancer-free six months after devastating diagnosis",
+          "url": "https://www.express.co.uk/news/us/2259957/vanessa-trump-cancer-free-six-months",
+          "source": "Daily Express :: News Feed",
+          "published_at": "2026-10-24T00:15:00.000Z",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/198/590x/2259957_1.jpg",
+          "description": "Vanessa Trump, 48, was diagnosed with cancer six months ago, now in an update from her teenage daughter Kai she reveals she is finally cancer-free"
+        },
+        {
+          "title": "Vanessa Trump, girlfriend of Tiger Woods, reveals that she's cancer-free",
+          "url": "https://sports.yahoo.com/articles/vanessa-trump-girlfriend-tiger-woods-191407762.html",
+          "published_at": "2026-10-24T19:14:07.000Z",
+          "description": "Six months after publicly revealing a breast cancer diagnosis, Vanessa Trump, the girlfriend of Tiger Woods, announced that she is cancer-free."
+        }
+      ],
+      "summary": "Vanessa Trump said she is cancer-free six months after revealing that she had been diagnosed with breast cancer."
+    }
+  ]
+}
