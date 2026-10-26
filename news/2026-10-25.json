@@ -1,0 +1,1041 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-26T00:27:44.856Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Venezuelan opposition leader María Corina Machado announced her return after nearly a year abroad, challenging the country’s ruling chavismo.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Aleksandar Vučić conceded defeat in Serbia’s parliamentary election, where a student-led opposition movement challenged his party.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "At least 12 people, including six children, were injured in a shooting near a football stadium in Tallahassee after a fight, police said.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Thousands protested in cities across Italy and Europe over issues including living costs, education, corruption, housing and anti-war concerns.",
+        "stories": [
+          11
+        ]
+      },
+      {
+        "text": "Ukraine disputed Elon Musk’s allegation that its military violated Starlink’s terms of service by using the network for offensive drone operations.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_6362bb85973c445c",
+      "title": "María Corina Machado Returns to Venezuela After Exile",
+      "headline": "Who Is María Corina Machado?",
+      "label": [
+        "corina",
+        "maría",
+        "machado",
+        "venezuela",
+        "regresa",
+        "regreso"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_545c6948dd66b2f0",
+      "entities": [
+        "Who Is Mar",
+        "Corina Machado",
+        "Mar",
+        "Corina Machado Returns",
+        "Venezuela"
+      ],
+      "article_count": 36,
+      "source_count": 24,
+      "articles": [
+        {
+          "title": "Who Is María Corina Machado?",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-10-25T21:05:50.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-machado-who-fbqg/25int-machado-who-fbqg-mediumSquareAt3X.jpg",
+          "description": "The Venezuelan opposition leader returned home from exile to a country firmly under American control. How are her relations with Washington?"
+        },
+        {
+          "title": "María Corina Machado regresa a Venezuela",
+          "url": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-10-25T15:36:56.000Z",
+          "description": "La dirigente opositora, después de varios intentos y casi 10 meses fuera del país, logra regresar y reta con su presencia al chavismo"
+        },
+        {
+          "title": "María Corina Machado regresa a Venezuela tras exilio",
+          "url": "https://www.elnorte.com/maria-corina-machado-regresa-a-venezuela-tras-exilio/ar3301701",
+          "source": "ElNorte",
+          "published_at": "2026-10-25T16:07:08.000Z",
+          "description": "María Corina Machado, líder opositora venezolana y Premio Nobel de la Paz, anunció que ya está en su país tras casi un año de exilio."
+        },
+        {
+          "title": "'I am here. With you': Maria Corina Machado returns to Venezuela from exile",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-maria-corina-machado-returns-to-venezuela-from-exile/articleshow/135194042.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-25T16:17:45.000Z"
+        },
+        {
+          "title": "Regresa María Corina Machado a Venezuela tras exilio",
+          "url": "https://www.reforma.com/regresa-maria-corina-machado-a-venezuela-tras-exilio/ar3301698",
+          "source": "Reforma",
+          "published_at": "2026-10-25T16:06:27.000Z",
+          "description": "María Corina Machado, líder opositora venezolana y Premio Nobel de la Paz, anunció su regreso a dicho país tras casi un año de exilio."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Venezuela’s Leading Opposition Figure, María Corina Machado, Returns",
+          "url": "https://www.youtube.com/shorts/Jl8YfaEz9d4",
+          "video_id": "Jl8YfaEz9d4",
+          "channel": "The New York Times",
+          "published_at": "2026-10-25T21:56:36.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jl8YfaEz9d4/hqdefault.jpg"
+        },
+        {
+          "title": "María Corina Machado back in Venezuela after 10 months in exile",
+          "url": "https://www.youtube.com/shorts/rwJRhk1V-BI",
+          "video_id": "rwJRhk1V-BI",
+          "channel": "euronews",
+          "published_at": "2026-10-25T19:51:51.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/rwJRhk1V-BI/hqdefault.jpg"
+        }
+      ],
+      "summary": "Venezuelan opposition leader María Corina Machado announced her return after nearly a year abroad. Her return challenges the country’s ruling chavismo, according to headlines."
+    },
+    {
+      "id": "topic_954cdca2213ac775",
+      "title": "At Least 12 Injured in Shooting Near Florida University",
+      "headline": "12, Including 6 Children, Injured In Shooting Near Florida University",
+      "label": [
+        "florida",
+        "near",
+        "shooting",
+        "injured",
+        "stadium",
+        "university"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_f6903ea089d1398a",
+      "entities": [
+        "Including",
+        "Children",
+        "Injured In Shooting Near",
+        "Florida University",
+        "Florida"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "12, Including 6 Children, Injured In Shooting Near Florida University",
+          "url": "https://www.ndtv.com/world-news/shooting-near-florida-a-m-university-tallahassee-12-including-6-children-injured-us-12232354",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-25T05:28:10.000Z",
+          "description": "In a statement, police said the preliminary investigation indicates that a fight broke out prior to the shooting. It followed a football game in a crowded area."
+        },
+        {
+          "title": "6 children among 12 injured in shooting near Florida university stadium",
+          "url": "https://timesofindia.indiatimes.com/world/us/6-children-among-12-injured-in-shooting-near-florida-university-stadium/articleshow/135183905.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-25T05:19:19.000Z",
+          "description": "A shooting occurred near a football stadium in Tallahassee during homecoming weekend at Florida A&M University. At least 12 individuals were injured, which included six children, and 11 had gunshot wounds. Authorities reported that three victims suffered serious injuries, with one critically injure…"
+        },
+        {
+          "title": "12 injured, including 6 children, in shooting near Florida university, police say",
+          "url": "https://abcnews.com/us/12-injured-including-6-children-shooting-florida-university/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-25T10:45:37.000Z",
+          "image": "https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_4x3t_384.jpg",
+          "description": "At least 11 of those injured had gunshot wounds, police said."
+        },
+        {
+          "title": "At least 12 injured in shooting near football stadium in Florida",
+          "url": "https://www.thehindu.com/news/international/florida-campus-university-shooting-many-injured/article71622656.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T06:02:49.000Z",
+          "description": "Eleven of the victims sustained gunshot wounds, and at least three victims sustained serious injuries, according to police"
+        },
+        {
+          "title": "At least 12 injured, including 6 minors, in shooting near stadium in Florida",
+          "url": "https://www.indiatoday.in/world/us-news/story/at-least-12-injured-including-6-minors-in-shooting-near-football-stadium-in-florida-3024529-2026-10-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-25T05:05:36.000Z",
+          "description": "At least injured including minors in shooting near stadium in Florida"
+        }
+      ],
+      "videos": [
+        {
+          "title": "12 Injured In Florida Shooting Near University, Police Investigate",
+          "url": "https://www.youtube.com/shorts/JEObC2hVvt4",
+          "video_id": "JEObC2hVvt4",
+          "channel": "NDTV",
+          "published_at": "2026-10-25T20:00:28.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JEObC2hVvt4/hqdefault.jpg"
+        },
+        {
+          "title": "At least 12 people injured in shooting near a football stadium in Florida",
+          "url": "https://www.youtube.com/watch?v=FfvgjKo9610",
+          "video_id": "FfvgjKo9610",
+          "channel": "Associated Press",
+          "published_at": "2026-10-25T18:18:55.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/FfvgjKo9610/hqdefault.jpg"
+        },
+        {
+          "title": "At least 12 people injured in shooting near Florida A&M University",
+          "url": "https://www.youtube.com/watch?v=aDu9LBISKrY",
+          "video_id": "aDu9LBISKrY",
+          "channel": "ABC News",
+          "published_at": "2026-10-25T14:08:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/aDu9LBISKrY/hqdefault.jpg"
+        }
+      ],
+      "summary": "At least 12 people, including six children, were injured in a shooting near a football stadium in Tallahassee. Police said a fight preceded the shooting; at least 11 people had gunshot wounds."
+    },
+    {
+      "id": "topic_38c568782b03defd",
+      "title": "Burnham Open to Discussing EU Free Movement",
+      "headline": "UK PM Burnham open to discussing EU free movement",
+      "label": [
+        "burnham",
+        "movement",
+        "eu",
+        "free",
+        "uk",
+        "open"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_e4638009f51ddbfa",
+      "entities": [
+        "UK PM Burnham",
+        "EU",
+        "PM Burnham",
+        "Burnham",
+        "UK"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "UK PM Burnham open to discussing EU free movement",
+          "url": "https://www.perthnow.com.au/news/politics/uk-pm-burnham-open-to-discussing-eu-free-movement-c-23069202",
+          "source": "PerthNow",
+          "published_at": "2026-10-25T11:41:38.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23069202/4ba17a0c36058b140b5e252812b14b9d83785f60-16x9-x0y0w1280h720.jpg",
+          "description": "British Prime Minister Andy Burnham has called for \"honest discussion\" about EU ties, saying freedom of movement could be part of a broader reset."
+        },
+        {
+          "title": "U.K. PM Burnham says he is open to discussing EU free movement",
+          "url": "https://www.thehindu.com/news/international/uk-pm-burnham-says-he-is-open-to-discussing-eu-free-movement/article71624415.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T17:03:58.000Z",
+          "description": "Andy Burnham — who is trying to find ways to speed up Britain’s economy is due to meet top EU officials for a summit on November 20"
+        },
+        {
+          "title": "Burnham open to 'honest discussion' on EU free movement",
+          "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o",
+          "source": "BBC News",
+          "published_at": "2026-10-25T00:33:19.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+          "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+        },
+        {
+          "title": "Burnham open to return of free movement between UK and EU",
+          "url": "https://www.politico.eu/article/andy-burnham-free-movement-uk-eu",
+          "source": "POLITICO",
+          "published_at": "2026-10-25T10:33:55.000Z",
+          "description": "The U.K. prime minister said he wants an \"honest discussion\" about migration within Europe."
+        },
+        {
+          "title": "UK’s Rayner says no Brexit reopening as Burnham floats EU free movement",
+          "url": "https://www.investing.com/news/economy-news/uks-rayner-says-no-brexit-reopening-as-burnham-floats-eu-free-movement-4971174",
+          "source": "All News",
+          "published_at": "2026-10-25T11:39:16.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "UK Prime Minister Andy Burnham wants 'honest discussion' on return to EU free movement",
+          "url": "https://www.youtube.com/watch?v=YdrL9XTK40U",
+          "video_id": "YdrL9XTK40U",
+          "channel": "euronews",
+          "published_at": "2026-10-25T16:10:52.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/YdrL9XTK40U/hqdefault.jpg"
+        }
+      ],
+      "summary": "British Prime Minister Andy Burnham called for an honest, evidence-based discussion about ties with the EU, including the possibility of free movement between Britain and Europe."
+    },
+    {
+      "id": "topic_8afd0ad1b072198d",
+      "title": "Vučić Concedes Defeat in Serbia’s Parliamentary Election",
+      "headline": "Serbia's Vucic concedes defeat to student led movement",
+      "label": [
+        "concedes",
+        "defeat",
+        "vucic",
+        "serbia",
+        "movement",
+        "student"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_73577dbb98e92aa7",
+      "entities": [
+        "Serbia",
+        "Vucic",
+        "Vu",
+        "Serbian President Concedes Defeat",
+        "Student"
+      ],
+      "article_count": 15,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Serbia's Vucic concedes defeat to student led movement",
+          "url": "https://www.perthnow.com.au/news/politics/serbias-vucic-concedes-defeat-to-student-led-movement-c-23069566",
+          "source": "PerthNow",
+          "published_at": "2026-10-25T21:22:18.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23069566/61959444bb3f90c0a6693d469418c43071bf9eb9-16x9-x0y0w1280h720.jpg",
+          "description": "Serbia's long-serving leader, Aleksandar Vucic, has conceded defeat in an election that pitted him and his right-wing party against a student-led opposition."
+        },
+        {
+          "title": "Serbia election: Vucic concedes defeat to student-led movement",
+          "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482",
+          "source": "Deutsche Welle",
+          "published_at": "2026-10-25T21:07:00.000Z",
+          "description": "In a seismic political shift, Serbia’s longtime strongman leader Aleksandar Vucic conceded defeat to a student-led movement in the country's parliamentary elections."
+        },
+        {
+          "title": "Serbia’s Vucic concedes defeat as student-led movement wins parliamentary election",
+          "url": "https://timesofindia.indiatimes.com/world/europe/serbias-vucic-concedes-defeat-as-student-led-movement-wins-parliamentary-election/articleshow/135199388.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-25T23:26:13.000Z"
+        },
+        {
+          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "source": "BBC News",
+          "published_at": "2026-10-25T21:25:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg",
+          "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost."
+        },
+        {
+          "title": "Serbia’s Vucic concedes defeat against student-led opposition movement",
+          "url": "https://globalnews.ca/news/12120755/serbias-vucic-concedes-defeat-student-opposition",
+          "source": ": World",
+          "published_at": "2026-10-25T21:48:33.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/10/serbia-election.jpg?quality=65&strip=all",
+          "description": "High turnout and gathering tensions marked the highly contested parliamentary election that was a showdown between Vucic and university students."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Serbia’s leader Aleksandar Vučić toppled from power by student-led mass protest movement | BBC News",
+          "url": "https://www.youtube.com/watch?v=Vm4yz7CR9WU",
+          "video_id": "Vm4yz7CR9WU",
+          "channel": "BBC News",
+          "published_at": "2026-10-25T23:08:44.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vm4yz7CR9WU/hqdefault.jpg"
+        },
+        {
+          "title": "Breaking News: Serbia's Vucic concedes defeat after student-led election victory",
+          "url": "https://www.youtube.com/watch?v=qaA-oTojVqA",
+          "video_id": "qaA-oTojVqA",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-10-25T21:43:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qaA-oTojVqA/hqdefault.jpg"
+        },
+        {
+          "title": "Serbia’s former President Aleksandar Vucic concedes defeat",
+          "url": "https://www.youtube.com/shorts/ya4yDdk6J8Q",
+          "video_id": "ya4yDdk6J8Q",
+          "channel": "TRT World",
+          "published_at": "2026-10-25T21:36:24.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ya4yDdk6J8Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Serbian leader Aleksandar Vučić conceded defeat after a parliamentary election in which a student-led movement challenged his party. Headlines described the result as a win for the student-led opposition."
+    },
+    {
+      "id": "topic_ac85bf49890abc33",
+      "title": "Ukraine Disputes Musk’s Claim Over Starlink Use",
+      "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News",
+      "label": [
+        "violated",
+        "musk",
+        "ukraine",
+        "starlink",
+        "terms",
+        "service"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_2bde33ca68510811",
+      "entities": [
+        "Ukraine",
+        "Elon Musk",
+        "Starlink",
+        "AP News",
+        "Musk"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxqz1drdjlpwdvyns1bawppz2hyzdrsmjlibgt1zxnuqmgxdmk0cdjmaljqa05rweriakhxsxvswe5cohzmwedjm0pwzfdwyzj5whdzmuh3q0e3rw1xvmmwczbfewlctlrtuu1mwgvjyvqyovrmqwtycuu5n2j1envta29ks2tszunfy25gwgpzsmn2ahhpmwnznkxpb2nulxfkq3binlo2ee5ly05ob09ovhfxcmuwzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-25T16:43:00.000Z",
+          "description": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service AP NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
+          "url": "https://japantoday.com/category/world/ukraine-disputes-elon-musk%27s-claim-that-its-military-violated-starlink%27s-terms-of-service",
+          "source": "Japan Today",
+          "published_at": "2026-10-25T21:17:40.000Z",
+          "description": "Ukrainian officials have disputed claims by SpaceX CEO Elon Musk that the country’s military violated Starlink’s terms of service by using the civilian satellite internet network for offensive…"
+        },
+        {
+          "title": "Musk accuses Ukraine of violating Starlink's terms of service",
+          "url": "https://www.thehindu.com/news/international/musk-accuses-ukraine-of-violating-starlink-terms-by-using-it-for-offensive-drone-strikes/article71622539.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T04:18:21.000Z",
+          "description": "The satellite network has been at the centre of a row between Ukraine and the United States."
+        },
+        {
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-10-25T18:18:49.000Z",
+          "description": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use."
+        },
+        {
+          "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
+          "url": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-10-25T00:24:35.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-ramaphosa-press-availability-oval-office.jpg?ve=1&tl=1",
+          "description": "Elon Musk claims Ukraine violated Starlink terms of service by using the civilian system for deadly drone strikes, saying the loophole was closed."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Elon Musk REVEALS why Starlink was disrupted in Ukraine #foxnews #news #shorts #ukraine #elonmusk",
+          "url": "https://www.youtube.com/shorts/lP27qSHx8LY",
+          "video_id": "lP27qSHx8LY",
+          "channel": "Fox News",
+          "published_at": "2026-10-25T18:30:27.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/lP27qSHx8LY/hqdefault.jpg"
+        },
+        {
+          "title": "Tech Billionaire Elon Musk Says Ukraine Violated Starlink Terms | WION News",
+          "url": "https://www.youtube.com/watch?v=0vgzYjnMjBQ",
+          "video_id": "0vgzYjnMjBQ",
+          "channel": "WION",
+          "published_at": "2026-10-25T12:12:56.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/0vgzYjnMjBQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "Ukraine disputed Elon Musk’s claim that its military violated Starlink’s terms of service. Musk alleged the network was used for offensive drone operations, while Ukrainian officials contested the claim."
+    },
+    {
+      "id": "topic_3d885be685fc4ff2",
+      "title": "Obama Criticizes Trump on the Campaign Trail",
+      "headline": "Barack Obama fires up Donald Trump",
+      "label": [
+        "barack",
+        "donald",
+        "obama",
+        "trump",
+        "fires",
+        "midterms"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_25ac81ca328e8113",
+      "entities": [
+        "Barack Obama",
+        "Donald Trump",
+        "Midterms",
+        "Donald Trump Selbstbereicherung",
+        "Einrichtung"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Barack Obama fires up Donald Trump",
+          "url": "https://www.theage.com.au/national/barack-obama-fires-up-donald-trump-20261026-p618ha.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-10-25T19:09:37.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/f8352ccd73c5d4b624809ab5a054de7da39aa21d",
+          "description": "Former US president Barack Obama is taking aim at Donald Trump ahead of critical midterm elections."
+        },
+        {
+          "title": "Midterms: Barack Obama wirft Donald Trump Selbstbereicherung vor",
+          "url": "https://www.zeit.de/politik/ausland/2026-10/barack-obama-zwischenwahlen-usa-donald-trump",
+          "source": "DIE ZEIT | Nachrichten, News, Hintergründe und Debatten",
+          "published_at": "2026-10-25T03:52:30.000Z",
+          "description": "Barack Obama kritisiert die Iranpolitik und die Zölle von US-Donald Trump. Noch nie habe ein Präsident sich so unverhohlen auf Kosten der Bevölkerung bereichert."
+        },
+        {
+          "title": "Barack Obama verspottet Donald Trump für Einrichtung im Weißen Haus",
+          "url": "https://www.spiegel.de/ausland/barack-obama-verspottet-donald-trump-fuer-einrichtung-im-weissen-haus-a-6cf7e48f-8ce4-4fb9-94da-40ac935132a7",
+          "source": "DER SPIEGEL - Schlagzeilen – Tops",
+          "published_at": "2026-10-25T13:59:00.000Z",
+          "description": "Die Demokraten setzen im Wahlkampf für die Midterms auf prominente Unterstützung: In Ohio teilt Ex-Präsident Barack Obama gegen Donald Trump aus – und macht sich über dessen Einrichtungsgeschmack lustig."
+        },
+        {
+          "title": "À l’approche des midterms, Barack Obama était inspiré pour critiquer Donald Trump et sa salle de bal",
+          "url": "https://www.huffingtonpost.fr/international/video/a-l-approche-des-midterms-barack-obama-a-ete-inspire-pour-critiquer-donald-trump-et-sa-salle-de-bal_344621.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-10-25T10:40:10.000Z",
+          "description": "L’ancien président américain est monté sur scène samedi 24 octobre lors d’un meeting dans l’Ohio pour soutenir les candidats démocrates aux élections de mi-mandat."
+        },
+        {
+          "title": "‘Saddam Hussein opened a cheesecake factory’: Obama’s jibe at Trump’s White House",
+          "url": "https://timesofindia.indiatimes.com/world/us/saddam-hussein-opened-a-cheesecake-factory-obamas-jibe-at-trumps-white-house/articleshow/135180806.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-25T00:39:20.000Z"
+        }
+      ],
+      "summary": "Former President Barack Obama criticized Donald Trump at campaign events supporting Democrats ahead of the midterm elections. His remarks included criticism of Trump’s policies and White House makeover.",
+      "videos": [
+        {
+          "title": "‘Like Saddam Hussein opened a Cheesecake Factory’",
+          "url": "https://www.youtube.com/shorts/ETw_wW81mWU",
+          "video_id": "ETw_wW81mWU",
+          "channel": "CNN",
+          "published_at": "2026-10-25T03:29:40.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ETw_wW81mWU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "topic_e53cf3789c299086",
+      "title": "Man Arrested After Knife Incident on Brooklyn Film Set",
+      "headline": "Man Arrested on ‘Miami Vice ‘85’ Brooklyn Set After Brandishing a Knife",
+      "label": [
+        "vice",
+        "knife",
+        "miami",
+        "set",
+        "arrested",
+        "brandishing"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_5581950f3889faa9",
+      "entities": [
+        "Man Arrested",
+        "Miami Vice",
+        "Brooklyn Set After Brandishing",
+        "Knife",
+        "Brandishing Knife"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Man Arrested on ‘Miami Vice ‘85’ Brooklyn Set After Brandishing a Knife",
+          "url": "https://variety.com/2026/film/news/miami-vice-85-man-arrested-on-set-1236930692",
+          "source": "Variety",
+          "published_at": "2026-10-25T18:37:53.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2301218837.jpg",
+          "description": "The Brooklyn set of “Miami Vice ‘85” was disrupted when a man was arrested after brandishing a knife around crew members on Friday. The man, whom the New York Police Department confirmed as 23-year-old Alex Perez of Brooklyn, was charged with menacing and criminal possession of a weapon after being…"
+        },
+        {
+          "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
+          "url": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
+          "source": "IGN Articles",
+          "published_at": "2026-10-25T04:23:32.000Z",
+          "description": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security on the set arrested Alex Perez, 23."
+        },
+        {
+          "title": "Man Arrested On ‘Miami Vice 85’ Brooklyn Set After Threatening Crew With Butcher Knife",
+          "url": "https://deadline.com/2026/10/man-arrested-miami-vice-85-brooklyn-set-butcher-knife-1237172783",
+          "source": "Deadline",
+          "published_at": "2026-10-25T18:48:36.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2301218820.jpg",
+          "description": "Filming on Miami Vice ’85 was disrupted on Friday night when a man threatened a member of the production with a butcher knife. According to an NYPD spokesperson, 23-year-old Alex Perez of Brooklyn was arrested at around 11:15pm on charges of menacing and criminal possession of a weapon after police…"
+        },
+        {
+          "title": "‘Miami Vice ’85’: Man Arrested After Pulling Out Knife During Dispute on Brooklyn Set",
+          "url": "https://news.google.com/rss/articles/cbmiuafbvv95cuxnnm5hdhz5ttztuzfzbljlckdsvfg4q1vyqxfhadlhrfyxx1lkvjdzwmnvunz2awzvsm0zq1m2nvuxdhhczxlfetv5wjrxtlo0wvh0aetqznvmb0nizezua3rrcuu3c1bxyuo2ugvezhdtnjk5c1hsltd4dulmu3pebejxnvbanzqyqnq5qufjyjlrzjhxvexnbc11b0w3mmjeqlfwamjfzlnpzgq0rjjynnhvoxfxuk9i",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-25T16:53:49.000Z",
+          "description": "‘Miami Vice ’85’: Man Arrested After Pulling Out Knife During Dispute on Brooklyn Set The Hollywood Reporter Man With Butcher Knife Arrested On Set of Michael B. Jordan's 'Miami Vice '85' TMZ Knife-wielding man arrested after clashing with crew member on NYC film set of ‘Miami Vice ‘85’: police New…"
+        },
+        {
+          "title": "Alex Perez Arrested After Allegedly Brandishing Knife on ‘Miami Vice ’85’ Set in NYC",
+          "url": "https://internewscast.com/news/us/alex-perez-arrested-after-allegedly-brandishing-knife-on-miami-vice-85-set-in-nyc",
+          "source": "Internewscast",
+          "published_at": "2026-10-25T10:08:20.000Z",
+          "description": "Internewscast Internewscast A man armed with a knife was arrested Friday night after an… This Post: Alex Perez Arrested After Allegedly Brandishing Knife on ‘Miami Vice ’85’ Set in NYC first appeared on Internewscast"
+        }
+      ],
+      "summary": "A 23-year-old man was arrested after allegedly brandishing a knife and threatening crew members on the Brooklyn set of “Miami Vice ’85.” The incident disrupted filming."
+    },
+    {
+      "id": "topic_40c244c87dc2edbc",
+      "title": "Tom Brady Reportedly Dating Candice Swanepoel",
+      "headline": "Tom Brady Reportedly Dating Supermodel Candice Swanepoel",
+      "label": [
+        "candice",
+        "swanepoel",
+        "brady",
+        "tom",
+        "dating",
+        "supermodel"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_80b9064c24427790",
+      "entities": [
+        "Tom Brady Reportedly Dating",
+        "Supermodel Candice Swanepoel",
+        "Tom Brady",
+        "Candice Swanepoel",
+        "Page Six"
+      ],
+      "article_count": 7,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Tom Brady Reportedly Dating Supermodel Candice Swanepoel",
+          "url": "https://internewscast.com/news/tom-brady-reportedly-dating-supermodel-candice-swanepoel",
+          "source": "Internewscast",
+          "published_at": "2026-10-25T05:47:44.000Z",
+          "description": "Internewscast Internewscast Tom Brady is at the center of new romance speculation involving Victoria’s… This Post: Tom Brady Reportedly Dating Supermodel Candice Swanepoel first appeared on Internewscast"
+        },
+        {
+          "title": "Tom Brady dating supermodel Candice Swanepoel: report",
+          "url": "https://news.google.com/rss/articles/cbmioafbvv95cuxqtzzcq3l5m2w1wgxzbfc4bnjywxzhn2vouxdlmgn5y0tistczbgvrnmo4rwtus1dwx0txovi4ns1kaxjlnhmxr3oxbldvvzfsoghzeklvr0tym1bmwevezgoteus5vfcxqlf5zwrgyvnxwdvouha0btl2luvznjvirev1duy1bxliq3czywtibkzrm2rxdnnev1psrklcc1fy",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-25T03:29:03.000Z",
+          "description": "Tom Brady dating supermodel Candice Swanepoel: report Page Six"
+        },
+        {
+          "title": "South African supermodel Candice Swanepoel dating Tom Brady – report",
+          "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/south-african-supermodel-candice-swanepoel-dating-tom-brady-report",
+          "source": "The South African",
+          "published_at": "2026-10-25T16:34:59.000Z",
+          "description": "South African supermodel Candice Swanepoel is reportedly dating retired American NFL superstar Tom Brady."
+        },
+        {
+          "title": "Tom Brady começa a namorar supermodelo Candice Swanepoel, afirma revista",
+          "url": "https://jornaldebrasilia.com.br/entretenimento/celebridades/tom-brady-comeca-a-namorar-supermodelo-candice-swanepoel-afirma-revista",
+          "source": "Jornal de Brasília",
+          "published_at": "2026-10-25T18:59:57.000Z",
+          "image": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/25155935/AFP__20260920__2296277765__v1__MidRes__WashingtonCommandersVDallasCowboys.jpg",
+          "description": "GABRIEL VAQUER ARACAJU, SE (FOLHAPRESS) O ex-jogador de futebol americano Tom Brady estaria vivendo um romance com a supermodelo sul-africana Candice Swanepoel. A informação foi divulgada pela revista americana Us Weekly, apontando que os dois estariam juntos há algum tempo, embora fontes próximas…"
+        }
+      ],
+      "summary": "Reports say retired NFL player Tom Brady is dating South African supermodel Candice Swanepoel."
+    },
+    {
+      "id": "topic_d5d809d8c2133647",
+      "title": "Jay-Z Closes Los Angeles Concert Series With Star Guests",
+      "headline": "JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show",
+      "label": [
+        "jay",
+        "dre",
+        "snoop",
+        "dogg",
+        "dr",
+        "brings"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_da489f40d83f5d3b",
+      "entities": [
+        "JAY",
+        "Brings Out Dr",
+        "Dre",
+        "Snoop Dogg",
+        "Final JA"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show",
+          "url": "https://consequence.net/2026/10/jay-z-brings-out-dr-dre-snoop-dogg-and-too-hort-at-final-jay-z30-show",
+          "source": "Consequence",
+          "published_at": "2026-10-25T15:53:14.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/10/JAY-Z-with-Snoop-Dogg.jpeg?quality=80",
+          "description": "The sold-out Los Angeles finale featured a run of West Coast classics and brought JAY-Z’s anniversary celebration to a close. JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show Alex Krinsky"
+        },
+        {
+          "title": "Watch Jay-Z Bring Out Dr. Dre and Snoop Dogg at LA Tour Closer",
+          "url": "https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer",
+          "source": "RSS: News",
+          "published_at": "2026-10-25T16:57:49.000Z",
+          "description": "Too $hort, John Legend, Scarface, and Blue Ivy Carter also joined the final Jay-Z 30 shows at SoFi Stadium"
+        },
+        {
+          "title": "Jay-Z Brings His ‘Jay-Z 30’ Concert Series to a Close in Los Angeles With Dr. Dre, Snoop Dogg and Too Short",
+          "url": "https://variety.com/2026/music/news/jay-z-30-closer-dr-dre-snoop-dogg-los-angeles-sofi-stadium-1236930554",
+          "source": "Variety",
+          "published_at": "2026-10-25T08:42:05.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/JAY-Z30-LOS-ANGELES-NIGHT-2-001-e1792916885758.jpg",
+          "description": "How does one measure their own legacy: In a series of shows, in the decades since a debut album, in an exhaustive eight-part docuseries breaking down the intricacies of rhymes laid down years ago? That seemed to be the existential question looming over “Jay-Z 30,” a yearlong celebration that began…"
+        },
+        {
+          "title": "Dr. Dre, Snoop Dogg & Too $hort Electrify Jay-Z30 Tour’s Final Stop",
+          "url": "https://www.billboard.com/music/concerts/jay-z-la-night-2-dr-dre-snoop-dogg-too-short-guests-1236367642",
+          "source": "Billboard",
+          "published_at": "2026-10-25T19:42:24.000Z",
+          "description": "Night two at SoFi Stadium also paid tribute to Nipsey Hussle."
+        },
+        {
+          "title": "See Jay-Z Bring Out Snoop Dogg and Dr. Dre for Medley at Los Angeles Show",
+          "url": "https://www.rollingstone.com/music/music-news/jay-z-snoop-dogg-dr-dre-medley-los-angeles-show-1235647696",
+          "source": "Rolling Stone",
+          "published_at": "2026-10-25T13:41:44.000Z",
+          "description": "Too Short also joined rapper onstage for \"Blow the Whistle\" at final gig of the Jay-Z 30 Tour"
+        }
+      ],
+      "summary": "Jay-Z’s final Los Angeles show in his anniversary concert series featured Dr. Dre, Snoop Dogg and Too $hort. Other guests included John Legend, Scarface and Blue Ivy Carter, according to headlines."
+    },
+    {
+      "id": "topic_23813cf6451d0409",
+      "title": "Airlines Plan Flight Transfers to Navi Mumbai Airport",
+      "headline": "IndiGo, Air India Group To Shift Flights To Navi Mumbai Airport",
+      "label": [
+        "mumbai",
+        "indigo",
+        "navi",
+        "flights",
+        "airport",
+        "shift"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_94e06b923b511a06",
+      "entities": [
+        "IndiGo",
+        "Air India Group To",
+        "Shift Flights To Navi",
+        "Mumbai Airport",
+        "Air India"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "IndiGo, Air India Group To Shift Flights To Navi Mumbai Airport",
+          "url": "https://www.ndtv.com/india-news/indigo-air-india-group-to-shift-flights-to-navi-mumbai-airport-12233359",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-25T11:25:57.000Z",
+          "description": "Air India Express plans to begin four daily domestic flights from NMIA in December 2026, followed by the phased transition of its West Asia operations from January 2027."
+        },
+        {
+          "title": "IndiGo, Air India express to shift flights to Navi Mumbai airport: Which routes will move and when?",
+          "url": "https://www.dnaindia.com/india/report-indigo-air-india-express-to-shift-flights-to-navi-mumbai-airport-which-routes-will-move-and-when-3223009",
+          "source": "India News",
+          "published_at": "2026-10-25T13:49:00.000Z",
+          "description": "IndiGo will shift 12 daily international departures to Navi Mumbai airport from February 2027. Check affected routes, Air India Express plans and what changes for flyers."
+        },
+        {
+          "title": "IndiGo to move 12 international flights to Navi Mumbai, free up Mumbai airport",
+          "url": "https://www.indiatoday.in/india/story/indigo-navi-mumbai-12-daily-international-flights-csmia-february-2027-3024730-2026-10-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-25T11:58:06.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/mumbai-airport-nmia-csmia-santacruz-t1b-terminal-1-redevelopment-mial-aahl-bombay-passenger-traffic-182729190-16x9_1.jpg?VersionId=Sbk6fsJwogHOSqlg_46zc9CnQLKI_mFh",
+          "description": "IndiGo to move international flights to Navi Mumbai free up Mumbai airport"
+        },
+        {
+          "title": "IndiGo to shift 12 daily international departures from Mumbai’s CSMIA to Navi Mumbai airport from February",
+          "url": "https://www.thehindu.com/business/industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T10:56:29.000Z",
+          "description": "The transition, which is in the final stages of operational planning, will cover IndiGo's existing services from Mumbai to Bahrain, Riyadh, Dammam, Jeddah, Madinah, Kuwait, Ras Al Khaimah, Fujairah, Muscat, Dhaka and Jakarta"
+        },
+        {
+          "title": "AI Express, IndiGo to move West Asia flights from Mumbai to Navi Mumbai",
+          "url": "https://www.thehindubusinessline.com/economy/logistics/ai-express-indigo-to-move-west-asia-flights-from-mumbaito-navimumbai/article71623866.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-25T15:04:17.000Z",
+          "description": "The transition, which begins in December, will stretch into the next summer schedule"
+        }
+      ],
+      "summary": "IndiGo and Air India Express plan to move some flights from Mumbai’s existing airport to Navi Mumbai. The transition includes international and West Asia routes and is expected to begin in stages from December 2026."
+    },
+    {
+      "id": "topic_32b888e724beffc5",
+      "title": "Thousands Protest Across Italian and European Cities",
+      "headline": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "label": [
+        "guard",
+        "soldiers",
+        "march",
+        "thousands",
+        "milan",
+        "across"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_a7122f4600816987",
+      "entities": [
+        "Soldiers",
+        "Milan",
+        "Europe",
+        "AP News",
+        "NPR"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+          "source": "NPR Topics: World",
+          "published_at": "2026-10-25T07:15:00.000Z",
+          "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
+        },
+        {
+          "title": "Soldiers guard centre of Milan as thousands of protesters march in cities across Europe",
+          "url": "https://www.thehindu.com/news/international/thousands-of-european-protests-erupt-from-milan-to-madrid/article71622515.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T03:58:07.000Z",
+          "description": "Premier Giorgia Meloni announced a raft of measures, including sending an additional 500 soldiers to Milan and tougher penalties for minors, who police said made up a large part of the violent protesters last week"
+        },
+        {
+          "title": "Soldiers guard centre of Milan as thousands march",
+          "url": "https://www.perthnow.com.au/news/politics/soldiers-guard-centre-of-milan-as-thousands-march-c-23068098",
+          "source": "PerthNow",
+          "published_at": "2026-10-25T02:59:44.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23068098/6db83c81bddd21512be23d2e71a8dacdbcb0675d-16x9-x0y0w1280h720.jpg",
+          "description": "Hundreds of additional 500 soldiers have been sent to Milan as thousands of people again marched through Italian cities to protest the rising cost of living."
+        },
+        {
+          "title": "Over 5,000 Soldiers Guard Milan As Thousands March Across Italian Cities",
+          "url": "https://www.ndtv.com/world-news/over-5-000-soldiers-guard-milan-thousands-march-across-italian-cities-milan-rome-europe-12231895",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-25T02:34:43.000Z",
+          "description": "The protests encompass a broad range of issues from education and corruption to anti-war movements, pensions and housing."
+        }
+      ],
+      "summary": "Thousands marched in cities including Milan, Rome, Madrid, Lisbon and Tirana. The demonstrations addressed issues including the cost of living, education, corruption, pensions, housing and anti-war concerns; additional soldiers were sent to Milan."
+    },
+    {
+      "id": "topic_df9d9432ad47a375",
+      "title": "Man Dies After Car Hits Scooter in Kochi",
+      "headline": "Man killed in Kochi as luxury car, allegedly driven by judge’s minor son, hits scooter",
+      "label": [
+        "judge",
+        "scooter",
+        "minor",
+        "son",
+        "driven",
+        "kochi"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_aa4862749100c69c",
+      "entities": [
+        "Man",
+        "Kochi",
+        "Keralam",
+        "Killed As Car Allegedly",
+        "Driven By Judge"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Man killed in Kochi as luxury car, allegedly driven by judge’s minor son, hits scooter",
+          "url": "https://www.thehindu.com/news/cities/kochi/man-killed-in-kochi-as-luxury-car-allegedly-driven-by-judges-minor-son-hits-scooter/article71622634.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T07:10:37.000Z",
+          "description": "Police have taken into custody the minor driver, reportedly the son of a senior judge; the police have registered a case against the driver on charges of rash driving and rash or negligent act that does not amount to culpable homicide"
+        },
+        {
+          "title": "Man, 54, Killed As Car Allegedly Driven By Judge's Minor Son Hits Two-Wheeler In Kochi",
+          "url": "https://www.freepressjournal.in/india/man-54-killed-as-car-allegedly-driven-by-judges-minor-son-hits-two-wheeler-in-kochi",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-25T06:46:48.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-02-20/y730strz/images.jpg"
+        },
+        {
+          "title": "Kochi: 55-year-old man killed as judge’s minor son rams luxury car into scooter",
+          "url": "https://timesofindia.indiatimes.com/city/kochi/55-year-old-man-killed-as-judges-minor-son-rams-luxury-car-into-scooter-in-kochi/articleshow/135189956.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-25T11:58:25.000Z",
+          "description": "A 55-year-old man named Jayabalakrishnan died after a luxury car collided with his scooter in Kochi. The minor driver, a 17-year-old, is the son of an Additional District Judge. The police have detained the teenager and registered a case for reckless driving and causing death by negligence. Initial…"
+        },
+        {
+          "title": "Keralam man killed after Mercedes driven by judge's 17-year-old son hits scooter",
+          "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mercedes-driven-by-judge-minor-son-crashes-into-scooter-man-dead-keralam-car-crash-3024598-2026-10-25",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-25T08:26:11.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/kochi-car-crash-252908490-16x9_0.jpg?VersionId=rEbAoV5G9AQTA5bjnLvDbExL0EFP7SA8",
+          "description": "Keralam man killed after Mercedes driven by judges yearold son hits scooter"
+        },
+        {
+          "title": "Kerala Judge's Minor Son Rams Mercedes-Benz Into Scooter, Rider Dies",
+          "url": "https://www.ndtv.com/india-news/kerala-judges-minor-son-rams-mercedes-benz-into-scooter-rider-dies-12234412",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-25T16:37:01.000Z",
+          "description": "The boy's father is posted in Thrissur. He is the registered owner of the vehicle. Police are examining his liability in connection with the accident and the possibility of naming him as an accused."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Kochi Mercedes Crash: Kerala Judge's Minor Son Rams Mercedes-Benz Into Scooter, Rider Dies",
+          "url": "https://www.youtube.com/watch?v=Ch3qJkVM5q0",
+          "video_id": "Ch3qJkVM5q0",
+          "channel": "NDTV",
+          "published_at": "2026-10-25T18:21:05.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ch3qJkVM5q0/hqdefault.jpg"
+        }
+      ],
+      "summary": "A man in his 50s died after a luxury car hit his scooter in Kochi. Police detained the 17-year-old driver, who headlines identify as the son of a judge, and are investigating the case."
+    },
+    {
+      "id": "topic_47a9dec380bb8f73",
+      "title": "Bruno Fernandes Dropped for Manchester United’s Bournemouth Match",
+      "headline": "Fernandes dropped to Man Utd bench - was Carrick right?",
+      "label": [
+        "dropped",
+        "fernandes",
+        "man",
+        "utd",
+        "carrick",
+        "bench"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_6d7bcd5719b64a9e",
+      "entities": [
+        "Fernandes",
+        "Man Utd",
+        "Carrick",
+        "Bournemouth",
+        "Premier League"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o",
+          "source": "BBC Sport",
+          "published_at": "2026-10-25T13:26:13.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46eb/live/8346ca20-d07d-11f1-a4ba-351760cfea6a.jpg",
+          "description": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick."
+        },
+        {
+          "title": "Fernandes dropped from Man Utd team for crucial Bournemouth game",
+          "url": "https://news.sky.com/story/bruno-fernandes-manchester-united-captain-dropped-for-crucial-premier-league-game-against-bournemouth-13603513",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-10-25T11:33:00.000Z",
+          "description": "Bruno Fernandes has been dropped from the Manchester United team for their Premier League game at home to Bournemouth."
+        },
+        {
+          "title": "Fernandes dropped to bench by Man Utd boss Carrick",
+          "url": "https://sports.yahoo.com/articles/fernandes-dropped-bench-man-utd-125933037.html",
+          "published_at": "2026-10-25T13:17:39.000Z",
+          "description": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick."
+        },
+        {
+          "title": "Premier League live updates: Fernandes dropped as Man United face Bournemouth",
+          "url": "https://www.espn.com/soccer/story/_/id/50220518/premier-league-live-updates-liverpool-brighton-hove-albion-bournemouth-manchester-united",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-10-25T13:54:16.000Z",
+          "description": "Both Liverpool and Manchester United are in Premier League action at the same time as a busy weekend of European soccer continues, with United boss Michael Carrick trying to save his job."
+        },
+        {
+          "title": "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
+          "url": "https://www.thehindu.com/sport/football/bruno-fernandes-dropped-by-man-united-in-big-call-by-manager-michael-carrick/article71623594.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-25T13:56:06.000Z",
+          "description": "Under-pressure Manchester United manager Michael Carrick has dropped captain Bruno Fernandes in a statement selection with the team in a crisis"
+        }
+      ],
+      "summary": "Manchester United captain Bruno Fernandes was left out of the starting lineup for the match against Bournemouth. Headlines linked the decision to his criticism of manager Michael Carrick."
+    },
+    {
+      "id": "topic_e759a44efa0a701a",
+      "title": "Nigeria Approves Weekly Payments for Ebola Contacts",
+      "headline": "Breaking: NCDC approves N100,000 weekly payment for Ebola contacts",
+      "label": [
+        "weekly",
+        "ebola",
+        "ncdc",
+        "contacts",
+        "approves",
+        "n100"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_d2bb9f602c9cf507",
+      "entities": [
+        "NCDC",
+        "N100",
+        "Ebola",
+        "NCDC Approves",
+        "Weekly Support"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Breaking: NCDC approves N100,000 weekly payment for Ebola contacts",
+          "url": "https://www.legit.ng/nigeria/1737849-breaking-ncdc-approves-n100000-weekly-payment-ebola-contacts",
+          "source": "Legit.ng",
+          "published_at": "2026-10-25T16:20:05.000Z",
+          "description": "NCDC is paying Ebola contacts in Abuja N100,000 weekly during outbreak monitoring, as 53 people are tracked and states are urged to prepare for similar costs."
+        },
+        {
+          "title": "NCDC Approves ₦100,000 Weekly Support for Ebola Contacts",
+          "url": "https://www.nigerianeye.com/2026/10/ncdc-approves-100000-weekly-support-for.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-10-25T15:36:18.256Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8yb0Td87XNBqPlZ2BFleoj339lnpRkLZXvIEaYG-HUt9jFwFNwWiResWVdDsT-61j3cUpa8-GuuCsQxTz2CkgVRd8ImtH7ax0OVGxJDWEc9_3MLAjLUucnbYR0d_fEaAe2D-NLvEYNPHouKFjTO3kVD1yTI1oTtkoNg7KuOewkEKyotiM9PWTWE7y2eg/s72-w400-h266-c/1002397161.jpg",
+          "description": "The Nigeria Centre for Disease Control and Prevention (NCDC) has introduced an emergency stipend of ₦100,000 per person per week for individuals placed under isolation or quarantine in Abuja, following the confirmation of an Ebola case. NCDC Director-General, Dr. Jide Idris, announced the measure d…"
+        },
+        {
+          "title": "Ebola: NCDC approves ₦100,000 weekly allowance for quarantined contacts",
+          "url": "https://www.premiumtimesng.com/health/health-news/920165-ebola-ncdc-approves-%e2%82%a6100000-weekly-allowance-for-quarantined-contacts.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-10-25T17:25:51.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/NCDC-5-1062x598-1.jpg?fit=1062%2C598&amp;ssl=1",
+          "description": "Mr Idris said the agency was already covering accommodation and feeding costs for those placed in designated facilities but had introduced additional financial support to ease their difficulties. The post Ebola: NCDC approves ₦100,000 weekly allowance for quarantined contacts appeared first on Prem…"
+        },
+        {
+          "title": "Ebola: NCDC to pay contacts in isolation N100,000 weekly",
+          "url": "https://dailypost.ng/2026/10/25/ebola-ncdc-to-pay-contacts-in-isolation-n100000-weekly",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-10-25T16:38:30.000Z",
+          "description": "The Nigeria Centre for Disease Control and Prevention, NCDC, has approved an emergency payment of N100,000 per person, weekly, for individuals placed in isolation or quarantine as part of efforts to contain the Ebola outbreak in the Federal Capital Territory, FCT. The Director-General of the agency…"
+        },
+        {
+          "title": "NCDC To Pay N100,000 Weekly Allowances To Isolated Ebola Patients",
+          "url": "https://www.informationng.com/2026/10/ncdc-to-pay-n100000-weekly-allowances-to-isolated-ebola-patients.html",
+          "source": "Information Nigeria",
+          "published_at": "2026-10-25T17:31:53.000Z",
+          "description": "The Nigeria Centre for Disease Control and Prevention (NCDC) has approved a weekly payment of N100,000 per person to support individuals placed under isolation or quarantine as part of efforts to contain the Ebola outbreak in the Federal Capital Territory (FCT). Briefing newsmen on Sunday in Abuja,…"
+        }
+      ],
+      "summary": "Nigeria’s Centre for Disease Control approved a weekly payment of ₦100,000 for people isolated or quarantined as Ebola contacts in Abuja. The agency is also covering accommodation and food costs, according to headlines."
+    }
+  ]
+}
