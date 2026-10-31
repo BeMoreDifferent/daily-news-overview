@@ -1,0 +1,1167 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-31T00:33:25.801Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Reports say attackers stole $6.3 billion from Binance in a cryptocurrency hack, with some accounts linking the attack to North Korea but attribution unconfirmed.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "A malicious Claude Code extension distributed through Cursor’s marketplace and Open VSX reportedly installed a persistent SSH backdoor and may have reached up to 5,000 developers.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Pope Leo XIV cast a mail-in ballot in Illinois’s 2026 midterm elections, becoming the first sitting pope known to vote in a US election.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "Trump’s planned rallies in Iowa and Kansas were reported canceled in favor of tele-rallies, then reinstated hours after the announcement, according to one report.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Novaya Gazeta announced it would close, citing pressure from Russian authorities.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_d82bf2b1a9e945d1",
+      "title": "Binance Hit by Reported $6.3 Billion Cryptocurrency Hack",
+      "headline": "Binance hit by $6.3-billion hack, the biggest crypto heist ever",
+      "label": [
+        "crypto",
+        "heist",
+        "binance",
+        "billion",
+        "biggest",
+        "hack"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_70e43b111e58272d",
+      "entities": [
+        "Binance",
+        "Hackers",
+        "The World",
+        "Biggest Crypto Heist",
+        "North Korea Linked To"
+      ],
+      "article_count": 32,
+      "source_count": 28,
+      "articles": [
+        {
+          "title": "Binance hit by $6.3-billion hack, the biggest crypto heist ever",
+          "url": "https://techcentral.co.za/binance-hack-6-3-billion-biggest-crypto-heist/287829",
+          "source": "TechCentral",
+          "published_at": "2026-10-30T05:58:48.000Z",
+          "description": "Blockchain analysts TRM Labs and Chainalysis say the attackers behind the raid were from North Korea."
+        },
+        {
+          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist",
+          "source": "Ars Technica - All content",
+          "published_at": "2026-10-30T13:46:39.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+          "description": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
+        },
+        {
+          "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
+          "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist",
+          "source": "Fortune | FORTUNE",
+          "published_at": "2026-10-30T05:49:46.000Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2275037810.jpg?w=2048",
+          "description": "There are unconfirmed reports North Korea is behind the massive hack."
+        },
+        {
+          "title": "The World’s Biggest Crypto Heist",
+          "url": "https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea",
+          "source": "Foreign Policy",
+          "published_at": "2026-10-30T20:44:08.000Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/BinanceHack-GettyImages-2302659527.jpg",
+          "description": "Suspected North Korean hackers stole $6.36 billion in digital coins from Binance."
+        },
+        {
+          "title": "North Korea Linked To $6.3 Billion Binance Hack In Biggest Crypto Heist Ever",
+          "url": "https://www.ndtv.com/india-news/north-korea-linked-to-6-3-billion-binance-hack-in-biggest-crypto-heist-ever-12259950",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-30T14:08:28.000Z",
+          "description": "TraderTraitor is one of the elite hacking units linked to North Korea and had earlier been accused of attacks on crypto exchanges."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Binance loses $6.3 billion in the biggest crypto heist ever | The 8:30",
+          "url": "https://www.youtube.com/watch?v=qdtKiFU2Pns",
+          "video_id": "qdtKiFU2Pns",
+          "channel": "Yahoo Finance",
+          "published_at": "2026-10-30T15:43:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qdtKiFU2Pns/hqdefault.jpg"
+        },
+        {
+          "title": "Binance $6.3 Billion Hack: Biggest Crypto Heist Ever? North Korea Link Under Scanner",
+          "url": "https://www.youtube.com/watch?v=cswF-_37Ukc",
+          "video_id": "cswF-_37Ukc",
+          "channel": "Business Today",
+          "published_at": "2026-10-30T10:06:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/cswF-_37Ukc/hqdefault.jpg"
+        },
+        {
+          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+          "url": "https://www.youtube.com/watch?v=cw7WST9jBFI",
+          "video_id": "cw7WST9jBFI",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-10-30T09:26:53.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/cw7WST9jBFI/hqdefault.jpg"
+        }
+      ],
+      "summary": "Reports say attackers stole billions of dollars from Binance in what was described as a record cryptocurrency heist. Some reports linked the attack to North Korea, though attribution was not confirmed in all accounts."
+    },
+    {
+      "id": "topic_98d82693f87097dd",
+      "title": "Compromised Claude Code Extension Distributed SSH Backdoor",
+      "headline": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "label": [
+        "code",
+        "extension",
+        "claude",
+        "cursor",
+        "backdoor",
+        "ssh"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_5afdea5df2ed80d2",
+      "entities": [
+        "Malicious Claude Code",
+        "Cursor",
+        "SSH",
+        "Backdoors",
+        "Claude Code"
+      ],
+      "article_count": 20,
+      "source_count": 20,
+      "articles": [
+        {
+          "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+          "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+          "source": "BleepingComputer",
+          "published_at": "2026-10-30T14:36:54.000Z",
+          "description": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]"
+        },
+        {
+          "title": "Backdoors in official Claude Code extensions",
+          "url": "https://cyberplace.social/@gossithedog/117528831681803563",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-10-30T11:05:53.000Z",
+          "description": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 8 # Comments: 0"
+        },
+        {
+          "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+          "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+          "source": "The Hacker News",
+          "published_at": "2026-10-30T08:55:47.000Z",
+          "description": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced to the compromise of the Cursor Marketplace, prompting the AI coding platform C…"
+        },
+        {
+          "title": "Official Claude Code extension compromise",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
+          "source": "Hacker News",
+          "published_at": "2026-10-30T07:09:12.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Malicious Claude Code Cursor Extension Planted SSH Backdoor",
+          "url": "https://www.cyberkendra.com/2026/10/claude-code-extension-cursor-ssh-backdoor.html",
+          "source": "Cyber Kendra",
+          "published_at": "2026-10-30T14:02:21.000Z",
+          "description": "A tampered Claude Code 2.1.313 build added an svc-telemetry SSH key and persistence; Cursor says up to 5,000 users installed it on October 29."
+        }
+      ],
+      "summary": "A malicious version of Anthropic’s Claude Code extension was distributed through Cursor’s marketplace and the Open VSX registry. Reports say it installed a persistent SSH backdoor and may have reached up to 5,000 developers."
+    },
+    {
+      "id": "topic_fdb44f7dbfafe7c9",
+      "title": "Pope Leo XIV Votes in a US Election for the First Time",
+      "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "label": [
+        "pope",
+        "leo",
+        "vote",
+        "xiv",
+        "election",
+        "us"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_2abd1fa4b6c69148",
+      "entities": [
+        "Pope Leo XIV",
+        "US",
+        "Leo XIV",
+        "Pope Leo Becomes First",
+        "Pontiff"
+      ],
+      "article_count": 25,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
+          "source": "BBC News",
+          "published_at": "2026-10-30T14:48:22.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
+          "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
+        },
+        {
+          "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
+          "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
+          "source": "Axios",
+          "published_at": "2026-10-30T15:07:20.000Z",
+          "description": "Pope Leo XIV voted in the 2026 Illinois midterm elections using a mail-in ballot, the Vatican confirmed Friday, becoming the first sitting pope known to vote in an American election. Why it matters: The pontiff, an American citizen, may be the first to vote in any secular democratic election. Jolie…"
+        },
+        {
+          "title": "Pope Leo XIV has become the first pope in history to vote in a US election",
+          "url": "https://abcnews.com/international/wirestory/pope-leo-xiv-become-pope-history-vote-us-137704157",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-10-30T13:22:31.000Z",
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+          "description": "Pope Leo XIV has become the first pope in history to vote in a U.S. election"
+        },
+        {
+          "title": "Pope Leo XIV has become the first pope in history to vote in a US general election",
+          "url": "https://www.seattletimes.com/nation-world/pope-leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-us-election",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-10-30T13:01:24.000Z",
+          "description": "Pope Leo XIV has become the first pope in history to vote in a U.S. general election."
+        },
+        {
+          "title": "Leo XIV becomes first pope to vote in a US general election",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/30/leo-xiv-becomes-first-pope-to-vote-in-a-us-general-election_6767466_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-10-30T13:55:23.000Z",
+          "description": "The Catholic Church's first US-born pontiff submitted his mail-in ballot in Chicago. It is the first known time a pope has voted in a political election."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Why Pope Leo’s US midterm vote is making history",
+          "url": "https://www.youtube.com/watch?v=fNfzwUv9y7w",
+          "video_id": "fNfzwUv9y7w",
+          "channel": "CNN",
+          "published_at": "2026-10-30T22:30:07.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fNfzwUv9y7w/hqdefault.jpg"
+        },
+        {
+          "title": "Pope Leo becomes the first pontiff to vote in a U.S. election",
+          "url": "https://www.youtube.com/watch?v=7mcVg3Z8CXw",
+          "video_id": "7mcVg3Z8CXw",
+          "channel": "CBS News",
+          "published_at": "2026-10-30T18:55:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7mcVg3Z8CXw/hqdefault.jpg"
+        },
+        {
+          "title": "Pope Leo becomes first pope to vote in U.S. election",
+          "url": "https://www.youtube.com/shorts/QKjiZ1an0LM",
+          "video_id": "QKjiZ1an0LM",
+          "channel": "ABC News",
+          "published_at": "2026-10-30T15:34:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/QKjiZ1an0LM/hqdefault.jpg"
+        }
+      ],
+      "summary": "Pope Leo XIV cast a mail-in ballot in the 2026 Illinois midterm elections, according to the Vatican. He is the first sitting pope known to have voted in a US election."
+    },
+    {
+      "id": "topic_a55cc7b6f8c03fb9",
+      "title": "Trump Changes Plans for Iowa and Kansas Campaign Rallies",
+      "headline": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
+      "label": [
+        "rallies",
+        "cancels",
+        "trump",
+        "iowa",
+        "kansas",
+        "tele"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_d3515a3c3bd293fa",
+      "entities": [
+        "Trump Cancels Rallies",
+        "Kansas",
+        "Iowa This Weekend",
+        "Trump Resurrects Canceled Rallies",
+        "Iowa"
+      ],
+      "article_count": 20,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-10-30T01:08:52.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29midterms-rally-cancelled-qvhg/29midterms-rally-cancelled-qvhg-mediumSquareAt3X.jpg",
+          "description": "President Trump has been holding hours-long rallies for G.O.P. candidates nearly every day for weeks."
+        },
+        {
+          "title": "Trump Resurrects Canceled Rallies in Iowa and Kansas",
+          "url": "https://politicalwire.com/2026/10/30/trump-resurrects-canceled-rallies-in-iowa-and-kansas",
+          "source": "Political Wire",
+          "published_at": "2026-10-30T14:52:59.000Z",
+          "description": "“President Donald Trump will attend midterm rallies in Kansas and Iowa on Sunday, resurrecting the events just hours after the White House announced it was canceling them,” the Washington Sun reports."
+        },
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies",
+          "url": "https://news.google.com/rss/articles/cbmixwfbvv95cuxpekm1sephs1p0n2xoy0jltxc1r3jrexq0dxjrtxdvtnhkykxaemjldwhitzreluliv1puykhvu2wwuhb2ruvutwtnatuzui1tt3rezzc0vus2rw5zyvlddfrknxzkd05urtrwdkpmexnfavrnbfrhqtnemtzfytzwnnllrf9tafzoz09uskt5wwrgzlbmq3jydkdnmjhhsnlwslfnu0pvnuxwdgnjzkjcdhbxsjrvb0g4stbiwjd5wuyxuunkb2r3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-30T03:19:00.000Z",
+          "description": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies NBC News US midterms: 4 days to go – What the polls say as Trump cancels two rallies Al Jazeera Trump cancels weekend rallies, plans to phone in to other midterm campaign events Reuters Trump Cancels Rallies…"
+        },
+        {
+          "title": "Trump cancels two rallies before election day, says he’ll do tele-rallies instead",
+          "url": "https://www.ms.now/news/trump-rallies-midterm-election-kansas-iowa-republicans",
+          "source": "MS NOW",
+          "published_at": "2026-10-30T01:36:14.000Z",
+          "description": "The president's planned rallies in Kansas and Iowa were abruptly cancelled with the RNC claiming the last-minute schedule change was to allow Trump to reach more voters through virtual tele-rallies. The post Trump cancels two rallies before election day, says he’ll do tele-rallies instead appeared…"
+        },
+        {
+          "title": "Trump cancels two rallies before election day, says he'll do tele-rallies instead (MS NOW)",
+          "url": "https://www.memeorandum.com/261029/p154",
+          "source": "memeorandum",
+          "published_at": "2026-10-30T03:15:02.000Z",
+          "description": "MS NOW: Trump cancels two rallies before election day, says he'll do tele-rallies instead — The president's planned rallies in Kansas and Iowa were abruptly cancelled with the RNC claiming the last-minute schedule change was to allow Trump to reach more voters through virtual tele-rallies."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump cancels midterm rallies in Kansas and Iowa. Here's why.",
+          "url": "https://www.youtube.com/watch?v=ZNMT8kWzR_Y",
+          "video_id": "ZNMT8kWzR_Y",
+          "channel": "CBS News",
+          "published_at": "2026-10-30T13:22:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZNMT8kWzR_Y/hqdefault.jpg"
+        },
+        {
+          "title": "What sources say about Trump's last-minute rally cancellations",
+          "url": "https://www.youtube.com/watch?v=g6ybq_tKkJY",
+          "video_id": "g6ybq_tKkJY",
+          "channel": "CNN",
+          "published_at": "2026-10-30T12:30:19.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/g6ybq_tKkJY/hqdefault.jpg"
+        },
+        {
+          "title": "Midterm Elections 2026: Trump Cancels In-Person Rallies",
+          "url": "https://www.youtube.com/watch?v=5mCHoLqX52Q",
+          "video_id": "5mCHoLqX52Q",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-10-30T10:58:53.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/5mCHoLqX52Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Trump’s planned weekend rallies in Iowa and Kansas were reported canceled in favor of tele-rallies. One report said the events were reinstated hours after the cancellation announcement."
+    },
+    {
+      "id": "topic_a9145c733aea550d",
+      "title": "Novaya Gazeta Announces Closure Under Pressure in Russia",
+      "headline": "Russian independent newspaper Novaya Gazeta to close",
+      "label": [
+        "novaya",
+        "newspaper",
+        "gazeta",
+        "independent",
+        "shut",
+        "russia"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_e9bde0079c616631",
+      "entities": [
+        "Russian",
+        "Novaya Gazeta",
+        "Independent Russian",
+        "Kremlin",
+        "Russia"
+      ],
+      "article_count": 16,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Russian independent newspaper Novaya Gazeta to close",
+          "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+          "source": "Europe | The Guardian",
+          "published_at": "2026-10-30T09:05:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4d80573985a56e7205dda34f288ff842",
+          "description": "Newspaper whose former editor won Nobel peace prize says pressure from Russian authorities has forced it to shut The Russian independent newspaper Novaya Gazeta has announced it is closing, citing pressure from authorities who recently searched the home of its senior editor and earlier this year de…"
+        },
+        {
+          "title": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+          "url": "https://www.thehindu.com/news/international/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure/article71646590.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-30T17:03:17.000Z",
+          "description": "The closure of Novaya Gazeta — one of the last outlets to openly criticise Russia's offensive — marks a new low in Moscow's campaign against dissenting voices that gained speed after the Kremlin sent troops into its neighbour in 2022"
+        },
+        {
+          "title": "Russia’s top independent newspaper Novaya Gazeta shuts under Kremlin pressure",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-10-30T21:03:58.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/c641cc39-0239-4924-9a6d-bba2bf914547_32474e26.jpg?itok=b8XHC7NH&v=1793394227",
+          "description": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last…"
+        },
+        {
+          "title": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
+          "url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-10-30T15:08:00.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/97/35/15/696x392_cmsv2_39f84b6d-2d70-594a-ab0a-f00952bc09d5-9973515.jpg",
+          "description": "The paper is one of the few Russian outlets that has been openly critical of Russia's war in Ukraine, but it has come under increasing pressure from Moscow."
+        },
+        {
+          "title": "Independent Russian newspaper Novaya Gazeta shuts down under state pressure",
+          "url": "https://news.google.com/rss/articles/cbmitgfbvv95cuxodmlidjl4y3p1bge5v05hn3j4blaxtwdlc3m2r0y0rvvytw1kc09dsxplnxvpvnvztvawb2hkswrgn21iofhha3vvbza3refiv0dzr2zrn005qzg0m3zvmgvxahnrwhvxunnbzwxmdfley25fss1aa1hwt3jqmglwzgppbgzqcehbumprv016vxrnzjg5bxjxtzdxctzvovn5nuxbuwzex2hxmunfaem3bjrtnzlzdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-10-30T13:28:24.000Z",
+          "description": "Independent Russian newspaper Novaya Gazeta shuts down under state pressure NBC News Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure The Guardian Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’ The New York Times Russia ‘forc…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=fzf2J2hZUzM",
+          "video_id": "fzf2J2hZUzM",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-10-30T16:58:49.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fzf2J2hZUzM/hqdefault.jpg"
+        }
+      ],
+      "summary": "Independent Russian newspaper Novaya Gazeta announced it would close, citing pressure from Russian authorities. The outlet had been openly critical of the government and Russia’s war in Ukraine."
+    },
+    {
+      "id": "topic_34dc09f6336fa78f",
+      "title": "Three Killed in Midair Helicopter Collision Near Oregon Airport",
+      "headline": "Three dead after two helicopters collide midair near Oregon airport",
+      "label": [
+        "oregon",
+        "helicopters",
+        "collide",
+        "airport",
+        "midair",
+        "near"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_3b7a626cabb620d9",
+      "entities": [
+        "Three",
+        "Oregon",
+        "BBC",
+        "Two Helicopters Collide Near",
+        "Oregon Airport"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Three dead after two helicopters collide midair near Oregon airport",
+          "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
+          "source": "BBC News",
+          "published_at": "2026-10-30T03:05:17.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/2d7f7270-d408-11f1-88b8-2d5226da0f6b.jpg",
+          "description": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway."
+        },
+        {
+          "title": "Two Helicopters Collide Near Oregon Airport",
+          "url": "https://internewscast.com/news/us/two-helicopters-collide-near-oregon-airport",
+          "source": "Internewscast",
+          "published_at": "2026-10-30T01:39:04.000Z",
+          "description": "Internewscast Internewscast Two helicopters collided in midair near an airport in Oregon on Thursday,… This Post: Two Helicopters Collide Near Oregon Airport first appeared on Internewscast"
+        },
+        {
+          "title": "3 killed as two helicopters collide mid-air near Oregon airport in US",
+          "url": "https://timesofindia.indiatimes.com/world/us/mid-air-collision-near-oregon-airport-3-killed-as-two-helicopters-crash-into-each-other-us/articleshow/135339697.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-30T02:35:02.000Z"
+        },
+        {
+          "title": "Two helicopters collide midair near Oregon airport with three people aboard, FAA confirms",
+          "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-10-30T02:21:14.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/oregon-helicopter-collision-emergency-response.jpg?ve=1&tl=1",
+          "description": "Two helicopters collided midair near McMinnville Municipal Airport in Oregon, crashing in a field and forcing highway closures as the FAA investigates."
+        },
+        {
+          "title": "3 Killed As 2 Helicopters Collide Mid-Air Near Oregon Airport In US",
+          "url": "https://www.ndtv.com/world-news/3-killed-as-2-helicopters-collide-mid-air-near-oregon-airport-in-us-yamhill-county-sheriff-12257033",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-30T04:17:11.000Z",
+          "description": "Two people were on board the Robinson and the Airbus was carrying just the pilot, according to the sheriff."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Helicopters collide midair in Oregon, killing 3 people",
+          "url": "https://www.youtube.com/shorts/YWlMj_SocXw",
+          "video_id": "YWlMj_SocXw",
+          "channel": "ABC News",
+          "published_at": "2026-10-30T16:21:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/YWlMj_SocXw/hqdefault.jpg"
+        },
+        {
+          "title": "3 dead after 2 helicopters collide midair in Oregon",
+          "url": "https://www.youtube.com/shorts/IrD2PGeI-2M",
+          "video_id": "IrD2PGeI-2M",
+          "channel": "CNN",
+          "published_at": "2026-10-30T11:52:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/IrD2PGeI-2M/hqdefault.jpg"
+        }
+      ],
+      "summary": "Two helicopters collided midair near McMinnville Municipal Airport in Oregon and crashed in a field. Three people were killed, and authorities are investigating."
+    },
+    {
+      "id": "topic_e4cec8c189e78838",
+      "title": "Bhutan Glacial Lake Outburst Prompts Flood Alerts in India",
+      "headline": "Bhutan glacial lake outburst triggers flash floods",
+      "label": [
+        "glacial",
+        "lake",
+        "outburst",
+        "bhutan",
+        "flood",
+        "bengal"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_19ff69ca06f0b28a",
+      "entities": [
+        "Bhutan",
+        "Glacial Lake Outburst Floods",
+        "Bhutan Glacial Lake Outburst",
+        "Triggers Flash Flood Alerts",
+        "In West Bengal"
+      ],
+      "article_count": 13,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Bhutan glacial lake outburst triggers flash floods",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-30T09:54:50.000Z",
+          "description": "A glacial lake outburst in northern Bhutan has triggered flash flooding."
+        },
+        {
+          "title": "What are Glacial Lake Outburst Floods?",
+          "url": "https://www.thehindu.com/children/what-are-glacial-lake-outburst-floods/article71597642.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-30T04:09:42.000Z",
+          "description": "Glacial lakes can unleash deadly floods when their natural dams collapse. Read on to know more about GLOFs and the danger they pose?"
+        },
+        {
+          "title": "Bhutan Glacial Lake Outburst Triggers Flash Flood Alerts In West Bengal, Assam",
+          "url": "https://www.freepressjournal.in/world/bhutan-glacial-lake-outburst-triggers-flash-flood-alerts-in-west-bengal-assam",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-30T04:05:26.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-30/exvr57re/Untitled-Design-92.jpg"
+        },
+        {
+          "title": "Flood alerts, evacuations in Bengal, Assam after Bhutan glacial lake outburst",
+          "url": "https://scroll.in/latest/1096753/flood-alerts-evacuations-in-bengal-assam-after-bhutan-glacial-lake-outburst",
+          "source": "Scroll.in",
+          "published_at": "2026-10-30T10:02:05.000Z",
+          "description": "The flood water from the Sintaphu lake in Bhutan was predicted to flow downstream into India."
+        },
+        {
+          "title": "Glacial Lake Outburst In Bhutan Sends Flash Floods Warning To Bengal, Assam",
+          "url": "https://www.ndtv.com/world-news/shintaphu-lake-glacial-lake-outburst-in-bhutan-sends-flash-floods-warning-to-bengal-assam-12256637",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-30T01:52:09.000Z",
+          "description": "Shintaphu Lake,located at the source of the Mo Chhu River, is considered one of Bhutan's 17 potentially dangerous glacial lakes."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Bhutan Glacial Lake Outburst Triggers Flood Alert In North Bengal And Lower Assam",
+          "url": "https://www.youtube.com/watch?v=qis2kDfBroY",
+          "video_id": "qis2kDfBroY",
+          "channel": "NDTV",
+          "published_at": "2026-10-30T11:21:49.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qis2kDfBroY/hqdefault.jpg"
+        },
+        {
+          "title": "Bhutan glacial lake outburst triggers flash floods | #AJ shorts",
+          "url": "https://www.youtube.com/shorts/-7q9_ZAb5Z4",
+          "video_id": "-7q9_ZAb5Z4",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-10-30T09:39:07.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/-7q9_ZAb5Z4/hqdefault.jpg"
+        },
+        {
+          "title": "Glacial Lake Burst Triggers Himalayan Flood Scare | WION News",
+          "url": "https://www.youtube.com/watch?v=ZB90-HWFakA",
+          "video_id": "ZB90-HWFakA",
+          "channel": "WION",
+          "published_at": "2026-10-30T08:51:21.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZB90-HWFakA/hqdefault.jpg"
+        }
+      ],
+      "summary": "A glacial lake outburst in Bhutan triggered flash-flood warnings for downstream areas in India, including West Bengal and Assam. Evacuations were reported in the affected regions."
+    },
+    {
+      "id": "topic_784b36e877d3b1bf",
+      "title": "World Bank Reports Declining Poverty in India",
+      "headline": "India's poverty will be down from 14.2% to 12.1% in 2 years: World Bank",
+      "label": [
+        "world",
+        "poverty",
+        "bank",
+        "india",
+        "extreme",
+        "years"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_5979b265b94a1732",
+      "entities": [
+        "World",
+        "India",
+        "World Bank",
+        "Extreme Poverty Drops From",
+        "Years"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "India's poverty will be down from 14.2% to 12.1% in 2 years: World Bank",
+          "url": "https://timesofindia.indiatimes.com/india/indias-poverty-will-be-down-from-14-2-to-12-1-in-2-years-world-bank/articleshow/135377216.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-30T20:11:47.000Z"
+        },
+        {
+          "title": "What in the World?",
+          "url": "https://foreignpolicy.com/2026/10/30/news-quiz-lula-brazil-election-serbia-vucic-israel-china-fifth-plenum-ccp",
+          "source": "Foreign Policy",
+          "published_at": "2026-10-30T17:47:37.000Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/Lula-Brazil-election-GettyImages-2301841457.jpg",
+          "description": "Test yourself on the week of Oct. 24: Brazil, Israel, and Serbia vote; China’s fifth plenum begins; and Trump campaigns ahead of the midterms."
+        },
+        {
+          "title": "India records one of the fastest poverty declines in the world, poverty down from 27.1% to 2.6%: World Bank",
+          "url": "https://www.thehindubusinessline.com/news/india-records-one-of-the-fastest-poverty-declines-in-the-world-poverty-down-from-271-to-26-world-bank/article71643624.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-30T05:24:31.000Z",
+          "description": "The report says the share of people below the $4.20/day lower-middle-income poverty line (2021 PPP) fell from 57.7% to 16.1% over the period"
+        },
+        {
+          "title": "India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank",
+          "url": "https://www.ndtv.com/india-news/indias-extreme-poverty-drops-from-27-1-percent-to-2-6-percent-in-12-years-world-bank-12257248",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-30T05:09:35.000Z",
+          "description": "The report said the proportion of people living below the lower-middle-income poverty line of USD 4.20 per day, measured at 2021 purchasing power parity (PPP), also fell from 57.7 per cent to 16.1 per cent during the period."
+        },
+        {
+          "title": "India lifts 496 million people out of poverty between 2011 and 2023, World Bank reports",
+          "url": "https://english.pravda.ru/news/world/171170-india-poverty-reduction-wealth-gap-world-bank",
+          "source": "PravdaReport",
+          "published_at": "2026-10-30T16:42:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/1/7/0/171170_amp.jpeg",
+          "description": "India has achieved a substantial reduction in absolute poverty, lifting an estimated 496 million people out of poverty between 2011 and 2023. According to the World Bank's October 2024 India Poverty and Equity Brief, this trajectory represents one of the most rapid declines in poverty levels global…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "India Records One of World's Fastest Poverty Declines, Lifts Over 49 Crore People Out of Poverty",
+          "url": "https://www.youtube.com/watch?v=DmpiAaEHsSU",
+          "video_id": "DmpiAaEHsSU",
+          "channel": "WION",
+          "published_at": "2026-10-30T17:39:37.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/DmpiAaEHsSU/hqdefault.jpg"
+        }
+      ],
+      "summary": "World Bank figures cited in the headlines show a substantial decline in poverty in India between 2011 and 2023. The reports give figures for different poverty thresholds."
+    },
+    {
+      "id": "topic_7340a360e4bca7db",
+      "title": "G20 Foreign Ministers Meet in the United States",
+      "headline": "Lavrov arrives in Atlanta for G20 Foreign Ministers’ Meeting",
+      "label": [
+        "ministers",
+        "foreign",
+        "g20",
+        "meeting",
+        "lavrov",
+        "jaishankar"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_2160bba77c084c59",
+      "entities": [
+        "Lavrov",
+        "Atlanta",
+        "G20 Foreign Ministers",
+        "Meeting",
+        "External Affairs Minister Jaishankar"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Lavrov arrives in Atlanta for G20 Foreign Ministers’ Meeting",
+          "url": "https://tass.com/politics/2210611",
+          "source": "TASS",
+          "published_at": "2026-10-30T04:39:57.000Z",
+          "description": "The event is scheduled for October 30-31"
+        },
+        {
+          "title": "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+          "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-30T04:57:51.000Z",
+          "description": "The External Affairs Minister will participate in the two-day deliberations, which will begin with Mr. Rubio’s address on geopolitical issues"
+        },
+        {
+          "title": "EAM Jaishankar in US for G20 Foreign Ministers’ meet",
+          "url": "https://www.thehindubusinessline.com/news/eam-jaishankar-in-us-for-g20-foreign-ministers-meet/article71643673.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-10-30T05:09:53.000Z",
+          "description": "US President Donald Trump is scheduled to host the G20 Leaders’ Summit in Miami on December 14-15"
+        },
+        {
+          "title": "Venezuela Names New Foreign Minister",
+          "url": "https://www.riotimesonline.com/venezuela-new-foreign-minister-oliver-blanco-2026",
+          "source": "The Rio Times",
+          "published_at": "2026-10-30T19:45:10.000Z",
+          "description": "Acting president Delcy Rodríguez named Oliver Blanco, a former opposition aide, foreign minister on 29 October 2026 and sent his predecessor to London. The post Venezuela Names New Foreign Minister appeared first on The Rio Times."
+        },
+        {
+          "title": "'Europeans balked': G20 foreign ministers' meeting opens without group photo. Here's why",
+          "url": "https://timesofindia.indiatimes.com/world/us/europeans-balked-g20-foreign-ministers-meeting-opens-without-group-photo-heres-why/articleshow/135370897.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-30T17:20:55.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "WATCH: Rubio welcomes G20 foreign ministers to Atlanta at 'critical moment'",
+          "url": "https://www.youtube.com/watch?v=JksmLcSdDuk",
+          "video_id": "JksmLcSdDuk",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-10-30T17:46:46.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JksmLcSdDuk/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Marco Rubio hosts G20 foreign ministers",
+          "url": "https://www.youtube.com/watch?v=eg2sf5_a8XE",
+          "video_id": "eg2sf5_a8XE",
+          "channel": "Reuters",
+          "published_at": "2026-10-30T14:07:21.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/eg2sf5_a8XE/hqdefault.jpg"
+        },
+        {
+          "title": "G20 Meeting LIVE: Marco Rubio Hosts a G20 Foreign Ministers' Meeting in Atlanta, Georgia | WION Live",
+          "url": "https://www.youtube.com/watch?v=I0h4_DaqJy4",
+          "video_id": "I0h4_DaqJy4",
+          "channel": "WION",
+          "published_at": "2026-10-30T13:19:43.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/I0h4_DaqJy4/hqdefault.jpg"
+        }
+      ],
+      "summary": "Foreign ministers, including India’s S. Jaishankar and Russia’s Sergey Lavrov, were reported attending the G20 foreign ministers’ meeting in the United States. The meeting opened without a group photograph, according to one report."
+    },
+    {
+      "id": "topic_8b1f2e490c33e79b",
+      "title": "Mayon Volcano Eruption Prompts Alert Level 3 in Philippines",
+      "headline": "Mayon Volcano erupts, Alert Level 3 raised -- PHIVOLCS",
+      "label": [
+        "volcano",
+        "mayon",
+        "eruption",
+        "alert",
+        "phivolcs",
+        "level"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_ae36f348c394ccd4",
+      "entities": [
+        "Mayon Volcano",
+        "Alert Level",
+        "PHIVOLCS",
+        "Phivolcs",
+        "Philippines"
+      ],
+      "article_count": 13,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Mayon Volcano erupts, Alert Level 3 raised -- PHIVOLCS",
+          "url": "https://www.gmanetwork.com/news/topstories/regions/1007703/mayon-volcano-erupts-alert-level-3-raised-phivolcs/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-10-30T04:27:21.000Z",
+          "description": "The Philippine Institute of Volcanology and Seismology (PHIVOLCS) on Friday reported a moderately explosive eruption of Mayon Volcano in Albay, prompting the raising of Alert Level 3."
+        },
+        {
+          "title": "Mayon Volcano's alert level raised to 3 after eruption",
+          "url": "https://newsinfo.inquirer.net/2332887/mayon-volcanos-alert-level-raised-to-3-after-eruption",
+          "source": "INQUIRER.net",
+          "published_at": "2026-10-30T05:08:02.000Z",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/mayon-volcano-eruption-2-30oct26-620x349.jpeg",
+          "description": "LEGAZPI CITY — The Philippine Institute of Volcanology and Seismology (Phivolcs) on Friday raised Mayon Volcano’s alert status from Level 2 to Level 3 following a moderately explosive eruption that sent an ash plume 3,000 meters above its summit. The eruption occurred at 11:53 a.m. on Oct. 30, prod…"
+        },
+        {
+          "title": "Mayon Volcano raised to Alert Level 3 following eruption",
+          "url": "https://www.sunstar.com.ph/manila/mayon-volcano-raised-to-alert-level-3-following-eruption",
+          "source": "sunstar",
+          "published_at": "2026-10-30T07:18:43.162Z"
+        },
+        {
+          "title": "Philippines raises alert as Mayon Volcano erupts",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-10-30T07:37:38.000Z",
+          "description": "The Philippines’ Mayon Volcano has erupted, sending ash plumes 3,000 metres above its summit."
+        },
+        {
+          "title": "PHIVOLCS raises Mayon Volcano to Alert Level 3 following explosive eruption",
+          "url": "https://bworldonline.com/the-nation/2026/10/30/790468/phivolcs-raises-mayon-volcano-to-alert-level-3-following-explosive-eruption",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-10-30T06:25:02.000Z",
+          "description": "Mayon Volcano in Albay has been raised to Alert Level 3, indicating the potential for heightened volcanic unrest,…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Philippines raises alert as Mayon volcano erupts",
+          "url": "https://www.youtube.com/shorts/-Kubz_ds4M4",
+          "video_id": "-Kubz_ds4M4",
+          "channel": "Reuters",
+          "published_at": "2026-10-30T11:31:32.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/-Kubz_ds4M4/hqdefault.jpg"
+        },
+        {
+          "title": "Mayon Volcano Spews Ash Into Philippine Skies During Eruption | WION Shorts",
+          "url": "https://www.youtube.com/shorts/8OQS_o92XJo",
+          "video_id": "8OQS_o92XJo",
+          "channel": "WION",
+          "published_at": "2026-10-30T08:02:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/8OQS_o92XJo/hqdefault.jpg"
+        },
+        {
+          "title": "Philippines raises alert as Mayon Volcano erupts",
+          "url": "https://www.youtube.com/shorts/fRfmZZXq4Iw",
+          "video_id": "fRfmZZXq4Iw",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-10-30T07:36:37.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fRfmZZXq4Iw/hqdefault.jpg"
+        }
+      ],
+      "summary": "The Philippines raised Mayon Volcano’s alert status to Level 3 after a moderately explosive eruption. Reports said ash rose about 3,000 metres above the summit."
+    },
+    {
+      "id": "topic_7c287946ca658293",
+      "title": "Pakistan Defeats India in Hong Kong Sixes Match",
+      "headline": "India vs Pakistan, Hong Kong Sixes Live Streaming: When And Where To Watch Live Telecast",
+      "label": [
+        "pakistan",
+        "kong",
+        "sixes",
+        "hong",
+        "india",
+        "vs"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_924ebca744e64312",
+      "entities": [
+        "India",
+        "Pakistan",
+        "Hong Kong Sixes Live",
+        "Streaming",
+        "When And Where To"
+      ],
+      "article_count": 8,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "India vs Pakistan, Hong Kong Sixes Live Streaming: When And Where To Watch Live Telecast",
+          "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-hong-kong-sixes-live-streaming-when-and-where-to-watch-live-telecast-12257480",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-10-30T06:13:21.000Z",
+          "description": "India vs Pakistan, Hong Kong Sixes Live Streaming: The Ind vs Pak Hong Kong Sixes clash will be streamed live on Fancode."
+        },
+        {
+          "title": "India suffer 4-wicket defeat against Pakistan in Hong Kong Sixes showdown",
+          "url": "http://www.hongkongnews.net/news/279404678/india-suffer-4-wicket-defeat-against-pakistan-in-hong-kong-sixes-showdown",
+          "source": "www.hongkongnews.net latest rss headlines",
+          "published_at": "2026-10-30T14:35:09.000Z",
+          "description": "Hong Kong, October 30 (ANI): The Mother of All Rivalries lived up to its billing as India and Pakistan faced off in Match 7 of the Hong Kong Sixes 2026. Pakistan captain Abbas Afridi won the toss and elected to bowl, restricting India to 88/5 in six overs, despite a fiery 40-run knock off just 11 b…"
+        },
+        {
+          "title": "Seriously? Pakistan PM trolled for celebrating Hong Kong Sixes win over India",
+          "url": "https://www.indiatoday.in/sports/cricket/story/shehbaz-sharif-trolled-pakistan-beat-india-hong-kong-sixes-2026-3028937-2026-10-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-30T16:46:50.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/shehbaz-sharif-30450445-16x9_0.jpg?VersionId=OF5GHbl3KCPpJWTpruTw5gtywfO4Fgzj",
+          "description": "Seriously Pakistan PM trolled for celebrating Hong Kong Sixes win over India"
+        },
+        {
+          "title": "Can India face Pakistan again at Hong Kong Sixes 2026? Here's why a IND vs PAK rematch is impossible",
+          "url": "https://sports.yahoo.com/articles/india-face-pakistan-again-hong-152000793.html",
+          "published_at": "2026-10-30T15:20:00.000Z",
+          "description": "Hong Kong Sixes' Cup, Plate, and Bowl knockout format means that an India vs. Pakistan rematch will not be possible."
+        },
+        {
+          "title": "'Bada Hi Khali PM Hai': Shehbaz Sharif Trolled After Congratulating Pakistan On Hong Kong Sixes Win Over India",
+          "url": "https://www.freepressjournal.in/sports/bada-hi-khali-pm-hai-shehbaz-sharif-trolled-after-congratulating-pakistan-on-hong-kong-sixes-win-over-india",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-30T18:01:43.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-30/wwkr8pr9/Sharif-HK-Sixes.jpg"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Pakistan Team Meets Fans 🤝🤳 | Victory over India in Hong Kong Sixes 2026",
+          "url": "https://www.youtube.com/watch?v=qXdn21XMaZg",
+          "video_id": "qXdn21XMaZg",
+          "channel": "Pakistan Cricket",
+          "published_at": "2026-10-30T09:00:19.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qXdn21XMaZg/hqdefault.jpg"
+        }
+      ],
+      "summary": "Pakistan beat India by four wickets in their Hong Kong Sixes match. Reports also noted that the tournament’s knockout format rules out a rematch between the teams."
+    },
+    {
+      "id": "topic_bab1ed6cddd30de",
+      "title": "Sports Court Overturns Ban on Russian Ice Hockey Teams",
+      "headline": "Russia's international ice hockey ban overturned",
+      "label": [
+        "hockey",
+        "ice",
+        "ban",
+        "international",
+        "overturned",
+        "russia"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_b760215d881facef",
+      "entities": [
+        "Russia",
+        "International Sports Court Overturns",
+        "Ban",
+        "Russian Ice Hockey Teams",
+        "CAS"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Russia's international ice hockey ban overturned",
+          "url": "https://sports.yahoo.com/articles/russias-international-ice-hockey-ban-121147414.html",
+          "published_at": "2026-10-30T12:11:47.000Z",
+          "description": "The Court of Arbitration for Sport overturns the ban on Russia by ice hockey's global governing body."
+        },
+        {
+          "title": "International Sports Court Overturns Ban on Russian Ice Hockey Teams",
+          "url": "https://www.themoscowtimes.com/2026/10/30/international-sports-court-overturns-ban-on-russian-ice-hockey-teams-a94132",
+          "source": "The Moscow Times - Independent News From Russia",
+          "published_at": "2026-10-30T11:39:24.000Z",
+          "description": "The International Ice Hockey Federation had banned Russia and Belarus from its competitions in response to the 2022 invasion of Ukraine."
+        },
+        {
+          "title": "Russia wins landmark CAS case against international ice hockey federation",
+          "url": "https://english.pravda.ru/world/171250-cas-ruling-russia-iihf-hockey-ban",
+          "source": "PravdaReport",
+          "published_at": "2026-10-30T15:37:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article//2/5/0/171250_soc.jpeg",
+          "description": "The Court of Arbitration for Sport (CAS) has delivered an unprecedented shock to the sporting world by ordering the International Ice Hockey Federation (IIHF) to admit Russian national teams to all competitions in the 2026/27 season. International Ice Hockey Federation loses court battle against Ru…"
+        },
+        {
+          "title": "Court orders ice hockey federation to admit Russian hockey players: what we know",
+          "url": "https://tass.com/sports/2211017",
+          "source": "TASS",
+          "published_at": "2026-10-30T14:41:26.000Z",
+          "description": "The international federation is obliged to ensure the participation of the Russian national teams in the IIHF tournaments in the 2026/27 season"
+        },
+        {
+          "title": "Russia is back in the ice hockey world championships after sports court ruling",
+          "url": "https://japantoday.com/category/sports/russia-says-cas-has-ordered-international-ice-hockey-federation-to-let-russian-teams-play-its-events",
+          "source": "Japan Today",
+          "published_at": "2026-10-30T21:40:53.000Z",
+          "description": "Russia must be allowed to return to ice hockey's international tournaments, the Court of Arbitration for Sport ruled on Friday, overturning an exclusion in place since the full-scale…"
+        }
+      ],
+      "summary": "The Court of Arbitration for Sport overturned the international ice hockey federation’s ban on Russian teams. Reports say the federation must allow Russia to participate in international tournaments."
+    },
+    {
+      "id": "topic_33ef129eb998e767",
+      "title": "India Launches NVS-03 Navigation Satellite",
+      "headline": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE",
+      "label": [
+        "satellite",
+        "nvs",
+        "launch",
+        "navigation",
+        "gslv",
+        "isro"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_7a4fd42f28fe21c3",
+      "entities": [
+        "ISRO",
+        "GSLV",
+        "F18",
+        "NVS",
+        "ISRO To Launch GSLV"
+      ],
+      "article_count": 8,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE",
+          "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-10-30T14:26:00.000Z",
+          "description": "NVS-03 satellite is equipped with an indigenous atomic clock alongside procured atomic clocks"
+        },
+        {
+          "title": "ISRO To Launch GSLV-F18 Carrying Navigation Satellite NVS-03 Today",
+          "url": "https://www.freepressjournal.in/india/isro-to-launch-gslv-f18-carrying-navigation-satellite-nvs-03-today",
+          "source": "Free Press Journal",
+          "published_at": "2026-10-30T02:38:27.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-10-30/tpj7i8dm/Untitled-Design-84.jpg"
+        },
+        {
+          "title": "Watch LIVE: Isro gears up to launch NVS-03 satellite aboard GSLV-F18 shortly",
+          "url": "https://www.indiatoday.in/science/story/isro-nvs-03-launch-today-time-live-stream-navic-3028663-2026-10-30",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-10-30T17:30:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/watch-live-isro-gslv-f18-nvs-03-launch-to-send-key-satellite-to-orbit-300440634-16x9_0.jpg?VersionId=cFh8uLWJferJlIDHiDxU9vorLyHJTlLQ",
+          "description": "Watch LIVE Isro gears up to launch NVS satellite aboard GSLVF shortly"
+        },
+        {
+          "title": "India launches next-gen navigation satellite to orbit (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+          "source": "Latest from Space.com",
+          "published_at": "2026-10-30T20:29:58.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-1920-80.jpg",
+          "description": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year."
+        },
+        {
+          "title": "Isro’s NVS-03 launch successful: Navigation satellite placed in orbit; NavIC gets a boost",
+          "url": "https://timesofindia.indiatimes.com/india/isros-gslv-f18/nvs-03-mission-successful-next-generation-navigation-satellite-placed-in-orbit-navic-constellation-gets-a-boost/articleshow/135374721.cms",
+          "source": "Times of India",
+          "published_at": "2026-10-30T18:40:00.000Z",
+          "description": "GSLV-F18 carrying 2,250kg next-generation navigation satellite -- NVS-03 -- lifted off from the second launch pad at the Satish Dhawan Space Centre (SDSC-SHAR) in Sriharikota at 11.51pm on Friday, as scheduled.Around 18 minutes later, NVS-03 satellite was placed in a geosynchronous transfer orbit (…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "SRIHARIKOTA LIVE: GSLV-F18/NVS-03 Mission Launches NVS-03 Navigation Satellite 2nd Gen NavIC Series",
+          "url": "https://www.youtube.com/watch?v=7KQkriVQ2Ok",
+          "video_id": "7KQkriVQ2Ok",
+          "channel": "NDTV",
+          "published_at": "2026-10-30T14:54:49.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7KQkriVQ2Ok/hqdefault.jpg"
+        },
+        {
+          "title": "NVS-03: India’s Next Navigation Boost | WION Defence Pulse",
+          "url": "https://www.youtube.com/shorts/SnCcmDUX_3w",
+          "video_id": "SnCcmDUX_3w",
+          "channel": "WION",
+          "published_at": "2026-10-30T13:04:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/SnCcmDUX_3w/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: ISRO’s GSLV-F18 To Launch NVS-03 Satellite Tonight; Countdown Begins At Sriharikota",
+          "url": "https://www.youtube.com/watch?v=gA_XA5UOCaA",
+          "video_id": "gA_XA5UOCaA",
+          "channel": "Business Today",
+          "published_at": "2026-10-30T11:52:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/gA_XA5UOCaA/hqdefault.jpg"
+        }
+      ],
+      "summary": "India successfully launched the NVS-03 navigation satellite aboard a GSLV-F18 rocket and placed it in orbit. Reports said the satellite will support the NavIC navigation system."
+    },
+    {
+      "id": "topic_c49a58bcb09eb74a",
+      "title": "Dexter: Resurrection Returns for Season Two",
+      "headline": "DEXTER: RESURRECTION Returns for Season 2",
+      "label": [
+        "dexter",
+        "resurrection",
+        "season",
+        "hall",
+        "michael",
+        "esclusiva"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_f81858199f8f6bf1",
+      "entities": [
+        "DEXTER",
+        "RESURRECTION Returns",
+        "Season",
+        "Dexter",
+        "Michael"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "DEXTER: RESURRECTION Returns for Season 2",
+          "url": "https://www.aintitcool.com/michael-c-hall-talks-dexter-20-years-83676",
+          "source": "Ain't It Cool News Feed",
+          "published_at": "2026-10-30T19:11:00.000Z",
+          "description": "DEXTER: RESURRECTION returns for Season 2, featuring Michael C. Hall in conversation. Read the full article on AICN The day is finally upon us! DEXTER: RESURRECTION returns tonight for its second season, twenty years after the character first appeared on screens in October of 2006. Michael C. Hall…"
+        },
+        {
+          "title": "\"Dexter: resurrection\", intervista esclusiva a Michael C. Hall",
+          "url": "https://www.liberoquotidiano.it/news/libero-video/49494334/dexter-resurrection-intervista-esclusiva-michael-c-hall",
+          "source": "Libero Quotidiano",
+          "published_at": "2026-10-30T11:28:00.000Z"
+        },
+        {
+          "title": "Dexter: Resurrection's Michael C. Hall On Dexter's 'Dangerous Risks' And 'Desire For Recognition' In Season 2 Premiere",
+          "url": "https://www.tvline.com/2302126/dexter-resurrection-season-2-premiere-michael-c-hall-interview-rapunzel-dies",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-10-30T16:00:00.000Z",
+          "description": "In the Season 2 premiere of Dexter: Resurrection, Dexter comes face to face with an old foe - grade it!"
+        },
+        {
+          "title": "How to watch Dexter: Resurrection season 2 online for free – stream Michael C. Hall series from anywhere",
+          "url": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-dexter-resurrection-season-2",
+          "source": "Latest from TechRadar",
+          "published_at": "2026-10-30T02:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/f4ihLhN48kgLZ7R3Ehpz27-1920-80.jpg",
+          "description": "Here's how to watch Dexter: Resurrection season 2 online for free from anywhere in the world as Michael C. Hall returns as Dexter Morgan."
+        }
+      ],
+      "videos": [
+        {
+          "title": "\"Dexter: Resurrection\" cast on the franchise's 20th anniversary",
+          "url": "https://www.youtube.com/watch?v=QOCIL_c4JKw",
+          "video_id": "QOCIL_c4JKw",
+          "channel": "CBS News",
+          "published_at": "2026-10-30T03:21:36.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/QOCIL_c4JKw/hqdefault.jpg"
+        }
+      ],
+      "summary": "Dexter: Resurrection returned for its second season, with Michael C. Hall reprising his role as Dexter Morgan. Coverage included the season premiere and interviews with Hall."
+    }
+  ]
+}
