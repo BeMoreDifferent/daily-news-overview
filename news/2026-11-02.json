@@ -1,0 +1,1124 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-03T00:37:24.609Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Donald Trump made a final appeal to voters at the Lincoln Memorial Reflecting Pool before the midterm elections; the pool was closed for restoration.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Belgian Prime Minister Bart De Wever offered his resignation after coalition parties failed to agree on a budget; King Philippe has not accepted it.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "The UN peacekeeping mission in Western Sahara ended after the Security Council did not renew its mandate, ending operations that began in 1991.",
+        "stories": [
+          8
+        ]
+      },
+      {
+        "text": "Authorities in Ukraine and Russia reported cyberattacks sending false emergency alerts, while European supermarkets reported suspected attacks altering freezer and refrigerator controls.",
+        "stories": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "A Learjet crash in Florida killed nine people, including 20-year-old co-pilot Nathalia Gadelha; the pilot had reported icing and turbulence before declaring an emergency.",
+        "stories": [
+          3
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_b03c64c4782f4d5d",
+      "title": "Trump delivers final midterm pitch at Lincoln Memorial Reflecting Pool",
+      "headline": "Trump To Deliver Final Midterm Pitch At Lincoln Memorial Reflecting Pool—Despite Ongoing Closure",
+      "label": [
+        "pool",
+        "reflecting",
+        "trump",
+        "final",
+        "midterm",
+        "lincoln"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_5afdd629065936fb",
+      "entities": [
+        "Trump To Deliver Final",
+        "Midterm Pitch At Lincoln",
+        "Memorial Reflecting Pool",
+        "Despite Ongoing Closure",
+        "Forbes"
+      ],
+      "article_count": 15,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Trump To Deliver Final Midterm Pitch At Lincoln Memorial Reflecting Pool—Despite Ongoing Closure",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/trump-to-deliver-final-midterm-pitch-at-lincoln-memorial-reflecting-pool-despite-ongoing-closure",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-02T09:45:10.000Z",
+          "description": "The National Park Service announced last month that the Reflecting Pool would remain closed to visitors until November 20 amid ongoing restoration work."
+        },
+        {
+          "title": "Trump Uses Final Pre-Midterm Speech to Ramble About Reflecting Pool",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-rants-reflecting-pool-midterms-1235651490",
+          "source": "Rolling Stone",
+          "published_at": "2026-11-02T21:34:03.000Z",
+          "description": "The president would like you to reward him for overhauling Washington, D.C., by voting Republican"
+        },
+        {
+          "title": "Trump inaugura Lincoln Memorial Reflecting Pool e scherza: Si chiamerà Trump Reflecting Pool",
+          "url": "https://www.liberoquotidiano.it/news/video-news-by-vista/49511613/trump-inaugura-lincoln-memorial-reflecting-pool-e-scherza-si-chiamera-trump-reflecting-pool",
+          "source": "Libero Quotidiano",
+          "published_at": "2026-11-02T19:16:20.000Z"
+        },
+        {
+          "title": "Trump to deliver closing midterms message in front of Lincoln Memorial Reflecting Pool",
+          "url": "https://www.ms.now/news/trump-reflecting-pool-speech-midterm-elections",
+          "source": "MS NOW",
+          "published_at": "2026-11-02T17:13:12.000Z",
+          "description": "The mood inside the White House is one of “resignation” as officials expect to face significant losses on Election Day, according to a senior administration official. The post Trump to deliver closing midterms message in front of Lincoln Memorial Reflecting Pool appeared first on MS NOW."
+        },
+        {
+          "title": "Trump 'thinking about renaming Lincoln Reflecting Pool'",
+          "url": "https://www.smh.com.au/world/trump-thinking-about-renaming-lincoln-reflecting-pool-20261103-p61aui.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-02T23:09:48.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/3002bfc3503900470ba5a5a041eedd75fd9f1574",
+          "description": "In his final pitch to voters before the midterms, Donald Trump spoke about his Washington renovations for 25 minutes."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump Delivers Final Midterm Message at Lincoln Memorial Reflecting Pool",
+          "url": "https://www.youtube.com/watch?v=fDgTEGVyyUU",
+          "video_id": "fDgTEGVyyUU",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-11-02T21:40:35.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fDgTEGVyyUU/hqdefault.jpg"
+        },
+        {
+          "title": "WATCH LIVE: Trump delivers closing midterm message at Lincoln Memorial Reflecting Pool",
+          "url": "https://www.youtube.com/watch?v=HFgU1KFP-wY",
+          "video_id": "HFgU1KFP-wY",
+          "channel": "Fox Business",
+          "published_at": "2026-11-02T13:01:59.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/HFgU1KFP-wY/hqdefault.jpg"
+        },
+        {
+          "title": "WATCH LIVE: Trump delivers closing midterm message at Lincoln Memorial Reflecting Pool",
+          "url": "https://www.youtube.com/watch?v=scZlARfVK4k",
+          "video_id": "scZlARfVK4k",
+          "channel": "Fox News",
+          "published_at": "2026-11-02T12:59:56.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/scZlARfVK4k/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump delivered a final appeal to voters before the midterm elections at the Lincoln Memorial Reflecting Pool, discussing renovations in Washington and reportedly joking about renaming the pool. The pool remained closed to visitors for restoration work."
+    },
+    {
+      "id": "topic_ff890df803d13b48",
+      "title": "Suspected cyberattacks disrupt supermarket freezer systems across Europe",
+      "headline": "Supermarket Freezers Across Europe Hit By Second Suspected Cyberattack",
+      "label": [
+        "freezers",
+        "supermarket",
+        "cyberattack",
+        "europe",
+        "across",
+        "european"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_139e1b9b9e684cf6",
+      "entities": [
+        "Supermarket Freezers Across Europe",
+        "Hit By Second Suspected",
+        "Cyberattack",
+        "Hit With Another Cyberattack",
+        "Supermarket"
+      ],
+      "article_count": 13,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Supermarket Freezers Across Europe Hit By Second Suspected Cyberattack",
+          "url": "https://it.slashdot.org/story/26/11/02/1522249/supermarket-freezers-across-europe-hit-by-second-suspected-cyberattack",
+          "source": "Slashdot",
+          "published_at": "2026-11-02T16:00:00.000Z",
+          "description": "An anonymous reader quotes a report from The Guardian: Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of food losse…"
+        },
+        {
+          "title": "Supermarket Freezers Across Europe Hit With Another Cyberattack",
+          "url": "https://gizmodo.com/supermarket-freezers-across-europe-hit-with-another-cyberattack-2000833828",
+          "source": "Gizmodo",
+          "published_at": "2026-11-02T18:30:54.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/11/supermarket-freezers-1280x853.jpg",
+          "description": "The refrigerations systems were cranked up to 122 degrees Fahrenheit in at least half a dozen countries."
+        },
+        {
+          "title": "Supermarket freezers across Europe hit by new 'Cold War' cyberattack",
+          "url": "https://www.techradar.com/tech/supermarket-freezers-across-europe-hit-by-fresh-cold-war-cyberattack-temperatures-raised-to-50c-forcing-grocers-to-throw-away-food",
+          "source": "Latest from TechRadar",
+          "published_at": "2026-11-02T15:31:39.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/Dw93ion2abxRf5S45oVKxL-1920-80.png",
+          "description": "More suspected cyberattacks have targeted supermarkets across Europe, with the same M.O. as before: upping the temperatures to spoil the food."
+        },
+        {
+          "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+          "url": "https://therecord.media/cyberattack-grocery-freezers-europe",
+          "source": "The Record from Recorded Future News",
+          "published_at": "2026-11-02T13:00:00.000Z",
+          "description": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil."
+        },
+        {
+          "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+          "url": "https://databreaches.net/2026/11/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+          "source": "DataBreaches.Net",
+          "published_at": "2026-11-02T23:26:13.000Z",
+          "description": "The Guardian reports that supermarket freezers across Europe have been hit by a second suspected cyber-attack, with chains in Sweden, Belgium and Luxembourg reporting fridge temperatures rising overnight, similar to the hack of French stores last month. For more country-specific reports: AFP report…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Supermarket freezers hit by suspected cyberattacks | DW News",
+          "url": "https://www.youtube.com/shorts/k0LxFqV-Bak",
+          "video_id": "k0LxFqV-Bak",
+          "channel": "DW News",
+          "published_at": "2026-11-02T17:10:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/k0LxFqV-Bak/hqdefault.jpg"
+        },
+        {
+          "title": "Supermarket Freezers in Europe soar to 55 celcius",
+          "url": "https://www.youtube.com/shorts/KGwQuQX7t2Q",
+          "video_id": "KGwQuQX7t2Q",
+          "channel": "Channel 4 News",
+          "published_at": "2026-11-02T16:32:15.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/KGwQuQX7t2Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Supermarket chains in several European countries reported a second suspected cyberattack in recent weeks. The attacks allegedly altered refrigerator and freezer temperature controls, putting food at risk."
+    },
+    {
+      "id": "topic_710bc84ff1a2f2ba",
+      "title": "20-year-old co-pilot identified in fatal Florida Learjet crash",
+      "headline": "Learjet co-pilot in fatal Florida crash ID’d as Nathalia Gadelha, 20, who got her license in high school",
+      "label": [
+        "pilot",
+        "co",
+        "crash",
+        "florida",
+        "learjet",
+        "identified"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_85d1234e80626a0e",
+      "entities": [
+        "Learjet",
+        "Florida",
+        "ID",
+        "Nathalia Gadelha",
+        "New York Post"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Learjet co-pilot in fatal Florida crash ID’d as Nathalia Gadelha, 20, who got her license in high school",
+          "url": "https://nypost.com/2026/11/02/us-news/nathalia-gadelha-identified-as-learjet-co-pilot-in-florida-crash",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-11-02T14:07:42.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnathalia-filgueiras-pre-write-doomed-147295993.jpg?w%3D819",
+          "description": "The young aviator was previously featured in local media when she got her private pilot's license at just 17 back in October 2023 — before she even had her driver's license."
+        },
+        {
+          "title": "Learjet co-pilot in fatal Florida crash ID'd as Nathalia Gadelha, 20, who got her license in high school (New York Post)",
+          "url": "https://www.memeorandum.com/261102/p69",
+          "source": "memeorandum",
+          "published_at": "2026-11-02T17:10:01.000Z",
+          "description": "New York Post: Learjet co-pilot in fatal Florida crash ID'd as Nathalia Gadelha, 20, who got her license in high school — PALM SPRINGS, Florida — The doomed Learjet co-pilot heard pleading for help in harrowing air traffic control audio before the fiery Florida crash has been identified as Nathalia…"
+        },
+        {
+          "title": "20-Year-Old Co-Pilot Died In Florida Learjet Crash That Killed 9, Family Says",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/02/20-year-old-co-pilot-died-in-florida-learjet-crash-that-killed-9-family-says",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-02T21:42:54.000Z",
+          "description": "One of the flight’s pilots reported icing and turbulence before declaring an emergency as the jet plunged sharply before crashing near a motorway in Palm Beach County, Florida."
+        },
+        {
+          "title": "20-Year-Old Doomed Learjet Co-Pilot Got License at 17",
+          "url": "https://internewscast.com/news/20-year-old-doomed-learjet-co-pilot-got-license-at-17",
+          "source": "Internewscast",
+          "published_at": "2026-11-02T19:45:43.000Z",
+          "description": "Internewscast Internewscast Nathalia Gadelha Filgueiras, the 20-year-old co-pilot aboard the Learjet that crashed in… This Post: 20-Year-Old Doomed Learjet Co-Pilot Got License at 17 first appeared on Internewscast"
+        },
+        {
+          "title": "Woman, 20, identified as co-pilot of plane that crashed in Florida",
+          "url": "https://www.washingtonexaminer.com/news/4787905/20-year-old-identified-co-pilot-plane-crash-florida",
+          "source": "Washington Examiner",
+          "published_at": "2026-11-02T16:45:09.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26305832255814.jpg?w=1024",
+          "description": "A 20-year-old Florida woman who earned her private pilot’s license before graduating high school was identified as the co-pilot of a jet that plunged from the sky and crashed into a residential area Sunday, killing everyone on board. Nathalia Gadelha Filgueiras, who grew up in Palm Beach County, Fl…"
+        }
+      ],
+      "summary": "Nathalia Gadelha, a 20-year-old co-pilot who earned her private pilot’s license at 17, was identified among those killed in a Learjet crash in Florida. The crash killed nine people; a pilot had reported icing and turbulence before declaring an emergency."
+    },
+    {
+      "id": "topic_b9ef27d61e2437b1",
+      "title": "Belgian prime minister offers resignation amid budget impasse",
+      "headline": "Bart De Wever a remis sa démission au roi, qui tient sa décision «en suspens»",
+      "label": [
+        "démission",
+        "roi",
+        "sa",
+        "wever",
+        "bart",
+        "remettre"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_7768fa1c5c781139",
+      "entities": [
+        "Bart De Wever",
+        "Echec",
+        "Roi",
+        "Crise",
+        "Palais"
+      ],
+      "article_count": 17,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Bart De Wever a remis sa démission au roi, qui tient sa décision «en suspens»",
+          "url": "https://www.levif.be/belgique/politique/live/budget-federal/bart-de-wever-a-remis-sa-demission-au-roi-qui-tient-sa-decision-en-suspens-1472017",
+          "source": "Le Vif",
+          "published_at": "2026-11-02T10:25:23.000Z",
+          "description": "Après un nouvel échec des négociations budgétaires dans la nuit de dimanche à lundi, le Premier ministre Bart De Wever se rendra lundi chez le roi, probablement pour lui remettre sa démission. Un nouveau délai sera-t-il octroyé au Premier? The post Bart De Wever a remis sa démission au roi, qui tie…"
+        },
+        {
+          "title": "Echec des négociations budgétaires : Bart De Wever va remettre sa démission au Roi",
+          "url": "https://www.lesoir.be/780329/article/2026-11-02/echec-des-negociations-budgetaires-bart-de-wever-va-remettre-sa-demission-au-roi",
+          "source": "Actualité - Le Soir",
+          "published_at": "2026-11-02T02:01:16.000Z",
+          "description": "Le conseil des ministres restreint n’a pas pu s’accorder sur le budget pluriannuel dimanche soir. Bart De Wever remettra ce lundi sa démission au Roi. Pour un nouveau délai ou la chute du gouvernement ? La discussion entre le chef du gouvernement et le Palais apportera la réponse."
+        },
+        {
+          "title": "Bart De Wever a présenté sa démission au Roi : ce qu’il va se passer à présent",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/11/02/demission-de-bart-de-wever-ce-quil-va-se-passer-a-present-urvm3wb6obb3pnk5v6tdmtoska",
+          "source": "Lalibre.be - BELGIQUE",
+          "published_at": "2026-11-02T10:34:54.000Z",
+          "description": "Le chef de l’État va recevoir les présidents des partis de la majorité fédérale. ..."
+        },
+        {
+          "title": "Belgique : en pleine crise budgétaire, le Premier ministre Bart De Wever présente sa démission, le roi Philippe appelle au compromis",
+          "url": "https://www.sudouest.fr/international/europe/belgique/belgique-en-pleine-crise-budgetaire-le-premier-ministre-bart-de-wever-presente-sa-demission-le-roi-philippe-appelle-au-compromis-31347223.php",
+          "source": "L'essentiel",
+          "published_at": "2026-11-02T12:18:58.000Z",
+          "description": "Faute de compromis sur le budget fédéral, le Premier ministre belge Bart De Wever a présenté sa démission au roi, qui a suspendu sa décision et entamé des consultations"
+        },
+        {
+          "title": "Belgique : le premier ministre, Bart De Wever, présente sa démission au roi sur fond de blocage budgétaire au Parlement",
+          "url": "https://www.lemonde.fr/international/article/2026/11/02/belgique-le-premier-ministre-bart-de-wever-presente-sa-demission-au-roi-sur-fond-de-blocage-budgetaire_6805239_3210.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-11-02T11:24:15.000Z",
+          "description": "Faute de compromis au sein de la coalition au pouvoir, le premier ministre, Bart De Wever, a présenté lundi sa démission au roi, qui n’a pas tranché et le recevra de nouveau vendredi."
+        }
+      ],
+      "summary": "Prime Minister Bart De Wever offered his resignation to King Philippe after the governing coalition failed to reach agreement on a budget. The king has not yet accepted it and is consulting political leaders."
+    },
+    {
+      "id": "topic_b63077dfe3b35514",
+      "title": "Cyberattacks send false emergency alerts in Ukraine and Russia",
+      "headline": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
+      "label": [
+        "emergency",
+        "ukraine",
+        "russia",
+        "apps",
+        "alert",
+        "report"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_b46156b840c3166",
+      "entities": [
+        "Ukraine",
+        "Russia Report Cyberattacks",
+        "Emergency Alert Apps",
+        "Russia",
+        "Fake"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-11-02T08:21:25.000Z",
+          "description": "Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems."
+        },
+        {
+          "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+          "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-02T02:48:00.000Z",
+          "description": "Ukraine and Russia have both reported cyberattacks targeting applications used to send emergency alerts to the public. Meanwhile, Zelenskyy said Ukraine will stop refinery strikes if the US sends Patriot missiles."
+        },
+        {
+          "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
+          "url": "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-11-02T15:06:41.000Z",
+          "description": "Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat. Moscow said that hackers had sent fake emergency alerts after gaining access to the Russian Emergency Situations…"
+        },
+        {
+          "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964",
+          "source": "NBC News World News",
+          "published_at": "2026-11-02T10:14:52.000Z",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261102-kyiv-rs-7e4246.jpg",
+          "description": "Nuclear danger, radiation threat and street combat: Ukrainians received a wave of messages Sunday night that raised alarm with a series of grave — and baseless — warnings."
+        },
+        {
+          "title": "Hackers Target Emergency Alert Apps in Ukraine and Russia, Sending Fake Nuclear Attack Warnings",
+          "url": "https://gbhackers.com/hackers-target-emergency-alert-apps-in-ukraine-and-russia",
+          "source": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform",
+          "published_at": "2026-11-02T11:25:44.000Z",
+          "description": "Hackers compromised emergency alert applications in Ukraine and Russia, distributing fabricated nuclear and radiation warnings as officials sought to reassure residents that no corresponding emergency existed. Ukraine reported interference late on November 1, followed hours later by Russia’s announ…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=zlLFAMTmWfM",
+          "video_id": "zlLFAMTmWfM",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-02T15:00:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/zlLFAMTmWfM/hqdefault.jpg"
+        },
+        {
+          "title": "Ukraine and Russia report cyberattacks on national alert apps",
+          "url": "https://www.youtube.com/shorts/6GJrxNgBafA",
+          "video_id": "6GJrxNgBafA",
+          "channel": "TRT World",
+          "published_at": "2026-11-02T14:56:30.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/6GJrxNgBafA/hqdefault.jpg"
+        },
+        {
+          "title": "Russia and Ukraine say emergency alert apps hit by cyber-attacks | BBC News",
+          "url": "https://www.youtube.com/watch?v=ge6b7RpsBmw",
+          "video_id": "ge6b7RpsBmw",
+          "channel": "BBC News",
+          "published_at": "2026-11-02T05:31:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ge6b7RpsBmw/hqdefault.jpg"
+        }
+      ],
+      "summary": "Authorities in Ukraine and Russia reported attacks on emergency alert applications. False messages warned of nuclear, radiation, chemical or other imminent threats, and officials said there was no corresponding emergency."
+    },
+    {
+      "id": "topic_b37dd944d0b51e56",
+      "title": "Lindsay Clancy seeks dismissal of murder charges after mistrial",
+      "headline": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+      "label": [
+        "lindsay",
+        "clancy",
+        "murder",
+        "court",
+        "retrial",
+        "charges"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_e118060dc8c8df9e",
+      "entities": [
+        "Prosecutors",
+        "Lindsay Clancy",
+        "BBC",
+        "Accused",
+        "US"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o",
+          "source": "BBC News",
+          "published_at": "2026-11-02T19:23:07.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a8/live/8b822d30-d6f2-11f1-8f53-6322e2737253.jpg",
+          "description": "Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027."
+        },
+        {
+          "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-02T15:36:01.000Z",
+          "image": "https://i.guim.co.uk/img/media/9c5da6a800f911ba1211d54f7b544ad7cc23653a/340_0_2660_2128/master/2660.jpg?width=140&quality=85&auto=format&fit=max&s=48a0abafb8a5351d0dadafc00fea0553",
+          "description": "Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she murdered her three young children. The hearing Monday was the second time the Massachusetts mother has be…"
+        },
+        {
+          "title": "Lindsay Clancy back in court for hearing on potential retrial",
+          "url": "https://torontosun.com/news/world/lindsay-clancy-hearing-potential-retrial",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-11-02T15:22:25.000Z",
+          "description": "A first-degree murder conviction carries a mandatory sentence of life without parole. Second-degree murder allows for the possibility of parole."
+        },
+        {
+          "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
+          "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-02T19:11:37.000Z",
+          "description": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children."
+        },
+        {
+          "title": "Accused child killer Lindsay Clancy back in US court",
+          "url": "https://www.smh.com.au/world/accused-child-killer-lindsay-clancy-back-in-us-court-20261103-p61ark.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-02T19:22:43.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/60ff140485ea7562b49133c25a5a052d7b7b119d",
+          "description": "Accused child killer Lindsay Clancy has returned to an American court for a crucial hearing on her future, following a mistrial."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Latest news on potential Lindsay Clancy retrial",
+          "url": "https://www.youtube.com/watch?v=ntZX3YhTvAM",
+          "video_id": "ntZX3YhTvAM",
+          "channel": "CBS News",
+          "published_at": "2026-11-02T18:50:46.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ntZX3YhTvAM/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Lindsay Clancy returns to court for hearing about potential retrial | NBC News",
+          "url": "https://www.youtube.com/watch?v=_xWZLBtmoHE",
+          "video_id": "_xWZLBtmoHE",
+          "channel": "NBC News",
+          "published_at": "2026-11-02T16:51:51.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_xWZLBtmoHE/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Lindsay Clancy returns to court for a hearing",
+          "url": "https://www.youtube.com/watch?v=RCudouNQc40",
+          "video_id": "RCudouNQc40",
+          "channel": "Associated Press",
+          "published_at": "2026-11-02T09:36:41.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/RCudouNQc40/hqdefault.jpg"
+        }
+      ],
+      "summary": "Lindsay Clancy returned to court to seek dismissal of murder charges after her trial ended in a mistrial. Her defense argued that a retrial would violate her rights, while prosecutors indicated another trial could take place as early as March 2027."
+    },
+    {
+      "id": "topic_d9052a5157125f3d",
+      "title": "SpaceX reportedly explores Boost Mobile deal or network access",
+      "headline": "SpaceX Is Reportedly Looking At Buying Boost Mobile",
+      "label": [
+        "mobile",
+        "spacex",
+        "boost",
+        "buy",
+        "reportedly",
+        "echostar"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_63cf044c00bf7779",
+      "entities": [
+        "SpaceX Is Reportedly Looking",
+        "At Buying Boost Mobile",
+        "SpaceX",
+        "EchoStar",
+        "Boost Mobile"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "SpaceX Is Reportedly Looking At Buying Boost Mobile",
+          "url": "https://mobile.slashdot.org/story/26/11/02/205252/spacex-is-reportedly-looking-at-buying-boost-mobile",
+          "source": "Slashdot",
+          "published_at": "2026-11-02T21:00:00.000Z",
+          "description": "SpaceX has reportedly held talks with EchoStar about acquiring Boost Mobile or gaining access to its network, potentially giving Starlink a shortcut toward becoming a full-fledged U.S. mobile carrier. Engadget reports: According to Washington Post's sources, the deal could look like SpaceX acquirin…"
+        },
+        {
+          "title": "SpaceX reportedly in talks to buy EchoStar’s Boost Mobile",
+          "url": "https://thenextweb.com/news/spacex-boost-mobile-echostar-talks",
+          "source": "The Next Web",
+          "published_at": "2026-11-02T11:50:18.000Z",
+          "image": "https://media.thenextweb.com/2026/10/spacex-logo-sign-office-building.avif",
+          "description": "SpaceX is in talks to buy Boost Mobile or secure access to its network, as Elon Musk looks to turn Starlink into a direct competitor to the major US mobile carriers, The Washington Post reported on Monday, citing people familiar with the discussions. The potential deal would give SpaceX a way to se…"
+        },
+        {
+          "title": "SpaceX in talks to buy EchoStar's Boost Mobile - report",
+          "url": "https://www.datacenterdynamics.com/en/news/spacex-in-talks-to-buy-echostars-boost-mobile-report",
+          "source": "DCD",
+          "published_at": "2026-11-02T16:37:16.000Z",
+          "description": "Or explore a network access deal"
+        },
+        {
+          "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+          "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon",
+          "source": "TechCrunch",
+          "published_at": "2026-11-02T16:44:48.000Z",
+          "description": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs."
+        },
+        {
+          "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+          "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-11-02T18:05:52.000Z",
+          "description": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier."
+        }
+      ],
+      "summary": "SpaceX has reportedly held talks with EchoStar about acquiring Boost Mobile or accessing its network. Either arrangement could help the company pursue a role as a U.S. mobile carrier."
+    },
+    {
+      "id": "topic_681c584a8b8ff55e",
+      "title": "UN peacekeeping mission in Western Sahara ends after 35 years",
+      "headline": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+      "label": [
+        "sahara",
+        "western",
+        "mission",
+        "ends",
+        "peacekeeping",
+        "conflict"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_d209bc909b590dd5",
+      "entities": [
+        "Western Sahara",
+        "NPR",
+        "Western Sahara After",
+        "UN Mission Ends",
+        "As UN"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+          "source": "NPR Topics: World",
+          "published_at": "2026-11-02T07:19:35.000Z",
+          "description": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front."
+        },
+        {
+          "title": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-02-un-peacekeeping-mission-in-western-sahara-ends-after-35-years-un-chief-says",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-11-02T04:35:36.000Z",
+          "description": "Nov 1 (Reuters) - The 35-year-old UN peacekeeping mission in the Western Sahara region will come to an end after the Security Council failed to renew its mandate, the UN chief said on Sunday."
+        },
+        {
+          "title": "Western Sahara After the UN Mission Ends",
+          "url": "https://www.riotimesonline.com/western-sahara-after-minurso-what-changes-2026",
+          "source": "The Rio Times",
+          "published_at": "2026-11-02T18:01:24.000Z",
+          "description": "Two Security Council drafts failed on 30 October 2026, and the UN mission that served the Sahara ceasefire since 1991 is now winding down. The post Western Sahara After the UN Mission Ends appeared first on The Rio Times."
+        },
+        {
+          "title": "As UN peacekeeping mission in Western Sahara ends, refugees cling to hopes of return",
+          "url": "https://www.scmp.com/news/world/africa/article/3373014/un-peacekeeping-mission-western-sahara-ends-refugees-cling-hopes-return",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-02T12:15:06.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/02/b11e6ce3-1793-4eda-b8f4-ac4098036ec2_910a788c.jpg?itok=DcJM8k4O&v=1793620615",
+          "description": "At 51, Binina Mohamed is as old as the conflict that drove her from the Western Sahara region into a refugee camp in southern Algeria, where she has spent her life among tens of thousands of others facing a similar fate. The confrontation over her native land, often described as Africa’s longest-ru…"
+        },
+        {
+          "title": "What’s the future of the Western Sahara conflict?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-02T20:43:44.000Z",
+          "description": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension."
+        }
+      ],
+      "videos": [
+        {
+          "title": "What's the future of Western Sahara conflict? | Inside Story",
+          "url": "https://www.youtube.com/watch?v=AkPOWOgwW2s",
+          "video_id": "AkPOWOgwW2s",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-02T17:45:10.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/AkPOWOgwW2s/hqdefault.jpg"
+        },
+        {
+          "title": "UN’s Peacekeeping Mission in Disputed Western Sahara Ends After 35 Years | WION Shorts",
+          "url": "https://www.youtube.com/shorts/m5Lgg1jnf5Q",
+          "video_id": "m5Lgg1jnf5Q",
+          "channel": "WION",
+          "published_at": "2026-11-02T12:18:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/m5Lgg1jnf5Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "The United Nations’ long-running peacekeeping mission in Western Sahara ceased operations after the Security Council did not renew its mandate. The mission had supported the ceasefire in the disputed territory since 1991."
+    },
+    {
+      "id": "topic_345b887e2b520f82",
+      "title": "Three AAP legislators join BJP ahead of Punjab elections",
+      "headline": "Three AAP MLAs join BJP in Punjab",
+      "label": [
+        "aap",
+        "bjp",
+        "punjab",
+        "mlas",
+        "join",
+        "rebel"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_f780b2003a42a22f",
+      "entities": [
+        "Three AAP MLAs",
+        "BJP",
+        "Punjab",
+        "Assembly",
+        "Big"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Three AAP MLAs join BJP in Punjab",
+          "url": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-02T06:27:56.000Z",
+          "description": "On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership"
+        },
+        {
+          "title": "Punjab: Three AAP MLAs join BJP ahead of Assembly polls",
+          "url": "https://scroll.in/latest/1096803/punjab-three-aap-mlas-join-bjp-ahead-of-assembly-polls",
+          "source": "Scroll.in",
+          "published_at": "2026-11-02T07:59:26.000Z",
+          "description": "Two leaders were left out of the Aam Aadmi Party’s first list of candidates released on Saturday. The third was suspended for anti-party activities in 2025."
+        },
+        {
+          "title": "Big setback for AAP ahead of Punjab elections; 3 rebel MLAs join BJP",
+          "url": "https://timesofindia.indiatimes.com/india/big-blow-to-aap-in-punjab-rebel-mlas-chant-bjp-zindabad-at-delhi-hq-set-to-join-party/articleshow/135446758.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-02T05:35:07.000Z"
+        },
+        {
+          "title": "Major setback for AAP ahead of Punjab Assembly elections as 3 rebel leaders join BJP: Who are they?",
+          "url": "https://www.dnaindia.com/india/report-major-setback-for-aap-ahead-of-punjab-assembly-elections-as-3-rebel-leaders-join-bjp-who-are-they-3223457",
+          "source": "India News",
+          "published_at": "2026-11-02T07:37:00.000Z",
+          "description": "Ahead of the 2027 Punjab Assembly elections, the BJP has welcomed three rebel AAP leaders, including former MLA Kunwar Vijay Pratap Singh."
+        },
+        {
+          "title": "No Punjabiyat left in Punjab: 3 AAP rebels join BJP, attack Mann government",
+          "url": "https://www.indiatoday.in/india/story/punjab-two-aap-mlas-join-bjp-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-pratap-singh-also-joins-3030347-2026-11-02",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-02T05:52:21.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aap-leaders-join-bjp-021531845-16x9_0.jpeg?VersionId=hZkOWhEK75FrdvMbo1bZJMQisRBDdjde",
+          "description": "No Punjabiyat left in Punjab AAP rebels join BJP attack Mann government"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Punjab Polls: AAP Faces Setback as Three Rebel MLAs Join BJP | WION Race to Power",
+          "url": "https://www.youtube.com/watch?v=FA1g4QDvK_Y",
+          "video_id": "FA1g4QDvK_Y",
+          "channel": "WION",
+          "published_at": "2026-11-02T16:14:30.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/FA1g4QDvK_Y/hqdefault.jpg"
+        },
+        {
+          "title": "BIG POLITICAL SHAKE-UP! 3 Rebel AAP Leaders Join BJP, Mann Government Hit | Breaking News",
+          "url": "https://www.youtube.com/watch?v=0KAjumNqIEU",
+          "video_id": "0KAjumNqIEU",
+          "channel": "ET Now",
+          "published_at": "2026-11-02T09:44:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/0KAjumNqIEU/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Rebel AAP MLAs Join BJP | 3 AAP MLAs Join BJP Ahead Of Punjab Polls | Bhagwant Mann | Punjab",
+          "url": "https://www.youtube.com/watch?v=7LcfBzgqpOo",
+          "video_id": "7LcfBzgqpOo",
+          "channel": "NDTV",
+          "published_at": "2026-11-02T06:35:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7LcfBzgqpOo/hqdefault.jpg"
+        }
+      ],
+      "summary": "Three legislators who left the Aam Aadmi Party have joined the Bharatiya Janata Party in Punjab ahead of the 2027 assembly elections. The defections include a former minister, according to the headlines."
+    },
+    {
+      "id": "topic_33615d7bbcdca3b6",
+      "title": "Jack Lowden responds to speculation about James Bond role",
+      "headline": "Jack Lowden says James Bond speculation is 'flattering'",
+      "label": [
+        "lowden",
+        "james",
+        "jack",
+        "bond",
+        "flattering",
+        "oldman"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_307e53c615ce585e",
+      "entities": [
+        "Jack Lowden",
+        "James Bond",
+        "Jack Lowden On James",
+        "Bond",
+        "Gary Oldman"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Jack Lowden says James Bond speculation is 'flattering'",
+          "url": "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o",
+          "source": "BBC News",
+          "published_at": "2026-11-02T14:53:27.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cdd/live/970abd30-d6c9-11f1-ac20-7783925c811f.jpg",
+          "description": "The Slow Horses star is among three actors reported to be in the running for the iconic movie role."
+        },
+        {
+          "title": "Jack Lowden On James Bond & Gary Oldman’s 007 Endorsement: “It’s All Very Flattering”",
+          "url": "https://deadline.com/2026/11/jack-lowden-james-bond-gary-oldman-very-flattering-1237211460",
+          "source": "Deadline",
+          "published_at": "2026-11-02T18:28:01.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2294849289-e1793642825429.jpg",
+          "description": "Jack Lowden has done little to deny that he’s in the running to replace Daniel Craig as James Bond. In an interview with GQ magazine, the Scottish actor said being linked to 007 was “all very flattering” and that he was honored to secure the approval of his Slow Horses co-star, Gary Oldman. Deadlin…"
+        },
+        {
+          "title": "‘Slow Horses’ Star Jack Lowden Addresses James Bond Casting Reports",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/02/slow-horses-star-jack-lowden-addresses-james-bond-casting-reports",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-02T16:37:54.000Z",
+          "description": "Jack Lowden is reportedly the odds-on favorite to be the new James Bond, and he's now addressed the reported directly."
+        },
+        {
+          "title": "Slow Horses star Jack Lowden finally addresses James Bond rumours",
+          "url": "https://www.brisbanetimes.com.au/culture/movies/slow-horses-star-jack-lowden-finally-addresses-james-bond-rumours-20261103-p61as8.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-02T21:29:09.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.1708%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_46%2C$y_0/t_crop_custom/q_86%2Cf_auto/a700ad57f66d97f1e3d429ed501b965b42601d0b",
+          "description": "Speculation around the 36-year-old Scottish actor reached fever-pitch following comments from his co-star Gary Oldman in September."
+        },
+        {
+          "title": "James Bond: Jack Lowden Reacts to Gary Oldman’s Viral Comments About 007 Casting",
+          "url": "https://www.comingsoon.net/movies/news/2216440-jack-lowden-james-bond-casting-rumors-reaction",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-11-02T16:54:11.000Z",
+          "description": "Jack Lowden has finally responded to Gary Oldman's viral remark about his potential casting as James Bond The post James Bond: Jack Lowden Reacts to Gary Oldman’s Viral Comments About 007 Casting appeared first on ComingSoon.net - Movie Trailers, TV & Streaming News, and More."
+        }
+      ],
+      "summary": "Actor Jack Lowden described reports linking him to the role of James Bond as flattering. The speculation has followed comments from his Slow Horses co-star Gary Oldman."
+    },
+    {
+      "id": "topic_a8959a71fc1bcc1f",
+      "title": "Haley Stevens faces Democratic backlash over Michigan Senate endorsement",
+      "headline": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+      "label": [
+        "stevens",
+        "haley",
+        "michigan",
+        "republican",
+        "gop",
+        "candidate"
+      ],
+      "category": "trending",
+      "section": "politics",
+      "theme": "theme_fcead903b34ad838",
+      "entities": [
+        "Inside",
+        "Abdul El",
+        "Sayed",
+        "Haley Stevens Meltdown",
+        "Michigan"
+      ],
+      "article_count": 37,
+      "source_count": 27,
+      "articles": [
+        {
+          "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-11-02T02:31:12.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-mediumSquareAt3X.jpg",
+          "description": "The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making."
+        },
+        {
+          "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan (New York Times)",
+          "url": "https://www.memeorandum.com/261102/p54",
+          "source": "memeorandum",
+          "published_at": "2026-11-02T15:30:01.000Z",
+          "description": "New York Times: Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan — The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making. — The last straw for Representative Haley Stevens came Saturday a…"
+        },
+        {
+          "title": "Haley Stevens Is Sending the Wrong Message",
+          "url": "https://politicalwire.com/2026/11/02/haley-stevens-is-sending-the-wrong-message",
+          "source": "Political Wire",
+          "published_at": "2026-11-02T15:52:56.000Z",
+          "description": "Jonathan Chait: “Haley Stevens nearly won the Democratic nomination for Senate in Michigan in August, then immediately endorsed the winner, Abdul El-Sayed. She has spent the months since then vacillating, expressing doubts about his campaign while maintaining her support. But last week, her fiancé…"
+        },
+        {
+          "title": "Top Democrat slams Haley Stevens for backing Republican candidate over El-Sayed in Michigan",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/despicable-betrayal-top-democrat-slams-haley-stevens-for-backing-republican-candidate-over-el-sayed-in-michigan-senate-race/articleshow/135464033.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-11-02T14:06:58.000Z"
+        },
+        {
+          "title": "Haley Stevens faces push for removal from House Dem caucus",
+          "url": "https://www.axios.com/2026/11/02/haley-stevens-house-democrats-remove-caucus",
+          "source": "Axios",
+          "published_at": "2026-11-02T02:41:24.000Z",
+          "description": "Some House Democrats want Rep. Haley Stevens (D-Mich.) expelled from their caucus after she crossed party lines to endorse Republican Mike Rogers for Senate on Sunday. Why it matters: It would be an extraordinary step that reflects the deep internal resentment towards Stevens within her own party.…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "DEMOCRAT CIVIL WAR: Trump GETS INVOLVED in Haley Stevens turmoil",
+          "url": "https://www.youtube.com/watch?v=FM8DrKaKc68",
+          "video_id": "FM8DrKaKc68",
+          "channel": "Fox Business",
+          "published_at": "2026-11-02T18:30:05.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/FM8DrKaKc68/hqdefault.jpg"
+        },
+        {
+          "title": "Trump invites Haley Stevens to join GOP #shorts",
+          "url": "https://www.youtube.com/shorts/rjhgWEpi6nc",
+          "video_id": "rjhgWEpi6nc",
+          "channel": "Fox News",
+          "published_at": "2026-11-02T12:03:34.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/rjhgWEpi6nc/hqdefault.jpg"
+        },
+        {
+          "title": "El-Sayed calls out Haley Stevens for backing of Republican rival",
+          "url": "https://www.youtube.com/shorts/To_HhYKF6WE",
+          "video_id": "To_HhYKF6WE",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-02T02:36:58.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/To_HhYKF6WE/hqdefault.jpg"
+        }
+      ],
+      "summary": "Representative Haley Stevens faces criticism and calls for consequences from fellow Democrats after endorsing Republican Mike Rogers for Senate in Michigan. Headlines also describe a breakdown in her relationship with Abdul El-Sayed, whom she had previously endorsed after he won the Democratic nomination."
+    },
+    {
+      "id": "topic_73a3ca4d4a9e219b",
+      "title": "U.S. reportedly seeks renewed Russian gas transit through Ukraine",
+      "headline": "Возобновить транзит российского газа в Европу через Украину невозможно, - Песков",
+      "label": [
+        "украину",
+        "через",
+        "газа",
+        "европу",
+        "сша",
+        "транзит"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_3ca58d4ca4ca02d2",
+      "entities": [
+        "WSJ"
+      ],
+      "article_count": 11,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Возобновить транзит российского газа в Европу через Украину невозможно, - Песков",
+          "url": "https://censor.net/ru/news/4031575/peskov-otsenil-perspektivy-vozobnovleniya-tranzita-gaza-cherez-ukrainu",
+          "source": "Цензор.НЕТ - Новости",
+          "published_at": "2026-11-02T10:32:00.000Z",
+          "image": "https://images.cnscdn.com/3/4/3/f/343f5f805ce65866946d507fd802d523/528x330.jpg",
+          "description": "Пресс-секретарь Кремля Дмитрий Песков заявил, что в настоящее время возобновить транзит российского газа в Европу через территорию Украины невозможно. В то же время он не исключил, что в будущем ситуация может измениться."
+        },
+        {
+          "title": "США хотят поскорее вернуть транзит российского газа в Европу через Украину, - WSJ",
+          "url": "https://www.unian.net/world/energeticheskoe-peremirie-ssha-hotyat-vernut-tranzit-rossiskogo-gaza-cherez-ukrainu-13546755.html",
+          "source": "Информационное агентство УНИАН",
+          "published_at": "2026-11-02T05:07:00.000Z",
+          "description": "Эта инициатива призвана обеспечить \"энергетическое перемирие\" между Москвой и Киевом, однако она встречает сопротивление в европейских столицах."
+        },
+        {
+          "title": "США хотят вернуть российский газ в Европу через Украину",
+          "url": "https://www.mk.ru/economics/2026/11/02/ssha-khotyat-vernut-rossiyskiy-gaz-v-evropu-cherez-ukrainu.html",
+          "source": "Все материалы - Московский Комсомолец",
+          "published_at": "2026-11-02T03:22:46.000Z",
+          "description": "Администрация президента США Дональда Трампа добивается возобновления поставок российского газа в Европу через территорию Украины"
+        },
+        {
+          "title": "США захотели возобновить поставки российского газа в Европу через Украину",
+          "url": "https://lenta.ru/news/2026/11/02/ssha-zahoteli-vozobnovit-postavki-rossiyskogo-gaza-v-evropu-cherez-ukrainu",
+          "source": "Lenta.ru : Новости",
+          "published_at": "2026-11-02T04:26:00.000Z"
+        },
+        {
+          "title": "Кремль отреагировал на предложение США возобновить транзит газа через Украину",
+          "url": "https://nv.ua/world/geopolitics/v-kremle-zayavili-chto-vozobnovlenie-tranzita-gaza-cherez-ukrainu-v-nastoyashchee-vremya-nevozmozhno-50655582.html",
+          "source": "NV",
+          "published_at": "2026-11-02T15:09:00.000Z",
+          "image": "https://static.nv.ua/shared/system/Article/posters/003/394/098/original/d83a5913080665621cf307a4a8a49051.png?q=85&stamp=20261102165921&w=900&f=webp",
+          "description": "В Кремле заявили, что на данный момент возобновление транзита российского газа в Европу через территорию Украины невозможно. В то же время в Москве не исключают, что этот вопрос может быть вновь рассмотрен в будущем."
+        }
+      ],
+      "summary": "Reports say the U.S. administration is seeking to restore Russian gas deliveries to Europe through Ukraine. The Kremlin said resuming transit is currently impossible, while leaving open the possibility of future discussions."
+    },
+    {
+      "id": "topic_7355862e922fcbe3",
+      "title": "Kimi Antonelli becomes Formula One’s youngest world champion",
+      "headline": "Kimi Antonelli becomes youngest F1 world champion",
+      "label": [
+        "youngest",
+        "antonelli",
+        "champion",
+        "f1",
+        "kimi",
+        "becomes"
+      ],
+      "category": "trending",
+      "section": "sports",
+      "theme": "theme_754a4cba68fd1156",
+      "entities": [
+        "Kimi Antonelli",
+        "F1",
+        "Kimi Antonelli Becomes Youngest",
+        "Ever F1 World Champion",
+        "Kimi Antonelli Is F1"
+      ],
+      "article_count": 23,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "Kimi Antonelli becomes youngest F1 world champion",
+          "url": "https://sports.inquirer.net/704768/kimi-antonelli-becomes-youngest-f1-world-champion",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-02T01:32:25.000Z",
+          "image": "https://sports.inquirer.net/files/2026/11/AFP__20261101__D64A4T6__v1__HighRes__AutoPrixF1MexRace-620x413.jpg",
+          "description": "Kimi Antonelli became Formula One’s youngest world champion and Italy’s first since 1953 when he finished third behind multiple champions Max Verstappen and Lewis Hamilton in Sunday’s thrilling and crash-hit Mexico City Grand Prix. The 20-year-old Italian drove his Mercedes to a 16th podium finish…"
+        },
+        {
+          "title": "Kimi Antonelli Becomes Youngest-Ever F1 World Champion",
+          "url": "https://www.jalopnik.com/2303723/kimi-antonelli-youngest-f1-world-champion",
+          "source": "Jalopnik - Obsessed with the culture of cars",
+          "published_at": "2026-11-02T13:57:42.000Z",
+          "description": "For the first time since 1953, an Italian is the F1 World Drivers' Champion."
+        },
+        {
+          "title": "Kimi Antonelli makes history as youngest F1 champion",
+          "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-02T05:01:00.000Z",
+          "description": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix."
+        },
+        {
+          "title": "Kimi Antonelli Is F1’s Youngest Champion",
+          "url": "https://www.riotimesonline.com/antonelli-youngest-f1-champion-mexico-city-2026",
+          "source": "The Rio Times",
+          "published_at": "2026-11-02T05:57:09.000Z",
+          "description": "Mercedes' Kimi Antonelli, 20, became Formula 1's youngest world champion in Mexico City on 1 November. Max Verstappen won the race. The post Kimi Antonelli Is F1’s Youngest Champion appeared first on The Rio Times."
+        },
+        {
+          "title": "Kimi Antonelli creates history, becomes youngest F1 world champion",
+          "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/kimi-antonelli-creates-history-becomes-youngest-f1-world-champion-mexican-grand-prix/articleshow/135441323.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-02T00:56:55.000Z",
+          "description": "Mercedes driver Kimi Antonelli made history on Sunday by becoming the youngest Formula One world champion at the age of 20. Antonelli secured the title after finishing third in a dramatic Mexico City Grand Prix, which was won by Red Bull's Max Verstappen."
+        }
+      ],
+      "videos": [
+        {
+          "title": "How Antonelli became Formula One's youngest world champion • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=oodfKgRb7pQ",
+          "video_id": "oodfKgRb7pQ",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-02T11:54:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/oodfKgRb7pQ/hqdefault.jpg"
+        },
+        {
+          "title": "Italy's Kimi Antonelli wins F1 2026 drivers title, the youngest ever",
+          "url": "https://www.youtube.com/watch?v=fjuLKqJjkfA",
+          "video_id": "fjuLKqJjkfA",
+          "channel": "Reuters",
+          "published_at": "2026-11-02T10:59:50.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fjuLKqJjkfA/hqdefault.jpg"
+        },
+        {
+          "title": "How did a 20-year-old become F1’s youngest world champion?",
+          "url": "https://www.youtube.com/shorts/vruhXdirOGs",
+          "video_id": "vruhXdirOGs",
+          "channel": "Associated Press",
+          "published_at": "2026-11-02T01:27:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vruhXdirOGs/hqdefault.jpg"
+        }
+      ],
+      "summary": "Mercedes driver Kimi Antonelli became Formula One’s youngest world champion at age 20 and Italy’s first champion since 1953. He clinched the title with a third-place finish at the Mexico City Grand Prix."
+    },
+    {
+      "id": "topic_4aea98cf60e37200",
+      "title": "Cluster combines sports and AI drug-development headlines",
+      "headline": "Hammer locked in just one day after hitting open market",
+      "label": [
+        "day",
+        "one",
+        "hitting",
+        "isomorphic",
+        "hammer",
+        "locked"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_5e93e6cde5c3606b",
+      "entities": [
+        "ONE DAY MORE",
+        "Hammer",
+        "Isomorphic Labs President Says",
+        "AI Will Design All",
+        "Drugs One Day"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Hammer locked in just one day after hitting open market",
+          "url": "https://www.smh.com.au/sport/nrl/hammer-locked-in-just-one-day-after-hitting-open-market-20261102-p61aqm.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-02T09:08:08.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2452%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_61%2C$y_87/t_crop_custom/q_86%2Cf_auto/4df3c9c386db895f28d6f725a0848df8789057b5",
+          "description": "The Dolphins have secured a huge coup as a flurry of their star players hit the open market, with Maroons and Samoa star Hamiso Tabuai-Fidow re-signing."
+        },
+        {
+          "title": "ONE DAY MORE",
+          "url": "https://www.ms.now/news/news-analysis/one-day-more",
+          "source": "MS NOW",
+          "published_at": "2026-11-02T17:43:49.000Z",
+          "image": "https://www.ms.now/wp-content/uploads/2026/11/image-fcea8f6c.jpeg",
+          "description": "The post ONE DAY MORE appeared first on MS NOW."
+        },
+        {
+          "title": "Isomorphic Labs President Says AI Will Design All Drugs One Day",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/isomorphic-labs-president-says-ai-will-design-all-drugs-one-day",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-11-02T21:40:33.000Z",
+          "description": "Isomorphic Labs president Max Jaderberg thinks that artificial intelligence will be used to develop all medicines in the future — the only question is how quickly that future will arrive."
+        }
+      ],
+      "videos": [
+        {
+          "title": "The state of the midterm races with one day to go",
+          "url": "https://www.youtube.com/shorts/1ZAihoBpmu4",
+          "video_id": "1ZAihoBpmu4",
+          "channel": "ABC News",
+          "published_at": "2026-11-02T14:12:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/1ZAihoBpmu4/hqdefault.jpg"
+        }
+      ],
+      "summary": "The headlines include the Dolphins’ re-signing of Hamiso Tabuai-Fidow and an Isomorphic Labs executive’s forecast that AI will eventually design all drugs. Another headline, “ONE DAY MORE,” provides no further context."
+    }
+  ]
+}
