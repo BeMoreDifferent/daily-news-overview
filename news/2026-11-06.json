@@ -1,0 +1,1196 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-07T01:46:39.274Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Donald Trump announced that Stephen Miller will replace Susie Wiles as White House chief of staff.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "A federal judge temporarily halted construction of Trump’s planned Washington arch, which also faces legal challenges.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "OpenAI introduced a cybersecurity-focused model and said it identified 81 high-severity Firefox vulnerabilities and developed working exploits for 948 Linux kernel bugs.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "A Kenyan court sentenced Paul Mackenzie to 200 years in prison for murders linked to starvation at his cult.",
+        "stories": [
+          6
+        ]
+      },
+      {
+        "text": "Paraguay President Santiago Peña resigned amid a political crisis linked to Ueno bank’s collapse; parliamentary approval is pending.",
+        "stories": [
+          9
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_b1ffc8b0b1d38376",
+      "title": "Trump Names Stephen Miller White House Chief of Staff",
+      "headline": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
+      "label": [
+        "staff",
+        "chief",
+        "stephen",
+        "miller",
+        "trump",
+        "susie"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_9fb3b666684ccc25",
+      "entities": [
+        "Trump",
+        "Stephen Miller",
+        "White House",
+        "Susie Wiles",
+        "Be Trump"
+      ],
+      "article_count": 72,
+      "source_count": 48,
+      "articles": [
+        {
+          "title": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
+          "url": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-11-06T18:06:04.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/stephen-miller.jpg?ve=1&tl=1",
+          "description": "Susie Wiles served 21 months as Trump's longest-serving chief of staff across both terms, departing after Republicans lost the House and Senate. Trump announced Stephen Miller will take on the role."
+        },
+        {
+          "title": "Trump names Stephen Miller chief of staff, replacing Susie Wiles",
+          "url": "https://globalnews.ca/news/12140330/trump-stephen-miller-chief-of-staff",
+          "published_at": "2026-11-06T19:32:45.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/11/Trump-Stephen-Miller-chief-of-staff.jpg?quality=65&strip=all",
+          "description": "Stephen Miller, long a key member of Trump’s inner circle, is a key architect of the administration’s hard-line immigration policies."
+        },
+        {
+          "title": "Stephen Miller to Be Trump's New Chief of Staff, Replacing Susie Wiles",
+          "url": "https://time.com/article/2026/11/06/stephen-miller-tapped-as-trump-s-new-chief-of-staff-replacing-susie-wiles",
+          "source": "TIME",
+          "published_at": "2026-11-06T19:27:22.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt08755d3bf82ada60/6aee26ec811a405991400ca7/GettyImages-2296597797.jpg?branch=production",
+          "description": "Miller has been the driving force behind Trump's immigration agenda."
+        },
+        {
+          "title": "Stephen Miller Replaces Susie Wiles As White House Chief Of Staff",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/06/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-06T19:34:38.000Z",
+          "description": "The move marks a major administrative shift after devastating midterm election losses for the Republicans."
+        },
+        {
+          "title": "Trump Names Stephen Miller as Chief of Staff",
+          "url": "https://politicalwire.com/2026/11/06/trump-names-stephen-miller-as-chief-of-staff",
+          "source": "Political Wire",
+          "published_at": "2026-11-06T18:57:52.000Z",
+          "description": "President Trump on Truth Social: “I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026.” “Susie Wiles, who has done an outstanding job, w…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+          "url": "https://www.youtube.com/shorts/lu5lSoa5zPA",
+          "video_id": "lu5lSoa5zPA",
+          "channel": "CNBC Television",
+          "published_at": "2026-11-06T20:30:21.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/lu5lSoa5zPA/hqdefault.jpg"
+        },
+        {
+          "title": "Latest news after Trump replaces Susie Wiles with Stephen Miller as chief of staff",
+          "url": "https://www.youtube.com/watch?v=6ROYEhH1KxE",
+          "video_id": "6ROYEhH1KxE",
+          "channel": "CBS News",
+          "published_at": "2026-11-06T20:05:15.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/6ROYEhH1KxE/hqdefault.jpg"
+        },
+        {
+          "title": "Stephen Miller will replace Susie Wiles as White House chief of staff",
+          "url": "https://www.youtube.com/shorts/UFuo7IuTLjQ",
+          "video_id": "UFuo7IuTLjQ",
+          "channel": "CNN",
+          "published_at": "2026-11-06T20:00:05.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/UFuo7IuTLjQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "President Donald Trump announced that Stephen Miller will replace Susie Wiles as White House chief of staff. Miller has been a senior adviser and a central figure in the administration’s immigration policy."
+    },
+    {
+      "id": "topic_3df594507b572dd5",
+      "title": "Tesla Plans to Wind Down Cybertruck Production in 2027",
+      "headline": "Tesla to Wind Down Cybertruck Production",
+      "label": [
+        "tesla",
+        "production",
+        "cybertruck",
+        "wind",
+        "musk",
+        "texas"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_63152c0f46808ed7",
+      "entities": [
+        "Tesla",
+        "Wind Down Cybertruck Production",
+        "Musk",
+        "Cybertruck",
+        "Texas"
+      ],
+      "article_count": 33,
+      "source_count": 30,
+      "articles": [
+        {
+          "title": "Tesla to Wind Down Cybertruck Production",
+          "url": "https://tech.slashdot.org/story/26/11/06/1736259/tesla-to-wind-down-cybertruck-production",
+          "source": "Slashdot",
+          "published_at": "2026-11-06T18:00:00.000Z",
+          "description": "Elon Musk says Tesla will be \"winding down\" Cybertruck production at its Texas Gigafactory around mid-2027 to free up capacity for increased production of its Cybercab robotaxi. CNBC reports: The Cybertruck is exclusively produced at the company's plant in Texas alongside the Tesla Model Y and two-…"
+        },
+        {
+          "title": "Musk says Tesla will wind down Cybertruck production next year",
+          "url": "https://www.washingtonexaminer.com/news/business/4795281/musk-tesla-wind-down-cybertruck-production",
+          "source": "Washington Examiner",
+          "published_at": "2026-11-06T16:13:19.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26310497607246.jpg?w=1024",
+          "description": "Tesla CEO Elon Musk said his electric vehicle company is pulling the plug on its fleet of Cybertruck vehicles in 2027 and pivoting to developing its fully autonomous robotaxi. “Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room f…"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
+          "source": "All News",
+          "published_at": "2026-11-06T07:06:25.000Z"
+        },
+        {
+          "title": "Tesla To 'Wind Down' Cybertruck Production Next Year: Musk",
+          "url": "https://www.ndtv.com/world-news/tesla-to-wind-down-cybertruck-production-next-year-musk-12294699",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-06T18:15:06.000Z",
+          "description": "Tesla will stop building the truck at its Texas factory around the middle of 2027 to free up space for its Cybercab robotaxi, Musk said."
+        },
+        {
+          "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+          "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-11-06T11:40:53.000Z",
+          "description": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
+          "url": "https://www.youtube.com/shorts/yRiekZg4dqU",
+          "video_id": "yRiekZg4dqU",
+          "channel": "Forbes",
+          "published_at": "2026-11-06T21:45:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/yRiekZg4dqU/hqdefault.jpg"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production #shorts",
+          "url": "https://www.youtube.com/shorts/TjJAwT615Gg",
+          "video_id": "TjJAwT615Gg",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-11-06T20:21:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/TjJAwT615Gg/hqdefault.jpg"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://www.youtube.com/shorts/_qLluPYHqxU",
+          "video_id": "_qLluPYHqxU",
+          "channel": "NBC News",
+          "published_at": "2026-11-06T19:28:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_qLluPYHqxU/hqdefault.jpg"
+        }
+      ],
+      "summary": "Elon Musk said Tesla plans to wind down Cybertruck production at its Texas factory around mid-2027. The company intends to use the capacity for its Cybercab robotaxi."
+    },
+    {
+      "id": "topic_a2be3288709a04b4",
+      "title": "OpenAI Launches GPT-6 Cyber Security Model",
+      "headline": "OpenAI Launches GPT-6 Cyber That Finds 81 Firefox Flaws and Develops 948 Linux Exploits",
+      "label": [
+        "gpt",
+        "cyber",
+        "openai",
+        "firefox",
+        "flaws",
+        "exploits"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_f18f37695d3335fc",
+      "entities": [
+        "OpenAI Launches GPT",
+        "Cyber That Finds",
+        "Firefox Flaws",
+        "Develops",
+        "Linux Exploits"
+      ],
+      "article_count": 17,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "OpenAI Launches GPT-6 Cyber That Finds 81 Firefox Flaws and Develops 948 Linux Exploits",
+          "url": "https://cybersecuritynews.com/openai-launches-gpt-6-cyber",
+          "source": "Cyber Security News",
+          "published_at": "2026-11-06T02:04:53.000Z",
+          "description": "OpenAI has launched GPT-6 Cyber, a security-focused AI model that found 81 new high-severity Firefox flaws and built working exploits for 948 Linux kernel bugs. The company says it also follows the limits set by researchers far better than its older model. OpenAI introduced GPT-6 Cyber on November…"
+        },
+        {
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "source": "The Hacker News",
+          "published_at": "2026-11-06T14:58:32.000Z",
+          "description": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more rel…"
+        },
+        {
+          "title": "OpenAI’s GPT-6 Cyber finds 81 critical Firefox flaws, develops 948 Linux exploits",
+          "url": "https://www.thehindubusinessline.com/info-tech/openais-gpt-6-cyber-finds-81-critical-firefox-flaws-develops-948-linux-exploits/article71672723.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-06T03:04:22.000Z",
+          "description": "The new model also demonstrates improved performance in penetration testing benchmarks, while raising concerns over potential misuse of advanced cybersecurity capabilities"
+        },
+        {
+          "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+          "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs",
+          "source": "BleepingComputer",
+          "published_at": "2026-11-06T20:24:19.000Z",
+          "description": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]"
+        },
+        {
+          "title": "OpenAI launches new GPT-6 Cyber model that found 81 flaws on Firefox",
+          "url": "https://cyberinsider.com/openai-gpt-6-cyber-model-firefox-vulnerabilities",
+          "source": "CyberInsider",
+          "published_at": "2026-11-06T10:41:25.000Z",
+          "description": "OpenAI has launched GPT-6 Cyber, a restricted-access AI model for finding software vulnerabilities and developing exploits to verify them. The company says its researchers used the model to uncover 81 previously unknown high-severity flaws in Firefox and develop 948 working exploits for the Linux k…"
+        }
+      ],
+      "summary": "OpenAI introduced GPT-6 Cyber, a cybersecurity-focused model. The company says it identified 81 high-severity Firefox vulnerabilities and developed working exploits for 948 Linux kernel bugs."
+    },
+    {
+      "id": "topic_15cf251777d88cff",
+      "title": "Protesters Enter Microsoft Data Center Construction Site in Amsterdam",
+      "headline": "Protesters break into Microsoft data center site in Amsterdam",
+      "label": [
+        "microsoft",
+        "protesters",
+        "amsterdam",
+        "site",
+        "data",
+        "break"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_c00b0a244692fd3",
+      "entities": [
+        "Protesters",
+        "Microsoft",
+        "Amsterdam",
+        "Anti",
+        "AI"
+      ],
+      "article_count": 18,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "Protesters break into Microsoft data center site in Amsterdam",
+          "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+          "source": "The Verge",
+          "published_at": "2026-11-06T11:55:19.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction…"
+        },
+        {
+          "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+          "url": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam",
+          "source": "DCD",
+          "published_at": "2026-11-06T15:13:00.000Z",
+          "description": "Protesting water use, AI, and ties to Israel"
+        },
+        {
+          "title": "Protesters break into Microsoft data centre site in Amsterdam",
+          "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-06T21:04:40.000Z",
+          "description": "Data centres face protests across Europe due to the massive amounts of computing power and water they use."
+        },
+        {
+          "title": "Protesters break into Microsoft data centre construction site in Amsterdam",
+          "url": "https://thenextweb.com/news/microsoft-data-centre-amsterdam-protest",
+          "source": "The Next Web",
+          "published_at": "2026-11-06T10:58:48.000Z",
+          "image": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.avif",
+          "description": "Protesters broke into the construction site of a large Microsoft data centre on the edge of Amsterdam on Friday, during a demonstration against the project. About 100 people made it onto the site, a Reuters witness said. A spokesperson for the activist group Geef Tegengas told local broadcaster AT5…"
+        },
+        {
+          "title": "Anti-AI protesters break into Microsoft data center site in Amsterdam",
+          "url": "https://www.businessinsider.com/protesters-break-into-microsoft-data-center-construction-site-amsterdam-ai-2026-11",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-11-06T13:09:42.000Z",
+          "image": "https://i.insider.com/6aedd66b308912814ed719b4?format=jpeg",
+          "description": "Protesters let off flares at the data center construction site. Yanis Deplazes / Hans Lucas / AFP via Getty Images Protesters have broken into a Microsoft Amsterdam data center construction site and unfurled anti-AI banners. The activist group Geef Tegengas said it had organized the protest. The pr…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Protesters break into a Microsoft data center construction site in Amsterdam",
+          "url": "https://www.youtube.com/watch?v=Sxm3rSt2X60",
+          "video_id": "Sxm3rSt2X60",
+          "channel": "Associated Press",
+          "published_at": "2026-11-06T17:17:09.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sxm3rSt2X60/hqdefault.jpg"
+        },
+        {
+          "title": "Protesters break into Microsoft AI data centre site in Amsterdam | AJ #shorts",
+          "url": "https://www.youtube.com/shorts/BYi8CB_Um88",
+          "video_id": "BYi8CB_Um88",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-06T15:46:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/BYi8CB_Um88/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Protesters break into Microsoft data center site in Amsterdam",
+          "url": "https://www.youtube.com/watch?v=zpeZxS-fNdo",
+          "video_id": "zpeZxS-fNdo",
+          "channel": "Reuters",
+          "published_at": "2026-11-06T10:51:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/zpeZxS-fNdo/hqdefault.jpg"
+        }
+      ],
+      "summary": "About 100 protesters entered a Microsoft data center construction site in Amsterdam. The demonstration addressed concerns including water use, artificial intelligence and the company’s ties to Israel."
+    },
+    {
+      "id": "topic_72e490a8a179fa60",
+      "title": "Judge Temporarily Blocks Trump’s Triumphal Arch Project",
+      "headline": "Judge Blocks Trump’s Arch After Federal Panel Approves It",
+      "label": [
+        "arch",
+        "judge",
+        "blocks",
+        "trump",
+        "federal",
+        "panel"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_8d88c021502f88a6",
+      "entities": [
+        "Judge Blocks Trump",
+        "Arch After Federal Panel",
+        "Approves It",
+        "Judge",
+        "Trump"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Judge Blocks Trump’s Arch After Federal Panel Approves It",
+          "url": "https://politicalwire.com/2026/11/06/judge-blocks-trumps-arch-after-federal-panel-approves-it",
+          "source": "Political Wire",
+          "published_at": "2026-11-06T10:27:39.000Z",
+          "description": "“A federal judge late Thursday halted construction on President Donald Trump’s planned 250-foot-tall triumphal arch, siding with military veterans and local government officials who had urged her to stop the project,” the Washington Post reports. ”U.S. District Judge Tanya S. Chutkan blocked work o…"
+        },
+        {
+          "title": "US judge temporarily blocks Trump's arch project after panel approval",
+          "url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-06T06:30:00.000Z",
+          "description": "A judge ordered a two-week stop to construction on US President Trump's arch project in Washington. A federal panel had approved Trump's triumphal arch plans in an 8-4 vote."
+        },
+        {
+          "title": "Judge temporarily blocks Trump’s arch after agency’s final approval",
+          "url": "https://www.ms.now/news/judge-temporarily-blocks-trumps-arch-after-agencys-final-approval",
+          "source": "MS NOW",
+          "published_at": "2026-11-06T07:00:25.000Z",
+          "description": "The administration had indicated construction on the arch could begin this week. The post Judge temporarily blocks Trump’s arch after agency’s final approval appeared first on MS NOW."
+        },
+        {
+          "title": "Judge blocks Trump's arch build after key approval win",
+          "url": "https://www.perthnow.com.au/news/politics/judge-blocks-trumps-arch-build-after-key-approval-win-c-23126138",
+          "source": "PerthNow",
+          "published_at": "2026-11-06T05:37:22.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23126138/e4619ae175e976364e814e6f9207bdb81e96f3a0-16x9-x0y0w1280h720.jpg",
+          "description": "Hours after the US President's Triumphal Arch secured a critical approval, a judge overseeing legal challenges to the plan issued a temporary restraining order."
+        },
+        {
+          "title": "Key federal panel approves Trump’s arch while it is being challenged in court",
+          "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-06T06:21:29.000Z",
+          "description": "The National Capital Planning Commission voted 8-4 to approve the 76-metre memorial arch near Washington, as three lawsuits challenge it and a judge is expected to rule soon on whether to block construction."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Federal judge temporarily blocks Trump’s arch #shorts",
+          "url": "https://www.youtube.com/shorts/4rrTkSbwua8",
+          "video_id": "4rrTkSbwua8",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-11-06T20:24:24.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/4rrTkSbwua8/hqdefault.jpg"
+        },
+        {
+          "title": "Judge blocks Trump arch hours after federal panel approval",
+          "url": "https://www.youtube.com/watch?v=5ULR5RKi_gg",
+          "video_id": "5ULR5RKi_gg",
+          "channel": "ABC News",
+          "published_at": "2026-11-06T11:01:09.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/5ULR5RKi_gg/hqdefault.jpg"
+        }
+      ],
+      "summary": "A federal judge temporarily halted construction of President Donald Trump’s planned arch in Washington after a federal planning panel approved the project. The plan also faces legal challenges."
+    },
+    {
+      "id": "topic_cd7b572b1352ca80",
+      "title": "Kenyan Cult Leader Sentenced to 200 Years for Murders",
+      "headline": "Kenyan cult leader sentenced to 200 years in prison",
+      "label": [
+        "cult",
+        "leader",
+        "kenyan",
+        "sentenced",
+        "years",
+        "starvation"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_160d21a53aefe29b",
+      "entities": [
+        "Kenyan",
+        "Reuters",
+        "CNN",
+        "Kenya",
+        "Paul Mackenzie"
+      ],
+      "article_count": 17,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison",
+          "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-11-06T21:23:53.000Z",
+          "description": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new data centres could put added pressure on already strained water and electricity supplies. And Senegal c…"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1008591/kenyan-cult-leader-sentenced-to-200-years-in-prison-for-mass-starvation-murders-of-children/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-11-06T18:45:00.000Z",
+          "description": "MOMBASA, Kenya - A Kenyan court sentenced cult leader Paul Mackenzie on Friday to 200 years in prison for the murders of 190 children starved to death on his orders and buried in a forest, among 500 suspected victims of one of the deadliest cult-related mass killings of modern times."
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison for child murders",
+          "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/06/kenyan-cult-leader-sentenced-to-200-years-in-prison-for-child-murders_6773593_124.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-11-06T16:02:32.000Z",
+          "description": "Paul Mackenzie, a self-proclaimed preacher, was convicted of murdering 190 children and one adult in an infamous starvation cult."
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison for mass killings",
+          "url": "https://tass.com/world/2213951",
+          "source": "TASS",
+          "published_at": "2026-11-06T15:08:47.000Z",
+          "description": "Paul Mackenzie received 100 years in prison for each of 183 deaths caused by forced starvation, as well as 100 years for eight murders he committed personally"
+        },
+        {
+          "title": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+          "url": "https://iol.co.za/news/africa/2026-11-06-kenyan-starvation-cult-leader-sentenced-to-200-years-for-child-murders",
+          "source": "IOL > News",
+          "published_at": "2026-11-06T14:15:00.000Z",
+          "image": "https://iol-prod.appspot.com/image/299944ec25e1d7bee9478173185bba35e63b7194",
+          "description": "A self-proclaimed Kenyan preacher was sentenced to 200 years in prison on Friday for the murder of 190 children and one adult in an infamous starvation cult."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=MKZaJvw7Nz8",
+          "video_id": "MKZaJvw7Nz8",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-06T21:24:28.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/MKZaJvw7Nz8/hqdefault.jpg"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years for 191 murders",
+          "url": "https://www.youtube.com/shorts/pv42dKKlxVs",
+          "video_id": "pv42dKKlxVs",
+          "channel": "Channel 4 News",
+          "published_at": "2026-11-06T19:41:19.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/pv42dKKlxVs/hqdefault.jpg"
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years for murders of children",
+          "url": "https://www.youtube.com/shorts/IOkMMs7EOQ4",
+          "video_id": "IOkMMs7EOQ4",
+          "channel": "Reuters",
+          "published_at": "2026-11-06T17:15:13.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/IOkMMs7EOQ4/hqdefault.jpg"
+        }
+      ],
+      "summary": "A Kenyan court sentenced Paul Mackenzie to 200 years in prison for murders linked to starvation at his cult. Reports say 190 children and one adult were killed."
+    },
+    {
+      "id": "topic_9ff79eee7e90cfc0",
+      "title": "Pope Leo Begins Latin America Tour After Lung Surgery",
+      "headline": "After cancer surgery, Pope Leo embarks on Latin America trip",
+      "label": [
+        "pope",
+        "latin",
+        "america",
+        "leo",
+        "surgery",
+        "trip"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_76a6ab54acf9cc56",
+      "entities": [
+        "Pope Leo",
+        "Latin America",
+        "Pope",
+        "Uruguay",
+        "BBC"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+          "source": "NPR Topics: World",
+          "published_at": "2026-11-06T09:19:57.000Z",
+          "description": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question."
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
+          "source": "BBC News",
+          "published_at": "2026-11-06T00:02:57.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+          "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+        },
+        {
+          "title": "After cancer surgery, Pope Leo embarks on Latin America trip with a first stop in secular Uruguay",
+          "url": "https://www.seattletimes.com/nation-world/world/after-cancer-surgery-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-secular-uruguay",
+          "source": "The Seattle Times World – The Seattle Times",
+          "published_at": "2026-11-06T05:06:10.000Z",
+          "description": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, the region’s least Catholic and most secular country."
+        },
+        {
+          "title": "Pope Leo embarks on Latin America trip with a first stop in Uruguay",
+          "url": "https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-11-06T14:58:24.000Z",
+          "description": "Pope Leo XIV is kicking off a three-nation tour of Latin America on Friday, November 6, with a visit to Uruguay, the region’s least Catholic and most secular country, three weeks after undergoing lung cancer surgery that had put the entire trip into question. After Uruguay, he will then go to Argen…"
+        },
+        {
+          "title": "Pope Leo’s Trip to Latin America: What to Know",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+          "source": "NYT > World > Americas",
+          "published_at": "2026-11-06T05:01:17.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
+          "description": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America."
+        }
+      ],
+      "videos": [
+        {
+          "title": "LIVE: Pope Leo begins Latin America visit in Uruguay",
+          "url": "https://www.youtube.com/watch?v=G6kRCAPyxTE",
+          "video_id": "G6kRCAPyxTE",
+          "channel": "Reuters",
+          "published_at": "2026-11-06T19:17:40.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/G6kRCAPyxTE/hqdefault.jpg"
+        },
+        {
+          "title": "Pope Leo embarks on Latin American papal trip three weeks after surgery",
+          "url": "https://www.youtube.com/shorts/NO1iSoudgjM",
+          "video_id": "NO1iSoudgjM",
+          "channel": "ABC News",
+          "published_at": "2026-11-06T15:10:37.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/NO1iSoudgjM/hqdefault.jpg"
+        },
+        {
+          "title": "Pope Leo embarks on Latin America trip with a first stop in Uruguay • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=tc6y7F2w4O4",
+          "video_id": "tc6y7F2w4O4",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-06T14:58:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/tc6y7F2w4O4/hqdefault.jpg"
+        }
+      ],
+      "summary": "Pope Leo XIV began a 12-day tour of Uruguay, Argentina and Peru, starting in Uruguay. The trip comes weeks after surgery that removed part of his lung."
+    },
+    {
+      "id": "topic_fc871c2f066b2b0e",
+      "title": "Netflix Orders Stranger Things Prequel Series",
+      "headline": "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix",
+      "label": [
+        "stranger",
+        "things",
+        "prequel",
+        "netflix",
+        "series",
+        "worlds"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_b8aae33687ae5a1b",
+      "entities": [
+        "Stranger Things",
+        "Prequel Spinoff",
+        "Other Worlds",
+        "Ordered",
+        "Series"
+      ],
+      "article_count": 17,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix",
+          "url": "https://variety.com/2026/tv/news/stranger-things-prequel-spinoff-other-worlds-series-netflix-1236940920",
+          "source": "Variety",
+          "published_at": "2026-11-06T14:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Other_Worlds_Logo_v37_16x9.jpg",
+          "description": "The long-gestating “Stranger Things” spinoff has officially been ordered to series at Netflix, Variety has learned. The show is titled “Other Worlds: A Stranger Things Adventure” and is set to debut in 2028. The announcement comes as part of “Stranger Things” Day, the annual celebration to mark the…"
+        },
+        {
+          "title": "Stranger Things Prequel Spin-Off Other Worlds Ordered At Netflix",
+          "url": "https://www.tvline.com/2308747/stranger-things-spin-off-other-worlds-netflix-prequel-series-order",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-11-06T14:00:00.000Z",
+          "description": "Netflix is heading back to Hawkins: The streamer has ordered a Stranger Things prequel spin-off titled Other Worlds, TVLine has learned."
+        },
+        {
+          "title": "Netflix orders prequel to its other Stranger Things prequel",
+          "url": "https://www.avclub.com/stranger-things-prequel-ordered-other-worlds",
+          "source": "AV Club",
+          "published_at": "2026-11-06T14:35:45.000Z",
+          "description": "The new Stranger Things prequel series was previously reported to explain a mysterious rock first mentioned in the stage play The First Shadow ."
+        },
+        {
+          "title": "A Stranger Things prequel series is coming to Netflix in 2028",
+          "url": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-11-06T15:09:52.000Z",
+          "description": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s."
+        },
+        {
+          "title": "Netflix announces Stranger Things prequel, set to debut in 2028",
+          "url": "https://mashable.com/entertainment/stranger-things-other-worlds-netflix-announcement",
+          "source": "Mashable",
+          "published_at": "2026-11-06T15:12:36.000Z",
+          "description": "To celebrate \"Stranger Things\" Day, Netflix announced prequel series \"Other Worlds: A Stranger Things Adventure.\""
+        }
+      ],
+      "summary": "Netflix ordered a Stranger Things prequel series titled Other Worlds: A Stranger Things Adventure. The series is set in Nevada in the 1950s and is expected to debut in 2028."
+    },
+    {
+      "id": "topic_c826b2bd32ef0f76",
+      "title": "Paraguay President Resigns Amid Ueno Bank Crisis",
+      "headline": "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
+      "label": [
+        "paraguay",
+        "president",
+        "peña",
+        "bank",
+        "ueno",
+        "crisis"
+      ],
+      "category": "trending",
+      "section": "politics",
+      "theme": "theme_5af2da5d58ba9610",
+      "entities": [
+        "Santiago Pena",
+        "Paraguay President",
+        "Paraguay President Resigns Amid",
+        "Protests Over Ueno Banking",
+        "Crisis"
+      ],
+      "article_count": 54,
+      "source_count": 36,
+      "articles": [
+        {
+          "title": "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
+          "url": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-06T01:54:17.000Z",
+          "description": "Thousands of Paraguayans gathered outside Congress on Thursday (November 5, 2026) to protest against the President"
+        },
+        {
+          "title": "Paraguay President Resigns Amid Protests Over Ueno Banking Crisis",
+          "url": "https://www.ndtv.com/world-news/paraguay-president-santiago-pena-resigns-amid-banking-crisis-12290484",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-06T02:22:53.000Z",
+          "description": "Thousands of Paraguayans gathered outside Congress on Thursday to protest against the president, who is still technically in power as his resignation awaits parliamentary approval."
+        },
+        {
+          "title": "Dimite Santiago Peña, presidente de Paraguay, por crisis del Ueno bank",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/dimite-presidente-de-paraguay-por-crisis.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-11-06T10:32:58.000Z",
+          "description": "El presidente de Paraguay, Santiago Peña, renunció este jueves, poco antes de ser sometido a un juicio político en el Congreso, en medio de la tormenta desatada en el país por la intervención de Ueno bank, una entidad privada a la que fue vinculado y que durante su gestión recibió millonarios recur…"
+        },
+        {
+          "title": "What is ueno bank and how did it trigger Paraguay’s political crisis?",
+          "url": "https://bworldonline.com/technology/2026/11/06/792003/what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-11-06T02:52:42.000Z",
+          "description": "Paraguay’s President Santiago Peña resigned on Thursday after the collapse of ueno, a prominent commercial bank with ties…"
+        },
+        {
+          "title": "Paraguay President Peña under probe, faces removal over bank collapse",
+          "url": "https://globalnation.inquirer.net/346056/paraguay-president-pena-under-probe-faces-removal-over-bank-collapse",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-06T02:31:41.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/11/AP26309590171039-620x413.jpg",
+          "description": "ASUNCIÓN, Paraguay— Paraguayan President Santiago Peña is under criminal investigation following the collapse of a major digital bank, prosecutors announced, as the South American leader prepares to defend himself before the Senate against possible removal from office on Friday. The crisis at Ueno…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Paraguay's president resigns after bank collapse",
+          "url": "https://www.youtube.com/shorts/T3rWwuLjAGE",
+          "video_id": "T3rWwuLjAGE",
+          "channel": "Reuters",
+          "published_at": "2026-11-06T06:24:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/T3rWwuLjAGE/hqdefault.jpg"
+        },
+        {
+          "title": "Paraguay President Santiago Peña resigns following bank collapse",
+          "url": "https://www.youtube.com/shorts/-JfPY8Tydyo",
+          "video_id": "-JfPY8Tydyo",
+          "channel": "ABC News",
+          "published_at": "2026-11-06T02:26:48.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/-JfPY8Tydyo/hqdefault.jpg"
+        },
+        {
+          "title": "Paraguay's president steps down after bank collapse | DW News",
+          "url": "https://www.youtube.com/shorts/JduLpSE06UQ",
+          "video_id": "JduLpSE06UQ",
+          "channel": "DW News",
+          "published_at": "2026-11-06T00:30:13.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JduLpSE06UQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "Paraguay President Santiago Peña resigned amid a political crisis linked to the collapse of Ueno bank. His resignation awaits parliamentary approval, and reports say he faces scrutiny over the bank’s collapse."
+    },
+    {
+      "id": "topic_38989da9d87614c8",
+      "title": "Meghan Markle’s Father Arrested in Florida Investigation",
+      "headline": "Arrestan a padre de Meghan Markle por pornografía infantil",
+      "label": [
+        "padre",
+        "meghan",
+        "markle",
+        "florida",
+        "infantil",
+        "arrestan"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_e0053d526d4f966e",
+      "entities": [
+        "Arrestan",
+        "Meghan Markle",
+        "Media",
+        "Florida",
+        "Thomas"
+      ],
+      "article_count": 16,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Arrestan a padre de Meghan Markle por pornografía infantil",
+          "url": "https://www.elnorte.com/arrestan-a-padre-de-meghan-markle-por-pornografia-infantil/ar3309548",
+          "source": "ElNorte",
+          "published_at": "2026-11-06T15:36:53.000Z",
+          "description": "Thomas Markle, padre de Meghan Markle, fue arrestado en Florida por una investigación por presunto material de abuso sexual infantil."
+        },
+        {
+          "title": "Media: 'Il padre di Meghan Markle arrestato in Florida'",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/media-il-padre-di-meghan-markle-arrestato-in-florida_404b4dee-1f32-4233-83f4-5dcbbc0afa5d.html",
+          "source": "Primo piano ANSA - ANSA.it",
+          "published_at": "2026-11-06T15:33:19.000Z",
+          "description": "Lo riporta Fox citando alcune fonti"
+        },
+        {
+          "title": "Arrestan a Thomas, el padre de Meghan Markle por denuncias de pornografía infantil",
+          "url": "https://vanguardia.com.mx/noticias/arrestan-a-thomas-el-padre-de-meghan-markle-por-denuncias-de-pornografia-infantil-md24634888",
+          "source": "Vanguardia",
+          "published_at": "2026-11-06T15:52:54.000Z",
+          "description": "El padre de Meghan Markle, Thomas Markle Sr., con quien no mantiene relación, ha sido arrestado tras una investigación sobre las acusaciones de que poseía pornografía infantil . ⁣​​‌​‍‍‌‌‌‍‌‌‍​‌‌‍‌​‍‍​‍​​‍‌​​‌‍‍‌‍​‍​​​​​​​​​⁠⁠‍‌​‌⁠‌‌‌​​‍⁠‍​‍​​⁠​‌​⁣Lee la nota completa en vanguardia.com.mx"
+        },
+        {
+          "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
+          "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
+          "source": "EL PAÍS: el periódico global",
+          "published_at": "2026-11-06T15:18:05.000Z",
+          "description": "Según el ‘Daily Mail’ y TMZ, agentes federales han irrumpido en la residencia de ancianos en la que reside Thomas Markle, después de que la policía de Filipinas descubriera grandes cantidades de material de abuso infantil en varios de sus dispositivos"
+        },
+        {
+          "title": "Meghan Markle, il padre è stato arrestato in Florida per materiale pedopornografico",
+          "url": "https://www.adnkronos.com/internazionale/esteri/arrestato-padre-meghan-markle-materiale-pedopornografico_4estksgik3hflqpdwaqgye",
+          "source": "Adnkronos - ultimoratop",
+          "published_at": "2026-11-06T15:32:08.000Z",
+          "description": "(Adnkronos) - Il materiale era stato rinvenuto in residenze che Thomas Markle, 82 anni, aveva affittato in Messico"
+        }
+      ],
+      "summary": "Thomas Markle, Meghan Markle’s father, was arrested in Florida in an investigation involving alleged child sexual abuse material, according to the headlines."
+    },
+    {
+      "id": "topic_9e0b31f7bf34b4c1",
+      "title": "FAA to Retire Floppy Disks from Air Traffic Control by 2028",
+      "headline": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "label": [
+        "disks",
+        "floppy",
+        "faa",
+        "phase",
+        "traffic",
+        "control"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_3242e6af30a3432c",
+      "entities": [
+        "US FAA",
+        "Phase Out Floppy Disks",
+        "Air Traffic Control Towers",
+        "FAA Phases Out Floppy",
+        "Disks From Air Traffic"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "url": "https://dev.to/technoblogger14o3/us-faa-says-it-will-phase-out-floppy-disks-from-air-traffic-control-by-2028-2af0",
+          "source": "DEV Community",
+          "published_at": "2026-11-06T20:30:01.000Z",
+          "description": "Ever found yourself staring at a relic from the past, wondering how on earth it’s still clinging to life in a world so dominated by sleek technology? Well, I recently had one of those moments when I read that the U.S. FAA plans to phase out floppy disks from air traffic control systems by 2028. Yes…"
+        },
+        {
+          "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+          "url": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-11-06T18:42:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-floppy-qlvb/06xp-floppy-qlvb-mediumSquareAt3X.jpg",
+          "description": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic."
+        },
+        {
+          "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
+          "url": "https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control",
+          "source": "Slashdot",
+          "published_at": "2026-11-06T07:00:00.000Z",
+          "description": "The FAA announced today that it is finally phasing out floppy disks from air traffic control systems at more than 400 facilities. Engadget reports: They'll be replaced by a more modern system called Enterprise -- Information Display System (E-IDS), which is comprised of a digital display for relayi…"
+        },
+        {
+          "title": "The FAA says it will phase out floppy disks by 2028",
+          "url": "https://mashable.com/tech/faa-will-phase-out-floppy-disks-by-2028",
+          "source": "Mashable",
+          "published_at": "2026-11-06T17:57:03.000Z",
+          "description": "The FAA will no longer use floppy disks in 2028. Here's what you need to know."
+        },
+        {
+          "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+          "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+          "source": "Hacker News: Front Page",
+          "published_at": "2026-11-06T15:03:24.000Z",
+          "description": "Article URL: https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air Comments URL: https://news.ycombinator.com/item?id=50393183 Points: 7 # Comments: 1"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Air Traffic Control facilities to phase out use of floppy disks",
+          "url": "https://www.youtube.com/shorts/iRkn6Pylies",
+          "video_id": "iRkn6Pylies",
+          "channel": "ABC News",
+          "published_at": "2026-11-06T10:07:57.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/iRkn6Pylies/hqdefault.jpg"
+        }
+      ],
+      "summary": "The Federal Aviation Administration plans to phase out floppy disks used in air traffic control systems by 2028. The change will affect more than 400 facilities, according to reports."
+    },
+    {
+      "id": "topic_103bcd20e60b22ac",
+      "title": "Reports Highlight Rising Economic and Demographic Indicators",
+      "headline": "Unemployment rate rises to 5.4% in September",
+      "label": [
+        "rate",
+        "rises",
+        "unemployment",
+        "september",
+        "argentina",
+        "jobless"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_e2f464baabeeca32",
+      "entities": [
+        "Unemployment",
+        "September",
+        "Canada",
+        "October",
+        "Argentina Jobless Rate Rises"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Unemployment rate rises to 5.4% in September",
+          "url": "https://www.manilatimes.net/2026/11/06/news/unemployment-rate-rises-to-54-in-september/2463733",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-11-06T02:00:41.000Z",
+          "description": "MANILA, Philippines — The number of unemployed Filipinos rose to 2.86 million in September, up 909,000 from a year earlier and 95,000 from the previous month, as the unemployment rate climbed to 5.4 percent, the Philippine Statistics Authority (PSA) said Friday. Preliminary results of the September…"
+        },
+        {
+          "title": "Canada's unemployment rate rises to 6.7% in October 2026 from 6.5% in September",
+          "url": "https://seekingalpha.com/news/4667897-canada-unemployment-rate-rises-to-67-in-october-2026-from-65-in-september",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-11-06T13:31:35.000Z"
+        },
+        {
+          "title": "Argentina Jobless Rate Rises to 7.9%",
+          "url": "https://www.riotimesonline.com/argentina-jobless-rate-state-jobs-2026",
+          "source": "The Rio Times",
+          "published_at": "2026-11-06T11:53:17.000Z",
+          "description": "Argentina's jobless rate hit 7.9% in April–June and federal payrolls fell 6.1% in a year. Dates to watch for investors and expats. The post Argentina Jobless Rate Rises to 7.9% appeared first on The Rio Times."
+        },
+        {
+          "title": "Babies made a comeback - but that was before the latest rate rises",
+          "url": "https://www.brisbanetimes.com.au/politics/federal/babies-made-a-comeback-but-that-was-before-the-latest-rate-rises-20261106-p61bxs.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-06T04:52:09.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.9447%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_410/t_crop_custom/q_86%2Cf_auto/58beca78f157811b0faf7f4dc4260bf982a32ed7",
+          "description": "The nation’s fertility rate has risen slightly. But don’t think Australia is in the midst of a new baby boom. Rate rises are likely to kill the mood."
+        },
+        {
+          "title": "Argentina's Urban Poverty Rate Rises to 34.4% in Q2 2025",
+          "url": "https://english.pravda.ru/news/world/171874-argentina-urban-poverty-rate-rises-q2-2025",
+          "source": "PravdaReport",
+          "published_at": "2026-11-06T20:06:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/8/7/4/171874_amp.jpeg",
+          "description": "Argentina's poverty rate in urban areas rose to 34.4% in the second quarter of 2025, marking an increase from 31.4% a year earlier and 30% in the previous quarter, according to data released by the National Institute of Statistics and Census (INDEC). The extreme poverty indicator also climbed to 8%…"
+        }
+      ],
+      "summary": "The reports describe rising unemployment in the Philippines, Canada and Argentina, along with increases in Argentine urban poverty. Another headline notes a slight rise in Australia’s fertility rate and says rate increases may affect the trend."
+    },
+    {
+      "id": "topic_1f2b74deed8f889a",
+      "title": "Bondi Beach Attack Survivor Dies Nearly a Year Later",
+      "headline": "Holocaust survivor shot in Bondi Beach attack dies almost a year after massacre",
+      "label": [
+        "bondi",
+        "beach",
+        "dies",
+        "shot",
+        "attack",
+        "year"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_65d0123267652fb4",
+      "entities": [
+        "Holocaust",
+        "Bondi Beach",
+        "Australian",
+        "Woman",
+        "Bondi"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Holocaust survivor shot in Bondi Beach attack dies almost a year after massacre",
+          "url": "https://globalnews.ca/news/12139691/bondi-beach-attack-holocaust-survivor-eva-geller-sydney",
+          "published_at": "2026-11-06T17:41:14.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/11/bondi-beach-shooting.jpg?quality=65&strip=all",
+          "description": "Eva Geller was one of about 40 people who were injured when gunmen opened fire on a group gathered at a Hanukkah celebration on Bondi Beach on Dec. 14."
+        },
+        {
+          "title": "Holocaust survivor, 90, shot during Bondi Beach terror attack dies from injuries almost a year on from massacre",
+          "url": "https://www.thesun.co.uk/news/40934197/holocaust-survivor-bondi-beach-terror-attack",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-11-06T09:30:43.000Z",
+          "description": "A HOLOCAUST survivor who was shot during the \"ISIS-inspired\" Bondi Beach terrorist attack has died in hospital almost a year later. Eva Geller, 90, was among dozens of people ⁠wounded when a father and son opened fire on a crowd at a Hanukkah celebration in Sydney. She had been \"in and out of hospi…"
+        },
+        {
+          "title": "Australian woman shot during Bondi Beach attack dies almost a year later",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynn9x50d0o",
+          "source": "BBC News",
+          "published_at": "2026-11-06T05:32:58.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc1/live/00dc0fa0-d9a1-11f1-af19-c16945e5c218.jpg",
+          "description": "The 90-year-old was among those seriously injured after gunmen opened fire at a Jewish event last year."
+        },
+        {
+          "title": "Woman, 90, shot during Bondi beach massacre dies in hospital year after antisemitic attack",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-06T03:14:09.000Z",
+          "image": "https://i.guim.co.uk/img/media/72259763e62364f247e27c55fd8470a097d78fcb/117_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3139c875b5f912c45fb980a8414a9b0d",
+          "description": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since Get our breaking news email, free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacre. The 90-year-old w…"
+        },
+        {
+          "title": "Woman shot during Bondi terror attack dies in hospital",
+          "url": "https://www.smh.com.au/national/woman-shot-during-bondi-terror-attack-dies-in-hospital-20261106-p61c4e.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-06T05:21:23.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d714c6eacd855ad1a15117e82ad1e666f7107ae5",
+          "description": "A 90-year-old woman who was shot in the leg during last year’s Bondi terror attack has died in hospital."
+        }
+      ],
+      "summary": "Eva Geller, a 90-year-old Holocaust survivor, died after being injured in the Bondi Beach attack at a Hanukkah event. She had been among those wounded when gunmen opened fire in December 2025."
+    },
+    {
+      "id": "topic_be2b401cfe093370",
+      "title": "Macau Jails Ex-Lawmaker in First National Security Trial",
+      "headline": "China's Macau jails ex-lawmaker in first national security trial",
+      "label": [
+        "lawmaker",
+        "national",
+        "macau",
+        "security",
+        "trial",
+        "first"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_f393a2cf42a841e5",
+      "entities": [
+        "China",
+        "Macau",
+        "Ex",
+        "Macao",
+        "Farah Master"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "China's Macau jails ex-lawmaker in first national security trial",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/06/china-s-macau-jails-ex-lawmaker-in-first-national-security-trial_6773296_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-11-06T09:22:37.000Z",
+          "description": "Au Kam San, 69, is the first person convicted under national security laws widened in 2023 in Macau, the former Portuguese colony and casino hub that reverted to China in 1999."
+        },
+        {
+          "title": "Ex-lawmaker jailed in Macau's first national security trial",
+          "url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-06T04:54:00.000Z",
+          "description": "Pro-democracy former lawmaker Au Kam San was found guilty of \"subversion against the political power of the State.\" He was handed a prison sentence of 12-and-a-half years."
+        },
+        {
+          "title": "Macao jails ex-lawmaker in first national security trial",
+          "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/politics/macao-jails-ex-lawmaker-subversion",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-11-06T06:45:00.000Z",
+          "description": "Au Kam San co-organized annual vigils for victims of the 1989 Tiananmen Square crackdown in Beijing, something previously tolerated in Macao."
+        },
+        {
+          "title": "Macau ex-lawmaker sentenced to 12.5 years in prison in city’s first national security trial",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-06-macau-ex-lawmaker-sentenced-to-125-years-in-prison-in-citys-first-national-security-trial",
+          "source": "Daily Maverick - Latest News",
+          "published_at": "2026-11-06T10:30:03.000Z",
+          "description": "A leading Macau democrat was jailed for 12.5 years on Friday on charges of subversion, in the China-ruled gambling hub's first known national security trial, local broadcaster TDM reported."
+        },
+        {
+          "title": "Macau sentences ex-lawmaker to 12.5 years in first national security trial",
+          "url": "https://hongkongfp.com/2026/11/06/macau-sentences-ex-lawmaker-to-12-5-years-in-first-national-security-trial",
+          "source": "Hong Kong Free Press HKFP",
+          "published_at": "2026-11-06T03:51:30.000Z",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/11/as3-1024x576.jpg",
+          "description": "A court in the Chinese territory Macau convicted on Friday ex-lawmaker and democracy campaigner Au Kam San of several offences including subversion, sentencing him to 12 years and six months in prison. Au, 69, is the first person convicted under national security laws widened in 2023 in Macau, the…"
+        }
+      ],
+      "summary": "A Macau court sentenced former lawmaker and democracy campaigner Au Kam San to 12 years and six months in prison for offences including subversion. It is the territory’s first known national security trial."
+    },
+    {
+      "id": "topic_878b8eb1093e8c67",
+      "title": "Mike Hussey Joins Australia Cricket Staff as Consultant",
+      "headline": "Australia recruits Mike Hussey as consultant for Ashes and 2027 World Cup",
+      "label": [
+        "hussey",
+        "ashes",
+        "australia",
+        "cup",
+        "world",
+        "mike"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_831faf462c26b019",
+      "entities": [
+        "Australia",
+        "Mike Hussey",
+        "Ashes",
+        "World Cup",
+        "Cricket World Cup"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Australia recruits Mike Hussey as consultant for Ashes and 2027 World Cup",
+          "url": "https://www.thehindu.com/sport/cricket/australia-recruits-mike-hussey-as-consultant-for-ashes-and-2027-world-cup/article71672794.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-06T04:04:59.000Z",
+          "description": "‘Mr. Cricket’ Hussey has extensive experience as a coach, including with both Australia and England"
+        },
+        {
+          "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-06T06:52:30.000Z",
+          "description": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics."
+        },
+        {
+          "title": "Hussey joins Australia's coaching ranks for 2027 Ashes, World Cup and 2028 T20 World Cup",
+          "url": "https://www.cricinfo.com/ci/content/story/1561610.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-11-06T03:18:54.000Z",
+          "description": "Hussey will be a consultant with a major focus on the 2028 Olympics and T20 World Cup but will also work with the team for the 2027 Ashes and ODI World Cup"
+        },
+        {
+          "title": "Mike Hussey takes up expanded Australia role ahead of Ashes, 2027 World Cup",
+          "url": "https://www.indiatoday.in/sports/cricket/story/mike-hussey-australia-consultant-coach-2027-ashes-odi-world-cup-la-olympics-3033457-2026-11-06",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-06T04:07:47.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mike-hussey-224033137-16x9.jpg?VersionId=liEwANklQAomgLZeNbld485DkaumACnY",
+          "description": "Mike Hussey takes up expanded Australia role ahead of Ashes World Cup"
+        },
+        {
+          "title": "Australia recruit Hussey for Ashes build-up",
+          "url": "https://sports.yahoo.com/articles/australia-recruit-hussey-ashes-build-080509438.html",
+          "published_at": "2026-11-06T08:21:54.000Z",
+          "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Michael Hussey Appointed Coaching Consultant for Australia | WION",
+          "url": "https://www.youtube.com/watch?v=qAI66B-BH-U",
+          "video_id": "qAI66B-BH-U",
+          "channel": "WION",
+          "published_at": "2026-11-06T14:37:33.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qAI66B-BH-U/hqdefault.jpg"
+        }
+      ],
+      "summary": "Australia appointed former international Mike Hussey as a consultant, with work planned around the Ashes and 2027 World Cup. Reports also cite roles connected to the 2028 Olympics and T20 World Cup."
+    }
+  ]
+}
