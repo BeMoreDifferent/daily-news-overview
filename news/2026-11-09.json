@@ -1,0 +1,1145 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-10T01:51:42.415Z",
+  "overview": {
+    "points": [
+      {
+        "text": "The Supreme Court lifted a lower-court order blocking border wall construction in Texas’s Big Bend region, allowing work to resume.",
+        "stories": [
+          7
+        ]
+      },
+      {
+        "text": "Donald Trump said his immigration policy may have been too tough and that deportations cost him support among some voters.",
+        "stories": [
+          9
+        ]
+      },
+      {
+        "text": "Nvidia will investigate CEO Jensen Huang’s relationship with a business executive suspected by US intelligence of gathering information for China; Huang said he would cooperate.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Delhi’s air quality reached severe levels after Diwali celebrations, with reports citing fireworks and winter smog.",
+        "stories": [
+          15
+        ]
+      },
+      {
+        "text": "Anthropic introduced updated Claude Fable and Mythos models, citing improvements in coding, reasoning and vision, faster responses and a lower price for Fable.",
+        "stories": [
+          3
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_5c80a23c528a2133",
+      "title": "Gunn and Safran Leave DC Studios; Jeremy Latcham to Lead",
+      "headline": "James Gunn and Peter Safran Are Exiting DC Studios",
+      "label": [
+        "gunn",
+        "james",
+        "dc",
+        "safran",
+        "studios",
+        "peter"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_e55e9b25ffa5c7ac",
+      "entities": [
+        "James Gunn",
+        "Peter Safran Are Exiting",
+        "DC Studios",
+        "Peter Safran Out",
+        "Jeremy Latcham Named"
+      ],
+      "article_count": 42,
+      "source_count": 25,
+      "articles": [
+        {
+          "title": "James Gunn and Peter Safran Are Exiting DC Studios",
+          "url": "https://gizmodo.com/james-gunn-and-peter-safran-are-exiting-dc-studios-2000837178",
+          "source": "Gizmodo",
+          "published_at": "2026-11-09T17:32:55.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/10/James-Gunn-Peter-Safran-Superman-1280x853.jpg",
+          "description": "Former Marvel executive Jeremy Latcham will be taking over the comic brand."
+        },
+        {
+          "title": "James Gunn &#038; Peter Safran Out at DC Studios; Jeremy Latcham Named",
+          "url": "https://bleedingcool.com/tv/james-gunn-jeremy-latcham-named",
+          "source": "Movies",
+          "published_at": "2026-11-09T17:31:09.000Z",
+          "description": "James Gunn and Peter Safran are stepping down as co-presidents of DC Studios, with Marvel Studios vet Jeremy Latcham set to lead the studio."
+        },
+        {
+          "title": "James Gunn and Peter Safran Are Out as Heads of DC Studios",
+          "url": "https://news.google.com/rss/articles/cbmijwfbvv95cuxpni12r1jozjvpqke5rjbqbvhlnui4wnbtnktremy0ulvsnzzlmkzytmfvyuo3em9csgpsnl91ug05wdhzq3k1ammtughtbuztohrzngz2y3fumglus0rru2hzqxyyykitqwltshhnaetsn1pkczcwutjgzu9qtlh6yvrfvvlfdthuqvjwuhnjcw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-09T20:28:22.000Z",
+          "description": "James Gunn and Peter Safran Are Out as Heads of DC Studios The New York Times James Gunn and Peter Safran Out at DC Studios, Jeremy Latcham Named New President and Chief Creative Officer IMDb DC in Flux: What Happens to James Gunn’s Batman, Superman and Other Heroes After Shocking Exit? Yahoo Skyda…"
+        },
+        {
+          "title": "James Gunn and Peter Safran No Longer in Charge of DC Studios",
+          "url": "https://consequence.net/2026/11/dc-studios-james-gunn-peter-safran-exit",
+          "source": "Consequence",
+          "published_at": "2026-11-09T17:52:01.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/11/dc-studios-james-gunn-peter-safran.jpg?quality=80",
+          "description": "Gunn expressed his excitement for escaping the corporate aspects of the job on Instagram. James Gunn and Peter Safran No Longer in Charge of DC Studios Liz Shannon Miller"
+        },
+        {
+          "title": "All About Jeremy Latchman, Who Is Replacing James Gunn And Peter Safran At DC Studios",
+          "url": "https://www.forbes.com/sites/timlammers/2026/11/09/all-about-jeremy-latchman-who-is-replacing-dc-studios-bosses-james-gunn-and-peter-safran",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-09T19:45:18.000Z",
+          "description": "Learn all about Jeremy Latchman, who is taking over DC Studios after James Gunn and Peter Safrans step down as co-CEOs from the Warner Bros. superhero division."
+        }
+      ],
+      "summary": "James Gunn and Peter Safran are stepping down from their leadership roles at DC Studios. Former Marvel executive Jeremy Latcham is set to take over."
+    },
+    {
+      "id": "topic_b6fdce6223a2f1b6",
+      "title": "Warner Backs Khawaja’s Claims About Australia’s Ball-Tampering Scandal",
+      "headline": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+      "label": [
+        "khawaja",
+        "sandpapergate",
+        "warner",
+        "accurate",
+        "usman",
+        "david"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_9404b1a7780969b7",
+      "entities": [
+        "Usman Khawaja",
+        "Sandpapergate",
+        "David Warner",
+        "Warner",
+        "Khawaja"
+      ],
+      "article_count": 16,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+          "url": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-09T10:38:10.000Z",
+          "description": "'We're not here to point fingers and we're not opening old wounds,' Australia's Warner said of himself and Khawaja."
+        },
+        {
+          "title": "David Warner says Usman Khawaja ‘Sandpapergate’ claims ‘100 percent accurate’",
+          "url": "https://www.thesouthafrican.com/sport/cricket/david-warner-says-usman-khawaja-sandpapergate-claims-100-percent-accurate",
+          "source": "The South African",
+          "published_at": "2026-11-09T12:07:30.000Z",
+          "description": "David Warner has backed former team-mate Usman Khawaja's claims that the entire Australian team was in on the 2018 \"Sandpapergate\" scandal."
+        },
+        {
+          "title": "'It's 100% accurate': Warner backs Khawaja's 'Sandpapergate' claims",
+          "url": "https://www.smh.com.au/sport/its-100-percent-accurate-warner-backs-khawajas-sandpapergate-claims-20261109-p61cq1.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-09T07:18:32.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e149f257c74095cb71eb3fcf43d3ec2c352ac9bf",
+          "description": "David Warner has thanked former teammate Usman Khawaja for telling 'the truth' about the ball-tampering scandal in Cape Town."
+        },
+        {
+          "title": "'100% accurate' - Warner throws his support behind Khawaja on sandpapergate revelations",
+          "url": "https://www.cricinfo.com/ci/content/story/1561973.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-11-09T08:14:27.000Z",
+          "description": "\"We remain comfortable with the findings of our integrity process,\" Cricket Australia says about its investigation into the 2018 ball-tampering scandal"
+        },
+        {
+          "title": "Khawaja’s ‘sandpapergate’ revelations",
+          "url": "http://www.bbc.co.uk/programmes/p0pm6468",
+          "source": "Test Match Special",
+          "published_at": "2026-11-09T22:17:00.000Z",
+          "description": "Usman Khawaja has claimed the entire Australian team knew about the use of sandpaper to tamper with the ball during their 2018 test match against South Africa in Cape Town. He also claims the team used sandpaper in the test match before that too. This was all revealed in extracts from his new autob…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "David Warner Backs Usman Khawaja Over Sandpapergate Revelations | WION Sports News",
+          "url": "https://www.youtube.com/watch?v=6FPHsJ-OZH8",
+          "video_id": "6FPHsJ-OZH8",
+          "channel": "WION",
+          "published_at": "2026-11-09T14:31:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/6FPHsJ-OZH8/hqdefault.jpg"
+        }
+      ],
+      "summary": "David Warner said Usman Khawaja’s claims about Australia’s 2018 ball-tampering scandal were accurate. Khawaja has said the whole team knew about the use of sandpaper during the Test against South Africa."
+    },
+    {
+      "id": "topic_d60a3c81f608dd70",
+      "title": "Anthropic Releases Claude Fable 5.2 and Mythos 5.2",
+      "headline": "Claude Fable 5.2 and Mythos 5.2",
+      "label": [
+        "fable",
+        "claude",
+        "mythos",
+        "anthropic",
+        "models",
+        "ipo"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_9d41c13ceaa726e5",
+      "entities": [
+        "Claude Fable",
+        "Mythos",
+        "Anthropic Launches New Claude",
+        "Fable",
+        "Models"
+      ],
+      "article_count": 23,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Hacker News: Newest",
+          "published_at": "2026-11-09T18:56:29.000Z",
+          "description": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 269 # Comments: 84"
+        },
+        {
+          "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "published_at": "2026-11-09T20:20:00.000Z",
+          "description": "Anthropic has released Claude Mythos 5.2 and Fable 5.2 with \"improvements in areas like coding, reasoning, and vision,\" while cutting Fable's input price and claiming 30% faster responses. TechCrunch reports: It's Anthropic's first model release since the arrival of a third-party report from the as…"
+        },
+        {
+          "title": "Anthropic introduces Claude Fable 5.2, Mythos 5.2",
+          "url": "https://sdtimes.com/ai/anthropic-introduces-claude-fable-5-2-mythos-5-2",
+          "source": "SD Times",
+          "published_at": "2026-11-09T19:57:55.000Z",
+          "description": "Claude Fable 5.2 and Claude Mythos 5.2, introduced today by Anthropic, show improvements in areas like coding, reasoning, and vision, and generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1. Claude Fable 5.2 is available today on all platforms. For most coding and knowledg…"
+        },
+        {
+          "title": "Anthropic Launches New Models Ahead Of IPO: Claude Fable 5.2, Mythos 5.2",
+          "url": "https://www.ndtv.com/world-news/anthropic-launches-powerful-new-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-12305314",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T19:09:52.000Z",
+          "description": "The new models, Fable 5.2 and Mythos 5.2, can perform up to 30 percent faster than previous versions, particularly for complex tasks like coding, while costing 20 percent less, the company said."
+        },
+        {
+          "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+          "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+          "source": "The Next Web",
+          "published_at": "2026-11-09T19:22:39.000Z",
+          "image": "https://media.thenextweb.com/2026/11/claude-fable-mythos-5-2-announcement-graphic.avif",
+          "description": "Anthropic has released Claude Fable 5.2 and Claude Mythos 5.2, the company announced on Monday. They are new versions of its most powerful AI models. Both are faster than the 5.1 versions from September, and Fable is cheaper. The launch comes as Anthropic nears its stock market listing, which could…"
+        }
+      ],
+      "summary": "Anthropic introduced new versions of its Claude Fable and Mythos models, citing improvements in coding, reasoning and vision. The company said the models can respond up to 30% faster and lowered Fable’s price."
+    },
+    {
+      "id": "topic_76a036d15efc895f",
+      "title": "Nvidia to Investigate CEO Jensen Huang’s Relationship With Suspected Chinese Spy",
+      "headline": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy",
+      "label": [
+        "huang",
+        "jensen",
+        "nvidia",
+        "spy",
+        "chinese",
+        "ceo"
+      ],
+      "category": "trending",
+      "section": "business",
+      "theme": "theme_b013967ac163f0e7",
+      "entities": [
+        "Nvidia CEO Jensen Huang",
+        "Chinese",
+        "Know About Nvidia CEO",
+        "Jensen Huang",
+        "Affair With Suspected Chinese"
+      ],
+      "article_count": 109,
+      "source_count": 60,
+      "articles": [
+        {
+          "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy",
+          "url": "https://mashable.com/tech/nvidia-ceo-jensen-huang-affair-chinese-spy-investigation",
+          "source": "Mashable",
+          "published_at": "2026-11-09T07:49:54.000Z",
+          "description": "Nvidia CEO Jensen Huang has admitted to cheating on his wife with a suspected Chinese spy, prompting an independent investigation."
+        },
+        {
+          "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/what-to-know-about-nvidia-ceo-jensen-huang-s-affair-with-suspected-chinese-spy",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-11-09T09:18:40.000Z",
+          "description": "Nvidia Corp., the world’s second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis like none other in its three-decade history. On Nov. 8, Chief Executive Officer Jensen Huang admitted he had been unfaithful in his marriage, effectively confirming…"
+        },
+        {
+          "title": "Nvidia to probe Jensen Huang’s affair with alleged Chinese spy",
+          "url": "https://www.siliconrepublic.com/business/nvidia-to-probe-jensen-huangs-affair-with-alleged-chinese-spy",
+          "source": "Silicon Republic",
+          "published_at": "2026-11-09T09:01:04.000Z",
+          "description": "Jensen Huang said he would fully cooperate with the investigation. Read more: Nvidia to probe Jensen Huang’s affair with alleged Chinese spy"
+        },
+        {
+          "title": "What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal",
+          "url": "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china",
+          "source": "Foreign Policy",
+          "published_at": "2026-11-09T21:57:16.000Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2301328074.jpg",
+          "description": "Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security."
+        },
+        {
+          "title": "Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
+          "url": "https://www.ndtv.com/world-news/nvidia-launches-probe-into-ceo-jensen-huangs-affair-with-suspected-chinese-spy-12301484",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T01:26:49.000Z",
+          "description": "The announcement came after Huang acknowledged to the board that he had been intimate with a business executive whom US intelligence determined was gathering information for China."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia CEO Jensen Huang?",
+          "url": "https://www.youtube.com/watch?v=V-e88b5nT0g",
+          "video_id": "V-e88b5nT0g",
+          "channel": "CNBC Television",
+          "published_at": "2026-11-09T22:24:27.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/V-e88b5nT0g/hqdefault.jpg"
+        },
+        {
+          "title": "Trump comments on Nvidia CEO Jensen Huang's affair with alleged Chinese spy",
+          "url": "https://www.youtube.com/shorts/FAwWlnh5sDw",
+          "video_id": "FAwWlnh5sDw",
+          "channel": "Yahoo Finance",
+          "published_at": "2026-11-09T13:51:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/FAwWlnh5sDw/hqdefault.jpg"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+          "url": "https://www.youtube.com/watch?v=R5U0PpnS35I",
+          "video_id": "R5U0PpnS35I",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-11-09T10:45:04.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/R5U0PpnS35I/hqdefault.jpg"
+        }
+      ],
+      "summary": "Nvidia is launching an investigation into CEO Jensen Huang’s relationship with a business executive suspected by US intelligence of gathering information for China. Huang has said he will cooperate with the investigation."
+    },
+    {
+      "id": "topic_7d49c6ccd4f6c8b1",
+      "title": "M. John Harrison Wins 2026 Booker Prize for ‘The End of Everything’",
+      "headline": "M. John Harrison Wins The 2026 Booker Prize With ‘The End Of Everything’",
+      "label": [
+        "booker",
+        "prize",
+        "harrison",
+        "john",
+        "everything",
+        "end"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_de0af05ee1b9ba97",
+      "entities": [
+        "John Harrison Wins The",
+        "Booker Prize With",
+        "The End Of Everything",
+        "John Harrison",
+        "The End"
+      ],
+      "article_count": 22,
+      "source_count": 22,
+      "articles": [
+        {
+          "title": "M. John Harrison Wins The 2026 Booker Prize With ‘The End Of Everything’",
+          "url": "https://deadline.com/2026/11/m-john-harrison-wins-the-booker-prize-the-end-of-everything-1237217813",
+          "source": "Deadline",
+          "published_at": "2026-11-09T23:01:10.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/booker.jpg",
+          "description": "M. John Harrison has won the prestigious Booker Prize for his novel ‘The End Of Everything’. The book follows a beachcomber living on the English coast after a disaster has struck. He finds a mysterious object in the sea and brings it inland. It is the first sci-fi book to land the Booker. At 81, […"
+        },
+        {
+          "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
+          "url": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+          "source": "NYT > Books",
+          "published_at": "2026-11-09T22:14:30.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09tbr-booker-prize-flcv/09tbr-booker-prize-flcv-mediumSquareAt3X.jpg",
+          "description": "M. John Harrison’s dystopian tale “The End of Everything” beat out higher profile books by Marlon James, Elizabeth Strout and Douglas Stuart."
+        },
+        {
+          "title": "UK Author M. John Harrison Wins 2026 Booker Prize For 'The End Of Everything'",
+          "url": "https://www.ndtv.com/world-news/uk-author-m-john-harrison-wins-2026-booker-prize-for-the-end-of-everything-12305682",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T23:41:26.000Z",
+          "description": "UK author M. John Harrison, 81, became the oldest winner of the award, which comes with a $67,000 prize and a boost in sales and profile for the winner."
+        },
+        {
+          "title": "M. John Harrison’s The End of Everything has won the 2026 Booker Prize.",
+          "url": "https://lithub.com/m-john-harrisons-the-end-of-everything-has-won-the-2026-booker-prize",
+          "source": "Literary Hub",
+          "published_at": "2026-11-09T22:16:44.000Z",
+          "description": "Today, at a ceremony in London, M. John Harrison was awarded the 2026 Booker Prize for his novel, The End of Everything. “It’s a book that turns you upside down, raises a wry smile—and surprisingly, given the subject matter, leaves"
+        },
+        {
+          "title": "M John Harrison becomes oldest Booker Prize winner with dystopian novel The End Of Everything",
+          "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41935350.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-11-09T22:00:00.000Z",
+          "description": "With just 198 pages, his novel was the shortest book among the contenders"
+        }
+      ],
+      "summary": "British author M. John Harrison won the 2026 Booker Prize for his novel “The End of Everything,” a dystopian story set on the English coast. At 81, he is the oldest winner of the award."
+    },
+    {
+      "id": "topic_173746f99f685fab",
+      "title": "South Carolina Father Arrested After Leaving Daughter in Pokémon Card Line",
+      "headline": "South Carolina dad arrested for leaving 6-year-old in line for Pokémon cards",
+      "label": [
+        "pokémon",
+        "cards",
+        "line",
+        "leaving",
+        "old",
+        "dad"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_bca2023d6b958aae",
+      "entities": [
+        "South Carolina",
+        "Pok",
+        "Father Arrested For Leaving",
+        "Year",
+        "Old Daughter Sleeping In"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "South Carolina dad arrested for leaving 6-year-old in line for Pokémon cards",
+          "url": "https://globalnews.ca/news/12143027/south-carolina-dad-arrested-leaving-6-year-old-in-line-pokemon-cards",
+          "published_at": "2026-11-09T19:29:14.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/11/father-arrested-leaving-daugther-pokemon-target.jpg?quality=65&strip=all",
+          "description": "'According to witnesses, sometime after 1:00 a.m., Dooley gave his daughter a pillow and blanket before leaving her asleep in line,' police said."
+        },
+        {
+          "title": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards",
+          "url": "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards",
+          "source": "Nintendo Life | Latest Updates",
+          "published_at": "2026-11-09T11:00:00.000Z",
+          "description": "NL used Rage. A 35-year-old South Carolina man has been arrested and accused of leaving his 6-year-old daughter asleep while waiting in line for Pokémon cards. As reported by The Washington Post (thanks, IGN), John-Michael Dooley was waiting outside a Target store with his daughter in Charleston's…"
+        },
+        {
+          "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+          "url": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
+          "source": "IGN Articles",
+          "published_at": "2026-11-09T04:25:03.000Z"
+        },
+        {
+          "title": "South Carolina father arrested after leaving 6-year-old alone for Pokemon cards",
+          "url": "https://timesofindia.indiatimes.com/world/us/south-carolina-father-leaves-his-6-year-old-daughter-sleeping-outside-target-with-a-pillow-and-blanket-to-hold-his-place-in-a-queue-for-pokmon-cards-arrested-after-customers-alert-police/articleshow/135649371.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-11-09T06:30:55.000Z"
+        },
+        {
+          "title": "US Man Arrested For Leaving 6-Year-Old Daughter Asleep In Line For Pokemon Cards",
+          "url": "https://www.ndtv.com/world-news/us-man-arrested-for-leaving-6-year-old-daughter-asleep-in-line-for-pokemon-cards-12301924",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T04:35:51.000Z",
+          "description": "The man was arrested on charges of unlawful conduct toward a child. He was booked into a local detention centre and was later released on a $40,000 bond."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Dad arrested after allegedly leaving 6-year-old daughter in line for Pokémon cards",
+          "url": "https://www.youtube.com/shorts/if1-wvfHfA4",
+          "video_id": "if1-wvfHfA4",
+          "channel": "ABC News",
+          "published_at": "2026-11-09T19:56:10.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/if1-wvfHfA4/hqdefault.jpg"
+        },
+        {
+          "title": "Father arrested after allegedly leaving sleeping daughter in line for Pokémon cards",
+          "url": "https://www.youtube.com/shorts/OPoir4k1xRk",
+          "video_id": "OPoir4k1xRk",
+          "channel": "CNN",
+          "published_at": "2026-11-09T16:10:39.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/OPoir4k1xRk/hqdefault.jpg"
+        }
+      ],
+      "summary": "A South Carolina man was arrested after allegedly leaving his six-year-old daughter asleep in line for Pokémon cards. Police said witnesses saw him leave her with a pillow and blanket."
+    },
+    {
+      "id": "topic_d4ed8b2095f26bca",
+      "title": "Supreme Court Allows Border Wall Construction in Texas’s Big Bend Region",
+      "headline": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+      "label": [
+        "supreme",
+        "border",
+        "court",
+        "wall",
+        "bend",
+        "allows"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_cd946d105e442be1",
+      "entities": [
+        "Supreme Court Allows Construction",
+        "Trump",
+        "Border Wall",
+        "Big Bend",
+        "Supreme Court"
+      ],
+      "article_count": 20,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-11-09T20:12:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00dc-scotus-bigbend-mtfb/00dc-scotus-bigbend-mtfb-mediumSquareAt3X.jpg",
+          "description": "The administration had asked the court to permit construction of a border wall in southwestern Texas, including areas within a national park."
+        },
+        {
+          "title": "Supreme Court allows border wall construction in Big Bend region",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-09T20:16:44.000Z",
+          "description": "The Supreme Court agreed to lift a district court order that temporarily stopped construction of the border wall and other infrastructure in the Big Bend sector."
+        },
+        {
+          "title": "Supreme Court Allows Trump’s Border Wall in Texas",
+          "url": "https://politicalwire.com/2026/11/09/supreme-court-allows-trumps-border-wall-in-texas",
+          "source": "Political Wire",
+          "published_at": "2026-11-09T20:38:28.000Z",
+          "description": "“The Supreme Court on Monday cleared the way for construction to resume on one of the longest and most controversial sections of President Donald Trump’s security project along the Mexican border,” the Washington Post reports. “The more than 500-mile stretch of road, cameras, vehicle barriers and s…"
+        },
+        {
+          "title": "US Supreme Court allows Trump border wall in Texas",
+          "url": "https://www.perthnow.com.au/news/politics/us-supreme-court-allows-trump-border-wall-in-texas-c-23138611",
+          "source": "PerthNow",
+          "published_at": "2026-11-09T21:32:00.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23138611/503e6941eb5ce5bb404f1913dc66559d6e9c4495-16x9-x0y0w1280h720.jpg",
+          "description": "The US Supreme Court is allowing the Trump administration to resume construction of a border wall in the Big Bend region of Texas."
+        },
+        {
+          "title": "US Supreme Court Allows Trump To Resume Border Wall Construction In Texas",
+          "url": "https://www.ndtv.com/world-news/us-supreme-court-allows-trump-to-resume-border-wall-construction-in-big-bend-park-in-texas-12305596",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T22:16:42.000Z",
+          "description": "Donald Trump has long touted building or reinforcing barriers along the US-Mexico border as a signature part of his sweeping restrictions on immigration."
+        }
+      ],
+      "videos": [
+        {
+          "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+          "url": "https://www.youtube.com/watch?v=_-rThSlvGJc",
+          "video_id": "_-rThSlvGJc",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-11-09T23:38:06.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_-rThSlvGJc/hqdefault.jpg"
+        }
+      ],
+      "summary": "The US Supreme Court lifted a lower-court order that had temporarily blocked border wall and infrastructure construction in the Big Bend region of Texas, allowing work to resume."
+    },
+    {
+      "id": "topic_342c90da1d78e01d",
+      "title": "Judge Sets June 2028 Trial Date in Charlie Kirk Killing",
+      "headline": "Judge sets trial date for Charlie Kirk's accused killer",
+      "label": [
+        "date",
+        "trial",
+        "charlie",
+        "kirk",
+        "judge",
+        "sets"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_3a27a720ac1e8fb1",
+      "entities": [
+        "Judge",
+        "Charlie Kirk",
+        "Utah",
+        "Reuters",
+        "CNN"
+      ],
+      "article_count": 11,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Judge sets trial date for Charlie Kirk's accused killer",
+          "url": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-murder-trial-date",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-09T22:05:53.000Z",
+          "description": "Tyler Robinson, 23, is set to stand trial on a charge of aggravated murder, which could see him face the death penalty"
+        },
+        {
+          "title": "Utah judge sets 2028 trial date for Charlie Kirk killing (Reuters)",
+          "url": "https://www.memeorandum.com/261109/p88",
+          "source": "memeorandum",
+          "published_at": "2026-11-09T21:35:01.000Z",
+          "description": "Reuters: Utah judge sets 2028 trial date for Charlie Kirk killing — A Utah judge on Monday set a June 2028 trial date for Tyler Robinson, the man accused of murdering prominent right-wing activist Charlie Kirk last year. — Robinson, 23, has pleaded not guilty to seven counts, including aggravated m…"
+        },
+        {
+          "title": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028",
+          "url": "https://news.google.com/rss/articles/cbmidkfvx3lxtfbicutbz1zznhfbc3vrteq2czdndvd6z1fls0tus2liym5syuoyt0r0u2fnc0p4ohdpqthbbglsuwl1d3bonzjxm1vjy2fpvu1kveldzw1drtjowvrhyzdkefh3wflztvrhcglzuhdkuhv6x3zsc1e",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-09T20:36:00.000Z",
+          "description": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028 CNN MICHAEL RUIZ: Tyler Robinson judge to give long-awaited trial date ruling in assassination of Charlie Kirk Fox News Erika Kirk on Tyler Robinson’s murder trial date: ‘Disappointing’ The Hill Judge sets 2028 trial date for m…"
+        },
+        {
+          "title": "A Utah judge is expected to set a trial date in Charlie Kirk's killing",
+          "url": "https://abcnews.com/politics/wirestory/utah-judge-expected-set-trial-date-charlie-kirks-137966109",
+          "source": "ABC News: Politics",
+          "published_at": "2026-11-09T09:07:57.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_1ca0cee0ac75f872037752c2f601b54b_4x3_384.jpg",
+          "description": "A Utah judge is expected to set the trial date for the man accused of assassinating conservative activist Charlie Kirk"
+        },
+        {
+          "title": "US Court Sets 2028 Trial Date For Charlie Kirk Assassination",
+          "url": "https://www.ndtv.com/world-news/us-court-sets-2028-trial-date-for-charlie-kirk-assassination-12305512",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T21:22:15.000Z",
+          "description": "Robinson, 23, has pleaded not guilty to seven counts, including aggravated murder, in the shooting of Kirk as the conservative held one of his trademark debates at Utah Valley University in Orem."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Burden of Proof: Monday, November 9, 2026",
+          "url": "https://www.youtube.com/watch?v=Tn4P_8CWQKs",
+          "video_id": "Tn4P_8CWQKs",
+          "channel": "ABC News",
+          "published_at": "2026-11-09T23:35:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tn4P_8CWQKs/hqdefault.jpg"
+        },
+        {
+          "title": "BREAKING: Judge sets trial date for Charlie Kirk murder suspect",
+          "url": "https://www.youtube.com/watch?v=4tbZ6DwAR40",
+          "video_id": "4tbZ6DwAR40",
+          "channel": "Fox News",
+          "published_at": "2026-11-09T21:11:51.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/4tbZ6DwAR40/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: Judge sets a trial date for Tyler Robinson in Charlie Kirk’s killing",
+          "url": "https://www.youtube.com/watch?v=EJH1Gc_dURs",
+          "video_id": "EJH1Gc_dURs",
+          "channel": "Associated Press",
+          "published_at": "2026-11-09T17:51:38.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/EJH1Gc_dURs/hqdefault.jpg"
+        }
+      ],
+      "summary": "A Utah judge set a June 2028 trial date for Tyler Robinson, who is accused of killing conservative activist Charlie Kirk. Robinson has pleaded not guilty to charges including aggravated murder."
+    },
+    {
+      "id": "topic_b9567775d7ff3826",
+      "title": "Trump Says Immigration Policy May Have Been Too Tough for Voters",
+      "headline": "'Immigration policy too tough': 5 key takeaways from Trump's 60 minutes interview",
+      "label": [
+        "immigration",
+        "trump",
+        "policy",
+        "interview",
+        "tough",
+        "takeaways"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_1e2248aac16848ba",
+      "entities": [
+        "Immigration",
+        "Trump",
+        "Minutes",
+        "Why GOP",
+        "CBS News"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "'Immigration policy too tough': 5 key takeaways from Trump's 60 minutes interview",
+          "url": "https://timesofindia.indiatimes.com/world/us/immigration-policy-too-tough-5-key-takeaways-from-trumps-60-minutes-interview-after-midterm-setback/articleshow/135668066.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-09T02:02:16.000Z",
+          "description": "Donald Trump admitted in a recent interview that the Iran war and deportation policies affected Republican midterm results. He acknowledged that while strong border security was supported, harsh deportation measures raised concerns among voters. Trump expressed a willingness to negotiate with Democ…"
+        },
+        {
+          "title": "Trump says his immigration policy ‘too tough’ for voters",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-09T08:35:05.000Z",
+          "description": "Trump concedes some voters were unhappy with his administration's controversial deportation drive."
+        },
+        {
+          "title": "Trump says his immigration policy was ‘too tough’ in post midterm interview",
+          "url": "https://globalnews.ca/news/12143248/donald-trump-immigration-60-minutes-interview",
+          "published_at": "2026-11-09T21:33:11.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/11/us-president-donald-trump.jpg?quality=65&strip=all",
+          "description": "Trump, whose administration implemented a nationwide crackdown on illegal immigration this year, acknowledged that he lost the favour of some because of the policy."
+        },
+        {
+          "title": "Trump says his immigration policy 'too tough' after midterm drubbing",
+          "url": "https://www.thehindubusinessline.com/news/world/trump-says-his-immigration-policy-too-tough-after-midterm-drubbing/article71681372.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-09T04:16:06.000Z",
+          "description": "“I think it was too tough. I think it might be too tough,” Trump told CBS' 60 Minutes in response to a question on his administration's deportation policy"
+        },
+        {
+          "title": "10 takeaways from Trump's 60 Minutes interview: Why GOP lost the midterms, what went wrong on immigration and more",
+          "url": "https://news.google.com/rss/articles/cbmif0fvx3lxte03s093au9yc0vqzg9yx0eycgzevwzzwtfmmunhzxkzne5mcnjmbu9szhz1v2jpdes0rnb3nvjid2e4mwwxnmwxq3y5dwv4ohzmchbez1hpakewuuzlufewngqxys1bqm1iwhvxsmzqoho0swlzdwzpwkxrszi3exm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-09T00:00:00.000Z",
+          "description": "10 takeaways from Trump's 60 Minutes interview: Why GOP lost the midterms, what went wrong on immigration and more CBS News 'Too tough': Trump floats immigration deal, says issue 'hurt' him USA Today ‘60 Minutes’ takeaways: Trump calls his deportation policy ‘too tough’ The Washington Post On ’60 M…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump admits immigration policy was 'too tough'",
+          "url": "https://www.youtube.com/watch?v=HDd-EHHRu98",
+          "video_id": "HDd-EHHRu98",
+          "channel": "CNN",
+          "published_at": "2026-11-09T15:01:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/HDd-EHHRu98/hqdefault.jpg"
+        },
+        {
+          "title": "Trump told \"60 Minutes\" his immigration policy was too tough. Then he promoted Stephen Miller.",
+          "url": "https://www.youtube.com/watch?v=f-DcS9oWvdM",
+          "video_id": "f-DcS9oWvdM",
+          "channel": "CBS News",
+          "published_at": "2026-11-09T14:06:09.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/f-DcS9oWvdM/hqdefault.jpg"
+        }
+      ],
+      "summary": "In a post-midterm interview, Donald Trump said his immigration policy may have been too tough and acknowledged that the administration’s deportation approach had cost him support among some voters."
+    },
+    {
+      "id": "topic_59807d7afc6b8d16",
+      "title": "Philippines to Deploy Nearly 20,000 Police for ASEAN Summit",
+      "headline": "Over 19,800 cops to secure ASEAN Summit 2026",
+      "label": [
+        "asean",
+        "summit",
+        "security",
+        "pnp",
+        "cops",
+        "secure"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_25e52cf600faa9bb",
+      "entities": [
+        "ASEAN Summit",
+        "East Asian",
+        "PNP",
+        "Asean Summit",
+        "Labor"
+      ],
+      "article_count": 10,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Over 19,800 cops to secure ASEAN Summit 2026",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1008839/over-19-800-cops-to-secure-asean-summit-2026/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-11-09T07:12:44.000Z",
+          "description": "The Philippine National Police (PNP) will deploy 19,869 police personnel to secure the 49th ASEAN Summit and Related Summits on November 16 to 18, 2026."
+        },
+        {
+          "title": "East Asian growth and the ASEAN Summit",
+          "url": "https://bworldonline.com/opinion/2026/11/09/792469/east-asian-growth-and-the-asean-summit",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-11-09T10:10:13.000Z",
+          "description": "When the Philippine Statistics Authority (PSA) released the country’s third-quarter (Q3) 2026 GDP performance, we saw our growth…"
+        },
+        {
+          "title": "PNP to deploy over 19,000 personnel for Asean Summit security",
+          "url": "https://globalnation.inquirer.net/346433/pnp-to-deploy-over-19000-personnel-for-asean-summit-security",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-09T02:22:48.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/11/nartatez1-03nov2026-620x413.jpg",
+          "description": "MANILA, Philippines — The Philippine National Police (PNP) will deploy 19,869 police personnel to secure venues, hotels and motorcade routes during the Asean Summit on Nov. 15 to 17. The police force is also stepping up intelligence monitoring and finalizing its security preparations ahead of the r…"
+        },
+        {
+          "title": "PNP readies final security measures for Asean Summit",
+          "url": "https://www.sunstar.com.ph/manila/pnp-readies-final-security-measures-for-asean-summit",
+          "source": "sunstar",
+          "published_at": "2026-11-09T03:00:25.875Z"
+        },
+        {
+          "title": "‘Who is it for?’: Labor group questions ASEAN Summit’s toll on workers",
+          "url": "https://www.philstar.com/headlines/2026/11/09/2569002/who-it-for-labor-group-questions-asean-summits-toll-workers",
+          "source": "philstar.com - RSS Headlines",
+          "published_at": "2026-11-09T08:41:00.000Z",
+          "description": "DSWD has aided 30 Pasay vendors affected by security restrictions, but group says employees of affected businesses may also be losing wages."
+        }
+      ],
+      "summary": "The Philippine National Police plans to deploy 19,869 personnel to secure the ASEAN Summit and related events in November. Security restrictions have also affected some local vendors and businesses, according to reports."
+    },
+    {
+      "id": "topic_b7b4699b66a384e6",
+      "title": "Judo Champion Teddy Riner Announces Bid for French Presidency",
+      "headline": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle française",
+      "label": [
+        "teddy",
+        "riner",
+        "candidature",
+        "présidentielle",
+        "annonce",
+        "sa"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_f0e390cee667990c",
+      "entities": [
+        "Teddy Riner",
+        "Pr",
+        "Fran",
+        "Je",
+        "Jeux"
+      ],
+      "article_count": 12,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle française",
+          "url": "https://www.dhnet.be/actu/monde/2026/11/09/le-judoka-teddy-riner-annonce-sa-candidature-a-lelection-presidentielle-francaise-dfhihx4lvvg2hotfe6wueuwtd4",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-11-09T10:58:29.000Z",
+          "description": "Le quintuple champion olympique de 37 ans l'annonce dans une vidéo postée sur ses réseaux sociaux. ..."
+        },
+        {
+          "title": "\"La résignation n'est pas une option\" : Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-11-09T10:55:03.000Z",
+          "description": "Le champion olympique de judo a annoncé lundi sur X se lancer dans la campagne présidentielle 2027."
+        },
+        {
+          "title": "Teddy Riner déclare sa candidature à l’élection présidentielle",
+          "url": "https://www.huffingtonpost.fr/politique/video/teddy-riner-declare-sa-candidature-a-l-election-presidentielle_354331.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-11-09T11:35:34.000Z",
+          "description": "La légende du sport français explique « observer la fracture sociale qui traverse le pays » et veut être le candidat qui « relève la France »."
+        },
+        {
+          "title": "Présidentielle 2027 : Teddy Riner annonce sa candidature et promet de rassembler les Français au-delà des clivages",
+          "url": "https://www.ladepeche.fr/2026/11/09/presidentielle-2027-teddy-riner-annonce-sa-candidature-13643802.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-11-09T11:11:19.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6af1a415f8d47559480579f0/standard/image.jpg?v=1",
+          "description": "Le champion olympique de judo, Teddy Riner, a annoncé ce lundi se lancer dans la course à la présidentielle de 2027."
+        },
+        {
+          "title": "De quoi la candidature Teddy Riner est-elle le nom ?",
+          "url": "https://www.politico.eu/podcast/playbook-paris-podcast/de-quoi-la-candidature-teddy-riner-est-elle-le-nom",
+          "source": "POLITICO",
+          "published_at": "2026-11-09T17:07:34.000Z",
+          "description": "Le quintuple champion olympique de judo a créé la surprise en présentant sa candidature à la présidentielle dans un entretien au Parisien. Soutiens, financements, positionnement politique, équipe : le judoka peut-il aller jusqu’au bout ? Est-il suffisamment préparé? Que révèle cette initiative sur…"
+        }
+      ],
+      "summary": "French judoka Teddy Riner announced that he will run in the 2027 presidential election. The five-time Olympic champion said he wants to bring people together and address divisions in the country."
+    },
+    {
+      "id": "topic_74bf4c93d2c7cf3c",
+      "title": "Meta Expands AI Age Checks for Teen Accounts on Instagram",
+      "headline": "Meta is expanding AI age detection for Instagram teen accounts",
+      "label": [
+        "instagram",
+        "age",
+        "teens",
+        "meta",
+        "expanding",
+        "ai"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_7cca380e8c04baa3",
+      "entities": [
+        "Meta",
+        "AI",
+        "Instagram",
+        "Teen Accounts",
+        "Meta Takes AI Age"
+      ],
+      "article_count": 10,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Meta is expanding AI age detection for Instagram teen accounts",
+          "url": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-11-09T15:58:55.000Z",
+          "description": "The company will increase its use of the tech on Facebook and Threads too."
+        },
+        {
+          "title": "Meta expands AI age checks to move more Instagram teens into Teen Accounts",
+          "url": "https://thenextweb.com/news/meta-instagram-ai-age-estimation-global",
+          "source": "The Next Web",
+          "published_at": "2026-11-09T16:49:45.000Z",
+          "image": "https://media.thenextweb.com/2026/10/meta-logo-terracotta-tile-wall-arch.avif",
+          "description": "Meta is expanding its AI age-detection technology to Instagram users worldwide, aiming to identify more teenage accounts and automatically place them under its Teen Account protections, even when users have registered as adults. The technology looks for signs that an account belongs to someone unde…"
+        },
+        {
+          "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+          "url": "https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999",
+          "source": "All News",
+          "published_at": "2026-11-09T12:18:21.000Z"
+        },
+        {
+          "title": "Instagram’s AI age detection is expanding globally",
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+          "source": "The Verge",
+          "published_at": "2026-11-09T12:00:00.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-…"
+        },
+        {
+          "title": "Meta expands Instagram’s AI age-guessing tech globally",
+          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally",
+          "source": "TechCrunch",
+          "published_at": "2026-11-09T15:32:27.000Z",
+          "description": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday."
+        }
+      ],
+      "summary": "Meta is expanding its AI age-estimation technology globally on Instagram to identify more teenage users, including those whose accounts list an adult birthday, and place them in Teen Accounts. The company also plans to use the technology on Facebook and Threads."
+    },
+    {
+      "id": "topic_6fa70ecc95bb1335",
+      "title": "Grand Theft Auto VI Festival to Feature Major Music Acts",
+      "headline": "Grand Theft Auto VI: The Festival to Feature Travis Scott, Cardi B, and Justice",
+      "label": [
+        "theft",
+        "grand",
+        "auto",
+        "vi",
+        "cardi",
+        "travis"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_a5f9a644e0d5950c",
+      "entities": [
+        "Grand Theft Auto VI",
+        "The Festival",
+        "Feature Travis Scott",
+        "Cardi",
+        "Justice"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Grand Theft Auto VI: The Festival to Feature Travis Scott, Cardi B, and Justice",
+          "url": "https://consequence.net/2026/11/grand-theft-auto-vi-the-festival-travis-scott-cardi-b-and-justice",
+          "source": "Consequence",
+          "published_at": "2026-11-09T15:45:11.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-The-Festival-Travis-Scott-Cardi-B-Justice.jpg?quality=80",
+          "description": "The one-day event will land in Miami on November 21st in celebration of Grand Theft Auto's release. Grand Theft Auto VI: The Festival to Feature Travis Scott, Cardi B, and Justice Paolo Ragusa"
+        },
+        {
+          "title": "Five things to know about 'Grand Theft Auto'",
+          "url": "https://tribune.com.pk/story/2639474/five-things-to-know-about-grand-theft-auto",
+          "source": "express tribune",
+          "published_at": "2026-11-09T14:10:25.000Z",
+          "description": "GTA has become a cultural institution despite criticism, with its content spawning countless online memes"
+        },
+        {
+          "title": "Cardi B, Travis Scott, Don Toliver & More to Perform at ‘Grand Theft Auto VI’ Festival",
+          "url": "https://www.billboard.com/music/rb-hip-hop/gta-6-festival-lineup-cardi-b-travis-scott-1236378019",
+          "source": "Billboard",
+          "published_at": "2026-11-09T19:06:15.000Z",
+          "description": "Metro Boomin, Kodak Black, Rauw Alejandro and CA7RIEL are also on the bill for the Miami event."
+        },
+        {
+          "title": "It's been a helluva ride: The 29-year journey of Grand Theft Auto",
+          "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41935290.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-11-09T18:00:00.000Z",
+          "description": "As the sixth iteration of the controversial smash-hit game is released next week, Noel Campion explains how it became a gaming juggernaut"
+        },
+        {
+          "title": "Travis Scott, Cardi B, and Justice Lead One-Off ‘Grand Theft Auto 6’ Music Festival",
+          "url": "https://www.rollingstone.com/music/music-news/grand-theft-auto-6-music-festival-1235654527",
+          "source": "Rolling Stone",
+          "published_at": "2026-11-09T15:51:37.000Z",
+          "description": "Taking place on Nov. 21 in Miami, the lineup also boasts performances from Florida artists Kodak Black and DJ Nick León"
+        }
+      ],
+      "summary": "A one-day music festival in Miami on November 21 will celebrate the release of Grand Theft Auto VI. The announced performers include Travis Scott, Cardi B, Justice and other artists."
+    },
+    {
+      "id": "topic_15a18fe27bf0ab29",
+      "title": "Biden to Limit Memoir Promotion Because of Cancer",
+      "headline": "Joe Biden says cancer slowed him down, limiting memoir promotion tour",
+      "label": [
+        "biden",
+        "cancer",
+        "memoir",
+        "promotion",
+        "limit",
+        "joe"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_7e48187e04d2d495",
+      "entities": [
+        "Joe Biden",
+        "Limit Memoir Promotion Due",
+        "Cancer Battle",
+        "The Words Speak",
+        "White House"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Joe Biden says cancer slowed him down, limiting memoir promotion tour",
+          "url": "https://www.foxnews.com/politics/joe-biden-says-cancer-slowed-him-down-limiting-memoir-promotion-tour",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-11-09T00:29:19.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/joe-biden-fundraising-columbia-fox-news-001.jpeg?ve=1&tl=1",
+          "description": "Former President Joe Biden revealed his prostate cancer battle will limit promotional events for his presidential memoir, \"Promise Me, America,\" out Nov. 17."
+        },
+        {
+          "title": "Joe Biden to Limit Memoir Promotion Due to Cancer Battle: ‘The Words Speak for Themselves’",
+          "url": "https://www.rollingstone.com/politics/politics-news/joe-biden-memoir-promotion-cancer-battle-limit-1235654508",
+          "source": "Rolling Stone",
+          "published_at": "2026-11-09T08:33:39.000Z",
+          "description": "The former president is set to release a new book, Promise Me, America, about his time in office on Nov. 17"
+        },
+        {
+          "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
+          "source": "The Guardian",
+          "published_at": "2026-11-09T14:18:00.000Z",
+          "image": "https://i.guim.co.uk/img/media/a9d2e705b3334bda29e063201f3deddd0609de89/395_0_4972_3977/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=4bd317a9b5dcedf3516629539b73c8e2",
+          "description": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and more Joe Biden will undertake only limited promotion of his upcoming White House memoir because of advancing cancer, the former president said in a social media post on Sunday night. His new b…"
+        },
+        {
+          "title": "Joe Biden Is Curtailing Promotion Of His Presidential Memoir Due To Cancer Battle",
+          "url": "https://deadline.com/2026/11/joe-biden-cancer-curtailing-book-promotion-1237216995",
+          "source": "Deadline",
+          "published_at": "2026-11-09T03:51:22.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2024/09/joe-biden-the-view.jpg",
+          "description": "Former President Joe Biden announced today that he will be limiting his promotional activities for Promise Me, America, his upcoming memoir about his time in office. “Some days are better than others,” wrote Biden on in statement posted to social media. “It hasn’t stopped me. But sometimes it slows…"
+        },
+        {
+          "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
+          "url": "https://news.google.com/rss/articles/cbmieefvx3lxtfbpqlu5udmzuwr2zvf0ruvfuevwvwnjrhdpz3j2auczykphuzblwvvpeu9ibtjrve1jaghywg1emtfftxfpdfi3d2lzatbxz3nartltyxvlsi1utejfvkxrohhxluz4ulb3yur4sm1hu3gzwvgztznndw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-09T00:35:00.000Z",
+          "description": "Joe Biden says cancer will limit him from promoting his upcoming memoir CNN Joe Biden to scale back book tour as cancer ‘slows me down’ NBC News Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’ The New York Times Joe Biden Is Curtailing Promotion Of His Presidential Memoir Due To…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Joe Biden says cancer will limit his book tour",
+          "url": "https://www.youtube.com/shorts/CH9SrV8ICPc",
+          "video_id": "CH9SrV8ICPc",
+          "channel": "CNN",
+          "published_at": "2026-11-09T08:46:25.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/CH9SrV8ICPc/hqdefault.jpg"
+        }
+      ],
+      "summary": "Former US president Joe Biden said his cancer will limit promotional events for his memoir, “Promise Me, America,” scheduled for release on November 17."
+    },
+    {
+      "id": "topic_4780956707cf8586",
+      "title": "Delhi Air Quality Reaches Severe Levels After Diwali Fireworks",
+      "headline": "India news: Delhi air quality level 'severe' after Diwali",
+      "label": [
+        "quality",
+        "delhi",
+        "air",
+        "diwali",
+        "severe",
+        "levels"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_43a3d25bc2e4f21f",
+      "entities": [
+        "India",
+        "Delhi",
+        "Diwali",
+        "Delhi Air Quality Spikes",
+        "Severe"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "India news: Delhi air quality level 'severe' after Diwali",
+          "url": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-09T07:12:00.000Z",
+          "description": "Illegal fireworks during Diwali celebrations have impacted New Delhi's air quality level. DW has the latest."
+        },
+        {
+          "title": "Delhi air quality index plunges to severe levels following Diwali fireworks",
+          "url": "https://iol.co.za/news/world/2026-11-09-delhi-air-quality-index-plunges-to-severe-levels-following-diwali-fireworks",
+          "source": "IOL > News",
+          "published_at": "2026-11-09T04:58:00.000Z",
+          "image": "https://iol-prod.appspot.com/image/d50ff015d1a0de87e61c226e1acd1295628786f6",
+          "description": "Air pollution in New Delhi surged to nearly 59 times the World Health Organization’s recommended limit after widespread Diwali fireworks severely intensified the capital's hazardous winter smog."
+        },
+        {
+          "title": "Delhi air quality deteriorates as revelers mark Diwali with illegal fireworks",
+          "url": "https://bworldonline.com/world/2026/11/09/792442/delhi-air-quality-deteriorates-as-revelers-mark-diwali-with-illegal-fireworks",
+          "source": "BusinessWorld Online",
+          "published_at": "2026-11-09T10:18:09.000Z",
+          "description": "AIR QUALITY deteriorated in India’s capital Delhi on Monday, after residents celebrating the Hindu festival of lights set…"
+        },
+        {
+          "title": "Delhi Air Quality Spikes To 'Severe' Levels Post-Diwali Despite GRAP-III Curbs",
+          "url": "https://www.ndtv.com/delhi-news/delhi-air-quality-spikes-to-severe-levels-post-diwali-despite-grap-iii-curbs-12301814",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-09T03:52:38.000Z",
+          "description": "The post-Diwali spike occurred despite the authorities invoking Stage III of GRAP on Friday"
+        },
+        {
+          "title": "Delhi's Post-Diwali Air Quality Remains Critically Polluted Over Decade",
+          "url": "https://english.pravda.ru/news/world/172086-delhi-post-diwali-air-quality-decade-critical-pollution",
+          "source": "PravdaReport",
+          "published_at": "2026-11-09T20:33:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/0/8/6/172086_amp.jpeg",
+          "description": "Delhi's air quality following Diwali celebrations has maintained a trend of critical pollution over the last decade, with temporary improvements failing to establish a systemic decline. According to the Central Pollution Control Board (CPCB), the average Air Quality Index (AQI) in the capital reach…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Delhi Pollution Crisis: Delhi's Air Quality 'Very Poor' Morning After Diwali | WION News",
+          "url": "https://www.youtube.com/watch?v=dYpp1lMG3iA",
+          "video_id": "dYpp1lMG3iA",
+          "channel": "WION",
+          "published_at": "2026-11-09T09:29:48.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/dYpp1lMG3iA/hqdefault.jpg"
+        },
+        {
+          "title": "Delhi Pollution: Delhi's air quality 'poor', with AQI at 300 on Nov 9 after Diwali",
+          "url": "https://www.youtube.com/shorts/CXZuidh4mic",
+          "video_id": "CXZuidh4mic",
+          "channel": "Business Standard",
+          "published_at": "2026-11-09T09:25:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/CXZuidh4mic/hqdefault.jpg"
+        },
+        {
+          "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+          "url": "https://www.youtube.com/shorts/USgyRe_wzSM",
+          "video_id": "USgyRe_wzSM",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-09T04:33:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/USgyRe_wzSM/hqdefault.jpg"
+        }
+      ],
+      "summary": "Air quality in Delhi deteriorated to severe levels after Diwali celebrations, with reports attributing the worsening pollution to fireworks, including illegal fireworks, amid the city’s winter smog."
+    }
+  ]
+}
