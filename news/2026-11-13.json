@@ -1,0 +1,1183 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-14T00:57:03.592Z",
+  "overview": {
+    "points": [
+      {
+        "text": "The FAA halted departing flights nationwide, citing extraordinary circumstances and safety, but reports did not detail the cause.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "A tanker struck a New Orleans river cruise ship carrying about 129 people, partially capsizing it; more than 30 people were hospitalized.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "A global disruption affected Microsoft services including Outlook, Teams, Copilot and Microsoft 365, with recovery underway and some users still experiencing problems.",
+        "stories": [
+          6
+        ]
+      },
+      {
+        "text": "Maryland Sen. Chris Van Hollen announced he would challenge Chuck Schumer for Senate Democratic leadership, becoming the first reported open challenger.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Commerce Secretary Howard Lutnick agreed to testify before the Senate Banking Committee on December 10 amid scrutiny of oversight of AI chip exports to China.",
+        "stories": [
+          7
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_75167e9fae43d60f",
+      "title": "Van Hollen to Challenge Schumer for Senate Democratic Leadership",
+      "headline": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+      "label": [
+        "hollen",
+        "van",
+        "schumer",
+        "leader",
+        "senate",
+        "majority"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_77ce17f2493a3f8a",
+      "entities": [
+        "Chris Van Hollen",
+        "Schumer",
+        "Senate",
+        "Chuck Schumer",
+        "Van Hollen"
+      ],
+      "article_count": 49,
+      "source_count": 26,
+      "articles": [
+        {
+          "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+          "url": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+          "source": "Axios",
+          "published_at": "2026-11-13T02:06:00.000Z",
+          "description": "Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly three weeks to pressure Senate Democrats before they cast secret ballots in the Dec. 1 leadership election. The attempt to oust Schumer…"
+        },
+        {
+          "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-13T02:30:07.000Z",
+          "image": "https://i.guim.co.uk/img/media/bd5948d3a86dcb725370ac7b2860e4a9b940c3e8/305_0_6133_4910/master/6133.jpg?width=140&quality=85&auto=format&fit=max&s=c54f3e3e2af0fe12644ef1779223cf30",
+          "description": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s…"
+        },
+        {
+          "title": "Van Hollen will challenge Schumer for Senate majority leader",
+          "url": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-13T02:51:51.000Z",
+          "description": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader."
+        },
+        {
+          "title": "US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+          "url": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-13T04:16:44.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/99/07/55/696x392_cmsv2_6e149067-786f-5157-875c-09c9137416da-9990755.jpg",
+          "description": "Chris Van Hollen, who has support from some of the more vocal progressives within the Democratic party, is the first to openly challenge long-term Democratic Senate leader Chuck Schumer's bid."
+        },
+        {
+          "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+          "url": "https://news.google.com/rss/articles/cbminwfbvv95cuxodvnlogzvsnvmbmrfqkzocdu0nmvswwt4u1nubhpedc1rdvo3n2cywnnvvuyxmus1dtvjm0xtzfiwmfatrhhcwwzttujxd1bwsfztmtzrzdhtodrretbebkfylxrtn1ktdtfpdzb4bhhxnlv3cnbcq2jndlaycjnsy0jbr0vmqvzwvlbxd1vzy0g3amryrmg2vfytqmrizuu",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-13T03:52:25.000Z",
+          "description": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader NPR Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer CNBC Schumer seeks to quash Democratic rebellion The Hill Chris Van Hollen launches bid to lead Democrats in US Senate Al Jazeera…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Van Hollen challenges Schumer for Senate majority leader",
+          "url": "https://www.youtube.com/shorts/31fPec8ShlU",
+          "video_id": "31fPec8ShlU",
+          "channel": "NBC News",
+          "published_at": "2026-11-13T14:40:06.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/31fPec8ShlU/hqdefault.jpg"
+        },
+        {
+          "title": "Van Hollen says he'll challenge Schumer for Senate majority leader",
+          "url": "https://www.youtube.com/watch?v=noUo1iSdBwk",
+          "video_id": "noUo1iSdBwk",
+          "channel": "CBS News",
+          "published_at": "2026-11-13T14:38:41.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/noUo1iSdBwk/hqdefault.jpg"
+        },
+        {
+          "title": "US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+          "url": "https://www.youtube.com/shorts/vG7TNQaP0hc",
+          "video_id": "vG7TNQaP0hc",
+          "channel": "euronews",
+          "published_at": "2026-11-13T11:43:50.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vG7TNQaP0hc/hqdefault.jpg"
+        }
+      ],
+      "summary": "Maryland Sen. Chris Van Hollen announced that he will challenge Chuck Schumer for the Senate Democratic leadership post. He is the first senator reported to openly challenge Schumer’s bid."
+    },
+    {
+      "id": "topic_a73a18501c82c445",
+      "title": "FAA Orders Nationwide Ground Stop for U.S. Flights",
+      "headline": "FAA Issues Nationwide Ground Stop ‘Due to Extraordinary Circumstances’",
+      "label": [
+        "ground",
+        "stop",
+        "faa",
+        "nationwide",
+        "flights",
+        "issues"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_9f8101daa3d43f07",
+      "entities": [
+        "Nationwide Ground Stop",
+        "FAA Issues Nationwide Ground",
+        "Stop",
+        "Due",
+        "Extraordinary Circumstances"
+      ],
+      "article_count": 59,
+      "source_count": 41,
+      "articles": [
+        {
+          "title": "FAA Issues Nationwide Ground Stop ‘Due to Extraordinary Circumstances’",
+          "url": "https://gizmodo.com/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-2000839944",
+          "source": "Gizmodo",
+          "published_at": "2026-11-13T21:30:59.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/11/american-and-united-airlines-planes-1280x853.jpg",
+          "description": "The exact nature of the problem hasn't been announced yet."
+        },
+        {
+          "title": "A Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-11-13T22:54:25.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13evening-nl-airports-vwbl/13evening-nl-airports-vwbl-mediumSquareAt3X.jpg",
+          "description": "Also, Russia lays out its hard-line demands. Here’s the latest at the end of Friday."
+        },
+        {
+          "title": "FAA issues nationwide ground stop for all flights due to 'extraordinary circumstances' and safety (CNN)",
+          "url": "https://www.memeorandum.com/261113/p85",
+          "source": "memeorandum",
+          "published_at": "2026-11-13T21:30:00.000Z",
+          "description": "CNN: FAA issues nationwide ground stop for all flights due to ‘extraordinary circumstances’ and safety — Federal agencies Aviation news Air travel safety — All flights in the United States are grounded until further notice, “due to extraordinary circumstances and for reasons of safety,” …"
+        },
+        {
+          "title": "FAA Issues Nationwide Ground Stop for 'Reasons of Safety'",
+          "url": "https://www.realclearpolitics.com/2026/11/13/faa_issues_nationwide_ground_stop_for_reasons_of_safety_717662.html",
+          "source": "RealClearPolitics - Homepage",
+          "published_at": "2026-11-13T21:55:50.000Z",
+          "description": "The Federal Aviation Administration said Friday that it was halting all departing flights \"due to extraordinary circumstances and for reasons of safety.\""
+        },
+        {
+          "title": "FAA orders rare nationwide ground stop at all US airports due to 'extraordinary circumstances'",
+          "url": "https://www.dailymail.com/sciencetech/article-16291415/faa-ground-stop-airports.html",
+          "source": "Home | Mail Online",
+          "published_at": "2026-11-13T21:46:19.000Z",
+          "description": "The Federal Aviation Administration has issued a nationwide ground stop on all US flights due to 'extraordinary circumstances.'"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Nationwide ground stop for all flights due to ‘extraordinary circumstances’",
+          "url": "https://www.youtube.com/shorts/iCNJUrRUHUM",
+          "video_id": "iCNJUrRUHUM",
+          "channel": "CNN",
+          "published_at": "2026-11-13T22:44:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/iCNJUrRUHUM/hqdefault.jpg"
+        },
+        {
+          "title": "BREAKING: FAA issues nationwide ground stop",
+          "url": "https://www.youtube.com/watch?v=kKyVNscddSk",
+          "video_id": "kKyVNscddSk",
+          "channel": "Fox Business",
+          "published_at": "2026-11-13T22:07:32.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/kKyVNscddSk/hqdefault.jpg"
+        },
+        {
+          "title": "Breaking News: FAA orders nationwide ground stop due to \"extraordinary circumstances\"",
+          "url": "https://www.youtube.com/watch?v=Azayi9HCQ9U",
+          "video_id": "Azayi9HCQ9U",
+          "channel": "CBS News",
+          "published_at": "2026-11-13T21:21:45.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Azayi9HCQ9U/hqdefault.jpg"
+        }
+      ],
+      "summary": "The Federal Aviation Administration halted departing flights nationwide, citing extraordinary circumstances and safety. The agency had not publicly detailed the cause in the reports."
+    },
+    {
+      "id": "topic_6720e0056d2dcfb2",
+      "title": "OpenAI Introduces ChatGPT Wallet for Agent-Assisted Purchases",
+      "headline": "OpenAI launches ChatGPT Wallet, allowing AI agents to make purchases on your behalf",
+      "label": [
+        "chatgpt",
+        "wallet",
+        "openai",
+        "agents",
+        "purchases",
+        "launches"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_6c4f3a171dec46d4",
+      "entities": [
+        "OpenAI Launches ChatGPT Wallet",
+        "OpenAI",
+        "ChatGPT Wallet",
+        "AI",
+        "ChatGPT"
+      ],
+      "article_count": 16,
+      "source_count": 16,
+      "articles": [
+        {
+          "title": "OpenAI launches ChatGPT Wallet, allowing AI agents to make purchases on your behalf",
+          "url": "https://www.neowin.net/news/openai-launches-chatgpt-wallet-allowing-ai-agents-to-make-purchases-on-your-behalf",
+          "source": "Neowin",
+          "published_at": "2026-11-13T16:22:01.000Z",
+          "description": "Built in partnership with American Express, Mastercard, and Visa, ChatGPT Wallet lets AI agents handle online checkouts without exposing sensitive card numbers. Read more..."
+        },
+        {
+          "title": "OpenAI Launches ChatGPT Wallet",
+          "url": "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet",
+          "source": "The Information",
+          "published_at": "2026-11-13T20:20:27.000Z",
+          "description": "OpenAI on Friday announced a ChatGPT digital wallet, giving the company’s “dot” assistant a new way to buy things online without directly accessing shoppers’ card details. The company partnered with card giants Visa, Mastercard and American Express on the wallet, and is rolling it out starting ..."
+        },
+        {
+          "title": "ChatGPT's New Wallet Lets AI Agents Shop For You",
+          "url": "https://news.slashdot.org/story/26/11/13/1911210/chatgpts-new-wallet-lets-ai-agents-shop-for-you",
+          "source": "Slashdot",
+          "published_at": "2026-11-13T19:12:00.000Z",
+          "description": "OpenAI has launched ChatGPT Wallet, a feature that lets its Dots AI agents help users choose products and complete purchases on their behalf. TechCrunch reports: The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mast…"
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-11-13T15:31:58.000Z",
+          "description": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards."
+        },
+        {
+          "title": "OpenAI Launches ChatGPT Wallet for Agent-Assisted Purchases",
+          "url": "https://www.unite.ai/openai-launches-chatgpt-wallet-for-agent-assisted-purchases",
+          "source": "Unite.AI",
+          "published_at": "2026-11-13T15:28:07.000Z",
+          "description": "OpenAI introduced ChatGPT Wallet on November 13, 2026, letting users approve agent-assisted purchases without exposing actual card details to businesses or agents. Built with American Express, Mastercard, and Visa, the wallet is initially rolling out through dots to US ChatGPT Pro subscribers aged…"
+        }
+      ],
+      "summary": "OpenAI announced a ChatGPT Wallet feature that lets its AI agents help users make online purchases. The service was developed with American Express, Mastercard and Visa, and is designed to keep card details from being directly exposed."
+    },
+    {
+      "id": "topic_657ef9a93a736670",
+      "title": "Rosalía Wins Major Honors at the 2026 Latin Grammys",
+      "headline": "La 'Lux' de Rosalía triunfa en el Latin Grammy 2026",
+      "label": [
+        "rosalía",
+        "latin",
+        "grammy",
+        "lux",
+        "album",
+        "medley"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_fbe85bb72fd7c",
+      "entities": [
+        "Lux",
+        "Rosal",
+        "Latin Grammy",
+        "LUX",
+        "Watch Rosal"
+      ],
+      "article_count": 11,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "La 'Lux' de Rosalía triunfa en el Latin Grammy 2026",
+          "url": "https://www.elnorte.com/la-lux-de-rosalia-triunfa-en-el-latin-grammy-2026/ar3314022",
+          "source": "ElNorte",
+          "published_at": "2026-11-13T05:20:52.000Z",
+          "description": "Rosalía ganó mejor Álbum y Canción del Año en Latin Grammy, mientras el mexicano Édgar Barrera impuso récord con 31 premios."
+        },
+        {
+          "title": "Rosalía enciende los Latin Grammy con “LUX”",
+          "url": "https://www.informador.mx/entretenimiento/musica-rosalia-enciende-los-latin-grammy-con-lux-20261113-0017.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-11-13T07:25:00.000Z",
+          "description": "La española se convirtió en la gran protagonista de la edición 27 de los premios; la ceremonia rindió homenaje a Willie Colón y José Alfredo Jiménez"
+        },
+        {
+          "title": "Watch Rosalía Perform a Lux Medley at the 2026 Latin Grammys",
+          "url": "https://pitchfork.com/story/watch-rosalia-perform-a-lux-medley-at-the-2026-latin-grammys",
+          "source": "RSS: News",
+          "published_at": "2026-11-13T02:33:11.000Z",
+          "description": "Her 2025 album is up for seven statuettes tonight"
+        },
+        {
+          "title": "Rosalía scoops historic third best album award at Latin Grammys",
+          "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
+          "source": "BBC News",
+          "published_at": "2026-11-13T11:38:54.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b59/live/d91bb2b0-df43-11f1-a48c-75dd2efdacb5.jpg",
+          "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+        },
+        {
+          "title": "The Best, Worst, and Most Surprising Moments of the Latin Grammys",
+          "url": "https://www.rollingstone.com/music/music-lists/latin-grammys-winners-recap-best-moments-1235657687",
+          "source": "Rolling Stone",
+          "published_at": "2026-11-13T19:18:42.000Z",
+          "description": "Anitta won her first trophy, Janet Jackson made a shocking appearance, and more of Latin music's biggest night"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Rosalía wins album of the year at Latin Grammys for 'Lux'",
+          "url": "https://www.youtube.com/shorts/WvOQ3ew-kgQ",
+          "video_id": "WvOQ3ew-kgQ",
+          "channel": "ABC News",
+          "published_at": "2026-11-13T17:27:08.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/WvOQ3ew-kgQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "Rosalía was a leading winner at the Latin Grammys, with reports saying her album “Lux” took Album of the Year and that she won Song of the Year. The ceremony also honored Willie Colón and José Alfredo Jiménez."
+    },
+    {
+      "id": "topic_7fa5d7f4eb707a6a",
+      "title": "Tanker Collides With Cruise Ship on Mississippi River in New Orleans",
+      "headline": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+      "label": [
+        "cruise",
+        "ship",
+        "tanker",
+        "orleans",
+        "collides",
+        "river"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_50bf7abe0054b85c",
+      "entities": [
+        "Tanker",
+        "Mississippi River",
+        "New Orleans",
+        "Mississippi",
+        "Cruise"
+      ],
+      "article_count": 24,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-13T20:31:59.000Z",
+          "image": "https://i.guim.co.uk/img/media/15e490aefffd51e4caf59503a2d86f093b1b38f4/1876_0_3786_3029/master/3786.jpg?width=140&quality=85&auto=format&fit=max&s=6fb24493211f51da56144aff9d5cf481",
+          "description": "Large emergency response underway to rescue people from the water, with overnight cruise ship on its side New Orleans river collision – latest updates A tanker collided with an overnight cruise ship docked on the Mississippi River in New Orleans on Friday afternoon, prompting an emergency effort to…"
+        },
+        {
+          "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+          "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-13T21:31:00.000Z",
+          "description": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for."
+        },
+        {
+          "title": "Mississippi River cruise ship struck by tanker in New Orleans",
+          "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
+          "source": "Axios",
+          "published_at": "2026-11-13T20:39:49.000Z",
+          "description": "More than 129 people were onboard a Mississippi River cruise ship Friday when the Atlantic Asphalt tanker collided with it, according to a press release from the Port of New Orleans. The big picture: Search-and-rescue operations were ongoing Friday afternoon, but no reports of injuries were immedia…"
+        },
+        {
+          "title": "Cruise ship hit by tanker in New Orleans, passengers in water",
+          "url": "https://www.brisbanetimes.com.au/world/cruise-ship-hit-by-tanker-in-new-orleans-passengers-in-water-20261114-p61e41.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-13T21:34:48.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/552d56f162dd6f5740f1138b57c147c8ef1934d7",
+          "description": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River"
+        },
+        {
+          "title": "Tanker Collides With Cruise Ship On Mississippi River In US, Rescue Ops On",
+          "url": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-13T20:52:18.000Z",
+          "description": "A tanker struck a New Orleans river cruise with 129 passengers on board on Friday, partially submerging the boat. Rescues were underway on the Mississippi River, officials say."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Cargo ship collides with cruise ship in New Orleans. #BBCNews",
+          "url": "https://www.youtube.com/shorts/Vt0NIEF15n0",
+          "video_id": "Vt0NIEF15n0",
+          "channel": "BBC News",
+          "published_at": "2026-11-13T22:45:24.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vt0NIEF15n0/hqdefault.jpg"
+        },
+        {
+          "title": "Tanker crashes into river cruise ship in New Orleans; 130 on board",
+          "url": "https://www.youtube.com/watch?v=9fYG04EWUls",
+          "video_id": "9fYG04EWUls",
+          "channel": "CNN",
+          "published_at": "2026-11-13T21:27:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/9fYG04EWUls/hqdefault.jpg"
+        },
+        {
+          "title": "Tanker hits river cruise ship in New Orleans | Special Report",
+          "url": "https://www.youtube.com/watch?v=SMiJ5_e2BCc",
+          "video_id": "SMiJ5_e2BCc",
+          "channel": "CBS News",
+          "published_at": "2026-11-13T20:57:06.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/SMiJ5_e2BCc/hqdefault.jpg"
+        }
+      ],
+      "summary": "A tanker struck a river cruise ship carrying about 129 people in New Orleans, partially capsizing the vessel and sending people into the water. Rescue operations followed; reports said passengers survived, with more than 30 hospitalized."
+    },
+    {
+      "id": "topic_d1690bbe3a34cd66",
+      "title": "Microsoft Works to Restore Services After Global Outage",
+      "headline": "Microsoft’s global outage and fixes: What we know",
+      "label": [
+        "global",
+        "outage",
+        "microsoft",
+        "fixes",
+        "overnight",
+        "may"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_6a04cae0f75e9056",
+      "entities": [
+        "Microsoft",
+        "Microsoft Says Global Outage",
+        "Fix Is Taking Longer",
+        "Than Expected",
+        "Recovery Underway"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Microsoft’s global outage and fixes: What we know",
+          "url": "https://www.theage.com.au/world/north-america/microsoft-s-global-outage-and-fixes-what-we-know-20261114-p61e3v.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-11-13T22:21:22.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2207%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/7d0629dea8a08e017691dc2961263e6c83d1e697",
+          "description": "Some of Microsoft’s most popular products, including Outlook, Teams and Copilot, stopped working across the world. Burt the company says it is seeing “encouraging recovery progress”."
+        },
+        {
+          "title": "What happened overnight with the Microsoft global outage",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+          "source": "BBC News",
+          "published_at": "2026-11-13T07:18:17.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg",
+          "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+        },
+        {
+          "title": "Microsoft Says Global Outage Fix Is Taking Longer Than Expected",
+          "url": "https://internewscast.com/news/microsoft-says-global-outage-fix-is-taking-longer-than-expected",
+          "source": "Internewscast",
+          "published_at": "2026-11-13T04:54:34.000Z",
+          "description": "Internewscast Internewscast Microsoft is facing difficulty restoring a broad service disruption that has affected… This Post: Microsoft Says Global Outage Fix Is Taking Longer Than Expected first appeared on Internewscast"
+        },
+        {
+          "title": "'Recovery Underway, Some May Face Issues': Microsoft Update On Global Outage",
+          "url": "https://www.ndtv.com/world-news/recovery-being-done-some-users-may-still-face-issues-microsoft-on-global-outage-12322286",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-13T11:45:10.000Z",
+          "description": "The widespread global Microsoft outage affected Outlook, Teams, Copilot, and Microsoft 365 services and is still in the process of gradual recovery."
+        },
+        {
+          "title": "Microsoft's Global Outage May Be Worse Than Amazon's Or Crowdstrike's, Expert Says",
+          "url": "https://tech.slashdot.org/story/26/11/13/1936221/microsofts-global-outage-may-be-worse-than-amazons-or-crowdstrikes-expert-says",
+          "source": "Slashdot",
+          "published_at": "2026-11-13T20:00:00.000Z",
+          "description": "An anonymous reader quotes a report from Ars Technica: A global outage taking down a wide range of Microsoft 365 services remains ongoing Friday morning. The outage started midday Thursday, impacting users of Microsoft email, cloud, and AI services. Microsoft has documented the full list of service…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Microsoft Outage | 'Recovery Underway, Some May Face Issues': Microsoft Update On Global Outage",
+          "url": "https://www.youtube.com/watch?v=ZYy2mdO4qXc",
+          "video_id": "ZYy2mdO4qXc",
+          "channel": "NDTV",
+          "published_at": "2026-11-13T12:52:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZYy2mdO4qXc/hqdefault.jpg"
+        },
+        {
+          "title": "Microsoft suffers massive global outage",
+          "url": "https://www.youtube.com/shorts/WiYtbCW9vmM",
+          "video_id": "WiYtbCW9vmM",
+          "channel": "CNN",
+          "published_at": "2026-11-13T01:10:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/WiYtbCW9vmM/hqdefault.jpg"
+        }
+      ],
+      "summary": "A global disruption affected Microsoft services including Outlook, Teams, Copilot and Microsoft 365. Microsoft reported gradual recovery, while some users could still experience problems."
+    },
+    {
+      "id": "topic_ab79adcb16367b7f",
+      "title": "Commerce Secretary Lutnick to Testify on AI Chip Export Oversight",
+      "headline": "Lutnick agrees to testify as Bessent blames him for chip sales",
+      "label": [
+        "testify",
+        "lutnick",
+        "agrees",
+        "blames",
+        "secretary",
+        "chip"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_be950a8416659186",
+      "entities": [
+        "Lutnick",
+        "Bessent",
+        "Lutnick Agrees",
+        "Testify",
+        "Bessent Blames Him"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Lutnick agrees to testify as Bessent blames him for chip sales",
+          "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-13T15:13:00.000Z",
+          "description": "Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10, according to a U.S. official."
+        },
+        {
+          "title": "Lutnick Agrees to Testify as Bessent Blames Him",
+          "url": "https://politicalwire.com/2026/11/13/lutnick-agrees-to-testify-as-bessent-blames-him",
+          "source": "Political Wire",
+          "published_at": "2026-11-13T16:03:30.000Z",
+          "description": "“Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10, amid intensifying scrutiny of the Commerce Department’s oversight of the export of powerful AI chips following the resignation of Nvidia CEO Jensen Huang,” CBS News reports. New York Post: Treas…"
+        },
+        {
+          "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-11-13T10:54:40.000Z",
+          "description": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's affair with an alleged Chinese spy."
+        },
+        {
+          "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales (Natalie Feary/CNBC)",
+          "url": "https://www.memeorandum.com/261113/p18",
+          "source": "memeorandum",
+          "published_at": "2026-11-13T14:50:01.000Z",
+          "description": "Natalie Feary / CNBC: Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales … Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee, as the fallout from ousted Nvidia CEO Jensen Huang's affair with an allege…"
+        },
+        {
+          "title": "Commerce Secretary Lutnick to Testify on AI Chip Export Oversight",
+          "url": "https://english.pravda.ru/news/world/172882-commerce-secretary-testify-ai-chip-export-control",
+          "source": "PravdaReport",
+          "published_at": "2026-11-13T20:09:00.000Z",
+          "image": "https://english.pravda.ru/pix/logo200.png",
+          "description": "Commerce Secretary Howard Lutnick has agreed to appear before the Senate Banking Committee on December 10, a scheduling decision that places the department's export control processes under direct legislative inquiry. According to a U. S. official, the testimony request follows intensified scrutiny…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Lutnick under pressure over Nvidia scandal",
+          "url": "https://www.youtube.com/watch?v=gmfck96jP_U",
+          "video_id": "gmfck96jP_U",
+          "channel": "TRT World",
+          "published_at": "2026-11-13T20:49:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/gmfck96jP_U/hqdefault.jpg"
+        },
+        {
+          "title": "Commerce Secretary Lutnick agrees to testify about Nvidia",
+          "url": "https://www.youtube.com/watch?v=17o-AMcGAjk",
+          "video_id": "17o-AMcGAjk",
+          "channel": "NBC News",
+          "published_at": "2026-11-13T16:38:15.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/17o-AMcGAjk/hqdefault.jpg"
+        }
+      ],
+      "summary": "Commerce Secretary Howard Lutnick agreed to testify before the Senate Banking Committee on December 10. The reports link the hearing to scrutiny of the Commerce Department’s oversight of AI chip exports to China."
+    },
+    {
+      "id": "topic_f3fdfa1a4c12d755",
+      "title": "Trump Urged Nvidia CEO Jensen Huang to Fight for His Job",
+      "headline": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "label": [
+        "urged",
+        "fight",
+        "trump",
+        "huang",
+        "job",
+        "jensen"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_ee5591155181e59c",
+      "entities": [
+        "Trump Had Urged Nvidia",
+        "Jensen Huang",
+        "Fight",
+        "His Job",
+        "The New York Times"
+      ],
+      "article_count": 9,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
+          "source": "NYT > U.S. > Politics",
+          "published_at": "2026-11-13T00:25:08.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
+          "description": "The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying."
+        },
+        {
+          "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight",
+          "url": "https://politicalwire.com/2026/11/13/trump-had-urged-nvidias-jensen-huang-to-fight",
+          "source": "Political Wire",
+          "published_at": "2026-11-13T10:19:48.000Z",
+          "description": "“President Trump called Jensen Huang on Tuesday, before the Nvidia chief stepped down amid a rapidly unfolding spy scandal, and urged him to keep fighting for his job,” the New York Times reports. “The call was the latest instance of Mr. Trump defending and protecting Mr. Huang, who had become a hi…"
+        },
+        {
+          "title": "Day Before Jensen Huang's Resignation, Trump Urged Him To Fight For His Job",
+          "url": "https://www.ndtv.com/world-news/day-before-nvidia-ceo-jensen-huangs-resignation-trump-urged-him-to-fight-for-his-job-12321220",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-13T07:38:08.000Z",
+          "description": "Reacting to the scandal that led to Jensen Huang's resignation, Donald Trump said, \"What a horrible thing that is, that's so sad to see that happen.\""
+        },
+        {
+          "title": "Trump Urged Jensen Huang To Fight For Nvidia CEO Post Days Before Resignation Amid China Spy Scandal: Report",
+          "url": "https://www.freepressjournal.in/india/trump-urged-jensen-huang-to-fight-for-nvidia-ceo-post-days-before-resignation-amid-china-spy-scandal-report",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-13T03:57:25.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-11-10/npw5tpcw/Untitled-Design-3.png"
+        },
+        {
+          "title": "Trump called Jensen Huang, urged him to fight for Nvidia top job: Report",
+          "url": "https://www.indiatoday.in/world/story/trump-called-jensen-huang-days-before-nvidia-exit-urged-him-to-fight-for-job-3037883-2026-11-13",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-13T00:46:40.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/trump-and-nvidia-ceo-jensen-huang-091438160-16x9_2.jpg?VersionId=XCWMTyqMmePrYwjnfyQ7A3gzMcgOqIEt",
+          "description": "Trump called Jensen Huang urged him to fight for Nvidia top job Report"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Nvidia CEO Affair | Trump Urged Jensen Huang To Keep His Job Despite China Spy Allegations: Reports",
+          "url": "https://www.youtube.com/watch?v=7mLPNaBLwgA",
+          "video_id": "7mLPNaBLwgA",
+          "channel": "NDTV",
+          "published_at": "2026-11-13T02:15:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7mLPNaBLwgA/hqdefault.jpg"
+        }
+      ],
+      "summary": "Reports say President Donald Trump called Nvidia chief Jensen Huang and urged him to keep fighting for his position, shortly before Huang stepped down amid a China-related spy scandal."
+    },
+    {
+      "id": "topic_5d03d5f7b8c3db47",
+      "title": "Second Car Bomb in Two Days Wounds Former Ukrainian Aide in Moscow",
+      "headline": "Second car bomb hits Russia in two days",
+      "label": [
+        "bomb",
+        "car",
+        "russia",
+        "second",
+        "days",
+        "two"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_5f6357e9dd85b74b",
+      "entities": [
+        "Second",
+        "Russia",
+        "Ukraine",
+        "NBC News",
+        "Ukrainian"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Second car bomb hits Russia in two days",
+          "url": "https://www.nation.com.pk/14-nov-2026/second-car-bomb-hits-russia-two-days",
+          "source": "The Nation - Top Stories",
+          "published_at": "2026-11-13T20:15:00.000Z",
+          "description": "MOSCOW - A onetime spokesman for a pro-Russian former prime minister of Ukraine was wounded by a car bomb in Moscow on Friday, Russian media reported."
+        },
+        {
+          "title": "Ukraine updates: Second car bomb to hit Russia in two days",
+          "url": "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-13T10:00:00.000Z",
+          "description": "A second car bomb in two days exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile, Ukraine and Russia exchanged deadly strikes overnight. DW has more."
+        },
+        {
+          "title": "Russia hit by second car bomb in as many days as peace talks continue",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
+          "source": "BBC News",
+          "published_at": "2026-11-13T13:11:23.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+          "description": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says."
+        },
+        {
+          "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+          "url": "https://www.thehindu.com/news/international/second-car-bomb-to-hit-russia-in-two-days-targets-exiled-ukrainian-political-aide-media-report/article71697330.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-13T09:34:20.000Z",
+          "description": "Russian ⁠media reported the car belonged to Sergei Zavorotniy, a ​onetime ‌spokesman for former Ukrainian Prime Minister Mykola Azarov"
+        },
+        {
+          "title": "Russia’s Second Car Bomb Wounds Former Ukraine PM Aide Sergei Zavorotniy",
+          "url": "https://internewscast.com/news/russias-second-car-bomb-wounds-former-ukraine-pm-aide-sergei-zavorotniy",
+          "source": "Internewscast",
+          "published_at": "2026-11-13T12:44:52.000Z",
+          "description": "Internewscast Internewscast Sergei Zavorotniy, a former spokesman for a pro-Russian Ukrainian prime minister, was… This Post: Russia’s Second Car Bomb Wounds Former Ukraine PM Aide Sergei Zavorotniy first appeared on Internewscast"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Car bombing in Russia injures an adviser to Ukraine’s ex-prime minister",
+          "url": "https://www.youtube.com/shorts/VXaHrB_ROgE",
+          "video_id": "VXaHrB_ROgE",
+          "channel": "Associated Press",
+          "published_at": "2026-11-13T15:55:55.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/VXaHrB_ROgE/hqdefault.jpg"
+        }
+      ],
+      "summary": "A car bomb in Moscow wounded Sergei Zavorotniy, a former spokesman for Ukrainian Prime Minister Mykola Azarov, according to Russian media. It was reported as the second car bombing in Russia in two days."
+    },
+    {
+      "id": "topic_9b0e1a533da2e681",
+      "title": "Samsung Reportedly in Talks to Acquire Data-Center Cooling Firm Modine",
+      "headline": "Samsung in talks to acquire data centre cooling firm Modine",
+      "label": [
+        "modine",
+        "cooling",
+        "samsung",
+        "data",
+        "talks",
+        "acquire"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_4e7beed80b460141",
+      "entities": [
+        "Samsung",
+        "Modine",
+        "Samsung Reportedly",
+        "Talks",
+        "Buy US Data Center"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Samsung in talks to acquire data centre cooling firm Modine",
+          "url": "https://www.thehindubusinessline.com/info-tech/samsung-in-talks-to-acquire-data-centre-cooling-firm-modine/article71696735.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-13T06:24:28.000Z",
+          "description": "A potential transaction could be finalised in the coming weeks"
+        },
+        {
+          "title": "Samsung in talks to acquire data center cooling maker Modine - report",
+          "url": "https://seekingalpha.com/news/4672104-samsung-in-talks-to-acquire-data-center-cooling-maker-modine---report",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-11-13T05:34:35.000Z"
+        },
+        {
+          "title": "Samsung Reportedly in Talks to Buy US Data Center Cooling Maker Modine",
+          "url": "https://www.talkandroid.com/534941-samsung-modine-acquisition-talks-data-center-cooling",
+          "source": "TalkAndroid",
+          "published_at": "2026-11-13T09:25:27.000Z",
+          "description": "Bloomberg reports Samsung is negotiating to buy Modine, a Wisconsin maker of data center cooling systems. A deal would expand Samsung's push into AI infrastructure."
+        },
+        {
+          "title": "Samsung reportedly in talks to buy data centre cooling firm Modine",
+          "url": "https://thenextweb.com/news/samsung-modine-talks-data-centre-cooling",
+          "source": "The Next Web",
+          "published_at": "2026-11-13T08:18:05.000Z",
+          "image": "https://media.thenextweb.com/2026/10/samsung-illuminated-logo-store-facade.avif",
+          "description": "Samsung Electronics is in talks to acquire Modine Manufacturing, the Wisconsin maker of cooling systems for data centres, Bloomberg reported on Thursday, citing people familiar with the matter. A transaction could come together within weeks, per Bloomberg’s sources, though no final decision has bee…"
+        },
+        {
+          "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+          "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report",
+          "source": "DCD",
+          "published_at": "2026-11-13T16:23:26.000Z",
+          "description": "Company has already acquired FläktGroup"
+        }
+      ],
+      "summary": "Samsung Electronics is reportedly negotiating to acquire Modine Manufacturing, a Wisconsin-based maker of data-center cooling systems. Reports said a transaction could be finalized in the coming weeks."
+    },
+    {
+      "id": "topic_2d4f37383c05fb73",
+      "title": "A New Friday the 13th Movie Is Planned for 2027",
+      "headline": "The Thirteenth ‘Friday the 13th’ Movie Is a Go",
+      "label": [
+        "13th",
+        "friday",
+        "movie",
+        "finally",
+        "director",
+        "movies"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_f4e31a811257094",
+      "entities": [
+        "The Thirteenth",
+        "Friday",
+        "Movie Is",
+        "Go",
+        "New Friday The"
+      ],
+      "article_count": 12,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "The Thirteenth ‘Friday the 13th’ Movie Is a Go",
+          "url": "https://gizmodo.com/new-friday-the-13th-movie-steve-miner-jason-voorhees-2000839617",
+          "source": "Gizmodo",
+          "published_at": "2026-11-13T16:15:12.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/11/Friday-the-thirteenth-part-iii-1280x853.jpg",
+          "description": "'Friday the 13th Part II' and 'III' director Steve Miner is set to direct the upcoming film, which hits theaters sometime in 2027."
+        },
+        {
+          "title": "New Friday The 13th Movie Is Finally Happening, With A Familiar Director",
+          "url": "https://www.slashfilm.com/2315720/new-friday-the-13th-movie-director-steve-miner",
+          "source": "/Film",
+          "published_at": "2026-11-13T13:22:46.000Z",
+          "description": "Somehow, Jason Voorhees returned. After nearly twenty years, a new Friday the 13th movie is finally in the works, and bringing back a familiar filmmaker."
+        },
+        {
+          "title": "New Friday the 13th Movie’s Director Has a Major History With the Franchise",
+          "url": "https://www.comingsoon.net/movies/news/2222708-friday-the-13th-new-movie-steve-miner-director-return",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-11-13T15:55:27.000Z",
+          "description": "Jason Voorhees will return to theaters in a new Friday the 13th movie. The upcoming horror film will mark the franchise’s 13th feature installment and arrive worldwide in 2027. It will bring back the hockey-masked killer after a long absence from the big screen, focusing on practical effects and th…"
+        },
+        {
+          "title": "All 12 Friday the 13th Movies, Ranked",
+          "url": "https://www.polygon.com/friday-the-13th-ranked",
+          "source": "Polygon.com",
+          "published_at": "2026-11-13T16:00:19.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/msdfrth_ec039.jpg",
+          "description": "12 films, 2 continuities, over 132 kills"
+        },
+        {
+          "title": "A 13th 'Friday the 13th' movie is finally on the way with iconic franchise director returning",
+          "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/new-friday-13th-movie-steve-miner-director",
+          "source": "L.A. Times - Movie Reviews",
+          "published_at": "2026-11-13T18:58:37.000Z",
+          "description": "Jason Voorhees is back for the 13th 'Friday the 13th' movie. Steve Minor, who directed 'Friday the 13th Part 2' and 'Part III,' is also back."
+        }
+      ],
+      "summary": "A 13th Friday the 13th feature film is in development and is expected to reach theaters in 2027. Steve Miner, who directed the franchise’s second and third films, is set to direct."
+    },
+    {
+      "id": "topic_9ca43261fd58f61c",
+      "title": "India Extends Ban on Zakir Naik’s Islamic Research Foundation",
+      "headline": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
+      "label": [
+        "zakir",
+        "naik",
+        "islamic",
+        "foundation",
+        "extends",
+        "ban"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_caf4df555348ce12",
+      "entities": [
+        "Centre",
+        "Zakir Naik",
+        "Islamic Research Foundation",
+        "Centre Extends Ban On",
+        "Controversial Preacher Zakir Naik"
+      ],
+      "article_count": 7,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Centre extends ban on Zakir Naik's Islamic Research Foundation for 5 years",
+          "url": "https://timesofindia.indiatimes.com/india/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-5-years/articleshow/135790746.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-13T05:24:09.000Z"
+        },
+        {
+          "title": "Centre Extends Ban On Controversial Preacher Zakir Naik's Islamic Research Foundation For Another Five Years",
+          "url": "https://swarajyamag.com/politics/centre-extends-ban-on-zakir-naiks-islamic-research-foundation-for-another-five-years",
+          "source": "Swarajya",
+          "published_at": "2026-11-13T08:53:05.920Z"
+        },
+        {
+          "title": "Centre Extends Ban On Hate Preacher Zakir Naik's Islamic Research Foundation",
+          "url": "https://www.ndtv.com/india-news/centre-extends-ban-on-hate-preacher-zakir-naiks-islamic-research-foundation-12320897",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-13T07:26:35.000Z",
+          "description": "The statements and speeches made by Naik are objectionable and subversive and he has been promoting enmity and hatred amongst different religious groups, the ministry said."
+        },
+        {
+          "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
+          "url": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-13T05:33:16.000Z",
+          "description": "This is the third time that the ban against IRF has been extended. The outfit was first banned in 2016"
+        },
+        {
+          "title": "MHA Extends Ban On Zakir Naik's Islamic Research Foundation For Another 5 Years, Citing National Security & Communal Harmony Concerns",
+          "url": "https://www.freepressjournal.in/india/mha-extends-ban-on-zakir-naiks-islamic-research-foundation-for-another-5-years-citing-national-security-communal-harmony-concerns",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-13T06:26:59.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2025-09-23/vlijg349/1275.jpg"
+        }
+      ],
+      "summary": "India’s government extended its ban on Zakir Naik’s Islamic Research Foundation for another five years. Reports described this as the third extension of the ban, which was first imposed in 2016."
+    },
+    {
+      "id": "topic_636da51728c902b1",
+      "title": "Darth Vader Lightsaber Sells for Record $4.875 Million",
+      "headline": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
+      "label": [
+        "darth",
+        "vader",
+        "lightsaber",
+        "wars",
+        "record",
+        "star"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_735dfccb359bd5b3",
+      "entities": [
+        "Lightsaber Brandished",
+        "Darth Vader Auctioned",
+        "Breaking Record",
+        "Star Wars Sales",
+        "Darth Vader"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
+          "url": "https://www.artnews.com/art-news/news/star-wars-lightsaber-sale-heritage-auctions-1234805883",
+          "source": "ARTnews.com",
+          "published_at": "2026-11-13T18:34:54.000Z",
+          "description": "It's the one from the famous \"I am your father\" scene."
+        },
+        {
+          "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records",
+          "url": "https://www.ign.com/articles/darth-vaders-actual-lightsaber-just-sold-for-4875-million-breaking-star-wars-auction-records",
+          "source": "IGN Articles",
+          "published_at": "2026-11-13T19:41:20.000Z",
+          "description": "A Star Wars auction has just broken records, as Darth Vader's prop lightsaber from the original trilogy sells for almost $5 million."
+        },
+        {
+          "title": "Darth Vader’s Lightsaber From ‘The Empire Strikes Back’ Just Obliterated a Star Wars Auction Record",
+          "url": "https://gizmodo.com/darth-vaders-lightsaber-from-the-empire-strikes-back-just-obliterated-a-star-wars-auction-record-2000839807",
+          "source": "Gizmodo",
+          "published_at": "2026-11-13T21:10:55.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/10/darth-vader-lightsaber-1280x853.png",
+          "description": "The dark side of the Force is strong with whoever just dropped nearly $5 million on a pretend laser sword."
+        },
+        {
+          "title": "Darth Vader's lightsaber from iconic Star Wars duel sells for record $4.875m",
+          "url": "https://timesofindia.indiatimes.com/world/us/darth-vaders-lightsaber-appeared-in-the-i-am-your-father-duel-four-decades-later-the-screen-used-prop-sold-for-4-875-million-setting-a-star-wars-collectible-record/articleshow/135802687.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-13T12:22:33.000Z",
+          "description": "A lightsaber used by Darth Vader was sold for $4.875 million at the Ultimate Star Wars Auction. This sale set a new world record for any Star Wars collectible. The lightsaber surpassed previous auction records for both props and poster art. The auction featured the largest collection of Star Wars l…"
+        },
+        {
+          "title": "Darth Vader’s lightsaber goes under hammer for record $4.875 million",
+          "url": "https://tass.com/society/2217539",
+          "source": "TASS",
+          "published_at": "2026-11-13T02:45:00.000Z",
+          "description": "This is a world auction record for any Star Wars collectible"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Star Wars lightsaber sells for nearly $5 million, setting record",
+          "url": "https://www.youtube.com/shorts/qIubvC7PgdY",
+          "video_id": "qIubvC7PgdY",
+          "channel": "ABC News",
+          "published_at": "2026-11-13T17:02:58.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/qIubvC7PgdY/hqdefault.jpg"
+        }
+      ],
+      "summary": "A lightsaber prop used by Darth Vader in the original Star Wars films sold for $4.875 million. Reports said the sale set a record for a Star Wars collectible."
+    },
+    {
+      "id": "topic_81ed58ba28a41054",
+      "title": "Pete Crow-Armstrong Unanimously Wins National League MVP",
+      "headline": "Cubs’ Pete Crow-Armstrong unanimously wins NL MVP - BBWAA",
+      "label": [
+        "crow",
+        "armstrong",
+        "mvp",
+        "pete",
+        "cubs",
+        "alvarez"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_17128c59b56cf609",
+      "entities": [
+        "Cubs",
+        "Pete Crow",
+        "Armstrong",
+        "NL MVP",
+        "BBWAA"
+      ],
+      "article_count": 14,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Cubs’ Pete Crow-Armstrong unanimously wins NL MVP",
+          "url": "https://news.google.com/rss/articles/cbmiqkfvx3lxte03rfb5ogrgmzbjdefpynvgeuftsmpou2trvhbwoetmughhr2ptuenmvepkytq5sunyejk3aei0ewhwdw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-13T00:59:50.000Z",
+          "description": "Cubs’ Pete Crow-Armstrong unanimously wins NL MVP BBWAA Cubs' Pete Crow-Armstrong, Astros' Yordan Alvarez unanimous MVP winners ESPN Shohei Ohtani lost the MVP to Pete Crow-Armstrong. What he needs to do to reclaim it Yahoo Sports Phillies' Zack Wheeler wins National League Comeback Player of the Y…"
+        },
+        {
+          "title": "Cubs superstar Pete Crow-Armstrong wins National League MVP unanimously, beating Shohei Ohtani",
+          "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-11-13T01:08:42.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/11/12/c4cc76c0-35da-48b3-8a57-e465c4862d75/pca-getty.png",
+          "description": "After a slow start to 2026, the 24-year-old slugger turned in a dominant performance in just his third full MLB season"
+        },
+        {
+          "title": "Chicago Cubs’ Pete Crow-Armstrong Wins National League MVP After Stellar All-Around Season",
+          "url": "https://internewscast.com/news/us/chicago-cubs-pete-crow-armstrong-wins-national-league-mvp-after-stellar-all-around-season",
+          "source": "Internewscast",
+          "published_at": "2026-11-13T02:32:49.000Z",
+          "description": "Internewscast Internewscast CHICAGO — Pete Crow-Armstrong captured the National League MVP award unanimously Thursday,… This Post: Chicago Cubs’ Pete Crow-Armstrong Wins National League MVP After Stellar All-Around Season first appeared on Internewscast"
+        },
+        {
+          "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros",
+          "url": "https://www.foxnews.com/outkick-sports/pete-crow-armstrong-unanimously-ends-shohei-ohtani-run-nl-mvp-yordan-alvarez-takes-al-mvp-astros",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-11-13T03:06:37.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/pete-crow-armstrong.jpg?ve=1&tl=1",
+          "description": "Pete Crow-Armstrong's 10.6-win season with the Chicago Cubs ended Shohei Ohtani's three-year MLB MVP streak with a unanimous NL award vote."
+        },
+        {
+          "title": "Cubs' Crow-Armstrong, Astros' Alvarez earn MLB MVP awards",
+          "url": "https://sports.yahoo.com/articles/cubs-crow-armstrong-astros-alvarez-013425393.html",
+          "published_at": "2026-11-13T01:34:25.000Z",
+          "description": "Chicago Cubs outfielder Pete Crow-Armstrong was named baseball's National League Most Valuable Player on Thursday, ending Dodgers star Shohei Ohtani's two-year reign.Crow-Armstrong delivered one of the best all-around seasons in MLB history, tying Kyle Schwarber for the MLB lead in home runs with 4…"
+        }
+      ],
+      "summary": "Chicago Cubs outfielder Pete Crow-Armstrong unanimously won the National League MVP award, ending Shohei Ohtani’s run as the league’s winner. Houston Astros player Yordan Alvarez won the American League award."
+    },
+    {
+      "id": "topic_fdc556aceee06dbe",
+      "title": "SpaceX Plans Starship Flight With First Attempt to Catch Both Stages",
+      "headline": "Can SpaceX catch its Starship?",
+      "label": [
+        "starship",
+        "spacex",
+        "catch",
+        "flight",
+        "launch",
+        "reusability"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_d873e5031714a688",
+      "entities": [
+        "Can SpaceX",
+        "Starship",
+        "SpaceX Starship Flight",
+        "SpaceX",
+        "Space"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Can SpaceX catch its Starship?",
+          "url": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship",
+          "source": "Scientific American Content: Global",
+          "published_at": "2026-11-13T18:45:00.000Z",
+          "description": "The 15th spaceflight of SpaceX’s giant launch vehicle aims for something unprecedented: snatching both rocket stages from midair after a journey to orbit"
+        },
+        {
+          "title": "SpaceX Starship Flight 15 live updates: SpaceX counts down to Starship launch and double-catch test flight",
+          "url": "https://news.google.com/rss/articles/cbmivafbvv95cuxoawf2txfbvdayewp4ujzmz25bqll3oedqckh3ogjewtqwvedlmgdyt1vqqlbjr09qc00yakfzq2g1ngluski0r3hadtlgazhozlhflvfzvjr6b0rrrejevzdpymhrzwjsbuplotjayzlpmlfxvgpdqzfnntvjbf9nofrumhlkqlfzt1pbddk4m0h1m0rttwjxbv9orgrar1hybjvuwtzotdrkuwv3zervqkfylw9mns1rcmvtuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-13T14:35:03.000Z",
+          "description": "SpaceX Starship Flight 15 live updates: SpaceX counts down to Starship launch and double-catch test flight Space SpaceX’s next move is chasing the unprecedented ‘holy grail’ of rocketry. Here’s what’s at stake CNN Elon Musk’s SpaceX to attempt double catch of Starship rocket BBC SpaceX Aims for Maj…"
+        },
+        {
+          "title": "Watch LIVE: SpaceX to launch and catch both Starship and Super Heavy rocket",
+          "url": "https://www.indiatoday.in/science/story/watch-live-spacex-to-launch-and-catch-both-starship-and-super-heavy-rocket-3038297-2026-11-14",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-13T21:30:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/starship-super-heavy-catch-133012707-16x9_0.jpg?VersionId=E.7DBYNV65a4BjHjQvlWE.DZLUbAhG96",
+          "description": "Watch LIVE SpaceX to launch and catch both Starship and Super Heavy rocket"
+        },
+        {
+          "title": "Watch Live as SpaceX Tries to Catch Both Starship Stages for the First Time",
+          "url": "https://gizmodo.com/watch-live-as-spacex-tries-to-catch-both-starship-stages-for-the-first-time-2000839576",
+          "source": "Gizmodo",
+          "published_at": "2026-11-13T19:30:20.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/11/starship-42-1280x853.jpg",
+          "description": "If all goes according to plan, this mission will mark a major step toward what SpaceX calls the \"holy grail of rocketry.\""
+        },
+        {
+          "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+          "source": "Latest from Space.com",
+          "published_at": "2026-11-13T13:00:00.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-1920-80.jpg",
+          "description": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live."
+        }
+      ],
+      "videos": [
+        {
+          "title": "SpaceX set to launch historic Starship Flight 15",
+          "url": "https://www.youtube.com/watch?v=taO_cItWMfE",
+          "video_id": "taO_cItWMfE",
+          "channel": "Sky News",
+          "published_at": "2026-11-13T21:11:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/taO_cItWMfE/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: SpaceX 15th Starship test flight aims for a double catch at the launch pad",
+          "url": "https://www.youtube.com/watch?v=yJl5iujO76g",
+          "video_id": "yJl5iujO76g",
+          "channel": "Associated Press",
+          "published_at": "2026-11-13T18:36:33.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/yJl5iujO76g/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: SpaceX launches Starship on Flight 15 mission | NBC News",
+          "url": "https://www.youtube.com/watch?v=wJqzNMMsr-s",
+          "video_id": "wJqzNMMsr-s",
+          "channel": "NBC News",
+          "published_at": "2026-11-13T17:56:28.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/wJqzNMMsr-s/hqdefault.jpg"
+        }
+      ],
+      "summary": "SpaceX’s Starship Flight 15 is planned to test catching both the Starship vehicle and its Super Heavy booster after launch. Reports described the double-catch attempt as unprecedented."
+    }
+  ]
+}
