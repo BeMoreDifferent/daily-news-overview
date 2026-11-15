@@ -1,0 +1,935 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-15T00:55:52.161Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Zelensky said US negotiators raised giving up Donbas territory in exchange for NATO membership, the first time he said the issues had been linked in talks.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "The White House says Trump, Xi and Putin are scheduled to meet in Shenzhen during the APEC summit, which would be their first meeting together.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "Commerce Secretary Howard Lutnick has agreed to testify before a Senate panel about export-control enforcement and national security concerns involving China and Nvidia chips.",
+        "stories": [
+          12
+        ]
+      },
+      {
+        "text": "India’s foreign minister said India and the United States have resolved most issues in proposed trade-deal negotiations and are approaching the final stage.",
+        "stories": [
+          10
+        ]
+      },
+      {
+        "text": "A bomb found at or near a Peoria ethanol plant prompted evacuations; authorities said it was defused, and the FBI is investigating.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_5864dd0296338018",
+      "title": "Zelensky Says US Linked Donbas Concessions to NATO Membership",
+      "headline": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
+      "label": [
+        "nato",
+        "donbas",
+        "membership",
+        "ukraine",
+        "floats",
+        "us"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_88d041702ef3a5d5",
+      "entities": [
+        "Zelensky",
+        "US",
+        "Ukraine",
+        "Donbas",
+        "Nato"
+      ],
+      "article_count": 27,
+      "source_count": 23,
+      "articles": [
+        {
+          "title": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
+          "url": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-14T15:14:00.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/149237ae-cd09-428b-9490-8965f6f68aa4_cde817be.jpg?itok=rSUGnRpA&v=1794671248",
+          "description": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi. This is the first time the question of linking Nato membershi…"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "source": "BBC News",
+          "published_at": "2026-11-14T10:30:38.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+          "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+        },
+        {
+          "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership",
+          "url": "https://www.japantimes.co.jp/news/2026/11/15/world/us-ukraine-ceding-donbas-nato",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-11-14T23:34:00.000Z",
+          "description": "This is the first time the question of linking NATO membership to territorial concessions has been raised during the talks."
+        },
+        {
+          "title": "US floated idea of Ukraine ceding Donbas for NATO membership in Russia deal",
+          "url": "https://www.indiatoday.in/world/story/us-floats-ukraine-nato-membership-for-donbas-withdrawal-in-russia-deal-3039187-2026-11-15",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-14T22:41:17.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/on-monday--indias-top-leadership-on-spoke-to-ukrainian-president-volodymyr-zelenskyy-and-russian-fo-104640896-original-sixteen-to-nine.jpeg?VersionId=jKf1YXam3aS0UvFC9dJiisoWqIJshLWI"
+        },
+        {
+          "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
+          "url": "https://www.investing.com/news/world-news/us-floated-idea-of-ukraine-ceding-donbas-for-nato-membership-zelenskiy-says-5027318",
+          "source": "All News",
+          "published_at": "2026-11-14T11:30:23.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Ukraine says US floated trading Donbas for NATO membership | DW News",
+          "url": "https://www.youtube.com/watch?v=S2J0UTtzhto",
+          "video_id": "S2J0UTtzhto",
+          "channel": "DW News",
+          "published_at": "2026-11-14T20:30:22.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/S2J0UTtzhto/hqdefault.jpg"
+        }
+      ],
+      "summary": "Volodymyr Zelensky said US negotiators raised the possibility of Ukraine giving up territory in the Donbas in exchange for NATO membership during peace discussions. He said the proposal marked the first time the issues had been linked in talks."
+    },
+    {
+      "id": "topic_a1497fbc84ab70c7",
+      "title": "Trump, Xi and Putin Set to Meet in China",
+      "headline": "Trump, Xi and Putin to meet in China, White House says",
+      "label": [
+        "putin",
+        "xi",
+        "trump",
+        "meeting",
+        "trilateral",
+        "china"
+      ],
+      "category": "trending",
+      "section": "world",
+      "theme": "theme_9dea1c1e2119149d",
+      "entities": [
+        "Trump",
+        "Xi",
+        "Putin",
+        "China",
+        "White House"
+      ],
+      "article_count": 47,
+      "source_count": 33,
+      "articles": [
+        {
+          "title": "Trump, Xi and Putin to meet in China, White House says",
+          "url": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-14T09:00:58.000Z",
+          "image": "https://images.euronews.com/articles/stories/09/99/24/69/696x392_cmsv2_17157d35-4ed0-5ea2-a716-e05b7b20efd8-9992469.jpg",
+          "description": "Trump is set to depart Washington on Monday for the Philippines, where he is due to attend a meeting of the Association of Southeast Asian Nations before making his way to Shenzhen in China."
+        },
+        {
+          "title": "Trump, Xi, Putin to hold historic meeting in China",
+          "url": "https://www.manilatimes.net/2026/11/15/news/trump-xi-putin-to-hold-historic-meeting-in-china/2469943",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-11-14T16:11:00.000Z",
+          "description": "WASHINGTON, D.C. — Donald Trump, Vladimir Putin and Xi Jinping will hold the first three-way meeting among the leaders of the United States, Russia and China at a summit in Shenzhen next week, the White House said Friday. Trump wants to talk about reducing nuclear arsenals at the trilateral talks o…"
+        },
+        {
+          "title": "Trump, Xi and Putin plan unprecedented joint meeting",
+          "url": "https://www.perthnow.com.au/news/politics/trump-xi-and-putin-plan-unprecedented-joint-meeting-c-23161899",
+          "source": "PerthNow",
+          "published_at": "2026-11-14T00:17:25.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23161899/17052e607a5cfb4b76969992012d34e54bca6f53-16x9-x0y0w1280h720.jpg",
+          "description": "The leaders of the United States, China and Russia are set to meet on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China."
+        },
+        {
+          "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
+          "url": "https://www.ms.now/news/trump-xi-putin-plan-unprecedented-joint-meeting",
+          "source": "MS NOW",
+          "published_at": "2026-11-14T10:28:37.000Z",
+          "description": "While the leaders gathering for joint talks will mark a singular moment, analysts say expectations are low that the talks will lead to major breakthroughs and say they will be heavier in symbolism than substance. The post Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of A…"
+        },
+        {
+          "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
+          "url": "https://hongkongfp.com/2026/11/14/trump-xi-putin-to-hold-historic-meeting-in-china-white-house",
+          "source": "Hong Kong Free Press HKFP",
+          "published_at": "2026-11-14T03:49:04.000Z",
+          "image": "https://hongkongfp.com/wp-content/uploads/2026/11/three-way-meeting-1024x576.jpg",
+          "description": "Donald Trump, Vladimir Putin and Xi Jinping will hold the first ever three-way meeting between the leaders of the United States, Russia and China at a summit in Shenzhen next week, the White House said Friday. Trump wants to talk about reducing nuclear arsenals at the trilateral talks on Thursday a…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump, Xi and Putin plan unprecedented meeting in Shenzhen, China",
+          "url": "https://www.youtube.com/watch?v=Tw8heXJ9AIM",
+          "video_id": "Tw8heXJ9AIM",
+          "channel": "Channel 4 News",
+          "published_at": "2026-11-14T18:49:24.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tw8heXJ9AIM/hqdefault.jpg"
+        },
+        {
+          "title": "Trump, Xi, Putin Trilateral | Trump, Xi Jinping, Putin To Meet Next Week At APEC Summit In China",
+          "url": "https://www.youtube.com/watch?v=DHVlz1w7gyU",
+          "video_id": "DHVlz1w7gyU",
+          "channel": "NDTV",
+          "published_at": "2026-11-14T10:45:11.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/DHVlz1w7gyU/hqdefault.jpg"
+        },
+        {
+          "title": "Trump, Xi and Putin plan an unprecedented meeting during APEC",
+          "url": "https://www.youtube.com/watch?v=_W7VGEhP20I",
+          "video_id": "_W7VGEhP20I",
+          "channel": "Associated Press",
+          "published_at": "2026-11-14T08:01:38.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_W7VGEhP20I/hqdefault.jpg"
+        }
+      ],
+      "summary": "The White House says Donald Trump, Xi Jinping and Vladimir Putin are scheduled to meet in Shenzhen, China, on the sidelines of the APEC summit. It would be the first meeting among the three leaders together."
+    },
+    {
+      "id": "topic_55a2cce1ec8ad33b",
+      "title": "Australian Leaders Caught on Hot Mic at COP31",
+      "headline": "Prime Minister caught in hot mic moment at COP31",
+      "label": [
+        "mic",
+        "hot",
+        "caught",
+        "moment",
+        "minister",
+        "cop31"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_e24e13977f77121f",
+      "entities": [
+        "Prime Minister",
+        "COP31",
+        "PM",
+        "Because Of Your",
+        "Australian PM"
+      ],
+      "article_count": 16,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Prime Minister caught in hot mic moment at COP31",
+          "url": "https://www.brisbanetimes.com.au/national/prime-minister-caught-in-hot-mic-moment-at-cop31-20261114-p61e68.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-14T10:01:07.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/06c83c65bd04aba644f3d691aa16ad07e0f0ddae",
+          "description": "Prime Minister Anthony Albanese and Energy Minister Chris Bowen were caught on camera joking about phone radiation and private parts during a break at the COP31 climate summit."
+        },
+        {
+          "title": "PM, minister caught in hot-mic moment at climate talks",
+          "url": "https://www.perthnow.com.au/news/environment/pm-minister-caught-in-hot-mic-moment-at-climate-talks-c-23161942",
+          "source": "PerthNow",
+          "published_at": "2026-11-14T00:28:28.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23161942/8b44b26f3eba89380e711924891c7510356d44f5-16x9-x0y0w1280h720.jpg",
+          "description": "Prime Minister Anthony Albanese and Energy Minister Chris Bowen have been recorded privately joking about phones and penises at COP31 in Turkey."
+        },
+        {
+          "title": "Prime Minister caught in hot mic moment about private parts at COP31",
+          "url": "https://www.theage.com.au/national/prime-minister-caught-in-hot-mic-moment-about-private-parts-at-cop31-20261114-p61e68.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-11-14T09:41:25.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/06c83c65bd04aba644f3d691aa16ad07e0f0ddae",
+          "description": "Prime Minister Anthony Albanese and Energy Minister Chris Bowen were caught on camera joking about phone radiation and private parts during a break at the COP31 climate summit."
+        },
+        {
+          "title": "Prime Minister caught on hot mic making crude joke at COP31",
+          "url": "https://www.smh.com.au/national/prime-minister-caught-on-hot-mic-making-crude-joke-at-cop31-20261114-p61e68.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-14T08:03:27.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/06c83c65bd04aba644f3d691aa16ad07e0f0ddae",
+          "description": "Prime Minister Anthony Albanese and Energy Minister Chris Bowen were caught on camera joking about phone radiation and private parts during a break at the COP31 climate summit."
+        },
+        {
+          "title": "\"Because Of Your D***?\" Australian PM's Hot Mic Moment At Climate Summit",
+          "url": "https://www.ndtv.com/world-news/because-of-your-d-australian-pm-anthony-albaneses-hot-mic-moment-at-climate-summit-with-his-climate-minister-12324915",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-14T02:57:56.000Z",
+          "description": "In the footage, first broadcast by Australia's Channel Seven on Friday, Albanese and top climate envoy Chris Bowen chat on the sidelines of the COP31 climate summit in Antalya, Turkey."
+        }
+      ],
+      "summary": "Australian Prime Minister Anthony Albanese and Energy Minister Chris Bowen were recorded joking privately about phones, radiation and private parts during a break at the COP31 climate summit in Turkey."
+    },
+    {
+      "id": "topic_98968ac8bbb4248d",
+      "title": "Mary Peltola Gains Ground in Alaska Senate Vote Count",
+      "headline": "Mary Peltola Likely to Win Alaska Senate Race",
+      "label": [
+        "peltola",
+        "alaska",
+        "senate",
+        "race",
+        "mary",
+        "counting"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_ec2f7a1e93d84755",
+      "entities": [
+        "Mary Peltola Likely",
+        "Win Alaska Senate Race",
+        "Alaska Senate Race Between",
+        "Dan Sullivan",
+        "Mary Peltola Still Counting"
+      ],
+      "article_count": 13,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Mary Peltola Likely to Win Alaska Senate Race",
+          "url": "https://politicalwire.com/2026/11/14/mary-peltola-likely-to-win-alaska-senate-race",
+          "source": "Political Wire",
+          "published_at": "2026-11-14T15:46:06.000Z",
+          "description": "MS NOW: “With 20,000 more votes added to the statewide tally early on Saturday, Peltola is poised to likely triumph over Republican Sen. Dan Sullivan when votes are expected to be finalized next week.” “Peltola remains under 50% of the vote — at 49.8% — and a ranked choice vote tabulation is still…"
+        },
+        {
+          "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+          "url": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html",
+          "source": "NYT > Top Stories",
+          "published_at": "2026-11-14T05:31:11.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/13/us/00pol-alaska-no-call-HFO/00pol-alaska-no-call-HFO-mediumSquareAt3X.jpg",
+          "description": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former congresswoman, is the only Senate contest that hasn’t been called."
+        },
+        {
+          "title": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues",
+          "url": "https://news.google.com/rss/articles/cbmirgfbvv95cuxnmkxeoffmtxbjuf9iamzfemj4n3jeaxdvytzvqwjybu5vzvrzzmrdrxhxn3dhowpss2r2wwzccg9qvdnizvhzwgi0cm9hyzzjvvbyzg90slzksf80z2lbsuzytjvoanzxswvprmryrxy4oxdqym4ytunzvf9twghks0lad29junvxmdhkvm01v0tiuervavfpq2zebuxfrxzlalpjnmvlmnrjwwqztmc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-14T20:52:00.000Z",
+          "description": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues NBC News Mary Peltola’s Lead Widens as Alaska Senate Vote Count Continues The New York Times Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play NBC News Peltola grows lea…"
+        },
+        {
+          "title": "Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’",
+          "url": "https://www.ms.now/news/mary-peltola-alaska-senate-race-midterm-election",
+          "source": "MS NOW",
+          "published_at": "2026-11-14T15:30:03.000Z",
+          "description": "Democrat Mary Peltola’s lead has expanded over Republican Sen. Dan Sullivan. Alaska has until Nov. 18 to finalize its results. The post Peltola widens lead in Alaska Senate race, now rated ‘likely Democratic’ appeared first on MS NOW."
+        },
+        {
+          "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes (Tim Balk/New York Times)",
+          "url": "https://www.memeorandum.com/261114/p33",
+          "source": "memeorandum",
+          "published_at": "2026-11-14T16:15:00.000Z",
+          "description": "Tim Balk / New York Times: Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes — The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn't been called. — Mary Peltola, a Democrat, widened her lead over Senator…"
+        }
+      ],
+      "summary": "Democrat Mary Peltola has widened her lead over Republican Senator Dan Sullivan in Alaska’s Senate race as vote counting continues. The result has not yet been finalized."
+    },
+    {
+      "id": "topic_a3fd8dc053978928",
+      "title": "Bomb at Illinois Ethanol Plant Prompts Evacuations",
+      "headline": "Bomb found at Illinois ethanol plant, prompting evacuations",
+      "label": [
+        "plant",
+        "bomb",
+        "evacuations",
+        "illinois",
+        "ethanol",
+        "threat"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_36d69a69b85a9044",
+      "entities": [
+        "Bomb",
+        "Illinois",
+        "The Guardian",
+        "FBI",
+        "NPR"
+      ],
+      "article_count": 12,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+          "source": "The Guardian",
+          "published_at": "2026-11-14T14:13:49.000Z",
+          "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb",
+          "description": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discover…"
+        },
+        {
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations as authorities investigate",
+          "url": "https://www.thestar.com/news/world/united-states/bomb-found-near-ethanol-plant-in-central-illinois-forces-evacuations-as-authorities-investigate/article_b62ca25e-77fe-5047-8810-edaa6525ef86.html",
+          "source": "www.thestar.com - RSS Results",
+          "published_at": "2026-11-14T14:43:16.000Z",
+          "description": "A bomb was found near an ethanol plant in central Illinois, sparking evacuations of those who live near the industrial site as law enforcement officials investigate, authorities said Saturday."
+        },
+        {
+          "title": "Illinois ethanol plant bomb forces evacuation as FBI investigates",
+          "url": "https://www.washingtonexaminer.com/news/crime/4803880/illinois-plant-bomb-force-evacuation",
+          "source": "Washington Examiner",
+          "published_at": "2026-11-14T15:00:24.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/peoria-biourja-facility.webp?w=700",
+          "description": "A bomb was found Friday at an ethanol plant in Peoria, a central Illinois city of about 110,000, officials said, sparking an investigation involving the FBI and forcing the evacuation of thousands of people living nearby. Peoria Police Chief Brad Dixon said an explosive device found at BioUrja Rene…"
+        },
+        {
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+          "url": "https://news.google.com/rss/articles/cbmikwfbvv95cuxqumjynuozvc1gx01ibdfusljtounvyu92dm45tgrjnhzpcvnrq2tfbxjbbdczrhljy0rkt1zwuzfpmexnrkjhqwtmogrmutnyzhjxowdhaldrqmnxnwzsaur5b21cr3nirvpwrfq4u2pzdkl1edvpx2v1vkftzvrtaeuyni1zmkxtskpdbg9pr0dkdwm",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-14T20:12:34.000Z",
+          "description": "Bomb found near ethanol plant in central Illinois forces evacuations NPR BREAKING: EVACUATION ORDER LIFTED CIProud.com Police lift evacuation after bomb found near ethanol plant in central Illinois WBAL-TV FBI investigates powerful bomb found at Illinois ethanol plant The Washington Post Evacuation…"
+        },
+        {
+          "title": "Bomb threat at Illinois ethanol plant forces mandatory mile-wide evacuation order",
+          "url": "https://nypost.com/2026/11/14/us-news/illinois-bomb-threat-at-peoria-ethanol-plant-prompts-mile-wide-evacuation",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-11-14T09:15:41.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fbiourja-renewables-1-edmund-st-148719898.png?w%3D940",
+          "description": "A bomb threat at an ethanol plant prompted a large-scale evacuation for an entire Illinois city Friday night as officials worked to defuse the credible threat."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Peoria police urge evacuations after 'credible' bomb threat at Illinois plant",
+          "url": "https://www.youtube.com/shorts/MEkCvIHJVHs",
+          "video_id": "MEkCvIHJVHs",
+          "channel": "ABC News",
+          "published_at": "2026-11-14T18:44:27.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/MEkCvIHJVHs/hqdefault.jpg"
+        },
+        {
+          "title": "Bomb discovered at ethanol plant sparks THOUSANDS of evacuations",
+          "url": "https://www.youtube.com/watch?v=PmE4jBUxrpk",
+          "video_id": "PmE4jBUxrpk",
+          "channel": "Fox News",
+          "published_at": "2026-11-14T12:13:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PmE4jBUxrpk/hqdefault.jpg"
+        }
+      ],
+      "summary": "A bomb was found at or near an ethanol plant in Peoria, Illinois, prompting evacuations. Authorities said the device was defused, and the FBI is investigating."
+    },
+    {
+      "id": "topic_9918334e0804b64e",
+      "title": "Jonathan Kreiss-Tomkins Wins Alaska Governor’s Race",
+      "headline": "Who is Jonathan Kreiss-Tomkins? Democrat wins Alaska governor's race",
+      "label": [
+        "alaska",
+        "governor",
+        "democrat",
+        "kreiss",
+        "tomkins",
+        "jonathan"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_3b36f659a51eda34",
+      "entities": [
+        "Jonathan Kreiss",
+        "Tomkins",
+        "Democrat",
+        "Alaska",
+        "Democrat Jonathan Kreiss"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Who is Jonathan Kreiss-Tomkins? Democrat wins Alaska governor's race",
+          "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/who-is-jonathan-kreiss-tomkins-democrat-wins-alaska-governors-race-for-first-time-since-1998/articleshow/135835288.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-14T14:34:04.000Z"
+        },
+        {
+          "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
+          "url": "https://news.google.com/rss/articles/cbmitwfbvv95cuxqcnkyyjbows1av2dpoezswm1rak9szkvuaellqvmwai02ulpnywz4bzlfckdiaxfeyvhxueetsknvdvhjafu1t0diwghisk5kb2viv2lasc1pbudrazbiww5twmduajjssvm3a3fnb1fza3h1ltdzankxrvpjzkh5efvmykpwnuznztbqqwzfmwpoclhbsgzscff1thzrs0hpbvc3x0k2zmh0dhu3ufr4q0valufiaw8",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-14T05:05:00.000Z",
+          "description": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race NBC News A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998 The New York Times Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP CNN Democrat wins Alaska governor race, in setback…"
+        },
+        {
+          "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "url": "https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-11-14T07:17:04.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Falaska-gubernatorial-candidate-jonathan-kreiss-148667427.jpg?w%3D1024",
+          "description": "His victory means Democrats will control the governor’s office in 30 states."
+        },
+        {
+          "title": "Alaska elects Democrat Jonathan Kreiss-Tomkins governor (Eric Stone/Alaska Public Media)",
+          "url": "https://www.memeorandum.com/261114/p9",
+          "source": "memeorandum",
+          "published_at": "2026-11-14T13:20:00.000Z",
+          "description": "Eric Stone / Alaska Public Media: Alaska elects Democrat Jonathan Kreiss-Tomkins governor — Democrat Jonathan Kreiss-Tomkins, a former state representative from the small island community of Sitka, won the race for Alaska governor, according to a race call by the Associated Press. — At 37, he'll be…"
+        },
+        {
+          "title": "Jonathan Kreiss-Tomkins Is Alaska’s First Democratic Governor Since 1998",
+          "url": "https://internewscast.com/news/us/jonathan-kreiss-tomkins-is-alaskas-first-democratic-governor-since-1998",
+          "source": "Internewscast",
+          "published_at": "2026-11-14T08:05:43.000Z",
+          "description": "Internewscast Internewscast Alaska voters have chosen a Democrat for governor for the first time… This Post: Jonathan Kreiss-Tomkins Is Alaska’s First Democratic Governor Since 1998 first appeared on Internewscast"
+        }
+      ],
+      "summary": "Democrat Jonathan Kreiss-Tomkins won Alaska’s governor’s race, becoming the state’s first Democratic governor elected since 1998."
+    },
+    {
+      "id": "topic_3e0a3ac245b4cc4a",
+      "title": "Tesla Invites Select Customers to Buy Cybercab",
+      "headline": "Tesla Announces Cybercab for Personal Use",
+      "label": [
+        "cybercab",
+        "personal",
+        "tesla",
+        "use",
+        "invites",
+        "buy"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_f27553a94bab5edb",
+      "entities": [
+        "Tesla Announces Cybercab",
+        "Personal Use",
+        "Tesla",
+        "Cybercab"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Tesla Announces Cybercab for Personal Use",
+          "url": "https://www.theinformation.com/briefings/tesla-announces-cybercab-personal-use",
+          "source": "The Information",
+          "published_at": "2026-11-14T00:47:09.000Z",
+          "description": "Tesla is offering to “select customers” the opportunity to purchase Cybercab, its fully autonomous two-seat electric vehicle that lacks a steering wheel and pedals. In a post on X, the company lists an estimated purchase price of $29,990, which will make it the cheapest Tesla vehicle available. ..."
+        },
+        {
+          "title": "Tesla to offer Cybercab for personal use",
+          "url": "https://www.perthnow.com.au/news/business/tesla-to-offer-cybercab-for-personal-use-c-23162972",
+          "source": "PerthNow",
+          "published_at": "2026-11-14T08:48:29.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23162972/35cd8d4321b295cbb99a9f29dd10bfe758f697d7-16x9-x0y0w1280h720.jpg",
+          "description": "Tesla will offer some customers the chance to buy the Cybercab for personal use, but it will come with a big monthly subscription charge."
+        },
+        {
+          "title": "Tesla invites select customers to buy Cybercab for personal use",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-5027212",
+          "source": "All News",
+          "published_at": "2026-11-14T07:06:18.000Z"
+        },
+        {
+          "title": "Tesla starts taking Cybercab orders for personal use",
+          "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "published_at": "2026-11-14T13:59:48.000Z",
+          "description": "Tesla is sending select customers invitations to purchase the Cybercab for personal use."
+        },
+        {
+          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "source": "The Verge",
+          "published_at": "2026-11-14T14:18:36.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to…"
+        }
+      ],
+      "summary": "Tesla is inviting select customers to purchase its Cybercab for personal use. The fully autonomous two-seat vehicle has no steering wheel or pedals, and reports note a monthly subscription charge."
+    },
+    {
+      "id": "topic_9a4cc05bce690ccf",
+      "title": "Vaibhav Sooryavanshi Becomes Youngest Men’s T20 Captain",
+      "headline": "Sooryavanshi becomes youngest captain in men's T20 history",
+      "label": [
+        "sooryavanshi",
+        "t20",
+        "youngest",
+        "men",
+        "becomes",
+        "captain"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_e75848500cddbd14",
+      "entities": [
+        "Sooryavanshi",
+        "T20",
+        "Vaibhav Sooryavanshi",
+        "T20s",
+        "Indian Cricket"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Sooryavanshi becomes youngest captain in men's T20 history",
+          "url": "https://www.cricinfo.com/ci/content/story/1562583.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-11-14T06:04:29.000Z",
+          "description": "Vaibhav Sooryavanshi broke the record held by Croatia's Zach Vukusic, who captained his national team when he was 17 years and 311 days old"
+        },
+        {
+          "title": "Sooryavanshi becomes youngest captain in men's T20 cricket history",
+          "url": "https://www.thehindu.com/sport/cricket/sooryavanshi-becomes-youngest-captain-in-mens-t20-cricket-history/article71701393.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-14T10:12:49.000Z",
+          "description": "Sooryavanshi, however, could not make a significant contribution with the bat in his record-breaking outing, scoring 18 off 12 deliveries before being caught and bowled by left-arm pacer Chetan Sakariya"
+        },
+        {
+          "title": "Vaibhav Sooryavanshi scripts history, becomes youngest captain in men's T20 cricket history",
+          "url": "https://sports.yahoo.com/articles/vaibhav-sooryavanshi-scripts-history-becomes-114700163.html",
+          "published_at": "2026-11-14T11:47:00.000Z",
+          "description": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain."
+        },
+        {
+          "title": "Sooryavanshi becomes youngest captain in men's T20s",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo",
+          "source": "BBC Sport",
+          "published_at": "2026-11-14T09:53:45.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ea6/live/8d0137e0-e00d-11f1-b441-2b33b063138f.jpg",
+          "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket."
+        },
+        {
+          "title": "Indian Cricket's Teenage Sensation! Vaibhav Sooryavanshi Creates MASSIVE World Record At 15, Becomes Youngest Captain In T20 History",
+          "url": "https://www.freepressjournal.in/sports/indian-crickets-teenage-sensation-vaibhav-sooryavanshi-creates-massive-world-record-at-15-becomes-youngest-captain-in-t20-history",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-14T05:44:47.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-11-14/wqylsvki/Untitled-design-2026-11-14T111407.135.png"
+        }
+      ],
+      "summary": "India’s Vaibhav Sooryavanshi became the youngest captain in men’s T20 cricket, breaking the previous record held by Croatia’s Zach Vukusic."
+    },
+    {
+      "id": "topic_d3932ac631683696",
+      "title": "Philippines Wins Inaugural Eurovision Song Contest Asia",
+      "headline": "Philippines wins first Eurovision Song Contest Asia",
+      "label": [
+        "contest",
+        "eurovision",
+        "asia",
+        "philippines",
+        "wins",
+        "song"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_b0739a8849ab85ab",
+      "entities": [
+        "Philippines",
+        "Eurovision Song Contest Asia",
+        "Carmelle",
+        "Eurovision",
+        "Asia"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "url": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-14T22:44:00.000Z",
+          "description": "Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado's winning dance song is a tribute to Filipino women."
+        },
+        {
+          "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-14T19:01:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e",
+          "description": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the contest to…"
+        },
+        {
+          "title": "Philippines takes the crown in first Eurovision Song Contest Asia",
+          "url": "https://www.bbc.co.uk/news/videos/cqm2j0xkjvx7o",
+          "source": "BBC News",
+          "published_at": "2026-11-14T18:31:55.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b813/live/26acaab0-e058-11f1-b441-2b33b063138f.jpg",
+          "description": "BBC's Jonathan Head reports from the first ever Eurovision Song Contest Asia in Bangkok."
+        },
+        {
+          "title": "Philippines Wins Inaugural Eurovision Song Contest Asia in Thailand",
+          "url": "https://variety.com/2026/tv/global/philippines-wins-eurovision-song-contest-asia-carmelle-1236947812",
+          "source": "Variety",
+          "published_at": "2026-11-14T22:07:26.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/eurovision-winner.jpg",
+          "description": "The Philippines has won the first ever Eurovision Song Contest Asia. Carmelle, representing the Phillippines, scooped first place with the track “Sobra-Sobra,” earning 211 points. She beat Thailand’s act Mang x Daou, who came second place with 179 points, and Vietnam’s Tóc Tiên, who took third plac…"
+        },
+        {
+          "title": "Philippines' Carmelle wins Eurovision's first Asia contest",
+          "url": "https://entertainment.inquirer.net/690093/philippines-carmelle-wins-eurovisions-first-asia-contest",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-14T22:21:28.000Z",
+          "image": "https://entertainment.inquirer.net/files/2026/11/Philippines-Carmelle-wins-Eurovisions-first-Asia-contest-700x467.jpg",
+          "description": "BANGKOK — A teenage pop star from the Philippines won the first Asia edition of Eurovision on Saturday after a night of power ballads, pop-dance hits and pyrotechnics from the makers of the cult European kitsch fest. Carmelle, 19, was crowned queen of the inaugural Eurovision Song Contest Asia in B…"
+        }
+      ],
+      "summary": "The Philippines’ Carmelle Collado won the first Eurovision Song Contest Asia, held in Bangkok. Her song, “Sobra-Sobra,” took the top prize."
+    },
+    {
+      "id": "topic_d3909741e68dec60",
+      "title": "India and US Near Agreement on Trade Deal, Jaishankar Says",
+      "headline": "Reaching Finishing Line': S Jaishankar On India-US Trade Deal Negotiations",
+      "label": [
+        "jaishankar",
+        "trade",
+        "finishing",
+        "deal",
+        "us",
+        "line"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_bac9d430e431c395",
+      "entities": [
+        "Reaching Finishing Line",
+        "Jaishankar On India",
+        "US Trade Deal Negotiations",
+        "India",
+        "US"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Reaching Finishing Line': S Jaishankar On India-US Trade Deal Negotiations",
+          "url": "https://www.ndtv.com/india-news/reaching-finishing-line-s-jaishankar-on-india-us-trade-deal-negotiations-12326927",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-14T13:03:20.000Z",
+          "description": "S Jaishankar's remarks come a month before Prime Minister Narendra Modi's likely visit to the US for the G20 Summit, on the sidelines of which he and President Donald Trump may meet to review the broader trajectory of bilateral ties and progress on the trade pact."
+        },
+        {
+          "title": "India-US trade deal nears finish line, Jaishankar says both sides close to agreement",
+          "url": "https://www.indiatoday.in/india/story/india-us-trade-deal-nears-final-stage-jaishankar-modi-trump-g20-talks-ptag-3038838-2026-11-14",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-14T10:43:36.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mea-s-jaishankar-303921355-16x9.png?VersionId=4c6ppd.9BeXt_ouk2aQrR5tyw7LalMSu",
+          "description": "IndiaUS trade deal nears finish line Jaishankar says both sides close to agreement"
+        },
+        {
+          "title": "Bulk of issues resolved, India-US trade pact approaching 'finishing line': Jaishankar",
+          "url": "https://www.thehindubusinessline.com/economy/bulk-of-issues-resolved-india-us-trade-pact-approaching-finishing-line-jaishankar/article71701461.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-14T12:02:23.000Z",
+          "description": "India and the US have been engaged in talks since early 2025 on the proposed trade pact"
+        },
+        {
+          "title": "India-US Trade Deal Nears Final Breakthrough As EAM S Jaishankar Says Bulk Of Issues Resolved",
+          "url": "https://www.freepressjournal.in/india/india-us-trade-deal-nears-final-breakthrough-as-eam-s-jaishankar-says-bulk-of-issues-resolved",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-14T12:09:20.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2019-08/ebccc63e-8ce0-4262-af2a-020f5b80138c/645985_s_jaishankar_reuters.jpg"
+        },
+        {
+          "title": "‘Bulk of issues’ sorted regarding India-US trade deal, says S Jaishankar",
+          "url": "https://scroll.in/latest/1097080/bulk-of-issues-sorted-regarding-india-us-trade-deal-says-s-jaishankar",
+          "source": "Scroll.in",
+          "published_at": "2026-11-14T13:41:07.000Z",
+          "description": "The ‘last stretch of concerns remain at the American end’, not New Delhi, the minister said at the ‘Hindustan Times Leadership Summit’."
+        }
+      ],
+      "videos": [
+        {
+          "title": "S Jaishankar Interview | S Jaishankar On India-US Trade Deal Negotiations: 'Reaching Finishing Line'",
+          "url": "https://www.youtube.com/watch?v=PeyAZKHqxlo",
+          "video_id": "PeyAZKHqxlo",
+          "channel": "NDTV",
+          "published_at": "2026-11-14T16:00:08.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PeyAZKHqxlo/hqdefault.jpg"
+        }
+      ],
+      "summary": "Indian Foreign Minister S. Jaishankar said India and the United States have resolved most issues in negotiations on a proposed trade agreement and are approaching the final stage of talks."
+    },
+    {
+      "id": "topic_66821754981e7e9b",
+      "title": "Italy Fines Meta €805 Million Over Users’ Photos",
+      "headline": "Italy fines Meta $887 million over Android users’ data access",
+      "label": [
+        "meta",
+        "italy",
+        "fines",
+        "users",
+        "access",
+        "photo"
+      ],
+      "category": "trending",
+      "section": "technology",
+      "theme": "theme_7a29455a02bc493a",
+      "entities": [
+        "Italy",
+        "Meta",
+        "Android",
+        "Italy Fines Meta",
+        "Million Over Access"
+      ],
+      "article_count": 17,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "Italy fines Meta $887 million over Android users’ data access",
+          "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
+          "source": "All News",
+          "published_at": "2026-11-14T12:12:23.000Z"
+        },
+        {
+          "title": "Italy fines Meta €805M over photo privacy",
+          "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority",
+          "source": "Hacker News",
+          "published_at": "2026-11-14T16:00:14.000Z",
+          "description": "Comments"
+        },
+        {
+          "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-11-14T14:53:25.000Z",
+          "description": "The Italian Data Protection Authority fined Meta Platforms Inc. €805 million ($887 million) for accessing photos and videos of Android users’ galleries without their explicit consent."
+        },
+        {
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+          "source": "BBC News",
+          "published_at": "2026-11-14T16:29:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+          "description": "The social media giant is accused of not informing about 20 million users it had access to their photos."
+        },
+        {
+          "title": "Italy fines Meta $880mn over photo privacy",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/14/italy-fines-meta-880mn-over-photo-privacy_6780820_4.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-11-14T15:30:34.000Z",
+          "description": "Italy's data protection authority accused Facebook's parent company of accessing users' photos 'without obtaining specific consent and without properly informing them.'"
+        }
+      ],
+      "summary": "Italy’s data protection authority fined Meta €805 million, saying the company accessed Android users’ photos and videos without adequate consent or information. Reports put the number of affected users at about 20 million."
+    },
+    {
+      "id": "topic_90fbdd52d0cfa0fb",
+      "title": "Lutnick Faces Scrutiny Over Chip Exports and China Security Concerns",
+      "headline": "MAGA turns on Lutnick amid China spy scandal",
+      "label": [
+        "lutnick",
+        "scandal",
+        "spy",
+        "maga",
+        "turns",
+        "amid"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_b86c33df693207f6",
+      "entities": [
+        "MAGA",
+        "Lutnick",
+        "China",
+        "Axios",
+        "Blumenthal"
+      ],
+      "article_count": 6,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "MAGA turns on Lutnick amid China spy scandal",
+          "url": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
+          "source": "Axios",
+          "published_at": "2026-11-14T12:30:11.000Z",
+          "description": "Commerce Secretary Lutnick has become the face of the Trump administration's troubled response to Chinese espionage and potential national security threats. The most intense scrutiny is coming from Republicans on the Hill, fellow Cabinet members and the MAGA base. Why it matters: Regulators and pol…"
+        },
+        {
+          "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+          "url": "https://news.google.com/rss/articles/cbmilgfbvv95cuxolxf2tw1semtjzmncmevczun0czvvc3zptmlcrxg1q1zmmmdws1zsdg1db1zqthpwyxbfqxd2yvrusm14vnnvtzvntupir3o1ukllulbyaethx01fyw9wberywgjvzwjfv1rsti0xagh1v19pwu04bhbmrnp3r2vfn3llc0nmdhjocvhlueg0btlztwfuvhfsazsbqvvfexfmt1a1uwzqrc0ynv80uetmqv9dsmroa2nklvhmctznmjhbx3ltdmjrmxyzttq3vkozenjpaznytvrhnfh2cvpinnzhcepjsc1wvhbhbvrrtwloddlrttn5ynz4vxphbdnqv182nnnxbgtobtbhc180ukrzntlkndhpukxcakx5y3bzcgr2zupqsgw1zhaxs3dbetdvcuu",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-14T20:33:00.000Z",
+          "description": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal The Hill The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist MAGA turns on Lutnick amid China spy scandal Axios Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick oust…"
+        },
+        {
+          "title": "Why Nvidia ex-CEO's spy sex scandal has put Trump aide Lutnick in firing line",
+          "url": "https://www.indiatoday.in/world/us-news/story/nvidia-jensen-huang-affair-us-chip-export-controls-china-megaspeed-alice-huang-commerce-secretary-howard-lutnick-itspc-3038093-2026-11-14",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-14T02:30:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/howard-lutnick-and-jensen-huang-speaking-at-a-white-house-event-on-april-30--2025-image-getty-134745895-16x9_0.jpg?VersionId=nFVCLMWT.EiWfuMpri456K0lDB4c77dK",
+          "description": "Why Nvidia exCEOs spy sex scandal has put Trump aide Lutnick in firing line"
+        },
+        {
+          "title": "US Commerce Secretary Lutnick agrees to testify before Senate panel over Nvidia chip export controls",
+          "url": "https://www.thehindubusinessline.com/news/world/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-chip-export-controls/article71700689.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-14T01:00:13.000Z",
+          "description": "The proposed hearing will examine export control enforcement, the handling of the investigation and potential national security implications of overseas chip transfers"
+        },
+        {
+          "title": "MAGA turns on Lutnick amid China spy scandal (Axios)",
+          "url": "https://www.memeorandum.com/261114/p6",
+          "source": "memeorandum",
+          "published_at": "2026-11-14T12:55:02.000Z",
+          "description": "Axios: MAGA turns on Lutnick amid China spy scandal — Commerce Secretary Lutnick has become the face of the Trump administration's troubled response to Chinese espionage and potential national security threats. — The most intense scrutiny is coming from Republicans on the Hill, fellow Cabinet membe…"
+        }
+      ],
+      "summary": "US Commerce Secretary Howard Lutnick is facing criticism amid scrutiny of the administration’s response to China-related espionage concerns and Nvidia chip transfers. He has agreed to testify before a Senate panel about export-control enforcement and national security implications."
+    },
+    {
+      "id": "topic_9bd33cc9ab995847",
+      "title": "Voyager 1 Nears a Distance of One Light-Day from Earth",
+      "headline": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+      "label": [
+        "voyager",
+        "nasa",
+        "light",
+        "space",
+        "distance",
+        "interstellar"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_98706869d63f51a0",
+      "entities": [
+        "NASA",
+        "Voyager",
+        "AP News",
+        "Marcia Dunn",
+        "Associated Press"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+          "url": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html",
+          "source": "Phys.org - latest science and technology news stories",
+          "published_at": "2026-11-14T18:37:10.000Z",
+          "description": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space."
+        },
+        {
+          "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+          "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-14T15:14:54.000Z",
+          "description": "The probe was launched in 1977 but it continues to relay space-related data back to a team of NASA scientists daily."
+        },
+        {
+          "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record (Marcia Dunn/Associated Press)",
+          "url": "https://www.memeorandum.com/261114/p32",
+          "source": "memeorandum",
+          "published_at": "2026-11-14T16:05:02.000Z",
+          "description": "Marcia Dunn / Associated Press: NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record — NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space. That's a mind-blowing distance…"
+        },
+        {
+          "title": "NASA's Voyager 1 nears light-day in interstellar space",
+          "url": "https://www.perthnow.com.au/news/world/nasas-voyager-1-nears-light-day-in-interstellar-space-c-23163380",
+          "source": "PerthNow",
+          "published_at": "2026-11-14T17:01:08.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23163380/ef3707decdb30cf12be2569ed1fa7a860b997328-16x9-x0y0w1280h720.jpg",
+          "description": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth."
+        }
+      ],
+      "summary": "NASA’s Voyager 1 is nearing a distance of one light-day from Earth, a milestone that would make it the first human-made object to reach that distance. Launched in 1977, the spacecraft continues to send data to NASA scientists."
+    }
+  ]
+}
