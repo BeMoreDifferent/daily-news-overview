@@ -1,0 +1,1098 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-21T00:06:18.716Z",
+  "overview": {
+    "points": [
+      {
+        "text": "The White House replaced national cyber director Sean Cairncross with Pentagon CIO Kirsten Davies, while JPMorgan, Visa and Mastercard reported customer data exposure in third-party cyberattacks.",
+        "stories": [
+          1,
+          13
+        ]
+      },
+      {
+        "text": "The Senate passed a bipartisan bill to speed permitting for energy and infrastructure projects, but the measure faces further hurdles in the House.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "New York City Mayor Zohran Mamdani proposed closing Rikers Island by 2032 and moving its remaining population to smaller city jails, requiring a change to the legal deadline.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "President Donald Trump threatened a “tremendous tax” on US companies that build data centers abroad.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "Intuit agreed to sell Mailchimp to Italy-based Bending Spoons for an enterprise value of $3.68 billion, with the deal expected to close in early 2027.",
+        "stories": [
+          8
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_d1dcbba16655b3b6",
+      "title": "White House replaces national cyber director Sean Cairncross",
+      "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+      "label": [
+        "cyber",
+        "white",
+        "house",
+        "director",
+        "outages",
+        "tech"
+      ],
+      "category": "trending",
+      "section": "politics",
+      "theme": "theme_98671885d45b3615",
+      "entities": [
+        "White House",
+        "Sean Cairncross",
+        "White House Replaces Cyber",
+        "Director After Tech Outages",
+        "CNBC"
+      ],
+      "article_count": 45,
+      "source_count": 40,
+      "articles": [
+        {
+          "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-11-20T10:59:24.000Z",
+          "description": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies."
+        },
+        {
+          "title": "White House Replaces Cyber Director After Tech Outages",
+          "url": "https://yro.slashdot.org/story/26/11/20/1739245/white-house-replaces-cyber-director-after-tech-outages",
+          "source": "Slashdot",
+          "published_at": "2026-11-20T18:00:00.000Z",
+          "description": "President Trump has named Pentagon Chief Information Officer Kirsten A. Davies as his new national cyber director, replacing Sean Cairncross amid a broader shakeup of the administration's cybersecurity and AI leadership. According to Axios, White House Chief of Staff Stephen Miller pushed for Cairn…"
+        },
+        {
+          "title": "White House replaces national cyber director amid widespread tech outages",
+          "url": "https://abcnews.com/politics/white-house-replaces-national-cyber-director-amid-widespread/story",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-11-20T14:55:13.000Z",
+          "image": "https://s.abcnews.com/images/US/Sean-Cairncross-ap-gmh-261120_1795186372761_hpMain_4x3t_384.jpg",
+          "description": "White House National Cyber Director Sean Cairncross has been fired, according to a source close to the White House."
+        },
+        {
+          "title": "White House national cyber director fired after wave of tech outages",
+          "url": "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-20T07:03:40.000Z",
+          "image": "https://images.euronews.com/articles/stories/10/00/10/29/696x392_cmsv2_3461f1d0-fca0-561a-8ab7-083e12a778b3-10001029.jpg",
+          "description": "The national cyber director is tasked with advising the president on cybersecurity policy and strategy, including information security and data protection as well as deterrence of \"malicious\" activity."
+        },
+        {
+          "title": "White House Ousts National Cyber Director Sean Cairncross Amid Major Tech Outages",
+          "url": "https://securityboulevard.com/2026/11/white-house-ousts-national-cyber-director-sean-cairncross-amid-major-tech-outages",
+          "source": "Security Boulevard",
+          "published_at": "2026-11-20T19:16:25.000Z",
+          "description": "White House National Cyber Director Sean Cairncross was removed from his post on Thursday and will be succeeded on an acting basis by Pentagon technology chief Kirsten Davies. The leadership shakeup follows a week of widespread technology disruptions across major corporations, financial institution…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+          "url": "https://www.youtube.com/shorts/27MG4A2_usM",
+          "video_id": "27MG4A2_usM",
+          "channel": "CNBC Television",
+          "published_at": "2026-11-20T17:30:22.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/27MG4A2_usM/hqdefault.jpg"
+        },
+        {
+          "title": "White House Fires National Cyber Director Sean Cairncross | WION News",
+          "url": "https://www.youtube.com/watch?v=3KTDWdEH9N4",
+          "video_id": "3KTDWdEH9N4",
+          "channel": "WION",
+          "published_at": "2026-11-20T12:30:36.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/3KTDWdEH9N4/hqdefault.jpg"
+        },
+        {
+          "title": "White House Fires Cyber Director After Tech Outages Spark Criticism",
+          "url": "https://www.youtube.com/shorts/yntID6nfnZA",
+          "video_id": "yntID6nfnZA",
+          "channel": "NDTV",
+          "published_at": "2026-11-20T07:00:30.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/yntID6nfnZA/hqdefault.jpg"
+        }
+      ],
+      "summary": "The White House removed Sean Cairncross as national cyber director and named Pentagon Chief Information Officer Kirsten Davies as his replacement. The change comes amid reported technology outages and a broader administration cybersecurity shakeup."
+    },
+    {
+      "id": "topic_87d944a7e52b6f89",
+      "title": "Mamdani proposes closing Rikers Island jail by 2032",
+      "headline": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+      "label": [
+        "rikers",
+        "island",
+        "mamdani",
+        "close",
+        "plan",
+        "jail"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_a7646896ab9f3719",
+      "entities": [
+        "Zohran Mamdani",
+        "Rikers Island",
+        "New York",
+        "NYC Mayor Zohran Mamdani",
+        "Unveils Plan"
+      ],
+      "article_count": 18,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-20T10:00:30.000Z",
+          "image": "https://i.guim.co.uk/img/media/28eb137e704067f49713d583592e4263c0ac08c3/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ff5e113858df4a55f4e3e5cc4b6ae1c6",
+          "description": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughs Zohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its…"
+        },
+        {
+          "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+          "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-20T17:54:55.000Z",
+          "description": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars."
+        },
+        {
+          "title": "NYC Mayor Zohran Mamdani Unveils Plan to Close Rikers Island – VIDEO",
+          "url": "https://internewscast.com/videos/nyc-mayor-zohran-mamdani-unveils-plan-to-close-rikers-island-video",
+          "source": "Internewscast",
+          "published_at": "2026-11-20T15:23:46.000Z",
+          "description": "Internewscast Internewscast In a groundbreaking announcement, NYC Mayor Zohran Mamdani revealed a plan to… This Post: NYC Mayor Zohran Mamdani Unveils Plan to Close Rikers Island – VIDEO first appeared on Internewscast"
+        },
+        {
+          "title": "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-20T17:00:43.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/f250f053-9b82-4d92-a8ec-471f86e229a8_b706136d.jpg?itok=Z0nrg2sW&v=1795194037",
+          "description": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan…"
+        },
+        {
+          "title": "NYC mayor unveils plan to close notorious Rikers Island jail by 2032",
+          "url": "https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-20T15:03:20.000Z",
+          "image": "https://images.euronews.com/articles/stories/10/00/18/38/696x392_cmsv2_71940799-cd15-5259-a8ca-d98aa65cdc4a-10001838.jpg",
+          "description": "Rikers had been slated to close by August 2027 following legislation passed by the City Council in 2019. Moving the deadline will require a change to this law."
+        }
+      ],
+      "videos": [
+        {
+          "title": "NYC Mayor Mamdani unveils plan to close Rikers Island jail",
+          "url": "https://www.youtube.com/shorts/4RULBe2x-Os",
+          "video_id": "4RULBe2x-Os",
+          "channel": "NBC News",
+          "published_at": "2026-11-20T18:28:55.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/4RULBe2x-Os/hqdefault.jpg"
+        },
+        {
+          "title": "Mamdani unveils plan to close Rikers Island jail #shorts",
+          "url": "https://www.youtube.com/shorts/wr9nycL6HKU",
+          "video_id": "wr9nycL6HKU",
+          "channel": "Fox News",
+          "published_at": "2026-11-20T16:30:31.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/wr9nycL6HKU/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE: NYC Mayor Zohran Mamdani announces plan to close Rikers Island jail",
+          "url": "https://www.youtube.com/watch?v=HaiMKj5clvE",
+          "video_id": "HaiMKj5clvE",
+          "channel": "Associated Press",
+          "published_at": "2026-11-20T13:19:37.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/HaiMKj5clvE/hqdefault.jpg"
+        }
+      ],
+      "summary": "New York City Mayor Zohran Mamdani unveiled a plan to close Rikers Island by 2032 and move its remaining population to smaller jails across the city. The proposal would require changing the existing closure deadline set by law."
+    },
+    {
+      "id": "topic_710a3309cfaf7c65",
+      "title": "Trump threatens taxes on US companies building data centers abroad",
+      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "label": [
+        "data",
+        "centers",
+        "building",
+        "abroad",
+        "trump",
+        "companies"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_7355e48c32d16b2a",
+      "entities": [
+        "Trump",
+        "Trump Vows To Stop",
+        "US Companies From Building",
+        "Data Centers Abroad",
+        "Trump Vows"
+      ],
+      "article_count": 18,
+      "source_count": 17,
+      "articles": [
+        {
+          "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-11-20T17:56:35.000Z",
+          "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China."
+        },
+        {
+          "title": "Trump Vows To Stop US Companies From Building Data Centers Abroad",
+          "url": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad",
+          "source": "Slashdot",
+          "published_at": "2026-11-20T22:25:00.000Z",
+          "description": "Longtime Slashdot reader fahrbot-bot shares a report from CNBC: President Donald Trump on Friday said U.S. companies will be banned from building data centers in other countries and will face a \"tremendous tax\" penalty if they do so. \"We're going to fight very hard for the data centers,\" Trump said…"
+        },
+        {
+          "title": "Trump Vows to Tax US Companies Building Data Centers Abroad",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video",
+          "source": "Bloomberg Technology",
+          "published_at": "2026-11-20T18:03:47.000Z",
+          "description": "President Donald Trump said Friday that he wants to tax companies that build data centers outside the United States. Trump spoke during a press conference at the White House. (Source: Bloomberg)"
+        },
+        {
+          "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax' (Kevin Breuninger/CNBC)",
+          "url": "https://www.memeorandum.com/261120/p54",
+          "source": "memeorandum",
+          "published_at": "2026-11-20T18:45:00.000Z",
+          "description": "Kevin Breuninger / CNBC: Trump vows to stop U.S. companies from building data centers abroad, threatens ‘tremendous tax’ … President Donald Trump on Friday said U.S. companies will either be banned from building data centers in other countries, or will face a “tremendous tax” penalty if they do so."
+        },
+        {
+          "title": "Trump threatens a 'tremendous tax' on tech companies building data centers outside the US",
+          "url": "https://www.businessinsider.com/trump-warning-building-overseas-data-centers-2026-11",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-11-20T22:29:03.000Z",
+          "image": "https://i.insider.com/6b00b8fd73f126f9eccb9179?format=jpeg",
+          "description": "Trump threatened a \"tremendous tax\" on companies that build data centers outside the US. Mehmet Eser/Anadolu via Getty Images Trump threatened a \"tremendous tax\" on companies that build data centers outside the US. The warning comes as tech giants invest billions in overseas data center projects. T…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump says he will tax US companies that build data centers outside the US",
+          "url": "https://www.youtube.com/watch?v=zMAkBKp5LQE",
+          "video_id": "zMAkBKp5LQE",
+          "channel": "Associated Press",
+          "published_at": "2026-11-20T19:54:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/zMAkBKp5LQE/hqdefault.jpg"
+        },
+        {
+          "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "url": "https://www.youtube.com/shorts/HePmHD3xZuM",
+          "video_id": "HePmHD3xZuM",
+          "channel": "CNBC Television",
+          "published_at": "2026-11-20T19:41:52.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/HePmHD3xZuM/hqdefault.jpg"
+        },
+        {
+          "title": "Trump threatens to tax companies that build data centers abroad",
+          "url": "https://www.youtube.com/shorts/LE8gEVsncrQ",
+          "video_id": "LE8gEVsncrQ",
+          "channel": "NBC News",
+          "published_at": "2026-11-20T18:03:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/LE8gEVsncrQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "President Donald Trump said he wants to stop US companies from building data centers in other countries and threatened a “tremendous tax” on them. He made the remarks at a White House press conference."
+    },
+    {
+      "id": "topic_eb4429062b29e9d8",
+      "title": "Senate passes bipartisan energy and infrastructure permitting bill",
+      "headline": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+      "label": [
+        "passes",
+        "senate",
+        "bill",
+        "permitting",
+        "energy",
+        "projects"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_d4e0287c90bfd378",
+      "entities": [
+        "Senate Passes Major Permitting",
+        "Bill",
+        "Speed Up Energy Projects",
+        "Senate",
+        "Trump"
+      ],
+      "article_count": 14,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+          "url": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+          "source": "NYT > Science",
+          "published_at": "2026-11-20T03:35:38.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
+          "description": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House."
+        },
+        {
+          "title": "Senate passes Trump-backed permitting bill",
+          "url": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+          "source": "Axios",
+          "published_at": "2026-11-20T03:08:28.000Z",
+          "description": "The Senate passed a sweeping, bipartisan bill Thursday night that's designed to cut permitting timelines for energy and infrastructure projects. Why it matters: The eyes of the entire energy industry are on this bill. If it becomes law, it could transform how America builds energy infrastructure, w…"
+        },
+        {
+          "title": "US Senate passes bill to speed up energy project approvals",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-20T16:10:12.000Z",
+          "description": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges."
+        },
+        {
+          "title": "US Senate passes bipartisan bill to speed energy, infrastructure projects",
+          "url": "https://www.investing.com/news/commodities-news/us-senate-passes-bipartisan-bill-to-speed-energy-infrastructure-projects-5040581",
+          "source": "All News",
+          "published_at": "2026-11-20T03:30:19.000Z"
+        },
+        {
+          "title": "Senate passes bipartisan permitting bill designed to boost energy projects",
+          "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-20T03:18:00.000Z",
+          "description": "The Senate approved a long-sought bipartisan permitting reform bill on Thursday, following a major breakthrough on legislation that aims to cut costs by ramping up the speed of infrastructure and energy projects."
+        }
+      ],
+      "summary": "The Senate passed a bipartisan bill intended to speed up permitting for energy and infrastructure projects. The measure would change federal environmental review rules and faces further hurdles in the House."
+    },
+    {
+      "id": "topic_2e7544077485d209",
+      "title": "Texans beat Colts 26-3 to keep playoff hopes alive",
+      "headline": "Texans beat Colts to keep playoff hopes alive",
+      "label": [
+        "texans",
+        "colts",
+        "stroud",
+        "alive",
+        "playoff",
+        "keep"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_7d90ea420447d963",
+      "entities": [
+        "Texans",
+        "Colts",
+        "Stroud",
+        "TD",
+        "Stroud Dominates In Texans"
+      ],
+      "article_count": 13,
+      "source_count": 10,
+      "articles": [
+        {
+          "title": "Texans beat Colts to keep playoff hopes alive",
+          "url": "https://www.the42.ie/colts-v-texans-7232131-nov2026",
+          "source": "The 42",
+          "published_at": "2026-11-20T08:11:35.000Z",
+          "description": "CJ Stroud threw three TDs in a 26-3 success for Houston."
+        },
+        {
+          "title": "Stroud, defense star as Texans beat Colts to keep playoff hopes alive",
+          "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense",
+          "source": "www.espn.com - TOP",
+          "published_at": "2026-11-20T04:31:34.000Z",
+          "description": "C.J. Stroud and a swarming defense helped Houston beat Indy on 'Thursday Night Football.'"
+        },
+        {
+          "title": "Texans rout Colts to keep playoff hopes alive",
+          "url": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/texans-rout-colts-nfl",
+          "source": "Latest articles - The Japan Times",
+          "published_at": "2026-11-20T05:12:00.000Z",
+          "description": "Nico Collins, Kayshon Boutte and Marlin Klein all reached the end zone in Houston's first home win of the season."
+        },
+        {
+          "title": "Stroud Dominates In Texans Blowout Over Colts",
+          "url": "https://sports.yahoo.com/articles/stroud-dominates-texans-blowout-over-135014596.html",
+          "published_at": "2026-11-20T13:50:14.000Z",
+          "description": "C.J. Stroud throws three TDs as Houston beats Indianapolis 26-3. Read the stats, injury updates, and quotes from the Thursday Night Football win."
+        },
+        {
+          "title": "Texans finally get first win at home in 2026 season, dismantling lowly Colts to keep playoff dreams alive",
+          "url": "https://www.foxnews.com/outkick-sports/texans-finally-get-first-win-home-2026-season-dismantling-lowly-colts-keep-playoff-dreams-alive",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-11-20T04:20:40.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/nico-collins-david-montgomery-touchdown-texans.jpg?ve=1&tl=1",
+          "description": "C.J. Stroud's 42-yard strike to Nico Collins and a suffocating Texans defense crushed Daniel Jones as Houston snapped its 0-4 home skid at NRG Stadium."
+        }
+      ],
+      "summary": "Houston beat Indianapolis 26-3, with quarterback C.J. Stroud throwing three touchdown passes. The victory kept the Texans’ playoff hopes alive and gave them their first home win of the season."
+    },
+    {
+      "id": "topic_19094e0bafb635fe",
+      "title": "Signal blocks screenshots to protect private chats from AI access",
+      "headline": "Signal Just Blocked Screenshots to Keep AI Agents Out of Your Chats",
+      "label": [
+        "signal",
+        "screenshots",
+        "blocking",
+        "chats",
+        "ai",
+        "siri"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_9c910f0dbae92f7a",
+      "entities": [
+        "Signal Just Blocked Screenshots",
+        "Keep AI Agents Out",
+        "Your Chats",
+        "Signal",
+        "AI"
+      ],
+      "article_count": 12,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Signal Just Blocked Screenshots to Keep AI Agents Out of Your Chats",
+          "url": "https://dev.to/indirectb/signal-just-blocked-screenshots-to-keep-ai-agents-out-of-your-chats-26of",
+          "source": "DEV Community",
+          "published_at": "2026-11-20T16:57:15.000Z",
+          "description": "Today, Signal did something I did not expect to see from a messaging app in 2026: it started blocking screenshots inside its own app, on purpose, by default. The reason is not the one you might guess. This is not about stopping people from saving a message they were sent. Signal's president, Meredi…"
+        },
+        {
+          "title": "Signal blocks screenshots to stop AI agents from reading private chats",
+          "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-20T18:05:49.000Z",
+          "description": "The messaging platform said operating system-level AI integrations could undermine app privacy protections by accessing sensitive information displayed on screens."
+        },
+        {
+          "title": "Signal blocks screenshots to keep Siri and Gemini out of private chats",
+          "url": "https://cyberinsider.com/signal-blocks-screenshots-ios-27-android-ai-assistants",
+          "source": "CyberInsider",
+          "published_at": "2026-11-20T14:19:58.000Z",
+          "description": "Signal is restricting screenshots on iOS 27 and supported Android devices to prevent AI assistants from reading private conversations. The move extends a similar protection Signal introduced last year to stop Microsoft Recall from capturing chats on Windows 11. Signal President Meredith Whittaker a…"
+        },
+        {
+          "title": "Signal blocking screenshots to keep AI assistants out of private chats",
+          "url": "https://mashable.com/tech/signal-blocks-screenshots-ai-assistants",
+          "source": "Mashable",
+          "published_at": "2026-11-20T21:14:52.000Z",
+          "description": "Signal is blocking in-app screenshots on iOS 27 and limiting AI screen capture on some Android phones. Here's how the new privacy settings work."
+        },
+        {
+          "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+          "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats",
+          "source": "The Decoder",
+          "published_at": "2026-11-20T19:50:27.000Z",
+          "description": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should…"
+        }
+      ],
+      "summary": "Signal is blocking in-app screenshots on iOS 27 and limiting screen capture on some Android devices. The company said operating-system AI integrations could access sensitive information displayed on users’ screens."
+    },
+    {
+      "id": "topic_5bf6ddb4169f5791",
+      "title": "India’s Supreme Court rejects Tamil Nadu plea for Cauvery water",
+      "headline": "Cauvery Water Dispute: SC dismisses Tamil Nadu's pleas seeking 11 TMC water from Karnataka; what happens next?",
+      "label": [
+        "cauvery",
+        "water",
+        "plea",
+        "nadu",
+        "tamil",
+        "karnataka"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_a504fafe900ba774",
+      "entities": [
+        "Cauvery Water Dispute",
+        "SC",
+        "Tamil Nadu",
+        "TMC",
+        "Karnataka"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Cauvery Water Dispute: SC dismisses Tamil Nadu's pleas seeking 11 TMC water from Karnataka; what happens next?",
+          "url": "https://www.dnaindia.com/india/report-cauvery-water-dispute-sc-dismisses-tamil-nadu-s-pleas-seeking-11-tmc-water-from-karnataka-what-happens-next-3224376",
+          "source": "India News",
+          "published_at": "2026-11-20T05:44:00.000Z",
+          "description": "The Supreme Court has dismissed Tamil Nadu's pleas seeking 11 TMC of Cauvery water from Karnataka. Know what happens next and understand the existing water-sharing arrangement."
+        },
+        {
+          "title": "SC rejects Tamil Nadu plea seeking more Cauvery water from Karnataka",
+          "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-tamil-nadus-plea-seeking-order-to-karnataka-to-release-extra-water-to-fulfill-shortage-3042907-2026-11-20",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-20T05:35:11.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cauvery-water-distribution-2036208-16x9_0.jpg?VersionId=c9v5n3DKpfvgj39fjhw80NAD2R4o7.4N"
+        },
+        {
+          "title": "Supreme Court Dismisses Tamil Nadu's Pleas Seeking 11 TMC Cauvery Water Release From Karnataka",
+          "url": "https://www.freepressjournal.in/india/supreme-court-dismisses-tamil-nadus-pleas-seeking-11-tmc-cauvery-water-release-from-karnataka",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-20T11:44:09.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-11-20/24n5d05o/Supreme-Court-and-Cauvery-Barrage-Waterscape.png"
+        },
+        {
+          "title": "SC declines Tamil Nadu's plea seeking 11 TMC Cauvery water from Karnataka",
+          "url": "https://timesofindia.indiatimes.com/india/supreme-court-declines-tamil-nadus-plea-seeking-11-tmc-cauvery-water-from-karnataka/articleshow/136014622.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-20T05:30:43.000Z"
+        },
+        {
+          "title": "Watch: Cauvery dispute: SC dismisses Tamil Nadu’s plea for 11 TMC water",
+          "url": "https://www.thehindu.com/videos/watch-cauvery-dispute-sc-dismisses-tamil-nadus-plea-for-11-tmc-water/article71724637.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-20T14:28:40.000Z",
+          "description": "The Supreme Court dismisses Tamil Nadu’s pleas seeking over 11 TMC of additional Cauvery water from Karnataka."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Cauvery Water Row: Supreme Court Reserves Order on Tamil Nadu's Plea | WION News",
+          "url": "https://www.youtube.com/watch?v=1WsW69tmHPE",
+          "video_id": "1WsW69tmHPE",
+          "channel": "WION",
+          "published_at": "2026-11-20T12:59:10.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/1WsW69tmHPE/hqdefault.jpg"
+        },
+        {
+          "title": "Cauvery Water Release | Top Court Dismisses TN's Pleas For Cauvery Water Release From Karnataka",
+          "url": "https://www.youtube.com/watch?v=MZN4ggVNsIs",
+          "video_id": "MZN4ggVNsIs",
+          "channel": "NDTV",
+          "published_at": "2026-11-20T09:30:08.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/MZN4ggVNsIs/hqdefault.jpg"
+        }
+      ],
+      "summary": "India’s Supreme Court rejected Tamil Nadu’s pleas seeking 11 TMC of additional Cauvery water from Karnataka."
+    },
+    {
+      "id": "topic_83e3b15459e1349",
+      "title": "Intuit agrees to sell Mailchimp to Bending Spoons for $3.68 billion",
+      "headline": "Intuit sells Mailchimp to Bending Spoons for a third of its 2021 price",
+      "label": [
+        "mailchimp",
+        "bending",
+        "spoons",
+        "intuit",
+        "sells",
+        "third"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_219b4275fce58369",
+      "entities": [
+        "Intuit",
+        "Mailchimp",
+        "Bending Spoons",
+        "Intuit Reports",
+        "Revenue Growth"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Intuit sells Mailchimp to Bending Spoons for a third of its 2021 price",
+          "url": "https://thenextweb.com/news/intuit-sells-mailchimp-bending-spoons-3-68bn",
+          "source": "The Next Web",
+          "published_at": "2026-11-20T09:35:39.000Z",
+          "image": "https://media.thenextweb.com/2026/06/bending-spoons-ipo-pricing-19-billion-valuation-nasdaq.avif",
+          "description": "Intuit has agreed to sell Mailchimp to Bending Spoons at an enterprise value of $3.68bn, five years after it paid about $12bn for the email marketing platform. Both companies announced the deal on Thursday, alongside Intuit’s first-quarter results. Bending Spoons, the Milan company that owns Everno…"
+        },
+        {
+          "title": "Intuit Reports 12% Revenue Growth, Sells Mailchimp to Bending Spoons",
+          "url": "https://smallbiztrends.com/intuit-reports-12-revenue-growth-sells-mailchimp-to-bending-spoons",
+          "source": "Small Business Trends",
+          "published_at": "2026-11-20T14:33:00.000Z",
+          "description": "Discover how Intuit achieved a remarkable 12% revenue growth and the strategic sale of Mailchimp to Bending Spoons, highlighting key insights and implications for the future of both companies."
+        },
+        {
+          "title": "Bending Spoons buys Mailchimp for $3.68 billion",
+          "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion",
+          "source": "TechCrunch",
+          "published_at": "2026-11-20T16:16:06.000Z",
+          "description": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
+        },
+        {
+          "title": "Italy’s Bending Spoons to buy Mailchimp from Intuit for $3.68bn",
+          "url": "https://www.siliconrepublic.com/business/italys-bending-spoons-to-buy-mailchimp-from-intuit-for-3-68bn",
+          "source": "Silicon Republic",
+          "published_at": "2026-11-20T09:51:43.000Z",
+          "description": "The deal, which is expected to close in early 2027, comes five years after Intuit bought Mailchimp for roughly $12bn. Read more: Italy’s Bending Spoons to buy Mailchimp from Intuit for $3.68bn"
+        },
+        {
+          "title": "E-Mail-Dienst: Bending Spoons kauft Mailchimp",
+          "url": "https://www.golem.de/news/e-mail-dienst-bending-spoons-kauft-mailchimp-2611-215450.html",
+          "source": "Golem.de",
+          "published_at": "2026-11-20T08:55:01.000Z"
+        }
+      ],
+      "summary": "Intuit has agreed to sell Mailchimp to Italy-based Bending Spoons at an enterprise value of $3.68 billion. Intuit bought the email marketing company for about $12 billion in 2021; the sale is expected to close in early 2027."
+    },
+    {
+      "id": "topic_dc1d6d87e5a05eee",
+      "title": "Mexico City holds parade marking Revolution anniversary",
+      "headline": "En vivo: Desfile Cívico Militar del 116 Aniversario de la Revolución Mexicana en CDMX",
+      "label": [
+        "revolución",
+        "mexicana",
+        "aniversario",
+        "desfile",
+        "desfilan",
+        "cdmx"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_a6ff1390202208df",
+      "entities": [
+        "Desfile",
+        "Militar",
+        "Aniversario",
+        "Revoluci",
+        "Mexicana"
+      ],
+      "article_count": 15,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "En vivo: Desfile Cívico Militar del 116 Aniversario de la Revolución Mexicana en CDMX",
+          "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/en-vivo-desfile-civico-militar-del-116-aniversario-de-la-revolucion-mexicana-en-cdmx.html",
+          "source": "Portada, El Siglo de Torreón",
+          "published_at": "2026-11-20T16:28:22.000Z",
+          "description": "Este viernes 20 de noviembre se conmemora el 116 Aniversario del inicio de la Revolución Mexicana, con un evento encabezado por la presidenta Claudia Sheinbaum, acompañada de miembros de su gabinete, los presidentes del Congreso, el ministro presiente de la Suprema Corte y la fiscal general Ernesti…"
+        },
+        {
+          "title": "Sheinbaum encabeza el desfile por el 116 Aniversario de la Revolución Mexicana",
+          "url": "https://www.informador.mx/mexico/sheinbaum-encabeza-en-el-zocalo-el-desfile-civico-militar-por-el-116-aniversario-de-la-revolucion-mexicana-20261120-0074.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-11-20T17:24:00.000Z",
+          "description": "Tras regresar de su participación en el Foro de Cooperación Económica Asia-Pacífico (APEC) en China, la Claudia Sheinbaum presidió la ceremonia conmemorativa en la capital del país"
+        },
+        {
+          "title": "Desfilan más de 30 contingentes en Monclova por aniversario de la Revolución Mexicana",
+          "url": "https://vanguardia.com.mx/coahuila/desfilan-mas-de-30-contingentes-en-monclova-por-aniversario-de-la-revolucion-mexicana-kk24953768",
+          "source": "Vanguardia",
+          "published_at": "2026-11-20T23:15:47.000Z",
+          "description": "MONCLOVA, COAH.- Con la participación de más de 30 contingentes de instituciones educativas, corporaciones de seguridad y cuerpos de rescate, Monclova conmemoró el 116 aniversario del inicio de la Revolución Mexicana con un desfile cívico encabezado por el alcalde Carlos Villarreal. ⁣​​‌​‍‍‌‌⁠‌‍⁠‌‍…"
+        },
+        {
+          "title": "Desfilan por 116 Aniversario de la Revolución",
+          "url": "https://www.reforma.com/desfilan-por-116-aniversario-de-la-revolucion/ar3318285",
+          "source": "Reforma",
+          "published_at": "2026-11-20T16:10:29.000Z",
+          "description": "El desfile cívico militar para conmemorar el 116 Aniversario de la Revolución arrancó en el Zócalo de la Ciudad de México."
+        },
+        {
+          "title": "Desfilan en CDMX por el Aniversario de la Revolución",
+          "url": "https://www.elnorte.com/desfilan-en-cdmx-por-el-aniversario-de-la-revolucion/ar3318326",
+          "source": "ElNorte",
+          "published_at": "2026-11-20T16:10:58.000Z",
+          "description": "El desfile cívico militar para conmemorar el 116 Aniversario de la Revolución se lleva a cabo en el Zócalo de la Ciudad de México."
+        }
+      ],
+      "summary": "A civic-military parade took place in Mexico City’s Zócalo to mark the 116th anniversary of the start of the Mexican Revolution. President Claudia Sheinbaum led the commemorations."
+    },
+    {
+      "id": "topic_c87b03f4d95c89ad",
+      "title": "Anthropic IPO fails to halt global AI-related stock selloff",
+      "headline": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+      "label": [
+        "fails",
+        "ipo",
+        "stocks",
+        "anthropic",
+        "fall",
+        "stem"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_3b70b06287bf0c83",
+      "entities": [
+        "Tech",
+        "Anthropic IPO",
+        "AI",
+        "Financial Times",
+        "Global"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+          "source": "International homepage",
+          "published_at": "2026-11-20T03:51:30.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd449f0a1-e996-4b08-823b-ac513e3ea2c8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing"
+        },
+        {
+          "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Economics | The Guardian",
+          "published_at": "2026-11-20T10:02:21.000Z",
+          "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=140&quality=85&auto=format&fit=max&s=8054262018f759c5048bb4a149c0afd5",
+          "description": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets were on track for their worst w…"
+        },
+        {
+          "title": "Anthropic IPO fails to calm AI jitters as tech stocks fall further",
+          "url": "http://www.hongkongnews.net/news/279445693/anthropic-ipo-fails-to-calm-ai-jitters-as-tech-stocks-fall-further",
+          "source": "www.hongkongnews.net latest rss headlines",
+          "published_at": "2026-11-20T03:06:14.000Z",
+          "description": "Anthropic shares briefly rocketed from an initial offering price of $83 to over $110 after a stellar opening on Thursday, but fell back amid a broader sell-off Friday, with the price dipping below $90. \"The performance of the shares over the coming days and weeks could provide one of the clearest t…"
+        },
+        {
+          "title": "US stock futures fall as Anthropic IPO fails to quell AI worries",
+          "url": "https://www.moneyweb.co.za/news/ai/us-stock-futures-fall-as-anthropic-ipo-fails-to-quell-ai-worries",
+          "source": "Moneyweb",
+          "published_at": "2026-11-20T11:03:52.000Z",
+          "description": "The Claude chatbot maker dropped more than 6% in early trading on Friday, partly reversing its first day’s 17% gain."
+        },
+        {
+          "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-20T12:26:42.000Z",
+          "image": "https://i.guim.co.uk/img/media/c1bc477780b6c1ea31cf14df5a582eb755bddcaf/936_0_6323_5059/master/6323.jpg?width=140&quality=85&auto=format&fit=max&s=4d14597a45cbf6f010ae536d520c65e0",
+          "description": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missions Good morning. Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. The…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Asian tech stocks fall sharply after Anthropic's blockbuster IPO",
+          "url": "https://www.youtube.com/shorts/_TdUVGXYgx4",
+          "video_id": "_TdUVGXYgx4",
+          "channel": "Nikkei Asia",
+          "published_at": "2026-11-20T11:41:23.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/_TdUVGXYgx4/hqdefault.jpg"
+        },
+        {
+          "title": "Stocks, gold and silver fall after blockbuster Anthropic IPO",
+          "url": "https://www.youtube.com/watch?v=4VHj7n3z-AE",
+          "video_id": "4VHj7n3z-AE",
+          "channel": "euronews Business",
+          "published_at": "2026-11-20T10:19:30.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/4VHj7n3z-AE/hqdefault.jpg"
+        },
+        {
+          "title": "Stocks, gold and silver fall after blockbuster Anthropic IPO",
+          "url": "https://www.youtube.com/watch?v=3RiiLcqrldo",
+          "video_id": "3RiiLcqrldo",
+          "channel": "euronews",
+          "published_at": "2026-11-20T08:54:51.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/3RiiLcqrldo/hqdefault.jpg"
+        }
+      ],
+      "summary": "Anthropic shares rose sharply on their first day of trading before falling as technology stocks continued to slide. The company’s high-profile IPO did not ease investor concerns about AI-related stocks."
+    },
+    {
+      "id": "topic_f2cd0d50bb95a7e9",
+      "title": "Patrick Stewart’s death certificate lists cause of death",
+      "headline": "Patrick Stewart Cause Of Death Revealed",
+      "label": [
+        "stewart",
+        "patrick",
+        "death",
+        "cause",
+        "revelan",
+        "causa"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_b5d9da1a07e18fe",
+      "entities": [
+        "Patrick Stewart Cause Of",
+        "Death Revealed",
+        "Patrick Stewart",
+        "Cause",
+        "Death"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Patrick Stewart Cause Of Death Revealed",
+          "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735",
+          "source": "Deadline",
+          "published_at": "2026-11-20T01:16:13.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp",
+          "description": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ. The death certi…"
+        },
+        {
+          "title": "Patrick Stewart’s Cause of Death & More Details Revealed by Death Certificate",
+          "url": "https://www.comingsoon.net/movies/news/2228093-star-trek-x-men-icon-patrick-stewart-death-certificate-new-details",
+          "source": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
+          "published_at": "2026-11-20T05:34:06.000Z",
+          "description": "Sir Patrick Stewart’s death certificate has surfaced, providing the medical explanation behind the actor’s passing and revealing how his remains were handled. The document fills in specifics that his family’s earlier statement left unstated. Stewart died at 86, closing a career that ran nearly six…"
+        },
+        {
+          "title": "Death certificate reveals Patrick Stewart’s cause of death",
+          "url": "https://news.google.com/rss/articles/cbmihwfbvv95cuxnbe1hstfnrm1fbgw1uu5latvxrvfjx0jbr0xuc2z0cepxswnmtguwtdhmthncyzzwn2nvn0fxrmi3rxvwnehjak5nmenxdfpzmudvufl4ek9ltnzqchkwcm5tdkswcldocne3wwjeouzdmwzytknlc1lkt25ot2pvtg5butm5a3psaywbqvvfexfmt0lnb3g5qzvfsvdkvwhovlhvbno2snqtogz3vuqwnlhnr1rmchp3egrnz212bnz2qtnjzxljanlhqmvimdz3wtffmfzmym5tx19ytzvht3pvzgvtwvfuvhjwwfn0bkpzoc0zmhhftwc2adngqzr2stf0emzfchnslxpmsllxtfnickfnskc",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-20T11:50:35.000Z",
+          "description": "Death certificate reveals Patrick Stewart’s cause of death FOX 8 NewsSee more headlines & perspectives on Google News"
+        },
+        {
+          "title": "Revelan causa de muerte de Patrick Stewart",
+          "url": "https://www.informador.mx/entretenimiento/revelan-causa-de-muerte-de-patrick-stewart-esto-dice-su-certificado-20261120-0038.html",
+          "source": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "published_at": "2026-11-20T13:57:00.000Z",
+          "description": "Medios confirmaron la causa de muerte descrita en los documentos oficiales"
+        },
+        {
+          "title": "Official cause of Patrick Stewart's death confirmed",
+          "url": "https://entertainment.inquirer.net/690878/official-cause-of-patrick-stewarts-death-confirmed",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-20T06:53:50.000Z",
+          "image": "https://entertainment.inquirer.net/files/2026/10/AP26302717069770-700x467.jpg",
+          "description": "Hollywood star Patrick Stewart died in October from cardiopulmonary arrest and a neurocognitive disorder with Lewy body, according to his death certificate. Stewart’s cause of death was confirmed by foreign media outlet TMZ, which obtained the actor’s death certificate. The English actor’s demise w…"
+        }
+      ],
+      "summary": "A death certificate for actor Patrick Stewart lists cardiopulmonary arrest and a neurocognitive disorder with Lewy bodies as causes of death. Stewart died on October 28, according to the reports."
+    },
+    {
+      "id": "topic_39aa42dd1af4f707",
+      "title": "Anthropic mathematician claims Claude helped prove Riemann hypothesis",
+      "headline": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+      "label": [
+        "math",
+        "problem",
+        "mathematician",
+        "solved",
+        "anthropic",
+        "claude"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_ec3ea8b01762da01",
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Anthropic Mathematician Claims",
+        "Have Solved Math",
+        "Most Famous Problem"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+          "source": "Latest from Tom's Hardware",
+          "published_at": "2026-11-20T16:30:08.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/FpyrzhxuSBtv2GwT3GsT95-1920-80.jpg",
+          "description": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude."
+        },
+        {
+          "title": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem",
+          "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+          "source": "NYT > Science",
+          "published_at": "2026-11-20T21:47:03.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+          "description": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence."
+        },
+        {
+          "title": "Anthropic mathematician says Claude helped him solve a 167-year-old math problem",
+          "url": "https://www.techradar.com/ai-platforms-assistants/claude/claude-helps-anthropic-mathematician-solve-a-167-year-old-math-problem-riemann-hypothesis-potentially-proven-after-the-ai-flew-danced-and-sparkled-in-breakthrough",
+          "source": "Latest from TechRadar",
+          "published_at": "2026-11-20T18:42:11.000Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/zuthEZW5DZ9K7XAyTMNpWh-1920-80.jpg",
+          "description": "An Anthropic mathematician claims to have used Claude to solve a problem that's stumped math professors for decades — and may have won a $1 million bounty in the process."
+        },
+        {
+          "title": "Anthropic mathematician says Claude helped solve the 'biggest problem in math'",
+          "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
+          "source": "All Content from Business Insider",
+          "published_at": "2026-11-20T18:37:16.000Z",
+          "image": "https://i.insider.com/6b0090c273f126f9eccb8f1e?format=jpeg",
+          "description": "A mathematician at Anthropic said he solved one of the biggest problems in math using Claude. CHARLY TRIBALLEAU / AFP via Getty Images A mathematician said on Friday that he cracked one of the biggest problems in mathematics. Levent Alpöge, a member of Anthropic's technical staff, said he used Clau…"
+        },
+        {
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "source": "The Verge",
+          "published_at": "2026-11-20T16:34:13.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathem…"
+        }
+      ],
+      "summary": "Anthropic mathematician Levent Alpöge claims he proved the Riemann hypothesis with help from the Claude AI model. The headlines report the claim but do not establish that the proof has been verified."
+    },
+    {
+      "id": "topic_7857374274d62da2",
+      "title": "JPMorgan, Visa and Mastercard report customer data exposure",
+      "headline": "JPMorgan, Visa, Mastercard confirm customer data exposure",
+      "label": [
+        "jpmorgan",
+        "mastercard",
+        "visa",
+        "customer",
+        "data",
+        "third"
+      ],
+      "category": "trending",
+      "section": "technology",
+      "theme": "theme_1150665b684ca5c8",
+      "entities": [
+        "JPMorgan",
+        "Visa",
+        "Mastercard",
+        "Hackers Leak Customer Data",
+        "Linked"
+      ],
+      "article_count": 19,
+      "source_count": 19,
+      "articles": [
+        {
+          "title": "JPMorgan, Visa, Mastercard confirm customer data exposure",
+          "url": "http://www.hongkongnews.net/news/279443934/jpmorgan-visa-mastercard-confirm-customer-data-exposure",
+          "source": "www.hongkongnews.net latest rss headlines",
+          "published_at": "2026-11-20T16:10:21.000Z",
+          "description": "NEW YORK CITY, New York: JPMorgan Chase, Visa and Mastercard said some customer data, including email addresses, was exposed after cyberattacks on third-party vendors, though all three said their own systems and payment data were not affected. JPMorgan, the large"
+        },
+        {
+          "title": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks",
+          "url": "https://cybersecuritynews.com/visa-mastercard-jpmorgan-data-breach",
+          "source": "Cyber Security News",
+          "published_at": "2026-11-20T06:02:03.000Z",
+          "description": "Hackers published customer data linked to Visa, Mastercard and JPMorgan Chase on Thursday, November 19, after cyberattacks on third-party service providers. All three companies said their own networks were not breached. Visa said no card numbers were affected, Mastercard said the leak involved a li…"
+        },
+        {
+          "title": "Chase, Visa, Mastercard Customer Data Leaked In Cyberattack",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/20/chase-visa-mastercard-customer-data-leaked-in-cyberattack",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-20T15:02:06.000Z",
+          "description": "The announcement comes days after Chase Bank blamed a \"software bug\" for thousands of users being locked out of their accounts."
+        },
+        {
+          "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+          "url": "https://www.itnews.com.au/news/jpmorgan-visa-mastercard-say-third-party-vendors-targeted-in-cyberattack-630480",
+          "source": "iTnews",
+          "published_at": "2026-11-20T03:15:00.000Z",
+          "description": "Non-payment information accessed."
+        },
+        {
+          "title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+          "url": "https://buaq.net/go-456271.html",
+          "source": "unSafe.sh - 不安全",
+          "published_at": "2026-11-20T05:33:52.000Z",
+          "description": "Visa、Mastercard 和摩根大通（JPMorgan）披露客户数据泄露，但数据是通过第三方服务提供商泄漏的，它们自身的核心系统或支付网络都未受影响。泄漏的数据包括姓名、电邮地址，部"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visa, Mastercard, JPMorgan Chase report data leaks",
+          "url": "https://www.youtube.com/shorts/Uw5D0EYQcMw",
+          "video_id": "Uw5D0EYQcMw",
+          "channel": "PBS NewsHour",
+          "published_at": "2026-11-20T17:15:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Uw5D0EYQcMw/hqdefault.jpg"
+        },
+        {
+          "title": "Cyberattack Rocks Global Finance! Visa, Mastercard & JPMorgan Data Targeted By Hackers | ET Now",
+          "url": "https://www.youtube.com/watch?v=Xk7fB98PQV0",
+          "video_id": "Xk7fB98PQV0",
+          "channel": "ET Now",
+          "published_at": "2026-11-20T02:40:07.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xk7fB98PQV0/hqdefault.jpg"
+        },
+        {
+          "title": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
+          "url": "https://www.youtube.com/watch?v=wovL_QyF9ko",
+          "video_id": "wovL_QyF9ko",
+          "channel": "CBS News",
+          "published_at": "2026-11-20T01:45:41.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/wovL_QyF9ko/hqdefault.jpg"
+        }
+      ],
+      "summary": "JPMorgan Chase, Visa and Mastercard said customer information was exposed in cyberattacks on third-party service providers. The companies said their own networks or payment systems were not affected."
+    },
+    {
+      "id": "topic_4dfd5dd98e60e711",
+      "title": "FIFA president Gianni Infantino visits Warri, Nigeria",
+      "headline": "CONMEBOL backs Infantino's reelection as FIFA president",
+      "label": [
+        "fifa",
+        "infantino",
+        "president",
+        "warri",
+        "conmebol",
+        "reelection"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_c137a57c5e8bfa04",
+      "entities": [
+        "CONMEBOL",
+        "Infantino",
+        "FIFA",
+        "Warri",
+        "FIFA President Gianni Infantino"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "CONMEBOL backs Infantino's reelection as FIFA president",
+          "url": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
+          "source": "www.espn.com - SOCCER",
+          "published_at": "2026-11-20T19:58:26.000Z",
+          "description": "Support for the reelection of FIFA president Gianni Infantino was reaffirmed by the 10 members of CONMEBOL on Friday."
+        },
+        {
+          "title": "CONMEBOL rallies behind Infantino's reelection as FIFA president",
+          "url": "https://japantoday.com/category/sports/conmebol-rallies-behind-infantino%27s-reelection-as-fifa-president",
+          "source": "Japan Today",
+          "published_at": "2026-11-20T20:58:44.000Z",
+          "description": "Support for the reelection of FIFA President Gianni Infantino was reaffirmed by the 10 members of the South American Football Confederation (CONMEBOL) on Friday. Infantino was challenged by…"
+        },
+        {
+          "title": "FIFA president Infantino lands in Warri",
+          "url": "https://www.nigerianeye.com/2026/11/fifa-president-infantino-lands-in-warri.html",
+          "source": "Latest News In Nigeria, Nigeria News Today, Your Online Nigerian Newspaper",
+          "published_at": "2026-11-20T08:22:40.284Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ahZeMg8UIv3yBIukkpMJr3AwaaF8XtnBB0qh-yXiK05Zu2j5nuf583RgMVmMmYYoOCneraGlrQ0LlXebJ_mSRAsbDsk7tPv8l8bTcszzcWYAXRmeTtwyzNoDVdluCaejN6ZbkImyWlfgCKQVWWAcpqks7UMpKcQx7MRs9LjKy9oC694pshpbZyNAwaT6/s72-w400-h240-c/Gianni%20Infantino.PNG",
+          "description": "President of the Federation of International Football Association, FIFA, Gianni Infantino, has arrived in Warri, Delta State, expressing excitement over the reception and growing impact of football in Nigeria and across Africa. Infantino, who arrived in Warri on Friday, said he was delighted to exp…"
+        },
+        {
+          "title": "VIDEO: FIFA President Gianni Infantino arrives in Warri in private jet, commissions stadium",
+          "url": "https://www.legit.ng/sports/football/1742452-fifa-president-gianni-infantino-arrives-warri-private-jet-commissions-stadium",
+          "source": "Legit.ng",
+          "published_at": "2026-11-20T13:07:26.000Z",
+          "description": "FIFA president Gianni Infantino arrives in Warri on Friday for Warri City Stadium commissioning, praising Nigeria’s Flamingos after their U-17 World Cup triumph."
+        },
+        {
+          "title": "PHOTOS: FIFA president visits Warri, commends grassroots football development",
+          "url": "https://www.premiumtimesng.com/news/more-news/926734-photos-fifa-president-visits-warri-commends-grassroots-football-development.html",
+          "source": "Premium Times Nigeria",
+          "published_at": "2026-11-20T13:23:51.000Z",
+          "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/1004631733-scaled-e1795180962958.jpg?fit=2560%2C1600&amp;ssl=1",
+          "description": "Gianni Infantino visited the refurbished football pitch at Hussey College, Warri, alongside Delta State Governor Sheriff Oborevwori and the Olu of Warri, Ogiame Atuwatse III, ahead of the unveiling of Warri City Stadium. The post PHOTOS: FIFA president visits Warri, commends grassroots football dev…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Can Europe-backed Diallo unseat Infantino as FIFA president? | DW News",
+          "url": "https://www.youtube.com/shorts/k2msPawck_A",
+          "video_id": "k2msPawck_A",
+          "channel": "DW News",
+          "published_at": "2026-11-20T01:00:39.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/k2msPawck_A/hqdefault.jpg"
+        }
+      ],
+      "summary": "Gianni Infantino visited Warri, Nigeria, where he attended events including the commissioning of a stadium and praised local football development. Separately, CONMEBOL’s 10 member associations reaffirmed support for his reelection as FIFA president."
+    }
+  ]
+}
