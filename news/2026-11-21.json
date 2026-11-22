@@ -1,0 +1,1014 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-22T00:04:49.971Z",
+  "overview": {
+    "points": [
+      {
+        "text": "The FBI is investigating a suspected breach of its National Crime Information Center, the second recent reported intrusion involving an FBI system.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "Mexican forces arrested alleged cartel leader and FBI fugitive El Chapo Isidro in Sinaloa; reports say the operation involved U.S. intelligence cooperation and was followed by violence.",
+        "stories": [
+          2
+        ]
+      },
+      {
+        "text": "A Russian cargo ship caught fire after a drone strike in the Baltic Sea and drifted into Finnish waters; Finland imposed temporary air and maritime restrictions.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "A federal jury convicted Jonathan Rinderknecht of charges related to starting the 2025 Palisades Fire, which killed 12 people and destroyed thousands of structures.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "The European Union proposed taxing large digital companies to fund its next long-term budget, whose draft reduces an earlier spending proposal by €204 billion.",
+        "stories": [
+          5
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_3a03be15c9b1c1a9",
+      "title": "FBI investigates suspected breach of national crime database",
+      "headline": "FBI's criminal information database hacked --report",
+      "label": [
+        "database",
+        "hacked",
+        "fbi",
+        "criminal",
+        "information",
+        "spin"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_bca1387ab459ced2",
+      "entities": [
+        "FBI",
+        "CNN",
+        "Trump Spins",
+        "Latest FBI Database Hack",
+        "Trump"
+      ],
+      "article_count": 15,
+      "source_count": 15,
+      "articles": [
+        {
+          "title": "FBI's criminal information database hacked --report",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1010305/fbi-s-criminal-information-database-hacked-report/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-11-21T05:39:17.000Z",
+          "description": "The FBI is investigating a suspected breach of a nationwide database used by federal, state and local law enforcement agencies to share criminal justice information, CNN reported on Friday, citing two people briefed on the investigation."
+        },
+        {
+          "title": "FBI criminal database hacked",
+          "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-11-21T17:23:18.000Z",
+          "description": "The FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons, criminal histories and stolen property. President…"
+        },
+        {
+          "title": "FBI's criminal information database hacked, CNN reports",
+          "url": "https://tribune.com.pk/story/2641550/fbis-criminal-information-database-hacked-cnn-reports",
+          "source": "express tribune",
+          "published_at": "2026-11-21T10:58:29.000Z",
+          "description": "The database compromise ⁠marks the second intrusion involving an FBI ​system in recent months"
+        },
+        {
+          "title": "Trump Spins the Latest FBI Database Hack",
+          "url": "https://politicalwire.com/2026/11/21/trump-spins-the-latest-fbi-database-hack",
+          "source": "Political Wire",
+          "published_at": "2026-11-21T19:36:31.000Z",
+          "description": "“President Donald Trump suggested Saturday that there could be a bright spot in the latest incursion into the FBI computer database,” CNBC reports. Said Trump: “Maybe we’ll learn about the voter fraud, all the voter fraud that took place. I always like to put things on a positive spin.” Axios: Trum…"
+        },
+        {
+          "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+          "source": "US Top News and Analysis",
+          "published_at": "2026-11-21T16:57:34.000Z",
+          "description": "This would make the second recent intrusion into the FBI system."
+        }
+      ],
+      "videos": [
+        {
+          "title": "FBI criminal database hacked • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=u3egqHWabTQ",
+          "video_id": "u3egqHWabTQ",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-21T17:23:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/u3egqHWabTQ/hqdefault.jpg"
+        },
+        {
+          "title": "FBI investigates apparent breach of nationwide crime database, sources say",
+          "url": "https://www.youtube.com/shorts/0Ml48xGClIw",
+          "video_id": "0Ml48xGClIw",
+          "channel": "CNN",
+          "published_at": "2026-11-21T15:23:36.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/0Ml48xGClIw/hqdefault.jpg"
+        },
+        {
+          "title": "FBI Probes Suspected Breach Of National Criminal Justice Database | WION News",
+          "url": "https://www.youtube.com/watch?v=PlzkTRT7WU0",
+          "video_id": "PlzkTRT7WU0",
+          "channel": "WION",
+          "published_at": "2026-11-21T11:37:42.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/PlzkTRT7WU0/hqdefault.jpg"
+        }
+      ],
+      "summary": "The FBI is investigating a suspected breach of the National Crime Information Center, a database used by law enforcement agencies. Reports describe it as the second recent intrusion involving an FBI system."
+    },
+    {
+      "id": "topic_f5a13df208cf2ddf",
+      "title": "Mexico arrests alleged cartel leader El Chapo Isidro",
+      "headline": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
+      "label": [
+        "cartel",
+        "boss",
+        "chapo",
+        "isidro",
+        "mexico",
+        "captures"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_213626cf139ecc5",
+      "entities": [
+        "Mexico",
+        "FBI",
+        "El Chapo Isidro",
+        "Mexican Cartel Boss El",
+        "Chapo Isidro"
+      ],
+      "article_count": 15,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
+          "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-21T14:20:35.000Z",
+          "image": "https://images.euronews.com/articles/stories/10/00/27/59/696x392_cmsv2_4f37b78f-b0e9-5daf-affc-3404a7ffe398-10002759.jpg",
+          "description": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico."
+        },
+        {
+          "title": "Mexican Cartel Boss El Chapo Isidro’s Rise Before Detention",
+          "url": "https://internewscast.com/local-news/mexican-cartel-boss-el-chapo-isidros-rise-before-detention",
+          "source": "Internewscast",
+          "published_at": "2026-11-21T19:29:08.000Z",
+          "description": "Internewscast Internewscast MEXICO CITY – Fausto Isidro Meza Flores went from a low-level Mexican… This Post: Mexican Cartel Boss El Chapo Isidro’s Rise Before Detention first appeared on Internewscast"
+        },
+        {
+          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "source": "Americas | The Guardian",
+          "published_at": "2026-11-21T17:46:55.000Z",
+          "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb",
+          "description": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “E…"
+        },
+        {
+          "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-21T16:03:16.000Z",
+          "description": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges."
+        },
+        {
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "source": "NPR Topics: World",
+          "published_at": "2026-11-21T18:08:55.000Z",
+          "description": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
+          "url": "https://www.youtube.com/watch?v=7gurkzVE2Eo",
+          "video_id": "7gurkzVE2Eo",
+          "channel": "Associated Press",
+          "published_at": "2026-11-21T16:42:42.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7gurkzVE2Eo/hqdefault.jpg"
+        },
+        {
+          "title": "Mexico captures FBI-wanted cartel boss in military raid",
+          "url": "https://www.youtube.com/shorts/Neom920WT5Q",
+          "video_id": "Neom920WT5Q",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-21T11:50:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Neom920WT5Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Mexican forces arrested Fausto Isidro Meza Flores, known as El Chapo Isidro and one of the FBI’s most-wanted fugitives, in Sinaloa. Reports say the operation involved U.S. intelligence cooperation and was followed by violence."
+    },
+    {
+      "id": "topic_f719aa6db8ef70e7",
+      "title": "Drones set Russian cargo ship ablaze in Baltic Sea",
+      "headline": "Russian cargo ship hit by drones in Baltic",
+      "label": [
+        "ship",
+        "cargo",
+        "baltic",
+        "russian",
+        "finland",
+        "drone"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_c44852524cc300c2",
+      "entities": [
+        "Russian",
+        "Baltic",
+        "Baltic Sea",
+        "Finland",
+        "Reuters"
+      ],
+      "article_count": 12,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Russian cargo ship hit by drones in Baltic",
+          "url": "https://www.perthnow.com.au/news/conflict/russian-cargo-ship-hit-by-drones-in-baltic-c-23195665",
+          "source": "PerthNow",
+          "published_at": "2026-11-21T17:25:34.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23195665/f4f9e15c87fdb6e39fceb566e00a3ee614b449af-16x9-x0y0w1280h720.jpg",
+          "description": "Helsinki has imposed temporary air and maritime restrictions after a Russian cargo ship caught fire after being hit by drones in ‌the Baltic Sea."
+        },
+        {
+          "title": "Russian cargo ship ablaze in Baltic Sea after drone strike",
+          "url": "https://japantoday.com/category/world/russian-cargo-ship-ablaze-in-baltic-sea-after-drone-strike-crew-evacuates1",
+          "source": "Japan Today",
+          "published_at": "2026-11-21T21:21:05.000Z",
+          "description": "A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely…"
+        },
+        {
+          "title": "Finland detects drone attack on Russian cargo ship in Baltic",
+          "url": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-21T13:56:11.000Z",
+          "description": "The Finnish Defence Ministry did not specify who was behind the drone strike, but Prime Minister Petteri Orpo said in a message “War is spilling over into our immediate vicinity... Ukraine has the right to fight back against the aggressor”"
+        },
+        {
+          "title": "Russian cargo ship hit by drones in Baltic, Finland tightens security",
+          "url": "https://news.google.com/rss/articles/cbmiugfbvv95cuxpaufldlzmewprx3a2ylllmmlqsxzrytriazvmoeexrezutxfcythyvulnr3u0tdg3dgpuehe5shjyanjwquztrhdwug5yytfxvxmtuu5ry1povzzkruxhq29ouevus0njtwfxcujmlw9lre52cgs3n2flbxzznmvfnfpxtmznzni4s1pwndb5rwv0ufhuuglctvuwnjlwzdmxcxhxs0fvzudnnwn4uu9jmew4bwvaovb0tle",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-21T17:36:04.000Z",
+          "description": "Russian cargo ship hit by drones in Baltic, Finland tightens security Reuters Russian helicopter suspected of violating Finnish airspace, after tanker hit by drone in Baltic Sea DW.com Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say POLITICO.eu Cargo ship bound for…"
+        },
+        {
+          "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+          "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+          "source": "France 24 - International breaking news, top stories and headlines",
+          "published_at": "2026-11-21T18:02:23.000Z",
+          "description": "A Russian cargo ship caught fire after ​being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes that the ship is affiliated with a major Russian military logistics company. While Ukrainian authorities typically neither…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Drone strike on Russian ship raises fears of Baltic escalation | DW News",
+          "url": "https://www.youtube.com/watch?v=fTdC0VRTCcg",
+          "video_id": "fTdC0VRTCcg",
+          "channel": "DW News",
+          "published_at": "2026-11-21T20:00:11.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/fTdC0VRTCcg/hqdefault.jpg"
+        },
+        {
+          "title": "Russian cargo ship struck by drones in Gulf of Finland",
+          "url": "https://www.youtube.com/shorts/NAy6XiuLnlo",
+          "video_id": "NAy6XiuLnlo",
+          "channel": "euronews",
+          "published_at": "2026-11-21T18:49:14.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/NAy6XiuLnlo/hqdefault.jpg"
+        },
+        {
+          "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=JL0ot2nIUX4",
+          "video_id": "JL0ot2nIUX4",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-21T18:02:21.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JL0ot2nIUX4/hqdefault.jpg"
+        }
+      ],
+      "summary": "A Russian cargo ship caught fire after being hit by drones in the Baltic Sea and drifted into Finnish waters. Finland imposed temporary air and maritime restrictions; officials did not identify who was responsible."
+    },
+    {
+      "id": "topic_be08733840b1fe23",
+      "title": "Man convicted of starting deadly Palisades Fire",
+      "headline": "California man convicted of starting deadly Palisades Fire in Los Angeles",
+      "label": [
+        "convicted",
+        "palisades",
+        "fire",
+        "deadly",
+        "man",
+        "angeles"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_57b73dcc5ed08d3c",
+      "entities": [
+        "California",
+        "Palisades Fire",
+        "Los Angeles",
+        "Man",
+        "Palisades"
+      ],
+      "article_count": 11,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "California man convicted of starting deadly Palisades Fire in Los Angeles",
+          "url": "https://www.ms.now/news/california-man-convicted-of-starting-deadly-palisades-fire-in-los-angeles",
+          "source": "MS NOW",
+          "published_at": "2026-11-21T01:39:57.000Z",
+          "description": "Jonathan Rinderknecht was found guilty of two federal charges stemming from the 2025 wildfire that killed 12 people and destroyed thousands of structures. The post California man convicted of starting deadly Palisades Fire in Los Angeles appeared first on MS NOW."
+        },
+        {
+          "title": "Man convicted of sparking deadly Palisades fire in Los Angeles",
+          "url": "https://www.thejournal.ie/jonathan-rinderknecht-conviction-palisades-fire-7233309-nov2026",
+          "source": "TheJournal.ie",
+          "published_at": "2026-11-21T07:49:16.000Z",
+          "description": "Fierce winds fuelled the 2025 Los Angeles fires that resulted in a total of 31 deaths."
+        },
+        {
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+          "source": "BBC News",
+          "published_at": "2026-11-21T04:34:00.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+          "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+        },
+        {
+          "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+          "url": "https://japantoday.com/category/world/federal-jury-convicts-man-of-starting-the-deadly-2025-palisades-fire-in-los-angeles",
+          "source": "Japan Today",
+          "published_at": "2026-11-21T00:35:42.000Z",
+          "description": "The man accused of sparking last year’s deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a…"
+        },
+        {
+          "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+          "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-21T07:10:00.000Z",
+          "description": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried."
+        }
+      ],
+      "videos": [
+        {
+          "title": "NEW: Palisades fire suspect found GUILTY #shorts",
+          "url": "https://www.youtube.com/shorts/lMotlFnQUEA",
+          "video_id": "lMotlFnQUEA",
+          "channel": "Fox News",
+          "published_at": "2026-11-21T18:15:18.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/lMotlFnQUEA/hqdefault.jpg"
+        },
+        {
+          "title": "Man convicted of starting palisades fire • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=L-P3RRyURG0",
+          "video_id": "L-P3RRyURG0",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-21T17:21:54.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/L-P3RRyURG0/hqdefault.jpg"
+        },
+        {
+          "title": "California man found guilty of starting deadly Palisades Fire",
+          "url": "https://www.youtube.com/watch?v=QKyUjukmJGI",
+          "video_id": "QKyUjukmJGI",
+          "channel": "NBC News",
+          "published_at": "2026-11-21T01:59:48.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/QKyUjukmJGI/hqdefault.jpg"
+        }
+      ],
+      "summary": "A federal jury convicted Jonathan Rinderknecht of charges related to starting the 2025 Palisades Fire in Los Angeles. The fire killed 12 people and destroyed thousands of structures."
+    },
+    {
+      "id": "topic_b7da7e6d17537e50",
+      "title": "EU proposes Big Tech tax to fund future budget",
+      "headline": "EU proposes tax on Big Tech to boost budget",
+      "label": [
+        "tax",
+        "budget",
+        "tech",
+        "big",
+        "boost",
+        "proposes"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_4c117a69493d4b31",
+      "entities": [
+        "EU",
+        "Big Tech",
+        "European Union",
+        "European Union Proposes Tax",
+        "On Big Tech In"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "EU proposes tax on Big Tech to boost budget",
+          "url": "https://www.thelocal.it/20261121/eu-proposes-tax-on-big-tech-to-boost-budget",
+          "source": "The Local Italy",
+          "published_at": "2026-11-21T13:01:56.000Z",
+          "description": "The EU put forward plans to tax the world's biggest digital companies to fund its next budget Saturday, as it seeks to bridge divisions among member states over the bloc's long-term funding."
+        },
+        {
+          "title": "European Union proposes tax on Big Tech to boost budget",
+          "url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-21T12:33:16.000Z",
+          "description": "European Council president Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros a plan initially put forward by the European Commission"
+        },
+        {
+          "title": "EU eyes tax on Big Tech to boost budget",
+          "url": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-21T11:51:18.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/e7d570d4-cd5e-4b5f-8d5e-3dde0fc0de33_079e89c5.jpg?itok=bE6NWoGz&v=1795261870",
+          "description": "The EU put forward plans to tax the world’s biggest digital companies to fund its next budget on Saturday, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by €204 billion (U…"
+        },
+        {
+          "title": "EU proposes Big Tech tax to boost budget",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/11/21/eu-proposes-big-tech-tax-to-boost-budget_6786068_19.html",
+          "source": "World : Latest news on Le Monde.fr.",
+          "published_at": "2026-11-21T11:23:35.000Z",
+          "description": "The draft revealed by European Council President Antonio Costa on Saturday will concern companies with an annual turnover for digital activities of at least €50 million in the EU as well as a global turnover of more than €750 million."
+        },
+        {
+          "title": "European Union Proposes Tax On Big Tech In New Budget Draft",
+          "url": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-21T19:13:01.000Z",
+          "description": "European Council President Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros ($224 billion) a plan initially put forward by the European Commission, which some countries had slammed as too onerous."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Zelensky Says Crimea Bridge Strike 'Fair' | EU Chief Proposes Tax On Big Tech | WION Headlines",
+          "url": "https://www.youtube.com/watch?v=FuoeRPQ5qjQ",
+          "video_id": "FuoeRPQ5qjQ",
+          "channel": "WION",
+          "published_at": "2026-11-21T14:22:29.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/FuoeRPQ5qjQ/hqdefault.jpg"
+        }
+      ],
+      "summary": "The European Union proposed taxing large digital companies to help fund its next long-term budget. European Council President Antonio Costa unveiled a draft that reduces an earlier European Commission spending proposal by €204 billion."
+    },
+    {
+      "id": "topic_6cf5987c29e08621",
+      "title": "Ireland beats South Africa 20-17 in Nations Championship",
+      "headline": "LIVE: Ireland v South Africa, Nations Championship",
+      "label": [
+        "africa",
+        "ireland",
+        "south",
+        "nations",
+        "championship",
+        "hang"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_b485472bf188caac",
+      "entities": [
+        "Ireland",
+        "South Africa",
+        "Nations Championship",
+        "SNAP REACTION",
+        "Rassie"
+      ],
+      "article_count": 12,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "LIVE: Ireland v South Africa, Nations Championship",
+          "url": "https://www.the42.ie/ireland-v-south-africa-liveblog-3-7233498-nov2026",
+          "source": "The 42",
+          "published_at": "2026-11-21T15:40:15.000Z",
+          "description": "Andy Farrell’s side kick off against the back-to-back world champions at 4:40pm."
+        },
+        {
+          "title": "Ireland v South Africa: Nations Championship rugby union – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/21/ireland-v-south-africa-nations-championship-rugby-union-live",
+          "source": "The Guardian",
+          "published_at": "2026-11-21T16:47:18.000Z",
+          "image": "https://i.guim.co.uk/img/media/b899a02e2b019ba3269aeafb0a31c919a538dde5/101_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=bdf7b6757e389d3421ed79ad1b57be85",
+          "description": "Nations Championship updates, 4.40pm GMT kick-off Follow us on TikTok | And email Lee about the game 4 mins. There have been a couple of scrums and already South Africa are getting a nudge. The latest has Porter losing his footing and Feinberg-Mngomezulu takes the opportunity to open the account 2…"
+        },
+        {
+          "title": "Live updates from Ireland v South Africa and hopefully Rassie's hotel room",
+          "url": "https://www.irishexaminer.com/sport/rugby/arid-41940732.html",
+          "source": "IrishExaminer.com",
+          "published_at": "2026-11-21T16:06:00.000Z",
+          "description": "After a crazy week off the field, at least some of the focus will be on the action at Aviva Stadium this afternoon."
+        },
+        {
+          "title": "South Africa stumbles into Nations Championship final after losing to Ireland 20-17",
+          "url": "https://japantoday.com/category/sports/south-africa-stumbles-into-nations-championship-final-after-losing-to-ireland-20-17",
+          "source": "Japan Today",
+          "published_at": "2026-11-21T21:23:14.000Z",
+          "description": "South Africa backed into the final of rugby's Nations Championship despite losing to Ireland 20-17 on Saturday. The bonus point for losing within seven points of Ireland tied…"
+        },
+        {
+          "title": "Highlights: Ireland hang on to beat South Africa",
+          "url": "https://www.bbc.co.uk/sport/videos/crx276g7267do",
+          "source": "BBC Sport",
+          "published_at": "2026-11-21T19:25:02.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9f/live/52c069a0-e5e1-11f1-99b6-a35a62fa4264.jpg",
+          "description": "Watch highlights as Ireland hang on to beat world champions South Africa 20-17 in a thrilling Nations Championship game in Dublin."
+        }
+      ],
+      "summary": "Ireland defeated South Africa 20-17 in Dublin in a Nations Championship match. South Africa still reached the final after earning a bonus point for losing by fewer than seven points."
+    },
+    {
+      "id": "topic_c53805247f7d702f",
+      "title": "Air Niugini plane makes emergency landing in Philippines",
+      "headline": "Air Niugini plane makes emergency landing at Davao airport",
+      "label": [
+        "emergency",
+        "landing",
+        "niugini",
+        "makes",
+        "air",
+        "davao"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_84ed719199092572",
+      "entities": [
+        "Air Niugini",
+        "Davao",
+        "Philippines",
+        "CAAP",
+        "Emergency"
+      ],
+      "article_count": 8,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Air Niugini plane makes emergency landing at Davao airport",
+          "url": "https://globalnation.inquirer.net/349385/air-niugini-plane-makes-emergency-landing-at-davao-airport-all-passengers-safe",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-21T04:50:38.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/11/viber_image_2026-11-21_08-18-37-052-620x465.jpg",
+          "description": "MANILA, Philippines — An Air Niugini plane carrying 146 passengers and crew members made an emergency landing at Davao International Airport early Saturday, Nov. 21, the Civil Aviation Authority of the Philippines (Caap) reported. According to Caap, the Boeing aircraft was traveling from Hong Kong…"
+        },
+        {
+          "title": "Air Niugini flight makes emergency landing at Davao airport",
+          "url": "https://www.manilatimes.net/2026/11/22/news/national/air-niugini-flight-makes-emergency-landing-at-davao-airport/2475529",
+          "source": "https://www.manilatimes.net",
+          "published_at": "2026-11-21T16:03:00.000Z",
+          "description": "AN Air Niugini Boeing 767-383ER bound for Papua New Guinea from Hong Kong diverted and made an emergency landing at Davao International Airport early Saturday, the Civil Aviation Authority of the Philippines (CAAP) said. The aviation regulator reported that flight PX19 safely landed at 12:08 a.m. o…"
+        },
+        {
+          "title": "Air Niugini plane makes emergency landing in Philippines, all 146 safe",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/air-niugini-plane-makes-emergency-landing-in-philippines-all-146-safe/articleshow/136044446.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-11-21T04:06:56.000Z",
+          "description": "An incident occurred involving an Air Niugini aircraft with 146 individuals on board that indicated possible engine fire. The flight performed an emergency landing at Davao International Airport shortly after midnight. Passengers and crew were safely evacuated via emergency slides, with no injuries…"
+        },
+        {
+          "title": "Air Niugini aircraft makes emergency landing at Davao airport --CAAP",
+          "url": "https://www.gmanetwork.com/news/topstories/regions/1010279/air-niugini-aircraft-makes-emergency-landing-at-davao-airport-caap/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-11-21T00:48:56.000Z",
+          "description": "An Air Niugini Boeing 767-383ER bound for Port Moresby, Papua New Guinea made an emergency landing at Davao International Airport on Saturday morning, the Civil Aviation Authority of the Philippines reported."
+        },
+        {
+          "title": "Passenger plane makes emergency landing in Philippines after engine fire alert",
+          "url": "http://www.hongkongnews.net/news/279446678/passenger-plane-makes-emergency-landing-in-philippines-after-engine-fire-alert",
+          "source": "www.hongkongnews.net latest rss headlines",
+          "published_at": "2026-11-21T06:28:51.000Z",
+          "description": "MANILA, 21st November, 2026 (WAM) -- An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea safely made an emergency landing Saturday in a southern Philippine city due to an indication of a possible engine fire, Philippine aviation officials said. There were no rep…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Passengers evacuate plane after emergency landing in Philippines | AJ #shorts",
+          "url": "https://www.youtube.com/shorts/ajmfsk_TEbQ",
+          "video_id": "ajmfsk_TEbQ",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-21T09:55:18.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/ajmfsk_TEbQ/hqdefault.jpg"
+        },
+        {
+          "title": "All 146 plane passengers and crew safe after emergency landing in Philippines",
+          "url": "https://www.youtube.com/watch?v=vQNnHuBB7Ng",
+          "video_id": "vQNnHuBB7Ng",
+          "channel": "Associated Press",
+          "published_at": "2026-11-21T08:43:02.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vQNnHuBB7Ng/hqdefault.jpg"
+        }
+      ],
+      "summary": "An Air Niugini flight from Hong Kong to Papua New Guinea made an emergency landing at Davao International Airport after a possible engine fire alert. All 146 passengers and crew were reported safe."
+    },
+    {
+      "id": "topic_859a471e8d9d1c8d",
+      "title": "Trump says he will work with Democrats on credit card rate cap",
+      "headline": "Trump to work with Dems to cap credit card interest rates",
+      "label": [
+        "cap",
+        "credit",
+        "card",
+        "interest",
+        "trump",
+        "work"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_4eab69e38341ef9b",
+      "entities": [
+        "Trump",
+        "Dems",
+        "Democrats",
+        "CBS News",
+        "Trump Eyes Bipartisan Cap"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Trump to work with Dems to cap credit card interest rates",
+          "url": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-11-21T18:34:27.000Z"
+        },
+        {
+          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "url": "https://abcnews.com/politics/wirestory/trump-vows-work-democrats-cap-credit-card-interest-138346798",
+          "source": "ABC News: Politics",
+          "published_at": "2026-11-21T18:53:59.000Z",
+          "image": "https://s.abcnews.com/images/US/wirestory_098a69b520e520e535eebe595cd0c64a_4x3_384.jpg",
+          "description": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates"
+        },
+        {
+          "title": "Trump vows to work with Democrats to cap credit card interest rates",
+          "url": "https://news.google.com/rss/articles/cbmifefvx3lxtfbfbzctnulgb3rpalz0udkzmglqlwtpr01isgdimzv0zmdiagnotxzettvlyjk0y0s1czvpdxfvbtvdckqtc3ljvhlkymr2xzjfeghprxlswu1rrjr3q0jvv0jvagzhdkhycg43wnjydujtbk56mi05y0x4x3y",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-21T18:27:57.000Z",
+          "description": "Trump vows to work with Democrats to cap credit card interest rates CBS News Trump says he'd work with Dems to cap credit card interest, fees Axios Trump vows to work with Democrats to cap credit card interest rates at 10% ABC7 Los Angeles Trump Open to Working With Dems on Credit Card Cap After Wa…"
+        },
+        {
+          "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+          "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+          "source": "Axios",
+          "published_at": "2026-11-21T16:48:20.000Z",
+          "description": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards, arguing that card companies simply make too much money now. Why it matters: Though some argue capping rates would save consumers billions of dollars a year, the banking industry is equally adaman…"
+        },
+        {
+          "title": "Trump Eyes Bipartisan Cap On Credit Card Interest",
+          "url": "https://politicalwire.com/2026/11/21/trump-eyes-bipartisan-cap-on-credit-card-interest",
+          "source": "Political Wire",
+          "published_at": "2026-11-21T19:32:27.000Z",
+          "description": "“President Donald Trump said Saturday that he would work with the incoming Democratic Congress to cap credit card interest rates, hoping to fulfill a promise he made on the 2024 campaign trail but couldn’t deliver on because of industry pressure and a lack of interest from his fellow Republicans,”…"
+        }
+      ],
+      "summary": "President Donald Trump said he would work with Democrats to cap credit card interest rates at 10%. He also raised the possibility of limiting fees."
+    },
+    {
+      "id": "topic_aa1323ba10cac829",
+      "title": "François Ruffin withdraws from France’s 2027 presidential race",
+      "headline": "Présidentielle : François Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche »",
+      "label": [
+        "ruffin",
+        "candidature",
+        "françois",
+        "présidentielle",
+        "retire",
+        "sa"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_a987a2a14060834d",
+      "entities": [
+        "Pr",
+        "Fran",
+        "Ruffin",
+        "France"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Présidentielle : François Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche »",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-retire-sa-candidature-2e91a6fc-e5cd-11f1-bd4e-6f30b8f49e21",
+          "source": "Ouest France.fr - L'actualité en direct, en continu et en images",
+          "published_at": "2026-11-21T17:08:06.000Z",
+          "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMTM1YzYzZWYyZmZlMGU1MWZiY2Y0OTdjZjk5M2QyMWU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=70216ccb5f29b9e050991dc9e6768407f1ce526520fd1fc2abef0940a3891c16",
+          "description": "Dans son communiqué publié ce samedi 21 novembre, François Ruffin a annoncé retirer sa candidature à la présidentielle de 2027 et souhaite « bonne campagne » aux « candidats de gauche encore en lice », sans les citer."
+        },
+        {
+          "title": "François Ruffin retire sa candidature à l’élection présidentielle",
+          "url": "https://www.nouvelobs.com/politique/20261121.obs120337/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-11-21T17:22:33.000Z",
+          "description": "Le député de la Somme a pris « acte de l’impasse » de sa campagne faute d’avoir réussi à imposer une « grande primaire ». L’ex-insoumis n’apporte son soutien à personne, souhaitant seulement une « bonne campagne » aux « candidats de gauche encore en lice »."
+        },
+        {
+          "title": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
+          "url": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-11-21T17:56:33.000Z",
+          "description": "Dans un communiqué posté sur le réseau social X, le député a déclaré samedi qu'il prenait \"acte de l'impasse\" de sa campagne, faute d'avoir réussi à imposer l'organisation d'une \"grande primaire\" de toute la gauche."
+        },
+        {
+          "title": "François Ruffin retire sa candidature à la présidentielle 2027 face à « l’impasse » à gauche",
+          "url": "https://www.huffingtonpost.fr/politique/article/francois-ruffin-retire-sa-candidature-a-la-presidentielle-2027-face-a-l-impasse-a-gauche_362441.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-11-21T17:57:51.000Z",
+          "description": "Le député de la Somme souhaite « bonne chance » aux candidats de gauche mais n’apporte son soutien à personne. Du moins pour le moment."
+        },
+        {
+          "title": "Présidentielle 2027 : Ruffin retire sa candidature et souhaite « bonne campagne » aux « candidats de gauche encore en lice »",
+          "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-ruffin-retire-sa-candidature-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice-31606366.php",
+          "source": "L'essentiel",
+          "published_at": "2026-11-21T17:28:39.000Z",
+          "description": "Le député ex-insoumis, qui prend « acte de l’impasse » de sa campagne faute d’avoir réussi à imposer l’organisation d’une « grande primaire » de toute la gauche, n’apporte son soutien à aucun candidat"
+        }
+      ],
+      "summary": "French lawmaker François Ruffin announced he was withdrawing his 2027 presidential candidacy, citing an impasse over his effort to organize a broad left-wing primary. He did not endorse another candidate."
+    },
+    {
+      "id": "topic_b62a016652189d56",
+      "title": "Hegseth reportedly restricts U.S.-Canada defense ties",
+      "headline": "Hegseth Restricts U.S.-Canada Defense Relationship",
+      "label": [
+        "canada",
+        "defense",
+        "hegseth",
+        "restricts",
+        "ties",
+        "relationship"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_4fe760f043d94ba7",
+      "entities": [
+        "Hegseth Restricts",
+        "Canada Defense Relationship",
+        "Hegseth",
+        "Canada",
+        "The Washington Post"
+      ],
+      "article_count": 5,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Hegseth Restricts U.S.-Canada Defense Relationship",
+          "url": "https://politicalwire.com/2026/11/20/hegseth-restricts-u-s-canada-defense-relationship",
+          "source": "Political Wire",
+          "published_at": "2026-11-21T02:34:30.000Z",
+          "description": "“Defense Secretary Pete Hegseth has imposed new restrictions on the U.S.-Canada defense relationship, escalating a multifaceted clash between Washington and Ottawa highlighted by President Donald Trump’s repeated threat of annexation,” the Washington Post reports. “Hegseth issued the guidance, whic…"
+        },
+        {
+          "title": "In secret memo, Hegseth restricts U.S.-Canada defense relationship",
+          "url": "https://news.google.com/rss/articles/cbmivgfbvv95cuxplthpnhazbeiytzc1lwo2x29ez2z2bxk0nuzrmxjjvkvcazvasvfnnmlklufjeg9irwywauhvtuz1tgnom2p0re5wmevpcedpvkhnwfvtblvmmfrrbmdglxzxofu1m2fhbtjim1zaduhiehhtbgpmwfnitju1mf9tynvoclj3nffucxy0ow5mnfnuckxmmw9fqjbvehzutexlu1g1a2raa19fvkhkwdjhsdn1wdjievjntc1untl3",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-21T20:12:55.000Z",
+          "description": "In secret memo, Hegseth restricts U.S.-Canada defense relationship The Washington Post Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military The New York Times Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change CBC US senator says Pentagon re…"
+        },
+        {
+          "title": "Hegseth memo limits U.S.-Canada defense ties, report says",
+          "url": "https://defence-blog.com/hegseth-memo-limits-u-s-canada-defense-ties-report-says",
+          "source": "The Defence Blog – Military and Defense News",
+          "published_at": "2026-11-21T08:52:26.000Z",
+          "description": "Secretary of War Pete Hegseth has ordered new limits on how the U.S. military works with Canada, in a classified memo circulated last week, officials familiar with the directive said, according to a report published Friday. The memo has not been made public, and the newspaper that first reported it…"
+        },
+        {
+          "title": "Pentagon moves to restrict US-Canada defense ties – report",
+          "url": "https://globalnation.inquirer.net/349442/pentagon-moves-to-restrict-us-canada-defense-ties-report",
+          "source": "INQUIRER.net",
+          "published_at": "2026-11-21T23:20:46.000Z",
+          "image": "https://globalnation.inquirer.net/files/2026/11/Pete-Hegseth-620x413.jpg",
+          "description": "WASHINGTON, United States — US Defense Secretary Pete Hegseth has imposed new restrictions on military cooperation with Canada, according to US media, as the Pentagon said Saturday it was refocusing the relationship around American defense priorities. Hegseth issued the directive in a classified me…"
+        },
+        {
+          "title": "Canada defense minister says no shift in US military ties",
+          "url": "https://www.investing.com/news/world-news/canada-defense-minister-says-no-shift-in-us-military-ties-5043483",
+          "source": "All News",
+          "published_at": "2026-11-21T14:18:21.000Z"
+        }
+      ],
+      "summary": "Reports say Defense Secretary Pete Hegseth issued a classified memo imposing new limits on U.S. military cooperation with Canada. The Pentagon said it was refocusing its approach, while Canada’s defense minister said there had been no shift in military ties."
+    },
+    {
+      "id": "topic_a760e4a87f734fc",
+      "title": "Modi inaugurates Nitish Setu bridge over Ganga in Bihar",
+      "headline": "14 years in making, PM Modi inaugurates Nitish Setu over Ganga in Bihar",
+      "label": [
+        "nitish",
+        "setu",
+        "modi",
+        "bihar",
+        "pm",
+        "inaugurates"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_e31467caae3e4437",
+      "entities": [
+        "PM Modi",
+        "Nitish Setu",
+        "Ganga",
+        "Bihar",
+        "PM Modi Inaugurates"
+      ],
+      "article_count": 9,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "14 years in making, PM Modi inaugurates Nitish Setu over Ganga in Bihar",
+          "url": "https://www.indiatoday.in/india/story/pm-modi-inaugurates-nitish-setu-in-bihars-vaishali-3043824-2026-11-21",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-21T08:34:03.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/the-bridge-has-been-named-after-former-bihar-chief-minister-nitish-kumar--during-whose-tenure-the-pr-215020540-16x9_0.png?VersionId=ri8vxtXq3KZHDDEUZpL_kfpPRSGvCUx3",
+          "description": "years in making PM Modi inaugurates Nitish Setu over Ganga in Bihar"
+        },
+        {
+          "title": "PM Modi inaugurates six-lane 'Nitish Setu' bridge over Ganga in Bihar",
+          "url": "https://www.dnaindia.com/india/report-pm-modi-inaugurates-six-lane-nitish-setu-bridge-over-ganga-in-bihar-3224454",
+          "source": "India News",
+          "published_at": "2026-11-21T10:12:38.000Z",
+          "description": "PM Modi inaugurated Nitish Setu, a 9.76 km six-lane cable-stayed bridge over Ganga in Bihar built at ?4,280 crore, connecting Bidupur to Kachchi Dargah. Name sparks political row."
+        },
+        {
+          "title": "Watch: PM Modi to inaugurate ₹5,500-crore Nitish Setu in Bihar",
+          "url": "https://www.thehindu.com/videos/watch-pm-modi-to-inaugurate-5500-crore-nitish-setu-in-bihar/article71727803.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-21T09:07:33.000Z",
+          "description": "Prime Minister Narendra Modi is visiting Bihar on November 21 to inaugurate Nitish Setu, a 9.76-km-long, six-lane bridge across the Ganga built at a cost of ₹5,500 crore. Connecting Kacchi Dargah in Patna with Bidupur in Vaishali, the bridge is expected to improve connectivity between north and sou…"
+        },
+        {
+          "title": "PM Modi Inaugurates ₹4,280-Crore Nitish Setu Over Ganga, 19.7-Km Bridge Linking Patna With Vaishali | Watch",
+          "url": "https://www.freepressjournal.in/india/pm-modi-inaugurates-4280-crore-nitish-setu-over-ganga-197-km-bridge-linking-patna-with-vaishali-watch",
+          "source": "Free Press Journal",
+          "published_at": "2026-11-21T09:29:19.000Z",
+          "image": "https://media.assettype.com/freepressjournal/2026-11-21/ihulheu3/Untitled-Design-2026-11-21T145855.239.jpg"
+        },
+        {
+          "title": "PM Modi inaugurates Nitish Setu in Bihar, recreates poll-victory moment with 'gamcha' wave",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-nitish-setu-in-bihar-recreates-poll-victory-moment-with-gamcha-wave/articleshow/136049173.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-21T08:52:45.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "PM Modi Inaugurates Nitish Setu in Bihar's Vaishali District | WION",
+          "url": "https://www.youtube.com/shorts/9BGw41hp9eg",
+          "video_id": "9BGw41hp9eg",
+          "channel": "WION",
+          "published_at": "2026-11-21T14:08:59.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/9BGw41hp9eg/hqdefault.jpg"
+        },
+        {
+          "title": "PM Modi In Bihar News | PM Modi Inaugurates 'Nitish Setu' Across Ganga In Bihar's Vaishali",
+          "url": "https://www.youtube.com/watch?v=DyXVg2zO_ag",
+          "video_id": "DyXVg2zO_ag",
+          "channel": "NDTV",
+          "published_at": "2026-11-21T09:40:10.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/DyXVg2zO_ag/hqdefault.jpg"
+        }
+      ],
+      "summary": "Prime Minister Narendra Modi inaugurated Nitish Setu, a six-lane bridge across the Ganga in Bihar. Reports describe it as connecting the Kacchi Dargah and Bidupur areas, though they give differing figures for its cost and length."
+    },
+    {
+      "id": "topic_93ccf2c58a56c06b",
+      "title": "Princess of Wales discusses cancer in new documentary",
+      "headline": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "label": [
+        "princess",
+        "wales",
+        "cancer",
+        "heal",
+        "documentary",
+        "catherine"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_92a1ed0f10dec212",
+      "entities": [
+        "Catherine",
+        "Princess",
+        "Wales",
+        "Documents Life With Cancer",
+        "BBC Film"
+      ],
+      "article_count": 13,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+          "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-11-21T14:09:39.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
+          "description": "“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month."
+        },
+        {
+          "title": "Princess of Wales says ‘cancer does change you’ in new documentary",
+          "url": "https://www.brisbanetimes.com.au/world/princess-of-wales-says-cancer-does-change-you-in-new-documentary-20261122-p61g78.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-21T20:37:14.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7605b73a6304bb4473e9b73de6a1e050b3038218",
+          "description": "Catherine Princess of Wales has spoken about her cancer diagnosis in a new documentary."
+        },
+        {
+          "title": "Catherine, Princess of Wales, speaks about healing from cancer in new documentary: \"Cancer does change you\"",
+          "url": "https://news.google.com/rss/articles/cbmikwfbvv95cuxqv2horvpjt3h1ujfyewdhmfg2defashjiv1oysmxpuwpfnlbzcwlzqtvsbwthavrpoddwwnvmyxbxug0xnxezenfvazrpnu00a0l4cdj3mwrwafjvte45vettr2zcb0w4sc1uvnv0sfhvcho5x1hwqjnnrghxmes5mhq0czcxsmdnc2txbnmxzgptqlk",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-21T16:01:17.000Z",
+          "description": "Catherine, Princess of Wales, speaks about healing from cancer in new documentary: \"Cancer does change you\" CBS News Catherine, Princess of Wales, Documents Life With Cancer in BBC Film The New York Times Princess of Wales: Catherine talks about her cancer journey in new documentary Heal BBC Kate M…"
+        },
+        {
+          "title": "Trailer for HEAL from the Princess of Wales",
+          "url": "https://www.smh.com.au/world/europe/trailer-for-heal-from-the-princess-of-wales-20261122-p61g6s.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-21T16:08:32.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1c6ae167b8c92803822d6eb0391f24da1affa2fd",
+          "description": "In a new documentary, the Princess of Wales explores life beyond diagnosis and the many ways people find comfort, strength and hope in the face of serious illness."
+        },
+        {
+          "title": "Princess of Wales opens up about cancer treatment in new documentary",
+          "url": "https://www.theage.com.au/world/europe/princess-of-wales-opens-up-about-cancer-treatment-in-new-documentary-20261122-p61g6r.html",
+          "source": "The Age - Latest News",
+          "published_at": "2026-11-21T16:06:19.000Z",
+          "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_122%2C$y_500/t_crop_custom/q_86%2Cf_auto/65468c83e56bf4ca56d6b8381a1b7346acc36bc5",
+          "description": "The film follows Catherine’s completion of the “three peaks” challenge, which saw her scale the tallest mountains in England, Scotland and Wales in 24 hours."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Princess of Wales opens up about cancer battle in new trailer",
+          "url": "https://www.youtube.com/shorts/t1E1ac_oNww",
+          "video_id": "t1E1ac_oNww",
+          "channel": "CNN",
+          "published_at": "2026-11-21T22:49:08.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/t1E1ac_oNww/hqdefault.jpg"
+        }
+      ],
+      "summary": "Catherine, Princess of Wales, discusses her experience with cancer and recovery in a new documentary. A trailer includes her saying that cancer changes you; reports say she is in remission."
+    },
+    {
+      "id": "topic_423c57210150f14e",
+      "title": "Jair Bolsonaro hospitalized with bowel obstruction",
+      "headline": "Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain",
+      "label": [
+        "jair",
+        "bolsonaro",
+        "brazil",
+        "abdominal",
+        "president",
+        "icu"
+      ],
+      "category": "new",
+      "section": "science-health",
+      "theme": "theme_b731535370043281",
+      "entities": [
+        "Brazil",
+        "Jair Bolsonaro",
+        "President Jair Bolsonaro",
+        "ICU"
+      ],
+      "article_count": 4,
+      "source_count": 4,
+      "articles": [
+        {
+          "title": "Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain",
+          "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-21T03:16:00.000Z",
+          "description": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said."
+        },
+        {
+          "title": "Brazil ex-President Jair Bolsonaro taken to ICU",
+          "url": "https://www.investing.com/news/world-news/brazil-expresident-jair-bolsonaro-taken-to-icu-5043560",
+          "source": "All News",
+          "published_at": "2026-11-21T18:06:22.000Z"
+        },
+        {
+          "title": "Brazil's ex-president Jair Bolsonaro admitted to ICU with acute bowel obstruction",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-imprisoned-ex-president-jair-bolsonaro-admitted-to-icu-with-acute-bowel-obstruction/articleshow/136062891.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-21T21:04:30.000Z"
+        },
+        {
+          "title": "Jair Bolsonaro hospitalised with abdominal pain while under house arrest",
+          "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
+          "source": "News | Euronews RSS",
+          "published_at": "2026-11-21T14:35:56.000Z",
+          "image": "https://images.euronews.com/articles/stories/10/00/27/39/696x392_cmsv2_f6c99240-d3e8-536a-945d-0266afdd4475-10002739.jpg",
+          "description": "The former Brazilian president was taken to hospital with abdominal pain, accompanied by military police."
+        }
+      ],
+      "summary": "Former Brazilian president Jair Bolsonaro was taken to hospital with abdominal pain while under house arrest. Reports say he was admitted to intensive care with an acute bowel obstruction."
+    }
+  ]
+}
