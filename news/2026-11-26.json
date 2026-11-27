@@ -1,0 +1,1107 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-27T00:15:13.069Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Elon Musk says he plans to give two SpaceX shares to every child in the United States, with headlines estimating a total value of about $18 billion.",
+        "stories": [
+          1
+        ]
+      },
+      {
+        "text": "FIFA says hackers accessed a limited set of personal and business information, while Flight Centre is investigating a cyber incident that may have exposed customer records.",
+        "stories": [
+          2,
+          12
+        ]
+      },
+      {
+        "text": "A federal judge temporarily barred the FCC from pursuing early license reviews for ABC broadcast stations.",
+        "stories": [
+          3
+        ]
+      },
+      {
+        "text": "A FedEx cargo plane overran a runway at Miami International Airport, temporarily leaving all but one runway closed and causing delays.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Donald Trump and NATO Secretary General Mark Rutte urged Russia not to widen the Ukraine war; Trump also said he asked Vladimir Putin to pull back military aggression in Europe.",
+        "stories": [
+          5,
+          13
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_c4d689e17fcfe539",
+      "title": "Musk pledges two SpaceX shares to every child in the US",
+      "headline": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+      "label": [
+        "musk",
+        "child",
+        "spacex",
+        "every",
+        "shares",
+        "two"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_f990c5ccbe5503c8",
+      "entities": [
+        "Elon Musk",
+        "SpaceX",
+        "US",
+        "America",
+        "Every"
+      ],
+      "article_count": 25,
+      "source_count": 25,
+      "articles": [
+        {
+          "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+          "source": "The Guardian",
+          "published_at": "2026-11-26T07:02:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=58d0e57e7ee97b156409e6c3860efca3",
+          "description": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn.…"
+        },
+        {
+          "title": "Elon Musk says he will give two SpaceX shares to 'every child in America'",
+          "url": "https://torontosun.com/news/world/elon-musk-will-give-two-spacex-shares-every-child-in-america",
+          "source": "Toronto Sun - RSS Feed",
+          "published_at": "2026-11-26T15:03:51.000Z",
+          "description": "'I recommend holding on to your shares,' Musk wrote on X"
+        },
+        {
+          "title": "Elon Musk will give two SpaceX shares for every US child",
+          "url": "https://thenextweb.com/news/elon-musk-will-give-two-spacex-shares-for-every-us-child",
+          "source": "The Next Web",
+          "published_at": "2026-11-26T07:41:25.000Z",
+          "image": "https://media.thenextweb.com/2026/09/elonmusk-west-wing-press.avif",
+          "description": "Elon Musk has pledged to give every child in the US two shares of SpaceX, doubling a promise he made last month, and at the current prices, the gift is worth about $18bn. Every child in America will receive two SpaceX shares, one from the company and one from me personally — Elon Musk (@elonmusk) […"
+        },
+        {
+          "title": "Elon Musk says every child in U.S. will get two SpaceX shares",
+          "url": "https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-26T07:39:48.000Z",
+          "description": "SpaceX did ​not immediately respond ‌to a request for comment on whether Mr. Musk’s SpaceX share donations would be linked to Trump Accounts or ‌come with any kind of ​lockup period"
+        },
+        {
+          "title": "'Every child in US to get two SpaceX shares': Elon Musk",
+          "url": "https://timesofindia.indiatimes.com/world/us/every-child-in-us-to-get-two-spacex-shares-elon-musk/articleshow/136184755.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-26T09:24:42.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Musk says every child in the US will get two SpaceX shares",
+          "url": "https://www.youtube.com/watch?v=C2NuCr1T9cw",
+          "video_id": "C2NuCr1T9cw",
+          "channel": "Reuters",
+          "published_at": "2026-11-26T10:39:03.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/C2NuCr1T9cw/hqdefault.jpg"
+        }
+      ],
+      "summary": "Elon Musk says he plans to give two SpaceX shares to every child in the United States. Headlines estimate the shares’ total value at about $18 billion."
+    },
+    {
+      "id": "topic_f4fca23cda89fa75",
+      "title": "FIFA reports cyberattack exposing personal and business information",
+      "headline": "FIFA confirms cyberattack that accessed personal and ​business information",
+      "label": [
+        "personal",
+        "fifa",
+        "cyberattack",
+        "business",
+        "information",
+        "hackers"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_69fd55cdc7470ed9",
+      "entities": [
+        "FIFA",
+        "Fifa",
+        "FIFA Confirms Data Breach",
+        "After Hackers Steal Personal",
+        "Business Information"
+      ],
+      "article_count": 21,
+      "source_count": 21,
+      "articles": [
+        {
+          "title": "FIFA confirms cyberattack that accessed personal and ​business information",
+          "url": "https://mashable.com/tech/fifa-cyberattack-confirmed",
+          "source": "Mashable",
+          "published_at": "2026-11-26T12:30:47.000Z",
+          "description": "FIFA has experienced a criminal cyberattack, the football association confirmed to Reuters."
+        },
+        {
+          "title": "FIFA says it has been victim of a cyberattack accessing 'personal and business information'",
+          "url": "https://japantoday.com/category/sports/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-%27personal-and-business-information%27",
+          "source": "Japan Today",
+          "published_at": "2026-11-26T21:26:05.000Z",
+          "description": "FIFA was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information,\"…"
+        },
+        {
+          "title": "FIFA hit by cyberattack, hackers gain access to personal and business information",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hit-by-criminal-cyberattack-hackers-gain-access-to-personal-and-business-information/articleshow/136191555.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-26T12:24:01.000Z",
+          "description": "FIFA recently experienced a significant cyber intrusion that resulted in unauthorised access to select personal and corporate information. They confirmed that the impact was negligible, affecting less than 0.1% of their total data. The hacker group, Handsome Boy Hacking Club, has claimed responsibi…"
+        },
+        {
+          "title": "FIFA says it suffers cyberattack accessing 'personal and business information'",
+          "url": "https://abcnews.com/sports/wirestory/fifa-victim-cyberattack-accessing-personal-business-information-138465369",
+          "source": "ABC News: Top Stories",
+          "published_at": "2026-11-26T14:48:05.000Z",
+          "image": "https://s.abcnews.com/images/Sports/wirestory_6de93d5f8bcc655c774e2e41e2dfea1f_4x3_384.jpg",
+          "description": "FIFA says it was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information.\""
+        },
+        {
+          "title": "FIFA says personal and business information stolen in cyberattack",
+          "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-26T12:31:46.000Z",
+          "description": "No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports."
+        }
+      ],
+      "summary": "FIFA says a cyberattack gave hackers access to a limited set of personal and business information. The organization has not provided further details in the headlines."
+    },
+    {
+      "id": "topic_5d403f768df21273",
+      "title": "Judge blocks early FCC license review of ABC stations",
+      "headline": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "label": [
+        "abc",
+        "judge",
+        "licenses",
+        "blocks",
+        "fcc",
+        "review"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_5007c7e4fced90",
+      "entities": [
+        "Federal",
+        "FCC",
+        "ABC",
+        "Judge",
+        "Judge Halts FCC Review"
+      ],
+      "article_count": 21,
+      "source_count": 18,
+      "articles": [
+        {
+          "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+          "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+          "source": "The Verge",
+          "published_at": "2026-11-26T16:38:00.000Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+          "description": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights a…"
+        },
+        {
+          "title": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+          "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses",
+          "source": "Politics - CBSNews.com",
+          "published_at": "2026-11-26T03:00:27.000Z",
+          "description": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like."
+        },
+        {
+          "title": "Judge Halts FCC Review of ABC Licenses",
+          "url": "https://politicalwire.com/2026/11/25/judge-halts-fcc-review-of-abc-licenses",
+          "source": "Political Wire",
+          "published_at": "2026-11-26T02:23:32.000Z",
+          "description": "“A federal judge in D.C. on Wednesday halted the Federal Communications Commission’s decision to call in ABC’s eight broadcast station licenses for early renewal proceedings, saying it was probably retaliation for speech critical of the Trump administration and therefore violated the First Amendmen…"
+        },
+        {
+          "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+          "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+          "source": "NYT > Business",
+          "published_at": "2026-11-26T01:00:10.000Z",
+          "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00Biz-Disney-ABC-HFO-hvlk/00Biz-Disney-ABC-HFO-hvlk-mediumSquareAt3X.jpg",
+          "description": "A preliminary injunction halts an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago."
+        },
+        {
+          "title": "Judge Blocks FCC’s Move Against ABC’s Station Licenses: ‘This Is Not a Close Case’",
+          "url": "https://variety.com/2026/tv/news/fcc-abc-license-renewals-injunction-1236958634",
+          "source": "Variety",
+          "published_at": "2026-11-26T01:28:12.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/05/ABC-FCC-Brendan-Carr.jpg",
+          "description": "A judge on Wednesday blocked the Federal Communications Commission from seeking early license renewals from ABC stations, finding that the network has faced a “campaign of retaliation” for its protected speech. The FCC ordered Disney-owned ABC in April to file renewal applications for its eight own…"
+        }
+      ],
+      "summary": "A federal judge temporarily barred the FCC from pursuing early license reviews for ABC broadcast stations. The decision came in a dispute over the commission’s move to call in the licenses for renewal proceedings."
+    },
+    {
+      "id": "topic_e09ee9cda5f5bf6b",
+      "title": "FedEx cargo plane overruns runway at Miami airport",
+      "headline": "FedEx cargo plane overshoots runway at Miami airport",
+      "label": [
+        "runway",
+        "fedex",
+        "airport",
+        "miami",
+        "plane",
+        "overshoots"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_86c5705e13bee6c0",
+      "entities": [
+        "FedEx",
+        "Miami",
+        "FedEx Cargo Plane Overshoots",
+        "Runway",
+        "Miami International Airport"
+      ],
+      "article_count": 17,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "FedEx cargo plane overshoots runway at Miami airport",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375859/fedex-cargo-plane-overshoots-runway-miami-airport",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-26T04:35:06.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/97f0ae65-29da-414b-8013-310404471ab9_ed78e9fa.jpg?itok=ZSGcEK_V&v=1795667702",
+          "description": "A FedEx cargo plane overran a runway at Miami International Airport on Wednesday night, forcing all but one runway to temporarily close the day before Thanksgiving, according to officials. There were no reports of injuries after the plane ran off the runway at about 8.40pm, the airport reported. Mi…"
+        },
+        {
+          "title": "FedEx Cargo Plane Overshoots Runway at Miami International Airport",
+          "url": "https://internewscast.com/news/fedex-cargo-plane-overshoots-runway-at-miami-international-airport",
+          "source": "Internewscast",
+          "published_at": "2026-11-26T03:55:04.000Z",
+          "description": "Internewscast Internewscast A FedEx cargo aircraft ran beyond the runway at Miami International Airport… This Post: FedEx Cargo Plane Overshoots Runway at Miami International Airport first appeared on Internewscast"
+        },
+        {
+          "title": "FedEx plane overshoots runway at Miami airport on Thanksgiving eve",
+          "url": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541",
+          "source": "Deutsche Welle",
+          "published_at": "2026-11-26T08:01:00.000Z",
+          "description": "A FedEx plane from Memphis ran past the end of a runway at Miami airport, shutting most runways and causing delays of several hours on the eve of the US holiday."
+        },
+        {
+          "title": "Video: FedEx Plane Overshoots Airport Runway In Miami",
+          "url": "https://www.ndtv.com/world-news/video-fedex-plane-overshoots-airport-runway-in-miami-12378570",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-26T04:05:37.000Z",
+          "description": "The incident, which took place amid heavy rains in Miami, comes after the US aviation sector has been battered by a series of headaches in recent weeks."
+        },
+        {
+          "title": "FedEx plane goes off runway at Miami airport, all but 1 runway closed",
+          "url": "https://globalnews.ca/news/12167268/fedex-plane-off-runway-miami-airport",
+          "published_at": "2026-11-26T15:39:50.000Z",
+          "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177339873-e1795707203444.jpg?quality=65&strip=all",
+          "description": "The incident happened almost three months after an Amazon cargo jet overshot another runway in Miami, killing five people on the ground."
+        }
+      ],
+      "videos": [
+        {
+          "title": "FedEx cargo plane overruns runway at Miami airport",
+          "url": "https://www.youtube.com/shorts/sn7nK5YjmVA",
+          "video_id": "sn7nK5YjmVA",
+          "channel": "NBC News",
+          "published_at": "2026-11-26T10:27:07.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/sn7nK5YjmVA/hqdefault.jpg"
+        },
+        {
+          "title": "FedEx cargo plane overshoots runway at Miami airport",
+          "url": "https://www.youtube.com/shorts/4xID08ghapY",
+          "video_id": "4xID08ghapY",
+          "channel": "CNN",
+          "published_at": "2026-11-26T08:06:45.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/4xID08ghapY/hqdefault.jpg"
+        },
+        {
+          "title": "FedEx plane veers off runway at Miami International Airport",
+          "url": "https://www.youtube.com/shorts/0CSjwOz3JZo",
+          "video_id": "0CSjwOz3JZo",
+          "channel": "ABC News",
+          "published_at": "2026-11-26T04:28:47.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/0CSjwOz3JZo/hqdefault.jpg"
+        }
+      ],
+      "summary": "A FedEx cargo plane went beyond a runway at Miami International Airport, temporarily closing all but one runway. The incident caused delays on the eve of Thanksgiving."
+    },
+    {
+      "id": "topic_ebf8553d1f2ee985",
+      "title": "Trump says he urged Putin to pull back military aggression in Europe",
+      "headline": "Trump Urges Putin To \"Pull Back Military Aggression\" In Europe",
+      "label": [
+        "aggression",
+        "putin",
+        "military",
+        "europe",
+        "pull",
+        "trump"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_c3e3eb888d070ab5",
+      "entities": [
+        "Trump Urges Putin To",
+        "Pull Back Military Aggression",
+        "In Europe",
+        "Trump Says He Told",
+        "Putin To"
+      ],
+      "article_count": 15,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Trump Urges Putin To \"Pull Back Military Aggression\" In Europe",
+          "url": "https://www.ndtv.com/world-news/donald-trump-urges-russian-president-vladimir-putin-to-pull-back-military-aggression-in-europe-12382543",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-26T20:31:29.000Z",
+          "description": "Trump said he had made the request to Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine."
+        },
+        {
+          "title": "Trump Says He Told Putin To ‘Pull Back’ All Military Aggression Against Europe",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/26/trump-says-he-told-putin-to-pull-back-all-military-aggression-against-europe",
+          "source": "Forbes - Business",
+          "published_at": "2026-11-26T17:24:54.000Z",
+          "description": "While Russia is not formally at war with any European countries, its military strikes have landed in Poland as airspace violations have also been made in places like Germany, Romania and Finland."
+        },
+        {
+          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+          "url": "https://tribune.com.pk/story/2642515/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe",
+          "source": "express tribune",
+          "published_at": "2026-11-26T13:05:07.000Z",
+          "description": "Trump has urged a negotiated end to Ukraine's war, but his reference to European territories suggests a broader scope"
+        },
+        {
+          "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1010901/trump-says-he-d-like-to-see-putin-pull-back-military-aggression-in-europe/story",
+          "source": "GMA News Online / News",
+          "published_at": "2026-11-26T16:11:31.000Z",
+          "description": "Trump posted that he would like to see Putin \"pull back all Military aggression against territories throughout Europe\" in the hope this could lead to a quick settlement of the war in Ukraine."
+        },
+        {
+          "title": "Trump tells Putin to 'pull back all military aggression' across Europe",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxqqvrswmvhajzhts16a3a5s0qtqke2wlhnqzvxywc0yjuzz2llluj4m3b6rlbnlxrzunhqakpgr2f0vtzstznkdkjgctexvmxxqwptqwlreen1qnfhmlbvvvrlm1a1dmfhvzzwsgjksez5wjlxtmi5duytdjrwvufsewdjykhutkpur1phz0rlrglqtvlemflesvloqtvhuq",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-26T15:21:25.000Z",
+          "description": "Trump tells Putin to 'pull back all military aggression' across Europe The Kyiv Independent Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened The Guardian Trump says he asked Putin to 'pull back' military aggression throughout Europe Reuters Ukraine live: T…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump urges Putin to end 'military aggression' in Europe • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=L2JWOMi0G1Y",
+          "video_id": "L2JWOMi0G1Y",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-26T20:10:32.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/L2JWOMi0G1Y/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump said he asked Vladimir Putin to pull back military aggression across Europe, saying he hoped it would help bring a deal to end the war in Ukraine."
+    },
+    {
+      "id": "topic_f8277f14416228d7",
+      "title": "Pablo Hernández de Cos selected to lead the European Central Bank",
+      "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "label": [
+        "pablo",
+        "hernández",
+        "cos",
+        "ecb",
+        "central",
+        "spain"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_bd3c89b856e00d5d",
+      "entities": [
+        "Spain",
+        "Pablo Hern",
+        "Cos",
+        "European Central Bank",
+        "CNBC"
+      ],
+      "article_count": 14,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-11-26T14:59:47.000Z",
+          "description": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year."
+        },
+        {
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+          "source": "Economics | The Guardian",
+          "published_at": "2026-11-26T17:50:54.000Z",
+          "image": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=68ff7c0782ca353291a411df5d20671e",
+          "description": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries. T…"
+        },
+        {
+          "title": "Pablo Hernández de Cos wins race for ECB presidency",
+          "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51",
+          "source": "International homepage",
+          "published_at": "2026-11-26T14:44:13.000Z",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4cb6af6f-b826-4ec0-b4bb-83224cb0fa98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+          "description": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot"
+        },
+        {
+          "title": "Pablo Hernández de Cos, futur président de la BCE : qui est-il ? Et que va-t-il changer ?",
+          "url": "https://www.rtbf.be/article/pablo-hernandez-de-cos-futur-president-de-la-bce-qui-est-il-et-que-va-t-il-changer-11821368",
+          "source": "- Info",
+          "published_at": "2026-11-26T07:50:20.000Z",
+          "description": "Pablo Hernández de Cos a 55 ans. Économiste de formation, il a débuté sa carrière à la Banque d'Espagne, dont il a..."
+        },
+        {
+          "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+          "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-11-26T16:29:52.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg",
+          "description": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Spain's De Cos chosen as next ECB president • FRANCE 24 English",
+          "url": "https://www.youtube.com/watch?v=A9t677IhgAs",
+          "video_id": "A9t677IhgAs",
+          "channel": "FRANCE 24 English",
+          "published_at": "2026-11-26T21:41:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/A9t677IhgAs/hqdefault.jpg"
+        },
+        {
+          "title": "Pablo Hernandez de Cos: the man set to be ECB president",
+          "url": "https://www.youtube.com/watch?v=xoK-ej0Ww8c",
+          "video_id": "xoK-ej0Ww8c",
+          "channel": "Reuters",
+          "published_at": "2026-11-26T15:47:50.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/xoK-ej0Ww8c/hqdefault.jpg"
+        },
+        {
+          "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
+          "url": "https://www.youtube.com/watch?v=g-he9QWCKH8",
+          "video_id": "g-he9QWCKH8",
+          "channel": "Bloomberg Television",
+          "published_at": "2026-11-26T14:07:14.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/g-he9QWCKH8/hqdefault.jpg"
+        }
+      ],
+      "summary": "Former Bank of Spain governor Pablo Hernández de Cos has been chosen to succeed Christine Lagarde as European Central Bank president. He won backing from major EU countries."
+    },
+    {
+      "id": "topic_e17c0140ef609c3b",
+      "title": "Gérard Depardieu to face trial over Charlotte Arnould rape allegations",
+      "headline": "Gérard Depardieu sera jugé pour viol sur la comédienne Charlotte Arnould",
+      "label": [
+        "charlotte",
+        "arnould",
+        "depardieu",
+        "gérard",
+        "viols",
+        "comédienne"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_e83bbb4d7b8eb714",
+      "entities": [
+        "Depardieu",
+        "Charlotte Arnould",
+        "Charlotte",
+        "Arnould",
+        "Face Trial"
+      ],
+      "article_count": 18,
+      "source_count": 13,
+      "articles": [
+        {
+          "title": "Gérard Depardieu sera jugé pour viol sur la comédienne Charlotte Arnould",
+          "url": "https://www.rtbf.be/article/gerard-depardieu-sera-juge-pour-viol-sur-la-comedienne-charlotte-arnould-11821658",
+          "source": "- Info",
+          "published_at": "2026-11-26T14:01:29.000Z",
+          "description": "\"La chambre de l’instruction a décidé de confirmer l’ordonnance de mise en accusation devant la cour criminelle..."
+        },
+        {
+          "title": "Gérard Depardieu renvoyé en procès pour viol sur la comédienne Charlotte Arnould",
+          "url": "https://www.levif.be/international/gerard-depardieu-renvoye-en-proces-pour-viol-sur-la-comedienne-charlotte-arnould",
+          "source": "Le Vif",
+          "published_at": "2026-11-26T14:33:50.000Z",
+          "description": "Gérard Depardieu devra répondre devant la justice des accusations de viol et d'agression sexuelle formulées par la comédienne Charlotte Arnould. The post Gérard Depardieu renvoyé en procès pour viol sur la comédienne Charlotte Arnould appeared first on Le Vif."
+        },
+        {
+          "title": "Gérard Depardieu sera jugé pour viol sur la comédienne Charlotte Arnould, le comédien renvoyé devant la cour criminelle",
+          "url": "https://www.ladepeche.fr/2026/11/26/gerard-depardieu-sera-juge-pour-viol-sur-la-comedienne-charlotte-arnould-le-comedien-renvoye-devant-la-cour-criminelle-13672642.php",
+          "source": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+          "published_at": "2026-11-26T14:01:07.000Z",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6b0831cb276a33134501075f/standard/image.jpg?v=1",
+          "description": "L'acteur Gérard Depardieu va être jugé pour viol. La cour d'appel de Paris a décidé, ce jeudi 26 novembre, son renvoi devant la cour criminelle de Paris pour viol de la comédienne Charlotte Arnould. Les avocats de..."
+        },
+        {
+          "title": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "published_at": "2026-11-26T14:13:51.000Z",
+          "description": "Cette décision de la cour, saisie par la défense de l’acteur, qui conteste les accusations, est susceptible d’un pourvoi en cassation."
+        },
+        {
+          "title": "Gérard Depardieu sera bien jugé pour viols sur l’actrice Charlotte Arnould",
+          "url": "https://www.huffingtonpost.fr/france/article/gerard-depardieu-sera-bien-juge-pour-viols-sur-l-actrice-charlotte-arnould_365256.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-11-26T13:46:02.000Z",
+          "description": "L’acteur avait fait appel de l’ordonnance de mise en accusation rendue en août 2025, pour ces faits de viols présumés en août 2018 alors que la comédienne avait 22 ans."
+        }
+      ],
+      "summary": "A Paris appeals court upheld the decision to send actor Gérard Depardieu to trial over rape allegations by actress Charlotte Arnould. Depardieu contests the accusations."
+    },
+    {
+      "id": "topic_4df2e0337a9036bd",
+      "title": "Nvidia reportedly halts server shipments to four Southeast Asian countries",
+      "headline": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "label": [
+        "southeast",
+        "asian",
+        "nvidia",
+        "shipments",
+        "countries",
+        "server"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_59c3407d42c4fd88",
+      "entities": [
+        "Nvidia",
+        "Southeast Asian",
+        "FT",
+        "AI",
+        "Nvidia Halts Server Shipments"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
+          "source": "All News",
+          "published_at": "2026-11-26T05:42:42.000Z"
+        },
+        {
+          "title": "Nvidia reportedly halts AI server shipments to four Southeast Asian countries",
+          "url": "https://www.neowin.net/news/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-countries",
+          "source": "Neowin",
+          "published_at": "2026-11-26T15:34:01.000Z",
+          "description": "The restrictions target Chinese AI developers renting computing power in the region, with cloud providers facing a 90-day deadline to obtain a US license. Read more..."
+        },
+        {
+          "title": "Nvidia Halts Server Shipments To 4 Southeast Asian Countries: Report",
+          "url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-26T09:42:13.000Z",
+          "description": "According to the FT, manufacturing partners such as Dell and Supermicro, which package Nvidia's chips into servers, told buyers in the four countries that Nvidia would not allow their orders to be shipped."
+        },
+        {
+          "title": "Nvidia reportedly stops shipments to four Southeast Asian countries",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4816287/nvidia-reportedly-stops-shipments-to-four-southeast-asian-countries",
+          "source": "Washington Examiner",
+          "published_at": "2026-11-26T19:32:07.000Z",
+          "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/trump-jensen-huang.jpg?w=1024",
+          "description": "Artificial intelligence chip maker Nvidia has told its manufacturing partners to halt shipments of servers containing its chips to four Southeast Asian countries, according to a report. The tech company’s manufacturing partners, such as Dell and Supermicro, have told buyers in Malaysia, Singapore,…"
+        },
+        {
+          "title": "Nvidia Reportedly Freezes AI Chip Shipments to Southeast Asian Countries",
+          "url": "https://gizmodo.com/nvidia-reportedly-freezes-ai-chip-shipments-to-southeast-asian-countries-2000845928",
+          "source": "Gizmodo",
+          "published_at": "2026-11-26T15:24:42.000Z",
+          "image": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2291592577-1280x854.jpg",
+          "description": "The suspension comes as the U.S. tries to crack down on loopholes allowing China to access Nvidia’s most advanced AI chips."
+        }
+      ],
+      "summary": "Nvidia has reportedly told manufacturing partners to stop shipping servers containing its chips to four Southeast Asian countries. The reported restrictions target access to computing power by Chinese AI developers in the region."
+    },
+    {
+      "id": "topic_3ca9869be2eef642",
+      "title": "UK net migration falls to 77,000, lowest since 1997 outside pandemic",
+      "headline": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "label": [
+        "migration",
+        "net",
+        "lowest",
+        "falls",
+        "since",
+        "pandemic"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_2f3ae75d8f0a8ac2",
+      "entities": [
+        "Net Migration",
+        "Falls",
+        "Lowest Level Since",
+        "Excluding Pandemic",
+        "Net"
+      ],
+      "article_count": 13,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+          "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+          "source": "NYT > World > Europe",
+          "published_at": "2026-11-26T10:54:14.000Z",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+          "description": "The drop was largely driven by fewer people arriving from outside Europe. It reflects government action to restrict immigration after a public backlash."
+        },
+        {
+          "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-11-26T10:10:03.000Z",
+          "image": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=fa0fc5a8c4d378786a2da73420d31ede",
+          "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Offic…"
+        },
+        {
+          "title": "Britain net migration falls to 77,000, lowest level since 1997 outside pandemic",
+          "url": "https://timesofindia.indiatimes.com/world/uk/britain-net-migration-falls-to-77000-lowest-level-since-1997-outside-pandemic/articleshow/136187456.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-11-26T10:26:59.000Z"
+        },
+        {
+          "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic (Stephen Castle/New York Times)",
+          "url": "https://www.memeorandum.com/261126/p10",
+          "source": "memeorandum",
+          "published_at": "2026-11-26T12:55:01.000Z",
+          "description": "Stephen Castle / New York Times: Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic — The drop was largely driven by fewer people arriving from outside Europe. It reflects government action to restrict immigration after a public backlash. — Net migration to the United Kingdo…"
+        },
+        {
+          "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+          "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-26T13:19:28.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/c5f8aa66-1754-4c2b-a2de-cffb2bed2ef8_07b73b9e.jpg?itok=qyGZ0EZi&v=1795699165",
+          "description": "Net migration to the UK fell to 77,000 for the year to June, the lowest annual figure since 1997 excluding the Covid years, statistics showed on Thursday. The net migration figures – the difference between the numbers of people arriving in and leaving Britain – are a boost for the UK’s centre-left…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "UK net migration falls to lowest level this century | BBC Newscast",
+          "url": "https://www.youtube.com/watch?v=awHRBxBxTJg",
+          "video_id": "awHRBxBxTJg",
+          "channel": "BBC News",
+          "published_at": "2026-11-26T20:15:13.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/awHRBxBxTJg/hqdefault.jpg"
+        },
+        {
+          "title": "UK net migration falls, but nearly two-thirds of Britons think it’s rising",
+          "url": "https://www.youtube.com/shorts/b8PTHcm0AXQ",
+          "video_id": "b8PTHcm0AXQ",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-26T17:35:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/b8PTHcm0AXQ/hqdefault.jpg"
+        },
+        {
+          "title": "UK net migration at lowest level in nearly a decade",
+          "url": "https://www.youtube.com/shorts/RRvv0aIESWo",
+          "video_id": "RRvv0aIESWo",
+          "channel": "Channel 4 News",
+          "published_at": "2026-11-26T12:57:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/RRvv0aIESWo/hqdefault.jpg"
+        }
+      ],
+      "summary": "UK net migration fell to 77,000 in the year to June, its lowest level since 1997 excluding the pandemic years. Headlines attribute the decline largely to fewer arrivals from outside Europe."
+    },
+    {
+      "id": "topic_1f03c298af467c24",
+      "title": "Norse Atlantic suspends flights amid risk of bankruptcy",
+      "headline": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "label": [
+        "norse",
+        "atlantic",
+        "suspends",
+        "flights",
+        "bankruptcy",
+        "airline"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_17b576a690c661b1",
+      "entities": [
+        "Norse Atlantic",
+        "BBC",
+        "Airline Norse Atlantic",
+        "Norse Atlantic Airways Suspends",
+        "Flights Amid Bankruptcy Fears"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
+          "source": "BBC News",
+          "published_at": "2026-11-26T11:43:38.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+          "description": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline."
+        },
+        {
+          "title": "Norse Atlantic suspends flights amid bankruptcy risk",
+          "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93ch-5052182",
+          "source": "All News",
+          "published_at": "2026-11-26T06:54:13.000Z"
+        },
+        {
+          "title": "Airline Norse Atlantic suspends flights, warns of possible bankruptcy",
+          "url": "https://www.thehindu.com/business/industry/airline-norse-atlantic-suspends-flights-warns-of-possible-bankruptcy/article71745843.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-26T08:43:56.000Z",
+          "description": "Norse ​continues to consider ‌options to secure short-term financing and is in discussion with investors regarding a possible takeover that would include a financing solution"
+        },
+        {
+          "title": "Norse Atlantic Airways Suspends Flights Amid Bankruptcy Fears and Rising Fuel Costs",
+          "url": "https://internewscast.com/news/us/norse-atlantic-airways-suspends-flights-amid-bankruptcy-fears-and-rising-fuel-costs",
+          "source": "Internewscast",
+          "published_at": "2026-11-26T14:58:14.000Z",
+          "description": "Internewscast Internewscast Norwegian carrier Norse Atlantic halted all flights Thursday after its board warned… This Post: Norse Atlantic Airways Suspends Flights Amid Bankruptcy Fears and Rising Fuel Costs first appeared on Internewscast"
+        },
+        {
+          "title": "Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs",
+          "url": "https://www.foxnews.com/world/norse-atlantic-airlines-suspends-all-flights-brink-bankruptcy-amid-rising-fuel-costs",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-11-26T13:56:57.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Norse.jpg?ve=1&tl=1",
+          "description": "Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded."
+        }
+      ],
+      "summary": "Norse Atlantic has suspended all flights as it seeks urgent short-term financing. The airline says it could file for bankruptcy without a financial lifeline."
+    },
+    {
+      "id": "topic_9aa69f34568a448f",
+      "title": "New reports link Jordan Bardella to alleged antisemitic messages",
+      "headline": "Écrits antisémites attribués à Jordan Bardella : de nouveaux éléments révélés par Le Monde et Mediapart relient le président du RN aux messages",
+      "label": [
+        "antisémites",
+        "écrits",
+        "bardella",
+        "jordan",
+        "nouveaux",
+        "mediapart"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_741be74bad7cf0c3",
+      "entities": [
+        "Jordan Bardella",
+        "Le Monde",
+        "Mediapart",
+        "RN",
+        "Affaire Bardella"
+      ],
+      "article_count": 10,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Écrits antisémites attribués à Jordan Bardella : de nouveaux éléments révélés par Le Monde et Mediapart relient le président du RN aux messages",
+          "url": "https://www.sudouest.fr/politique/jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-de-nouveaux-elements-reveles-par-le-monde-et-mediapart-relient-le-president-du-rn-aux-messages-31676051.php",
+          "source": "L'essentiel",
+          "published_at": "2026-11-26T06:19:58.000Z",
+          "description": "De nouvelles révélations de Mediapart et du Monde apportent des éléments liant Jordan Bardella à des propos antisémites datant de 2013, ce que le président du Rassemblement national conteste fermement"
+        },
+        {
+          "title": "\"Le Monde\" et Mediapart publient de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella",
+          "url": "https://www.franceinfo.fr/politique/jordan-bardella/le-monde-et-mediapart-publient-de-nouveaux-elements-de-preuve-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8300856.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-11-26T06:50:48.000Z",
+          "description": "Les deux médias ont eu accès à une conversation où un ancien camarade de lycée de Jordan Bardella reçoit des messages affirmant notamment que \"ce sont les sionistes qui sont à la tête des banques\". Le président du RN \"réfute catégoriquement en être l'auteur\"."
+        },
+        {
+          "title": "Affaire Bardella : de nouveaux écrits antisémites révélés par « le Monde » et Mediapart",
+          "url": "https://www.nouvelobs.com/politique/20261126.obs120453/affaire-bardella-de-nouveaux-ecrits-antisemites-reveles-par-le-monde-et-mediapart.html",
+          "source": "Le Nouvel Obs",
+          "published_at": "2026-11-26T08:57:39.000Z",
+          "description": "Deux mois après les premières révélations de Mediapart sur des écrits antisémites de jeunesse attribués à Jordan Bardella, le site d’investigation et le quotidien « le Monde » publient de nouveaux éléments indiquant que le président du Rassemblement national est bien l’auteur de ces propos remontan…"
+        },
+        {
+          "title": "Ecrits antisémites: le Monde et Mediapart révèlent de nouveaux éléments compromettants pour Bardella",
+          "url": "https://www.dhnet.be/actu/monde/2026/11/26/ecrits-antisemites-le-monde-et-mediapart-revelent-de-nouveaux-elements-compromettants-pour-bardella-gck352cl4vdl3oubnwjt46rcve",
+          "source": "DH Les Sports+ - ACTU",
+          "published_at": "2026-11-26T06:59:47.000Z",
+          "description": "Deux mois après les premières révélations de Mediapart sur des écrits antisémites de jeunesse attribués à Jordan Bardella, le site d'investigation et le quotidien Le Monde publient jeudi de nouveaux éléments indiquant que le président du Rassemblement national est bien l'auteur de ces propos remont…"
+        },
+        {
+          "title": "Écrits antisémites : ces éléments techniques et biographiques qui accablent Jordan Bardella",
+          "url": "https://www.huffingtonpost.fr/politique/article/ecrits-antisemites-ces-elements-techniques-et-biographiques-qui-accablent-jordan-bardella_365253.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-11-26T15:20:05.000Z",
+          "description": "Les nouvelles révélations faites par « Le Monde » et « Mediapart » sur les écrits antisémites attribués au président du RN s’appuient sur des constatations difficilement contestables."
+        }
+      ],
+      "summary": "Le Monde and Mediapart published new material they say links Jordan Bardella to antisemitic messages from 2013. Bardella denies the allegations."
+    },
+    {
+      "id": "topic_9cb09accb3b1f214",
+      "title": "Flight Centre investigates cyberattack affecting customer records",
+      "headline": "Flight Centre says ‘significant number’ of customer records may have been accessed in cyber attack",
+      "label": [
+        "significant",
+        "flight",
+        "centre",
+        "customer",
+        "number",
+        "records"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_38b09cd6a88d0598",
+      "entities": [
+        "Flight Centre",
+        "Significant",
+        "Flight Centre Travel Group",
+        "Travel",
+        "Australia"
+      ],
+      "article_count": 9,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Flight Centre says ‘significant number’ of customer records may have been accessed in cyber attack",
+          "url": "https://www.perthnow.com.au/news/flight-centre-says-significant-number-of-customer-records-may-have-been-accessed-in-cyber-attack-c-23216553",
+          "source": "PerthNow",
+          "published_at": "2026-11-26T03:42:40.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23216553/b144ce4703c65b882c5a53523a878fee6b20199c-16x9-x0y790w2048h1152.jpg",
+          "description": "The Australian travel agency warns a “significant number” of customer records may have been compromised in a cyber attack."
+        },
+        {
+          "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+          "url": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+          "source": "www.theregister.com - Articles",
+          "published_at": "2026-11-26T15:29:00.000Z",
+          "image": "https://image.theregister.com/?imageId=259334&width=800",
+          "description": "The latest attack in spate of similar incidents targeting booking systems globally"
+        },
+        {
+          "title": "Flight Centre hit by cyber incident affecting ‘significant number’ of customers",
+          "url": "https://www.brisbanetimes.com.au/business/companies/flight-centre-hit-by-cyber-incident-affecting-significant-number-of-customers-20261126-p61hmn.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-26T04:59:35.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2735%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/18f48189b8c6921e7207812307ee9f91d14432aa",
+          "description": "The incident appears to affect the accommodation system used by Flight Centre and travel brands Travel Associates, Cruiseabout, and some independent agents."
+        },
+        {
+          "title": "Australia’s Flight Centre Data Breach Exposes Customer Records and Passport Details",
+          "url": "https://malware.news/t/australia-s-flight-centre-data-breach-exposes-customer-records-and-passport-details/127679",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-11-26T13:30:45.000Z",
+          "description": "Pierluigi Paganini reports: Australia’s Flight Centre Travel Group is investigating a cyber incident involving a third-party accommodation booking system that may have exposed a significant number of customer records. The company disclosed the incident on November 26, saying it had detected unusual…"
+        }
+      ],
+      "summary": "Flight Centre says a cyber incident may have exposed a significant number of customer records. The incident appears to involve a third-party accommodation booking system."
+    },
+    {
+      "id": "topic_70958ad755a8f4c9",
+      "title": "Trump and NATO chief urge Russia not to widen Ukraine war",
+      "headline": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War",
+      "label": [
+        "nato",
+        "russia",
+        "chief",
+        "ukraine",
+        "war",
+        "trump"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_89afb4129fc99260",
+      "entities": [
+        "Trump",
+        "NATO Chief Urge Russia",
+        "Avoid Actions That Widen",
+        "Ukraine War",
+        "NATO"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Trump and NATO Chief Urge Russia to Avoid Actions That Widen Ukraine War",
+          "url": "https://www.themoscowtimes.com/2026/11/26/trump-and-nato-chief-urge-russia-to-avoid-actions-that-widen-ukraine-war-a812374",
+          "source": "Latest Articles",
+          "published_at": "2026-11-26T08:49:04.000Z",
+          "description": "Rutte and Trump also talked about boosting defense spending and investment in the United States and across NATO."
+        },
+        {
+          "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
+          "url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine",
+          "source": "Latest Political News on Fox News",
+          "published_at": "2026-11-26T13:16:51.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mark-rutte-donald-trump-mar-a-lago.jpg?ve=1&tl=1",
+          "description": "President Donald Trump and NATO chief Mark Rutte, who met Wednesday night at Mar-a-Lago, urged Russia to avoid actions that might expand the Ukraine war."
+        },
+        {
+          "title": "Trump and NATO Chief Rutte Urge Russia Not to Escalate Ukraine War",
+          "url": "https://internewscast.com/news/us/trump-and-nato-chief-rutte-urge-russia-not-to-escalate-ukraine-war",
+          "source": "Internewscast",
+          "published_at": "2026-11-26T05:27:32.000Z",
+          "description": "Internewscast Internewscast President Trump and NATO Secretary General Mark Rutte agreed during a Wednesday… This Post: Trump and NATO Chief Rutte Urge Russia Not to Escalate Ukraine War first appeared on Internewscast"
+        },
+        {
+          "title": "Russia must avoid ‘any actions’ expanding war in Ukraine — Trump, NATO chief say after Mar-a-Lago meeting",
+          "url": "https://nypost.com/2026/11/26/us-news/russia-must-avoid-any-actions-expanding-war-in-ukraine-trump-nato-chief-say-after-mar-a-lago-meeting",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-11-26T05:04:49.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-first-since-united-states-150075967.jpg?w%3D1024",
+          "description": "The meeting was \"outstanding\" and “very impactful,” Trump and Rutte said in a joint statement released by the White House."
+        },
+        {
+          "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+          "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+          "source": "International: Top News And Analysis",
+          "published_at": "2026-11-26T10:45:45.000Z",
+          "description": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Trump, NATO Chief Warn Russia Over Ukraine War | Seoul Warns N Korea Over Nuclear Push | WION",
+          "url": "https://www.youtube.com/watch?v=2AJUlkI4k2I",
+          "video_id": "2AJUlkI4k2I",
+          "channel": "WION",
+          "published_at": "2026-11-26T06:35:59.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/2AJUlkI4k2I/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump and NATO Secretary General Mark Rutte urged Russia to avoid actions that could expand the war in Ukraine. They also discussed defense spending and investment, according to reports of their meeting."
+    },
+    {
+      "id": "topic_c937e5d7359ff151",
+      "title": "Netflix’s The Hunting Wives returns for its second season",
+      "headline": "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
+      "label": [
+        "wives",
+        "hunting",
+        "season",
+        "addictive",
+        "darkly",
+        "netflix"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_8e5fe3979dc947c4",
+      "entities": [
+        "What The Hunting Wives",
+        "And The Hunting Wives",
+        "Alone",
+        "Understands About How",
+        "Make Addictive TV"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "What The Hunting Wives—And The Hunting Wives Alone—Understands About How to Make Addictive TV",
+          "url": "https://time.com/article/2026/11/26/what-makes-the-hunting-wives-addictive-tv",
+          "source": "TIME",
+          "published_at": "2026-11-26T08:01:22.000Z",
+          "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt2b221df86d94282f/6b006af5bdb22b9e61cb35b2/The_Hunting_Wives_n_S2_E5_00_08_39_10RC_C.jpg?branch=production",
+          "description": "There are dozens of soapy thrillers out there. Here's what the people behind Netflix's maximalist hit know that their creators don't."
+        },
+        {
+          "title": "Season 2 of The Hunting Wives is a darkly funny, addictive treat",
+          "url": "https://www.avclub.com/the-hunting-wives-season-2-review-netflix-malin-akerman-brittany-snow",
+          "source": "AV Club",
+          "published_at": "2026-11-26T08:01:22.000Z",
+          "description": "Netflix's erotic thriller The Hunting Wives turns up the heat between Malin Akerman and Brittany Snow in season 2—and puts them through a role reversal, too."
+        },
+        {
+          "title": "What To Watch Thursday: The Hunting Wives Returns, National Dog Show, And More",
+          "url": "https://www.tvline.com/2323675/what-to-watch-november-26-2026-tv-shows-movies-streaming",
+          "source": "TVLine - All TV. No Interference. TV News & Spoilers by TVLine",
+          "published_at": "2026-11-26T08:00:00.000Z",
+          "description": "On TV this Thursday: The Hunting Wives reload for Season 2, the National Dog Show crowns a winner, and Jennifer Lopez performs live from Las Vegas."
+        },
+        {
+          "title": "Netflix Posts Racy Thanksgiving Message On ‘The Hunting Wives’ Season 2 Premiere Day",
+          "url": "https://deadline.com/2026/11/netflix-thanksgiving-message-hunting-wives-season-2-1237234078",
+          "source": "Deadline",
+          "published_at": "2026-11-26T17:44:07.000Z",
+          "description": "Netflix welcomed Thanksgiving with a racy message on X this morning. With The Hunting Wives Season 2 landing on the streamer today, Netflix posted a clip of leads Brittany Snow and Malin Åkerman in bed together overlaid with the message “this thanksgiving plate.” In the short clip, the pair say “I…"
+        },
+        {
+          "title": "‘The Hunting Wives’ Review: Season 2 Reloads Without Slowing Down in Netflix’s Delirious Soap",
+          "url": "https://www.indiewire.com/criticism/shows/hunting-wives-season-2-review-netflix-reloads-1235230961",
+          "source": "IndieWire",
+          "published_at": "2026-11-26T18:00:00.000Z",
+          "description": "Rebecca Cutter's high-key camp comedy and low-key conservative satire (or vice versa) follows frenemies-turned-lovers Sophie (Brittany Snow) and Margo (Malin Åkerman) as they weigh their lavish lives in suburban Texas against the forbidden love that would tear it all down."
+        }
+      ],
+      "summary": "The Hunting Wives has returned on Netflix for a second season. Coverage includes reviews and viewing guides describing the series as an erotic thriller and dark comedy."
+    },
+    {
+      "id": "topic_19521828c62c6c00",
+      "title": "Ireland to tour Pakistan for cricket series in January",
+      "headline": "Ireland to tour Pakistan for first time",
+      "label": [
+        "tour",
+        "ireland",
+        "pakistan",
+        "first",
+        "qualifier",
+        "series"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_d3d12c9e7b91438d",
+      "entities": [
+        "Ireland",
+        "Pakistan",
+        "ODI",
+        "January",
+        "ODIs"
+      ],
+      "article_count": 6,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Ireland to tour Pakistan for first time",
+          "url": "https://tribune.com.pk/story/2642435/ireland-to-tour-pakistan-for-first-time",
+          "source": "express tribune",
+          "published_at": "2026-11-26T01:30:01.000Z",
+          "description": "The Irish team will arrive in Lahore on January 9"
+        },
+        {
+          "title": "Ireland to tour Pakistan for first ODI series in January",
+          "url": "https://www.the42.ie/ireland-pakistan-cricket-4-7238689-nov2026",
+          "source": "The 42",
+          "published_at": "2026-11-26T11:08:17.000Z",
+          "description": "Games will serve as preparation for World Cup qualifiers, which start in February."
+        },
+        {
+          "title": "Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier",
+          "url": "https://www.cricinfo.com/ci/content/story/1564225.html",
+          "source": "Cricket news from Cricinfo.com",
+          "published_at": "2026-11-26T07:17:40.000Z",
+          "description": "The three ODIs will be played on January 20, 22, and 24 at Gaddafi Stadium, and will be followed by a three-match one-day series between Ireland and Pakistan Shaheens"
+        },
+        {
+          "title": "Ireland Set For Historic First-Ever Tour Of Pakistan Ahead Of World Cup Qualifiers",
+          "url": "https://sports.ndtv.com/cricket/ireland-set-for-historic-first-ever-tour-of-pakistan-ahead-of-world-cup-qualifiers-12379419",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-26T08:54:19.000Z",
+          "description": "Ireland Men's cricket team will undertake their first-ever tour of Pakistan in January 2027, with Cricket Ireland announcing a six-match 50-over series as part of the team's preparations for the ICC World Cup Qualifiers 2027."
+        },
+        {
+          "title": "Ireland to make historic first-ever tour of Pakistan, six-match series confirmed",
+          "url": "https://sports.yahoo.com/general/articles/ireland-historic-first-ever-tour-160500273.html",
+          "published_at": "2026-11-26T16:05:00.000Z",
+          "description": "Ireland will tour Pakistan from January 9 to 24, 2027, playing a six-match series in Lahore. This series includes three matches against Pakistan A and three ODIs against the senior team. Matches will help prepare Ireland for the ICC World Cup Qualifier in February 2027. It will be Ireland's men's t…"
+        }
+      ],
+      "summary": "Ireland’s men’s team will tour Pakistan in January 2027 for a six-match 50-over series in Lahore. The matches include three ODIs against Pakistan’s senior team and games against Pakistan Shaheens, ahead of World Cup qualifiers."
+    }
+  ]
+}
