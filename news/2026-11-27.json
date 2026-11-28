@@ -1,0 +1,1142 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-28T00:15:20.804Z",
+  "overview": {
+    "points": [
+      {
+        "text": "Cyber incidents affected US Air Force Cloud One, prompted the UK benefits department to take services offline, and led SAP to secure its IT environment.",
+        "stories": [
+          1,
+          3,
+          8
+        ]
+      },
+      {
+        "text": "Canada’s Supreme Court upheld most of Quebec’s law barring public employees from wearing religious symbols at work; critics say it disproportionately affects religious minorities.",
+        "stories": [
+          5
+        ]
+      },
+      {
+        "text": "India’s Cabinet approved bills proposing a 50% increase in Lok Sabha seats, a freeze on state seat distribution until 2051, and one-third reservation for women.",
+        "stories": [
+          14
+        ]
+      },
+      {
+        "text": "Costa Rica denied entry to UN special rapporteur Francesca Albanese, citing alleged terrorism links; she denies the allegation, and a court barred her forced removal.",
+        "stories": [
+          4
+        ]
+      },
+      {
+        "text": "Fashion brands shifted roughly $250 million in orders from Bangladesh amid unrest and production disruptions, with most moving to India.",
+        "stories": [
+          7
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "id": "topic_a563d9283606a877",
+      "title": "Hackers breach US Air Force Cloud One platform",
+      "headline": "Hackers breach US Air Force’s Cloud One platform",
+      "label": [
+        "force",
+        "air",
+        "cloud",
+        "hackers",
+        "breach",
+        "platform"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_45521229eb7a2f44",
+      "entities": [
+        "Hackers",
+        "US Air Force",
+        "Cloud One",
+        "Hackers Breach US Air",
+        "Force Flagship Cloud One"
+      ],
+      "article_count": 48,
+      "source_count": 46,
+      "articles": [
+        {
+          "title": "Hackers breach US Air Force’s Cloud One platform",
+          "url": "https://cyberinsider.com/us-air-force-cloud-one-cyberattack",
+          "source": "CyberInsider",
+          "published_at": "2026-11-27T15:25:19.000Z",
+          "description": "Hackers breached Cloud One, a US Air Force platform that hosts military applications ranging from payroll to air defense. The discovery stalled plans to move more applications onto the platform and blocked updates to software already running there, according to a Reuters report citing three people…"
+        },
+        {
+          "title": "Hackers Breach US Air Force Flagship Cloud One Computing Platform",
+          "url": "https://www.dailysignal.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform",
+          "source": "The Daily Signal",
+          "published_at": "2026-11-27T19:00:00.000Z",
+          "description": "Summary WASHINGTON, Nov. 27 (Reuters) – Hackers have breached the U.S. Air Force‘s flagship cloud computing platform, three people familiar with the matter told Reuters, in a development that could jeopardize a vast swath of sensitive tactical, personnel and logistics data. The intrusion at Cloud O…"
+        },
+        {
+          "title": "Hackers Breach US Air Force Flagship Cloud One Computing Platform: Report",
+          "url": "https://www.ndtv.com/world-news/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-report-12386831",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-27T19:22:58.000Z",
+          "description": "The intrusion at Cloud One was discovered within the past month or so during work to upgrade the system, the report said, adding that the discovery has led to disruption across the platform."
+        },
+        {
+          "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+          "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says",
+          "source": "The Decoder",
+          "published_at": "2026-11-27T16:06:43.000Z",
+          "description": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder."
+        },
+        {
+          "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+          "url": "https://news.google.com/rss/articles/cbmiqwfbvv95cuxpqnhwb2oyc2qta3k0buhwbgztcwzmrez0vu41evnzwdjztdlbcmmxzzfrlxlmvgjpuhbrbvdbrlnoqu9lwulicvpmcxqwwwpyyvj2edjqa1zvnfu5mufhlwdpqw1bvloyuw5ltulvslfplxjwvhnlml9fqnbfttnnemy4q0jiukn3sxfndg1px1l1tmdysfjdohjlwc1fmne3cjlavfb5m1hwbu0",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-27T20:00:10.000Z",
+          "description": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform Reuters Hackers breach Air Force cloud platform holding personnel and military data KATU Hackers break into US Air Force cloud computing platform: Report The Hill Hackers attack and penetrate Air Force’s computing platform…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "BREAKING: Hackers reportedly breach US Air Force 'Cloud One' platform",
+          "url": "https://www.youtube.com/watch?v=BpFQYVTdpg0",
+          "video_id": "BpFQYVTdpg0",
+          "channel": "Fox News",
+          "published_at": "2026-11-27T20:30:17.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/BpFQYVTdpg0/hqdefault.jpg"
+        },
+        {
+          "title": "Hackers break into US Air Force cloud platform: Report",
+          "url": "https://www.youtube.com/watch?v=tmwDQtK8MYY",
+          "video_id": "tmwDQtK8MYY",
+          "channel": "ABC News",
+          "published_at": "2026-11-27T18:00:19.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/tmwDQtK8MYY/hqdefault.jpg"
+        },
+        {
+          "title": "US Air Force's Cloud Computing Platform Hacked | WION Pulse",
+          "url": "https://www.youtube.com/watch?v=52xuljDGJPU",
+          "video_id": "52xuljDGJPU",
+          "channel": "WION",
+          "published_at": "2026-11-27T17:42:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/52xuljDGJPU/hqdefault.jpg"
+        }
+      ],
+      "summary": "Hackers breached Cloud One, the US Air Force platform that hosts military applications. The discovery disrupted work on the platform and stalled plans to move more applications onto it."
+    },
+    {
+      "id": "topic_eb63367e0451ecda",
+      "title": "Australia drops Nathan Lyon for New Zealand Test series",
+      "headline": "Lyon dropped by Australia for Test series vs New Zealand",
+      "label": [
+        "lyon",
+        "zealand",
+        "test",
+        "australia",
+        "dropped",
+        "squad"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_c1757c9f47de12c2",
+      "entities": [
+        "Lyon",
+        "Australia",
+        "Test",
+        "New Zealand",
+        "Nathan Lyon"
+      ],
+      "article_count": 13,
+      "source_count": 11,
+      "articles": [
+        {
+          "title": "Lyon dropped by Australia for Test series vs New Zealand",
+          "url": "https://news.sky.com/story/nathan-lyon-dropped-by-australia-for-their-test-series-against-new-zealand-13617351",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-11-27T22:45:00.000Z",
+          "description": "Nathan Lyon has been dropped by Australia for their upcoming Test series against New Zealand in Perth."
+        },
+        {
+          "title": "Nathan Lyon set to be axed from Australia squad for opening New Zealand Test",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/nathan-lyon-set-to-be-axed-from-australia-squad-nz-test",
+          "source": "Cricket | The Guardian",
+          "published_at": "2026-11-27T03:07:37.000Z",
+          "image": "https://i.guim.co.uk/img/media/d08604d44d7a68a074922d00bce3ae770cd3fe61/176_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=abab528aaf87437901efc1d7b6f6f129",
+          "description": "No room for veteran spinner for first Test of summer in Perth Omission raises questions about 39-year-old’s red-ball future Nathan Lyon is set to be axed from Australia’s squad for the first Test in a move that raises questions over the 39-year-old’s future in the team. Australia will on Saturday n…"
+        },
+        {
+          "title": "Nathan Lyon dropped as Australia name Test squad for New Zealand series",
+          "url": "https://www.indiatoday.in/sports/cricket/story/australia-test-squad-new-zealand-tests-nathan-lyon-dropped-smith-returns-3048776-2026-11-28",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-27T23:14:00.000Z",
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nathan-lyon-013934413-16x9_0.jpg?VersionId=TNCWfC5_wdXuTEUCO1EMzBxvsSDQzhB_"
+        },
+        {
+          "title": "Lyon set to be axed from Australia’s Test squad",
+          "url": "https://www.smh.com.au/sport/cricket/lyon-set-to-be-axed-from-australia-s-test-squad-20261127-p61hu7.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-27T00:15:16.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.2850613102518268%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_211%2C$y_101/t_crop_custom/q_86%2Cf_auto/328244825a53932e0e126aa146dc1ea0467bb127",
+          "description": "Nathan Lyon is set to miss selection in Australia’s Test squad for the opening Test against New Zealand next month."
+        },
+        {
+          "title": "Australia drop Lyon for New Zealand Tests",
+          "url": "https://sports.yahoo.com/cricket/articles/australia-set-drop-lyon-first-122457383.html",
+          "published_at": "2026-11-27T22:58:05.000Z",
+          "description": "Australia have dropped off-spinner Nathan Lyon for the Test series against New Zealand, starting on 9 December."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Holy Rocchiccioli! Instant reaction to Australia's Test squad | Unplayable Podcast",
+          "url": "https://www.youtube.com/watch?v=JdaBMc6Y38Q",
+          "video_id": "JdaBMc6Y38Q",
+          "channel": "cricket.com.au",
+          "published_at": "2026-11-27T22:30:25.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/JdaBMc6Y38Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Australia has left veteran off-spinner Nathan Lyon out of its squad for the opening Test against New Zealand in Perth."
+    },
+    {
+      "id": "topic_6484822774d187ea",
+      "title": "UK benefits department takes online services offline after cyber incident",
+      "headline": "UK benefits department hit by cyber incident, takes services offline",
+      "label": [
+        "incident",
+        "cyber",
+        "offline",
+        "services",
+        "pensions",
+        "uk"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_6af850b78fdfafa7",
+      "entities": [
+        "UK",
+        "British",
+        "Department",
+        "Work",
+        "Pensions"
+      ],
+      "article_count": 14,
+      "source_count": 12,
+      "articles": [
+        {
+          "title": "UK benefits department hit by cyber incident, takes services offline",
+          "url": "https://thenextweb.com/news/dwp-cyber-incident-services-offline",
+          "source": "The Next Web",
+          "published_at": "2026-11-27T09:43:17.000Z",
+          "image": "https://media.thenextweb.com/2026/11/union-jack-flag-stone-government-building.avif",
+          "description": "The UK’s Department for Work and Pensions has taken some of its online services offline after detecting a cyber incident. The department, which runs Universal Credit, the state pension and most other British benefits, confirmed the incident on Friday morning. “We have taken some DWP online services…"
+        },
+        {
+          "title": "British government takes services offline following ‘cyber incident’",
+          "url": "https://therecord.media/uk-department-work-pensions-cyber-incident",
+          "source": "The Record from Recorded Future News",
+          "published_at": "2026-11-27T00:00:00.000Z",
+          "description": "The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution."
+        },
+        {
+          "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+          "source": "UK news | The Guardian",
+          "published_at": "2026-11-27T10:00:15.000Z",
+          "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f",
+          "description": "The department is working with cyber security experts to restore services and limit disruption Turning to the growing divisions within Labour over the Rosebank oilfield, the environment minister Emma Hardy has been asked about the issue during this morning’s media round. As reported by the Guardian…"
+        },
+        {
+          "title": "UK Pensions Department Hit By 'Cyber Incident', Some Services Taken Offline",
+          "url": "https://www.ndtv.com/world-news/uk-pensions-department-hit-by-cyber-incident-some-services-taken-offline-12384788",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-27T10:49:29.000Z",
+          "description": "Britain's domestic intelligence service MI5 and the defence ministry this week warned UK military suppliers to Ukraine about increasing sabotage attempts by Russia."
+        },
+        {
+          "title": "UK Welfare and Pension Services Taken Offline Following Cyber Incident",
+          "url": "https://www.infosecurity-magazine.com/news/uk-welfare-services-offline",
+          "published_at": "2026-11-27T11:15:00.000Z",
+          "description": "The DWP said that online services had been taken offline as a precaution following a cyber-incident, regular pension and benefit payments have not been affected"
+        }
+      ],
+      "videos": [
+        {
+          "title": "How government 'cyber incident' affects you",
+          "url": "https://www.youtube.com/shorts/jp4-T4Ynrcg",
+          "video_id": "jp4-T4Ynrcg",
+          "channel": "Sky News",
+          "published_at": "2026-11-27T19:52:13.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/jp4-T4Ynrcg/hqdefault.jpg"
+        },
+        {
+          "title": "What we know about the 'cyber incident' affecting UK government services | BBC News",
+          "url": "https://www.youtube.com/watch?v=7x8Oq0Qk18A",
+          "video_id": "7x8Oq0Qk18A",
+          "channel": "BBC News",
+          "published_at": "2026-11-27T15:58:26.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/7x8Oq0Qk18A/hqdefault.jpg"
+        },
+        {
+          "title": "DWP goes partly offline after 'cyber incident'",
+          "url": "https://www.youtube.com/shorts/rtQyZMIUhU4",
+          "video_id": "rtQyZMIUhU4",
+          "channel": "Channel 4 News",
+          "published_at": "2026-11-27T12:21:37.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/rtQyZMIUhU4/hqdefault.jpg"
+        }
+      ],
+      "summary": "The Department for Work and Pensions took some online services offline as a precaution after detecting a cyber incident. Regular pension and benefit payments were not affected."
+    },
+    {
+      "id": "topic_16ab7baa4e0c7f94",
+      "title": "Costa Rica bars UN Palestine expert Francesca Albanese",
+      "headline": "Costa Rica Bars UN Expert Francesca Albanese",
+      "label": [
+        "rica",
+        "francesca",
+        "costa",
+        "albanese",
+        "onu",
+        "palestinos"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_da9395c981506d70",
+      "entities": [
+        "Costa Rica Bars UN",
+        "Expert Francesca Albanese",
+        "UN Palestine",
+        "Francesca Albanese",
+        "Costa Rica"
+      ],
+      "article_count": 10,
+      "source_count": 9,
+      "articles": [
+        {
+          "title": "Costa Rica Bars UN Expert Francesca Albanese",
+          "url": "https://www.riotimesonline.com/costa-rica-bars-un-expert-francesca-albanese",
+          "source": "The Rio Times",
+          "published_at": "2026-11-27T17:17:38.000Z",
+          "description": "Costa Rica refused UN expert Francesca Albanese entry on an unexplained terrorism alert; she denies it, and a court has barred forced removal. The post Costa Rica Bars UN Expert Francesca Albanese appeared first on The Rio Times."
+        },
+        {
+          "title": "UN Palestine expert Francesca Albanese barred from Costa Rica",
+          "url": "https://dailypost.ng/2026/11/27/un-palestine-expert-francesca-albanese-barred-from-costa-rica",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-11-27T08:44:30.000Z",
+          "description": "Costa Rica on Thursday denied entry to Francesca Albanese, United Nations Special Rapporteur on the Occupied Palestinian Territories, accusing her of terror links. Albanese was stopped at the international airport in San José, where she was expected to receive an honorary doctorate from the Univers…"
+        },
+        {
+          "title": "Francesca Albanese, rapporteure de l’ONU pour les Palestiniens, refoulée au Costa Rica",
+          "url": "https://www.huffingtonpost.fr/international/article/francesca-albanese-rapporteure-de-l-onu-pour-les-palestiniens-refoulee-au-costa-rica_365510.html",
+          "source": "Le HuffPost : actualités et infos décalées en continu, en France et dans le monde",
+          "published_at": "2026-11-27T07:32:18.000Z",
+          "description": "Le Costa Rica a refoulé la porte-voix des Palestiniens à l’ONU à son arrivée dans le pays, au motif de liens présumés avec le terrorisme."
+        },
+        {
+          "title": "Le Costa Rica refoule la rapporteuse de l'ONU pour les Palestiniens, Francesca Albanese",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-costa-rica-refoule-la-rapporteure-de-l-onu-pour-les-palestiniens-francesca-albanese_8302353.html",
+          "source": "franceinfo - Les Titres",
+          "published_at": "2026-11-27T06:46:32.000Z",
+          "description": "\"Tu connais le vrai visage de l'empire le jour où tu lui tapes sur les nerfs ou que tu franchis ses limites\", a réagi Francesca Albanese."
+        },
+        {
+          "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+          "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-27T14:17:25.000Z",
+          "description": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza."
+        }
+      ],
+      "videos": [
+        {
+          "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica | AJ Shorts",
+          "url": "https://www.youtube.com/shorts/vdu5nWP_L4g",
+          "video_id": "vdu5nWP_L4g",
+          "channel": "Al Jazeera English",
+          "published_at": "2026-11-27T20:05:52.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/vdu5nWP_L4g/hqdefault.jpg"
+        }
+      ],
+      "summary": "Costa Rica denied entry to Francesca Albanese, the UN special rapporteur on the occupied Palestinian territories, citing alleged terrorism links. Albanese denies the allegation, and a court barred her forced removal."
+    },
+    {
+      "id": "topic_77b3f24623833cd0",
+      "title": "Canada’s top court upholds most of Quebec’s religious symbols ban",
+      "headline": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "label": [
+        "upholds",
+        "quebec",
+        "symbols",
+        "canada",
+        "religious",
+        "court"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_f7db6d0babc7b918",
+      "entities": [
+        "Canada",
+        "Quebec",
+        "Supreme Court",
+        "AP News",
+        "Canadian Supreme Court"
+      ],
+      "article_count": 14,
+      "source_count": 14,
+      "articles": [
+        {
+          "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+          "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "published_at": "2026-11-27T15:15:36.000Z",
+          "description": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place."
+        },
+        {
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+          "source": "BBC News",
+          "published_at": "2026-11-27T14:55:15.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+          "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights."
+        },
+        {
+          "title": "Canada's top court upholds Quebec religious symbols ban",
+          "url": "https://www.perthnow.com.au/news/crime/canadas-top-court-upholds-quebec-religious-symbols-ban-c-23224202",
+          "source": "PerthNow",
+          "published_at": "2026-11-27T18:13:22.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23224202/014c127e082bee85e5b22182e732f4a500f81ef5-16x9-x0y0w1280h720.jpg",
+          "description": "An upheld ban on religious clothing for Quebec public servants unfairly targets Muslim women and has seen many teachers lose their jobs, critics say."
+        },
+        {
+          "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
+          "source": "News - South China Morning Post",
+          "published_at": "2026-11-27T20:25:58.000Z",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/2cc34e23-8a20-44a3-8efa-85d74204a0c6_14f99a15.jpg?itok=8I1Ba1xS&v=1795811155",
+          "description": "Canada’s Supreme Court on Friday upheld Quebec’s ban on religious symbols for public servants, prompting rights groups to warn the ruling unfairly targets Muslim women and weakens legal protections for fundamental rights. The decision is a political win for Quebec’s sovereigntist government and cou…"
+        },
+        {
+          "title": "Canada's top court upholds Quebec's religious symbols ban for public sector workers",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms",
+          "source": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+          "published_at": "2026-11-27T19:01:54.000Z",
+          "description": "In a significant ruling, Canada's Supreme Court has upheld most aspects of Quebec's Bill 21, enforcing a ban on public employees wearing religious symbols. This decision reaffirms the provincial government's stance on secularism despite ongoing lawsuits. However, the court identified certain provis…"
+        }
+      ],
+      "summary": "Canada’s Supreme Court upheld most of Quebec’s law barring public employees, including teachers and police, from wearing religious symbols at work. Critics say the ban disproportionately affects Muslim women and other religious minorities."
+    },
+    {
+      "id": "topic_3a645de5a6c51f7f",
+      "title": "Black Friday guides highlight discounts on electronics and other products",
+      "headline": "22 Best Black Friday Deals Under $100 (2026)",
+      "label": [
+        "deals",
+        "best",
+        "black",
+        "friday",
+        "gaming",
+        "found"
+      ],
+      "category": "trending",
+      "section": "business",
+      "theme": "theme_66ac44000d06a63e",
+      "entities": [
+        "Best Black Friday Deals",
+        "Best Black Friday Gaming",
+        "Deals",
+        "Best Black Friday Tech",
+        "Black Friday"
+      ],
+      "article_count": 100,
+      "source_count": 31,
+      "articles": [
+        {
+          "title": "22 Best Black Friday Deals Under $100 (2026)",
+          "url": "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026",
+          "source": "Feed: All Latest",
+          "published_at": "2026-11-27T09:40:33.000Z",
+          "description": "Here are the best Black Friday discounts we’ve found so far on WIRED-tested gear."
+        },
+        {
+          "title": "10 Best Black Friday Gaming Deals",
+          "url": "https://www.polygon.com/best-black-friday-2026-gaming-deals",
+          "source": "Polygon.com",
+          "published_at": "2026-11-27T12:18:56.000Z",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/05/switch-2.jpg",
+          "description": "The best Black Friday 2026 deals on games, consoles, and accessories for Nintendo Switch 2, PS5, Xbox Series X, and PC"
+        },
+        {
+          "title": "Here are the best Black Friday iPad deals",
+          "url": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals",
+          "source": "9to5Mac",
+          "published_at": "2026-11-27T18:03:10.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ipad-mini-hero2-edited-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+          "description": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off, an equally wild $400 off M5 MacBook Air, and now even lower prices on the new M6 MacBook Pro at $250 off, but there are some solid iPad discounts live today too. While perhaps not as eventful…"
+        },
+        {
+          "title": "Best Black Friday Apple Watch deals start at $179 with up to $250 off",
+          "url": "https://appleinsider.com/articles/26/11/27/best-black-friday-apple-watch-deals-start-at-179-with-up-to-250-off",
+          "source": "AppleInsider News",
+          "published_at": "2026-11-27T21:51:35.000Z",
+          "image": "https://media.appleinsider.com/gallery/70042-147633-Apple-Watch-Series-12-watch-face-sideways-laying-xl.jpg",
+          "description": "Black Friday Apple Watch deals bring the Apple Watch SE 3 down to $179, the Series 12 to $299, and the previous-generation Ultra 3 to $549, with savings of up to $250. Apple Watch Series 12 Amazon has discounted Apple's current smartwatch lineup for Black Friday, including several titanium and cera…"
+        },
+        {
+          "title": "The best Black Friday deals Ars could find",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find",
+          "source": "Ars Technica",
+          "published_at": "2026-11-27T17:05:37.000Z",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
+          "description": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "The BEST Black Friday Tech Deals of 2026 | Phones, Watches, & More!",
+          "url": "https://www.youtube.com/watch?v=Pw-BOHBcB84",
+          "video_id": "Pw-BOHBcB84",
+          "channel": "Android Authority",
+          "published_at": "2026-11-27T12:00:05.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/Pw-BOHBcB84/hqdefault.jpg"
+        }
+      ],
+      "summary": "Shopping guides round up Black Friday deals on items including computers, tablets, watches, games and other consumer products."
+    },
+    {
+      "id": "topic_f5d53f38f60eb86e",
+      "title": "Fashion brands shift about $250 million in orders from Bangladesh",
+      "headline": "Exclusive-Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
+      "label": [
+        "bangladesh",
+        "shift",
+        "unrest",
+        "orders",
+        "zara",
+        "brands"
+      ],
+      "category": "new",
+      "section": "business",
+      "theme": "theme_dc387d78659a0216",
+      "entities": [
+        "Global",
+        "Bangladesh",
+        "India",
+        "Global Brands Shift",
+        "Million"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Exclusive-Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
+          "url": "https://www.investing.com/news/economic-indicators/exclusiveglobal-brands-shift-hundreds-of-millions-in-orders-from-bangladesh-to-india-amid-unrest-5053134",
+          "source": "All News",
+          "published_at": "2026-11-27T07:48:35.000Z"
+        },
+        {
+          "title": "Global Brands Shift $250 Million in Orders From Bangladesh Amid Unrest",
+          "url": "https://www.businessoffashion.com/news/global-markets/global-brands-shift-250-million-in-orders-from-bangladesh-amid-unrest",
+          "source": "The Business of Fashion",
+          "published_at": "2026-11-27T10:12:10.000Z",
+          "description": "Retailers including Zara and H&M shifted nearly a tenth of their monthly orders from Bangladesh to other Asian hubs, as protests disrupted production and rising costs eroded the country’s competitive edge."
+        },
+        {
+          "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+          "url": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-27T19:27:54.000Z",
+          "description": "Between November 1 and 18, brands diverted about $254 million worth ⁠of orders from Bangladesh, with most moving to neighbouring India, the owners said"
+        },
+        {
+          "title": "Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests",
+          "url": "https://www.thehindubusinessline.com/news/global-brands-shift-hundreds-of-millions-in-orders-from-bangladesh-to-india-amid-worker-protests/article71750093.ece",
+          "source": "Business News Today: Latest Business News, Finance News",
+          "published_at": "2026-11-27T09:37:22.000Z",
+          "description": "Zara, H&M, M&S, Celio shift Bangladesh orders, mostly to India, as rising wages, energy shortages erode Bangladesh’s cost edge"
+        },
+        {
+          "title": "Zara, H&M shift garment orders from Bangladesh to India amid unrest - report",
+          "url": "https://seekingalpha.com/news/4676976-zara-hm-shift-garment-orders-from-bangladesh-to-india-amid-unrest---report",
+          "source": "Breaking News on Seeking Alpha",
+          "published_at": "2026-11-27T10:27:23.000Z"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Zara, H&M Shift Orders To India: Is Bangladesh's Loss India's Garment Industry Gain?",
+          "url": "https://www.youtube.com/shorts/rIlPYS4LBfE",
+          "video_id": "rIlPYS4LBfE",
+          "channel": "Business Today",
+          "published_at": "2026-11-27T12:56:11.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/rIlPYS4LBfE/hqdefault.jpg"
+        }
+      ],
+      "summary": "Global fashion brands shifted roughly $250 million in orders from Bangladesh amid unrest and production disruptions, with most of the orders moving to India. Reports also cited rising costs and energy shortages in Bangladesh."
+    },
+    {
+      "id": "topic_d5e65a755e018ca6",
+      "title": "SAP investigates security incident involving reported GitHub activity",
+      "headline": "SAP Confirms Security Incident as Hackers Reportedly Steal GitHub Tokens and Alter Code",
+      "label": [
+        "sap",
+        "github",
+        "confirms",
+        "incident",
+        "source",
+        "code"
+      ],
+      "category": "new",
+      "section": "technology",
+      "theme": "theme_bcc32bda02ac5f77",
+      "entities": [
+        "SAP Confirms Security Incident",
+        "Hackers Reportedly Steal GitHub",
+        "Tokens",
+        "Alter Code",
+        "SAP"
+      ],
+      "article_count": 8,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "SAP Confirms Security Incident as Hackers Reportedly Steal GitHub Tokens and Alter Code",
+          "url": "https://cybersecuritynews.com/sap-security-incident",
+          "source": "Cyber Security News",
+          "published_at": "2026-11-27T03:39:12.000Z",
+          "description": "SAP has confirmed an IT security incident after detecting suspicious activity. DER SPIEGEL reported that attackers stole authentication tokens belonging to SAP employees and used them to alter and copy source code on GitHub. The German software maker said it took immediate steps to protect customer…"
+        },
+        {
+          "title": "SAP confirms security incident after reported GitHub breach",
+          "url": "https://thenextweb.com/news/sap-security-incident-github-breach",
+          "source": "The Next Web",
+          "published_at": "2026-11-27T12:41:59.000Z",
+          "image": "https://media.thenextweb.com/2026/11/sap-headquarters-walldorf.avif",
+          "description": "SAP has confirmed a security incident after it spotted suspicious activity in its systems. In a statement issued on Thursday evening, the German software company said that, so far, it has found no sign that anyone got into customer business data. Der Spiegel first reported the incident on Thursday,…"
+        },
+        {
+          "title": "SAP confirms security incident after suspicious GitHub activity",
+          "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity",
+          "source": "BleepingComputer",
+          "published_at": "2026-11-27T09:56:36.000Z",
+          "description": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]"
+        },
+        {
+          "title": "SAP Security Incident: Stolen GitHub Tokens and Source Code Risk",
+          "url": "https://malware.news/t/sap-security-incident-stolen-github-tokens-and-source-code-risk/127695",
+          "source": "Malware Analysis, News and Indicators - Latest topics",
+          "published_at": "2026-11-27T10:30:39.000Z",
+          "image": "https://socradar.io/wp-content/uploads/2026/11/socradar-supply-chain-intelligence-2.jpg.webp",
+          "description": "SAP has confirmed that it identified suspicious activity and took immediate measures, after media reports on November 26 said attackers had stolen authentication tokens belonging to SAP employees and used them to access and alter source code on GitHub. The company says its investigation has so far…"
+        },
+        {
+          "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+          "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised",
+          "source": "SecurityWeek",
+          "published_at": "2026-11-27T07:36:14.000Z",
+          "description": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek."
+        }
+      ],
+      "summary": "SAP confirmed suspicious activity in its IT environment and said it took measures to protect customers. Media reports said attackers used stolen employee authentication tokens to access or alter code on GitHub."
+    },
+    {
+      "id": "topic_a242f23fc9d0629d",
+      "title": "Mike Tomlin calls Steelers situation a “dumpster fire”",
+      "headline": "Mike Tomlin calls Steelers a ‘dumpster fire’ after Aaron Rodgers release",
+      "label": [
+        "dumpster",
+        "tomlin",
+        "mike",
+        "fire",
+        "steelers",
+        "rodgers"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_6b45c0e9310fd9d9",
+      "entities": [
+        "Mike Tomlin",
+        "Steelers",
+        "Aaron Rodgers",
+        "Mike Tomlin Calls Rodgers",
+        "McCarthy Feud"
+      ],
+      "article_count": 14,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Mike Tomlin calls Steelers a ‘dumpster fire’ after Aaron Rodgers release",
+          "url": "https://sports.yahoo.com/nfl/articles/mike-tomlin-calls-steelers-dumpster-032830206.html",
+          "published_at": "2026-11-27T03:28:30.000Z",
+          "description": "The former Steelers head coach gave his honest through on the Aaron Rodgers situation."
+        },
+        {
+          "title": "Steelers’ Mike Tomlin Calls Rodgers-McCarthy Feud a Dumpster Fire",
+          "url": "https://internewscast.com/news/steelers-mike-tomlin-calls-rodgers-mccarthy-feud-a-dumpster-fire",
+          "source": "Internewscast",
+          "published_at": "2026-11-27T04:34:05.000Z",
+          "description": "Internewscast Internewscast Legendary Pittsburgh Steelers coach Mike Tomlin has described the bitter dispute between… This Post: Steelers’ Mike Tomlin Calls Rodgers-McCarthy Feud a Dumpster Fire first appeared on Internewscast"
+        },
+        {
+          "title": "Mike Tomlin calls Steelers situation following Aaron Rodgers vs. Mike McCarthy feud 'a dumpster fire'",
+          "url": "https://www.foxnews.com/outkick-sports/mike-tomlin-calls-steelers-situation-following-aaron-rodgers-vs-mike-mccarthy-feud-dumpster-fire",
+          "source": "Latest & Breaking News on Fox News",
+          "published_at": "2026-11-27T04:02:03.000Z",
+          "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mike-tomlin-nbc-broadcast-analyst-broncos-fox-news_.jpg?ve=1&tl=1",
+          "description": "Mike Tomlin calls the Steelers situation following the Aaron Rodgers vs. Mike McCarthy feud a \"dumpster fire\" and admits he's sad and upset."
+        },
+        {
+          "title": "Former Steelers coach Mike Tomlin on Aaron Rodgers-Mike McCarthy saga: 'It's a dumpster fire'",
+          "url": "https://www.cbssports.com/nfl/news/former-steelers-coach-mike-tomlin-aaron-rodgers-mike-mccarthy-saga-dumpster-fire",
+          "source": "CBS Sports Headlines",
+          "published_at": "2026-11-27T03:37:34.000Z",
+          "image": "https://sportshub.cbsistatic.com/i/2026/11/26/50d7ee38-0532-47db-8259-3e6919d395b0/rodgers.jpg",
+          "description": "Tomlin revealed his thoughts on the entire Rodgers-McCarthy mess on Thursday night"
+        },
+        {
+          "title": "Mike Tomlin calls Steelers ‘dumpster fire’ as Brady rips Rodgers for breaking locker room sanctity",
+          "url": "https://www.theguardian.com/sport/2026/nov/27/mike-tomlin-aaron-rodgers-tom-brady-steelers",
+          "source": "The Guardian",
+          "published_at": "2026-11-27T11:45:10.000Z",
+          "image": "https://i.guim.co.uk/img/media/3a8dfa8806964ea57c39c87c4f8fda75884f0179/707_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=e8c35061467ed31e9bd0353db0f127e1",
+          "description": "Ex-coach says QB was ‘beloved’ by teammates Rodgers released after diatribe about McCarthy Mike Tomlin, who coached Aaron Rodgers and the Steelers last year, and Tom Brady, one of Rodgers’s longtime peers as an elite quarterback, ⁠weighed in Thursday on Rodgers’s dramatic exit from Pittsburgh this…"
+        }
+      ],
+      "summary": "Former Steelers coach Mike Tomlin described the situation surrounding Aaron Rodgers and Mike McCarthy as a “dumpster fire.” Reports also said Tomlin was upset about Rodgers’ release and the ensuing dispute."
+    },
+    {
+      "id": "topic_8f75b0b31dbd8caa",
+      "title": "Trump says Putin can attend G20 summit if he wants",
+      "headline": "Trump Says Putin Can Come to G20 if He Wants",
+      "label": [
+        "g20",
+        "come",
+        "putin",
+        "trump",
+        "wants",
+        "like"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_1be1ed47370a04dd",
+      "entities": [
+        "Trump Says Putin Can",
+        "Come",
+        "G20",
+        "He Wants",
+        "Trump"
+      ],
+      "article_count": 7,
+      "source_count": 7,
+      "articles": [
+        {
+          "title": "Trump Says Putin Can Come to G20 if He Wants",
+          "url": "https://politicalwire.com/2026/11/27/trump-says-putin-can-come-to-g20-if-he-wants",
+          "source": "Political Wire",
+          "published_at": "2026-11-27T11:33:58.000Z",
+          "description": "“President Trump told reporters on Thursday he did not know if Russian President Vladimir Putin would attend next month’s G20 meeting in Florida, but if it were up to him and he wanted to come, he could,” the New York Post reports. Said Trump: “If he wanted to come, he certainly can. If it were […]"
+        },
+        {
+          "title": "Trump says Putin can come to G20 if he wants: ‘I’d like to have him’",
+          "url": "https://nypost.com/2026/11/27/us-news/trump-says-putin-can-come-to-g20-if-he-wants-id-like-to-have-him",
+          "source": "US News – Latest Breaking Headlines, Photos & Videos | New York Post",
+          "published_at": "2026-11-27T05:58:36.000Z",
+          "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpool-photograph-distributed-russian-state-149411024_97bc48.jpg?w%3D1024",
+          "description": "\"If he wanted to come, ⁠he certainly can,\" Trump said."
+        },
+        {
+          "title": "Watch: Donald Trump says Putin can come to G20 if he wants",
+          "url": "https://www.thehindu.com/videos/shorts/watch-donald-trump-says-putin-can-come-to-g20-if-he-wants/article71752093.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-27T17:38:03.000Z"
+        },
+        {
+          "title": "Trump says Putin can come to G20 if he wants (Reuters)",
+          "url": "https://www.memeorandum.com/261126/p50",
+          "source": "memeorandum",
+          "published_at": "2026-11-27T02:55:00.000Z",
+          "description": "Reuters: Trump says Putin can come to G20 if he wants — US President Donald Trump told reporters on Thursday he did not know if Russian President Vladimir Putin would attend next month's G20 meeting in Florida, but if it were up to him and he wanted to come, he could."
+        },
+        {
+          "title": "\"I'd Like To Have Him\": Trump Says Putin Can Come To G20 Summit In Miami",
+          "url": "https://www.ndtv.com/world-news/id-like-to-have-him-trump-invites-putin-to-attend-g20-in-miami-12382786",
+          "source": "NDTV News Search Records Found 1000",
+          "published_at": "2026-11-27T01:50:04.000Z",
+          "description": "The Kremlin said on Thursday that no decision had been made yet on Putin's participation in the summit."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Donald Trump: Putin Welcome At Miami G20 If He Wants | WION News",
+          "url": "https://www.youtube.com/watch?v=9qe33sb9GAQ",
+          "video_id": "9qe33sb9GAQ",
+          "channel": "WION",
+          "published_at": "2026-11-27T10:32:20.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/9qe33sb9GAQ/hqdefault.jpg"
+        },
+        {
+          "title": "Donald Trump Says Putin Can Attend The G20 Summit In Florida If He Wants",
+          "url": "https://www.youtube.com/shorts/sfkGRreOtd4",
+          "video_id": "sfkGRreOtd4",
+          "channel": "NDTV",
+          "published_at": "2026-11-27T08:30:16.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/sfkGRreOtd4/hqdefault.jpg"
+        },
+        {
+          "title": "Trump says Putin can attend G20 if he wants",
+          "url": "https://www.youtube.com/shorts/r9mgbYhBy8Q",
+          "video_id": "r9mgbYhBy8Q",
+          "channel": "Reuters",
+          "published_at": "2026-11-27T02:52:48.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/r9mgbYhBy8Q/hqdefault.jpg"
+        }
+      ],
+      "summary": "Donald Trump said Russian President Vladimir Putin could attend next month’s G20 meeting in Florida if he wanted to. The Kremlin said no decision had been made about Putin’s participation."
+    },
+    {
+      "id": "topic_ecb0fae39fcf110",
+      "title": "Erin Patterson seeks High Court appeal over murder convictions",
+      "headline": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+      "label": [
+        "erin",
+        "patterson",
+        "mushroom",
+        "last",
+        "appeal",
+        "launches"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_ff710c8c1a2833b5",
+      "entities": [
+        "Mushroom",
+        "Erin Patterson",
+        "High Court"
+      ],
+      "article_count": 11,
+      "source_count": 8,
+      "articles": [
+        {
+          "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+          "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o",
+          "source": "BBC News",
+          "published_at": "2026-11-27T05:54:38.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg",
+          "description": "Erin Patterson is serving life in prison for poisoning his relatives with a toxic mushroom lunch in 2023."
+        },
+        {
+          "title": "Erin Patterson to launch High Court appeal in last-ditch bid for freedom",
+          "url": "https://www.smh.com.au/national/victoria/erin-patterson-to-launch-high-court-appeal-in-last-ditch-bid-for-freedom-20261127-p61hua.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-27T01:06:51.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.7204%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d2d45b6116caabdce2f7a3da42e353aa3558bb00",
+          "description": "Lawyers for the mushroom cook killer will file paperwork for an appeal before the High Court after Patterson was last year convicted of murdering three family members and attempting to kill a fourth."
+        },
+        {
+          "title": "Mushroom murderer Erin Patterson launches last-ditch bid for freedom",
+          "url": "https://www.brisbanetimes.com.au/national/mushroom-murderer-erin-patterson-launches-last-ditch-bid-for-freedom-20261127-p61hz4.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-27T05:28:02.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/23ecfce87fc7023a27da6c54d16bb7c911ce0aff",
+          "description": "Erin Patterson is appealing to the High Court in a final bid for freedom. If it fails, she will die behind bars."
+        },
+        {
+          "title": "Erin Patterson launches last-minute High Court appeal for freedom",
+          "url": "https://internewscast.com/news/erin-patterson-launches-last-minute-high-court-appeal-for-freedom",
+          "source": "Internewscast",
+          "published_at": "2026-11-27T12:04:36.000Z",
+          "description": "Internewscast Internewscast Mushroom murderer Erin Patterson waited until the final hours to lodge a… This Post: Erin Patterson launches last-minute High Court appeal for freedom first appeared on Internewscast"
+        },
+        {
+          "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-27T05:31:38.000Z",
+          "image": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
+          "description": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email, free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a failed bid last month…"
+        }
+      ],
+      "summary": "Erin Patterson, who is serving a life sentence for poisoning relatives in a 2023 meal, is seeking leave to appeal her convictions to Australia’s High Court."
+    },
+    {
+      "id": "topic_e90298e11c8baa5",
+      "title": "Nottingham Forest beats Chelsea 3-2 in Premier League",
+      "headline": "How to watch Nottingham Forest vs Chelsea",
+      "label": [
+        "nottingham",
+        "forest",
+        "chelsea",
+        "vs",
+        "xabi",
+        "alonso"
+      ],
+      "category": "new",
+      "section": "sports",
+      "theme": "theme_70756794753684b9",
+      "entities": [
+        "Nottingham Forest",
+        "Chelsea",
+        "Premier League",
+        "Confirmed",
+        "Predicted"
+      ],
+      "article_count": 13,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "How to watch Nottingham Forest vs Chelsea",
+          "url": "https://news.sky.com/story/nottingham-forest-vs-chelsea-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction-13613312",
+          "source": "Sports News - Latest Sports and Football News | Sky News",
+          "published_at": "2026-11-27T06:00:00.000Z",
+          "description": "Nottingham Forest host Chelsea at the City Ground in a Friday Night Football Premier League clash on November 27, live on Sky Sports."
+        },
+        {
+          "title": "Nottingham Forest vs. Chelsea, Premier League: Confirmed lineups; how to watch",
+          "url": "https://sports.yahoo.com/soccer/articles/nottingham-forest-vs-chelsea-premier-185303787.html",
+          "published_at": "2026-11-27T18:53:03.000Z",
+          "description": "For the trees"
+        },
+        {
+          "title": "Premier League: Supercomputer predicts Nottingham Forest vs Chelsea",
+          "url": "https://www.legit.ng/sports/football/1743597-supercomputer-predicts-bad-news-chelsea-nottingham-forest-tie",
+          "source": "Legit.ng",
+          "published_at": "2026-11-27T11:19:38.000Z",
+          "description": "Chelsea face Nottingham Forest in the Premier League after a 4-1 defeat, with Liam Delap targeting his former club and Forest slight favourites in the prediction."
+        },
+        {
+          "title": "Nottingham Forest v Chelsea: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-11-27T18:58:34.000Z",
+          "image": "https://i.guim.co.uk/img/media/a0c696d2eb98c25ab71c181789f59e31dccc88be/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=36e83e05f67c1c70bc552f481e4ecd83",
+          "description": "⚽ Updates on the Friday night kick-off at the City Ground ⚽ Fixtures | Tables | Sign up for Football Daily | Mail David Chelsea make three changes to their starting team, in the wake of that 1-4 home skelping by Leeds. Jordan Henderson, Danny Welbeck and Pedro Neto are in; Levi Colwill, Emmanuel Em…"
+        },
+        {
+          "title": "EPL: Why Chelsea lost 3-2 to Nottingham Forest - Xabi Alonso",
+          "url": "https://dailypost.ng/2026/11/27/epl-why-chelsea-lost-3-2-to-nottingham-forest-xabi-alonso",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-11-27T22:44:59.000Z",
+          "description": "Chelsea manager, Xabi Alonso, has blamed his team's porous defence for their 3-2 defeat at Nottingham Forest on Friday night. The Blues have now lost three consecutive matches in the Premier League. Alonso's men have also conceded 23 times so far, only behind Crystal Palace, 27. Alonso, speaking to…"
+        }
+      ],
+      "summary": "Nottingham Forest defeated Chelsea 3-2 in a Premier League match at the City Ground. Chelsea manager Xabi Alonso blamed his team’s defending for the loss, their third consecutive league defeat."
+    },
+    {
+      "id": "topic_2eec99b799b41ac2",
+      "title": "Former RAAF pilot Robert Crawford found guilty of murdering wife",
+      "headline": "Former RAAF pilot Robert Crawford found guilty of murdering wife, staging lawnmower accident",
+      "label": [
+        "pilot",
+        "raaf",
+        "wife",
+        "lawnmower",
+        "murdering",
+        "guilty"
+      ],
+      "category": "new",
+      "section": "world",
+      "theme": "theme_148fd0ff55aabe42",
+      "entities": [
+        "Former RAAF",
+        "Robert Crawford",
+        "RAAF",
+        "Former",
+        "Dad"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Former RAAF pilot Robert Crawford found guilty of murdering wife, staging lawnmower accident",
+          "url": "https://www.perthnow.com.au/news/crime/former-raaf-pilot-robert-crawford-found-guilty-of-murdering-wife-staging-lawnmower-accident-c-23221790",
+          "source": "PerthNow",
+          "published_at": "2026-11-27T04:21:30.000Z",
+          "image": "https://images.perthnow.com.au/publication/C-23221790/06aca904d48969d104dda83d183ea88994843cb9-16x9-x0y556w1442h811.jpg",
+          "description": "A jury has returned their verdict in the murder trial of a former RAAF pilot accused of killing his wife and staging her death as a lawnmower accident."
+        },
+        {
+          "title": "RAAF pilot Robert Crawford found guilty of killing wife",
+          "url": "https://www.brisbanetimes.com.au/national/queensland/raaf-pilot-robert-crawford-found-guilty-of-killing-wife-20261127-p61f5h.html",
+          "source": "Brisbane Times - Latest News",
+          "published_at": "2026-11-27T04:03:28.000Z",
+          "image": "https://static.ffx.io/images/$zoom_0.22240169129638032%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_149%2C$y_80/t_crop_custom/q_86%2Cf_auto/cd75e05950ff464d73f24c21f582064fff850578",
+          "description": "Robert Crawford was accused of killing his wife Frances and staging her death to look like a mower rollover."
+        },
+        {
+          "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+          "source": "World news | The Guardian",
+          "published_at": "2026-11-27T04:56:32.000Z",
+          "image": "https://i.guim.co.uk/img/media/bb04e375911b11f5697e4c07ff421d79a221ae72/383_0_3422_2739/master/3422.jpg?width=140&quality=85&auto=format&fit=max&s=3e4c84291e7ca1a19fad7c94d87ca04e",
+          "description": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement Former air force pilot Robert John Crawford has been found guilty of the murder of his wife after a jury accepted her death was staged as a fatal lawnmower accident. Gasp…"
+        },
+        {
+          "title": "Former pilot found guilty of murdering wife in lawnmower trial",
+          "url": "https://www.smh.com.au/national/former-pilot-found-guilty-of-murdering-wife-in-lawnmower-trial-20261127-p61hz3.html",
+          "source": "Sydney Morning Herald - Latest News",
+          "published_at": "2026-11-27T05:27:13.000Z",
+          "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/0f2393095a505e92d78157a7f22eca2e060d0377",
+          "description": "Robert John Crawford, the former RAAF pilot accused of killing his wife and staging her death as a lawnmower accident, has been found guilty of murder."
+        },
+        {
+          "title": "Dad who staged wife’s death as lawnmower accident after strangling her guilty of murder as daughter blasts ‘weak bully’",
+          "url": "https://www.thesun.co.uk/news/41167461/dad-guilty-lawnmower-murder-wife",
+          "source": "World News - Latest International & World News Today | The Sun",
+          "published_at": "2026-11-27T09:41:04.000Z",
+          "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F11%2Fnewspress-collage-zm666yz7p-1795770048254.jpg?quality%3D90%26strip%3Dall%261795770082%261795770082",
+          "description": "A DAD who strangled his wife to death and staged the tragedy as a lawnmower accident has been sentenced as his devastated daughter blasts her father as a \"weak, pathetic bully\". Robert Crawford, a former RAAF pilot, will spend life behind bars for the brutal murder of his wife Frances - as his thre…"
+        }
+      ],
+      "summary": "A jury found former Royal Australian Air Force pilot Robert Crawford guilty of murdering his wife, Frances, and staging her death to look like a lawnmower accident."
+    },
+    {
+      "id": "topic_316f22f508c26a14",
+      "title": "India Cabinet approves proposal to increase Lok Sabha seats by 50%",
+      "headline": "Cabinet approves delimitation bill with 50% seat increase in Lok Sabha seats",
+      "label": [
+        "seats",
+        "sabha",
+        "lok",
+        "increase",
+        "cabinet",
+        "freeze"
+      ],
+      "category": "new",
+      "section": "politics",
+      "theme": "theme_1b2feb4897ccd930",
+      "entities": [
+        "Cabinet",
+        "Lok Sabha",
+        "Centre",
+        "States",
+        "Union Cabinet"
+      ],
+      "article_count": 10,
+      "source_count": 6,
+      "articles": [
+        {
+          "title": "Cabinet approves delimitation bill with 50% seat increase in Lok Sabha seats",
+          "url": "https://www.indiatoday.in/india/story/50-seats-to-be-increased-to-remain-frozen-until-2051-cabinet-clears-delimitation-bill-amendments-3048224-2026-11-27",
+          "source": "India Today | Latest Stories",
+          "published_at": "2026-11-27T09:03:44.000Z",
+          "description": "Cabinet approves delimitation bill with seat increase in Lok Sabha seats"
+        },
+        {
+          "title": "Cabinet clears bills to raise Lok Sabha seats by 50%, freeze delimitation till 2051",
+          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-bills-to-raise-50-lok-sabha-seats-across-states-freeze-delimitation-till-2051/articleshow/136232892.cms",
+          "source": "Times of India",
+          "published_at": "2026-11-27T20:12:25.000Z",
+          "description": "The Union Cabinet has given the green light to a new bill aimed at expanding the Lok Sabha from 550 to 850 seats. This legislation introduces a significant milestone—a one-third reservation for women in both the Lok Sabha and state assemblies, set to commence in 2029. Additionally, it proposes a un…"
+        },
+        {
+          "title": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+          "url": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+          "source": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+          "published_at": "2026-11-27T20:13:09.000Z",
+          "description": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lok Sabha"
+        },
+        {
+          "title": "Union Cabinet approves 50% increase in Lok Sabha seats to balance regional representation",
+          "url": "https://english.pravda.ru/news/world/174684-union-cabinet-approves-lok-sabha-seat-increase",
+          "source": "PravdaReport",
+          "published_at": "2026-11-27T13:06:00.000Z",
+          "image": "https://english.pravda.ru/image/preview/article/6/8/4/174684_amp.jpeg",
+          "description": "The Union Cabinet, led by Prime Minister Narendra Modi, has approved a proposal to increase the total number of seats in the Lok Sabha by 50% across all states. According to sources, this revised ceiling is intended to remain in effect until 2051. This administrative shift comes as the government p…"
+        },
+        {
+          "title": "Delimitation Bill: 50% increase in Lok Sabha seats for women; Why did this move take so long to pass?",
+          "url": "https://www.dnaindia.com/india/report-delimitation-bill-50-increase-in-lok-sabha-seats-for-women-why-did-this-move-take-so-long-to-pass-3224712",
+          "source": "India News",
+          "published_at": "2026-11-27T09:59:00.000Z",
+          "description": "As per the proposed changes, the freeze on seat allocation between states will stay in place until 2051, easing fears that delimitation based on population could disturb the political balance among states."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Delimitation Bill: Cabinet Clears 50% Increase In Lok Sabha Seats, Sources Say | Top News | ET Now",
+          "url": "https://www.youtube.com/shorts/YpyhdNRd7NQ",
+          "video_id": "YpyhdNRd7NQ",
+          "channel": "ET Now",
+          "published_at": "2026-11-27T10:55:01.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/YpyhdNRd7NQ/hqdefault.jpg"
+        },
+        {
+          "title": "Cabinet Clears Key Delimitation Amendments, Approves 50% Seat Increase | Delimitation Bill LIVE",
+          "url": "https://www.youtube.com/watch?v=h2XPNBY7b2o",
+          "video_id": "h2XPNBY7b2o",
+          "channel": "NDTV",
+          "published_at": "2026-11-27T10:21:00.000Z",
+          "thumbnail": "https://i.ytimg.com/vi/h2XPNBY7b2o/hqdefault.jpg"
+        }
+      ],
+      "summary": "India’s Union Cabinet approved bills proposing a 50% increase in Lok Sabha seats and a freeze on the distribution of seats among states until 2051. The proposals also include a one-third reservation for women."
+    },
+    {
+      "id": "topic_7378fdbf8e27f9ed",
+      "title": "NBC cuts Goo Goo Dolls’ Thanksgiving halftime show coverage",
+      "headline": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
+      "label": [
+        "goo",
+        "halftime",
+        "dolls",
+        "show",
+        "nbc",
+        "snub"
+      ],
+      "category": "new",
+      "section": "culture",
+      "theme": "theme_42371fd10a83313e",
+      "entities": [
+        "Watch Goo Goo Dolls",
+        "Complete NFL Halftime Show",
+        "NBC Snubs Goo Goo",
+        "Dolls",
+        "Thanksgiving Day Halftime Show"
+      ],
+      "article_count": 8,
+      "source_count": 5,
+      "articles": [
+        {
+          "title": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
+          "url": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349",
+          "source": "Rolling Stone",
+          "published_at": "2026-11-27T19:58:36.000Z",
+          "description": "The band performed \"Iris,\" \"Broadway,\" and \"Slide\" during the Kansas City Chiefs vs. Buffalo Bills game as the broadcast was cut by NBC"
+        },
+        {
+          "title": "NBC Snubs Goo Goo Dolls’ Thanksgiving Day Halftime Show",
+          "url": "https://consequence.net/2026/11/goo-goo-dolls-thanksgiving-day-halftime-show-doesnt-air",
+          "source": "Consequence",
+          "published_at": "2026-11-27T03:21:05.000Z",
+          "image": "https://consequence.net/wp-content/uploads/2026/11/Goo-Goo-Dolls.jpeg?quality=80",
+          "description": "The network instead aired a segment featuring former Pittsburgh Steelers head coach Mike Tomlin discussing the team's decision to release quarterback Aaron Rodgers. NBC Snubs Goo Goo Dolls’ Thanksgiving Day Halftime Show Alex Young"
+        },
+        {
+          "title": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: ‘Badly Handled’",
+          "url": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401",
+          "source": "Billboard",
+          "published_at": "2026-11-27T19:59:09.000Z",
+          "description": "The network aired just 90 seconds of the band's performance in favor of Aaron Rodgers coverage."
+        },
+        {
+          "title": "The Goo Goo Dolls’ halftime show was cut by NBC, and fans were blaming the same person",
+          "url": "https://news.google.com/rss/articles/cbmingfbvv95cuxoali0amhwz0iwredaughzuzbiyvjadhvrvge0qwxmvkpvrjvyymnnngq4zzgtnwe5qjzwnhvlwfuzrdetyvhwwfzquwd6m3jawnhfetztz3qwvvnnyxlytw1cc3b4dhvnm3bfwnpgwvpgc3jfznztsvrfze1szhrqwudgwjfmmkhpzjbmslo4umrdnk9tn2fuatlfehfdzw",
+          "source": "Top stories - Google News",
+          "published_at": "2026-11-27T13:01:11.000Z",
+          "description": "The Goo Goo Dolls’ halftime show was cut by NBC, and fans were blaming the same person SB Nation NBC Facing Major Backlash for Goo Goo Dolls Halftime Show Decision During Bill-Chiefs Game Yahoo Sports Watch Goo Goo Dolls’ Complete NFL Halftime Show Rolling Stone Buffalo's own Goo Goo Dolls got bump…"
+        },
+        {
+          "title": "‘Buffalo will riot’: Fans unhappy with NBC’s Goo Goo Dolls snub during Chiefs-Bills halftime show statement",
+          "url": "https://sports.yahoo.com/general/articles/buffalo-riot-fans-unhappy-nbc-015304998.html",
+          "published_at": "2026-11-27T01:53:04.000Z",
+          "description": "One of the biggest talking points ahead of the Buffalo Bills’ game against the Kansas City Chiefs was about the Goo Goo Dolls’ halftime show. It was announced that the American rock band, who are based in Buffalo, New York, would headline the Thanksgiving halftime show at Highmark Stadium."
+        }
+      ],
+      "summary": "NBC aired only a brief portion of the Goo Goo Dolls’ halftime performance during the Kansas City Chiefs–Buffalo Bills game, drawing criticism from fans. Coverage instead included a segment about the Steelers and Aaron Rodgers."
+    }
+  ]
+}
